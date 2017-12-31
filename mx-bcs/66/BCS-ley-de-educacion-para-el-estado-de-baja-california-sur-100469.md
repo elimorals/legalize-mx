@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2016-10-31"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -41,13 +41,15 @@ LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general; y tiene por objeto regular la educación que imparten en Baja California Sur, el Estado, los Municipios, sus organismos descentralizados, así como los particulares con autorización o con reconocimiento de validez oficial de estudios.
+Las disposiciones de esta Ley son de orden público y tienen por objeto regular la educación que imparten el Estado y los municipios de Baja California sur, así como los organismos descentralizados del sector educativo y los particulares, de conformidad con lo establecido por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales signados por el Estado Mexicano, el artículo 10 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, la Ley General de Educación y las demás leyes y disposiciones federales y locales aplicables.
 
-La función social educativa de las universidades y demás instituciones de educación superior, se regulará por las leyes y reglamentos que rigen dichas instituciones.
+Esta ley se aplicará a las instituciones públicas y privadas ubicadas en el Estado de Baja California Sur, en sus diferentes tipos, niveles y modalidades.
 
-En el Sistema Educativo Estatal deberá asegurarse la participación activa de todas las personas involucradas en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, docentes, padres de familia, para alcanzar los fines a que se refiere el artículo 7 de esta Ley.
+La función social educativa de las universidades y demás instituciones de educación superior a las que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
 ###### ARTÍCULO 2.
 
@@ -67,69 +69,93 @@ Conforme al interés superior de la niñez, el Estado, los Municipios, sus organ
 
 Asimismo, la educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, deberá basarse en un enfoque de derechos humanos y de igualdad que garantice el respeto a la dignidad humana de las personas, el desarrollo armónico de sus potencialidades y de personalidad, y que fortalezca la protección, el ejercicio y el respeto a los derechos humanos y a las libertades fundamentales, en los términos del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, del Artículo 10 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y de los tratados internacionales de los que el Estado mexicano sea parte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-Todos los habitantes de Baja California Sur tienen el derecho y la obligación de cursar la educación preescolar, primaria, secundaria y media superior. Es obligación de los padres o tutores, hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria, secundaria y media superior.
+Es obligación de los padres de familia o de quienes ejerzan la patria potestad o tutela hacer que sus hijas, hijos o pupilos menores de edad, cursen la educación básica y media superior en instituciones educativas públicas o particulares.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+El sistema educativo estatal deberá asegurar la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social y privilegiando la participación de los educandos, padres de familia, y de quienes ejerzan la patria potestad o tutela y docentes, para alcanzar los fines educativos previstos en la presente Ley y en la Ley General de Educación.
 
 Atendiendo al principio rector del interés superior de la niñez, ningún interés podrá estar por encima del derecho a la educación de niñas, niños y adolescentes, que imposibilite el pleno ejercicio de este derecho o que impida su acceso y permanencia en los servicios educativos prestados por el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 5.
 
-La educación que el Estado, los Municipios y sus organismos descentralizados impartan será laica, y por lo tanto se mantendrá por completo ajena a cualquier doctrina religiosa.
+La educación que el Estado imparta será:
+
+I. Laica, y por lo tanto, se mantendrá por completo ajena a cualquier doctrina religiosa; y
+
+II. Libre de prejuicios y estereotipos de sumisión, sustentada en los principios de equidad, igualdad, libertad y no discriminación.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-La educación que imparta el Estado será gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+El servicio público educativo de carácter obligatorio que se preste en la Entidad, no estará condicionado al pago de cooperaciones, donaciones o cuotas voluntarias en numerario, bienes y servicios o cualquier otra prestación en dinero o en especie por parte de los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos.
 
-Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos.
+Queda prohibido condicionar la inscripción o el acceso a la educación pública, la aplicación de evaluaciones o exámenes, la entrega de documentos oficiales y escolares o afectar en cualquier sentido la igualdad en el trato a los alumnos, a cambio de las aportaciones referidas en el párrafo anterior.
 
-En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
+Cualquier persona física o moral podrá realizar estas aportaciones a la institución educativa por los diversos conceptos señalados en el presente artículo o por cualquier otro concepto lícito. Los recursos que se obtengan a través de estas aportaciones serán captados, aplicados y transparentados de acuerdo con los lineamientos que para tal efecto emita la Secretaría y se aplicarán para la atención de las necesidades de la propia institución, de conformidad con su proyecto educativo escolar. Las aportaciones referidas, en ningún caso se entenderán como contraprestaciones del servicio educativo.
+
+Dichos recursos, una vez ingresados a la institución educativa, adquirirán el carácter de recurso público y serán fiscalizables de acuerdo a la legislación aplicable.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-La educación que imparta el Estado, los Municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, tendrá además, de los fines establecidos en el párrafo segundo del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, y el Artículo 10 de la Constitución Política del Estado de Baja California Sur, los siguientes:
+La educación que se imparta en la entidad tendrá, además de los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación y en la Ley General de los Derechos de Niñas, Niños y Adolescentes, los siguientes:
 
-I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades y derechos humanos;
+I. Acrecentar en las personas que integran el Sistema Educativo Estatal el amor a la patria, así como la unión, la solidaridad y la igualdad;
 
-II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos;
+II. Fortalecer y consolidar la conciencia histórica, el nacionalismo y la soberanía entre las personas integrantes del Sistema Educativo Estatal como miembros responsables y activos de su comunidad, municipio, región, estado y nación;
 
-III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de Baja California Sur;
+III. Formar, desarrollar y fortalecer los valores en las personas integrantes del Sistema Educativo Estatal;
 
-IV.- Promover, mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas;
+IV. Promover el estudio y comprensión de los problemas nacionales e internacionales para valorar nuestras riquezas y tradiciones e incorporarlas a la cultura universal;
 
-V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia, que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
+V. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado de Baja California Sur.
 
-VI.- Promover el valor de la justicia, de las garantías constitucionales, de la observancia de la ley y de la igualdad de los individuos ante esta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
+VI. Alcanzar la excelencia educativa;
 
-VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
+VII. Orientar el aprovechamiento del tiempo libre, fomentando el desarrollo de actividades culturales, recreativas y deportivas;
 
-VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado de Baja California Sur.
+VIII. Desarrollar la capacidad de comunicación y el uso funcional del razonamiento lógico en la solución de problemas;
 
-IX.- Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
+IX. Fomentar la cultura de respeto y protección al ambiente, fundamentalmente en los temas de agua, aire, suelo y energía con el objeto de sentar las bases para el desarrollo sustentable, la prevención y mitigación del cambio climático, así como la adaptación al mismo;
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana; así como propiciar el rechazo a los vicios;
+X. Desarrollar en los educandos la capacidad de hacer análisis crítico, objetivo y científico de la realidad;
 
-XI.- Contribuir, mediante programas de Educación ambiental, a promover actitudes positivas que fomenten tanto la protección del ambiente como la promoción de actividades productivas en armonía con la naturaleza, buscando un equilibrio entre conservación y desarrollo, en el marco del concepto de desarrollo sustentable;
+XI. Desarrollar la capacidad creativa hacia la innovación, la investigación, la expresión y las habilidades del pensamiento;
 
-XII.- Promover y fomentar la conciencia y la asimilación de conocimientos sobre la cultura del cuidado y uso eficiente del agua, así como la prevención y conocimiento de las afectaciones del cambio climático; y
+XII. Fomentar una conciencia de respeto a los derechos humanos de la persona y de la sociedad como medio de conservar la paz y la convivencia humana; así como la difusión de los derechos humanos de las niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-XIII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar social en general.
+XIII. Desarrollar en la conciencia del educando que sobre la base de la justicia, del respeto a los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales; contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida;
 
-XIV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
+XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana; así como propiciar el rechazo a los vicios;
 
-XV.- Promover y fomentar la lectura y el libro.
+XV. Promover el desarrollo y la aplicación de las ciencias, métodos y técnicas para elevar el bienestar social mediante el trabajo productivo;
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2015)</small>
+XVI. Propiciar en el educando el conocimiento de sí mismo y la ubicación en su entorno para lograr su pleno desarrollo, de acuerdo con sus aptitudes vocacionales y su capacidad de relacionarse con los demás;
 
-XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+XVII. Impulsar que los educandos desarrollen la autoestima, la responsabilidad familiar, el respeto y la tolerancia a las diferencias, a favor de la construcción de una cultura de igualdad entre los géneros con equidad;
 
-> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2015)</small>
+XVIII. Fomentar la cultura de la legalidad y de la paz, con el objeto de concientizar a los educandos sobre los efectos e influencias nocivas que provoca la delincuencia en la sociedad;
 
-XVII.- Fomentar la educación vial de forma permanente con carácter de obligatoriedad dentro de las instituciones públicas y privadas a fin de que los educandos obtengan los conocimientos y hábitos de la prevención de accidentes viales y la protección de todos los habitantes en la vía pública ya sea conductores, pasajeros y peatones.
+XIX. Fomentar en los educandos una cultura de respeto a las normas de vialidad y de protección civil;
+
+XX. Apoyar a las niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
+
+XXI. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para las Niñas, Niños y Adolescentes;
+
+XXII. Fomentar la lectura de comprensión, el acceso al libro y el uso de bibliotecas;
+
+XXIII. Fomentar la capacitación y el buen uso de las herramientas tecnológicas y la comunicación digital;
+
+XXIV.- Promover, mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas; y
+
+XXV.- Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
@@ -143,13 +169,21 @@ II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a l
 
 III.- Contribuirá a la mejor convivencia humana, aportando elementos para robustecer en los educandos el aprecio a la dignidad de la persona, la integridad de los diversos tipos de familia, la solución no violenta de conflictos, la convicción del interés general de la sociedad, sustentando los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, religión, grupo, sexo o de orientación sexual e identidad de género; y
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2017)
 
-IV.- SERÁ DE CALIDAD, ENTENDIÉNDOSE POR ÉSTA, A LA CUALIDAD DE UN SISTEMA EDUCATIVO QUE INTEGRA LAS DIMENSIONES DE RELEVANCIA, PERTINENCIA, EQUIDAD, EFICIENCIA, EFICACIA, IMPACTO Y SUFICIENCIA.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Promoverá la incorporación de hábitos alimenticios sanos, la actividad física y la práctica de ejercicio, como medios para que los educandos accedan a un adecuado desarrollo físico y social, de conformidad con las leyes aplicables; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI.- Promoverá el acceso a las redes de comunicación internacional denominadas internet, como parte de la educación que se imparta en el Estado, con lo que se contribuirá a procurar las condiciones de libertad de expresión, comunicación e información de los educandos.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-Además de impartir la educación preescolar, primaria, secundaria y media superior, el Estado, los Municipios y sus organismos descentralizados, promoverán y atenderán directamente o a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativas, incluida la educación especial, apoyarán la investigación científica y tecnológica; y alentarán el fortalecimiento y la difusión de la cultura local, nacional y universal.
+Además de impartir la educación preescolar, la primaria, la secundaria y la media superior, el Estado promoverá y atenderá - directamente, mediante sus organismos descentralizados y órganos desconcentrados, a través de apoyos financieros, o bien, por cualquier otro medio-todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la Nación, y apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura local, nacional y universal.
 
 ###### ARTÍCULO 10.
 
@@ -189,11 +223,17 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Autoridad Educativa Federal: a la Secretaría de Educación Pública del Gobierno Federal.
 
-II.- Autoridad Educativa Local: a la Secretaría de Educación Pública del Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III.- Autoridad Educativa Municipal: a la dependencia o entidad que el Ayuntamiento le asigne tal función.
+II.- Autoridad Educativa Local: Al Ejecutivo del Estado, por conducto de la Secretaría de Educación Pública del Gobierno del Estado de Baja California Sur;
 
-IV.- Instituto Nacional para la Evaluación de la Educación: al organismo constitucional federal denominado Instituto Nacional para la Evaluación.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Autoridad Educativa Municipal: Al Ayuntamiento de cada Municipio;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV.- Instituto Nacional para la Evaluación de la Educación: Al organismo constitucional autónomo a que se refiere la fracción IX del párrafo tercero del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 V.- Autoridades Escolares: al personal que lleva a cabo las funciones de dirección o supervisión en los sectores, zonas o centros escolares.
 
@@ -209,9 +249,11 @@ III.- Los conceptos de escuela, plantel, centro escolar.
 
 #### SECCIÓN 1. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-Son atribuciones del Poder Ejecutivo del Estado, a través de la Secretaría de Educación Pública, las siguientes:
+Son atribuciones del Poder Ejecutivo del Estado, a través de la Secretaria de Educación Pública, las siguientes:
 
 I.- Prestar los servicios de educación básica - incluyendo la indígena - especial, así como la normal y universitaria; y demás para la formación y actualización de profesores de educación básica;
 
@@ -219,17 +261,17 @@ II.- Proponer a la Autoridad Educativa Federal, los contenidos regionales que ha
 
 III.- Promover y programar la extensión y las modalidades del Sistema Educativo Estatal;
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IV.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la autoridad educativa federal, Y ESTABLECER EL CORRESPONDIENTE A LA EDUCACIÓN PREESCOLAR;
+IV.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la autoridad educativa federal.
 
 V.- Prestar los servicios de formación, actualización, capacitación y superación profesional para docentes de educación básica, de conformidad con las disposiciones generales que la autoridad educativa federal determine y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
 
 VI.- Otorgar, negar o revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de profesores de educación básica;
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VII.- Autorizar el uso adecuado de material educativo para primaria y secundaria, con base en los lineamientos que establezca la Autoridad Educativa Federal; Y CONFORME A LOS CRITERIOS QUE SE FIJEN EN LA ENTIDAD, EL RELATIVO A PREESCOLAR;
+VII.- Autorizar el uso adecuado de material educativo para primaria y secundaria, con base en los lineamientos que establezca la Autoridad Educativa Federal;
 
 VIII.- Distribuir oportuna, completa, amplia y eficientemente los libros de texto gratuitos para la educación primaria que la Federación le otorgue para tal fin, y los demás libros que en su caso edite el Estado, así como el material complementario que la autoridad educativa le proporcione;
 
@@ -345,25 +387,47 @@ IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Educación Pública de la Entidad, podrá coordinarse con autoridades educativas de otros Estados para llevar a cabo las actividades relativas a las finalidades previstas en este artículo, la calidad de los servicios o a la naturaleza de las necesidades que hagan recomendables proyectos regionales.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 16.
 
-El educador es promotor, coordinador y agente directo del proceso educativo. En este sentido deben proporcionársele los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento, sin perjuicio de lo que al respecto establezca la Ley General de Educación.
+Las y los educadores, en la era del conocimiento, son profesionales del aprendizaje con funciones de mediación, promoción, coordinación e incidencia, y agentes directos del proceso educativo. La autoridad educativa local procurará los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-Para ejercer la docencia en instituciones establecidas por el Estado, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes y, para la educación básica y media superior, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados, órganos desconcentrados y por particulares con autorización o con reconocimiento de validez oficial de estudios, el personal docente deberá satisfacer los requisitos que, en su caso, señalen las autoridades competentes y, para la educación básica y media superior, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
-El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso en lo individual y para su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
+Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de docentes que prestan sus servicios en estas instituciones.
 
-Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de docentes que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño del personal docente en educación básica y media superior en instituciones públicas. Las autoridades educativas otorgarán la certificación correspondiente a docentes que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
+Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño del personal docente en educación básica y media superior en instituciones públicas.
 
-Las autoridades educativas, de conformidad con lo que establece la Ley General del Servicio Profesional Docente, establecerán la permanencia de los docentes frente a grupo, con la posibilidad para este personal de ir obteniendo mejores condiciones y mayor reconocimiento social.
+Las autoridades educativas otorgarán la certificación correspondiente a docentes que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
 
-La autoridad educativa local otorgará reconocimientos, distinciones, estímulos y recompensas a docentes que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación.
+El Estado Mexicano otorgará un salario profesional digno, que permita al profesorado de los planteles del Estado de Baja California Sur alcanzar un nivel de vida decoroso en lo individual y para su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
+
+Las autoridades educativas, de conformidad con lo que establece la Ley General del Servicio Profesional Docente, establecerán la permanencia de las y los docentes frente a grupo, con la posibilidad para este personal de ir obteniendo mejores condiciones y mayor reconocimiento social.
+
+La autoridad educativa local otorgará reconocimientos, distinciones, estímulos y recompensas a docentes que se destaquen en el ejercicio de su profesión y, en general, realizará actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerá mecanismos de estímulo a la labor docente con base en la evaluación.
+
+El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas que se otorguen al personal docente en instituciones establecidas por el Estado en educación básica y media superior, se realizará conforme a lo dispuesto en la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 16 BIS.- La autoridad educativa local, para impulsar la mejora continua de la calidad y equidad de la educación básica en el Estado, implantará un modelo de gestión sustentado en la regionalización del servicio educativo, que tendrá como fines:
+
+I. Reconocer y atender de manera articulada y diferenciada los retos de cada contexto regional y escolar;
+
+II. Fortalecer la gestión escolar; y
+
+III. Articular y alinear los servicios de apoyo técnico pedagógico y técnico administrativo dirigidos a las escuelas, personal docente y de supervisión.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Las Autoridades Educativas Locales, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar un mayor aprovechamiento de los horarios establecidos de clase y, en general de lograr la prestación del servicio educativo con mayor pertinencia y de manera más eficiente.
+Las autoridades educativas, revisarán permanentemente las disposiciones, trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas del profesorado, de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia, calidad y eficiencia.
 
-En las actividades de supervisión se dará preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
+En las actividades de supervisión, los directores y subdirectores, darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
+
+Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de madres, padres de familia o tutores.
 
 ###### ARTÍCULO 18.
 
@@ -379,9 +443,21 @@ La Autoridad Educativa Local, podrá celebrar con los patrones, convenios para e
 
 Los beneficiados directamente por los servicios educativos deberán prestar servicio social. En los casos y términos que señalen las disposiciones reglamentarias correspondientes. En estas se preverá la prestación del servicio social como requisito previo para obtener título o grado académico.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 19 bis.- La autoridad educativa local deberá establecer un Registro Estatal de Oferta Educativa del Nivel Superior, el cuál será público y tendrá por objetivo dar a conocer a la población en general la oferta educativa de nivel superior de las instituciones educativas del Estado, tanto públicas como privadas debidamente reguladas.
+
+A efecto de lo anterior, la autoridad educativa local deberá difundir la oferta educativa actualizada de las respectivas instituciones, en Internet y en los medios de comunicación más importantes del Estado, a más tardar la última semana de los meses de febrero y agosto de cada año.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El expendio y distribución de alimentos y bebidas preparados y procesados dentro de toda escuela, se sujetará, sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, a los lineamientos que para tal fin establezca la Secretaría de Educación Pública del Poder Ejecutivo Federal. En la elaboración de los alimentos deberán cumplirse los criterios nutrimentales que para tal efecto determine la Secretaría de Salud del Poder Ejecutivo Federal.
+En atención a la salud de las y los educandos, no podrán comercializarse al interior de los planteles de educación básica, alimentos o bebidas con bajo valor nutrimental que fomenten problemas de obesidad.
+
+La autoridad educativa local, con base en las disposiciones y criterios establecidos por la autoridad educativa federal y la Secretaría de Salud, establecerá los lineamientos estatales a que deberán sujetarse, dentro de toda escuela, el expendio y distribución de alimentos y bebidas preparados y procesados, considerando las opiniones de la comunidad escolar.
+
+Estos lineamientos deberán comprender las regulaciones que prohíban los alimentos que no favorezcan la salud de los educandos y fomenten aquellos de carácter nutrimental.
 
 #### SECCIÓN 3. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
@@ -489,21 +565,71 @@ Para alcanzar la equidad en la educación las autoridades educativas local y mun
 
 I.- Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
-II.- Fortalecer la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II.- Fortalecer la educación especial, la de personas con espectro autista y la educación inicial, incluyendo a las personas con discapacidad;
 
-III.- Establecer y fortalecer los sistemas de educación a distancia QUE DETERMINE LA AUTORIDAD EDUCATIVA FEDERAL;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Establecer y fortalecer los sistemas de educación a distancia;
 
 IV.- Impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros; para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
-V.- Realizar las demás actividades que permitan mejorar la calidad, ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo 8 de la presente ley.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VI.- Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
+IV BIS.- Garantizar que el servicio educativo se ofrezca en igualdad de condiciones y considerando el respeto a los derechos humanos para mujeres y hombres, evitando la discriminación de raza, edad, religión, sexo, género, estado civil, ideología, grupo social, orientación sexual, identidad de género, lengua, estado de gravidez y circunstancias de vida;
 
-VII.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
+V. Desarrollar programas de apoyo a docentes que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, como migrantes, no acreditados, bajo rendimiento académico, sobresalientes, grupos interculturales bilingües, entre otros; a través de programas encauzados a mejorar el nivel de aprovechamiento escolar de las y los educandos;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VIII. Desarrollar programas con perspectiva de género, para otorgar becas y demás apoyos económicos, orientados preferentemente a estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. Impulsar programas dirigidos a los padres y madres de familia o tutores, que les permitan dar mejor atención a sus hijas, hijos o pupilos y que éstos se desarrollen en un ambiente de democracia familiar, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+X. Reconocer a las organizaciones de la sociedad civil y a las cooperativas de docentes que se dediquen a la enseñanza;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI. Promover una mayor participación de los diferentes sectores sociales en la educación;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Proporcionar materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista población indígena;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIII. Buscar la ampliación de la cobertura de atención a estudiantes que presenten necesidades educativas especiales, sobresalientes, y a grupos interculturales bilingües, para favorecer el desarrollo de sus capacidades, habilidades y aptitudes, permitiendo su integración escolar, ocupacional y social;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza a padres y madres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, prestando especial atención a la necesidad de que tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y las mismas oportunidades educativas que los varones; así como respecto a la prevención de la violencia escolar desde el hogar y el respeto a sus maestras y maestros;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XV. Establecer, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVI. Impulsar esquemas eficientes para el suministro de alimentos nutritivos para estudiantes, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVII. Realizar las demás actividades que permitan mejorar la calidad, equidad y ampliar la cobertura de los servicios educativos, para el logro de los propósitos y fines establecidos en la presente ley y en la normatividad aplicable.
 
 ###### ARTÍCULO 33.
 
@@ -544,6 +670,20 @@ Las personas atendidas por la educación para adultos podrán acreditar los cono
 El Estado organizará servicios permanentes de promoción y asesoría de educación para adultos y dará las facilidades necesarias a sus trabajadores, trabajadoras y familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 36 BIS.- Las autoridades educativas, el personal docente, y directivos o responsables de las instituciones educativas oficiales y privadas de cualquier nivel o modalidad en el Estado, no podrán bajo ninguna circunstancia, adoptar acciones que impidan o perturben el inicio o prosecución normal de sus estudios a las alumnas en estado de gravidez.
+
+Las autoridades educativas del respectivo establecimiento estarán obligadas, en cuanto a la estudiante embarazada, a autorizar los permisos que, en razón de su estado sean necesarios para garantizar su salud física y psíquica durante la gestación; así como a apoyar académicamente a las alumnas que se encuentren en esta circunstancia, sin importar su estado civil, para que continúen cursando sus estudios.
+
+La estudiante embarazada que como resultado de su estado, incumpla las metas establecidas en cuanto a actividades académicas, podrá cumplimentarlas para acreditar el periodo correspondiente.
+
+La autoridad educativa local, implementará programas preventivos, dirigidos a estudiantes, docentes, madres, padres de familia o tutores, sobre sexualidad y reproducción, alejados de estereotipos basados en el género.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 36 TER.- El otorgamiento de becas, estímulos y demás apoyos económicos de la autoridad educativa local, estará destinado a motivar el acceso, permanencia y logro del aprendizaje de las y los educandos, destinando al menos el cincuenta por ciento de estos a mujeres.
 
 ### CAPÍTULO IV. DEL PROCESO EDUCATIVO
 
@@ -647,21 +787,29 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 #### SECCIÓN 3. DEL CALENDARIO ESCOLAR
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 51.
 
-De conformidad con la Ley General de Educación, en el Estado, el calendario aplicable para preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, deberá contener doscientos días de clase para los educandos.
+El calendario escolar, determinado por la Secretaría de Educación Pública, contiene una duración mínima de ciento ochenta y cinco días y una máxima de doscientos días efectivos de clase, de conformidad con la Ley General de Educación.
 
-La Autoridad Educativa Local podrá ajustar el calendario escolar respecto al establecido por la autoridad Educativa Federal, cuando ello resulte necesario en atención a requerimientos específicos de la propia entidad. Los maestros serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educadores que los citados en el párrafo anterior.
+Las autoridades escolares, entendidas como el personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, previa autorización de la Secretaría y de conformidad con los lineamientos que expida la Secretaría de Educación Pública, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas de estudio aplicables.
 
-###### ARTÍCULO 52.
+La Secretaria deberá autorizar los ajustes al calendario escolar cuando ello resulte necesario, en atención a los requerimientos específicos de la entidad.
 
-En días escolares, las horas de labor escolar se dedicarán a la práctica docente y a las actividades educativas con los educandos, conforme a lo previsto en los planes y programas de estudio aplicables.
+En los días efectivos de clase marcados en el calendario escolar, las horas de labor en las instituciones educativas se dedicarán a la práctica docente y a las actividades educativas con los educandos conforme a lo previsto en los planes y programas de estudio, así como a aquellas actividades inherentes a su proceso de formación integral.
 
-Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizados por la autoridad que haya establecido o, en su caso, ajustado el correspondiente calendario escolar. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas ni, en su caso, del calendario señalado por la Autoridad Educativa Federal.
+La suspensión de clases y las actividades no previstas en los planes y programas de estudio sólo podrán ser autorizadas por la Secretaría en el ámbito de sus competencias y en apego de la normativa de las instituciones. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas.
 
-De presentarse interrupciones por caso extraordinario o fuerza mayor, la Autoridad Educativa Estatal o Municipal tomará las medidas para recuperar los días y horas perdidos.
+De presentarse interrupciones por causas de fuerza mayor o caso fortuito, la Secretaría en el ámbito de su competencia, tomarán las medidas para recuperar los correspondientes días y horas a fin de dar cumplimiento a los planes y programas de estudio.
 
-El calendario aplicable en Baja California Sur deberá publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 52.
+
+La Secretaría publicará en el Boletín Oficial de Gobierno del Estado y en su página de internet las autorizaciones de ajustes al calendario escolar determinado por la Secretaría de Educación Pública, en los términos de la Ley General de Educación y los lineamientos que emita esa dependencia federal.
+
+El calendario escolar deberá difundirse en todas las instituciones públicas y privadas del sector, por la autoridad educativa local.
 
 ### CAPÍTULO V. DEL SERVICIO PROFESIONAL DOCENTE
 
@@ -807,9 +955,7 @@ Para el ingreso al Servicio Profesional Docente en la Educación Básica, la Aut
 
 Expedir las convocatorias para el Ingreso al Servicio Profesional Docente, con base en la información derivada del Sistema de Información y Gestión Educativa.
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-LAS CONVOCATORIAS DESCRIBIRÁN EL PERFIL QUE DEBERÁN REUNIR LOS ASPIRANTES; LAS PLAZAS SUJETAS A CONCURSO; LOS REQUISITOS, TÉRMINOS Y FECHAS DE REGISTRO; LAS ETAPAS, LOS ASPECTOS Y MÉTODOS QUE COMPRENDERÁ LA EVALUACIÓN; LAS SEDES DE APLICACIÓN; LA PUBLICACIÓN DE RESULTADOS; LOS CRITERIOS PARA LA ASIGNACIÓN DE LAS PLAZAS, Y DEMÁS ELEMENTOS QUE LA AUTORIDAD EDUCATIVA LOCAL, ESTIME PERTINENTES. EN SU CASO, LAS CONVOCATORIAS DESCRIBIRÁN LOS PERFILES COMPLEMENTARIOS AUTORIZADOS POR LA AUTORIDAD EDUCATIVA FEDERAL;
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Publicar las citadas convocatorias aprobadas por la Autoridad Educativa Federal, de acuerdo a los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación, y
 
@@ -861,9 +1007,7 @@ La Promoción a cargos con funciones de dirección y de supervisión en la Educa
 
 Formular las convocatorias para los concursos correspondientes, mismos que serán públicos.
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-LAS CONVOCATORIAS DESCRIBIRÁN EL PERFIL QUE DEBERÁN REUNIR LOS ASPIRANTES; LAS PLAZAS SUJETAS A CONCURSO; LOS REQUISITOS, TÉRMINOS Y FECHAS DE REGISTRO; LAS ETAPAS, LOS ASPECTOS Y MÉTODOS QUE COMPRENDERÁ LA EVALUACIÓN; LAS SEDES DE APLICACIÓN; LA PUBLICACIÓN DE RESULTADOS Y LOS CRITERIOS PARA LA ASIGNACIÓN DE LAS PLAZAS, Y DEMÁS ELEMENTOS QUE LA AUTORIDAD EDUCATIVA LOCAL ESTIME PERTINENTES;
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Publicar las citadas convocatorias autorizadas por la Autoridad Educativa Federal, con la anticipación suficiente al inicio del ciclo escolar y de acuerdo a los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación;
 
@@ -1081,9 +1225,11 @@ Las personas que decidan aceptar el desempeño de un empleo, cargo o comisión q
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 95.
 
-La Autoridad Educativa Local publicará en el Boletín Oficial del Estado de Baja California Sur, antes del inicio de cada ciclo escolar, la relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
+La Autoridad Educativa Local publicará en el Boletín Oficial del Estado de Baja California Sur y en su página oficial, antes del inicio de cada ciclo escolar, la relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 De igual manera indicará en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que aplique las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación, este ordenamiento y demás disposiciones aplicables, les correspondan.
 
@@ -1099,15 +1245,33 @@ I.- Cumplir con lo dispuesto en el Artículo 3o. de la Constitución Política d
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-III.- Proporcionar un mínimo de becas en los términos de los lineamientos generales que la autoridad que otorgue las autorizaciones o reconocimiento haya determinado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Proporcionar un mínimo de becas en los términos de los lineamientos generales que la autoridad que otorgue las autorizaciones o reconocimiento haya determinado fomentando y favoreciendo la perspectiva de género;
 
 IV.- Cumplir con los requisitos previstos en el Artículo 47 de la presente Ley; y
 
-V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes ordenen.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Facilitar y colaborar en las actividades de evaluación, supervisión y vigilancia que las autoridades competentes ordenen;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Contar con personal que acredite la preparación adecuada para impartir educación y, en su caso, satisfagan los demás requisitos a que se refiere el artículo 15 de la presente ley, y demás normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Contar con las instalaciones que satisfagan las condiciones funcionales, de infraestructura, certidumbre jurídica, seguridad, pedagógicas e higiénicas que exija la normatividad correspondiente, previa supervisión de las autoridades competentes en el Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+La autoridad educativa local, negará la autorización para impartir educación, cuando los particulares no reúnan los requisitos previstos en este artículo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 97.
 
-Las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios deberán inspeccionar y vigilar los servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos. Las autoridades deberán llevar a cabo una visita de inspección por lo menos una vez al año.
+Las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios deberán supervisar y vigilar los servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos.
 
 Para realizar una visita de inspección deberá mostrarse la orden correspondiente expedida por la autoridad competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden. La persona encargada de la visita deberá identificarse adecuadamente.
 
@@ -1124,6 +1288,22 @@ La autoridad educativa local emitirá la normativa correspondiente para realizar
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
 En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el Artículo 42 de la Presente Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en la misma; y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el Artículo 29 de la presente Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 98 bis.- La autoridad educativa local, podrá revocar la autorización y reconocimiento de validez oficial de estudios, en los siguientes casos:
+
+I. Cuando advierta que existe personal docente en funciones que no cuente con la preparación profesional o la autorización correspondiente;
+
+II. Cuando se incremente el monto de inscripciones y colegiaturas, sin la autorización correspondiente de las autoridades competentes para el efecto;
+
+III. Cuando no se otorgue el porcentaje de becas que disponga la normatividad aplicable;
+
+IV. Cuando no se cumpla con los planes y programas de estudio autorizados por las autoridades educativas;
+
+V. Cuando no se entregue en forma oportuna la documentación administrativa solicitada, ni se atienda a las convocatorias expedidas; y
+
+VI. Cuando se realice algún acto que contravenga la presente ley.
 
 ### CAPÍTULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
@@ -1146,6 +1326,20 @@ Los estudios realizados dentro del Sistema Educativo Estatal podrán, en su caso
 La autoridad educativa estatal otorgara revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en su respectiva competencia.
 
 Las revalidaciones y equivalencias otorgadas en términos del presente artículo tendrán validez en toda la República.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 101 BIS.- En el Estado de Baja California Sur, la facultad de revalidar y reconocer equivalencia de estudios, corresponde:
+
+I. A la autoridad educativa local;
+
+II. A las instituciones de educación superior a las que el Congreso haya otorgado autonomía, de conformidad con lo dispuesto en la Constitución Política del Estado de Baja California Sur;
+
+III. A las demás instituciones educativas, a las que expresamente autorice su normatividad en términos de ley;
+
+IV.- La autoridad educativa local podrá expedir certificados de estudios, diplomas, títulos o grados académicos, que acrediten conocimientos adquiridos, con apego a los lineamientos que para tal efecto establezcan la autoridad educativa federal y la demás normatividad aplicable; y
+
+V.- La autoridad educativa local podrá reconocer y certificar los conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta, por experiencia laboral o a través de otros procesos educativos, siempre y cuando el interesado se someta a los procedimientos y satisfaga los requisitos que para tal efecto establezca la autoridad educativa federal.
 
 ### CAPÍTULO VIII. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
@@ -1179,15 +1373,37 @@ XI.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y 
 
 XII.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 13 fracción XVII, sobre el desempeño del personal docente, directivo, de supervisión y de asesoría técnico pedagógica, de sus hijos o pupilos menores de edad y sobre las condiciones de la escuela a la que asisten.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 103.
 
-Son obligaciones de quienes ejercen la Patria Potestad o la Tutela:
+Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I.- Hacer que sus hijos e hijas, pupilo y pupilas, menores de edad, reciban la educación preescolar, primaria, secundaria y media superior;
+I. Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, la primaria, la secundaria y la media superior;
 
-II.- Apoyar el proceso educativo de sus hijos, hijas, pupilos y pupilas;
+II. Apoyar de manera permanente el proceso educativo de sus hijas, hijos o pupilos;
 
-Colaborar con las escuelas en las que estén inscritos sus hijos, hijas, pupilos o pupilas, en las actividades que dichas escuelas realicen.
+III. Colaborar con las instituciones educativas en las que estén inscritos sus hijos, hijas o pupilos, en las actividades que dichas instituciones realicen;
+
+IV. Colaborar, en lo conducente, con las autoridades escolares y el personal docente, en el diagnóstico, y en la atención de los problemas de conducta, de aprendizaje o en las dificultades que presenten sus hijas, hijos o pupilos;
+
+V. Hacer del conocimiento de las autoridades escolares, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en las y los educandos;
+
+VI. Asistir a las reuniones de información y orientación convocadas por la escuela, incluidas aquéllas vinculadas con cursos o talleres que promuevan el cuidado de la alimentación sana y nutritiva de sus hijas, hijos o pupilos;
+
+VII. Respetar que se cumpla con los preceptos contenidos en las legislaciones federal y estatal en materia educativa, en los planes y programas de estudio y reglamentos emitidos en materia educativa;
+
+VIII. Participar de manera solidaria y comprometida, en la transformación escolar, y en la mejora continua de las instituciones educativas, para el logro de la calidad;
+
+IX. Acudir en caso de controversia o desacuerdo a las instancias educativas superiores en orden jerárquico, para su atención;
+
+X. Promover y dar continuidad a la cultura de valores, con el fin de lograr actitudes que permitan integrar a su hija, hijo o pupilo a las necesidades actuales de la sociedad;
+
+XI. Colaborar con la institución educativa en la que estén inscritos sus hijas, hijos o pupilos en las actividades que ahí se desarrollen; y
+
+XII. Abstenerse de impedir el servicio educativo en las instituciones que lo ofrecen.
+
+Para el caso de incumplimiento de las obligaciones a que hace referencia en las fracciones anteriores, las autoridades escolares llevarán a cabo un análisis cuidadoso de sus causas y notificarán a la autoridad educativa local para que a partir de ello se implementen acciones para que quien ejerce la patria potestad sea incluido en un proceso de orientación y apoyo de acuerdo a la naturaleza de su situación.
 
 ###### ARTÍCULO 104.
 
@@ -1195,71 +1411,239 @@ Las asociaciones de padres de familia tendrán por objeto:
 
 I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el Artículo 6 de la presente Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
+II. Promover el cumplimiento de las disposiciones de la normatividad que las rige para su integración y desempeño;
 
-IV.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Colaborar con las actividades que promuevan las instituciones educativas, en las que estén inscritos los hijos o pupilos, así como cooperar con las autoridades escolares, en el diseño de programas y planes de alimentación saludable que el Estado a través de las Secretarías de Salud y de Educación, consideren convenientes.
+III. Propiciar vínculos de cordialidad, respeto y trabajo común entre los integrantes de la asociación, los actores de la institución educativa y la comunidad en general;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Detectar necesidades educativas y proponer junto con las y los asociados y autoridades educativas, medidas pertinentes para su atención;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Fortalecer y cumplir con el principio del interes superior de la niñez;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Coadyuvar en las acciones y medidas que tomen las autoridades educativas y escolares para ofrecer una vida sana física, psicológica y sexual; y un servicio de mayor calidad a las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Informar a las autoridades educativas y escolares, sobre posibles irregularidades de que puedan ser objeto las y los educandos; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VIII. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores.
 
 Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
-La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetaran a las disposiciones que la Autoridad Educativa Federal señale.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+La organización y funcionamiento de las asociaciones de padres de familia de cada institución pública de educación básica, las Asociaciones de Padres de Familia municipales, regionales y estatales, o bien cualquier otra legalmente reconocida, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que la autoridad educativa federal y la local señalen.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos del cumplimiento de este artículo en lo que respecta a las Asociaciones de Padres de Familia Regionales, dichas Regiones se conformarán de acuerdo con lo dispuesto en la normatividad aplicable.
 
 #### SECCIÓN 2. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 105.
 
-El Estado promoverá, de conformidad con los lineamientos que establezca la Autoridad Educativa Federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
+La autoridad educativa local promoverá, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación en el Estado, así como ampliar la cobertura de los servicios educativos.
 
 Las autoridades escolares harán lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, el cual estará integrado por:
 
-I.- Padres de familia y representantes de sus asociaciones;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Padres, madres de familia o tutores y representantes de sus sociaciones (sic);
 
 II.- Docentes y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores;
 
 III.- Personal directivo de la Escuela;
 
-IV.- Exalumnos; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Exalumnos y exalumnas; y
 
 V.- Representantes y demás integrantes de la comunidad con interés en el desarrollo de su propia escuela.
 
-Este Consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de la (sic) evaluaciones que realicen las autoridades educativas; propiciara la colaboración de maestros y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; fomentara en la comunidad escolar la cultura del cuidado y uso eficiente del agua, y la prevención del cambio climático mediante foros, promociones y actividades extraescolares; alentará el interés familiar y comunitario por el desempeño del educando; podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela y, en general, podrá realizar actividades en beneficio de la propia escuela.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Además de lo anterior, el Consejo podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la Autoridad Educativa Federal y las autoridades competentes.
+Corresponde a los Consejos Escolares de Participación Social:
 
-Consejos análogos, podrán operar en las escuelas particulares de educación básica.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Conocer el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con las y los docentes a su mejor realización;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Conocer y dar seguimiento a las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 52 de la presente ley;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Conocer y participar en las acciones educativas y de prevención que realicen las autoridades para que alumnas y alumnos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicarles;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de las y los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Conocer los resultados de las evaluaciones que realicen las autoridades educativas;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Propiciar la colaboración de docentes, madres, padres de familia o tutores para salvaguardar la integridad y educación plena de las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la autoridad educativa federal y las autoridades competentes;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VIII. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. Promover, apoyar y difundir las acciones necesarias para la protección civil, educación vial y la emergencia escolar;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+X. Alentar el interés familiar y comunitario por el desempeño de alumnos y alumnas;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI. Impulsar entre estudiantes y comunidad, la difusión de temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, igualdad de género y derechos humanos de las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Contribuir a reducir las condiciones sociales adversas que influyan en el desempeño escolar de las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIII. Apoyar los trabajos específicos para el mejoramiento de las instalaciones escolares;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV. Conocer los nombres de las y los educadores señalados en el segundo párrafo del artículo 56 de la Ley General de Educación;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XV. Opinar en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad, igualdad de género y derechos humanos de las y los educandos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVI. Respaldar las labores cotidianas de la escuela; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVII. En general, realizar actividades en beneficio de la propia escuela.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+En las escuelas particulares de educación básica deberán integrarse y operar Consejos análogos, que cumplan con la normatividad correspondiente.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Los Consejos Escolares de Participación Social, deberán constituirse e integrarse de acuerdo con lo dispuesto en este artículo y la demás normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 106.
 
-En cada municipio operará un consejo municipal de participación social en la educación, los cuales estarán integrados por:
+En cada municipio operará un Consejo Municipal de Participación Social en la educación, los cuales estarán integrados por:
 
 I.- Autoridades municipales;
 
-II.- Padres de familia y representantes de sus asociaciones;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II.- Padres, madres de familia o tutores y representantes de sus asociaciones;
 
 III.- Docentes distinguidos;
 
 IV.- Personal directivo de escuelas;
 
-V.- Representantes de la organización sindical de los maestros, quienes acudirán como representantes de los intereses laborales de los trabajadores; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Representantes de la organización sindical de las y los maestros, quienes acudirán como representantes de los intereses laborales de los trabajadores; y
 
 VI.- Representantes de organizaciones de la sociedad civil cuyo objeto sea la educación y demás interesados en el mejoramiento de la educación.
 
-Este Consejo gestionará ante el Ayuntamiento el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el Municipio; conocerá de los resultados de las evaluaciones que realicen las autoridades educativas; llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio Municipio; estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales; establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario; hará aportaciones relativas a las particularidades del Municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio; podrá opinar en asuntos pedagógicos; coadyuvara a nivel municipal en actividades de protección civil y emergencia escolar; fomentara en la comunidad escolar la cultura del cuidado y uso eficiente del agua, y la prevención del cambio climático mediante foros, promociones y actividades extraescolares; promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares; promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares; procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública; y, en general, podrá realizar actividades para apoyar y fortalecer la educación en el Municipio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Será responsabilidad del Presidente Municipal que en el Consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación.
+Corresponde a los Consejos Municipales de Participación Social:
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Colaborar en el mejoramiento de los servicios educativos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Gestionar ante el Ayuntamiento y la autoridad educativa local la construcción y ampliación de espacios educativos y demás proyectos de desarrollo educativo en el municipio;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Conocer los resultados de las evaluaciones y diagnósticos que realicen las autoridades educativas;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Llevar a cabo acciones de seguimiento de las actividades de las escuelas públicas de educación básica del municipio;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales; de concientización sobre igualdad entre mujeres y hombres; y de respeto por la diversidad;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Fomentar la coordinación entre escuelas, autoridades municipales, padres y madres de familia o tutores, con los programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley de los Derechos de las Niñas, Niños y Adolescentes para el estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Colaborar a nivel municipal en actividades de protección civil y emergencia escolar;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VIII. Promover actividades de orientación, capacitación y difusión, dirigidas a padres y madres de familia y tutores, para que cumplan con sus obligaciones en materia educativa integral;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. Proponer estímulos y reconocimientos de carácter social a las y los educandos, docentes, personal directivo y de apoyo y asistencia a la educación;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+X. Procurar la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI. En general, realizar actividades para apoyar y fortalecer la educación en el municipio; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Las demás que la normatividad aplicable establezca.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Será responsabilidad del Presidente Municipal que en el Consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 107.
 
-El Consejo Estatal de Participación Social en la Educación, es un órgano de consulta, orientación y apoyo, el cual deberá integrarse por:
+El Consejo Estatal de Participación Social en la educación deberá integrarse por:
 
 I.- Autoridades educativas estatales;
 
 II.- Autoridades educativas municipales;
 
-III.- Padres de familia y representantes de sus asociaciones;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Padres, madres de familia o tutores, y representantes de sus asociaciones;
 
 IV.- Maestros y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores;
 
@@ -1267,7 +1651,43 @@ V.- Instituciones formadoras de maestros; y,
 
 VI.- Organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad especialmente interesados en la educación.
 
-El Consejo Estatal de Participación Social en la Educación, absteniéndose de intervenir en aspectos laborales, tendrá el objeto de promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar; fomentar en la comunidad escolar la cultura del cuidado y uso eficiente del agua, y la prevención del cambio climático mediante foros promociones y actividades extraescolares; sistematizar los elementos y aportaciones relativos a las particularidades de Baja California Sur que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los concejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+El Consejo Estatal de Participación Social tiene como finalidad:
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Promover y apoyar actividades extraescolares de carácter cívico, cultural, deportivo, de seguridad, salud, protección al ambiente y bienestar social;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Coadyuvar, en el ámbito estatal, en actividades de protección civil y emergencia escolar;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Sistematizar los elementos y aportaciones relativos a las particularidades del Estado, que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Conocer las demandas y necesidades que emanen de la participación ocial (sic) en la educación a través de los Consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Opinar en asuntos pedagógicos;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Conocer los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Los demás asuntos que la normatividad respectiva establezca.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 107 bis.- Los Consejos de Participación Social a que se refiere esta Sección se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
+
+En caso de que el Consejo Escolar aprecie la probable comisión de un delito en agravio de las o los educandos, solicitará como medida preventiva a las autoridades educativas del plantel, la suspensión temporal de las actividades del personal docente o administrativo que se encuentre presuntamente involucrado, hasta en tanto se aclare por la autoridad correspondiente dicha participación, previa audiencia a las partes involucradas. Dicha suspensión no afectará las prestaciones laborales que le correspondan.
 
 ### CAPÍTULO IX. DE LAS INFRACCIONES, SANCIONES Y EL RECURSO ADMINISTRATIVO
 
@@ -1413,6 +1833,24 @@ IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en término
 
 Los medios de comunicación masiva, en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas en el Artículo 7, conforme a los criterios establecidos en el Artículo 8, ambos de la presente Ley.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 120.
+
+Para contribuir a lo establecido en el artículo anterior, la autoridad educativa local:
+
+I. Establecerá una política de comunicación social que contribuya a la consecución de los fines de la educación en el Estado;
+
+II. Efectuará acciones permanentes de sensibilización social y motivación para la participación ciudadana, erradicación de la violencia hacia las mujeres y eliminación de estereotipos establecidos en función del sexo;
+
+III. Difundirá los valores y la cultura Sudcaliforniana;
+
+IV. Difundirá los resultados del trabajo de los Consejos de Participación Social Escolares, Municipales y Estatal; y
+
+V. Operará un sistema de comunicación que permita a la sociedad conocer el desarrollo y los avances de la ciencia, la tecnología y la educación. Para este propósito, los medios de comunicación social del Estado destinarán tiempo aire y espacio impreso para el logro de esta difusión.
+
+La autoridad educativa local a través del Sistema de Comunicación Social, difundirá de manera permanente en la comunidad escolar, las acciones y programas que en materia educativa y cultural sean de su interés, y mantendrá una actitud respetuosa y plural.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
@@ -1421,47 +1859,11 @@ SEGUNDO.- Se abroga la Ley de Educación para el Estado de Baja California Sur, 
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+CUARTO.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2017)
 
-CUARTO.- LAS AUTORIDADES A QUE SE REFIERE ESTA LEY, SE OBLIGAN A RESPETAR ÍNTEGRAMENTE LOS DERECHOS ADQUIRIDOS DE LOS TRABAJADORES DE LA EDUCACIÓN Y LAS PROMOCIONES ADQUIRIDAS MEDIANTE LOS PROCESOS ADMINISTRATIVOS CORRESPONDIENTES, ASÍ COMO RECONOCER LA TITULARIDAD DE LAS RELACIONES LABORALES COLECTIVAS DE SU ORGANIZACIÓN SINDICAL, EN LOS TÉRMINOS DE SU REGISTRO VIGENTE Y DE ACUERDO CON LAS DISPOSICIONES LEGALES EN VIGOR.
+QUINTO.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2017)
 
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-QUINTO.- EL INGRESO, PROMOCIÓN, RECONOCIMIENTO Y PERMANENCIA DEL PERSONAL DOCENTE O CON FUNCIONES DE DIRECCIÓN O SUPERVISIÓN EN LA EDUCACIÓN BÁSICA O MEDIA SUPERIOR QUE IMPARTAN EL ESTADO O LOS MUNICIPIOS DE BAJA CALIFORNIA SUR, SE AJUSTARÁN A LO DISPUESTO EN LA LEY GENERAL DE SERVICIO PROFESIONAL DOCENTE PARA CADA NIVEL EDUCATIVO, CONSIDERANDO QUE EL PERSONAL QUE SE ENCUENTRE EN SERVICIO Y CUENTE CON NOMBRAMIENTO DEFINITIVO, CON FUNCIONES DE DOCENCIA, DE DIRECCIÓN O DE SUPERVISIÓN EN EL NIVEL EDUCATIVO EN QUE SE ENCUENTRE, QUE NO ALCANCE UN RESULTADO SUFICIENTE EN LA TERCERA EVALUACIÓN A QUE SE REFIERE EL ARTÍCULO 53 DE LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE DICHA LEY, SERÁ READSCRITO PARA CONTINUAR EN OTRAS TAREAS DENTRO DE DICHO SERVICIO EDUCATIVO, CONFORME A LO QUE DETERMINE LA AUTORIDAD EDUCATIVA, O BIEN, SE LE OFRECERÁ INCORPORARSE A LOS PROGRAMAS DE RETIRO QUE GARANTICEN EL PAGO DE LAS PRESTACIONES LEGALES CORRESPONDIENTES.
-
-EN LA READSCRIPCIÓN A QUE SE REFIERE EL PÁRRAFO ANTERIOR, SE OBSERVARÁ LO SIGUIENTE:
-
-I.- SERÁ EN LA SECRETARÍA DE EDUCACIÓN DEL ESTADO O EN EL ORGANISMO DESCENTRALIZADO QUE CORRESPONDA;
-
-II.- SERÁ CON PLENO RESPETO A LOS DERECHOS CONSTITUCIONALES DE LOS TRABAJADORES DE LA EDUCACIÓN;
-
-III.- EL LUGAR DE LA NUEVA ADSCRIPCIÓN, PREVIO DERECHO DE AUDIENCIA QUE SE OTORGUE EN TÉRMINOS DE LO DISPUESTO EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, SERÁ EN:
-
-A).- EL MISMO CENTRO DE TRABAJO;
-
-B).- OTRO CENTRO DE TRABAJO EN LA MISMA ZONA ESCOLAR O EN EL MISMO MUNICIPIO DE SU CENTRO DE TRABAJO ANTERIOR;
-
-C).- LA UNIDAD ADMINISTRATIVA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA MÁS CERCANA A SU ANTERIOR CENTRO DE ADSCRIPCIÓN;
-
-D).- ALGUNO DE LOS PROGRAMAS EDUCATIVOS QUE LA SECRETARÍA DE EDUCACIÓN EJECUTE; O
-
-E).- AL INTERIOR DEL ORGANISMO DESCENTRALIZADO AL QUE PERTENEZCA, CON LAS CONDICIONES SEÑALADAS EN ESTA FRACCIÓN ACORDES AL CASO.
-
-LO ANTERIOR, ATENDIENDO LAS NECESIDADES DEL SERVICIO.
-
-EN CONTRA DE LAS RESOLUCIONES ADMINISTRATIVAS QUE SE PRONUNCIEN, LOS INTERESADOS PODRÁN OPTAR POR INTERPONER EL RECURSO DE REVISIÓN ANTE LA AUTORIDAD EDUCATIVA QUE EMITIÓ LA RESOLUCIÓN O ACUDIR A LA AUTORIDAD JURISDICCIONAL QUE CORRESPONDA.
-
-(NOTA: EL 13 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEXTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-SEXTO.- EL PERSONAL DOCENTE Y EL PERSONAL CON FUNCIONES DE DIRECCIÓN O DE SUPERVISIÓN EN LA EDUCACIÓN BÁSICA O MEDIA SUPERIOR IMPARTIDA POR EL GOBIERNO DEL ESTADO Y SUS ORGANISMOS DESCENTRALIZADOS QUE A LA ENTRADA EN VIGOR DE ESTA LEY TENGA NOMBRAMIENTO PROVISIONAL, CONTINUARÁ EN LA FUNCIÓN QUE DESEMPEÑA Y SERÁ SUJETO DE LA EVALUACIÓN ESTABLECIDA EN EL ARTÍCULO 78 DE LA PRESENTE LEY. AL PERSONAL QUE OBTENGA RESULTADOS SUFICIENTES EN DICHA EVALUACIÓN, SE LE OTORGARÁ NOMBRAMIENTO DEFINITIVO Y QUEDARÁ INCORPORADO AL SERVICIO PROFESIONAL DOCENTE CONFORME A LO DISPUESTO POR LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE Y EL PRESENTE ORDENAMIENTO.
-
-SERÁ SEPARADO DEL SERVICIO PÚBLICO SIN RESPONSABILIDAD PARA LA AUTORIDAD EDUCATIVA O EL ORGANISMO DESCENTRALIZADO, SEGÚN SEA EL CASO, EL PERSONAL QUE:
-
-I.- SE NIEGUE A PARTICIPAR EN LOS PROCESOS DE EVALUACIÓN;
-
-II.- NO SE INCORPORE AL PROGRAMA DE REGULARIZACIÓN CORRESPONDIENTE CUANDO OBTENGA RESULTADOS INSUFICIENTES EN EL PRIMER O SEGUNDO PROCESO DE EVALUACIÓN A QUE SE REFIERE EL ARTÍCULO 79 DE LA PRESENTE LEY, O
-
-III.- OBTENGA RESULTADOS INSUFICIENTES EN EL TERCER PROCESO DE EVALUACIÓN PREVISTO EN EL ARTÍCULO 79 DE LA PRESENTE LEY.
+SEXTO.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2017)
 
 SEPTIMO.- El Gobernador del Estado y el Secretaría de Educación Pública, según corresponda, deberán actualizar y en su caso, expedirán las disposiciones de carácter administrativo que sean necesarias para la aplicación y cumplimiento de lo dispuesto en la presente Ley.
 
@@ -1524,3 +1926,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2524.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo por conducto de la Secretaría de Educación Pública deberá actualizar y en su caso expedir las disposiciones de carácter administrativo que resulten necesarias para la aplicación y cumplimiento de lo dispuesto en el presente decreto.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
