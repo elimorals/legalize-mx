@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2017-11-30"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1865,19 +1865,21 @@ En los casos en que resulte imposible liquidar la sociedad conyugal durante el p
 
 Artículo 305 H.- Cuando ambos cónyuges convengan en divorciarse después de transcurrido un año desde la celebración del matrimonio, y tengan hijos menores o incapacitados a su cargo y de común acuerdo hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, el divorcio se llevará a cabo ante el Juez del Ramo Familiar o, en su caso, ante el Juez Civil del domicilio conyugal.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Artículo 305 I.- Radicada la solicitud, el juez citará a los cónyuges, al Procurador de Niñas, Niños y Adolescentes y al Ministerio Público, en su caso, a una audiencia que se efectuará en un mes de acordada la demanda, pudiendo el Juez ordenar una segunda audiencia, un mes después de la primera, si no está convencido de la voluntad de ambos cónyuges de obtener el divorcio.
+Artículo 305 I.- Radicada la solicitud, el juez citará a los cónyuges, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado o a la Procuraduría Municipal de la Defensa del Menor y la Familia del Municipio en el que se lleve el asunto y al Ministerio Público, en su caso, a una audiencia que se efectuará en un mes de acordada la demanda, pudiendo el Juez ordenar una segunda audiencia, un mes después de la primera, si no está convencido de la voluntad de ambos cónyuges de obtener el divorcio.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Artículo 305 J.- Si asisten los interesados, los identificará plenamente y les exhortará para que procuren su reconciliación.
 
-En caso de no lograr avenirlos aprobará provisionalmente el convenio, oyendo al Procurador de Niñas, Niños y Adolescentes y al Ministerio público, en su caso, siempre que esté garantizada la situación de los hijos menores o incapacitados, decretando las medidas de aseguramiento que juzgue necesarias.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+En caso de no lograr avenirlos aprobará provisionalmente el convenio, oyendo a la Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría de la Defensa del menor y la Familia en el Municipio en el que se desarrolle el juicio y al Ministerio Público, en su caso, siempre que esté garantizada la situación de los hijos menores o incapacitados, decretando las medidas de aseguramiento que juzgue necesarias.
 
-Artículo 305 K.- En caso de que el Procurador de Niñas, Niños y Adolescentes y al (sic) Ministerio Público, se oponga al convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el Tribunal las hará saber a los cónyuges para que, dentro de los tres días, manifiesten su conformidad o rechazo, exponiendo sus razones.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Artículo 305 K.- En caso de que la Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría de la Defensa del menor y la Familia en el Municipio en el que se desarrolle el juicio y el Ministerio Público, se oponga al convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el Tribunal las hará saber a los cónyuges para que, dentro de los tres días, manifiesten su conformidad o rechazo, exponiendo sus razones
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1947,11 +1949,11 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 
 La sentencia que disuelve el vínculo matrimonial, fijará la situación de los hijos, atendiendo al tipo de divorcio. Ejecutoriada la sentencia del divorcio, la mujer puede contraer nuevo matrimonio dentro de los trescientos días, siempre que demuestre por certificación oficial que no está embarazada, a fin de evitar la confusión paterno filial, excepto en el caso señalado en el artículo anterior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 314.
 
-Cuando se trate del divorcio voluntario, los cónyuges acordarán en el convenio respectivo quién ejercerá la custodia y todo lo relativo al derecho del otro progenitor a tener una adecuada comunicación y vinculación afectiva con sus hijos, manteniendo ambos la patria potestad sobre los menores e incapacitados. El Juez podrá rechazar el convenio o el Ministerio Público y el Procurador de Niñas, Niños y Adolescentes podrán oponerse al convenio, cuando éste no garantice esos derechos.
+Cuando se trate del divorcio voluntario, los cónyuges acordarán en el convenio respectivo quién ejercerá la custodia y todo lo relativo al derecho del otro progenitor a tener una adecuada comunicación y vinculación afectiva con sus hijos, manteniendo ambos la patria potestad sobre los menores e incapacitados. El Juez podrá rechazar el convenio o el Ministerio Público y la Procuraduría de Protección de Niñas, Niños y Adolescentes o en su caso la Procuraduría de la Defensa del menor y la Familia del Municipio en el que se desarrolle el juicio podrán oponerse al convenio, cuando éste no garantice esos derechos.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3069,9 +3071,9 @@ VII.- Cuando quien la ejerza padezca alguna afección originada por enfermedad o
 
 Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-La Procuraduría de la Defensa del Menor y la Familia en coordinación con el Ministerio Público, deberá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría de la Defensa del menor y la Familia según sea el caso, en coordinación con el Ministerio Público, deberá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
 
 ###### Artículo 508.
 
@@ -3357,23 +3359,31 @@ La ley coloca a los expósitos bajo la tutela de la persona que los hayan acogid
 
 Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo origen se desconoce y se coloque en una situación de desamparo por quienes conforme a la ley estén obligados a protegerlo; y como abandonado al menor que conociendo su origen, los que ejercen la patria potestad o tutela, dejan de cumplir con sus deberes de protección y cuidado, sin importar la posibilidad de que alguna persona o institución se haga cargo del mismo.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 558.
 
-La Procuraduría de la Defensa del Menor y la Familia, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría Municipal de la Defensa del Menor y la Familia según sea el caso, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 En estos casos, la tutela se ejercerá por ministerio de la ley y no será necesario el discernimiento del cargo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 Si el menor que se encuentre en el caso previsto por este artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en este Código.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 558 Bis.
 
-La Procuraduría de la Defensa del Menor y la Familia tendrá la facultad de nombrar un hogar sustituto de forma temporal al menor que se encuentre en Situación Extraordinaria, nombramiento que deberá ser autorizado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes tendrá la facultad de nombrar una familia de acogida de forma temporal al menor que se encuentre en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos, este nombramiento que (sic) deberá ser ratificado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
 
-Un hogar sustituto es una modalidad de atención en la cual una familia seleccionada y capacitada según criterios técnicos de la Procuraduría de la Defensa del Menor y la Familia, acoge voluntariamente y de tiempo completo a un menor, como medida de colocación familiar, al encontrarse en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Una familia de acogida es aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 La permanencia de este niño, niña o joven en esta modalidad es de carácter temporal hasta en tanto, conforme a lo establecido en la legislación se defina su situación jurídica.
 
@@ -15890,3 +15900,11 @@ B.O. 30 DE NOVIEMBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2517.- SE REFORMAN LOS ARTÍCULOS 305 I, 305 J SEGUNDO PÁRRAFO K, 314, 507 ÚLTIMO PÁRRAFO, 558 PRIMER PÁRRAFO Y 558 BIS PÁRRAFOS PRIMERO Y SEGUNDO, DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 106 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
