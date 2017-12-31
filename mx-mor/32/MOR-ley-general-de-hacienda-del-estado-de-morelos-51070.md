@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2017-07-16"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-[N. DE. E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, LA PRESENTE REFORMA INICIARÁ SU VIGENCIA EL 01 DE ENERO DE 2017.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -1143,11 +1143,13 @@ DISPOSICIONES GENERALES
 
 8.- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 58 Bis
 
 9.- Una cantidad equivalente al 50% del total de los recursos que se recauden por el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de la Federación, del Estado y de los Municipios, en los términos del artículo 4 de esta Ley; así como los Poderes Legislativo y Judicial y Organismos Públicos Autónomos que no se integrará al referido Fondo.
+
+Excepcionalmente, cuando en el ejercicio fiscal se requiera destinar recursos financieros para la atención de daños ocasionados por contingencias o desastres naturales oficialmente declarados en términos de la normativa aplicable, que hubieren acontecido hasta en dos ejercicios anteriores al que se trate, podrá determinarse la cancelación, total o parcial, de la asignación establecida en el párrafo primero de este artículo, con el objeto exclusivo de destinarse a los fines de atención señalados.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1381,7 +1383,7 @@ Para los efectos de este Capítulo cuando se trate de obra de pavimentación o r
 
 ### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
@@ -1505,235 +1507,341 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 Los servicios que se presten en materia de Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 77.
 
-Los servicios que se presten en materia de registro público de la propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+Los servicios que se presten en materia de registro público de la propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, en los términos siguientes:
 
 Tarifa
 
 en UMA
 
-I. Por la calificación de todo documento que se devuelva sin que
+I. Por la calificación de todo
 
-se preste el servicio solicitado por omisión de requisitos,
+documento que se devuelva sin
 
-impedimento legal, por contener datos incorrectos o a petición
+que se preste el servicio
 
-del interesado, por cada vez: 2.50
+solicitado por omisión de
 
-II. Por la inscripción de documentos, resoluciones judiciales o
+requisitos, impedimento legal,
 
-administrativas y testimonios notariales en los cuales se
+por contener datos incorrectos
 
-establezca, declare, transfiera, adquiera o modifique el
+o a petición del interesado,
 
-dominio, o la posesión de bienes inmuebles o derechos reales, 85.00
+por cada vez: 2.50
 
-incluyendo los fideicomisos traslativos de dominio, por cada
+II. Por la inscripción de:
 
-inmueble a que se refiere esta fracción:
+a) Documentos, resoluciones
 
-La primera inscripción de la propiedad será gratuita y los
+judiciales o administrativas
 
-derechos por el registro de los actos traslativos subsecuentes
+y testimonios notariales en
 
-se causarán en términos de esta fracción:
+los cuales se establezca,
 
-Esta misma tarifa aplicará a la compraventa con reserva de dominio;
+declare, transfiera, adquiera
 
-a la compraventa de la nuda propiedad con reserva del
+o modifique el dominio, o la
 
-usufructo; así como a la adjudicación de bienes por disolución
+posesión de bienes inmuebles
 
-de la sociedad conyugal o aplicación de bienes por gananciales
+o derechos reales, incluyendo
 
-cuando el adquiriente no sea titular registral;
+los fideicomisos traslativos
 
-III. Por inscripción de hipoteca, por cada inmueble en que se
+de dominio, por cada inmueble
 
-deba hacer el registro: 85.00
+a que se refiere esta fracción: 85.00
 
-IV. Por la sustitución de deudor o de acreedor, en cualquier caso: 9.00
+La primera inscripción de la propiedad será gratuita y los derechos por el registro de los actos traslativos subsecuentes se causarán en términos de este inciso.
 
-V. Por el registro de cédulas hipotecarias: 25.50
+Esta misma tarifa aplicará a la compraventa con reserva de dominio; a la compraventa de la nuda propiedad con reserva del usufructo; así como a la adjudicación de bienes por disolución de la sociedad conyugal o aplicación de bienes por gananciales cuando el adquiriente no sea titular registral;
 
-VI. Por la inscripción de la constitución de patrimonio
+b) Hipoteca, por cada inmueble
+
+en que se deba hacer el registro: 85.00
+
+c) La sustitución de deudor o
+
+de acreedor, en cualquier caso: 9.00
+
+d) El registro de cédulas
+
+hipotecarias: 25.50
+
+III. En materia de patrimonio familiar, por la inscripción de:
+
+a) La constitución de patrimonio
 
 familiar: 1.50
 
-VII. Por la inscripción de la cancelación del patrimonio
+b) La cancelación del patrimonio
 
 familiar: 1.50
 
-VIII. Por la inscripción de:
+IV. Por la inscripción de fideicomisos y contratos de arrendamiento:
 
-a) Fideicomisos de administración o de garantía, por cada
+a) Fideicomisos de administración
 
-inmueble que se afecte: 28.50
+o de garantía, por cada inmueble
 
-b) Cancelación de estos fideicomisos, por cada inmueble
+que se afecte: 28.50
 
-que se afecte: 11.50
+b) Cancelación de estos fideicomisos,
 
-c) Contratos de arrendamiento de inmuebles: 28.50
+por cada inmueble que se afecte: 11.50
 
-IX. Por la inscripción de:
+c) Contratos de arrendamiento
 
-a) Fraccionamiento, lotificación, fusión, división o subdivisión
+de inmuebles: 28.50
 
-de un inmueble, por cada lote o fracción: 9.00
+V. En materia de fraccionamientos y condominios, por la inscripción de:
 
-b) Constitución de régimen de propiedad en condominio o,
+a) Fraccionamiento, lotificación,
 
-en su caso, de su modificación por cada unidad condominal: 9.00
+fusión, división o subdivisión de
 
-X. Por la inscripción de contratos de prenda o comodato, de
+un inmueble, por cada lote o fracción: 9.00
 
-contratos sobre bienes muebles o de los que establezcan
+b) Constitución de régimen de
 
-condición suspensiva o resolutoria o de cualquiera
+propiedad en condominio o, en
 
-otra modalidad: 56.50
+su caso, de su modificación por
 
-XI. Por la inscripción de documentos que extingan los actos
+cada unidad condominal: 9.00
 
-mencionados en la fracción anterior: 9.00
+VI. Tratándose de contratos de prenda o comodato, de contratos sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad:
 
-XII. Por la inscripción de contratos de compraventa con
+a) Por su inscripción 56.50
 
-reserva de dominio sobre bienes inmuebles: 56.50
+b) Por la inscripción de
 
-XIII. Por la inscripción de documentos en que se haga constar
+documentos que extingan
 
-la cancelación de la reserva de dominio sobre bienes inmuebles,
+los actos mencionados en
 
-en los términos de la fracción anterior: 56.50
+la fracción anterior: 9.00
 
-XIV. Por la inscripción de:
+VII. Tratándose de contratos de compraventa con reserva de dominio sobre bienes inmuebles:
 
-a) Documentos en que se constituya una asociación o sociedad
+a) Por su inscripción: 56.50
 
-civil, o de sus aumentos: 28.50
+b) Por la inscripción de
 
-b) Acta de asamblea de las personas morales mencionadas: 13.50
+documentos en que se haga
 
-c) Fusión de sociedades y asociaciones civiles: 28.50
+constar la cancelación de
 
-d) Cada uno de los actos de disolución, liquidación
+la reserva de dominio sobre
 
-o cancelación del asiento correspondiente a una sociedad o
+bienes inmuebles:
 
-asociación civil: 17.00
+56.50
 
-XV. Por la inscripción de:
+VIII. Tratándose de sociedades o asociaciones civiles, por la inscripción de:
 
-a) Poderes o sustituciones de los mismos, por cada inmueble: 9.00
+a) Documentos en que se
 
-b) Revocación de poderes, por cada inmueble: 3.50
+constituya una asociación
 
-XVI. Por la inscripción de fianzas, contrafianzas u obligaciones
+o sociedad civil, o de sus
+
+aumentos: 28.50
+
+b) Acta de asamblea de las
+
+personas morales mencionadas: 13.50
+
+c) Fusión de sociedades y
+
+asociaciones civiles: 28.50
+
+d) Cada uno de los actos de
+
+disolución, liquidación o
+
+cancelación del asiento
+
+correspondiente a una
+
+sociedad o asociación civil: 17.00
+
+IX. Por la inscripción de instrumentos de representación legal:
+
+a) Poderes o sustituciones
+
+de los mismos, por cada inmueble: 9.00
+
+b) Revocación de poderes, por
+
+cada inmueble: 3.50
+
+X. Por la inscripción de fianzas,
+
+contrafianzas u obligaciones
 
 solidarias con el fiador: 11.50
 
-XVII. Por la expedición de:
+XI. Por la expedición de:
 
-a) Certificados de libertad o existencia de gravámenes: 3.50
+a) Certificados de libertad o
 
-b) Certificados de libertad o existencia de gravámenes, con
+existencia de gravámenes: 3.50
+
+b) Certificados de libertad o
+
+existencia de gravámenes, con
 
 efectos de aviso preventivo: 10.50
 
-c) Certificados de inexistencia de registro: 11.50
+c) Certificados de inexistencia
+
+de registro: 11.50
 
 d) Certificados de no propiedad: 2.50
 
-e) Certificados de inscripción de propiedad: 7.00
+e) Certificados de inscripción
 
-f) Informes y constancias solicitadas por autoridades y
+de propiedad: 7.00
 
-organismos no exceptuados por la ley: 7.00
+f) Informes y constancias
 
-g) Certificados de búsqueda de antecedentes registrales: 11.50
+solicitadas por autoridades
 
-h) Copias certificadas de documentos registrales o que obren
+y organismos no exceptuados
 
-en el archivo: 7.00
+por la ley: 7.00
+
+g) Certificados de búsqueda
+
+de antecedentes registrales: 11.50
+
+h) Copias certificadas de
+
+documentos registrales o
+
+que obren en el archivo: 7.00
 
 i) Copias transcritas: 11.50
 
-XVIII. Por el depósito de testamentos ológrafos: 6.00
+XII. Por el depósito de
 
-XIX. Por la expedición de informes respecto al registro o
+testamentos ológrafos: 6.00
 
-depósito de testamentos que se rindan a solicitud de jueces
+XIII. Por la expedición de
+
+informes respecto al registro
+
+o depósito de testamentos que
+
+se rindan a solicitud de jueces
 
 o notarios, por cada testador: 11.50
 
-XX. Por la cancelación de embargos, hipotecas, cédulas
+XIV. Por la cancelación de
+
+embargos, hipotecas, cédulas
 
 hipotecarias y fianzas: 9.00
 
-XXI. Por la anotación de los datos de registro en un
+XV. Por la anotación de los
+
+datos de registro en un
 
 testimonio notarial adicional: 6.00
 
-XXII. Por la inscripción de testimonios notariales que
+XVI. Por la inscripción de
 
-rectifiquen o aclaren el registro de otro testimonio: 9.00
+testimonios notariales que
 
-XXIII. Inscripción de rectificación y reposición de inscripciones: 9.00
+rectifiquen o aclaren el
 
-XXIV. Por cada una de las consultas de libros, folio
+registro de otro testimonio: 9.00
 
-real electrónico, y consultas en internet, que corresponda
+XVII. Inscripción de rectificación
 
-al total de anotaciones y registros de una sola propiedad: 1.50
+y reposición de inscripciones: 9.00
 
-XXV. Por concepto de certificación de documentos y firmas,
+XVIII. Por cada una de las
 
-distintos de los establecidos en el inciso h), de la
+consultas de libros, folio
 
-fracción XVII del presente artículo, se causarán los derechos
+real electrónico, y consultas
 
-establecidos en el Capítulo Décimo Séptimo del presente Título;
+en internet, que corresponda al
 
-XXVI. Por concepto de verificación en campo de un inmueble: 6.00
+total de anotaciones y registros
 
-XXVII. Por la inscripción de embargos administrativos,
+de una sola propiedad: 1.50
 
-en materia fiscal, laborales o judiciales: 28.50
+XIX. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso h), de la fracción XI del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
 
-XXVIII. Inscripción de servidumbre: 11.50
+XX. Por concepto de verificación
 
-XXIX. Cancelación de servidumbre: 11.50
+en campo de un inmueble: 6.00
 
-XXX. Inscripción de modificación de medidas: 11.50
+XXI. Por la inscripción de
 
-XXXI. Anotación preventiva de demanda: 11.50
+embargos administrativos, en
 
-XXXII. Cancelación de anotación preventiva: 11.50
+materia fiscal, laborales o
 
-XXXIII. Reversión de propiedad, por inmueble: 11.50
+judiciales: 28.50
 
-XXXIV. Inscripción de modificación de fideicomiso,
+XXII. Inscripción de servidumbre: 11.50
 
-por inmueble: 11.50
+XXII (SIC). Cancelación de
 
-XXXV. Cancelación de usufructo vitalicio: 11.50
+servidumbre: 11.50
 
-XXXVI. Inscripción de cancelación de litigio: 11.50
+XXIII. Inscripción de modificación
 
-XXXVII. Inscripción de cancelación de anotación judicial: 11.50
+de medidas: 11.50
 
-XXXVIII. Ratificación de firmas: 11.50
+XXIV. Anotación preventiva de
 
-XXXIX. Por la inscripción, anotación, cancelación,
+demanda: 11.50
 
-expedición de documentos o informes de cualquier
+XXV. Cancelación de anotación
 
-otro acto no especificado en este artículo, se cobrará: 11.50
+preventiva: 11.50
+
+XXVI. Reversión de propiedad, por
+
+inmueble: 11.50
+
+XXVII. Inscripción de modificación
+
+de fideicomiso, por inmueble: 11.50
+
+XXVIII. Cancelación de usufructo
+
+vitalicio: 11.50
+
+XXIX. Inscripción de cancelación de
+
+litigio: 11.50
+
+XXX. Inscripción de cancelación de
+
+anotación judicial: 11.50
+
+XXXI. Ratificación de firmas: 11.50
+
+XXXII. Por la inscripción, anotación,
+
+cancelación, expedición de documentos
+
+o informes de cualquier otro acto no
+
+especificado en este artículo, se
+
+cobrará: 11.50
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -1753,7 +1861,9 @@ III. Cuando se trate de la inscripción de testimonios de escrituras públicas q
 
 IV. Las inscripciones de embargo y certificados de gravámenes solicitados por el Gobierno del Estado a consecuencia del procedimiento administrativo de ejecución derivado de créditos fiscales, causarán los derechos correspondientes pero no se cobrarán previamente, sino al hacer efectivo el crédito fiscal como parte del mismo, y
 
-V. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determina en la fracción XXVI del artículo anterior de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determina en la fracción XX del artículo anterior de esta Ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -2019,9 +2129,13 @@ III. Por el registro de sentencias de adopciones: 6.50
 
 IV. Matrimonios:
 
-A) En las oficinas del Registro Civil, en días hábiles
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-y dentro del horario autorizado: 10.50
+A) En las oficinas del Registro
+
+Civil, en días hábiles y dentro
+
+del horario autorizado: 12.24
 
 B) Fuera de las oficinas del registro civil:
 
@@ -2037,11 +2151,21 @@ presente fracción, por cada evento, le corresponderá el 10%
 
 del cobro efectuado al funcionario competente.
 
-C) Por la inscripción del cambio de régimen matrimonial: 3.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-D) Anotación marginal por virtud de divorcio judicial: 12.00
+C) Por la inscripción del cambio
 
-V. Anotación marginal por orden judicial: 3.00
+de régimen matrimonial: 9.64
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+D) Anotación marginal por virtud
+
+de divorcio judicial: 9.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Anotación marginal por orden judicial: 7.79
 
 VI. Aclaración o rectificación de actas: 4.50
 
@@ -2051,25 +2175,39 @@ VIII. Inserciones:
 
 A) En actas de matrimonio: 7.00
 
-B) En actas de nacimiento: 3.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-C) En actas de defunción: 3.00
+B) En actas de nacimiento: 6.00
 
-D) En otro tipo de actas: 3.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+C) En actas de defunción: 6.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+D) En otro tipo de actas: 6.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 IX. Búsqueda de:
 
-A) Registro de nacimiento: 2.00
+A) Registro de nacimiento: 2.32
 
-B) Registro de matrimonios: 2.00
+B) Registro de matrimonios: 2.32
 
-C) Registro de defunciones: 2.00
+C) Registro de defunciones: 2.18
 
-D) Otro no especificado: 2.00
+D) Otro no especificado: 2.51
 
-X. Expedición de copias certificadas de actas del Estado
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-de Morelos y de otras entidades del país: 1.50
+X. Copia certificada de actas del estado de Morelos y de otras
+
+entidades del país:
+
+A) Expedición en las oficinas del Registro Civil 2.11
+
+B) Emisión en línea (por internet) 2.11
 
 XI. Distribución de formatos a oficialías municipales del registro civil:
 
@@ -2081,9 +2219,9 @@ XII. Por servicios de trámite y resolución de
 
 divorcio administrativo: 56.50
 
-XIII. Copia certificada del registro en el libro: 1.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XIV. Por concepto de certificación de documentos
+XIII. Copia certificada del registro en el libro: 2.26
 
 y firmas se causarán los derechos establecidos en el
 
@@ -2173,17 +2311,17 @@ B) Servicio público:
 
 III. Servicio de control vehicular para circular sin placas, tarjeta de circulación y engomado, otros servicios:
 
-A) Expedición de permisos para circular sin placas,
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-tarjeta de circulación y engomado, para el servicio
+A) Expedición de permisos para circular sin placas, tarjeta
 
-particular:
+de circulación y engomado, para el servicio particular:
 
-1. Para automóvil por treinta días: 4.00
+1. Para automóvil por treinta días: 1.30
 
-2. Para camión por treinta días: 4.00
+2. Para camión por treinta días: 1.30
 
-3. Para camión o automóvil por tres días: 1.50
+3. Para camión o automóvil por tres días: 1.00
 
 B) Expedición de Tarjeta de Circulación y Holograma
 
@@ -2531,21 +2669,37 @@ a los que les corresponda el holograma tipo E: EXENTO
 
 1.5. (DEROGADO, P.O. 16 DE JULIO DE 2017)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 2. Por otorgamiento de autorización por
 
 cada Línea de Verificación en equipos
 
 analizadores de gases:
 
-2.1. Por cada línea de verificación dinámica,
+2.1. Por cada línea de verificación
 
-(tratándose de equipos para gasolina, gas
+(tratándose de equipos para gasolina,
 
-licuado de petróleo y gas natural): 4107.34
+gas licuado de petróleo y gas natural): 4,107.34
 
-2.2. Por cada línea de verificación dual,
+2.2. Por cada línea de verificación
 
-(con capacidad de prueba estática y diésel): 6161.01
+dual (tratándose de equipos para
+
+gasolina, gas licuado de petróleo y
+
+gas natural, así como diésel): 6,161.01
+
+2.3. Por el refrendo de cada línea
+
+de verificación (tratándose de
+
+equipos para gasolina, gas licuado
+
+de petróleo y gas natural) así como
+
+dual: 221.34
 
 3. Certificación, acreditación y autorización
 
@@ -2819,17 +2973,85 @@ de la fracción orgánica de residuos
 
 sólidos urbanos: 709.50
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 9. Disposición de residuos sólidos
 
 urbanos a los Ayuntamientos del
 
 Estado de Morelos:
 
-9.1. Por tonelada de residuos mezclados: 1.00
+9.1. Con convenio, con base a volumen y sin separación:
 
-9.2. Por tonelada de residuos separados
+9.1.1. Con convenio, con base a
 
-(separación primaria al 100%): 1.00
+volumen al 100% 0.7684
+
+9.1.2. Con convenio, con base al
+
+volumen al 95% 0.7948
+
+9.1.3. Con convenio, con base al
+
+volumen al 90% 0.8213
+
+9.1.4. Con convenio, con base al
+
+volumen al 85% 0.8477
+
+9.1.5. Con convenio, con base al
+
+volumen al 80% 0.8742
+
+9.1.6. Con convenio, con base al
+
+volumen al 75% 0.9007
+
+9.1.7. Con convenio, con base al
+
+volumen al 70% 0.9272
+
+9.1.8. Con convenio, con base al
+
+volumen al 65% 0.9537
+
+9.1.9. Con convenio, con base al
+
+volumen al 60% 0.9802
+
+9.1.10. Con convenio, con base al
+
+volumen al 55% 1.00
+
+9.2. Con convenio, con 100% de volumen y con base a separación
+
+primaria:
+
+9.2.1. Con convenio, con 100% de
+
+volumen y con base a separación
+
+primaria al 100% 0.6623
+
+9.2.2. Con convenio, con 100% de
+
+volumen y con base a separación
+
+primaria al 75% 0.6888
+
+9.2.3. Con convenio, con 100% de
+
+volumen y con base a separación
+
+primaria al 50% 0.7153
+
+9.2.4. Con convenio, con 100% de
+
+volumen y con base a separación
+
+primaria al 25% 0.7418
+
+9.3. Sin convenio. 2.00
 
 10. Disposición de residuos sólidos
 
@@ -2837,13 +3059,15 @@ urbanos a particulares
 
 10.1. Por tonelada 3.00
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 11. Combustible Derivado de Residuos
 
 (CDR):
 
-11.1. Por kcal de acuerdo a su valor
+11.1. Por Kcal de acuerdo a su valor
 
-promedio: 0.01
+promedio: 0.05
 
 B) Manifiesto de entrega-recepción de
 
@@ -2927,97 +3151,101 @@ una de ellas:
 
 4. Grande: EXENTO
 
-VI En materia de administración urbana:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-A) Búsqueda de expediente: 1.369
+VI. En materia de administración urbana:
 
-B) Consulta de expediente con una duración
+A) Búsqueda de expediente: 1.3247
 
-máxima de 1 hora 30 minutos, dentro del
+B) Consulta de expediente con una
 
-horario autorizado de 8:00 a 15:00 horas: 2.0536
+duración máxima de 1 hora 30 minutos,
+
+dentro del horario autorizado de 8:00
+
+a 15:00 horas: 1.9870
 
 C) Copia simple de documentos:
 
 1. Copia tamaño carta:
 
-1.1. Por la primer página: 0.0684
+1.1. Por la primer página: 0.0662
 
 1.2. De la página 2 a la página 50,
 
-por página: 0.0136
+por página: 0.0132
 
 1.3. De la página 51 en adelante,
 
-por página: 0.0068
+por página: 0.0066
 
 2. Copia tamaño oficio:
 
-2.1. Por la primer página: 0.1026
+2.1. Por la primer página: 0.927
 
 2.2. De la página 2 a la página 50,
 
-por página: 0.02053
+por página: 0.0199
 
 2.3. De la página 51 en adelante
 
-por página: 0.0136
+por página: 0.0099
 
 3. Copia tamaño doble carta:
 
-3.1. Por la primer página: 0.1369
+3.1. Por la primer página: 0.1325
 
 3.2. De la página 2 a la página 50,
 
-por página: 0.027382
+por página: 0.0265
 
 3.3. De la página 51 en adelante
 
-por página: 0.0136
+por página: 0.0132
 
 D) Copia simple de plano:
 
-1. Plano de hasta 90 cm x 60 cm: 1.8483
+1. Plano de hasta 90 cm x 60 cm: 1.3247
 
 2. Por cada fracción adicional
 
 (por lado):
 
-2.1. Por cada 30 cm adicionales
+2.1. Por cada 30 cm adicionales de
 
-de ancho: 0.8899
-
-2.2. Por cada 30 cm adicionales
-
-de longitud: 0.6161
-
-E) Copia certificada de documento:
-
-1. Por la primera página: 0.5476
-
-2. De la página 2 a la página 50
-
-por página: 0.273
-
-3. De la página 51 en adelante por
-
-página: 0.205
-
-F) Copia certificada de plano:
-
-1. Plano de 90 cm x 60 cm: 3.080
-
-2. Por cada fracción adicional
-
-(por lado):
-
-2.1. Por cada 30 cm adicionales
-
-de ancho: 1.506
+ancho: 0.5961
 
 2.2. Por cada 30 cm adicionales de
 
-longitud: 1.02
+longitud: 0.3974
+
+E) Copia certificada de documento:
+
+1. Por la primera página: 0.2649
+
+2. De la página 2 a la página 50
+
+por página: 0.1325
+
+3. De la página 51 en adelante por
+
+página: 0.0662
+
+F) Copia certificada de plano:
+
+1. Plano de 90 cm x 60 cm: 2.6494
+
+2. Por cada fracción adicional
+
+(por lado):
+
+2.1. Por cada 30 cm adicionales
+
+de ancho: 1.1922
+
+2.2. Por cada 30 cm adicionales
+
+de longitud: 0.7948
 
 G) Opinión técnica en el marco de
 
@@ -3025,29 +3253,33 @@ los Programas de Desarrollo Urbano
 
 Sustentable:
 
-1. De un predio, parcela o polígono
+1. De un predio, parcela o
 
-sin compatibilidades de suelo: 2.05
+polígono sin compatibilidades
 
-2. De un predio, parcela o polígono
+de suelo: 1.9870
 
-con compatibilidades de un
+2. De un predio, parcela o
 
-solo uso de suelo 4.107
+polígono con compatibilidades
 
-3. De un predio, parcela o polígono
+de un solo uso de suelo 3.9740
 
-con compatibilidades de varios
+3. De un predio, parcela o
 
-usos de suelo: 6.845
+polígono con compatibilidades
 
-4. Sobre viabilidad de un proyecto
+de varios usos de suelo: 6.6234
 
-o anteproyecto (sin planos
+4. Sobre viabilidad de un
 
-arquitectónicos) ubicado en un
+proyecto o anteproyecto
 
-predio, parcela o polígono: 4.107
+(sin planos arquitectónicos)
+
+ubicado en un predio, parcela
+
+o polígono: 5.2987
 
 5. Sobre viabilidad de un proyecto
 
@@ -3055,351 +3287,453 @@ o anteproyecto (anexando planos
 
 arquitectónicos) sobre un predio,
 
-parcela o polígono: 9.652
+parcela o polígono: 7.9481
 
-6. Sobre el potencial de redensificación
+6. Sobre el potencial de
 
-(poblacional o de vivienda) sobre un predio,
+redensificación (poblacional
 
-parcela o polígono: 9.652
+o de vivienda) sobre un predio,
 
-7. Sobre el potencial de redensificiacíón
+parcela o polígono: 9.2728
 
-(poblacional o de vivienda) sobre un predio,
+7. Sobre el potencial de
 
-parcela o polígono (anexando planos
+redensificiación (poblacional
 
-arquitectónicos): 13.691
+o de vivienda) sobre un predio,
 
-VII. En materia de impacto urbano:
+parcela o polígono (anexando
 
-A) Constancia de no requerimiento de
+planos arquitectónicos); con
 
-impacto urbano: 34.227
+compatibilidades de uso de suelo: 10.5974
 
-B) Dictamen de impacto urbano,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-en general:
+VII. En materia de impacto urbano
 
-1. Costo adicional por tipo de proyecto:
+y vial:
 
-1.1. Apertura; prolongación y
+A) Constancia de no requerimiento
 
-ampliación de vías públicas, de
+de impacto urbano o de impacto vial: 33.1170
 
-carácter regional o primario,
+B) Dictamen de impacto urbano:
 
-no previstas en los programas
+1. Apertura, prolongación y
 
-de desarrollo urbano sustentable,
+ampliación de vías públicas,
+
+de carácter regional o primario,
+
+no previstas en los programas de
+
+desarrollo urbano sustentable,
 
 así como para los centros de
 
-población que carezcan de ésta: 6.845
+población que carezcan de ésta: 105.9743
 
-1.2. Autorización de fraccionamientos,
+2. Autorización de fraccionamientos,
 
-condominios y conjuntos urbanos que
+condominios y conjuntos urbanos
 
-utilicen políticas de redensificación focal
+que utilicen políticas de
 
-y en las áreas aptas para el desarrollo
+redensificación focal y en las
 
-urbano para los proyectos iguales o
+áreas aptas para el desarrollo
 
-superiores a cien viviendas:
+urbano para los proyectos iguales
 
-1.2.1. Redensificación máxima permitida
+o superiores a cien viviendas:
 
-que se encuentre en el rango de 1 a
-
-50 viviendas: 6.845
-
-1.2.2. Redensificación máxima permitida
-
-que se encuentre en el rango de 51 a
-
-100 viviendas: 13.691
-
-1.2.3. 1.2.1 (sic) Redensificación máxima
+2.1. Redensificación máxima
 
 permitida que se encuentre en el
 
-rango de 101 a 500 viviendas: 68.455
+rango de 1 a 50 viviendas: 112.5977
 
-1.2.4. Redensificación máxima permitida
+2.2. Redensificación máxima
+
+permitida que se encuentre en
+
+el rango de 51 a 100 viviendas: 132.4679
+
+2.3. Redensificación máxima
+
+permitida que se encuentre en
+
+el rango de 101 a 500 viviendas: 198.7018
+
+2.4. Redensificación máxima
+
+permitida que se encuentre en
+
+el rango de 501 a 1000 viviendas: 331.1697
+
+2.5. Redensificación máxima
+
+permitida que se encuentre en
+
+el rango de 1,001 a 2,500
+
+viviendas: 397.4036
+
+2.6. Redensificación máxima
+
+permitida que se encuentre en
+
+el rango de 2,501 viviendas en
+
+adelante: 529.8715
+
+2.7. Autorización de
+
+fraccionamientos, condominios
+
+y conjuntos urbanos en áreas
+
+aptas para el desarrollo urbano,
+
+para los proyectos que se encuentren
+
+en el rango de 100 a 500 viviendas: 165.5848
+
+2.8. Autorización de
+
+fraccionamientos, condominios
+
+y conjuntos urbanos en áreas
+
+aptas para el desarrollo urbano,
+
+para los proyectos que se
+
+encuentren en el rango de
+
+501 a 1000 viviendas: 238.4422
+
+2.9. Autorización de
+
+fraccionamientos, condominios
+
+y conjuntos urbanos en áreas
+
+aptas para el desarrollo urbano,
 
 que se encuentre en el rango de
 
-501 a 1000 viviendas: 136.91
+1,001 a 2,500 viviendas: 331.1697
 
-1.2.5. Redensificación máxima permitida
+2.10. Autorización de
 
-que se encuentre en el rango de 1,001 a
+fraccionamientos, condominios
 
-2,500 viviendas: 342.27
+y conjuntos urbanos en áreas
 
-1.2.5 (sic). Redensificación máxima
+aptas para el desarrollo urbano,
 
-permitida que se encuentre en el
+que se encuentre en el rango de
 
-rango de 2,501 viviendas en adelante: 410.733
+2,501 viviendas en adelante: 397.4036
 
-1.3. Proyectos de ampliación de vivienda:
+3. Proyectos de ampliación de
 
-1.3.1. Cuando la suma de lo existente
+vivienda:
 
-y el incremento rebase los 5,000 metros
+3.1. Cuando la suma de lo existente
 
-cuadrados de construcción: 68.455
+y el incremento rebase los 5,000
 
-1.3.2. Cuando ya se tenga una evaluación
+metros cuadrados de construcción: 172.2082
 
-de impacto, y se incrementen más de 2,500
+3.2. Cuando ya se tenga una
 
-metros cuadrados de construcción: 34.227
+evaluación de impacto, y se
 
-1.4. Proyectos de ampliación de usos
+incrementen más de 2,500
+
+metros cuadrados de construcción: 139.0913
+
+4. Proyectos de ampliación de usos
 
 no habitacionales:
 
-1.4.1. Cuando la suma de lo existente y
+4.1. Cuando la suma de lo existente
 
-el incremento rebase 5,000 metros cuadrados
+y el incremento rebase 5,000
 
-de construcción: 68.455
+metros cuadrados de construcción: 211.9486
 
-1.4.2. Cuando ya se tenga evaluación de
+4.2. Cuando ya se tenga evaluación
 
-impacto urbano y se incrementen más de
+de impacto urbano y se incrementen
 
-2,500 metros cuadrados de construcción: 34.227
+más de 2,500 metros cuadrados de
 
-1.5. De 1,000 metros cuadrados de
+construcción: 162.2731
 
-construcción en adelante:
-
-1.5.1. Edificación de oficinas, bodegas,
-
-almacenes, despachos y consultorios,
-
-locales de comercios o servicios: 54.764
-
-1.5.2. Bodegas o almacenes: 82.146
-
-1.5.3. Industria química, farmacéutica,
-
-mecánica, automotriz, de ensamble,
-
-plantas de manufactura, tratamiento o
-
-producción de cualquier tipo: 164.29
-
-1.5.4. Equipamiento: 54.764
-
-1.5.5. Hoteles, moteles, hostales o
-
-posadas: 54.764
-
-1.5.6. Centros comunitarios regionales
-
-y culturales, museos, centros de
-
-exposiciones temporales, galerías y
-
-similares: 54.764
-
-1.5.7. Auditorios, cines, teatros, salas de
-
-conciertos o plazas de espectáculos: 164.29
-
-1.5.8. Centros de convenciones y salones o
-
-jardines destinados para fiestas y banquetes: 136.911
-
-1.5.9. Restaurantes, bares, cantinas,
-
-botoneras, centros o clubes nocturnos,
-
-centros de espectáculos, discotecas: 136.911
-
-1.6. De 5,000 metros cuadrados de
+5. De 1,000 metros cuadrados de
 
 construcción en adelante:
 
-1.6.1. Centrales de abasto de cualquier tipo: 301.204
+5.1. Edificación de oficinas,
 
-1.6.2. Academias e institutos de capacitación
+bodegas, almacenes, despachos
 
-técnica, profesional o comercial: 164. 29
+y consultorios, locales de
 
-1.7. De 10,000 metros cuadrados de terreno
+comercios o servicios: 158.9615
 
-en adelante:
+5.2. Bodegas o almacenes: 185.4550
 
-1.7.1. Granjas, rastros, zoológicos, acuarios
+5.3. Industria química,
 
-y jardines botánicos, etnobotánicas, piscícolas,
+farmacéutica, mecánica,
 
-aviarios, herbolarios, o locales que contengan
+automotriz, de ensamble,
 
-de forma legal flora o fauna de cualquier
+plantas de manufactura,
 
-especie: 301.204
+tratamiento o producción
 
-1.7.2. Locales que contengan de forma legal
+de cualquier tipo: 264.9358
 
-flora o fauna de cualquier especie: 136.911
+5.4. Equipamiento: 158.9615
 
-17.3 (sic). Proyectos de usos mixtos
+5.5. Hoteles, moteles, hostales
 
-(habitacional, comercio, servicios o
+o posadas: 158.9615
 
-equipamiento): 164.29
+5.6. Centros comunitarios
 
-1.7.4. Oficinas, despachos y consultorios,
+regionales y culturales,
 
-comercios, servicios: 301.204
+museos, centros de exposiciones
 
-1.7.5. Industria: 410.73
+temporales, galerías y similares: 158.9615
 
-1.7.6. Equipamiento: 301.204
+5.7. Auditorios, cines, teatros,
 
-1.8. Cualquier superficie:
+salas de conciertos o plazas de
 
-1.8.1. Depósitos o almacenamiento de
+espectáculos: 264.9358
 
-combustible; estaciones de servicio de
+5.8. Centros de convenciones y
 
-combustible para carburación diésel,
+salones o jardines destinados
 
-gas LP y gas natural: 438.11
+para fiestas y banquetes: 238,4422
 
-1.8.2. Tiendas de autoservicio,
+5.9. Restaurantes, bares,
 
-departamentales, centros comerciales
+cantinas, botaneras, centros
 
-y mercados, con excepción de las
+o clubes nocturnos, centros de
 
-tiendas de conveniencia: 301.204
+espectáculos, discotecas: 238.4442
 
-1.8.3. Institutos o escuelas de
+6. De 5,000 metros cuadrados de
+
+construcción en adelante:
+
+6.1. Centrales de abasto de
+
+cualquier tipo: 397.4036
+
+6.2. Academias e institutos de
+
+capacitación técnica, profesional
+
+o comercial: 264.9358
+
+7. De 10,000 metros cuadrados
+
+de terreno en adelante:
+
+7.1. Granjas, rastros, zoológicos,
+
+acuarios y jardines botánicos,
+
+etnobotánicas, piscícolas, aviarios,
+
+herbolarios, o locales que contengan
+
+de forma legal flora o fauna de
+
+cualquier especie: 397.4036
+
+7.2. Locales que contengan de
+
+forma legal flora o fauna de
+
+cualquier especie: 198.7018
+
+7.3. Proyectos de usos mixtos
+
+(habitacional, comercio,
+
+servicios
+
+o equipamiento): 264.9358
+
+7.4. Oficinas, despachos y
+
+consultorios, comercios, servicios: 397.4036
+
+7.5. Industria: 503.3779
+
+7.6. Equipamiento: 397.4096
+
+8. Cualquier superficie:
+
+8.1. Depósitos o almacenamiento
+
+de combustible; estaciones de
+
+servicio de combustible para
+
+carburación diésel, gas LP y
+
+gas natural: 529.87
+
+8.2 Tiendas de autoservicio,
+
+departamentales, centros
+
+comerciales y mercados, con
+
+excepción de las tiendas de
+
+conveniencia: 397.40
+
+8.3. Institutos o escuelas de
 
 educación media superior y
 
 universidades o institutos
 
-politécnicos; instituciones
+politécnicos; instituciones o
 
-o centros de estudio de
+centros de estudio de posgrado y
 
-posgrado y centros de
+centros de investigación públicos
 
-investigación públicos
+o privados: 397.40
 
-o privados: 301.204
+8.4. Panteones, crematorios,
 
-1.8.4. Panteones, crematorios,
+velatorios y columbarios; 397.40
 
-velatorios y columbarios; 301.204
+8.5. Arenas de box y luchas,
 
-1.8.5. Arenas de box y luchas,
+plazas de toros, lienzos
 
-plazas de toros, lienzos charros,
+charros, palenques y similares;
 
-palenques y similares; estadios,
+estadios, hipódromos, autódromos,
 
-hipódromos, autódromos,
+velódromos y similares; centros
 
-velódromos y similares;
+de espectáculos: 529.87
 
-centros de espectáculos: 438.11
+8.6. Centros de readaptación o
 
-1.8.5. Centros de readaptación
-
-o reintegración social, clínicas
+reintegración social, clínicas
 
 contra adicciones, reformatorios
 
-o tutelares: 337.50
+o tutelares: 529.87
 
-1.8.6. Terminales de autobuses
+8.7. Terminales de autobuses de
 
-de pasajeros: 301.204
+pasajeros: 397.40
 
-1.8.7. Aeropuertos y parques
+8.8. Aeropuertos y parques
 
-industriales: 547.645
+industriales: 635.85
 
-VIII. En materia del parque estatal
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-urbano barranca de Chapultepec:
+VIII. En materia del parque
 
-A) Admisión general al
+estatal urbano barranca de
 
-parque estatal urbano
+Chapultepec:
 
-barranca de Chapultepec:
+A) Admisión general al parque
 
-1. Admisión general: 0.25
+estatal urbano barranca de
+
+Chapultepec:
+
+1. Admisión general: 0.1325
 
 2. Adultos mayores y personas
 
 con discapacidad: EXENTO
 
-B) Atracciones concesionadas
+3. Visitas escolares organizadas
 
-del parque estatal urbano
+por escuelas públicas de educación
 
-barranca de Chapultepec:
+básica (sólo estudiantes) EXENTAS
 
-1. Herpetario: 0.25
+B) Atracciones concesionadas del
 
-2. Granjita paraíso: 0.25
+parque estatal urbano barranca de
 
-3. Eco lanchas: 0.25
+Chapultepec:
 
-4. Tirolesa: 0.50
+1. Herpetario: 0.1325
 
-5. Muro de escalar: 0.50
+2. Granjita paraíso: 0.1325
+
+3. Eco lanchas: 0.1325
+
+4. Tirolesa: 0.40
+
+5. Muro de escalar: 0.40
 
 C) Atracciones propias del
 
-parque estatal urbano
+parque estatal urbano barranca
 
-barranca de Chapultepec:
+de Chapultepec:
 
-1. Tren: 0.25
+1. Tren: 0.1325
 
-2. Cabaña: 0.25
+2. Cabaña: 0.1325
 
-3. Planetario: 0.25
+3. Planetario: 0.1325
 
-4. Eurobongie: 0.50
+4. Eurobongie: 0.40
 
-5. Inflables: 0.25
+5. Telaraña 0.1325
 
-D) Otros servicios del
+D) Otros servicios del parque
 
-parque estatal urbano
+estatal urbano barranca de
 
-barranca de Chapultepec:
+Chapultepec:
 
-1. Acceso a trotapista de 6:00
+1. Acceso a trotapista de
 
-a 9:00 horas (corredores): 0.05
+6:00 a 9:00 (corredores) 0.0265
 
-2. Acceso a trotapista de 6:00
+2. Acceso a trotapista de
 
-a 9:00 horas paquete de
+6:00 a 9:00 horas paquete
 
-30 días (corredores): 1.00
+de 30 días (corredores): 0.6624
 
 3. Renta de local comercial
 
-por metro cuadrado
+por metro cuadrado (mensual por
 
-(mensual por metro cuadrado): 1.50
+metro cuadrado): 1.50
 
 4. Exposiciones semifijas
 
@@ -3411,7 +3745,7 @@ por metro cuadrado
 
 ### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 87.
 
@@ -3679,29 +4013,41 @@ RELATIVOS A INMUEBLES
 
 ###### Artículo 96 Bis.
 
-Los derechos por las evaluaciones que realiza el centro de evaluación de control de confianza de la Secretaría de Gobierno, se causarán y se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
+Los derechos por las evaluaciones que realiza el centro de evaluación de control de confianza de la Secretaría de Gobierno, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Tarifa en UMA
+Tarifa
 
-I. Evaluaciones
+en UMA
 
-a) Toxicológicas: 7.50
+I. Evaluaciones de control de confianza
 
-b) Toxicológicas y psíquicas: 12.00
+a) Fase toxicológicas (sic): 7.50
 
-c) Integrales: 16.50
+b) Fase médica: 12.00
 
-d) De control de confianza: 20.00
+c) Fase socioeconómica: 16.50
 
-e) De habilidades, destrezas y conocimientos: 30.00
+d) Fase psicológica: 20.00
 
-II. Evaluaciones para la licencia oficial colectiva
+e) Fase poligráfica: 30.00
+
+II. Evaluaciones para la licencia
+
+oficial colectiva
 
 a) Fase toxicológica: 7.50
 
 b) Fase médica: 12.00
 
 c) Fase psicológica: 20.00
+
+III. Evaluaciones para seguridad
+
+privada
+
+Fase toxicológica 7.50
+
+Fase psicológica 20.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
@@ -4283,9 +4629,9 @@ DE LOS SERVICIOS EN MATERIA DEL REGISTRO DE ANTECEDENTES PENALES, DE EXPEDICIÓN
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 107.
 
@@ -4305,11 +4651,11 @@ Los ingresos recaudados por los derechos a que se refiere el párrafo anterior s
 
 Por el servicio de vigilancia, inspección y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 108 Bis.
 
-Por la expedición de oficios de habilitación, se causarán y pagarán derechos por la cantidad equivalente a 1.50 UMA.
+Por la expedición de oficios de habilitación, así como de otras constancias necesarias, por parte de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, para la contratación de servidores públicos, se causarán y pagarán derechos por la cantidad equivalente a 1.50 UMA.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -4341,15 +4687,25 @@ III. Constancia de identificación vehicular: 5.20
 
 IV. Actas especiales: 1.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 108 Ter.
+
+Por concepto de las diversas constancias que expida el Tribunal de Justicia Administrativa del Estado de Morelos necesarias para la contratación de servidores públicos en los tres Poderes de Gobierno, Ayuntamientos, Organismos Descentralizados y Órganos Constitucionales Autónomos, así como la celebración de contratos con particulares, causarán y pagarán derechos por la cantidad equivalente a 2.50 UMA.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 109.
 
-Los servicios de trámites de legalización de firmas, certificaciones y expedición de copias y documentos por servidores públicos del gobierno del estado, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+Los servicios de trámites de legalización de firmas, certificaciones y expedición de copias y documentos por servidores públicos del gobierno del estado o prestadores de servicios públicos concesionados, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Concepto Tarifa en UMA
+Concepto Tarifa
+
+en UMA
 
 I. Legalización de firmas: 2.50
 
@@ -4357,21 +4713,37 @@ II. Certificación de firmas: 1.50
 
 III. Apostilla: 3.50
 
-IV. Apostilla de documentos notariales: 4.50
+IV. Apostilla de documentos
 
-V. Copias certificadas expedidas por el Poder Judicial, sin
+notariales: 4.50
 
-importar el volumen: 3.50
+V. Copias certificadas
 
-VI. Certificado de "no adeudo" por cada impuesto, derecho
+expedidas por el Poder
+
+Judicial y el Tribunal de
+
+Justicia Administrativa,
+
+sin importar el volumen: 3.50
+
+VI. Certificado de "no adeudo"
+
+por cada impuesto, derecho
 
 o contribución que comprenda: 1.00
 
-VII. Certificados de fecha de pago de créditos fiscales: 1.00
+VII. Certificados de fecha de
 
-VIII. Cualquiera otra certificación que se expida por
+pago de créditos fiscales: 1.00
 
-autoridad distinta de las anteriores:
+VIII. Cualquiera otra
+
+certificación que se expida
+
+por autoridad distinta de las
+
+anteriores:
 
 A) Por la primera hoja: 1.00
 
@@ -4383,7 +4755,9 @@ C) Por las siguientes hojas y
 
 más de cincuenta: 0.10
 
-Por los servicios de certificación de documentos y firmas, se pagará por concepto de derechos la tarifa señalada en el presente artículo cuando la dependencia no tenga un concepto de cobro específico contenido en esta ley.
+IX. Copias simples: 0.01
+
+Por los servicios de certificación de documentos y firmas, se pagará por concepto de derechos la tarifa señalada en el presente artículo cuando la dependencia no tenga un concepto de cobro específico contenido en esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -4549,6 +4923,20 @@ C) DE 300.01 M2 EN ADELANTE 110.00
 
 VIII. CESIÓN DE DERECHOS 21.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. COPIAS CERTIFICADAS DE EXPEDIENTES EN MATERIA DE RESERVAS TERRITORIALES:
+
+A) POR LA PRIMERA HOJA: 1.00
+
+B) A PARTIR DE DOS HOJAS
+
+Y HASTA CINCUENTA 0.15
+
+C) A PARTIR DE CINCUENTA Y
+
+UN HOJAS: 0.10
+
 ###### Artículo 114 Bis.
 
 (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
@@ -4635,21 +5023,21 @@ ALTO O MÁXIMO RIESGO 27.50
 
 No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 114 Quater
+###### Articulo 114 Quater
 
-6. Por la visita de inspección y vigilancia que realice la Coordinación Estatal de Protección Civil Morelos a los proyectos de construcción e instalación y desarrollos habitacionales a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa:
+6. Por la visita de inspección y vigilancia que realice la Coordinación Estatal de Protección Civil Morelos a los proyectos de construcción e instalación, existentes o de nueva creación y todo desarrollo habitacional, a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos y 122 del Reglamento de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa:
 
 Clasificación de riesgo Tarifa en UMA
 
 Alto o máximo riesgo 18.50
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 114 Quater
 
-7. Por las aprobaciones, que emita la Coordinación Estatal de Protección Civil Morelos, en relación a los proyectos de construcción e instalación y desarrollos habitacionales a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad a la siguiente tarifa:
+7. Por las aprobaciones, que emita la Coordinación Estatal de Protección Civil Morelos, en relación a los proyectos de construcción e instalación, existentes o de nueva creación y todo desarrollo habitacional, a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos y 122 del Reglamento de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa:
 
 Clasificación de riesgo Tarifa en UMA
 
@@ -4681,9 +5069,11 @@ I. Consultores: Tarifa en UMA
 
 1. Riesgo alto o máximo 69.00
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 II. Capacitadores:
 
-1. Primeros auxilios.
+1. Primeros auxilios
 
 Nivel
 
@@ -4693,13 +5083,15 @@ Nivel
 
 1.3. Avanzado 14.00
 
-2. Prevención, combate y control de incendio:
+2. Prevención, combate y control
+
+de incendio:
 
 Nivel
 
-2.1. Básico 11.00
+2.1. Básico 8.50
 
-2.2. Intermedio 13.00
+2.2. Intermedio 10.00
 
 2.3. Avanzado 14.00
 
@@ -4717,11 +5109,19 @@ Nivel
 
 5. Señalización 10.00
 
-6. Simulacros de campo y gabinete 10.00
+6. Guardavidas 26.50
 
-7. Materiales peligrosos 27.50
+7. Rescate acuático 26.50
 
-8. Elaboración de programas
+8. Rescate vertical 26.50
+
+9. Simulacros de campo y
+
+gabinete 10.00
+
+10. Materiales peligrosos 27.50
+
+11. Elaboración de programas
 
 de protección civil. 27.50
 
@@ -4843,9 +5243,21 @@ II. DEL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD":
 
 A) VENTA DE EJEMPLARES:
 
-1. SUSCRIPCIÓN SEMESTRAL: 5.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. SUSCRIPCIÓN ANUAL: 10.50
+1. SUSCRIPCIÓN SEMESTRAL:
+
+1.1. EDICIÓN IMPRESA: 5.50
+
+1.2. EDICIÓN ELECTRÓNICA 5.50
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+2. SUSCRIPCIÓN ANUAL:
+
+2.1. EDICIÓN IMPRESA: 10.50
+
+2.2. EDICIÓN ELECTRÓNICA: 10.50
 
 3. EJEMPLAR DE LA FECHA: 0.15
 
@@ -5322,3 +5734,33 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, Y DE LA LEY ESTATAL DE PLANEACIÓN; CON MOTIVO DEL PAQUETE ECONÓMICO 2018”.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las reformas reglamentarias respectivas que se derivan del mismo, mientras ello sucede se mantendrán vigentes las actuales, así mismo deberán expedirse los actos administrativos necesarios, entre ellos la reexpedición de nombramientos o registro de firmas ante la Secretaría de Gobierno del Poder Ejecutivo Estatal.
+
+QUINTA. Dentro de un plazo de 180 días hábiles contados a partir del inicio de vigencia del presente Decreto las Secretarías, Dependencias y Entidades de la Administración Pública Estatal deberán publicar en el Periódico Oficial “Tierra y Libertad”, sus Manuales Administrativos correspondientes en términos de la normativa aplicable.
+
+SEXTA. Dentro de un plazo de 120 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán, en su caso, actualizar o expedir los programas que resulten necesarios, conforme a las nuevas disposiciones de este instrumento inclusive.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+OCTAVA. Se adiciona un segundo párrafo al Artículo Tercero del Decreto Número Mil Trescientos Setenta y Cinco por el que se crea a la entidad paraestatal denominada “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo”; y se autoriza al titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación, para quedar como sigue:
+
+“…ARTÍCULO TERCERO. …
+
+Particularmente, para el caso de esta Entidad, la designación de su titular invariablemente corresponderá al respectivo Órgano de Gobierno, a propuesta de su presidente…”
+
+NOVENA. Derivado de las consecuencias ocasionadas por el sismo ocurrido el 19 de septiembre de 2017, se faculta al Titular del Poder Ejecutivo Estatal la suspensión temporal de acciones o programas gubernamentales que resulten necesarios para atender dicho desastre.
+
+En ese orden, se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el “Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada “Sistema Integrado de Transporte Masivo”; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación”, realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al “Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada “Sistema Integrado de Transporte Masivo”.
+
+DÉCIMA. En caso de que en el ejercicio fiscal se determine la cancelación de la asignación establecida en el artículo 58 BIS-9, párrafo primero, de la Ley General de Hacienda del Estado de Morelos para el Fondo de Competitividad y Promoción del Empleo, la diversa asignación que corresponda al Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, en términos del artículo 26, fracción II, de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos, se reducirá de acuerdo a los montos y porcentajes efectuados para el primero de los fondos citados.
