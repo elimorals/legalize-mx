@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-jefatura-de-gabinete-del-estado-78906
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-24"
-last_updated: "2012-10-08"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA JEFATURA DE GABINETE, DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL GOBERNADOR DEL ESTADO, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA JEFATURA DE GABINETE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de enero de 2011.
 
@@ -352,3 +354,27 @@ JEFE DE GABINETE.
 P.O. 8 DE OCTUBRE DE 2012.
 
 ÚNICO.- La presente reforma al Reglamento Interior de la Jefatura de Gabinete entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL GOBERNADOR DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Oficina del Estado de Aguascalientes, publicado en el Periódico Oficial Número 30 de fecha 28 de julio de 2014 Primera Sección, así como la reforma publicada en el Periódico Oficial Número 46 de fecha 16 de noviembre de 2015 Primera Sección.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Jefatura de Gabinete del Estado de Aguascalientes, publicado en el Periódico Oficial de fecha 24 de enero de 2011 Primera Sección, así como la reforma publicada en el Periódico Oficial del 8 de octubre de 2012.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la publicación de este Reglamento deberán de ser expedidos los manuales de cada una de las áreas administrativas de la Oficina que los necesiten, en un plazo no mayor a ciento ochenta días.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor del presente reglamento se derogan las disposiciones reglamentarias que lo contravengan.
