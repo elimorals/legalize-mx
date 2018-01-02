@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-12-22"
+last_updated: "2018-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1011,13 +1011,17 @@ VII. En materia de educación y cultura, asistencia y salud públicas:
 
 VIII. En materia de participación ciudadana y vecinal:
 
-1. Formular programas de organización y participación social que permitan una mayor cooperación entre autoridades y habitantes del Municipio.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2018)</small>
+
+1. Formular y establecer dentro de los primeros cuatro meses del inicio de cada administración los programas de organización y participación social que permitan una mayor cooperación entre autoridades y habitantes del Municipio.
 
 2. Promover la participación de los diferentes sectores organizados del Municipio y de los habitantes interesados en la solución de la problemática municipal y en la formulación del Plan de Desarrollo Municipal.
 
 3. Promover la organización de asociaciones de ciudadanos.
 
-4. Reglamentar y establecer las bases que organicen la participación, colaboración y cooperación de los vecinos en la prestación, construcción y conservación de los servicios y obras públicas.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2018)</small>
+
+4. Revisar y actualizar dentro de los primeros cuatro meses del inicio de cada administración el Reglamento de Participación Ciudadana y establecer en su texto las bases que organicen la participación, colaboración y cooperación de los vecinos en la prestación, construcción y conservación de los servicios y obras públicas.
 
 5. Establecer e instrumentar mecanismos efectivos, funcionales y democráticos de participación comunitaria directa para la toma de decisiones fundamentales hacia el interior del gobierno municipal.
 
@@ -3605,7 +3609,7 @@ En tanto que no se declare ilícito, inexistente o terminado un estado de huelga
 
 ###### ARTÍCULO 352.
 
-Antes de estallar la huelga, el Tribunal de Conciliación y Arbitraje, escuchando a las partes, fijará el número indispensable de trabajadores que deberán continuar en sus labores para que presten aquellos servicios cuya suspensión pueda dañar gravemente la conservación de los locales y las instalaciones, maquinaria, materiales o equipo de trabajo; o cuando la suspención (sic) de labores pueda perjudicar la estabilidad de las instituciones o pueda significar un peligro para la salud y seguridad pública de la población.
+Antes de estallar la huelga, el Tribunal de Conciliación y Arbitraje, escuchando a las partes, fijará el número indispensable de trabajadores que deberán continuar en sus labores para que presten aquellos servicios cuya suspensión pueda dañar gravemente la conservación de los locales y las instalaciones, maquinaria, materiales o equipo de trabajo; o cuando la suspensión de labores pueda perjudicar la estabilidad de las instituciones o pueda significar un peligro para la salud y seguridad pública de la población.
 
 Para estos trabajadores, no hay suspensión de los efectos de su nombramiento.
 
@@ -4515,8 +4519,18 @@ SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno 
 
 P.O. 22 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 1042.- SE ADICIONAN LAS FRACCIONES V Y VI RECORRIENDO EL NUMERAL DE LA EXISTENTE V AL VII, DEL ARTÍCULO 19 PARA (SIC) DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 1042.- SE ADICIONAN LAS FRACCIONES V Y VI RECORRIENDO EL NUMERAL DE LA EXISTENTE V AL VII, DEL ARTÍCULO 19 PARA (SIC) DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1133.- SE MODIFICA EL CONTENIDO DE LOS NUMERALES 1 Y 4 DE LA FRACCIÓN VIII DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Municipios que inician su gestión en el año 2018 contaran con un plazo de hasta cuatro meses, contados a partir del inicio de sus periodos, para expedir el reglamento a que hace referencia el numeral 4 de la fracción VIII del Artículo 102; y en su caso, quienes ya cuenten con dicho ordenamiento, proceder a su revisión y actualización.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
