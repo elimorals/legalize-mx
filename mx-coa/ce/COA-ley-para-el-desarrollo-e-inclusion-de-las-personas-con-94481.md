@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-12-26"
+last_updated: "2018-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -559,6 +559,10 @@ De las barreras físicas como aires acondicionados, ventanas sobresalientes en e
 
 Los restaurantes y cafeterías ofrecerán la comodidad requerida a los usuarios en silla de ruedas, así como permitir el acceso a personas con discapacidad visual acompañados de perro guía debidamente autorizado, además de (sic) procuraran el (sic) contar con menús escritos en braille y con ilustraciones de los alimentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 2018)</small>
+
+Las tiendas de autoservicio, mediante organismos públicos u organizaciones de la sociedad civil especializadas en la promoción y defensa de los derechos humanos, deberán capacitar a sus empleados en materia de inclusión y desarrollo de los derechos de las personas con discapacidad; asimismo, considerando su infraestructura, cantidad de empleados y la afluencia de clientes, deberán designar personal que asista a las personas con discapacidad que así lo requieran y soliciten.
+
 ###### Artículo 40°.
 
 Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos deberán contar con espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto y su libre tránsito. Tratándose de auditorios de personas con discapacidad auditiva se reservarán los espacios necesarios a fin de que tengan libre visualización al intérprete.
@@ -687,7 +691,9 @@ IV. Las demás que dispongan otros ordenamientos.
 
 Todas las personas con discapacidad podrán acceder y disfrutar de los servicios culturales, participar en la generación de cultura y colaborar en la gestión cultural.
 
-La Secretaría de Cultura y demás autoridades competentes, promoverán el desarrollo de las capacidades artísticas de las personas con discapacidad. Además procurarán la definición de políticas tendientes a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ENERO DE 2018)</small>
+
+La Secretaría de Cultura y demás autoridades competentes, promoverán el desarrollo de las capacidades artísticas de las personas con discapacidad. Fomentará y promoverá el desarrollo de las capacidades intelectuales y la protección en el ejercicio de sus derechos de propiedad intelectual o de autor. Además procurarán la definición de políticas tendientes a:
 
 I. Fortalecer y apoyar las actividades artísticas vinculadas con las personas con discapacidad;
 
@@ -701,7 +707,9 @@ Las políticas a que se refiere el artículo anterior y los programas que se est
 
 I. Generar y difundir entre la sociedad el respeto a la diversidad y participación de las personas con discapacidad en el arte y la cultura;
 
-II. Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios artísticos y culturales; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2018)</small>
+
+II. Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción, así como el desarrollo y protección en el ejercicio de los derechos de propiedad intelectual o de autor dentro de los servicios artísticos y culturales; y
 
 III. Promover la realización de las adecuaciones materiales necesarias para que las personas con discapacidad tengan acceso a todo recinto donde se desarrolle cualquier actividad cultural, así como a la difusión de las actividades culturales, el impulso a la capacitación de recursos humanos y el uso de materiales y tecnología, a fin de lograr la integración de las personas con discapacidad en las actividades culturales; y el fomento en la elaboración de materiales de lectura.
 
@@ -1278,3 +1286,19 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 2 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1134.- SE REFORMA EL ARTÍCULO 39 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1135.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 55 Y REFORMA LA FRACCIÓN II DEL ARTÍCULO 56 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
