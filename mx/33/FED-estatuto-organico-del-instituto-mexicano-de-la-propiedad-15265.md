@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-propiedad-15265"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-12-27"
-last_updated: "2007-09-13"
+last_updated: "2018-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15265&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1999-12-17"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
+ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1999.
 
@@ -147,6 +147,10 @@ iii) Subdirección Divisional de Examen de Signos Distintivos B;
 
 - Coordinación Departamental de Examen de Marcas D;
 
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2018)</small>
+
+- Coordinación Departamental de Examen de Marcas E;
+
 iv) Subdirección Divisional de Servicios Legales, Registrales e Indicaciones Geográficas;
 
 - Coordinación Departamental de Resoluciones Jurídicas de Signos Distintivos;
@@ -199,7 +203,7 @@ i) Subdirección Divisional de Desarrollo de Sistemas;
 
 ii) Subdirección Divisional de Soporte a Sistemas;
 
-- Coordinación Departamental de Redes y Comunicaciones;
+- (DEROGADO, D.O.F. 2 DE ENERO DE 2018)
 
 - Coordinación Departamental de Soporte Técnico;
 
@@ -207,7 +211,7 @@ ii) Subdirección Divisional de Soporte a Sistemas;
 
 iii) Subdirección Divisional de Productos de Información Tecnológica;
 
-- Coordinación Departamental de Publicaciones y Estadística;
+- (DEROGADO, D.O.F. 2 DE ENERO DE 2018)
 
 - Coordinación Departamental de Producción de Discos Compactos;
 
@@ -215,17 +219,17 @@ iii) Subdirección Divisional de Productos de Información Tecnológica;
 
 e) Promoción y Servicios de Información Tecnológica
 
-i) Subdirección Divisional de Promoción y Difusión de la Propiedad Industrial;
-
-- Coordinación Departamental de Promoción y Apoyo Logístico;
-
-- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
+i) (DEROGADO, D.O.F. 2 DE ENERO DE 2018)
 
 ii) Subdirección Divisional de Servicios de Información Tecnológica;
 
 - Coordinación Departamental del Centro de Información Tecnológica;
 
 - Coordinación Departamental de Acervos Documentales;
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2018)</small>
+
+- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
 
 f) Relaciones Internacionales
 
@@ -255,7 +259,7 @@ iii) Titular de la Oficina Regional Sureste;
 
 - Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
 
-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+- (DEROGADO, D.O.F. 2 DE ENERO DE 2018)
 
 iv) Titular de la Oficina Regional Bajío;
 
@@ -269,7 +273,7 @@ v) Titular de la Oficina Regional Centro;
 
 - Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
 
-- Coordinación Departamental de Promoción;
+- (DEROGADO, D.O.F. 2 DE ENERO DE 2018)
 
 h) Administración
 
@@ -437,7 +441,7 @@ XXVI. Las demás que le confieran las disposiciones legales aplicables y la Junt
 
 ### CAPITULO QUINTO. DE LAS AREAS ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 11.
 
@@ -681,9 +685,9 @@ IX. Actuar como conciliador de los intereses de las partes involucradas en los p
 
 X. Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela la Ley, cuando los involucrados lo designen expresamente como tal, y cumpliendo con las formalidades que para el caso exige el Código de Comercio;
 
-> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2018)</small>
 
-XI. Expedir copias simples y certificadas, previa solicitud, de las constancias que obren en los archivos del Instituto que sean ofrecidas como prueba en un procedimiento de declaración administrativa, así como efectuar el cotejo de la copia simple que se exhiba;
+XI. Expedir copias simples, certificadas y efectuar el cotejo de copias simples que, en su caso, sean exhibidas de las constancias que obren en los archivos del Instituto, cuando se solicite en un procedimiento de declaración administrativa;
 
 > <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
 
@@ -875,7 +879,9 @@ XIV. Intervenir como asesor jurídico del Instituto en las materias de su compet
 
 XV. Sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes u otras disposiciones jurídicas que regulen el ejercicio de las facultades y funcionamiento del Instituto, y
 
-XVI. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, laborales o Ministerio Público.
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2018)</small>
+
+XVI. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando éstas sean requeridas por autoridades judiciales, administrativas, laborales o por el Ministerio Público.
 
 ### CAPITULO SEXTO. DE LA ADSCRIPCION Y ORGANIZACION INTERNA DE LAS AREAS ADMINISTRATIVAS
 
@@ -909,11 +915,11 @@ A la Coordinación de Planeación Estratégica estarán adscritas las Subdirecci
 
 A la Dirección Divisional de Patentes estarán adscritas las Subdirecciones Divisionales de Procesamiento Administrativo de Patentes; de Examen de Fondo de Patentes Areas Biotecnológica, Farmacéutica y Química, y de Examen de Fondo de Patentes Areas Mecánica, Eléctrica y de Registros de Diseños Industriales y Modelos de Utilidad; las Coordinaciones Departamentales de Recepción y Control de Documentos; de Examen de Forma; de Titulación y Conservación de Derechos; de Archivo de Patentes; de Examen de Fondo Area Química; de Examen de Fondo Area Biotecnológica; de Examen de Fondo Area Farmacéutica; de Calidad y Opiniones Técnicas; de Examen de Fondo Area Mecánica; de Examen de Fondo Area Eléctrica y de Examen Area Diseños Industriales y Modelos de Utilidad.
 
-> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 31.
 
-A la Dirección Divisional de Marcas estarán adscritas las Subdirecciones Divisionales de Procesamiento Administrativo de Marcas; de Examen de Signos Distintivos A; de Examen de Signos Distintivos B, y de Servicios Legales, Registrales e Indicaciones Geográficas; las Coordinaciones Departamentales de Recepción y Control de Documentos; de Archivo de Marcas; de Examen de Marcas A; de Examen de Marcas B; de Examen de Marcas C; de Examen de Marcas D; de Resoluciones Jurídicas de Signos Distintivos, y de Conservación de Derechos.
+A la Dirección Divisional de Marcas estarán adscritas las Subdirecciones Divisionales de Procesamiento Administrativo de Marcas; de Examen de Signos Distintivos A; de Examen de Signos Distintivos B, y de Servicios Legales, Registrales e Indicaciones Geográficas; las Coordinaciones Departamentales de Recepción y Control de Documentos; de Archivo de Marcas; de Examen de Marcas A; de Examen de Marcas B; de Examen de Marcas C; de Examen de Marcas D; de Examen de Marcas E; de Resoluciones Jurídicas de Signos Distintivos, y de Conservación de Derechos.
 
 > <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
 
@@ -921,13 +927,17 @@ A la Dirección Divisional de Marcas estarán adscritas las Subdirecciones Divis
 
 A la Dirección Divisional de Protección a la Propiedad Intelectual estarán adscritas las Subdirecciones Divisionales de Prevención de la Competencia Desleal; de Procesos de Propiedad Industrial; de Infracciones Administrativas en Materia de Comercio; de Cumplimiento de Ejecutorias, y de Marcas Notorias; Investigación; Control y Procesamiento de Documentos; las Coordinaciones Departamentales de Infracciones y Delitos; de Inspección y Vigilancia; de Nulidades; de Cancelación y Caducidad; de Visitas de Inspección de Infracciones en Materia de Comercio; de Resoluciones en Infracciones en Materia de Comercio; de Cumplimiento de Ejecutorias; de Recursos de Revisión; de Resoluciones de Marcas Notorias; de Procesamiento de Documentos, y de Inteligencia y vínculo con Autoridades Federales, de las Entidades Federativas y Municipales.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 33.
 
-A la Dirección Divisional de Sistemas y Tecnología de la Información estarán adscritas las Subdirecciones Divisionales de Desarrollo de Sistemas; de Soporte a Sistemas, y de Productos de Información Tecnológica; las Coordinaciones Departamentales de Desarrollo de Sistemas de Marcas; de Desarrollo de Sistemas de Patentes; de Desarrollo de Sistemas de la Protección a la Propiedad Intelectual; de Redes y Comunicaciones; de Soporte Técnico; de Producción de Sistemas; de Publicaciones y Estadística; de Producción de Discos Compactos, y de Documentación Electrónica y Microfilm.
+A la Dirección Divisional de Sistemas y Tecnología de la Información estarán adscritas las Subdirecciones Divisionales de Desarrollo de Sistemas; de Soporte a Sistemas, y de Productos de Información Tecnológica; las Coordinaciones Departamentales de Desarrollo de Sistemas de Marcas; de Desarrollo de Sistemas de Patentes; de Desarrollo de Sistemas de la Protección a la Propiedad Intelectual; de Soporte Técnico; de Producción de Sistemas; de Producción de Discos Compactos, y de Documentación Electrónica y Microfilm.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-A la Dirección Divisional de Promoción y Servicios de Información Tecnológica estarán adscritas las Subdirecciones Divisionales de Servicios de Información Tecnológica, y de Promoción y Difusión de la Propiedad Industrial; las Coordinaciones Departamentales del Centro de Información Tecnológica; de Acervos Documentales; de Promoción y Apoyo Logístico, y de Estudios de Difusión de la Propiedad Industrial.
+A la Dirección Divisional de Promoción y Servicios de Información Tecnológica estará adscrita la Subdirección Divisional de Servicios de Información Tecnológica, y las Coordinaciones Departamentales del Centro de Información Tecnológica; de Acervos Documentales, y de Estudios de Difusión de la Propiedad Industrial.
 
 ###### ARTICULO 35.
 
@@ -967,7 +977,7 @@ El incumplimiento de las obligaciones previstas para el personal mencionado en e
 
 ### CAPITULO OCTAVO. DEL ORGANO DE VIGILANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 40.
 
@@ -1013,7 +1023,7 @@ CUARTO.- Los procedimientos relacionados con el recurso de reconsideración prev
 
 Se expide en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de diciembre del año de mil novecientos noventa y nueve.- El Director General del Instituto Mexicano de la Propiedad Industrial, Jorge Amigo Castañeda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DE DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.]</small>
 
 D.O.F. 10 DE OCTUBRE DE 2002.
 
@@ -1028,3 +1038,11 @@ D.O.F. 13 DE SEPTIEMBRE DE 2007.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
+
+D.O.F. 2 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia que corresponda en el presente Acuerdo.
