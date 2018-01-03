@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2017-11-10"
+last_updated: "2018-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE ENERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1442,13 +1442,15 @@ La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación Ge
 
 ARTÍCULO 83 BIS.- El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, es una unidad administrativa adscrita a la Asamblea Legislativa del Distrito Federal, cuya integración y competencia se regirán por las disposiciones de la Ley de Desarrollo Urbano del Distrito Federal.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 3 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 84.
 
 El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea Legislativa del Distrito Federal, cuyo propósito es la investigación y difusión, de los temas relacionados con el estudio de la historia, funciones, actividad y prácticas parlamentarias del Distrito Federal, así como coadyuvar tanto a los legisladores y demás servidores públicos de la Asamblea en el perfeccionamiento de los instrumentos jurídico legislativos que se elaboren en la misma.
 
-El instituto sin exclusión de otros propósitos, clasificará la información que en su caso suministren el Poder Legislativo Federal y los estatales, realizando investigaciones sobre los temas que atañen al Distrito Federal, asimismo, procurará vincular por medio de un intercambio de experiencias a la Asamblea Legislativa con órganos o unidades administrativas similares, estudiando los medios para mejorar los procesos internos del trabajo legislativo.
+El instituto sin exclusión de otros propósitos, clasificará la información que en su caso suministren el Poder Legislativo Federal y los estatales, realizando investigaciones sobre los temas que atañen a la Ciudad de México, asimismo, procurará vincular por medio de un intercambio de experiencias a la Asamblea Legislativa con órganos o unidades administrativas similares, estudiando los medios para mejorar los procesos internos del trabajo legislativo.
+
+El instituto realizara Estudios Legislativos para la Igualdad de Género los cuales serán en el área técnica que apoyará las actividades legislativas en materia de derechos humanos de las mujeres, teniendo a cargo realizar investigaciones y estudios sobre la situación de las mujeres y los hombres en la Ciudad de México, a fin de que la legislación y otros ordenamientos jurídicos que expida la Asamblea Legislativa del Distrito Federal promuevan la igualdad de género y los derechos humanos de las mujeres de manera objetiva, imparcial y oportuna, enriqueciendo así el trabajo legislativo mediante información analítica y servicios de apoyo técnico.
 
 Asimismo, el Instituto es el órgano compilador de las leyes vigentes en el Distrito Federal, el cual deberá tener a disposición de los interesados el acervo normativo vigente local.
 
@@ -2627,3 +2629,15 @@ G.O. 10 DE NOVIEMBRE DE 2017.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el Pleno de la Asamblea Legislativa.
+
+G.O. 3 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase a la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal a efecto de que realice las adecuaciones, tramites y designaciones presupuestarias necesarias para el establecimiento y funcionamiento del Centro aprobado en el presente dictamen.
+
+CUARTO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
