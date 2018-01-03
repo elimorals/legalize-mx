@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2017-11-10"
+last_updated: "2018-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE ENERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1230,21 +1230,33 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 6. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 70], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 3 DE ENERO DE 2018)</small>
 
-###### Artículo 73.
+###### ARTÍCULO 73.
 
-El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones, actividad y prácticas legislativas. El instituto estará a cargo de un director y contará con el personal administrativo que requiera para el desempeño de sus funciones de acuerdo al presupuesto que la Asamblea le asigne, teniendo las siguientes funciones:
+El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones, actividad y prácticas legislativas. El instituto estará a cargo de una o un director y contará con el personal administrativo que requiera para el desempeño de sus funciones de acuerdo al presupuesto que la Asamblea le asigne, teniendo las siguientes funciones:
+
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
 I.- Elaborar un programa de actividades e investigaciones que establezca los criterios y acciones de investigación.
 
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+
 II.- Realizar las investigaciones legislativas que le sean solicitadas por el Pleno, la Comisión de Gobierno y las Comisiones de la Asamblea;
+
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
 III.- Impartir cursos de capacitación en materias de técnica legislativa y prácticas parlamentarias;
 
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+
 IV.- Realizar estudios para el perfeccionamiento de las prácticas parlamentarias de la Asamblea;
 
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+
 V.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de la Asamblea y del público en general, la información, documentación y bibliografía útil en materia legislativa relativa al Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
 VI.- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos.
 
@@ -1254,7 +1266,19 @@ VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los 
 
 > <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
 
-VIII. Recibir los proyectos de investigación de las Comisiones a que se refiere el artículo 61 de la Ley Orgánica, además de recopilarlos y ordenarlos en un acervo sistematizado.
+VIII.- Recibir los proyectos de investigación de las Comisiones a que se refiere el artículo 61 de la Ley Orgánica, además de recopilarlos y ordenarlos en un acervo sistematizado.
+
+> <small>(ADICIONADA, G.O. 3 DE ENERO DE 2018)</small>
+
+IX.- Incorporar dentro de su presupuesto y realizar las asignaciones necesarias para las actividades del Centro de Estudios Legislativos para la Igualdad de Género.
+
+> <small>(ADICIONADA, G.O. 3 DE ENERO DE 2018)</small>
+
+X.- Turnar al área de Estudios Legislativos para la Igualdad de Género las solicitudes de investigación en materia de igualdad de género que solicite el Pleno, la Comisión de Gobierno y las Comisiones de la Asamblea.
+
+> <small>(ADICIONADA, G.O. 3 DE ENERO DE 2018)</small>
+
+XI.- Designar al personal requerido para el Centro de Estudios Legislativos de conformidad al artículo 75 bis del presente Reglamento.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 71], G.O. 30 DE MARZO DE 2005)
 
@@ -1279,6 +1303,42 @@ I.- Tener licenciatura o estudios de postgrado en Derecho o alguna rama relacion
 II.- Demostrar experiencia en materia jurídica o legislativa o en alguna rama de las ciencias sociales;
 
 III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
+
+IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2018)</small>
+
+###### Artículo 75 Bis.
+
+El área de Estudios Legislativos para la Igualdad de Género al que refiere el artículo 84 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal es un área técnica que apoyará las actividades legislativas en materia de derechos humanos de las mujeres, teniendo a cargo realizar investigaciones y estudios sobre la situación de las mujeres y los hombres en la Ciudad de México. El área estará a cargo de una o un investigador Titular y contará con el personal que el Instituto de Investigaciones Parlamentarias le asigne, teniendo las siguientes funciones:
+
+I.- Enviar al Instituto de Investigaciones Parlamentarias su programa anual de actividades e investigaciones estableciendo los criterios y acciones de investigación.
+
+II.- Realizar las investigaciones que le sean asignadas por el Instituto de Investigaciones Parlamentarias a solicitud del Pleno, la Comisión de Gobierno y las Comisiones de la Asamblea;
+
+III.- Impartir cursos de capacitación en materia de igualdad de género;
+
+IV.- Realizar estudios en materia de derechos humanos de la mujer y de equidad de género;
+
+VI (SIC).- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos.
+
+VII.- Asesorar a la Asamblea Legislativa en la asignación de recursos públicos en el Presupuesto de Egresos del Distrito Federal para implementar los programas presupuestarios orientados a cerrar las brechas de desigualdad entre mujeres y hombres;
+
+V (SIC).- Realizar seguimiento puntual y exhaustivo a las políticas públicas implementadas por el Poder Ejecutivo local para alcanzar la igualdad de género, y
+
+VI.- Difundir de manera periódica, sistematizada y mediante indicadores que permitan identificar el avance de las metas y objetivos de los programas presupuestarios orientados a cerrar las brechas de desigualdad entre hombres y mujeres, así como de las políticas públicas implementadas por el Poder Ejecutivo Local.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2018)</small>
+
+###### Artículo 75 Ter.
+
+Para ser la o el Investigador Titular del Centro de Estudios Legislativos para la Igualdad de Género se requiere:
+
+I.- Tener licenciatura o estudios de postgrado en Derecho o alguna rama relacionada directamente con las funciones encomendadas;
+
+II.- Demostrar experiencia en materia de derechos humanos de las mujeres o perspectiva de género;
+
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de las y los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguna o alguno de las y los Diputados que forme o haya formado parte;
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
@@ -4039,3 +4099,15 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su aprobación en el Pleno de la Asamblea Legislativa.
+
+G.O. 3 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase a la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal a efecto de que realice las adecuaciones, tramites y designaciones presupuestarias necesarias para el establecimiento y funcionamiento del Centro aprobado en el presente dictamen.
+
+CUARTO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
