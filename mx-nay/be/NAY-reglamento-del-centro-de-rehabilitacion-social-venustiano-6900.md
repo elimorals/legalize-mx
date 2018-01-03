@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-centro-de-rehabilitacion-social-venustiano-6900"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-12-25"
-last_updated: "1976-12-25"
+last_updated: "2018-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO DEL CENTRO DE REHABILITACION SOCIAL "VENUSTIANO CARRANZA" DEL ESTADO DE NAYARIT
 
-REGLAMENTO DEL CENTRO DE REHABILITACION SOCIAL "VENUSTIANO CARRANZA" DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LOS CENTROS DE REINSERCIÓN SOCIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 3 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL CENTRO DE REHABILITACIÓN SOCIAL "VENUSTIANO CARRANZA" DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de diciembre de 1976.
 
@@ -996,3 +998,15 @@ I N D I C E :
 ### CAPITULO XXI. DE LAS SANCIONES 29
 
 TRANSITORIOS 30
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO POR EL CUAL SE EXPIDE EL REGLAMENTO INTERNO DE LOS CENTROS DE REINSERCIÓN SOCIAL DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento del Centro de Rehabilitación Social “Venustiano Carranza” del Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el día 25 de diciembre de 1976; de igual manera, queda sin efecto cualquier disposición administrativa que se oponga al presente instrumento.
+
+Tercero. El Estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente instrumento.
