@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2018-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -125,7 +125,9 @@ II. Los pagos percibidos por los sujetos a que se refiere del (sic) segundo pár
 
 Los retenedores que presten servicios de hospedaje por el cual el pago de la contraprestación contemple servicios adicionales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al servicio de hospedaje, de tal forma que el comprobante fiscal respectivo exprese el importe correspondiente al servicio de hospedaje y el desglose de los servicios prestados.
 
-Cuando se omita efectuar el desglose a que se refiere el párrafo anterior, la base gravable del impuesto será como mínimo el 70% del importe total señalado en el comprobante fiscal respectivo, salvo que previamente a la fecha del pago mensual correspondiente, se compruebe lo contrario.
+> <small>(F. DE E., P.O. 4 DE ENERO DE 2018)</small>
+
+Cuando se omita efectuar el desglose a que se refiere el párrafo anterior, la base gravable del impuesto será como mínimo el 60% del importe total señalado en el comprobante fiscal respectivo, salvo que previamente a la fecha del pago mensual correspondiente, se compruebe lo contrario.
 
 ###### ARTÍCULO 11.
 
