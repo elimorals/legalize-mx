@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2017-12-18"
+last_updated: "2018-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2018.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -6562,5 +6562,65 @@ SÉPTIMO.- Se ordena la publicación del presente Acuerdo, así como la versión
 Primero. Por cuanto hace al plazo establecido en el artículo 339, numeral 1, inciso a) del RE y el establecido en el lineamiento 33 del Anexo 13 Lineamientos del Programa de Resultados Electorales Preliminares, referente a la aprobación del acuerdo por el que se designa o ratifica a la instancia interna responsable de coordinar el Programa de Resultados Electorales Preliminares, será aplicable a partir del Proceso Electoral 2018-2019, por lo que para el Proceso Electoral concurrente 2017-2018, dicho acuerdo deberá ser aprobado, a más tardar, el 1º de diciembre de 2017, y cada OPL deberá remitirlo al Instituto dentro de los cinco días naturales siguientes a su aprobación.
 
 Por lo que respecta a los entregables y a los plazos establecidos en el numeral 33 del Anexo 13 Lineamientos del Programa de Resultados Electorales Preliminares, relativos al informe mensual sobre el avance en la implementación y operación del Programa, correspondiente al mes de octubre y, al proyecto de Acuerdo por el que se determina la integración del Comité Técnico Asesor del Programa, éstos aplicarán a partir del Proceso Electoral 2018-2019.
+
+D.O.F. 4 DE ENERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DE LA "SÍNTESIS DEL ACUERDO DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICA EL ANEXO 2 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, RELATIVO AL PROCEDIMIENTO PARA EL RESGUARDO DE FORMATOS DE CREDENCIAL PARA VOTAR POR PROCESO ELECTORAL FEDERAL”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica el Anexo 2 del Reglamento de Elecciones del Instituto Nacional Electoral, relativo al “Procedimiento para el resguardo de formatos de credencial para votar por Proceso Electoral Federal”, de conformidad con el Anexo que forma parte integral del presente Acuerdo, quedando sin efectos el aprobado por el Consejo General en el punto Segundo del Acuerdo INE/CG661/2016.
+
+SEGUNDO. Notifíquese al Secretario Ejecutivo del Instituto Nacional Electoral, para que por su conducto se instruyan las acciones correspondientes para incorporar el Anexo que forma parte integral del presente Acuerdo como Anexo 2 del Reglamento de Elecciones del Instituto Nacional Electoral.
+
+TERCERO. Infórmese al Consejo General de este Instituto sobre la aprobación referida en el punto Primero del presente Acuerdo, en cumplimiento del artículo 9, párrafo 2 del Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral.
+
+CUARTO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por esta Comisión Permanente del Consejo General.
+
+QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEXTO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta del Instituto Nacional Electoral.
+
+SÉPTIMO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-3/.
+
+D.O.F. 4 DE ENERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DE LA "SÍNTESIS DEL ACUERDO DE LA COMISIÓN TEMPORAL DEL VOTO DE LOS MEXICANOS RESIDENTES EN EL EXTRANJERO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICA EL ANEXO 21 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, RELATIVO A LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DEL VOTO POSTAL DE LAS CIUDADANAS Y LOS CIUDADANOS MEXICANOS RESIDENTES EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2017-2018”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se modifica el Anexo 21 del Reglamento de Elecciones del Instituto Nacional Electoral, relativo a los “Lineamientos para la organización del voto postal de las ciudadanas y los ciudadanos mexicanos residentes en el extranjero para los Procesos Electorales Federal y Locales 2017-2018”, de conformidad con el Anexo que forma parte integral del presente Acuerdo, quedando sin efectos el homónimo aprobado por el Consejo General mediante Acuerdo INE/CG196/2017.
+
+SEGUNDO. Notifíquese al Secretario Ejecutivo del Instituto Nacional Electoral, para que por su conducto se instruyan las acciones correspondientes para incorporar el Anexo que forma parte integral del presente Acuerdo como Anexo 21 del Reglamento de Elecciones del Instituto Nacional Electoral.
+
+TERCERO. Infórmese al Consejo General de este Instituto sobre la aprobación referida en el punto Primero del presente Acuerdo, en cumplimiento del artículo 9, párrafo 2 del Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral.
+
+CUARTO. Hágase del conocimiento de los Organismos Públicos Locales lo aprobado por esta Comisión del Consejo General, por conducto de la Unidad Técnica de Vinculación con Organismos Públicos Locales.
+
+QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEXTO. Publíquese el presente Acuerdo en el portal de internet, en la Gaceta del Instituto Nacional Electoral, y en el Diario Oficial de la Federación.
+
+El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-3/.
+
+D.O.F. 4 DE ENERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DE LA " SINTESIS DEL ACUERDO DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICA EL ANEXO 19.2 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, RELATIVO AL “PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, DEVOLUCIÓN O REINTEGRO, BORRADO SEGURO Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA REVISIÓN”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica el Anexo 19.2 del Reglamento de Elecciones del Instituto Nacional Electoral, relativo al “Procedimiento y Protocolo de seguridad para la generación, entrega, devolución o reintegro, borrado seguro y destrucción de las Listas Nominales de Electores para Revisión”, de conformidad con el Anexo que forma parte integral del presente Acuerdo, quedando sin efectos el homónimo aprobado por el Consejo General mediante Acuerdo INE/CG860/2016.
+
+SEGUNDO. Notifíquese al Secretario Ejecutivo del Instituto Nacional Electoral, para que por su conducto se instruyan las acciones correspondientes para incorporar el Anexo que forma parte integral del presente Acuerdo como Anexo 19.2 del Reglamento de Elecciones del Instituto Nacional Electoral.
+
+TERCERO. Infórmese al Consejo General de este Instituto sobre la aprobación referida en el punto Primero del presente Acuerdo, en cumplimiento del artículo 9, párrafo 2 del Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral.
+
+CUARTO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por esta Comisión Permanente del Consejo General.
+
+QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEXTO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta del Instituto Nacional Electoral.
+
+SÉPTIMO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-3/.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
