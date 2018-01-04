@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-617
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-12"
-last_updated: "2016-03-31"
+last_updated: "2018-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE ENERO DE 2018.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 12 de junio de 2008.
 
@@ -47,6 +47,8 @@ Para efectos del presente Reglamento se entenderá por Secretaría, como la Secr
 
 Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
 
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
 I.- Unidades Administrativas:
 
 a) Oficina del Secretario;
@@ -65,7 +67,7 @@ g) Dirección General de Educación Secundaria;
 
 h) Coordinación General de Salud y Seguridad Escolar;
 
-i) Dirección General de Tecnología Educativa;
+i) Coordinación General de Programas Federales;
 
 j) Dirección General de Vinculación y Participación Social;
 
@@ -97,9 +99,15 @@ w) Unidad de Asuntos Jurídicos; y
 
 x) Dirección General de Atención Ciudadana.
 
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
 II.- Órganos desconcentrados:
 
 a) Coordinación General de Registro, Certificación y Servicios a Profesionistas.
+
+b) Comisión Estatal de Evaluación Educativa.
+
+Se anexa organigrama estructural.
 
 ###### Artículo 4°.
 
@@ -177,7 +185,9 @@ XXIX.- Ser el conducto para concertar acciones con el sector público, privado y
 
 XXX.- Nombrar al Secretario General y al Secretario Técnico del Consejo Estatal de Educación y ejercer, en relación con este Órgano de consulta, las funciones que le confieren las disposiciones reglamentarias aplicables;
 
-XXXI.- Fomentar las relaciones internacionales en todas aquellas acciones de competencia del sector y las que se deriven de los acuerdos suscritos por el Ejecutivo del Estado;
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXXI.- Fomentar las relaciones internacionales en todas aquellas acciones de competencia del sector y las que se deriven de los acuerdos suscritos por el Ejecutivo del Estado y la propia Secretaría;
 
 XXXII.- Autorizar con su firma los nombramientos, camisones, licencias y todos aquellos documentos de los trabajadores del sector educativo del Estado de Sonora, para cuya validez sea necesario este requisito;
 
@@ -327,9 +337,11 @@ IV.- Gestionar lo conducente ante las instancias competentes en materia de atenc
 
 V.- Dirigir los programas de naturaleza compensatoria de educación inicial y básica, en términos de las disposiciones legales y administrativas aplicables;
 
-VI.- Coordinar la operación de los fideicomisos educativos que corresponda atender a la Secretaría en el ámbito estatal;
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
 
-VII.- Coordinar y operar en el Estado el Programa Nacional de Carrera Magisterial, y
+VI.- Coordinar la operación de los fideicomisos educativos que corresponda atender a la Secretaría en el ámbito estatal; y
+
+VII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 VIII.- Las demás que confieran las disposiciones legales aplicables y el Secretario dentro de sus atribuciones.
 
@@ -465,7 +477,7 @@ XI.- Orientar, estimular y evaluar el trabajo académico de los Consejos Técnic
 
 XII.- Promover la capacitación y superación académica y docente de los tipos y niveles de educación de su competencia;
 
-XIII.- Organizar y supervisar el funcionamiento de los órganos de evaluación escolar de los tipos y niveles de educación de su competencia que señala el Programa de Carrera Magisterial;
+XIII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 XIV.- Verificar que las escuelas que realicen actividades de producción y consumo de los tipos y niveles de educación de su competencia, se apeguen a las normas y lineamientos establecidos;
 
@@ -539,7 +551,7 @@ XVIII.- Verificar que las normas pedagógicas contenidas en los planes y program
 
 XIX.- Promover la capacitación y superación académica y profesional del personal docente de educación de nivel primaria;
 
-XX.- Organizar y supervisar el funcionamiento de los órganos de evaluación escolar de la educación de nivel primaria que señala el Programa de Carrera Magisterial;
+XX.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 XXI.- Coordinar el desarrollo de la educación de nivel primaria bajo los criterios definidos, planes y programas de estudio autorizados por la autoridad educativa competente;
 
@@ -601,7 +613,7 @@ XV.- Participar en las acciones de sectorización del servicio de educación de 
 
 XVI.- Promover la capacitación y superación académica y profesional del personal docente de educación de nivel secundaria y educación física;
 
-XVII.- Organizar y supervisar el funcionamiento de los órganos de evaluación escolar de educación de nivel secundaria y educación física, que señala el Programa de Carrera Magisterial;
+XVII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 XVIII.- Coordinar el desarrollo de la educación de nivel secundaria y educación física bajo los criterios, planes y programas de estudio autorizados por la autoridad educativa competente;
 
@@ -669,37 +681,25 @@ XVI.- Participar en la ejecución de programas de seguridad escolar en las difer
 
 XVII.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE MARZO DE 2016)</small>
-
 ###### Artículo 16.
 
-La Dirección General de Tecnología Educativa estará adscrita a la Subsecretaría de Educación Básica, y tendrá las siguientes atribuciones:
+(DEROGADO, B.O. 4 DE ENERO DE 2018)
 
-I.- Fomentar en todos los niveles educativos, y en apoyo de las unidades administrativas competentes, la innovación y el desarrollo educativo, recuperando y difundiendo experiencias orientadas a fortalecer la educación y a mejorar los procesos y sus resultados;
+> <small>(ADICIONADO, B.O. 4 DE ENERO DE 2018)</small>
 
-II.- Impulsar, coordinar, supervisar y evaluar la incorporación y el uso de las tecnologías de manera permanente en el proceso educativo, para ampliar la cobertura y mejorar la calidad de la educación;
+###### Artículo 16 Bis.
 
-III.- Impulsar y orientar la integración y funcionamiento de los organismos técnico-pedagógicos y academias en los diversos niveles educativos, en coordinación con las unidades administrativas competentes;
+La Coordinación General de Programas Federales estará adscrita a la Subsecretaría de Educación Básica y tendrá las siguientes atribuciones:
 
-IV.- Organizar, promover y coordinar la difusión de acciones estratégicas a través de la integración tecnológica de medios informáticos y telecomunicaciones al servicio de los programas y proyectos de las unidades educativas;
+I.- Coordinar la operatividad de los Programas Federales de acuerdo con las Reglas de Operación vigentes, que se implementarán en el Estado en materia educativa.
 
-V.- Promover, organizar e implementar, por conducto de la unidad administrativa competente, actividades de capacitación y sensibilización al personal directivo y docente relacionados con el uso de las nuevas tecnologías de la información y la comunicación;
+II.- Verificar la correcta implementación de los Programas Federales, inclusive la rendición de cuentas.
 
-VI.- Coordinar, promover y supervisar los programas y proyectos de educación a distancia que se desarrollen en el Estado;
+III.- Coordinar las acciones de los procesos de incorporación, financiamiento, formación, acompañamiento y evaluación de los Programas Federales que se implementan en el Estado en el ámbito educativo.
 
-VII.- Supervisar el uso y mantenimiento de equipos de cómputo de televisión, así como los servicios de instalación, asesoría y soporte técnico en las escuelas y sus aulas de medios;
+IV.- Llevar a cabo las acciones de coordinación académica para dar seguimiento operativo y académico a las escuelas incorporadas y reincorporadas; y
 
-VIII.- Diseñar y aplicar políticas de uso de las aulas de medios por parte de la población escolar y la comunidad, en su caso;
-
-IX.- Planear, desarrollar, promover y evaluar campañas de difusión tendientes a promover el uso de las tecnologías en el fomento a la educación permanente y la disminución del rezago educativo;
-
-X.- Promover, conjuntamente con las unidades administrativas competentes, la vinculación con las instituciones de educación superior para ampliar el servicio social de estudiantes y prácticas profesionales, en apoyo a las aulas de medios en el Estado y proyectos estratégicos que utilizan tecnología;
-
-XI.- Evaluar los procesos relativos al uso de las tecnologías en la educación y proponer investigación educativa aplicada a los programas emprendidos en la materia;
-
-XII.- Desarrollar, conjuntamente con el sector magisterial, métodos, proyectos y planes de trabajo para promover el uso de los medios electrónicos como herramienta didáctica en el aula; y
-
-XIII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
+V.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
 
 ###### Artículo 17.
 
@@ -721,7 +721,9 @@ VII.- Apoyar el fortalecimiento de una nueva cultura orientada a impulsar la par
 
 VIII.- Establecer un sistema de comunicación entre las dependencias y entidades del Gobierno del Estado con los organismos de apoyo a la educación y estructuras sociales afines;
 
-IX.- Apoyar la creación, renovación, acreditación y capacitación de los organismos de apoyo a la Educación Básica, tales como las asociaciones de padres de familia, sociedades de alumnos y consejos municipales y escolares de participación social;
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
+IX.- Apoyar la creación, renovación, acreditación y capacitación de los Consejos Municipales y Escolares de Participación Social.
 
 X.- Actuar como enlace entre la Secretaría y la Asociación Estatal de Padres de Familia y ejercer las funciones que la normatividad aplicable a las asociaciones de padres de familia en general le correspondan a esta Secretaría;
 
@@ -813,7 +815,9 @@ IX.- Gestionar ante instituciones extranjeras y organismos afines, las oportunid
 
 X.- Servir de enlace entre instituciones educativas y culturales, y organismos afines del Estado de Sonora y del extranjero, para motivar e impulsar el intercambio educativo;
 
-XI.- Proponer y coordinar, en conjunto con las unidades administrativas competentes de la Secretaría, programas y proyectos orientados a impulsar la enseñanza del inglés en Educación Básica del Estado;
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XI.- Proponer y coordinar, en conjunto con las unidades administrativas competentes de la Secretaría programas y proyectos orientados a impulsar la enseñanza del inglés.
 
 XII.- Coordinar acciones de concurrencia institucional para la elaboración de programas y proyectos especiales relacionados con la enseñanza del inglés;
 
@@ -987,7 +991,7 @@ III.- Diseñar y operar el sistema automatizado que requieran las áreas de recu
 
 IV.- Diseñar, operar y mantener vigentes los sistemas que permitan manejar con rapidez y calidad la información que se genera y compartirla en red entre las diversas unidades administrativas de la Secretaría;
 
-V.- Supervisar el uso y mantenimiento de equipos de cómputo y proporcionar los servicios de instalación, asesoría y soporte técnico a las escuelas y sus aulas de medios;
+V.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 VI.- Emitir opinión en materia de adquisición, reparación y adecuación de equipo y programas de cómputo para la Secretaría, de conformidad con las especificaciones técnicas establecidas por la normatividad aplicable; y
 
@@ -1073,31 +1077,25 @@ I.- Establecer y mantener relaciones con los dirigentes de las cámaras empresar
 
 II.- Establecer relación con miembros estratégicos de docencia, para conocer sus avances de innovación y tecnologías de la información y comunicación, así como para acordar apoyos mutuos entre instituciones;
 
-> <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
 
-III.- Coordinar la realización de eventos en las instituciones de Educación Superior, para motivar la participación de sus estudiantes en la resolución de problemas ciudadanos específicos mediante la aplicación innovadora de la tecnología;
+III.- Coordinar la realización de eventos en las instituciones de Educación Media Superior y Superior, para motivar la participación de sus estudiantes en la resolución de problemas ciudadanos específicos mediante la aplicación innovadora de la tecnología;
 
 IV.- (DEROGADA, B.O. 31 DE MARZO DE 2016)
 
-> <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
-
-V.- Impulsar la utilización estratégica de tecnologías para la información y comunicaciones, con el fin de hacer más competitiva la operación y funcionamiento de las estructuras públicas educativas;
+V.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 > <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
 
 VI.- Promover políticas eficaces en materia de innovación, para impulsar la competitividad del Estado en los ámbitos del desarrollo educativo;
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
 
-VII.- Coordinar la integración de estudios y análisis en materia de innovación educativa, tomando en consideración los lineamientos y políticas señalados en el Plan Estatal de Desarrollo y en el Programa Estatal de Educación;
+VII.- Coordinar la integración de estudios y análisis en materia de innovación educativa, tomando en consideración los lineamientos y políticas señalados en el Plan Estatal de Desarrollo y en el Programa Sectorial de Educación y Cultura;
 
-> <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
+VIII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
-VIII.- Promover el uso de las tecnologías de la información y la comunicación en los procesos educativos en las escuelas de Educación Básica, Media Superior y Superior de Sonora, conforme a las políticas educativas vigentes;
-
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2016)</small>
-
-IX.- Planificar proyectos para fortalecer, extender y operar las propuestas nacionales y estatales relacionadas con el uso de tecnologías de la información y la comunicación en el ámbito educativo;
+IX.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 X.- (DEROGADA, B.O. 31 DE MARZO DE 2016)
 
@@ -1121,9 +1119,7 @@ XVI.- (DEROGADA, B.O. 31 DE MARZO DE 2016)
 
 XVII.- Realizar eventos, congresos y reuniones que promuevan el intercambio de experiencias educativas con el uso de las tecnologías de la información y la comunicación, y el desarrollo científico y de innovación entre las escuelas de Educación Básica, Media Superior y Superior;
 
-> <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
-
-XVIII.- Evaluar los procesos relativos al uso de las tecnologías en Educación Básica, Media Superior y Superior;
+XVIII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
 > <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
 
@@ -1137,13 +1133,37 @@ XX.- Diseñar y desarrollar prototipos y pruebas de concepto de aplicaciones y s
 
 XXI.- Fomentar las acciones de los sectores público, privado y académico que promuevan y consoliden el conocimiento científico y tecnológico;
 
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2016)</small>
+XXII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
-XXII.- Coordinar, supervisar y promover el buen uso de las tecnologías de la información y comunicaciones en la Secretaría, incluyendo los centros de trabajo adscritos a ésta, con el fin de optimizar la utilización de las mismas como parte de un solo proceso integral de modernización; y
+XXIII.- (DEROGADA, B.O. 4 DE ENERO DE 2018)
 
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
 
-XXIII.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
+XXIV.- Planificar, Impulsar, coordinar, supervisar y evaluar la incorporación y uso de las tecnologías, de manera permanente, en el proceso educativo para ampliar la cobertura y mejorar la calidad de la educación;
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXV.- Impulsar y orientar la integración y funcionamiento de los organismos técnico-pedagógicos y/o academias en los diversos niveles educativos en coordinación con las unidades administrativas competentes;
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXVI.- Coordinar, promover y supervisar los programas y proyectos de educación a Distancia que se desarrollan en el Estado;
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXVII.- Supervisar el uso y mantenimiento de equipos de cómputo de televisión, así como los servicios de instalación, asesoría y soporte técnico a las escuelas y sus aulas de medios;
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXVIII.- Diseñar y aplicar políticas de uso de las aulas de medios por parte de la población escolar y la comunidad, en su caso;
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXIX.- Promover, conjuntamente con las unidades administrativas competentes, la vinculación con las instituciones de Educación Superior para ampliar el servicio social de estudiantes y prácticas profesionales, en apoyo a las aulas de medios en el Estado y proyectos estratégicos que utilizan tecnología; y
+
+> <small>(ADICIONADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XXX.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
 
 ###### Artículo 27.
 
@@ -1257,9 +1277,11 @@ VI.- Las demás que le confieran las disposiciones legales aplicables y el super
 
 Para la eficaz atención y eficiente despacho de los asuntos competencia de la Secretaría, ésta contará con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y gozarán de autonomía técnica; y ejercerán las funciones que les confieren específicamente sus respectivos ordenamientos jurídicos de creación, reglamentos interiores, este ordenamiento y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 4 DE ENERO DE 2018)</small>
+
 ###### Artículo 30.
 
-La Coordinación General de Registro, Certificación y Servicios a Profesionistas será un órgano administrativo desconcentrado que estará jerárquicamente subordinado a la Secretaría de Educación Media Superior y Superior y tendrá las siguientes atribuciones:
+La Coordinación General de Registro, Certificación y Servicios a Profesionistas será un órgano administrativo desconcentrado, que estará adscrita al Secretario y tendrá las siguientes atribuciones:
 
 I.- Propiciar el fortalecimiento y consolidación en la administración de los distintos procesos del control escolar y los sistemas de registro y certificación de la educación básica, media superior y superior, incluyendo las gestiones que ante la Federación correspondan;
 
@@ -1285,7 +1307,29 @@ XI.- Vigilar el cumplimiento de las normas para el ejercicio profesional de naci
 
 XII.- Supervisar y promover las acciones necesarias para que los colegios de profesionistas cumplan con sus objetivos; y
 
-XIII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico o el Secretario, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 4 DE ENERO DE 2018)</small>
+
+XIII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 4 DE ENERO DE 2018)</small>
+
+###### Artículo 30 Bis.
+
+La Comisión Estatal de Evaluación Educativa será un órgano administrativo desconcentrado, que estará adscrito al Secretario y tendrá las siguientes atribuciones:
+
+I.- Establecer, coordinar y concertar actividades para la evaluación educativa del Sistema Educativo Estatal;
+
+II.- Desarrollar y mantener en operación indicadores que permita (sic) conocer la tendencia de las acciones del Sistema Educativo Estatal;
+
+III.- Coordinar el desarrollo del Programa Estatal de Evaluación y Mejora Educativa (POEEME) y la operación de los seis Proyectos de Evaluación y Mejora Educativa (PROEMES);
+
+IV.- Coadyuvar a las autoridades educativas competentes en la evaluación educativa que se realice en el Estado;
+
+V.- Apoyar a las autoridades educativas competentes en la evaluación de los docentes que laboran impartiendo educación obligatoria que brindan los particulares;
+
+VI.- Vincularse con instituciones de todos los niveles educativos en pro de la mejora de la calidad de la educación en Sonora; y
+
+VII. Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE FUNCIONARIOS
 
@@ -1293,9 +1337,11 @@ XIII.- Las demás que le confieran las disposiciones legales aplicables y el sup
 
 Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos urgentes de la Secretaría, estarán a cargo del Subsecretario correspondiente, o bien, del Titular de la Unidad Administrativa que corresponda.
 
+> <small>(REFORMADO, B.O. 4 DE ENERO DE 2018)</small>
+
 ###### Artículo 32.
 
-En las ausencias de uno o varios titulares de las unidades administrativas, éstos serán suplidos por los funcionarios que designe el Secretario, a propuesta del Titular de la Unidad Administrativa que se ausente.
+Durante las ausencias temporales de los Titulares de las Unidades Administrativas de la Secretaría, el despacho y la resolución de los asuntos de sus respectivas competencias, serán atendidos por el funcionario que designe el Secretario, o en su caso, a falta de designación, por el servidor público del nivel jerárquico inmediato inferior a los mismos.
 
 ## TRANSITORIOS
 
@@ -1478,3 +1524,23 @@ Las Secretarías de Hacienda, de la Contraloría General y de Educación y Cultu
 ###### ARTICULO SÉPTIMO.
 
 Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de Educación y Cultura, así como las cartas compromiso al ciudadano de las unidades que se modifican mediante este Decreto, deberán expedirse dentro de los sesenta días posteriores a su publicación. El Titular de esta Secretaría queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
+
+B.O. 4 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los titulares de las unidades administrativas que modifican su adscripción y/o competencia por virtud del presente Decreto, harán la entrega-recepción a los titulares de las unidades administrativas que asumen las nuevas atribuciones o al funcionario que el Secretario de Educación y Cultura designe para tal efecto. El funcionario que reciba será responsable de atender, o en su caso, distribuir a las áreas competentes los asuntos que se encontraban en trámite ante tales unidades.
+
+###### ARTÍCULO CUARTO.
+
+Todas las menciones al Instituto de Innovación y Evaluación Educativa del Estado de Sonora, se entenderán referidas y conferidas a la Comisión Estatal de Evaluación Educativa.
