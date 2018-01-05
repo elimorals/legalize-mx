@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2017-10-16"
+last_updated: "2018-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -239,9 +239,13 @@ Integración de expedientes.- Corresponde al Secretario de Gobierno Municipa (si
 
 Objeto.- El Ayuntamiento, para efectos de ejercer la autoridad colegiada a que s (sic) refiere el Título Primero del presente Ordenamiento, se reunirá en sesiones, de acuerdo con la (sic) disposiciones que al respecto prevé la Ley del Régimen Municipal para el Estado y el present (sic) Reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 24.
 
-Clasificación de las sesiones.- Las sesiones de Cabildo serán ordinarias extraordinarias y solemnes, por regla general pública, salvo las excepciones que prevé el artículo 2 (sic) de este Ordenamiento.
+Clasificación de las sesiones.- Las sesiones de Cabildo serán ordinarias, extraordinarias y solemnes; por regla general serán públicas y deberán transmitirse en vivo a través del portal de Internet del Ayuntamiento conforme a las disposiciones aplicables, salvo las excepciones que prevé el artículo 29 de este Ordenamiento.
+
+En las sesiones deberán tomarse las medidas necesarias para la protección de datos personales y demás, cuya difusión sea restringida en los términos de las normas aplicables.
 
 ###### ARTICULO 25.
 
@@ -1684,3 +1688,15 @@ PRIMERO.- Publíquese las reformas que se aprueban, en el Periódico Oficial del
 SEGUNDO.- Las presentes reformas entraran en vigor al día siguiente de la publicación del Reglamento del Cabildo de la Juventud de H. Ayuntamiento de Tijuana en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Una vez que entren en vigor las reformas aprobadas, por conducto de la Secretaría de Gobierno Municipal deberá notificarse a las dependencias de la administración municipal que corresponda, para la inmediata implementación de las reformas aprobadas.
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a la presente reforma.
+
+CUARTO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
