@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2017-01-06"
+last_updated: "2018-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -135,7 +135,9 @@ En caso de duda, cualquier bien o derecho siempre se registrará como bien del d
 
 Para su validez ante terceros, el cabildo aprobará los inventarios de bienes del dominio público y del dominio privado semestralmente durante los meses de enero y julio de cada año de calendario como mínimo. Los primeros deberán además, publicarse en el órgano de difusión municipal que corresponda y en el caso de bienes inmuebles, mandarse a hacer la inscripción y su anotación correspondiente en el Registro Público de la Propiedad y del Comercio en su caso.
 
-La falta de publicación y anotación en el Registro Público de la Propiedad de los inmuebles con la calidad de un bien bajo el régimen de dominio público, no afectará que se repute como bien del dominio publico ante terceros un inmueble siempre y cuando su uso de facto corresponda a tal régimen. Si el bien inmueble no tiene uso de facto para los propósitos del régimen de dominio publico y no se encuentra publicado e inscrito en los términos del presente articulo, hará que dicho inmueble se repute como de dominio privado ante terceros, previo acuerdo de Cabildo una vez analizado el padrón de inmuebles del Ayuntamiento y dictaminado por las Comisiones de Desarrollo Urbano y Hacienda.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
+La falta de publicación y anotación en el Registro Público de la Propiedad de los inmuebles con la calidad de un bien bajo el régimen de dominio público, no afectará que se repute como bien del dominio público ante terceros, siempre y cuando su uso de facto corresponda a tal régimen. Si el bien inmueble no tiene uso de facto para los propósitos del régimen de dominio público y no se encuentra publicado e inscrito en los términos del presente artículo, hará que dicho inmueble se repute como de dominio privado ante terceros, previo acuerdo de Cabildo una vez analizado el padrón de inmuebles del Ayuntamiento y dictaminado por las Comisiones de Desarrollo Urbano, Obras y Servicios Públicos, y Hacienda.
 
 Independientemente de los efectos del párrafo anterior, la inobservancia del presente artículo, dará lugar a las responsabilidades administrativas, penales o civiles que resulten en contra de los funcionarios responsables de su cumplimiento así como de terceros en su caso.
 
@@ -275,13 +277,15 @@ Al término del plazo de la concesión, o de la última prórroga que en su caso
 
 Para dar en concesión un bien inmueble del dominio público se estará a lo siguiente:
 
+> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO DE CABILDO PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2013, SE ADVIERTE QUE LOS ANTERIORES PÁRRAFOS TERCERO Y CUARTO SE FUSIONARON PARA FORMAR EL ACTUAL PÁRRAFO SEGUNDO.]</small>
+
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 Si la concesión excede del término del periodo constitucional del Ayuntamiento, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo. Para la explotación o afectación de un bien propiedad municipal, el Ayuntamiento deberá aprobar la autorización correspondiente con el voto favorable de las dos terceras partes de los integrantes del Cabildo. Cuando la concesión sea promovida por el Ayuntamiento se hará mediante licitación pública, conforme al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
 
-a) Se constituirá un Comité Técnico conformado por el Administrador Municipal, el Tesorero, el Síndico Procurador, el Titular del Área involucrada y un Regidor designado expresamente por el Cabildo; de acuerdo con la materia de la concesión; órgano que autorizará las bases y la emisión de la convocatoria para la licitación; asimismo dicho comité designara a la Dependencia Municipal responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante.
+a) Se constituirá un Comité Técnico conformado por quienes ejerzan la titularidad de: la Coordinación General de Gabinete, la Tesorería Municipal, la Sindicatura Procuradora, del área involucrada y una Regidora o Regidor designado expresamente por el Cabildo, de acuerdo con la materia de la concesión; tal Comité autorizará las bases y la emisión de la convocatoria para la licitación, y designará a la Dependencia Municipal responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante;
 
 b) Las convocatorias para la licitación pública de concesiones deberán indicar:
 
@@ -512,3 +516,15 @@ P.O. 6 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA Y OTROS SEIS ORDENAMIENTOS MUNICIPALES".]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a la presente reforma.
+
+CUARTO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
