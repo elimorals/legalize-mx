@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-adaptacion-y-mitigacion-a-los-efectos-del-92086"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2017-12-26"
+last_updated: "2018-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2013.
 
@@ -301,13 +301,19 @@ XIV. Las demás que le confieran las disposiciones legales y reglamentarias apli
 
 El Estado realizará las acciones y medidas para la mitigación y adaptación al cambio climático, en coordinación con los Ayuntamientos, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 15.
 
-Las acciones de coordinación del Estado con la Federación, los municipios, con las demás entidades federativas, así como con el sector privado y social, estará bajo la rectoría del Gobernador por sí, o a través de quien sea titular de la Secretaría, en estricto cumplimiento a las facultades previstas en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, de esta ley y demás disposiciones que sean aplicables.
+Las acciones de coordinación del Estado con la Federación, los municipios, con las demás entidades federativas, así como con el sector privado y social, estará bajo la rectoría del Gobernador por sí, o a través de quien sea titular de la Secretaría, en estricto cumplimiento a las facultades previstas en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, esta ley, en los Atlas de Riesgo estatales y municipales, y demás disposiciones que sean aplicables.
 
 ###### Artículo 16.
 
 El Estado y los municipios, en el ejercicio de sus competencias y funciones en materia de cambio climático de acuerdo con la presente ley, contribuirán a alcanzar el cumplimiento de los objetivos de adaptación y mitigación a los efectos del cambio climático y, a tal fin, implementarán medidas de coordinación, concertación y colaboración con los sectores público, social y privado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2018)</small>
+
+Deberán utilizar la información contenida en los atlas de riesgo para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas y municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático.
 
 ###### Artículo 17.
 
@@ -319,17 +325,21 @@ II. Participar en las mesas de trabajo y talleres de consulta para la elaboraci�
 
 III. Coadyuvar con el Gobernador y la Secretaría en el cumplimiento del contenido del Plan Estatal contra el Cambio climático, aplicando criterios de transversalidad;
 
-IV. Promover la participación social a través de los sectores organizados social y privado, en lo relativo al cumplimiento de los objetivos de la presente ley;
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2018)</small>
 
-V. Implementar mecanismos de cuidado y ahorro de recursos naturales al interior de las oficinas que dirijan, fomentando entre los servidores públicos adscritos a la dependencia a su cargo, una cultura por el cuidado al medio ambiente, evitando el uso de insumos y material innecesario, la revisión periódica de los vehículos oficiales, ahorro de energía, agua potable, acciones de reciclaje, separación de residuos y demás hábitos que propicien un cuidado al medio ambiente;
+IV. Promover y ejecutar en el ámbito de sus respectivas competencias, las acciones en el ámbito del desplazamiento interno de personas por fenómenos relacionados con el cambio climático;
 
-VI. Identificar oportunidades, evaluar, y en su caso, someter a consideración de la Secretaría y aprobación del Gobernador, los proyectos de reducción de emisiones y captura de gases de efecto invernadero en el Estado, en términos del Protocolo de Kyoto, así como de otros instrumentos tendientes al mismo objetivo;
+V. Promover la participación social a través de los sectores organizados social y privado, en lo relativo al cumplimiento de los objetivos de la presente ley;
 
-VII. Impulsar el desarrollo de proyectos de investigación de interés estatal, en relación con el cambio climático;
+VI. Implementar mecanismos de cuidado y ahorro de recursos naturales al interior de las oficinas que dirijan, fomentando entre los servidores públicos adscritos a la dependencia a su cargo, una cultura por el cuidado al medio ambiente, evitando el uso de insumos y material innecesario, la revisión periódica de los vehículos oficiales, ahorro de energía, agua potable, acciones de reciclaje, separación de residuos y demás hábitos que propicien un cuidado al medio ambiente;
 
-VIII. Propiciar la sustentabilidad y reducción de costos inherentes a su gestión, y
+VII. Identificar oportunidades, evaluar, y en su caso, someter a consideración de la Secretaría y aprobación del Gobernador, los proyectos de reducción de emisiones y captura de gases de efecto invernadero en el Estado, en términos del Protocolo de Kyoto, así como de otros instrumentos tendientes al mismo objetivo;
 
-IX. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+VIII. Impulsar el desarrollo de proyectos de investigación de interés estatal, en relación con el cambio climático;
+
+IX. Propiciar la sustentabilidad y reducción de costos inherentes a su gestión, y
+
+X. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ### CAPÍTULO III. LA COMISIÓN INTERSECRETARIAL
 
@@ -564,3 +574,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1151.- SE REFORMAN LOS ARTÍCULOS 15 Y 16, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 17, RECORRIENDO LAS ULTERIORES, DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
