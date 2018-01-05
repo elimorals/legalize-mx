@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2017-12-26"
+last_updated: "2018-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -421,37 +421,61 @@ XXI.- Recibir, atender y dar seguimiento a las quejas o denuncias de la poblaci�
 
 XXII.- Establecer y coordinar programas de capacitación técnica en materia de ecología e impartirla a los municipios, en su caso, previa la correspondiente solicitud;
 
-XXIII.- Promover la participación de la sociedad en la formulación de la política ecológica y de protección al ambiente, así como para la preservación y restauración de los recursos naturales, conforme a lo previsto en esta ley;
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2018)</small>
 
-XXIV.- Impulsar la creación de grupos de participación ciudadana para la protección al ambiente;
+XXIII.- Promover la incorporación de contenidos educativos, de enseñanza y respeto en materia ecológica, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos de las instituciones públicas y privadas, especialmente en el nivel básico, así como en la formación cultural y social de la niñez y nuestros jóvenes coahuilenses;
 
-XXV.- Proporcionar asesoría a los municipios en materia de concertación y promoción de la cultura ecológica y de protección al ambiente, cuando así lo soliciten;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XXVI.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, conforme a lo establecido en la presente ley;
+XXIV.- Promover la participación de la sociedad en la formulación de la política ecológica y de protección al ambiente, así como para la preservación y restauración de los recursos naturales, conforme a lo previsto en esta ley;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XXVII.- Integrar, clasificar y mantener actualizado el registro de establecimientos industriales que funcionen como fuentes fijas y las fuentes móviles contaminantes del estrado, excepto las de jurisdicción federal;
+XXV.- Impulsar la creación de grupos de participación ciudadana para la protección al ambiente;
 
-XXVIII.- Regular en el ámbito de su competencia, las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XXIX.- Regular sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos industriales no considerados como peligrosos, de conformidad con lo dispuesto en la presente ley;
+XXVI.- Proporcionar asesoría a los municipios en materia de concertación y promoción de la cultura ecológica y de protección al ambiente, cuando así lo soliciten;
 
-XXX.- Prevenir y controlar la contaminación generada por emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, conforme a lo establecido en la presente ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+XXVII.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, conforme a lo establecido en la presente ley;
 
-XXXI.- Ejecutar los programas de ordenamiento ecológico estatal, con la participación que corresponda a los municipios de la entidad, conforme lo previsto en esta ley, así como participar, en su caso, en la ejecución de los ordenamientos ecológicos municipales;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
 
-XXXII.- Evaluar el impacto ambiental generado por el aprovechamiento de las sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo pueden utilizarse para la fabricación de materiales para la construcción u ornamento de obras, a fin de dictar y ejecutar las medidas correspondientes;
+XXVIII.- Integrar, clasificar y mantener actualizado el registro de establecimientos industriales que funcionen como fuentes fijas y las fuentes móviles contaminantes del estado, excepto las de jurisdicción federal;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XXXIII.- Vigilar en el ámbito de su competencia, el debido cumplimiento de las normas oficiales mexicanas expedidas por la Federación en las materias y supuestos a que se refieren las fracciones XXVI, XXIX Y XXX de este artículo, así como de las normas técnicas estatales que se emitan;
+XXIX.- Regular en el ámbito de su competencia, las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente ley;
 
-XXXIV.- Difundir los proyectos de educación ambiental y de conservación y desarrollo ecológico de alcance general en la entidad, a fin de desarrollar una mayor conciencia ambiental en estas materias; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XXXV.- Las demás que las disposiciones legales le atribuyan.
+XXX.- Regular sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos industriales no considerados como peligrosos, de conformidad con lo dispuesto en la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXI.- Prevenir y controlar la contaminación generada por emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, conforme a lo establecido en la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXII.- Ejecutar los programas de ordenamiento ecológico estatal, con la participación que corresponda a los municipios de la entidad, conforme lo previsto en esta ley, así como participar, en su caso, en la ejecución de los ordenamientos ecológicos municipales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXIII.- Evaluar el impacto ambiental generado por el aprovechamiento de las sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo pueden utilizarse para la fabricación de materiales para la construcción u ornamento de obras, a fin de dictar y ejecutar las medidas correspondientes;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+XXXIV.- Vigilar en el ámbito de su competencia, el debido cumplimiento de las normas oficiales mexicanas expedidas por la Federación en las materias y supuestos a que se refieren las fracciones XXVI, XXIX Y XXX de este artículo, así como de las normas técnicas estatales que se emitan.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXV.- Difundir los proyectos de educación ambiental y de conservación y desarrollo ecológico de alcance general en la entidad, a fin de desarrollar una mayor conciencia ambiental en estas materias; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXVI.- Las demás que las disposiciones legales le atribuyan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -654,6 +678,10 @@ Para tal efecto se promoverá la participación de las instituciones de educaci�
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 El Plan de Desarrollo Municipal deberá incorporar la política ambiental, en los términos previstos en esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2018)</small>
+
+ARTICULO 20 BIS.- Las instituciones y órganos del poder ejecutivo, legislativo, y judicial pertenecientes al orden estatal, expedirán sus manuales de sistemas de manejo ambiental, que tendrán por objeto el ser una herramienta que guie hacia la optimización de los recursos materiales y energéticos que se utilicen en el desempeño diario de sus funciones administrativas y operativas, con el fin de reducir costos ambientales y financieros.
 
 ###### ARTICULO 21.
 
@@ -3029,7 +3057,7 @@ TERCERO.- Las dependencias estatales y municipales correspondientes deberán lle
 
 P.O. 26 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE "SE REFORMAN LA FRACCIÓN LIX DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 68, EL PRIMER PÁRRAFO DEL ARTÍCULO 78, EL PRIMER PÁRRAFO DEL ARTÍCULO 79, EL PRIMER PÁRRAFO DEL ARTÍCULO 80, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 82 BIS, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE "SE REFORMAN LA FRACCIÓN LIX DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 68, EL PRIMER PÁRRAFO DEL ARTÍCULO 78, EL PRIMER PÁRRAFO DEL ARTÍCULO 79, EL PRIMER PÁRRAFO DEL ARTÍCULO 80, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 82 BIS, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
@@ -3074,3 +3102,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1149.- SE ADICIONA EL ARTÍCULO 20 BIS DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA Y ADICIONA EL ARTÍCULO 10 FRACCIÓN XXIII DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado;
+
+SEGUNDO.- Los manuales de sistemas de manejo ambiental deberán expedirse a más tardar 30 días hábiles después de la publicación del presente decreto.
