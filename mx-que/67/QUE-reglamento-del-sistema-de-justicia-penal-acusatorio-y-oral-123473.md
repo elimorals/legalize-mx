@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-justicia-penal-acusatorio-y-oral-1234
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-22"
-last_updated: "2017-09-22"
+last_updated: "2018-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
 
 Reglamento publicado en el No. 65 del Periódico Oficial del Estado de Querétaro, el 22 de septiembre de 2017
 
@@ -159,11 +159,13 @@ III. Mantener actualizados sus conocimientos jurídicos;
 
 IV. Cumplir y hacer cumplir sin demora y con estricto apego a la ley, las determinaciones que emita el Pleno del Tribunal Superior de Justicia en el Estado o el Consejo;
 
-V. Informar al Consejo si advierte una conducta o comportamiento inadecuado del personal adscrito al Sistema de Justicia Penal Acusatorio y Oral;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+V. Informar al Juez Coordinador o Coordinador, para que enteren al Consejo si advierte una conducta o comportamiento inadecuado del personal adscrito al Sistema de Justicia Penal Acusatorio y Oral; y,
 
 VI. Participar como instructor en los talleres o cursos que organice el Instituto de Especialización Judicial para la mejora del personal del Poder Judicial; y,
 
-VII. Emitir, cuando sea de su competencia, informes derivados de la inspección a los centros penitenciarios, respecto a las condiciones de la ejecución de la pena, ya sea en general o de algún caso concreto.
+VII. (DEROGADA, P.O. 5 DE ENERO DE 2018)
 
 ###### Artículo 8.
 
@@ -177,11 +179,15 @@ III. Gestionar las peticiones y requerimientos que los Jueces realicen hacia las
 
 IV. Coordinar las reuniones o sesiones de trabajo que requieran de la participación de los Jueces y redactar los acuerdos;
 
-V. Establecer con el equipo de Jueces Penales, las políticas jurisdiccionales que estimen pertinentes para promover el óptimo desempeño de las funciones del personal jurídico administrativo, turnándolas al Consejo para su revisión, y en su caso aprobación;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+V. Establecer con el equipo de Jueces, las políticas jurisdiccionales que estimen pertinentes para promover el óptimo desempeño de las funciones del personal jurídico administrativo, turnándolas al Consejo para su revisión, y en su caso aprobación;
 
 VI. Proponer talleres, cursos de capacitación y actualización para el personal a su cargo, haciendo llegar al Consejo las sugerencias tendientes al mejoramiento de la administración de justicia;
 
-VII. Levantar las actas de las reuniones que se lleven a cabo en la unidad de la que es Coordinador; y,
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+VII. Levantar las actas de las reuniones que se lleven a cabo en la Unidad de la que es Coordinador, así como de manera conjunta cuando sea más de una Unidad; y,
 
 VIII. Las demás que señalen otras disposiciones aplicables.
 
@@ -189,11 +195,15 @@ VIII. Las demás que señalen otras disposiciones aplicables.
 
 El Juez Coordinador convocará a los Jueces que integran su unidad, a reuniones que se verificarán por lo menos una vez al mes, o cuando las necesidades lo requieran, con la presencia mínima de dos de sus integrantes.
 
-De cada reunión se levantará una acta que contendrá los acuerdos celebrados, firmada por los intervinientes, o en su caso, la razón de la negativa; se hará constar en un libro destinado para tal efecto, y se identificarán con el número ordinal progresivo y año; quedarán el libro y las actas bajo custodia del Juez Coordinador.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
+De cada reunión se levantará un acta que contendrá los acuerdos celebrados, firmada por los intervinientes, o en su caso, la razón de la negativa; se identificarán por el número de reunión con el número ordinal progresivo y año, se agregarán a una minuta que estará bajo resguardo del Juez Coordinador.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
 
 ###### Artículo 10.
 
-Los acuerdos celebrados por los Jueces serán notificados de forma íntegra al Consejo de la Judicatura; y los puntos que sean de competencia administrativa se harán del conocimiento del Coordinador y del personal para su observancia.
+Los acuerdos administrativos celebrados por los Jueces serán notificados de forma íntegra al Consejo de la Judicatura; y los puntos que sean de competencia administrativa se harán del conocimiento del Coordinador y del personal para su observancia.
 
 ### CAPÍTULO SEGUNDO. DE LOS COORDINADORES
 
@@ -215,7 +225,9 @@ III. Acordar con su superior inmediato la resolución de los asuntos cuya tramit
 
 IV. Tomar las medidas necesarias para la buena marcha de los asuntos;
 
-V. Registrar en el Libro de Gobierno el nombre de las personas puestas a disposición de los Jueces, día, hora, ejecución de la orden, y observaciones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+V. Llevar el control de los libros reglamentarios;
 
 VI. Formar los cuadernos y carpetas judiciales, de cada asunto competencia del Órgano Jurisdiccional, y el resto de la correspondencia agregándola en minutas por orden progresivo;
 
@@ -241,9 +253,13 @@ XVI. Dar cuenta al Órgano Jurisdiccional con los escritos y promociones que rec
 
 XVII. Recibir en su domicilio particular o en el de empleados subalternos las promociones de término y guardia, o en el Juzgado o Unidad, previa la comunicación telefónica correspondiente, asentando la fecha y hora de su recepción;
 
-XVIII. En los distritos judiciales en que no exista Oficina Central de Consignaciones, remitir a la Dirección de Contabilidad y Finanzas o depositar en la cuenta bancaria que corresponda, las cantidades consignadas en el juzgado, dentro de las veinticuatro horas siguientes a su recepción;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
 
-XIX. Vigilar que se proporcionen a los autorizados, las carpetas judiciales que soliciten para informarse de ellas o para cualquier otro efecto legal;
+XVIII. En los distritos judiciales en que no exista Oficina Central de Consignaciones o que por la premura del asunto no pueda ser consignada, remitir a la Dirección de Contabilidad y Finanzas o depositar en la cuenta bancaria que corresponda, las cantidades consignadas en el juzgado, dentro de las veinticuatro horas siguientes a su recepción;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+XIX. Vigilar que se proporcionen a las partes, las carpetas judiciales o documentos para su consulta;
 
 XX. Certificar las copias solicitadas, previa autorización del Órgano Jurisdiccional;
 
@@ -269,7 +285,13 @@ XXX. Elaborar y remitir todos los informes y datos estadísticos que solicite el
 
 XXXI. Mantener actualizados sus conocimientos jurídicos y administrativos; y
 
-XXXII. Las demás que encomiende el Órgano Jurisdiccional.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXII. Coordinar la entrega de videos o transcripciones a los solicitantes, recabando el acuse respectivo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XXXIII. Las demás que encomiende el órgano jurisdiccional.
 
 ###### Artículo 13.
 
@@ -285,7 +307,9 @@ Los Órganos Jurisdiccionales tendrán para el despacho de los negocios de su co
 
 Los auxiliares jurídicos, auxiliares de causa, auxiliares de sala y auxiliar de actas, tendrán las siguientes obligaciones y facultades:
 
-I. Guardar absoluta reserva de la información que se haga de su conocimiento o sea confiada con motivo de su cargo;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+I. Guardar absoluta reserva de la información que se haga de su conocimiento y de las carpetas judiciales, o sea confiada con motivo de su cargo;
 
 II. Acatar de forma puntual, las instrucciones dadas por el Órgano Jurisdiccional o Coordinador;
 
@@ -327,9 +351,11 @@ VI. Orientar al personal que auxilie al Órgano Jurisdiccional, para el apoyo en
 
 VII. Auxiliar al Coordinador cuando no se encuentre asistiendo al Juez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 17.
 
-Los auxiliares de causas, también tendrás (sic) las siguientes facultades y obligaciones:
+Los auxiliares de causas, también tendrán las siguientes facultades y obligaciones:
 
 I. Elaborar las radicaciones, acuerdos, actas, oficios, exhortos y demás documentos, ordenados por el Órgano Jurisdiccional o Coordinador, bajo los lineamientos proporcionados;
 
@@ -347,17 +373,21 @@ VII. Acatar de manera inmediata las instrucciones y observaciones hechas por el 
 
 VIII. Suplir las faltas temporales del Coordinador, en sus (sic) caso, ejercer sus funciones cuando sea designado para ello;
 
-IX. Elaborar y mantener actualizadas las estadísticas de los Juzgados de Oralidad Penal, de acuerdo con las normas establecidas;
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
 
-X. Atender las solicitudes del público para consultar los registros de los procesos penales que no se encuentren en reserva, y legalmente proceda; y,
+IX. Atender las solicitudes del público para consultar los registros de los procesos penales que no se encuentren en reserva, y legalmente proceda; y,
 
-XI. Auxiliar, cuando sea necesario, al demás personal en las actividades que sean encomendadas y acordes a sus conocimientos y habilidades.
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
+
+X. Auxiliar, cuando sea necesario, al demás personal en las actividades que sean encomendadas y acordes a sus conocimientos y habilidades.
 
 ###### Artículo 18.
 
 Los auxiliares de salas, además de las facultades y obligaciones generales, tendrán las siguientes:
 
-I. Apoyar al Coordinador en las gestiones necesarias para garantizar que las audiencias programadas se desarrollen con normalidad;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+I. Apoyar al Coordinador en las gestiones necesarias para garantizar que las audiencias programadas se desarrollen con normalidad y puntualidad;
 
 II. Supervisar oportunamente que las salas de audiencia se encuentren ordenadas, y con los insumos necesarios para su adecuado funcionamiento en la fecha de audiencia;
 
@@ -375,13 +405,17 @@ VIII. Vigilar el cumplimiento del protocolo de audiencia y comunicar al Órgano 
 
 IX. Permanecer dentro de la sala de audiencia, durante el tiempo que dure la audiencia;
 
-X. Auxiliar a las partes con los medios materiales con que cuente la sala de audiencia, para los apoyos visuales o incorporados de prueba;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
 
-XI. Adoptar las medidas necesarias a fin de instalar a los testigos, peritos y demás intervinientes en las áreas destinadas, para evitar la comunicación entre éstos, coordinando la presentación de ellos de manera oportuna a la audiencia; o en su caso al imputado cuando se rehúse a permanecer en la audiencia;
+X. Adoptar las medidas necesarias a fin de instalar a los testigos, peritos y demás intervinientes en las áreas destinadas, para evitar la comunicación entre éstos, coordinando la presentación de ellos de manera oportuna a la sala de audiencia;
 
-XII. Organizar cuando proceda, las declaraciones de víctimas, ofendidos y testigos especiales, para que declaren utilizando un sistema de videoconferencia, desde un lugar contiguo; y,
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
 
-XIII. Ejercer las demás funciones que sean asignadas por su superior jerárquico.
+XI. Organizar cuando proceda, las declaraciones de víctimas, ofendidos y testigos especiales, para que declaren utilizando un sistema de videoconferencia, desde un lugar contiguo; y,
+
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
+
+XII. Ejercer las demás funciones que sean asignadas por su superior jerárquico.
 
 ###### Artículo 19.
 
@@ -431,7 +465,9 @@ IX. Abstenerse de hacer uso indebido de la papelería, sello, logotipo o cualqui
 
 Son facultades y obligaciones de los oficiales de atención al público:
 
-I. Acatar las indicaciones del Órgano Jurisdiccional y Coordinador;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+I. Acatar las indicaciones del Coordinador;
 
 II. Atender con diligencia y amabilidad a los intervinientes y al público en general que comparezcan a los Juzgados de Oralidad Penal, sin discriminación por cualquier motivo o condición social, así como apoyarlos y orientarlos para brindar un servicio de calidad;
 
@@ -439,7 +475,9 @@ III. Llevar el control de promociones que ingresan, así como turnarlas diariame
 
 IV. Atender al usuario y canalizarlo con el personal correspondiente;
 
-V. Recibir y registrar la correspondencia administrativa y turnarla al área concerniente;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+V. Recibir y registrar en el sistema la correspondencia administrativa y turnarla a cada área;
 
 VI. Poner a la vista de los interesados, la lista de acuerdos, a más tardar a las nueve horas;
 
@@ -447,23 +485,29 @@ VII. Llevar el control, elaboración y distribución de la correspondencia;
 
 VIII. Proporcionar información sobre la celebración de las audiencias, cuando proceda;
 
-IX. Coordinar la entrega de videos o transcripciones a los solicitantes, recabando el acuse respectivo;
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
 
-X. Atender prontamente al público a fin de que no se produzcan aglomeraciones ni se altere el orden y la compostura en los juzgados;
+IX. Atender prontamente al público a fin de que no se produzcan aglomeraciones ni se altere el orden y la compostura en los juzgados;
 
-XI. Verificar que los interesados que soliciten las carpetas judiciales, o documentos para su consulta, se encuentren debidamente autorizados para tales efectos;
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
 
-XII. Proporcionar a los interesados las carpetas judiciales, o documentos que soliciten para informarse de los mismos o para cualquier otro efecto legal, con la diligencia debida;
+X. Conservar ordenada su área de trabajo;
 
-XIII. Conservar ordenada su área de trabajo;
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
 
-XIV. Presentarse al lugar de trabajo con la formalidad de la vestimenta que el Juez o Coordinador determinen;
+XI. Presentarse al lugar de trabajo con la formalidad de la vestimenta que el Juez o Coordinador determinen;
 
-XV. Mantener el respeto y dignidad del local donde labore haciendo saber a sus superiores jerárquicos, toda conducta contraria por parte de los usuarios;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
 
-XVI. Registrar su asistencia en el reloj o mecanismo electrónico que al efecto disponga el Consejo; y en caso de no existir, el Coordinador llevará una lista diaria en la que el personal estampará de su puño y letra su firma, así como la hora de llegada y salida; y,
+XII. Mantener el respeto y dignidad del local donde labore, haciendo saber a sus superiores jerárquicos, toda conducta contraria por parte de los usuarios;
 
-XVII. Abstenerse de hacer uso indebido de sus instrumentos de trabajo, papelería, sello, logotipo o cualquier de medio oficial;
+(REUBICADA, P.O. 5 DE ENERO DE 2018)
+
+XIII. Registrar su asistencia en el reloj o mecanismo electrónico que al efecto disponga el Consejo; y en caso de no existir, el Coordinador llevará una lista diaria en la que el personal estampará de su puño y letra su firma, así como la hora de llegada y salida; y,
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+XIV. Abstenerse de hacer uso indebido de sus instrumentos de trabajo, papelería, sello, logotipo o cualquier medio oficial.
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y OFICIALES DE AUDIO Y VIDEO
 
@@ -605,17 +649,21 @@ El personal de vigilancia llevará un libro interno de control de registro de as
 
 ### CAPÍTULO PRIMERO. DE LAS SALAS DE AUDIENCIAS
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 28.
 
-Toda aquella persona que desee ingresar a las salas de audiencia, como participante o público, se identificará con documento oficial reciente con fotografía y registrará en el libro interno de control previsto para tal efecto, al que únicamente tendrá acceso el personal del lugar, y estará bajo custodia del oficial de atención al público. La identificación y registro de las personas que vayan a declarar, será a cargo del auxiliar de sala, dejando constancia de la voluntad expresa del declarante de hacer públicos o no, sus datos personales.
+Toda aquella persona que desee ingresar a las salas de audiencia, como participante o público, se identificará con documento oficial reciente con fotografía y registrará en el libro interno de control al que se refiere el artículo anterior. La identificación y registro de las personas que vayan a declarar, será a cargo del auxiliar de sala, dejando constancia de la voluntad expresa del declarante de hacer públicos o no, sus datos personales.
 
 ###### Artículo 29.
 
 El Órgano Jurisdiccional podrá limitar el ingreso del público a una cantidad determinada de personas, según la capacidad de la sala de audiencia respectiva, y los acuerdos que para tal efecto emita el Consejo.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 30.
 
-El acceso a las salas de audiencia se hará a más tardar diez minutos antes de su inicio. Las personas que de forma posterior arriben a las salas de audiencias, podrán ingresar ·a ella, previo registro, si son intervinientes; una vez dentro, los asistentes podrán salir sin que puedan reingresar, por cuestión de orden.
+El acceso del público en general a las salas de audiencia se hará a más tardar diez minutos antes de su inicio. Las personas que de forma posterior arriben a las salas de audiencias, podrán ingresar a ella, previo registro, si son intervinientes.
 
 ###### Artículo 31.
 
@@ -705,7 +753,7 @@ De infringir las disposiciones previstas en este capítulo, el Órgano Jurisdicc
 
 ###### Artículo 40.
 
-Toda persona que desee ingresar a las instalaciones de los Juzgados de Oralidad Penal, se identificará con documento oficial reciente con fotografía y registrará en el libro interno de control previsto para tal efecto, al que únicamente tendrá acceso el personal, y estará bajo custodia del Coordinador.
+(DEROGADO, P.O. 5 DE ENERO DE 2018)
 
 ###### Artículo 41.
 
@@ -721,11 +769,15 @@ Se publicarán en los medios electrónicos y físicos de las instalaciones de la
 
 Todo el personal del Sistema de Justicia Penal Acusatorio y Oral, tendrá un horario de labores ordinario, de lunes a viernes de las ocho horas con treinta minutos a las dieciséis horas; pero deberá estar disponibles (sic) las veinticuatro horas del día, fines de semana y días de asueto, para presentarse en las salas de audiencia cuando se encuentren cubriendo guardia, para el desahogo de alguna diligencia o audiencia urgente, cuando esté designado en el rol de guardias en turno, según lo indique el Órgano Jurisdiccional o Coordinador.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 44.
 
-Para el supuesto de que alguna persona que cubra un rol semanal de guardia, por más de cuatro horas para los días sábado y domingo, o más de seis horas un día de éstos, según conste su entrada y salida en el sistema electrónico de asistencia, podrá descansar un día de la semana siguiente. Además si labora un día que por disposición oficial sea inhábil, podrá gozar de un día adicional de descanso de la semana siguiente, siempre que no sean días continuos.
+Para el supuesto de que alguna persona que cubra un rol semanal de guardia, por más de cuatro horas para los días sábado y domingo, o más de seis horas un día de éstos, según conste su entrada y salida en el sistema electrónico de asistencia, podrá descansar un día de la semana siguiente.
 
-Lo anterior bajo el entendido de que deberán permanecer por lo menos dos Jueces por unidad.
+Además si labora un día que por disposición oficial sea inhábil, podrá gozar de un día adicional de descanso.
+
+Lo anterior bajo el entendido que deberán permanecer por lo menos dos Jueces por unidad, y gozarán de los días adicionales siempre que no sean días continuos.
 
 ###### Artículo 45.
 
@@ -751,9 +803,11 @@ Para los asuntos que conozca la guardia en turno, el personal deberá estar disp
 
 Para el supuesto de que el personal de algún rol de guardia, por el número de audiencias que desahogue, se haga imposible la atención y diligencia necesarias para la debida observancia de los principios y fines del Sistema de Justicia Penal Acusatorio y Oral, el Juez Coordinador llamará a la guardia que siga en turno, para que auxilie en el desahogo de las diligencias; lo que no implica que la guardia que apoye, modifique el turno que corresponde, pero se tomará en cuenta para otorgarle un día de descanso en los términos previstos en el artículo 44 del presente reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
 ###### Artículo 51.
 
-El Coordinador deberá garantizar que el Juez de Control no conozca de la etapa de Juicio, ni éste de la ejecución.
+El Coordinador deberá garantizar que el Juez de Control no conozca de la etapa de Juicio, y en el Sistema Integral de Justicia Penal para Adolescentes que el Juez de Juicio no conozca de la ejecución.
 
 ###### Artículo 52.
 
@@ -779,7 +833,9 @@ Para el control en la recepción de promociones se dispondrá de un reloj fechad
 
 Para la entrega de valores o consignaciones a los interesados en el juzgado, se estará a lo previsto en el reglamento de la Oficina Central de Consignaciones cuando se haya realizado su depósito por ese conducto.
 
-En los distritos judiciales que no exista Oficina Central de Consignaciones, la entrega de valores o consignaciones se hará previa autorización del Juez que corresponda, identificación y firma de recibido del interesado.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
+En los distritos judiciales que no exista Oficina Central de Consignaciones, o que por la premura del asunto no pueda efectuarse la consignación, la entrega de valores o consignaciones se hará previa autorización del Juez, identificación y firma de recibido del interesado.
 
 ###### Artículo 57.
 
@@ -805,27 +861,21 @@ La numeración se reiniciará cada año; esta nomenclatura deberá hacerse en ta
 
 III. Hecho que la ley señala como delito;
 
-IV. Nombre del imputado o menor;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2018)</small>
+
+IV. Nombre del imputado o adolescente;
 
 V. Nombre de la víctima u ofendido;
 
 VI. Nombre del Juez;
 
-VII. Nombre del Fiscal;
+(REUBICADA Y REFORMADA, P.O. 5 DE ENERO DE 2018)
 
-VIII. Nombre del Asesor Jurídico;
+VII. Nombre del Fiscal; y,
 
-IX. Nombre del Defensor;
+(REUBICADA Y REFORMADA, P.O. 5 DE ENERO DE 2018)
 
-X. Fecha de inicio;
-
-XI. Fecha de cierre de investigación;
-
-XII. Fecha del auto de apertura;
-
-XIII. Fecha de prescripción o suspensión; y
-
-XIV. Observaciones.
+VIII. Fecha de inicio.
 
 ###### Artículo 60.
 
@@ -845,7 +895,7 @@ V. Observaciones.
 
 Tratándose de la carpeta que se inicie con la solicitud presentada por la Fiscalía General, el Coordinador tendrá la responsabilidad de integrar las constancias del trámite respectivo, los documentos y actas que resulten pertinentes, vigilará que no exista alteración.
 
-El Órgano Jurisdiccional tendrán copia digitalizada de las carpetas judiciales, conforme a los sistemas electrónicos de gestión o control implementados por el Poder Judicial.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE ENERO DE 2018)</small>
 
 ###### Artículo 62.
 
@@ -893,37 +943,61 @@ a) Número ordinal progresivo de la carpeta judicial;
 
 b) Número único de causa;
 
-c) Fecha y hora de recepción de la solicitud de audiencia;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-d) Si hay detenido, día y hora de la puesta a disposición;
+c) Si hay detenido, día y hora de la puesta a disposición;
 
-e) Nombre del imputado;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-f) Nombre del ofendido y víctima;
+d) Nombre del imputado;
 
-g) Hecho que la ley señala como delito;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-h) Fecha y sentido de la resolución de la orden de aprehensión, comparecencia o citatorio;
+e) Nombre del ofendido y víctima;
 
-i) Fecha y sentido del auto de vinculación;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-j) Medida cautelar impuesta;
+f) Hecho que la ley señala como delito;
 
-k) Plazo de investigación complementaria;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-l) Fecha de comparecencia;
+g) Fecha y sentido de la resolución de la orden de aprehensión, comparecencia o citatorio;
 
-m) Fecha de la presentación de la acusación;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-n) Fecha de la audiencia intermedia;
+h) Fecha y sentido del auto de vinculación;
 
-o) Fecha de la audiencia de juicio;
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-p) Fecha y sentido de la sentencia;
+i) Medida cautelar impuesta;
 
-q) Fecha en que causó estado; y,
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
 
-r) Observaciones, en las que se anotarán datos relativos a acumulaciones, incidentes, recursos, suspensión del procedimiento, amparos, libertad o internamiento del procesado, archivo y los que surjan durante el proceso.
+j) Plazo de investigación complementaria;
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+k) Fecha de la presentación de la acusación;
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+l) Fecha de la audiencia intermedia;
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+m) Fecha de la audiencia de juicio;
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+n) Fecha y sentido de la sentencia;
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+ñ) Fecha en que causó estado; y,
+
+(REUBICADO, P.O. 5 DE ENERO DE 2018)
+
+o) Observaciones, en las que se anotarán datos relativos a acumulaciones, incidentes, recursos, suspensión del procedimiento, amparos, libertad o internamiento del procesado, archivo y los que surjan durante el proceso.
 
 Tratándose del libro de gobierno de la Unidad Especializada en Justicia para Adolescentes, se anotarán los siguientes datos:
 
@@ -935,7 +1009,9 @@ c) Número único de causa;
 
 d) Si la consignación es con o sin detenido;
 
-e) Nombre del menor;
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2018)</small>
+
+e) Nombre del adolescente
 
 f) Nombre de la víctima u ofendido;
 
@@ -1205,23 +1281,7 @@ h) Nombre y firma de quien recibe la notificación; y,
 
 i) Observaciones.
 
-XII. De asistencia a audiencias:
-
-a) Número de folio de control interno;
-
-b) Número único de causa y de carpeta judicial;
-
-c) Nombre del asistente;
-
-d) Fecha de audiencia;
-
-e) Datos de identificación;
-
-f) Sala de audiencia;
-
-g) Asunto; y,
-
-h) Observaciones.
+XII. (DEROGADA, P.O. 5 DE ENERO DE 2018)
 
 ###### Artículo 70.
 
@@ -1279,9 +1339,17 @@ IX. Autorizar a un subordinado a no asistir a sus labores sin causa justificada,
 
 X. Consentir la salida de carpetas judiciales o documentos de las oficinas, fuera de los casos previstos por la Ley;
 
-XI. Faltar al respeto a sus compañeros de trabajo, superiores, subordinados o a las partes; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ENERO DE 2018)</small>
 
-XII. Dar preferencia injustificada a alguno de los Jueces que conformen la unidad o juzgado, según corresponda.
+XI. Faltar al respeto a sus compañeros de trabajo, superiores, subordinados o a las partes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ENERO DE 2018)</small>
+
+XII. Dar preferencia injustificada a alguno de los Jueces que conforman la unidad o juzgado, según corresponda; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2018)</small>
+
+XIII. Proporcionar información derivada de una carpeta o de los registros de audiencias, a quien no se encuentre legitimado para recibirla.
 
 ## TRANSITORIOS
 
@@ -1312,3 +1380,21 @@ M. en D. Ma. Guadalupe Alegría Cruz
 Secretaria de Acuerdos del Pleno, del Consejo de la Judicatura y del Presidente del Tribunal Superior de Justicia del Estado de Querétaro.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA QUE ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en la que entre en vigor el presente Reglamento, se derogan las disposiciones administrativas emitidas por el Consejo de la Judicatura del Poder Judicial del Estado de Querétaro, que contravengan lo dispuesto en este Reglamento.
+
+###### ARTICULO TERCERO.
+
+El inicio del periodo del Juez Coordinador de un año, será a partir de la vigencia de la presente reforma.
