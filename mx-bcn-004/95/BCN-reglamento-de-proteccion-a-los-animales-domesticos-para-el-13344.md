@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-a-los-animales-domesticos-para-el-1334
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-27"
-last_updated: "2017-01-06"
+last_updated: "2018-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE PROTECCION A LOS ANIMALES DOMESTICOS PARA EL MUNICIPIO DE TIJUANA, BAJACALIFORNIA -ANTES REGLAMENTO DE LA LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA-
 
-> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE REGLAMENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de noviembre de 1998.
 
@@ -596,3 +596,19 @@ Se derogan todas y cada una de las disposiciones normativas y reglamentarias der
 P.O. 6 DE ENERO DE 2017.
 
 > <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 5 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DEL REGLAMENTO DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA".]
+
+Primero.- Publíquese el nuevo reglamento en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal, en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+Segundo.- El nuevo reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Tercero.- Se ratifica la integración actual del Consejo Consultivo Municipal para la Protección y Bienestar de los Animales Domésticos, exhortándole para que en lo sucesivo apegue su actuación a las previsiones contenidas en el nuevo Reglamento.
+
+Cuarto.- Las menciones que en otros reglamentos municipales se hagan del Departamento de Control Animal, se entenderán hechas al Departamento de Atención y Control Animal de la Dirección Municipal de Salud dependiente de la Secretaría de Desarrollo Social Municipal.
+
+Quinto.- El registro de los animales en general, deberá iniciar noventa días después de la fecha en que este reglamento inicie su vigencia. Para tales efectos, la autoridad municipal deberá implementar intensas campañas de difusión relacionadas con tal obligación y con la instalación de módulos de registro en las respectivas delegaciones municipales.
+
+Sexto.- Se derogan todas las disposiciones reglamentarias o administrativas del Municipio de Tijuana, Baja California, que se opongan a las contenidas en el nuevo reglamento.
