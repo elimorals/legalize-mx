@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-sesiones-de-los-consejos-distritales-64305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-25"
-last_updated: "2014-09-13"
+last_updated: "2018-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "JAL"
 ---
 # REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO IEPC-ACG-154/2017, PUBLICADO EN EL P.O. DE 6 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2008.
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO MEDIANTE EL CUAL SE APRUEBA EN LO PARTICULAR EL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, EN TÉRMINOS DEL ARTÍCULO 134, PÁRRAFO 1, FRACCIÓN XV DEL CÓDIGO ELECTORAL DE LA ENTIDAD.
 
-A N T E C E D E N T E S .
+A N T E C E D E N T E S
+
+[...]
 
 En virtud de lo antes expuesto y de conformidad con lo dispuesto por los artículos 12, fracciones III y IV de la Constitución Política del Estado de Jalisco, 115, párrafo 1, fracción V, 116, párrafo 1, 120 Y 134, párrafo 1, fracciones I y XV del Código Electoral y de Participación Ciudadana del Estado de Jalisco; así como el octavo transitorio del decreto número 22272/LVIII/08 que ratifica el decreto 22271/LVIII/08, se proponen los siguientes puntos de:
 
@@ -49,7 +53,7 @@ LICENCIADO CARLOS OSCAR TREJO HERRERA
 
 ENCARGADO DEL DESPACHO DE LA SECRETARÍA EJECUTIVA
 
-> <small>N. DE E. EL ACUERDO IEPC-ACG-017/2014 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EL ACUERDO IEPC-ACG-017/2014 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
@@ -816,3 +820,13 @@ Encargado del Despacho de la Secretaría Ejecutiva.
 P.O. 13 DE SEPTIEMBRE DE 2014.
 
 Único. El presente acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE ENERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE ABROGA EL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DE ESTE INSTITUTO; Y EXPIDE EL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Reglamento de sesiones de los Consejos Distritales y Municipales Electorales de este Instituto; y se expide el Reglamento de sesiones de los Consejos Distritales y Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en términos del considerando VII este acuerdo.
+
+SEGUNDO. Hágase del conocimiento este acuerdo al Instituto Nacional Electoral, a través de la Junta Local Ejecutiva en el Estado de Jalisco, para los efectos legales correspondientes.
+
+TERCERO. Notifíquese el contenido (sic) este acuerdo a los partidos políticos acreditados, y publíquese en el Periódico Oficial "El Estado de Jalisco", así como en la página de internet de este organismo electoral.
