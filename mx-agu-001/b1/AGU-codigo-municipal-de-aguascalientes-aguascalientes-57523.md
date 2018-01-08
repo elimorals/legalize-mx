@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-12-25"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5383,9 +5383,17 @@ XII. Nombrar un enlace de género para la debida coordinación de acciones con e
 
 XIII. Formar parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres; y
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XIV. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
+XIV. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 QUINQUIES del presente Código, para efecto de llevar a cabo las mediciones de ruido, así como detectar la fuente emisora que lo produce, de todo ello se levantará acta circunstanciada;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XV. Requerir y apercibir al infractor, propietario o poseedor del bien Inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XVI. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -8201,11 +8209,11 @@ APARTADO SEXTO
 
 De las Faltas Contra el Bienestar Colectivo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 342.
 
-Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
 
 I. Causar escándalo en la vía pública.
 
@@ -8221,7 +8229,9 @@ V. Ocupar un cajón de estacionamiento destinado a personas con discapacidad, si
 
 VI. Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos.
 
-VII. (DEROGADA, P.O. 9 DE ENERO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2018)</small>
+
+VII. Producir ruido con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos en la vía pública, dentro o fuera de inmueble o casa habitación, que por su volumen excedan los niveles permitidos y provoque malestar a la ciudadanía en general.
 
 VIII. Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos.
 
@@ -8263,59 +8273,57 @@ APARTADO SÉPTIMO
 
 De las Faltas Contra la Convivencia, Respeto y Ambiente Vecinal
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales:
+ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
 
-I. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos de colonias o fraccionamientos con aparatos de sonido y que éste exceda de los 55 decibeles en un horario de las 06:00 horas a las 21:59 horas.
+I.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de 55 decibeles en un horario de las 6:01 horas a las 22:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
 
-Se exceptúa de lo anterior, aquel ruido proveniente de fuentes fijas estatuidas en Escuelas con ocasión de ceremonias, festivales y eventos, en las cuales se permitirá la emisión hasta 100 decibeles siempre que no rebasen de cuatro horas dichos eventos.
+II.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de los 50 decibeles en un horario de las 22:01 horas a las 6:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
 
-II. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos del fraccionamiento con aparatos de sonido y que éste exceda de los 50 decibeles en un horario de las 22:00 horas a las 05:59 horas.
+III.- Para las zonas industrial, comercial y escolar el límite máximo permisible es de 68 decibeles entre las 6:01 a 22:00 horas y de 65 decibeles de 22:01 a 6:00 horas. En caso de ferias, eventos y festivales deberán pedir un permiso especial especificando los horarios en que sobrepasarán dichos decibeles.
 
-Cabe señalar que la sanción correspondiente en caso de reincidencia independientemente se hará efectiva independientemente si la denuncia corresponde a otro hecho distinto por el que se realizó la primera queja e invariablemente si la segunda queja o denuncia la realiza el mismo vecino que denunció o quejó la primera ocasión o persona distinta.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles, así como la sonoridad del ruido emitido desde una casa habitación, serán los verificadores adscritos a la Dirección de Reglamentos del Municipio de Aguascalientes con el apoyo de los elementos adscritos a la Secretaría de Seguridad Pública Municipal, quienes llevarán a cabo:
 
-ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles así como la sonoridad del ruido emitido desde el bien inmueble, los elementos de Seguridad Pública en conjunto con los inspectores de la Secretaría de Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, estarán habilitados y contarán con la autorización de cada Secretaría para efecto de llevar a cabo:
+1.- Las mediciones de niveles sonoros se realizarán utilizando sonómetros integradores de precisión, sobre los instrumentos destinados a medir niveles de sonido audible.
 
-1. Las mediciones de niveles sonoros que se realizarán utilizando sonómetros, sonómetros integradores - promediadores y calibradores sonoros sobre los instrumentos destinados a medir niveles de sonido audible.
+2.- Las mediciones de vibraciones se realizarán utilizando sonómetros integradores de precisión, que cuenten con certificación ante la EMA "Entidad Mexicana de Acreditación" según los procedimientos establecidos en la NOM-081-SEMARNAT/1994.
 
-2. Las mediciones de vibraciones se realizarán utilizando acelerómetros y analizadores de frecuencia, según los procedimientos establecido reglamentariamente.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994.
 
-ARTÍCULO 342 CUATER.- Bastará la denuncia popular a la Secretaría de Seguridad Pública Municipal así como en la Secretaría de Medio Ambiente y Desarrollo Sustentable para efecto de que los elementos de dichas Secretarías o los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable se constituyan en el domicilio señalado así como aquél del que emana el ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+ARTÍCULO 342 QUINQUIES.- La facultad de inspección y apercibimiento deberá estar debidamente fundamentada y motivada por lo establecido en el Código Municipal de Aguascalientes, y corresponde a la Dirección de Reglamentos del Municipio de Aguascalientes, así como a la Secretaría de Seguridad Pública a través de sus elementos de policía, llevar a cabo actuaciones de inspección preventiva y correctiva cumpliendo con las siguientes condiciones:
 
-ARTÍCULO 342 QUINQUIES.- Sistemas de alarma
+1.- El titular de la Secretaría de Seguridad Pública o el Director de Reglamentos Municipales, podrán ordenar la práctica de visitas de apercibimiento, con el objeto de cuidar y prever la generación indebida de ruido de casa habitación, de acuerdo a lo prescrito en la norma respectiva para las zonas habitacionales.
 
-1. Los titulares y responsables de sistemas de alarma deberán mantenerlos en perfecto estado de uso y funcionamiento, con el fin de evitar que se autoactiven o activen por causas injustificadas o distintas de las que motivaron su instalación, así como cumplir las normas de funcionamiento de estos mecanismos que reglamentariamente se establezcan.
+2.- El personal, tendrá la condición de agentes de autoridad, y deberá actuar respetando en todo momento los derechos humanos y las garantías de seguridad jurídica, consagradas en nuestra Constitución Política de los Estados Unidos Mexicanos vigente.
 
-2. Las fuerzas y cuerpos de seguridad podrán utilizar los medios necesarios para interrumpir las emisiones sonoras o vibraciones de los sistemas de alarma en el caso de que su funcionamiento sea anormal, sin perjuicio de solicitar las autorizaciones judiciales necesarias. Asimismo podrán retirar los vehículos en que se produzca el mal funcionamiento de la alarma, a depósitos destinados a tal efecto, siempre que estén ubicados dentro de zonas habitacionales y exista queja o denuncia popular.
+3.- El personal habilitado, al recibir el reporte respectivo por parte de los elementos de policía de la Secretaría de Seguridad Pública Municipal, requerirá al infractor a cumplir con el nivel de decibeles permitido por la NOM-081-SEMARNAT/1994, apercibiéndolo que en caso de incumplimiento y/o reincidencia, le serán impuestas las sanciones previstas en el presente Apartado.
 
-Se aplicará una sanción de $500.00 (Quinientos pesos 00/100 M.N.), para aquellos casos en que el sistema de alarma haya sido activado por falta de mantenimiento por parte del contratante, siempre que éste haya sido denunciado en los términos del artículo anterior.
+4.- El personal habilitado realizará la medición de los focos generadores de ruido a través de sonómetros y sonómetros integradores de precisión, que cuenten con certificación ante la EMA “Entidad Mexicana de Acreditación" y siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994, la medición de los focos generadores de ruido se realizará en la parte externa de la casa habitación sin que se pueda ingresar a la casa habitación generadora de ruido.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+5.- Si se detecta que la fuente emisora del ruido proviene de una casa habitación, la autoridad competente llevará a cabo las acciones previstas por el artículo 342 SEXIES del presente ordenamiento.
 
-ARTÍCULO 342 SEXIES.- La facultad inspectora de las actividades sujetas a este Capítulo corresponde a los ayuntamientos a través de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, así como de la Secretaría de Seguridad Pública a través de sus elementos policiacos, y podrán llevar a cabo actuaciones inspectoras preventivas cumpliendo con las siguientes condiciones:
+El presente procedimiento se regirá bajo las reglas establecidas por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, siguiendo el método de medición establecido por la NOM-081-SEMARNAT/1994.
 
-1. La facultad inspectora de las actividades sujetas a este Código corresponde a los integrantes del ayuntamiento, a los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, así como de la Secretaría de Seguridad Pública a través de sus elementos policiacos.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-Los integrantes del H. Ayuntamiento, así como el Secretario del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes podrán ordenar la práctica de visitas de inspección o medidas de vigilancia con el objeto de cuidar y prever la generación indebida del ruido a las prescripciones normativas en las zonas habitacionales.
+ARTÍCULO 342 SEXIES.- Las sanciones por infracción a lo dispuesto por el artículo 342 BIS, se ceñirán a lo siguiente:
 
-3. El personal de la Secretaría del Medio Ambiente y Desarrollo Sustentable que tenga encomendada la función inspectora tendrá la condición de agentes de la autoridad.
+1.- Apercibimiento por escrito emitido por la autoridad competente, en la que se haga saber al infractor, de las posibles sanciones a las que se hará acreedor, en caso de continuar violando los supuestos establecidos en el artículo 342 BIS del Código Municipal de Aguascalientes.
 
-4. Los propietarios, poseedores y responsables del bien inmueble habitacional emisor de ruidos y vibraciones deberán facilitar a los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes el acceso a su domicilio o focos generadores de ruidos y dispondrán del funcionamiento de las fuentes emisoras del ruido a las distintas velocidades, potencias, cargas o marchas que les indiquen los inspectores, pudiendo presenciar la inspección.
+Multa consistente en la aplicación y cobro del resultante de la conversión de 6 a 10 veces el valor diario de la unidad de medida y actualización, cuando se cometa la infracción establecida en el artículo 342 BIS fracción I del Código Municipal de Aguascalientes.
 
-5. El personal inspector al percatarse de las fuentes generadoras de ruido electrónicas o humanas, requerirán al propietario, poseedor o responsable del bien inmueble a cumplir con los decibeles permitidos apercibiéndolo que en caso de incumplimiento o reincidencia le serán impuestas las sanciones previstas en el presente Apartado.
+3 (SIC).- Multa consistente en la aplicación y cobro del resultante de la conversión de 13 a 19 veces el valor diario de la unidad de medida y actualización cuando se cometa la infracción establecida en el artículo 342 Bis fracción II del Código Municipal de Aguascalientes.
 
-6. Si se detecta que la fuente emisora del ruido proviene de una casa habitación la autoridad competente llevará a cabo las acciones previstas por el artículo 342 Septies del presente ordenamiento.
+4.- Esas multas, podrán conmutarse por servicio comunitario, siempre que se cumplan los requisitos previstos en el Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
 
-El presente procedimiento se regirá bajo las reglas de procedimiento establecidas por la Ley de Procedimiento Administrativo del Estado de Aguascalientes.
-
-Cabe señalar que el presente procedimiento se instaurará aún y cuando no exista queja o denuncia respecto del bien inmueble inspeccionado; de lo contrario el personal habilitado o autorizado por parte de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes dará vista a la Secretaría de Seguridad Pública Municipal para la imposición de sanciones y en su caso arresto del propietario, poseedor o responsable del bien inmueble, una vez practicada la inspección en aquella casa habitación de la cual proviene el ruido.
+5.- En caso de reincidencia, se aplicará una multa consistente en la aplicación y cobro del resultante de la conversión de 20 veces el valor diario de la unidad de medida y actualización, para lo cual habrá de contarse con la intervención de elementos policiales de la Secretaría de Seguridad Pública, quienes pondrán a disposición de Juez Municipal en turno.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
 
@@ -8337,11 +8345,11 @@ APARTADO OCTAVO
 
 De las Faltas Contra la Integridad de las Personas y sus Bienes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 343.
 
-Son faltas con (sic) la integridad de las personas en su seguridad, tranquilidad y propiedades particulares y se sancionarán con arresto de hasta treinta y seis horas o multa de cinco a treinta días de Salario Mínimo Vigente en el Estado, las siguientes:
+Son faltas contra la integridad de la personas en su seguridad, tranquilidad, propiedades particulares, y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
 
 I. Provocar a cualquier animal para que ataque a una persona.
 
@@ -8353,9 +8361,9 @@ III. Dejar en descuido quien ejerza la guarda y custodia de una persona que pade
 
 IV. Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla, o causarle malestar.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-V. Turbar la tranquilidad de las personas dentro de una zona habitacional con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo; no lo haga.
+V. Turbar la tranquilidad de las personas dentro de una zona habitacional, con gritos, música o ruidos aun cuando estos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga.
 
 VI. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono.
 
@@ -18635,6 +18643,8 @@ Para la instalación y funcionamiento de calderas, compresores y líneas o salid
 
 ### CAPITULO I. Uso de Predios y Edificaciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 1078.
 
 Las partes exteriores de los edificios que sean visibles desde la vía pública se proyectarán de acuerdo con lo que dispone el Título IV referente a requisitos para el proyecto arquitectónico de este Libro.
@@ -18695,7 +18705,7 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 ###### ARTÍCULO 1089.
 
-Para los efectos del presente capítulo, serán considerados como usos peligrosos, insalubres o molestos, los siguientes:
+Para los efectos del presente capítulo, serán considerados como usos peligrosos o molestos los siguientes:
 
 I. La producción, almacenamiento, depósito, venta o manejo de objetos o de substancias tóxicas, explosivas, inflamables o de fácil combustión;
 
@@ -18705,9 +18715,9 @@ III. La excavación profunda de terrenos;
 
 IV. Los que impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos para las personas en zonas comerciales o habitacionales, o que puedan ocasionar daño a las propiedades; y
+V. Los que produzcan salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura y otros efectos perjudiciales que contravengan las Normas Oficiales vigentes, que sean molestos para las personas, o que puedan ocasionar daños a la población, afectaciones a la salud, al ambiente o a los bienes; y
 
 VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
@@ -21451,9 +21461,17 @@ XIX. Las que sean inherentes a su función y necesarias para el cumplimiento del
 
 XX. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XXI. Las que le confiera el presente Libro y demás disposiciones jurídicas aplicables.
+XXI. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 QUINQUIES del presente Código, para efecto de llevar a cabo las mediciones de ruido, así como detectar la fuente emisora que lo produce, de todo ello se levantará acta circunstanciada;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XXII. Requerir y apercibir al infractor, propietario o poseedor del bien inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+
+XXIII. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ARTÍCULO 1298 UNDECIES.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
@@ -27449,9 +27467,15 @@ P.O. 25 DE DICIEMBRE DE 2017.
 
 P.O. 25 DE DICIEMBRE DE 2017.
 
-> <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 8° Y 98 DEL REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO, ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO".]</small>
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8° Y 98 DEL REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO, ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO”.]</small>
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS A LOS ARTÍCULOS 114, 342, 342 BIS, 342 TER., 342 QUINQUIES Y 342 SEXIES; 343, 1089 Y 1298 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
