@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-11-08"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -127,11 +127,13 @@ REGLAS GENERALES.
 
 DE LA PERSONALIDAD DE LOS LITIGANTES.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 9o.
 
-Todo el que, conforme a la Ley, esté en pleno ejercicio de sus derechos civiles, puede comparecer en juicio. Por los que no se hallen en el caso anterior, comparecerán sus representantes legítimos, con excepción de los casos específicos que el Código Civil contempla, en los negocios de menores, ausentes o incapaces.
+Todo el que, conforme a la Ley, esté en pleno ejercicio de sus derechos civiles, puede comparecer en juicio. Por los que no se hallen en el caso anterior, comparecerán sus representantes legítimos, con excepción de los casos específicos que el Código Civil contempla, en los negocios de niñas, niños y adolescentes, ausentes o incapaces.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 El Juez examinará de oficio la personalidad de las partes, y ordenará en su caso corregir cualquier deficiencia que sea subsanable al respecto, para lo cual otorgará un plazo improrrogable de seis días a las partes para que la subsanen. Cuando no se acredite la personalidad del demandado, se continuará el juicio aun en rebeldía de éste. Si no se subsanare la del actor, el Juez sobreseerá el juicio y devolverá los documentos.
 
@@ -943,31 +945,33 @@ VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
 VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se trata de bienes raíces será el del lugar en que estén ubicados.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-En todo lo relativo a la adopción, el juez del domicilio del menor que se pretende adoptar o el de la Institución que lo tiene acogido;
+En todo lo relativo a la adopción, el juez del domicilio de la niña, niño y adolescente que se pretende adoptar o el de la Institución que lo tiene acogido.
 
-IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+IX.- En los negocios relativos a la tutela de niñas, niños y adolescentes e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
 X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XII.- En el divorcio por mutuo consentimiento el del domicilio de residencia de cualquiera de los solicitantes y en el divorcio incausado será el del domicilio en donde resida el promovente. En ambos casos, de haber hijos menores de edad o incapaces, será el del domicilio en el cual estos residan.
+XII.- En el divorcio por mutuo consentimiento el del domicilio de residencia de cualquiera de los solicitantes y en el divorcio incausado será el del domicilio en donde resida el promovente. En ambos casos, de haber niñas, niños y adolescentes o incapaces, será el del domicilio en el cual estos residan.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XIII.- En la acción de alimentos, el Juez del domicilio del acreedor, y si se trata de menores será el domicilio de éstos;
+XIII.- En la acción de alimentos, el juez del domicilio del acreedor, y si se trata de niñas, niños y adolescentes será el domicilio de éstos.
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor;
+XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido a la niña, niño o adolescente; y
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XV.- En el caso de juicios relativos a la Investigación de Filiación, el juez del domicilio del menor, y en general en todos los juicios donde se vean involucrados directamente derechos de menores, el juez del domicilio de éstos.
+XV.- En el caso de juicios relativos a la Investigación de Filiación, el juez del domicilio del (sic) niña, niño o adolescente, y en general en todos los juicios donde se vean involucrados directamente derechos de niñas, niños y adolescentes, el juez del domicilio de éstos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -1185,19 +1189,23 @@ I.- En negocio en que tenga interés directo o indirecto;
 
 II.- En los negocios que interesen de la misma manera a su cónyuge o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-III.- Siempre que entre los servidores públicos de que se trata, su cónyuge o sus hijos y algunos de los interesados, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre;
+III.- Siempre que entre los servidores públicos de que se trata, su cónyuge, sus hijas o hijos y algunos de los interesados, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre;
 
 IV.- Si fuere pariente por consanguinidad o afinidad del abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
 
-V.- Cuando él, su cónyuge o alguno de sus hijos, haya sido declarado heredero o legatario, o sea donante, donatorio (sic), socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de las partes, o administrador actual de sus bienes siempre que en el primer caso no haya repudiado la herencia.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+V.- Cuando él, su cónyuge o alguna de sus hijas o hijos, haya sido declarado heredero o legatario, o sea donante, donatorio (sic), socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de las partes, o administrador actual de sus bienes siempre que en el primer caso no haya repudiado la herencia.
 
 VI.- Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguno de los litigantes;
 
 VII.- Si asiste o ha asistido a convites que especialmente para él diere o costeare alguno de los litigantes, después de comenzado el pleito, o si tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, en una misma casa;
 
-VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguna de sus hijas o hijos, dádivas o servicios de alguna de las partes;
 
 IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
 
@@ -1453,9 +1461,9 @@ La persona que intente demandar a su cónyuge, puede solicitar su separación pr
 
 (DEROGADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-El Juez tomará en cuenta siempre el interés superior de los menores, si los hubiere, y las circunstancias de cada caso; por lo que procurará que el cónyuge que conserve a su cuidado a los hijos siga habitando, si así lo desea, el domicilio conyugal.
+El Juez tomará en cuenta siempre el interés superior de los menores, si los hubiere, y las circunstancias de cada caso; por lo que procurará que el cónyuge que conserve a su cuidado a las hijas o hijos siga habitando, si así lo desea, el domicilio conyugal.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -1463,17 +1471,17 @@ El Juez tomará en cuenta siempre el interés superior de los menores, si los hu
 
 Sólo los Jueces de lo Familiar o Mixtos, en su caso, pueden decretar la separación provisional de que hablan los artículos anteriores, a no ser que por circunstancias especiales, no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisional, remitiendo las diligencias al competente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 169.
 
-En la solicitud, que puede ser escrita o verbal, se señalarán las causas en que se funda, el domicilio en donde habitará el cónyuge que solicita la separación, la existencia de hijos menores y se expondrán las demás circunstancias del caso. Si la urgencia del caso lo amerita, el Juez debe proceder de inmediato.
+En la solicitud, que puede ser escrita o verbal, se señalarán las causas en que se funda, el domicilio en donde habitará el cónyuge que solicita la separación, la existencia de niñas, niños y adolescentes y se expondrán las demás circunstancias del caso. Si la urgencia del caso lo amerita, el Juez debe proceder de inmediato.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 170.
 
-Admitida la solicitud y previa citación del otro cónyuge, el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuáles bienes deban entregarse al cónyuge que salga del domicilio conyugal y se le apercibirá para que señale el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida; en caso de no hacerlo así, las posteriores notificaciones se le practicarán en términos del artículo 68 último párrafo de este Código. En ese mismo acto, el Juez deberá decretar todas las diligencias y prevenciones que sean necesarias para proteger a los hijos menores, si los hubiere, escuchando su opinión conforme a su edad y madurez.
+Admitida la solicitud y previa citación del otro cónyuge, el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuáles bienes deban entregarse al cónyuge que salga del domicilio conyugal y se le apercibirá para que señale el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida; en caso de no hacerlo así, las posteriores notificaciones se le practicarán en términos del artículo 68 último párrafo de este Código. En ese mismo acto, el Juez deberá decretar todas las diligencias y prevenciones que sean necesarias para proteger a las niñas, niños y adolescentes, si los hubiere, escuchando su opinión conforme a su edad y madurez.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -1679,9 +1687,9 @@ El depositario que se constituya en estas diligencias será designado por el jue
 
 Este acto tendrá por objeto preparar la acción correspondiente a la investigación de la filiación a fin de determinar la paternidad o la maternidad, mediante el estudio del ADN, la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de sus células, en la que deberán utilizarse las pruebas de mayor avance científico, en los casos en que determina este Código.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-Artículo 190 Bis I.- Quien ejerza la patria potestad, la tutela o tenga la custodia de un menor, quien se considere con derechos sobre el menor, el progenitor o padre biológico del menor, el hijo mayor de edad e incluso el Ministerio Público, podrá solicitar al juez de lo familiar la práctica de la prueba biológica a que se hace referencia en el artículo precedente.
+Artículo 190 Bis I.- Quien ejerza la patria potestad, la tutela o tenga la custodia de un menor, quien se considere con derechos sobre el menor, el progenitor o padre biológico del menor, la hija o hijo mayor de edad e incluso el Ministerio Público, podrá solicitar al juez de lo familiar la práctica de la prueba biológica a que se hace referencia en el artículo precedente.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
@@ -3853,9 +3861,9 @@ Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de familia, desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-II.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos, incluyendo el refrigerador, lavadora, aparato de radio receptor y televisión, a menos que exista más de uno en el domicilio o se trate de muebles de lujo a juicio del juez, a cuyo efecto oirá a un perito nombrado por él;
+II.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge, de sus hijas o hijos, incluyendo el refrigerador, lavadora, aparato de radio receptor y televisión, a menos que exista más de uno en el domicilio o se trate de muebles de lujo a juicio del juez, a cuyo efecto oirá a un perito nombrado por él;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -6655,7 +6663,9 @@ Si a la petición de declaración de minoridad se acompaña la certificación de
 
 La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se substanciará en la forma establecida en este Código para los incidentes y se seguirá entre el peticionario y un tutor interino que para tal efecto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
-El nombramiento de tutor interino deberá recaer, por su orden, en las siguientes personas, si tuvieren aptitud necesaria para desempeñarlo: Cónyuge, padre, madre, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos, serán preferidos los de mayor edad. Si hubiere abuelos paternos y, maternos se preferirá a los varones y en caso de ser del mismo sexo, los que sean por parte del padre.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
+El nombramiento de tutor interino deberá recaer, por su orden, en las siguientes personas, si tuvieren aptitud necesaria para desempeñarlo: Cónyuge, padre, madre, hijas, hijos, abuelos, hermanas y hermanos del incapacitado. Si hubiere varios (sic) hijas, hijos, hermanas o hermanos, serán preferidos los de mayor edad. Si hubiere abuelos paternos y, maternos se preferirá a los varones y en caso de ser del mismo sexo, los que sean por parte del padre.
 
 En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amigo del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
 
@@ -7457,9 +7467,9 @@ Se sujetarán al procedimiento oral:
 
 I.- Las controversias que se susciten con motivo de arrendamientos o de comodatos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-II.- Las controversias que se susciten con motivo de alimentos, custodia, convivencia y posesión de estado de padre o de hijo, cuando éstas constituyan el objeto de la acción principal;
+II.- Las controversias que se susciten con motivo de alimentos, custodia, convivencia y posesión de estado de padre, madre, hija o hijo cuando éstas constituyan el objeto de la acción principal;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8181,11 +8191,13 @@ Durante la sustanciación de las controversias a que se refieren los artículos 
 
 Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-I.- La custodia de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores conforme a su edad y madurez.
+I.- La custodia de las niñas, niños y adolescentes respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de las niñas, niños y adolescentes conforme a su edad y madurez.
 
-II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+II.- La convivencia entre los padres en relación con sus hijas o hijos o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -8243,19 +8255,25 @@ PROCEDIMIENTOS ORALES ESPECIALES.
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1082.
 
-Los cónyuges que convengan en divorciarse en los términos del último párrafo del artículo 272 del Código Civil para el Estado, están obligados a presentar la solicitud de divorcio, una copia certificada del acta de matrimonio, una copia certificada de las actas de nacimiento o defunción de los hijos, si los hay, y un convenio en que se fijen los siguientes puntos:
+Los cónyuges que convengan en divorciarse en los términos del último párrafo del artículo 272 del Código Civil para el Estado, están obligados a presentar la solicitud de divorcio, una copia certificada del acta de matrimonio, una copia certificada de las actas de nacimiento o defunción de las hijas o hijos si los hay, y un convenio en que se fijen los siguientes puntos:
 
-I.- Designación de personas a quienes serán confiados los hijos del matrimonio, tanto durante el procedimiento como después que haya causado ejecutoria la sentencia de divorcio;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+I.- Designación de personas a quienes serán confiados las hijas e hijos del matrimonio, tanto durante el procedimiento como después que haya causado ejecutoria la sentencia de divorcio;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 II.- El derecho de visita o convivencia que tendrá el cónyuge que no tenga la custodia, debiendo las partes precisar los días y las horas para ese efecto, y en caso de no hacerlo así, el Juez los determinará atendiendo a las circunstancias personales de los cónyuges y al interés superior de los menores;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+III.- El modo de subvenir a las necesidades de las hijas o hijos tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 IV.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento y después de ejecutoriado el divorcio;
 
@@ -8263,11 +8281,19 @@ IV.- La casa que servirá de habitación a cada uno de los cónyuges durante el 
 
 V.- La cantidad que a título de alimentos, en caso de así acordarlo, un cónyuge debe pagar al otro durante y después del procedimiento y la forma de hacer el pago;
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 VII.- La manera de liquidar la sociedad conyugal después de ejecutoriado el divorcio, así como la designación de liquidadores; para lo cual deberá acompañarse un inventario y avalúo, de los activos y pasivos, debiendo agregarse los documentos que lo acrediten;
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+
 VIII.- Designación de la persona que cubrirá los gastos notariales en caso de existir la transmisión de la propiedad de los bienes inmuebles de un cónyuge a otro o a los hijos;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 IX.- Precisar el tiempo que llevan separados los cónyuges;
 
@@ -8282,6 +8308,8 @@ XI.- Cualquier otro requisito que el Juez considere procedente tomando en cuenta
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 XII.- Tratándose del régimen de separación de bienes, en caso de así acordarlo, la compensación que dará uno de los cónyuges al otro.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez concederá a los solicitantes un plazo de tres días para que los completen.
 
@@ -8299,13 +8327,13 @@ Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez ci
 
 En la audiencia a que se refiere el artículo anterior, el Juez exhortará a los consortes a su reconciliación.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-De darse la misma, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden salvaguardados los derechos de los hijos, y que el Ministerio Público haya manifestado su conformidad, el Juez dictará en ese acto la sentencia o suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciarla de inmediato, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de los hijos. En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan salvaguardados, propondrá las modificaciones que estime pertinentes a los cónyuges para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
+De darse la misma, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden salvaguardados los derechos de las niñas, niños y adolescentes, y que el Ministerio Público haya manifestado su conformidad, el Juez dictará en ese acto la sentencia o suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciarla de inmediato, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de las niñas, niños y adolescentes. En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de las niñas, niños y adolescentes, o que no quedan salvaguardados, propondrá las modificaciones que estime pertinentes a los cónyuges para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES PÁRRAFO CUARTO], P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-En el caso anterior, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente salvaguardados los derechos de los hijos.
+En el caso anterior, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente salvaguardados los derechos de las niñas, niños y adolescentes.
 
 Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
 
@@ -8429,15 +8457,19 @@ El precio de la venta se entregará al tutor si las firmas o garantías prestada
 
 El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1098.
 
-Para la venta de los bienes inmuebles o de los muebles preciosos de hijos, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el Artículo 1094. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias.
+Para la venta de los bienes inmuebles o de los muebles preciosos de niñas, niños y adolescentes, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el Artículo 1094. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 En este caso, la venta se llevará a cabo fuera de remate a un precio que no baje de las cuatro quintas partes de avalúo.
 
-Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
+Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de las niñas, niños y adolescentes y consentir la extinción de derechos reales.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8525,11 +8557,11 @@ II. Acompañar el convenio en los términos que señala el Código Civil.
 
 La solicitud de divorcio incausado deberá reunir los requisitos que señala el artículo 270 del Código Civil para el Estado, debiendo acompañar copias fotostáticas legibles a simple vista del escrito y de todos los documentos que acompañe, para el efecto de correr traslado a su cónyuge.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1108.
 
-No será obstáculo para dar trámite a la solicitud de divorcio incausado la deficiencia o falta de presentación de la propuesta de convenio regulador de las consecuencias jurídicas del divorcio, pero deja expedita la jurisdicción del juez para emitir de oficio o a petición de parte las medidas cautelares en favor de los hijos menores o incapaces y, en su caso, del cónyuge, mismas que subsistirán hasta en tanto las partes lleguen a un convenio o se resuelva la cuestión que motivó su pronunciamiento.
+No será obstáculo para dar trámite a la solicitud de divorcio incausado la deficiencia o falta de presentación de la propuesta de convenio regulador de las consecuencias jurídicas del divorcio, pero deja expedita la jurisdicción del juez para emitir de oficio o a petición de parte las medidas cautelares en favor de las niñas, niños y adolescentes, o incapaces y, en su caso, del cónyuge, mismas que subsistirán, hasta en tanto las partes lleguen a un convenio o se resuelva la cuestión que motivó su pronunciamiento.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -8553,11 +8585,11 @@ En el divorcio incausado no procederá la acumulación de acciones ni la reconve
 
 Cualquier manifestación u omisión de las partes en la solicitud o durante la tramitación del divorcio, tocante a las consecuencias inherentes a la disolución del matrimonio, no podrá invocarse o incorporarse como prueba en este u otro procedimiento.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1112.
 
-Una vez que se haya desahogado la vista o transcurrido el término para ello, el juez citará a los cónyuges y en caso de que tuvieren hijos menores o incapaces, al Ministerio Público, a una audiencia, señalando día, hora y lugar para que se efectué en un plazo que no exceda de quince días, debiéndose apercibir al solicitante que, de no acudir sin causa justificada, quedará sin efectos la solicitud, ordenará el archivo del expediente, condenándole al pago de gastos y costas en favor de su contraparte.
+Una vez que se haya desahogado la vista o transcurrido el término para ello, el juez citará a los cónyuges y en caso de que tuvieren niñas, niños y adolescentes o incapaces, al Ministerio Público, a una audiencia, señalando día, hora y lugar para que se efectué en un plazo que no exceda de quince días, debiéndose apercibir al solicitante que, de no acudir sin causa justificada, quedará sin efectos la solicitud, ordenará el archivo del expediente, condenándole al pago de gastos y costas en favor de su contraparte.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -8565,11 +8597,11 @@ Una vez que se haya desahogado la vista o transcurrido el término para ello, el
 
 En la audiencia a que se refiere el artículo anterior, una vez hechos los apercibimientos de ley, de acudir uno o ambos cónyuges se les tomará la protesta de decir verdad, en su caso, se les solicitará que expresen su nombre y apellidos, domicilio que residen y grado escolar.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1114.
 
-Al inicio de la audiencia que tenga por objeto resolver el divorcio incausado, el juez informará a los cónyuges sobre las consecuencias jurídicas del divorcio en relación a ellos, a sus hijos, su régimen patrimonial, los alimentos y, en su caso, la compensación a que se refiere el artículo 288 del Código Civil para el Estado.
+Al inicio de la audiencia que tenga por objeto resolver el divorcio incausado, el juez informará a los cónyuges sobre las consecuencias jurídicas del divorcio en relación a ellos, a sus hijas o hijos, su régimen patrimonial, los alimentos y, en su caso, la compensación a que se refiere el artículo 288 del Código Civil para el Estado.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -8583,17 +8615,25 @@ En caso de que los cónyuges concreten un acuerdo respecto del convenio señalad
 
 Si al desahogarse la vista de la solicitud de divorcio incausado, se oponen excepciones procesales, se dará vista al promovente para que en el plazo de tres días exprese lo que a sus intereses corresponda, excepto la de incompetencia por declinatoria, pues en este caso se observará lo dispuesto en el artículo 1055 de este Código.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 1117.
 
-Si al contestar la solicitud o durante su trámite, se produce el allanamiento a ella y al convenio presentado por el promovente, se citará a una audiencia con intervención del Ministerio Público de haber hijos menores o incapaces, en la cual ambas partes deberán ratificar el contenido y firma de sus escritos; hecho lo anterior se exhortará a los cónyuges a la reconciliación. Si las partes insisten en su propósito de divorciarse el juez revisará el proyecto de convenio y si este no transgrede disposición legal, el orden público o el interés superior de los menores e incapaces, previa la opinión del Ministerio Público, dictará sentencia de divorcio incausado y aprobará el convenio propuesto.
+Si al contestar la solicitud o durante su trámite, se produce el allanamiento a ella y al convenio presentado por el promovente, se citará a una audiencia con intervención del Ministerio Público, de haber niñas, niños y adolescentes o incapaces, en la cual ambas partes deberán ratificar el contenido y firma de sus escritos; hecho lo anterior se exhortará a los cónyuges a la reconciliación. Si las partes insisten en su propósito de divorciarse el juez revisará el proyecto de convenio y si este no transgrede disposición legal, el orden público o el interés superior de los menores e incapaces, previa la opinión del Ministerio Público, dictará sentencia de divorcio incausado y aprobará el convenio propuesto.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 De no existir allanamiento, el juez procederá al análisis y resolución de las excepciones procesales a que se refiere el artículo 130 bis de este Código y de ser improcedentes, procederá a hacerlo del conocimiento de los cónyuges, exhortándolos a que resuelvan las consecuencia (sic) jurídicas del divorcio mediante convenio.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 Cuando no exista el común acuerdo entre los cónyuges o existiendo este el Ministerio Público se oponga al convenio por contravenir los derechos de los menores o incapaces, el juez pondrá los autos en estado de sentencia y declarará en ella lo pertinente, misma que dictará en el acto si fuere posible o dentro del término de tres días observando en lo conducente lo dispuesto en este Código y en el Código Civil para el Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 Dicha sentencia contendrá la declaratoria correspondiente sobre las consecuencias jurídicas del divorcio en las que las partes no llegaron al común acuerdo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 Tratándose de las medidas cautelares que se hubieren emitido en los términos del artículo 1124 de este Código, el juez fijará el término que tiene la persona para intentar la acción correspondiente, no pudiendo exceder de treinta días, debiendo comunicar al juez dentro de dicho término su interposición; de no hacerlo y estar involucrados derechos de menores o incapaces, se notificará dichas circunstancias al Ministerio Público a fin de que deduzca la acción correspondiente.
 
@@ -9880,3 +9920,27 @@ P.O. 8 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 299. SE REFORMA EL ARTÍCULO 2141 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 475 Y EL ARTÍCULO 550 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 Y EL ARTÍCULO 123 DE LA LEY DE NOTARIADO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 317 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley.
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- Los Municipios del Estado de Nuevo León, tendrán en un plazo de 120 días a partir de la entrada en vigor de la presente Ley para modificar sus reglamentos municipales.
+
+Quinto.- Las reglas de operación para el Fondo Municipal señalado en el Artículo 136 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, contenido en el Artículo Octavo de este Decreto, se ejercerá de manera anual de conformidad a las siguientes bases:
+
+El fondo se integrará con recursos estatales con una aportación que realizará el Ejecutivo del Estado, en doce mensualidades iguales, cuyo monto total anual equivaldrá a la cantidad que resulte de multiplicar el número de habitantes menores de dieciocho años de edad que residen en el Estado, por la cantidad que para estos efectos se establezca en la Ley de Egresos correspondiente.
+
+Dicho fondo se distribuirá entre los 51 municipios del Estado, para lo cual cada Municipio recibirá por año el equivalente al monto que resulte de multiplicar la cantidad establecida anualmente en la Ley de Egresos del Estado conforme al párrafo que antecede.
+
+En caso de que los recursos aportados al fondo no sean suficientes para garantizar que cada municipio reciba los montos señalados en los párrafos anteriores, el Ejecutivo del Estado, dispondrá lo conducente para ampliar las partidas presupuestales necesarias y aportará los recursos adicionales que se requieran para el debido cumplimiento de lo dispuesto en el presente Artículo.
+
+Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
+
+El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
