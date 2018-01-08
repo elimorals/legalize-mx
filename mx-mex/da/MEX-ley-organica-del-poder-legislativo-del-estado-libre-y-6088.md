@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2017-10-20"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2018.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1070,6 +1070,10 @@ XXXII. Participación Ciudadana;
 XXXIII. Asuntos Internacionales;
 
 XXXIV. Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción.
+
+> <small>(ADICIONADA, G.G. 8 DE ENERO DE 2018)</small>
+
+XXXV. Comisión de Familia y Desarrollo Humano.
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
 
@@ -2206,3 +2210,11 @@ SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el
 TERCERO.- Los Contralores de los Organismos con Autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado y que fueron designados por la Legislatura, que se encuentren en funciones a la entrada en vigor del Decreto 202 de la "LIX" Legislatura, continuarán en su encargo en los términos en los que fueron nombrados, teniéndose ratificados como Titulares de los Órganos Internos de Control de los Organismos con Autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
 
 CUARTO.- El Poder Legislativo proveerá lo necesario para la sustanciación de los procesos de designación de los Titulares de los Órganos Internos de Control de los Organismos con Autonomía reconocidos en la Constitución y que ejerzan recursos del Presupuesto de Egresos del Estado previstos en este Decreto.
+
+G.G. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 274.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
