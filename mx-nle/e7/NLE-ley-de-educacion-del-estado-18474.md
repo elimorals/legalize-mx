@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2017-12-20"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -91,7 +91,9 @@ II.- Escuela particular: La escuela administrada por particulares y sostenida co
 
 III.- Tipos y modalidades de educación: La inicial, la básica, la indígena, para adultos, la especial, la media superior, la superior y la formación para el trabajo, definiéndose cada una como sigue:
 
-a) Educación inicial: La educación que se imparte a menores de cuatro años;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
+a) Educación inicial: La educación que se imparte a niñas y niños menores de cuatro años;
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -155,7 +157,9 @@ III.- Se prohíbe a todo el personal de las escuelas públicas, donde se imparta
 
 Todos los habitantes del Estado de Nuevo León deben cursar la educación preescolar, primaria, secundaria, y la media superior.
 
-Es obligación de los habitantes del Estado de Nuevo León hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria, secundaria, y la media superior.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
+Es obligación de los habitantes del Estado de Nuevo León hacer que sus hijas e hijos cursen la educación preescolar, primaria, secundaria y media superior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -281,9 +285,9 @@ El Gobierno Estatal y los Ayuntamientos podrán celebrar convenios entre ellos o
 
 Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica. En todos los casos informarán a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que los menores ocurran a su instrucción básica.
+La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica. En todos los casos informarán a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que las niñas, niños y adolescentes ocurran a su instrucción básica.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -561,9 +565,9 @@ XI.- Promover mecanismos de prevención, detección y atención de casos de viol
 
 XII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XIII.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León; los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a los niños y jóvenes;
+XIII.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores hacia aquéllos corresponda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León; los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a las niñas, niños y adolescentes, y jóvenes;
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -923,9 +927,9 @@ Para el caso de los servicios educativos correspondientes a los tipos medio supe
 
 La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-Tratándose de menores de edad con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a la Ley General del Servicio Profesional Docente, y demás disposiciones legales que resulten aplicables.
+Tratándose de niñas, niños y adolescentes con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a la Ley General del Servicio Profesional Docente, y demás disposiciones legales que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -1087,11 +1091,13 @@ La autoridad educativa estatal prestará los servicios de actualización, capaci
 
 El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren relaciones armónicas, de respeto e igualdad entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres, madres de familia e instituciones públicas y privadas.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 67 Bis.
 
-En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la impartición de educación para niñas, niños y adolescentes se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
 Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
 
@@ -1359,11 +1365,13 @@ VII.- Orientar e informar con oportunidad al alumnado, personal docente, directi
 
 VIII.- Emitir la reglamentación sobre la nomenclatura escolar en coordinación con el Comité Estatal de Nomenclatura Escolar.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Artículo 90 Bis.
 
-Es también obligación de la autoridad educativa estatal, el permitir que los espacios físicos de los edificios y áreas de los planteles educativos, sean utilizados fuera de los horarios escolares por menores de edad para desarrollar actividades educativas y de esparcimiento, tales como deportivas, artísticas, cívicas o culturales.
+Es también obligación de la autoridad educativa estatal, el permitir que los espacios físicos de los edificios y áreas de los planteles educativos, sean utilizados fuera de los horarios escolares por las niñas, niños y adolescentes para desarrollar actividades educativas y de esparcimiento, tales como deportivas, artísticas, cívicas o culturales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2007)</small>
 
 Lo anterior podrán solicitarlo las asociaciones de padres de familia del plantel educativo, a fin de que se desarrollen bajo un programa establecido con costo a los beneficiarios y bajo la autorización y supervisión de los directores y de la asociación de padres de familia de los planteles educativos en común acuerdo.
 
@@ -1431,29 +1439,35 @@ XIV.- Opinar a través de los consejos escolares de participación social con re
 
 XV.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución; y
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XVI.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 22, fracción XVII, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijos o pupilos menores de edad y sobre las condiciones de la escuela a la que asisten.
+XVI.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 22, fracción XVII, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus niñas, niños y adolescentes, y sobre las condiciones de la escuela a la que asisten.
 
 ###### Artículo 93.
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-I.- Hacer que sus hijos e hijas o pupilos menores de edad asistan puntualmente a la escuela para cursar la educación preescolar, primaria, secundaria y media superior;
+I.- Hacer que las niñas, niños y adolescentes asistan puntualmente a la escuela para cursar la educación preescolar, primaria, secundaria y media superior;
 
-II.- Apoyar el proceso educativo de sus hijos e hijas o pupilos;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+II.- Apoyar el proceso educativo de sus hijas, hijos, pupilas o pupilos;
 
 III.- Respetar las disposiciones normativas aplicables a los planteles educativos;
 
-IV.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos e hijas o pupilos, en las actividades que dichas instituciones realicen;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+IV.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos, pupilas o pupilos, en las actividades que dichas instituciones realicen;
 
-V.- Colaborar con el personal docente en el diagnostico y atención de las dificultades escolares de sus hijos e hijas o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física y psicológica;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-VI.- Asegurar que sus hijos e hijas o pupilos cumplan con las tareas y compromisos escolares;
+V.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijas, hijos, pupilas o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física y psicológica;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VI.- Asegurar que sus hijas, hijos, pupilas o pupilos cumplan con las tareas y compromisos escolares;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -2086,3 +2100,27 @@ Primero.- El presente Decreto entrara en vigor el día siguiente de su Publicaci
 Segundo.- Se derogan cualquier disposición que se contraponga al presente Decreto.
 
 Tercero.- Dentro de los 180 días naturales al inicio de la vigencia del presente Decreto, la Secretaria de Educación del Estado, llevará a cabo la modificación a su normativa interna para el cumplimiento de este Decreto.
+
+P.O. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- Los Municipios del Estado de Nuevo León, tendrán en un plazo de 120 días a partir de la entrada en vigor de la presente Ley para modificar sus reglamentos municipales.
+
+Quinto.- Las reglas de operación para el Fondo Municipal señalado en el Artículo 136 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, contenido en el Artículo Octavo de este Decreto, se ejercerá de manera anual de conformidad a las siguientes bases:
+
+El fondo se integrará con recursos estatales con una aportación que realizará el Ejecutivo del Estado, en doce mensualidades iguales, cuyo monto total anual equivaldrá a la cantidad que resulte de multiplicar el número de habitantes menores de dieciocho años de edad que residen en el Estado, por la cantidad que para estos efectos se establezca en la Ley de Egresos correspondiente.
+
+Dicho fondo se distribuirá entre los 51 municipios del Estado, para lo cual cada Municipio recibirá por año el equivalente al monto que resulte de multiplicar la cantidad establecida anualmente en la Ley de Egresos del Estado conforme al párrafo que antecede.
+
+En caso de que los recursos aportados al fondo no sean suficientes para garantizar que cada municipio reciba los montos señalados en los párrafos anteriores, el Ejecutivo del Estado, dispondrá lo conducente para ampliar las partidas presupuestales necesarias y aportará los recursos adicionales que se requieran para el debido cumplimiento de lo dispuesto en el presente Artículo.
+
+Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
+
+El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
