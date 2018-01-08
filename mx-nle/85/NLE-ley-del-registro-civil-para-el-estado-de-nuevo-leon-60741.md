@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2017-10-25"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -81,9 +81,9 @@ El Registro Civil en el Estado, funciona bajo el principio de publicidad, en con
 
 Los servicios proporcionados por el Registro Civil, causarán los derechos que establezca para tal efecto la Ley de Hacienda del Estado, por lo que queda estrictamente prohibido que el Titular, o quienes laboren en las Oficialías, reciban o hagan pagar al particular, cualquier cantidad no prevista en la Ley antes citada.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
-La inscripción de actas de nacimiento en el Registro Civil, así como la expedición de la primera copia certificada del acta de nacimiento se realizarán de forma gratuita, siempre y cuando lo solicite el interesado personalmente ante las oficinas correspondientes del Registro Civil.
+La inscripción de actas de nacimiento en el Registro Civil, así como la expedición de la primera copia certificada del acta de nacimiento se realizará de forma gratuita.
 
 ###### Artículo 6.
 
@@ -805,7 +805,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 RODRIGO MEDINA DE LA CRUZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
@@ -850,3 +850,27 @@ P.O. 25 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY DEL REGISTRO CIVIL; Y SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- Los Municipios del Estado de Nuevo León, tendrán en un plazo de 120 días a partir de la entrada en vigor de la presente Ley para modificar sus reglamentos municipales.
+
+Quinto.- Las reglas de operación para el Fondo Municipal señalado en el Artículo 136 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, contenido en el Artículo Octavo de este Decreto, se ejercerá de manera anual de conformidad a las siguientes bases:
+
+El fondo se integrará con recursos estatales con una aportación que realizará el Ejecutivo del Estado, en doce mensualidades iguales, cuyo monto total anual equivaldrá a la cantidad que resulte de multiplicar el número de habitantes menores de dieciocho años de edad que residen en el Estado, por la cantidad que para estos efectos se establezca en la Ley de Egresos correspondiente.
+
+Dicho fondo se distribuirá entre los 51 municipios del Estado, para lo cual cada Municipio recibirá por año el equivalente al monto que resulte de multiplicar la cantidad establecida anualmente en la Ley de Egresos del Estado conforme al párrafo que antecede.
+
+En caso de que los recursos aportados al fondo no sean suficientes para garantizar que cada municipio reciba los montos señalados en los párrafos anteriores, el Ejecutivo del Estado, dispondrá lo conducente para ampliar las partidas presupuestales necesarias y aportará los recursos adicionales que se requieran para el debido cumplimiento de lo dispuesto en el presente Artículo.
+
+Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
+
+El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
