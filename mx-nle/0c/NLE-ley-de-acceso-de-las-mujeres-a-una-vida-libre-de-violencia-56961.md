@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2017-01-18"
+last_updated: "2018-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -83,7 +83,9 @@ VI. Perspectiva de género: es una visión científica, analítica y política s
 
 VII. Desarrollo Integral de las Mujeres: proceso mediante el cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía que les permite alcanzar el goce pleno de sus derechos y libertades;
 
-VIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, menores e incapaces víctimas de violencia.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes e incapaces víctimas de violencia.
 
 IX. Derechos Humanos de las Mujeres: los derechos que son parte inalienable de la persona, integrante e indivisible de los derechos humanos universales contenidos en los instrumentos nacionales e internacionales en la materia, vigentes en el país;
 
@@ -169,6 +171,8 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 ### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
 ###### Artículo 15.
 
 Los modelos de prevención, atención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia, como una obligación del Estado y de los Municipios de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos; para ello, al formularse, deberán tener como objetivo:
@@ -185,7 +189,9 @@ V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo deter
 
 VI. Favorecer la separación y alejamiento del agresor con respecto a la víctima, en los términos de las leyes respectivas; y
 
-VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y familiares menores de edad o incapaces que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y familiares de niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos.
 
 ###### Artículo 16.
 
@@ -215,7 +221,7 @@ Las dependencias y entidades del Estado y los Municipios, deberán modificar sus
 
 ###### Artículo 18.
 
-Las órdenes de protección serán de oficio tratándose de víctimas menores de edad o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
+Las órdenes de protección serán de oficio tratándose de niñas, niños y adolescentes o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
 
 ###### Artículo 19.
 
@@ -263,7 +269,9 @@ VII. Brindar al agresor servicios reeducativos integrales, especializados, gratu
 
 Son órdenes de protección de naturaleza civil, las siguientes:
 
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes o con quien tenga la patria potestad, la tutela o custodia de los menores;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes o con quien tenga la patria potestad, la tutela o custodia de las niñas, niños y adolescentes;
 
 II. Prohibición al agresor de enajenar, prendar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de sociedad conyugal, bajo el esquema del aseguramiento de bienes dando vista al Registro Público de la Propiedad y del Comercio en cada caso;
 
@@ -272,8 +280,6 @@ III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicil
 IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimenticias; y
 
 V. Orden de pago de la obligación alimenticia, en forma provisional e inmediata, a cargo del agresor.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE MAYO DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -789,7 +795,9 @@ VI. Contar con un refugio, mientras lo necesite;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o discriminación;
 
-VIII. En los casos de violencia familiar, acudir a los refugios con sus familiares menores de edad o incapaces que habiten en el mismo domicilio; y
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VIII. En los casos de violencia familiar, acudir a los refugios con sus familiares, niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; y
 
 IX. Los demás señalados en esta Ley y otras disposiciones legales.
 
@@ -825,7 +833,9 @@ IV. Dar información a las víctimas sobre las instituciones encargadas de prest
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Permitir la permanencia de las víctimas con sus familiares menores de edad o incapaces que habiten en el mismo domicilio.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+
+VI. Permitir la permanencia de las víctimas con las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio.
 
 VII. Contar preferentemente con personal debidamente capacitado y especializado en la materia; y
 
@@ -835,9 +845,11 @@ VIII. Todas aquellas inherentes a la prevención, protección y atención de las
 
 Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+
 ###### Artículo 52.
 
-Los refugios deberán prestar a las víctimas y, en su caso, a sus familiares menores de edad o incapaces que habiten en el mismo domicilio, los siguientes servicios especializados y gratuitos:
+Los refugios deberán prestar a las víctimas y, en su caso, a las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio, los siguientes servicios especializados y gratuitos:
 
 I. Hospedaje;
 
@@ -950,3 +962,27 @@ P.O. 18 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 218. SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 6 Y SE REORDENA EL CONTENIDO DE LAS FRACCIONES VI Y VII, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- Los Municipios del Estado de Nuevo León, tendrán en (sic) un plazo de 120 días a partir de la entrada en vigor de la presente Ley para modificar sus reglamentos municipales.
+
+Quinto.- Las reglas de operación para el Fondo Municipal señalado en el Artículo 136 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, contenido en el Artículo Octavo de este Decreto, se ejercerá de manera anual de conformidad a las siguientes bases:
+
+El fondo se integrará con recursos estatales con una aportación que realizará el Ejecutivo del Estado, en doce mensualidades iguales, cuyo monto total anual equivaldrá a la cantidad que resulte de multiplicar el número de habitantes menores de dieciocho años de edad que residen en el Estado, por la cantidad que para estos efectos se establezca en la Ley de Egresos correspondiente.
+
+Dicho fondo se distribuirá entre los 51 municipios del Estado, para lo cual cada Municipio recibirá por año el equivalente al monto que resulte de multiplicar la cantidad establecida anualmente en la Ley de Egresos del Estado conforme al párrafo que antecede.
+
+En caso de que los recursos aportados al fondo no sean suficientes para garantizar que cada municipio reciba los montos señalados en los párrafos anteriores, el Ejecutivo del Estado, dispondrá lo conducente para ampliar las partidas presupuestales necesarias y aportará los recursos adicionales que se requieran para el debido cumplimiento de lo dispuesto en el presente Artículo.
+
+Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
+
+El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de (sic) fondo antes descrito antes del 1 de febrero del 2018.
