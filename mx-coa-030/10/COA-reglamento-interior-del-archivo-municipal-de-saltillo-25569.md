@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-archivo-municipal-de-saltillo-25569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-26"
-last_updated: "2002-07-26"
+last_updated: "2018-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DEL ARCHIVO MUNICIPAL DE SALTILLO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ARCHIVO MUNICIPAL DE SALTILLO, COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 9 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL ARCHIVO MUNICIPAL DE SALTILLO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 26 de julio de 2002.
 
@@ -452,3 +454,15 @@ RUBEN IGNACIO MOREIRA VALDEZ
 Secretario del R. Ayuntamiento
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL MUNICIPIO DE SALTILLO, COAHUILA RELATIVO A LA CREACIÓN DEL REGLAMENTO INTERIOR DEL ARCHIVO MUNICIPAL DE SALTILLO, COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, independientemente de lo propio en la Gaceta Municipal.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Archivo Municipal de Saltillo publicado en el Periódico Oficial del Gobierno del Estado en fecha 26 de julio de 2002.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
