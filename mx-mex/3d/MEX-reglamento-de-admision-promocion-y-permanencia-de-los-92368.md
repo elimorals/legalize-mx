@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-admision-promocion-y-permanencia-de-los-92368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-11"
-last_updated: "2013-02-11"
+last_updated: "2018-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE ADMISION, PROMOCION Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ADMISIÓN Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ADMISIÓN, PROMOCIÓN Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 11 de febrero de 2013.
 
@@ -414,3 +416,19 @@ LIC. BENJAMÍN VALDÉS PLATA
 RECTOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 9 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ADMISIÓN Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de Admisión, Promoción y Permanencia de los Alumnos en el Bachillerato General a Distancia por Competencias de la Universidad Digital del Estado de México publicado en el Periódico "Gaceta del Gobierno" el 11 de febrero de 2013.
+
+CUARTO. Los planes y programas que se apliquen a los estudiantes que se encuentran cursando los estudios de Bachillerato al entrar en vigor el presente Reglamento, se aplicarán hasta su conclusión.
+
+QUINTO. Los casos no contemplados en este Reglamento serán resueltos por la Subdirección Académica y/o el Departamento de Control Escolar.
