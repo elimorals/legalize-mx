@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-procedimiento-administrativo-para-el-estado-de-121816"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-06"
-last_updated: "2017-06-06"
+last_updated: "2018-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LA PRESENTE LEY ENTRARÁ EN VIGOR DESPUÉS DE LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el martes 6 de junio de 2017.
 
@@ -463,9 +463,11 @@ De las diligencias en que conste la notificación, el notificador tomará razón
 
 Cuando las leyes respectivas así lo determinen o se desconozca el domicilio de los titulares de los derechos afectados, tendrá efecto de notificación personal, la segunda publicación del acto respectivo en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en el lugar donde se deba de efectuar dicha notificación.
 
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2018)</small>
+
 ###### Artículo 51.
 
-Los particulares deberán señalar domicilio en la ciudad en la que se encuentre la autoridad administrativa correspondiente, misma que deberá así requerirlo al interesado, para que en él se hagan las notificaciones personales indicadas en esta Ley, así como notificar a la autoridad el cambio del mismo. En caso de no cumplir con esta obligación, las notificaciones que deban ser personales se harán por cualquier medio señalado en el artículo 40 de la presente Ley.
+Los particulares deberán señalar domicilio en la ciudad en la que se encuentre la autoridad administrativa correspondiente, misma que deberá así requerirlo al interesado, para que en él se hagan las notificaciones personales indicadas en esta Ley, así como notificar a la autoridad el cambio del mismo. En caso de no cumplir con esta obligación, las notificaciones que deban ser personales se harán por cualquier medio señalado en el artículo 49 de la presente Ley.
 
 ###### Artículo 52.
 
