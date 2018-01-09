@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2017-12-05"
+last_updated: "2018-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -36,8 +36,6 @@ QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA 
 DECRETO NÚMERO 278
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, CUALQUIER REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE SILAO, SE ENTENDERÁN HECHAS AL MUNICIPIO DE SILAO DE LA VICTORIA.</small>
 
 Ley Orgánica Municipal para el Estado de Guanajuato
 
@@ -1081,7 +1079,9 @@ Para formular la propuesta el presidente municipal tomará en cuenta el conocimi
 
 Las comisiones se integrarán de manera colegiada, por el número de miembros que establezca el reglamento interior o el acuerdo de ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario, asimismo, el Ayuntamiento podrá acordar la designación de comisionados para la atención de los asuntos de competencia municipal.
 
-La comisión de hacienda, patrimonio y cuenta pública deberá ser plural y proporcional, atendiendo al porcentaje de representación de cada partido político en el Ayuntamiento.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2018)</small>
+
+La comisión de hacienda, patrimonio y cuenta pública, y la comisión de contraloría y combate a la corrupción, deberán ser plurales y proporcionales, atendiendo al porcentaje de representación de cada partido político en el Ayuntamiento.
 
 Objeto
 
@@ -1117,9 +1117,9 @@ VI. De Educación, Cultura, Recreación y Deporte;
 
 VII. De Desarrollo Rural y Económico;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
 
-VIII. De Contraloría; y
+VIII. De Contraloría y Combate a la Corrupción;
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -1261,21 +1261,35 @@ V. Solicitar y obtener de los demás titulares de las dependencias y entidades d
 
 VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
-Atribuciones de la comisión de Contraloría
+Atribuciones de la Comisión de Contraloría y Combate a la Corrupción
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2018)</small>
 
 ###### Artículo 83
 
-9. La Comisión de Contraloría tendrá las siguientes atribuciones:
+9. La Comisión de Contraloría y Combate a la Corrupción tendrá las siguientes atribuciones:
 
-I. Dar seguimiento al plan de trabajo, informes relativos y a las recomendaciones que al efecto formule el Contralor Municipal;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+I. Dar seguimiento al plan de trabajo, informes relativos y a las recomendaciones y observaciones que al efecto formule el Órgano Interno de Control Municipal o los órganos de fiscalización respectivos;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 II. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 
-III. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
 
-IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+III. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria y oportuna para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2018)</small>
+
+IV. Dar seguimiento a los lineamientos, bases, políticas, metodologías, principios, recomendaciones, requerimientos y demás instrumentos que emitan el Comité Coordinador del Sistema Estatal Anticorrupción, así como el Comité Rector del Sistema Estatal de Fiscalización; y
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+V. Las demás que señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1913,17 +1927,23 @@ XIX. Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, dere
 
 XX. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
-Contraloría municipal
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2018)</small>
 
-#### Sección Única. Del Cronista Municipal
+#### Sección Primera. De la Contraloría Municipal
 
-> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
-Cronista municipal
+Contraloría Municipal
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2018)</small>
 
 ###### Artículo 131.
 
-El control interno, evaluación de la gestión municipal y desarrollo administrativo, tendrá como finalidad el contribuir al adecuado desarrollo de la administración municipal, que estará a cargo de la Contraloría Municipal, cuyo titular será nombrado por el Ayuntamiento a propuesta en terna formulada por el presidente municipal.
+La contraloría municipal es el órgano interno de control encargado de la evaluación de la gestión municipal y desarrollo administrativo, así como el control de los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos; con la finalidad de prevenir, corregir, investigar y, en su caso, sancionar actos y omisiones que pudieran constituir responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+La contraloría municipal tendrá autonomía técnica y de gestión.
 
 El Presidente Municipal para formular su propuesta deberá consultar públicamente a la ciudadanía y de las propuestas que formulen los ciudadanos integrará la terna que habrá de presentar al Ayuntamiento.
 
@@ -1937,7 +1957,9 @@ El procedimiento de consulta pública para la designación de Contralor Municipa
 
 La violación al procedimiento de designación de contralor estará afectada de nulidad y se considerará violación grave a esta Ley.
 
-Áreas de la contraloría
+> <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
+
+Áreas de la Contraloría Municipal
 
 ###### Artículo 132.
 
@@ -1949,7 +1971,9 @@ II. Quejas, Denuncias y Sugerencias;
 
 III. Evaluación y Control de Obra Pública; y
 
-IV. Asuntos Jurídicos.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+IV. Asuntos Jurídicos y Responsabilidades.
 
 Presupuesto de la contraloría
 
@@ -1957,11 +1981,13 @@ Presupuesto de la contraloría
 
 En el presupuesto de egresos municipal deberán preverse los recursos materiales y humanos, con los que deberá contar la Contraloría Municipal para el ejercicio de sus atribuciones, mismos que deberán proponerse directamente al Ayuntamiento en el anteproyecto que para tal efecto formule el Contralor Municipal, debiendo remitirlo a la Secretaria del Ayuntamiento para su tramitación, dando vista a la Tesorería Municipal quien deberá incluirlo en sus términos al proyecto de presupuesto de egresos.
 
-Comisión de contraloría
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Comisión de Contraloría y Combate a la Corrupción
 
 ###### Artículo 134.
 
-Para el fortalecimiento en el desempeño de la Contraloría Municipal, el Ayuntamiento nombrará a una Comisión de Contraloría, integrada de forma plural, la cual sesionara al menos una vez al mes y tendrá como función principal dar seguimiento al plan de trabajo, informes relativos y a las recomendaciones que al efecto formule el Contralor Municipal.
+Para el fortalecimiento en el desempeño de la Contraloría Municipal, el Ayuntamiento nombrará a una Comisión de Contraloría y Combate a la Corrupción, integrada de forma plural, la cual sesionará al menos una vez al mes.
 
 Integración de la Comisión de la Contraloría
 
@@ -2009,13 +2035,23 @@ I. Presentar al Ayuntamiento durante el mes de enero el plan de trabajo y el pro
 
 II. Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la administración pública municipal a efecto de prevenir el uso indebido del patrimonio municipal y la distracción de los fines públicos del municipio;
 
-III. Verificar el cumplimiento del Plan Municipal de Desarrollo, del Programa de Gobierno Municipal y de los programas derivados de este último, con aquellas dependencias y entidades municipales que tengan obligación de formularlos, aplicarlos y difundirlos;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
 
-IV. Realizar un programa de visitas y auditorías periódicas a las dependencias y entidades de la administración pública municipal, participando aleatoriamente en los procesos administrativos de las mismas desde su inicio hasta su conclusión, y en su caso, promover las medidas para prevenir y corregir las deficiencias detectadas, las cuales deberán ser atendidas por los titulares del área respectiva;
+III. Verificar el cumplimiento del Plan Municipal de Desarrollo, del Programa de Gobierno Municipal y de los programas derivados de este último, y, en su caso, el Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial de Zonas Conurbadas o Zonas Metropolitanas, con aquellas dependencias y entidades municipales que tengan obligación de formularlos, aplicarlos y difundirlos;
 
-V. Vigilar la correcta aplicación del gasto público y su congruencia con el Presupuesto de Egresos, así como el correcto uso del patrimonio municipal;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
 
-VI. Presentar bimestralmente al Ayuntamiento un informe de las actividades de la Contraloría Municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función;
+IV. Realizar un programa de visitas y auditorías periódicas a las dependencias y entidades de la administración pública municipal, participando aleatoriamente en los procesos administrativos de las mismas desde su inicio hasta su conclusión y, en su caso, promover las medidas para prevenir y corregir las deficiencias detectadas, mediante la adopción de recomendaciones y medidas preventivas o correctivas que estime convenientes, las cuales deberán ser atendidas por los titulares del área respectiva.
+
+También podrá realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad de su gestión y encargo;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+V. Vigilar la correcta aplicación del gasto público y su congruencia con el Presupuesto de Egresos, así como el correcto uso del patrimonio municipal, promoviendo la eficacia, eficiencia y legalidad en su ejercicio;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+VI. Presentar bimestralmente al Ayuntamiento un informe de las actividades de la Contraloría Municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función, con relación a su plan de trabajo y al programa de auditorías y revisiones anuales;
 
 VII. Verificar que la administración pública municipal, cuente con el registro, catálogo e inventario actualizado de los bienes muebles e inmuebles del Municipio;
 
@@ -2029,25 +2065,49 @@ XI. Participar en la entrega recepción de las dependencias y entidades de la ad
 
 XII. Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
 
-XIII. Recibir, controlar, registrar, revisar y verificar la información patrimonial de los servidores públicos municipales obligados a declararla, fijando las normas, criterios, formatos oficiales y requisitos para el rendimiento de dicha información, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+XIII. Recibir y registrar las declaraciones patrimoniales y de intereses, y la constancia de declaración fiscal. Podrá revisar y verificar la información contenida, de los servidores públicos municipales obligados a declararla, fijando las normas, criterios, formatos oficiales y requisitos para el rendimiento de dicha información, en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato;
 
 XIV. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
 
-XV. Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+XV. Vigilar que el desempeño de las funciones de los servidores públicos municipales, se realice conforme a la Ley, los reglamentos respectivos y el Código de Ética;
 
 XVI. Proponer al personal que haya de ser contratado para auxilio en el desempeño de sus funciones;
 
 XVII. Presentar al Ayuntamiento, su anteproyecto de presupuesto anual;
 
-XVIII. Instaurar y sustanciar los procedimientos de responsabilidad administrativa en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
+
+XVIII. Conocer, investigar y sancionar las conductas que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
+
+Recurrir, en su caso, las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa.
 
 XIX. Vigilar el cumplimiento de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato por parte de los servidores públicos municipales;
 
 XX. Vigilar que la Tesorería Municipal y los órganos administrativos de las entidades paramunicipales, cumplan con la normatividad aplicable a la contabilidad gubernamental;
 
-XXI. Emitir las recomendaciones que promuevan el desarrollo administrativo del municipio, mismas que deberán ser atendidas en tiempo y forma por los Servidores Públicos a los cuales vayan dirigidas; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2018)</small>
 
-XXII. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+XXI. Emitir las recomendaciones que promuevan el desarrollo administrativo del municipio, mismas que deberán ser atendidas en tiempo y forma por los Servidores Públicos a los cuales vayan dirigidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2018)</small>
+
+XXII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades del Municipio, salvo los casos en que las leyes establezcan medios de impugnación diferentes;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2018)</small>
+
+XXIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción y atender las políticas de coordinación con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2018)</small>
+
+XXIV. Establecer mecanismos de prevención de conductas que pudieran constituir responsabilidades administrativas, previniendo actos de corrupción y fomentando la transparencia en la función pública; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ENERO DE 2018)</small>
+
+XXV. Las demás que le confiere esta u otras leyes, reglamentos y acuerdos de Ayuntamiento.
 
 Corresponsabilidad
 
@@ -2060,6 +2120,12 @@ El contralor y los servidores públicos de la contraloría que intervengan en la
 El contralor y los servidores públicos de la contraloría tendrán responsabilidad de su actuar conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
+
+#### Sección Segunda. Del Cronista Municipal
+
+> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+
+Cronista municipal
 
 ###### Artículo 140
 
@@ -3217,9 +3283,11 @@ Las actividades de programación-presupuestación, ejercicio, control, seguimien
 
 ## Título Noveno
 
-### Capítulo I. De la Justicia Administrativa Municipal
+### Capítulo Único. Del Combate a la Corrupción
 
-Impartición de justicia administrativa
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Municipios parte del Sistema Estatal Anticorrupción
 
 ###### Artículo 236.
 
@@ -3297,7 +3365,59 @@ Aprobación de reglamentos y normas
 
 Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, para ser válidos, deberán ser aprobados por mayoría calificada del Ayuntamiento y publicados en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2018)</small>
+
 ## Título Décimo
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2018)</small>
+
+### Capítulo I. De la Justicia Administrativa Municipal
+
+Impartición de justicia administrativa
+
+###### Artículo 240
+
+1. Los Municipios formarán parte del Sistema Estatal Anticorrupción y concurrirán a través de sus Contralorías Municipales, de conformidad con el reglamento municipal correspondiente.
+
+Los titulares de las contralorías municipales del estado se reunirán anualmente, previa convocatoria del Comité Coordinador del Sistema Estatal Anticorrupción, a efecto de designar o en su caso ratificar a los representantes de los órganos internos de control de cada región de conformidad con la Ley del Sistema Estatal Anticorrupción de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Sanción de responsabilidad administrativa no grave
+
+###### Artículo 240
+
+2. Las contralorías municipales deberán prevenir, investigar y corregir actos y omisiones que pudieran constituir responsabilidades administrativas.
+
+En caso de faltas administrativas graves deberán remitir, previa sustanciación, el expediente respectivo al Tribunal de Justicia Administrativa del Estado.
+
+Las contralorías municipales sancionarán las responsabilidades administrativas no graves.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Cumplimiento a normas del Sistema Estatal Anticorrupción
+
+###### Artículo 240
+
+3. Las contralorías municipales darán cumplimiento a los lineamientos, bases, políticas, metodologías, principios, recomendaciones, requerimientos y demás instrumentos que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y el Comité Rector del Sistema Estatal de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Asociación de Contralores
+
+###### Artículo 240
+
+4. Las contralorías municipales del Estado, podrán constituirse en una asociación u organización con el propósito fundamental de establecer canales de comunicación continua entre las contralorías municipales y entre estas y el Sistema Estatal Anticorrupción, a fin de lograr cooperación, apoyo y unificación de criterios en el Sistema, buscando el intercambio de experiencia y conocimientos; proporcionándose entre sí, asesoría, capacitación y ayuda mutua, con el objetivo de fortalecer las actividades de la administración pública municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Declaración Patrimonial y de Conflicto de Intereses y la Constancia de declaración fiscal
+
+###### Artículo 240
+
+5. Los miembros del Ayuntamiento estarán obligados a efectuar su declaración de situación patrimonial, de conflicto de intereses y la constancia de presentación de declaración fiscal, en los términos de la ley de la materia, ante la Contraloría Municipal.
+
+## Título Undécimo
 
 ### Capítulo II. De los Juzgados Administrativos Municipales
 
@@ -3306,10 +3426,6 @@ Juzgados administrativos municipales
 ### Capítulo III. De la Procuración de Justicia en Materia Administrativa Municipal
 
 Defensorías de oficio
-
-### Capítulo IV. De las Infracciones y Sanciones
-
-Sanciones
 
 ###### Artículo 241.
 
@@ -3346,6 +3462,10 @@ Los actos y resoluciones administrativas dictadas por el Ayuntamiento, podrán s
 Los actos y resoluciones administrativas dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal podrán ser impugnados optativamente ante los juzgados administrativos municipales o ante el Tribunal de lo Contencioso Administrativo, cuando afecten intereses de los particulares. Ejercida la acción ante cualquiera de ellos, no se podrá impugnar ante el otro el mismo acto.
 
 Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados por las partes, mediante el recurso de revisión ante las Salas del Tribunal de lo Contencioso Administrativo.
+
+### Capítulo IV. De las Infracciones y Sanciones
+
+Sanciones
 
 ###### Artículo 244.
 
@@ -3788,3 +3908,31 @@ Artículo Segundo. Los ayuntamientos en el ámbito de sus respectivas competenci
 Registro
 
 Artículo Tercero. Los ayuntamientos en el ámbito de sus respectivas competencias, tendrán a más tardar un año para la creación y actualización del Registro Público Municipal de Mercados y Centrales de Abastos.
+
+P.O. 9 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 276 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios del Estado contarán con un periodo de 180 días para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto de dar cumplimiento al artículo 240-1 del presente decreto, en referencia a la designación de los representantes de los órganos internos de control de cada región, por única ocasión se designa a partir de la entrada en vigencia del presente decreto al 10 de octubre de 2018, a los titulares de las contralorías municipales de los siguientes municipios:
+
+Representante de la región: Contralor del municipio de:
+
+Región I Dolores Hidalgo Cuna de la
+
+Independencia Nacional
+
+Región II León
+
+Región III Jaral del Progreso
+
+Región IV Irapuato
