@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2017-05-08"
+last_updated: "2018-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE ATENCION A VICTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 9 DE ENERO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Anexo al Extraordinario número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -1067,7 +1067,9 @@ II. Dos representantes de académicos o investigadores en derecho, psicología, 
 
 III. Dos representantes de la sociedad civil, propuestos por organizaciones no gubernamentales registradas ante la Secretaría de Relaciones Exteriores, o por el organismo público de derechos humanos.
 
-Para efectos del párrafo anterior, la Comisión Estatal emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2018)</small>
+
+Para efectos del párrafo anterior, el Presidente del Sistema Estatal emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Periódico Oficial del Estado.
 
 La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
 
