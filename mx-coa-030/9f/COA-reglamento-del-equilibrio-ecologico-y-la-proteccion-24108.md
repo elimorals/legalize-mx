@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-equilibrio-ecologico-y-la-proteccion-24108"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-01-28"
-last_updated: "2014-01-28"
+last_updated: "2018-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 ---
 # REGLAMENTO DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AMBIENTAL DEL MUNICIPIO DE SALTILLO, COAHUILA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 9 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SALTILLO, COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de enero de 2002.
 
@@ -1744,3 +1746,29 @@ Secretario del R. Ayuntamiento
 P.O. 28 DE ENERO DE 2014.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, independientemente de que en otro momento se haga lo propio en la Gaceta Municipal.
+
+P.O. 9 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza, independientemente de lo propio en la Gaceta Municipal.
+
+SEGUNDO.- Se abroga el Reglamento del Equilibrio Ecológico y la Protección Ambiental del Municipio de Saltillo, Coahuila publicado en el Periódico Oficial del Gobierno del Estado el25 de enero de 2002
+
+TERCERO.- Los procedimientos iniciados por la Dirección de Medio Ambiente, y Desarrollo Sustentable conforme a lo dispuesto en la normatividad vigente antes de la entrada en vigor de este Reglamento, continuarán y concluirán de acuerdo a lo dispuesto en dicha normatividad.
+
+CUARTO.- El Ayuntamiento y la Dirección de Medio Ambiente y Desarrollo Sustentable realizarán las respectivas adecuaciones necesarias para la aplicación de las disposiciones de este ordenamiento en un plazo no mayor a seis meses desde la entrada en vigor del presente Reglamento.
+
+QUINTO.- La Ley de Ingresos del Municipio correspondiente dispondrá los montos de las multas previstas como sanción por el incumplimiento de las disposiciones señaladas en este Reglamento.
+
+En tanto se dispongan en la Ley de Ingresos del Municipio, se aplicarán los siguientes montos por concepto de multa.
+
+l. Incumplimiento de lo dispuesto en el artículo 95 de este Reglamento:
+
+Multa equivalente a 30 a 1000 veces el monto de la Unidad de Cuenta vigente en el Estado.
+
+II. Incumplimiento de lo dispuesto en el artículo 327 de este Reglamento:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 9 DE ENERO DE 2018, PAGINAS DE LA 242 A LA 246.]</small>
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
