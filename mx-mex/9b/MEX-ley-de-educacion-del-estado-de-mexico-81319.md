@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2017-08-29"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -148,6 +148,10 @@ XX. Permanencia en el servicio, a la continuidad en el servicio educativo, con p
 > <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
 
 XXI. Reconocimiento, a las distinciones, apoyos y opciones de desarrollo profesional que se otorga al personal que destaque en el desempeño de sus funciones.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXII. Mediador Escolar, a los maestros, padres de familia o tutores y/o alumnos de cada institución educativa que tengan como fin la prevención o solución de los conflictos en términos de la Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y su Reglamento.
 
 > <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -317,9 +321,9 @@ XXII. Conformar una instancia multidisciplinaria responsable que establezca meca
 
 XXIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal docente y administrativo y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-XXIV. Fomentar y fortalecer la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
+XXIV. Fomentar y fortalecer la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos, en su caso, a través de la mediación escolar, en términos de las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -2399,7 +2403,7 @@ Las autoridades educativas podrán revocar las referidas autorizaciones, cuando 
 
 #### SECCIÓN SEGUNDA. DE LA CERTIFICACIÓN DE ESTUDIOS
 
-(REFROMADO, G.G. 29 DE AGOSTO DE 2017)
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 171.
 
@@ -2990,3 +2994,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Con base en lo dispuesto en la fracción XII Bis del artículo 12, contenida en el presente Decreto, la autoridad educativa podrá coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidos a atender a las personas en situación de vulnerabilidad a las que se refiere el párrafo segundo del artículo 11.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271.- POR EL QUE SE ADICIONAN, REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO Y DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
