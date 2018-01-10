@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-la-ganaderia-del-estado-de-zacatecas-50400"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-29"
-last_updated: "2013-08-24"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Zacatecas, el sábado 29 de abril del 2006.
 
@@ -73,7 +73,9 @@ IV. La regulación de la propiedad del ganado, sus productos y subproductos, su 
 
 V. El fomento de la investigación pecuaria y la divulgación de los resultados que se obtengan;
 
-VI. La conservación, mejoramiento y explotación racional de los recursos naturales relacionados con la ganadería;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VI. La conservación, mejoramiento, recuperación y explotación racional de los recursos naturales relacionados con la ganadería;
 
 VII. El fomento del mejoramiento genético de los hatos, criaderos, parvadas, piaras y rebaños, de las diferentes especies zootécnicas que se exploten con fines comerciales, industriales, tras patio, investigación u otros;
 
@@ -241,7 +243,9 @@ III. Promover la difusión e investigación pecuaria, para optimizar la explotac
 
 IV. Proteger y promover la población de aquellas especies animales que se consideren más benéficas para el desarrollo de la ganadería;
 
-V. Propiciar la conservación y mejoramiento de las tierras de pastoreo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+V. Propiciar la conservación, mejoramiento y aprovechamiento sustentable de las tierras de pastoreo;
 
 VI. Impulsar la organización de los productores ganaderos; y
 
@@ -279,39 +283,75 @@ XI. Fomentar y garantizar la preservación tanto, de los agostaderos, como de la
 
 XII. Promover la resiembra y reforestación de agostaderos, con el fin de producir forrajes de mejor calidad y evitar la erosión del suelo;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostaderos emitidos por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostaderos de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XIV. Ordenar la aplicación de todas aquellas medidas tendientes a resolver los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a la actividad pecuaria preservando la biodiversidad, el equilibrio ecológico y la conservación del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XV. Realizar inspecciones y estudios a terrenos y áreas destinadas para la actividad ganadera en el Estado, dictaminando sobre las condiciones de los recursos naturales y sus tendencias. Los dictámenes establecerán, en su caso, las medidas y recomendaciones para el uso de todos los recursos; y serán del conocimiento del propietario o poseedor del predio, así como de los Delegados Ganaderos, de la Unión Ganadera Regional de Zacatecas y de las Asociaciones Ganaderas que correspondan;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XVI. Vigilar el uso y aprovechamiento de los recursos naturales de los agostaderos para mantener la biodiversidad y su capacidad de potencial productivo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XVII. Emitir recomendaciones para prevenir y controlar siniestros, plagas y enfermedades en la vegetación de praderas y agostaderos;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XVIII. Fomentar la recuperación de áreas sobrepastoreadas consideradas básicas para el desarrollo de la ganadería;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XIX. Promover planes de manejo y buenas prácticas pecuarias, así como fomentar la ganadería diversificada, la implementación de cercas vivas, la diversificación de pastos y el aprovechamiento de residuos orgánicos del ganado orientado al aprovechamiento sustentable del potencial productivo;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XX. Fomentar el estímulo y producción de técnicas para el manejo sustentable del agua y suelo en el desarrollo de actividades pecuarias;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XXI. Establecer recomendaciones en materia de pastoreo rotacional y controlado en las áreas que así lo ameriten;
+
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-XIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostadero;
+XXII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostadero;
 
-XIV Procurar una mejor distribución de los productos y subproductos ganaderos para el abastecimiento del mercado interno y fomentar las exportaciones;
+XXIII. Procurar una mejor distribución de los productos y subproductos ganaderos para el abastecimiento del mercado interno y fomentar las exportaciones;
 
-XV. Procurar la transformación e industrialización de los productos y subproductos de origen animal, así como fomentar la engorda de ganado y la instalación de plantas procesadoras, empacadoras, pasteurizadoras, frigoríficos y otras que den valor agregado a la producción pecuaria;
+XXIV. Procurar la transformación e industrialización de los productos y subproductos de origen animal, así como fomentar la engorda de ganado y la instalación de plantas procesadoras, empacadoras, pasteurizadoras, frigoríficos y otras que den valor agregado a la producción pecuaria;
 
-XVI. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal, e intervenir en los casos que ésta u otras leyes señalen, para lo cual creará los organismos que considere pertinentes;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
-
-XVII. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en coordinación con ayuntamientos, asociaciones ganaderas locales generales y/o especializadas, y autoridades de salud en el Estado;
-
-XVIII. Vigilar la movilización de ganado;
-
-XIX. Autorizar corridas o recuentos de ganado, ya sean generales parciales;
-
-XX. Coadyuvar en la elaboración del censo ganadero;
-
-XXI. Promover e impulsar las líneas de investigación científica, de acuerdo a las prioridades para el desarrollo ganadero;
+XXV. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal, e intervenir en los casos que ésta u otras leyes señalen, para lo cual creará los organismos que considere pertinentes;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-XXII. Coordinar en conjunto con la Unión Ganadera Regional y asociaciones ganaderas locales, promover y apoyar la realización de congresos, ferias, exposiciones, eventos de mejoramiento genético y simposios estatales, nacionales e internacionales en materia de ganadería;
+XXVI. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en coordinación con ayuntamientos, asociaciones ganaderas locales generales y/o especializadas, y autoridades de salud en el Estado;
 
-XXIII. Imponer las sanciones y medidas de apremio en los casos de violación a las disposiciones de la presente Ley;
+XXVII. Vigilar la movilización de ganado;
 
-XXIV. Formular su presupuesto anual de egresos conforme a los objetivos trazados en el programa operativo anual;
+XXVIII. Autorizar corridas o recuentos de ganado, ya sean generales parciales;
 
-XXV. Elaborar y presentar para su aprobación a la o el Titular del Ejecutivo, el informe anual del desempeño de actividades, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, midiendo los objetivos y metas alcanzadas; y
+XXIX. Coadyuvar en la elaboración del censo ganadero;
 
-XXVI. Las demás que le señale esta ley y las disposiciones legales vigentes.
+XXX. Promover e impulsar las líneas de investigación científica, de acuerdo a las prioridades para el desarrollo ganadero;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+
+XXXI. Coordinar en conjunto con la Unión Ganadera Regional y asociaciones ganaderas locales, promover y apoyar la realización de congresos, ferias, exposiciones, eventos de mejoramiento genético y simposios estatales, nacionales e internacionales en materia de ganadería;
+
+XXXII. Imponer las sanciones y medidas de apremio en los casos de violación a las disposiciones de la presente Ley;
+
+XXXIII. Formular su presupuesto anual de egresos conforme a los objetivos trazados en el programa operativo anual;
+
+XXXIV. Elaborar y presentar para su aprobación a la o el Titular del Ejecutivo, el informe anual del desempeño de actividades, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, midiendo los objetivos y metas alcanzadas; y
+
+XXXV. Las demás que le señale esta ley y las disposiciones legales vigentes.
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de las Autoridades Municipales
 
@@ -1301,15 +1341,29 @@ En el caso de especies menores y aves de corral, por el riesgo de contagio que i
 
 Se considera de interés público:
 
-I. El manejo racional del recurso pastizal;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-II. El cumplimiento con la carga animal, según establezca la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la SAGARPA;
+I. El manejo racional, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos y el mejoramiento de los recursos naturales relacionados con la ganadería;
 
-III. La rehabilitación de los pastizales deteriorados mediante obras territoriales de conservación de suelos e introducción de especies forrajeras y sistemas de pastoreo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-IV. El fomento de la educación y la investigación sobre la importancia, valor y conservación de suelos e introducción de especies forrajeras y sistemas de pastoreo; y
+II. El cumplimiento con la carga animal, según establezca la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-V. La conservación y fomento de la fauna silvestre, nativa o introducida, con el objeto de mantener el equilibrio del ecosistema.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+III. La conservación y el mejoramiento de las áreas destinadas para el desarrollo de la ganadería, recuperación de praderas y agostaderos que fortalezcan la capacidad de producción;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+IV. El fomento de la educación, la capacitación y la investigación sobre la importancia, valor y conservación de suelos e introducción de especies forrajeras y sistemas de pastoreo, así como en el desarrollo económico de la ganadería;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+V. La conservación y fomento de la fauna silvestre, nativa o introducida, con el objeto de mantener el equilibrio del ecosistema, y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VI. Las obras y construcciones para la conservación del suelo y el agua.
 
 ###### Artículo 161.
 
@@ -1481,7 +1535,9 @@ Las sanciones administrativas podrán consistir en:
 
 I. Amonestación con apercibimiento;
 
-II. Multa de 50 hasta 2000 cuotas de salario mínimo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+II. Multa de 50 hasta 3000 veces la Unidad de Medida y Actualización diaria que emita el Instituto Nacional de Estadística y Geografía;
 
 III. Revocación del Registro;
 
@@ -1495,7 +1551,9 @@ V. Aseguramiento del ganado, productos o subproductos según sea el caso, única
 
 VI. El sacrificio de animales, únicamente cuando éstos representen un peligro de contagio de enfermedades a la población.
 
-Para la imposición de las multas servirá de base el salario mínimo general vigente en el Estado de Zacatecas al momento de comentarse la infracción.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Para la imposición de las multas servirá de base la Unidad de Medida y Actualización diaria que emita el Instituto Nacional de Estadística y Geografía, vigente al momento de cometerse la infracción.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -1602,3 +1660,11 @@ Los Ayuntamientos, en el término de ciento veinte días naturales a partir de l
 P.O. 24 DE AGOSTO DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE, LEY DE FOMENTO A LA GANADERÍA, LEY DE DESARROLLO FORESTAL SUSTENTABLE, LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, TODAS DEL ESTADO DE ZACATECAS, EN MATERIA DE PROTECCIÓN DE SUELOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
