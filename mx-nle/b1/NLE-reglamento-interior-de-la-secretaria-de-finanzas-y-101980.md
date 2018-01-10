@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-101980"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-11"
-last_updated: "2015-12-30"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 10 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado, el lunes 11 de agosto de 2014.
 
@@ -1236,3 +1238,35 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye a la Secretaría de Finanzas y Tesorería General del Estado a que realice (sic) los trámites administrativos necesarios para llevar a cabo la transferencia de recursos humanos, materiales y financieros que procedan conforme a este Decreto, a la Dirección Administrativa de la Secretaría Particular del Gobernador.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado, publicado en el Periódico Oficial del Estado el día 11 de agosto de 2014.
+
+###### ARTÍCULO TERCERO.
+
+A partir de su entrada en vigor, quedan derogadas todas las disposiciones que se opongan a lo dispuesto en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que a la entrada en vigor de este Reglamento se encuentren en trámite y sean competencia de otras dependencias, serán turnados a las áreas competentes conforme al transitorio Quinto del Decreto número 99 publicado en el Periódico Oficial del Estado el 06 de abril de 2016, que reforma la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, para su debido trámite y resolución.
+
+###### ARTÍCULO QUINTO.
+
+Las licitaciones, adquisiciones o procedimientos no jurisdiccionales que se encuentren en trámite o pendientes de concluir, quedarán bajo la responsabilidad de la dependencia que las inició y hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que realice los ajustes o transferencias presupuestales que sean necesarias, de acuerdo a lo dispuesto en el presente Reglamento, sujeto a la programación y suficiencia presupuestaria que éste determine, de acuerdo a la Ley de Egresos del ejercicio correspondiente.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en la Ley de Egresos se dé una nueva denominación a cualquiera de las Unidades Administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, esa Unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este cuerpo de atribuciones.
