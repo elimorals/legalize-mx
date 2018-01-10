@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2016-06-01"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -987,6 +987,10 @@ II. Municipales:
 
 a) La Policía Preventiva y de Tránsito, con todas las unidades y agrupamientos que prevean sus reglamentos respectivos.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+La autoridad encargada de dar seguimiento a las medidas cautelares y medidas impuestas a los adolescentes, señalada en el inciso d) de la fracción I del presente artículo, contará con autonomía técnica, operativa y de gestión y se regirá por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, el reglamento de esta Ley y demás normativa aplicable.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 48.
@@ -1687,7 +1691,9 @@ XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen d
 
 XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
 
-XXVIII. Los demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XXVIII. Las señaladas en el artículo 74 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normativa aplicable.
 
 ###### Artículo 101.
 
@@ -1727,9 +1733,9 @@ XI. Mantener en buen estado el armamento, material, municiones y equipo que se l
 
 XII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XIII. Las demás que establezcan las disposiciones jurídicas aplicables.
+XIII. Las señaladas en el artículo 74 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -2809,7 +2815,7 @@ Para los efectos de práctica de diligencias, audiencias y notificaciones se con
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO l. DE LA QUEJA
+### CAPÍTULO I. DE LA QUEJA
 
 ###### Artículo 183.
 
@@ -3077,7 +3083,7 @@ Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública d
 
 P.O. 22 DE FEBRERO DE 2012.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
 
@@ -3154,3 +3160,15 @@ SEGUNDA.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan
 TERCERA.- Cuando la Ley de Reinserción Social y Seguimiento de Medida (sic) Cautelares haga referencia a la Unidad de Reinserción Social, debe entenderse que se refiere a la Coordinación Estatal de Reinserción Social.
 
 CUARTA.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que sean contrarias a lo establecido por el presente decreto.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS DIECIOCHO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
