@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-11-15"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -673,13 +671,15 @@ IV.- Designar una comisión especial integrada por un regidor por cada uno de lo
 
 V.- Los Ayuntamientos podrán acordar por mayoría de sus miembros, integrar comisiones de investigación de hechos que afecten la administración pública municipal. Las comisiones deberán estar integradas de manera plural. Los resultados de las investigaciones se harán del conocimiento del Ayuntamiento y del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 24 Bis.
 
 Todos los Ayuntamientos deberán de crear la Dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la Política Pública a favor de las mujeres dentro del Municipio.
 
-Para el pleno desarrollo de sus funciones deberá de contar con la suficiencia presupuestal necesaria para dicho fin.
+Así también, desde el inicio de sus funciones constitucionales, los Ayuntamientos, deberán crear una Instancia Municipal de la Juventud, la cual estará encargada de abrir un espacio físico para la atención, foros, iniciativas y actividades encaminadas a políticas públicas a favor de los jóvenes del municipio y cuya titularidad deberá ser encomendada a un joven.
+
+Para el pleno desarrollo de sus funciones ambas instancias deberán contar con la suficiencia presupuestal necesaria para dicho fin.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2041,7 +2041,7 @@ VI. Recibir la capacitación y mantener la coordinación debida con la dependenc
 
 VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Familiar para el Estado Libre y Soberano de Morelos.
 
-Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
+Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije, en el Presupuesto de Egresos del respectivo Municipio.
 
 ### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
 
@@ -4104,6 +4104,16 @@ VIGÉSIMA CUARTA. La ESAF deberá actualizar y, en su caso, publicar la normativ
 VIGÉSIMA QUINTA. LA ESAF deberá decretar de oficio la transferencia documental al archivo histórico de los asuntos que se encuentran en el supuesto establecido en el artículo 69 de la Ley de Fiscalización Superior del Estado de Morelos y 95 de la Ley de Auditoría y Fiscalización del Estado de Morelos, de conformidad con lo dispuesto en el artículo 35 de la Ley Estatal de Documentación y Archivos de Morelos, debiendo informar respecto de dicho trámite al Congreso del Estado de Morelos.
 
 VIGÉSIMA SEXTA. El Auditor General, el titular del Consejo de Vigilancia, los Auditores Especiales y los Directores Generales de ESAF en funciones, permanecerán en su encargo hasta concluir el periodo por el que fueron designados, pudiendo participar como candidatos en la convocatoria para la designación de Auditor General previsto en la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y los Auditores Especiales y Directores Generales podrán ser nombrados por un periodo más previa evaluación que haga el Órgano Político del Congreso del Estado.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS DOCE POR EL QUE SE REFORMA EL ARTÍCULO 24 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
