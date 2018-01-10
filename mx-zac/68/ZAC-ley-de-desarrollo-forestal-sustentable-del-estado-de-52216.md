@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-forestal-sustentable-del-estado-de-52216"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-28"
-last_updated: "2013-03-23"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de octubre de 2006.
 
@@ -39,7 +39,9 @@ RESULTANDO PRIMERO.- Con fecha 29 de junio del año 2006, Diputados propietarios
 
 RESULTANDO SEGUNDO.- En fecha 29 de junio del 2006, por acuerdo del Presidente de la Quincuagésima Octava Legislatura, mediante el memorándum número 2157 y con fundamento en lo dispuesto por el artículo 56 fracción I y 59 párrafo primero, fracción I de nuestro Reglamento General, la iniciativa de referencia fue turnada a las Comisiones Legislativas de Puntos Constitucionales y de Ecología y Medio Ambiente, para su estudio y dictamen.
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo antes expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado de Zacatecas; 17, fracción I de la Ley Orgánica del Poder Legislativo; 86, numeral 1, 88, 90, y relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -87,7 +89,9 @@ XII. Estimular las certificaciones forestales y de bienes y servicios ambientale
 
 XIII. Regular la prevención, combate y control de incendios forestales, así como de las plagas y enfermedades forestales;
 
-XIV. Promover acciones con fines de conservación y restauración de suelos forestales;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XIV. Promover acciones con fines de protección, conservación y restauración de suelos forestales;
 
 XV. Promover la cultura, educación, investigación y capacitación para el manejo sustentable de los recursos forestales;
 
@@ -291,7 +295,13 @@ XXXIII. Elaborar estudios para, en su caso, recomendar al Ejecutivo Federal a tr
 
 XXXIV. Elaborar estudios, para en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio, y
 
-XXXV. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los municipios.
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XXXV. Formular, instrumentar y ejecutar una política pública para la protección, conservación, restauración y aprovechamiento de suelos forestales bajo los principios de esta Ley, y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XXXVI. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos y que no estén expresamente otorgados a la federación o a los municipios;
 
 ###### ARTÍCULO 11.
 
@@ -438,6 +448,10 @@ VIII. Autorizar el aprovechamiento de los recursos forestales maderables y no ma
 IX. Dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y asistir a los servicios técnicos forestales, o
 
 X. Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere la Ley General del Equilibrio Ecológico y la Protección al Medio Ambiente.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+XI. Programar y ejecutar acciones en materia de protección, conservación y restauración del suelo.
 
 ###### ARTÍCULO 17.
 
@@ -1333,9 +1347,13 @@ Las sanciones que establece la presente Ley por infracciones a la misma, serán 
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-a) Con el equivalente de 40 a 1,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, V, VII, X, XI, XII, XV y XVIII del artículo 124 de esta Ley, y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-b) Con el equivalente de 100 a 50,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: III, IV, VI, VIII, IX, XIII, XIV, XVI, y XVII del artículo 124 de esta Ley;
+a) Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización diaria emitida por el Instituto Nacional de Estadística y Geografía, vigente en el Estado al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones I, II, V, X, XI, XII, XV y XVIII del artículo 124 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+b) Con el equivalente de 100 a 50,000 veces la Unidad de Medida y Actualización diaria emitida por el Instituto Nacional de Estadística y Geografía, vigente en el Estado al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones III, IV, VI, VIII, IX, XIII, XIV, XVI y XVII del artículo 124 de esta Ley;
 
 II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso, o de las actividades de que se trate, las personas físicas o morales que incurran en los supuestos previstos en las fracciones: III, IV, VI, X, XI, XII y XIII, del artículo 124 de la presente Ley, y
 
@@ -1500,3 +1518,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE, LEY DE FOMENTO A LA GANADERÍA, LEY DE DESARROLLO FORESTAL SUSTENTABLE, LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, TODAS DEL ESTADO DE ZACATECAS, EN MATERIA DE PROTECCIÓN DE SUELOS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
