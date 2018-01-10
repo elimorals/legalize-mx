@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2015-07-04"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
@@ -86,6 +86,10 @@ IV. La participación social orientada al desarrollo sustentable del Estado;
 V. La planeación y ejecución de acciones que fomenten la educación ambiental y el fortalecimiento de una cultura ecológica, así como el desarrollo de tecnologías apegadas a criterios ambientales, y
 
 VI. Las demás acciones que tiendan a cumplir los fines de la presente Ley, en congruencia y sin perjuicio de la competencia y atribuciones de la federación.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VII. La planificación y ejecución de acciones en materia de protección, conservación y restauración del suelo.
 
 ###### Artículo 3.
 
@@ -1129,7 +1133,7 @@ Las empresas o particulares que presten sus servicios en materia de impacto y ri
 
 ###### Artículo 74.
 
-La .Secretaría, conforme al Reglamento establecerá y mantendrá actualizado un Registro de Prestadores de Servicios Ambientales que se integrará al Sistema Estatal de Información Ambiental. Podrán prestar servicios ambientales las personas físicas o morales, que cuenten con el registro anual otorgado por la Secretaría, para quedar inscritos en este Registro, los aspirantes deberán de cumplir con el Reglamento.
+La Secretaría, conforme al Reglamento establecerá y mantendrá actualizado un Registro de Prestadores de Servicios Ambientales que se integrará al Sistema Estatal de Información Ambiental. Podrán prestar servicios ambientales las personas físicas o morales, que cuenten con el registro anual otorgado por la Secretaría, para quedar inscritos en este Registro, los aspirantes deberán de cumplir con el Reglamento.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -2736,3 +2740,11 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, los ayuntamientos adecuarán su legislación a lo previsto en este Decreto.
 
 Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE, LEY DE FOMENTO A LA GANADERÍA, LEY DE DESARROLLO FORESTAL SUSTENTABLE, LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, TODAS DEL ESTADO DE ZACATECAS, EN MATERIA DE PROTECCIÓN DE SUELOS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
