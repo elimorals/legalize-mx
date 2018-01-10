@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2017-11-22"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -1343,9 +1343,9 @@ Corresponde a la Secretaría de Salud de Morelos, sin perjuicio de las atribucio
 
 I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud, así como para el desarrollo de la medicina tradicional y la prestación de este servicio en las comunidades indígenas;
+II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud, así como para el desarrollo de la medicina tradicional y la prestación de este servicio en las comunidades indígenas, debiendo entregar la constancia para ejercer la medicina tradicional, cuya vigencia estará sujeta a su permanente actualización.
 
 III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rigen el funcionamiento de los primeros; y
 
@@ -4209,7 +4209,7 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo, para los
 
 P.O. 5 DE MARZO DE 2014.
 
-DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI DENOMINADO "ATENCIÓN MATERNO-INFANTIL", AL TÍTULO TERCERO DENOMINADO "PRESTACIÓN DE LOS SERVICIOS DE SALUD", CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI DENOMINADO “ATENCIÓN MATERNO-INFANTIL”, AL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD”, CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -4546,3 +4546,11 @@ P.O. 22 DE NOVIEMBRE DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS SESENTA Y OCHO POR EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 99 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
