@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2016-05-06"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -149,11 +149,33 @@ El Instituto contará con los siguientes órganos:
 
 I. El Consejo de Cultura Física y Deporte;
 
-II. La Junta de Gobierno; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-III. El Comisario.
+II. La Junta de Gobierno;
 
-El Instituto contará, además, con una Dirección General, así como con la estructura administrativa y operativa que se establezca en el Reglamento Interior y con las unidades que sean creadas por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+III. El Comisario; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 10 DE ENERO DE 2018)</small>
+
+IV. Además, contará con la siguiente estructura administrativa y operativa
+
+1.- Dirección General;
+
+2.- Direcciones:
+
+a) De Planeación Estratégica;
+
+b) De Calidad en el Deporte;
+
+c) De Educación y Formación Deportiva; y
+
+d) De Deporte Adaptado.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+
+El Instituto contará, además, con la estructura administrativa y operativa que se establezca en el Reglamento Interior y con las unidades que sean creadas por acuerdo de la Junta de Gobierno.
 
 #### Sección Primera. Del Consejo de Cultura Física y Deporte
 
@@ -423,11 +445,129 @@ XX. Ejercer dentro del ámbito estatal las atribuciones que le correspondan en v
 
 XXI. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como las derivadas de los acuerdos de la Junta de Gobierno.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE ENERO DE 2018)</small>
+
+#### Sección Tercera Bis. De las Atribuciones de los Directores
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+###### Artículo 18 Bis.
+
+Son atribuciones comunes para los titulares de las Direcciones, las siguientes:
+
+I. Supervisar la operación de cada una de las áreas a su cargo;
+
+II. Cumplir con los principios de Organismo, con las normas contenidas en la Ley, en este reglamento y los demás ordenamientos aplicables, con los acuerdos y políticas emanados de la Junta y con las instrucciones dadas por el Director General;
+
+III. Señalar los lineamientos para el cumplimiento de las metas trazadas en sus respectivas áreas;
+
+IV. Apoyar al Director General en el ejercicio de sus funciones, dentro del ámbito de su competencia;
+
+V. Establecer planes de control y evaluación del área;
+
+VI. Elaborar la planeación estratégica y operativa del área;
+
+VII. Someter a consideración del Director General los estudios y proyectos que elaboren las áreas a su cargo;
+
+VIII. Rendir informes a (sic) Dirección General;
+
+IX. Elaborar y presentar al Director General, el anteproyecto de presupuesto de ingresos y egresos de la dirección a su cargo;
+
+X. Representar al Instituto ante las autoridades deportivas, civiles y militares en los términos de las disposiciones legales aplicables;
+
+XI. Asignar funciones y responsabilidades al personal a su cargo, conforme las disposiciones legales aplicables y a las políticas y lineamientos señalados en los manuales de organización y servicios y procedimientos del Instituto; y
+
+XII. Las demás que les confieran las disposiciones legales aplicables y el director general, en la espera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 18 Bis I.- Son atribuciones para el Director de Planeación Estratégica, las siguientes:
+
+I. Dirigir, coordinar y supervisar las funciones de contabilidad, ingresos, egresos, patrimonio, adquisiciones y recursos humanos, asegurando que se ejerzan bajo el marco jurídico y normativo establecido;
+
+II. Contratar, evaluar, promover, transferir y remover al personal del organismo cuya designación no corresponda al Gobernador del Estado o al Director General, y asignarle sus funciones y responsabilidades conforme a las instrucciones dadas por el Director General;
+
+III. Supervisar la aplicación y actualización de los manuales de organización y servicios y procedimientos del organismo;
+
+IV. Coordinar y vigilar el control financiero del ejercicio de los recursos asignados al organismo;
+
+V. Dirigir, supervisar y contratar la adquisición de bienes y servicios y el uso y goce temporal de bienes, de acuerdo a las necesidades establecidas por las diferentes áreas, ajustándose al presupuesto asignado y a la normatividad aplicable;
+
+VI. Diseñar esquemas financieros para la distribución y uso del presupuesto;
+
+VII. Elaborar oportunamente la información financiera del Instituto;
+
+VIII. Coordinar y vigilar la elaboración y seguimiento del presupuesto anual de ingresos y egresos del Organismo;
+
+IX. Proporcionar las identificaciones oficiales del personal del Organismo;
+
+X. Proponer al Director General las políticas en materia de presupuesto;
+
+XI. Recomendar criterios de operatividad respecto a los objetivos y metas del Organismo;
+
+XII. Proponer criterios para la planeación, ejecución, supervisión y evaluación de las políticas y programas del Organismo; y
+
+XIII. Promover métodos y acciones que permitan al organismo realizar las actividades operativas conforme a la planeación estratégica y mediante la aplicación de avances tecnológicos que faciliten su ejecución.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 18 Bis II.- Son atribuciones para el Director de Calidad en el Deporte, las siguientes:
+
+I. Diseñar estrategias para la consolidación de alto rendimiento de los atletas del Estado;
+
+II. Diseñar estrategias para la detención y atención de los talentos deportivos;
+
+III. Generar estrategias de vinculación con instituciones que desarrollan el deporte;
+
+IV. Generar estrategias para el empleo de las ciencias aplicadas en el desarrollo del deporte y la preparación e integridad física de los deportistas de alto rendimiento; y
+
+V. Generar estrategias para el desarrollo del proceso de selección de los atletas que participan en eventos nacionales e internacionales
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 18 Bis III.- Son atribuciones para el Director de Educación y Formación Deportiva:
+
+I. Diseñar estrategias para promover la cultura física en el Estado;
+
+II. Generar acciones para contribuir a mejorar la educación física en coordinación con la Secretaria de Educación en el Estado;
+
+III. Diseñar estrategias para contribuir en el buen funcionamiento de los consejos estudiantiles deportivos estatales;
+
+IV. Establecer lineamientos de vinculación y apoyo entre las asociaciones de los consejos estudiantiles deportivos estatales;
+
+V. Establecer lineamientos de control para asegurar el buen funcionamiento de las asociaciones deportivas; y
+
+VI. Establecer estrategias para el establecimiento del sistema estatal de capacitación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 18 Bis IV.- Son atribuciones para el Director del Deporte Adaptado:
+
+I. Coordinar las áreas de fomento de deporte adaptado y talentos paralímpicos;
+
+II. Diseñar estrategias para la consolidación del alto rendimiento de los atletas del Estado;
+
+III. Diseñar estrategias para la detención y atención de los talentos deportivos;
+
+IV. Generar estrategias de vinculación con instituciones que desarrollan el deporte;
+
+V. Generar estrategias para el empleo de las ciencias aplicadas en el desarrollo del deporte y la preparación e integridad física de los deportistas de alto rendimiento;
+
+VI. Generar estrategias para el desarrollo del proceso de selección de los atletas que participan en eventos nacionales e internacionales;
+
+VII. Diseñar estrategias para promover la cultura física y deportiva del Estado;
+
+VIII. Generar acciones para contribuir a mejorar la educación física y deportiva en coordinación con la Secretaria de Educación y Sistema para el Desarrollo Integral de la Familia en el Estado;
+
+IX. Diseñar estrategias para contribuir en el buen funcionamiento de los consejos estudiantiles deportivos estatales;
+
+X. Establecer lineamientos de vinculación y apoyo entre las asociaciones deportivas y el Instituto;
+
+XI. Establecer lineamientos de control para asegurar el buen funcionamiento de las asociaciones deportivas; y
+
+XII. Establecer estrategias para el establecimiento del sistema estatal de capacitación.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
-
-#### Sección Cuarta. Del Comisario
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -461,9 +601,13 @@ VII. Fungir como Secretario de las sesiones; y
 
 VIII. Las demás que le sean encomendadas para el debido cumplimiento del objeto y atribuciones del Instituto.
 
+#### Sección Cuarta. Del Comisario
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-A propuesta de la Contraloría y Transparencia Gubernamental, el Gobernador del Estado designara y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del instituto, en los términos del la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
+A propuesta de la Contraloría y Transparencia Gubernamental, el Gobernador del Estado designara y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del instituto, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
 
 ###### Artículo 21.
 
@@ -570,3 +714,9 @@ P.O. 6 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102. SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ESTATAL DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE”.]
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 318. SE REFORMA LA FRACCIÓN II Y III; ASÍ COMO POR ADICCIÓN (SIC) DE LA FRACCIÓN IV AL ARTÍCULO 7; UNA SECCIÓN TERCERA BIS, QUE COMPRENDERÁ LOS ARTÍCULOS 18 BIS; 18 BIS I; 18 BIS II; 18 BIS III Y 18 BIS IV; DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
