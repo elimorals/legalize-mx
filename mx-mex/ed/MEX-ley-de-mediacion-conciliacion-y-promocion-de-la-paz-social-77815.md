@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-mediacion-conciliacion-y-promocion-de-la-paz-social-7781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2010-12-22"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE MEDIACION, CONCILIACION Y PROMOCION DE LA PAZ SOCIAL PARA EL ESTADO DE MEXICO
 
-LEY DE MEDIACION, CONCILIACION Y PROMOCION DE LA PAZ SOCIAL PARA EL ESTADO DE MEXICO
+LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
 
 Ley publicada en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 22 de diciembre de 2010.
 
@@ -81,6 +81,10 @@ Todos los habitantes del Estado de México tienen derecho de recurrir al diálog
 
 El Poder Ejecutivo a través de la Secretaría de Educación del Gobierno del Estado de México, debe incluir en los programas educativos oficiales, métodos que fomenten la utilización del diálogo, la negociación, la mediación, la conciliación y los programas de justicia restaurativa.
 
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+La Secretaría de Educación se podrá coordinar con el Centro Estatal con la finalidad de implementar en las instituciones educativas, la mediación escolar, cuando sea solicitado por la autoridad escolar.
+
 ###### Artículo 5.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -111,6 +115,10 @@ XII. Convenio: Al acto jurídico escrito en cuyo contenido consta la prevención
 
 XIII. Acuerdo reparatorio: Al pacto entre la víctima u ofendido y el imputado, para la solución del conflicto y la restauración de las relaciones humanas y sociales afectadas.
 
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Mediación Escolar: Al proceso en el que los maestros, padres de familia o tutores y/o alumnos de cada institución educativa intervienen como mediadores con objeto de prevenir o solucionar un conflicto.
+
 ### CAPÍTULO II. Del Centro Estatal, de los Centros Públicos y de las Unidades de Mediación, Conciliación y de Justicia Restaurativa
 
 ###### Artículo 6.
@@ -139,7 +147,9 @@ IV. Elaborar los manuales operativos de observancia general de mediación, conci
 
 V. Proponer al Consejo de la Judicatura, la autorización de programas permanentes de actualización, capacitación y certificación de mediadores-conciliadores y facilitadores;
 
-VI. Formar, capacitar y evaluar a los mediadores-conciliadores y facilitadores;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VI. Formar, capacitar y evaluar a los mediadores escolares, mediadores-conciliadores y facilitadores;
 
 VII. Establecer mediante disposiciones generales, políticas públicas y estrategias, que todos los mediadores-conciliadores y facilitadores aplicarán en el desempeño de sus funciones;
 
@@ -452,3 +462,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271.- POR EL QUE SE ADICIONAN, REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO Y DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
