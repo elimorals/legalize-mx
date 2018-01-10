@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2015-12-02"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -305,7 +305,9 @@ I.- Deporte Popular:- Se considera como el conjunto de actividades físicas que 
 
 II.- Deporte Estudiantil:- Se consideran como las actividades competitivas que se organizan en el sector educativo como complemento a la educación física;
 
-III.- Deporte para los Discapacitados:- Entendiéndose por éste, la práctica del deporte adaptado a personas con cualquier restricción o impedimento del funcionamiento de una actividad ocasionado por una deficiencia dentro del ámbito considerado normal del ser humano.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+III. Deporte Adaptado: Se entenderá como la práctica del deporte que desarrollan personas con alguna discapacidad, mismo que deberá ser fomentado por el sector público con la participación de los sectores privado o social y deberá cumplir con los requisitos necesarios de adaptación y accesibilidad para su integración a esta actividad.
 
 IV.- Deporte Selectivo:- Es el que se practica con propósito de clasificación de calidad, dentro de los organismos deportivos del Estado y los Municipios, conforme a sus estatutos y reglamentos;
 
@@ -358,6 +360,12 @@ XII.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
 ###### Artículo 39 Bis.
 
 Los menores de edad, tendrán derecho a recibir por parte del Estado, la asesoría jurídica necesaria para la celebración de cualquier acto jurídico relacionado con el desarrollo de actividades deportivas, en los términos de la fracción III del artículo 42 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 39 BIS 1. El Sistema Estatal del Deporte en coordinación con el Ejecutivo Estatal deberá otorgar y promover en el ámbito de sus respectivas competencias, estímulos, ayudas, becas, subvenciones y reconocimientos a los deportistas. Para ello establecerán los criterios y bases para su otorgamiento a los que se harán acreedores.
+
+Además gestionarán y establecerán los mecanismos necesarios para garantizar de forma plena e igualitaria las condiciones de quienes practican el deporte adaptado, con el objeto de que gocen de los mismos reconocimientos y estímulos que se otorguen a los deportistas, sin menoscabo de los derechos que le otorga la Constitución de Política de los Estados Unidos Mexicanos, la Constitución del Estado y demás ordenamientos legales.
 
 ###### Artículo 40.
 
@@ -623,9 +631,7 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo doping.
 
-### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
-
-Y RECURSOS EN EL DEPORTE
+### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
 
 ###### Artículo 75.
 
@@ -716,3 +722,9 @@ UNICO:- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2018.
+
+[N. DE. E TRANSITORIO DEL "DECRETO NÚM. 318. SE REFORMA LA FRACCIÓN II Y III; ASÍ COMO POR ADICCIÓN DE LA FRACCIÓN IV AL ARTÍCULO 7; UNA SECCIÓN TERCERA BIS, QUE COMPRENDERÁ LOS ARTÍCULOS 18 BIS; 18 BIS I; 18 BIS II; 18 BIS III Y 18 BIS IV; DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE."]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
