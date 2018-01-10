@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2017-10-17"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 12 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -185,7 +183,9 @@ V. La operación, formulación y evaluación del Programa Estatal de Protección
 
 VI. La preservación, conservación, recuperación, rehabilitación, remediación, restauración y protección a la biodiversidad, al medio ambiente y al equilibrio ecológico, y en su caso, concurrir con la Federación en la política que al efecto se dicte cuando el asunto sea de interés nacional;
 
-VII. La regulación de las actividades que no sean consideradas altamente riesgosas cuando por sus efectos puedan generar deterioro a la biodiversidad, desequilibrios ecológicos, alterar o dañar los ecosistemas y a los procesos biológicos ambientales del Estado o de sus Municipios;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VII. La regulación de las actividades que no sean consideradas altamente riesgosas cuando por sus efectos puedan generar deterioro a la biodiversidad, desequilibrios ecológicos, alterar o dañar los ecosistemas y a los procesos biológicos ambientales del Estado o de sus Municipios; por lo que deberán ser sancionadas en términos del presente Código las personas físicas o jurídico colectivas que con su actividad dañen a la biodiversidad.
 
 VIII. La creación, regulación, vigilancia y administración de las áreas naturales protegidas que el presente Código prevé con la participación de las autoridades municipales que correspondan;
 
@@ -7964,3 +7964,11 @@ G.G. 12 DE OCTUBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 275.- POR EL QUE SE REFORMA EL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el 01 de enero de 2019.
