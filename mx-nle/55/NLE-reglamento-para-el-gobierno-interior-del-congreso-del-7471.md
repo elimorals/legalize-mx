@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2017-03-15"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1077,9 +1077,13 @@ Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asu
 
 El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
-Los expedientes que tengan el carácter de exhortos, Puntos de Acuerdo, de denuncias o solicitudes al Congreso que no tengan el carácter de declaración de procedencia o juicio político; que no hayan sido dictaminados en el lapso de seis meses a partir de haber sido turnados a comisiones, serán dados de baja del listado de asuntos pendientes, sin más trámite, por la Oficialia Mayor.
+Los expedientes que tengan el carácter de iniciativas de Ley, Decretos, exhortos, puntos de acuerdo, denuncias o solicitudes al Congreso, que no tengan carácter de declaración de procedencia o juicio político; que no hayan sido dictaminados en el lapso de seis meses a partir de haber sido turnados a comisiones, serán dados de baja por caducidad del listado de asuntos pendientes, sin más trámite, por la Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+No será aplicable la caducidad prevista en el párrafo anterior a las iniciativas de ley promovidas por ciudadanos y a las que se encuentran en trámite de consultas, foros, mesas de trabajo o investigación de cualquier naturaleza; pero en ningún caso el termino deberá exceder de un año.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -1935,11 +1939,11 @@ Bajo la denominación de Acuerdo, el Congreso dictará resolución sobre cualqui
 
 Los Acuerdos Administrativos son las resoluciones del Pleno o de la Comisión de Coordinación y Régimen Interno sobre asuntos concretos específicos que solo se comunicarán a los interesados.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 124.
 
-Los Decretos, Leyes y Acuerdos invariablemente se publicarán en el Periódico Oficial del Estado para que surtan sus efectos. Los Acuerdos Administrativos se comunicarán solamente por oficio a los interesados, con copia del dictamen respectivo, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho órgano.
+Los Decretos, Leyes y Acuerdos, invariablemente se enviarán al Periódico Oficial del Estado para su publicación y efectos a que haya lugar. Los Acuerdos Administrativos se comunicarán solamente por oficio a los interesados, con copia del dictamen respectivo, pero si la Asamblea lo juzga pertinente, el Presidente ordenará que también se publiquen en dicho órgano.
 
 ###### Artículo 125.
 
@@ -2103,7 +2107,9 @@ Todos los asuntos se resolverán a mayoría simple de votos de los presentes, ex
 
 Las votaciones serán:
 
-a) Por Mayoría Simple: Cuando se integren con la mitad más uno de los Diputados asistentes a la sesión;
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+
+a).- Por Mayoría Simple: Cuando se integren con la mayoría de los Diputados presentes en el Salón de Sesiones al momento de la votación;
 
 b) Por Mayoría Absoluta: Cuando se integren con la mitad más uno de los integrantes de la Legislatura;
 
@@ -2752,5 +2758,11 @@ Tercero.- Las solicitudes de inscripción de letras áureas, anteriores a la ent
 P.O. 15 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 236. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 65 FRACCIÓN VII; EL NOMBRE DEL CAPÍTULO II DEL TÍTULO QUINTO Y POR ADICIÓN LOS ARTÍCULOS 122 BIS; 122 BIS 1; Y 122 BIS 2 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 78 BIS 1 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 316. SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 46; EL ARTÍCULO 124 Y EL INCISO A) DEL ARTÍCULO 141 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
