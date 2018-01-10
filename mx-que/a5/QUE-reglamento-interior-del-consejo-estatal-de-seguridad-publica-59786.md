@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-consejo-estatal-de-seguridad-publica-59
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-01"
-last_updated: "2008-02-01"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-> <small>[N. DE E. DE CONFORMIDAD EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 10 DE ENERO DE 2018; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD, PUBLICADO EN EL P.O. DE 10 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 1 de febrero de 2008.
 
@@ -1304,3 +1304,19 @@ Lic. Juan Martín Granados Torres
 Procurador General de Justicia
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD”.]
+
+Artículo Primero.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo.- Se abroga el Acuerdo por el que se crea la Comisión de Administración y Finanzas del Consejo Estatal de Seguridad Pública, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 23 de Enero de 2009.
+
+Artículo Tercero.- Se abroga el Acuerdo por el que se crea la Comisión Estatal para el Ejercicio del Fondo de Aportaciones para la Seguridad Pública, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 19 de junio de 2009.
+
+Artículo Cuarto.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
+
+Artículo Quinto.- Se abroga el Reglamento Interior del Consejo Estatal de Seguridad, publicado el 01 de febrero de 2008 en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
