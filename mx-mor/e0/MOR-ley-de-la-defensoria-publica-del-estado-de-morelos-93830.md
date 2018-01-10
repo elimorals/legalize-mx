@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-defensoria-publica-del-estado-de-morelos-93830"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-03"
-last_updated: "2014-12-10"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -71,19 +71,41 @@ Para determinar si el solicitante de los servicios de asesoría jurídica reúne
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Defensor Público: Todo servidor público que preste el servicio de defensa pública en los términos que establece esta Ley;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-II. Director General; La persona titular de la Dirección General del Instituto de la Defensoría Pública del Estado de Morelos;
+I. Adolescente, a la persona cuya edad está entre los doce años cumplidos y menos de dieciocho;
 
-III. Instituto: El Instituto de la Defensoría Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-IV. Junta de Gobierno: Órgano máximo de autoridad del Instituto en términos del artículo 65 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+II. Defensor Público, al servidor público que preste el servicio de defensa pública en los términos que establece esta Ley;
 
-V. Ley: La Ley de la Defensoría Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-VI. Persona de escasos recursos económicos o perteneciente a grupo vulnerable: Todo individuo afectado por algún grado de vulnerabilidad como pobreza, edad, estado de salud, discapacidad, origen étnico o cualquier otra circunstancia excluyente que lo coloque en grave situación de desventaja para la defensa o el debido ejercicio de sus derechos, previo estudio de su entorno que se realice, buscando en todo momento brindar auxilio ante una mayor necesidad, y
+III. Defensor Público Especializado, al servidor público que preste el servicio de defensa pública especializada en el Sistema Integral de Justicia Penal para Adolescentes, de conformidad con la normativa aplicable;
 
-VII. Sistema de Defensa: Al Sistema de Defensa Pública del Estado, mediante el cual se diseña y opera la prestación de servicio que asegura de manera gratuita la defensa en materia penal de toda persona, y la prestación de servicios de orientación, asesoría y patrocinio a las personas de escasos recursos económicos o grupos vulnerables en las demás materias, ya sea familiar, civil o mercantil.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+IV. Director General, a la persona titular de la Dirección General del Instituto de la Defensoría Pública del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+V. Instituto, al Instituto de la Defensoría Pública del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VI. Junta de Gobierno: Órgano máximo de autoridad del Instituto, en términos de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VII. Ley, a la Ley de la Defensoría Pública del Estado de Morelos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2018)</small>
+
+VIII. Persona de escasos recursos económicos o perteneciente a un grupo vulnerable, a todo individuo afectado por algún grado de vulnerabilidad como pobreza, edad, estado de salud, discapacidad, origen étnico o cualquier otra circunstancia excluyente que lo coloque en grave situación de desventaja para la defensa o el debido ejercicio de sus derechos, previo estudio de su entorno que se realice, buscando en todo momento brindar auxilio ante una mayor necesidad, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2018)</small>
+
+IX. Sistema de Defensa, al Sistema de Defensa Pública del Estado, mediante el cual se diseña y opera la prestación de servicio que asegura de manera gratuita la defensa en materia penal de toda persona, y la prestación de servicios de orientación, asesoría y patrocinio a las personas de escasos recursos económicos o grupos vulnerables en las demás materias, ya sea familiar, civil o mercantil.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -141,13 +163,19 @@ II. Establecer y coordinar las relaciones con los Poderes, Dependencias, Entidad
 
 III. Fomentar, coordinar y concertar acuerdos de apoyo y colaboración con instituciones privadas locales, nacionales o internacionales, para el cumplimiento de su objeto;
 
-IV. Proporcionar servicios institucionales tendientes a propiciar la profesionalización y capacitación de servidores públicos y público en general, que podrán generar ingresos propios conforme se apruebe en los lineamientos expedidos por la Junta de Gobierno del Instituto, y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-V. Proporcionar asesoría, defensa y patrocinio jurídico en materia penal, civil, familiar y de justicia para adolescentes en defensa de los derechos a miembros de los pueblos indígenas y personas con discapacidad.
+IV. Proporcionar servicios institucionales tendientes a propiciar la profesionalización y capacitación de servidores públicos y público en general, que podrán generar ingresos propios conforme se apruebe en los lineamientos expedidos por la Junta de Gobierno del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+V. Proporcionar asesoría, defensa y patrocinio jurídico en materia penal, civil, familiar y de justicia para adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, en defensa de los derechos a miembros de los pueblos indígenas y personas con discapacidad;
 
 VI. Proporcionar asesoría, defensa y patrocinio jurídico en asuntos en los que intervengan incapaces representándolos en cualquier materia;
 
-VII. Actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines, y promover la formación de Defensores Públicos Bilingües.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VII. Actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines, y promover la formación de Defensores Públicos Bilingües, y
 
 VIII. Las demás que le otorguen esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
@@ -575,6 +603,12 @@ XIV. Guardar el secreto profesional en el desempeño de sus funciones, y
 
 XV. Las demás que les señalen la presente Ley, las que le sean aplicables a la Institución y las disposiciones de los órganos de Gobierno.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+###### Artículo 37 Bis.
+
+Los Defensores Públicos Especializados, además de las obligaciones, restricciones y atribuciones señaladas para los Defensores Públicos tendrán las indicadas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las establecidas por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normativa aplicable.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
@@ -899,7 +933,7 @@ ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE NOVIEMBRE DE 2014.
 
@@ -914,3 +948,15 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS DIECIOCHO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
