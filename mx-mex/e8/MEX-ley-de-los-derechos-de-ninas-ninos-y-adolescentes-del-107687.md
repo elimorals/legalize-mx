@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2015-08-06"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1091,7 +1091,9 @@ I. Tener y conservar la patria potestad, tutela o guarda y custodia de niñas, n
 
 II. Convivir con las niñas, niños o adolescentes bajo su cargo.
 
-III. Proveer el sostenimiento y educación de niñas, niños o adolescentes.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+III. Proveer el sostenimiento, educación y sano esparcimiento para el desarrollo integral de niñas, niños o adolescentes.
 
 IV. Ser la autoridad y principal responsable respecto del desarrollo integral de niñas, niños o adolescentes bajo su cuidado y ser reconocido y tomado en cuenta como tal por las autoridades y la sociedad.
 
@@ -1914,3 +1916,15 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- POR EL QUE SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
