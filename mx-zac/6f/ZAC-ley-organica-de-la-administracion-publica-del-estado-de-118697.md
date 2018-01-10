@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2017-08-09"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -1147,19 +1147,23 @@ LIII. Emitir las recomendaciones a las autoridades competentes en materia ambien
 
 LIV. Atender de forma coordinada con la federación asuntos que afecten el equilibrio ecológico;
 
-LV. Participar activamente en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
-LVI. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático, así como realizar campañas de educación e información para sensibilizar a la población sobre el tema;
+LV. En coordinación con la Secretaría del Campo, establecer programas y acciones específicas que aseguren la conservación y protección del suelo y la biodiversidad ganadera, así como controlar y restaurar adecuadamente el daño ambiental que pueda ocasionar el desarrollo de obras de carácter público o privado;
 
-LVII. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero;
+LVI. Participar activamente en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-LVIII. Elaborar e integrar la información de las categorías de fuentes emisoras de su jurisdicción, para su incorporación al inventario nacional de emisiones e integrar el inventario estatal de emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
+LVII. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático, así como realizar campañas de educación e información para sensibilizar a la población sobre el tema;
 
-LIX. Elaborar, publicar y actualizar el atlas estatal de riesgos, en coordinación con sus municipios o delegaciones y atender los asuntos que afecten el ambiente de dos o más municipios;
+LVIII. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero;
 
-LX. Prevenir, investigar, perseguir y sancionar las faltas y omisiones a las leyes ambientales que competan al Estado; y
+LIX. Elaborar e integrar la información de las categorías de fuentes emisoras de su jurisdicción, para su incorporación al inventario nacional de emisiones e integrar el inventario estatal de emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
 
-LXI. Las demás que les señalen esta ley y otras disposiciones jurídicas aplicables.
+LX. Elaborar, publicar y actualizar el atlas estatal de riesgos, en coordinación con sus municipios o delegaciones y atender los asuntos que afecten el ambiente de dos o más municipios;
+
+LXI. Prevenir, investigar, perseguir y sancionar las faltas y omisiones a las leyes ambientales que competan al Estado; y
+
+LXII. Las demás que les señalen esta ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 39.
 
@@ -1187,31 +1191,37 @@ X. Promover la organización de productores para la instrumentación de programa
 
 XI. Coordinar la ejecución de obras de infraestructura para impulsar el desarrollo rural;
 
-XII. Realizar estudios de evaluación de los suelos para lograr su aprovechamiento racional, conservación, mejoramiento y debida explotación con una perspectiva de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
-XIII. Promover la creación y ampliación de agro negocios, integración de cadenas productivas y alentar la diversificación de unidades de producción;
+XII. Realizar estudios de evaluación de los suelos para lograr su aprovechamiento racional, protección, conservación y restauración del suelo e instrumentar, para tal efecto, mecanismos de coordinación entre la Secretaría del Agua y Medio Ambiente y la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
-XIV. Impulsar, gestionar y coordinar la obtención de fondos para el desarrollo de proyectos y promover los programas de inversión en el campo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2018)</small>
 
-XV. Instrumentar, en el ámbito de su competencia, campañas permanentes fitosanitarias y zoosanitarias de prevención y combate de plagas, siniestros y enfermedades;
+XIII. Formular, proponer al Titular del Poder Ejecutivo y ejecutar la política integral de suelos, programas y acciones, con base en la Ley de Desarrollo Rural Integral Sustentable y la Ley de Desarrollo Forestal Sustentable, ambas del Estado de Zacatecas;
 
-XVI. Llevar a cabo la capacitación y certificación de los métodos, técnicas y procedimientos para que los animales enfrenten el menor dolor y sufrimiento, atendiendo a lo establecido por las Normas Oficiales Mexicanas;
+XIV. Promover la creación y ampliación de agro negocios, integración de cadenas productivas y alentar la diversificación de unidades de producción;
 
-XVII. Promover la participación de productores, empresarios e industriales estatales en exposiciones, ferias y congresos en materia rural dentro y fuera del Estado;
+XV. Impulsar, gestionar y coordinar la obtención de fondos para el desarrollo de proyectos y promover los programas de inversión en el campo;
 
-XVIII. Promover un sistema para la certificación de origen y calidad de los productos agrícolas;
+XVI. Instrumentar, en el ámbito de su competencia, campañas permanentes fitosanitarias y zoosanitarias de prevención y combate de plagas, siniestros y enfermedades;
 
-XIX. Promover la obtención de recursos nacionales e internacionales y la exportación de los productos del campo;
+XVII. Llevar a cabo la capacitación y certificación de los métodos, técnicas y procedimientos para que los animales enfrenten el menor dolor y sufrimiento, atendiendo a lo establecido por las Normas Oficiales Mexicanas;
 
-XX. Atender y prestar asesoría en los asuntos agrarios en el ámbito de su competencia;
+XVIII. Promover la participación de productores, empresarios e industriales estatales en exposiciones, ferias y congresos en materia rural dentro y fuera del Estado;
 
-XXI. Coadyuvar en el aprovechamiento racional de los recursos forestales atendiendo a las necesidades de protección ambiental;
+XIX. Promover un sistema para la certificación de origen y calidad de los productos agrícolas;
 
-XXII. Elaborar estudios y formular propuestas para el cambio de rotación de cultivos por zonas de productividad, atendiendo a la vocación de la tierra;
+XX. Promover la obtención de recursos nacionales e internacionales y la exportación de los productos del campo;
 
-XXIII. Promover el crédito agrícola, forestal y ganadero, en coordinación con la Secretaría de Finanzas y participar con ella en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción agropecuaria; y
+XXI. Atender y prestar asesoría en los asuntos agrarios en el ámbito de su competencia;
 
-XXIV. Las demás que dispongan las leyes y reglamentos, así como aquéllas que directamente le encomiende el Gobernador.
+XXII. Coadyuvar en el aprovechamiento racional de los recursos forestales atendiendo a las necesidades de protección ambiental;
+
+XXIII. Elaborar estudios y formular propuestas para el cambio de rotación de cultivos por zonas de productividad, atendiendo a la vocación de la tierra;
+
+XXIV. Promover el crédito agrícola, forestal y ganadero, en coordinación con la Secretaría de Finanzas y participar con ella en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción agropecuaria; y
+
+XXV. Las demás que dispongan las leyes y reglamentos, así como aquéllas que directamente le encomiende el Gobernador.
 
 ###### Artículo 40.
 
@@ -1636,3 +1646,11 @@ SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Zacate
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán emitir en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor de este ordenamiento, los reglamentos y disposiciones referidas en el presente Decreto.
 
 CUARTO. Para efectos de este Decreto, el Ejecutivo del Estado enviará el 8 de septiembre de 2018 el Programa General Prospectivo a la Legislatura del Estado para su aprobación.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE, LEY DE FOMENTO A LA GANADERÍA, LEY DE DESARROLLO FORESTAL SUSTENTABLE, LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, TODAS DEL ESTADO DE ZACATECAS, EN MATERIA DE PROTECCIÓN DE SUELOS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
