@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-11-29"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -286,6 +286,26 @@ VIII. Informar a la autoridad administrativa competente cuando tenga conocimient
 IX. Recibir del Ministerio Público de la Federación o de quien para tal efecto haya designado, el aviso mediante el cual se autorizó, para fines de investigación a los Agentes de la Policía bajo su conducción y mando, comprar, adquirir o recibir la transmisión material de algún narcótico en la entidad para lograr la detención y el aseguramiento correspondiente del imputado del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines, y
 
 X. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 12 BIS. La Unidad Especializada de Justicia Penal para adolescentes contará con el número de agentes del Ministerio Público que se designen para su función, respetando en todo momento la suficiencia presupuestal; para los efectos de la investigación se auxiliará de personal de la Policía de Investigación Criminal, de los Servicios Periciales, así como del Centro de Justicia Alternativa, dicho personal deberá contar con el perfil idóneo, ser capacitado en materia de derechos de niñas, niños y adolescentes, así como especializados en justicia para adolescentes conforme a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y además, certificados en términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2018)</small>
+
+Artículo 12 TER. Son atribuciones del Ministerio Público Especializado en Justicia para Adolescentes, además de las obligaciones y atribuciones previstas por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás normativa aplicable, las siguientes:
+
+I. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes, salvaguardando en todo momento el interés superior de la niñez, así como sus derechos;
+
+II. Vigilar la observancia de los principios constitucionales en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
+
+III. Solicitar a la autoridad administrativa correspondiente, la evaluación de riesgos, para los efectos correspondientes;
+
+IV. Ejercer acción penal ante los Tribunales especializados, y
+
+V. Generar información estadística para el Sistema Nacional contemplado en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+El Reglamento de la presente Ley establecerá la conformación y estructura orgánica que atenderá la investigación de los delitos relacionados con justicia penal para adolescentes, observando en todo momento la suficiencia presupuestal con la que se cuente.
 
 ###### Artículo 13.
 
@@ -1598,3 +1618,15 @@ P.O. 29 DE NOVIEMBRE DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS DIECIOCHO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
