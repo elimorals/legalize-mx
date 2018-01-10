@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2016-02-17"
+last_updated: "2018-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -39,7 +37,7 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELO
 
 CONSIDERANDO.
 
-.
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir el siguiente:
 
@@ -55,11 +53,11 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de orden público e interés social y tiene por objeto regular la organización, estructura, funcionamiento y atribuciones del Tribunal Unitario de Justicia para Adolescentes, así como del juzgado especializado que forma parte de éste.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 2.
 
-El Sistema Integral de Justicia para Adolescentes se integra, por un Tribunal Unitario de Justicia para Adolescentes, por el Juzgado Especializado para Adolescentes, por las unidades especializadas del Ministerio Público, de la Defensoría Pública y por la Dirección de Ejecución de Medidas para Adolescentes.
+El Sistema Integral de Justicia para Adolescentes se integra por un Tribunal Unitario de Justicia para Adolescentes, por el Juzgado Especializado para Adolescentes, por las unidades especializadas del Ministerio Público, por el Instituto de la Defensoría Pública del Estado de Morelos y por la Dirección de Ejecución de Medidas para Adolescentes.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
@@ -67,7 +65,9 @@ El Sistema Integral de Justicia para Adolescentes se integra, por un Tribunal Un
 
 El Tribunal Unitario de Justicia para Adolescentes estará integrado por un Magistrado titular y un suplente.
 
-El Juzgado Especializado contará con Jueces de Control, de Juicio Oral y de Ejecución de Sanciones, en el número que se requiera para su adecuado funcionamiento, según lo exija un buen servicio público y lo autorice el presupuesto.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+
+El Juzgado Especializado contará con Jueces de Control, de Enjuiciamiento y de Ejecución de Sanciones, en el número que se requiera para su adecuado funcionamiento, según lo exija un buen servicio público y lo autorice el presupuesto.
 
 ###### Artículo 4.
 
@@ -79,39 +79,39 @@ Los titulares y las dependencias del Poder Ejecutivo y de los Ayuntamientos del 
 
 La autoridad que a pesar de haber sido requerida para ello, se negare a prestar el auxilio solicitado, será responsable de los daños y perjuicios que se originen por su renuencia, independientemente de la responsabilidad oficial en que pudiese incurrir, conforme a las leyes y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
+
 ###### Artículo 6.
 
-Para los efectos de esta ley, se entiende por:
+Para los efectos de esta Ley se entiende por:
 
-I. Ley: Ley del Sistema Integral de Justicia para Adolescentes del Estado de Morelos;
+I. Ley, a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
-II. Leyes: Las demás leyes vigentes que resulten aplicables;
+II. Leyes, a las demás leyes vigentes que resulten aplicables;
 
-III. Reglamento: Reglamento Interior del Tribunal Unitario de Justicia para Adolescentes y Juzgados especializados;
+III. Reglamento, al Reglamento Interior del Tribunal Unitario de Justicia para Adolescentes y Juzgados especializados;
 
-IV. Tribunal: Tribunal Unitario de Justicia para Adolescentes;
+IV. Tribunal, al Tribunal Unitario de Justicia para Adolescentes;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+V. Juzgado Especializado, al conformado por los Jueces de Control, de Enjuiciamiento y de Ejecución de Sanciones Especializados en Justicia para Adolescentes;
 
-V. Juzgado Especializado: el conformado por los Jueces de Control, de Juicio Oral y de Ejecución de Sanciones Especializados en Justicia para Adolescentes;
+VI. Magistrado, al Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, y
 
-VI. Magistrado: Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, y
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
-
-VII. Jueces especializados: los Jueces de Control, de Juicio Oral y de Ejecución de Sanciones, especializados en Justicia para Adolescentes.
+VII. Jueces especializados, a los Jueces de Control, de Enjuiciamiento y de Ejecución de Sanciones, especializados en Justicia para Adolescentes.
 
 ### CAPÍTULO II. DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 7.
 
-El Magistrado conocerá de los recursos de apelación, casación y revisión, previstos por la Ley; resolverá las recusaciones, excusas y los conflictos de competencia de los Jueces especializados.
+El Magistrado conocerá el recurso de apelación previsto por la Ley; resolverá las recusaciones, excusas y los conflictos de competencia de los Jueces especializados.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+El recurso de revocación previsto por la Ley lo conocerá la propia autoridad judicial que haya emitido la resolución que se pretende impugnar, pudiendo ser tanto los jueces como el magistrado.
 
-La ejecución de las sentencias que dicte el Tribunal, será competencia del Juez de Ejecución en los términos que señala la Ley de Justicia para Adolescentes del Estado de Morelos.
+El recurso de queja previsto por la Ley lo conocerá la Contraloría Interna del Tribunal.
+
+La ejecución de las sentencias que dicte el Tribunal será competencia del Juez de Ejecución en los términos que señala la Ley.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
@@ -153,9 +153,11 @@ De este informe remitirá copia al Presidente del Tribunal Superior de Justicia 
 
 La residencia del Tribunal será preferentemente en la Capital del Estado, pero podrá ubicarse según lo determine el Magistrado Unitario, en cualquier otro lugar dentro del Estado de Morelos, para un adecuado funcionamiento y buen servicio público.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ENERO DE 2018)</small>
+
 ###### Artículo 15.
 
-Son atribuciones del Magistrado del Tribunal, además de las señaladas en la Constitución Local y en la Ley del Sistema Integral de la Justicia para Adolescentes, las siguientes:
+Son atribuciones del Magistrado del Tribunal, además de las señaladas en la Constitución Local y en la Ley, las siguientes:
 
 I. Representar al Tribunal ante cualquiera autoridad;
 
@@ -195,11 +197,11 @@ Cuando así lo justifique una mejor y más adecuada prestación del servicio, en
 
 Los Jueces especializados serán nombrados, mediante convocatoria pública a examen de oposición, por el Magistrado titular del Tribunal Unitario y ejercerán sus funciones, previa protesta legal que otorgarán ante éste. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 18.
 
-Los Jueces de Control especializados en Justicia para Adolescentes, ejercerán las funciones a que se refiere el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la etapa de investigación y etapa intermedia y los jueces de Juicio Oral especializados, aquellas relativas a la etapa de juicio, conforme lo señala la ley.
+Los Jueces de Control especializados en Justicia para Adolescentes, ejercerán las funciones a que se refiere el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la etapa de investigación y etapa intermedia; los jueces de Enjuiciamiento especializados, aquellas relativas a la etapa de juicio, conforme lo señala la Ley; y lo (sic) jueces de Ejecución, las relativas a la etapa de Ejecución de medidas de sanción.
 
 ###### Artículo 19.
 
@@ -287,93 +289,25 @@ III. Acreditar conocimientos de administración, y
 
 IV. No haber sido condenado por delito doloso.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2018)</small>
 
 ### CAPÍTULO V. DE LA COORDINACIÓN PARA EL APOYO Y SEGUIMIENTO DE MEDIDAS PARA ADOLESCENTES
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
-
 ###### Artículo 26.
 
-El Tribunal Unitario de Justicia para Adolescentes contará con un órgano técnico que se denominará Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes, integrado por un grupo de especialistas en diferentes materias que coadyuven en el seguimiento de las mismas, la cual auxiliará al Magistrado y Jueces Especializados en la determinación y seguimiento de las medidas impuestas a los adolescentes sujetos a la jurisdicción del Tribunal.
-
-(ADICIONADO, P.O. 20 DE ENERO DE 2016) (F. DE E., P.O. 17 DE FEBRERO DE 2016)
+(DEROGADO, P.O. 10 DE ENERO DE 2018)
 
 ###### Artículo 27.
 
-La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes estará dirigido por un Coordinador y contará con los siguientes departamentos:
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-I. Departamento de Psicología;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-II. Departamento de Trabajo Social;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-III. Departamento de Pedagogía, y
-
-IV. Departamento de Criminología.
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-El Coordinador y los titulares de los Departamentos que la integran, serán nombrados por el Magistrado titular del Tribunal y deberán reunir los requisitos que al efecto señale el Reglamento Interior del Tribunal.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+(DEROGADO, P.O. 10 DE ENERO DE 2018)
 
 ###### Artículo 28.
 
-La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes tendrá las siguientes atribuciones:
-
-I. Brindar apoyo y seguimiento a la ejecución de las medidas impuestas a los adolescentes por el Magistrado y los Jueces Especializados, dentro del ámbito de las actividades que se desarrollen en cada departamento;
-
-II. Remitir al Magistrado y Jueces Especializados que lo haya solicitado, el resultado técnico que arrojen los estudios practicados a los adolescentes sujetos a proceso los cuales no tendrán carácter vinculatorio;
-
-III. Diseñar los programas de atención y seguimiento requeridos por el Magistrado y Jueces Especializados para la ejecución de la medida socio-educativa impuesta a los adolescentes;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-IV. Elaborar el programa individualizado de ejecución de los adolescentes a quienes se les imponga medidas socio-educativas, en los términos que le sean solicitados por el Juez de Ejecución;
-
-V. Informar al Juez de Ejecución trimestralmente sobre el avance en el Programa Individualizado de Ejecución de las medidas socio-educativas impuestas a los adolescentes;
-
-VI. Brindar apoyo a las instancias oficiales que participen en la ejecución de medidas dictadas a los adolescentes, cuando estas así lo soliciten;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-VII. Rendir informe estadístico al Magistrado, respecto de las actividades de la Coordinación, en los términos y forma que le sean requeridos, y
-
-VIII. Las demás que determine el Reglamento, así como los acuerdos que emita el Magistrado.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+(DEROGADO, P.O. 10 DE ENERO DE 2018)
 
 ###### Artículo 29.
 
-Son atribuciones del Coordinador las siguientes:
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-I. Organizar, vigilar y coordinar las distintas actividades del personal técnico y administrativo de las diferentes áreas que componen la coordinación, para lograr su adecuado funcionamiento;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-II. Realizar las gestiones necesarias a fin de facilitar y generar las condiciones para que se lleven a cabo diversas acciones que el Tribunal deba realizar con motivo de las necesidades requeridas para la consecución de los fines de las medidas socio-educativas impuestas a los adolescentes, cuando así se requiera;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-III. Gestionar el acercamiento con organismos públicos o privados para lograr el cumplimiento de los fines que se persiguen con las medidas socio-educativas impuestas a los adolescentes, a través de convenios de colaboración, previa autorización y consideración del Magistrado;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-IV. Rendir los informes en el tiempo y la forma que requiera el Magistrado, así como los Jueces Especializados, de los programas y convenios con los que cuente la Coordinación;
-
-> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
-
-V. Administrar los recursos humanos y materiales asignados a la Coordinación, y
-
-VI. Las demás que determine el Reglamento, el Magistrado y los Jueces Especializados.
+(DEROGADO, P.O. 10 DE ENERO DE 2018)
 
 ## TRANSITORIOS
 
@@ -484,3 +418,15 @@ CUARTO. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, en un
 QUINTO. El Presupuesto de Egresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
 
 SEXTO. En un plazo de quince días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, para el efecto de considerar las áreas administrativas que se crean en virtud de la adición a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS DIECIOCHO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
