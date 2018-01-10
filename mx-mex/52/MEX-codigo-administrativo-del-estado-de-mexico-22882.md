@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-12-15"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2018 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2861,7 +2859,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3291,7 +3289,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 #### SECCIÓN PRIMERA. De la Zonificación
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 #### SECCIÓN SEGUNDA. De las Normas de Uso y Aprovechamiento del Suelo
 
@@ -3299,7 +3297,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 #### SECCIÓN TERCERA. De la Conservación, Mejoramiento y Crecimiento de los Centros de Población
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 # LIBRO TERCERO
 
@@ -4643,7 +4641,7 @@ En cualquier caso, la Secretaría tomará siempre en consideración todos los pa
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 4.
 
@@ -4695,13 +4693,27 @@ V. Las demás que ordenen los otros ordenamientos.
 
 ###### Artículo 5.
 
-1.- Este Libro tiene por objeto fijar las bases para planear, ordenar, regular, controlar, vigilar y fomentar el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población en la entidad, procurando garantizar los derechos de la población en materia de desarrollo urbano sustentable.
+1.- Este Libro tiene por objeto:
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+I. Fijar las normas básicas e instrumentos para planear y regular el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano en la Entidad, con pleno respeto a los derechos humanos.
+
+II. Establecer la concurrencia entre el Estado y los municipios, para la ordenación y regulación de los asentamientos humanos en el territorio estatal, para la coordinación y gestión de las conurbaciones y zonas metropolitanas y el desarrollo urbano de los centros de población.
+
+III. Asignar las atribuciones y responsabilidades del Estado y de los municipios en la aplicación de este Libro y su reglamentación.
+
+IV. Definir los principios conforme a los cuales el Estado y los municipios ejercerán sus atribuciones para determinar las reservas, usos y destinos de áreas y predios que regulen la propiedad en los centros de población.
+
+V. Determinar las bases para la participación social en los procesos de planeación, ejecución, seguimiento, evaluación y vigilancia del desarrollo urbano y del ordenamiento territorial de los asentamientos humanos en la Entidad.
+
+VI. Fijar instrumentos y acciones, así como medidas de seguridad, infracciones y sanciones que permitan la aplicación del presente Libro y su reglamentación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-2.- En el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, se deberán observar los principios siguientes:
+2.- En el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, se deberán observar los principios generales de política pública siguientes: derecho a la ciudad, equidad e inclusión, derecho a la propiedad urbana, coherencia y racionalidad, participación democrática y transparencia, productividad y eficiencia, protección y progresividad del espacio público, resiliencia, seguridad urbana y riesgos, sustentabilidad ambiental y accesibilidad universal y movilidad, previstos en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano. Para tal efecto:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. El ordenamiento territorial de los asentamientos humanos atenderá:
 
@@ -4713,7 +4725,9 @@ c) La eficiente interrelación y la conectividad de los centros de población;
 
 d) La mitigación de los efectos negativos en el ambiente derivados del crecimiento urbano;
 
-e) El ordenamiento de las regiones y zonas metropolitanas; y
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+e) El ordenamiento territorial de las regiones y zonas metropolitanas, la creación de instrumentos de gobernanza metropolitana y el desarrollo urbano equilibrado racional y congruente del Estado.
 
 f) El impulso de centros de población que presenten condiciones favorables para absorber flujos de población.
 
@@ -4721,21 +4735,55 @@ f) El impulso de centros de población que presenten condiciones favorables para
 
 g) La información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático contenida en los Atlas de Riesgos del Estado de México y en los Atlas municipales de riesgos.
 
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+h) El uso racional del agua y de los recursos naturales renovables y no renovables.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+i) La accesibilidad universal que genere cercanía y favorezca la relación entre las diferentes actividades urbanas.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+j) La adopción de medidas de prevención, mitigación, atención, adaptación y resiliencia de los asentamientos humanos y centros de población.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+k) La seguridad urbana y protección a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+l) La movilidad sustentable que privilegie las calles completas, el transporte público, el peatonal y el no motorizado.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+m) La no ocupación de zonas de alto riesgo.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. El desarrollo urbano de los centros de población garantizará:
 
-a) La vinculación armónica entre la ciudad y el campo, desde el punto de vista ambiental, social y cultural;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+a) La vinculación armónica entre la ciudad y el campo, desde el punto de vista ambiental, económico, social y cultural.
 
 b) La integración de usos, destinos y aprovechamientos diversificados del suelo que favorezcan el desarrollo eficiente de las diferentes actividades de la población;
 
 c) La relación eficiente entre zonas de producción y trabajo con las de vivienda y equipamiento;
 
-d) La redensificación de las áreas urbanas, a fin de promover el aprovechamiento eficiente del suelo y de la infraestructura instalada, así como evitar el crecimiento desmedido de los centros de población;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+d) Los polígonos de redensificación urbana, a fin de promover el aprovechamiento eficiente del suelo y de la infraestructura instalada, así como evitar el crecimiento desmedido de los centros de población;
 
 e) La sustentabilidad de los centros de población, vinculando su proceso de crecimiento con los lineamientos y criterios de carácter ambiental;
 
-f) Disponibilidad de suelo urbano para vivienda accesible, de calidad y segura a las familias de escasos recursos económicos, particularmente a las que se encuentran en situación de riesgo, pobreza, vulnerabilidad o marginación;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-g) La seguridad jurídica de los propietarios y poseedores de inmuebles en cuanto al uso y aprovechamiento del suelo;
+f) Disponibilidad de suelo urbano que considere la demanda con base en los niveles de ingreso de la población, para ofertar los diferentes tipos de vivienda, además de prever vivienda accesible de calidad y segura a las familias de escasos recursos económicos, particularmente a las que se encuentran en situación de riesgo, pobreza, vulnerabilidad o marginación;
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+g) La función social de la propiedad y la seguridad jurídica de los propietarios y poseedores de inmuebles en cuanto al uso y aprovechamiento del suelo.
 
 h) La conservación, rehabilitación o mejoramiento de las áreas urbanas;
 
@@ -4757,11 +4805,33 @@ o) El fomento de proyectos de desarrollo urbano sustentables que sean acordes co
 
 p) La protección de la imagen urbana y del entorno.
 
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+q) La capacidad de la ciudad para facilitar la actividad económica y para atraer y retener talentos e inversiones, minimizando costos.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+r) La consolidación de redes de vialidad y movilidad, energía y comunicaciones, así como la creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+s) La creación de condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+t) El fomento del rescate, creación y mantenimiento de espacios públicos.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 III. El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, tendrán una orientación estratégica que contribuya a mejorar la calidad de vida de la población urbana y rural, así como a establecer condiciones para la competitividad económica y social de los centros de población, mediante:
 
-a) La concurrencia y coordinación de los gobiernos federal, estatal y municipales, en los procesos de planeación, regulación, programación, gestión, ejecución, supervisión, administración, control y evaluación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, este Libro y su Reglamento;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-b) El fomento a la participación de los sectores público, social y privado, en los procesos de planeación, ejecución, seguimiento, evaluación, control y vigilancia del desarrollo urbano y conservación, recuperación y acrecentamiento del patrimonio cultural urbano;
+a) La concurrencia y coordinación de los gobiernos federal, estatal y municipales, en los procesos de planeación, regulación, programación, gestión, ejecución, supervisión, administración, control y evaluación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, este Libro y su Reglamento.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+b) El fomento y la protección del derecho de las personas de participar en los procesos de planeación, ejecución, seguimiento, evaluación y vigilancia de los planes y programas de ordenamiento territorial y desarrollo urbano, así como en las acciones de conservación, recuperación y acrecentamiento del patrimonio natural y cultural.
 
 c) La concertación con los sectores social y privado de acciones e inversiones en materia de desarrollo urbano;
 
@@ -4769,111 +4839,125 @@ d) La consolidación de la capacidad de gestión urbana de los municipios;
 
 e) La homologación de las normas y procedimientos municipales que regulan el desarrollo urbano de los centros de población;
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-f) La simplificación administrativa de los instrumentos de gestión y control del desarrollo urbano, así como la mejora regulatoria, la implementación de plataformas tecnológicas para el desahogo de trámites y transparencia en los procedimientos respectivos.
+f) La simplificación administrativa de los instrumentos de gestión y control del desarrollo urbano, así como la mejora regulatoria, la implementación de plataformas tecnológicas y de gobierno digital, para el desahogo de trámites y transparencia en los procedimientos respectivos.
 
-g) La planeación conjunta y coordinada de las conurbaciones y zonas metropolitanas entre autoridades estatales y municipios y con los gobiernos Federal, estatales y del Distrito Federal, según sea el caso; y
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-h) Derechos de los habitantes al suelo urbano, a la vivienda, a la calidad de vida, a la infraestructura urbana, al transporte, a los servicios públicos, al patrimonio cultural urbano, al espacio público, al esparcimiento y a la imagen urbana y su compatibilidad con el sistema de planificación urbana del Estado de México y sus municipios.
+g) La planeación conjunta y coordinada de las conurbaciones y zonas metropolitanas entre autoridades estatales y municipios y con los gobiernos Federal, estatales y de la Ciudad de México, según sea el caso.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+h) El derecho de todas las personas sin distinción de sexo, raza, etnia, edad, limitación física u orientación sexual, a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros, así como al suelo urbano, a la vivienda, a la calidad de vida, a la infraestructura y movilidad urbana, al transporte, a los servicios públicos, al patrimonio natural y cultural, al espacio público, al esparcimiento y a la imagen urbana.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
 3.- Para los efectos de este Libro, se entenderá como:
 
-I. Áreas de Conservación Patrimonial y Cultural: Las que por sus características forman parte del patrimonio cultural y del entorno, así como las que cuenten con declaratoria federal de zona de monumentos históricos, arqueológicas o artísticos;
+I. Acción urbanística: Los actos o actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanas o urbanizables, tales como subdivisiones, fusiones, relotificaciones, condominios, conjuntos urbanos, así como de construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, incluyendo las obras de equipamiento, infraestructura y servicios urbanos.
 
-II. Áreas Urbanas: Las previstas en los planes de desarrollo urbano, constituidas por zonas edificadas parcial o totalmente, en donde existen al menos estructura vial y servicios de agua potable, drenaje y energía eléctrica, sin perjuicio de que coexistan con predios baldíos o carentes de servicios;
+II. Áreas Urbanas: Las previstas en los planes de desarrollo urbano, constituidas por zonas edificadas parcial o totalmente, en donde existen al menos estructura vial y servicios de agua potable, drenaje y energía eléctrica, sin perjuicio de que coexistan con predios baldíos o carentes de servicios.
 
-III. Áreas Urbanizables: Las previstas en los planes de desarrollo urbano para el crecimiento de los centros de población, por reunir condiciones física y geográficamente aptas para ser dotadas de infraestructura, equipamiento y servicios públicos y no presentar características de las áreas no urbanizables;
+III. Áreas Urbanizables: Las previstas en los planes de desarrollo urbano para el crecimiento de los centros de población, por encontrarse vinculadas en su conformación geográfica a las áreas urbanas y reunir condiciones física y geográficamente aptas para ser dotadas de infraestructura, equipamiento y servicios públicos y no presentar características de las áreas no urbanizables, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión.
 
-IV. Áreas no Urbanizables: A las que los planes de desarrollo urbano aplicables, determinan como no aptas para la urbanización, por tratarse de áreas naturales protegidas, distritos de riego, zonas de recarga de mantos acuíferos, manantiales y cualquier área de alto valor ambiental prevista en los programas de ordenamiento ecológico; tierras de alto rendimiento agrícola, pecuario o forestal, derechos de vía, zonas arqueológicas y demás bienes del patrimonio histórico, artístico y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre, los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, las zonas de amortiguamiento y de seguridad de los centros penitenciarios que establezcan las autoridades correspondientes de la materia; así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables definan los planes de desarrollo urbano respectivos;
+IV. Áreas no Urbanizables: A las que los planes de desarrollo urbano aplicables, determinan como no aptas para la urbanización, por tratarse de áreas naturales protegidas, distritos de riego, zonas de recarga de mantos acuíferos, manantiales y cualquier área de alto valor ambiental prevista en los programas de ordenamiento ecológico; tierras de alto rendimiento agrícola, pecuario o forestal, derechos de vía, zonas arqueológicas y demás bienes del patrimonio natural y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre, los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, las zonas de amortiguamiento y de seguridad de los centros penitenciarios que establezcan las autoridades correspondientes de la materia; así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables definan los planes de desarrollo urbano respectivos.
 
-V. Asentamiento Humano: Al conjunto de personas radicado en un área determinada, considerando sus sistemas de convivencia, los elementos naturales y las obras materiales que lo integran;
+V. Asentamiento Humano: Al conjunto de personas radicado en un área físicamente localizada, considerando sus sistemas de convivencia, los elementos naturales y las obras materiales que lo integran.
 
-VI. Asentamiento Humano Irregular: Al conjunto de personas radicado en un área determinada en contravención a las disposiciones jurídicas aplicables;
+VI. Asentamiento Humano Irregular: Al conjunto de personas radicado en un área determinada en contravención a las disposiciones jurídicas aplicables.
 
-VII. Centro de Población: A la localidad considerada como ciudad, villa o pueblo por la Ley Orgánica Municipal del Estado de México, delimitada por la poligonal envolvente de las áreas urbanas y urbanizables que determine el plan de desarrollo urbano respectivo;
+VII. Centro de Población: A la localidad considerada como ciudad, villa o pueblo por la Ley Orgánica Municipal del Estado de México, delimitada por la poligonal envolvente de las áreas urbanas y urbanizables que determine el plan de desarrollo urbano respectivo.
 
-VIII. Código: Al Código Administrativo del Estado de México;
+VIII. Código: Al Código Administrativo del Estado de México.
 
-IX. Coeficiente de Ocupación del Suelo: Al porcentaje máximo de la superficie del predio o lote, que podrá ser ocupada con construcción;
+IX. Coeficiente de Ocupación del Suelo: Al porcentaje máximo de la superficie del predio o lote, que podrá ser ocupada con construcción.
 
-X. Coeficiente de Utilización del Suelo: Al factor máximo de construcción permitida en un predio o lote, enunciado en número de veces la superficie del terreno;
+X. Coeficiente de Utilización del Suelo: Al factor máximo de construcción permitida en un predio o lote, enunciado en número de veces la superficie del terreno.
 
-XI. Comisión: A la Comisión Estatal de Desarrollo Urbano y Vivienda;
+XI. Comisión: A la Comisión Estatal de Desarrollo Urbano y Metropolitano.
 
-XII. Compatibilidad de usos: A la posibilidad de que coexistan entre sí usos del suelo de diferente naturaleza, en razón de que su relación no provoque el deterioro urbano de la zona donde se ubiquen o riesgo para la población;
+XII. Compatibilidad de usos: A la posibilidad de que coexistan entre sí usos del suelo de diferente naturaleza, en razón de que su relación no provoque el deterioro urbano de la zona donde se ubiquen o riesgo para la población.
 
-XIII. Condominio: A la modalidad en la ejecución del desarrollo urbano que tiene por objeto estructurar u ordenar, como una unidad espacial integral, las áreas privativas y comunes, la zonificación y normas de uso y aprovechamiento del suelo, la ubicación de edificios, las obras de urbanización, las obras de infraestructura primaria en su caso; así como la imagen urbana de un predio o lote;
+XIII. Condominio: A la modalidad en la ejecución del desarrollo urbano que tiene por objeto estructurar u ordenar, como una unidad espacial integral, las áreas privativas y comunes, la zonificación y normas de uso y aprovechamiento del suelo, la ubicación de edificios, las obras de urbanización, las obras de infraestructura primaria en su caso; así como la imagen urbana de un predio o lote.
 
-XIV. Condominio Vertical: A la modalidad en la que cada condómino es propietario exclusivo de un piso, departamento, vivienda o local de un edificio y además copropietario de sus elementos o partes comunes, así como del terreno e instalaciones de uso general;
+XIV. Condominio Vertical: A la modalidad en la que cada condómino es propietario exclusivo de un piso, departamento, vivienda o local de un edificio y además copropietario de sus elementos o partes comunes, así como del terreno e instalaciones de uso general.
 
-XV. Condominio Horizontal: A la modalidad en la cual cada condómino es propietario exclusivo de un área privativa del terreno y en su caso, de la edificación que se construya en ella, a la vez que es copropietario de las áreas, edificios e instalaciones de uso general;
+XV. Condominio Horizontal: A la modalidad en la cual cada condómino es propietario exclusivo de un área privativa del terreno y en su caso, de la edificación que se construya en ella, a la vez que es copropietario de las áreas, edificios e instalaciones de uso general.
 
-XVI. Condominio Mixto: A la combinación en un mismo predio de las modalidades señaladas en las fracciones XIV y XV de este artículo;
+XVI. Condominio Mixto: A la combinación en un mismo predio de las modalidades señaladas en las fracciones XIV y XV de este artículo.
 
-XVII. Conjunto Urbano: A la modalidad que se adopta en la ejecución del desarrollo urbano que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo, las obras de infraestructura, urbanización y equipamiento urbano, la ubicación de edificios y la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
+XVII. Conjunto Urbano: A la modalidad que se adopta en la ejecución del desarrollo urbano que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo, las obras de infraestructura, urbanización y equipamiento urbano, la ubicación de edificios y la imagen urbana de un predio ubicado en áreas urbanas o urbanizables.
 
-XVIII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
+XVIII. Conurbación: A la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población ubicados en el territorio de dos o varios municipios del Estado de México y parte de la Ciudad de México.
 
-XIX. Conurbación: A la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población ubicados en el territorio de dos o varios municipios del Estado de México y parte del Distrito Federal;
+XIX. Crecimiento: A la acción tendente a ordenar y regular las zonas para la expansión física de los Centros de Población.
 
-XX. Densidad: Al número permitido de viviendas por hectárea;
+XX. Densidad: Al número permitido de viviendas por hectárea.
 
-XXI. Destinos: A los fines públicos a que podrá destinarse el suelo;
+XXI. Desarrollo Metropolitano: Al proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones.
 
-XXII. Dictamen de Congruencia: Al acto administrativo en el que se determina la congruencia de un plan municipal de desarrollo urbano o de los parciales que deriven de éste, con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano y, en su caso, en el plan regional de desarrollo urbano aplicable y en los parciales de competencia estatal;
+XXII. Desarrollo Urbano: Al proceso de planeación y regulación de la conservación, mejoramiento y crecimiento de los centros de población.
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+XXIII. Destinos: A los fines públicos a que podrá dedicarse el suelo.
 
-XXIII. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble, que será emitida por la Dirección General de Operación Urbana al seno de la Comisión Estatal de Factibilidad.
+XXIV. Dictamen de Congruencia: Al acto administrativo en el que se determina la congruencia de un plan municipal de desarrollo urbano o de los parciales que deriven de éste, con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano y, en su caso, en el plan regional de desarrollo urbano aplicable y en los parciales de competencia estatal.
 
-XXIV. Fusión: A la unión de dos o más predios o lotes contiguos, con el fin de constituir una unidad de propiedad;
+XXV. Evaluación Técnica de Impacto Urbano: Al estudio y análisis que precisa las condicionantes técnicas que deberán observarse para prevenir y mitigar los efectos que pudiera ocasionar en la infraestructura y el equipamiento urbano, así como en los servicios públicos previstos para una región o centro de población, el uso y aprovechamiento, o el cambio de uso, de densidad, de coeficiente de ocupación o de utilización del suelo, o de altura de edificación, que pretenda realizarse en un determinado predio o inmueble.
 
-XXV. Inmueble: Al terreno con o sin construcciones;
+XXVI. Fusión: A la unión de dos o más predios o lotes contiguos, con el fin de constituir una unidad de propiedad.
 
-XXVI. Instituciones Gubernamentales: A las dependencias, entidades y organismos auxiliares, federales, estatales y municipales;
+XXVII. Inmueble: Al terreno con o sin construcciones.
 
-XXVII. Impacto Urbano: La modificación al entorno urbano por causa de obra pública o privada;
+XXVIII. Instituciones Gubernamentales: A las dependencias, entidades y organismos auxiliares, federales, estatales y municipales.
 
-XXVIII. Libro: Al Libro Quinto del Código;
+XXIX. Impacto Urbano: A la modificación al entorno del territorio por causa de obra pública o privada.
 
-XXIX. Lote: A la fracción de terreno que constituirá una unidad de propiedad, resultante de una autorización de fusión, subdivisión o conjunto urbano;
+XXX. Libro: Al Libro Quinto del Código Administrativo del Estado de México.
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+XXXI. Lote: A la fracción de terreno que constituirá una unidad de propiedad, resultante de una autorización de fusión, subdivisión o conjunto urbano.
 
-XXX. Opinión técnica: A la que conforme a su competencia u objeto, emitan al seno de la Comisión Estatal de Factibilidad, cada una de las instancias gubernamentales de carácter federal, estatal o municipal, a los que ésta solicite su colaboración para determinar la procedencia del Dictamen Único de Factibilidad.
+XXXII. Movilidad: A la capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma.
 
-XXXI. Planes de desarrollo urbano: Al conjunto de disposiciones jurídicas que planean y regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población;
+XXXIII. Ordenamiento Territorial de los Asentamientos Humanos: A la política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias del desarrollo socioeconómico y la preservación ambiental.
 
-XXXII. Plano de lotificación: A la representación gráfica de un conjunto urbano, subdivisión, condominio horizontal o mixto, relotificación o fusión;
+XXXIV. Opinión técnica: A la que conforme a su competencia u objeto, emitan al seno de la Comisión Estatal de Factibilidad, cada una de las instancias gubernamentales de carácter federal, estatal o municipal, a las que ésta solicite su colaboración para determinar la procedencia del Dictamen Único de Factibilidad.
 
-XXXIII. Predio: A la superficie de terreno no lotificada que constituye una unidad de propiedad;
+XXXV. Patrimonio Natural y Cultural: A los sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental, paisajístico y valores simbólicos socialmente relevantes.
 
-XXXIV. Relotificación: Al acto por el cual a dos o más lotes o áreas privativas, según corresponda, se le modifican las dimensiones o las ubicaciones originalmente establecidas en la autorización del conjunto urbano, subdivisión o condominio, sin que se incremente el área vendible ni el número de viviendas o lotes;
+XXXV Bis. Planeación Estratégica, en un instrumento de gestión de la política urbana y ordenamiento territorial que se plantea como un proceso sistemático y creativo de reflexión y debate ciudadano, gestionado por las autoridades, para establecer un sistema continuo de toma de decisiones para articular políticas económicas, sociales ambientales y espaciales.
 
-XXXV. Reservas: A las áreas urbanizables previstas en los planes de desarrollo urbano para el crecimiento de un centro de población;
+XXXVI. Planes de desarrollo urbano: Al conjunto de disposiciones técnicas y jurídicas que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
-> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+XXXVII. Plano de lotificación: A la representación gráfica de un conjunto urbano, subdivisión, condominio horizontal o mixto, relotificación o fusión.
 
-XXXVI. Secretaría: A la Secretaría de Desarrollo Urbano y Metropolitano.
+XXXVIII. Predio: A la superficie de terreno no lotificada que constituye una unidad de propiedad.
 
-XXXVII. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano;
+XXXIX. Polígono de Redensificación Urbana: Es una superficie de uso urbano subutilizada o deteriorada, que es seleccionada para un mejor aprovechamiento del suelo, permitiendo el desarrollo vertical de inmuebles, con usos mixtos.
 
-XXXVIII. Subdivisión: Al acto por el que se fracciona un predio en lotes, con el fin de que éstos constituyan unidades de propiedad independientes;
+XL. Relotificación: Al acto por el cual a dos o más lotes o áreas privativas, según corresponda, se le modifican las dimensiones o las ubicaciones originalmente establecidas en la autorización del conjunto urbano, subdivisión o condominio, sin que se incremente el área vendible ni el número de viviendas o lotes.
 
-XXXIX. Usos: A los fines particulares a que podrán destinarse determinadas áreas, predios o lotes;
+XLI. Reservas: A las áreas urbanizables previstas en los planes de desarrollo urbano para el crecimiento de un centro de población.
 
-XL. Vía privada: Al área de uso común de un condominio, destinada al tránsito de personas y vehículos al interior del mismo;
+XLII. Resiliencia: A la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr mejorar su protección futura y las medidas de reducción de riesgos.
 
-XLI. Vía Pública: A la que forme parte de la infraestructura vial primaria o local;
+XLIII. Secretaría: A la Secretaría de Desarrollo Urbano y Metropolitano.
 
-XLII. Zona Metropolitana: Al espacio territorial cuya delimitación abarca a uno o más centros de población y las zonas adyacentes sobre las que tienen influencia dominante, ubicados en el territorio de dos o más municipios, pertenecientes a una o más entidades federativas y del Distrito Federal en su caso; y
+XLIV. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano.
 
-XLIII. Zonificación: A la clasificación del territorio prevista en los planes de desarrollo urbano.
+XLV. Subdivisión: Al acto por el que se fracciona un predio en lotes, con el fin de que éstos constituyan unidades de propiedad independientes.
+
+XLVI. Usos: A los fines particulares a que podrán destinarse determinadas áreas, predios o lotes.
+
+XLVII. Vía privada: Al área de uso común de un condominio, destinada al tránsito de personas y vehículos en su interior.
+
+XLVIII. Vía Pública: A la que forme parte de la infraestructura vial primaria o local.
+
+XLIX. Zona Metropolitana: Al espacio territorial cuya delimitación abarca a uno o más centros de población y las zonas adyacentes sobre las que tienen influencia dominante, ubicados en el territorio de dos o más municipios, pertenecientes a una o más entidades federativas y de la Ciudad de México en su caso.
+
+L. Zonificación: A la determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos de suelo y destinos, así como la delimitación de las áreas de crecimiento, conservación, consolidación y mejoramiento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4881,7 +4965,9 @@ XLIII. Zonificación: A la clasificación del territorio prevista en los planes 
 
 4.- Son causas de utilidad pública:
 
-I. La conservación, mejoramiento y crecimiento de los centros de población;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+I. La conservación, consolidación, mejoramiento y crecimiento de los centros de población y la ejecución de polígonos de actuación.
 
 II. La ejecución de los planes de desarrollo urbano y sus programas;
 
@@ -4889,39 +4975,77 @@ III. La constitución de reservas territoriales para el desarrollo urbano y la v
 
 IV. La regularización de la tenencia de la tierra;
 
-V. La ejecución de programas de vivienda social;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-VI. La ejecución de obras de urbanización, infraestructura, equipamiento y servicios urbanos;
+V. La ejecución de programas de vivienda social y de redensificación urbana
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VI. La ejecución de obras de urbanización, infraestructura, equipamiento y servicios urbanos y metropolitanos.
 
 VII. La apertura, ampliación, prolongación y modificación de vías públicas;
 
-VIII. La protección del patrimonio histórico, artístico y cultural;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VIII. La protección del patrimonio natural y cultural.
 
 IX. La reubicación de la población asentada en áreas de riesgo y no aptas para el desarrollo urbano; y
 
-X. Aquellas otras que así reconociera la legislación estatal o federal aplicable a la materia.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+X. La creación, recuperación, mantenimiento y defensa del espacio público para uso comunitario y para la movilidad.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XI. La atención de situaciones de emergencia debidas al cambio climático y fenómenos naturales.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XII. La preservación y restauración del equilibrio ecológico y la protección del ambiente en los centros de población.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIII. La delimitación de zonas de riesgo y el establecimiento de polígonos de protección, amortiguamiento y salvaguarda para garantizar la seguridad de las personas y de las instalaciones estratégicas.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Aquellas otras que así reconociera la legislación estatal o federal aplicable a la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-5.- Los principios en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población, deberán ser observados por las autoridades estatales y municipales, en:
+5.- Los principios de política pública en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población, deberán ser observados por las autoridades estatales y municipales, en:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. La expedición de normas, reglamentos, lineamientos, planes de desarrollo urbano, autorizaciones, licencias, dictámenes, constancias y demás instrumentos administrativos de su competencia;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. La planeación, programación, presupuestación, ejecución y control de acciones de desarrollo urbano, obra pública y prestación, administración y funcionamiento de servicios públicos, las que podrán participar de manera coordinada y concurrente; y
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Los demás actos administrativos que correspondan a su competencia.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-6.- El uso y aprovechamiento del suelo con fines urbanos, así como la construcción de edificaciones, cualquiera que sea su régimen jurídico de propiedad, se sujetará a lo dispuesto en este Libro, su reglamentación, los planes de desarrollo urbano y las autorizaciones y licencias expedidas por las autoridades competentes en materia urbana.
+6.- El uso y aprovechamiento del suelo con fines urbanos de áreas y predios ejidales o comunales comprendidos dentro de los límites de los centros de población o que formen parte de las zonas de urbanización ejidal y de las tierras del asentamiento humano en ejidos y comunidades, así como la construcción de edificaciones, cualquiera que sea su régimen jurídico de propiedad, se sujetará a lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en la Ley Agraria, este Libro, su reglamentación, según corresponda, los planes o programas de desarrollo urbano y las autorizaciones y licencias expedidas por las autoridades competentes en materia urbana. Las tierras agrícolas, pecuarias y forestales, así como las destinadas a la preservación ecológica, deberán utilizarse preferentemente en dichas actividades o fines.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los notarios públicos, harán mención expresa de las autorizaciones, permisos y licencias que regula el presente Libro y sus disposiciones reglamentarias al autorizar escrituras públicas sobre inmuebles.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 Los registradores de la propiedad sólo inscribirán dichas escrituras públicas, cuando contengan la mención expresa de las autorizaciones y licencias que regula el presente Libro y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+No surtirán efectos los permisos, licencias o autorizaciones que contravengan lo establecido en este Libro, su Reglamento y los planes de desarrollo urbano.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4951,9 +5075,9 @@ V. Las demás que le confieran las disposiciones legales.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. Del Consejo Consultivo Estatal de Desarrollo Urbano
+### CAPÍTULO TERCERO. Del Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -4963,15 +5087,15 @@ I. Formular y presentar a consideración del Gobernador del Estado, los proyecto
 
 II. Expedir dictámenes de congruencia de los planes municipales de desarrollo urbano y de los planes parciales derivados de éstos, con el Plan Estatal de Desarrollo Urbano, el plan regional y los planes parciales de desarrollo urbano de competencia estatal aplicables;
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-III. Expedir evaluaciones técnicas de impacto urbano, al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y la reglamentación correspondiente.
+III. Expedir dictámenes únicos de factibilidad, al seno de la Comisión Estatal de Factibilidad, en los casos y con las formalidades previstas en este Libro y la reglamentación correspondiente.
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
-IV. Emitir las autorizaciones de conjuntos urbanos, condominios, subdivisiones, al seno de la Comisión Estatal de Factibilidad y en los casos previstos en este Libro y la reglamentación correspondiente.
+IV. Emitir las autorizaciones de conjuntos urbanos, condominios, subdivisiones, relotificaciones, fusiones y en los casos previstos en este Libro y la reglamentación correspondiente:
 
-Podrá emitir la autorización para relotificaciones y fusiones en términos de lo dispuesto en el Reglamento del presente Libro.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4993,7 +5117,9 @@ g) El cambio de tipo o del nombre comercial de los conjuntos urbanos, subdivisio
 
 h) La extinción por renuncia de autorizaciones; y
 
-i) Cualquier otra que requiera autorización.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+i) Cualquier otra que en términos de este Libro y su reglamento requiera autorización.
 
 > <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -5001,9 +5127,9 @@ V. Proponer, al seno de la Comisión Estatal de Factibilidad, políticas especí
 
 VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos auxiliar del ámbito federal, estatal o municipal;
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios, con el visto bueno (sic) la Comisión Estatal de Factibilidad.
+VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación, de las vías públicas y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios.
 
 VIII. Autorizar la apertura, prolongación, ampliación o modificación de vías públicas de competencia municipal, no previstas en los planes municipales de desarrollo urbano;
 
@@ -5017,13 +5143,17 @@ XII. Coordinar acciones con las demás instancias competentes, para prevenir y e
 
 XIII. Promover, gestionar, coordinar, concertar y ejecutar acciones, inversiones y obras para el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población;
 
-XIV. Intervenir en las instancias de coordinación, consulta, seguimiento y evaluación en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Intervenir en las instancias de coordinación, consulta, seguimiento y evaluación en materia de ordenamiento territorial de los asentamientos humanos, desarrollo metropolitano y desarrollo urbano de los centros de población.
 
 XV. Promover la participación social en la planeación, gestión y control urbano;
 
 XVI. Ordenar la publicación de los planes de desarrollo urbano del ámbito estatal y municipal, en el Periódico Oficial "Gaceta del Gobierno", así como su inscripción en el Instituto de la Función Registral;
 
-XVII. Suscribir acuerdos, convenios y contratos en la materia;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XVII. Suscribir acuerdos, convenios y contratos con los sectores público, social y privado en la realización de acciones e inversiones concertadas para el desarrollo regional, desarrollo urbano y desarrollo metropolitano.
 
 XVIII. Ejercer el derecho de preferencia del Estado, para adquirir en igualdad de condiciones, predios comprendidos en las áreas urbanizables señaladas en los planes o programas de desarrollo urbano aplicables, cuando éstos vayan a ser objeto de enajenación a título oneroso;
 
@@ -5035,9 +5165,35 @@ XXI. Determinar infracciones de los particulares a las disposiciones de este Lib
 
 XXII. Emitir dictámenes y opiniones técnicas en el ámbito de su competencia;
 
-XXIII. Expedir normas técnicas y administrativas en materia de desarrollo urbano y vivienda; y
+XXIII. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
-XXIV. Las demás que le confieran este Libro, su reglamentación y otras disposiciones legales.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXIV. Establecer normas para la evaluación del impacto urbano de obras o proyectos que generen efectos significativos en el territorio estatal.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXV. Apoyar la generación de vivienda en sus diversas modalidades.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXVI. Promover con la participación de los Municipios, polígonos de actuación; polígonos sujetos a densificación; y polígonos para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, que permitan llevar a cabo acciones específicas para el crecimiento, consolidación, mejoramiento y conservación de los centros de población.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXVII. Desarrollar y aplicar en el ámbito de sus atribuciones y competencias, instrumentos de financiamiento y fomento para el desarrollo urbano, de conformidad con el reglamento de este Libro y demás ordenamientos legales aplicables, así como generar instrumentos para la captación de plusvalías generadas por acciones urbanísticas, para la transferencia de potencialidades de desarrollo urbano y para el desarrollo orientado al transporte.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXVIII. Llevar a cabo programas permanentes de capacitación para los servidores públicos en las materias de este Libro y su reglamento, así como implementar la certificación de especialistas en planeación urbana, gestión y administración territorial.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXIX. Promover la conformación de institutos metropolitanos de planeación, así como de Observatorios Ciudadanos, en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXX. Las demás que le confieran este Libro, su reglamentación y otras disposiciones legales.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5045,19 +5201,19 @@ XXIV. Las demás que le confieran este Libro, su reglamentación y otras disposi
 
 10.- Los municipios tendrán las atribuciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
 I. Formular, aprobar, ejecutar, evaluar, modificar y actualizar los planes municipales de desarrollo urbano y los parciales que de ellos deriven.
 
-Los planes de desarrollo urbano municipal, se actualizarán cada dos años para verificar el cumplimiento del objeto para el cual fueron creados, y en su caso, determinar la necesidad de formular planes parciales a ejecutar de manera inmediata.
-
 II. Participar en la elaboración o modificación del respectivo plan regional de desarrollo urbano o de los parciales que de éste deriven, cuando incluya parte o la totalidad de su territorio;
 
-III. Aprobar los proyectos ejecutivos, las memorias de cálculo y las especificaciones técnicas de las obras de infraestructura hidráulica y de urbanización, que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, con excepción de los proyectos que sean de competencia de las autoridades estatales o federales;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+III. Aprobar los proyectos ejecutivos, las memorias de cálculo y las especificaciones técnicas de las obras de infraestructura hidráulica, sanitaria y de urbanización, que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, con excepción de los proyectos que sean de competencia de las autoridades estatales o federales.
 
-IV. Supervisar la ejecución de las obras de urbanización e infraestructura hidráulica que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, que sean de su ámbito de competencia, verificando que estos cumplan las condiciones para la adecuada prestación de servicios públicos;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+IV. Supervisar la ejecución de las obras de urbanización e infraestructura hidráulica y sanitaria que establezcan los acuerdos de autorización de conjuntos urbanos, subdivisiones y condominios, que sean de su ámbito de competencia, verificando que éstos cumplan las condiciones para la adecuada prestación de servicios públicos.
 
 V. Recibir, conservar y operar las áreas de donación establecidas a favor del municipio, así como, las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios conforme a este Libro y su reglamentación;
 
@@ -5065,21 +5221,29 @@ VI. Expedir cédulas informativas de zonificación, licencias de uso de suelo y 
 
 VII. Autorizar cambios de uso del suelo, del coeficiente de ocupación, del coeficiente de utilización, densidad y altura de edificaciones;
 
-VIII. Autorizar, controlar y vigilar la utilización del suelo con fines urbanos, en sus circunscripciones territoriales;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VIII. Autorizar, controlar y vigilar la utilización y aprovechamiento del suelo con fines urbanos, en sus circunscripciones territoriales.
 
 IX. Difundir los planes de desarrollo urbano, así como los trámites para obtener las autorizaciones y licencias de su competencia;
 
 X. Participar en los órganos de coordinación estatal, regional y metropolitana, en materia de ordenamiento territorial de los asentamientos humanos, desarrollo urbano de los centros de población y vivienda;
 
-XI. Participar en la creación y administración de reservas territoriales para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XI. Participar en la creación y administración de reservas territoriales para el desarrollo urbano y la vivienda, así como generar los instrumentos que permitan la disponibilidad de tierra para personas en situación de pobreza o vulnerabilidad.
 
 XII. Ejercer indistintamente con el Estado, el derecho de preferencia para adquirir en igualdad de condiciones, predios comprendidos en las áreas urbanizables señaladas en los planes o programas de desarrollo urbano aplicables, cuando éstos vayan a ser objeto de enajenación a título oneroso.
 
 En el caso de que el Estado y el Municipio pretendan ejercer el derecho de preferencia, prevalecerá el del Estado;
 
-XIII. Crear órganos técnicos de participación social, consulta, coordinación, evaluación y seguimiento municipales o vecinales en materia de desarrollo urbano;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-XIV. Celebrar convenios, acuerdos y contratos en la materia;
+XIII. Crear órganos técnicos de participación social, consulta, coordinación, evaluación y seguimiento municipales o vecinales con carácter honorífico, en materia de desarrollo urbano así como institutos municipales de planeación.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Celebrar convenios, acuerdos y contratos en las materias de este Libro.
 
 XV. Emitir dictámenes, factibilidades y opiniones técnicas del ámbito de su competencia;
 
@@ -5091,47 +5255,115 @@ XVIII. Expedir los reglamentos y disposiciones administrativas de su competencia
 
 XIX. Vigilar, conforme a su competencia, el cumplimiento de este Libro y sus disposiciones reglamentarias, de los planes de desarrollo urbano, de las disposiciones administrativas y reglamentarias que emita en la materia y de las autorizaciones y licencias que otorgue;
 
-XX. Determinar infracciones de los particulares a las disposiciones de este Libro y de su reglamentación e imponer las medidas de seguridad y sanciones que establece el presente Libro; y
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-XXI. Las demás que le confieran este Libro, y otras disposiciones jurídicas.
+XX. Determinar infracciones de los particulares a las disposiciones de este Libro y de su reglamentación e imponer las medidas de seguridad y sanciones que establece el presente Libro, así como dar vista a las autoridades competentes para la aplicación de las sanciones penales conducentes.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXI. Solicitar a la Secretaría los dictámenes de congruencia de los planes de desarrollo urbano de su competencia, así como su correspondiente inscripción en el Instituto de la Función Registral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXII. Informar anualmente a la ciudadanía sobre la aplicación y ejecución de los planes o programas de desarrollo urbano.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXIII. Promover y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y aumentar la resiliencia de los mismos ante fenómenos naturales y antropogénicos.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXIV. Atender y cumplir los lineamientos y normas relativas a polígonos de protección y salvaguarda en zonas de riesgo, así como de zonas restringidas o identificadas como áreas no urbanizables.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXV. Promover con la participación del Estado, polígonos de actuación; polígonos sujetos a densificación y polígonos para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, que permitan llevar a cabo acciones específicas para el crecimiento, consolidación, mejoramiento y conservación de los centros de población.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XXVI. Las demás que le confieran este Libro, y otras disposiciones jurídicas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-11.- El Consejo Consultivo Estatal de Desarrollo Urbano es un órgano de asesoría, consulta y participación social en asuntos materia de desarrollo urbano de interés estatal, que estará presidido por el Gobernador del Estado. Su integración se definirá en el Reglamento de este Libro.
+11.- El Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano, es un órgano de asesoría, consulta, seguimiento, opinión, evaluación y participación social, para la deliberación de las políticas de ordenamiento territorial y planeación del desarrollo urbano y metropolitano, que estará presidido por el Gobernador del Estado. Su integración se definirá en el Reglamento de este Libro.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-12.- Corresponde al Consejo Consultivo Estatal de Desarrollo Urbano:
+12.- Corresponde al Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano:
 
-I. Promover la participación social en el proceso de elaboración del Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los parciales que deriven de éstos, recabando sus opiniones y propuestas;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+I. Promover la participación social en el proceso de elaboración del Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano en sus diversas modalidades y los parciales que deriven de éstos, así como en su seguimiento, operación y evaluación, recabando sus opiniones y propuestas.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. Formular propuestas en materia de planeación, regulación e inversión para el desarrollo urbano de la entidad;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 III. Proponer medidas para la ordenación sustentable del territorio del Estado;
 
-IV. Plantear mecanismos e instrumentos para la ejecución de los programas derivados de los planes estatales de desarrollo urbano;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-V. Proponer medidas legislativas y administrativas que tiendan a mejorar la planeación, ordenación, regulación y promoción del desarrollo urbano en el Estado;
+IV. Plantear mecanismos e instrumentos para la ejecución de los programas derivados de los planes de desarrollo urbano competencia del Estado.
 
-VI. Sugerir las bases conforme a las cuales se celebren convenios de concertación con instituciones públicas, sociales o privadas, en esta materia;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+V. Proponer medidas legislativas y administrativas que tiendan a mejorar la planeación, ordenación, regulación y promoción del desarrollo urbano y metropolitano en el Estado.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VI. Sugerir las bases conforme a las cuales se celebren convenios de coordinación con los municipios de la Entidad y de colaboración y concertación, con instituciones públicas, sociales o privadas, en esta materia.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Expedir su reglamento interno para regular su organización y funcionamiento; y
 
-VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+VIII. Emitir opiniones y formular propuestas en materia de planeación, regulación e inversión para el desarrollo urbano y metropolitano de la entidad, así como sobre la aplicación, conducción, orientación y evaluación de las políticas aplicables en la materia.
 
-### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+IX. Promover la participación social en la planeación, ejecución, seguimiento, evaluación y vigilancia del desarrollo urbano.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+X. Intervenir en el seguimiento y evaluación de los compromisos y acciones establecidas en los convenios de coordinación de acciones e inversiones en materia de ordenamiento territorial y desarrollo urbano y metropolitano.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XI. Proponer la integración de grupos técnicos de trabajo y la creación de las comisiones necesarias para el ejercicio de sus funciones.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XII. Convocar a la Comisión Estatal de Desarrollo Urbano y Metropolitano, cuando se planteen planes, programas, proyectos, acciones, obras e inversiones que afecten a los municipios involucrados.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIII. Proponer a las autoridades de los tres órdenes de gobierno la realización de estudios e investigaciones sobre la materia, así como los temas que por su importancia ameriten ser sometidos a consulta pública.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Apoyar a las autoridades en la promoción, difusión y cumplimiento de los planes y programas de la materia.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XV. Las demás que sean necesarias para el cumplimiento de su objeto y funciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
+
+### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Metropolitano
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-13.- La Comisión es un órgano técnico de coordinación interinstitucional que tiene por objeto promover el desarrollo urbano ordenado de los centros de población y alentar la producción formal de la vivienda en la entidad.
+13.- La Comisión es un órgano técnico de coordinación interinstitucional que tiene por objeto promover el desarrollo urbano ordenado de los centros de población y de las zonas metropolitanas.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5147,11 +5379,11 @@ II. Los titulares de las instancias gubernamentales que determine la reglamentac
 
 III. Los municipios de la entidad, cuando se traten asuntos de su jurisdicción territorial.
 
-Participarán como invitados en las sesiones de la Comisión, previa convocatoria, representantes de otras instancias gubernamentales, cuya competencia u objeto esté relacionado con el desarrollo urbano.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+Participarán como invitados en las sesiones de la Comisión, previa convocatoria, representantes de otras instancias gubernamentales, cuya competencia u objeto esté relacionado con el desarrollo urbano y metropolitano.
 
-Las instancias de gobierno integrantes de la Comisión y los invitados de este órgano colegiado deberán emitir por escrito las opiniones o dictámenes técnicos respecto de los asuntos de su competencia tratados en la misma sesión y las que le sean solicitadas, deberán hacerlas llegar a la Secretaria Técnica, a más tardar cinco días hábiles antes de la siguiente sesión de la Comisión.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
 La Comisión regulará su organización y funcionamiento conforme al reglamento interno que expida.
 
@@ -5159,13 +5391,15 @@ La Comisión regulará su organización y funcionamiento conforme al reglamento 
 
 ### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
 15.- Corresponde a la Comisión:
 
-I. Ser un espacio de coordinación de acciones entre las dependencias y organismos de la administración pública federal, estatal y municipal en materia de desarrollo urbano y vivienda;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+I. Ser un espacio de coordinación de acciones entre las dependencias y organismos de la administración pública federal, estatal y municipal en materia de desarrollo urbano y metropolitano.
 
 II. Constituirse, a solicitud de la Secretaría, en foro técnico de análisis y consulta, respecto de:
 
@@ -5179,47 +5413,91 @@ III. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 IV. A petición de la Secretaría, dar seguimiento a la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios, a efecto de que los integrantes y participantes de la misma, rindan informes respecto del avance físico de las obras que correspondan al ámbito de su competencia;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-V. Proponer a las autoridades competentes la adopción de medidas necesarias para la mejora regulatoria, la implementación de tecnologías de la información en el desahogo de los trámites y la desgravación de los procesos de administración y operación urbana y de producción de vivienda.
+V. Proponer a las autoridades competentes la adopción de medidas necesarias para la mejora regulatoria, la implementación de tecnologías de la información y gobierno digital en el desahogo de los trámites y la desgravación de los procesos de administración y operación urbana y de producción de vivienda.
 
 VI. Promover medidas y mecanismos para simplificar y agilizar los procedimientos de autorización de trámites en la materia;
 
-VII. Proponer programas, acciones y proyectos estratégicos en materia de desarrollo urbano;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VII. Proponer programas, acciones y proyectos estratégicos en materia de desarrollo urbano, así como promover la integración de polígonos de actuación y acciones urbanísticas tendentes al proceso de regeneración de zonas urbanas.
 
 VIII. Proponer ante las instancias correspondientes, proyectos de inversión y financiamiento para el desarrollo urbano; y
 
 IX. Promover investigaciones científicas y tecnológicas sobre desarrollo urbano y vivienda, así como formular recomendaciones sobre la normatividad respectiva.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 10 DE ENERO DE 2018)</small>
+
+X. Intervenir en los temas de interés metropolitano siguientes:
+
+a) La planeación del ordenamiento del territorio y los asentamientos humanos.
+
+b) La infraestructura vial, tránsito, transporte y la movilidad.
+
+c) El suelo y las reservas territoriales.
+
+d) La densificación, consolidación urbana y uso eficiente del territorio, con espacios públicos seguros y de calidad, como eje articulador.
+
+e) Las políticas habitacionales y las relativas al equipamiento regional y metropolitano.
+
+f) La localización de espacios para desarrollo industrial de carácter metropolitano.
+
+g) La gestión integral del agua y los recursos hidráulicos, incluyendo el agua potable, el drenaje, saneamiento, tratamiento de aguas residuales, recuperación de cuencas hidrográficas y aprovechamiento de aguas pluviales.
+
+h) La preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, incluyendo la calidad del aire y la protección de la atmósfera.
+
+i) La gestión integral de residuos sólidos municipales, especialmente los industriales y peligrosos.
+
+j) La prevención, mitigación y resiliencia ante los riesgos y los efectos del cambio climático.
+
+k) La infraestructura y equipamientos de carácter estratégico y de seguridad.
+
+l) La accesibilidad universal y la movilidad.
+
+m) La seguridad pública.
+
+n) Otras acciones que se establezcan o declaren por las autoridades competentes.
+
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-16.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, la cual tiene por objeto lograr una distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal, así como mejorar la calidad de vida de sus habitantes, el desarrollo integral de sus comunidades y la competitividad de los centros de población y la adaptación al cambio climático.
+16.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, tiene por objeto lograr una distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal, así como mejorar la calidad de vida de sus habitantes, el desarrollo integral de sus comunidades, competitividad de los centros de población y la adaptación al cambio climático.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+Los ciudadanos del Estado, en los términos de este Libro y su reglamentación, tienen derecho a participar en la formulación de propuestas en los procesos de elaboración de los planes de desarrollo urbano, así como coadyuvar con las autoridades estatales y municipales en la vigilancia de la normatividad prevista en ellos. Para el caso de las comunidades indígenas de la entidad, éstas participarán en los términos previstos por la Ley de Derechos y Cultura Indígena del Estado de México.
 
-Los ciudadanos del Estado, en los términos de este Libro y su reglamentación, tienen derecho a participar en la formulación de propuestas en los procesos de elaboración de los planes de desarrollo urbano, así como coadyuvar con las autoridades estatales y municipales en la vigilancia de la normatividad prevista en ellos, para el caso de las comunidades indígenas de la entidad participarán en los términos previstos por la Ley de Derechos y Cultura Indígena del Estado de México.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-17.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población se llevará a cabo a través del Sistema Estatal de Planes de Desarrollo Urbano, el cual se integra por:
+17.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población se llevará a cabo a través del Sistema Estatal de Planes de Desarrollo Urbano, acorde con lo establecido en la estrategia nacional de ordenamiento territorial, el cual se integra por:
 
-I. El Plan Estatal de Desarrollo Urbano, que tendrá por objeto establecer las políticas, estrategias y objetivos de ordenamiento territorial de los asentamientos humanos en el territorio del Estado, así como la clasificación del territorio estatal y los criterios básicos para el desarrollo urbano de los centros de población;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+I. El Plan Estatal de Desarrollo Urbano, que tendrá por objeto establecer las políticas, estrategias y objetivos de ordenamiento territorial de los asentamientos humanos en el territorio del Estado, así como la clasificación del territorio estatal de acuerdo a sus características metropolitanas urbanas y rurales.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. Los planes regionales de desarrollo urbano, que tendrán por objeto establecer las políticas, estrategias y objetivos para la atención de las necesidades y problemas comunes de los centros de población de una región o de una zona metropolitana o conurbada;
 
-III. Los planes municipales de desarrollo urbano, que tendrán por objeto establecer las políticas, estrategias y objetivos para el desarrollo urbano de los centros de población en el territorio municipal, mediante la determinación de la zonificación, los destinos y las normas de uso y aprovechamiento del suelo, así como las acciones de conservación, mejoramiento y crecimiento en los centros de población; y
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+III. Los planes municipales de desarrollo urbano, que tendrán por objeto establecer las políticas, estrategias y objetivos para el desarrollo urbano de los centros de población en el territorio municipal, mediante la determinación de la zonificación, los destinos y las normas de uso y aprovechamiento del suelo, así como las acciones de conservación, mejoramiento y crecimiento en los centros de población, de conformidad con las características metropolitanas, urbanas y rurales previstas por el Plan Estatal de Desarrollo Urbano.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Los planes parciales de desarrollo urbano, que pueden derivar de:
 
-a) El Plan Estatal o de los planes regionales, en cuyo caso tendrán por objeto especificar las acciones para ejecutar las políticas, estrategias y objetivos previstos en éstos;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-b) De los planes municipales, en cuyo caso tendrán por objeto especificar en una zona determinada del municipio o centro de población, los aspectos a que se refiere la fracción III de este artículo.
+a) El Plan Estatal de Desarrollo Urbano o de los planes regionales, en cuyo caso tendrán por objeto especificar las acciones para ejecutar las políticas, estrategias y objetivos previstos en éstos.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+b) De los planes municipales, en cuyo caso tendrán por objeto especificar en una zona determinada del municipio o centro de población, los aspectos a que se refiere la fracción III de este artículo. Los planes tendrán la estructura, contenido específico, terminología y demás elementos técnicos que establezca la reglamentación de este Libro.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ## TÍTULO SEGUNDO. De la Planeación Urbana
 
@@ -5231,7 +5509,7 @@ b) De los planes municipales, en cuyo caso tendrán por objeto especificar en un
 
 ###### Artículo 5.
 
-18.- Los planes regionales, municipales y parciales deberán ser congruentes con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano. Los planes municipales y los parciales que deriven de éstos deberán ser congruentes, además, con los planes regionales y los parciales de competencia estatal que incidan en la zona y, en lo conducente, con las declaratorias de las zonas metropolitanas decretadas por la Legislatura del Estado.
+18.- Los planes regionales, municipales y parciales deberán ser congruentes con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano, el cual deberá de ser congruente con el Programa Nacional de Vivienda y el Programa Nacional de Infraestructura. Los planes municipales y los parciales que deriven de éstos, que se encuentren en zonas metropolitanas o de conurbación, deberán ser congruentes, además, con los planes regionales y los parciales de competencia estatal que incidan en la zona y, en lo conducente, con los planes y programas de ordenación de dichas zonas metropolitanas y de conurbación, conforme a las declaratorias de zonas metropolitanas decretadas por la Legislatura del Estado.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -5243,9 +5521,9 @@ b) De los planes municipales, en cuyo caso tendrán por objeto especificar en un
 
 I. El diagnóstico de la situación urbana de su ámbito de aplicación, su problemática y sus tendencias;
 
-> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-II. La determinación de sus objetivos, políticas y estrategias en materia de población, suelo, protección al ambiente, vialidad y transporte, comunicaciones, agua potable, alcantarillado, drenaje, tratamiento y disposición de aguas residuales y residuos sólidos, protección civil, vivienda, desarrollo agropecuario, salud, educación, seguridad pública, desarrollo económico, industria y conservación del patrimonio inmobiliario histórico, artístico y cultural, adaptación a los efectos del cambio climático, así como las demás materias que resulten necesarias, con el fin de imprimirles un carácter integral para propiciar el desarrollo urbano sustentable del Estado;
+II. La determinación de sus objetivos, políticas y estrategias en las materias de población, suelo, espacio público, protección al ambiente, vialidad y transporte, comunicaciones, movilidad y accesibilidad universal, agua potable, alcantarillado, drenaje, tratamiento y disposición de aguas residuales y residuos sólidos, protección civil, vivienda, desarrollo agropecuario, salud, educación, seguridad pública, desarrollo económico, industria y conservación del patrimonio natural y cultural, adaptación a los efectos del cambio climático, así como las demás materias que resulten necesarias, con el fin de imprimirles un carácter integral para propiciar el desarrollo urbano sustentable del Estado.
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5255,21 +5533,29 @@ III. La programación de acciones y obras;
 
 IV. La definición de los instrumentos normativos, administrativos, financieros y programáticos en que se sustentará;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-V. La zonificación, los destinos y usos del suelo y la normatividad para el aprovechamiento de los predios, tratándose de los planes de competencia municipal;
+V. La zonificación, los destinos y usos del suelo y la normatividad para el aprovechamiento de los predios, la mezcla de usos del suelo mixtos y la adecuada integración vial, así como para impedir la expansión física desordenada de los centros de población, tratándose de los planes de competencia municipal.
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. La evaluación del plan que abroga o modifica, en su caso; y
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-VII. Los demás aspectos que prevean la reglamentación de este Libro y otras disposiciones aplicables.
+VII. La regulación ecológica de los asentamientos humanos aplicable, establecida en los ordenamientos legales de la materia.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
 
-Dichos planes tendrán la estructura, terminología y demás elementos que establezca la reglamentación de este Libro.
+VIII. Los demás aspectos que prevean la reglamentación de este Libro y otras disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+Para la definición de los usos del suelo, destinos y reservas, los planes de desarrollo urbano deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de resiliencia y los atlas de riesgos. Las autorizaciones de construcción, edificación y realización de obras de infraestructura, deberán contar con un análisis de riesgo y definir en su caso, las medidas de mitigación para su reducción en el marco de la legislación aplicable en materia de protección civil.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+Las dependencias de los gobiernos Federal, Estatal y Municipales, proporcionarán en el ámbito de sus respectivas competencias la información y proyectos que tengan previsto realizar, con el fin de integrarlos a los planes de desarrollo urbano correspondientes.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5279,7 +5565,7 @@ Dichos planes tendrán la estructura, terminología y demás elementos que estab
 
 I. La Secretaría o el municipio que corresponda, elaborará el proyecto de plan o de sus modificaciones y lo someterá a consulta pública, conforme a lo siguiente:
 
-a) Publicará aviso del inicio de consulta pública. Para el caso de planes de competencia estatal, en el Periódico Oficial “Gaceta del Gobierno”, en un periódico de circulación estatal y en la página electrónica de la Secretaría;
+a) Publicará aviso del inicio de consulta pública. Para el caso de planes de competencia estatal, en el Periódico Oficial "Gaceta del Gobierno", en un periódico de circulación estatal y en la página electrónica de la Secretaría;
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -5287,15 +5573,23 @@ b) El aviso a que se refiere el inciso anterior, señalará los lugares, fechas 
 
 c) El plazo para la consulta pública no deberá ser menor a un mes;
 
-d) Dicho aviso establecerá las formalidades a las que se sujetarán las audiencias públicas que deberán ser al menos dos, así como los demás aspectos que se establezcan en la reglamentación del presente Libro;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-e) La Secretaría o el municipio, según corresponda, analizará las opiniones recibidas durante la consulta e integrará las procedentes al proyecto definitivo del plan.
+d) Dicho aviso establecerá el calendario y las formalidades a las que se sujetarán las audiencias públicas que deberán ser al menos dos, así como los demás aspectos que se establezcan en la reglamentación del presente Libro.
 
-II. En el caso de planes que deban ser aprobados por el Ayuntamiento, éste recabará de la Secretaría, el dictamen de congruencia correspondiente; y
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+e) La Secretaría o el municipio, según corresponda, analizará las opiniones recibidas durante la consulta e integrará las procedentes al proyecto definitivo del plan. Las improcedentes deberán fundamentarse y estarán a consulta pública en las oficinas y sitios web de la autoridad estatal o municipal correspondiente, durante el periodo de consulta y hasta antes de la aprobación del plan.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+II. En el caso de planes que deban ser aprobados por el Ayuntamiento, éste recabará de la Secretaría, el dictamen de congruencia correspondiente quien tendrá un plazo máximo de treinta días hábiles para dar respuesta, contados a partir de que sea presentada la solicitud; en caso de no ser favorable, se deberán justificar de manera clara y expresa las recomendaciones pertinentes para que el Ayuntamiento efectúe las modificaciones correspondientes.
 
 III. Cumplidas las formalidades anteriores, el plan será aprobado mediante acuerdo expedido por el Gobernador o por el Ayuntamiento, según corresponda.
 
-Los planes y sus respectivos acuerdos de aprobación, deberán ser publicados en el Periódico Oficial “Gaceta del Gobierno” a través de la Secretaría, a partir de lo cual surtirán sus efectos jurídicos, sin perjuicio de que los planes de competencia municipal sean publicados en el Periódico Oficial del municipio respectivo.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+Los planes y sus respectivos acuerdos de aprobación, deberán ser publicados en el Periódico Oficial “Gaceta del Gobierno” a través de la Secretaría, a partir de lo cual surtirán sus efectos jurídicos, sin perjuicio de que los planes de competencia municipal sean publicados en el Periódico Oficial del municipio respectivo. Asimismo, se inscribirán en el Instituto de la Función Registral del Estado de México.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5337,9 +5631,13 @@ Para ordenar y regular los asentamientos humanos en el territorio estatal, el su
 
 ###### Artículo 5.
 
-24.- La zonificación determinará:
+24.- La zonificación contenida en los Planes Municipales de Desarrollo determinará:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Las áreas urbanas, urbanizables y no urbanizables del territorio municipal;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. En las áreas urbanas y urbanizables:
 
@@ -5352,6 +5650,8 @@ c) Las zonas de conservación, mejoramiento y crecimiento;
 d) Las medidas para la protección de los derechos de vía y zonas de restricción de inmuebles del dominio público; y
 
 e) Las demás disposiciones que sean procedentes de conformidad con la legislación aplicable.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Respecto de las áreas no urbanizables, la referencia a:
 
@@ -5383,7 +5683,7 @@ VII. Los requerimientos de cajones de estacionamiento;
 
 VIII. Las restricciones de construcción; y
 
-IX. Las demás que determine la reglamentación de este Libro.
+IX. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5397,21 +5697,33 @@ IX. Las demás que determine la reglamentación de este Libro.
 
 ###### Artículo 5.
 
-26.- Las acciones de conservación, mejoramiento y crecimiento de los centros de población, serán previstas conforme a los criterios siguientes:
+26.- Las acciones de conservación, consolidación, mejoramiento y crecimiento de los centros de población, serán previstas conforme a los criterios siguientes:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Se orientará el crecimiento hacia áreas que comparativamente requieran una menor inversión en infraestructura y equipamiento urbano, siempre que no se afecte el equilibrio de los ecosistemas;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 II. Se evitará el crecimiento habitacional hacia áreas de alto o mediano aprovechamiento agrícola, forestal, pecuario o industrial, así como hacia áreas naturales protegidas o que tengan bellezas naturales o elementos que contribuyan al equilibrio ecológico; así como hacia zonas de alto riesgo;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Se propiciará el aprovechamiento del suelo mixto para facilitar el acceso a los servicios, obtener un mayor aprovechamiento del suelo, mantener en forma constante la actividad urbana y lograr una mayor seguridad para los habitantes;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 IV. La articulación de la regularización de la tenencia de la tierra con la dotación de servicios básicos, que permitan su incorporación al desarrollo urbano;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 V. En relación con la infraestructura y equipamiento urbano:
 
 a) La dotación de servicios, equipamiento e infraestructura urbana se orientará a zonas carentes de ellos, a fin de incorporarlas a la estructura urbana del centro de población;
 
-b) Las plazas cívicas, jardines y espacios semejantes, se ubicarán de preferencia en sitios centrales de cada uno de los distintos barrios o colonias del centro de población y a su alrededor se situarán edificios destinados a fines que, guardando concordancia con el carácter de tales espacios, contribuyan a elevar la imagen del entorno;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+b) Las plazas cívicas, jardines y espacios públicos semejantes, se ubicarán de preferencia en sitios centrales de cada uno de los distintos barrios o colonias del centro de población y a su alrededor se situarán edificios destinados a fines que, guardando concordancia con el carácter de tales espacios, contribuyan a elevar la imagen del entorno.
 
 c) Los edificios de establecimientos dedicados a la atención de la salud y a la educación se ubicarán de preferencia en las inmediaciones de las áreas verdes, procurando que queden alejados del ruido y demás elementos contaminantes y, en caso de los establecimientos de educación, evitar que tengan acceso directo a vías públicas primarias;
 
@@ -5421,6 +5733,8 @@ e) Los equipamientos de tipo regional se localizarán en zonas que sean suscepti
 
 f) Las disposiciones en materia de prestación de servicios a personas con discapacidad serán obligatorias.
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 VI. En cuanto a la localización de industrias:
 
 a) Los parques o zonas industriales deben separarse de las zonas habitacionales por vialidades o franjas verdes de amortiguamiento;
@@ -5428,6 +5742,8 @@ a) Los parques o zonas industriales deben separarse de las zonas habitacionales 
 b) Las de alto riesgo deberán situarse fuera de los centros de población, así como rodearse de un área de amortiguamiento dentro del predio, en los términos que determine la instancia gubernamental competente; y
 
 c) Las que se permitan establecer dentro o próximas a zonas habitacionales, serán las que se señalen en los planes municipales de desarrollo urbano.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Por lo que se refiere a la protección del ambiente:
 
@@ -5441,7 +5757,9 @@ d) La forestación de los espacios abiertos públicos o privados, se llevará a 
 
 e) Se deberán prever las áreas aptas para la localización de las actividades de recolección, tratamiento y disposición final de residuos sólidos, al igual que las que fueren necesarias para los materiales y residuos peligrosos.
 
-VIII. En relación a la conservación del patrimonio histórico, artístico y cultural constituido por los inmuebles vinculados a la historia local o nacional o que tengan valor arquitectónico, las plazas, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional, las zonas arqueológicas y de interés turístico y poblados típicos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+
+VIII. En relación a la conservación del patrimonio natural y cultural constituido por los inmuebles vinculados a la historia local o nacional o que tengan valor arquitectónico, las plazas, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional, las zonas arqueológicas y de interés turístico y poblados típicos:
 
 a) Se identificarán los sitios y los edificios que signifiquen para la comunidad un testimonio valioso de su historia y su cultura;
 
@@ -5449,7 +5767,11 @@ b) Las edificaciones que se localicen en su entorno deberán ser armónicas y co
 
 c) Los propietarios de las edificaciones tendrán obligación de conservarlas en buen estado, servicios, aspecto e higiene, y evitarán su utilización en actividades incompatibles con su valor histórico, artístico, turístico, cultural o arquitectónico; y
 
-d) En las zonas y construcciones declaradas del patrimonio arqueológico, histórico, artístico y cultural, se permitirá la colocación de anuncios de conformidad con lo que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+d) En las zonas y construcciones declaradas del patrimonio natural y cultural, se permitirá la colocación de anuncios de conformidad con lo que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IX. En relación con los asentamientos humanos irregulares:
 
@@ -5473,9 +5795,9 @@ c) No podrán instalarse en el interior de una colonia, fraccionamiento, conjunt
 
 d) Ser inscritos en los registros municipales sobre establecimientos comerciales, detallando la licencia con el giro específico e impacto que produce su actividad, así como las demás características que el Ayuntamiento determine.
 
-(REFORMADA, G.G. 11 DE JULIO DE 2014) (F. DE E., G.G. 1 DE AGOSTO DE 2014)
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-XI. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
+XI. Los Municipios informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5485,31 +5807,57 @@ XI. Los ayuntamientos informarán a la autoridad federal competente sobre las au
 
 27.- El Estado y los municipios correspondientes, deberán planear y regular de manera conjunta y coordinada el desarrollo urbano de las conurbaciones o zonas metropolitanas que se presenten al interior del territorio estatal.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.G. 10 DE ENERO DE 2018)</small>
+
+Para lograr una eficaz gobernanza metropolitana y asegurar al efecto la acción coordinada de los niveles de gobierno y la participación social, se contará con las siguientes instancias:
+
+I. El Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano.
+
+II. La Comisión Estatal de Desarrollo Urbano y Metropolitano.
+
+III. Los Consejos Municipales de Desarrollo Urbano, que serán instancias permanentes de participación social para la asesoría y consulta de los ayuntamientos, en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población en su jurisdicción territorial.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+La organización y funcionamiento de estas instancias, se contendrá como corresponda en la reglamentación y convenios respectivos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 #### SECCIÓN TERCERA. De la Evaluación Técnica de Impacto Urbano
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-28.- El Gobierno del Estado y los municipios deberán celebrar convenios de conurbación en el que se acordarán, por lo menos, los aspectos siguientes:
+28.- Para la ordenación y regulación de las zonas conurbadas o metropolitanas el Gobierno del Estado y los municipios deberán celebrar convenios en los que se acordarán, por lo menos, los aspectos siguientes:
 
-I. La localización, extensión y delimitación de la conurbación o zona metropolitana, considerando sus áreas de crecimiento e influencia;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, en el que participarán el Estado y los municipios respectivos y que será presidido por el titular de la Secretaría de Desarrollo Metropolitano;
+I. La localización, extensión y delimitación del polígono que comprenda zona metropolitana, considerando sus áreas de crecimiento e influencia.
 
-III. La formulación en el marco de dicho órgano, de un plan regional de desarrollo urbano o un plan parcial, según fuera el caso, aplicable a la conurbación o zona metropolitana, en el que se haga la determinación básica de las áreas dedicadas a la conservación, mejoramiento y crecimiento, así como a la preservación y equilibrio ecológico, de los centros de población de la zona conurbada;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano y Metropolitano.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+III. La formulación, en el marco de dicha Comisión del respectivo plan de desarrollo urbano de zona metropolitana o de un plan parcial, según fuera el caso.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. La integración de un fondo para el financiamiento de obras públicas de infraestructura y equipamiento urbano para atender las necesidades comunes de la conurbación o zona metropolitana;
 
-V. La congruencia de los planes municipales de desarrollo urbano y la homologación de las disposiciones jurídicas de los municipios involucrados en la conurbación o zona metropolitana; y
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+
+V. La congruencia de los respectivos planes municipales de desarrollo urbano y la homologación de las disposiciones jurídicas de los municipios involucrados en la conurbación o zona metropolitana.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Los demás aspectos que sean necesarios para coordinar acciones o inversiones que permitan el desarrollo urbano sustentable, equitativo y armónico de los municipios y centros de población involucrados.
 
-Dicho convenio se publicará en el Periódico Oficial “Gaceta del Gobierno” y en las gacetas municipales correspondientes.
+Dicho convenio se publicará en el Periódico Oficial "Gaceta del Gobierno" y en las gacetas municipales correspondientes.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ### CAPÍTULO PRIMERO. De los Instrumentos Estatales de Control del Desarrollo Urbano
 
@@ -5517,15 +5865,21 @@ Dicho convenio se publicará en el Periódico Oficial “Gaceta del Gobierno” 
 
 ###### Artículo 5.
 
-29.- Aprobado el plan regional de la conurbación o zona metropolitana, los municipios respectivos en el ámbito de sus jurisdicciones, determinarán en los planes de desarrollo urbano correspondientes, las reservas, usos, destinos y normas de aprovechamiento de áreas y predios involucrados, siempre que no conlleven a la renuncia o alteración de las atribuciones constitucionales del Estado y de los municipios sobre su territorio.
+29.- Aprobado el plan regional de la conurbación o zona metropolitana, los municipios respectivos en el ámbito de sus jurisdicciones, determinarán en los planes Municipales de desarrollo urbano correspondientes, en el plazo de un año, las reservas, usos, destinos y normas de aprovechamiento de áreas y predios involucrados, siempre que no conlleven a la renuncia o alteración de las atribuciones constitucionales del Estado y de los municipios sobre su territorio.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-30.- Para la ordenación y regulación de las zonas conurbadas o metropolitanas interestatales, el Gobierno del Estado y los municipios respectivos, previa declaratoria de la Legislatura del Estado, participarán con la Federación y las entidades federativas limítrofes, en la elaboración, aprobación y ejecución de planes y programas, así como en la suscripción de convenios en materia de desarrollo urbano, conforme a la legislación federal aplicable.
+30.- Para la ordenación y regulación de las zonas conurbadas o metropolitanas interestatales, el Gobierno del Estado y los municipios respectivos, previa declaratoria de la Legislatura del Estado, participarán con la Federación y las entidades federativas limítrofes, en la elaboración, aprobación y ejecución de planes y programas, así como en la suscripción de convenios en materia de desarrollo urbano, conforme a la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los instrumentos de coordinación y planeación que al efecto deberán suscribir el Estado y sus municipios, en ningún caso podrán ser contrarios o menoscabar las atribuciones que constitucionalmente les corresponden.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+Las disposiciones de este capítulo serán aplicables en lo conducente a los procesos de conurbación.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5533,7 +5887,7 @@ Los instrumentos de coordinación y planeación que al efecto deberán suscribir
 
 31.- Previamente a la aprobación de los planes municipales de desarrollo urbano, los municipios deberán obtener de la Secretaría el dictamen de congruencia, mismo que se emitirá considerando los principios aplicables establecidos en este Libro, así como las políticas y estrategias del Plan Estatal de Desarrollo Urbano y en su caso, las del plan regional o parcial de desarrollo urbano aplicable.
 
-La Secretaría podrá solicitar en su caso, la opinión técnica de los integrantes de la Comisión, respecto del plan sometido a dictamen de congruencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5553,7 +5907,7 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 #### SECCIÓN CUARTA. De los Conjuntos Urbanos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5567,11 +5921,11 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 #### SECCIÓN QUINTA. De la Subdivisión y Fusión
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-35.- Los interesados deberán obtener el Dictamen Único de Factibilidad, respecto de los usos del suelo siguientes:
+35.- Los interesados deberán obtener el dictamen único de factibilidad, en los siguientes casos:
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5585,23 +5939,49 @@ II. Gaseras, gasoneras, gasolineras y otras plantas para el almacenamiento, proc
 
 III. Helipuertos, Aeródromos Civiles y Aeropuertos; y
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+IV. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
-IV. Los que señale el plan municipal de desarrollo urbano correspondiente.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+V. Conjuntos Urbanos.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VI. Condominios que prevean el desarrollo de treinta o más viviendas.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VII. Treinta o más viviendas en un predio o lote.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+VIII. Aquellos que señale la Ley de Competitividad y Ordenamiento Comercial del Estado de México y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+Al Dictamen Único de Factibilidad que en términos de este artículo se emita para fines habitacionales, se le identificará como Dictamen Único de Factibilidad de Vivienda.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 Asimismo, requieren Dictamen Único de Factibilidad, los cambios de uso del suelo, de densidad, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones, que con motivo del cambio se encuadren en alguna de las hipótesis previstas en las fracciones de este artículo.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener Dictamen Único de Factibilidad, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
+En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener Dictamen Único de Factibilidad correspondiente, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+
+La reglamentación correspondiente consignará las particularidades a que se sujetará al dictamen único de factibilidad.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-36.- Sólo procederá la emisión Dictamen Único de Factibilidad, cuando el uso de suelo que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o bien, a falta de dicho plan se determinará su procedencia con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal y la aprobación de la Secretaría, el cual tendrá una vigencia de un año, pudiendo prorrogarse por una sola vez. Tratándose del Dictamen Único de Factibilidad, para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro, su reglamentación y disposiciones aplicables.
+36.- Sólo procederá la emisión del Dictamen Único de Factibilidad, cuando el uso del suelo de que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o a falta de dicho plan, el uso del suelo que se determine con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal el cual tendrá la vigencia que se establezca en el Reglamento Interior de la Comisión Estatal de Factibilidad. Tratándose del Dictamen Único de Factibilidad para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro, su reglamentación y disposiciones aplicables.
+
+La Secretaría solo expedirá el Dictamen Único de Factibilidad, cuando cada una de las instancias gubernamentales participantes en la Comisión Estatal de Factibilidad, otorguen opinión o evaluación técnica favorable según corresponda, en el ámbito de su competencia, respecto del proyecto que se requiera.
+
+En el caso que una o más instancias gubernamentales participantes en la Comisión Estatal de Factibilidad, no aprueben el proyecto presentado, se notificará el interesado haciendo de su conocimiento el motivo de la negativa.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5611,7 +5991,7 @@ En aquellos casos en que el uso y aprovechamiento específico de los lotes de te
 
 ###### Artículo 5.
 
-37.- Previo a la autorización de los conjuntos urbanos que emita la secretaria, se requiere obtener de la CEF el DUF, en términos de lo dispuesto en el presente libro, su reglamentación y demás disposiciones aplicables.
+37.- Previo a la autorización de los conjuntos urbanos, se requiere obtener el Dictamen Único de Factibilidad, en términos de lo dispuesto en el presente libro, su reglamentación y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -5647,11 +6027,9 @@ III. Abasto, Comercio y Servicios;
 
 IV. Científicos y Tecnológicos;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-V. De Unidades Económicas de Alto Impacto;
-
-a) Para el establecimiento de unidades económicas que su actividad principal sea la enajenación y comercialización de vehículos automotores usados en tianguis de autos y las unidades económicas de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil.
+V. De Unidades Económicas de Alto Impacto; cuya actividad principal sea la enajenación y comercialización de vehículos automotores usados en tianguis de autos, así como de aprovechamiento de autopartes de vehículos usados que han concluido su vida útil.
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -5665,19 +6043,17 @@ Los conjuntos urbanos mixtos serán aquellos que comprendan a dos o más tipos.
 
 Los conjuntos urbanos de Unidades Económicas de Alto Impacto no podrán formar parte de un conjunto urbano mixto.
 
-> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
-La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del Dictamen Único de Factibilidad correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-38.- El Dictamen Único de Factibilidad y autorización de conjuntos urbanos se sujetarán a los lineamientos siguientes:
+38.- La autorización de conjuntos urbanos se sujetará a los lineamientos siguientes:
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-I. Deberá ser solicitada ante la Comisión Estatal de Factibilidad en términos de su Reglamento Interior y demás disposiciones legales aplicables.
+I. Deberá de ser solicitada ante la Secretaría en términos de las disposiciones legales aplicables.
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -5703,9 +6079,9 @@ VII. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
 VIII. Comprenderán, según el caso, las autorizaciones relativas a condominios, subdivisiones, fusiones y apertura, ampliación o modificación de vías públicas, usos específicos del suelo y sus normas de aprovechamiento, cambios de uso del suelo, de densidad de vivienda, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones;
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-IX. Emitida la autorización al seno de la Comisión Estatal de Factibilidad, no se podrá incrementar la superficie enajenable ni excederse el número de lotes y/o viviendas aprobadas.
+IX. Emitida la autorización, no se podrá incrementar la superficie enajenable ni excederse el número de lotes y/o viviendas aprobadas, salvo lo dispuesto en el artículo 5.47 de este Libro.
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5725,11 +6101,13 @@ La realización de estas obras se hará del conocimiento público de conformidad
 
 c) Instalar un medidor electrónico de consumo para determinar el volumen del suministro de agua por cada unidad privativa que se ubique en el conjunto urbano autorizado;
 
-d) Presentar a la Secretaría los proyectos ejecutivos, memorias de cálculo y especificaciones técnicas, debidamente aprobados por las autoridades competentes, de las obras de urbanización, infraestructura y equipamiento urbano que establezcan los respectivos acuerdos de autorización, así como las licencias de construcción de las obras de equipamiento urbano.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+d) Presentar a la Secretaría los proyectos ejecutivos, memorias de cálculo y especificaciones técnicas, debidamente aprobados por las autoridades competentes, de las obras de urbanización, infraestructura y equipamiento urbano que establezcan los respectivos acuerdos de autorización.
 
-e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de seis meses contados a partir de la publicación de la autorización en el Periódico Oficial "Gaceta del Gobierno";
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de nueve meses contados a partir de la publicación de la autorización en el Periódico Oficial "Gaceta del Gobierno".
 
 f) Dedicar definitivamente al uso para el que fueron hechas, las instalaciones del conjunto urbano, tales como clubes, construcciones para actividades deportivas, culturales o recreativas y otras que se utilicen como promoción para la venta de lotes;
 
@@ -5771,61 +6149,81 @@ c) Compradores de lotes en bloque.
 
 XII. La promoción y publicidad sobre lotes de un conjunto urbano deberá apegarse a la autorización respectiva y será de tal naturaleza, que permita una adecuada orientación al adquirente. Queda prohibida la propaganda engañosa que ofrezca condiciones, situaciones o bienes que no estén contemplados en la autorización; y
 
-XIII. Los permisos para la venta de los lotes se otorgarán de manera proporcional al avance que presenten en su ejecución las obras de infraestructura, urbanización y equipamiento urbano que establezca la autorización respectiva, cada vez que dichas obras presenten un veinticinco por ciento de avance en su ejecución.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 10 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+XIII. Los permisos para la venta de lotes se otorgarán de la manera siguiente:
+
+a) Un primer permiso por el cincuenta por ciento al inicio de la ejecución de las obras de urbanización, equipamiento e infraestructura.
+
+b) Un segundo permiso por el veinticinco por ciento, cuando se tenga concluido el cincuenta por ciento de las obras señaladas.
+
+c) El restante veinticinco por ciento, cuando se tenga concluido el cien por ciento de dichas obras.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, G.G. 10 DE ENERO DE 2018]</small>
+
+No se otorgará permiso de venta alguno si no se acredita previamente la garantía de las obras de urbanización, equipamiento o infraestructura faltantes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII, G.G. 10 DE ENERO DE 2018]</small>
 
 Para la venta de lotes o vivienda nueva en que intervenga una desarrolladora de conjuntos urbanos, se deberá acreditar por esta ante fedatario público con quien se formalice la operación, estar al corriente en el pago del impuesto predial y de derechos por el suministro de agua, en concordancia con lo establecido en los artículos 107 y 129 del Código Financiero del Estado de México y Municipios, requisito sin el cual no podrá verificarse la compraventa.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XIV. Los Conjuntos Urbanos de Unidades Económicas de Alto impacto, requerirán del Dictamen Único de Factibilidad.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XV. La vivienda en áreas no urbanizables se sujetará a lo establecido en la reglamentación de este Libro y los planes municipales de desarrollo urbano.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2018)</small>
+
+XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en caso de personas jurídicas colectivas, que tengan un atraso igual o mayor al cincuenta por ciento del cumplimiento de las obligaciones que con anterioridad se les hayan fijado en autorizaciones emitidas a su favor, hasta en tanto acrediten su cumplimiento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 #### SECCIÓN SÉPTIMA. De los Condominios
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
 39.- Los recursos económicos que se obtengan con motivo de la ejecución de las garantías que aseguran la construcción y los defectos o vicios ocultos de las obras de infraestructura, urbanización y equipamiento urbano, serán destinados por la Secretaría o el Ayuntamiento correspondiente, a la ejecución de las obras que hayan quedado pendientes de ejecutar por parte del titular de la autorización respectiva o a la reparación de las mismas.
 
-> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
-
-La Secretaría deberá informar a la Comisión Estatal de Factibilidad la forma y términos de aplicación de los recursos obtenidos como ejecución de garantías a que hace referencia el presente artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 10 DE ENERO DE 2018)</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-40.- La subdivisión y fusión de un predio requiere del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y las demás aplicables.
+40.- La subdivisión y fusión de un predio requiere de la previa autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y las demás aplicables.
 
-La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del dictamen correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-41.- Las subdivisiones que impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizadas únicamente en áreas urbanas o urbanizables, de conformidad con la tipología prevista para los conjuntos urbanos.
+41.- Las subdivisiones que impliquen la autorización de treinta o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, quedarán sujetas a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
-La autorización de las subdivisiones a que se refiere el presente artículo, quedará sujeta a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
+#### SECCIÓN OCTAVA. Del Desarrollo Urbano en Ejidos y Comunidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
-
-#### SECCIÓN OCTAVA. Del Plano de Lotificación de las Zonas de Urbanización Ejidal o Comunal
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-42.- La emisión del Dictamen único de Factibilidad y autorización correspondiente de subdivisiones, se sujetará a lo siguiente:
+42.- La autorización de subdivisiones, se sujetará a lo siguiente:
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Solo procederá en los casos siguientes:
 
-a) En áreas urbanas y urbanizables, cuando los lotes resultantes tengan frente a vía pública existente, que cuenten al menos, con los servicios públicos de agua potable y drenaje o que el interesado convenga con el municipio la realización de los mismos;
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-b) En áreas no urbanizables, cuando los lotes resultantes queden con frente a vías públicas existentes o camino vecinal y no se dediquen a fines urbanos o habitacionales;
+a) En áreas urbanas y urbanizables, cuando los lotes resultantes tengan frente a vía pública existente, que cuente al menos, con los servicios públicos de agua potable y drenaje o que el interesado convenga con el municipio la realización de los mismos.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
+b) En áreas no urbanizables, cuando los lotes resultantes queden con frente a vías públicas existentes o camino vecinal y su utilización y aprovechamiento se realice conforme el plan de desarrollo urbano aplicable.
 
 c) Por la apertura, prolongación o ampliación de vías públicas o introducción de redes de infraestructura urbana;
 
@@ -5833,9 +6231,9 @@ d) Cuando provengan de decretos expropiatorios, inmatriculaciones administrativa
 
 e) Las resultantes de predios afectados por la determinación de límites estatales o municipales.
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-II. La dimensión mínima de los lotes resultantes de una subdivisión, será la que determine el plan municipal de desarrollo urbano respectivo. Cuando no exista plan o habiéndolo éste no determine la normatividad aplicable, la Secretaría en coordinación con el municipio respectivo, la establecerá;
+II. La dimensión mínima de los lotes resultantes de una subdivisión, será la que determine el plan municipal de desarrollo urbano respectivo. Cuando no exista plan o habiéndolo éste no determine la normatividad aplicable, el Ayuntamiento la fijará con el apoyo técnico de la Secretaría.
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5897,17 +6295,17 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 46.- La relotificación de conjuntos urbanos, subdivisiones y lotificaciones para condominios, requerirán autorización de la Secretaría e inscripción de los acuerdos respectivos en el Instituto de la Función Registral, de conformidad con lo que establezcan el presente Libro y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-47.- No procederá la relotificación de conjuntos urbanos, subdivisiones y lotificaciones para condominio cuando se pretenda, según el caso de que se trate, incrementar la superficie vendible, el número de lotes, áreas privativas o viviendas así como disminuir las áreas de donación destinadas a equipamiento urbano o las obras de equipamiento urbano originalmente autorizados.
+47.- No procederá la relotificación de conjuntos urbanos, subdivisiones y lotificaciones para condominio cuando se pretenda, según el caso de que se trate, incrementar la superficie vendible, el número de lotes, áreas privativas o viviendas así como disminuir las áreas de donación destinadas a equipamiento urbano o las obras de equipamiento urbano originalmente autorizados, salvo que, y sólo tratándose de la modificación al número de lotes, el solicitante acredite de manera fehaciente que con ello no se incrementa la superficie vendible, ni el número de viviendas o áreas privativas autorizadas.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 #### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5917,55 +6315,53 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 ###### Artículo 5.
 
-49.- Los condominios horizontales, verticales y mixtos, requerirán del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, con antelación a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y la reglamentación aplicable.
+49.- Los condominios horizontales, verticales y mixtos, que incluyan a su vez usos mixtos compatibles, requerirán del Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad, previa autorización de la Secretaría, con antelación a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y la reglamentación aplicable.
 
-La autorización a que hace referencia el presente artículo, deberá ser remitida a la Comisión Estatal de Factibilidad, para la obtención del dictamen correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-50.- Los condominios que impliquen el desarrollo de diez o más viviendas, o en otros usos, con un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizados únicamente en áreas urbanas o urbanizables de conformidad con la tipología prevista para los conjuntos urbanos.
+50.- Para la autorización de los condominios que impliquen el desarrollo de treinta o más viviendas, o en otros usos, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, serán aplicables los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación prevista para el titular de la autorización, de ceder superficies de terreno para vías públicas, así como la relativa a entregar a las autoridades municipales o estatales de la materia, las obras de urbanización y equipamiento del condominio.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+Los titulares de los condominios que se proyecte realizar en lotes provenientes de conjuntos urbanos o subdivisiones autorizados, cuya venta haya sido igualmente autorizada y en los cuales se hayan aprobado las normas de uso y aprovechamiento del suelo de los lotes mencionados, no estarán afectos a la obligación de obtener permisos de venta, ejecutar obras ni donar áreas para equipamiento urbano.
 
-Para la autorización de los condominios a que se refiere el presente artículo, serán aplicables los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación prevista para el titular de la autorización, de ceder superficies de terreno para vías públicas, así como la relativa a entregar a las autoridades municipales o estatales de la materia, las obras de urbanización y equipamiento del condominio.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Los titulares de los condominios que se proyecte realizar en lotes provenientes de conjuntos urbanos o subdivisiones autorizados, en las cuales se hayan aprobado las normas de uso y aprovechamiento del suelo de los lotes mencionados, no estarán afectos a la obligación de ejecutar obras ni de donar áreas para equipamiento urbano.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 #### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-51.- En condominios horizontales, verticales y mixtos habitacionales sociales progresivos, de interés social y popular, así como en los condominios horizontales y mixtos de tipo medio, residencial y residencial alto, el número máximo de viviendas será de sesenta por cada predio o lote resultante de la subdivisión o conjunto urbano.
+51.- En condominios horizontales y verticales habitacionales y mixtos, el número máximo de viviendas deberá ser concordante con la densidad y normatividad establecidas en los planes municipales de desarrollo urbano.
 
-En condominios verticales habitacionales de tipo medio, residencial y residencial alto, el número máximo de viviendas será de ciento veinte por cada predio o lote resultante de la subdivisión o conjunto urbano.
+Tratándose de condominios horizontales, se deberá contar con una administración condominal hasta por cada sesenta viviendas y en condominios verticales, una administración condominal por cada edificio. En condominios que incluyan usos mixtos compatibles, la administración condominal comprenderá los condominios horizontales o verticales según corresponda y conforme la autorización respectiva.
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
-
-###### Artículo 5.
-
-52.- El trámite y emisión del Dictamen Único de Factibilidad para condominios se sujetará a lo dispuesto en la reglamentación aplicable.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
-53.- La localización, deslinde y fraccionamiento de la zona de urbanización ejidal o comunal y su reserva de crecimiento requerirá aprobación previa del plano de lotificación por parte de la Secretaría.
+52.- El trámite y emisión del Dictamen Único de Factibilidad para condominios se sujetará a lo dispuesto en los ordenamientos legales aplicables.
 
-Para tal efecto, la asamblea de ejidatarios o de comuneros respectiva, deberá sujetarse a las disposiciones de este Libro, su reglamentación, los planes de desarrollo urbano y demás disposiciones jurídicas de la materia.
+> <small>(REFORMADO SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
+
+###### Artículo 5.
+
+53.- El aprovechamiento con fines urbanos de áreas y predios ejidales o comunales que se encuentren localizados dentro de los perímetros de los centros de población, conforme los planes municipales de desarrollo urbano respectivos, o que formen parte de las zonas de urbanización ejidal y de las tierras del asentamiento humano, estarán sujetos a las disposiciones de este Libro y su Reglamento.
+
+Todo acto de urbanización, transmisión o incorporación al desarrollo urbano de áreas y predios ejidales o comunales, deberá contar con autorizaciones de impacto urbano, uso y aprovechamiento del suelo, fusión y división del suelo o construcción y edificación, por parte de las autoridades estatales y municipales correspondientes, conforme este Libro, su reglamento y demás ordenamientos legales municipales aplicables.
+
+No se inscribirá en el Instituto de la Función Registral del Estado de México, título alguno de dominio pleno, de cesión de derechos parcelarios o cualquier otro acto tendente a la subdivisión, fraccionamiento, parcelamiento o pulverización de la propiedad sujeta al régimen agrario, ubicada en áreas urbanas y urbanizables de un centro de población, si no cumple con las autorizaciones correspondientes emitidas de conformidad con este Libro y su reglamento.
+
+Los fedatarios públicos no podrán dar fe ni intervenir en ese tipo de operaciones, sin que antes se acredite ante ellos que se han otorgado las autorizaciones correspondientes.
+
+Tratándose de la constitución, ampliación y delimitación de la zona de urbanización ejidal y su reserva de crecimiento, así como de la regularización de la tenencia de predios que cuenten con asentamientos humanos irregulares, la asamblea ejidal o de comuneros deberá ajustarse a lo establecido en este Libro, su reglamento y los planes municipales de desarrollo urbano, así como en lo previsto por las normas oficiales mexicanas aplicables en la materia. En estos casos se requerirá la intervención de los municipios respectivos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-54.- Los interesados en conocer los usos del suelo, la densidad de vivienda, el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo y la altura de edificaciones y las restricciones de índole federal, estatal y municipal, que para un predio o inmueble determinado establezca el plan municipal de desarrollo urbano correspondiente, podrán solicitar a la autoridad competente la expedición de una cédula informativa de zonificación, la cual no constituirá autorización alguna y tendrá únicamente carácter informativo así como vigencia de un año.
+54.- Los interesados en conocer los usos del suelo, la densidad de vivienda, el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo y la altura de edificaciones y las restricciones de índole federal, estatal y municipal, que para un predio o inmueble determinado establezca el plan municipal de desarrollo urbano correspondiente, podrán solicitar a la autoridad competente la expedición de una cédula informativa de zonificación, la cual no constituirá autorización alguna y tendrá únicamente carácter informativo y estará vigente en tanto no se modifique el plan del que deriva.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5979,7 +6375,7 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 ###### Artículo 5.
 
-55.- El uso y aprovechamiento con fines urbanos o la edificación en cualquier predio ubicado en la entidad, requerirá licencia de uso del suelo de conformidad con lo dispuesto en este Libro.
+55.- El uso y aprovechamiento con fines urbanos o la edificación en cualquier predio ubicado en la entidad, requerirá licencia de uso del suelo de conformidad con lo dispuesto en este Libro y su Reglamento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6023,19 +6419,19 @@ III. Se recabe previamente la opinión favorable de la Comisión de Planeación 
 
 En caso de no estar instalada tal Comisión, la autoridad encargada del desarrollo urbano municipal y previo dictamen técnico que elabore, emitirá su opinión; y
 
-> <small>(REFORMADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
 
-IV. Tratándose de cambios a usos del suelo de impacto urbano, se requerirá el Dictamen Único de Factibilidad y demás requisitos que establezca la reglamentación.
+IV. Tratándose de cambios a usos del suelo de impacto urbano, se requerirá del Dictamen Único de Factibilidad.
 
 > <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 Cuando se trate de cambios a usos de suelo de impacto urbano, los municipios deberán remitir mensualmente de manera física o electrónica al sistema estatal, copia certificada signada con firma autógrafa, electrónica avanzada o sello electrónico en su caso, de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO ÚNICO. Del Sistema Estatal
+### CAPÍTULO TERCERO. De la Resiliencia Urbana
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 #### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
 
@@ -6043,13 +6439,53 @@ Cuando se trate de cambios a usos de suelo de impacto urbano, los municipios deb
 
 ###### Artículo 5.
 
-58.- La Secretaría establecerá y mantendrá actualizado el Sistema Estatal, el cual tendrá por objeto recabar, organizar, generar y aplicar en los procesos de planeación, regulación, control y evaluación del desarrollo urbano, la información relativa a los asentamientos humanos y el desarrollo urbano de los centros de población en el territorio estatal.
+57 Bis.- En materia de resiliencia urbana, se observará lo siguiente:
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+I. Los planes de desarrollo urbano que integran el sistema estatal de planeación urbana, identificarán las zonas de riesgos para el asentamiento humano y, establecerán las regulaciones a que estarán sujetas.
+
+II. Previo a la emisión de licencias, autorizaciones y permisos sobre la utilización y aprovechamiento del suelo en zonas de alto riesgo geológico e hidrometeorológico, se deberá de contar con el correspondiente estudio de prevención de riesgos en términos de la legislación aplicable.
+
+III. En ningún caso, podrán asignarse usos o aprovechamientos para fines urbanos o para el asentamiento humano, en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas.
+
+IV. En las zonas de alto riesgo, estará prohibido realizar obras o edificaciones de carácter permanente.
+
+V. Las zonas consideradas como no mitigables, serán clasificadas por los planes de desarrollo urbano como no urbanizables.
+
+VI. Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones y competencias, deberán asegurarse que en la expedición de autorizaciones de conjuntos urbanos, subdivisiones y lotificaciones para condominio, así como para el uso o aprovechamiento del suelo y de construcciones o edificaciones, se cumpla con las normas sobre prevención de riesgos y se tomen las medidas correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
 #### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 5.
+
+57 Ter.- Los planes de desarrollo urbano, en apoyo a las políticas y programas para la movilidad, deberán considerar:
+
+I. La accesibilidad universal de las personas, para garantizar la máxima interconexión entre vialidades, medios de transporte, rutas y destinos, priorizando la movilidad peatonal y no motorizada.
+
+II. La distribución equitativa del espacio público de vialidades, para los diferentes tipos de usuarios.
+
+III. Los usos del suelo mixtos, la distribución jerárquica de equipamientos y una mayor flexibilidad en las alturas y densidades de las edificaciones, y flexibilidad en las normas de estacionamiento en desarrollos aledaños a estaciones de transporte masivo.
+
+IV. La integración de innovación tecnológica de punta.
+
+V. El diseño de la estructura vial de los centros de población y la interconexión vial regional, para facilitar la movilidad y la implementación de programas que, entre otros fines, desestimulen la dependencia del automóvil particular y favorezcan el desarrollo de nuevas alternativas al transporte público.
+
+VI. Las demás acciones en la materia, que resulten acordes a las características de cada localidad.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 5.
+
+58.- La Secretaría establecerá y mantendrá actualizado el Sistema Estatal, el cual tendrá por objeto recabar, organizar, generar y aplicar en los procesos de planeación, regulación, control y evaluación del desarrollo urbano, la información relativa a los asentamientos humanos y el desarrollo urbano de los centros de población en el territorio estatal.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -6079,15 +6515,19 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
 60.- Las autoridades estatales y municipales en materia de desarrollo urbano, deberán remitir de manera mensual al Sistema Estatal, la información y documentación certificada de las autorizaciones que generen en el ámbito de su competencia y que conforme al artículo anterior deban integrarse a dicho sistema.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
+### CAPÍTULO CUARTO. De la Movilidad Urbana
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -6097,9 +6537,9 @@ Las medidas de seguridad tendrán por objeto evitar la consolidación de accione
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+### CAPÍTULO ÚNICO. Del Sistema Estatal
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -6114,6 +6554,10 @@ III. Evacuación o desalojo de personas y bienes;
 IV. Cualquiera otra acción o medida que tienda a garantizar el orden legal y el estado de derecho, así como evitar daños a personas en su integridad física o en su patrimonio.
 
 Las autoridades de desarrollo urbano para hacer cumplir las medidas de seguridad que determinen, podrán requerir la intervención de la fuerza pública y la participación de las autoridades administrativas que sean necesarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6135,21 +6579,17 @@ III. Revocación de las autorizaciones, licencias o permisos otorgados;
 
 IV. Multa, atendiendo a la gravedad de la infracción:
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto urbano.
+a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen los acuerdos de autorización de los conjuntos urbanos y de los usos que generan impacto urbano.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
-b) De diez a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que transgredan disposiciones jurídicas en la materia, incumplimientos de obligaciones establecidas en los acuerdos de autorizaciones emitidas por las autoridades estatales o municipales correspondientes.
+b) De diez a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que transgredan disposiciones jurídicas en la materia, incumplimientos de obligaciones establecidas en los acuerdos de autorizaciones emitidas por las autoridades estatales o municipales correspondientes, diversos a los señalados en el inciso anterior.
 
 Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntamente con cualquiera de las sanciones contempladas en las fracciones I a III de este artículo.
 
 Las autoridades estatales y municipales en materia de desarrollo urbano podrán solicitar la intervención de la Secretaría de Finanzas y de las Tesorerías Municipales respectivas para exigir el pago de las multas que no se hubieren cubierto por los infractores en los plazos señalados.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6161,110 +6601,6 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 5.
-
-65.- La licencia de construcción tendrá por objeto autorizar:
-
-I. La obra nueva;
-
-II. La construcción de edificaciones en régimen de condominio;
-
-III. La ampliación o modificación de la obra existente;
-
-IV. La reparación de una obra existente;
-
-V. La demolición parcial o total;
-
-VI. La excavación y relleno;
-
-VII. La construcción de bardas;
-
-VIII. Las obras de conexión de agua potable y drenaje, realizadas por particulares;
-
-IX. El cambio de la construcción existente a régimen de condominio;
-
-X. La ocupación de la vía pública;
-
-XI. La modificación del proyecto de una obra autorizada;
-
-XII. La construcción e instalación de antenas para radiotelecomunicaciones y de anuncios publicitarios que requieran de elementos estructurales.
-
-La licencia de construcción podrá autorizar uno o más de los rubros señalados, conforme a las necesidades del solicitante y en el caso de las fracciones I, II, III y IX, podrá autorizarse simultáneamente con la licencia de uso del suelo.
-
-###### Artículo 5.
-
-66.- A la solicitud de licencia municipal para construcción se acompañará el documento que acredite la propiedad o posesión del predio, y de acuerdo al tipo de autorización que se solicite, se anexará lo siguiente:
-
-I. Para obra nueva, así como para la ampliación, modificación o reparación que afecte elementos estructurales de una obra existente:
-
-a) Licencia de uso del suelo vigente;
-
-b) Planos arquitectónicos del proyecto, y en el caso de construcciones menores de sesenta metros cuadrados, croquis arquitectónico de la obra. Tratándose de ampliación, modificación o reparación de la construcción existente, se señalarán las superficies, ubicación y uso de ésta;
-
-c) Planos estructurales. Tratándose de usos de impacto regional, además, la memoria de cálculo correspondiente;
-
-d) Planos y memoria de cálculo de instalaciones hidráulica, sanitaria, eléctrica y especiales, tratándose de usos de impacto regional;
-
-f) Los dictámenes técnicos que, en su caso, se señalen en la respectiva licencia de uso del suelo.
-
-II. Para construcciones en régimen de condominio, además de lo señalado en la fracción anterior, se acompañará el reglamento interior del condominio;
-
-III. Para reparación que no afecte elementos estructurales de una obra existente: croquis arquitectónico de la construcción, señalando el área donde se va a realizar la reparación;
-
-IV. Para demolición parcial o total:
-
-a) Croquis arquitectónico de la construcción existente, indicando el área a demoler;
-
-b) Memoria y programa del proceso de demolición.
-
-No se requerirá licencia para demolición, cuando ésta sea ordenada por autoridad administrativa o judicial competente, como resultado de la aplicación de una medida de seguridad o sanción.
-
-V. Para excavación o relleno:
-
-a) Croquis de localización del área donde se va a realizar;
-
-b) Memoria y programa del procedimiento respectivo.
-
-VI. Para construcción de barda: croquis arquitectónico, indicando las dimensiones de la misma;
-
-VII. Para conexión de agua potable y drenaje y sus obras:
-
-a) Autorización de la conexión correspondiente;
-
-b) Croquis de la obra a realizar.
-
-VIII. Para cambio de la construcción existente a régimen de condominio:
-
-a) Licencia de uso del suelo vigente;
-
-b) Planos arquitectónicos, en los que se indiquen los pisos, departamentos, viviendas o locales que serán áreas privativas o del dominio exclusivo de los condóminos, los elementos comunes de la construcción y las áreas de uso común del predio, así como tabla de indivisos y memoria descriptiva de las instalaciones;
-
-c) Reglamento interior del condominio.
-
-IX. Para ocupación temporal de la vía pública:
-
-a) Croquis, señalando ubicación, superficie y tipo de material;
-
-b) Licencia de construcción vigente, en su caso.
-
-X. Para modificación del proyecto de una obra autorizada:
-
-a). Licencia de construcción vigente o, en su caso, constancia de suspensión voluntaria de obra;
-
-b). Planos de las modificaciones arquitectónicas y estructurales; tratándose de usos de impacto regional, la correspondiente memoria de cálculo.
-
-XI. Para la construcción e instalación de antenas para radiotelecomunicaciones y de anuncios publicitarios que requieran elementos estructurales: planos y memoria de cálculo de la estructura sustentante.
-
-Cuando así proceda, las licencias de uso del suelo y de construcción se podrán acreditar con la exhibición en copia simple de la que hubiese emitido la autoridad municipal respecto de la obra en cuestión, o en su defecto, proporcionar los datos necesarios para su identificación en los archivos de la propia autoridad.
-
 ###### Artículo 5.
 
 67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
@@ -6273,9 +6609,9 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -6297,7 +6633,7 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6337,9 +6673,9 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6377,7 +6713,7 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6391,7 +6727,7 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6401,9 +6737,9 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6567,7 +6903,7 @@ XXV. Las demás que le confieren este Libro y las demás disposiciones legales a
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6637,9 +6973,9 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO QUINTO. De los grupos voluntarios
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6669,9 +7005,9 @@ Los grupos voluntarios estarán integrados por personas físicas o morales con c
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO SEXTO. De las unidades internas
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6713,9 +7049,9 @@ Las Unidades Internas de Protección Civil, son la primera instancia de actuaci�
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6739,9 +7075,9 @@ El desarrollo del programa de protección civil de las unidades hospitalarias, d
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6777,9 +7113,9 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6993,15 +7329,15 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Clasificación
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De los conductores y propietarios
+### CAPITULO PRIMERO. Clasificación
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7013,9 +7349,9 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De los vehículos
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -7035,7 +7371,7 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO TERCERO. De los conductores y propietarios
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7057,7 +7393,7 @@ III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las concesiones y permisos
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7097,7 +7433,7 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO SEGUNDO. De las obligaciones de los concesionarios y permisionarios
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7181,9 +7517,9 @@ IV. Informar a los propietarios o poseedores de las unidades de manera pronta y 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO TERCERO. De las concesiones y permisos
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -7253,9 +7589,9 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
+### CAPITULO CUARTO. De la terminación y revocación
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -7415,9 +7751,9 @@ XXIII. Las demás que señalen este Libro y otras disposiciones legales, reglame
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
-### CAPITULO TERCERO. De las Concesiones
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7463,9 +7799,9 @@ La intervención durará estrictamente el tiempo por el que subsista la causa qu
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
+### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -7511,7 +7847,7 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
+### CAPITULO TERCERO. De las Concesiones
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7631,7 +7967,7 @@ XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
+### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7673,9 +8009,9 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7699,9 +8035,9 @@ VIII. Las establecidas por otras disposiciones generales administrativas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 #### SECCION SEGUNDA. De la prestación del servicio
 
@@ -8051,9 +8387,9 @@ Las especificaciones para los equipos de salvamento y arrastre quedarán estable
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO PRIMERO. De las medidas de seguridad
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 #### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
 
@@ -8133,9 +8469,9 @@ La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los f
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPÍTULO SEGUNDO. De las infracciones y sanciones
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
 
@@ -8275,7 +8611,9 @@ Las autoridades estatales competentes en materia de salubridad y preservación d
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
@@ -8383,7 +8721,9 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -8397,7 +8737,7 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De los conductores
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -8545,7 +8885,7 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO PRIMERO. De los estacionamientos de servicio al público
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 8.
 
@@ -8557,9 +8897,7 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial, así como llevar a cabo un efectivo registro de aquellas unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
 
-### CAPÍTULO SEGUNDO. De los Vehículo (sic) Abandonados en Estacionamientos de Servicio al Público y en Infraestructura Vial
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 8.
 
@@ -8569,9 +8907,7 @@ Corresponde a la Secretaría de Seguridad ejercer las atribuciones relativas al 
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+### CAPITULO PRIMERO. De los estacionamientos de servicio al público
 
 ###### Artículo 8.
 
@@ -8633,9 +8969,9 @@ Las autoridades deberán presentar a los conductores ante el Oficial Calificador
 
 Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial "Gaceta del Gobierno", en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPÍTULO SEGUNDO. De los Vehículo (sic) Abandonados en Estacionamientos de Servicio al Público y en Infraestructura Vial
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
@@ -8715,9 +9051,9 @@ De igual forma se exceptúa de esta prohibición el transporte y traslado de ár
 
 15.- Las autoridades de tránsito podrán establecer restricciones para el tránsito de vehículos con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público.
 
-### CAPITULO TERCERO. De las organizaciones de productores
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 8.
 
@@ -8793,7 +9129,9 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-### CAPITULO PRIMERO. De la producción y transformación
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 8.
 
@@ -8803,7 +9141,9 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO TERCERO. De las organizaciones de productores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 8.
 
@@ -9087,7 +9427,7 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 9.
 
@@ -9099,7 +9439,7 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias, de la acuacultura, apicultura y el agave para contribuir al desarrollo rural del Estado.
 
-### CAPITULO CUARTO
+### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 9.
 
@@ -9117,7 +9457,7 @@ IV. Las demás que señale este Libro, su Reglamento y otras disposiciones jurí
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 9.
 
@@ -9131,9 +9471,7 @@ Se entiende por productor rural a la persona física que directa o indirectament
 
 ## TITULO SEGUNDO. Del Fomento y Desarrollo de las Actividades Agropecuarias, de la Acuacultura, Apicultura y el Agave
 
-### CAPITULO PRIMERO. De las Medidas Sanitarias
-
-> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
+### CAPITULO CUARTO
 
 ###### Artículo 9.
 
@@ -9175,9 +9513,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO SEGUNDO. De las Infracciones y Sanciones
-
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.G. 6 DE JUNIO DE 2016)</small>
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 9.
 
@@ -9207,7 +9543,9 @@ VII. La integración de cadenas productivas, y mecanismos que permitan la obtenc
 
 VIII. La certificación en la calidad, inocuidad y producción orgánica de los productos y subproductos agropecuarios, de la acuacultura, apicultura y el agave.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO PRIMERO. De las Medidas Sanitarias
+
+> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 #### SECCION SEGUNDA. De la licitación pública
 
@@ -9321,7 +9659,9 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO SEGUNDO. De las Infracciones y Sanciones
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -9335,9 +9675,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -9377,7 +9715,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 9.
 
@@ -9413,7 +9751,9 @@ X. Las demás que establezca el Reglamento.
 
 > <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO TERCERO. De los consejos consultivos económicos
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
@@ -9477,7 +9817,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 10.
 
@@ -9489,7 +9829,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 10.
 
@@ -9505,7 +9845,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 #### SECCION CUARTA. De la invitación restringida
 
@@ -9539,7 +9879,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 10.
 
@@ -9555,7 +9895,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 10.
 
@@ -9571,7 +9911,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 10.
 
@@ -9587,7 +9927,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 10.
 
@@ -9647,7 +9987,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
 ###### Artículo 11.
 
@@ -9663,7 +10003,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 11.
 
@@ -9683,7 +10023,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 11.
 
@@ -9691,7 +10031,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 11.
 
@@ -9711,7 +10051,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 11.
 
@@ -9723,9 +10063,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
-
-> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.36 "... El Gobierno del Estado, a través de la Secretaría de Educación y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 11.
 
@@ -9749,7 +10087,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 11.
 
@@ -9783,7 +10121,9 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.36 "... El Gobierno del Estado, a través de la Secretaría de Educación y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -9805,9 +10145,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
 ###### Artículo 11.
 
@@ -9827,9 +10165,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
 
 ###### Artículo 11.
 
@@ -9841,9 +10177,9 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -9851,7 +10187,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9865,9 +10201,9 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -9909,7 +10245,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10081,7 +10417,7 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10215,7 +10551,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10421,9 +10757,9 @@ XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. Del Procedimiento de Evaluación de Confianza de los Responsables del Seguimiento de la Obra Pública
+### CAPITULO SEPTIMO. De la información, verificación y control
 
-> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -10575,9 +10911,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -10691,7 +11027,9 @@ Las dependencias y entidades deberán presentar a la Secretaría de Finanzas o a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO NOVENO. Del Procedimiento de Evaluación de Confianza de los Responsables del Seguimiento de la Obra Pública
+
+> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
@@ -10721,7 +11059,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 12.
 
@@ -10747,7 +11087,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO PRIMERO. Parte general
 
 ###### Artículo 12.
 
@@ -10827,7 +11167,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 ###### Artículo 12.
 
@@ -10859,7 +11199,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO TERCERO. De la sistematización
 
 ###### Artículo 12.
 
@@ -10877,7 +11217,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 ###### Artículo 13.
 
@@ -10913,9 +11253,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+### CAPITULO QUINTO. De los catálogos
 
 ###### Artículo 13.
 
@@ -10951,7 +11289,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 ###### Artículo 13.
 
@@ -10963,7 +11301,9 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 13.
 
@@ -10971,7 +11311,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO OCTAVO. De las enajenaciones
 
 ###### Artículo 13.
 
@@ -10983,7 +11323,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO NOVENO. De los contratos
 
 ###### Artículo 13.
 
@@ -11007,7 +11347,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO. De las garantías
 
 #### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
 
@@ -11129,7 +11469,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LA SECCIONE Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 ###### Artículo 13.
 
@@ -11179,7 +11519,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
 ###### Artículo 13.
 
@@ -11223,9 +11563,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
 ###### Artículo 13.
 
@@ -11241,9 +11579,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
 ###### Artículo 13.
 
@@ -11255,7 +11591,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11277,7 +11613,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11287,7 +11623,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11321,7 +11657,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11597,7 +11933,9 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO PRIMERO. Del IGECEM
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -11841,7 +12179,9 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -11877,7 +12217,7 @@ La información a la que alude el párrafo anterior deberá estar alineada con l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 14.
 
@@ -11917,7 +12257,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO II. De la dirección del periódico oficial
 
 ###### Artículo 14.
 
@@ -12117,7 +12457,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 ###### Artículo 14.
 
@@ -12189,7 +12529,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 ###### Artículo 15.
 
@@ -12225,9 +12565,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+### CAPITULO V. De la fe de erratas
 
 ###### Artículo 15.
 
@@ -12247,9 +12585,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
 ###### Artículo 15.
 
@@ -12277,7 +12613,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12303,7 +12639,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12325,7 +12661,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12343,7 +12679,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12439,7 +12775,7 @@ Las disposiciones administrativas que se emitan de conformidad a la facultad pre
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12475,7 +12811,7 @@ En las autorizaciones, la Secretaría podrá requerir que la Unidad Contratante 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12557,7 +12893,7 @@ De aprobarse por la Legislatura el incremento en el presupuesto a que se refiere
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12601,7 +12937,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12621,7 +12957,7 @@ Dichas evaluaciones deberán ser públicas y podrán consultarse mediante la pá
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12643,7 +12979,7 @@ Dichas evaluaciones deberán ser públicas y podrán consultarse mediante la pá
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12687,7 +13023,7 @@ X. Enviar a la Secretaría dentro de los 10 días hábiles posteriores de cada t
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12703,7 +13039,7 @@ X. Enviar a la Secretaría dentro de los 10 días hábiles posteriores de cada t
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12801,7 +13137,7 @@ En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12829,7 +13165,7 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12859,7 +13195,7 @@ IV. Las demás que establezca el reglamento de este Libro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12899,9 +13235,9 @@ Con el objeto de brindar difusión y publicidad a los procesos de contratación 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -13111,9 +13447,9 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
@@ -13157,9 +13493,9 @@ La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el P
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -13185,7 +13521,7 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13215,7 +13551,7 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del derecho de vía
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13259,7 +13595,7 @@ IV. La situación específica del infractor.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13339,7 +13675,7 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Del derecho de vía
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13445,7 +13781,7 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del plazo
+### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13513,9 +13849,9 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13549,7 +13885,7 @@ IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO SEGUNDO. Del plazo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13635,9 +13971,9 @@ Si dentro de este plazo no fuere reclamado dicho material, la autoridad queda fa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. De los dictámenes
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13863,7 +14199,7 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
+### CAPITULO CUARTO. De la terminación y revocación
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13955,9 +14291,9 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO QUINTO. De los dictámenes
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
@@ -14057,9 +14393,9 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
+### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14233,9 +14569,9 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -14283,9 +14619,9 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -14333,9 +14669,9 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -14449,9 +14785,9 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las normas técnicas
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14553,9 +14889,9 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
+### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14673,9 +15009,9 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De las licencias de construcción
+### CAPITULO TERCERO. De las normas técnicas
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14819,9 +15155,9 @@ Si el retiro es ordenado como consecuencia de una sanción o resolución que pon
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los permisos de obra
+### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -14881,9 +15217,9 @@ XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovech
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las constancias
+### CAPITULO PRIMERO. De las licencias de construcción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14943,7 +15279,7 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De los lineamientos de diseño
+### CAPITULO SEGUNDO. De los permisos de obra
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15053,9 +15389,9 @@ Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO SEGUNDO. De los lineamientos del proyecto
+### CAPITULO TERCERO. De las constancias
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -15307,7 +15643,7 @@ e) Responder de cualquier violación a las disposiciones de este Libro relativas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+### CAPITULO PRIMERO. De los lineamientos de diseño
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15561,7 +15897,7 @@ III. Se deberán solicitar dentro de la vigencia de la licencia o permiso tempor
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15617,7 +15953,7 @@ Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15667,9 +16003,9 @@ La solicitud de emisión de la constancia podrá hacerse de manera física o ele
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las prevenciones estructurales
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15747,7 +16083,7 @@ Las edificaciones y obras que produzcan contaminación por humos, olores, gases,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. De las demoliciones y excavaciones
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15785,9 +16121,9 @@ Asimismo, deberán contar con áreas de dispersión y espera dentro de los predi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+### CAPITULO TERCERO. De las prevenciones estructurales
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -15833,7 +16169,7 @@ El proyecto considerará una estructura que cumpla con los requisitos que establ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De las visitas de verificación
+### CAPITULO CUARTO. De las demoliciones y excavaciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15857,7 +16193,7 @@ Las Normas Técnicas definirán los requisitos específicos de materiales y sist
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15933,7 +16269,7 @@ En los supuestos anteriores, en caso de enajenación, el vendedor entregará cop
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO PRIMERO. De las visitas de verificación
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15995,7 +16331,7 @@ Los materiales, desechos y escombros provenientes de una demolición deben ser r
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. Del recurso de inconformidad
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16031,9 +16367,9 @@ Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -16113,9 +16449,9 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
+### CAPITULO CUARTO. Del recurso de inconformidad
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -16125,7 +16461,7 @@ Las medidas de seguridad serán de ejecución inmediata y durarán todo el tiemp
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las asociaciones inmobiliarias
+### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16183,7 +16519,7 @@ La imposición y cumplimiento de las sanciones no exime al infractor de la oblig
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO UNICO. Del registro
+### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16323,7 +16659,7 @@ b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incump
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. Atribuciones de la Secretaría
+### CAPITULO TERCERO. De las asociaciones inmobiliarias
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16379,7 +16715,7 @@ XI. Usuario: A las personas físicas o jurídico colectivas que contratan a pres
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De la Comisión
+### CAPITULO UNICO. Del registro
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16467,7 +16803,7 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO I. De las visitas de inspección y vigilancia
+### CAPITULO PRIMERO. Atribuciones de la Secretaría
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16489,7 +16825,7 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De la Comisión
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -16520,6 +16856,10 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 ## TITULO TERCERO. Del registro de prestadores de servicios inmobiliarios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO I. De las visitas de inspección y vigilancia
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
@@ -16582,6 +16922,10 @@ f) Registro Federal de Contribuyentes.
 ## TITULO CUARTO. De la Secretaría
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO SEGUNDO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
@@ -18936,3 +19280,13 @@ G.G. 15 DE DICIEMBRE DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+G.G. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 273.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
