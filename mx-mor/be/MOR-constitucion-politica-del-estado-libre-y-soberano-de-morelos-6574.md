@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-12-13"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1714,7 +1714,7 @@ IX.- Visitar el Estado en sus correspondientes municipios, ya sea personalmente 
 
 Dentro del proceso de la planeación y programación democrática, así como de las acciones de evaluación y los ajustes que de ello puedan derivarse, las visitas y en general todas las acciones deberán considerar invariablemente la presencia y participación del Presidente Municipal del lugar al que corresponda, del diputado local del distrito respectivo y de la Comisión que del H. Congreso del Estado corresponda.
 
-X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
+X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de ésta Constitución.
 
 XI.- (DEROGADA, P.O. 22 DE JULIO DE 2015)
 
@@ -2174,7 +2174,9 @@ Asimismo, por lo que corresponde a los trabajos de planeación de las auditoría
 
 A.- La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos tendrá las siguientes facultades:
 
-I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+
+I.- Fiscalizar los ingresos, egresos, la deuda pública, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
 
 También fiscalizará directamente los recursos federales que administren o ejerzan, los municipios, los que se destinen y se ejerzan por cualquier entidad, persona física o moral pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes aplicables y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
@@ -2184,9 +2186,9 @@ Si del estudio que se realice aparecieran discrepancias entre las cantidades cor
 
 Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestal de los recursos del Estado y de los municipios que les sean transferidos y asignados de acuerdo con los criterios que se establezcan constitucional y legalmente, garantizando que los recursos económicos de que dispongan se administren con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
-
 La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos podrá solicitar y revisar, en cualquier momento la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que respectivamente se tengan que emitir, deberán observar en todo momento el apego a la normatividad aplicable.
+
+También podrá solicitar y revisar, derivado de denuncias y con la previa autorización de su Titular, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales en términos de la norma aplicable. Las observaciones y recomendaciones que respectivamente emita la Entidad Superior de Auditoría y Fiscalización sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 Las entidades fiscalizadas, previa convocatoria, participarán en los Comités de Solventación que señala la ley, a fin de exponer lo que a su derecho convenga. Las determinaciones del Comité de Solventación podrán ser revisadas mediante el recurso de reconsideración que conocerá el Auditor Especial responsable de la Cuenta Pública a revisión.
 
@@ -5247,6 +5249,14 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango que se oponga
 P.O. 13 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y SEIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE MEJORA REGULATORIA".]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN I DEL APARTADO A DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, SOBRE LAS FACULTADES DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN".]
 
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
