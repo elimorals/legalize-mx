@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2017-09-16"
+last_updated: "2018-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -560,6 +560,10 @@ III. Programa Estatal Especial Concurrente (PEEC).- Programa que aglutina una se
 IV. Programa de Extensionismo Rural.- Programa de apoyo institucional al sector rural, operado directamente por la Secretaría, que tiene como fin cubrir necesidades emergentes e imprevistas del Consejo Zacatecano, Ayuntamientos, Coordinaciones Distritales, Sistemas Producto y Organizaciones, en materia de asistencia técnica; proporcionando el acceso a recursos humanos especializados en temas y trabajos específicos.
 
 V. Programa Estatal de Autosuficiencia Alimentaria.- Programa encaminado a lograr la satisfacción de las necesidades alimenticias de la población, a través de la producción local de alimentos, con el objeto de que se garantice a la población rural en todo momento el acceso a alimentos suficientes, inocuos y nutritivos.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+
+VI. Programa Estatal del Suelo: Programa encaminado a proteger, conservar, restaurar y aprovechar el suelo de uso agrícola bajo los principios señalados en la presente Ley.
 
 De las Organizaciones
 
@@ -1567,7 +1571,7 @@ LIC. ENRIQUE GUADALUPE FLORES MENDOZA.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O.16 DE JULIO DE 2016.
+P.O. 16 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 601.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
 
@@ -1580,3 +1584,11 @@ P.O. 16 DE SEPTIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE, LEY DE FOMENTO A LA GANADERÍA, LEY DE DESARROLLO FORESTAL SUSTENTABLE, LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, TODAS DEL ESTADO DE ZACATECAS, EN MATERIA DE PROTECCIÓN DE SUELOS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
