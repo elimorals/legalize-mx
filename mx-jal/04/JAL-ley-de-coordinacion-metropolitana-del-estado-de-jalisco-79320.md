@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2017-05-30"
+last_updated: "2018-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -64,6 +64,38 @@ II. Coordinación: las instancias contempladas en esta ley son instrumentos cuyo
 III. Consenso: siempre deben privilegiarse los mecanismos que propicien la toma de decisiones mediante acuerdos consensuados entre los municipios o en las instancias de coordinación, y
 
 IV. Eficacia: el fin último de la coordinación y asociación municipal es el más eficaz desempeño de las funciones y prestación de servicios municipales.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 3º.
+
+Conceptos de la ley.
+
+1. Agenda: la Agenda Metropolitana es el Mecanismo de actualización periódica que define las prioridades y las materias de interés especial para el Área Metropolitana correspondiente, que se define y se expide directamente por la Junta de Coordinación Metropolitana de conformidad a la legislación en la materia.
+
+2. Agencia: la Agencia Metropolitana es la Instancia de Coordinación Metropolitana abocada a establecer los objetivos y estrategias y llevar a cabo acciones en una de las materias de interés metropolitano que, por su complejidad, requiere de un órgano enfocado a ella específicamente.
+
+3. Área metropolitana: es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarado oficialmente con ese carácter por decreto del Congreso del Estado.
+
+4. Banco de Proyectos Metropolitanos: es el mecanismo que administra el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda que identifica, evalúa, prioriza y programa los proyectos con impacto metropolitano en relación a su capacidad para atender las prioridades metropolitanas y que pueden ser objeto de las fuentes de financiamiento de las acciones metropolitanas, contemplando, entre otros, el fondo metropolitano.
+
+5. Desarrollo metropolitano urbano: es el proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en un Área Metropolitana, que, por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones; busca garantizar el mejoramiento de la calidad de vida de la población, preservar el ambiente, así como la conservación y reproducción de los recursos naturales.
+
+6. Dictamen de Impacto Urbano Metropolitano: es el documento técnico que expide el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, en su carácter de órgano técnico del Régimen de Coordinación Metropolitana, donde se avala el impacto positivo que debe generar un proyecto que pretende ser financiado con recursos del Fondo Metropolitano.
+
+7. Fideicomiso: el Fideicomiso Metropolitano es el instrumento público administrativo y de inversión a través del cual se ejercerán los recursos del Fondo Metropolitano.
+
+8. Gerencia Técnica Metropolitana: es el órgano técnico que forma parte de la estructura del Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, subordinado a la dirección general. El cual se encarga de generar la coordinación, información y propuestas de una materia específica, siguiendo las atribuciones que le confiere el Estatuto Orgánico respectivo.
+
+9. Instancias: las Instancias de Coordinación Metropolitana son entes intermunicipales que se encuentran a la base del Régimen de Coordinación Metropolitana. Se crean y se define su organización y funcionamiento mediante la expedición de los estatutos orgánicos intermunicipales respectivos.
+
+10. Mecanismo: los mecanismos de coordinación metropolitana son las acciones intergubernamentales concertadas entre las Instancias de coordinación metropolitana, los municipios y, en su caso el Gobierno del Estado, con el objeto de una eficaz coordinación o asociación entre los gobiernos que integran un Área Metropolitana para promover el Desarrollo metropolitano urbano.
+
+11. Región Metropolitana. es la delimitación geográfica correspondiente a un conjunto de municipios colindantes o cercanos a un Área Metropolitana, los cuales presentan vínculos socioeconómicos, así como tendencias de crecimiento con relación a ella sin presentar una conurbación; declarada oficialmente con ese carácter por el Congreso del Estado de Jalisco.
+
+12. Régimen de Coordinación Metropolitana: es el conjunto de Instancias, mecanismos e instrumentos de planeación de escala metropolitana que permiten promover el desarrollo metropolitano urbano.
+
+13. Sistema Integral de Desarrollo metropolitano urbano: es el conjunto de componentes que trabajan en las distintas tareas de información, planeación y gestión de un área metropolitana específica. En el Sistema convergen las instancias, planes, programas, presupuestos y proyectos, para trabajar organizadamente, además de que concurren con sus diferentes recursos y en el ámbito de su competencia los tres niveles de gobierno, bajo la coordinación de la instancia técnica del régimen de coordinación metropolitano respectivo, la cual se constituye en cabeza del sector metropolitano.
 
 ###### Artículo 3.
 
@@ -199,6 +231,34 @@ a) Copia certificada de las actas de las sesiones de ayuntamiento en que se haya
 
 b) Un diagnóstico técnico sobre la capacidad financiera, el desarrollo urbano y la prestación de servicios públicos en los municipios que integrarán el área metropolitana.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 10º.
+
+Diagnóstico técnico.
+
+1. El diagnóstico técnico debe contener:
+
+I. Un análisis de la capacidad financiera de los municipios que integrarán el área o región metropolitana;
+
+II. Un análisis del desarrollo urbano de los municipios que integrarán el área o región metropolitana, que contenga:
+
+a) El análisis histórico y prospectivo de la creación de infraestructura urbana de cada municipio y el comparativo con relación a la demanda existente de la misma;
+
+b) El análisis histórico y prospectivo del crecimiento urbano en cada municipio y de la existencia de áreas de reserva actuales y la posibilidad de constituirlas en el futuro, y
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+c) El análisis histórico y prospectivo de la creación, contenido y modificación de los planes de centro (sic) de población y planes parciales de urbanización existentes en cada municipio.
+
+III. Para el caso del área metropolitana, un análisis de los servicios públicos de los municipios que la integrarán, que contenga:
+
+a) El análisis histórico y prospectivo de la suficiencia, eficiencia y eficacia en la prestación de los servicios públicos municipales constitucionales que presta cada municipio, y el comparativo de los recursos financieros, humanos y materiales dedicados a cada servicio en cada municipio, y
+
+b) El análisis técnico que precise la necesidad y viabilidad técnica, financiera, operativa y funcional de incluir determinados servicios públicos municipales a un esquema de coordinación metropolitana, así como las bases generales de operación de dicho esquema.
+
+2. Cuando la petición de declaratoria de región metropolitana se presente dentro del año siguiente a la celebración del convenio de coordinación de área metropolitana correspondiente, no es necesario realizar los análisis a que se refiere este artículo, relativos a los municipios integrantes de dicha área metropolitana.
+
 ###### Artículo 10.
 
 Diagnóstico técnico
@@ -287,9 +347,13 @@ I. En el caso del área metropolitana, la continuidad física del centro de pobl
 
 II. En el caso de la región metropolitana, la cercanía geográfica y tendencias de crecimiento del centro de población con respecto al área metropolitana correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 15.
 
-Efectos de la declaratoria
+Efectos de la declaratoria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 1. La declaratoria de área o región metropolitana tiene los siguientes efectos:
 
@@ -301,11 +365,19 @@ III. La autorización al titular del Poder Ejecutivo del Estado para destinar, c
 
 IV. La autorización al titular del Poder Ejecutivo del Estado para participar conjuntamente con los municipios en la planeación, programación, financiamiento y ejecución de las obras de infraestructura de impacto metropolitano y servicios públicos acordados en las instancias de coordinación de área metropolitana y autorizados por los ayuntamientos municipales del área o región metropolitana correspondiente.
 
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+V. La conformación de un Sistema Integral de Desarrollo metropolitano urbano, atendiendo a lo dispuesto en el Código Urbano para el Estado de Jalisco, esta Ley y el Estatuto Orgánico correspondiente. Con este propósito, los municipios que formen parte de un área metropolitana, deberán proporcionar la información en características de dato abierto que les sea solicitada por el Instituto de Planeación y Gestión del Desarrollo correspondiente, así como colaborar permanentemente en la actualización de los datos que forman parte del Sistema Integral de Desarrollo Metropolitano.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 16.
 
-Modificaciones a la declaratoria
+Modificaciones a la declaratoria.
 
-1. La declaratoria de área o región metropolitana puede modificarse para incluir total o parcialmente algún municipio en el caso de un área metropolitana, o algún centro de población en el caso de una región metropolitana, a través de decreto del Congreso del Estado, a petición del municipio interesado o del titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+1. La declaratoria de área o región metropolitana puede modificarse para incluir total o parcialmente algún municipio en el caso de un área metropolitana, o algún centro de población en el caso de una región metropolitana, a través de decreto del Congreso del Estado, a petición del municipio interesado o del titular del Poder Ejecutivo del Estado, mismo que se enviará como justificación al Congreso de Jalisco para modificación o emisión de decreto.
 
 2. La aprobación por parte del Congreso del Estado sobre la inclusión total o parcial de un municipio en el caso del área metropolitana, o de un centro de población en el caso de una región metropolitana, requiere mayoría relativa.
 
@@ -313,17 +385,29 @@ Modificaciones a la declaratoria
 
 4. La delimitación de las áreas y regiones metropolitanas debe revisarse periódicamente por el Congreso del Estado, al año siguiente en que se realice el conteo de población y vivienda del Instituto Nacional de Estadística Geografía e Informática, para su posible actualización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 17.
 
-Requisitos para inclusión en declaratoria
+Requisitos para inclusión en declaratoria.
 
 1. Para incluir un municipio a un área metropolitana existente o un centro de población a una región metropolitana existente se requiere:
 
-I. Que el municipio interesado en ser incluido en el caso del área metropolitana, o interesado en que se incluya un centro de población propio en el caso de la región metropolitana, lo solicite formalmente ante el Congreso del Estado, mediante la presentación de la solicitud individual y el expediente técnico anexo, en los términos de esta ley;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
-II. Que el municipio solicitante demuestre que por crecimiento urbano existe continuidad física del centro de población constituido en área metropolitana dentro de su territorio, o que por cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas existe la necesidad y viabilidad para ser incluido dentro del área o región metropolitana, respectivamente, y
+I. Que el municipio interesado en ser incluido a un área o región metropolitana, solicite al Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, realizar un estudio técnico de factibilidad y a su vez lo solicite formalmente ante el Congreso del Estado, mediante la presentación de la solicitud individual y el expediente técnico anexo, en los términos de esta ley;
 
-III. Que los ayuntamientos de los municipios que integren originalmente el área o región metropolitana sean escuchados en el procedimiento de aprobación del decreto correspondiente.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+II. Que el municipio solicitante, basado en el estudio técnico, demuestre que por crecimiento urbano existe continuidad física del centro de población constituido en área metropolitana dentro de su territorio, o que por cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas existe la necesidad viabilidad para ser incluido dentro del área o región metropolitana, respectivamente;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+III. Que los ayuntamientos de los municipios que integren originalmente el área o región metropolitana sean escuchados en el procedimiento de aprobación del decreto correspondiente; y
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+IV. Que el Municipio solicitante a través de su Cabildo, declare expresamente la aceptación y suscripción de todos los acuerdos, instrumentos y convenios existentes en el área o región al momento de su solicitud, así como los que condicione la Junta respectiva.
 
 ### Capítulo III. Convenio de coordinación metropolitana
 
@@ -365,15 +449,63 @@ V. Capítulo de validación: integrado por la indicación del lugar y fecha de s
 
 Materia metropolitana
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 1. Son materias de interés público, para efectos de coordinación y asociación metropolitanas, las siguientes:
 
-I. La planeación del desarrollo sustentable metropolitano;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+I. La planeación del desarrollo sustentable metropolitano, del ordenamiento del territorio y los Asentamientos Humanos;
 
 II. La infraestructura metropolitana;
 
-III. La realización de funciones y prestación de servicios, públicos municipales, en coordinación o asociación metropolitanas, y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
-IV. Las demás que establezca el convenio respectivo o autoricen conjuntamente los ayuntamientos, dentro de su competencia.
+III. El suelo y las Reservas territoriales;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+IV. La Densificación, consolidación urbana y uso eficiente del territorio, con espacios públicos seguros y de calidad, como eje articulador;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+V. Las políticas habitacionales y las relativas al equipamiento regional y metropolitano;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+VI. La localización de espacios para desarrollo industrial de carácter metropolitano;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+VII. La gestión integral del agua y los recursos hidráulicos, incluyendo el agua potable, el drenaje, saneamiento, tratamiento de aguas residuales, recuperación de cuencas hidrográficas y aprovechamiento de aguas pluviales;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+VIII. La preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, incluyendo la calidad del aire y la protección de la atmósfera;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+IX. La gestión integral de residuos sólidos municipales, especialmente los industriales y peligrosos;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+X. La prevención, mitigación y resiliencia ante los riesgos y los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+XI. La infraestructura y equipamientos de carácter estratégico y de seguridad;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+XII. La accesibilidad universal y la Movilidad;
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+XIII. La seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+XIV. Otras que a propuesta de cualquiera de las instancias de coordinación del Instituto de Planeación y Gestión del Desarrollo o de la Junta de Coordinación Metropolitana requieran desarrollo, siempre que formen parte de las materias de la Agenda Metropolitana.
 
 ###### Artículo 21.
 
@@ -395,13 +527,13 @@ IV. Tener el contenido mínimo que establece esta ley.
 
 Vigencia y extinción del convenio
 
-1. El convenio de coordinación metropolitana tiene una vigencia indefinida y se extingue:
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
-I. Cuando la totalidad de los municipios integrantes del área o región metropolitana así lo acuerden, o
+1. El convenio de coordinación metropolitana tiene una vigencia indefinida y se extingue cuando la totalidad de los municipios integrantes del área o región metropolitana así lo acuerden.
 
-II. En el caso de la región metropolitana, cuando la totalidad de los centros de población que conforman una región queden integrados al área metropolitana original.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
-3. En caso de extinción del convenio, se liquidarán las instancias de coordinación metropolitana y se cumplirán o extinguirán las obligaciones pendientes, en los términos del propio convenio o del acuerdo correspondiente.
+2. En caso de extinción del convenio, se liquidarán las instancias de coordinación metropolitana y se cumplirán o extinguirán las obligaciones pendientes, en los términos del propio convenio o del acuerdo correspondiente.
 
 ###### Artículo 23.
 
@@ -417,7 +549,7 @@ III. Cuando menos la mitad más uno de los municipios integrantes del área o re
 
 2. Para incluir a un municipio en un convenio de coordinación metropolitana se requiere que:
 
-I. El municipio interesado o parte del mismo forme parte del área o región metropolitana en los términos de la declaración oficial Correspondiente expedida por el Congreso del Estado;
+I. El municipio interesado o parte del mismo forme parte del área o región metropolitana en los términos de la declaración oficial correspondiente expedida por el Congreso del Estado;
 
 II. Las partes suscribientes del convenio acepten la inclusión del municipio interesado, y
 
@@ -451,15 +583,21 @@ II. La regulación de la organización y funcionamiento de dichas instancias, de
 
 3. El estatuto orgánico y las disposiciones administrativas derivadas del mismo, en su caso, no pueden establecer obligaciones a terceros fuera de los propios municipios o las instancias de coordinación.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 25.
 
-Aprobación y publicación del estatuto orgánico
+Aprobación y publicación del estatuto orgánico.
 
-1. Los municipios que integran el área o región metropolitana deben aprobar el estatuto orgánico de las instancias de coordinación respectivas, de forma separada en cada uno de sus ayuntamientos, derivado del proyecto elaborado conjuntamente por los presidentes municipales correspondientes.
+1. El estatuto orgánico para la constitución de un área o región metropolitana y sus reformas deberán ser aprobados por la Junta de Coordinación Metropolitana de manera unánime.
 
-2. El estatuto orgánico y sus reformas deben publicarse en el periódico oficial del Estado y en las gacetas municipales de los municipios correspondientes, preferentemente el mismo día.
+2. En el supuesto de un área o región metropolitana de reciente creación, los municipios que la integran deberán instalar una Comisión temporal por la gobernanza metropolitana, que elaborará el proyecto del estatuto orgánico de las instancias de coordinación respectivas. Previa aprobación de los presidentes municipales y el Gobernador, el proyecto deberá ser turnado a los plenos de los ayuntamientos para su aprobación respectiva en cada uno de ellos.
+
+3. El estatuto orgánico y sus reformas deben publicarse en el Periódico Oficial "El Estado de Jalisco" y en las gacetas municipales de los municipios correspondientes.
 
 ### Capítulo I. Disposiciones generales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ## Título Tercero. Instancias de coordinación de área metropolitana
 
@@ -467,7 +605,9 @@ Aprobación y publicación del estatuto orgánico
 
 ###### Artículo 26.
 
-Instancias de coordinación
+Instancias y órganos auxiliares de coordinación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 1. Son instancias de coordinación metropolitana los siguientes entes intermunicipales:
 
@@ -475,77 +615,129 @@ I. La Junta de Coordinación Metropolitana, en adelante la Junta;
 
 II. El Instituto Metropolitano de Planeación, en adelante el Instituto;
 
-III. El Consejo Ciudadano Metropolitano, en adelante el Consejo, y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
-IV. Los demás que establezca el estatuto orgánico del área o región metropolitana correspondiente, los cuales sólo pueden crearse cuando, derivado del convenio de coordinación, se acuerde la realización de funciones públicas o la prestación de servicios públicos municipales de manera común para toda el área o región metropolitana.
+III. El Consejo Ciudadano Metropolitano; y
 
-2. A la denominación de las instancias de coordinación se agrega el nombre particular del área o región metropolitana correspondiente.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+IV. Las instancias que permitan la prestación de servicios públicos comunes, bajo la figura de Agencias Metropolitanas, en adelante Agencias.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 11 DE ENERO DE 2018)</small>
+
+2. Son Órganos auxiliares de coordinación:
+
+I. El Consejo Consultivo de Desarrollo metropolitano; y
+
+II. Las Mesas de Gestión Metropolitana, en adelante Mesas de Gestión.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+3. A la denominación de las instancias de coordinación se agrega el nombre particular del área metropolitana correspondiente.
 
 ### Capítulo III. Instituto Metropolitano de Planeación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 27.
 
 Naturaleza e integración de la Junta
 
-1. La Junta es un órgano intermunicipal de coordinación política, integrado por los presidentes municipales correspondientes y el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
-2. La Junta tiene un Secretario Técnico que realiza funciones de carácter ejecutivo y es el director del Instituto correspondiente.
+1. La Junta es el órgano máximo de coordinación política, integrado por los presidentes de los municipios que conforman el área metropolitana correspondiente, el Gobernador del Estado, el titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, en su caso, y el presidente del Consejo Ciudadano en turno.
 
-3. La presidencia de la Junta es rotativa entre todos los presidentes municipales, por periodos de seis meses, en orden alfabético de los nombres de los municipios integrantes.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+2. La Junta tiene como objeto ser la instancia para la toma de acuerdos en los asuntos metropolitanos que requieren aprobación de los ayuntamientos respectivos, asimismo fungirá como el Consejo para el Desarrollo Metropolitano del área metropolitana correspondiente, o cualquier otra figura similar.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+3. La Junta tiene un Secretario Técnico que realiza funciones de carácter ejecutivo y es el director del Instituto de Planeación y Gestión del Desarrollo correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+4. La presidencia de la Junta es rotativa entre todos los presidentes municipales, por periodos de seis meses, en orden alfabético de los nombres de los municipios integrantes, excepto cuando se trate de sesiones relativas al Consejo para el Desarrollo Metropolitano, en las cuales la presidencia recaerá en el Gobierno del Estado.
+
+Los integrantes de la Junta, podrán comparecer mediante representante que ellos mismos acrediten.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+5. El presidente municipal en el que recaiga la presidencia de la Junta de Coordinación, siempre deberá estar presente en las sesiones.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 28.
 
-Atribuciones de la Junta
+Atribuciones de la Junta.
 
 1. La Junta tiene las siguientes atribuciones:
 
-I. Elaborar, enviar para su aprobación a los ayuntamientos correspondientes, así como coordinar y vigilar la ejecución de la agenda metropolitana;
+I. Definir, elaborar, aprobar, así como coordinar y vigilar la ejecución de la agenda metropolitana;
+
+a) La Agenda Metropolitana deberá ser evaluada, actualizada o modificada a propuesta del Instituto de Planeación y Gestión del Desarrollo del área metropolitana que corresponda o por la Junta de Coordinación Metropolitana por lo menos cada que se realice su instalación derivado del cambio de administración.
+
+b) La actualización, corrección o modificación de la Agenda Metropolitana, se realizará por iniciativa del Instituto de Planeación y Gestión del Desarrollo del área metropolitana que corresponda o de la Junta de Coordinación Metropolitana, derivada de la evaluación y seguimiento de los instrumentos de planeación metropolitana, o de las buenas prácticas en materia metropolitana, para ulterior aprobación por parte de la Junta de Coordinación Metropolitana.
 
 II. Autorizar, enviar para su aprobación a los ayuntamientos correspondientes, así como coordinar y vigilar la ejecución de:
 
-a) El plan de ordenamiento territorial metropolitano;
+a) El Programa de Desarrollo Metropolitano;
 
-b) El programa de desarrollo metropolitano y los proyectos específicos derivados del mismo;
+b) El Plan de Ordenamiento Territorial Metropolitano;
 
-c) El mapa de riesgo metropolitano;
+c) El Atlas Metropolitano de Riesgos;
 
-d) Los demás instrumentos de planeación y programación derivados de las áreas sujetas a coordinación metropolitana, en los términos del convenio respectivo, y
+d) Los demás instrumentos de planeación y programación derivados de las áreas sujetas a coordinación metropolitana, en los términos del convenio respectivo;
 
-e) Los demás instrumentos de planeación metropolitana a que se refieran el Código Urbano para el Estado de Jalisco y otras leyes aplicables;
+e) Los demás instrumentos de planeación metropolitana a que se refieran el Código Urbano para el Estado de Jalisco y otras leyes aplicables; y
 
-III. Gestionar los asuntos de su interés ante las instancias federales, estatales o municipales correspondientes;
+f) Los instrumentos, planes y programas para la gestión del desarrollo metropolitano urbano, en los términos de la legislación aplicable.
 
-IV. Aprobar y publicar la convocatoria pública abierta para la selección de los integrantes del Consejo;
+III. Autorizar el Sistema de Información y Gestión Metropolitana;
 
-V. Elaborar el proyecto y proponer para su aprobación a los ayuntamientos correspondientes y al Poder Ejecutivo del Estado la constitución y en su caso, modificación, del Fideicomiso Metropolitano como fondo único de administración de los recursos financieros del área o región metropolitana;
+IV. Gestionar los asuntos de su interés ante las instancias federales, estatales o municipales correspondientes;
 
-VI. Diseñar, autorizar y enviar para su aprobación a los ayuntamientos correspondientes, los mecanismos e instrumentos tendientes a conjuntar en el Fideicomiso Metropolitano los fondos federales y estatales que correspondan al área o región metropolitana respectiva, cuando la normativa aplicable lo permita;
+V. Aprobar y publicar la convocatoria pública abierta para la selección de los integrantes del Consejo Ciudadano y del Consejo Consultivo;
 
-VII. Fungir como comité técnico del Fideicomiso Metropolitano cuando no se establezca disposición en contrario en el convenio de coordinación metropolitana y no se contravengan otras disposiciones legales aplicables;
+VI. Elaborar el proyecto y proponer para su aprobación a los ayuntamientos correspondientes y al Poder Ejecutivo del Estado la constitución y, en su caso, modificación, del Fideicomiso Metropolitano como fondo único de administración de los recursos financieros del área metropolitana;
 
-VIII. Aprobar el Programa Anual de Inversión que contendrá los proyectos metropolitanos que se realizarán con recursos del Fideicomiso Metropolitano, y
+VII. Diseñar, autorizar y enviar para su aprobación a los ayuntamientos correspondientes, los mecanismos e instrumentos tendientes a conjuntar en el Fideicomiso Metropolitano los fondos federales y estatales que correspondan al área metropolitana respectiva, cuando la normativa aplicable lo permita;
 
-IX. Las demás que le concedan el convenio de coordinación y el estatuto orgánico respectivo.
+VIII. Fungir como Consejo para el Desarrollo metropolitano o la figura que para tal efecto establezca la norma federal. Asimismo podrá constituirse como Comité Técnico del Fideicomiso Metropolitano cuando no se establezca disposición en contrario en el convenio de coordinación metropolitana y no se contravengan otras disposiciones legales aplicables;
 
-2. Cuando la Junta modifique las propuestas técnicas enviadas por el Instituto debe motivar técnicamente los cambios incorporados.
+IX. Remitir al Instituto de Planeación y Gestión del Desarrollo los proyectos que seleccionen en conjunto el Comité Técnico y su Subcomité para que emita el Dictamen de impacto urbano metropolitano correspondiente;
+
+X. Dar respuesta oportuna y de forma obligatoria a las observaciones y propuestas realizadas por el Consejo Ciudadano Metropolitano en los términos que se establezcan en el estatuto orgánico;
+
+XI. Autorizar al secretario técnico para que funja como su representante permanente, en los procesos derivados del decreto de regionalización, de conformidad con lo que para tal efecto establezca la Ley de Planeación para el Estado de Jalisco y sus Municipios;
+
+XII. Las demás que le concedan el convenio de coordinación y el estatuto orgánico respectivo.
+
+2. Cuando la Junta modifique las propuestas técnicas enviadas por el Instituto de Planeación y Gestión del Desarrollo debe motivar técnicamente los cambios incorporados.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 29.
 
-Funcionamiento de la Junta
+Funcionamiento de la Junta.
 
-1. La Junta requiere la asistencia de más de la mitad de sus integrantes para sesionar válidamente. Las sesiones son públicas, con las excepciones que el estatuto orgánico establezca como reservadas. La Junta debe sesionar cuando menos una vez al mes.
+1. La Junta requiere la asistencia de más de la mitad de sus integrantes para sesionar válidamente. Las sesiones son públicas, salvo aquellas que por excepción se celebren con carácter de reservadas, previo acuerdo de la Junta que determine y justifique que el interés público sujeto a deliberación atiende a un valor preponderante sobre el interés público de acceso y disponibilidad inmediata. La Junta debe sesionar cuando menos una vez al mes.
 
-2. La Junta debe tomar sus acuerdos preferentemente por consenso unánime de los integrantes. Cuando no se logre el consenso, el asunto respectivo deberá agendarse en una sesión posterior, a celebrarse en día distinto al en que originalmente se trató y con una diferencia mínima de cuarenta y ocho horas, para que sea nuevamente discutido y en caso de no haber consenso, será votado.
+2. Los acuerdos de la Junta deberán ser aprobados por sus integrantes en los términos que establezcan el convenio y el estatuto orgánico correspondiente.
 
-3. Las resoluciones por votación se regirán por lo que establezcan el convenio y el estatuto orgánico correspondientes.
+3. (DEROGADO, P.O. 11 DE ENERO DE 2018)
 
 ### Capítulo IV. Consejo Ciudadano Metropolitano
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 30.
 
-Naturaleza e integración del Instituto
+Naturaleza e integración del Instituto de Planeación y Gestión del Desarrollo.
 
-1. El Instituto es un organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propio, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente y apoyar técnicamente a la Junta de Coordinación Metropolitana. Es encabezado por un director e integrado por las unidades administrativas que establezca el estatuto orgánico correspondiente.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+1. El Instituto de Planeación y Gestión del Desarrollo es un organismo público descentralizado intermunicipal, con personalidad jurídica, patrimonio propio y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto elaborar y coordinar la planeación del área o región metropolitana correspondiente, la gestión del desarrollo metropolitano urbano. Es encabezado por un director e integrado por las unidades administrativas y gerencias técnicas que establezca el estatuto orgánico correspondiente.
 
 2. Para ser director del Instituto se requiere:
 
@@ -563,39 +755,61 @@ V. Los demás requisitos que señale el estatuto orgánico.
 
 4. El director es suplido en sus ausencias temporales por el servidor público del nivel jerárquico inmediato inferior que determine el estatuto orgánico.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 31.
 
-Atribuciones del Instituto
+Atribuciones del Instituto de Planeación y Gestión del Desarrollo.
 
-1. El Instituto tiene las siguientes atribuciones:
+1. El Instituto de Planeación y Gestión del Desarrollo tiene las siguientes atribuciones:
 
-I. Elaborar y proponer a la Junta, para su consideración, autorización y posterior envio a los ayuntamientos para su aprobación:
+I. Elaborar y proponer a la Junta, para su consideración, autorización y posterior envío a los ayuntamientos para su aprobación:
 
-a) El plan de ordenamiento territorial metropolitano;
+a) El programa de Desarrollo Metropolitano;
 
-b) El programa de desarrollo metropolitano y los proyectos específicos derivados del mismo;
+b) El Plan de Ordenamiento Territorial Metropolitano;
 
-c) El mapa de riesgo metropolitano;
+c) El Atlas Metropolitano de Riesgos;
 
 d) El programa anual de inversión;
 
-e) Los demás instrumentos de planeación y programación derivados de las áreas sujetas a coordinación metropolitana, en los términos del convenio respectivo, y
+e) Los demás instrumentos de planeación y programación derivados de las áreas sujetas a coordinación metropolitana, en los términos del convenio respectivo; y
 
-f) Los demás instrumentos de planeación metropolitana a que se refieran el Código Urbano para el Estado de Jalisco y otras leyes aplicables;
+f) Los demás instrumentos de planeación metropolitana a que se refieran el Código Urbano para el Estado de Jalisco y otras leyes aplicables.
 
-II. Evaluar los instrumentos de planeación metropolitana señalados en la fracción anterior;
+II. Elaborar, implementar y proponer a la Junta para su aprobación el Sistema de Información y Gestión Metropolitana;
 
-III. Elaborar los documentos técnicos encomendados por la Junta, en las áreas sujetas a coordinación metropolitana;
+III. Evaluar los instrumentos de planeación metropolitana;
 
-IV. Ejecutar los acuerdos y resoluciones de la Junta, en el ámbito de su competencia, y
+IV. Elaborar los documentos técnicos encomendados por la Junta, en las áreas o regiones sujetas a coordinación metropolitana;
 
-V. Las demás que le concedan los municipios a través del convenio de coordinación y el estatuto orgánico correspondientes.
+V. Ejecutar los acuerdos y resoluciones de la Junta, en el ámbito de su competencia;
 
-2. El Instituto debe coordinarse con las dependencias y entidades estatales correspondientes en el desahogo de los asuntos de su competencia.
+VI. Coordinar el Banco de Proyectos metropolitano;
+
+VII. Emitir el dictamen de impacto urbano metropolitano;
+
+VIII. Evaluar los análisis realizados por las Mesas de Coordinación, descritas en los artículos 40, 41 y 42, antes de ser presentados a la Junta de Coordinación Metropolitana;
+
+IX. Emitir las recomendaciones que considere pertinentes referente a la congruencia que guardan los programas o planes de los municipios que integran el área o región metropolitana correspondiente, con los instrumentos de planeación metropolitana;
+
+X. Emitir el dictamen, del estudio técnico que justifica la necesidad o no de actualizar los instrumentos de planeación municipal, de los municipios que integran el área o región metropolitana correspondiente;
+
+XI. Dar respuesta oportuna y de forma obligatoria a las observaciones y propuestas realizadas por el Consejo Ciudadano Metropolitano en los términos que se establezcan en el Estatuto Orgánico;
+
+XII. Formar parte a través de la figura del Director General de la Junta de Gobierno de las Agencias Metropolitanas; y
+
+XIII. Las demás que le concedan los municipios a través del convenio de coordinación y el estatuto orgánico correspondientes.
+
+2. El Instituto de Planeación y Gestión del Desarrollo debe coordinarse con las dependencias y entidades estatales correspondientes en el desahogo de los asuntos de su competencia.
+
+### Capítulo V. Consejo Consultivo de Desarrollo metropolitano
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 32.
 
-Naturaleza e integración del Consejo
+Naturaleza e integración del Consejo.
 
 1. El Consejo es un órgano consultivo intermunicipal, de participación ciudadana y carácter honorífico, integrado por ciudadanos representantes de las asociaciones vecinales y organizaciones civiles, profesionales y académicas asentadas en el área o región metropolitana.
 
@@ -615,21 +829,37 @@ V. Los que establezca el estatuto orgánico.
 
 4. Los integrantes del Consejo deben seleccionarse aleatoriamente de entre las propuestas ciudadanas, derivado de una convocatoria pública abierta, en los términos del estatuto orgánico. Duran en su cargo dos años a partir de la selección aleatoria.
 
-5. El Consejo tiene un presidente que es electo de entre los propios integrantes, por periodos de seis meses, sin que pueda reelegirse para el periodo inmediato.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+5. El Consejo ciudadano tiene un presidente que es electo de entre los propios integrantes, por periodos de seis meses, sin que pueda reelegirse para el periodo inmediato.
 
 6. El Consejo puede tener un Secretario Técnico que debe depender administrativamente del Instituto.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+7. El presidente del consejo ciudadano será el responsable de presentar las propuestas, observaciones y/o recomendaciones a la Junta.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 33.
 
-Atribuciones del Consejo
+Atribuciones del Consejo.
 
-1. El Consejo tiene las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
-I. Elaborar Opiniones, realizar consultas y hacer propuestas y recomendaciones a los municipios del área o región metropolitana, la Junta, el Instituto o demás órganos de coordinación metropolitana en todos los aspectos de las áreas sujetas a coordinación metropolitana en los términos del convenio;
+1. El Consejo ciudadano tiene las siguientes atribuciones:
+
+I. Elaborar opiniones, realizar consultas y hacer propuestas y recomendaciones a los municipios del área o región metropolitana, la Junta, el Instituto o demás órganos de coordinación metropolitana en todos los aspectos de las áreas sujetas a coordinación metropolitana en los términos del convenio;
 
 II. Denunciar las anomalías detectadas y presentar propuestas para el mejor funcionamiento de las instancias de coordinación metropolitana, y
 
-III. Las demás que le concedan el convenio de coordinación y el estatuto orgánico correspondientes.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+III. Formar parte de la integración del Consejo Consultivo de Desarrollo metropolitano cuando se trate de promover los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+
+IV. Las demás que le concedan el convenio de coordinación y el estatuto orgánico correspondientes.
 
 ###### Artículo 34.
 
@@ -640,6 +870,140 @@ Funcionamiento del Consejo
 2. Las sesiones del Consejo son públicas y deben realizarse con la periodicidad que establezca el estatuto orgánico y cuando menos una cada tres meses.
 
 3. El Consejo toma sus acuerdos por mayoría de votos de los integrantes presentes. Los acuerdos del Consejo en ningún caso serán vinculantes para la Junta, el Instituto o los demás órganos de coordinación metropolitana.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 35.
+
+Herramientas de Participación ciudadana.
+
+1. El Consejo podrá solicitar al Instituto Electoral y de Participación Ciudadana la aplicación de herramientas de participación ciudadana en el Área o Región Metropolitana, de acuerdo a lo señalado por el Código Electoral y de Participación Ciudadana; esto a efecto de dar cumplimiento con las atribuciones marcadas por esta Ley y lo señalado por el Convenio de Coordinación y el Estatuto Orgánico.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2018)</small>
+
+### Capítulo VI. Agencias Metropolitanas
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 36.
+
+Del Consejo Consultivo de Desarrollo metropolitano.
+
+El Consejo Consultivo de Desarrollo metropolitano es la instancia eventual encargada de promover los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
+
+Estará integrado con perspectiva de género, por representantes de los tres órdenes de gobierno y representantes de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia, este último sector deberá ser mayoría en el consejo.
+
+El Consejo Ciudadano Metropolitano también formará parte del Consejo Consultivo de Desarrollo metropolitano.
+
+Su funcionamiento estará definido en el reglamento correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2018)</small>
+
+### Capítulo VII. Mesas de Gestión Metropolitana
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 37.
+
+Fines de las agencias metropolitanas.
+
+1. Las agencias metropolitanas son las instancias encargadas de establecer los objetivos y estrategias y llevar a cabo acciones en una de las materias de la Agenda Metropolitana, que por su complejidad, requiere de un organismo enfocado a ella específicamente.
+
+2. Se crean a partir del trabajo realizado en las Mesas de Gestión bajo la figura de un Organismo Público Descentralizado y responden a la jerarquía del Régimen de Coordinación Metropolitana, a través de la Secretaría Técnica de la Junta de Coordinación. Gozan de autonomía técnica y de gestión para el ejercicio de sus atribuciones; sin embargo, deberán subordinarse a los instrumentos de planeación y gestión del desarrollo metropolitano urbano, elaborados por el Instituto de Planeación y Gestión del Desarrollo. Para alcanzar sus objetivos, contarán con personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 38.
+
+Atribuciones de las Agencias metropolitanas.
+
+Las Agencias Metropolitanas tienen las siguientes atribuciones:
+
+I. Tomar como referencia obligada los instrumentos de planeación metropolitana y en co-construcción con el Instituto de Planeación y Gestión del Desarrollo del área metropolitana que corresponda, realizar y llevar a cabo planes o programas sectoriales;
+
+II. Tomar como referencia obligada los instrumentos de planeación metropolitana, diseñar, implementar y evaluar políticas públicas y propuestas integrales en el ámbito de su competencia;
+
+III. Llevar a cabo estudios, y evaluaciones en el ámbito de su competencia;
+
+IV. Formular, coordinar y supervisar el diseño de instrumentos de gestión y control;
+
+V. Crear y administrar unidades de medición e indicadores en el ámbito de su competencia;
+
+VI. Informar obligatoriamente de manera mensual al Instituto de Planeación y Gestión del Desarrollo del área metropolitana que corresponda, sobre las actividades y cumplimiento de objetivos, metas e indicadores que estén relacionados con los temas relacionados con los instrumentos de planeación y gestión metropolitana;
+
+VII. Diseñar de (sic) normas técnicas, reglamentos, manuales e instructivos para ser propuestos a la junta de coordinación metropolitana a través de su secretario técnico; y
+
+VIII. Llevar a cabo actividades comunicativas y de educación en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 39.
+
+Creación y funcionamiento de las agencias metropolitanas.
+
+1. La creación y funcionamiento de las Agencias Metropolitanas se determinarán en el ordenamiento de creación respectivo y sus reglamentos internos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 40.
+
+Naturaleza e integración de las Mesas de Gestión.
+
+1. Las Mesas de Gestión Metropolitana son órganos auxiliares que buscan eficientar el proceso de coordinación metropolitano, asegurando una plena transparencia y una completa integración de los actores que forman parte de él. Se dividen en Mesas Metropolitanas y Mesas de Coordinación.
+
+2. Las Mesas Metropolitanas trabajan materias relacionadas con la Agenda Metropolitana, y se integrarán, al menos, por un representante de cada municipio y del Gobierno del Estado. Todos los integrantes contarán con solvencia técnica y capacidad de decisión en la materia que sea puesta en cuestión. Cuentan con un coordinador, que no podrá ser un integrante del Instituto de Planeación y Gestión del Desarrollo, y un Secretario Técnico de la Mesa de Gestión, que será designado por la Secretaría Técnica de la Junta de Coordinación Metropolitana de entre los integrantes del Instituto. Sus objetivos varían dependiendo de cada mesa; serán definidos por ella misma, en conformidad con la Junta de Coordinación Metropolitana.
+
+3. Las mesas de Coordinación trabajan temas específicos que se han derivado de alguna materia relacionada con la Agenda Metropolitana, y se integran por miembros con solvencia técnica y capacidad de decisión de los municipios del Área Metropolitana correspondiente y del Gobierno del Estado. Sin embargo, no se establece un mínimo de municipios metropolitanos participantes y la participación del Gobierno del Estado no es obligatoria. Cuenta con un coordinador que será la Secretaría Técnica de la Junta de Coordinación Metropolitana. Tiene una duración determinada y una meta concreta, definidos por la misma mesa de gestión, en conformidad con la Junta de Coordinación Metropolitana.
+
+4. Las Mesas de Gestión pueden incorporar a su desarrollo a miembros adicionales pertenecientes a otras áreas de trabajo, niveles de gobierno, sectores u organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 41.
+
+Atribuciones de las Mesas de Gestión.
+
+1. Las Mesas Metropolitanas tienen las siguientes atribuciones:
+
+I. Proponer a la Junta de Coordinación Metropolitana sus objetivos;
+
+II. Realizar análisis de fondo de la materia trabajada;
+
+III. Proponer la conformación de Gerencias Técnicas o de Agencias Metropolitanas;
+
+IV. Convocar a los titulares en los municipios y en el gobierno del estado de las áreas en cuestión;
+
+V. Aprobar productos para que sean presentados a la Junta de Coordinación Metropolitana;
+
+VI. Presentados a la Junta de Coordinación Metropolitana los productos derivados de los análisis realizados; y
+
+VII. Designar comisiones y grupos de trabajo para estudiar temas específicos.
+
+2. Las Mesas de Coordinación tienen las siguientes atribuciones:
+
+I. Proponer a la Junta de Coordinación Metropolitana sus metas concretas y el horizonte temporal en el que se alcanzarán;
+
+II. Realizar análisis de fondo en el tema específico que se ha derivado de la materia de interés metropolitano;
+
+III. Designar comisiones y grupos de trabajo para estudiar temas específicos; y
+
+IV. Presentar, previa evaluación y aprobación del Instituto de Planeación y Gestión del Desarrollo, a la Junta de Coordinación Metropolitana los productos derivados de los análisis realizados.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 42.
+
+Funcionamiento de las Mesas de Gestión.
+
+El funcionamiento de las instancias que conforman el Instituto de Planeación y Gestión del Desarrollo, respecto a su funcionamiento, se regirá conforme al reglamento interno que emita el propio instituto por conducto de la Junta, el cual deberá ser publicado en el periódico oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+
+###### Artículo 43.
+
+Del Órgano de Control Interno del Instituto de Planeación y Gestión del Desarrollo.
+
+El órgano de control interno del Instituto de Planeación y Gestión del Desarrollo es la dependencia que tiene a su cargo las atribuciones a las que se refiere la Ley General de Responsabilidades, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, la Ley de Compras Gubernamentales y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -673,7 +1037,7 @@ ANA BERTHA GUZMÁN ALATORRE
 
 Diputada Secretaria
 
-MARGARITA LICEA GOZÁLEZ
+MARGARITA LICEA GONZÁLEZ
 
 (RÚBRICA)
 
@@ -704,3 +1068,13 @@ P.O. 30 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26366/LXI/17 QUE REFORMA EL ARTÍCULO 3° DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26719/LXI/17 QUE MODIFICA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO URBANO Y DE LA LEY DE COORDINACIÓN METROPOLITANA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. En un plazo no mayor a ciento ochenta días a partir de la entrada en vigor del presente decreto deberán modificarse los Estatutos Orgánicos, convenios, y demás disposiciones de las Instancias de Coordinación Metropolitana a que se refiere este decreto.
+
+TERCERO. Las disposiciones señaladas en el párrafo sexto del artículo 176, serán aplicables a las obras urbanísticas que se realicen con posterioridad a la entrada en vigor del presente decreto.
