@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2017-10-21"
+last_updated: "2018-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -41,11 +43,11 @@ LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
 El juicio en materia administrativa tiene por objeto resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, las municipales y de los organismos descentralizados de aquellas, con los particulares. Igualmente, de las que surjan entre dos o más entidades públicas de las citadas en el presente artículo.
 
-Procede el juicio en materia administrativa en contra de disposiciones normativas de carácter general siempre que no se trate de leyes emanadas del Congreso. En estos casos la demanda deberá interponerse en contra del primer acto de aplicación, ante las salas del Tribunal de lo Administrativo.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+Procede el juicio en materia administrativa en contra de disposiciones normativas de carácter general siempre que no se trate de leyes emanadas del Congreso. En estos casos la demanda deberá interponerse en contra del primer acto de aplicación, ante las Salas del Tribunal de Justicia Administrativa.
 
 También procede el juicio en materia administrativa en cualquier otro caso que expresamente determinen las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2011
 
@@ -109,9 +111,11 @@ Aquellas que tuvieren que desahogarse fuera del estado podrán practicarse media
 
 Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, y de sus organismos descentralizados, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o intentar desde luego el juicio administrativo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 10.
 
-El Pleno del Tribunal de lo Administrativo, su presidente, las Salas para hacer cumplir sus determinaciones y para mantener el orden en las diligencias que ante él se promuevan, podrán hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+Las Salas del Tribunal de Justicia Administrativa y su presidente, para hacer cumplir sus determinaciones y para mantener el orden en las diligencias que ante estas se promuevan, podrán hacer uso de los siguientes medios de apremio y medidas disciplinarias:
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
 
@@ -239,17 +243,19 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 Bis. Se tendrán por señalados cinco días para la práctica de algún acto judicial o para el ejercicio de algún derecho cuando la presente ley no señale término.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 20.
 
-Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
+Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1o de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1 y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jomada (sic) electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo de la Junta del Tribunal de Justicia Administrativa, se suspendan las labores.
 
 ### CAPÍTULO III. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 21.
 
-Los magistrados del Tribunal de lo Administrativo del Estado están impedidos para conocer en los siguientes casos:
+Los magistrados de Las Salas del Tribunal de Justicia Administrativa del Estado están impedidos para conocer en los siguientes casos:
 
 I. Si son parientes consanguíneos, afines o civiles de alguna de las partes, de sus patronos o representantes, en línea recta, sin limitación del grado; dentro del cuarto grado en la colateral por consanguinidad, o del segundo en la colateral por afinidad;
 
@@ -269,9 +275,11 @@ VII. En cualquier otro análogo que pueda afectar su imparcialidad en el trámit
 
 Los magistrados deben excusarse del conocimiento de los juicios en los que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 23.
 
-Manifestada por un magistrado la causa de impedimento, pasará el asunto al Tribunal en Pleno, el que calificará la excusa y designará, en su caso, al magistrado que deba sustituir al impedido.
+Manifestada por un magistrado la causa de impedimento, pasará el asunto a la Sala Superior del Tribunal, el que calificará la excusa y designará, en su caso, al magistrado que deba sustituir al impedido.
 
 ###### Artículo 24.
 
@@ -281,11 +289,15 @@ Las partes podrán recusar a los magistrados cuando éstos estén en alguno de l
 
 Puede interponerse la recusación por causa de impedimento en cualquier estado del juicio anterior a la citación para sentencia. En el escrito en que se proponga la recusación deberán ser ofrecidos los medios de convicción correspondientes y al mismo deberán acompañarse los que se desahoguen por su propia naturaleza.
 
-Interpuesta la recusación, el Presidente del Tribunal, antes de dar cuenta al Pleno, requerirá al Magistrado para que dentro de los tres días siguientes al en que reciba el oficio de requerimiento, rinda el informe respectivo, la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+Interpuesta la recusación, el Presidente del Tribunal, antes de dar cuenta a la Sala Superior, requerirá al Magistrado para que dentro de los tres días siguientes al en que reciba el oficio de requerimiento, rinda el informe respectivo, la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 26.
 
-Si el Pleno del Tribunal declara fundada la recusación, en la misma resolución designará al Magistrado que substituirá al recusado.
+Si la Sala Superior del Tribunal declara fundada la recusación, en la misma resolución designará al Magistrado que substituirá al recusado.
 
 ###### Artículo 27.
 
@@ -305,7 +317,9 @@ Es improcedente el juicio en materia administrativa, contra los actos:
 
 I. Que no afecten los intereses jurídicos del demandante o que se hayan consumado de un modo irreparable;
 
-II. Cuya impugnación no corresponda conocer al Tribunal de lo Administrativo;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+
+II. Cuya impugnación no corresponda conocer a las Salas del Tribunal de lo Administrativo;
 
 III. Que hayan sido materia de sentencia de fondo pronunciada en un procedimiento judicial, siempre que hubiere identidad de partes;
 
@@ -351,13 +365,17 @@ Cuando existan terceros interesados, éstos podrán solicitar al órgano jurisdi
 
 Las autoridades, cuando se pida la modificación, extinción o nulidad de una resolución favorable a un particular, podrán presentar la demanda dentro de los dos años siguientes a la fecha en que hubiere sido emitida la resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá presentar la demanda en cualquier época, sin exceder de los dos años siguientes al último efecto. Los alcances de la sentencia en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los dos años anteriores a la presentación de la demanda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 34.
 
-Cuando se esté en los supuestos en que proceda su interposición por correo, también podrá interponerse la demanda ante el Juzgado de Primera Instancia, mixto o especializado en materia civil del lugar donde resida la autoridad que dictó el acto o resolución que se impugna. En tal caso, el Juez que reciba la demanda la remitirá al Tribunal de lo Administrativo, bajo pena de responsabilidad, a más tardar dentro de los tres días hábiles siguientes a su recepción. En casos urgentes, el Juez que en los términos de este artículo hubiere recibido la demanda, resolverá con carácter provisional sobre su admisión y sobre la suspensión del acto o resolución impugnada.
+Cuando se esté en los supuestos en que proceda su interposición por correo, también podrá interponerse la demanda ante el Juzgado de Primera Instancia, mixto o especializado en materia civil del lugar donde resida la autoridad que dictó el acto o resolución que se impugna. En tal caso, el Juez que reciba la demanda la remitirá a las Salas del Tribunal de Justicia Administrativa, bajo pena de responsabilidad, a más tardar dentro de los tres días hábiles siguientes a su recepción. En casos urgentes, el Juez que en los términos de este artículo hubiere recibido la demanda, resolverá con carácter provisional sobre su admisión y sobre la suspensión del acto o resolución impugnada.
 
 Recibido el asunto por el Tribunal, el Presidente lo turnará a la Sala a que competa la resolución del asunto.
 
-Las resoluciones dictadas por los jueces de primera instancia, en ejercicio de la competencia auxiliar que les confiere este artículo, surtirán sus efectos provisionalmente hasta en tanto la Sala del Tribunal de lo Administrativo resuelva en definitiva sobre la admisión de la demanda, sin que la suspensión dictada por la jurisdicción ordinaria en uso de la competencia auxiliar que le confiere este artículo deba ser tomada en cuenta para resolver en definitiva sobre la admisión de la demanda y la suspensión.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
+Las resoluciones dictadas por los jueces de primera instancia, en ejercicio de la competencia auxiliar que les confiere este artículo, surtirán sus efectos provisionalmente hasta en tanto las Salas del Tribunal de Justicia Administrativa resuelvan en definitiva sobre la admisión de la demanda, sin que la suspensión dictada por la jurisdicción ordinaria en uso de la competencia auxiliar que le confiere este artículo deba ser tomada en cuenta para resolver en definitiva sobre la admisión de la demanda y la suspensión.
 
 ###### Artículo 35.
 
@@ -765,21 +783,25 @@ II. No admitan recurso; o
 
 III. El recurrente se desista del recurso que hubiere interpuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 80.
 
-La (sic) sentencias que dicte el Pleno se pronunciarán por unanimidad o por mayoría de votos de los magistrados. En caso de empate en las resoluciones del pleno su Presidente tendrá voto de calidad.
+Las sentencias que dicte la Sala Superior se pronunciarán por unanimidad o por mayoría de votos de los magistrados. En caso de empate en las resoluciones de la Sala Superior, su Presidente tendrá voto de calidad
 
 Cuando la mayoría de los magistrados esté de acuerdo con el proyecto, los magistrados disidentes podrán limitarse a expresar que votan en contra del mismo, o a formular voto particular razonado, en un plazo que no excederá de diez días, transcurrido dicho término, si no lo hacen, perderán ese derecho y deberán devolver el expediente. En caso de que no lo devuelvan, incurrirán en responsabilidades.
 
 Si el proyecto del Magistrado Ponente no fuere aceptado por los otros magistrados, el Secretario General de Acuerdos engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular del Ponente.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 81.
 
-Las sentencias pronunciadas por el Pleno adquirirán firmeza cuando fueren notificadas a las partes en el procedimiento.
+Las sentencias pronunciadas por la Sala Superior adquirirán firmeza cuando fueren notificadas a las partes en el procedimiento.
 
 ### CAPÍTULO XIII. DE LA EXCITATIVA DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 82.
 
@@ -791,7 +813,7 @@ Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente a
 
 ###### Artículo 83.
 
-Las partes podrán formular excitativa de justicia ante el Pleno del Tribunal, cuando la Sala o en su caso, el Magistrado Ponente, no dicten la sentencia o no formulen el proyecto respectivo dentro del plazo señalado en esta ley.
+Las partes podrán formular excitativa de justicia ante la Sala Superior del Tribunal, cuando la Sala o en su caso, el Magistrado Ponente, no dicten la sentencia o no formulen el proyecto respectivo dentro del plazo señalado en esta ley.
 
 ###### Artículo 84.
 
@@ -833,9 +855,11 @@ En caso de que no existiera partida presupuestal correspondiente o estuviere ago
 
 En todo caso, la cantidad fijada como indemnización en los casos de cumplimiento sustituto causará el interés legal a partir del vencimiento del término a que se refiere el primer párrafo del presente artículo, si no se encontrare pagada.
 
-Si la cantidad fijada como indemnización para el cumplimiento sustituto de la sentencia pudiera producir trastorno grave al presupuesto de la entidad pública obligada al pago, ésta lo hará del conocimiento del la Sala, justificando los motivos y acompañando una propuesta de cumplimiento. La Sala, con audiencia de las partes, resolverá si procede o no la proposición y, en su caso, fijará la manera en que la autoridad deberá cumplir de modo que se eviten trastornos graves al presupuesto.
+Si la cantidad fijada como indemnización para el cumplimiento sustituto de la sentencia pudiera producir trastorno grave al presupuesto de la entidad pública obligada al pago, ésta lo hará del conocimiento del (sic) la Sala, justificando los motivos y acompañando una propuesta de cumplimiento. La Sala, con audiencia de las partes, resolverá si procede o no la proposición y, en su caso, fijará la manera en que la autoridad deberá cumplir de modo que se eviten trastornos graves al presupuesto.
 
 ### CAPÍTULO XVI. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 #### Sección I. DE LA RECLAMACIÓN
 
@@ -885,19 +909,23 @@ En el recurso se deberán expresar con claridad la resolución impugnada y los a
 
 Al escrito en el que se interponga el recurso deberá acompañarse una copia del mismo para cada una de las partes. Si no se acompañaren los documentos aludidos, se prevendrá al recurrente para que dentro del término de tres días subsane la omisión, apercibiéndole que en caso de no hacerlo se le tendrá por desistido del recurso.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 93.
 
-Interpuesto el recurso a que se refiere el artículo anterior, el Magistrado que hubiere dictado la resolución recurrida ordenará correr traslado a las partes, para que, en el término de cinco días, expresen lo que a su derecho convenga. Transcurrido dicho término, se remitirán al pleno del Tribunal las constancias necesarias para la resolución del recurso. La interposición del recurso no suspenderá ni el procedimiento ni los efectos de la resolución recurrida.
+Interpuesto el recurso a que se refiere el artículo anterior, el Magistrado que hubiere dictado la resolución recurrida ordenará correr traslado a las partes, para que, en el término de cinco días, expresen lo que a su derecho convenga. Transcurrido dicho término, se remitirán a la Sala Superior del Tribunal las constancias necesarias para la resolución del recurso. La interposición del recurso no suspenderá ni el procedimiento ni los efectos de la resolución recurrida.
 
-Recibido el recurso por el Tribunal en pleno, el Presidente designará un Magistrado Ponente. La resolución que corresponda al recurso deberá dictarse dentro de los quince días siguientes. El magistrado que hubiere dictado la resolución recurrida deberá abstenerse de votar y de participar en la discusión del recurso.
+Recibido el recurso por la Sala Superior del Tribunal, el Presidente designará un Magistrado Ponente. La resolución que corresponda al recurso deberá dictarse dentro de los quince días siguientes.
 
 ###### Artículo 94.
 
 Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio debido al desistimiento del demandante, antes de la apertura del término para alegatos, no será necesario dar vista a la contraparte.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 95.
 
-La reclamación también podrá interponerse, con expresión de agravios, contra acuerdos de trámite dictados por el Presidente del Tribunal. Se interpondrá dentro del término de tres días, ante el Pleno del Tribunal de lo Administrativo, según el caso; y se resolverá de plano, por el Pleno dentro del término de quince días.
+La reclamación también podrá interponerse, con expresión de agravios, contra acuerdos de trámite dictados por el Presidente del Tribunal. Se interpondrá dentro del término de tres días, ante la Sala Superior del Tribunal de Justicia Administrativa, según el caso; y se resolverá de plano, por la Sala Superior dentro del término de quince días.
 
 De igual manera podrá interponerse en contra de acuerdos de trámite dictados en la substanciación de los recursos por las salas. En tales casos, el recurso se tramitará en los términos de este artículo.
 
@@ -929,9 +957,11 @@ IV. Contra las sentencias definitivas en materia de afirmativa ficta.
 
 Con independencia de lo dispuesto por el artículo anterior, el recurso de apelación es improcedente contra las sentencias que se hubiesen dictado en cumplimiento de una ejecutoria dictada en amparo directo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 98.
 
-El recurso de apelación se interpondrá por escrito ante la sala que hubiere dictado la sentencia, misma que tramitará el expediente hasta dejarlo en estado de resolución para remitirlo al Pleno del Tribunal de lo Administrativo.
+El recurso de apelación se interpondrá por escrito ante la sala que hubiere dictado la sentencia, misma que tramitará el expediente hasta dejarlo en estado de resolución para remitirlo a la Sala Superior del Tribunal de Justicia Administrativa.
 
 En todo caso la admisión de la apelación se decretará en ambos efectos.
 
@@ -941,19 +971,23 @@ La apelación deberá interponerse dentro de los cinco días siguientes a aquel 
 
 Deberá acompañarse copia del escrito para cada una de las partes en el juicio. En caso contrario se mandará prevenir a la parte recurrente para que, dentro del término de tres días subsane tal omisión, apercibiéndole que, de no hacerlo así, se le tendrá por no interpuesto el recurso.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+
 ###### Artículo 100.
 
-Una vez admitido el recurso por la sala correspondiente, se dará vista a las partes para que dentro del término de cinco días den contestación a los agravios. Transcurrido dicho término se remitirá el asunto al Pleno del Tribunal de lo Administrativo.
+Una vez admitido el recurso por la sala correspondiente, se dará vista a las partes para que dentro del término de cinco días den contestación a los agravios. Transcurrido dicho término se remitirá el asunto a la Sala Superior del Tribunal de Justicia Administrativa que corresponda.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 101.
 
-Una vez recibido el recurso por el Pleno, éste designará un Magistrado Ponente, que no podrá ser quien hubiere pronunciado la sentencia impugnada, para que, dentro del término de veinte días, elabore el proyecto de resolución.
+Una vez recibido el recurso por la Sala Superior, ésta designará un Magistrado Ponente, que no podrá ser quien hubiere pronunciado la sentencia impugnada, para que, dentro del término de veinte días, elabore el proyecto de resolución.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
 ###### Artículo 102.
 
-El pleno, dentro de un término igual al señalado para la formulación del proyecto de sentencia, dictará la misma. El magistrado que hubiese dictado la sentencia impugnada deberá abstenerse de votar y de participar en la discusión del asunto.
+La Sala Superior, dentro de un término igual al señalado para la formulación del proyecto de sentencia, dictará la misma.
 
 ### CAPÍTULO XVII. DE LOS PROCEDIMIENTOS ESPECIALES
 
@@ -961,7 +995,7 @@ El pleno, dentro de un término igual al señalado para la formulación del proy
 
 ###### Artículo 103.
 
-Siempre que de las actuaciones del juicio seguido ante el Tribunal de lo Administrativo se desprenda la existencia probable de un delito, el Tribunal hará la consignación del hecho ante el Ministerio Público.
+Siempre que de las actuaciones del juicio seguido ante las Salas del Tribunal de Justicia Administrativa se desprenda la existencia probable de un delito, el Tribunal hará la consignación del hecho ante el Ministerio Público.
 
 ###### Artículo 104.
 
@@ -1212,3 +1246,9 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26437/LXI/17 QUE REFORMA LOS ARTÍCULOS 89, 108, 109, 110, 111 Y 114 DE LA LEY DE JUSTICIA ADMINISTRATIVA; Y REFORMA EL ARTÍCULO 33 Y DEROGA EL ARTÍCULO 33 BIS DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, AMBAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26722/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1°, 10, 20, 21, 23, 25, 26, 29, 34, 80, 81, 83, 93, 95, 98, 100, 101, 102 Y 103 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
