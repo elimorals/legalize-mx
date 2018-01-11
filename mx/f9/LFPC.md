@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2017-12-22"
+last_updated: "2018-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,9 +26,7 @@ NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DEC
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -144,17 +142,17 @@ Asimismo, quedan excluidos los servicios regulados por las leyes financieras que
 
 Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal, municipal y del gobierno del Distrito Federal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 7o.
 
-Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
+Todo proveedor está obligado a informar y a respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, restricciones, plazos, fechas, modalidades, reservaciones y demás condiciones aplicables en la comercialización de bienes, productos o servicios, sobre todos aquellos que se hubiera ofrecido, obligado o convenido con el consumidor para la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes, productos o servicios a persona alguna, así como la información de los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
+
+ARTICULO 7o BIS.- El proveedor deberá informar de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
 
 > <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2010)</small>
-
-ARTICULO 7 BIS.- El proveedor está obligado a exhibir de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
 
 Dicho monto deberá incluir impuestos, comisiones, intereses, seguros y cualquier otro costo, cargo, gasto o erogación adicional que se requiera cubrir con motivo de la adquisición o contratación respectiva, sea ésta al contado o a crédito.
 
@@ -178,19 +176,23 @@ Para este propósito, elaborará contenidos y materiales educativos en esta mate
 
 La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 9o.
 
-Los proveedores de bienes o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de vigilantes, guardias o personal auxiliar que les presten sus servicios, independientemente de la responsabilidad personal en que incurra el infractor.
+Los proveedores de bienes, productos o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de gestores, vigilantes, guardias o personal auxiliar que les presten sus servicios, independientemente de la responsabilidad personal en que incurra el infractor.
 
 ###### ARTICULO 10.
 
 Queda prohibido a cualquier proveedor de bienes o servicios llevar a cabo acciones que atenten contra la libertad o seguridad o integridad personales de los consumidores bajo pretexto de registro o averiguación. En el caso de que alguien sea sorprendido en la comisión flagrante de un delito, los proveedores, sus agentes o empleados se limitarán, bajo su responsabilidad, a poner sin demora al presunto infractor a disposición de la autoridad competente. La infracción de esta disposición se sancionará de acuerdo con lo previsto en esta ley, independientemente de la reparación del daño moral y la indemnización por los daños y perjuicios ocasionados en caso de no comprobarse el delito imputado.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
-Los proveedores no podrán aplicar métodos o prácticas comerciales coercitivas y desleales, ni cláusulas o condiciones abusivas o impuestas en el abastecimiento de productos o servicios. Asimismo, tampoco podrán prestar servicios adicionales a los originalmente contratados que no hubieren sido solicitados o aceptados expresamente, por escrito o por vía electrónica, por el consumidor.
+Los proveedores no podrán aplicar métodos o prácticas comerciales coercitivas y desleales, ni cláusulas o condiciones abusivas o impuestas en el abastecimiento de productos o servicios. Asimismo, tampoco podrán prestar servicios adicionales a los originalmente contratados que no hubieren sido solicitados o aceptados expresamente, por escrito o por vía electrónica, por el consumidor, ni podrán aplicar cargos sin previo consentimiento del consumidor o que no se deriven del contrato correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+ARTICULO 10 BIS.- Los proveedores no podrán incrementar injustificadamente precios por fenómenos naturales, meteorológicos o contingencias sanitarias.
 
 ###### ARTICULO 11.
 
@@ -209,6 +211,10 @@ La Procuraduría verificará a través de visitas, requerimientos de informació
 Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información o documentación necesaria que les sea requerida para el cumplimiento de sus atribuciones, así como para sustanciar los procedimientos a que se refiere esta ley. Dicho plazo podrá ser ampliado por una sola vez.
 
 La Procuraduría considerará como información reservada, confidencial o comercial reservada aquella que establezca la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Se considerará infracción de los proveedores de bienes, productos o servicios la consistente en obstaculizar o impedir, por sí o por interpósita persona, las visitas de verificación, así como el procedimiento administrativo de ejecución que ordene la Procuraduría.
 
 ###### ARTICULO 14.
 
@@ -386,17 +392,17 @@ XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constituti
 
 XVIII. Promover y apoyar la constitución de organizaciones de consumidores, proporcionándoles capacitación y asesoría, así como procurar mecanismos para su autogestión;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables;
+XIX. Aplicar y ejecutar las sanciones y demás medidas establecidas en esta ley, en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables;
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-XX BIS. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
+XX BIS. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia Económica la denuncia que corresponda;
 
 > <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
@@ -404,33 +410,53 @@ XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los
 
 > <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas;
+XXII. Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas;
 
-> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-XXIII.- Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos por la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
+XXIII. Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos por la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables; emitir alertas dirigidas a los consumidores y dar a conocer las de otras autoridades o agencias sobre productos o prácticas en el abastecimiento de bienes, productos o servicios, defectuosos, dañinos o que pongan en riesgo la vida, la salud o la seguridad del consumidor; ordenar y difundir llamados a revisión dirigidos a proveedores y dar a conocer los de otras autoridades sobre productos o prácticas en el abastecimiento de bienes, productos o servicios, defectuosos, dañinos o que pongan en riesgo la vida, la salud, la seguridad o la economía del consumidor;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+XXIV. Retirar del mercado los bienes o productos, cuando se haya determinado fehacientemente por la autoridad competente, que ponen en riesgo la vida o la salud del consumidor, cuando los proveedores hayan informado previamente que sus productos ponen en riesgo la vida o la salud de los consumidores y, en su caso, ordenar la destrucción de los mismos, a fin de evitar que sean comercializados;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+XXV. Ordenar la reparación o sustitución de los bienes, productos o servicios que representen un riesgo para la vida, la salud, la seguridad o la economía del consumidor;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+XXVI. Aplicar el procedimiento administrativo de ejecución, en términos del Código Fiscal de la Federación, para el cobro de las multas que no hubiesen sido cubiertas oportunamente, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XXIV.- Las demás que le confieran esta ley y otros ordenamientos.
+XXVII. Las demás que le confieran esta ley y otros ordenamientos.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 25.
 
-La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar las siguientes medidas de apremio:
+La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:
 
-I. Apercibimiento;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+I. Multa de $244.36 a $24,436.82;
 
-II. Multa de $260.56 a $26,056.98.
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+II. El auxilio de la fuerza pública;
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $10,422.79, y
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-IV. El auxilio de la fuerza pública.
+III. Ordenar arresto administrativo hasta por 36 horas, y
+
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $9,774.73, por un período no mayor a 180 días.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Las medidas de apremio se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el proveedor, sin existir alguna prelación específica en cuanto a su imposición.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -444,17 +470,31 @@ III. Suspensión de la comercialización de bienes, productos o servicios;
 
 IV. Ordenar el retiro de bienes o productos del mercado, cuando se haya determinado fehacientemente por la autoridad competente que ponen en riesgo la vida o la salud de los consumidores;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-V. Colocación de sellos e información de advertencia, y
+V. Colocación de sellos e información de advertencia;
 
-VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta Ley.
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta ley, y
 
-Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello e información respectiva, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley, salvo el caso de que se encuentre en riesgo el principio señalado en la fracción X del artículo 1 de la presente ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+VII. Emitir alertas a los consumidores y dar a conocer las de otras autoridades sobre productos defectuosos o dañinos que pongan en riesgo la vida, la salud, la seguridad o la economía del consumidor, y ordenar el llamado a revisión de bienes o productos cuando presenten defecto o daños que ameriten ser corregidos, reparados o reemplazados, y los proveedores hayan informado esta circunstancia a la Procuraduría.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello e información respectiva, la Procuraduría realizará apercibimiento salvo el caso de que se encuentre en riesgo el principio señalado en la fracción X del artículo 1 de la presente ley. Tales medidas se levantarán una vez que el proveedor aporte elementos de convicción que acrediten el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto. En caso de que la acreditación del cese de las causas que dieron origen a la imposición de la medida precautoria, se basen en documentación o información falsa o que no sea idónea para comprobar su regularización, la Procuraduría sancionará conforme lo prevé el artículo 128 TER fracción XI de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+La Procuraduría una vez que se hayan aportado los elementos de convicción que acrediten el cese de la causa a la que se refiere la fracción V de este artículo, tendrá un plazo de diez días hábiles para el levantamiento de esta medida.
 
 Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+En el caso de la medida precautoria a que se refiere la fracción VII de este precepto, la Procuraduría podrá requerir al proveedor que remita la información que obre en sus archivos o bases de datos, tal como: el número de consumidores notificados, cantidad de productos o servicios involucrados y su distribución geográfica, las acciones, plazos, calendarios, programas de mantenimiento o de pago, cartas compromiso, presupuestos o cualquiera otra medida dirigida a cumplirlas, y podrá supervisar la disposición de los productos o servicios involucrados y los avances en la atención a los consumidores.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -546,6 +586,10 @@ Para los efectos de esta ley, se entiende por información o publicidad engaños
 
 La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Queda prohibido incluir en la información o publicidad en la que se comercialice un producto o servicio, toda leyenda o información que indique que han sido avalados, aprobados, recomendados o certificados por sociedades o asociaciones profesionales, cuando éstas carezcan de la documentación apropiada que soporte con evidencia científica, objetiva y fehaciente, las cualidades o propiedades del producto o servicio, o cualquier otro requisito señalado en las leyes aplicables para acreditar las mismas.
+
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 La Procuraduría podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
@@ -553,6 +597,10 @@ La Procuraduría podrá emitir lineamientos para el análisis y verificación de
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 En el análisis y verificación de la información o publicidad, la Procuraduría comprobará que la misma sea veraz, comprobable, clara y apegada a esta Ley y a las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Previo a su difusión, los proveedores de manera voluntaria, podrán someter su publicidad a revisión de la Procuraduría, a fin de que la misma emita una opinión no vinculante.
 
 ###### ARTICULO 33.
 
@@ -630,9 +678,9 @@ Tratándose de contratos de tracto sucesivo, el proveedor podrá realizar una in
 
 La Procuraduría podrá hacer referencia a productos, marcas, servicios o empresas en forma específica, como resultado de investigaciones permanentes, técnicas y objetivas, a efecto de orientar y proteger el interés de los consumidores y publicar periódicamente dichos resultados para conocimiento de éstos.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
-Los resultados de las investigaciones, encuestas y monitoreos publicados por la Procuraduría no podrán ser utilizados por las empresas o proveedores con fines publicitarios o comerciales.
+Los resultados de las investigaciones, encuestas y monitoreos publicados por la Procuraduría podrán ser usados por los proveedores con fines publicitarios, sólo cuando señalen de manera visible, clara, veraz y comprobable, el medio y la fecha de publicación y se presente completa al consumidor.
 
 ###### ARTICULO 45.
 
@@ -684,11 +732,15 @@ No se podrán realizar promociones en las que se anuncie un valor monetario para
 
 Si el autor de la promoción u oferta no cumple su ofrecimiento, el consumidor podrá optar por exigir el cumplimiento, aceptar otro bien o servicio equivalente o la rescisión del contrato y, en todo caso, tendrá derecho al pago de la diferencia económica entre el precio al que se ofrezca el bien o servicio objeto de la promoción u oferta y su precio normal, sin perjuicio de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
-### Capítulo V. De las ventas a domicilio, mediatas o indirectas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ENERO DE 2018)</small>
+
+### Capítulo V. De las ventas a domicilio o fuera del establecimiento mercantil, mediatas o indirectas
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 51.
 
-Por venta a domicilio, mediata o indirecta, se entiende la que se proponga o lleve a cabo fuera del local o establecimiento del proveedor, incluidos el arrendamiento de bienes muebles y la prestación de servicios. Lo dispuesto en este capítulo no es aplicable a la compraventa de bienes perecederos recibidos por el consumidor y pagados de contado.
+Por venta a domicilio o fuera del establecimiento mercantil, mediata o indirecta, se entiende la que se proponga o lleve a cabo fuera del local o establecimiento del proveedor, incluidos el arrendamiento de bienes muebles y la prestación de servicios. Lo dispuesto en este capítulo no es aplicable a la compraventa de bienes perecederos recibidos por el consumidor y pagados de contado.
 
 ###### ARTICULO 52.
 
@@ -720,11 +772,11 @@ Cuando el cobro o cargo por un bien o servicio se haga en forma automática al r
 
 Los proveedores deberán mantener registros e informar al consumidor todo lo necesario para que pueda identificar individualmente la transacción y cerciorarse de la identidad del consumidor.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 56.
 
-El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá la facultad de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación, debiendo el proveedor reintegrar al consumidor el precio pagado. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
+El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá el derecho de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado o certificado tomando como fecha de revocación la de recepción para su envío, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación, debiendo el proveedor reintegrar al consumidor el precio pagado. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
 
 ### Capítulo VI. De los servicios
 
@@ -858,7 +910,9 @@ La prestación del servicio de tiempo compartido, independientemente del nombre 
 
 La venta o preventa de un servicio de tiempo compartido sólo podrá iniciarse cuando el contrato respectivo esté registrado en la Procuraduría y cuando especifique:
 
-I. Nombre y domicilio del proveedor;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+I. Nombre y domicilio del proveedor o, en su caso, del prestador intermediario;
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
@@ -880,15 +934,29 @@ VI. Descripción de las fianzas y garantías que se otorgarán en favor del cons
 
 VII. En lo relativo a los servicios de tiempo compartido a prestarse en el extranjero éstos podrán ser comercializados en la República Mexicana únicamente cuando las personas físicas o morales que ofrezcan y/o presten y/o comercialicen los servicios sean sujetos de comercio, en México, de conformidad con las leyes aplicables, y que se hayan constituido en lo general, así como en lo especial en materia de tiempo compartido o club vacacional, de conformidad con las leyes de su país de origen; en caso de ser omisas, las personas referidas en el párrafo anterior deberán acreditar fehacientemente que su representada es el dueño del inmueble y su autorización a ser destinado a la comercialización de tiempo compartido.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
-ARTICULO 65 BIS.- Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o sociedades mercantiles no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria.
+La Procuraduría deberá publicar de forma permanente en su sitio de Internet la lista de los proveedores o prestadores intermediarios que hayan inscrito en el registro su contrato de adhesión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
+
+###### ARTICULO 65 Bis.
+
+Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o morales no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
 
 Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas y reguladas por las leyes vigentes a las instituciones del sistema financiero nacional.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
 La Procuraduría establecerá un registro público en el que se deberán inscribir las casas de empeño y los formatos de los contratos de adhesión que celebren con sus clientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
+
 Para organizarse y operar se requiere la inscripción en el Registro de Casas de Empeño, que compete otorgar a la Procuraduría. Por su naturaleza, los derechos derivados de la inscripción son intransmisibles.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2013)</small>
 
 La operación de una casa de empeño sin la inscripción en el Registro de Casas de Empeño se considerará como infracción particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis.
 
@@ -998,13 +1066,21 @@ II. En caso de existir descuentos, bonificaciones o cualquier otro motivo por el
 
 III. Informar al consumidor el monto total a pagar por el bien, producto o servicio de que se trate, que incluya, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-IV. Respetarse el precio que se haya pactado originalmente en operaciones a plazo o con reserva de dominio, salvo lo dispuesto en otras leyes o convenio en contrario, y
+IV. Respetarse el precio que se haya pactado originalmente en operaciones a plazo o con reserva de dominio, salvo lo dispuesto en otras leyes o convenio en contrario;
 
-> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-V. En caso de haberse efectuado la operación, el proveedor deberá enviar al consumidor al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros.
+V. En caso de haberse efectuado la operación, el proveedor deberá enviar al consumidor al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+VI. Observar las disposiciones de carácter general en materia de despachos de cobranza, emitidos por la Procuraduría en términos de lo dispuesto por el artículo 17 Bis 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+El incumplimiento a este precepto se sancionará conforme a lo dispuesto en el artículo 128, con excepción de la fracción VI que se sancionará conforme al artículo 128 TER.
 
 ###### ARTICULO 67.
 
@@ -1174,15 +1250,33 @@ VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad 
 
 VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+ARTICULO 76 BIS 1.- El proveedor que ofrezca, comercialice o venda bienes, productos o servicios utilizando medios electrónicos, ópticos o de cualquier otra tecnología, se guiará por las disposiciones de la Norma Mexicana expedida por la Secretaría de Economía, la cual contendrá, por lo menos, la siguiente información:
+
+I. Las especificaciones, características, condiciones y/o términos aplicables a los bienes, productos o servicios que se ofrecen;
+
+II. Mecanismos para que el consumidor pueda verificar que la operación refleja su intención de adquisición de los bienes, productos o servicios ofrecidos y las demás condiciones;
+
+III. Mecanismos para que el consumidor pueda aceptar la transacción;
+
+IV. Mecanismos de soporte de la prueba de la transacción;
+
+V. Mecanismos técnicos de seguridad apropiados y confiables que garanticen la protección y confidencialidad de la información personal del consumidor y de la transacción misma;
+
+VI. Mecanismos para presentar peticiones, quejas o reclamos, y
+
+VII. Mecanismos de identidad, de pago y de entrega.
+
 ### Capítulo IX. De las garantías
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 77.
 
-Todo bien o servicio que se ofrezca con garantía deberá sujetarse a lo dispuesto por esta ley y a lo pactado entre proveedores y consumidor.
+Todo bien o servicio que se ofrezca con garantía deberá sujetarse a lo dispuesto por esta ley y a lo pactado entre proveedor y consumidor.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-Para los efectos del párrafo anterior la garantía no podrá ser inferior a sesenta días contados a partir de la entrega del bien o la prestación total del servicio.
+Para los efectos del párrafo anterior la garantía no podrá ser inferior a noventa días contados a partir de la entrega del bien o la prestación del servicio.
 
 ###### ARTICULO 78.
 
@@ -1202,9 +1296,11 @@ Los productores deberán asegurar y responder del suministro oportuno de partes 
 
 Mediante normas oficiales mexicanas la Secretaría podrá disponer que determinados productos deben ser respaldados con una garantía de mayor vigencia por lo que se refiere al suministro de partes y refacciones, tomando en cuenta la durabilidad del producto.
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 81.
 
-En caso de que el producto haya sido reparado o sometido a mantenimiento y el mismo presente deficiencias imputables al autor de la reparación o del mantenimiento dentro de los treinta días naturales posteriores a la entrega del producto al consumidor, éste tendrá derecho a que sea reparado o mantenido de nuevo sin costo alguno. Si el plazo de la garantía es superior a los treinta días naturales, se estará a dicho plazo.
+En caso de que el producto haya sido reparado o sometido a mantenimiento y el mismo presente deficiencias imputables al autor de la reparación o del mantenimiento dentro de los noventa días naturales posteriores a la entrega del producto al consumidor, éste tendrá derecho a que sea reparado o mantenido de nuevo sin costo alguno. Si el plazo de la garantía es superior a los noventa días naturales, se estará a dicho plazo.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1268,13 +1364,23 @@ El consumidor gozará de las anteriores prerrogativas aun cuando no hubieren sid
 
 ARTICULO 86 QUATER.- Cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 87.
 
-En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, los proveedores deberán presentarlos ante la misma antes de su utilización y ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
+En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, los proveedores deberán presentarlos ante la misma antes de su utilización y ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días hábiles siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 Los contratos que deban registrarse conforme a esta ley, las normas oficiales mexicanas y demás disposiciones aplicables, y no se registren, así como aquéllos cuyo registro sea negado por la Procuraduría, no producirán efectos contra el consumidor.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+Los contratos de adhesión registrados ante la Procuraduría deberán utilizarse en todas sus operaciones comerciales y corresponder fielmente con los modelos de contrato registrados por la autoridad.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+El incumplimiento a este precepto se sancionará conforme lo dispuesto en el artículo 128, con excepción del párrafo anterior que se sancionará en términos del artículo 128 TER.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1347,6 +1453,10 @@ III. Si el bien reparado no queda en estado adecuado para su uso o destino, dent
 IV. En los demás casos previstos por esta ley.
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+En el caso de la fracción III, si el consumidor opta por la reposición del producto, éste debe ser nuevo.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
@@ -1438,13 +1548,17 @@ ARTICULO 97 QUATER.- Si durante el procedimiento de verificación se detecta alg
 
 Se entiende por visita de verificación la que se practique en los lugares a que se refiere el artículo 96 de acuerdo con lo dispuesto en esta ley, debiéndose:
 
-I. Examinar los productos o mercancías, las condiciones en que se ofrezcan éstos o se presten los servicios y los documentos e instrumentos relacionados con la actividad de que se trate;
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-II. Verificar precios, cantidades, cualidades, calidades, contenidos netos, masa drenada, tarifas e instrumentos de medición de dichos bienes o servicios en términos de esta ley;
+I. Levantar acta circunstanciada en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la visita de verificación o por quien la lleve a cabo si aquélla se hubiere negado a proponerlos, en la que se hagan constar los hechos u omisiones así como las manifestaciones de quienes intervengan en la visita de verificación si así deciden hacerlo;
 
-III. Constatar la existencia o inexistencia de productos o mercancías, atendiendo al giro del proveedor; y
+II. Examinar los productos o mercancías, las condiciones en que se ofrezcan éstos o se presten los servicios y los documentos e instrumentos relacionados con la actividad de que se trate;
 
-IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
+III. Verificar precios, cantidades, cualidades, calidades, contenidos netos, masa drenada, tarifas e instrumentos de medición de dichos bienes o servicios en términos de esta ley;
+
+IV. Constatar la existencia o inexistencia de productos o mercancías, atendiendo al giro del proveedor; y
+
+V. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
@@ -1602,9 +1716,9 @@ a) A partir de que se expida el recibo a favor del que disfruta del uso o goce t
 
 b) A partir de que se cumpla efectivamente la contraprestación pactada en favor del que otorga el uso o goce temporal.
 
-> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. PERTENECE AL INCISO B], D.O.F. 11 DE ENERO DE 2018)</small>
 
-Se exceptúa del término anterior, las reclamaciones que se realicen con motivo de la prestación de servicios educativos o similares, proporcionados por particulares a niñas, niños o adolescentes, por vulneración a los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes. La reclamación podrá presentarse dentro del término de diez años a partir de que se advierta dicha vulneración.
+Se exceptúa del término anterior, las reclamaciones que se realicen con motivo de la prestación de servicios educativos o similares, proporcionados por particulares a niñas, niños o adolescentes, por vulneración a los derechos contemplados en el Título Segundo de la Ley General de los Derechos de Niñas, Niños y Adolescentes. La reclamación podrá presentarse dentro del término de diez años a partir de que se advierta dicha vulneración.
 
 ###### ARTICULO 106.
 
@@ -1656,9 +1770,9 @@ La Procuraduría señalará día y hora para la celebración de una audiencia de
 
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
 
-> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
-Queda exceptuado de la etapa de conciliación, cuando el consumidor sea menor de edad y se haya vulnerado alguno de los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+Queda exceptuado de la etapa de conciliación, cuando el consumidor sea menor de edad y se haya vulnerado alguno de los derechos contemplados en el Título Segundo de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ###### ARTICULO 112.
 
@@ -1824,21 +1938,23 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $260.56 a $833,823.71.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $521.14 a $1’667,647.41.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $488.74 a $1’563,957.06.
 
-(REFORMADO, D.O.F. 16 DE ENERO DE 2013) (ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $748.62 a $2’927,956.44.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $702.07 a $2’745,903.07.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
 
-ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $156,341.95 a $4’377,574.49.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $141,929.70 a $3’974,031.62. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -1862,13 +1978,25 @@ V. Cuando se trate de productos básicos de consumo generalizado, como alimentos
 
 VI. Cuando la información o publicidad relacionada con algún bien, producto o servicio que pudiendo o no ser verdadera, induzcan a error o confusión al consumidor por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presente;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-VII. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
+VII. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
-VIII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+VIII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+IX. Cuando exista cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado, en perjuicio de los consumidores;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+X. Aquellas conductas que vulneren las disposiciones de carácter general en materia de despachos de cobranza emitidas por la Procuraduría en términos del artículo 17 Bis 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2018)</small>
+
+XI. Cuando la acreditación del cese de las causas que dieron origen a la imposición de la medida precautoria, se basen en documentación o información falsa o que no sea idónea para comprobar su regularización.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1890,9 +2018,11 @@ ARTICULO 129 BIS.- La Procuraduría actualizará cada año por inflación los mo
 
 Para estos efectos, la Procuraduría se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Banco de México entre la última actualización de dichos montos y el mes de noviembre del año en cuestión.
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 130.
 
-Se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción.
+Se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de tres años, contados a partir del día en que se cometió la primera infracción, y cuyos procedimientos de infracciones a la Ley sean sustanciados en la misma unidad administrativa de la Procuraduría, dentro de su competencia territorial.
 
 ###### ARTICULO 131.
 
@@ -1942,7 +2072,17 @@ Cuando por un mismo hecho u omisión se cometan varias infracciones a las que es
 
 La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso. Excepcionalmente procederá la condonación, reducción o conmutación de las multas que se hayan impuesto como medidas de apremio, cuando se hubiere logrado una conciliación en favor del consumidor y se acredite fehacientemente el cumplimiento del convenio correspondiente.
 
-La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas a la autoridad fiscal competente para su cobro y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas para su cobro, y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
+
+ARTICULO 134 BIS.- Las multas que imponga la Procuraduría serán consideradas créditos fiscales y se ejecutarán por ésta en su carácter de autoridad fiscal bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.
+
+La Procuraduría deberá implementar mecanismos para el pago de multas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología.
+
+Cuando el infractor pague las multas impuestas dentro de los treinta días hábiles siguientes a la fecha de su notificación, se aplicará una reducción de un cincuenta por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 
 ### Capítulo XV. Recursos administrativos
 
@@ -2344,11 +2484,27 @@ D.O.F. 22 DE DICIEMBRE DE 2017.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 568.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+D.O.F. 11 DE ENERO DE 2018.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR".]
 
-P.O. 26 DE ABRIL DE 2017.
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+Tercero.- Las sanciones pecuniarias que se hayan impuesto antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
+
+Cuarto.- El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 180 días siguientes, contados a partir de que se encuentre vigente el presente Decreto.
+
+Quinto.- El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 180 días siguientes a la publicación del presente Decreto.
+
+Sexto.- El Titular de la Procuraduría Federal del Consumidor deberá adecuar el Estatuto Orgánico del organismo descentralizado dentro de los 180 días siguientes a la publicación a la reforma del Reglamento de la Procuraduría Federal del Consumidor.
+
+Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto para el presente ejercicio fiscal y los subsecuentes de la Procuraduría.
+
+Octavo.- Las actualizaciones a que se refiere el presente Decreto estarán vigentes del 1 de enero al 31 de diciembre de cada año.
+
+Noveno.- La Secretaría deberá emitir en un plazo máximo de nueve meses a partir de la entrada en vigor del presente Decreto, la Norma Mexicana a la que hace referencia el artículo 76 Bis 1.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA DE VIOLENCIA DE GÉNERO”.]
 
