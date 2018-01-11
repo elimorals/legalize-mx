@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-los-servidores-publicos-del-poder-89809"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-07"
-last_updated: "2012-09-07"
+last_updated: "2018-01-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018 (SIN EFECTO).
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 7 de septiembre del 2012.
 
 LICENCIADO ROBERTO BORGE ANGULO, GOBERNADOR DEL ESTADO DE QUINTANA ROO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 90 FRACCIÓN XVIII, Y EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONE EL ARTÍCULO 91 FRACCIONES VI Y XIII DE LA CONSTITUCIÓN POLÍTICA Y CON FUNDAMENTO EN LOS ARTÍCULOS 2, 3, 7 Y 11 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBOS ORDENAMIENTOS DEL ESTADO DE QUINTANA ROO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo que tengo a bien a expedir el presente:
 
@@ -154,3 +158,15 @@ SECRETARIO DE GOBIERNO
 CP. GONZALO A. HERRERA CASTILLA
 
 SECRETARIO DE LA CONTRALORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de la Contraloría, publicará en su página en Internet, al día siguiente de la entrada en vigor del presente Acuerdo, el Código de Ética.
+
+TERCERO.- Se deja sin efecto el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Quintana Roo, publicado el siete de septiembre de dos mil doce en el Periódico Oficial del Estado de Quintana Roo.
