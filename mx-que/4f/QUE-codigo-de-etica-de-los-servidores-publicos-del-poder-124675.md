@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-del-poder-124675"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-12-01"
-last_updated: "2017-12-01"
+last_updated: "2018-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2018.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 1 de diciembre de 2017.
 
@@ -33,23 +33,31 @@ ALFONSO CHAVEZ FIERRO, Secretario de la Contraloría del Poder Ejecutivo del Est
 
 1. En el último párrafo del artículo 3 de la Constitución Política del Estado de Querétaro, se dispone que el Gobierno se sustenta en el valor de la ética, por lo que todos los entes Públicos cuentan con un Código de Ética, mediante el establecimiento de una adecuada política, la creación de un comité de ética formalmente constituido y de la realización de la capacitación y difusión en dicho valor.
 
-2. El Poder Ejecutivo del Estado de Querétaro en el Plan Estatal de Desarrollo 2016-2021, dentro del eje rector V, "Querétaro con buen gobierno" establece en la estrategia V.2 diversas líneas de acción orientadas a promover y fortalecer la transparencia, la legalidad y el combate a la corrupción y estas se traduzcan en mejor calidad de vida de la población queretana.
+2. El Poder Ejecutivo del Estado de Querétaro en el Plan Estatal de Desarrollo 2016-2021, dentro del eje rector V, “Querétaro con buen gobierno” establece en la estrategia V.2 diversas líneas de acción orientadas a promover y fortalecer la transparencia, la legalidad y el combate a la corrupción y estas se traduzcan en mejor calidad de vida de la población queretana.
 
 3. La Ley del Sistema Estatal Anticorrupción en sus artículos 2 fracción VIII y 5 establece como objetivos, acciones y mecanismos permanentes aquéllos que aseguren la integridad y el comportamiento ético de los servidores públicos con la finalidad de contar con políticas eficaces de ética pública, atendiendo a los principios rectores del servicio público previstos en la Ley General del Sistema Nacional Anticorrupción.
 
 4. En los artículos 4 y 5 de la Ley de Responsabilidades Administrativas del Estado de Querétaro se dispone que los entes públicos, estarán obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto y la actuación ética y responsable de cada servidor público; y que los y las servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad y eficiencia que rigen el servicio público.
 
-5. La Ley de Responsabilidades Administrativas del Estado de Querétaro en su artículo 13 dispone que los servidores públicos deberán observar el Código de Ética que al efecto sea emitido por la Secretara (sic) o los órganos internos de control, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño, con la finalidad de crear condiciones que permitan el adecuado funcionamiento del Estado mediante la actuación ética responsable de cada servidor público, así como darle la máxima publicidad.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+5. La Ley de Responsabilidades Administrativas del Estado de Querétaro en su artículo 13 dispone que los servidores públicos deberán observar el Código de Ética que al efecto sea emitido por la Secretaría o los órganos internos de control, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño, con la finalidad de crear condiciones que permitan el adecuado funcionamiento del Estado mediante la actuación ética responsable de cada servidor público, así como darle la máxima publicidad.
 
 Con base en lo expuesto, emito el siguiente:
 
 ACUERDO
 
-PRIMERO.- El presente Acuerdo tiene por objeto emitir el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y las Reglas de Integridad para el ejercicio de la función pública, para implementar acciones permanentes que favorezcan su comportamiento ético.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
 
-El Código de Ética tiene por objeto establecer un conjunto de principios y obligaciones éticas aplicables a los servidores públicos del Poder Ejecutivo del Estado de Querétaro, con la finalidad de que los mismos conduzcan sus acciones con responsabilidad, integridad y transparencia.
+PRIMERO.- El presente Acuerdo tiene por objeto emitir el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades; y las Reglas de Integridad para el ejercicio de la función pública, para implementar acciones permanentes que favorezcan su comportamiento ético.
 
-SEGUNDO.- Los principios, valores y conductas previstas en el presente Código, son de observancia general, enunciativa y no limitativa para los servidores públicos del Poder Ejecutivo del Estado de Querétaro, cualquiera que sea su nivel jerárquico o especialidad, sin perjuicio de lo establecido en otras normas o disposiciones que regulen el desempeño de los servidores públicos; por ende, todo servidor público que forme parte de la administración pública estatal, deberá conocerlo y asumir el compromiso de su debido cumplimiento.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+El Código de Ética tiene por objeto establecer un conjunto de principios y obligaciones éticas aplicables a los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades, con la finalidad de que los mismos conduzcan sus acciones con responsabilidad, integridad y transparencia.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+SEGUNDO.- Los principios, valores y conductas previstas en el presente Código, son de observancia general, enunciativa y no limitativa para los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades, cualquiera que sea su nivel jerárquico o especialidad, sin perjuicio de lo establecido en otras normas o disposiciones que regulen el desempeño de los servidores públicos; por ende, todo servidor público que forme parte de la administración pública estatal, deberá conocerlo y asumir el compromiso de su debido cumplimiento.
 
 TERCERO.- El lenguaje empleado en el Código de Ética y en las Reglas de Integridad, no buscan generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
 
@@ -59,7 +67,9 @@ a) Bases: Las Bases para la Integración, Organización y Funcionamiento del Com
 
 b) Código de Conducta: El instrumento emitido por el Titular de la Dependencia o entidad a propuesta de los Comités de ética y de Prevención de Conflictos de Interés.
 
-c) Código de Ética: El Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro a que se refiere el presente Acuerdo;
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+c) Código de Ética: El Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades, a que se refiere el presente Acuerdo;
 
 d) Comité: El Comité de Ética y de Prevención de Conflictos de Interés
 
@@ -73,13 +83,19 @@ h) Administración Pública: Las dependencias del Poder Ejecutivo del Estado de 
 
 i) Reglas de integridad: Las Reglas de Integridad para el ejercicio de la función pública, señaladas en el presente Acuerdo, y
 
-j) Servidor Público: Servidores Públicos del Poder Ejecutivo del Estado de Querétaro.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+j) Servidor Público: Servidores Públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades.
 
 k) Titular de la Unidad de Ética: La persona Especializada en Ética y Prevención de Conflictos de Interés de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
-CUARTO.- Se emite el Código de Ética y Reglas de Integridad de los Servidores Públicos, conforme a lo siguiente:
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
 
-Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro.
+CUARTO.- Se emite el Código de Ética y Reglas de Integridad de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro y sus Entidades, conforme a lo siguiente:
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro y sus Entidades.
 
 I. Principios constitucionales que todo servidor público debe observar en el desempeño de su empleo, cargo, comisión o función.
 
@@ -117,9 +133,13 @@ II. Valores que todo servidor público debe anteponer en el desempeño de su emp
 
 11. Rendición de Cuentas.- Los servidores públicos asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
 
-Reglas de Integridad de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
 
-Las Reglas de Integridad regirán la conducta de los servidores públicos del Poder Ejecutivo del Estado de Querétaro.
+Reglas de Integridad de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+Las Reglas de Integridad regirán la conducta de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades.
 
 1. Actuación pública
 
@@ -199,7 +219,9 @@ El servidor público que con motivo de su empleo, cargo, comisión o función o 
 
 Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-a) Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales que de manera particular haya tenido con personas u organizaciones inscritas en el Registro Único de Contratistas para la Administración Pública Estatal.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2018)</small>
+
+a) Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales que de manera particular haya tenido con personas u organizaciones inscritas en el Registro del Padrón de Proveedores del ente público en el que labora y en el Padrón de Obra Pública del Estado de Querétaro.
 
 b) Dejar de aplicar el principio de equidad de la competencia que debe prevalecer entre los participantes dentro de los procedimientos de contratación.
 
