@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2013-08-16"
+last_updated: "2018-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -103,9 +103,11 @@ Todos los servidores públicos del Tribunal están obligados a respetar el Códi
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN E INTEGRACIÓN DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2018)</small>
+
 ###### Artículo 10.
 
-El Tribunal se conformará por cuatro salas, una de las cuales será la Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; las demás salas serán ordinarias y unitarias, pudiendo cualesquiera de ellas conocer de los juicios orales, por acuerdo de la Sala Superior.
+El Tribunal se conformará por las Salas Ordinarias en los términos previstos en la Ley, y una Sala Superior que funcionará colegiadamente y se integrará por tres Magistrados; las demás salas serán ordinarias y unitarias, pudiendo cualesquiera de ellas conocer de los juicios orales, por acuerdo de la Sala Superior.
 
 ###### Artículo 11.
 
@@ -141,6 +143,10 @@ XIV. Jefes de Archivo; y
 
 XV. Personal jurídico y técnico administrativo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2018)</small>
+
+Los cuales tendrán facultades y funciones que le confiere la Ley, el presente Reglamento y las demás que asigne en su caso la Sala Superior.
+
 ### CAPÍTULO III. DE LA SALA SUPERIOR
 
 ###### Artículo 12.
@@ -153,7 +159,9 @@ II. Conceder licencias al Secretario General de Acuerdos, a los Secretarios de E
 
 III. Dictar las medidas necesarias para el despacho pronto, eficaz y expedito de los asuntos de la competencia del Tribunal; Cuando se acuerde suspender las labores o se habiliten días inhábiles, el acuerdo respectivo deberá publicarse en lugar visible del Tribunal y en el Periódico Oficial del Estado, surtiendo sus efectos legales en la forma que se acuerde por la Sala Superior;
 
-IV. Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio y Cuenta y a los Actuarios, respetando, en lo posible, el Servicio Civil de Carrera, en caso contrario, se deberá acreditar que el candidato cuenta con amplia experiencia en el área. Para los nuevos nombramientos que se realicen del personal jurisdiccional que ya labora en este Tribunal, se tomará en cuenta su trayectoria, méritos y antigüedad en la Institución;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2018)</small>
+
+IV. Nombrar al Secretario General de Acuerdos, al Director de Orientación y Consulta Ciudadana, a los Secretarios de Estudio y Cuenta y a los Actuarios, respetando, en lo posible, al Servicio de Carrera, en caso contrario, se deberá acreditar que el candidato cuenta con amplia experiencia en el área. Para los nuevos nombramientos que se realicen del personal jurisdiccional que ya labora en este Tribunal, se tomará en cuenta su trayectoria, méritos y antigüedad en la Institución;
 
 V. Instruir al Presidente del Tribunal para que presente la denuncia de hechos que corresponda ante las autoridades competentes, en los casos de la presunta comisión de hechos delictivos, suscitados en el Tribunal, así como en los procedimientos competencia del mismo, en los términos de las disposiciones penales aplicables;
 
@@ -181,7 +189,7 @@ I. Lista de asistencia;
 
 II. Declaratoria de instalación de la sesión;
 
-III. El Secretario mencionado dará lectura del orden del día, su aprobación o modificación por los Magistrados de Sala Superior, quienes deberán firmarla para constancia ante la fe del propio Secretario General de Acuerdos o de la persona autorizada para el efecto, conforme al párrafo anterior; (sic)
+III. El Secretario mencionado dará lectura del orden del día, su aprobación o modificación por los Magistrados de Sala Superior, quienes deberán firmarla para constancia ante la fe del propio Secretario General de Acuerdos o de la persona autorizada para el efecto, conforme al párrafo anterior;
 
 ###### Artículo 15.
 
@@ -323,7 +331,7 @@ XIV. Expedir certificaciones de las constancias que obren en los expedientes del
 
 XV. Compilar las sesiones de la Sala Superior en donde consten los criterios de interpretación y precedentes de determinado período de criterios de interpretación y precedentes aprobados por la Sala Superior, al tenor de la fracción XX del artículo 15 del presente reglamento ordenando la publicación respectiva.
 
-XVI. Participar en la realización de estudios de investigación en materia administrativa y fiscal.
+XVI. (DEROGADA, P.O. 12 DE ENERO DE 2018)
 
 XVII. Levantar las actas al personal administrativo y jurisdiccional cuando se incurra en faltas e irregularidades administrativas, e informar de las mismas a la Presidencia del Tribunal;
 
@@ -661,15 +669,15 @@ III. Informar mensualmente a la Sala Superior por conducto del Presidente del Tr
 
 IV. Establecer y operar los sistemas administrativos y contables para el ejercicio y control presupuestal;
 
-V. Planear, formular, ejecutar y controlar el Programa Estatal de Inversión (PEI) del Tribunal, previo acuerdo de la Sala Superior;
+V. (DEROGADA, P.O. 12 DE ENERO DE 2018)
 
 VI. Proponer e instrumentar con aprobación de la Sala Superior, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros del Tribunal, de acuerdo con sus programas y objetivos, así como darles seguimiento y verificar su estricta observancia;
 
-VII. Informar a la Sala Superior, sobre la evaluación del funcionamiento de las áreas administrativas;
+VII. (DEROGADA, P.O. 12 DE ENERO DE 2018)
 
 VIII. Someter a la consideración de la Sala Superior, las adecuaciones requeridas a la estructura orgánica, así como la actualización de manuales de procedimiento administrativo y de calidad aplicables al Tribunal;
 
-IX. Supervisar que las relaciones laborales se desarrollen de acuerdo con las políticas establecidas, en apego a las leyes laborales y a las condiciones generales de trabajo vigentes, así como su cumplimiento;
+IX. (DEROGADA, P.O. 12 DE ENERO DE 2018)
 
 X. Formar parte, por acuerdo de la Sala Superior, de la Comisión de Adquisiciones y de la Comisión de Bienes Muebles que en su momento se establezcan;
 
@@ -691,7 +699,7 @@ IV. Proponer las políticas y las pautas para el diseño de las redes de cómput
 
 V. Instalar el equipo de cómputo, periféricos, software, consumibles y accesorios, solicitados por las áreas usuarias y proporcionados por el área de Recursos Materiales y Servicios Generales; informando a esta última, para que actualicen sus inventarios y generen los resguardos respectivos, de manera oportuna;
 
-VI. Elaborar y proponer los lineamientos técnicos para la adquisición de equipo de cómputo, telecomunicaciones, redes de datos y software; así como los aspectos técnicos para la contratación y/o renovación, de servicios electrónicos requeridos por el Tribunal, en coordinación con el área de Recursos Materiales y Servicios Generales, con el objeto de mantener en buenas condiciones de operación la infraestructura de cómputo del Tribunal;
+VI. (DEROGADA, P.O. 12 DE ENERO DE 2018)
 
 VII. Revisar las bases de los procedimientos de licitación relacionados con la actividad informática, así como participar técnicamente en dichos procedimientos;
 
@@ -836,3 +844,11 @@ P.O. 16 DE AGOSTO DE 2013.
 Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Publíquese a la brevedad posible el presente Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Publíquese a la brevedad posible el presente acuerdo en el Periódico Oficial del Estado.
