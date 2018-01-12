@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2011-12-26"
+last_updated: "2018-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -83,9 +83,131 @@ XIV. Obtener financiamiento y créditos, así como aportar los activos e ingreso
 
 XV. Celebrar toda clase de convenios, actos jurídicos o administrativos, incluyendo transacciones y compromisos arbitrales, encaminados al cumplimiento de su objeto y al ejercicio de las facultades y obligaciones que esta Ley y los demás ordenamientos legales aplicables le impongan, sin perjuicio de las que en forma expresa le delegue el Ejecutivo del Estado o alguna instancia competente en los ámbitos relacionados con sus fines, así como llevar a cabo cualquier otra actividad o servicio conexos, complementarios, auxiliares o necesarios para el cumplimiento de su objeto.
 
-### Capítulo II. Del patrimonio del Instituto
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2018)</small>
 
-### Capítulo III. De la organización del Instituto
+### Capítulo I Bis. Del Observatorio Ciudadano de Seguridad Vial
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+El Observatorio Ciudadano de Seguridad Vial, es un órgano de participación ciudadana que tiene por objeto coadyuvar con el Instituto de Control Vehicular en el análisis de los incidentes de tránsito ocurridos en el Estado, su naturaleza, frecuencia, distribución, causas y consecuencias, para diseñar y, en su caso, proponer a las autoridades competentes las estrategias, programas y políticas públicas encaminadas a la prevención de estos hechos.
+
+El Instituto de Control Vehicular, destinara recursos humanos, materiales y económicos suficientes al Observatorio Ciudadano de Seguridad Vial para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+Artículo 3 Bis I.- El Observatorio Ciudadano de Seguridad Vial sesionará de forma ordinaria cada tres meses o las veces que estime necesaria (sic) su Presidente.
+
+El Observatorio Ciudadano de Seguridad Vial se integrará por los siguientes miembros:
+
+I. Un Presidente que pertenezca a una Organización de la Sociedad Civil;
+
+II. Un Secretario que será el Director General del Instituto de Control Vehicular o quien este designe;
+
+III. Tres representantes ciudadanos de los Observatorios Municipales del área metropolitana, los cuales serán rotativos cada año;
+
+IV. Un representante ciudadano de cada zona norte, sur, periférica y citrícola del Estado, designado por los Alcaldes de la región que corresponda de conformidad con el Reglamento;
+
+V. El titular de la Procuraduría General de Justicia del Estado o quien este designe;
+
+VI. El titular de la Secretaría de Salud Estatal o quien este designe;
+
+VII. Un representante de la Asociación de Transporte Público de Pasajeros de Nuevo León A.C.;
+
+VIII. Dos ciudadanos miembros del Consejo de Participación Ciudadana del Instituto de Control Vehicular;
+
+IX. Un representante de la Cruz Roja Mexicana;
+
+X. Un representante de los Hospitales Privados de la localidad;
+
+XI. Un representante de la Asociación Mexicana de Instituciones de Seguros (AMIS);
+
+XII. El titular de la Secretaría de Desarrollo Sustentable o quien éste designe;
+
+XIII. Un representante del Sector Académico Universitario del Estado, el cual será rotativo cada año;
+
+XIV. Un Diputado representante del H. Congreso del Estado; y
+
+XV. El Coordinador Estatal de la Policía Federal o quien este designe.
+
+Los integrantes del Observatorio Ciudadano de Seguridad Vial serán nombrados por el Consejo de Participación Ciudadana del Instituto de Control Vehicular.
+
+Las sesiones del Observatorio Ciudadano de Seguridad Vial serán válidas con la presencia de más de la mitad de sus integrantes y sus decisiones se tomarán con base en la mayoría de los presentes.
+
+Los miembros integrantes del Observatorio Ciudadano de Seguridad Vial duraran en su cargo tres años con posibilidad de ratificación por un solo periodo adicional; tendrán el carácter de honorífico por el desempeño del cargo no cobraran gratificación ni retribución.
+
+El Observatorio Ciudadano de Seguridad Vial podrá emitir recomendaciones no vinculatorias a los entes de gobierno estatal y municipal sobre temas de carácter normativo, infraestructura vial, aplicación y usos de tecnología, educación y cultura vial, capacitación profesionalización y planeación de uso de espacios públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+Artículo 3 Bis II.- El Observatorio tendrá las siguientes facultades:
+
+I. Emitir su Reglamento Interior;
+
+II. Solicitar a las autoridades estatales y municipales la información relacionada con hechos viales que se susciten en el ámbito de su competencia;
+
+III. Emitir el formato homologado para la recolección de información de los hechos de tránsito ocurridos en los municipios que le dé seguimiento al estado de salud de los lesionados graves hasta por 60 días;
+
+IV. Analizar los datos de los hechos de tránsito ocurridos en los Municipios del Estado, mediante el formato homologado para la recolección de información de los hechos de tránsito;
+
+V. Integrar y fortalecer una base de datos estatal que permita identificar la evolución estadística de la seguridad vial en los Municipios y garantizar su comparabilidad para la evaluación de políticas públicas;
+
+VI. Requerir la información de seguimiento a los hospitales públicos y privados sobre los hechos viales;
+
+VII. Establecer vínculos de coordinación con las diversas instancias de los tres poderes y órdenes de gobierno, que coadyuven a disminuir la incidencia de hechos de tránsito en el Estado;
+
+VIII. Fomentar y coordinar las relaciones con instituciones públicas y privadas, locales nacionales e internacionales, en materia de seguridad y movilidad sustentable;
+
+IX. Proponer y dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones derivados del trabajo del Consejo;
+
+X. Solicitar la realización de las investigaciones necesarias para el cumplimiento de su objeto;
+
+XI. Integrar comisiones o comités especializados para la atención de asuntos específicos o focalizados en los problemas de violencia vial;
+
+XII. Celebrar convenios para intercambios de información con las instituciones académicas o de prestigio expertas en el tema de hechos de tránsito; y
+
+XIII. Emitir y publicar en sus portales electrónicos reportes trimestrales acerca de las estadísticas viales que resultan.
+
+El Observatorio Ciudadano de Seguridad Vial emitirá su Reglamento Interior, estableciendo los aspectos relacionados con la organización y funcionamiento del mismo, el procedimiento para la realización de las sesiones, sus procedimientos internos y demás para el cumplimiento de sus fines.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+Artículo 3 Bis III.- El Presidente del Observatorio Ciudadano de Seguridad Vial, tendrá las siguientes facultades:
+
+I. Notificar a todos los miembros de las convocatorias de las sesiones del mismo;
+
+II. Presentar y proponer al Pleno el Proyecto de Reglamento Interior;
+
+III. Fungir como representante ante las distintas instancias de gobierno, organizaciones civiles y académicas;
+
+IV. Proponer al Pleno del Observatorio Ciudadano de Seguridad Vial el proyecto del Programa Anual de Actividades; y
+
+V. Dar cumplimiento a los acuerdos del Pleno del Observatorio Ciudadano de Seguridad Vial. Para el ejercicio de sus facultades.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+Articulo 3 Bis IV.- El Secretario Técnico del Observatorio Ciudadano de Seguridad Vial tendrá las siguientes facultades y atribuciones:
+
+I. Elaborar el Proyecto del Reglamento Interior;
+
+II. Dar seguimiento a los acuerdos aprobados;
+
+III. Fungir como enlace directo de colaboración y estudio con los observatorios viales municipales;
+
+IV. Elaborar el Plan anual de actividades;
+
+V. Formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre;
+
+VI. Colaborar con el Presidente en los asuntos que este le encomiende; y
+
+VII. Las demás facultades que le señale su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2018)</small>
+
+Artículo 3 Bis V.- Las autoridades municipales y estatales designarán enlaces operativos a través de los cuales deberán dentro de los primeros quince días después de concluido cada mes, entregar la información del formato homologado y en general todo lo relacionado con los incidentes viales, a fin de cumplir con el objeto para el cual fue creado el Observatorio Ciudadano de Seguridad Vial.
+
+### Capítulo II. Del patrimonio del Instituto
 
 ###### Artículo 4.
 
@@ -117,7 +239,7 @@ Corresponderá exclusivamente al Estado resarcir de la pérdida o menoscabo patr
 
 Los fideicomisos a que se refiere el segundo párrafo de este artículo con cargo a su patrimonio, se regirán por las disposiciones que se estipulen en los contratos respectivos y las del derecho común.
 
-### Capítulo IV. Disposiciones comunes del registro de vehículos, conductores y gravámenes
+### Capítulo III. De la organización del Instituto
 
 ###### Artículo 6.
 
@@ -233,7 +355,7 @@ El Consejo sesionará al menos dos veces durante el año, a convocatoria del Gob
 
 Los invitados participarán en el Consejo dos años, con opción de ser invitados nuevamente hasta por dos períodos consecutivos. La participación de los consejeros será honorífica. Sólo podrá sustituirse a los consejeros por renuncia, incapacidad permanente, fallecimiento o faltas graves que determine el Consejo por votación de la mayoría de sus miembros.
 
-### Capítulo V. De la inscripción de vehículos
+### Capítulo IV. Disposiciones comunes del registro de vehículos, conductores y gravámenes
 
 ###### Artículo 14.
 
@@ -275,7 +397,7 @@ III. Sección Tercera: Gravámenes.
 
 El Instituto no registrará inscripción o aviso alguno cuando existan contribuciones federales, estatales o municipales pendientes de pago, cuyo cobro corresponda al Instituto, así como sanciones vigentes, correspondientes al vehículo o al conductor respecto del cual se pretenda manifestar el aviso, excepto cuando los avisos sean recabados de las autoridades que se encuentran obligadas por disposición de esta Ley.
 
-### Capítulo VI. De la inscripción de conductores
+### Capítulo V. De la inscripción de vehículos
 
 ###### Artículo 21.
 
@@ -363,7 +485,7 @@ Los avisos señalados en las fracciones III y IV harán las veces del que refier
 
 Los avisos que refiere este artículo deberán recabarse dentro de los cinco días hábiles siguientes a la fecha en que haya tenido lugar su causa, con excepción de los señalados en la fracción I, que deberán recabarse mensualmente dentro de los primeros cinco días hábiles de cada mes, y acompañarse de constancias certificadas de los procedimientos en los que se hayan determinado.
 
-### Capítulo VII. De la inscripción de gravámenes sobre vehículos
+### Capítulo VI. De la inscripción de conductores
 
 ###### Artículo 27.
 
@@ -447,7 +569,7 @@ Los titulares de las licencias son responsables del pago de las multas que se le
 
 No procederá el refrendo o la reposición de las licencias para conducir en tanto se encuentren vigentes sanciones que le hayan sido impuestas a su titular.
 
-### Capítulo VIII. De las infracciones y sanciones
+### Capítulo VII. De la inscripción de gravámenes sobre vehículos
 
 ###### Artículo 33.
 
@@ -473,7 +595,7 @@ La preferencia entre derechos reales sobre un mismo vehículo se determinará po
 
 Las inscripciones pueden cancelarse por consentimiento de la persona a cuyo favor estén hechas, por orden judicial o a petición de parte cuando el derecho registrado quede extinguido por disposición de ley o por causas que resulten del documento que le dio origen. Cancelado un gravamen, se presume extinguido el derecho que haya conferido.
 
-### Capítulo IX. De los medios de defensa
+### Capítulo VIII. De las infracciones y sanciones
 
 ###### Artículo 37.
 
@@ -504,6 +626,8 @@ II. De 10 a 15 cuotas, a las comprendidas en las fracciones IV y V;
 III. De 5 a 10 cuotas, a la comprendida en la fracción VI; y
 
 IV. De 100 a 200 cuotas, a las comprendidas en las fracciones III y VII; en el caso de la fracción III se asegurarán los medios de identificación vehicular de que se trate.
+
+### Capítulo IX. De los medios de defensa
 
 ###### Artículo 39.
 
@@ -618,3 +742,15 @@ P.O. 14 DE DICIEMBRE DE 2011.
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2012.
+
+P.O. 12 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 355. SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "DEL OBSERVATORIO CIUDADANO DE SEGURIDAD VIAL CONSISTENTE DE LOS ARTÍCULOS 3 BIS, 3 BIS I, 3 BIS II, 3 BIS III, 3 BIS IV Y 3 BIS V DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se establece un periodo de 120 días naturales a partir de la entrada en vigor del presente Decreto, para la instalación del Observatorio Ciudadano de Seguridad Vial, y la designación del Secretario Técnico del mismo.
+
+Tercero.- Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad a su normativa interna, deberán en un término no mayor a 60 días hábiles después de ser notificados de la instalación del Observatorio Ciudadano de Seguridad Vial, designar a quien fungirá como enlace con el Observatorio Ciudadano de Seguridad Vial y notificar en ese plazo dicho nombramiento al Observatorio.
+
+Cuarto.- El Observatorio Ciudadano de Seguridad Vial, en un plazo no mayor a 120 días deberá emitir su Reglamento Interior, a partir de su instalación.
