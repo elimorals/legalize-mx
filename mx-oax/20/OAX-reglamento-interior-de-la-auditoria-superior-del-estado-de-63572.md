@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-la-auditoria-superior-del-estado-de-6357
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-20"
-last_updated: "2008-09-20"
+last_updated: "2018-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de septiembre de 2008.
 
@@ -321,7 +323,7 @@ X. Proponer, coordinar, evaluar y supervisar la actualización de los convenios 
 
 XI. Organizar y ejecutar el programa de capacitación del personal de las Entidades Fiscalizables en el manejo de la Hacienda Pública y su comprobación;
 
-XII. Evaluar los resultados de los cursos impartidos y el desempeño del personal capacitado en el desarrollo de sus actividades y, en su casó, poner a la consideración del Auditor Superior del Estado, la formación de instructores internos;
+XII. Evaluar los resultados de los cursos impartidos y el desempeño del personal capacitado en el desarrollo de sus actividades y, en su caso, poner a la consideración del Auditor Superior del Estado, la formación de instructores internos;
 
 XIII. Coadyuvar con la Unidad de Administración en la evaluación y certificación de los servidores públicos de la Institución, como se establecerá en el Servicio Profesional de Carrera de la Auditoría;
 
@@ -541,7 +543,7 @@ Corresponde a la Dirección de Auditoría al Desempeño las siguientes atribucio
 
 I. Coordinar y supervisar las auditorías visitas e inspecciones al desempeño y las de situaciones excepcionales previstas en el artículo 15 fracción III y en el Título Cuarto Capítulo Único de la Ley;
 
-II. Programar, coordinar y supervisar las auditorías, visitas e inspecciones, que llevan acabo las Unidades Administrativas su cargo, con el propósito de revisar en forma sistemática; organizada y objetiva, los programas gubernamentales proyectos especiales, políticas sectoriales o regionales, estrategias empresariales del sector público estatal, así como el funcionamiento de las Entidades Fiscalizables;
+II. Programar, coordinar y supervisar las auditorías, visitas e inspecciones, que llevan al cabo las Unidades Administrativas su cargo, con el propósito de revisar en forma sistemática, organizada y objetiva, los programas gubernamentales proyectos especiales, políticas sectoriales o regionales, estrategias empresariales del sector público estatal, así como el funcionamiento de las Entidades Fiscalizables;
 
 III. Programar, coordinar y supervisar que durante las intervenciones de las Entidades Fiscalizables, se constate que en la ejecución de los programas, proyectos y acciones se hayan efectuado los registros esenciales y que los procedimientos aplicados hayan sido suficientes para salvaguardar y controlar debidamente los bienes públicos y para garantizar un control eficaz de la estimación, recaudación y asignación de los ingresos del Estado;
 
@@ -633,7 +635,7 @@ V. Supervisar el sistema de control presupuestal y el correspondiente a la conta
 
 VI. Llevar el control de la información que reciba de los Municipios;
 
-VII. Informar por conducto de su superior jerárquico la relación de los Municipios que no cumplan con la entrega oportuna de la información financiera presupuestal, programática y económica; informes de avance de gestión financiera y Cuenta Publica para que se integre al Programa anual de auditorías, visitas e inspecciones;
+VII. Informar por conducto de su superior jerárquico la relación de los Municipios que no cumplan con la entrega oportuna de la información financiera presupuestal, programática y económica; informes de avance de gestión financiera y Cuenta Pública; para que se integre al Programa anual de auditorías, visitas e inspecciones;
 
 VIII. Llevar el control de las identificaciones de los servidores públicos municipales y empleados de las Entidades Fiscalizables, que deban firmar documentos oficiales para la Auditoría.
 
@@ -880,3 +882,13 @@ Oaxaca de Juárez, Oax., a 04 de septiembre del 2008.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. TEOFILO MANUEL GARCIA CORPUS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca, publicado en el Periódico Oficial del Estado, el día 20 de septiembre de 2008.
