@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-100194"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2017-09-16"
+last_updated: "2018-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento 5 del Periódico Oficial del Estado de Zacatecas, el miércoles 2 de abril de 2014
 
@@ -736,6 +736,10 @@ Esta educación incluye orientación a los padres o tutores, así como también 
 ###### Artículo 48.
 
 El Estado garantizará la educación inclusiva para personas con discapacidad en educación básica y demás subsistemas de educación. Las personas con discapacidad, sus padres o tutores podrán elegir si la persona con discapacidad cursa sus estudios en escuela regular o en algún otro servicio de atención que preste la Secretaría.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2018)</small>
+
+La Secretaría podrá asignar a las instituciones educativas de nivel básico que así lo requieran, alumnos de las carreras de Psicología Educativa y de Educación Especial, entre otras, que estén prestando servicio social o prácticas profesionales, para que se desempeñen como Apoyo a los Maestros y brinden atención profesional a aquellos alumnos con necesidades especiales integrados en escuelas regulares.
 
 La decisión que tome la persona con discapacidad, sus padres o tutores, deberá ser respetada y respaldada por la escuela elegida, quien deberá adoptar los ajustes razonables necesarios para lograr la inclusión educativa plena de las personas con discapacidad. Cualquier acto de rechazo o negativa del servicio educativo a las personas con discapacidad en las escuelas regulares, será considerado un acto discriminatorio, lo anterior independientemente del tipo y grado de discapacidad de la persona que solicite la inclusión educativa.
 
@@ -1576,6 +1580,14 @@ Artículo segundo. Las modificaciones a la normatividad administrativa que deriv
 P.O. 16 DE SEPTIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 169.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE ASISTENCIA SOCIAL Y LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS, TODAS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 207.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
 
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
