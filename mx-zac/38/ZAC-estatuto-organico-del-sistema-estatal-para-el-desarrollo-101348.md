@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-sistema-estatal-para-el-desarrollo-101348
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-06-15"
-last_updated: "2013-06-15"
+last_updated: "2018-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2018 (ABROGADO).
 
 Estatuto publicado en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 15 de junio de 2013.
 
@@ -2028,3 +2030,17 @@ Tercero.- Se Abroga el Estatuto Orgánico, publicado en fecha 19 de Junio de 201
 Cuarto.- Dentro del término de 30 días naturales, se expedirá el Manual de Organización y 180 días naturales para el Manual de Procedimientos, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
 
 EL PRESENTE ESTATUTO ORGÁNICO FUE APROBADO POR LA JUNTA DE GOBIERNO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, EN SESIÓN ORDINARIA CELEBRADA EN LA CIUDAD DE ZACATECAS, CAPITAL DEL ESTADO DEL MISMO NOMBRE A LOS NUEVE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DOCE. RÚBRICAS. EXPEDIDO EL 11 DE JUNIO DEL 2013.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+Artículo Primero. El presente Estatuto Orgánico, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Estatuto Orgánico, publicado en fecha 15 de junio de 2013, en Suplemento 2 al Número 48 del Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Tercero. Se derogan todas las disposiciones administrativas que contravengan el presente Estatuto Orgánico.
+
+Artículo Cuarto. Dentro del término de 90 días naturales, se expedirá el Manual de Organización y 120 días naturales para el Manual de Procedimientos, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
