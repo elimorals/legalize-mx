@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-establece-el-catalogo-de-pueblos-y-comunidades-109811"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2017-12-28"
+last_updated: "2018-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY QUE ESTABLECE EL CATALOGO DE PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE ESTABLECE EL CATÁLOGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL14 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de agosto de 2015.
 
@@ -73,6 +73,8 @@ Se reconocen y declaran como pueblos y comunidades indígenas de Durango las sig
 
 > <small>[N. DE E. VÉASE REFORMA AL CATÁLOGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO POR MUNICIPIO EN EL P.O. DE 28 DE DICIEMBRE DE 2017, PÁGINAS DE LA 196 A LA 197.]</small>
 
+> <small>[N. DE E. VÉASE FE DE ERRATAS AL CATÁLOGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO POR MUNICIPIO EN EL P.O. DE 14 ENERO DE 2018, PÁGINAS DE LA 40 A LA 43.]</small>
+
 ###### Artículo 4°.
 
 Todos los pueblos y comunidades indígenas, reconocidos y declarados como tales en el artículo anterior, podrán ser sujetos de los programas destinados para la atención y desarrollo de la población indígena, siempre y cuando cumplan con los requisitos y reglas de operación correspondientes.
@@ -119,7 +121,7 @@ LIC. MIGUEL ÁNGEL OLVERA ESCALERA
 
 P.O. 28 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 339.- QUE CONTIENE ADICIONES A LA LEY QUE ESTABLECE EL CATÁLOGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 339.- QUE CONTIENE ADICIONES A LA LEY QUE ESTABLECE EL CATÁLOGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
