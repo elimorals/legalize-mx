@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-125579"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2017-12-28"
+last_updated: "2018-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 14 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -1551,7 +1551,9 @@ PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- El Ejecutivo Estatal, emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
 
-TERCERO.- La presente Ley abroga a la Ley General de Protección Civil, publicada en el Periódico Oficial del Estado el 29 de Octubre del año de (1996) mil novecientos noventa y seis. Decreto 161, 60 Legislatura, Periódico Oficial 40, Fecha 96/11/17.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2018)</small>
+
+TERCERO.- La presente Ley abroga a la Ley de Protección Civil, publicada en el Periódico Oficial del Estado el 29 de Octubre del año de (1996) mil novecientos noventa y seis. Decreto 161, 60 Legislatura, Periódico Oficial 40, Fecha 96/11/17.
 
 CUARTO.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
 
