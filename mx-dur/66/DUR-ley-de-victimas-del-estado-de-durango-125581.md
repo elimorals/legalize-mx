@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-victimas-del-estado-de-durango-125581"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2017-12-28"
+last_updated: "2018-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE VÍCTIMAS DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2018.]
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -1887,7 +1887,9 @@ DÉCIMO PRIMERO.- La designación de los titulares del Fondo, del Registro y de 
 
 DÉCIMO SEGUNDO.- Los servidores públicos que actualmente se encuentran en funciones dentro de la Comisión Estatal de Atención Integral a Víctimas continuaran en el ejercicio de su encargo en la Comisión Ejecutiva Estatal de Atención a Víctimas, hasta en tanto no se realicen los nuevos nombramientos, o en su caso la ratificación correspondiente.
 
-DÉCIMO TERCERO.- Los recursos humanos, económicos y materiales, así como los archivos que sean parte de las actuaciones de la asesoría jurídica de víctimas, que se encuentren en posesión de la Fiscalía General del Estado, deberán de ser remitidos a la Comisión Ejecutiva Estatal.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2018)</small>
+
+DÉCIMO TERCERO.- Los recursos humanos, económicos y materiales, así como los archivos que sean parte de las actuaciones de la asesoría jurídica de víctimas, que se encuentren en posesión de los Organismos y Dependencias del Estado, deberán de ser remitidos a la Comisión Ejecutiva Estatal.
 
 Los expedientes relativos a la asesoría jurídica de victimas que se encuentren en posesión del Instituto de Defensoría Pública del Estado de Durango, deberán de ser remitidos a la Comisión Ejecutiva Estatal.
 
