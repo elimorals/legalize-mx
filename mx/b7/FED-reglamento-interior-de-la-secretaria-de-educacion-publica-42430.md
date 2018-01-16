@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2017-03-23"
+last_updated: "2018-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -103,11 +103,15 @@ XVI. Dirección General de Educación Superior para Profesionales de la Educaci�
 
 XVII. Dirección General de Profesiones;
 
-XVIII. Dirección General de Educación Tecnológica Industrial;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
 
-XIX. Dirección General de Educación Tecnológica Agropecuaria;
+XVIII. Unidad de Educación Media Superior Tecnológica Industrial y de Servicios;
 
-XX. Dirección General de Educación en Ciencia y Tecnología del Mar;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
+
+XIX. Unidad de Educación Media Superior Tecnológica Agropecuaria y Ciencias del Mar;
+
+XX. (DEROGADA, D.O.F. 16 DE ENERO DE 2018)
 
 XXI. Dirección General del Bachillerato;
 
@@ -181,7 +185,9 @@ XLI. Coordinación General de Atención Ciudadana, y
 
 B.- Órganos administrativos desconcentrados:
 
-I. Administración Federal de Servicios Educativos en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
+
+I. Autoridad Educativa Federal en la Ciudad de México;
 
 > <small>(F. DE E., D.O.F. 1 DE FEBRERO DE 2005)</small>
 
@@ -422,6 +428,10 @@ XVII. Someter a la aprobación del Secretario los manuales de organización y pr
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 XVIII. Coordinar el control y registro de la estructura orgánica de las unidades administrativas de la Secretaría de Educación Pública que haya sido aprobado por el Secretario y sus modificaciones, así como de los manuales de organización, de procedimientos y de servicios al público autorizados;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2018)</small>
+
+XVIII Bis. Coordinar la instrumentación y operación del Registro de Personas Acreditadas para realizar trámites ante la Secretaría de Educación Pública;
 
 XIX. Proveer lo necesario para el control, suministro, conservación, rehabilitación, reposición y, en general, el buen uso y servicio de los recursos materiales a disposición de las unidades administrativas;
 
@@ -699,9 +709,9 @@ XI. Atender las resoluciones que pronuncien las autoridades jurisdiccionales, ex
 
 XI bis. Coadyuvar en la defensa de los juicios promovidos en el extranjero en que sean parte las entidades de la administración pública paraestatal coordinadas por la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
 
-XI ter. Coordinar e integrar de conformidad con la información que corresponda proporcionar a las diversas unidades administrativas y a la Administración Federal de Servicios Educativos en el Distrito Federal, los informes y demás requerimientos que deban remitirse a la Comisión Nacional de Derechos Humanos;
+XI ter. Coordinar e integrar de conformidad con la información que le proporcionen las diversas unidades administrativas de la Secretaría de Educación Pública y la Autoridad Educativa Federal en la Ciudad de México, los informes y demás requerimientos que deban remitirse a la Comisión Nacional de los Derechos Humanos;
 
 XII. Autenticar, cuando sea procedente, las firmas de los servidores públicos de la Secretaría asentadas en los documentos que se expidan con motivo del ejercicio de sus atribuciones;
 
@@ -725,7 +735,7 @@ XIX. Tramitar ante las dependencias competentes, la expedición de las resolucio
 
 XX. Registrar los instrumentos normativos que emitan el Secretario y las unidades administrativas de la Secretaría, los nombramientos que expida el Titular de la misma, así como las autorizaciones que, para firmar documentación relacionada con asuntos que les competan, expidan los titulares de las unidades administrativas conforme a este Reglamento y las disposiciones aplicables;
 
-XXI. Llevar el registro de las personas acreditadas para efectuar trámites ante las unidades administrativas a que se refiere el artículo 2 de este Reglamento;
+XXI. (DEROGADA, D.O.F. 16 DE ENERO DE 2018)
 
 > <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
@@ -1117,263 +1127,143 @@ X. Comunicar a la Unidad de Asuntos Jurídicos y Transparencia las conductas que
 
 XI. Proponer la adopción de medidas de coordinación que permitan uniformar las normas a que deba sujetarse el ejercicio profesional en toda la República y promover la distribución geográfica y por rama de los profesionales conforme a las necesidades del país.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde a la Dirección General de Educación Tecnológica Industrial el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Educación Media Superior Tecnológica Industrial y de Servicios el ejercicio de las atribuciones siguientes:
 
-I. Proponer normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación media superior tecnológica industrial que imparta la Secretaría y difundir los vigentes;
+I. Proponer a su superior jerárquico normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación media superior tecnológica industrial y de servicios que imparta la Secretaría de Educación Pública, y una vez aprobados difundirlos;
 
-II. Verificar que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo, se apliquen íntegra y correctamente en los centros de bachillerato tecnológico industrial y de servicios, centros de estudios tecnológicos industriales y de servicios que dependen de la Secretaría;
+II. Coordinar las actividades que permitan verificar que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo, se apliquen íntegra y correctamente en los centros de bachillerato tecnológico industrial y de servicios, y los centros de estudios tecnológicos industriales y de servicios que dependen de la Secretaría de Educación Pública;
 
-III. Impulsar las reformas curriculares de los estudios a que se refiere este artículo que resulten necesarias para responder a los requerimientos de la sociedad del conocimiento y del desarrollo sustentable;
+III. Acordar con su superior jerárquico las reformas curriculares a los planes y programas de estudio de la educación a que se refiere este artículo que resulten necesarias para responder a los requerimientos de la sociedad;
 
-IV. Promover la creación de redes de intercambio y cooperación académica entre las instituciones de educación a que se refiere este artículo y las que imparten niveles equivalentes, así como las de educación superior, a fin de articular sus respectivos currículos dentro de un esquema de calidad;
+IV. Coordinar las actividades para promover la creación de redes de intercambio y cooperación académica entre las instituciones de educación a que se refiere este artículo y las que imparten niveles equivalentes, así como las de educación superior, a fin de articular sus respectivos currículos dentro de un esquema de calidad;
 
-V. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento de las tecnologías de la información y la comunicación y su aplicación en los programas académicos y materiales pedagógicos correspondientes a la educación a que se refiere el presente artículo;
+V. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría de Educación Pública, la incorporación del conocimiento de las tecnologías de la información y comunicaciones y su aplicación en los programas académicos y materiales pedagógicos correspondientes a la educación a que se refiere el presente artículo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+VI. Coordinar la organización, operación, desarrollo y supervisión de la educación a que se refiere este artículo que imparta la Secretaría de Educación Pública, así como realizar las funciones de evaluación que le correspondan, en términos de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones jurídicas aplicables;
 
-VI. Organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo que imparta la Secretaría de Educación Pública, así como realizar las funciones de evaluación que le correspondan, en términos de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones jurídicas aplicables;
+VII. Acordar con su superior jerárquico los programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública;
 
-VII. Proponer programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas dependientes de la Secretaría que impartan el tipo educativo a que se refiere este artículo;
+VIII. Emitir las disposiciones técnicas y administrativas para la organización, operación, desarrollo y supervisión de la educación a que se refiere este artículo, así como una vez emitidas dichas disposiciones, coordinar su difusión y las actividades que permitan la verificación de su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+IX. Organizar y operar en las instituciones educativas que impartan la educación prevista en este artículo y dependan de la Secretaría de Educación Pública el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
 
-VIII. Formular disposiciones técnicas y administrativas para organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo, así como una vez emitidas dichas disposiciones, difundirlas y verificar su cumplimiento;
+X. Acordar con su superior jerárquico los criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de la educación a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XI. Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido sus estudios conforme a los planes y programas de bachillerato tecnológico o de técnico profesional que impartan las instituciones de educación media superior tecnológica industrial y de servicios dependientes de la Secretaría de la Educación Pública;
 
-VIII Bis. Organizar y operar en las escuelas a su cargo el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
+XII. Coordinar la implementación y desarrollo de mecanismos de financiamiento para impulsar los planes de desarrollo para las instituciones educativas y la modernización de la educación a que se refiere este artículo;
 
-IX. Diseñar y promover criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de la educación media superior a que se refiere este artículo;
+XIII. Coordinar las actividades de promoción y autorizar la celebración de convenios de vinculación entre las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública con los sectores social y privado;
 
-X. Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido estudios conforme a los planes y programas de bachillerato tecnológico o de técnico profesional que impartan los servicios de educación media superior tecnológica industrial dependientes de la Secretaría;
+XIV. Diseñar y ofrecer programas de inducción, promoción y de reconocimiento, así como ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los docentes y personal con funciones de dirección y de supervisión que prestan sus servicios en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, sujetándose a lo dispuesto en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
 
-XI. Proponer lineamientos conforme a los cuales puedan desarrollarse mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación a que se refiere este artículo;
+XV. Ofrecer al personal docente y con funciones de dirección y de supervisión en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, programas de desarrollo de capacidades para la evaluación y programas de regularización a que se refiere la Ley General del Servicio Profesional Docente;
 
-XII. Promover y autorizar la celebración de convenios de vinculación entre escuelas que dependan de la Secretaría y que impartan la educación a que se refiere este artículo con los sectores social y privado;
+XVI. Ofrecer al personal con funciones de dirección en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, los procesos de formación a que se refiere el artículo 28 de la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XVII. Establecer, en términos de la Ley General de Educación, mecanismos de coordinación con los gobiernos de las entidades federativas para la mejor prestación de los servicios de educación a que se refiere este artículo;
 
-XIII. Diseñar y ofrecer programas de inducción, promoción y de reconocimiento, así como ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los docentes y personal con funciones de dirección y de supervisión que prestan sus servicios en las escuelas a su cargo, sujetándose a lo dispuesto en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
+XVIII. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios de tipo medio-superior cuyos planes y programas de estudio se refieran a lo tecnológico industrial y de servicios o técnico industrial y de servicios;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XIX. Coordinar las actividades para substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere la fracción anterior;
 
-XIII Bis. Ofrecer al personal docente y con funciones de dirección y de supervisión en los servicios educativos a su cargo, programas de desarrollo de capacidades para la evaluación y programas de regularización a que se refiere la Ley General del Servicio Profesional Docente;
+XX. Inspeccionar y vigilar en términos de la Ley General de Educación, a las instituciones educativas a las que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XVIII de este artículo y, en su caso, imponer las sanciones procedentes;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXI. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
 
-XIII Ter. Ofrecer al personal con funciones de dirección en los servicios educativos a su cargo, los procesos de formación a que se refiere el artículo 28 de la Ley General del Servicio Profesional Docente;
+XXII. Coordinar las actividades que impulsen investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
 
-XIV. Establecer, en términos de la Ley General de Educación, mecanismos de coordinación con los gobiernos de las entidades federativas para la mejor prestación de los servicios de educación a que se refiere este artículo;
+XXIII. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichas instituciones;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXIV. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
 
-XV. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios de tipo medio-superior cuyos planes y programas de estudios se refieran a lo tecnológico industrial o técnico industrial;
+XXV. Emitir opinión técnica sobre la factibilidad de establecer nuevas instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública;
 
-XVI. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere la fracción anterior;
+XXVI. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan la educación a que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXVII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación;
 
-XVII. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XV de este artículo y, en su caso, imponer las sanciones procedentes;
+XXVIII. Llevar a cabo los procesos de ingreso, promoción, reconocimiento y permanencia respecto del personal docente de las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, de conformidad con las disposiciones jurídicas aplicables y con la intervención que corresponda a otras autoridades en materia del Servicio Profesional Docente;
 
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+XXIX. Proponer la celebración de convenios de coordinación y concertación con los productores de bienes y servicios para desarrollar las prácticas profesionales y aquellas que sean necesarias para fortalecer el aprendizaje de las personas que reciben la educación a que se refiere este artículo, y
 
-XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
+XXX. Impulsar con los gobiernos de las entidades federativas y las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, la adopción de la opción educativa de formación dual de conformidad con las disposiciones jurídicas aplicables.
 
-XIX. Impulsar investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XX. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles;
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XX Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXII. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan la educación a que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría de Educación Pública, y
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXIII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
-Corresponde a la Dirección General de Educación Tecnológica Agropecuaria el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Educación Media Superior Tecnológica Agropecuaria y Ciencias del Mar el ejercicio de las atribuciones siguientes:
 
-I. Proponer normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación media superior tecnológica agropecuaria y forestal que imparta la Secretaría y difundir los vigentes;
+I. Proponer a su superior jerárquico normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación media superior agropecuaria y forestal y en ciencia y tecnología del mar y acuacultura, que imparta la Secretaría de Educación Pública, y una vez aprobados difundirlos;
 
-II. Impulsar las reformas curriculares de los estudios a que se refiere este artículo que resulten necesarias para responder a los requerimientos de la sociedad del conocimiento y del desarrollo sustentable;
+II. Acordar con su superior jerárquico las reformas curriculares a los planes y programas de estudio de la educación a que se refiere este artículo que resulten necesarias para responder a los requerimientos de la sociedad;
 
-III. Promover la creación de redes de intercambio y cooperación académica entre las instituciones de la educación a que se refiere este artículo y las que imparten niveles equivalentes, así como las de educación superior, a fin de articular sus respectivos currículos, dentro de un esquema de calidad;
+III. Coordinar las actividades para promover la creación de redes de intercambio y cooperación académica entre las instituciones de educación a que se refiere este artículo y las que imparten niveles equivalentes, así como las de educación superior, a fin de articular sus respectivos currículos dentro de un esquema de calidad;
 
-IV. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento de las tecnologías de la información y la comunicación y su aplicación en los programas académicos y materiales pedagógicos correspondientes a la educación a que se refiere el presente artículo;
+IV. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría de Educación Pública, la incorporación del conocimiento de las tecnologías de la información y comunicaciones y su aplicación en los programas académicos y materiales pedagógicos correspondientes a la educación a que se refiere el presente artículo;
 
-V. Proponer programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas a que se refiere el presente artículo;
+V. Acordar con su superior jerárquico los programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+VI. Coordinar la organización, operación, desarrollo y supervisión de la educación a que se refiere este artículo que imparta la Secretaría de Educación Pública, así como realizar las funciones de evaluación que le correspondan, en términos de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones jurídicas aplicables;
 
-VI. Organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo que imparta la Secretaría de Educación Pública, así como realizar las funciones de evaluación que le correspondan, en términos de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones jurídicas aplicables;
+VII. Coordinar las actividades que permitan verificar que se cumplan las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo, en los centros de bachillerato tecnológico agropecuario, centros de estudio tecnológico forestal, unidades de capacitación para el desarrollo rural, brigadas rurales, centros de estudios tecnológicos del mar y centros de estudios tecnológicos en aguas continentales dependientes de la Secretaría de Educación Pública;
 
-VII. Verificar que se cumplan las normas pedagógicas, contenidos y planes para la educación en los centros de bachillerato tecnológico agropecuario, centros de estudio tecnológico forestal, unidades de capacitación para el desarrollo rural y brigadas rurales dependientes de la Secretaría;
+VIII. Emitir las disposiciones técnicas y administrativas para la organización, operación, desarrollo y supervisión de la educación a que se refiere este artículo, así como una vez emitidas dichas disposiciones, coordinar su difusión y las actividades que permitan la verificación de su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+IX. Organizar y operar en las instituciones educativas que impartan la educación prevista en este artículo y dependan de la Secretaría de Educación Pública el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
 
-VIII. Formular disposiciones técnicas y administrativas para organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo, así como una vez emitidas dichas disposiciones, difundirlas y verificar su cumplimiento;
+X. Acordar con su superior jerárquico los criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de la educación a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XI. Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido sus estudios conforme a los planes y programas autorizados a las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública;
 
-VIII Bis. Organizar y operar en las escuelas a su cargo el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
+XII. Coordinar las actividades que impulsen investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
 
-IX. Diseñar y promover criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de la educación media superior a que se refiere este artículo;
+XIII. Diseñar y ofrecer programas de inducción, promoción y de reconocimiento, así como ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los docentes y personal con funciones de dirección y de supervisión que prestan sus servicios en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, sujetándose a lo dispuesto en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
 
-X. Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido estudios conforme a los planes y programas autorizados, en los servicios de educación media superior a que se refiere este artículo que dependan de la Secretaría;
+XIV. Ofrecer al personal docente y con funciones de dirección y de supervisión en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, programas de desarrollo de capacidades para la evaluación y programas de regularización a que se refiere la Ley General del Servicio Profesional Docente;
 
-XI. Impulsar investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
+XV. Ofrecer al personal con funciones de dirección en las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, los procesos de formación a que se refiere el artículo 28 de la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XVI. Coordinar la implementación y desarrollo de mecanismos de financiamiento para impulsar los planes de desarrollo para las instituciones educativas y la modernización de la educación a que se refiere este artículo;
 
-XII. Diseñar y ofrecer programas de inducción, promoción y de reconocimiento, así como ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los docentes y personal con funciones de dirección y de supervisión que prestan sus servicios en las escuelas a su cargo, sujetándose a lo dispuesto en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
+XVII. Coordinar las actividades de promoción y autorizar la celebración de convenios de vinculación entre las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública con los sectores social y privado;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XVIII. Establecer, en términos de la Ley General de Educación, mecanismos de coordinación con los gobiernos de las entidades federativas para la mejor prestación de los servicios de educación a que se refiere este artículo;
 
-XII Bis. Ofrecer al personal docente y con funciones de dirección y de supervisión en los servicios educativos a su cargo, programas de desarrollo de capacidades para la evaluación y programas de regularización a que se refiere la Ley General del Servicio Profesional Docente;
+XIX. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios de tipo medio-superior cuyos planes y programas de estudio se refieran a lo tecnológico o técnico agropecuario o forestal, así como a la ciencia y tecnología del mar o acuacultura;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XX. Coordinar las actividades para substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere la fracción anterior;
 
-XII Ter. Ofrecer al personal con funciones de dirección en los servicios educativos a su cargo, los procesos de formación a que se refiere el artículo 28 de la Ley General del Servicio Profesional Docente;
+XXI. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
 
-XIII. Proponer lineamientos conforme a los cuales puedan desarrollarse mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación a que se refiere este artículo;
+XXII. Inspeccionar y vigilar en términos de la Ley General de Educación, a las instituciones educativas a las que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XIX de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XIV. Promover y autorizar la celebración de convenios de vinculación entre escuelas dependientes de la Secretaría que impartan la educación a que se refiere este artículo con los sectores social y privado;
+XXIII. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichas instituciones;
 
-XV. Establecer, en términos de la Ley General de Educación, mecanismos de coordinación con los gobiernos de las entidades federativas para la mejor prestación de los servicios de educación a que se refiere este artículo;
+XXIV. Emitir opinión técnica sobre la factibilidad de establecer nuevas instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXV. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
 
-XVI. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios de tipo medio-superior cuyos planes y programas de estudios se refieran a lo tecnológico o técnico agropecuario o forestal;
+XXVI. Asesorar a las autoridades educativas locales, cuando lo soliciten, en la elaboración de planes y programas de estudio estatales para actualizar y desarrollar la educación a que se refiere este artículo;
 
-XVII. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere este artículo;
+XXVII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación;
 
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+XXVIII. Coordinar la formación de técnicos en la educación a que se refiere este artículo, en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, así como proporcionar la capacitación que le requieran los sectores agropecuario, forestal y pesquero;
 
-XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
+XXIX. Proponer la celebración de convenios de coordinación y concertación con los productores de bienes y servicios para desarrollar las prácticas profesionales y aquellas que sean necesarias para fortalecer el aprendizaje de las personas que reciben la educación a que se refiere este artículo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXX. Llevar a cabo los procesos de ingreso, promoción, reconocimiento y permanencia respecto del personal docente de las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, de conformidad con las disposiciones jurídicas aplicables y con la intervención que corresponda a otras autoridades en materia del Servicio Profesional Docente, y
 
-XIX. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XVI de este artículo y, en su caso, imponer las sanciones procedentes;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XX. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles;
-
-(REFORMADA, D.O.F. 23 DE MARZO DE 2017)V
-
-XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXI Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXII. Asesorar a las autoridades educativas locales, cuando lo soliciten, en la elaboración de planes y programas de estudio estatales para actualizar y desarrollar la educación a que se refiere este artículo, y
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXIII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
+XXXI. Impulsar con los gobiernos de las entidades federativas y las instituciones educativas que impartan la educación a que se refiere este artículo y dependan de la Secretaría de Educación Pública, la adopción de la opción educativa de formación dual de conformidad con las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 25.
 
-Corresponde a la Dirección General de Educación en Ciencia y Tecnología del Mar el ejercicio de las siguientes atribuciones:
-
-I. Proponer normas pedagógicas, contenidos, planes, programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje, de la educación media superior y la capacitación en ciencia y tecnología del mar y acuicultura que imparta la Secretaría y difundir los vigentes;
-
-II. Impulsar las reformas curriculares de los estudios a que se refiere el presente artículo que resulten necesarias para responder a los requerimientos de la sociedad del conocimiento y del desarrollo sustentable, promoviendo la participación de los sectores social y privado en las mismas;
-
-III. Promover la creación de redes de intercambio y cooperación académica entre las instituciones de educación a que se refiere este artículo y las que imparten niveles equivalentes, así como las de educación superior, a fin de articular sus respectivos currículos dentro de un esquema de calidad;
-
-IV. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento de las tecnologías de la información y la comunicación y su aplicación en los programas académicos y materiales pedagógicos correspondientes a la educación a que se refiere el presente artículo;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-V. Organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo que imparta la Secretaría de Educación Pública, así como realizar las funciones de evaluación que le correspondan, en términos de la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones jurídicas aplicables;
-
-VI. Proponer programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas correspondientes a la educación a que se refiere el presente artículo;
-
-VII. Formar técnicos en las materias de la educación a que se refiere este artículo, en coordinación con las dependencias y entidades competentes del Ejecutivo Federal, así como proporcionar la capacitación que le requiera el sector pesquero;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-VIII. Formular disposiciones técnicas y administrativas para organizar, operar, desarrollar y supervisar la educación a que se refiere este artículo, así como una vez emitidas dichas disposiciones, difundirlas y verificar su cumplimiento;
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-VIII Bis. Organizar y operar en las escuelas a su cargo el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-IX. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
-
-X. Diseñar y promover criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de este tipo educativo;
-
-XI. Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido estudios conforme a los planes y programas autorizados, en los servicios de educación a que se refiere este artículo;
-
-XII. Impulsar investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
-
-XIII. Verificar que se cumplan las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo en los centros de estudios tecnológicos del mar y centros de estudios tecnológicos en aguas continentales;
-
-XIV. Proponer lineamientos conforme a los cuales puedan desarrollarse mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación a que se refiere este artículo;
-
-XV. Promover y autorizar la celebración de convenios de vinculación entre escuelas dependientes de la Secretaría que impartan la educación a que se refiere este artículo con los sectores social y privado;
-
-XVI. Celebrar, previo acuerdo con su superior jerárquico, convenios de coordinación y concertación con los productores de bienes y servicios para desarrollar las prácticas de los educandos;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XVII. Diseñar y ofrecer programas de inducción, promoción y de reconocimiento, así como ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los docentes y personal con funciones de dirección y de supervisión que prestan sus servicios en las escuelas a su cargo, sujetándose a lo dispuesto en la Ley General de Educación y la General del Servicio Profesional Docente;
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XVII Bis. Ofrecer al personal docente y con funciones de dirección y de supervisión en los servicios educativos a su cargo, programas de desarrollo de capacidades para la evaluación y programas de regularización a que se refiere la Ley General del Servicio Profesional Docente;
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XVII Ter. Ofrecer al personal con funciones de dirección en los servicios educativos a su cargo, los procesos de formación a que se refiere el artículo 28 de la Ley General del Servicio Profesional Docente;
-
-XVIII. Establecer, en términos de la Ley General de Educación, mecanismos de coordinación con los gobiernos de los estados para la mejor prestación de la educación a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XIX. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios del tipo medio-superior cuyos planes y programas de estudios se refieran a la ciencia y tecnología del mar o acuicultura;
-
-XX. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XXI. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XIX de este artículo y, en su caso, imponer las sanciones procedentes;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXII Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXIII. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles, y
-
-> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
-
-XXIV. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2018)
 
 ###### ARTÍCULO 26.
 
@@ -2019,13 +1909,13 @@ X. Supervisar el establecimiento y operación de los servicios de seguridad en l
 
 XI. Coordinar el establecimiento y operación de los programas de protección civil en las unidades administrativas de la Secretaría y asesorar en la materia a los planteles en que se imparte educación de los tipos medio superior y superior, así como a las entidades del sector educativo;
 
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
 
-XII. Elaborar y suscribir previo dictamen favorable de la Unidad de Asuntos Jurídicos y Transparencia, los contratos y convenios de obra pública, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría de Educación Pública, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas;
+XII. Elaborar y suscribir, los contratos y convenios de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría de Educación Pública, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas;
 
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
 
-XII Bis. Elaborar y suscribir previo dictamen favorable de la Unidad de Asuntos Jurídicos y Transparencia, los contratos y convenios de arrendamiento de inmuebles, previa justificación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, conforme a las disposiciones jurídicas aplicables, y
+XII Bis. Elaborar y suscribir, los contratos y convenios de arrendamiento de inmuebles, previa justificación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, conforme a las disposiciones jurídicas aplicables, y
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -2403,7 +2293,9 @@ Para la más eficaz atención y eficiente despacho de los asuntos de la competen
 
 Son órganos desconcentrados de la Secretaría:
 
-I. Administración Federal de Servicios Educativos en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2018)</small>
+
+I. Autoridad Educativa Federal en la Ciudad de México;
 
 > <small>(F. DE E., D.O.F. 1 DE FEBRERO DE 2005)</small>
 
@@ -2465,11 +2357,11 @@ Los servidores públicos a que se refiere el artículo 47 ejercerán las faculta
 
 La Secretaría y sus órganos desconcentrados proporcionarán al titular de su respectivo órgano interno de control, los recursos humanos y materiales que requiera para el ejercicio de las facultades que tiene conferidas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, (N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 51.
 
-Los órganos administrativos desconcentrados (sic) Administración Federal de Servicios Educativos en el Distrito Federal, Instituto Politécnico Nacional y Universidad Pedagógica Nacional contarán, cada uno de ellos, con su respectivo órgano interno de control.
+La Autoridad Educativa Federal en la Ciudad de México, el Instituto Politécnico Nacional y la Universidad Pedagógica Nacional contarán, cada uno de ellos, con su respectivo órgano interno de control.
 
 Al frente de cada uno de los órganos internos de control que se mencionan en el párrafo anterior habrá un Titular, quien será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
@@ -2660,3 +2552,17 @@ TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 CUARTO.- La Secretaría de Educación Pública deberá, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a los acuerdos, manuales y demás disposiciones administrativas conforme a lo previsto en el presente Decreto.
 
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública que desaparecen, modifican sus atribuciones o cambian de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas y órganos administrativos desconcentrados que resulten competentes conforme al mismo.
+
+D.O.F. 16 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos en trámite que son atendidos por las unidades administrativas de la Secretaría de Educación Pública que desaparecen o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas de dicha Dependencia a las que se les otorga la competencia conforme a este ordenamiento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal, por lo que cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+CUARTO.- La Secretaría de Educación Pública deberá, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a los acuerdos secretariales, manuales y demás disposiciones administrativas que le corresponde emitir conforme a lo previsto en el presente Decreto.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a las unidades administrativas y órgano administrativo desconcentrado de la Secretaría de Educación Pública que desaparecen, modifican sus atribuciones o cambian de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
