@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2017-12-12"
+last_updated: "2018-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2018.]</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -1325,7 +1325,9 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 5 A 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PAGINAS DE LA 10 A LA 12.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 10 A LA 12.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 16 DE ENERO DE 2018, PÁGINA 6.]</small>
 
 Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
 
@@ -1632,6 +1634,8 @@ IV.- VISITAS DE VERIFICACIÓN, CURSOS DE CAPACITACIÓN, Y AVISO DE FUNCIONAMIENT
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 10 A LA 11.]</small>
 
 > <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 16 A LA 17.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 16 DE ENERO DE 2018, PÁGINAS DE LA 7 A LA 8.]</small>
 
 V.- POR LOS SERVICIOS QUE PRESTA LA AUTORIDAD SANITARIA POR ACTIVIDADES REGULADAS POR LA MISMA, PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS.
 
