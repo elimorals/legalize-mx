@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2017-07-18"
+last_updated: "2018-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE GUERRERO NUMERO 500
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2018.]</small>
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -675,13 +675,13 @@ ARTÍCULO 30 BIS 2. Atribuciones de la Fiscalía Especializada en Combate a la C
 
 La Fiscalía Especializada en Combate a la Corrupción tendrá las atribuciones siguientes:
 
-I. Ejercer las atribuciones que la Constitución Federal, los instrumentos jurídicos internacionales en la materia, el Código Nacional, la Constitución Política del Estado de Guerrero, el Código Penal, las leyes y reglamentos en la materia y que demás disposiciones jurídicas le otorgan al Ministerio Publico, respecto de los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Fiscalía General, en cuyo caso, se estará a lo dispuesto en el artículo 52 de esta Ley;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+I. Ejercer las atribuciones que la Constitución Federal, los instrumentos jurídicos internacionales en la materia, el Código Nacional, la Constitución política del Estado de Guerrero, el Código Penal, las leyes y reglamentos en la materia y que demás disposiciones jurídicas le otorgan al Ministerio Publico, respecto de los hechos que la ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Fiscalía General, en cuyo caso, se estará a lo dispuesto en el artículo 52 de esta Ley;
 
 II. Participar como integrante del Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 198 bis, fracción I de la Constitución de Guerrero y en la ley estatal correspondiente;
 
 III. Nombrar, previo acuerdo con el Fiscal General, a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, salvo el personal que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 El Fiscal Especializado fundada y motivadamente, podrá solicitar al Fiscal General la destitución de los agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer en su cargo;
 
@@ -699,7 +699,9 @@ IX. Instrumentar mecanismos de colaboración con otras autoridades para la elabo
 
 X. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia.
 
-Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del titular de la Fiscalía Especializada en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del titular (sic) Fiscalía Especializada en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
 
 En caso de contradicción, corresponderá al titular de la Vicefiscalía de Prevención y Seguimiento, resolver las discrepancias que se susciten en el ámbito administrativo con motivo de la interpretación o aplicación de la Ley Orgánica, su Reglamento, y demás normatividad institucional, así como presentar opinión al Fiscal General en los casos no previstos para que resuelva lo conducente en el marco de sus facultades.
 
@@ -709,45 +711,77 @@ En su caso, se propondrá al Fiscal General la actualización, derogación o abr
 
 XI. Proponer la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos en materia de combate a la corrupción;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
-
 XII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos en materia de corrupción;
 
-XIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones de su competencia;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XIV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+XIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la cultura de la legalidad en materia de delitos relacionados con hechos de corrupción, cometidos por quienes tengan el carácter de servidores públicos conforme a la Constitución de Guerrero;
 
-XV. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades administrativas competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XVI. Coadyuvar con otras áreas competentes de la Fiscalía General en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+XIV. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones de su competencia;
 
-XVII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XVIII. Emitir guías y manuales técnicos, en conjunto con la Coordinación General de los Servicios Periciales de la Fiscalía General, para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los Agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+XV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
 
-XIX. Coordinar la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+XVI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades administrativas competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XVII. Coadyuvar con otras áreas competentes de la Fiscalía General en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XVIII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XIX. Emitir guías y manuales técnicos, en conjunto con la Coordinación General de los Servicios Periciales de la Fiscalía General, para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los Agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
 
 XX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
 
-XXI. Dirigir, coordinar y realizar la investigación de los hechos probablemente constitutivos de delitos de su competencia, en los que ejerza la facultad de atracción;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+XXI. Elaborar y convenir programas de trabajo, así como proponer al Fiscal General la celebración de convenios con las diversas dependencias federales, de otras entidades federativas y municipales, para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad y de Comercio, Catastro y de control vehicular, entre otros, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
 
-XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XXIV. Decidir, en términos de las disposiciones aplicables, el destino de los recursos que le sean asignados, a fin de cubrir las necesidades que surjan en el desempeño de sus atribuciones;
+XXII. Dirigir, coordinar y realizar la investigación de los hechos probablemente constitutivos de delitos de su competencia, en los que ejerza la facultad de atracción;
 
-XXV. Recibir denuncias, querellas o su equivalente que le sean presentadas, incluyendo información anónima, sobre hechos que la ley considera como delitos en materia de corrupción;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XXVI. Investigar hechos constitutivos de delitos en materia de corrupción;
+XXIII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
 
-XXVII. Ejercitar la acción penal y solicitar audiencia de control de detención, formulación de imputación y, en su caso formular la acusación correspondiente ante la autoridad judicial por delitos en materia de corrupción;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
 
-XXVIII. Coordinar y supervisar la actuación de la Policía Investigadora Ministerial de su adscripción, en los términos que establezcan las disposiciones de la materia; y
+XXIV. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
-XXIX. Las demás que le confieran otras disposiciones aplicables.
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXV. Decidir, en términos de las disposiciones aplicables, el destino de los recursos que le sean asignados, a fin de cubrir las necesidades que surjan en el desempeño de sus atribuciones;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXVI. Recibir denuncias, querellas o su equivalente que le sean presentadas, incluyendo información anónima, sobre hechos que la ley considera como delitos en materia de corrupción;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXVII. Investigar hechos constitutivos de delitos en materia de corrupción;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXVIII. Ejercitar la acción penal y solicitar audiencia de control de detención, formulación de imputación y, en su caso formular la acusación correspondiente ante la autoridad judicial por delitos en materia de corrupción;
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXIX. Coordinar y supervisar la actuación de la Policía Investigadora Ministerial de su adscripción, en los términos que establezcan las disposiciones de la materia; y
+
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2018)</small>
+
+XXX. Las demás que le confieran otras disposiciones aplicables.
 
 ###### ARTÍCULO 31.
 
