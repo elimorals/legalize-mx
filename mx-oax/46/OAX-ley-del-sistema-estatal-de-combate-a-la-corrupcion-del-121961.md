@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-combate-a-la-corrupcion-del-121961"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2017-08-10"
+last_updated: "2018-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2018.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de mayo de 2017.
 
@@ -99,7 +99,9 @@ VIII. Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técni
 
 IX. Secretario Técnico: el servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva; así como, las demás que le confiere la presente Ley;
 
-X. Servidores Públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y artículo 2 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+X. Servidores Públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y artículo 3 fracción XXVII de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 XI. Ley: Ley del Sistema Estatal de Combate a la Corrupción;
 
@@ -115,7 +117,9 @@ XVI. Tribunal: Tribunal de lo Contencioso Administrativo y de Cuentas del Poder 
 
 XVII. Consejo de la Judicatura: Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca; y
 
-XVIII. Auditoria Superior: Auditoría Superior del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+XVIII. Órgano de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ###### Artículo 4.
 
@@ -189,7 +193,9 @@ Son integrantes del Comité Coordinador:
 
 I. Un representante del Comité de Participación Ciudadana, quien lo presidirá;
 
-II. El titular de la Auditoria Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+II. El titular del Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 III. El titular de la Fiscalía Especializada de Combate a la Corrupción;
 
@@ -343,7 +349,9 @@ X. Proponer, a través de su participación en la Comisión Ejecutiva, indicador
 
 XI. Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos;
 
-XII. Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+XII. Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar al Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 XIII. Opinar sobre el programa anual de trabajo del Comité Coordinador;
 
@@ -397,9 +405,11 @@ III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro
 
 Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por la Ley de los Servidores Públicos del Estado y por el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos y 128 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 27.
 
-La Secretaría Ejecutiva será auditada por la Auditoría Superior del Estado, conforme a sus atribuciones que le concede el artículo 65 bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley de Fiscalización Superior para el Estado de Oaxaca y demás normatividad aplicable.
+La Secretaría Ejecutiva será auditada por el Órgano Superior de Fiscalización del Estado de Oaxaca, conforme a sus atribuciones que le concede el artículo 65 bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y demás normatividad aplicable.
 
 ###### Artículo 28.
 
@@ -483,7 +493,9 @@ IV. Poseer al día de la designación, título profesional de nivel licenciatura
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito;
 
-VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+VI. Presentar sus declaraciones de intereses, patrimonial y fiscal cuando proceda, de forma previa a su nombramiento;
 
 VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
 
@@ -529,13 +541,17 @@ XIII. Las demás que señalen las leyes aplicables a la materia.
 
 ### Capitulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 36.
 
-La Auditoría Superior del Estado así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, como parte del Sistema Nacional de Fiscalización, establecerán las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
+El Órgano Superior de Fiscalización del Estado de Oaxaca así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, como parte del Sistema Nacional de Fiscalización, establecerán las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
 
 ###### Artículo 37.
 
-Como miembros del Sistema Nacional de Fiscalización, la Auditoría Superior del Estado así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, tendrán como obligación:
+Como miembros del Sistema Nacional de Fiscalización, el Órgano Superior de Fiscalización del Estado de Oaxaca así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, tendrán como obligación:
 
 I. Establecer todas las medidas necesarias para mantener autonomía e independencia en su función de fiscalización, frente a los Poderes del Estado y cualquier autoridad sujeta a revisión;
 
@@ -551,9 +567,11 @@ VI. Revisar los ordenamientos legales que regulan su actuación para que, en su 
 
 VII. Elaborar y adoptar un marco de referencia que contenga criterios generales para la prevención, detección y disuasión de actos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión gubernamental.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 38.
 
-Para que la Auditoría Superior del Estado así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca contribuyan con el fortalecimiento del Sistema Nacional de Fiscalización, del cual forman parte, atenderán las siguientes directrices:
+Para que el Órgano Superior de Fiscalización del Estado de Oaxaca así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca contribuyan con el fortalecimiento del Sistema Nacional de Fiscalización, del cual forman parte, atenderán las siguientes directrices:
 
 I. La coordinación de trabajo efectiva, fortalecimiento institucional, evitar duplicidades y omisiones en el trabajo de los órganos de fiscalización, en un ambiente de profesionalismo y transparencia;
 
@@ -563,21 +581,27 @@ III. Emitir información relevante en los reportes de auditoría y fiscalizació
 
 IV. Cumplir la norma que el Comité Rector de (sic) Sistema Nacional de Fiscalización regule para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 39.
 
-Cuando el titular de la Auditoría Superior del Estado así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, sean uno de los 7 miembros rotatorios que forman parte del Comité Rector del Sistema Nacional de Fiscalización, ejercerá de manera conjunta con el Comité Rector las acciones en materia de fiscalización y control de los recursos públicos mencionadas en el artículo 40 de la Ley General del Sistema Nacional Anticorrupción.
+Cuando el titular del Órgano Superior de Fiscalización del Estado de Oaxaca así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, sean uno de los 7 miembros rotatorios que forman parte del Comité Rector del Sistema Nacional de Fiscalización, ejercerá de manera conjunta con el Comité Rector las acciones en materia de fiscalización y control de los recursos públicos mencionadas en el artículo 40 de la Ley General del Sistema Nacional Anticorrupción.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
 
 ###### Artículo 40.
 
-La Auditoría Superior del Estado así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, como integrantes del Sistema Nacional de Fiscalización, atenderán a las reuniones ordinarias y extraordinarias que se convoquen, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y la Ley General del Sistema Nacional Anticorrupción.
+El Órgano Superior de Fiscalización del Estado de Oaxaca así como la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, como integrantes del Sistema Nacional de Fiscalización, atenderán a las reuniones ordinarias y extraordinarias que se convoquen, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y la Ley General del Sistema Nacional Anticorrupción.
 
 ## TÍTULO CUARTO. PLATAFORMA DIGITAL ESTATAL
 
 ### Capítulo Único. De la Plataforma Digital Estatal
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 41.
 
-El Comité Coordinador emitirá las bases para el funcionamiento de la Plataforma Digital Estatal que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, atendiendo a las necesidades de accesibilidad de los usuarios.
+El Comité Coordinador emitirá las bases para el funcionamiento de la Plataforma Digital Estatal que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, atendiendo a las necesidades de accesibilidad de los usuarios.
 
 La Plataforma Digital Estatal será administrada por la Secretaría Ejecutiva, en los términos de esta Ley.
 
@@ -615,15 +639,17 @@ El Sistema Estatal establecerá las medidas necesarias para garantizar la estabi
 
 En todos los casos, los formatos, criterios, políticas y protocolos que para efectos de la recepción y gestión de información deberán sujetarse a los lineamientos que para dichos efectos emita el Sistema Nacional Anticorrupción a través de las instancias facultadas para ello, sin detrimento de la innovación en los procesos que el Estado pueda desarrollar por encima de los estándares nacionales.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+
 ###### Artículo 45.
 
-Los sistemas de evolución patrimonial y de declaración de intereses, así como de los Servidores públicos que intervengan en procedimientos de contrataciones púbicas, operarán en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, lo dispuesto por ésta ley y la normatividad aplicable al sistema estatal de combate a la corrupción.
+Los sistemas de evolución patrimonial y de declaración de intereses, así como de los Servidores públicos que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, lo dispuesto por ésta ley y la normatividad aplicable al sistema estatal de combate a la corrupción. El Sistema de Información Pública de Contrataciones contará con la información pública que deberán remitir las autoridades competentes al Comité Coordinador para el ejercicio de sus funciones y los objetivos de esta Ley.
 
-El Sistema de Información Pública de Contrataciones contará con la información pública que deberán remitir las autoridades competentes al Comité Coordinador para el ejercicio de sus funciones y los objetivos de esta Ley.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
 
 ###### Artículo 46.
 
-El sistema Estatal de Servidores públicos y particulares sancionados tiene como finalidad que las sanciones impuestas a Servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+El sistema Estatal de Servidores públicos y particulares sancionados tiene como finalidad que las sanciones impuestas a Servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
 
 ###### Artículo 47.
 
@@ -647,7 +673,9 @@ El sistema de denuncias públicas, de faltas administrativas y hechos de corrupc
 
 El Secretario Técnico solicitará a los miembros del Comité Coordinador toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir el Comité Coordinador, incluidos los proyectos de recomendaciones.
 
-Asimismo, la Auditoría Superior del Estado y los Órganos Internos de Control de los entes públicos deberán presentar un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
+
+Asimismo, el Órgano Superior de Fiscalización del Estado de Oaxaca y los Órganos Internos de Control de los entes públicos deberán presentar un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
 
 Los informes serán integrados al informe anual del Comité Coordinador como anexos.
 
@@ -732,3 +760,9 @@ P.O. 10 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 664.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 602, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE OAXACA EL DÍA TRES DE MAYO DEL AÑO DOS MIL DIECISIETE, MEDIANTE EL CUAL SE EXPIDIÓ LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL DÍA 20 DE MAYO DEL AÑO DOS MIL DIECISIETE”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 800.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE COMBATE A LA CORRUPCIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
