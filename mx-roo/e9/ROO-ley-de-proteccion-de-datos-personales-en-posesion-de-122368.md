@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-de-datos-personales-en-posesion-de-122368"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-04"
-last_updated: "2017-07-04"
+last_updated: "2018-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2018.
 
 Ley publicada en el Número 74 Extraordinario, del Periódico Oficial del Estado de Quintana Roo, el martes 4 de julio de 2017.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público, de observancia obligatoria en todo el terr
 
 El Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, ejercerá las atribuciones y facultades que le otorga esta Ley, independientemente de las otorgadas en las demás disposiciones aplicables.
 
-Son Responsables de los datos personales en términos de esta Ley, en el ámbito estatal y municipal:
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2018)</small>
 
-Cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos, fondos públicos, los sindicatos y cualquier otra persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, de conformidad con la normatividad aplicable para la protección de datos personales en posesión de sujetos obligados.
+Son sujetos obligados por esta Ley en el ámbito estatal y municipal, cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos.
+
+> <small>(DEROGADO PÁRRAFO TERCERO, P.O. 16 DE ENERO DE 2018)</small>
 
 Los fideicomisos y fondos públicos de carácter estatal y municipal considerados como entidades paraestatales, de conformidad con la Ley de las entidades de la Administración Pública Paraestatal del Estado de Quintana Roo deberán dar cumplimiento por sí mismos a las obligaciones previstas en la presente Ley y demás normatividad aplicable en la materia, a través de sus propias áreas.
 
@@ -65,7 +67,9 @@ Son objetivos de la presente Ley:
 
 I. Garantizar que toda persona pueda ejercer el derecho a la protección de los datos personales;
 
-II. Proteger los datos personales en posesión de cualquier autoridad, entidad órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos del estado de Quintana Roo y los municipios, sindicatos y cualquier otra persona física o moral, con la finalidad de regular su debido tratamiento;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+
+II. Proteger los datos personales en posesión de cualquier autoridad, entidad, órgano u organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos del Estado de Quintana Roo y sus municipios, con la finalidad de regular su debido tratamiento;
 
 III. Garantizar la observancia de los principios de protección de datos personales previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
@@ -2034,3 +2038,11 @@ EL SECRETARIO DE GOBIERNO
 DEL ESTADO DE QUINTANA ROO.
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 111 POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2 Y LA FRACCIÓN II DEL ARTÍCULO 3 Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 2, TODOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
