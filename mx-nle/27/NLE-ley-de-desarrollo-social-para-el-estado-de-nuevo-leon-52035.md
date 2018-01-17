@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2010-12-24"
+last_updated: "2018-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -59,13 +59,9 @@ VI. Establecer los criterios de coordinación de las acciones estratégicas que 
 
 VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado.
 
-###### Artículo 2.
+###### Artículo 2°.
 
 La aplicación de la presente Ley corresponde a las dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias.
-
-###### Artículo 3°.
-
-En lo no previsto en esta Ley se aplicará en forma supletoria el siguiente marco jurídico:
 
 ###### Artículo 3°.
 
@@ -131,7 +127,7 @@ VIII. Transparencia: La información relativa al desarrollo social es pública e
 
 ### CAPÍTULO I. ATRIBUCIONES DEL PODER EJECUTIVO DEL ESTADO
 
-###### Artículo 6.
+###### Artículo 6°.
 
 El Titular del Ejecutivo del Estado, dentro de su respectiva competencia, será la autoridad rectora del desarrollo social del Estado en la planeación y ejecución de las políticas y programas de la materia.
 
@@ -163,7 +159,9 @@ X. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LOS MUNICIPIOS
 
-ARTICULO (SIC) 8°. Corresponden a los Municipios, en el ámbito de su competencia, las siguientes atribuciones:
+###### Artículo 8°.
+
+Corresponden a los Municipios, en el ámbito de su competencia, las siguientes atribuciones:
 
 I. Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General de Desarrollo Social;
 
@@ -313,7 +311,15 @@ I. Participar y acceder a los Programas Sociales;
 
 II. Recibir la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios, así como de aquellos que la Federación aplique en el Estado;
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
+
+Cuando se trate de personas adultas mayores recibir la información en sus domicilios;
+
 III. Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
+
+En el caso de las personas adultas mayores recibir los apoyos de los programas en sus domicilios;
 
 IV. Participar de manera corresponsable en los Programas de Desarrollo Social; y
 
@@ -324,6 +330,10 @@ V. Los demás que establezcan los planes y programas de Desarrollo Social, así 
 Los beneficiarios de los Programas Sociales tendrán las siguientes obligaciones:
 
 I. Proporcionar la información socioeconómica que les sea requerida para ser sujetos de apoyo, la cual deberá ser veraz y tendrá manejo confidencial;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
+
+Tratándose de personas adultas mayores proporcionar en sus domicilios la información necesaria para ser sujetos de apoyo;
 
 II. Participar corresponsablemente en los Programas de Desarrollo Social a que tengan acceso;
 
@@ -551,7 +561,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ROGELIO CERDA PÉREZ
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
 
 P.O. 15 DE DICIEMBRE DE 2008.
 
@@ -560,3 +570,15 @@ P.O. 15 DE DICIEMBRE DE 2008.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 345. SE REFORMAN LOS INCISOS D) Y G) DE LA FRACCIÓN II DEL ARTÍCULO 5 Y LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 9° DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN II Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 28 Y ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 29 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor dentro de los 90 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en el presente Decreto se sustanciará conforme a lo establecido en los artículos 35, 36, 37, 38 y 39 de la Ley de Desarrollo Social para el Estado de Nuevo León.
+
+Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
+
+Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
