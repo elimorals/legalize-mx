@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2016-11-22"
+last_updated: "2018-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -143,9 +145,9 @@ b) Expresar su opinión libremente, conocer sus derechos y participar en el ámb
 
 c) Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2018)</small>
 
-d) Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respecto de sus derechos, a través de las instituciones creadas para tal efecto;
+d) Recibir el apoyo presencial y domiciliado del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias y conforme a sus capacidades presupuestales en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto;
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -155,9 +157,9 @@ e) Contar con asesoría jurídica y con un representante legal cuando lo conside
 
 f) Crear programas específicos en materia notarial, a fin de garantizar la seguridad patrimonial de las personas adultas mayores de todo el Estado de Nuevo León;
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2018)</small>
 
-g) Obtener oportunamente de parte de las instituciones de seguridad social o quien corresponda, la información necesaria para gestionar la jubilación o retiro, así como de los programas que operen a favor de las personas adultas mayores en los ámbitos estatal y municipal.
+g) Obtener de manera expedita y domiciliada de parte de las instituciones de seguridad social o quien corresponda, la información, el apoyo técnico y personal para recabar la documentación necesaria y gestionar la jubilación o retiro, así como los beneficios y contraprestaciones de los programas que operen a favor de las personas adultas mayores en los ámbitos estatal y municipal;
 
 III. La salud y la alimentación, que comprenden:
 
@@ -239,9 +241,15 @@ VI. Fomentar e impulsar su atención integral;
 
 VII. Promover, fomentar, difundir y defender el ejercicios (sic) de sus derechos, así como las obligaciones de los responsables de estos;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2018)</small>
 
-VIII. Aprobar los programas que se establezcan para las Personas Adultas Mayores; específicamente podrá crear un programa de apoyo económico mensual para los Adultos Mayores descritos en la presente Ley, sujeto a lo aprobado en la Ley de Egresos del Estado de Nuevo León.
+VIII. Aprobar los programas que se establezcan para las Personas Adultas Mayores; específicamente deberá crear un programa de apoyo económico mensual para los adultos mayores descritos en la presente Ley, sujeto a lo aprobado en la Ley de Egresos del Estado de Nuevo León.
+
+Una vez creado dicho programa la institución encargada de su ejecución deberá notificar de manera domiciliada a los adultos mayores otorgando las facilidades técnicas y personal capacitado para coadyuvar a la consecución de la documentación necesaria para la tramitación de su inscripción.
+
+Así mismo, deberá notificar en los domicilios de los adultos mayores inscritos en el programa, las fechas en las que se realizará la entrega domiciliada del apoyo económico mensual.
+
+La institución encargada de la ejecución del programa deberá contar con el apoyo técnico y personal suficiente para cumplir con los términos del presente artículo.
 
 IX. Procurar que se lleven a cabo las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como acciones preventivas con la participación de la comunidad;
 
@@ -816,3 +824,15 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 163. SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO AL ARTÍCULO 39, ASÍ COMO POR ADICIÓN DE UN ARTÍCULO 39 BIS, AMBOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 17 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 345. SE REFORMAN LOS INCISOS D) Y G) DE LA FRACCIÓN II DEL ARTÍCULO 5 Y LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN DEL ARTÍCULO 9º DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN II Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 28 Y ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 29 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor dentro de los 90 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en el presente Decreto se sustanciará conforme a lo establecido en los artículos 35, 36, 37, 38 y 39 de la Ley de Desarrollo Social para el Estado de Nuevo León.
+
+Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
+
+Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
