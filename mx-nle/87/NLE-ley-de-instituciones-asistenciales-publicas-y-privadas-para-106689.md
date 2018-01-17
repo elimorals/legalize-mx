@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-instituciones-asistenciales-publicas-y-privadas-para-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2015-03-20"
+last_updated: "2018-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de marzo de 2015.
 
@@ -150,6 +150,14 @@ Para el cumplimiento de las atribuciones que se establecen en esta Ley, el Siste
 Corresponde a la Secretaría de Desarrollo Social:
 
 I. Coordinar e implementar acciones que se requieran para promover la integración social de las Personas Adultas Mayores;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
+
+Prestar apoyo técnico, personal y domiciliado para coadyuvar en la recopilación de la documentación necesaria para la inscripción a los programas que operen a favor de las personas adultas mayores. Realizar notificaciones domiciliadas para dar a conocer el del estatus del trámite y la fecha en la que serán entregados los apoyos.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
+
+En el caso de los adultos mayores que se encuentren inscritos en el programa correspondiente, entregar los apoyos de manera presencial en el domicilio de los beneficiarios;
 
 II. Promover ante las instancias correspondientes, eventos culturales que propicien el sano esparcimiento;
 
@@ -434,3 +442,17 @@ JESÚS ZACARÍAS VILLARREAL PÉREZ
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 RAFAEL EDUARDO RAMOS DE LA GARZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 345. SE REFORMAN LOS INCISOS D) Y G) DE LA FRACCIÓN II DEL ARTÍCULO 5 Y LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 9° DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN II Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 28 Y ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 29 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor dentro de los 90 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en el presente Decreto se sustanciará conforme a lo establecido en los artículos 35, 36, 37, 38 y 39 de la Ley de Desarrollo Social para el Estado de Nuevo León.
+
+Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
+
+Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
