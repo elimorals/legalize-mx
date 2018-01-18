@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interno-en-materia-electoral-del-tribunal-de-82011"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-01"
-last_updated: "2011-07-01"
+last_updated: "2018-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERNO EN MATERIA ELECTORAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-REGLAMENTO INTERNO EN MATERIA ELECTORAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 18 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO EN MATERIA ELECTORAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 1 de julio de 2011.
 
@@ -59,7 +61,7 @@ c).- Ley del Sistema de Medios: Ley del Sistema de Medios de Impugnación en Mat
 
 d).- Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Yucatán;
 
-e).- Reglamento Electoral: Reglamento Interno, en materia electoral del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán y, (sic)
+e).- Reglamento Electoral: Reglamento Interno, en materia electoral del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán y,
 
 f).- Recursos: los previstos por el Título Tercero, Capítulo I.
 
@@ -796,3 +798,19 @@ SECRETARIO DE ACUERDOS
 (RÚBRICA)
 
 LIC. CESAR PRIETO GAMBOA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 18 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN”.]
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Las disposiciones contenidas en este reglamento aplican en materia contencioso administrativa, fiscal y de responsabilidades administrativas competencia del Tribunal.
+
+SEGUNDO.- El Pleno del Tribunal podrá emitir nuevas disposiciones reglamentarias en materia contencioso administrativa, fiscal y de responsabilidades administrativas.
+
+TERCERO.- Se abroga el Reglamento Interno en materia electoral del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado el uno de julio de de (sic) dos mil once.
+
+CUARTO.- Los funcionarios del Tribunal deberán realizar las acciones y ajustes necesarios y adoptar las medidas necesarias para la implementación de lo dispuesto en el presente Reglamento en un plazo de ciento ochenta días contados a partir de su publicación.
