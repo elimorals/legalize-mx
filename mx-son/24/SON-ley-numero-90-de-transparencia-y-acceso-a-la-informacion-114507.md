@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-90-de-transparencia-y-acceso-a-la-informacion-114507
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2016-04-28"
+last_updated: "2018-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ENERO DE 2018.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -929,7 +929,9 @@ En el caso de los Ayuntamientos, la referida información será proporcionada re
 
 Los sujetos obligados proporcionarán las bases de datos de la información financiera en formatos que permitan su manejo y manipulación para fines de análisis y valoraciones por parte de la población;
 
-X.- Los informes de resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que se realicen según corresponda, por la Contraloría General del Estado, las Contralorías Internas, el Órgano Interno de Control y Evaluación Gubernamental de cada Municipio, el Órgano Fiscalizador del Congreso y los auditores externos, incluyendo, en su caso, las aclaraciones que correspondan;
+> <small>(REFORMADA, B.O. 18 DE ENERO DE 2018)</small>
+
+X.- Los informes de resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que se realicen según corresponda, por la Secretaría de la Contraloría General del Estado, las Contralorías Internas, el Órgano Interno de Control y Evaluación Gubernamental de cada Municipio, el Instituto Superior de Auditoría y Fiscalización del Estado y los auditores externos, la Auditoría Superior de la Federación y cualquier ente fiscalizador, incluyendo, en su caso, las aclaraciones que correspondan;
 
 XI.- Las cuentas públicas que deba presentar cada sujeto obligado, según corresponda;
 
@@ -1116,6 +1118,30 @@ X.- El informe de los viajes oficiales, nacionales y al extranjero de los Diputa
 XI.- Los dictámenes de cuenta pública, así como los estados financieros y demás información que los órganos de fiscalización superior utilizan para emitir dichos dictámenes; y
 
 XII.- Los demás informes que deban presentarse conforme a su Ley Orgánica.
+
+> <small>(ADICIONADO, B.O. 18 DE ENERO DE 2018)</small>
+
+###### Artículo 83 Bis.
+
+Además de los (sic) dispuesto en el artículo 81 de esta Ley, los Órganos Fiscalizadores de los tres poderes en el Estado, incluyendo los Órganos Internos de Control y Evaluación Gubernamental de cada municipio y el Instituto Superior de Auditoría y Fiscalización, así como, los auditores externos, deberán poner a disposición del público y mantener actualizada, en términos de lo establecido en el presente Capítulo, la siguiente información:
+
+I.- Programa anual de auditorías, visitas e inspecciones y programa anual de actividades;
+
+II.- Seguimiento de las denuncias, quejas, solicitudes;
+
+III.- Informe Anual;
+
+IV.- Informe de Resultados;
+
+V.- Informes Individuales de Auditoría;
+
+VI.- Informe semestral del estado que guarda la solventación de observaciones a los sujetos fiscalizados;
+
+VII.- Informes sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como en su caso, la pena impuesta;
+
+VIII.- Prestadores de servicios profesionales o despachos externos que participan en los procesos de fiscalización; y
+
+IX.- Dictámenes de estados financieros.
 
 ###### Artículo 84.
 
@@ -2266,3 +2292,17 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiocho días del mes de abril del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+B.O. 18 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 195, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, en un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá publicar los lineamientos respectivos en el Boletín Oficial del Gobierno del Estado de Sonora.
