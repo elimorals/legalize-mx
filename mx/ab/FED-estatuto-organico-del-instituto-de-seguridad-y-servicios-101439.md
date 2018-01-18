@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-101439
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-18"
-last_updated: "2017-12-22"
+last_updated: "2018-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-06-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 18 DE ENERO DE 2018.]</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 18 de junio de 2014.
 
@@ -2049,7 +2049,9 @@ El Instituto impulsará y facilitará el acceso a la información pública y el 
 
 El Director General designará al responsable de la Unidad de Transparencia, quien tendrá las funciones referidas en el artículo 61 del primer ordenamiento citado en el párrafo que antecede.
 
-El servidor público designado deberá promover y difundir la cultura de transparencia, protección de datos personales y rendición de cuentas institucional, así como establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y corrección de los mismos, tanto con las Unidades Administrativas del Instituto, como con el Comité de Transparencia y con el Instituto Federal de Acceso a la Información y Protección de Datos Personales.
+> <small>(F. DE E., D.O.F. 18 DE ENERO DE 2018)</small>
+
+El servidor público designado deberá promover y difundir la cultura de transparencia, protección de datos personales y rendición de cuentas institucional, así como establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y corrección de los mismos, tanto con las Unidades Administrativas del Instituto, como con el Comité de Transparencia y con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
