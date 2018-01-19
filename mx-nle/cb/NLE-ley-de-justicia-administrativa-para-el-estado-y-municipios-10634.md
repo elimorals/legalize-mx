@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2017-01-18"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 9 DE MARZO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -45,23 +47,21 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 1o.
 
 Esta Ley tiene por objeto establecer la organización y funcionamiento del Tribunal de Justicia Administrativa del Estado de Nuevo León, dotado de facultades para conocer y resolver los conflictos y controversias que se susciten entre los particulares y el Estado, los Municipios, sus organismos descentralizados y empresas de participación estatal y municipal cuando estas últimas realicen funciones administrativas de autoridad; el procedimiento para su resolución y ejecución; los recursos que los particulares y las autoridades podrán interponer en contra de los fallos que pronuncie.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Asimismo, el Tribunal de Justicia Administrativa será el órgano competente, a través de la Sala Especializada en materia de Responsabilidades Administrativas, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves o que constituyan hechos de corrupción, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 2o.
 
-El Tribunal es un órgano formalmente administrativo, materialmente jurisdiccional, dotado de plena autonomía y jurisdicción para dictar sus fallos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Tribunal es un órgano formalmente administrativo materialmente jurisdiccional dotado de plena autonomía presupuestal, funcional, y con plena jurisdicción para dictar sus fallos.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -69,25 +69,21 @@ El Tribunal es un órgano formalmente administrativo, materialmente jurisdiccion
 
 El Tribunal residirá en la capital del Estado, sin perjuicio de que pueda descentralizar sus oficinas en el territorio del Estado para la atención más oportuna de los asuntos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 4o.
 
 Todas las sesiones de la Sala Superior del Tribunal serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEON
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 5o.
 
-El Tribunal se conformará por una Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; así como de las demás Salas Ordinarias y unitarias que sean necesarias, pudiendo cualquiera de las Salas Ordinarias conocer del juicio oral, por acuerdo de la Sala Superior:
+El Tribunal se conformará por una Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; así como de las demás Salas Ordinarias y unitarias que sean necesarias y por una Sala Especializada en materia de Responsabilidades Administrativas, pudiendo cualquiera de las Salas Ordinarias conocer del juicio oral, por acuerdo de la Sala Superior.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -107,13 +103,27 @@ IV.- Actuarios, y
 
 V.- Personal jurídico y técnico administrativo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 6o.
 
-El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal, para su designación por el Congreso del Estado o por la Diputación Permanente en los casos de receso de aquél, ante quien rendirán la protesta de Ley.
+El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal, para su designación por el Congreso del Estado o por la Diputación Permanente en los casos de receso de aquél, ante quien rendirán la protesta de Ley; con excepción del Magistrado de la Sala Especializada en Materia de Responsabilidad Administrativa, quién será designado por el Pleno del Congreso del Estado, en los términos que señala la Constitución Política del Estado y esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 6o Bis.
+
+El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, será designado conforme al artículo 63 fracción XLV de la Constitución Política del Estado Libre y Soberano de Nuevo León, mediante convocatoria pública que emitirá el Congreso sujetándose al siguiente procedimiento:
+
+I. La Comisión Anticorrupción del Congreso del Estado, formulará el proyecto de convocatoria para ocupar el cargo de Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, previa opinión del Comité de Selección del Sistema Estatal Anticorrupción respecto a su contenido, misma que deberá establecer los mecanismos de evaluación y análisis de perfiles que serán considerados en la definición de los candidatos, para posteriormente ser aprobada por la mayoría de los integrantes de la Legislatura. Dicha Convocatoria deberá publicarse en el Portal de Internet del Congreso del Estado y un extracto de la misma en cuando menos dos diarios de mayor circulación en el Estado;
+
+II. La Convocatoria será por un plazo de diez días hábiles, contados a partir de su publicación en los términos de la fracción anterior. Una vez concluido el plazo para la recepción de la documentación, el Comité de Selección procederá a la revisión y análisis de los aspirantes y definirá cuáles de ellos cumplen con los requisitos constitucionales y legales. Si derivado de la revisión se advierte error u omisión en la integración de alguno de los expedientes, se apercibirá al aspirante, a través de la Oficialía Mayor del H. Congreso del Estado, para que, en un término de dos días hábiles a partir de la notificación del apercibimiento, subsane el mismo. Una vez transcurrido dicho término sin que el aspirante haya dado cumplimiento a dicho apercibimiento se desechará de plano su solicitud por no cumplir con lo establecido en las bases de la Convocatoria;
+
+III. Una vez agotados los plazos establecidos en la fracción anterior, dentro de los siguientes quince días naturales, el Comité de Selección llevará a cabo el análisis de los perfiles de los aspirantes y definirá, de manera fundada y motivada, quiénes integran la lista de los candidatos que cumplan con los requisitos constitucionales y legales para ocupar dicho cargo y remitirá dicha lista al Pleno del Congreso. El Congreso del Estado seleccionara de entre la lista de candidatos remitida por el Comité de Selección del Sistema, en caso de ser más de tres, a una terna. Para elegir dicha terna, cada legislador votará por tres opciones de la lista de candidatos remitida y los tres candidatos con la votación más alta integrarán la terna; y
+
+IV. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas será electo de entre los integrantes de la terna, previa comparecencia ante la Comisión Anticorrupción, en votación por las dos terceras partes de los integrantes de la Legislatura. De no alcanzarse dicha votación, se procederá a una segunda votación entre los dos integrantes que hayan obtenido más votos. En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá una votación para definir por mayoría quién entre dichos dos candidatos participará en la segunda votación. Si persiste el empate, se resolverá por insaculación entre ellos.
+
+Si en la segunda votación, ninguno de los dos candidatos obtiene el voto de las dos terceras partes de los integrantes de la Legislatura, se procederá a la insaculación de entre estos últimos dos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -123,9 +133,7 @@ El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribu
 
 Los Magistrados y demás servidores públicos adscritos al Tribunal percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 7o.
 
@@ -177,17 +185,7 @@ Los servicios de administración de justicia serán gratuitos y, en consecuencia
 
 ###### Artículo 8o.
 
-Para ser Magistrado del Tribunal se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos diez años de su expedición por autoridad o institución legalmente facultada para ello;
-
-III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión;
-
-IV.- No ser ministro de algún culto o asociación religiosa; y
-
-V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos los dos años previos al día de su nombramiento.
+Para ser Magistrado del Tribunal de Justicia Administrativa y de la Sala Especializada en materia (sic) Responsabilidad Administrativa, se deberán reunir los requisitos establecidos en el artículo 98 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -199,13 +197,17 @@ Los Magistrados del Tribunal serán inamovibles durante el período de su encarg
 
 Son causas de terminación del cargo de Magistrado del Tribunal, padecer incapacidad física o mental para desempeñar el cargo; la renuncia a éste; haberlo desempeñado durante veinte años; o cumplir setenta y cinco años de edad.
 
-Cuando algún Magistrado esté por concluir el período para el que haya sido nombrado, el Presidente del Tribunal, con por lo menos tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado para los efectos de la propuesta consecuente al Congreso, la cual se hará aun en caso de incumplirse la comunicación a que se refiere este párrafo
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
+Cuando algún Magistrado esté por concluir el período para el que haya sido nombrado, el Presidente del Tribunal, con por lo menos tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado, para los efectos de la propuesta consecuente al Congreso, la cual se hará aún en caso de incumplirse la comunicación a que se refiere este párrafo. En el caso del Magistrado de las (sic) Sala Especializada en materia de Responsabilidad Administrativa, el Presidente del Tribunal, con por lo menos tres meses de anticipación a la conclusión del período para el que haya sido nombrado, dará aviso al Congreso del Estado, para los efectos correspondientes; dicho Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas no será considerado para nuevo nombramiento en dicha Sala.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2018)</small>
+
+La falta definitiva de cualquiera de los Magistrados o la actualización de alguna otra causa de terminación de su cargo, será comunicada inmediatamente por el Presidente del Tribunal al Gobernador del Estado, a fin de que proponga al Congreso el nuevo nombramiento. En el caso de la falta definitiva del Magistrado de las (sic) Sala Especializada en materia de Responsabilidad Administrativa, el Presidente del tribunal lo comunicará de inmediato al Congreso para que proceda a emitir la convocatoria correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
 
 Cuando existan circunstancias especiales, entendiéndose estas por exceso en la carga de trabajo o mandato de ley, que hagan necesaria la creación de una nueva sala ordinaria, la Sala Superior deberá comunicarlo por escrito al Gobernador del Estado para que, en caso de así estimarlo conveniente, envié la propuesta del nuevo nombramiento al Congreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -215,23 +217,17 @@ Ninguna licencia podrá concederse por más de seis meses. Las de los Magistrado
 
 No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel federal, estatal o municipal, sea o no de elección popular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 11.
 
 Las faltas temporales de los Magistrados serán cubiertas por el Secretario de Estudio y Cuenta adscrito al Magistrado ausente y será designado por el Presidente del Tribunal. Las faltas temporales del Presidente del Tribunal serán cubiertas por el Magistrado que designe el propio Presidente. Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en este Artículo entre tanto se hace la designación del nuevo Magistrado en los términos del Artículo 6 de esta Ley. Se considera que la falta de un Magistrado es definitiva, cuando ocurre por fallecimiento o se prolonga por más de seis meses.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 12.
 
 El Tribunal tendrá un Presidente, que también lo será de la Sala Superior, quien durará en la Presidencia dos años y no podrá ser reelecto para el período inmediato.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -244,8 +240,6 @@ La elección del Presidente del Tribunal, se efectuará por los Magistrados de l
 ###### Artículo 14.
 
 Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actuario del Tribunal, se deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción del referente a la fracción II del Artículo 8 de esta Ley, en cuyo caso bastará con poseer título de Licenciado en Derecho.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -261,13 +255,9 @@ Los Secretarios, Actuarios y Escribientes del Tribunal tendrán el carácter de 
 
 Los Magistrados, Secretarios, Actuarios y demás servidores públicos, estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estados o Municipios, o cualquier entidad paraestatal o paramunicipal o de particulares. Quedan exceptuados los cargos de carácter docente u honorífico. También estarán impedidos para ejercer su profesión, salvo en causa propia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ### CAPITULO III. DE LA COMPETENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -299,8 +289,6 @@ VI.- Que determinen responsabilidad administrativa en contra de los servidores p
 
 VII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 2007)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 VIII.- En materia de pensiones con cargo al erario estatal o a cargo de los Municipios de la entidad, o de las instituciones estatales o municipales de seguridad social;
@@ -324,8 +312,6 @@ Cuando por disposición de las leyes o reglamentos, el silencio de la autoridad 
 En cualquier caso en que la afirmativa ficta implique la afectación de un derecho de terceros, la contravención de disposiciones de orden público o cause un perjuicio al interés social, la misma se tendrá por no configurada;
 
 XIV.- Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia del Tribunal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -385,8 +371,6 @@ XVII.- Determinar el número de las Salas Ordinarias en razón de los nombramien
 
 XVIII.- Las demás que señale la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 19.
@@ -419,8 +403,6 @@ VI. A encomienda del Presidente, elaborar los proyectos de resolución que se le
 
 ### CAPITULO IV. DEL PRESIDENTE DEL TRIBUNAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 20.
@@ -445,7 +427,9 @@ VII.- Publicar la tesis, criterios y sentencias del Tribunal que deban darse a c
 
 VIII.- Nombrar al personal jurídico y técnico administrativo necesario para las funciones del Tribunal;
 
-IX.- Dar cuenta a la Sala Superior de las denuncias o quejas administrativas que se presenten en contra de los Magistrados y demás empleados del Tribunal, así como de las irregularidades que cometieran en el ejercicio de su función, aplicando en lo conducente la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+IX.- Dar cuenta a la Sala Superior de las denuncias o quejas administrativas que se presenten en contra de los Magistrados y demás empleados del Tribunal, así como de las irregularidades que cometieran en el ejercicio de su función, aplicando en lo conducente la Ley General de Responsabilidades Administrativas;
 
 X.- Consultar a la Sala Superior, cuando para el ejercicio de sus facultades lo estime pertinente;
 
@@ -475,21 +459,15 @@ IX.- Atender los demás asuntos de carácter ordinario no reservados a la Sala S
 
 ### CAPITULO V. DEL PERSONAL DEL TRIBUNAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 21.
 
 Corresponde al Secretario General de Acuerdos del Tribunal:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 I.- Acordar con el Presidente lo relativo a las sesiones de la Sala Superior;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -497,13 +475,9 @@ II.- Dar cuenta al Presidente de las excitativas de justicia que se presenten y 
 
 III.- Proyectar los acuerdos de trámite de la Presidencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 IV.- Firmar, en unión del Presidente del Tribunal, las determinaciones de éste;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -520,8 +494,6 @@ IX.- Preparar la edición del órgano oficial de difusión del Tribunal y otras 
 X.- Coordinar la difusión de las actividades del Tribunal;
 
 XI.- Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -555,8 +527,6 @@ II.- Practicar las diligencias que les encomiende la Sala y levantar las actas r
 
 III.- Las demás que le atribuyan las disposiciones legales, o disponga el Presidente del Tribunal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 23 Bis.
@@ -579,13 +549,9 @@ III.- Prestar los servicios de métodos alternos para la prevención y en su cas
 
 IV.- Opinar por escrito, en caso de que se lo soliciten los Magistrados de las Salas, si los actos impugnados en el juicio contencioso sometidos a su conocimiento son susceptibles de Convenio, siempre y cuando no alteren el orden público, no contravengan alguna disposición legal expresa y no afecten derechos de terceros, en los términos establecidos en el artículo 3° de la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 V. Las demás que le atribuya esta Ley, el Reglamento Interior del Tribunal, o le encomiende la Sala Superior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -603,13 +569,19 @@ Antes de iniciar un período de receso, el Presidente del Tribunal designará al
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 25.
 
 Los Magistrados de las Salas Ordinarias conocerán indistintamente de los juicios que se promuevan ante el Tribunal, en los casos a que se refieren las fracciones I a XIV del Artículo 17 de esta Ley, del cumplimiento de las sentencias pronunciadas, así como de los recursos de queja que se interpongan con motivo de sus resoluciones, quienes los substanciarán y resolverán con arreglo al procedimiento que señala esta Ley; a falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+En el entendido de que la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves o que constituyan hechos de corrupción, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los juicios derivados de las sanciones administrativas que emitan otras autoridades.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+La Sala Especializada en materia de responsabilidad administrativa observará las disposiciones generales contenidas en este Título Segundo, siempre y cuando no contravengan a los procedimientos que le apliquen señalados en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 26.
 
@@ -881,7 +853,7 @@ Desde el primer escrito que presenten, los particulares deberán señalar domici
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-###### Articulo 37.
+###### Artículo 37.
 
 Para los efectos de esta Ley, son días hábiles todos los del año excepto los sábados y domingos; el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo de la Sala Superior o por determinación de otras disposiciones legales.
 
@@ -1731,19 +1703,15 @@ Cuando por el enlace lógico de las pruebas rendidas y de las presunciones forma
 
 ### CAPITULO XII. DE LA AUDIENCIA DEL JUICIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 82.
 
-La audiencia del juicio debe ser presidida, bajo pena de nulidad, por el Magistrado de la Sala Ordinaria o por quien lo supla legalmente; y tiene por objeto:
+La audiencia del juicio deberá ser presidida, bajo pena de nulidad, por el Magistrado de la Sala Ordinaria o el Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa según sea el caso o por quien los supla legalmente, y tiene por objeto:
 
 I.- Desahogar en términos de esta Ley las pruebas que, debidamente ofrecidas y admitidas, así lo requieran;
 
 II.- Conocer cualquier cuestión incidental que se plantee en la misma audiencia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -2077,11 +2045,11 @@ III.- Las pronunciadas en revisión.
 
 No será necesario hacer declaración alguna para que las resoluciones causen ejecutoria en los términos del Artículo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 94.
 
-Cuando haya causado ejecutoria una sentencia en que se haya declarado la nulidad, el Magistrado de la Sala Ordinaria lo comunicará por oficio y sin demora alguna a las autoridades que hayan dictado, ejecutado, tratado de ejecutar el acto impugnado o sustituido a la autoridad que lo hizo, así como a cualquier otra autoridad que, por sus funciones, tenga que intervenir en la ejecución, para su debido cumplimiento, previniéndolas para que informen, dentro del término de quince días sobre el cumplimiento que den a la sentencia respectiva.
+Cuando haya causado ejecutoria una sentencia en que se haya declarado la nulidad, el Magistrado de la Sala Ordinaria o en su caso el Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas lo comunicaran por oficio y sin demora alguna a las autoridades que hayan dictado, ejecutado, tratado de ejecutar el acto impugnado o sustituir a la autoridad que lo hizo, así como a cualquier otra autoridad que, por sus funciones, tenga que intervenir en la ejecución, para su debido cumplimiento, previniéndolas para que informen, dentro del término de quince días sobre el cumplimiento que den a la sentencia respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2091,7 +2059,9 @@ En aquellos casos en que la sentencia decrete la nulidad del acto reclamado y di
 
 Al incidente de referencia la parte actora deberá de adjuntar la propuesta detallada de la liquidación correspondiente y los elementos de prueba que soporten las cantidades propuestas.
 
-Para el caso de que el actor no cuente con los elementos de prueba necesarios para la elaboración de su propuesta, deberá hacer por escrito mención de dicha circunstancia, señalando las documentales e informes que requiere para tal efecto, así como la autoridad que cuenta con los mismos, a fin de que el Magistrado de la Sala Ordinaria requiera a ésta última para que remita tal información, en un término de hasta 10-diez días hábiles a partir de que surta efectos la notificación del requerimiento realizado, bajo el apercibimiento de que en caso de no acatarlo se aplicarán en su contra los medios de apremio que establece esta ley.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
+Para el caso de que el actor no cuente con los elementos de prueba necesarios para la elaboración de su propuesta, deberá ser por escrito mención de dicha circunstancia, señalando las documentales e informes que requiere para tal efecto, así como la autoridad que cuenta con los mismos, a fin del (sic) que el magistrado de la sala ordinaria o en su caso el Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa, requieran a dicha autoridad para que remita tal información, en un término de hasta 10 días hábiles, a partir de que surta efecto la notificación del requerimiento realizado, bajo el apercibimiento de que en caso de que no acatarlo se aplicaran en su contra los medios de apremio que establece esta Ley.
 
 Una vez que obre en autos la información requerida se le dará vista al accionante para que en un término de 5-cinco días formule la propuesta de liquidación correspondiente.
 
@@ -2341,7 +2311,9 @@ Concluido el término anterior, con informe o sin él, el Magistrado decidirá s
 
 I. Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el salario mínimo vigente en la Ciudad de Monterrey, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad.
 
-II. En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Magistrado de la Sala Ordinaria requerirá al titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a ésta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele, en caso de no cumplir con ello, una multa de trescientas a mil veces el salario mínimo vigente en la Ciudad de Monterrey.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+II. En el supuesto que la autoridad o el servidor público persistiera a no dar cumplimiento a la sentencia, el Magistrado de la Sala Ordinaria o en su caso el Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas requerirán al titular de la dependencia Estatal o Municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a esta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele en caso de no cumplir con ello una multa de trescientas a mil Unidad (sic) de Medida y Actualización vigente en la ciudad de Monterrey.
 
 III. De persistir el incumplimiento el Magistrado de la Sala podrá decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León.
 
@@ -2865,7 +2837,7 @@ Los documentos que presenten las partes podrán ser impugnados vía incidental e
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Articulo 154.
+###### Artículo 154.
 
 (DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
@@ -2997,8 +2969,6 @@ La Sala Superior dictará resolución, en un término de diez días, en la que d
 
 En caso de que se haga valer la acumulación de juicios, o ésta se advierta de oficio, el Magistrado informará de inmediato al Magistrado que conoce del procedimiento que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando dentro del incidente de acumulación, se advierta que uno de los juicios, respecto de los cuales se invoque la conexidad de causa, no corresponda a la competencia de la Sala Ordinaria que, en su caso, conozca del Juicio Oral, y de proceder dicho incidente se ordenará que se acumule al juicio que se sigue en forma escrita.
@@ -3010,8 +2980,6 @@ Cuando dentro del incidente de acumulación, se advierta que uno de los juicios,
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -3248,6 +3216,130 @@ Los escritos de las partes se presentarán directamente en la Oficialía de Part
 ###### Artículo 190.
 
 En los juicios promovidos ante los Tribunales Municipales, no procede recurso alguno.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
+
+## TITULO SEXTO. DE LA SALA ESPECIALIZADA EN MATERIA DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 191.
+
+El Tribunal de Justicia Administrativa, a través de la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano competente, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como faltas administrativas graves, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades.
+
+En los asuntos relacionados con Faltas administrativas graves o Faltas de particulares, se deberá proceder de conformidad con el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
+
+Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 192.
+
+La Sala Especializada en materia de Responsabilidades Administrativas impondrá a los particulares vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 193.
+
+Las sanciones administrativas aplicables a las personas jurídicas, se extenderán en el ámbito administrativo a los propietarios, tenedores, y administradores y personas con poder de mando. También podrá ordenarse la suspensión de actividades, disolución o intervención de la persona jurídica cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, estatales o municipales, siempre que se acredite la participación de sus órganos de administración, decisión o vigilancia, o de sus socios, accionistas, dueños o personas con poder de mando, en aquellos casos en que se advierta que la persona jurídica es utilizada de manera sistemática para participar en la comisión de hechos de corrupción o faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 194.
+
+Para sancionar las faltas administrativas graves en que se acredite la participación (sic) particulares y personas jurídicas, la ley considerará la capacidad económica de los responsables y la cuantía de la afectación.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 195.
+
+Los órganos encargados de la investigación y sanción deberán guardar la confidencialidad de las denuncias ciudadanas y el anonimato de los denunciantes, serán resguardados con las medidas de índole técnico y organizativo necesarias que garanticen la seguridad de los datos personales y eviten su alteración, perdida, transmisión y acceso no autorizado, dichas medidas serán adoptadas en relación con el menor o mayor grado de protección que ameriten los datos personales conforme a la ley de la materia.
+
+Además, no le serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 196.
+
+La Sala Especializada en materia de Responsabilidad Administrativa, además de lo señalado en las fracciones VI y VII del artículo 17 de esta Ley, tendrá las siguientes facultades:
+
+I. Conocer y resolver de las Responsabilidades Administrativas de los Servidores Públicos y Particulares vinculados con faltas graves promovidas por la Contraloría y Transparencia Gubernamental del Estado o municipales, o por el Órgano de Fiscalización Superior del Estado, para la imposición de las sanciones que correspondan, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas;
+
+II. Fincar a los responsables el pago de las indemnizaciones y sanciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al Patrimonio de los entes públicos estatales o municipales;
+
+III. Los procedimientos, resoluciones definitivas, recursos o actos administrativos, dictados por la autoridad estatal o municipal, que impongan sanciones a los servidores públicos y a los particulares, cuando estos últimos ejerzan recursos económicos procedentes de la Hacienda Pública estatal o municipal;
+
+IV. Los asuntos que le sean turnados para sancionar responsabilidades administrativas que la ley determine como graves en casos de servidores públicos y de los particulares que participen en dichos actos;
+
+V. El recurso por medio del cual se califica como grave la falta administrativa que se investiga contra un servidor público;
+
+VI. Los procedimientos contra servidores públicos por las responsabilidades administrativas que la Ley respectiva determiné como graves;
+
+VII. Los procedimientos contra particulares donde se les impute responsabilidad administrativa por actos vinculados con otros servidores públicos derivados de los juicios a que hace referencia la fracción anterior;
+
+IX. Imponer los medios de apremio para hacer cumplir sus resoluciones;
+
+X. Imponer las medidas precautorias que le soliciten en términos de lo establecido en la Ley General de Responsabilidades Administrativas, cuando sean procedentes;
+
+XI. Imponer sanciones a los particulares que intervengan en actos vinculados con faltas administrativas graves, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como posibles nombramientos o encargos públicos del orden estatal, municipal, según corresponda;
+
+XII. Sancionar a las personas jurídicas cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona jurídica y en beneficio de ella.
+
+En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
+
+XIII. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
+
+XIV. Proponer, en su respectivo ámbito, reformas al Reglamento Interior del Tribunal de Justicia Administrativa;
+
+(NOTA: EL 5 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 115/2024, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA ATRIBUIDA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, ATINENTE A NO ADECUAR EL ARTÍCULO 196, FRACCIÓN XV, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE NUEVO LEÓN A LO ESTABLECIDO EN EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO DE REFORMAS CONSTITUCIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE MAYO DE DOS MIL QUINCE, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDIÓ LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL MISMO MEDIO DE DIFUSIÓN EL DIECIOCHO DE JULIO DE DOS MIL DIECISÉIS, SE ORDENA AL CONGRESO DEL ESTADO DE NUEVO LEÓN PARA QUE, A MÁS TARDAR EN EL PERÍODO ORDINARIO DE SESIONES QUE INICIE CON POSTERIORIDAD A LA NOTIFICACIÓN DE ESTA SENTENCIA, LEGISLE EN LOS TÉRMINOS PRECISADOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+XV. Conocer y resolver el recurso de Apelación contra las resoluciones que imponga la Sala Especializada en materia de responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas; y
+
+XVI. Las señaladas en las demás leyes como competencia exclusiva de la sala especializada en materia responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 197.
+
+El Magistrado de la Sala especializada en materia de Responsabilidad Administrativa, formará parte del Comité Coordinador del Sistema Estatal Anticorrupción; y para efectos de esta Ley tendrá las siguientes atribuciones:
+
+I. Admitir, prevenir, reconducir o mejor proveer, la acción de responsabilidades contenida en el informe de presunta responsabilidad administrativa;
+
+II. Admitir o tener por contestada la demanda, en sentido negativo;
+
+III. Admitir o rechazar la intervención del tercero;
+
+IV. Admitir, desechar o tener por no ofrecidas las pruebas;
+
+V. Admitir, desechar y tramitar los incidentes y recursos que le competan, formular los proyectos de resolución, de aclaraciones de la resolución y someterlos a la consideración de la Sala especializada en materia de Responsabilidad Administrativa;
+
+VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+
+VII. Formular el proyecto de resolución definitiva;
+
+VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley General de Responsabilidades Administrativas, y dictar las (sic) resolución correspondiente a la medida cautelar definitiva que se estime procedente;
+
+IX. Dictar la designación del perito tercero;
+
+X. Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material; asimismo el Magistrado podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes en el procedimiento de investigación;
+
+XI. Dirigir la audiencia de vista con el personal de apoyo administrativo y jurisdiccional que requiera;
+
+XII. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
+
+XIII. Coadyuvar con las autoridades competentes para el mejor desempeño de sus funciones;
+
+XIV. Dictar el nombramiento, remoción y liquidación del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala Especializada en materia de Responsabilidad Administrativa, con excepción de los defensores jurídicos;
+
+XV. Solicitar a la autoridad correspondiente, la exhibición de cualquier documento que tenga relación con los hechos; y
+
+XVI. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
 T R A N S I T O R I O S
 
@@ -3505,13 +3597,25 @@ P.O. 18 DE ENERO DE 2017.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 19 DE ENERO DE 2018.
+
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342.- SE REFORMA Y ADICIONA EL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 347. SE REFORMAN LOS ARTÍCULOS 2°, 5° EN SU PRIMER PÁRRAFO, 6°, 8°, 9° EN SU PÁRRAFO QUINTO, 14, LA FRACCIÓN IX DEL INCISO A) DEL ARTÍCULO 20, 23 FRACCIÓN II, 82 EN SU PRIMER PÁRRAFO, 94, 95 EN SU TERCER PÁRRAFO, 96 FRACCIÓN II DEL SEGUNDO PÁRRAFO; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 1°, UN ARTÍCULO 6° BIS, EL CONTENIDO DE LA FRACCIÓN VII DEL ARTÍCULO 17, UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 25, Y UN TITULO SEXTO DENOMINADO "DE LA SALA ESPECIALIZADA EN MATERIA DE RESPONSABILIDAD ADMINISTRATIVA" CON UN CAPÍTULO ÚNICO, QUE COMPRENDERÁ LOS ARTÍCULOS 191, 192, 193, 194, 195, 196 Y 197 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga cualquier disposición en contrario a lo establecido por esta Ley.
+
+Tercero.- El Congreso del Estado, contará con 30 días a partir de la entrada en vigor del presente Decreto, para emitir la convocatoria para la elección del Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa.
+
+Cuarto.- El Ejecutivo del Estado, mediente (sic) la Secretaría de Finanzas y Tesorería General del Estado, deberá dotar de la suficiencia presupuestal al Tribunal de Justicia Administrativa del Estado, en las partidas presupuestales con cargo a él, para ejercer las acciones que resulten necesarias para la asignación del personal y el presupuesto necesario para el funcionamiento de la Sala Especializada en materia de Responsabilidad Administrativa.
+
+Quinto.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta en tanto la Sala Superior de dicho Tribunal no realice las adecuaciones necesarias para lo cual tendrá un término de 90 días a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
