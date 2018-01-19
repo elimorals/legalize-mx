@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2016-06-01"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -150,9 +150,11 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 ### CAPÍTULO ÚNICO. DE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 5o.
 
-La federación, las entidades federativas, el Distrito Federal y los municipios ejercerán sus atribuciones para la mitigación y adaptación al cambio climático, de conformidad con la distribución de competencias prevista en esta ley y en los demás ordenamientos legales aplicables.
+La federación, las entidades federativas y los municipios ejercerán sus atribuciones para la mitigación y adaptación al cambio climático, de conformidad con la distribución de competencias prevista en esta ley y en los demás ordenamientos legales aplicables.
 
 ###### Artículo 6o.
 
@@ -262,7 +264,9 @@ XXVIII. Las demás que esta ley y otras leyes le atribuyan a la Federación.
 
 Corresponde a las entidades federativas las siguientes atribuciones:
 
-I. Formular, conducir y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Formular, conducir y evaluar la política de la entidad federativa en materia de cambio climático en concordancia con la política nacional;
 
 II. Formular, regular, dirigir e instrumentar acciones de mitigación y adaptación al cambio climático, de acuerdo con la Estrategia Nacional y el Programa en las materias siguientes:
 
@@ -364,17 +368,21 @@ XII. Las demás que señale esta ley y las disposiciones jurídicas aplicables.
 
 Los municipios, con acuerdo de sus ayuntamientos podrán coordinarse y/o asociarse para una eficiente implementación de las disposiciones previstas en este artículo.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 10.
 
-La federación y las entidades federativas, con la participación en su caso de sus Municipios, podrán suscribir convenios de coordinación o concertación con la sociedad en materia de cambio climático que, entre otros elementos incluirán las acciones, lugar, metas y aportaciones financieras que corresponda realizar a cada parte.
+La federación y las entidades federativas, con la participación en su caso de sus Municipios y demarcaciones territoriales de la Ciudad de México, podrán suscribir convenios de coordinación o concertación con la sociedad en materia de cambio climático que, entre otros elementos incluirán las acciones, lugar, metas y aportaciones financieras que corresponda realizar a cada parte.
 
 ###### Artículo 11.
 
 Las Entidades Federativas y los Municipios expedirán las disposiciones legales necesarias para regular las materias de su competencia previstas en esta ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 12.
 
-Corresponde al gobierno del Distrito Federal ejercer las facultades y obligaciones que este ordenamiento confiere a las entidades federativas y a los municipios en lo que resulte aplicable.
+Corresponde al gobierno de la Ciudad de México ejercer las facultades y obligaciones que este ordenamiento confiere a las entidades federativas y a los municipios en lo que resulte aplicable.
 
 ## TÍTULO TERCERO. INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
@@ -1428,9 +1436,11 @@ Las disposiciones reglamentarias de la presente Ley establecerán los requisitos
 
 ### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 91.
 
-La Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política nacional en materia de cambio climático.
+La Federación y las entidades federativas, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política nacional en materia de cambio climático.
 
 ###### Artículo 92.
 
@@ -1737,3 +1747,9 @@ D.O.F. 1 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CAMBIO CLIMÁTICO".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO SEXTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
