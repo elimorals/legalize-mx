@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-del-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-01"
-last_updated: "2017-09-15"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -155,6 +155,12 @@ La Secretaría, a través de sus unidades administrativas, conducirá sus activi
 
 Las unidades administrativas de la Secretaría, contarán con los servidores públicos que se consideren necesarios para el cabal desempeño de sus atribuciones y que se autoricen en el presupuesto de egresos, los cuales tendrán a su cargo la atención y despacho de los asuntos que les instruye el titular de la unidad administrativa.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+ARTÍCULO 4 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una unidad de transparencia, los cuales se organizarán y funcionarán de acuerdo con las disposiciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 ### CAPÍTULO II. DE LAS FACULTADES Y OBLIGACIONES DEL SECRETARIO
 
 ###### ARTÍCULO 5.
@@ -235,13 +241,17 @@ XXXIII. Suscribir previo acuerdo del Gobernador del Estado, en el ámbito las ma
 
 XXXIV. Participar y coordinar las acciones relacionadas con los asuntos fronterizos; vigilar o coadyuvar en su ejecución y seguimiento por parte de las demás Dependencias y Entidades competentes. Promover la celebración de los convenios necesarios con las autoridades federales competentes para atender esta materia;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-XXXV. Realizar las acciones pertinentes a fin de impulsar políticas públicas, en beneficio de la población migrante que se encuentre en el Estado; y
+XXXV. Realizar las acciones pertinentes a fin de impulsar políticas públicas, en beneficio de la población migrante que se encuentre en el Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-XXXVI. Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
+XXXVI. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y demás normatividad en la materia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XXXVII. Las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
@@ -601,9 +611,11 @@ XIII. Las demás que les sean encomendadas por el Secretario, y aquellas que les
 
 Se adscriben a la Subsecretaria de Gobierno, las Direcciones de Gobierno, Desarrollo Político, de 1 (sic) Asuntos Religiosos, de Enlace y Seguimiento, de Gestión y Atención a Grupos Sociales, de Análisis de Información, de Atención al Migrante y la Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 24.
 
-Corresponde a la Dirección de Gobierno, por conducto de su titular, las atribuciones siguientes:
+Corresponde a la Dirección de Gobierno, el ejercicio de las atribuciones siguientes:
 
 I. Coordinar, dirigir y controlar las acciones relativas a la correspondencia y archivo de la Secretaría;
 
@@ -615,7 +627,7 @@ IV. Coordinar la actualización de los registros de nombramientos de los servido
 
 V. Revisar o en su caso expedir legalización, certificaciones y apostilla de documentos de acreditación escolar y de estado civil de las personas, verificando su autenticidad;
 
-VI. Tramitar la certificación de copias del Periódico Oficial del Estado que le sean solicitadas;
+VI. (DEROGADA, P.O. 19 DE ENERO DE 2018)
 
 VII. Gestionar la publicación en el Periódico Oficial del Estado, de leyes, reglamentos, decretos y demás disposiciones que deban regir en el Estado; así como la documentación proveniente de dependencias de Gobierno Federal, Estatal, Municipal, y de organismos descentralizados;
 
@@ -623,7 +635,9 @@ VIII. Participar en actos o reuniones con las dependencias de los tres órdenes 
 
 IX. Gestionar los trámites para la expedición de permisos y concesiones que corresponda al Ejecutivo del Estado o a la Secretaria;
 
-X. Gestionar el otorgamiento de anuencias para la realización de eventos de entretenimiento social, exposiciones, ferias populares, así como de todo acto cuya autorización corresponda al Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+X. Gestionar el otorgamiento de anuencias para la realización de exposiciones, ferias populares, así como de todo acto cuya autorización corresponda al Ejecutivo del Estado;
 
 XI. Recibir, estudiar y analizar las solicitudes para la expedición, revalidación, modificación y reposición, del permiso para la instalación y funcionamiento de casas de empeño, integrando el expediente correspondiente;
 
@@ -673,7 +687,13 @@ VI. Participar en la mediación y resolución de conflictos de carácter públic
 
 VII. Analizar los procesos electorales que se realicen en el Estado; y,
 
-VIII. Las demás que les sean encomendadas por el superior inmediato; y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+VIII. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+IX. Las demás que le sean encomendadas por el superior inmediato y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 La Dirección de Desarrollo Político contara con los servidores públicos que se consideren necesarios para el desempeño de las funciones que le corresponden a la Dirección y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la unidad administrativa.
 
@@ -1446,3 +1466,11 @@ P.O. 15 DE SEPTIEMBRE DE 2017.
 PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Secretaría General de Gobierno entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Coordinación de Protección Civil del Estado continuará atendiendo los asuntos a cargo de la Dirección de Protección Civil, en términos de lo previsto en la normatividad aplicable.
+
+P.O. 9 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 4 BIS Y SE REFORMAN LOS ARTÍCULOS 6, 24 Y 27 DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones al Reglamento Interno de la Secretaría General de Gobierno entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
