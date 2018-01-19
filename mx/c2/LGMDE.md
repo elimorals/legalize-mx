@@ -4,7 +4,7 @@ identifier: "LGMDE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2014-06-27"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMDE"
 
 LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -66,7 +66,9 @@ III. Código Penal: Código Penal Federal;
 
 IV. Consulta Popular: Los mecanismos de participación mediante los cuales los ciudadanos ejercen su derecho reconocido por el artículo 35, fracción VIII de la Constitución;
 
-V. Servidor Público: La persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o local centralizada, organismos descentralizados federales o locales, empresas de participación estatal mayoritaria federales o locales, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos federales o locales, en las legislaturas federal o locales y en la Asamblea Legislativa del Distrito Federal, en los poderes judiciales federal o locales o Tribunal Superior de Justicia del Distrito Federal, o que manejen recursos económicos federales o locales, así como en los organismos a los que la Constitución, las constituciones locales o el Estatuto de Gobierno del Distrito Federal otorguen autonomía.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Servidor Público: La persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o local centralizada, organismos descentralizados federales o locales, empresas de participación estatal mayoritaria federales o locales, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos federales o locales, en las legislaturas federal o locales, en los poderes judiciales federal o locales, o que manejen recursos económicos federales o locales, así como en los organismos a los que la Constitución o las constituciones de las entidades federativas otorguen autonomía.
 
 También se entenderá como servidores públicos a los funcionarios o empleados de la administración pública municipal y delegacional;
 
@@ -96,9 +98,11 @@ XIV. Organizadores de actos de campaña: Las personas que dirijan, coordinen, in
 
 El Ministerio Público, en todos los casos, procederá de oficio con el inicio de las investigaciones por los delitos previstos en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 5.
 
-Tratándose de servidores públicos que cometan cualquiera de los delitos previstos en esta Ley, se les impondrá, además de la sanción correspondiente en el tipo penal de que se trate, la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público federal, local, municipal o de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, de dos a seis años y, en su caso, la destitución del cargo.
+Tratándose de servidores públicos que cometan cualquiera de los delitos previstos en esta Ley, se les impondrá, además de la sanción correspondiente en el tipo penal de que se trate, la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público federal, de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, de dos a seis años y, en su caso, la destitución del cargo.
 
 ###### Artículo 6.
 
@@ -401,3 +405,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO QUINTO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
