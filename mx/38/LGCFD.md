@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2017-01-25"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -42,17 +42,23 @@ LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
 ## Título Primero. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en toda la República, reglamenta el derecho a la cultura física y el deporte reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Comisión Nacional de Cultura Física y Deporte, las Autoridades Estatales, del Distrito Federal y las Municipales, así como los sectores social y privado, en los términos que se prevén.
+La presente Ley es de orden público e interés social y de observancia general en toda la República, reglamenta el derecho a la cultura física y el deporte reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Comisión Nacional de Cultura Física y Deporte, las Autoridades de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como los sectores social y privado, en los términos que se prevén.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 2.
 
-Esta Ley y su Reglamento tienen por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre la Federación, los Estados, el Distrito Federal y los Municipios en materia de cultura física y deporte, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-J de la Constitución Política de los Estados Unidos Mexicanos, así como la participación de los sectores social y privado en esta materia, con las siguientes finalidades generales:
+Esta Ley y su Reglamento tienen por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en materia de cultura física y deporte, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-J de la Constitución Política de los Estados Unidos Mexicanos, así como la participación de los sectores social y privado en esta materia, con las siguientes finalidades generales:
 
 I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
 
-II. Elevar, por medio de la activación física, la cultura física y el deporte, el nivel de vida social y cultural de los habitantes en los Estados, el Distrito Federal y los Municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Elevar, por medio de la activación física, la cultura física y el deporte, el nivel de vida social y cultural de los habitantes en las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y el deporte;
 
@@ -180,13 +186,17 @@ XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuent
 
 XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 6.
 
-La Federación, los Estados, el Distrito Federal, y los Municipios, fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos aplicables.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 7.
 
-La Federación, los Estados, el Distrito Federal, y los Municipios, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los mexicanos y las mexicanas a la cultura física y a la práctica del deporte.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los mexicanos y las mexicanas a la cultura física y a la práctica del deporte.
 
 ###### Artículo 8.
 
@@ -224,7 +234,9 @@ Entre los organismos e instituciones públicas y privadas que se consideran inte
 
 I. La CONADE;
 
-II. Los Órganos Estatales, del Distrito Federal, y Municipales de Cultura Física y Deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte;
 
 III. El COM;
 
@@ -266,9 +278,11 @@ El funcionamiento y requisitos de integración del SINADE estarán regulados en 
 
 #### Sección Primera. De la Comisión Nacional de Cultura Física y Deporte
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 15.
 
-La actuación de la Administración Pública Federal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo público descentralizado de la Administración Pública Federal, que será el conductor de la política nacional en estas materias y que se denominará, Comisión Nacional de Cultura Física y Deporte, quien contará con personalidad jurídica, patrimonio propio y domicilio en el Distrito Federal.
+La actuación de la Administración Pública Federal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo público descentralizado de la Administración Pública Federal, que será el conductor de la política nacional en estas materias y que se denominará, Comisión Nacional de Cultura Física y Deporte, quien contará con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de México.
 
 ###### Artículo 16.
 
@@ -276,7 +290,9 @@ El patrimonio de la CONADE se integrará con:
 
 I. Las aportaciones que realice el Gobierno Federal, a través de los recursos que se le asignen en el Decreto de Presupuesto de Egresos de la Federación, así como los subsidios y demás recursos que reciba;
 
-II. Las aportaciones que en su caso, le realicen los Gobiernos Estatales, del Distrito Federal y de los Municipios, así como las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Las aportaciones que, en su caso, le realicen los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como las Entidades Paraestatales;
 
 III. Las aportaciones que le realicen las personas físicas y morales nacionales o extranjeras, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la Ley;
 
@@ -598,7 +614,9 @@ II. Proponer, dirigir, ejecutar, evaluar y vigilar la política nacional de cult
 
 Para efectos de esta fracción se entenderán como manifestaciones del deporte, el deporte social y el deporte de rendimiento.
 
-III. Celebrar acuerdos, convenios, contratos y bases con las autoridades de los Estados, el Distrito Federal, y los Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Celebrar acuerdos, convenios, contratos y bases con las autoridades de las entidades federativas y los Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones;
 
 IV. Integrar en coordinación con la SEP el Programa Nacional de Cultura Física y Deporte;
 
@@ -608,7 +626,9 @@ VI. Diseñar y establecer estrategias y prioridades en materia de cultura físic
 
 VII. Celebrar, con la participación que le corresponda a la SEP y a la Secretaría de Relaciones Exteriores, acuerdos de cooperación en materia de cultura física y deporte, con órganos gubernamentales y organizaciones internacionales como mecanismo eficaz para fortalecer las acciones que en materia de cultura física y deporte se concierten;
 
-VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, los Estados, el Distrito Federal, los Municipios y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, las entidades federativas, los Municipios las demarcaciones territoriales de la Ciudad de México y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte;
 
 IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando, la inducción de la cultura física y el deporte en los planes y programas educativos;
 
@@ -664,35 +684,49 @@ XXX. Las demás que esta Ley u otras disposiciones legales o reglamentarias dete
 
 Las relaciones de trabajo entre la CONADE y sus trabajadores se regirán por el Apartado A, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como por la Ley Federal del Trabajo.
 
-#### Sección Segunda. De los Órganos Estatales, del Distrito Federal y Municipales de Cultura Física y Deporte
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
+
+#### Sección Segunda. De los Órganos de las entidades federativas, municipales y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 32.
 
-Cada Entidad Federativa, Distrito Federal y Municipios podrán contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con la CONADE promueva, estimule y fomente el desarrollo de la cultura física y el deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
+Cada Entidad Federativa, municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México podrán contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con la CONADE promueva, estimule y fomente el desarrollo de la cultura física y el deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
 
 Los Sistemas Estatales de Cultura Física y Deporte se integrarán por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local y tendrán como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de sus competencias.
 
-El Sistema de Cultura Física y Deporte del Distrito Federal, se integrará por las Autoridades, Unidades Administrativas, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local, y tendrá como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de su competencia.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El Sistema de Cultura Física y Deporte de la Ciudad de México, se integrará por las Autoridades, Unidades Administrativas, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local, y tendrá como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de su competencia.
 
 Los Sistemas Municipales de Cultura Física y Deporte, se integrarán por las Autoridades Municipales, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 33.
 
-Los Estados, el Distrito Federal y los Municipios, promoverán, y fomentarán el desarrollo de la activación física, la cultura física y del deporte con los habitantes de su territorio, conforme al ámbito de su competencia y jurisdicción.
+Las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, promoverán, y fomentarán el desarrollo de la activación física, la cultura física y del deporte con los habitantes de su territorio, conforme al ámbito de su competencia y jurisdicción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 34.
 
-Corresponde a los Estados y al Distrito Federal, en el ámbito de sus respectivas competencias de conformidad con lo dispuesto en esta Ley y lo que establezcan las Leyes locales en la materia, las siguientes atribuciones:
+Corresponde a las entidades federativas, en el ámbito de sus respectivas competencias de conformidad con lo dispuesto en esta Ley y lo que establezcan las Leyes locales en la materia, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política de cultura física y deporte estatal;
 
-II. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, estatales, regionales, Municipales y delegaciones en los casos del Distrito Federal, así como su respectivo Plan Estatal de Desarrollo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, de las entidades federativas, regionales, Municipales y de las demarcaciones territoriales de la Ciudad de México, así como su respectivo Plan de Desarrollo de la entidad federativa;
 
 III. Diseñar, aplicar y evaluar el programa estatal de cultura física y deporte;
 
 IV. Celebrar convenios o acuerdos de coordinación y colaboración con la CONADE y con los Municipios en materia de cultura física y deporte;
 
-V. Integrar el Sistema Estatal de Cultura Física y Deporte, o en su caso, el Sistema de Cultura Física y Deporte del Distrito Federal, para promover y fomentar el desarrollo de la cultura física y deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Integrar el Sistema de Cultura Física y Deporte de la entidad federativa para promover y fomentar el desarrollo de la cultura física y deporte;
 
 VI. Establecer, operar y mantener actualizado el Registro Estatal de Cultura Física y Deporte en coordinación con el Registro Nacional de Cultura Física y Deporte;
 
@@ -700,59 +734,85 @@ VII. Promover la participación de los sectores social y privado para el desarro
 
 VIII. Las demás que señale esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 35.
 
-Los Municipios y las delegaciones, en el caso del Distrito Federal, en el ámbito de sus respectivas competencias y de conformidad con lo dispuesto en esta Ley y las Leyes locales en la materia, tendrán las siguientes atribuciones:
+Los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias y de conformidad con lo dispuesto en esta Ley y las Leyes locales en la materia, tendrán las siguientes atribuciones:
 
-I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal y delegacional;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II. Diseñar y aplicar los instrumentos y programas Estatales, del Distrito Federal y Municipales en cultura física y deporte, acorde con los programas nacional, estatales y regionales;
+I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal y de la demarcación territorial;
 
-III. Diseñar, aplicar y evaluar el programa municipal y delegacional de cultura física y deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IV. Coordinarse con la CONADE, los Estados, el Distrito Federal y con otros Municipios para la promoción, fomento y desarrollo de la cultura física y deporte;
+II. Diseñar y aplicar los instrumentos y programas de las entidades federativas, Municipales y de las demarcaciones territoriales en cultura física y deporte, acorde con los programas nacional, de las entidades federativas y regionales;
 
-V. Integrar el Sistema Municipal de Cultura Física y Deporte para promover y fomentar el desarrollo de la activación física, la cultura física y el deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Diseñar, aplicar y evaluar el programa municipal y de la demarcación territorial de cultura física y deporte;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Coordinarse con la CONADE, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México para la promoción, fomento y desarrollo de la cultura física y deporte;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Integrar el Sistema Local de Cultura Física y Deporte para promover y fomentar el desarrollo de la activación física, la cultura física y el deporte;
 
 VI. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte, y
 
 VII. Las demás que señale esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 36.
 
-En el ejercicio de sus atribuciones, los Estados, el Distrito Federal y los Municipios, observarán las disposiciones de esta Ley, su Reglamento y los demás ordenamientos aplicables en la materia, nacional e internacionales.
+En el ejercicio de sus atribuciones las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley, su Reglamento y los demás ordenamientos aplicables en la materia, nacional e internacionales.
 
-Los Congresos de los Estados, con apego a sus respectivas Constituciones y la Asamblea Legislativa del Distrito Federal, expedirán los ordenamientos legales que sean necesarios para regular las materias de su competencia previstas en esta Ley, contemplando lo relacionado a estímulos fiscales y deducciones de impuestos.
+Los Congresos de las entidades federativas, con apego a sus respectivas Constituciones, expedirán los ordenamientos legales que sean necesarios para regular las materias de su competencia previstas en esta Ley, contemplando lo relacionado a estímulos fiscales y deducciones de impuestos.
 
-Los Ayuntamientos, por su parte, dictarán las disposiciones administrativas que correspondan, con apego a lo establecido por la presente Ley.
+Los Ayuntamientos, por su parte y, en su caso, las Alcaldías de la Ciudad de México, dictarán las disposiciones administrativas que correspondan, con apego a lo establecido por la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 37.
 
-Los Sistemas Estatales, del Distrito Federal y Municipales otorgarán los registros a las Asociaciones y Sociedades que los integren, verificando que cumplan con los requisitos establecidos por el SINADE y en coordinación con el Registro Nacional de Cultura Física y Deporte.
+Los Sistemas (sic) las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México otorgarán los registros a las Asociaciones y Sociedades que los integren, verificando que cumplan con los requisitos establecidos por el SINADE y en coordinación con el Registro Nacional de Cultura Física y Deporte.
 
 El registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 38.
 
-Los Órganos Estatales, del Distrito Federal y Municipales de Cultura Física y Deporte se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley, su Reglamento y las demás disposiciones que de ella deriven, cumpliendo en todo momento con cada una de las obligaciones que como integrantes del SINADE les corresponde.
+Los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley, su Reglamento y las demás disposiciones que de ella deriven, cumpliendo en todo momento con cada una de las obligaciones que como integrantes del SINADE les corresponde.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 39.
 
-Los Sistemas Estatales, del Distrito Federal y Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de activación física, cultura física y deporte se adopten por el SINADE.
+Los Sistemas de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de activación física, cultura física y deporte se adopten por el SINADE.
 
-Los Órganos Estatales, del Distrito Federal y Municipales de Cultura Física y Deporte publicarán su presupuesto, programas determinados y sistemas de evaluación, en el periódico oficial que corresponda.
+Los Órganos Estatales, de la Ciudad de México y Municipales de Cultura Física y Deporte publicarán su presupuesto, programas determinados y sistemas de evaluación, en el periódico oficial que corresponda.
 
 #### Sección Tercera. De la Concurrencia, Coordinación, Colaboración y Concertación
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 40.
 
-La Administración Pública Federal a través de la CONADE, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con los Estados, el Distrito Federal y los Municipios y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y el deporte en el ámbito nacional.
+La Administración Pública Federal a través de la CONADE, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y el deporte en el ámbito nacional.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 41.
 
-Las autoridades competentes de la Federación, los Estados, el Distrito Federal y los Municipios, se coordinarán entre sí o con instituciones del sector social y privado para:
+Las autoridades competentes de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán entre sí o con instituciones del sector social y privado para:
 
-I. Establecer en sus respectivos ámbitos de competencia los Sistemas Estatales, del Distrito Federal y Municipales de cultura física y deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Establecer en sus respectivos ámbitos de competencia los Sistemas de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de cultura física y deporte;
 
 II. Promover la iniciación y garantizar el acceso a la práctica de las actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte a la población en general, en todas sus manifestaciones y expresiones;
 
@@ -774,23 +834,37 @@ VII. Establecer procedimientos de promoción en materia de cultura física y dep
 
 VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 41 Bis.
 
-La coordinación y colaboración entre la Federación, el Distrito Federal, los Estados y los municipios, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente:
+La coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
 I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
 
-II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio o el Distrito Federal en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio o la Ciudad de México en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
 
 La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
 
-III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o autoridades del Distrito Federal en términos de lo que dispongan las leyes aplicables;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IV. A solicitud de las autoridades municipales o delegacionales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales y el Distrito Federal intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o autoridades de la Ciudad de México en términos de lo que dispongan las leyes aplicables;
 
-V. A solicitud de las autoridades estatales o del Distrito Federal y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades federales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. A solicitud de las autoridades municipales o de las demarcaciones territoriales de la Ciudad de México y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades de las entidades federativas intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. A solicitud de las autoridades de las entidades federativas y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades federales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
 VI. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
 
@@ -798,19 +872,31 @@ Los representantes a que se refiere esta fracción podrán realizar sugerencias 
 
 Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
 
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
 VII. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
 
-VIII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los distintos órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
 IX. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
 
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
 X. Las autoridades de los tres órdenes de gobierno, capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
 
-XI. Las leyes de Seguridad Pública de las Entidades Federativas y del Distrito Federal, deberán establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre una entidad y sus municipios o el Distrito Federal en los órganos políticos administrativos en cada una de las demarcaciones territoriales, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal, municipal o en el caso del Distrito Federal, Delegacional, atendiendo a lo previsto en este artículo.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XI. Las leyes de Seguridad Pública de las Entidades Federativas, deberán establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre una entidad y sus municipios o la Ciudad de México en los órganos políticos administrativos en cada una de las demarcaciones territoriales, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal, municipal o en el caso de la Ciudad de México de sus demarcaciones territoriales atendiendo a lo previsto en este artículo.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 42.
 
-La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de la Federación, los Estados, el Distrito Federal y los Municipios entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
+La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los distintos órdenes de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
 
 ### Capítulo II. De los Sectores Social y Privado
 
@@ -860,7 +946,9 @@ Para efecto de que la CONADE otorgue el registro correspondiente como Asociacion
 
 La presente Ley reconoce el carácter de entes de promoción deportiva a aquellas personas físicas o morales, que sin tener una actividad habitual y preponderante de cultura física o deporte, conforme a lo dispuesto por este ordenamiento y los emanados de él, realicen o celebren eventos o espectáculos en estas materias de forma aislada, que no sean competiciones de las previstas en el artículo 56 de esta Ley.
 
-Las personas físicas o morales que se encuentren en el supuesto previsto en el párrafo anterior, deberán cumplir con las disposiciones de esta Ley que le sean aplicables y de todos aquellos ordenamientos que en materia de cultura física y deporte dicten las autoridades Federal, Estatales, del Distrito Federal y Municipales.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las personas físicas o morales que se encuentren en el supuesto previsto en el párrafo anterior, deberán cumplir con las disposiciones de esta Ley que le sean aplicables y de todos aquellos ordenamientos que en materia de cultura física y deporte dicten las autoridades Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México.
 
 ###### Artículo 49.
 
@@ -882,11 +970,17 @@ I. Calificar y organizar en su caso, las actividades y competiciones deportivas 
 
 II. Actuar en coordinación con sus asociados en la promoción general de su disciplina deportiva en todo el territorio nacional;
 
-III. Colaborar con la Administración Pública de la Federación, de los Estados, del Distrito Federal y de los Municipios en la formación de técnicos deportivos y en la prevención, control y represión del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IV. Colaborar con la Administración Pública de la Federación, de los Estados, del Distrito Federal y de los Municipios en el control, disminución y prevención de la obesidad y las enfermedades que provoca;
+III. Colaborar con la Administración Pública de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en la formación de técnicos deportivos y en la prevención, control y represión del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte;
 
-V. Colaborar con la Administración Pública de la Federación, de los Estados, del Distrito Federal y de los Municipios en la prevención de la violencia en el deporte y eventos o espectáculos públicos o privados en materia de activación física, cultura física o deporte;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Colaborar con la Administración Pública de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en el control, disminución y prevención de la obesidad y las enfermedades que provoca;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Colaborar con la Administración Pública de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en la prevención de la violencia en el deporte y eventos o espectáculos públicos o privados en materia de activación física, cultura física o deporte;
 
 VI. Actuar como el organismo rector de su disciplina deportiva, en todas sus categorías, especialidades y modalidades, en la República Mexicana;
 
@@ -1166,7 +1260,9 @@ La CONADE coordinará y promoverá la constitución de comisiones nacionales de 
 
 La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del país como factor fundamental del desarrollo armónico e integral del ser humano.
 
-La Federación, los Estados, el Distrito Federal y los Municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
 
 I. Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y deportiva;
 
@@ -1182,11 +1278,15 @@ VI. Promover certámenes, concursos o competiciones de naturaleza cultural depor
 
 VII. Las demás que dispongan otras leyes u ordenamientos aplicables.
 
-Los Juegos Tradicionales y Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo del país y la Federación, los Estados, el Distrito Federal y los Municipios en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Nacionales y Asociaciones Deportivas Estatales, del Distrito Federal o Municipales correspondientes.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los Juegos Tradicionales y Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo del país y la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Nacionales y Asociaciones Deportivas de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 89.
 
-La CONADE en coordinación con la SEP, los Estados, el Distrito Federal y los Municipios planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+La CONADE en coordinación con la SEP, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
 
 Los titulares de las dependencias de la Administración Pública Federal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
 
@@ -1212,9 +1312,11 @@ Las actividades físicas y la práctica del deporte en espacios naturales deben 
 
 Asimismo, se respetarán las áreas clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas y la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 93.
 
-La CONADE coordinará con la SEP, los Estados, el Distrito Federal, los Municipios y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+La CONADE coordinará con la SEP, las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
 
 ###### Artículo 94.
 
@@ -1222,9 +1324,11 @@ La CONADE formulará las normas y criterios requeridos en materia de instalacion
 
 Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos federales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 95.
 
-En los términos de los convenios de coordinación y colaboración respectivos, los Gobiernos Estatal, del Distrito Federal y Municipales inscribirán sus instalaciones destinadas a la activación física, la cultura física y deporte al RENADE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación nacional.
+En los términos de los convenios de coordinación y colaboración respectivos, los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México inscribirán sus instalaciones destinadas a la activación física, la cultura física y deporte al RENADE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación nacional.
 
 La CONADE podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, ordenamientos técnicos de las disciplinas deportivas correspondientes y demás disposiciones aplicables, cumpliendo el procedimiento que para ese propósito prevea el Reglamento de esta Ley.
 
@@ -1248,7 +1352,9 @@ Asimismo, deberán respetarse los programas y calendarios previamente establecid
 
 Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
 
-Las autoridades municipales, o las correspondientes del Distrito Federal, serán competentes para verificar el cumplimiento de la presente disposición.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las autoridades municipales, o las correspondientes de la Ciudad de México, serán competentes para verificar el cumplimiento de la presente disposición.
 
 ### Capítulo II. De la Enseñanza, Investigación y Difusión
 
@@ -1260,9 +1366,11 @@ La CONADE promoverá, coordinará e impulsará en coordinación con la SEP la en
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SINADE, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del país de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 101.
 
-La CONADE participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Federal, Gobiernos de las Entidades Federativas, del Distrito Federal, y Municipales, organismos públicos, sociales y privados, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+La CONADE participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Federal, Gobiernos de las Entidades Federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México, organismos públicos, sociales y privados, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
 
 ###### Artículo 102.
 
@@ -1278,9 +1386,11 @@ La CONADE promoverá en coordinación con la SEP, el desarrollo e investigación
 
 La CONADE coordinará las acciones necesarias a fin de que los integrantes del SINADE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 105.
 
-Los deportistas integrantes del SINADE tendrán derecho a recibir atención médica. Para tal efecto, las Autoridades Federales, Estatales, del Distrito Federal y Municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+Los deportistas integrantes del SINADE tendrán derecho a recibir atención médica. Para tal efecto, las Autoridades Federales, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
 Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del RENADE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones nacionales, deberán contar con un seguro de vida y gastos médicos que proporcionará la CONADE, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
 
@@ -1324,7 +1434,9 @@ III. Fomentar las actividades de las Asociaciones Deportivas, Recreativas, de Re
 
 IV. Promover la actividad de clubes, asociaciones, ligas y deportistas, cuando esta actividad se desarrolle en el ámbito nacional;
 
-V. Cooperar con los Órganos Estatales de Cultura Física y Deporte y, en su caso, con los Municipales, del Distrito Federal y con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Cooperar con los Órganos de las entidades federativas de Cultura Física y Deporte y, en su caso, con los Municipales o demarcaciones territoriales de la Ciudad de México, y con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento;
 
 VI. Promover con los CONDE, Universidades y demás instituciones educativas la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
@@ -1400,7 +1512,9 @@ Se entenderá por dopaje en el deporte la administración a los deportistas o a 
 
 Se sancionará como infracción, por dopaje, lo establecido en la fracción I del artículo 151 de la presente Ley.
 
-La Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional contra el Dopaje en el Deporte y los demás ordenamientos que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional contra el Dopaje en el Deporte y los demás ordenamientos que resulten aplicables.
 
 ###### Artículo 120.
 
@@ -1416,9 +1530,11 @@ El Comité Nacional Antidopaje será la única autoridad facultada para recolect
 
 Cuando se determinen casos de dopaje dentro o fuera de competición, las asociaciones deportivas nacionales cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento de la CONADE y el COM, cuando corresponda, dicha situación.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 123.
 
-La CONADE, conjuntamente con las Autoridades Federales, Estatales, del Distrito Federal y Municipales, del sector salud y los integrantes del SINADE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos referidos en el artículo 118 de la presente Ley. Asimismo, realizará informes y estudios sobre las causas y efectos del uso de dichas sustancias.
+La CONADE, conjuntamente con las Autoridades Federales, de las entidades federativas y Municipales, del sector salud y los integrantes del SINADE, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos referidos en el artículo 118 de la presente Ley. Asimismo, realizará informes y estudios sobre las causas y efectos del uso de dichas sustancias.
 
 ###### Artículo 124.
 
@@ -1480,9 +1596,11 @@ Para efectos del artículo anterior, quedan exentas las muestras biológicas rec
 
 ### Capítulo VI. De la Prevención de la Violencia en el Deporte
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 137.
 
-Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, los Estados, el Distrito Federal y los Municipios.
+Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México.
 
 La CONADE, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
 
@@ -1508,7 +1626,9 @@ VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta d
 
 Se crea la Comisión Especial Contra la Violencia en el Deporte que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
 
-La Comisión Especial será un órgano colegiado integrado por representantes de CONADE, de los Órganos Estatales, del Distrito Federal y Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Nacionales, del COM, del COPAME, del CONDE, de las Ligas Profesionales y, en su caso, de las Comisiones Nacionales del Deporte Profesional.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Comisión Especial será un órgano colegiado integrado por representantes de CONADE, de los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte, de las Asociaciones Deportivas Nacionales, del COM, del COPAME, del CONDE, de las Ligas Profesionales y, en su caso, de las Comisiones Nacionales del Deporte Profesional.
 
 La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
 
@@ -1516,9 +1636,9 @@ En la Comisión Especial podrán participar dependencias o entidades de la Admin
 
 La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo de la CONADE.
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial, en cada Estado de la República Mexicana y en el Distrito Federal funcionará una Comisión Local, encabezada por el titular del órgano estatal o del Distrito Federal en materia de cultura física y deporte. Su funcionamiento, integración y organización se establecerán en el Reglamento de la presente Ley.
+Para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial, en cada entidad federativa funcionará una Comisión Local, encabezada por el titular del órgano estatal o de la Ciudad de México en materia de cultura física y deporte. Su funcionamiento, integración y organización se establecerán en el Reglamento de la presente Ley.
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
 
@@ -1538,7 +1658,9 @@ II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilizaci�
 
 III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
 
-IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, procuradurías, áreas de seguridad pública y protección civil de la Federación, los Estados, el Distrito Federal y los Municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, procuradurías, áreas de seguridad pública y protección civil de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;
 
 V. Establecer los lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre los tres niveles de gobierno en la materia, los requisitos y normas mínimas que deben cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de las establecidas por Protección Civil, y las medidas que se consideren necesarias para la prevención de la violencia en los eventos deportivos;
 
@@ -1590,7 +1712,9 @@ I. Acatar las disposiciones normativas relacionadas con la cultura física y la 
 
 II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
 
-Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, del Distrito Federal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
 
 ###### Artículo 143.
 
@@ -1839,3 +1963,13 @@ D.O.F. 25 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO NOVENO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+
+Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez que entre en vigor la Constitución Política de la Ciudad de México.
