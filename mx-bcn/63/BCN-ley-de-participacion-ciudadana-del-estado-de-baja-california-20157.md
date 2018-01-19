@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2012-09-21"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -807,7 +807,11 @@ Tratándose de la solicitud de plebiscito o de referéndum promovida por ciudada
 
 Los actos o resoluciones del Instituto o del Consejo General dictados con motivo del plebiscito o del referéndum podrán ser impugnados ante el Tribunal.
 
-### CAPÍTULO CUARTO. DE LA INICIATIVA CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2018)</small>
+
+### CAPÍTULO CUARTO
+
+DE LAS INICIATIVAS CIUDADANA, DE ORGANIZACIONES DE LA SOCIEDAD CIVIL Y DE LAS INSTITUCIONES DE EDUCACION SUPERIOR.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -843,13 +847,39 @@ IV.- Se nombre a un representante común, al cual el Congreso del Estado informa
 
 En caso de error u omisión se notificará a los promoventes para que dentro del término de cinco días hábiles, contados a partir del día siguiente de la notificación se subsane.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+Artículo 72 BIS.- Las Organizaciones de la Sociedad Civil de cualquier naturaleza, asentadas en el Estado y constituidas conforme a la legislación mexicana, podrán presentar por conducto de su Presidente, Director General o máximo representante, iniciativas de leyes o de reformas a leyes ante el Congreso del Estado, siempre y cuando hubiesen sido aprobadas por dos terceras partes del total de los integrantes de su asamblea general, consejo directivo u órgano colegiado facultado para ello y sean relativas al objeto para el cual fueron constituidas.
+
+En la presentación de dichas iniciativas, las Organizaciones de la Sociedad Civil, deberán observar lo siguiente:
+
+I.- Acompañar con copia simple del acta de la sesión en la que se acredite que la iniciativa se encuentra respaldada por dos terceras partes del total de los integrantes de la asamblea general, consejo directivo u órgano colegiado facultado para ello.
+
+II.- Acompañar a la iniciativa, copia simple de sus estatutos o acta constitutiva, a efecto de que el Congreso del Estado verifique que se trata de propuestas legislativas relativas al objeto para el cual fueron constituidas.
+
+Así mismo, le serán aplicables en lo que le corresponda los párrafos primero y último, así como las fracciones II y III del artículo 72 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+Artículo 72 TER.- Las Instituciones de Educación Superior del Estado, podrán presentar por conducto de su Rector, Director General o máxima autoridad reconocida en su normatividad o estatutos, iniciativas de leyes y reformas a las ya existentes, siempre que sean aprobadas por dos terceras partes del total de los miembros del Consejo Universitario, Junta Directiva o el Órgano Colegiado, sea cual fuere su denominación en dicha Institución de Educación Superior que se encuentre facultado para ello.
+
+En la presentación de dichas iniciativas, las Instituciones de Educación Superior deberán observar lo siguiente:
+
+I.- Deberán acompañar copia simple del acta de la sesión o acuerdo certificado en donde se acredite que la iniciativa se encuentra respaldada por dos terceras partes del total de los integrantes del Órgano Colegiado, sea cual fuere su denominación en dicha Institución que este facultado de acuerdo a su normatividad para tomar estas decisiones.
+
+II.- Deberán acompañar a la iniciativa, copia simple del documento en el que se acredite que el promovente, es el titular o máxima autoridad de dicha Institución.
+
+Así mismo, le serán aplicables en lo que le corresponda los párrafos primero y último, así como las fracciones II y III del artículo 72 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 73.
 
-La Comisión deberá decidir sobre la admisión o rechazo de la Iniciativa dentro de los treinta días hábiles siguientes a la fecha de su presentación y podrá auxiliarse del Instituto para efecto de verificar el cumplimiento del requisito a que se refiere la fracción I del artículo precedente. Declarada la admisión de la Iniciativa se someterá al trámite legislativo que señala la Ley Orgánica del Poder Legislativo del Estado de Baja California.
+La Comisión deberá decidir sobre la admisión o rechazo de las iniciativas que se presenten de acuerdo a los artículos 72, 72 BIS y 72 TER, dentro de los treinta días hábiles siguientes a la fecha de su presentación y para el caso de la iniciativa ciudadana podrá auxiliarse del Instituto para efecto de verificar el cumplimiento del requisito a que se refiere la fracción I del artículo precedente. Declarada la admisión de la Iniciativa en cualquiera de los supuestos indicados con anterioridad, se someterá al trámite legislativo que señala la Ley Orgánica del Poder Legislativo del Estado de Baja California.
 
 En caso de que la Comisión no resuelva dentro del plazo anterior, se considerará admitida la Iniciativa para los efectos de esta Ley.
 
-La Iniciativa Ciudadana que sea desechada, sólo se podrá presentar hasta el siguiente período de sesiones del Congreso del Estado.
+La iniciativa que sea desechada, sólo se podrá presentar hasta el siguiente período de sesiones del Congreso del Estado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1008,3 +1038,9 @@ P.O. 21 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudadana deberá adecuar sus disposiciones reglamentarias a más tardar en 60 días de la entrada en vigor de la presente reforma.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 160 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DE LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO SEGUNDO Y LA ADICIÓN DE LOS ARTÍCULOS 72 BIS Y 72 TER; ASÍ COMO LA REFORMA DEL ARTÍCULO 73, DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
