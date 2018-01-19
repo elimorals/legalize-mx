@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2013-12-24"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8330,13 +8330,19 @@ ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparat
 
 ARTICULO 1,914.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+ARTICULO 1,915.- La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base la Unidad de Medida y Actualización y se extenderá al número de unidades que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
-ARTICULO 1,915.- La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
-
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
-
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
 Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
@@ -12939,5 +12945,11 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 86, 87, 133, 292, 395 Y 1612 Y SE 
 D.O.F. 24 DE DICIEMBRE DE 2013.
 
 DECRETO POR EL QUE SE DEROGAN LOS ARTÍCULOS 139, 140, 141, 142, 143, 144 Y 145 DEL CÓDIGO CIVIL FEDERAL.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
