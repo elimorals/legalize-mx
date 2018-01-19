@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-social-para-el-estado-de-baja-california-1135
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2016-10-28"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
@@ -763,7 +763,9 @@ V. Los programas y acciones públicas para asegurar la alimentación y nutrició
 
 VI. Los programas de abasto social de productos básicos;
 
-VII. Los programas de vivienda;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+VII. Los programas de vivienda, para tal efecto, el titular del Poder Ejecutivo del Estado, se coordinará con las autoridades federales competentes con el fin de implementar acciones de vivienda y obra social, entre dichas acciones se buscará comprender a aquellas que tengan por objeto otorgar casas abandonadas que hayan sido recuperadas por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otras instituciones dedicadas al otorgamiento de créditos para la vivienda.
 
 VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía; y
 
@@ -1060,3 +1062,9 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 652 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, 4, 6, 7, 14, 18, 34, 36, 38, 52, 53, 62, 65, 66, 72, 78, Y 94 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 157 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VII, DEL ARTÍCULO 61 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
