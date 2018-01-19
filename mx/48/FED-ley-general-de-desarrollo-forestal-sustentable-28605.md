@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2017-01-24"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -46,9 +46,11 @@ Se expide la Ley General de Desarrollo Forestal Sustentable:
 
 ### CAPITULO I.. Del Objeto y Aplicación de la Ley
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es reglamentaria del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones son de orden e interés público y de observancia general en todo el territorio nacional, y tiene por objeto regular y fomentar la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales del país y sus recursos, así como distribuir las competencias que en materia forestal correspondan a la Federación, los Estados, el Distrito Federal y los Municipios, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX inciso G de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable. Cuando se trate de recursos forestales cuya propiedad corresponda a los pueblos y comunidades indígenas se observará lo dispuesto por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+La presente Ley es reglamentaria del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sus disposiciones son de orden e interés público y de observancia general en todo el territorio nacional, y tiene por objeto regular y fomentar la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales del país y sus recursos, así como distribuir las competencias que en materia forestal correspondan a la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX inciso G de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable. Cuando se trate de recursos forestales cuya propiedad corresponda a los pueblos y comunidades indígenas se observará lo dispuesto por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 2.
 
@@ -60,7 +62,9 @@ II. Impulsar la silvicultura y el aprovechamiento de los recursos forestales, pa
 
 III. Desarrollar los bienes y servicios ambientales y proteger, mantener y aumentar la biodiversidad que brindan los recursos forestales;
 
-IV. Promover la organización, capacidad operativa, integralidad y profesionalización de las instituciones públicas de la Federación, Estados, Distrito Federal y Municipios, para el desarrollo forestal sustentable, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Promover la organización, capacidad operativa, integralidad y profesionalización de las instituciones públicas de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, para el desarrollo forestal sustentable, y
 
 V. Respetar el derecho al uso y disfrute preferente de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos del artículo 2 fracción VI de la Constitución Política de los Estados Unidos Mexicanos y demás normatividad aplicable.
 
@@ -142,9 +146,11 @@ I. La conservación, protección y restauración de los ecosistemas forestales y
 
 II. La ejecución de obras destinadas a la conservación, protección y/o generación de bienes y servicios ambientales.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 5.
 
-La propiedad de los recursos forestales comprendidos dentro del territorio nacional corresponde a los ejidos, las comunidades, pueblos y comunidades indígenas, personas físicas o morales, la Federación, los Estados, el Distrito Federal y los Municipios que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de dichos terrenos.
+La propiedad de los recursos forestales comprendidos dentro del territorio nacional corresponde a los ejidos, las comunidades, pueblos y comunidades indígenas, personas físicas o morales, la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley no alterarán el régimen de propiedad de dichos terrenos.
 
 ###### ARTICULO 6.
 
@@ -322,9 +328,11 @@ Los recursos humanos, financieros y materiales que se requieran para el cumplimi
 
 ### CAPITULO II.. De la Distribución de Competencias en Materia Forestal
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 11.
 
-La Federación, los Estados, el Distrito Federal y los Municipios ejercerán sus atribuciones en materia forestal de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia forestal de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 
 #### Sección 1.. De las Atribuciones de la Federación
 
@@ -410,7 +418,9 @@ XXXVI. Expedir los permisos previos para el funcionamiento de centros de almacen
 
 XXXVII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
-#### Sección 2.. De las Atribuciones de los Estados y del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
+
+#### Sección 2.. De las Atribuciones de las Entidades Federativas
 
 ###### ARTICULO 13.
 
@@ -422,17 +432,27 @@ II. Aplicar los criterios de política forestal previstos en esta Ley y en las L
 
 III. Coadyuvar en la adopción y consolidación del Servicio Nacional Forestal;
 
-IV. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la entidad, con proyección sexenal y con visión de más largo plazo, vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la entidad, con proyección sexenal y con visión de más largo plazo, vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan de Desarrollo de la entidad federativa;
 
 V. Participar en la elaboración de los programas forestales regionales de largo plazo, de ámbito interestatal o por cuencas hidrológico-forestales;
 
-VI. Impulsar en el ámbito de su jurisdicción el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de la Federación y de los Municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-VII. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
+VI. Impulsar en el ámbito de su jurisdicción el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de la Federación y de los Municipios o las demarcaciones territoriales de la Ciudad de México;
 
-VIII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IX. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
+VII. Elaborar, monitorear y mantener actualizado el Inventario Forestal y de Suelos de la entidad federativa, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Integrar el Sistema de Información Forestal de la entidad federativa e incorporar su contenido al Sistema Nacional de Información Forestal;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IX. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema de Información Forestal de la entidad federativa;
 
 X. Promover los bienes y servicios ambientales de los ecosistemas forestales;
 
@@ -450,7 +470,9 @@ XVI. Promover y participar en la restauración de los ecosistemas forestales afe
 
 XVII. Impulsar programas de mejoramiento genético forestal;
 
-XVIII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XVIII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos forestales de las entidades federativas;
 
 XIX. Elaborar y aplicar programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
 
@@ -462,13 +484,17 @@ XXII. Asesorar y capacitar a los propietarios y poseedores forestales en la elab
 
 XXIII. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas-producto del sector;
 
-XXIV. Brindar atención, de forma coordinada con la Federación y los municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXIV. Brindar atención, de forma coordinada con la Federación y los municipios o las demarcaciones territoriales de la Ciudad de México, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
 
 XXV. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal;
 
 XXVI. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales de la entidad;
 
-XXVII. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico estatal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXVII. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico de la entidad federativa;
 
 XXVIII. Participar de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
 
@@ -478,29 +504,39 @@ XXX. Elaborar estudios para, en su caso, recomendar al Ejecutivo Federal a trav�
 
 XXXI. Elaborar estudios para en su caso recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio, y
 
-XXXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación, a los Municipios o, en su caso, a las demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-Los Congresos de los Estados, con arreglo a sus respectivas Constituciones y la Asamblea Legislativa del Distrito Federal, con arreglo a su Estatuto de Gobierno, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
+Las Legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
 
 #### Sección 3.. De las Atribuciones de los Municipios
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 15.
 
-Corresponden a los Gobiernos de los Municipios, de conformidad con esta Ley y las Leyes locales en la materia, las siguientes atribuciones:
+Corresponden a los Gobiernos de los Municipios o, en su caso, de las demarcaciones territoriales de la Ciudad de México, de conformidad con esta Ley y las Leyes locales en la materia, las siguientes atribuciones:
 
-I. Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política forestal del municipio;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II. Aplicar los criterios de política forestal previstos en esta Ley y en las Leyes locales en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente reservadas a la Federación o a los Estados;
+I. Diseñar, formular y aplicar, en concordancia con la política nacional y de la entidad federativa, la política forestal correspondiente;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Aplicar los criterios de política forestal previstos en esta Ley y en las Leyes locales en bienes y zonas de jurisdicción municipal o de las demarcaciones territoriales de la Ciudad de México, en las materias que no estén expresamente reservadas a la Federación o a las entidades federativas;
 
 III. Apoyar a la Federación y al Gobierno de la Entidad, en la adopción y consolidación del Servicio Nacional Forestal;
 
 IV. Participar en el ámbito de sus atribuciones, en el establecimiento de sistemas y esquemas de ventanilla única de atención eficiente para los usuarios del sector;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-V. Elaborar, monitorear y mantener actualizado el Inventario Municipal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Estatal Forestal y de Suelos e incorporar su contenido al Sistema Estatal de Información Forestal;
+V. Elaborar, monitorear y mantener actualizado el Inventario Municipal Forestal y de Suelos, o en su caso de las demarcaciones territoriales de la Ciudad de México, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Forestal y de Suelos de la entidad federativa e incorporar su contenido al Sistema de Información Forestal de la entidad federativa;
 
 VI. Participar, en coordinación con la Federación en la zonificación forestal, comprendiendo las áreas forestales permanentes de su ámbito territorial;
 
@@ -512,7 +548,9 @@ IX. Expedir, previo a su instalación las licencias o permisos, para el establec
 
 X. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley y los lineamientos de la política forestal del país;
 
-XI. Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con los gobiernos federal y estatal, y participar en la atención, en general, de las emergencias y contingencias forestales, de acuerdo con los programas de protección civil;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XI. Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con los gobiernos federal y de las entidades federativas, y participar en la atención, en general, de las emergencias y contingencias forestales, de acuerdo con los programas de protección civil;
 
 XII. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales, dentro de su ámbito territorial de competencia;
 
@@ -520,7 +558,9 @@ XIII. Desarrollar y apoyar viveros y programas de producción de plantas;
 
 XIV. Llevar a cabo, en coordinación con el Gobierno de la Entidad, acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;
 
-XV. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XV. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio o de la demarcación territorial de la Ciudad de México;
 
 XVI. Promover la participación de organismos públicos, privados y no gubernamentales en proyectos de apoyo directo al desarrollo forestal sustentable;
 
@@ -688,7 +728,9 @@ XI. Coadyuvar en la definición y promoción de mercados de bienes y servicios a
 
 XII. Participar en la definición de mecanismos de compensación por los bienes y servicios ambientales que prestan los ecosistemas forestales;
 
-XIII. Coordinarse con las dependencias o entidades de la Federación, Estados, Distrito Federal y Municipios, a fin de que el desarrollo forestal sustentable obedezca a políticas y criterios integradores, para lo cual podrá suscribir los acuerdos y convenios que sean necesarios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XIII. Coordinarse con las dependencias o entidades de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de que el desarrollo forestal sustentable obedezca a políticas y criterios integradores, para lo cual podrá suscribir los acuerdos y convenios que sean necesarios;
 
 XIV. Promover el desarrollo forestal sustentable y de los recursos asociados para que incidan en el mejoramiento de la calidad de vida de los propietarios o poseedores de terrenos forestales o de preferentemente forestales y de sus comunidades;
 
@@ -752,9 +794,11 @@ Sus tareas comprenderán la difusión de las políticas de desarrollo forestal y
 
 ### CAPITULO IV.. De la Coordinación Institucional
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 24.
 
-La Federación, a través de la Secretaría y de la Comisión, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los estados, con la participación, en su caso, de municipios, en el ámbito territorial de su competencia asuman las siguientes funciones:
+La Federación, a través de la Secretaría y de la Comisión, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito territorial de su competencia asuman las siguientes funciones:
 
 I. Impulsar la vinculación interinstitucional en el marco del Servicio Nacional Forestal y de los sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector;
 
@@ -778,9 +822,11 @@ X. Dictaminar, autorizar y evaluar los programas de manejo forestal, así como e
 
 XI. Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Medio Ambiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 25.
 
-En la celebración de convenios o acuerdos de coordinación, se tomará en consideración que los gobiernos de los Estados, del Distrito Federal y de los municipios en su caso, cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
+En la celebración de convenios o acuerdos de coordinación, se tomará en consideración que los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en su caso, cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
 
 Asimismo, los convenios y acuerdos deberán ajustarse, en lo conducente, a las bases previstas en las Leyes General de Equilibrio Ecológico y la Protección al Ambiente; y en la Ley de Planeación; y se basarán en los principios de congruencia del Servicio Nacional Forestal.
 
@@ -1170,11 +1216,11 @@ El Registro está obligado a proporcionar la información a todo solicitante, si
 
 El Reglamento correspondiente determinará los procedimientos para la inscripción y otorgamiento de constancias de actos y documentos inscritos en el Registro.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 54.
 
-En el marco de los principios de coordinación que establece esta Ley, el Registro Agrario Nacional estará obligado a dar parte al Registro, en los plazos que fije el Reglamento respectivo, de los actos previstos en el presente capítulo y que a aquél le corresponda inscribir.
-
-El Registro buscará asimismo la coordinación necesaria con los registros públicos de la propiedad, establecidos por los gobiernos de los estados, el Distrito Federal o por los Municipios en su caso, a fin de que éstos den parte a aquél de los actos que realicen y se relacionen con cualquiera de los enunciados en el artículo 51.
+En el marco de los principios de coordinación que establece esta Ley, el Registro Agrario Nacional estará obligado a dar parte al Registro, en los plazos que fije el Reglamento respectivo, de los actos previstos en el presente capítulo y que a aquél le corresponda inscribir. El Registro buscará asimismo la coordinación necesaria con los registros públicos de la propiedad, establecidos por los gobiernos de las entidades federativas o por los Municipios y las demarcaciones territoriales de la Ciudad de México en su caso, a fin de que éstos den parte a aquél de los actos que realicen y se relacionen con cualquiera de los enunciados en el artículo 51.
 
 #### Sección 6.. De las Normas Oficiales Mexicanas en Materia Forestal
 
@@ -1884,9 +1930,13 @@ En este último caso la veda tendrá carácter precautorio, deberá referirse en
 
 Los proyectos de veda deberán publicarse en el Diario Oficial de la Federación, y se notificarán previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación.
 
-Los decretos que establezcan vedas forestales, precisarán las características, temporalidad, excepciones y límites de las superficies o recursos forestales vedados, así como, en su caso, las medidas que adoptará el Ejecutivo Federal para apoyar a las comunidades afectadas. Dichos decretos se publicarán en dos ocasiones en el Diario Oficial de la Federación y, por una sola vez, en los diarios de mayor circulación de los estados de la Federación y el Distrito Federal donde se ubiquen los terrenos y recursos forestales vedados.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Las dependencias y entidades de la Administración Pública Federal y, en su caso, las de los gobiernos de los estados de la Federación, del Distrito Federal y de los municipios, en los términos de los acuerdos y convenios que se celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
+Los decretos que establezcan vedas forestales, precisarán las características, temporalidad, excepciones y límites de las superficies o recursos forestales vedados, así como, en su caso, las medidas que adoptará el Ejecutivo Federal para apoyar a las comunidades afectadas. Dichos decretos se publicarán en dos ocasiones en el Diario Oficial de la Federación y, por una sola vez, en los diarios de mayor circulación de las entidades federativas donde se ubiquen los terrenos y recursos forestales vedados.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las dependencias y entidades de la Administración Pública Federal y, en su caso, las de los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en los términos de los acuerdos y convenios que se celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
 
 ###### ARTICULO 129.
 
@@ -2078,7 +2128,9 @@ La existencia del Fondo no limita la creación de diversos fondos privados o soc
 
 El Fondo Forestal Mexicano se podrá integrar con:
 
-I. Las aportaciones que efectúen los gobiernos federal, estatales, del Distrito Federal y municipales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Las aportaciones que efectúen los gobiernos federal, las entidades federativas y los Municipios;
 
 II. Créditos y apoyos de organismos nacionales e internacionales;
 
@@ -2240,9 +2292,11 @@ II. Las medidas que a juicio de la Comisión, previa opinión del Consejo, contr
 
 III. La determinación de los compromisos que contraigan y de las obligaciones que asuman, en los términos de los programas de manejo forestal, avisos de forestación y programa de manejo de plantación forestal comercial a que se refiere esta ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 154.
 
-La Comisión para la realización de las actividades previstas en este capítulo, promoverá la creación de empresas para el aprovechamiento forestal sustentable, la conservación de las cuencas hídricas, la forestación y la reforestación, para lo cual deberá coordinarse con las dependencias de la Administración Pública Federal competentes y con los gobiernos de los estados de la Federación, del Distrito Federal y de los municipios, con el objeto de apoyar las labores del sector social y privado en esta materia.
+La Comisión para la realización de las actividades previstas en este capítulo, promoverá la creación de empresas para el aprovechamiento forestal sustentable, la conservación de las cuencas hídricas, la forestación y la reforestación, para lo cual deberá coordinarse con las dependencias de la Administración Pública Federal competentes y con los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, con el objeto de apoyar las labores del sector social y privado en esta materia.
 
 ### CAPITULO II.. De los Consejos en Materia Forestal
 
@@ -2565,3 +2619,11 @@ D.O.F. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7 Y 16 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO TERCERO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
