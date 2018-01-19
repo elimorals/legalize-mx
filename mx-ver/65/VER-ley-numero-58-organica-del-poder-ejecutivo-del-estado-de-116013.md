@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2017-12-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -495,9 +495,9 @@ XLII. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
 XLIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2018)</small>
 
-XLIV. Coordinar y ejecutar programas especiales y acciones de protección a los migrantes veracruzanos y sus familias.
+XLIV. Coordinar y ejecutar programas especiales y acciones de protección y atención a favor de las personas migrantes veracruzanas y sus familias, así como acciones de atención a favor de las personas migrantes extranjeras asentadas o en tránsito por la entidad, con independencia de su situación migratoria.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -2802,3 +2802,13 @@ Primero. El presente Decreto entrará en vigor el día primero de enero del año
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo deberá expedir las reformas al Reglamento Interior de la Contraloría General, en un plazo no mayor a sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
+G.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 610 QUE REFORMA LA FRACCIÓN XLIV DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. La adecuación de los reglamentos internos que correspondan a las dependencias cuyas atribuciones hayan sido reformadas, se deberá efectuar en un término de treinta días a partir del inicio de vigencia del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
