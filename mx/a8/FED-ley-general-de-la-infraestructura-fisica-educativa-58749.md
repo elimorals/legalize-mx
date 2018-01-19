@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-la-infraestructura-fisica-educativa-58749"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-02-01"
-last_updated: "2014-05-07"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-01-31"
 
 LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 1 de febrero de 2008.
 
@@ -61,7 +61,9 @@ III. La generación de procesos de planeación, para que los recursos se aplique
 
 IV. La creación de mecanismos que permitan prevenir y dar respuesta a las contingencias derivadas de desastres naturales en la infraestructura física educativa nacional, y
 
-V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del país y de los diferentes órdenes de gobierno, federal, estatal, del Distrito Federal y municipal, además de los sectores de la sociedad.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del país y de los diferentes órdenes de gobierno, federal, de las entidades federativas y municipal, además de los sectores de la sociedad.
 
 ###### Artículo 3.
 
@@ -69,7 +71,9 @@ Para los efectos de esta ley se entenderá por:
 
 I. Certificación: El procedimiento por el cual se asegura que un producto, proceso, sistema o servicio se ajusta a las disposiciones de la presente ley y su reglamento;
 
-II. Certificado: El documento que expidan los organismos estatales responsables de la infraestructura física educativa y, en su caso, el Instituto mediante el cual se hace constar que la INFE cumple con las especificaciones establecidas;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Certificado: El documento que expidan los organismos de las entidades federativas responsables de la infraestructura física educativa y, en su caso, el Instituto mediante el cual se hace constar que la INFE cumple con las especificaciones establecidas.
 
 III. Director general: El titular del Instituto Nacional de la Infraestructura Física Educativa;
 
@@ -83,9 +87,11 @@ VI. Junta de gobierno: La junta de gobierno del Instituto Nacional de la Infraes
 
 Por infraestructura física educativa se entiende los muebles e inmuebles destinados a la educación impartida por el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios, en el marco del sistema educativo nacional, en términos de la Ley General de Educación, así como a los servicios e instalaciones necesarios para su correcta operación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 5.
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponde a las autoridades en materia de infraestructura física educativa de la federación, de los estados, de los municipios y del Distrito Federal, en el ámbito de sus respectivas competencias constitucionales y las señaladas en la Ley General de Educación.
+La aplicación y vigilancia del cumplimiento de esta Ley corresponde a las autoridades en materia de infraestructura física educativa de la federación, de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias constitucionales y las señaladas en la Ley General de Educación.
 
 Son autoridades en materia de infraestructura física educativa:
 
@@ -95,13 +101,17 @@ II. El titular de la Secretaría de Educación Pública;
 
 III. El Director General del instituto;
 
-IV. Los titulares de los ejecutivos de los estados y del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Los titulares de los ejecutivos de las entidades federativas;
 
 V. Los titulares de las secretarías de educación y sus equivalentes en las entidades federativas;
 
 VI. Los titulares de los organismos responsables de la infraestructura física educativa de las entidades federativas; y
 
-VII. Los presidentes municipales y los jefes delegacionales del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII. Los presidentes municipales y titulares de las alcaldías de la Ciudad de México.
 
 Estas autoridades deberán coordinarse mediante los mecanismos legales correspondientes para el cumplimiento de los objetivos de la presente Ley.
 
@@ -113,11 +123,11 @@ Las universidades y demás instituciones de educación superior autónomas a que
 
 ### Capítulo II. De la Calidad de la Infraestructura Física Educativa
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 7.
 
-La infraestructura física educativa del país deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el Estado –Federación, estados, Distrito Federal y municipios–, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; las leyes estatales de educación y del Distrito Federal; el Plan Nacional de Desarrollo; el Programa Sectorial; los programas educativos estatales y del Distrito Federal, así como los programas de desarrollo regional.
+La infraestructura física educativa del país deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el Estado -Federación, entidades federativas y municipios-, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; las leyes de educación de las entidades federativas; el Plan Nacional de Desarrollo; el Programa Sectorial; los programas educativos de las entidades federativas, así como los programas de desarrollo regional.
 
 Las autoridades en la materia promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta ley y su reglamento.
 
@@ -133,9 +143,11 @@ Respecto de la educación que impartan los particulares con autorización o con 
 
 Los usuarios de los servicios educativos podrán solicitar los documentos que acrediten que la INFE cumple los elementos de calidad técnica.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 10.
 
-Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo según parámetros estatales y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
+Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo según parámetros de las entidades federativas y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2014)</small>
 
@@ -173,17 +185,23 @@ El objetivo del Instituto es fungir como un organismo con capacidad normativa, d
 
 Para el cumplimiento de lo establecido en el párrafo anterior, el Instituto considerará en todo momento las características particulares de cada región del país, con base en su riqueza y diversidad.
 
-El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública en el Distrito Federal, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades estatales.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública en la Ciudad de México, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades de las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Instituto adecuará el desarrollo de sus actividades a las políticas, estrategias y prioridades que establezca el Plan Nacional de Desarrollo, el programa sectorial y los programas educativos estatales y del Distrito Federal aplicables en materia de infraestructura física educativa.
+El Instituto adecuará el desarrollo de sus actividades a las políticas, estrategias y prioridades que establezca el Plan Nacional de Desarrollo, el programa sectorial y los programas educativos de las entidades federativas aplicables en materia de infraestructura física educativa.
 
 ###### Artículo 18.
 
 El patrimonio del Instituto estará formado
 
-I. Con los bienes muebles, inmuebles y derechos de uso y aprovechamiento que el Gobierno Federal le asigne o le proporcionen mediante cualquier figura jurídica los gobiernos de las entidades federativas y del Distrito Federal, los municipios o los particulares;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Con los bienes muebles, inmuebles y derechos de uso y aprovechamiento que el Gobierno Federal le asigne o le proporcionen mediante cualquier figura jurídica los gobiernos de las entidades federativas, los municipios o los particulares;
 
 II. Con los recursos que al efecto se le señalen en el Presupuesto de Egresos de la Federación;
 
@@ -211,7 +229,9 @@ d) Clasificar, analizar, interpretar y resguardar la información recopilada del
 
 e) Realizar acciones de diagnóstico y pronóstico relacionadas con la infraestructura física, así como definir acciones de prevención en materia de seguridad sísmica, estructural y de mantenimiento.
 
-III. Formular y proponer programas de inversión para la construcción, mantenimiento, equipamiento, rehabilitación, reforzamiento, reconstrucción, reubicación y reconversión de los espacios destinados a la educación que imparta el Estado, de acuerdo con las disposiciones presupuestarias, así como realizar la supervisión de la obra, por sí o a través de los organismos estatales, de conformidad con las normas y especificaciones técnicas que se emitan para tal efecto;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Formular y proponer programas de inversión para la construcción, mantenimiento, equipamiento, rehabilitación, reforzamiento, reconstrucción, reubicación y reconversión de los espacios destinados a la educación que imparta el Estado, de acuerdo con las disposiciones presupuestarias, así como realizar la supervisión de la obra, por sí o a través de los organismos de las entidades federativas, de conformidad con las normas y especificaciones técnicas que se emitan para tal efecto;
 
 IV. El Instituto tendrá las siguientes atribuciones en materia de certificación de la INFE:
 
@@ -231,7 +251,9 @@ g) Difundir el Programa Nacional de Certificación de la INFE a las institucione
 
 h) Revisar, validar y certificar proyectos ejecutivos para la construcción de espacios destinados a la educación pública en general, en el ámbito de sus atribuciones;
 
-i) Certificar la calidad de la INFE en el Distrito Federal, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades estatales.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+i) Certificar la calidad de la INFE en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades de las entidades federativas.
 
 El Instituto también certificará la calidad de la INFE en los casos de las escuelas particulares a que la autoridad federal otorgue el registro de validez oficial de estudios;
 
@@ -245,13 +267,15 @@ VIII. Promover, en coordinación con las autoridades correspondientes, la partic
 
 IX. Impartir capacitación, consultoría y asistencia técnica, así como prestar servicios de asesoría a los organismos, entidades, instituciones o personas que lo requieran, en materia de elaboración de proyectos, ejecución, supervisión y normatividad de la INFE, así como para determinar los mejores esquemas u opciones de seguridad de la INFE;
 
-X. Realizar acciones de seguimiento técnico y administrativo de los diversos programas aplicables a la INFE a cargo de las entidades federativas y los organismos estatales cuando dichos programas incorporen recursos federales y respecto de los que el Instituto convenga con las autoridades estatales y municipales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+X. Realizar acciones de seguimiento técnico y administrativo de los diversos programas aplicables a la INFE a cargo de las entidades federativas y los organismos estatales cuando dichos programas incorporen recursos federales y respecto de los que el Instituto convenga con las autoridades de las entidades federativas y municipales.
 
 XI. Participar en coordinación con las instancias correspondientes en la planeación, programación y seguimiento técnico de los recursos autorizados para la ejecución de proyectos de inversión en INFE del país;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en el Distrito Federal, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades estatales, de acuerdo a lo dispuesto en el artículo 11 de esta Ley.
+XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en la Ciudad de México, las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades de las entidades federativas, de acuerdo a lo dispuesto en el artículo 11 de esta Ley.
 
 Queda prohibido destinar recursos públicos federales para construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir o habilitar instituciones educativas privadas;
 
@@ -480,3 +504,9 @@ Cuarto. El Presupuesto de Egresos de la Federación contemplará, con sujeción 
 Quinto. La Secretaría de Salud en coordinación con la Secretaría de Educación Pública, emitirán en un plazo de 90 días, los lineamientos previstos en el artículo 11.
 
 Sexto. El Instituto Nacional de la Infraestructura Física Educativa procurará que las instalaciones del Sistema Educativo Nacional cuenten con la infraestructura de bebederos de agua potable prevista en los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa, en un plazo máximo de 3 años a partir de la publicación del presente Decreto
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO NOVENO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
