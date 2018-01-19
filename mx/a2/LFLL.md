@@ -4,7 +4,7 @@ identifier: "LFLL"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-24"
-last_updated: "2015-12-17"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFLL"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 24 de julio de 2008.
 
@@ -98,7 +98,9 @@ Vendedores de libros al menudeo: Aquellas personas, físicas o morales, que come
 
 El fomento a la lectura y el libro se establece en esta Ley en el marco de las garantías constitucionales de libertad de escribir, editar y publicar libros sobre cualquier materia, propiciando el acceso a la lectura y el libro a toda la población.
 
-Ninguna autoridad federal, estatal, municipal o del Distrito Federal podrá prohibir, restringir ni obstaculizar la creación, edición, producción, distribución, promoción o difusión de libros y de las publicaciones periódicas.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Ninguna autoridad federal, de las entidades federativas, municipal o demarcación territorial de la Ciudad de México podrá prohibir, restringir ni obstaculizar la creación, edición, producción, distribución, promoción o difusión de libros y de las publicaciones periódicas.
 
 ###### Artículo 4.
 
@@ -136,7 +138,9 @@ B. La Secretaría de Educación Pública;
 
 C. El Consejo Nacional de Fomento para el Libro y la Lectura, y
 
-D. Los Gobiernos estatales, municipales y del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+D. Los Gobiernos de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -198,7 +202,9 @@ III. Estimular y facilitar la participación de la sociedad civil en el desarrol
 
 IV. Garantizar la existencia de materiales escritos que respondan a los distintos intereses de los usuarios de la red nacional de bibliotecas públicas y los programas dirigidos a fomentar la lectura en la población abierta, tales como salas de lectura;
 
-V. Coadyuvar con instancias a nivel federal, estatal, municipal y del Distrito Federal, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y
 
 VI. Generar programas de desarrollo profesional de fomento a la lectura para la población abierta y para los bibliotecarios de la red nacional de bibliotecas públicas.
 
@@ -270,7 +276,9 @@ XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cá
 
 XV. El Presidente de la Comisión Bicamaral del Sistemas de Bibliotecas del Congreso de la Unión.
 
-Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas y el Distrito Federal, o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
 
 La pertenencia y participación en este Consejo, es a título honorario.
 
@@ -421,3 +429,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO TERCERO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
