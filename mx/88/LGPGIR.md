@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2015-05-22"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGPGIR"
 ---
 # LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -368,7 +370,9 @@ XX. Determinar los indicadores que permitan evaluar la aplicación del presente 
 
 XXI. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
-Los congresos de los estados, con arreglo a sus respectivas constituciones y la Asamblea Legislativa del Distrito Federal, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las Legislaturas de las entidades federativas, con arreglo a sus respectivas constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
 
 Los ayuntamientos por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones se cumplan las previsiones del presente ordenamiento.
 
@@ -402,9 +406,11 @@ XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuo
 
 XII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 11.
 
-Corresponde al Gobierno del Distrito Federal, ejercer las facultades y obligaciones que este ordenamiento confiere a las entidades federativas y a los municipios.
+Corresponde al Gobierno de la Ciudad de México, ejercer las facultades y obligaciones que este ordenamiento confiere a las entidades federativas y a los municipios.
 
 ###### Artículo 12.
 
@@ -447,8 +453,6 @@ IV. Identificar las fuentes generadoras de los residuos cuya disposición final 
 ###### Artículo 16.
 
 La clasificación de un residuo como peligroso, se establecerá en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que incluyan los listados de los mismos y fijen los límites de concentración de las sustancias contenidas en ellos, con base en los conocimientos científicos y las evidencias acerca de su peligrosidad y riesgo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
@@ -944,8 +948,6 @@ IX. La incineración de residuos peligrosos que sean o contengan compuestos org�
 
 Quienes resulten responsables de la contaminación de un sitio, así como de daños a la salud como consecuencia de ésta, estarán obligados a reparar el daño causado, conforme a las disposiciones legales correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 Toda persona física o moral que, directa o indirectamente, contamine un sitio u ocasione un daño o afectación al ambiente como resultado de la generación, manejo o liberación, descarga, infiltración o incorporación de materiales o residuos peligrosos al ambiente, será responsable y estará obligada a su reparación y, en su caso, a la compensación correspondiente, de conformidad a lo previsto por la Ley Federal de Responsabilidad Ambiental.
@@ -1005,8 +1007,6 @@ La Secretaría y las autoridades locales competentes, según corresponda, serán
 ###### Artículo 76.
 
 Las autoridades locales deberán inscribir en el Registro Público de la Propiedad correspondiente los sitios contaminados que se encuentren dentro de su jurisdicción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
@@ -1530,7 +1530,7 @@ México, D.F., a 28 de abril de 2003.- Sen. Enrique Jackson Ramírez, Presidente
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 22 DE MAYO DE 2006.
 
@@ -1595,3 +1595,11 @@ D.O.F. 22 DE MAYO DE 2015.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO QUINTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
