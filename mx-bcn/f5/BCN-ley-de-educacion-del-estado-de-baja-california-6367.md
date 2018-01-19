@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-10-28"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
-E R N E S T O R U F F O A P P E L .
+E R N E S T O R U F F O A P P E L.
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
@@ -303,7 +303,19 @@ XXII.- Informar a los padres de familia o tutores de los educandos que presenten
 
 XXIII.- Fomentar una cultura de respeto, solidaridad y reconocimiento de los derechos de las personas adultas mayores; y
 
+> <small>[N. DE E. LA PRESENTE FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XXVI.]</small>
+
 XXIV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XXV.- Establecer el combate al bajo rendimiento escolar como una prioridad, y en base a la disponibilidad presupuestal se diseñen estrategias e implementen programas de refuerzo escolar, apoyos y demás políticas acorde con las necesidades y los perfiles de los estudiantes, familias y escuelas.
+
+> <small>[N. DE E. LA PRESENTE FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XXIV.]</small>
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XXVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -341,7 +353,9 @@ X.- Revalidar y otorgar equivalencias de estudios en todos los niveles educativo
 
 XI.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones que ofrezcan nuevas opciones para el educando.
 
-XII.- Expedir certificados y otorgar diplomas, títulos o grados académicos a favor de las personas que hayan concluido el tipo básico, medio superior o cursado estudios de tipo superior, de conformidad con los requisitos establecidos en los planes de estudios correspondientes, pudiendo delegar esta función en sus organismos descentralizados conforme su normatividad, en los municipios o a los particulares con autorización o reconocimiento de validez oficial de estudios.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XII.- Expedir certificados y otorgar diplomas, títulos o grados académicos a favor de las personas que hayan concluido el tipo básico, medio superior, cursado estudios de tipo superior, o naturaleza artística o culturales, de conformidad con los requisitos establecidos en los planes y programas de estudios correspondientes, pudiendo delegar esta función en sus organismos descentralizados conforme su normatividad, en los municipios o a los particulares con autorización o reconocimiento de validez oficial de estudios.
 
 XIII.- Otorgar, negar o revocar autorización a los particulares que impartan enseñanza primaria, secundaria, normal y las demás para la formación de docentes de educación básica, así como otorgar, negar o retirar el reconocimiento de validez oficial de estudios distintos a los anteriores, de acuerdo a la opinión técnica que se emita para tal efecto.
 
@@ -2122,3 +2136,15 @@ P.O. 28 DE OCTUBRE DE 2016.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Baja California.
 
 SEGUNDO.- Dentro de los 60 días siguientes a la entrada en vigor de las presentes reformas, el Ejecutivo Estatal deberá armonizar los reglamentos correspondientes.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 162 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XXV Y SE ADICIONA UNA FRACCIÓN XXVI AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 645 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XII DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
