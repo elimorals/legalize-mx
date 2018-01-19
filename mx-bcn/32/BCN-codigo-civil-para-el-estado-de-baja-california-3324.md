@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-11-24"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -389,17 +387,21 @@ Para dar cumplimiento a la obligación antes señalada, dentro de los tres días
 
 Para los efectos del presente capítulo, se entenderá por Institución de salud a cualquier prestador público o privado de servicios de atención médica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los cinco años siguientes a la fecha en que ocurra aquél. Ante la imposibilidad de éstos, los hermanos podrán hacer la declaración. En los casos en que declaren los abuelos o los hermanos, deberán demostrar su condición ante el Oficial del Registro Civil.
+Tienen obligación de declarar el nacimiento ante el Oficial del Registro Civil de su elección, el padre o la madre o cualquiera de ellos; a falta de éstos, los ascendientes en línea recta, colaterales iguales en segundo grado y colaterales desiguales ascendentes en tercer grado, dentro de los cinco años siguientes a la fecha en que ocurra aquél. En los casos en que declaren alguien diferente a la madre o el padre, estos deberán demostrar su condición ante el Oficial del Registro Civil.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 Si el nacimiento tuviere lugar en una institución de salud, la declaración de nacimiento estará a cargo del Titular, Director o de la persona encargada de la administración, debiendo recabar la información necesaria para requisitar el formato relativo a la declaración de nacimiento mencionado en el artículo anterior y remitirlo a la Oficialía correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
 Recibida la declaración de nacimiento por parte de la institución de salud, el Oficial del Registro Civil tomará las medidas que sean necesarias, a fin de que dentro de los 10 días hábiles siguientes, se levante el Acta de Nacimiento, cuya primera copia certificada será entregada gratuitamente al padre o madre que lo solicite, o quien hubiere efectuado la declaración del nacimiento.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 En los casos en que los supuestos padres o demás familiares señalados en el primer párrafo de este artículo, no pudieran acreditar su filiación respecto del recién nacido, el Director o la persona encargada de la administración del nosocomio lo hará del conocimiento del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de los Menores y la Familia, en los términos del artículo 65 de este Código.
 
@@ -13223,9 +13225,11 @@ El secuestro judicial se rige por las disposiciones del Código de Procedimiento
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 2420.
 
-El mandato es un contrato por el cual el mandatario se obliga a ejecutar por cuenta del mandante los actos jurídicos que éste le encarga.
+El mandato es un contrato por el cual el mandatario se obliga a ejecutar por cuenta del mandante los actos jurídicos que éste le encarga, y deberá contener el plazo por el que se confiere, de no contenerlo, el mandato termina a los tres años de su expedición sin gestión alguna.
 
 ###### ARTICULO 2421.
 
@@ -16604,3 +16608,15 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL APRUEBA LA REFORMA AL ARTÍCULO 717 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 163 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2420 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 164 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
