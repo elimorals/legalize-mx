@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2017-07-28"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -419,25 +419,39 @@ Las leyes señalarán aquellos casos en que los juicios serán predominantemente
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+APARTADO E.- De las Víctimas.
+
+> <small>[N. DE E. PERTENECE AL APARTADO E, P.O. 19 DE ENERO DE 2018]</small>
+
+Esta constitución reconoce y garantiza los Derechos de la víctima o del ofendido derivadas (sic) de las acciones u omisiones que contravengan lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. Este derecho y su garantía será exigido por medio de los preceptos jurídicos y a través de los órganos jurisdiccionales correspondientes en los términos que dispongan las leyes.
+
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 8.
 
-Son derechos de los habitantes del Estado:
+Son derechos de los Habitantes del Estado:
 
-I.- Si son mexicanos, los que conceda la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan y la presente;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+I.- Si son mexicanos, los que conceda la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo la autoridad la obligación de contestar en breve término; en materia política sólo ejercerán este derecho los ciudadanos mexicanos;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-III.- Si son extranjeros, gozarán de los derechos humanos y las garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y,
+III.- Si son extranjeros, gozaran de los derechos humanos y las garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
 IV.- Si además de ser mexicanos, son ciudadanos tendrán los siguientes:
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
 
@@ -449,7 +463,11 @@ b).- Participar en los términos de esta Constitución y de la Ley, en los proce
 
 c) Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
 
@@ -572,6 +590,10 @@ El Gobierno del Estado y los Gobiernos Municipales en el ámbito de sus respecti
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Corresponde al Ejecutivo del Estado, así como a los Gobiernos Municipales, en los términos que dispongan las leyes, coordinarse con el Consejo Nacional de Evaluación de la Política de Desarrollo Social a efecto de dar seguimiento a las recomendaciones en los rubros de medición de la pobreza y evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social. El Ejecutivo del Estado y los Gobiernos Municipales crearán los órganos de coordinación que correspondan para la evaluación de las políticas de desarrollo social en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2018)</small>
+
+El Ejecutivo del Estado, en los términos que dispongan la Constitución Política de los Estados Unidos Mexicanos así como las leyes relacionadas con el Desarrollo Social y la producción de alimentos, promoverá políticas públicas, reconociendo que la producción de alimentos, su distribución y procesamiento para el consumo humano, se consideran como una actividad de carácter estratégico. Por tanto, el Ejecutivo del Estado establecerá una coordinación efectiva con el gobierno federal para contribuir a la soberanía y seguridad alimentaria de la nación, mediante el impulso a la producción agropecuaria.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -3535,7 +3557,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
-P.O. 6 DE DICIEMBRE DE 2000.
+P.O. 6 DE OCTUBRE DE 2000.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -4662,3 +4684,35 @@ DÉCIMO SÉPTIMO.- Se derogan todas las disposiciones normativas que se opongan 
 DÉCIMO OCTAVO.- Los Ayuntamientos deberán realizar las adecuaciones normativas y reglamentarias correspondientes, dentro de los 180 días siguientes a la entrada en vigor de las leyes secundarias a que se refiere el inciso b) del ARTÍCULO CUARTO TRANSITORIO del presente Decreto.
 
 DÉCIMO NOVENO.- El procedimiento de selección de los fiscales especiales en Combate a la Corrupción y de Delitos Electorales, estará vigente en tanto sea aprobada, la reforma constitucional relativa a la creación de la Fiscalía General del Estado, como órgano público autónomo.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 170 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Aprobadas que sean las presentes reformas, túrnese a los Ayuntamiento del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 171 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 169 MEDIANTE EL CUAL SE APRUEBA REFORMA EL (SIC) CUAL SE ADICIONA EL APARTADO E) "DE LAS VÍCTIMAS", AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
