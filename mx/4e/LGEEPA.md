@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2017-01-24"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -64,7 +64,9 @@ VI. La prevención y el control de la contaminación del aire, agua y suelo;
 
 VII. Garantizar la participación corresponsable de las personas, en forma individual o colectiva, en la preservación y restauración del equilibrio ecológico y la protección al ambiente;
 
-VIII. El ejercicio de las atribuciones que en materia ambiental corresponde a la Federación, los Estados, el Distrito Federal y los Municipios, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX - G de la Constitución;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. El ejercicio de las atribuciones que en materia ambiental corresponde a la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia previsto en el Artículo 73 fracción XXIX - G de la Constitución;
 
 IX. El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental, y
 
@@ -202,11 +204,11 @@ XXXIX. Zonificación: El instrumento técnico de planeación que puede ser utili
 
 ### CAPITULO II. Distribución de Competencias y Coordinación
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-La Federación, los Estados, el Distrito Federal y los Municipios ejercerán sus atribuciones en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México ejercerán sus atribuciones en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 
 > <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
@@ -380,29 +382,37 @@ XVI. La formulación y ejecución de acciones de mitigación y adaptación al ca
 
 XVII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 9o.
 
-Corresponden al Gobierno del Distrito Federal, en materia de preservación del equilibrio ecológico y la protección al ambiente, conforme a las disposiciones legales que expida la Asamblea Legislativa del Distrito Federal, las facultades a que se refieren los artículos 7o. y 8o. de esta Ley.
+Corresponden al Gobierno de la Ciudad de México, en materia de preservación del equilibrio ecológico y la protección al ambiente, conforme a las disposiciones legales que expida la Legislatura local, las facultades a que se refiere el artículo 7o. y demás que esta Ley distribuya competencias a los Estados, mientras que corresponderá las aplicables del artículo 8o. y demás que esta Ley distribuya a los municipios para las demarcaciones territoriales de la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 10.
 
-Los Congresos de los Estados, con arreglo a sus respectivas Constituciones y la Asamblea Legislativa del Distrito Federal, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento.
+Las Legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
 
-En el ejercicio de sus atribuciones, los Estados, el Distrito Federal y los Municipios, observarán las disposiciones de esta Ley y las que de ella se deriven.
+Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que, en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+En el ejercicio de sus atribuciones, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley y las que de ella se deriven.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 11.
 
-La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 II. El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones del presente ordenamiento;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 III. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de esta Ley y, en su caso, la expedición de las autorizaciones correspondientes, con excepción de las obras o actividades siguientes:
 
@@ -436,47 +446,75 @@ VIII. La realización de acciones operativas tendientes a cumplir con los fines 
 
 IX. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
 
-En contra de los actos que emitan los gobiernos del Distrito Federal o de los Estados y, en su caso, de sus Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de esta Ley.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+En contra de los actos que emitan los gobiernos de las entidades federativas y, en su caso, de sus Municipios o las demarcaciones territoriales de la Ciudad de México, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 12.
 
-Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, deberán sujetarse a las siguientes bases:
+Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o de las demarcaciones territoriales de la Ciudad de México, deberán sujetarse a las siguientes bases:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 I. Se celebrarán a petición de una Entidad Federativa, cuando ésta cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la Secretaría.
 
 Los requerimientos que establezca la Secretaría y las evaluaciones que se realicen para determinar las capacidades de la Entidad Federativa, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa, con antelación a la celebración de los convenios o acuerdos de coordinación;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 II. Establecerán con precisión su objeto, así como las materias y facultades que se asumirán, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional de desarrollo y con la política ambiental nacional;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración. Además precisarán qué tipo de facultades se pueden asumir de forma inmediata a la firma del convenio o acuerdo y cuáles en forma posterior;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 V. Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 VII. Contendrán, los anexos técnicos necesarios para detallar los compromisos adquiridos;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 VIII. Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación;
 
-IX. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan al Distrito Federal, los Estados, o en su caso, los Municipios, deberán seguirse los mismos procedimientos establecidos en la sección V de la presente Ley, además de lo que establezcan las disposiciones legales y normativas locales correspondientes;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IX. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan a las entidades federativas, o en su caso, los Municipios o las demarcaciones territoriales de la Ciudad de México, deberán seguirse los mismos procedimientos establecidos en la sección V de la presente Ley, además de lo que establezcan las disposiciones legales y normativas locales correspondientes;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 X. Para el caso de los convenios relativos a las Evaluaciones de Impacto Ambiental, los procedimientos que las entidades establezcan habrán de ser los establecidos en el Reglamento del presente ordenamiento en Materia de Evaluación del Impacto Ambiental, y serán autorizados por la Secretaría y publicados en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa, con antelación a la entrada en vigor del convenio o acuerdo de coordinación.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 13.
 
-Los Estados podrán suscribir entre sí y con el Gobierno del Distrito Federal, en su caso, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los municipios entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes señaladas.
+Los Estados podrán suscribir entre sí y con el Gobierno de la Ciudad de México, en su caso, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los municipios o las demarcaciones territoriales de la Ciudad de México entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes señaladas.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -646,15 +684,13 @@ ARTICULO 20 BIS 1.- La Secretaría deberá apoyar técnicamente la formulación 
 
 Las entidades federativas y los municipios podrán participar en las consultas y emitir las recomendaciones que estimen pertinentes para la formulación de los programas de ordenamiento ecológico general del territorio y de ordenamiento ecológico marino.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 20 BIS 2.- Los Gobiernos de los Estados y del Distrito Federal, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
+ARTICULO 20 BIS 2.- Los Gobiernos de las entidades federativas, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
 
-Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de los Estados y Municipios respectivos, y en su caso el del Distrito Federal, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
+Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México respectivas, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
 
-> <small>(ADICIONADO, D.O.F. 12 DE FEBRERO DE 2007)</small>
-
-Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de los Estados, el Distrito Federal y Municipios en que se ubique, según corresponda.
+Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de las entidades federativas y Municipios o demarcaciones territoriales de la Ciudad de México en que se ubique, según corresponda.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -666,37 +702,59 @@ II. La determinación de los criterios de regulación ecológica para la preserv
 
 III. Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 20 BIS 4.- Los programas de ordenamiento ecológico local serán expedidos por las autoridades municipales, y en su caso del Distrito Federal, de conformidad con las leyes locales en materia ambiental, y tendrán por objeto:
+ARTICULO 20 BIS 4.- Los programas de ordenamiento ecológico local serán expedidos por las autoridades municipales, y en su caso por las demarcaciones territoriales de la Ciudad de México, de conformidad con las leyes locales en materia ambiental, y tendrán por objeto:
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por los habitantes del área de que se trate;
 
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 II. Regular, fuera de los centros de población, los usos del suelo con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 20 BIS 5.- Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento ecológico local, serán determinados en las leyes estatales o del Distrito Federal en la materia, conforme a las siguientes bases:
+ARTICULO 20 BIS 5.- Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento ecológico local, serán determinados en las leyes de las entidades federativas en la materia, conforme a las siguientes bases:
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 I. Existirá congruencia entre los programas de ordenamiento ecológico marinos, en su caso, y general del territorio y regionales, con los programas de ordenamiento ecológico local;
 
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 II. Los programas de ordenamiento ecológico local cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto en esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 III. Las previsiones contenidas en los programas de ordenamiento ecológico local del territorio, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se estará a lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que establezca la legislación local en la materia;
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 IV. Las autoridades locales harán compatibles el ordenamiento ecológico del territorio y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en los programas de ordenamiento ecológico local, así como en los planes o programas de desarrollo urbano que resulten aplicables.
 
 Asimismo, los programas de ordenamiento ecológico local preverán los mecanismos de coordinación, entre las distintas autoridades involucradas, en la formulación y ejecución de los programas;
 
-V. Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta por la Secretaría y los Gobiernos de los Estados, del Distrito Federal y de los Municipios, según corresponda;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta por la Secretaría y los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda;
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 VI. Los programas de ordenamiento ecológico local regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen;
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 VII. Para la elaboración de los programas de ordenamiento ecológico local, las leyes en la materia establecerán los mecanismos que garanticen la participación de los particulares, los grupos y organizaciones sociales, empresariales y demás interesados. Dichos mecanismos incluirán, por lo menos, procedimientos de difusión y consulta pública de los programas respectivos.
 
 Las leyes locales en la materia, establecerán las formas y los procedimientos para que los particulares participen en la ejecución, vigilancia y evaluación de los programas de ordenamiento ecológico a que se refiere este precepto, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 VIII. El Gobierno Federal podrá participar en la consulta a que se refiere la fracción anterior y emitirá las recomendaciones que estime pertinentes.
 
@@ -720,19 +778,29 @@ En la determinación de tales previsiones deberán considerarse los criterios es
 
 #### SECCION III. Instrumentos Económicos
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 21.
 
-La Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+La Federación y las entidades federativas, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 I. Promover un cambio en la conducta de las personas que realicen actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 II. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios de la economía;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 V. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
 
@@ -794,7 +862,9 @@ IV. Se deberá privilegiar el establecimiento de sistemas de transporte colectiv
 
 V. Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
 
-VI. Las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. Las autoridades de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
 
 VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
 
@@ -806,9 +876,9 @@ VIII. En la determinación de áreas para actividades altamente riesgosas, se es
 
 IX. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida, y
 
-> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-X. Las autoridades de la Federación, los Estados, el Distrito Federal y los Municipios, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
+X. Las autoridades de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
 ###### ARTICULO 24.
 
@@ -926,17 +996,19 @@ En los casos anteriores, la Secretaría, una vez analizado el informe preventivo
 
 La Secretaría publicará en su Gaceta Ecológica, el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 32.
 
-En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de los Estados, el Distrito Federal o los Municipios, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
+En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 33.
 
-Tratándose de las obras y actividades a que se refieren las fracciones IV, VIII, IX y XI del artículo 28, la Secretaría notificará a los gobiernos estatales y municipales o del Distrito Federal, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga.
+Tratándose de las obras y actividades a que se refieren las fracciones IV, VIII, IX y XI del artículo 28, la Secretaría notificará a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda, que ha recibido la manifestación de impacto ambiental respectiva, a fin de que éstos manifiesten lo que a su derecho convenga.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 La autorización que expida la Secretaría, no obligará en forma alguna a las autoridades locales para expedir las autorizaciones que les corresponda en el ámbito de sus respectivas competencias.
 
@@ -1002,9 +1074,9 @@ ARTICULO 35 BIS 1.- Las personas que presten servicios de impacto ambiental, ser
 
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 35 BIS 2.- El impacto ambiental que pudiesen ocasionar las obras o actividades no comprendidas en el artículo 28 será evaluado por las autoridades del Distrito Federal o de los Estados, con la participación de los municipios respectivos, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, y estén expresamente señalados en la legislación ambiental estatal. En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan las leyes estatales y las disposiciones que de ella se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
+ARTICULO 35 BIS 2.- El impacto ambiental que pudiesen ocasionar las obras o actividades no comprendidas en el artículo 28 será evaluado por las autoridades de las entidades federativas, con la participación de los Municipios y las demarcaciones territoriales de la Ciudad de México respectivas, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, y estén expresamente señalados en la legislación ambiental local. En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan las leyes locales y las disposiciones que de ella se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1108,9 +1180,9 @@ ARTICULO 38 BIS 1.- La Secretaría pondrá los programas preventivos y correctiv
 
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 38 BIS 2.- Los Estados y el Distrito Federal podrán establecer sistemas de autorregulación y auditorías ambientales en los ámbitos de sus respectivas competencias.
+ARTICULO 38 BIS 2.- Las entidades federativas podrán establecer sistemas de autorregulación y auditorías ambientales en los ámbitos de sus respectivas competencias.
 
 #### SECCION VIII. Investigación y Educación Ecológicas
 
@@ -1248,9 +1320,9 @@ XI. Áreas destinadas voluntariamente a la conservación.
 
 Para efectos de lo establecido en el presente Capítulo, son de competencia de la Federación las áreas naturales protegidas comprendidas en las fracciones I a VIII y XI anteriormente señaladas.
 
-> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Los Gobiernos de los Estados y del Distrito Federal, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas estatales y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las fracciones I a VIII y XI del presente artículo o que tengan características propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+Los Gobiernos de las entidades federativas, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas de las entidades federativas y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las fracciones I a VIII y XI del presente artículo o que tengan características propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
 
 > <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2008)</small>
 
@@ -1474,11 +1546,11 @@ Dichos predios se considerarán como áreas productivas dedicadas a una función
 
 El establecimiento, administración y manejo de las áreas destinadas voluntariamente a la conservación se sujetará a lo previsto en la Sección V del presente Capítulo.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 56.
 
-Las autoridades de los Estados y del Distrito Federal, podrán promover ante el Gobierno Federal, el reconocimiento de las áreas naturales protegidas que conforme a su legislación establezcan, con el propósito de compatibilizar los regímenes de protección correspondientes.
+Las autoridades de las entidades federativas podrán promover, ante el Gobierno Federal, el reconocimiento de las áreas naturales protegidas que conforme a su legislación establezcan, con el propósito de compatibilizar los regímenes de protección correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1488,7 +1560,9 @@ El Consejo fungirá como órgano de consulta y apoyo de la Secretaría en la for
 
 Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
-El Consejo podrá invitar a sus sesiones a representantes de los gobiernos de los Estados, del Distrito Federal y de los Municipios, cuando se traten asuntos relacionados con áreas naturales protegidas de competencia federal que se encuentren dentro de su territorio. Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El Consejo podrá invitar a sus sesiones a representantes de los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, cuando se traten asuntos relacionados con áreas naturales protegidas de competencia federal que se encuentren dentro de su territorio. Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y en general a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
 > <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1562,7 +1636,9 @@ Las áreas naturales protegidas establecidas por el Ejecutivo Federal podrán co
 
 El Ejecutivo Federal, a través de las dependencias competentes, realizará los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas, con el objeto de dar seguridad jurídica a los propietarios y poseedores de los predios en ellas comprendidos.
 
-La Secretaría promoverá que las autoridades Federales, Estatales, Municipales y del Distrito Federal, dentro del ámbito de su competencia, en los términos que establezcan las disposiciones jurídicas aplicables y, en su caso, los programas de manejo, den prioridad a los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas de competencia federal.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Secretaría promoverá que las autoridades Federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, dentro del ámbito de su competencia, en los términos que establezcan las disposiciones jurídicas aplicables y, en su caso, los programas de manejo, den prioridad a los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas de competencia federal.
 
 Los terrenos nacionales ubicados dentro de áreas naturales protegidas de competencia federal, quedarán a disposición de la Secretaría, quien los destinará a los fines establecidos en el decreto correspondiente, conforme a las disposiciones jurídicas que resulten aplicables.
 
@@ -1592,17 +1668,21 @@ III. Establecerán los incentivos económicos y los estímulos fiscales para las
 
 IV. Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las participaciones Federales a Estados o Municipios se considere como criterio, la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, en términos de lo dispuesto en el artículo 46 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 64 BIS 1.- La Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
+ARTICULO 64 BIS 1.- La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas; de conformidad con lo que establece esta Ley, la declaratoria y el programa de manejo correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Los núcleos agrarios, pueblos indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas, tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 65.
 
-La Secretaría formulará, dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Diario Oficial de la Federación, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes, los gobiernos estatales, municipales y del Distrito Federal, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
+La Secretaría formulará, dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Diario Oficial de la Federación, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Una vez establecida un área natural protegida de competencia federal, la Secretaría deberá designar al Director del área de que se trate, quien será responsable de coordinar la formulación, ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y las disposiciones que de ella se deriven.
 
@@ -1628,13 +1708,17 @@ VII. Las reglas de carácter administrativo a que se sujetarán las actividades 
 
 La Secretaría deberá publicar en el Diario Oficial de la Federación, un resumen del programa de manejo respectivo y el plano de localización del área.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 67.
 
-La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de los Estados, de los Municipios y del Distrito Federal, así como a ejidos, comunidades agrarias, pueblos indígenas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como a ejidos, comunidades agrarias, pueblos indígenas, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I a VIII del Artículo 46 de esta Ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 La Secretaría deberá supervisar y evaluar el cumplimiento de los acuerdos y convenios a que se refiere este precepto. Asimismo, deberá asegurarse que en las autorizaciones para la realización de actividades en áreas naturales protegidas de su competencia, se observen las previsiones anteriormente señaladas.
 
@@ -1694,11 +1778,11 @@ La Secretaría integrará el Sistema Nacional de Áreas Naturales Protegidas, co
 
 La integración de áreas naturales protegidas de competencia federal al Sistema Nacional de Áreas Naturales Protegidas, por parte de la Secretaría, requerirá la previa opinión favorable del Consejo Nacional de Áreas Naturales Protegidas.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 77.
 
-Las Dependencias de la Administración Pública Federal, los gobiernos de los Estados, del Distrito Federal y de los municipios, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia federal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
+Las Dependencias de la Administración Pública Federal, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia federal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 16 DE MAYO DE 2008)</small>
 
@@ -1746,9 +1830,11 @@ f) Vigencia mínima de quince años;
 
 III.- La Secretaría podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios;
 
-IV.- Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario y se manejarán conforme a la estrategia de manejo definida en el certificado. Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declaradas como tales por la Federación, el Gobierno del Distrito Federal, los estados y los municipios, la estrategia de manejo observará lo dispuesto en las declaratorias y los programas de manejo correspondientes.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Asimismo, cuando el Ejecutivo Federal, los gobiernos de los Estados o los municipios establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría;
+IV.- Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario y se manejarán conforme a la estrategia de manejo definida en el certificado. Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declarada (sic) como tales por la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, la estrategia de manejo observará lo dispuesto en las declaratorias y los programas de manejo correspondientes.
+
+Asimismo, cuando el Ejecutivo Federal, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría;
 
 V.- Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría conforme al procedimiento previsto en el Reglamento. Lo previsto en esta fracción no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la Ley General de Desarrollo Forestal Sustentable, y
 
@@ -1864,7 +1950,9 @@ Las vedas tendrán como finalidad la preservación, repoblación, propagación, 
 
 Los instrumentos jurídicos mediante los cuales se establezcan vedas, deberán precisar su naturaleza y temporalidad, los límites de las áreas o zonas vedadas y las especies de la flora o la fauna comprendidas en ellas, de conformidad con las disposiciones legales que resulten aplicables.
 
-Dichos instrumentos deberán publicarse en el órgano oficial de difusión del Estado o Estados donde se ubique el área vedada, sin perjuicio de lo dispuesto en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Dichos instrumentos deberán publicarse en el órgano oficial de difusión de la entidad federativa o entidades federativas donde se ubique el área vedada, sin perjuicio de lo dispuesto en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1928,9 +2016,11 @@ La Secretaría y las demás dependencias competentes, establecerán los mecanism
 
 ARTICULO 87 BIS 1.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de flora y fauna silvestre, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad en las áreas que constituyan el hábitat de las especies de flora y fauna silvestre respecto de las cuales se otorgaron los permisos, licencias o autorizaciones correspondientes.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, de la Ciudad de México y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+ARTICULO 87 BIS 2.- El Gobierno Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], D.O.F. 24 DE ENERO DE 2017)</small>
 
 La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
@@ -1944,7 +2034,11 @@ IV. Permitir a los animales la expresión de su comportamiento natural, y
 
 V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
+
 Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de captura, cautiverio, comercialización, cuarentena, entrenamiento, exhibición, explotación, manutención, transporte, y sacrificio de los animales, así como vigilar su cumplimiento.
 
@@ -2000,9 +2094,9 @@ V. Las suspensiones o revocaciones de permisos, autorizaciones, concesiones o as
 
 VI. La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población e industrias;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-VII. Las previsiones contenidas en el programa director para el desarrollo urbano del Distrito Federal respecto de la política de reuso de aguas;
+VII. Las previsiones contenidas en el programa director para el desarrollo urbano de la Ciudad de México respecto de la política de reuso de aguas;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2216,11 +2310,15 @@ En los estímulos fiscales que se otorguen a las actividades forestales, deberá
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+ARTICULO 109 BIS.- La Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno de las entidades federativas y en su caso, de los Municipios y las demarcaciones territoriales de la Ciudad de México.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 109 BIS.- La Secretaría, los Estados, el Distrito Federal y los Municipios, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno del Distrito Federal, de los Estados, y en su caso, de los Municipios.
-
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera proactiva.
 
@@ -2308,11 +2406,11 @@ Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de juris
 
 El reglamento que al efecto se expida determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales antes señalados, cuyos establecimientos se sujetarán a las disposiciones de la legislación federal, en lo que se refiere a la emisión de contaminantes a la atmósfera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 112.
 
-En materia de prevención y control de la contaminación atmosférica, los gobiernos de los Estados, del Distrito Federal y de los Municipios, de conformidad con la distribución de atribuciones establecida en los artículos 7o., 8o. y 9o. de esta Ley, así como con la legislación local en la materia:
+En materia de prevención y control de la contaminación atmosférica, los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, de conformidad con la distribución de atribuciones establecida en los artículos 7o., 8o. y 9o. de esta Ley, así como con la legislación local en la materia:
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2340,7 +2438,9 @@ VII. Establecerán requisitos y procedimientos para regular las emisiones del tr
 
 VIII. Tomarán las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
-IX. Elaborarán los informes sobre el estado del medio ambiente en la entidad o municipio correspondiente, que convengan con la Secretaría a través de los acuerdos de coordinación que se celebren;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IX. Elaborarán los informes sobre el estado del medio ambiente en la entidad, Municipio o demarcación territorial de la Ciudad de México correspondiente, que convengan con la Secretaría a través de los acuerdos de coordinación que se celebren;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2436,15 +2536,19 @@ La Secretaría expedirá las normas oficiales mexicanas que se requieran para pr
 
 Tratándose de Normas Oficiales Mexicanas que se requieran para prevenir la contaminación de agua, la Secretaría elaborará y expedirá una Norma Mexicana en torno a la biodegradabilidad sobre los detergentes. En cuanto al etiquetado de dichos productos, se observará el cumplimiento puntual de la norma o normas referentes a los productos y servicios; etiquetados y envasado para productos de aseo de uso doméstico. En lo conducente, la Secretaría se coordinará con la Secretaría de Marina.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-ARTICULO 119 BIS.- En materia de prevención y control de la contaminación del agua, corresponde a los gobiernos de los Estados y de los Municipios, por sí o a través de sus organismos públicos que administren el agua, así como al del Distrito Federal, de conformidad con la distribución de competencias establecida en esta Ley y conforme lo dispongan sus leyes locales en la materia:
+ARTICULO 119 BIS.- En materia de prevención y control de la contaminación del agua, corresponde a los gobiernos de las entidades federativas y de los Municipios, por sí o a través de sus organismos públicos que administren el agua, de conformidad con la distribución de competencias establecida en esta Ley y conforme lo dispongan sus leyes locales en la materia:
+
+> <small>(ADICIONADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 I. El control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado;
 
 II. La vigilancia de las normas oficiales mexicanas correspondientes, así como requerir a quienes generen descargas a dichos sistemas y no cumplan con éstas, la instalación de sistemas de tratamiento;
 
-III. Determinar el monto de los derechos correspondientes para que el municipio o autoridad estatal respectiva, pueda llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Determinar el monto de los derechos correspondientes para que el municipio o autoridad de la entidad federativa respectiva, pueda llevar a cabo el tratamiento necesario, y en su caso, proceder a la imposición de las sanciones a que haya lugar, y
 
 IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al registro nacional de descargas a cargo de la Secretaría.
 
@@ -2500,11 +2604,11 @@ Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento d
 
 (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 126.
 
-Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen, operen o administren los municipios, las autoridades estatales, o el Distrito Federal, deberán cumplir con las normas oficiales mexicanas que al efecto se expidan.
+Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen, operen o administren los municipios o las autoridades de las entidades federativas, deberán cumplir con las normas oficiales mexicanas que al efecto se expidan.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2542,11 +2646,11 @@ Para la protección del medio marino, la Secretaría emitirá las normas oficial
 
 La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud, de Turismo y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente Ley, en la Ley de Aguas Nacionales, la Ley Federal del Mar, la Ley General de Turismo, las convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 133.
 
-La Secretaría, con la participación que en su caso corresponda a la Secretaría de Salud conforme a otros ordenamientos legales, realizará un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan. En los casos de aguas de jurisdicción local se coordinará con las autoridades de los Estados, el Distrito Federal y los Municipios.
+La Secretaría, con la participación que en su caso corresponda a la Secretaría de Salud conforme a otros ordenamientos legales, realizará un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan. En los casos de aguas de jurisdicción local se coordinará con las autoridades de las entidades federativas y los Municipios.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
@@ -2600,11 +2704,13 @@ III. Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o expl
 
 IV. Riesgos y problemas de salud.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 137.
 
-Queda sujeto a la autorización de los Municipios o del Distrito Federal, conforme a sus leyes locales en la materia y a las normas oficiales mexicanas que resulten aplicables, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos municipales.
+Queda sujeto a la autorización de los Municipios o de la Ciudad de México, conforme a sus leyes locales en la materia y a las normas oficiales mexicanas que resulten aplicables, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos municipales.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 La Secretaría expedirá las normas a que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de residuos sólidos municipales.
 
@@ -2706,13 +2812,13 @@ ARTICULO 147 BIS.- Quienes realicen actividades altamente riesgosas, en los tér
 
 Cuando para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades altamente riesgosas, sea necesario establecer una zona intermedia de salvaguarda, el Gobierno Federal podrá, mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población. La Secretaría promoverá, ante las autoridades locales competentes, que los planes o programas de desarrollo urbano establezcan que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 149.
 
-Los Estados y el Distrito Federal regularán la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las normas oficiales mexicanas que resulten aplicables.
+Las entidades federativas regularán la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las normas oficiales mexicanas que resulten aplicables.
 
-La legislación local definirá las bases a fin de que la Federación, los Estados, el Distrito Federal y los Municipios, coordinen sus acciones respecto de las actividades a que se refiere este precepto.
+La legislación local definirá las bases a fin de que la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, coordinen sus acciones respecto de las actividades a que se refiere este precepto.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
@@ -2858,9 +2964,9 @@ En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, informa
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el país por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Los Estados, los Municipios y el Distrito Federal, participarán con la Secretaría en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales.
+Las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, participarán con la Secretaría en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2870,11 +2976,15 @@ ARTICULO 159 BIS 1.- La Secretaría deberá elaborar y publicar bianualmente un 
 
 ARTICULO 159 BIS 2.- La Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el Gobierno Federal o los gobiernos locales, o documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación o en otros órganos de difusión. Igualmente en dicha Gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+ARTICULO 159 BIS 3.- Toda persona tendrá derecho a que la Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley. En su caso, los gastos que se generen, correrán por cuenta del solicitante.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 159 BIS 3.- Toda persona tendrá derecho a que la Secretaría, los Estados, el Distrito Federal y los Municipios pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley. En su caso, los gastos que se generen, correrán por cuenta del solicitante.
-
 Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales en general, así como sobre las actividades o medidas que les afectan o puedan afectarlos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
 
@@ -2926,9 +3036,9 @@ III. Celebrará convenios con los medios de comunicación masiva para la difusi�
 
 IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con los Estados y Municipios correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
+V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
 
 > <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3869,3 +3979,11 @@ D.O.F. 24 DE ENERO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar la legislación en un plazo no mayor a 360 días siguientes al día de su publicación en el Diario Oficial de la Federación, para dar cumplimiento al presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO SEGUNDO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las alcaldías y sus concejos se entenderán conferidas a la delegación política de la demarcación territorial.
