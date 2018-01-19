@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2017-01-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -997,13 +997,13 @@ El Ejecutivo del Estado fijará el precio oficial para la compra-venta de algod�
 
 ### CAPITULO VIII. Impuesto Sobre Servicios de Hospedaje
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 127.
 
 Es objeto de este impuesto, los servicios de hospedaje que se reciban en el territorio del Estado, independientemente del nombre del acto que les dé origen.
 
-Para efectos de este impuesto, se consideran servicios de hospedaje, el otorgamiento de alojamiento o albergue temporal de personas a cambio de una contraprestación, proporcionados en hoteles, moteles, villas, cabañas, campamentos, paraderos de casas rodantes, marinas turísticas, y en cualquier otro establecimiento destinado a dar hospedaje turístico, incluyendo los que se presten bajo la modalidad de tiempo compartido.
+Para efectos de este impuesto, se consideran servicios de hospedaje, el otorgamiento de alojamiento o albergue temporal de personas a cambio de una contraprestación, proporcionados en hoteles, moteles, villas, cabañas, campamentos, paraderos de casas rodantes, marinas turísticas, y en cualquier otro establecimiento destinado a dar hospedaje, incluyendo los que se presten bajo la modalidad de tiempo compartido y aquellos que brinden hospedaje temporal en casas y departamentos mediante aplicaciones y plataformas digitales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1019,45 +1019,41 @@ La base del impuesto será el valor de la contraprestación pactada por el servi
 
 Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales como alimentación, transportación, uso de instalaciones u otros similares y el comprobante fiscal no reúna los requisitos a que se refiere el párrafo anterior, se entenderá que la base gravable se integra con el costo de todos los servicios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 130.
 
 Este impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de Planeación y Finanzas.
 
-Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de planeación y Finanzas.
+Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de intermediarios, con agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo, incluyendo promotores y facilitadores, con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
-Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
+En cualquiera de los supuestos previstos en el artículo 127 de esta Ley, cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto Sobre Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente. En este último supuesto donde la persona física o moral en su carácter de intermediario, promotor o facilitador sea quien entere el pago del Impuesto Sobre Servicios de Hospedaje, se liberará al contribuyente del impuesto correspondiente y a las personas que presten los servicios de hospedaje de las obligaciones establecidas en el primer párrafo del presente artículo, así como de las establecidas en el artículo 132 de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 131.
 
 Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+Tratándose de intermediarios que reciban el pago por el servicio de hospedaje y el Impuesto Sobre Servicios de Hospedaje, deberán enterar los impuestos que se hayan recaudado en el mes inmediato anterior, en los mismos plazos señalados en el párrafo anterior y presentar la declaración del impuesto en los términos del mismo párrafo.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 132.
 
 Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, además de las obligaciones señaladas en el Código Fiscal del Estado; con excepción del Impuesto Adicional para la Educación Media y Superior, de conformidad a lo establecido en los Artículos 155 y 156 de esta Ley; y, estarán obligados a lo siguiente:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
 
 II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
 III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto de este impuesto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
-
 Dentro de estos controles se incluye la separación expresa en el comprobante fiscal expedido del monto de las contraprestaciones correspondientes a los servicios de hospedaje, servicios accesorios, transportación, alimentación y otros similares.
+
+Los intermediarios, promotores o facilitadores a los que hace referencia el artículo 130 de la presente Ley, estarán obligados a cumplir con las fracciones señaladas anteriormente, en los términos de las reglas de carácter general que para tal efecto deberá emitir la Secretaría de Planeación y Finanzas del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -3131,9 +3127,7 @@ P.O. 30 DE DICIEMBRE DE 2011.
 
 DECRETO No. 168 POR EL QUE REFORMAN LOS ARTÍCULOS 156, 156-15, PRIMERO TRANSITORIO DEL DECRETO No. 18, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA EL DIA 31 DE DICIEMBRE DE 2010, 172 Y 173 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
 
-ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el
-
-Periódico Oficial del Estado de Baja California.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 30 DE DICIEMBRE DE 2011.
 
@@ -3240,3 +3234,11 @@ P.O. 19 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4-1 Y 158 DE LA LEY DE HACIENDA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto mediante el que se reforman los artículos 4-1 y 158 de la Ley de Hacienda del Estado de Baja California, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 180 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 127, 130, 131 Y 132 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor a los 90 días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
