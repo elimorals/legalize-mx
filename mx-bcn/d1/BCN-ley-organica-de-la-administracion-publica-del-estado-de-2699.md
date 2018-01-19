@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2017-11-10"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -1033,35 +1033,81 @@ I.- Conducir la política laboral del Estado, vigilando la observancia y aplicac
 
 II.- Promover y procurar el equilibrio de los factores de la producción, teniendo como eje rector el impulso de una cultura laboral basada en el diálogo y la concertación;
 
-III.- Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y demanda de trabajo de la entidad;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-IV.- Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con la autoridad federal del trabajo y con la participación de los sectores empresarial, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
+III.- Promover el incremento de la productividad en el trabajo, así como la capacitación y la certificación de las competencias laborales;
 
-V.- Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-VI.- Ejecutar los convenios y acuerdos que en materia de Trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la Dependencia Federal correspondiente en la formulación y promulgación de Contratos-Ley, tratándose de empresas de jurisdicción local;
+IV.- Fomentar programas que impulsen el empleo en el Estado;
 
-VII.- Integrar el Registro Público de Contratos Colectivos, Asociaciones Obreras, Gremiales y Patronales;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-VIII.- Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+V.- Promover estrategias que impulsen en las empresas la generación de acciones de innovación, que aprovechen el potencial creativo de los integrantes de la plantilla laboral, su conocimiento y experiencia acumulada;
 
-IX.- Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-X.- Estudiar y proponer al seno del Comité de Planeación para el Desarrollo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del estado y la mejoría de quienes laboran en ella;
+VI.- Difundir, promover y fomentar el empleo para personas con discapacidad y lograr en un plano de igualdad de oportunidades su incorporación al mercado laboral, coordinándose con las instancias competentes;
 
-XI.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando estas los soliciten o cuando la situación lo amerite, a juicio del titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-XII.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+VII.- Promover la cultura y la recreación entre los trabajadores y sus familias;
 
-XIII.- Coordinar la integración y establecimiento de las Juntas de Conciliación y/o Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+VIII.- Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y demanda de trabajo de la entidad;
 
-XIV.- Organizar y operar el Sistema Estatal de Protección al Empleo así como el Seguro de Desempleo, en los términos de la Ley correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+IX.- Aplicar las normas que determinen la estrategia para la capacitación, adiestramiento, y la seguridad e higiene en el trabajo, diseñar programas en coordinación con la autoridad federal del trabajo con la participación de los sectores empresarial, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
 
-XV.- Las demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+X.- Vigilar la observancia de las normas laborales que aseguren el respeto de los derechos fundamentales de los trabajadores en las actividades agrícolas, industriales y de servicios, asegurando que el trabajo se proporcione de manera libre, igualitaria, segura, humanamente digna y erradicando el trabajo infantil;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XI.- Vigilar, mediante visitas e inspecciones, de los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XII.- Analizar las estadísticas en materia de trabajo y generar los reportes correspondientes;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XIII.- Ejecutar los convenios y acuerdos que en materia de trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la dependencia federal correspondiente en la formulación de contratos-ley, tratándose de empresas de jurisdicción local;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XIV.- Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+XV.- Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XVI.- Proponer de acuerdo a las facultades de la Secretaría al Comité de Planeación para el Desarrollo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación adiestramiento y certificación, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del estado y la mejoría de las personas que laboran en ella;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XVII.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando estas los soliciten o cuando la situación lo amerite, a juicio del titular del Ejecutivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XVIII.- Coordinar la integración y establecimiento de las Juntas de Conciliación y/o Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XIX.- Integrar el Registro Público de Contratos Colectivos, Asociaciones Obreras, Gremiales y Patronales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XX.- Organizar y operar el Sistema Estatal de Protección al Empleo, así como el seguro de desempleo, en los términos de la Ley correspondiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+XXI.- Las demás que determinen expresamente las leyes y reglamentos.
 
 ### CAPITULO XVI
 
@@ -2176,6 +2222,16 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 Primero.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las menciones que en otras leyes o reglamentos se hagan a la Secretaría de Fomento Agropecuario, se entenderán hechas a la Secretaría de Desarrollo Agropecuario.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 158 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- La entidad de la Administración Pública Estatal señalada en la presente Reforma deberá prever en su respectivo proyecto de presupuesto de egresos del ejercicio fiscal siguiente a su publicación, las necesidades presupuestarias para los programas respectivos, a fin de dar cumplimiento a las atribuciones y obligaciones previstas en la misma.
+
+Tercero.- Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá expedir el Reglamento interno de la Secretaría de Trabajo y Previsión Social del Estado de Baja California.
 
 ## TITULO IV. DE LA SECTORIZACION
 
