@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2016-07-18"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGCG"
 ---
 # LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -52,7 +54,9 @@ La presente Ley es de orden público y tiene como objeto establecer los criterio
 
 La presente Ley es de observancia obligatoria para los poderes Ejecutivo, Legislativo y Judicial de la Federación, los estados y el Distrito Federal; los ayuntamientos de los municipios; los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal; las entidades de la administración pública paraestatal, ya sean federales, estatales o municipales y los órganos autónomos federales y estatales.
 
-Los gobiernos estatales deberán coordinarse con los municipales para que éstos armonicen su contabilidad con base en las disposiciones de esta Ley. El Gobierno del Distrito Federal deberá coordinarse con los órganos político-administrativos de sus demarcaciones territoriales. Las entidades federativas deberán respetar los derechos de los municipios con población indígena, entre los cuales se encuentran el derecho a decidir las formas internas de convivencia política y el derecho a elegir, conforme a sus normas y, en su caso, costumbres, a las autoridades o representantes para el ejercicio de sus propias formas de gobierno interno.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los gobiernos estatales deberán coordinarse con los municipales para que éstos armonicen su contabilidad con base en las disposiciones de esta Ley. El Gobierno de la Ciudad de México deberá coordinarse con los órganos político-administrativos de sus demarcaciones territoriales. Las entidades federativas deberán respetar los derechos de los municipios con población indígena, entre los cuales se encuentran el derecho a decidir las formas internas de convivencia política y el derecho a elegir, conforme a sus normas y, en su caso, costumbres, a las autoridades o representantes para el ejercicio de sus propias formas de gobierno interno.
 
 ###### Artículo 2.
 
@@ -84,9 +88,13 @@ VII. Cuentas contables: las cuentas necesarias para el registro contable de las 
 
 VIII. Cuentas presupuestarias: las cuentas que conforman los clasificadores de ingresos y gastos públicos;
 
-IX. Cuenta pública: el documento a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que en términos del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos rinde el Distrito Federal y los informes correlativos que, conforme a las constituciones locales, rinden los estados y los municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-X. Deuda pública: las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo de los gobiernos federal, estatales, del Distrito Federal o municipales, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de canje o refinanciamiento;
+IX. Cuenta pública: el documento a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que, conforme a las constituciones locales, rinden las entidades federativas y los municipios;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+X. Deuda pública: las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo de los gobiernos federal, de las entidades federativas o municipales, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de canje o refinanciamiento;
 
 XI. Endeudamiento neto: la diferencia entre el uso del financiamiento y las amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, durante el período que se informa;
 
@@ -180,17 +188,19 @@ c) Un gobernador de alguna entidad federativa integrante de los grupos cinco y s
 
 d) Un gobernador de alguna entidad federativa integrante de los grupos seis y ocho;
 
-VII. Dos representantes de los ayuntamientos de los municipios o de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal elegidos por los otros miembros del consejo, quienes deberán ser servidores públicos con atribuciones en materia de contabilidad gubernamental del ayuntamiento u órgano político-administrativo que corresponda, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII. Dos representantes de los ayuntamientos de los municipios o de los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México elegidos por los otros miembros del consejo, quienes deberán ser servidores públicos con atribuciones en materia de contabilidad gubernamental del ayuntamiento u órgano político-administrativo de las demarcaciones territoriales de la Ciudad de México que corresponda, y
 
 VIII. Un secretario técnico, quien tendrá derecho a voz, pero no a voto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 Las sesiones del consejo se desarrollarán procurando invitar al Titular de la Auditoría Superior de la Federación.
 
-Los cuatro gobernadores de las entidades federativas, así como el representante de los municipios y demarcaciones territoriales del Distrito Federal durarán en su encargo 2 años. Los gobernadores ocuparán sus puestos en el consejo y serán sustituidos, en el orden alfabético de las entidades federativas que integren los respectivos grupos.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los cuatro titulares del Ejecutivo de las entidades federativas, así como el representante de los municipios y demarcaciones territoriales de la Ciudad de México durarán en su encargo 2 años. Los gobernadores ocuparán sus puestos en el consejo y serán sustituidos, en el orden alfabético de las entidades federativas que integren los respectivos grupos.
 
 Los miembros del consejo podrán ser suplidos por servidores públicos que ocupen el puesto inmediato inferior al del respectivo miembro. Los gobernadores podrán ser suplidos únicamente por los respectivos secretarios de finanzas o equivalentes.
 
@@ -524,7 +534,9 @@ Para el registro de las operaciones presupuestarias y contables, los entes públ
 
 I. En el caso de la administración pública federal, la unidad administrativa competente en materia de contabilidad gubernamental de la Secretaría de Hacienda, y
 
-II. En el caso de la administración centralizada de las entidades federativas, municipios, demarcaciones territoriales del Distrito Federal y sus respectivas entidades paraestatales, la unidad administrativa competente en materia de contabilidad gubernamental que corresponda en cada caso.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. En el caso de la administración centralizada de las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México y sus respectivas entidades paraestatales, la unidad administrativa competente en materia de contabilidad gubernamental que corresponda en cada caso.
 
 ###### Artículo 38.
 
@@ -654,11 +666,11 @@ II. Endeudamiento neto, financiamiento menos amortización, y
 
 III. Intereses de la deuda.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 48.
 
-En lo relativo a los ayuntamientos de los municipios o los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal y las entidades de la Administración Pública Paraestatal municipal, los sistemas deberán producir, como mínimo, la información contable y presupuestaria a que se refiere el artículo 46, fracciones I, incisos a), b), c), d), e), g) y h), y II, incisos a) y b) de la presente Ley.
+En lo relativo a los ayuntamientos de los municipios o los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México y las entidades de la Administración Pública Paraestatal municipal, los sistemas deberán producir, como mínimo, la información contable y presupuestaria a que se refiere el artículo 46, fracciones I, incisos a), b), c), d), e), g) y h), y II, incisos a) y b) de la presente Ley.
 
 ###### Artículo 49.
 
@@ -888,15 +900,15 @@ Los entes públicos implementarán programas para que los pagos se hagan directa
 
 Los entes públicos publicarán en Internet la información sobre los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, y el monto recibido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 68.
 
 La presentación de la información financiera del Gobierno Federal se sujetará a lo dispuesto en esta Ley y las leyes Federal de Presupuesto y Responsabilidad Hacendaria y de Fiscalización y Rendición de Cuentas de la Federación.
 
-Las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal se sujetarán en la presentación de la información financiera, a esta Ley y a las disposiciones jurídicas aplicables. Por lo que se refiere a los recursos federales transferidos a dichos órdenes de gobierno, observarán las disposiciones específicas de las leyes citadas en el párrafo anterior y de la Ley de Coordinación Fiscal, así como las disposiciones del presente Capítulo.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México se sujetarán en la presentación de la información financiera, a esta Ley y a las disposiciones jurídicas aplicables. Por lo que se refiere a los recursos federales transferidos a dichos órdenes de gobierno, observarán las disposiciones específicas de las leyes citadas en el párrafo anterior y de la Ley de Coordinación Fiscal, así como las disposiciones del presente Capítulo.
 
 En los programas en que concurran recursos federales, de las entidades federativas y en su caso, municipios y demarcaciones territoriales del Distrito Federal, se harán las anotaciones respectivas identificando el monto correspondiente a cada orden de gobierno.
 
@@ -1136,13 +1148,11 @@ Los municipios enviarán a las entidades federativas información sobre la aplic
 
 La Secretaría de Desarrollo Social del Gobierno Federal remitirá trimestralmente a la Cámara de Diputados del Congreso de la Unión, la información que reciba correspondiente al Fondo de Aportaciones para la Infraestructura Social Municipal, misma que estará disponible en su página de Internet, debiendo actualizarla con la misma periodicidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 76.
 
-Los municipios, las demarcaciones territoriales del Distrito Federal y en su caso, las entidades federativas, previo convenio de colaboración administrativa, difundirán en Internet la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, especificando cada uno de los destinos señalados para dicho Fondo en la Ley de Coordinación Fiscal.
+Los municipios, las demarcaciones territoriales de la Ciudad de México y en su caso, las entidades federativas, previo convenio de colaboración administrativa, difundirán en Internet la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, especificando cada uno de los destinos señalados para dicho Fondo en la Ley de Coordinación Fiscal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1204,8 +1214,6 @@ Los datos de producto interno bruto y los ingresos propios de los estados y muni
 
 ### CAPÍTULO V. De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 79.
@@ -1214,11 +1222,9 @@ Los entes públicos deberán publicar en sus páginas de Internet a más tardar 
 
 Los entes públicos deberán publicar a más tardar a los 30 días posteriores a la conclusión de las evaluaciones, los resultados de las mismas e informar sobre las personas que realizaron dichas evaluaciones.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-La Secretaría de Hacienda y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en el ámbito de su competencia y de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, enviarán al Consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores para que dicho Consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La Secretaría de Hacienda y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en el ámbito de su competencia y de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, enviarán al Consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México, así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores para que dicho Consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1230,45 +1236,41 @@ A más tardar el último día hábil de marzo, en los términos del artículo an
 
 La Secretaría de Hacienda, con el apoyo técnico del Consejo Nacional de Evaluación de la Política de Desarrollo Social, entregará conjuntamente con las dependencias coordinadoras de los fondos, programas y convenios, el último día hábil del mes de abril de cada año a la Cámara de Diputados del Congreso de la Unión, un informe sobre las adecuaciones efectuadas, en su caso, a los indicadores del desempeño, así como su justificación.
 
-En ese mismo plazo, la Secretaría de Hacienda entregará a la Cámara de Diputados del Congreso de la Unión, un informe del avance alcanzado por las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, en la implantación y operación del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, en lo que corresponde a los recursos federales transferidos y, en su caso, las medidas que se aplicarán coordinadamente entre estos órdenes de gobierno para el logro de los objetivos definidos en las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+En ese mismo plazo, la Secretaría de Hacienda entregará a la Cámara de Diputados del Congreso de la Unión, un informe del avance alcanzado por las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en la implantación y operación del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, en lo que corresponde a los recursos federales transferidos y, en su caso, las medidas que se aplicarán coordinadamente entre estos órdenes de gobierno para el logro de los objetivos definidos en las disposiciones aplicables.
 
 El consejo establecerá las normas, metodologías, clasificadores y los formatos con la estructura y contenido de la información para armonizar la elaboración y presentación de la información a que se refiere este artículo. Asimismo, tratándose de programas sociales, el Consejo desarrollará lo anterior a partir de los indicadores que prevé la Ley General de Desarrollo Social y en coordinación con el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 81.
 
-La información respecto al ejercicio y destino del gasto federalizado, así como respecto al reintegro de los recursos federales no devengados por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, para efectos de los informes trimestrales y la cuenta pública, deberá presentarse en los formatos aprobados por el consejo.
+La información respecto al ejercicio y destino del gasto federalizado, así como respecto al reintegro de los recursos federales no devengados por las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, para efectos de los informes trimestrales y la cuenta pública, deberá presentarse en los formatos aprobados por el consejo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 82.
 
-La Auditoría Superior de la Federación y los órganos de fiscalización superior locales serán responsables de vigilar la calidad de la información que proporcionen las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, respecto al ejercicio y destino de los recursos públicos federales que por cualquier concepto les hayan sido ministrados.
+La Auditoría Superior de la Federación y los órganos de fiscalización superior locales serán responsables de vigilar la calidad de la información que proporcionen las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, respecto al ejercicio y destino de los recursos públicos federales que por cualquier concepto les hayan sido ministrados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 83.
 
-La Auditoría Superior de la Federación deberá difundir la información de su programa anual de auditorías, relativa a las auditorías que serán realizadas respecto del gasto público federal transferido a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal.
+La Auditoría Superior de la Federación deberá difundir la información de su programa anual de auditorías, relativa a las auditorías que serán realizadas respecto del gasto público federal transferido a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
 
 ## TÍTULO SEXTO. De Las Sanciones
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 56], D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 84.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; las leyes equivalentes de las entidades federativas, y las demás disposiciones aplicables en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; de las constituciones de los estados y del Estatuto de Gobierno del Distrito Federal.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; las leyes equivalentes de las entidades federativas, y las demás disposiciones aplicables en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de las constituciones de las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 Las responsabilidades administrativas se fincarán, a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa, mala fe o negligencia por parte de los mismos.
 
@@ -1523,3 +1525,9 @@ SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año e
 SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la Unidad de Evaluación y Control, deberán actualizar sus reglamentos interiores conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
 
 OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO PRIMERO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
