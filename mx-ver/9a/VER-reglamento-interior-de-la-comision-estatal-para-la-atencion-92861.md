@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2017-05-08"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 8 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -583,6 +581,10 @@ Las funciones y actuación de la Unidad de Género de la Comisión Estatal para 
 
 El órgano interno de control de la Comisión Estatal para la Atención y Protección de los Periodistas tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión.
 
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2018)</small>
+
+El titular de la Contraloría Interna, será nombrado por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un período de cinco años.
+
 > <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
 
 ###### Artículo 28.
@@ -597,7 +599,143 @@ III. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relati
 
 IV. Sustanciar el recurso de queja, respetando las garantías de audiencia y debido proceso, y someterlo a votación del Pleno;
 
-V. Las demás que expresamente establezcan la Ley, este Reglamento y las disposiciones aplicables.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2018)</small>
+
+V. Prevenir, corregir e investigar hechos que pudieran constituir responsabilidades y faltas administrativas, así como sancionar aquellos distintos a las que son competencia del Tribunal Estatal de Justicia Administrativa, de conformidad con la ley en la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+VI. Organizar y coordinar el sistema de control y evaluación de la Comisión, así como inspeccionar el manejo y custodia del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+VII. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia y los principios de contabilidad generalmente aceptados;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+VIII. Vigilar el cumplimiento de los convenios que se firmen entre la Comisión y las dependencias federales, estatales o municipales, así como con otros organismos y asociaciones;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+IX. Elaborar el programa anual de auditoría interna, de control y evaluación del origen y aplicación de los recursos financieros;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+X. Vigilar que los recursos asignados a la Comisión se utilicen exclusivamente para los fines a que estén destinados;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XI. Vigilar que la Comisión, en ejercicio de sus atribuciones, se conduzca bajo criterios de eficiencia, austeridad y disciplina presupuestaria;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XII. Actuar en coordinación con las áreas administrativas para verificar que se cumpla con la normatividad en el ejercicio del gasto;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XIII. Dictar las políticas en materia de control interno necesarias para el funcionamiento de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XIV. Realizar, a las áreas administrativas de la Comisión, auditorías financieras, operacionales, de resultado de programas y de legalidad, tomando las acciones legales a que haya lugar en caso de hallar irregularidades;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XV. Llevar el control y dar seguimiento a las observaciones y recomendaciones derivadas de las auditorías practicadas a las áreas administrativas de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XVI. Vigilar el cumplimiento de las metas del programa anual de actividades;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XVII. Revisar el informe trimestral que le envíe el secretario ejecutivo, para los efectos del artículo 179 del Código Financiero para el Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XVIII. Analizar los estados financieros de la Comisión y, en su caso, emitir las recomendaciones pertinentes;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XIX. Formular opinión al Pleno sobre los criterios contables y de control en materia de programación y presupuestación;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XX. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXI. Conocer del recurso de revocación previsto en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXII. Aplicar las sanciones a los proveedores o licitantes que infrinjan la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXIII. Recibir, registrar, verificar y generar la información que, para efectos de los Sistemas Nacional y Estatal Anticorrupción, deberán contener las Plataformas Digitales respectivas, en relación a las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, así como de la evolución del patrimonio de los servidores públicos de la Comisión. También podrá requerir información adicional, realizando las investigaciones pertinentes; de no existir anomalía alguna tendrá que expedir la certificación correspondiente;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXIV. Presentar denuncias por hechos u omisiones que puedan constituir un delito cometido por los servidores públicos de la Comisión ante la Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción y cometidos por Servidores Públicos del Estado, así como conocer de las mismas y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXV. Implementar acciones para orientar a los servidores públicos en el desempeño de sus funciones, para estar con concordancia con el Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXVI. Valorar las recomendaciones que se le hagan a la Comisión, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Informar al secretario ejecutivo y al pleno de éstas, y si corresponde, sus avances y resultados;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXVII. Conocer de las quejas y denuncias que se presenten en contra de los servidores públicos de la Comisión y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXVIII. Intervenir en el proceso de entrega y recepción de las áreas administrativas de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXIX. Coadyuvar con el Pleno en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXX. Proporcionar al secretario ejecutivo y al Pleno la información que le sea requerida;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXXI. Rendir al Pleno, a través del secretario ejecutivo, el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXXII. Vigilar que las disposiciones establecidas en esta Ley sean aplicadas por las áreas administrativas del Instituto;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXXIII. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXXIV. Levantar actas administrativas a los servidores públicos de la Comisión por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa; y
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2018)</small>
+
+XXXV. Las demás que expresamente establezcan las leyes, las disposiciones aplicables y las que le sean asignadas por el Pleno en lo que no contravenga la Ley.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2018)</small>
+
+###### Artículo 28 Bis.
+
+El contralor interno de la Comisión Estatal para la Atención y Protección de los Periodistas, para su designación, debe reunir los requisitos siguientes:
+
+I. Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
+
+II. Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
+
+III. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco años en actividades afines y poseer, preferentemente estudios de postgrado; y
+
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 > <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
 
@@ -1286,3 +1424,13 @@ Primero. Las reformas al Reglamento Interior de la Comisión Estatal para la ate
 Segundo. Se instruye al Secretario Ejecutivo para que se publique en la Gaceta Oficial del estado y en el Portal de Transparencia del sitio en Internet de la Comisión Estatal para la Atención y Protección de los Periodistas.
 
 Tercero. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 19 DE ENERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO CEAPP/PLENO/SO-01/11-01-2018, POR EL CUAL SE APRUEBA EL PROYECTO DE REFORMA Y ADHESIÓN AL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE L0OS PERIODISTAS, RELATIVO A LA CONTRALORÍA INTERNA.”]</small>
+
+Primero. Se aprueba el proyecto de reforma y adhesión al Reglamento Interior de la Comisión Estatal para la Atención y Protección de los Periodistas, mediante el cual se reforma la fracción V del artículo 28; se adicionan un segundo párrafo al artículo 27, las fracciones VI a la XXXV al artículo 28, y el artículo 28 Bis, relativo a la Contraloría Interna.
+
+Segundo. Se instruye al Secretario Ejecutivo, para que se publique en la Gaceta Oficial del Estado y el Portal de Transparencia del sitio de Internet de la Comisión Estatal para la Atención y Protección de los Periodistas.
+
+Tercero. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación.
