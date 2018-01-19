@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2017-06-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -48,9 +48,11 @@ LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES.
 
 ### CAPÍTULO I. DEL OBJETO
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 1o.
 
-La presente Ley es de orden público e interés social, reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción; del 73 fracción XXIX-L para establecer las bases para el ejercicio de las atribuciones que en la materia corresponden a la federación, las entidades federativas y los municipios, bajo el principio de concurrencia y con la participación de los productores pesqueros, así como de las demás disposiciones previstas en la propia Constitución que tienen como fin propiciar el desarrollo integral y sustentable de la pesca y la acuacultura.
+La presente Ley es de orden público e interés social, reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción; del 73 fracción XXIX-L para establecer las bases para el ejercicio de las atribuciones que en la materia corresponden a la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia y con la participación de los productores pesqueros, así como de las demás disposiciones previstas en la propia Constitución que tienen como fin propiciar el desarrollo integral y sustentable de la pesca y la acuacultura.
 
 ###### ARTÍCULO 2o.
 
@@ -216,9 +218,11 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 ### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 6o.
 
-La Federación, las Entidades Federativas, el Distrito Federal y los Municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
+La Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
 
 ###### ARTÍCULO 7o.
 
@@ -348,9 +352,11 @@ IV. Las demás que establezcan otras disposiciones y que se relacionen directame
 
 ### CAPÍTULO II. DE LA COORDINACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios, asuman las siguientes funciones:
+Para la consecución de los objetivos de la presente Ley, la Secretaría podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de que éstas, con la participación, en su caso, de sus municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, asuman las siguientes funciones:
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
@@ -364,9 +370,11 @@ V. La realización de acciones operativas tendientes a cumplir con los fines pre
 
 VI. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y el Distrito Federal deberán sujetarse a lo siguiente:
+Los convenios y acuerdos de coordinación que suscriba la Federación, por conducto de la Secretaría, con los gobiernos de las entidades federativas, con la participación, en su caso, de sus municipios y las demarcaciones territoriales de la Ciudad de México deberán sujetarse a lo siguiente:
 
 I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la política nacional de pesca y acuacultura sustentables;
 
@@ -382,11 +390,15 @@ Los convenios y acuerdos de coordinación, así como sus modificaciones, deberá
 
 ### CAPÍTULO III. DE LA CONCURRENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
 Corresponden a los gobiernos de las Entidades Federativas, en el ámbito de su competencia de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
 
-I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan de Desarrollo de la entidad federativa;
 
 II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado con la Secretaría en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
 
@@ -394,11 +406,17 @@ III. Celebrar convenios o acuerdos de coordinación y colaboración con el gobie
 
 IV. Participar con las dependencias competentes de la Administración Pública Federal en la elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables;
 
-V. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas y participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-VI. Establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola, de conformidad con las disposiciones legales aplicables, así como integrar y operar el sistema estadístico pesquero y acuícola estatal y proporcionar la información estadística local a las autoridades federales competentes para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;
+V. Integrar el Consejo de Pesca y Acuacultura de la entidad federativa para promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas y participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
 
-VII. Establecer, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. Establecer, operar y mantener actualizado el Sistema de la entidad federativa de Información Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola, de conformidad con las disposiciones legales aplicables, así como integrar y operar el sistema estadístico pesquero y acuícola estatal y proporcionar la información estadística local a las autoridades federales competentes para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII. Establecer, operar y mantener actualizado el Registro de la entidad federativa de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables;
 
 VIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola;
 
@@ -434,37 +452,49 @@ g) Participar con las dependencias competentes de la Administración Pública Fe
 
 XVI. El ejercicio de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-XVII. Coordinarse con la Federación, sus Municipios y con otras Entidades Federativas en materia de pesca y acuacultura sustentables, para la implementación de acciones para la mitigación y adaptación al cambio climático, y
+XVII. Coordinarse con la Federación, con otras Entidades Federativas, con sus Municipios o, en su caso, con las demarcaciones territoriales de la Ciudad de México en materia de pesca y acuacultura sustentables, para la implementación de acciones para la mitigación y adaptación al cambio climático, y
 
 XVIII. Las demás que no estén otorgadas expresamente a la Federación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponden a los Municipios en el ámbito de su competencia y de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
+Corresponden a los Municipios en el ámbito de su competencia y, en su caso, a las demarcaciones territoriales de la Ciudad de México, y de conformidad con lo dispuesto en esta Ley y lo que establezcan las leyes locales en la materia, las siguientes facultades:
 
-I. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II. Participar en la integración del Sistema Estatal de Información Pesquera y Acuícola y del Registro Estatal de Pesca y Acuacultura;
+I. Diseñar y aplicar la política y los programas locales para la pesca y la acuacultura, vinculándolos con los programas nacionales, de las entidades federativas y regionales;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Participar en la integración del Sistema de Información Pesquera y Acuícola y del Registro de Pesca y Acuacultura, ambos de la entidad federativa;
 
 III. Promover mecanismos de participación pública en el manejo y conservación de los recursos pesqueros y acuícolas;
 
-IV. Proponer a través del Consejo Estatal de Pesca y Acuacultura, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Proponer a través del Consejo de Pesca y Acuacultura de la entidad federativa, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
 
 V. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
 
-VI. En coordinación con el gobierno estatal, participar en las acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. En coordinación con el gobierno de la entidad federativa, participar en las acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local;
 
 VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad; y
 
 VIII. Participar, de conformidad con los acuerdos y convenios que se celebren con las autoridades competentes, en la inspección y vigilancia en su jurisdicción.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-Los Congresos de los Estados, con arreglo a sus respectivas Constituciones y la Asamblea Legislativa del Distrito Federal, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento.
+Las legislaturas de las entidades federativas, con arreglo a sus respectivas Constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Los ayuntamientos, por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que, en sus respectivas circunscripciones, se cumplan las previsiones del presente ordenamiento y, en su caso, las demarcaciones territoriales de la Ciudad de México.
 
-En el ejercicio de sus atribuciones, los Estados, el Distrito Federal y los Municipios, observarán las disposiciones de esta Ley y las que de ella se deriven.
+En el ejercicio de sus atribuciones, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, observarán las disposiciones de esta Ley y las que de ella se deriven.
 
 ###### ARTÍCULO 16.
 
@@ -672,7 +702,9 @@ La existencia del fondo no limita la creación de diversos fondos privados o soc
 
 El Fondo Mexicano para el Desarrollo Pesquero y Acuícola se podrá integrar con:
 
-I. Las aportaciones que efectúen los gobiernos federal, estatales, del Distrito Federal y municipales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Las aportaciones que efectúen los gobiernos federal, de las entidades federativas y municipales;
 
 II. Créditos y apoyos de organismos nacionales e internacionales;
 
@@ -728,7 +760,9 @@ VI. Dar asesoramiento científico y técnico a los pescadores y acuicultores, qu
 
 VII. Apoyar, desarrollar y promover la transferencia de los resultados de la investigación y de la tecnología generada por el Instituto de forma accesible a los productores pesqueros y acuícolas;
 
-VIII. Formular estudios y propuestas para el ordenamiento de la actividad pesquera y acuícola en coordinación con centros de investigación, universidades, autoridades federales, de los gobiernos de las entidades federativas y del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Formular estudios y propuestas para el ordenamiento de la actividad pesquera y acuícola en coordinación con centros de investigación, universidades, autoridades federales y de los gobiernos de las entidades federativas;
 
 IX. Coadyuvar en la realización de análisis de riesgo sobre la introducción, establecimiento y diseminación de plagas y enfermedades acuícolas;
 
@@ -1232,9 +1266,11 @@ VII. Fomentar la transferencia y uso de tecnología en los procesos de producci�
 
 La Secretaría, regulará el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones o permisos por especie o grupos de especies.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 80.
 
-El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, el Distrito Federal y los Municipios, de acuerdo a la distribución de competencias establecidas en esta Ley.
+El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de competencias establecidas en esta Ley.
 
 ###### ARTÍCULO 81.
 
@@ -2181,3 +2217,11 @@ D.O.F. 19 DE JUNIO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto al Instituto Nacional de Pesca, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas al Instituto Nacional de Pesca y Acuacultura.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO SÉPTIMO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
