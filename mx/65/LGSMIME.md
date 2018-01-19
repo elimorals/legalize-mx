@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2014-05-23"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -104,7 +104,9 @@ Artículo 4
 
 Artículo 5
 
-1. Las autoridades federales, estatales, municipales y del Distrito Federal, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2 del artículo 3, no cumplan las disposiciones de esta ley o desacaten las resoluciones que dicte el Tribunal Electoral, serán sancionados en los términos del presente ordenamiento.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+1. Las autoridades federales, de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el párrafo 2 del artículo 3, no cumplan las disposiciones de esta ley o desacaten las resoluciones que dicte el Tribunal Electoral, serán sancionados en los términos del presente ordenamiento.
 
 ## TITULO SEGUNDO. De las reglas comunes aplicables a los medios de impugnación
 
@@ -332,7 +334,7 @@ Artículo 16
 
 ### CAPITULO VIII. Del trámite
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 17
 
@@ -368,7 +370,7 @@ g) Hacer constar el nombre y la firma autógrafa del compareciente.
 
 6. Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en el inciso f) del párrafo 4 de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 18
 
@@ -386,7 +388,7 @@ e) El informe circunstanciado; y
 
 f) Cualquier otro documento que estime necesario para la resolución del asunto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 2. El informe circunstanciado que debe rendir la autoridad u órgano partidista responsable, por lo menos deberá contener:
 
@@ -422,7 +424,7 @@ f) Cerrada la instrucción, el magistrado electoral procederá a formular el pro
 
 3. Para la sustanciación de los recursos de revisión se aplicarán las reglas contenidas en el Capítulo III del Título Segundo del Libro Segundo de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 20
 
@@ -476,7 +478,7 @@ Artículo 23
 
 3. En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el órgano competente del Instituto o la Sala del Tribunal Electoral resolverán tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 24
 
@@ -572,7 +574,7 @@ Artículo 31
 
 2. La acumulación podrá decretarse al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ### CAPITULO XIII. Del cumplimiento y ejecución de las resoluciones de las Salas del Tribunal, de las medidas de apremio y de las correcciones disciplinarias
 
@@ -732,7 +734,7 @@ Artículo 43 Ter
 
 ### CAPITULO II. De la competencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 44
 
@@ -1144,7 +1146,9 @@ Artículo 70
 
 1. Las sentencias recaídas a los recursos de reconsideración serán notificadas:
 
-a) Al partido político o candidato que interpuso el recurso y a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en el Distrito Federal o en la ciudad sede de la Sala cuya sentencia fue impugnada. En cualquier otro caso, la notificación se hará por estrados;
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+a) Al partido político o candidato que interpuso el recurso y a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en la Ciudad de México o en la ciudad sede de la Sala cuya sentencia fue impugnada. En cualquier otro caso, la notificación se hará por estrados;
 
 b) Al Consejo General del Instituto Federal Electoral, por oficio acompañado de copia certificada de la sentencia a más tardar al día siguiente al en que se dictó; y
 
@@ -1204,7 +1208,7 @@ j) Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 k) Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ### CAPITULO III. De la nulidad de las elecciones federales
 
@@ -1342,39 +1346,53 @@ Artículo 83
 
 a) La Sala Superior, en única instancia:
 
-I. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en relación con las elecciones de Presidente Constitucional de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno del Distrito Federal y en las elecciones federales de diputados y senadores por el principio de representación proporcional;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en relación con las elecciones de Presidente Constitucional de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno de la Ciudad de México y en las elecciones federales de diputados y senadores por el principio de representación proporcional;
 
 II. En los casos señalados en los incisos e) y g) del párrafo 1 del artículo 80 de esta ley;
 
-III. En el caso señalado en el inciso f) del párrafo 1 del artículo 80 de esta ley, cuando se trate de la violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de Presidente de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno del Distrito Federal, diputados federales y senadores de representación proporcional, y dirigentes de los órganos nacionales de dichos institutos, así como en los conflictos internos de los partidos políticos cuyo conocimiento no corresponda a las Salas Regionales, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IV. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a la elección de Gobernadores o Jefe de Gobierno del Distrito Federal.
+III. En el caso señalado en el inciso f) del párrafo 1 del artículo 80 de esta ley, cuando se trate de la violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de Presidente de los Estados Unidos Mexicanos, Gobernadores, Jefe de Gobierno de la Ciudad de México, diputados federales y senadores de representación proporcional, y dirigentes de los órganos nacionales de dichos institutos, así como en los conflictos internos de los partidos políticos cuyo conocimiento no corresponda a las Salas Regionales, y
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a la elección de Gobernadores o Jefe de Gobierno de la Ciudad de México.
 
 b) La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia:
 
 I. En los supuestos previstos en los incisos a) al c) del párrafo 1 del artículo 80, cuando sean promovidos con motivo de procesos electorales federales o de las entidades federativas.
 
-II. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en las elecciones federales de diputados y senadores por el principio de mayoría relativa, y en las elecciones de autoridades municipales, diputados locales, así como a la Asamblea Legislativa del Distrito Federal y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. En los casos señalados en el inciso d) del párrafo 1 del artículo 80 de esta ley, en las elecciones federales de diputados y senadores por el principio de mayoría relativa, y en las elecciones de autoridades municipales, diputados locales y titulares de los órganos político-administrativos en las demarcaciones territoriales de la Ciudad de México;
 
 III. La violación al derecho de ser votado en las elecciones de los servidores públicos municipales diversos a los electos para integrar el ayuntamiento;
 
-IV. La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de diputados federales y senadores por el principio de mayoría relativa, diputados a la Asamblea Legislativa del Distrito Federal, en las elecciones de autoridades municipales, diputados locales, y de los titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal; y dirigentes de los órganos de dichos institutos distintos a los nacionales, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-V. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a las elecciones de autoridades municipales, diputados locales, diputados a la Asamblea Legislativa del Distrito Federal y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal.
+IV. La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de diputados federales y senadores por el principio de mayoría relativa, diputados a la Legislatura de la Ciudad de México, en las elecciones de autoridades municipales, diputados locales, y de los titulares de los órganos político-administrativos en las demarcaciones territoriales de la Ciudad de México; y dirigentes de los órganos de dichos institutos distintos a los nacionales, y
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. En el supuesto previsto en el inciso b) del párrafo 1 del artículo 82 de esta ley cuando se refiere a las elecciones de autoridades municipales, diputados locales y titulares de los órganos político-administrativos en las demarcaciones territoriales de la Ciudad de México.
 
 ### CAPITULO III. De las sentencias y de las notificaciones
 
 Artículo 84
 
-1. Las sentencias que resuelvan el fondo del juicio para la protección de los derechos político–electorales del ciudadano, serán definitivas e inatacables y podrán tener los efectos siguientes:
+1. Las sentencias que resuelvan el fondo del juicio para la protección de los derechos político-electorales del ciudadano, serán definitivas e inatacables y podrán tener los efectos siguientes:
 
 a) Confirmar el acto o resolución impugnado; y
 
-b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político–electoral que le haya sido violado.
+b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
 
-2. Las sentencias recaídas a los juicios para la protección de los derechos político–electorales de los ciudadanos serán notificadas:
+2. Las sentencias recaídas a los juicios para la protección de los derechos político-electorales de los ciudadanos serán notificadas:
 
-a) Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal o en la ciudad sede de la Sala competente. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+a) Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en la Ciudad de México o en la ciudad sede de la Sala competente. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -1416,9 +1434,13 @@ Artículo 87
 
 1. Son competentes para resolver el juicio de revisión constitucional electoral:
 
-a) La Sala Superior del Tribunal Electoral, en única instancia, en los términos previstos en el artículo anterior de esta ley, tratándose de actos o resoluciones relativos a las elecciones de Gobernador y de Jefe de Gobierno del Distrito Federal, y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-b) La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia, cuando se trate de actos o resoluciones relativos a las elecciones de autoridades municipales, diputados locales, así como a la Asamblea Legislativa y titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal.
+a) La Sala Superior del Tribunal Electoral, en única instancia, en los términos previstos en el artículo anterior de esta ley, tratándose de actos o resoluciones relativos a las elecciones de Gobernador y de Jefe de Gobierno de la Ciudad de México, y
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+b) La Sala Regional del Tribunal Electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia, cuando se trate de actos o resoluciones relativos a las elecciones de autoridades municipales, diputados locales y titulares de los órganos político-administrativos en las demarcaciones territoriales de la Ciudad de México.
 
 ### CAPITULO III. De la legitimación y de la personería
 
@@ -1448,7 +1470,7 @@ Artículo 90
 
 1. La autoridad electoral que reciba el escrito por el que se promueva el juicio lo remitirá de inmediato a la Sala competente del Tribunal Electoral, junto con sus anexos, el expediente completo en que se haya dictado el acto o resolución impugnado y el informe circunstanciado que, en lo conducente, deberá reunir los requisitos previstos por el párrafo 2 del artículo 18, y bajo su más estricta responsabilidad y sin dilación alguna, dará cumplimiento a las obligaciones señaladas en el párrafo 1 del artículo 17, ambos del presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 91
 
@@ -1472,9 +1494,9 @@ b) Revocar o modificar el acto o resolución impugnado y, consecuentemente, prov
 
 2. Las sentencias recaídas a los juicios de revisión constitucional electoral serán notificadas:
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-a) Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar al día siguiente al que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal o en la ciudad donde tenga su sede la Sala Regional respectiva, según que la sentencia haya sido dictada por la Sala Superior o por alguna de las Salas Regionales. En cualquier otro caso, la notificación se hará por correo certificado, y
+a) Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar al día siguiente al que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en la Ciudad de México o en la ciudad donde tenga su sede la Sala Regional respectiva, según que la sentencia haya sido dictada por la Sala Superior o por alguna de las Salas Regionales. En cualquier otro caso, la notificación se hará por correo certificado, y
 
 b) A la autoridad responsable, por oficio acompañado de copia certificada de la sentencia, a más tardar al día siguiente al en que se dictó la sentencia.
 
@@ -1514,7 +1536,7 @@ f) La equidad.
 
 ### CAPITULO UNICO. Del trámite, de la sustanciación y de la resolución
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 96
 
@@ -1580,7 +1602,7 @@ Artículo 105
 
 1. Para la sustanciación y resolución de los juicios previstos en el presente Libro que se promuevan durante los procesos electorales ordinarios y, en su caso, en los procesos de elecciones extraordinarias, el Presidente de la Sala competente del Tribunal Electoral podrá adoptar las medidas que estime pertinentes, a fin de que, en su caso, se atienda prioritariamente la sustanciación y resolución de los medios de impugnación previstos en los Libros Segundo, Tercero y Cuarto de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 Artículo 106
 
@@ -1660,7 +1682,7 @@ Los juicios de inconformidad relativos a la elección del Jefe de Gobierno del D
 
 Cuarto.- Si a la entrada en vigor de la presente ley se encuentra en trámite cualquier medio de impugnación ante el Tribunal Electoral, será resuelto conforme a las normas vigentes al momento de su interposición.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 1 DE JULIO DE 2008.
 
@@ -1693,3 +1715,9 @@ SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentre
 TERCERO. Todas las referencias al Instituto Federal Electoral contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral deberán entenderse realizadas al Instituto Nacional Electoral.
 
 CUARTO. Todas las referencias al Código Federal de Instituciones y Procedimientos Electorales contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral deberán entenderse a la Ley General de Instituciones y Procedimientos Electorales y a la Ley General de Partidos Políticos según corresponda.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SEXTO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
