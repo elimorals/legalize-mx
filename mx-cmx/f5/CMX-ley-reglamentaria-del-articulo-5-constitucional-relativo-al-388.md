@@ -4,7 +4,7 @@ identifier: "CMX-ley-reglamentaria-del-articulo-5-constitucional-relativo-al-388
 country: "mx"
 rank: "ley"
 publication_date: "1945-05-26"
-last_updated: "2010-08-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=388&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1944-12-30"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 5°. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MEXICO -- ANTES LEY REGLAMENTARIA DEL ARTICULO 5° CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL -- ANTES -- LEY REGLAMENTARIA DE LOS ARTICULOS 4° Y 5° CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS
 
-LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 26 de mayo de 1945.
 
@@ -36,9 +36,9 @@ D E C R E T O :
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
 
-LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MÉXICO
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE ENERO DE 1974)</small>
 
@@ -74,11 +74,11 @@ Para el ejercicio de una o varias especialidades, se requiere autorización de l
 
 En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, la presente Ley será interpretada en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a esta Ley, y a las leyes que regulen su actividad, en lo que no se oponga a este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 7°.
 
-Las disposiciones de esta ley regirán en el Distrito Federal en asuntos de orden común, y en toda la República en asuntos de orden federal.
+Las disposiciones de esta ley regirán en la Ciudad de México en asuntos de orden común, y en toda la República en asuntos de orden federal.
 
 ### CAPITULO II. Condiciones que deben llenarse para obtener un título profesional
 
@@ -96,9 +96,9 @@ Para que pueda registrarse un título profesional expedido por institución que 
 
 ### CAPITULO III. Instituciones autorizadas que deben expedir los títulos profesionales
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. DE 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
 
-#### SECCION I. Títulos expedidos en el Distrito Federal
+#### SECCIÓN I. Títulos expedidos en la Ciudad de México
 
 > <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
@@ -110,41 +110,55 @@ Las instituciones que impartan educación profesional deberán cumplir los requi
 
 Sólo las instituciones a que se refiere el artículo anterior están autorizadas para expedir títulos profesionales de acuerdo con sus respectivos ordenamientos.
 
-#### SECCION II. Títulos profesionales expedidos por las autoridades de un Estado con sujeción a sus leyes
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
+
+#### SECCIÓN II. Títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes
 
 ###### ARTICULO 12.
 
 Los títulos profesionales expedidos por las autoridades de un Estado, serán registrados, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del artículo 121 de la Constitución.
 
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 13.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, podrá celebrar convenios de coordinación con los gobiernos de los estados para la unificación del registro profesional, de acuerdo con las siguientes bases:
+El Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas para la unificación del registro profesional, de acuerdo con las siguientes bases:
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 I.- Instituir un solo servicio para el registro de títulos profesionales;
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II.- Reconocer para el ejercicio profesional en los Estados, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en el Distrito Federal las cédulas expedidas por los Estados;
+II.- Reconocer para el ejercicio profesional en las entidades federativas, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en la Ciudad de México las cédulas expedidas por los Estados.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
+
 IV.- Intercambiar la información que se requiera; y
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
 V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 14.
 
-Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellos Estados que no tengan los planteles profesionales correspondientes.
+Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellas entidades federativas que no tengan los planteles profesionales correspondientes.
 
 #### SECCION III. Registro de títulos expedidos en el extranjero
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 15.
 
-Los extranjeros podrán ejercer en el Distrito Federal las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte.
+Los extranjeros podrán ejercer en la Ciudad de México las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 Cuando no hubiere tratado en la materia, el ejercicio profesional de los extranjeros estará sujeto a la reciprocidad en el lugar de residencia del solicitante y al cumplimiento de los demás requisitos establecidos por las leyes mexicanas.
 
@@ -226,11 +240,11 @@ XV.- Las demás que le fijen las leyes y reglamentos.
 
 Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 25.
 
-Para ejercer en el Distrito Federal cualquiera de las profesiones a que se refieren los Artículos 2o. y 3o., se requiere:
+Para ejercer en la Ciudad de México cualquiera de las profesiones a que se refieren los Artículos 2o. y 3o., se requiere:
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -336,11 +350,11 @@ Para los efectos a que se contrae la fracción VII del artículo 23 de esta Ley,
 
 ### CAPITULO VI. De los colegios de profesionistas
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 44.
 
-Todos los profesionales de una misma rama podrán constituir en el Distrito Federal uno o varios colegios, sin que excedan de cinco por cada rama profesional, gobernados por un Consejo compuesto por un presidente, un vicepresidente, dos secretarios propietarios y dos suplentes, un tesorero y un subtesorero, que durarán dos años en el ejercicio de su encargo.
+Todos los profesionales de una misma rama podrán constituir en la Ciudad de México uno o varios colegios, sin que excedan de cinco por cada rama profesional, gobernados por un Consejo compuesto por un presidente, un vicepresidente, dos secretarios propietarios y dos suplentes, un tesorero y un subtesorero, que durarán dos años en el ejercicio de su encargo.
 
 ###### ARTICULO 45.
 
@@ -743,3 +757,9 @@ D.O.F. 19 DE AGOSTO DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las acciones que, en su caso, deba realizar la Secretaría de Educación Pública para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO PRIMERO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
