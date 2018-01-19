@@ -4,7 +4,7 @@ identifier: "LSNIEG"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-16"
-last_updated: "2017-01-27"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSNIEG"
 
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de abril de 2008.
 
@@ -92,7 +92,9 @@ a) Las dependencias y entidades de la Administración Pública Federal, incluyen
 
 b) Los poderes Legislativo y Judicial de la Federación;
 
-c) Las entidades federativas y los municipios;
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+c) Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México;
 
 d) Los organismos constitucionales autónomos, y
 
@@ -132,9 +134,11 @@ II. Los Subsistemas Nacionales de Información, y
 
 III. El Instituto.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 6.
 
-La Información de Interés Nacional será oficial y de uso obligatorio para la Federación, los estados, el Distrito Federal y los municipios.
+La Información de Interés Nacional será oficial y de uso obligatorio para la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
 
 Sin perjuicio de lo señalado en el párrafo anterior, las Unidades podrán producir y dar a conocer información pública oficial adicional a la Información de Interés Nacional.
 
@@ -226,7 +230,9 @@ Las entidades federativas que integren el Consejo Consultivo Nacional serán ele
 
 a) GRUPO SUR - SURESTE: Campeche, Chiapas, Oaxaca, Quintana Roo, Tabasco, Veracruz y Yucatán.
 
-b) GRUPO CENTRO: Distrito Federal y Estado de México.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+b) GRUPO CENTRO: Ciudad de México y Estado de México.
 
 c) GRUPO CENTRO - NORTE: Aguascalientes, Colima, Durango, Guanajuato, Jalisco, Nayarit, San Luis Potosí y Zacatecas.
 
@@ -340,9 +346,11 @@ III. Los registros administrativos que permitan obtener Información en la mater
 
 #### SECCIÓN III. Del Subsistema Nacional de Información Geográfica y del Medio Ambiente
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
-El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia geodésico; límites costeros, internacionales, estatales y municipales; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, así como nombres geográficos. A este componente también se le denominará Infraestructura de Datos Espaciales de México.
+El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, así como nombres geográficos. A este componente también se le denominará Infraestructura de Datos Espaciales de México.
 
 ###### ARTÍCULO 27.
 
@@ -566,9 +574,11 @@ La participación y colaboración de los habitantes de la República en el levan
 
 Los propietarios, poseedores o usufructuarios de predios ubicados en el territorio nacional, prestarán apoyo en los trabajos de campo que realicen las autoridades para captar Información.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 46.
 
-Las Unidades estarán obligadas a respetar la confidencialidad y reserva de los datos que para fines estadísticos proporcionen los Informantes del Sistema. Los servidores públicos de la Federación, de las entidades federativas y de los municipios, tendrán la obligación de proporcionar la información básica que hubieren obtenido en el ejercicio de sus funciones y sirva para generar Información de Interés Nacional, que les solicite el Instituto en los términos de la presente Ley. Lo anterior, con excepción de los secretos bancario, fiduciario y bursátil, no será violatorio de la confidencialidad o reserva que se establezca en otras disposiciones.
+Las Unidades estarán obligadas a respetar la confidencialidad y reserva de los datos que para fines estadísticos proporcionen los Informantes del Sistema. Los servidores públicos de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán la obligación de proporcionar la información básica que hubieren obtenido en el ejercicio de sus funciones y sirva para generar Información de Interés Nacional, que les solicite el Instituto en los términos de la presente Ley. Lo anterior, con excepción de los secretos bancario, fiduciario y bursátil, no será violatorio de la confidencialidad o reserva que se establezca en otras disposiciones.
 
 El registro o recolección de los datos que, en cumplimiento de esta Ley, deban proporcionar los Informantes del Sistema, no prejuzga sobre los derechos de propiedad intelectual, industrial o de otro tipo que se originen en los trabajos de investigación científica de carácter estadístico, geográfico o de otra materia, que los mencionados Informantes del Sistema realicen y que son regulados por la legislación respectiva.
 
@@ -720,7 +730,9 @@ I. Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las enti
 
 II. Los organismos constitucionales autónomos;
 
-III. Las autoridades municipales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Las autoridades municipales y de las demarcaciones territoriales de la Ciudad de México;
 
 IV. Las Unidades del Estado;
 
@@ -740,9 +752,13 @@ II. El Ejecutivo Federal en caso de que se requiera Información para prevenir y
 
 Previo cumplimiento de las formalidades legales y administrativas correspondientes y del acuerdo favorable de su Junta de Gobierno, el Instituto podrá brindar el apoyo que le soliciten:
 
-I. Los poderes Legislativo y Judicial federales y legislativos de las entidades federativas, en la definición de límites estatales y municipales, así como asesorar y apoyar a esos poderes en la identificación física de tales límites;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II. El Congreso de la Unión, los gobiernos de los estados, el Distrito Federal, así como las autoridades competentes para el levantamiento geodésico y para realizar el registro de los límites territoriales, conforme a las disposiciones aplicables, y
+I. Los poderes Legislativo y Judicial federales y legislativos de las entidades federativas, en la definición de límites de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, así como asesorar y apoyar a esos poderes en la identificación física de tales límites;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. El Congreso de la Unión, los gobiernos de las entidades federativas, así como las autoridades competentes para el levantamiento geodésico y para realizar el registro de los límites territoriales, conforme a las disposiciones aplicables, y
 
 III. Las autoridades locales, para la organización de los catastros de los municipios y para la realización del levantamiento geodésico de los límites aceptados o reconocidos de los estados.
 
@@ -890,9 +906,9 @@ En aquellos casos en los que se deba recabar la opinión previa de los órganos 
 
 Además de los temas señalados en las fracciones I a III del artículo 59 del presente ordenamiento, sólo podrá considerarse Información de Interés Nacional para efectos de esta Ley, la que satisfaga los cuatro criterios siguientes:
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-I. Se trate de los siguientes temas, grupos de datos o indicadores: población y dinámica demográfica; salud; educación; empleo; distribución de ingreso y pobreza; seguridad pública e impartición de justicia; gobierno; vivienda; sistema de cuentas nacionales; información financiera; precios; trabajo; ciencia y tecnología; telecomunicaciones y radiodifusión; atmósfera; biodiversidad; agua; suelo; flora; fauna; residuos peligrosos y residuos sólidos; marco de referencia geodésico; límites costeros, internacionales, estatales y municipales; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, y nombres geográficos, o bien se trate de temas que sean aprobados por unanimidad por el Consejo Consultivo Nacional, incluyendo aquéllos que deban conocer los Subsistemas a que se refiere el último párrafo del artículo 17 de este ordenamiento;
+I. Se trate de los siguientes temas, grupos de datos o indicadores: población y dinámica demográfica; salud; educación; empleo; distribución de ingreso y pobreza; seguridad pública e impartición de justicia; gobierno; vivienda; sistema de cuentas nacionales; información financiera; precios; trabajo; ciencia y tecnología; telecomunicaciones y radiodifusión; atmósfera; biodiversidad; agua; suelo; flora; fauna; residuos peligrosos y residuos sólidos; marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, y nombres geográficos, o bien se trate de temas que sean aprobados por unanimidad por el Consejo Consultivo Nacional, incluyendo aquéllos que deban conocer los Subsistemas a que se refiere el último párrafo del artículo 17 de este ordenamiento;
 
 II. Resulte necesaria para sustentar el diseño y la evaluación de las políticas públicas de alcance nacional;
 
@@ -1785,3 +1801,9 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
