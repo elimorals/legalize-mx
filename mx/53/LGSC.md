@@ -4,7 +4,7 @@ identifier: "LGSC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-08-03"
-last_updated: "2009-08-13"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSC"
 
 LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de agosto de 1994.
 
@@ -134,19 +134,27 @@ IV.- Tendrán duración indefinida, y
 
 V.- Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 12.
 
-La constitución de las sociedades cooperativas deberá realizarse en asamblea general que celebren los interesados, y en la que se levantara una acta que contendrá:
+La constitución de las sociedades cooperativas deberá realizarse en asamblea general que celebren los interesados, y en la que se levantará un acta que contendrá:
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
 I. Datos generales de los fundadores;
 
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+
 II. Nombre de las personas que hayan resultado electas para integrar por primera vez consejos y comisiones, y
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
 III. Las bases constitutivas.
 
-Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, ante notario público, corredor público, juez de distrito, juez de primera instancia en la misma materia del fuero común, presidente municipal, secretario, delegado municipal o titular de los órganos político-administrativos del Distrito Federal, del lugar en donde la sociedad cooperativa tenga su domicilio.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, ante notario público, corredor público, juez de distrito, juez de primera instancia en la misma materia del fuero común, presidente municipal, secretario, delegado municipal o titular de los órganos político-administrativos de la Ciudad de México, del lugar en donde la sociedad cooperativa tenga su domicilio.
 
 ###### Artículo 13.
 
@@ -276,11 +284,11 @@ II.- De participación estatal. Para tal efecto, el Estado podrá dar en concesi
 
 Son sociedades cooperativas ordinarias, las que para funcionar requieren únicamente de su constitución legal.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 32.
 
-Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, estatales, municipales o los órganos político-administrativos del Distrito Federal, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
+Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, de las entidades federativas, municipales o los órganos político-administrativos de la Ciudad de México, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
 
 > <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
@@ -478,7 +486,9 @@ VI. No haber celebrado con la Cooperativa, directa o indirectamente, contratos d
 
 VII. No desempeñar un cargo público de elección popular o de dirigencia partidista;
 
-VIII. No estar inhabilitado para ejercer cualquier cargo, comisión o empleo en el servicio público federal, estatal o municipal, o en el sistema financiero Mexicano;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. No estar inhabilitado para ejercer cualquier cargo, comisión o empleo en el servicio público federal, de las entidades federativas o municipal, o en el sistema financiero mexicano;
 
 IX. No tener parentesco por consanguinidad hasta el primer grado, afinidad hasta el segundo grado, o civil con el director o gerente general, o con alguno de los miembros del Consejo de Administración o de vigilancia de la Cooperativa, y
 
@@ -1118,37 +1128,39 @@ VI.- Realizar en común cualquier acto de comercio, desarrollo tecnológico o cu
 
 Las sociedades cooperativas, uniones, federaciones y confederaciones, podrán efectuar operaciones libremente ya sea en forma individual o en conjunto. El Consejo Superior del Cooperativismo y en su caso las autoridades respectivas, darán toda la orientación y apoyo necesario para esta clase de operaciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 89.
 
-Los organismos cooperativos deberán colaborar en los planes económico-sociales que realicen los gobiernos federal, estatal, municipal o los órganos político-administrativos del Distrito Federal y que beneficien o impulsen de manera directa el desarrollo cooperativo.
+Los organismos cooperativos deberán colaborar en los planes económico-sociales que realicen los gobiernos federal, de las entidades federativas, municipal o demarcaciones territoriales de la
+
+Ciudad de México y que beneficien o impulsen de manera directa el desarrollo cooperativo.
 
 ## Título IV
 
 ### Capítulo Unico. Del apoyo a las sociedades cooperativas
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 90.
 
-Los órganos federal, estatal, municipal y órganos político-administrativos del Distrito Federal, apoyarán a las escuelas, institutos y organismos especializados en educación cooperativa que establezca el movimiento cooperativo nacional. Asimismo, apoyarán, la labor que en este sentido realicen las universidades o instituciones de educación superior en el país.
+Los órganos federal, de las entidades federativas, municipal y las demarcaciones territoriales de la Ciudad de México, apoyarán a las escuelas, institutos y organismos especializados en educación cooperativa que establezca el movimiento cooperativo nacional. Asimismo, apoyarán, la labor que en este sentido realicen las universidades o instituciones de educación superior en el país.
 
 ###### Artículo 91.
 
 Todos los actos relativos a la constitución y registro de las sociedades cooperativas citados en esta Ley, estarán exentos de impuestos y derechos fiscales de carácter federal. Para este efecto, la autoridad competente expedirá las resoluciones fiscales que al efecto procedan.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 92.
 
-En los programas económicos o financieros de los gobiernos, federal, estatal, municipal y los órganos político-administrativos del Distrito Federal, que incidan en la actividad cooperativa mexicana, se deberá tomar en cuenta la opinión, según sea el caso, de las federaciones, uniones, confederaciones nacionales y del consejo superior del cooperativismo.
+En los programas económicos o financieros de los gobiernos, federal, de las entidades federativas, municipal y las demarcaciones territoriales de la Ciudad de México, que incidan en la actividad cooperativa mexicana, se deberá tomar en cuenta la opinión, según sea el caso, de las federaciones, uniones, confederaciones nacionales y del consejo superior del cooperativismo.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 93.
 
-Los gobiernos federal, estatal, municipal y los órganos político-administrativos del Distrito Federal, apoyarán, en el ámbito territorial a su cargo y en la medida de sus posibilidades, al desarrollo del cooperativismo.
+Los gobiernos federal, de las entidades federativas, municipal y las demarcaciones territoriales de la Ciudad de México, apoyarán, en el ámbito territorial a su cargo y en la medida de sus posibilidades, al desarrollo del cooperativismo.
 
 ###### Artículo 94.
 
@@ -1221,3 +1233,9 @@ CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan resp
 QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
