@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2017-11-30"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -500,15 +500,15 @@ El gobierno de cada entidad federativa promoverá la participación directa del 
 
 El gobierno de cada entidad federativa y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-Las atribuciones relativas a la educación inicial, básica -incluyendo la indígena- y especial que los artículos 11, 13, 14 y demás señalan para las autoridades educativas locales en sus respectivas competencias, corresponderán, en el Distrito Federal al gobierno de dicho Distrito y a las entidades que, en su caso, establezca; dichas autoridades deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+Las atribuciones relativas a la educación inicial, básica -incluyendo la indígena- y especial que los artículos 11, 13, 14 y demás señalan para las autoridades educativas locales en sus respectivas competencias, corresponderán, en la Ciudad de México al gobierno local y a las entidades que, en su caso, establezca; dichas autoridades deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
-Los servicios de educación normal y demás para la formación de maestros de educación básica serán prestados, en el Distrito Federal, por la Secretaría.
+Los servicios de educación normal y demás para la formación de maestros de educación básica serán prestados, en la Ciudad de México, por la Secretaría.
 
-El gobierno del Distrito Federal concurrirá al financiamiento de los servicios educativos en el propio Distrito, en términos de los artículos 25 y 27.
+El gobierno de la Ciudad de México concurrirá al financiamiento de los servicios educativos en la propia entidad federativa, en términos de los artículos 25 y 27.
 
 ###### ARTICULO 17.
 
@@ -1364,13 +1364,15 @@ n) En general, podrá realizar actividades para apoyar y fortalecer la educació
 
 Será responsabilidad del presidente municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
-En el Distrito Federal los consejos se constituirán por cada delegación política.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+En la Ciudad de México los consejos se constituirán por cada una de sus demarcaciones territoriales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 71.
 
-En cada entidad federativa funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. Un órgano análogo se establecerá en el Distrito Federal. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad federativa especialmente interesados en la educación.
+En cada entidad federativa funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. Un órgano análogo se establecerá en la Ciudad de México. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad federativa especialmente interesados en la educación.
 
 Este consejo promoverá y apoyará entidades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar; sistematizará los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
@@ -1851,3 +1853,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Educación Pública deberá establecer las previsiones necesarias para que todo el material incluido en los libros de texto gratuitos cumpla con las disposiciones en materia de protección de la propiedad intelectual, derechos de autor y demás disposiciones que garanticen la seguridad jurídica de las obras.
 
 Tercero.- Los procedimientos de la publicación en plataformas digitales de los libros de texto gratuitos los fijará la Secretaría de Educación Pública, observando que su consulta esté disponible al inicio de cada año lectivo escolar en la página oficial de la Secretaría de Educación Pública y en los medios electrónicos o virtuales de comunicación que considere compatibles para la publicación del material educativo.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SÉPTIMO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
