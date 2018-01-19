@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2017-05-05"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -1061,7 +1061,9 @@ I. Realizar las acciones que le corresponden al Estado en materia de desarrollo 
 
 II. Coordinar, ejecutar y evaluar las políticas de desarrollo social para el combate a la pobreza en beneficio de grupos o familias en situación vulnerable o de marginación rural o urbana;
 
-III. Diseñar esquemas de participación social, de proyectos productivos y de apoyo a adultos mayores, a personas con capacidades diferentes, y a organizaciones no gubernamentales comprometidas con el desarrollo social;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+III. Elaborar y evaluar las políticas públicas orientadas a promover el desarrollo integral de los adultos mayores y de personas con discapacidad; así como diseñar esquemas de participación social, de proyectos productivos y de apoyo a estos sectores de la población y a organizaciones no gubernamentales comprometidas con el desarrollo social.
 
 IV. Impulsar programas en materia de salud, derechos humanos, educación, cultura, de atención a la familia y de atención a la farmacodependencia, violencia intrafamiliar, población de migrantes e indígenas, beneficencia pública y privada, así como promover la equidad entre los grupos más vulnerables, coordinándose, en su caso, con las instancias competentes;
 
@@ -1830,3 +1832,15 @@ P.O. 5 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 254. SE REFORMA EL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreta (sic) entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 344. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN EL ARTÍCULO 3, LA FRACCIÓN X DEL ARTÍCULO 10 Y LOS ARTÍCULOS 17, 19, 20, 22 A 30, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO CUARTO Y DEL TÍTULO QUINTO; SE ADICIONAN LOS CAPÍTULOS I A IV AL TÍTULO QUINTO Y LOS ARTÍCULOS 30 BIS A 30 BIS 10, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; Y SE DEROGAN LOS ARTÍCULOS 10 BIS Y 10 BIS I DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La convocatoria para la integración del Consejo Técnico Consultivo de Participación Ciudadana para las Personas Adultas Mayores deberá publicarse en un plazo máximo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- La Junta de Gobierno dispondrá de un plazo de hasta 120 días naturales contados a partir de su instalación para llevar a cabo su Primera Sesión de Trabajo en la que se aprobará el Reglamento a que se refiere esta Ley y presentarlo ante el Titular del Poder Ejecutivo del Estado para su expedición.
+
+Cuarto.- La Secretaría de Finanzas y Tesorería General del Estado asignará la partida presupuestal aprobada para el ejercicio fiscal 2018 y necesaria para la creación y operación del Instituto.
