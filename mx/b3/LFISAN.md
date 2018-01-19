@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2017-01-12"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ abbreviation: "LFISAN"
 ---
 # LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017", PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "LA MODIFICCAIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA SEGUNDA A LA CUARTA SECCIÓN, DEL D.O.F. 26 DE DICIEMBRE DE 2018.]</small>
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA CUARTA, QUINTA Y SEXTA SECCIÓN DEL D.O.F. DE 19 DE ENERO DE 2018.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE PÁRRAFO VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA CUARTA, QUINTA Y SEXTA SECCIÓN DEL D.O.F. DE 19 DE ENERO DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2821,3 +2821,43 @@ D.O.F. 30 DE NOVIEMBRE DE 2016.
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 12 DE ENERO DE 2017
 
 > <small>[N. DE E. VÉASE ANEXO 15 PUBLICADO EN EL D.O.F. DE 12 DE ENERO DE 2017, SECCIÓN SEGUNDA, PÁGINAS DE LA 1 A LA 112, EN “ANEXOS 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, PUBLICADA EL 23 DE DICIEMBRE DE 2016”.]</small>
+
+D.O.F. 19 DE ENERO DE 2018.
+
+LA RESOLUCIÓN DE MODIFICACIONES A LA MISCELÁNEA FISCAL PARA 2018 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2018
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2018.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2018.
+
+TARIFA
+
+> <small>[N. DE E. VÉASE TARIFA EN LA CUARTA SECCIÓN DEL D.O.F. DE 19 DE ENERO DE 2018, PÁGINA 1.]</small>
+
+Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2018.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $244,565.77
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $244,565.78 y hasta $309,783.32
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE TARIFAS EN LA CUARTA, QUINTA Y SEXTA SECCION, PÁGINAS DE LA 1 A LA 112, PÁGINAS DE LA 1 A LA 112, Y PÁGINAS DE LA 1 A LA 128, RESPECTIVAMENTE, DEL D.O.F. 19 DE ENERO DE 2018.]</small>
