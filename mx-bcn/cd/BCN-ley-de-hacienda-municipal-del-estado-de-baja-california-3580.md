@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2015-11-20"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -732,6 +732,16 @@ En estos casos la base se aplicará a cada uno de los departamentos, despachos o
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
 V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la Ley de Ingresos de cada Municipio del Estado, para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO CON LOS INCISOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
+
+Los Municipios podrán proponer para sus Leyes de Ingresos una tasa única para los siguientes casos:
+
+a) Los inmuebles propiedad de los Organismos de la Sociedad Civil registrados ante el Gobierno del Estado, cuyo objeto sea la asistencia social sin fines de lucro, siempre que los inmuebles se destinen a los fines de los mismos y que en éstos no se realicen actividades lucrativas o de negocios.
+
+b) Los inmuebles propiedad de las Asociaciones Religiosas que tengan registro constitutivo otorgado por la Secretaría de Gobernación.
+
+c) Los predios que por ser de interés público hubiesen sido declarados área natural protegida, en términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las áreas o zonas consideradas como de amortiguamiento.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -2592,3 +2602,9 @@ TERCERO.- Cuando en las disposiciones fiscales municipales se haga referencia a 
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE ADICIONA LOS INCISOS A) Y B) A LA FRACCIÓN V DEL ARTÍCULO 75 BIS A, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO (SIC): La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
