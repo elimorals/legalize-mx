@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "2015-01-28"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -68,11 +68,11 @@ V.- El Instituto Nacional de Bellas Artes y Literatura y
 
 VI.- Las demás autoridades y dependencias federales, en los casos de su competencia.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Las autoridades de los estados y municipios tendrán, en la aplicación de esta ley, la intervención que la misma y su reglamento señalen.
+Las autoridades de las entidades federativas y los municipios tendrán, en la aplicación de esta ley, la intervención que la misma y su reglamento señalen.
 
 ###### ARTICULO 5o.
 
@@ -142,21 +142,21 @@ Los propietarios de bienes inmuebles declarados monumentos históricos o artíst
 
 Los propietarios de bienes inmuebles colindantes a un monumento, que pretendan realizar obras de excavación, cimentación, demolición o construcción, que puedan afectar las características de los monumentos históricos o artísticos, deberán obtener el permiso del Instituto correspondiente, que se expedirá una vez satisfechos los requisitos que se exijan en el Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 7o.
 
-Las autoridades de los Estados, Distrito Federal y Municipios cuando decidan restaurar y conservar los monumentos arqueológicos e históricos lo harán siempre, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia.
+Las autoridades de las entidades federativas y Municipios cuando decidan restaurar y conservar los monumentos arqueológicos e históricos lo harán siempre, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia.
 
 Asimismo dichas autoridades cuando resuelvan construir o acondicionar edificios para que el Instituto Nacional de Antropología e Historia exhiba los monumentos arqueológicos e históricos de esa región, podrán solicitarle el permiso correspondiente, siendo requisito el que estas construcciones tengan las seguridades y los dispositivos de control que fija el Reglamento.
 
 El Instituto Nacional de Antropología e Historia podrá recibir aportaciones de las autoridades mencionadas, así como de particulares para los fines que señala este artículo.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 8o.
 
-Las autoridades de los Estados, Distrito Federal y Municipios podrán colaborar con el Instituto Nacional de Bellas Artes y Literatura para la conservación y exhibición de los monumentos artísticos en los términos que fije dicho instituto.
+Las autoridades de las entidades federativas y Municipios podrán colaborar con el Instituto Nacional de Bellas Artes y Literatura para la conservación y exhibición de los monumentos artísticos en los términos que fije dicho instituto.
 
 ###### ARTICULO 9o.
 
@@ -166,13 +166,13 @@ El Instituto competente proporcionará asesoría profesional en la conservación
 
 El Instituto competente procederá a efectuar las obras de conservación y restauración de un bien inmueble declarado monumento histórico o artístico, cuando el propietario, habiendo sido requerido para ello, no la realice. La Tesorería de la Federación hará efectivo el importe de las obras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 11.
 
-Los propietarios de bienes inmuebles declarados monumentos históricos o artísticos que los mantengan conservados y en su caso los restauren, en los términos de esta ley, podrán solicitar la exención de impuestos prediales correspondientes, en la jurisdicción del Distrito Federal, con base en el dictamen técnico que expida el instituto competente, de conformidad con el reglamento.
+Los propietarios de bienes inmuebles declarados monumentos históricos o artísticos que los mantengan conservados y en su caso los restauren, en los términos de esta ley, podrán solicitar la exención de impuestos prediales correspondientes, con base en el dictamen técnico que expida el instituto competente, de conformidad con el reglamento.
 
-Los Institutos promoverán ante los Gobiernos de los Estados la conveniencia de que se exima del impuesto predial, a los bienes inmuebles declarados monumentos, que no se exploten con fines de lucro.
+Los Institutos promoverán ante los Gobiernos de las entidades federativas la conveniencia de que se exima del impuesto predial, a los bienes inmuebles declarados monumentos, que no se exploten con fines de lucro.
 
 ###### ARTICULO 12.
 
@@ -212,11 +212,11 @@ El Instituto Nacional de Antropología e Historia, promoverá la recuperación d
 
 Para la reproducción de monumentos arqueológicos, históricos o artísticos, con fines comerciales, se requerirá permiso del Instituto competente, y en su caso se estará a lo dispuesto en la Ley Federal de Derechos de Autor. Se exceptúa la producción artesanal en lo que se estará a lo dispuesto por la Ley de la materia, y en su defecto, por el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 18.
 
-El Gobierno Federal, los Organismos Descentralizados y el Gobierno del Distrito Federal, cuando realicen obras, estarán obligados, con cargo a las mismas, a utilizar los servicios de antropólogos titulados, que asesoren y dirijan los rescates de arqueología bajo la dirección del Instituto Nacional de Antropología e Historia y asimismo entreguen las piezas y estudios correspondientes a este Instituto.
+El Gobierno Federal, los Organismos Descentralizados y el Gobierno de la Ciudad de México, cuando realicen obras, estarán obligados, con cargo a las mismas, a utilizar los servicios de antropólogos titulados, que asesoren y dirijan los rescates de arqueología bajo la dirección del Instituto Nacional de Antropología e Historia y asimismo entreguen las piezas y estudios correspondientes a este Instituto.
 
 Los productos que se recauden por los conceptos anteriores y otros análogos, formarán parte de los fondos propios de los institutos respectivos. La Secretaría de Hacienda y Crédito Público cuidará que dichos Institutos tengan oportunamente las asignaciones presupuestales suficientes para el debido cumplimiento de sus funciones y responsabilidades.
 
@@ -226,9 +226,9 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente:
 
 I.- Los tratados internacionales y las leyes federales; y
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-II.- Los códigos civil y penal vigentes para el Distrito Federal en materia común y para toda la República en materia federal.
+II.- Los códigos civil y penal vigentes.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -242,9 +242,11 @@ Para vigilar el cumplimiento de esta Ley, la Secretaría de Educación Pública 
 
 Se crea el Registro Público de Monumentos y Zonas Arqueológicos e Históricos, dependientes del Instituto Nacional de Antropología e Historia y el Registro Público de Monumentos y Zonas Artísticos, dependientes del Instituto Nacional de Bellas Artes y Literatura, para la inscripción de monumentos arqueológicos, históricos o artísticos y las declaratorias de zonas respectivas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 22.
 
-Los Institutos respectivos harán el registro de los monumentos pertenecientes a la Federación, Estados y Municipios y los organismos descentralizados, empresas de participación estatal y las personas físicas o morales privadas, deberán inscribir ante el Registro que corresponda, los monumentos de su propiedad.
+Los Institutos respectivos harán el registro de los monumentos pertenecientes a la Federación, entidades federativas, Municipios y los organismos descentralizados, empresas de participación estatal y las personas físicas o morales privadas, deberán inscribir ante el Registro que corresponda, los monumentos de su propiedad.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -372,7 +374,9 @@ Por determinación de esta Ley son monumentos históricos:
 
 I.- Los inmuebles construidos en los siglos XVI al XIX, destinados a templos y sus anexos; arzobispados, obispados y casas curales; seminarios, conventos o cualesquiera otros dedicados a la administración, divulgación, enseñanza o práctica de un culto religioso; así como a la educación y a la enseñanza, a fines asistenciales o benéficos; al servicio y ornato públicos y al uso de las autoridades civiles y militares. Los muebles que se encuentren o se hayan encontrado en dichos inmuebles y las obras civiles relevantes de carácter privado realizadas de los siglos XVI al XIX inclusive.
 
-II.- Los documentos y expedientes que pertenezcan o hayan pertenecido a las oficinas y archivos de la Federación, de los Estados o de los Municipios y de las casas curiales.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II.- Los documentos y expedientes que pertenezcan o hayan pertenecido a las oficinas y archivos de la Federación, de las entidades federativas o de los Municipios y de las casas curiales.
 
 III.- Los documentos originales manuscritos relacionados con la historia de México y los libros, folletos y otros impresos en México o en el extranjero, durante los siglos XVI al XIX que por su rareza e importancia para la historia mexicana, merezcan ser conservados en el país.
 
@@ -530,7 +534,7 @@ México, D. F., a 28 de abril de 1972.- Renato Vega Alvarado, D. P.- Vicente Fue
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahúja.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
@@ -540,7 +544,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 26 DE NOVIEMBRE DE 1984.
 
@@ -579,3 +583,9 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 48, 49, 50, 51, 52, 53, 54, SE
 D.O.F. 28 DE ENERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO SEGUNDO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES.”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
