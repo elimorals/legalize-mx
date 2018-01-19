@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bibliotecas-222"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-21"
-last_updated: "2015-12-17"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=222&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGB"
 
 LEY GENERAL DE BIBLIOTECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de enero de 1988.
 
@@ -46,7 +46,9 @@ LEY GENERAL DE BIBLIOTECAS.
 
 Esta ley es de observancia general en toda la República; sus disposiciones son de orden público e interés social y tiene por objeto:
 
-I.- La distribución y coordinación entre los Gobiernos Federal, Estatales y Municipales de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I.- La distribución y coordinación entre los Gobiernos Federal, de las entidades federativas y Municipales de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas;
 
 II.- El señalamiento de las normas básicas para la configuración de la Red Nacional de Bibliotecas Públicas;
 
@@ -70,11 +72,11 @@ Su acervo podrá comprender colecciones bibliográficas, hemerográficas, auditi
 
 Corresponde a la Secretaría de Cultura proponer, ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y demás programas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Los Gobiernos, Federal, Estatales y Municipales, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, impulsando el establecimiento, equipamiento, mantenimiento y actualización permanente de un área de servicios de cómputo y los servicios culturales complementarios que a través de éstas se otorguen.
+Los Gobiernos, Federal, de las Entidades Federativas y Municipales, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, impulsando el establecimiento, equipamiento, mantenimiento y actualización permanente de un área de servicios de cómputo y los servicios culturales complementarios que a través de éstas se otorguen.
 
 ### CAPITULO II. De la Red Nacional de Bibliotecas Públicas
 
@@ -142,17 +144,23 @@ XV.- Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de
 
 XVI.- Realizar las demás funciones que sean análogas a las anteriores y que le permitan alcanzar sus propósitos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 8o.
 
-Corresponderá a los Gobiernos de los Estados, en los términos de las disposiciones locales y los acuerdos de coordinación que se celebren:
+Corresponderá a los Gobiernos de las Entidades Federativas, en los términos de las disposiciones locales y los acuerdos de coordinación que se celebren:
 
-I.- Integrar la Red Estatal de Bibliotecas Públicas;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I.- Integrar la Red de Bibliotecas Públicas de la entidad federativa;
 
 > <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
 
 II.- Participar en la planeación, programación del desarrollo, actualización tecnológica y expansión de las bibliotecas públicas a su cargo;
 
-III.- Coordinar, administrar y operar la Red Estatal de Bibliotecas Públicas y supervisar su funcionamiento;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III.- Coordinar, administrar y operar la Red de Bibliotecas Públicas de la entidad federativa y supervisar su funcionamiento;
 
 > <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2009)</small>
 
@@ -160,7 +168,9 @@ IV.- Reparar los acervos impresos y digitales dañados;
 
 V.- Asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y acervo bibliográfico;
 
-VI.- Designar al coordinador de la Red Estatal quien fungirá como enlace con la coordinación de la Red Nacional de Bibliotecas Públicas;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI.- Designar al coordinador de la Red de la entidad federativa quien fungirá como enlace con la coordinación de la Red Nacional de Bibliotecas Públicas;
 
 VII.- Nombrar, adscribir y remunerar al personal destinado a la operación de sus bibliotecas públicas;
 
@@ -198,7 +208,9 @@ b) El Presidente de la Cámara Nacional de la Industria Editorial;
 
 c) Los titulares de las unidades administrativas vinculadas con la labor editorial y de desarrollo tecnológico de materiales educativos de la Secretaría de Educación Pública, y
 
-d) Tres representantes de los Gobiernos de los Estados.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+d) Tres representantes de los Gobiernos de las entidades federativas.
 
 > <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -303,3 +315,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
