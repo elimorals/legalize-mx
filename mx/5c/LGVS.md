@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2016-12-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGVS"
 ---
 # LEY GENERAL DE VIDA SILVESTRE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -202,29 +204,37 @@ VIII. El mejoramiento de la calidad de vida de los ejemplares de fauna silvestre
 
 IX. Los criterios para que las sanciones no sólo cumplan una función represiva, sino que se traduzcan en acciones que contribuyan y estimulen el tránsito hacia el desarrollo sustentable; así como para la priorización de los esfuerzos de inspección a los sitios en donde se presten servicios de captura, comercialización, transformación, tratamiento y preparación de ejemplares, partes y derivados de vida silvestre, así como a aquellos en que se realicen actividades de transporte, importación y exportación.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 6o.
 
-El diseño y la aplicación de la política nacional en materia de vida silvestre y su hábitat corresponderá, en sus respectivos ámbitos de competencia, a los Municipios, a los gobiernos de los Estados y del Distrito Federal, así como al Gobierno Federal.
+El diseño y la aplicación de la política nacional en materia de vida silvestre y su hábitat corresponderá, en sus respectivos ámbitos de competencia, a las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como al Gobierno Federal.
 
 ## TÍTULO III. DE LAS AUTORIDADES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 7o.
 
-La concurrencia de los Municipios, de los gobiernos de los Estados y del Distrito Federal y del Gobierno Federal, en materia de vida silvestre, se establece para:
+La concurrencia de las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y del Gobierno Federal, en materia de vida silvestre, se establece para:
 
 I. Garantizar la unidad de propósitos y la congruencia en la acción de los distintos órdenes de gobierno, relativa a la ejecución de los lineamientos de la política nacional en materia de vida silvestre;
 
 II. Desarrollar las facultades de la federación para coordinar la definición, regulación, y supervisión de las acciones de conservación y de aprovechamiento sustentable de la biodiversidad que compone la vida silvestre y su hábitat;
 
-III. Reconocer a los gobiernos estatales y del Distrito Federal, atribuciones para ejecutar dentro de su territorio las acciones relativas al cumplimiento de los lineamientos de la política nacional en materia de vida silvestre y su hábitat;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Reconocer a los gobiernos de las entidades federativas, atribuciones para ejecutar dentro de su territorio las acciones relativas al cumplimiento de los lineamientos de la política nacional en materia de vida silvestre y su hábitat;
 
 IV. Especificar aquellas atribuciones que corresponde ejercer de manera exclusiva a los poderes de las Entidades Federativas y a la Federación en materia de vida silvestre, y
 
 V. Establecer los mecanismos de coordinación necesarios para establecer la adecuada colaboración entre los distintos órdenes de gobierno, en las materias que regula la presente ley, cuidando en todo caso el no afectar la continuidad e integralidad de los procesos ecosistémicos asociados a la vida silvestre.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 8o.
 
-Los Municipios, los gobiernos de los Estados y del Distrito Federal, así como el Gobierno Federal ejercerán sus atribuciones en materia de conservación y aprovechamiento sustentable de la vida silvestre, de conformidad con lo previsto en los siguientes artículos.
+Los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como el Gobierno Federal ejercerán sus atribuciones en materia de conservación y aprovechamiento sustentable de la vida silvestre, de conformidad con lo previsto en los siguientes artículos.
 
 ###### Artículo 9o.
 
@@ -276,11 +286,15 @@ Las atribuciones que esta Ley otorga al Ejecutivo Federal serán ejercidas a tra
 
 Para los procedimientos administrativos previstos en esta Ley, se estará a lo dispuesto en la Ley Federal del Procedimiento Administrativo.
 
-Las atribuciones establecidas en las fracciones VIII, XI, XII, XIV, XVI, XIX, XX y XXI serán transferibles a los Estados y al Distrito Federal, en los términos y a través del procedimiento establecido en la presente Ley.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las atribuciones establecidas en las fracciones VIII, XI, XII, XIV, XVI, XIX, XX Y XXI serán transferibles a las entidades federativas, en los términos y a través del procedimiento establecido en la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 10.
 
-Corresponde a los Estados y al Distrito Federal, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables, ejercer las siguientes facultades:
+Corresponde a las entidades federativas, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables, ejercer las siguientes facultades:
 
 I. La formulación y conducción de la política estatal sobre la conservación y aprovechamiento sustentable de la vida silvestre la que, en todo caso, deberá ser congruente con los lineamientos de la política nacional en la materia.
 
@@ -292,47 +306,79 @@ IV. La compilación de la información sobre los usos y formas de aprovechamient
 
 V. El apoyo, asesoría técnica y capacitación a las comunidades rurales para el desarrollo de actividades de conservación y aprovechamiento sustentable de la vida silvestre, la elaboración de planes de manejo, el desarrollo de estudios de poblaciones y la solicitud de autorizaciones.
 
-VI. La conducción de la política estatal de información y difusión en materia de vida silvestre; la integración, seguimiento y actualización del Sistema Estatal de Información sobre la Vida Silvestre en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. La conducción de la política de información y difusión en materia de vida silvestre de la entidad federativa; la integración, seguimiento y actualización del Sistema Local de Información sobre la Vida Silvestre en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial.
 
 VII. La creación y administración del registro estatal de las organizaciones relacionadas con la conservación y aprovechamiento sustentable de la vida silvestre.
 
-VIII. La creación y administración del registro estatal de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como la supervisión de sus actividades.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IX. La creación y administración del padrón estatal de mascotas de especies silvestres y aves de presa.
+VIII. La creación y administración del registro de la entidad federativa de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como la supervisión de sus actividades.
 
-X. La coordinación de la participación social en las actividades que incumben a las autoridades estatales.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IX. La creación y administración del padrón de la entidad federativa de mascotas de especies silvestres y aves de presa.
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+X. La coordinación de la participación social en las actividades que incumben a las autoridades de las entidades federativas.
 
 XI. La emisión de recomendaciones a las autoridades competentes en materia de vida silvestre, con el propósito de promover el cumplimiento de la legislación en materia de conservación y aprovechamiento sustentable.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 11.
 
-La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcaciones territoriales de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
 I. Autorizar, registrar y supervisar técnicamente el establecimiento de Unidades de Manejo para la Conservación de Vida Silvestre;
 
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+
 II. Atender los asuntos relativos al manejo, control y remediación de problemas asociados a ejemplares y poblaciones que se tornen perjudiciales;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
 III. Aplicar las medidas de sanidad relativas a la vida silvestre;
 
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+
 IV. Aplicar las medidas relativas al hábitat crítico y a las áreas de refugio para proteger las especies acuáticas reguladas en la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
 V. Promover y aplicar las medidas relativas al trato digno y respetuoso de la fauna silvestre;
 
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+
 VI. Promover el establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
 VII. Llevar a cabo la inspección y vigilancia del cumplimiento de esta Ley y de las normas que de ella se deriven, así como imponer las medidas de seguridad y las sanciones administrativas establecidas en la propia Ley;
 
-VIII. Promover el establecimiento de las condiciones necesarias para el desarrollo de mercados estatales para la vida silvestre, basados en criterios de sustentabilidad, así como aplicar los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Promover el establecimiento de las condiciones necesarias para el desarrollo de mercados locales para la vida silvestre, basados en criterios de sustentabilidad, así como aplicar los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la misma;
+
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
 
 IX. Otorgar, suspender, modificar y revocar las autorizaciones, certificaciones, registros y demás actos administrativos vinculados al aprovechamiento y liberación de ejemplares de las especies y poblaciones silvestres, al ejercicio de la caza deportiva y para la prestación de servicios de este tipo de aprovechamiento, así como para la colecta científica, de conformidad con las normas y demás disposiciones legales aplicables, o
 
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+
 X. Promover el desarrollo de proyectos, estudios y actividades encaminados a la educación, capacitación e investigación sobre la vida silvestre, para el desarrollo del conocimiento técnico y científico y el fomento de la utilización del conocimiento tradicional.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
 
 Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
 
-En contra de los actos que emitan los gobiernos del Distrito Federal o de los Estados y, en su caso, de sus Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+En contra de los actos que emitan los gobiernos de las entidades federativas, o en su caso de los Municipios y las demarcaciones territoriales de la Ciudad de México, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2002)</small>
 
@@ -340,9 +386,11 @@ En contra de los actos que emitan los gobiernos del Distrito Federal o de los Es
 
 La celebración de los convenios o acuerdos de coordinación a que se refiere el artículo anterior, se sujetará a las bases previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 13.
 
-Los Municipios, además de las atribuciones vinculadas a esta materia que les confiere el artículo 115 constitucional, ejercerán las que les otorguen las leyes estatales en el ámbito de sus competencias, así como aquellas que les sean transferidas por las Entidades Federativas, mediante acuerdos o convenios.
+Los Municipios y las demarcaciones territoriales de la Ciudad de México, además de las atribuciones vinculadas a esta materia que les confieren los artículos 115 y 122 constitucionales, ejercerán las que les otorguen las leyes de las entidades federativas en el ámbito de sus competencias, así como aquellas que les sean transferidas por las Entidades Federativas, mediante acuerdos o convenios.
 
 ###### Artículo 14.
 
@@ -362,7 +410,9 @@ La Secretaría contará con un Consejo Técnico Consultivo Nacional para la Cons
 
 La Secretaría podrá constituir otros órganos técnicos consultivos relacionados con la vida silvestre y su hábitat, con el objeto de que la apoyen tanto en la formulación como en la aplicación de las medidas que sean necesarias para su conservación y aprovechamiento sustentable.
 
-Los órganos técnicos consultivos a los que se refiere este artículo estarán integrados por representantes de la Secretaría; de otras dependencias y entidades de la Administración Pública Federal, así como de representantes de los gobiernos de los Municipios, de los Estados y del Distrito Federal involucrados en cada caso; de instituciones académicas y centros de investigación; de agrupaciones de productores y empresarios; de organizaciones no gubernamentales y de otros organismos de carácter social y privado, así como por personas físicas de conocimiento probado en la materia, de conformidad con lo establecido en el reglamento.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los órganos técnicos consultivos a los que se refiere este artículo estarán integrados por representantes de la Secretaría; de otras dependencias y entidades de la Administración Pública Federal, así como de representantes de los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México involucradas en cada caso; de instituciones académicas y centros de investigación; de agrupaciones de productores y empresarios; de organizaciones no gubernamentales y de otros organismos de carácter social y privado, así como por personas físicas de conocimiento probado en la materia, de conformidad con lo establecido en el reglamento.
 
 La organización y funcionamiento de los órganos técnicos consultivos se sujetará a los acuerdos que para ese efecto expida la Secretaría, en los que se procurará una representación equilibrada y proporcional de todos los sectores y se prestará una especial atención a la participación de las comunidades rurales y productores involucrados.
 
@@ -472,9 +522,11 @@ El establecimiento de confinamientos sólo se podrá realizar de conformidad con
 
 ### CAPÍTULO VI. TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 29.
 
-Los Municipios, las Entidades Federativas y la Federación, adoptarán las medidas de trato digno y respetuoso para evitar o disminuir la tensión, sufrimiento, traumatismo y dolor que se pudiera ocasionar a los ejemplares de fauna silvestre durante su aprovechamiento, traslado, exhibición, cuarentena, entrenamiento, comercialización y sacrificio.
+Las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y la Federación, adoptarán las medidas de trato digno y respetuoso para evitar o disminuir la tensión, sufrimiento, traumatismo y dolor que se pudiera ocasionar a los ejemplares de fauna silvestre durante su aprovechamiento, traslado, exhibición, cuarentena, entrenamiento, comercialización y sacrificio.
 
 ###### Artículo 30.
 
@@ -1086,13 +1138,9 @@ La Secretaría dará prioridad a la reproducción de vida silvestre fuera de su 
 
 Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento, y para el caso de ejemplares vivos, contar con un plan de manejo autorizado por la Secretaría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2015)</small>
 
 Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, espectáculos públicos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la Secretaría, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2015)</small>
 
@@ -1230,7 +1278,9 @@ Cuando los predios sean propiedad federal, la Secretaría podrá otorgar la auto
 
 Al otorgar las autorizaciones para llevar a cabo el aprovechamiento en predios de propiedad municipal, estatal o federal, se tendrán en consideración los beneficios que se pueden derivar de ellas para las comunidades rurales.
 
-Los ingresos que obtengan los municipios, las entidades federativas y la Federación del aprovechamiento extractivo de vida silvestre en predios de su propiedad, o en aquellos en los que cuenten con el consentimiento del propietario o poseedor legítimo, los destinarán, de acuerdo a las disposiciones aplicables, al desarrollo de programas, proyectos y actividades vinculados con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los ingresos que obtengan las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y la Federación del aprovechamiento extractivo de vida silvestre en predios de su propiedad, o en aquellos en los que cuenten con el consentimiento del propietario o poseedor legítimo, los destinarán, de acuerdo a las disposiciones aplicables, al desarrollo de programas, proyectos y actividades vinculados con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia.
 
 ###### Artículo 90.
 
@@ -1358,8 +1408,6 @@ Se crearán, de conformidad con lo establecido en el reglamento, Comités Mixtos
 
 ### CAPÍTULO II. DAÑOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
 ###### Artículo 106.
@@ -1367,8 +1415,6 @@ Se crearán, de conformidad con lo establecido en el reglamento, Comités Mixtos
 Sin perjuicio de las demás disposiciones aplicables, toda persona física o moral que ocasione directa o indirectamente un daño a la vida silvestre o a su hábitat, está obligada a repararlo o compensarlo de conformidad a lo dispuesto por la Ley Federal de Responsabilidad Ambiental.
 
 Los propietarios y legítimos poseedores de los predios, así como los terceros que realicen el aprovechamiento, serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
 
@@ -1380,17 +1426,11 @@ La Procuraduría Federal de Protección al Ambiente evaluará cuidadosamente la 
 
 En el caso de que el demandado sea algún órgano de la administración pública federal o una empresa de participación estatal mayoritaria, la acción de responsabilidad por daño a la vida silvestre y su hábitat, podrá ser ejercida por cualquier persona directamente ante el tribunal competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
-
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
 
 ###### Artículo 108.
 
 (DEROGADO, D.O.F. 7 DE JUNIO DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE MODIFICA LA LEY.</small>
 
 ###### Artículo 109.
 
@@ -1559,8 +1599,6 @@ XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre, o
 XXII Bis. Importar, exportar, reexportar y comercializar marfil, cuando no cumplan con los tratados internacionales de los que México es parte y con la legislación aplicable.
 
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 2015)</small>
 
@@ -1899,3 +1937,9 @@ D.O.F. 19 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 127 DE LA LEY GENERAL DE VIDA SILVESTRE".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES.”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
