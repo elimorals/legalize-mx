@@ -4,7 +4,7 @@ identifier: "LGPC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2017-12-22"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -44,9 +44,11 @@ LEY GENERAL DE PROTECCIÓN CIVIL
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer las bases de coordinación entre los tres órdenes de gobierno en materia de protección civil. Los sectores privado y social participarán en la consecución de los objetivos de esta Ley, en los términos y condiciones que la misma establece.
+La presente Ley es de orden público e interés social y tiene por objeto establecer las bases de coordinación entre los distintos órdenes de gobierno en materia de protección civil. Los sectores privado y social participarán en la consecución de los objetivos de esta Ley, en los términos y condiciones que la misma establece.
 
 ###### Artículo 2.
 
@@ -80,7 +82,9 @@ XIII. Coordinación Nacional: A la Coordinación Nacional de Protección Civil d
 
 XIV. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
-XV. Delegaciones: Los órganos político-administrativos previstos en el Estatuto de Gobierno del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XV. Demarcaciones territoriales: Los órganos político-administrativos de la Ciudad de México;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2014)</small>
 
@@ -180,9 +184,11 @@ LX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabil
 
 LXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 3.
 
-Los tres niveles de gobierno tratarán en todo momento que los programas y estrategias dirigidas al fortalecimiento de los instrumentos de organización y funcionamiento de las instituciones de protección civil se sustenten en un enfoque de gestión integral del riesgo.
+Los distintos órdenes de gobierno tratarán en todo momento que los programas y estrategias dirigidas al fortalecimiento de los instrumentos de organización y funcionamiento de las instituciones de protección civil se sustenten en un enfoque de gestión integral del riesgo.
 
 ###### Artículo 4.
 
@@ -194,7 +200,9 @@ I. La identificación y análisis de riesgos como sustento para la implementaci�
 
 II. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
 
-III. Obligación del Estado en sus tres órdenes de gobierno, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Obligación del Estado en sus distintos órdenes de gobierno, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
 
 IV. El fomento de la participación social para crear comunidades resilientes, y por ello capaces de resistir los efectos negativos de los desastres, mediante una acción solidaria, y recuperar en el menor tiempo posible sus actividades productivas, económicas y sociales;
 
@@ -260,13 +268,17 @@ VIII. Vigilar, mediante las dependencias y entidades competentes y conforme a la
 
 IX. Promover ante los titulares de los Poderes Ejecutivo y Legislativo de las entidades federativas, la homologación del marco normativo y las estructuras funcionales de la protección civil.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 8.
 
-Los Poderes Legislativo y Judicial de la Unión, las entidades federativas, los municipios, las delegaciones, los organismos descentralizados, los organismos constitucionales autónomos y los sectores privado y social, así como la población en general, deberán coadyuvar para que las acciones de protección civil se realicen en forma coordinada y eficaz.
+Los Poderes Legislativo y Judicial de la Unión, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México, los organismos descentralizados, los organismos constitucionales autónomos y los sectores privado y social, así como la población en general, deberán coadyuvar para que las acciones de protección civil se realicen en forma coordinada y eficaz.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 9.
 
-La organización y la prestación de la política pública de protección civil corresponden al Estado quien deberá realizarlas en los términos de esta Ley y de su Reglamento, por conducto de la federación, los estados, el Distrito Federal, los municipios y las delegaciones, en sus respectivos ámbitos de competencia.
+La organización y la prestación de la política pública de protección civil corresponden al Estado quien deberá realizarlas en los términos de esta Ley y de su Reglamento, por conducto de la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en sus respectivos ámbitos de competencia.
 
 La Secretaría deberá promover la interacción de la protección civil con los procesos de información, a fin de impulsar acciones a favor del aprendizaje y práctica de conductas seguras, mediante el aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.
 
@@ -306,39 +318,51 @@ Los convenios de concertación contendrán las acciones de la gestión integral 
 
 ### Capítulo III. Del Sistema Nacional de Protección Civil
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 14.
 
-El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de las entidades federativas, de los municipios y las delegaciones, a fin de efectuar acciones coordinadas, en materia de protección civil.
+El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, a fin de efectuar acciones coordinadas, en materia de protección civil.
 
 ###### Artículo 15.
 
 El objetivo general del Sistema Nacional es el de proteger a la persona y a la sociedad y su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la vulnerabilidad en el corto, mediano o largo plazo, provocada por fenómenos naturales o antropogénicos, a través de la gestión integral de riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 16.
 
-El Sistema Nacional se encuentra integrado por todas las dependencias y entidades de la administración pública federal, por los sistemas de protección civil de las entidades federativas, sus municipios y las delegaciones; por los grupos voluntarios, vecinales y organizaciones de la sociedad civil, los cuerpos de bomberos, así como por los representantes de los sectores privado y, social, los medios de comunicación y los centros de investigación, educación y desarrollo tecnológico.
+El Sistema Nacional se encuentra integrado por todas las dependencias y entidades de la administración pública federal, por los sistemas de protección civil de las entidades federativas, sus municipios y las demarcaciones territoriales de la Ciudad de México; por los grupos voluntarios, vecinales y organizaciones de la sociedad civil, los cuerpos de bomberos, así como por los representantes de los sectores privado y, social, los medios de comunicación y los centros de investigación, educación y desarrollo tecnológico.
 
 Los integrantes del Sistema Nacional deberán compartir con la autoridad competente que solicite y justifique su utilidad, la información de carácter técnico, ya sea impresa, electrónica o en tiempo real relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 17.
 
-Los gobernadores de los estados, el jefe de gobierno del Distrito Federal, los presidentes municipales y los jefes delegacionales del Distrito Federal, tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los sistemas de protección civil, conforme a lo que establezca la presente Ley y la legislación local correspondiente.
+Los gobernadores de los estados, el jefe de gobierno de la Ciudad de México, los presidentes municipales y los alcaldes de las demarcaciones territoriales de la Ciudad de México, tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los sistemas de protección civil, conforme a lo que establezca la presente Ley y la legislación local correspondiente.
 
-Igualmente, en cada uno de sus ámbitos, se asegurarán del correcto funcionamiento de los consejos y unidades de protección civil, promoviendo para que sean constituidos, con un nivel no menor a Dirección General preferentemente y de acuerdo a la legislación aplicable, como organismos con autonomía administrativa, financiera, de operación y gestión, dependiente de la secretaría de gobierno, secretaría del ayuntamiento, y las delegaciones, respectivamente.
+Igualmente, en cada uno de sus ámbitos, se asegurarán del correcto funcionamiento de los consejos y unidades de protección civil, promoviendo para que sean constituidos, con un nivel no menor a Dirección General preferentemente y de acuerdo a la legislación aplicable, como organismos con autonomía administrativa, financiera, de operación y gestión, dependiente de la secretaría de gobierno, secretaría del ayuntamiento, y las alcaldías, respectivamente.
 
-Aquellos servidores públicos que desempeñen una responsabilidad en las Unidades Estatales, Municipales y Delegacionales de Protección Civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional.
+Aquellos servidores públicos que desempeñen una responsabilidad en las Unidades de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México de Protección Civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional.
 
-Las unidades estatales de protección civil, con sustento en las Leyes y disposiciones locales, propiciarán una distribución estratégica de las tareas, entre los centros regionales ubicados con criterios basados en la localización de los riesgos, las necesidades y los recursos disponibles.
+Las unidades de las entidades federativas de protección civil, con sustento en las Leyes y disposiciones locales, propiciarán una distribución estratégica de las tareas, entre los centros regionales ubicados con criterios basados en la localización de los riesgos, las necesidades y los recursos disponibles.
 
-Sobre la denominación que a nivel nacional se tiene de las unidades estatales, municipales, del Distrito Federal y Delegaciones, se dispondrá por virtud de la presente Ley llamarse Coordinación Estatal de Protección Civil del Estado o en su caso, Coordinación Municipal de Protección Civil.
+Sobre la denominación que a nivel nacional se tiene de las unidades de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, se dispondrá por virtud de la
+
+presente Ley llamarse Coordinación Estatal de Protección Civil del Estado o en su caso, Coordinación Municipal de Protección Civil, así como Coordinación de Protección Civil de la Ciudad de México o, en su caso, Coordinación de Protección Civil de la demarcación territorial correspondiente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 18.
 
-Es responsabilidad de los gobiernos de los estados y del gobierno del Distrito Federal, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura de sus entidades federativas.
+Es responsabilidad de los gobiernos de las entidades federativas, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura de sus entidades federativas.
 
 Para el cumplimiento de esta obligación, las entidades federativas podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los Instrumentos Financieros de Gestión de Riesgos Federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
 
-Para acceder a los apoyos referidos en el párrafo anterior, los gobiernos estatales deberán acreditar que en el proceso de contratación del instrumento seleccionado se cumplieron con los principios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Para acceder a los apoyos referidos en el párrafo anterior, los gobiernos de las entidades federativas deberán acreditar que en el proceso de contratación del instrumento seleccionado se cumplieron con los principios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado.
 
 ###### Artículo 19.
 
@@ -370,7 +394,9 @@ XII. Promover la constitución de fondos de las entidades federativas para la pr
 
 XIII. Suscribir convenios de colaboración administrativa con las entidades federativas en materia de prevención y atención de emergencias y desastres;
 
-XIV. Asesorar a las entidades federativas, al gobierno del Distrito Federal y dependencias federales en la aplicación de los instrumentos financieros de gestión de riesgos;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XIV. Asesorar a las entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de gestión de riesgos;
 
 XV. Emitir las Normas Oficiales Mexicanas en materia de Protección Civil;
 
@@ -386,23 +412,33 @@ XX. Promover entre las instancias competentes de los distintos órdenes de gobie
 
 XXI. Promover la instrumentación de un Subsistema de Información de Riesgos, Peligros y Vulnerabilidades que permita mantener informada oportunamente a la población;
 
-XXII. Supervisar, a través del CENAPRED, que se realice y se mantenga actualizado el atlas nacional de riesgos, así como los correspondientes a las entidades federativas, municipios y delegaciones;
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
-El Atlas se integra con la información a nivel nacional, estatal, del Distrito Federal, municipal y delegacional. Consta de bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres. Por la naturaleza dinámica del riesgo, deberá mantenerse como un instrumento de actualización permanente.
+XXII. Supervisar, a través del CENAPRED, que se realice y se mantenga actualizado el atlas nacional de riesgos, así como los correspondientes a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El Atlas se integra con la información a nivel nacional, de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México. Consta de bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres. Por la naturaleza dinámica del riesgo, deberá mantenerse como un instrumento de actualización permanente.
 
 Los atlas de riesgo constituyen el marco de referencia para la elaboración de políticas y programas en todas las etapas de la Gestión Integral del Riesgo;
 
-XXIII. Coordinar el apoyo y asesoría a las dependencias y entidades de la administración pública federal, a los demás Poderes de la Unión y a los órganos constitucionales autónomos en la prevención de desastres y, con base en la suscripción de convenios, a los gobiernos de las entidades federativas, municipios o delegaciones, así como a las instituciones de carácter social y privado;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXIII. Coordinar el apoyo y asesoría a las dependencias y entidades de la administración pública federal, a los demás Poderes de la Unión y a los órganos constitucionales autónomos en la prevención de desastres y, con base en la suscripción de convenios, a los gobiernos de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, así como a las instituciones de carácter social y privado;
 
 XXIV. Promover y apoyar la capacitación de los profesionales, especialistas y técnicos mexicanos en materia de protección civil;
 
-XXV. Promover entre los gobiernos de las entidades federativas, municipios y delegaciones la creación y construcción de infraestructura y la distribución de equipamiento de protección civil, tendientes a fortalecer las herramientas de gestión del riesgo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXV. Promover entre los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México la creación y construcción de infraestructura y la distribución de equipamiento de protección civil, tendientes a fortalecer las herramientas de gestión del riesgo;
 
 XXVI. Gestionar ante la Secretaría de Relaciones Exteriores y las autoridades de otros países, la recepción y envío de apoyos internacionales;
 
 XXVII. Intercambiar con otros países y con organismos internacionales, conocimientos, experiencias y cooperación técnica y científica para fortalecer la protección civil mediante la incorporación de los avances en la materia, con la participación que corresponda a la Secretaría de Relaciones Exteriores;
 
-XXVIII. Promover que los gobiernos de las entidades federativas y de los municipios o delegaciones, según corresponda, elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XXVIII. Promover que los gobiernos de las entidades federativas y de los municipios o demarcaciones territoriales de la Ciudad de México, según corresponda, elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo;
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -422,9 +458,9 @@ Para el mejor cumplimiento de sus funciones, la Coordinación Nacional podrá in
 
 En el caso de los Fenómenos Astronómicos, la Coordinación Nacional de Protección Civil, el Centro Nacional de Prevención de Desastres y la Agencia Espacial Mexicana, trabajarán conjuntamente y en el marco de sus atribuciones, a fin de crear y promover las políticas públicas en materia de prevención o atención de desastres ocasionados por objetos que provengan del espacio exterior.
 
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Asimismo, el Sistema Nacional de Protección Civil coadyuvará a realizar las acciones necesarias de protección civil, de forma coordinada y eficaz, entre el Gobierno Federal, las entidades federativas, el Gobierno del Distrito Federal, los municipios, las delegaciones, los sectores privado y social, así como la población en general, ante el peligro o riesgo específico derivado de un agente perturbador espacial.
+Asimismo, el Sistema Nacional de Protección Civil coadyuvará a realizar las acciones necesarias de protección civil, de forma coordinada y eficaz, entre el Gobierno Federal, las entidades federativas y los municipios o demarcaciones territoriales de la Ciudad de México, los sectores privado y social, así como la población en general, ante el peligro o riesgo específico derivado de un agente perturbador espacial.
 
 ###### Artículo 21.
 
@@ -434,15 +470,21 @@ Con la finalidad de iniciar las actividades de auxilio en caso de emergencia, la
 
 El Reglamento de esta Ley y las demás disposiciones administrativas en la materia establecerán los casos en los que se requiera de una intervención especializada para la atención de una emergencia o desastre.
 
-La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada instalación pública o privada, así como a la autoridad municipal o delegacional que conozca de la situación de emergencia. Además, corresponderá en primera instancia a la unidad municipal o delegacional de protección civil el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio o delegación, acudirá a la instancia estatal o del Distrito Federal correspondiente, en los términos de la legislación aplicable. Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, las que actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
+La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada instalación pública o privada, así como a la autoridad municipal o de la demarcación territorial correspondiente que conozca de la situación de emergencia. Además, corresponderá en primera instancia a la unidad municipal o delegacional de protección civil el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio o demarcación territorial, acudirá a la instancia de la entidad federativa correspondiente, en los términos de la legislación aplicable. Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, las que actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
 
 En las acciones de gestión de riesgos se dará prioridad a los grupos sociales vulnerables y de escasos recursos económicos.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 22.
 
-Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades federativas, los municipios y las delegaciones, se llevarán a cabo mediante la suscripción de convenios de coordinación, en los términos de la normatividad aplicable, o con base en los acuerdos y resoluciones que se tomen en el Consejo Nacional y en las demás instancias de coordinación, con pleno respeto de la autonomía de las entidades federativas y de los municipios.
+Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, se llevarán a cabo mediante la suscripción de convenios de coordinación, en los términos de la normatividad aplicable, o con base en los acuerdos y resoluciones que se tomen en el Consejo Nacional y en las demás instancias de coordinación, con pleno respeto de la autonomía de las entidades federativas y de los municipios.
 
 ###### Artículo 23.
 
@@ -474,11 +516,15 @@ IV. Fungir como órgano de consulta y de coordinación de acciones del gobierno 
 
 V. Promover la efectiva coordinación de las instancias que integran el Sistema Nacional y dar seguimiento de las acciones que para tal efecto se establezcan;
 
-VI. Proponer el establecimiento de medidas para vincular al sistema nacional con los sistemas estatales y municipales de protección civil;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. Proponer el establecimiento de medidas para vincular al sistema nacional con los sistemas de las entidades federativas y municipales de protección civil;
 
 VII. Fomentar la participación comprometida y corresponsable de todos los sectores de la sociedad, en la formulación y ejecución de los programas destinados a satisfacer las necesidades de protección civil en el territorio nacional;
 
-VIII. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas soberanías, la participación de las entidades federativas y por conducto de éstas, de los municipios, las delegaciones y de los diversos grupos sociales locales organizados, en la definición y ejecución de las acciones que se convenga realizar en materia de protección civil;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas soberanías, la participación de las entidades federativas y por conducto de éstas, de los municipios, las demarcaciones territoriales de la Ciudad de México y de los diversos grupos sociales locales organizados, en la definición y ejecución de las acciones que se convenga realizar en materia de protección civil;
 
 IX. Proponer a la Secretaría de Relaciones Exteriores, los criterios para la celebración y el cumplimiento de los acuerdos internacionales en materia de protección civil;
 
@@ -492,9 +538,11 @@ XIII. Crear grupos de trabajo para el apoyo de sus funciones, y
 
 XIV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Nacional.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 27.
 
-El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Gobernación, quien a su vez será suplido por el Coordinador Nacional de Protección Civil.
+El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Gobernación, quien a su vez será suplido por el Coordinador Nacional de Protección Civil.
 
 El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del Consejo Consultivo, en los términos que se establezca en el Reglamento.
 
@@ -530,7 +578,9 @@ X. Colaborar con las instituciones que integran el Sistema Nacional, para fortal
 
 XI. Coadyuvar con la Auditoría Superior de la Federación y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley;
 
-XII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las entidades federativas y por los municipios y delegaciones, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, y
 
 XIII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Nacional o su Presidente.
 
@@ -562,9 +612,11 @@ La Coordinación Nacional de Protección Civil, para efectos presupuestarios dep
 
 El Comité Nacional es el mecanismo de coordinación de las acciones en situaciones de emergencia y desastre ocasionadas por la presencia de agentes perturbadores que pongan en riesgo a la población, bienes y entorno, sin menoscabo de lo establecido en el artículo 21 de esta Ley y de conformidad con el Manual de Organización y Operación del Sistema Nacional y en los términos que se establezcan en el Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 33.
 
-El Comité Nacional estará constituido por los titulares o por un representante de las dependencias y entidades de la administración pública federal, con rango no inferior al de director general o equivalente, que de acuerdo a su especialidad asume la responsabilidad de asesorar, apoyar y aportar, dentro de sus funciones, programas, planes de emergencia y sus recursos humanos y materiales, al Sistema Nacional, así como por el representante que al efecto designe el o los gobernadores de los estados afectados o por el jefe del gobierno del Distrito Federal, en su caso.
+El Comité Nacional estará constituido por los titulares o por un representante de las dependencias y entidades de la administración pública federal, con rango no inferior al de director general o equivalente, que de acuerdo a su especialidad asume la responsabilidad de asesorar, apoyar y aportar, dentro de sus funciones, programas, planes de emergencia y sus recursos humanos y materiales, al Sistema Nacional, así como por el representante que al efecto designe el o los gobernadores de los estados afectados o por el jefe del gobierno de la Ciudad de México, en su caso.
 
 El Comité Nacional estará presidido por el Secretario de Gobernación, o en su ausencia por el titular de la Coordinación Nacional, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del país.
 
@@ -596,9 +648,11 @@ El Programa Nacional, en el marco del Plan Nacional de Desarrollo, es el conjunt
 
 El Programa Nacional, estará basado en los principios que establece esta Ley, la Ley de Planeación, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad en materia de planeación, transparencia y rendición de cuentas.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 37.
 
-En la elaboración de los programas de protección civil de las entidades federativas, municipios y delegaciones, deberán considerarse las líneas generales que establezca el Programa Nacional, así como las etapas consideradas en la Gestión Integral de Riesgos y conforme lo establezca la normatividad local en materia de planeación.
+En la elaboración de los programas de protección civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, deberán considerarse las líneas generales que establezca el Programa Nacional, así como las etapas consideradas en la Gestión Integral de Riesgos y conforme lo establezca la normatividad local en materia de planeación.
 
 ###### Artículo 38.
 
@@ -626,9 +680,11 @@ El contenido y las especificaciones de este tipo de programas, se precisarán en
 
 ### Capítulo VII. De la Cultura de Protección Civil
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 41.
 
-Las autoridades federales, de las entidades federativas, del Distrito Federal, municipales y delegacionales, fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+Las autoridades federales, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
 
 Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
@@ -664,9 +720,11 @@ Las autoridades correspondientes en su ámbito de competencia llevarán a cabo p
 
 ### Capítulo VIII. De la Profesionalización de la Protección Civil
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 46.
 
-La profesionalización de los integrantes del Sistema Nacional será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de servidores públicos de los tres órdenes de gobierno, de conformidad a lo que se establezca en la Ley de la materia.
+La profesionalización de los integrantes del Sistema Nacional será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de servidores públicos de los distintos órdenes de gobierno, de conformidad a lo que se establezca en la Ley de la materia.
 
 ###### Artículo 47.
 
@@ -674,9 +732,11 @@ Para los efectos del artículo anterior, cada entidad federativa y cada municipi
 
 En caso de que no exista dicha normatividad, se promoverá ante las instancias competentes, por conducto de la Coordinación Nacional, que se cree un sistema civil de carrera para los servidores públicos responsables de la protección civil.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 48.
 
-La normatividad correspondiente precisará y detallará todos los rubros que atañen a los puestos de mando y jerarquías de las Unidades Estatales, Municipales y Delegacionales de Protección Civil.
+La normatividad correspondiente precisará y detallará todos los rubros que atañen a los puestos de mando y jerarquías de las Unidades de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México de Protección Civil.
 
 ### Capítulo IX. De la Escuela Nacional de Protección Civil, Capacitación, Acreditación y Certificación
 
@@ -696,9 +756,11 @@ La estructura, organización y operación de la Escuela Nacional de Protección 
 
 ### Capítulo X. De los Grupos Voluntarios
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 51.
 
-Para desarrollar actividades especializadas en material de protección civil, tales como tareas de rescate y auxilio, combate a incendios, administración de albergues y centros de acopio, servicios médicos de urgencia, entre otros, los Grupos Voluntarios de carácter regional y nacional deberán tramitar su registro ante la Secretaría; los estatales, municipales y delegacionales según lo establezca la legislación local respectiva.
+Para desarrollar actividades especializadas en materia de protección civil, tales como tareas de rescate y auxilio, combate a incendios, administración de albergues y centros de acopio, servicios médicos de urgencia, entre otros, los Grupos Voluntarios de carácter regional y nacional deberán tramitar su registro ante la Secretaría; los de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, según lo establezca la legislación local respectiva.
 
 Las disposiciones reglamentarias y los ordenamientos locales establecerán en forma específica los trámites y procedimientos para obtener los registros correspondientes, así como las medidas a adoptar para que estos grupos participen garantizando la seguridad de sus miembros.
 
@@ -728,15 +790,19 @@ La Red Nacional de Brigadistas Comunitarios es una estructura organizada y forma
 
 Los Brigadistas Comunitarios son los voluntarios capacitados en materias afines a la protección civil, que han sido registradas en la Red Nacional de Brigadistas Comunitarios, bajo la coordinación y supervisión de las autoridades de protección civil en su comunidad para apoyar a éstas en tareas y actividades tales como el alertamiento, la evacuación, la aplicación de medidas preventivas y la atención a refugios temporales, entre otras.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 56.
 
-La Secretaría coordinará el funcionamiento de la Red Nacional de Brigadistas Comunitarios. Para tal efecto, las Unidades Estatales, Municipales y Delegacionales de Protección Civil en las entidades federativas, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de los voluntarios que deseen constituirse en brigadistas comunitarios, pudiendo constituir redes municipales, estatales o regionales de brigadistas comunitarios, y realizar los trámites de registro en la Red Nacional de Brigadistas Comunitarios ante la Coordinación Nacional.
+La Secretaría coordinará el funcionamiento de la Red Nacional de Brigadistas Comunitarios. Para tal efecto, las Unidades de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México de Protección Civil en las entidades federativas, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de los voluntarios que deseen constituirse en brigadistas comunitarios, pudiendo constituir redes municipales, de las entidades federativas o regionales de brigadistas comunitarios, y realizar los trámites de registro en la Red Nacional de Brigadistas Comunitarios ante la Coordinación Nacional.
 
 ### Capítulo XII. De los Instrumentos Financieros de Gestión de Riesgos
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 57.
 
-Le corresponde a la Secretaría, a través de la Coordinación Nacional, asesorar a las entidades federativas, al Gobierno del Distrito Federal y dependencias federales en la aplicación de los instrumentos financieros de Gestión de Riesgos.
+Le corresponde a la Secretaría, a través de la Coordinación Nacional, asesorar a las entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de Gestión de Riesgos.
 
 ###### Artículo 58.
 
@@ -748,13 +814,17 @@ II. La manifestación expresa de que se evitarán las duplicidades con otros pro
 
 III. Para el caso de las entidades federativas en situación de emergencia y/o desastre, la manifestación expresa de que las circunstancias han superado su capacidad operativa y financiera para atender por sí sola la contingencia.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 59.
 
-La declaratoria de emergencia es el acto mediante el cual la secretaría reconoce que uno o varios municipios o delegaciones de una o más entidades federativas se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo.
+La declaratoria de emergencia es el acto mediante el cual la Secretaría reconoce que uno o varios municipios o demarcaciones territoriales de la Ciudad de México, de una o más entidades federativas se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un agente natural perturbador y por ello se requiere prestar auxilio inmediato a la población cuya seguridad e integridad está en riesgo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 60.
 
-La declaratoria de desastre natural es el acto mediante el cual la Secretaría reconoce la presencia de un agente natural perturbador severo en determinados municipios o delegaciones de una o más entidades federativas, cuyos daños rebasan la capacidad financiera y operativa local para su atención, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales.
+La declaratoria de desastre natural es el acto mediante el cual la Secretaría reconoce la presencia de un agente natural perturbador severo en determinados municipios o demarcaciones territoriales de una o más entidades federativas, cuyos daños rebasan la capacidad financiera y operativa local para su atención, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales.
 
 Para el caso de las declaratorias de desastre natural, éstas también podrán ser solicitadas por los titulares de las instancias públicas federales, a fin de que éstas puedan atender los daños sufridos en la infraestructura, bienes y patrimonio federal a su cargo.
 
@@ -798,23 +868,35 @@ La autorización de la declaratoria de emergencia no deberá tardar más de 5 d�
 
 Los fenómenos antropogénicos, son en esencia provocados por la actividad humana y no por un fenómeno natural. Generan un marco de responsabilidad civil, por lo que no son competencia de los Instrumentos Financieros de Gestión de Riesgos previstos en esta Ley.
 
-Dichos fenómenos encuentran responsabilidad en su atención, regulación y supervisión en el marco de las competencias establecidas por las Leyes locales a las entidades federativas, municipios o delegaciones, y en el ámbito federal, a través de las instancias públicas federales, según correspondan.
+REFORMADO, D.O.F. 19 DE ENERO DE 2018)
 
-La Coordinación Nacional y las Unidades de Protección Civil de las entidades federativas, municipios y delegaciones, promoverán con las diversas instancias del Sistema Nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
+Dichos fenómenos encuentran responsabilidad en su atención, regulación y supervisión en el marco de las competencias establecidas por las Leyes locales a las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, y en el ámbito federal, a través de las instancias públicas federales, según correspondan.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Coordinación Nacional y las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, promoverán con las diversas instancias del Sistema Nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 
 ### Capítulo XIII. Del Fondo de Protección Civil
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 66.
 
-Cada entidad federativa creará y administrará un Fondo Estatal de Protección Civil, cuya finalidad será la de promover la capacitación, equipamiento y sistematización de las Unidades de Protección Civil de las entidades federativas, municipios y delegaciones.
+Cada entidad federativa creará y administrará un Fondo de Protección Civil, cuya finalidad será la de promover la capacitación, equipamiento y sistematización de las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 67.
 
-Los Fondos Estatales de Protección Civil se integrarán a través de los recursos aportados por la respectiva entidad federativa y, en su caso, municipios y delegaciones.
+Los Fondos Estatales de Protección Civil se integrarán a través de los recursos aportados por la respectiva entidad federativa y, en su caso, municipios y demarcaciones territoriales de la Ciudad de México.
 
-El Gobierno Federal otorgará subsidios a dichos Fondos de Protección Civil conforme a los recursos que, en su caso, sean aprobados para dicho fin en el Presupuesto de Egresos de la Federación, sin rebasar las aportaciones que hubiesen realizado en el ejercicio fiscal correspondiente las entidades federativas y, en su caso, los municipios y delegaciones.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Los Fondos Estatales de Protección Civil operarán según se establezca en la normatividad administrativa correspondiente y en el caso de los recursos federales, en términos de los convenios de coordinación que se celebren, precisando para ello los requisitos para el acceso, ejercicio y comprobación de los recursos, así como las obligaciones en el manejo y mantenimiento de los equipos adquiridos.
+El Gobierno Federal otorgará subsidios a dichos Fondos de Protección Civil conforme a los recursos que, en su caso, sean aprobados para dicho fin en el Presupuesto de Egresos de la Federación, sin rebasar las aportaciones que hubiesen realizado en el ejercicio fiscal correspondiente las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los Fondos de las entidades federativas de Protección Civil operarán según se establezca en la normatividad administrativa correspondiente y en el caso de los recursos federales, en términos de los convenios de coordinación que se celebren, precisando para ello los requisitos para el acceso, ejercicio y comprobación de los recursos, así como las obligaciones en el manejo y mantenimiento de los equipos adquiridos.
 
 La capacitación será acorde a los lineamientos dictados por la Escuela Nacional de Protección Civil y los recursos destinados a la sistematización de las unidades de protección civil deberán procurar la optimización del manejo e intercambio de información y su homologación a nivel nacional.
 
@@ -824,15 +906,19 @@ La capacitación será acorde a los lineamientos dictados por la Escuela Naciona
 
 Las autoridades correspondientes establecerán las bases y lineamientos, con apego a lo establecido en la presente Ley y su Reglamento, para emitir las convocatorias, recepción, administración, control y distribución de los donativos que se aporten con fines altruistas para atención de emergencias o desastres.
 
-Las personas físicas o morales, que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de las Unidades Estatales de Protección Civil, conforme a los requisitos y criterios que establezca el Reglamento y la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las personas físicas o morales, que deseen colaborar con la captación de donaciones en especie deberán obtener la autorización de las Unidades de las entidades federativas de Protección Civil, conforme a los requisitos y criterios que establezca el Reglamento y la legislación aplicable.
 
 ###### Artículo 69.
 
 Serán las autoridades competentes en los diferentes órdenes de gobierno las que determinarán con apego a su regulación local, los criterios de uso y destino de los donativos, debiendo en todos los casos rendir un informe detallado.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 70.
 
-Sin menoscabo de lo que expresa el artículo anterior, el Ejecutivo Federal deberá promover al interior del Consejo Nacional un mecanismo ágil, transparente y efectivo de control y coordinación para que los recursos donados sean administrados y entregados en beneficio de la población de las entidades, municipios, delegaciones o comunidades en emergencia o desastre.
+Sin menoscabo de lo que expresa el artículo anterior, el Ejecutivo Federal deberá promover al interior del Consejo Nacional un mecanismo ágil, transparente y efectivo de control y coordinación para que los recursos donados sean administrados y entregados en beneficio de la población de las entidades, municipios, demarcaciones territoriales de la Ciudad de México o comunidades en emergencia o desastre.
 
 ###### Artículo 71.
 
@@ -844,9 +930,11 @@ Las autoridades correspondientes deberán verificar que en todo momento las dona
 
 ### Capítulo XV. De las Medidas de Seguridad
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 73.
 
-En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias y entidades de la administración pública federal, de las entidades federativas, de los municipios y de las delegaciones, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando en forma inmediata a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán en los casos que se considere necesario y conforme a la normatividad aplicable, el centro de operaciones, como centro de comando y de coordinación de las acciones en el sitio.
+En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias y entidades de la administración pública federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando en forma inmediata a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán en los casos que se considere necesario y conforme a la normatividad aplicable, el centro de operaciones, como centro de comando y de coordinación de las acciones en el sitio.
 
 ###### Artículo 74.
 
@@ -854,11 +942,15 @@ Esta Ley, su Reglamento, así como las disposiciones administrativas en la mater
 
 Una vez presentada la solicitud de declaratoria de desastre natural, la autoridad tendrá un plazo de hasta 5 días naturales para su emisión, en términos de las disposiciones administrativas en la materia.
 
-El plazo para que gobiernos de las entidades federativas y del Distrito Federal tengan acceso a los recursos tendientes a la atención de desastres naturales, será de hasta 10 días naturales, contados a partir del día en que se emita la declaratoria de desastre natural respectiva.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El plazo para que gobiernos de las entidades federativas tengan acceso a los recursos tendientes a la atención de desastres naturales, será de hasta 10 días naturales, contados a partir del día en que se emita la declaratoria de desastre natural respectiva.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 75.
 
-Las Unidades Estatales, Municipales y Delegacionales de Protección Civil, así como la del Distrito Federal, tendrán la facultad de aplicar las siguientes medidas de seguridad:
+Las Unidades de las entidades federativas, Municipales y demarcaciones territoriales de la Ciudad de México de Protección Civil, tendrán la facultad de aplicar las siguientes medidas de seguridad:
 
 I. Identificación y delimitación de lugares o zonas de riesgo;
 
@@ -904,23 +996,27 @@ Toda persona física o moral deberá informar a las autoridades competentes, hac
 
 ### Capítulo XVII. De la Detección de Zonas de Riesgo
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 82.
 
-El Gobierno Federal, con la participación de las entidades federativas y el gobierno del Distrito Federal, deberán buscar concentrar la información climatológica, geológica, meteorológica y astronómica de que se disponga a nivel nacional.
+El Gobierno Federal, con la participación de las entidades federativas deberán buscar concentrar la información climatológica, geológica, meteorológica y astronómica de que se disponga a nivel nacional.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 83.
 
-El Gobierno Federal, con la participación de las entidades federativas y el Gobierno del Distrito Federal, promoverá la creación de las bases que permitan la identificación y registro en los Atlas Nacional, Estatales y Municipales de Riesgos de las zonas en el país con riesgo para la población, el patrimonio público y privado, que posibilite a las autoridades competentes regular la edificación de asentamientos.
+El Gobierno Federal, con la participación de las entidades federativas promoverá la creación de las bases que permitan la identificación y registro en los Atlas Nacional, de las entidades federativas y Municipales de Riesgos de las zonas en el país con riesgo para la población, el patrimonio público y privado, que posibilite a las autoridades competentes regular la edificación de asentamientos.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 Las entidades de la federación promoverán en el ámbito de su competencia, que el Atlas Nacional de Riesgos sea de fácil acceso a la población, procurando que su elaboración siga las directrices del CENAPRED.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 84.
 
-Se consideran como delito grave la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas municipales, estatales y el Nacional y no cuenten con la autorización de la autoridad correspondiente.
+Se consideran como delito grave la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas municipales, de las entidades federativas y el Nacional y no cuenten con la autorización de la autoridad correspondiente.
 
 ###### Artículo 85.
 
@@ -932,25 +1028,33 @@ II. La Procuraduría General de la República;
 
 III. Los Gobiernos de los Estados;
 
-IV. El Gobierno del Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. El Gobierno de la Ciudad de México, y
 
 V. Los Municipios y Órganos Político Administrativos.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 86.
 
-En el Atlas Nacional de Riesgos y en los respectivos Atlas Estatales y Municipales de Riesgos, deberán establecerse los diferentes niveles de peligro y riesgo, para todos los fenómenos que influyan en las distintas zonas. Dichos instrumentos deberán ser tomados en consideración por las autoridades competentes, para la autorización o no de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
+En el Atlas Nacional de Riesgos y en los respectivos Atlas de las entidades federativas y Municipales de Riesgos, deberán establecerse los diferentes niveles de peligro y riesgo, para todos los fenómenos que influyan en las distintas zonas. Dichos instrumentos deberán ser tomados en consideración por las autoridades competentes, para la autorización o no de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
 
 ###### Artículo 87.
 
 En el caso de asentamientos humanos ya establecidos en Zonas de Alto Riesgo, las autoridades competentes con base en estudios de riesgos específicos, determinará la realización de las obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso, deberán formular un plan a fin de determinar cuáles de ellos deben ser reubicados, proponiendo mecanismos financieros que permitan esta acción.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 88.
 
-El Gobierno Federal, los de las entidades federativas, y el del Distrito Federal, buscarán y propondrán mecanismos para la transferencia de riesgos a través de la contratación de seguros o de otros instrumentos financieros.
+El Gobierno Federal y los de las entidades federativas buscarán y propondrán mecanismos para la transferencia de riesgos a través de la contratación de seguros o de otros instrumentos financieros.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 89.
 
-Las autoridades federales, de las entidades federativas, el Gobierno del Distrito Federal, los municipios y los órganos político administrativos, determinarán qué autoridad bajo su estricta responsabilidad, tendrá competencia y facultades para autorizar la utilización de una extensión territorial en consistencia con el uso de suelo permitido, una vez consideradas las acciones de prevención o reducción de riesgo a que se refieren los artículos de este capítulo.
+Las autoridades federales, de las entidades federativas, los municipios y los órganos político administrativos, determinarán qué autoridad bajo su estricta responsabilidad, tendrá competencia y facultades para autorizar la utilización de una extensión territorial en consistencia con el uso de suelo permitido, una vez consideradas las acciones de prevención o reducción de riesgo a que se refieren los artículos de este capítulo.
 
 ###### Artículo 90.
 
@@ -966,9 +1070,11 @@ Es responsabilidad del Gobierno Federal y de las entidades federativas atender l
 
 Para dar cumplimiento a la responsabilidad del Gobierno Federal de atender a los productores rurales de bajos ingresos afectados por contingencias climatológicas, el Ejecutivo federal deberá vigilar, la instrumentación de un programa para la atención de fenómenos naturales perturbadores que afecten los activos productivos de productores rurales de bajos ingresos y su previsión presupuestal según lo establecido en el artículo 4 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 93.
 
-Los gobiernos Federal y Estatal deberán concurrir tanto en acciones como en la aportación de recursos, para la instrumentación de programas que coadyuven a la reincorporación de los productores de bajos ingresos a sus actividades productivas.
+Los gobiernos Federal y de las entidades federativas deberán concurrir tanto en acciones como en la aportación de recursos, para la instrumentación de programas que coadyuven a la reincorporación de los productores de bajos ingresos a sus actividades productivas.
 
 ###### Artículo 94.
 
@@ -1041,3 +1147,13 @@ D.O.F. 22 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXX AL ARTÍCULO 19 DE LA LEY GENERAL DE PROTECCIÓN CIVIL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO OCTAVO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+
+Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez que entre en vigor la Constitución Política de la Ciudad de México.
