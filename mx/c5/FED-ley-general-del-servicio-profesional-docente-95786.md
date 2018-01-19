@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-servicio-profesional-docente-95786"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-09-11"
-last_updated: "2013-09-11"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-10"
 
 LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de septiembre de 2013.
 
@@ -65,9 +65,11 @@ III. Regular los derechos y obligaciones derivados del Servicio Profesional Doce
 
 IV. Asegurar la transparencia y rendición de cuentas en el Servicio Profesional Docente.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 3.
 
-Son sujetos del Servicio que regula esta Ley los docentes, el personal con funciones de dirección y supervisión en la Federación, los estados, el Distrito Federal y municipios, así como los asesores técnico pedagógicos, en la Educación Básica y Media Superior que imparta el Estado.
+Son sujetos del Servicio que regula esta Ley los docentes, el personal con funciones de dirección y supervisión en la Federación, las entidades federativas y municipios, así como los asesores técnico pedagógicos, en la Educación Básica y Media Superior que imparta el Estado.
 
 ###### Artículo 4.
 
@@ -77,9 +79,13 @@ I. Actualización: A la adquisición continua de conocimientos y capacidades rel
 
 II. Aplicador: A la persona física seleccionada por la Autoridad Educativa o el Organismo Descentralizado con la función temporal y específica de auxiliar en la aplicación de los instrumentos de evaluación a que se refiere esta Ley, autorizado conforme a los procedimientos y criterios que determine el Instituto;
 
-III. Autoridades Educativas: A la Secretaría de Educación Pública de la Administración Pública Federal y a las correspondientes en los estados, el Distrito Federal y municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-IV. Autoridad Educativa Local: Al ejecutivo de cada uno de los estados de la Federación y del Distrito Federal, así como a las entidades que, en su caso, establezcan para la prestación del servicio público educativo;
+III. Autoridades Educativas: A la Secretaría de Educación Pública de la Administración Pública Federal y a las correspondientes en las entidades federativas y municipios;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV. Autoridad Educativa Local: Al ejecutivo de cada una de las entidades federativas, así como a las entidades que, en su caso, establezcan para la prestación del servicio público educativo;
 
 V. Capacitación: Al conjunto de acciones encaminadas a lograr aptitudes, conocimientos, capacidades o habilidades complementarias para el desempeño del Servicio;
 
@@ -1096,3 +1102,11 @@ Vigésimo Segundo. La Secretaría formulará un plan integral para iniciar a la 
 México, D.F., a 3 de septiembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO OCTAVO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
