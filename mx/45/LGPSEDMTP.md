@@ -4,7 +4,7 @@ identifier: "LGPSEDMTP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-14"
-last_updated: "2014-03-19"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSEDMTP"
 
 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2012.
 
@@ -56,7 +56,9 @@ La presente Ley es reglamentaria del artículo 73, fracción XXI, párrafo prime
 
 Esta Ley tiene por objeto:
 
-I. Establecer competencias y formas de coordinación para la prevención, investigación, persecución y sanción de los delitos en materia de trata de personas entre los Gobiernos Federal, Estatales, del Distrito Federal y Municipales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Establecer competencias y formas de coordinación para la prevención, investigación, persecución y sanción de los delitos en materia de trata de personas entre los Gobiernos Federal, de las entidades federativas y Municipales;
 
 II. Establecer los tipos penales en materia de trata de personas y sus sanciones;
 
@@ -174,13 +176,19 @@ V. Que sean cometidos por la delincuencia organizada, en los términos de la Ley
 
 Para tal efecto la autoridad local deberá coadyuvar en todo momento con la autoridad federal en la integración de la investigación por delincuencia organizada.
 
-El Distrito Federal y los estados serán competentes para investigar, procesar y sancionar los delitos establecidos en esta ley cuando no se den los supuestos previstos anteriormente.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-La ejecución de las penas por los delitos previstos en esta Ley se regirán conforme a los ordenamientos aplicables en la Federación, el Distrito Federal y los Estados, en lo que no se oponga a la presente Ley.
+Las entidades federativas serán competentes para investigar, procesar y sancionar los delitos establecidos en esta ley cuando no se den los supuestos previstos anteriormente.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La ejecución de las penas por los delitos previstos en esta Ley se regirá conforme a los ordenamientos aplicables en la Federación y las entidades federativas, en lo que no se oponga a la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 6o.
 
-La Federación, los estados, los municipios y el Distrito Federal y sus demarcaciones territoriales, estarán obligados a coordinarse, en el ámbito de sus competencias, y en función de las facultades exclusivas y concurrentes previstas en esta Ley, con el objeto de generar prevención general, especial y social, en los términos y reglas establecidas en la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, estarán obligados a coordinarse, en el ámbito de sus competencias, y en función de las facultades exclusivas y concurrentes previstas en esta Ley, con el objeto de generar prevención general, especial y social, en los términos y reglas establecidas en la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley.
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS
 
@@ -190,7 +198,9 @@ La Federación, los estados, los municipios y el Distrito Federal y sus demarcac
 
 Para dar cumplimiento a esta Ley, en materia de investigación, procesamiento y sanción, se deberá observar y atender lo siguiente:
 
-I. El Ministerio Público y los Poderes Judiciales de la Federación, de los estados y del Distrito Federal, garantizarán en todo momento los derechos de las víctimas, con el fin de brindar asistencia, protección, seguridad y acceso a la justicia.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. El Ministerio Público y los Poderes Judiciales de la Federación, de las entidades federativas, garantizarán en todo momento los derechos de las víctimas, con el fin de brindar asistencia, protección, seguridad y acceso a la justicia.
 
 II. Los imputados por la comisión de las conductas delictivas previstas en esta Ley estarán sujetos a prisión preventiva durante el proceso, excepto las previstas en los artículos 32, 33 y 34 de esta Ley.
 
@@ -204,9 +214,11 @@ V. Las policías, el Ministerio Público y las autoridades jurisdiccionales adop
 
 Las policías, Ministerio Público y autoridades jurisdiccionales harán una consideración especial en el desarrollo de sus actividades, cuando la víctima se encuentre en una situación de vulnerabilidad por haber sufrido algún daño físico o emocional que requieran tomar medidas especiales.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 9o.
 
-En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de esta Ley, las autoridades federales, estatales y del Distrito Federal, aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
+En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de esta Ley, las autoridades federales y de las entidades federativas, aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ### CAPÍTULO II. DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS
 
@@ -354,7 +366,9 @@ No se considerará que hay trabajo o servicio forzado, ni explotación laboral, 
 
 I. Se exija en virtud de las leyes sobre el servicio militar obligatorio;
 
-II. Forme parte de las obligaciones cívicas normales de los ciudadanos hacia la Federación, el Distrito Federal o sus demarcaciones territoriales, los estados o municipios;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Forme parte de las obligaciones cívicas normales de los ciudadanos hacia la Federación, las entidades federativas, los municipios y los órganos político administrativos de las demarcaciones territoriales de la Ciudad de México;
 
 III. Se exija a una persona en virtud de una condena pronunciada por sentencia judicial, o en los términos del Artículo 21 Constitucional como trabajo a favor de la comunidad, a condición de que este trabajo o servicio se realice bajo la vigilancia y control de las autoridades públicas, y que dicha persona no sea cedida o puesta a disposición de particulares, compañías o personas jurídicas de carácter privado;
 
@@ -492,9 +506,11 @@ f) Haya sido condenado con anterioridad por el mismo delito, o cualquier otro de
 
 La pena se incrementará hasta en dos terceras partes, cuando el responsable del delito realice, además, acciones de dirección o financiamiento a otras personas para que cometan cualquiera de los delitos objeto de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 44.
 
-Los bienes que sean instrumento, objeto o producto de los delitos previstos en esta Ley, y que sean decomisados como resultado del ejercicio de la extinción de dominio, formarán parte del patrimonio del Fondo, así como de aquellos Fondos de Protección y Asistencia a las Víctimas de los estados y el Distrito Federal.
+Los bienes que sean instrumento, objeto o producto de los delitos previstos en esta Ley, y que sean decomisados como resultado del ejercicio de la extinción de dominio, formarán parte del patrimonio del Fondo, así como de aquellos Fondos de Protección y Asistencia a las Víctimas de las entidades federativas.
 
 Al imponer las consecuencias jurídicas accesorias previstas en este artículo, el Juez, oficiosamente, tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona sancionada. Toda omisión de la autoridad judicial será sancionada en los términos de las leyes aplicables.
 
@@ -502,7 +518,9 @@ Al imponer las consecuencias jurídicas accesorias previstas en este artículo, 
 
 Cuando un miembro o representante de una persona moral cometa algún delito de los previstos en esta Ley, con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido en su nombre, bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias correspondientes, con base a la Ley de Extinción de Dominio aplicable, además del decomiso de los fondos y bienes ilícitos producidos por los delitos previstos en esta Ley, sin excepción alguna.
 
-El Ministerio Público Federal o de los estados y el Distrito Federal podrá tomar medidas para embargar de manera precautoria los productos y bienes del delito.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+El Ministerio Público Federal o de las entidades federativas podrá tomar medidas para embargar de manera precautoria los productos y bienes del delito.
 
 ###### Artículo 46.
 
@@ -588,9 +606,11 @@ II. Proporcionar los tratamientos médicos y psicológicos para la recuperación
 
 ### CAPÍTULO IV. De las Técnicas de Investigación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 52.
 
-Cuando la reparación del daño no sea cubierta total o parcialmente por el sentenciado, la Federación, el Distrito Federal y los Estados, según corresponda, cubrirán dicha reparación con los recursos de sus respectivos fondos, en los términos establecidos por el artículo 81 de esta Ley.
+Cuando la reparación del daño no sea cubierta total o parcialmente por el sentenciado, la Federación y las entidades federativas, según corresponda, cubrirán dicha reparación con los recursos de sus respectivos fondos, en los términos establecidos por el artículo 81 de esta Ley.
 
 Los derechos de la autoridad para exigir al sentenciado la reparación del daño, quedarán a salvo para hacerlos efectivos.
 
@@ -712,9 +732,11 @@ V. La persona que haya sufrido daños al intervenir para asistir a la víctima e
 
 Tendrá la calidad de testigo toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 62.
 
-Las autoridades responsables de atender a las víctimas del delito en los ámbitos federal, de los estados, municipales, del Distrito Federal y de sus Demarcaciones Territoriales, en sus respectivos ámbitos de competencia, adoptarán medidas tendientes a proteger y asistir debidamente a víctimas, ofendidos y testigos, para lo cual deberán:
+Las autoridades responsables de atender a las víctimas del delito en los ámbitos federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en sus respectivos ámbitos de competencia, adoptarán medidas tendientes a proteger y asistir debidamente a víctimas, ofendidos y testigos, para lo cual deberán:
 
 I. Establecer mecanismos adecuados para identificar a las víctimas y posibles víctimas;
 
@@ -902,13 +924,17 @@ Tampoco se interpretará en perjuicio de cualquier acuerdo o arreglo bilateral o
 
 ### CAPÍTULO IV. De la Protección y Asistencia a las Víctimas y el Fondo
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 81.
 
-Los ejecutivos Federal, de los estados y del Distrito Federal establecerán, en el ámbito de sus respectivas competencias, un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
+Los ejecutivos Federal, de las entidades federativas establecerán, en el ámbito de sus respectivas competencias, un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
 
 Los Fondos se constituirán en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera:
 
-I. Recursos previstos para dicho fin en los presupuestos de egresos de la Federación, de los estados y del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+I. Recursos previstos para dicho fin en los presupuestos de egresos de la Federación y de las entidades federativas;
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales que correspondan a los delitos materia de la presente Ley;
 
@@ -924,9 +950,13 @@ VII. Las donaciones o aportaciones hechas a su favor por terceros.
 
 El Fondo Federal para la Atención de Víctimas de los delitos previstos en esta Ley será administrado por la instancia y en los términos que disponga el Reglamento, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
 
-Los recursos que integren el Fondo así como los que destine la Federación a los Fondos de Protección y Asistencia a las Víctimas de los estados y el Distrito Federal, serán fiscalizados por la Auditoría Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
-Asimismo, las instancias encargadas de la revisión de la cuenta pública en los ámbitos de sus respetivas competencias, fiscalizarán los Fondos de Protección y Asistencia a las Víctimas de los Estados y el Distrito Federal, en los términos de la legislación local aplicable.
+Los recursos que integren el Fondo así como los que destine la Federación a los Fondos de Protección y Asistencia a las Víctimas de las entidades federativas, serán fiscalizados por la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Asimismo, las instancias encargadas de la revisión de la cuenta pública en los ámbitos de sus respetivas competencias, fiscalizarán los Fondos de Protección y Asistencia a las Víctimas de las entidades federativas, en los términos de la legislación local aplicable.
 
 Los recursos del Fondo, así como los correspondientes a los fondos de las entidades federativas, provenientes de las fracciones II, III, IV, V y VII del presente artículo, podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de las legislaciones Federal y locales en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
 
@@ -1082,7 +1112,9 @@ V. Desarrollar campañas de prevención y educación, así como programas de des
 
 VI. Impulsar, promover y suscribir convenios de colaboración interinstitucional y suscribir acuerdos de coordinación:
 
-a) Con los gobiernos de las entidades federativas y el Distrito Federal, en materia de diseño y operación de programas de asistencia inmediata a las víctimas de trata interna y demás delitos previstos en esta Ley en materia de seguridad, tránsito o destino, con el propósito de atenderlas o asistirlas en su regreso a su lugar de origen, así como para la detección de víctimas y posibles víctimas y para implementar medidas que impidan la operación de lugares que promuevan el delito de trata de personas, que afecten especialmente a mujeres, niñas, niños y adolescentes;
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+a) Con los gobiernos de las entidades federativas en materia de diseño y operación de programas de asistencia inmediata a las víctimas de trata interna y demás delitos previstos en esta Ley en materia de seguridad, tránsito o destino, con el propósito de atenderlas o asistirlas en su regreso a su lugar de origen, así como para la detección de víctimas y posibles víctimas y para implementar medidas que impidan la operación de lugares que promuevan el delito de trata de personas, que afecten especialmente a mujeres, niñas, niños y adolescentes;
 
 b) Interinstitucionales entre dependencias del gobierno federal, en materia de seguridad, internación, tránsito o destino de las víctimas extranjeras o mexicanas en el extranjero, con el propósito de protegerlas, orientarlas, asistirlas en su regreso a su lugar de origen o en su repatriación voluntaria; así como para prevenir los delitos objeto de esta Ley en todo el territorio nacional y perseguir y sancionar a quienes intervengan en su comisión.
 
@@ -1260,9 +1292,11 @@ Sin menoscabo de lo señalado en los párrafos anteriores, las instituciones a q
 
 Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 97.
 
-Las autoridades federales, estatales, municipales y del Distrito Federal responsables de prevenir, perseguir y sancionar el delito de trata de personas y demás delitos objeto de esta Ley, así como las responsables de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa Nacional, así como de los estados, municipios y del Distrito Federal, con el fin de formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
+Las autoridades federales, de las entidades federativas y municipales responsables de prevenir, perseguir y sancionar el delito de trata de personas y demás delitos objeto de esta Ley, así como las responsables de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa Nacional, así como de las entidades federativas y municipios, con el fin de formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
 
 Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
 
@@ -1294,13 +1328,17 @@ La Secretaría, adoptará y ejecutará todas las medidas necesarias para protege
 
 La Secretaría de Seguridad Pública, adoptará las medidas adecuadas para garantizar la vigilancia en las estaciones de ferrocarril, en los aeropuertos, en los puertos marítimos, en las garitas y puntos fronterizos y en otros lugares públicos, a fin de impedir la comisión del delito de trata de personas y demás delitos previstos en esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 104.
 
-La Secretaría de Seguridad Pública y autoridades estatales, municipales y del Distrito Federal, dentro del ámbito de sus competencias, supervisarán negocios que puedan ser propicios para la comisión del delito previsto en esta Ley, realizando inspecciones en agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines, servicio de Internet, baños públicos u otros.
+La Secretaría de Seguridad Pública y autoridades de las entidades federativas y municipales, dentro del ámbito de sus competencias, supervisarán negocios que puedan ser propicios para la comisión del delito previsto en esta Ley, realizando inspecciones en agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines, servicio de Internet, baños públicos u otros.
 
 Para autorizar la operación de los negocios que presten servicio de Internet, deberán contar con filtros parentales y defensa contra intromisiones no deseadas.
 
-Las Autoridades Municipales y de las Demarcaciones Territoriales del Distrito Federal, de conformidad con sus atribuciones y facultades, deberán adoptar las medidas necesarias para la inspección de las agencias de colocación, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la trata de personas y demás delitos previstos en esta Ley.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Las Autoridades Municipales y de las Demarcaciones Territoriales de la Ciudad de México, de conformidad con sus atribuciones y facultades, deberán adoptar las medidas necesarias para la inspección de las agencias de colocación, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la trata de personas y demás delitos previstos en esta Ley.
 
 ###### Artículo 105.
 
@@ -1338,21 +1376,27 @@ IX. Concederán reconocimientos y distinciones a quienes contribuyan a la consec
 
 X. Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios de prevención de este delito y a la atención, protección y asistencia a las víctimas y sus familias y posibles víctimas, y alcanzar los propósitos mencionados en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 108.
 
-El Gobierno Federal y los gobiernos de los estados y del Distrito Federal, en el marco de la Ley General de Desarrollo Social, llevarán a cabo programas de desarrollo local que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización de los delitos previstos en esta Ley.
+El Gobierno Federal y los gobiernos de las entidades federativas, en el marco de la Ley General de Desarrollo Social, llevarán a cabo programas de desarrollo local que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización de los delitos previstos en esta Ley.
 
 ### CAPÍTULO III. De la Evaluación de los Programas de Prevención
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 109.
 
-Las autoridades federales, estatales y del Distrito Federal, en los ámbitos de sus respectivas competencias, en términos de las disposiciones aplicables, estarán obligadas a generar indicadores sobre la aplicación y resultados de los programas para prevenir los delitos en materia de trata de personas, con la finalidad de que los avances puedan ser sujetos a evaluación.
+Las autoridades federales y de las entidades federativas, en los ámbitos de sus respectivas competencias, en términos de las disposiciones aplicables, estarán obligadas a generar indicadores sobre la aplicación y resultados de los programas para prevenir los delitos en materia de trata de personas, con la finalidad de que los avances puedan ser sujetos a evaluación.
 
 Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 110.
 
-Las autoridades federales, estatales, municipales y del Distrito Federal, responsables de prevenir, perseguir y sancionar el delito de trata de personas y de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa, formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
+Las autoridades federales, de las entidades federativas y municipales, responsables de prevenir, perseguir y sancionar el delito de trata de personas y de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa, formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
 
 Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
 
@@ -1366,7 +1410,9 @@ El Estado apoyará la implementación de programas en las regiones que muestren 
 
 Las autoridades de los distintos órdenes de gobierno, tomando en cuenta las necesidades particulares de cada región o localidad que en las evaluaciones de los programas muestren rezagos en la atención de estos delitos, llevarán a cabo actividades complementarias a las de prevención señaladas en el artículo 72 de esta Ley, para combatir los rezagos detectados en los ámbitos de sus respectivas competencias.
 
-## TÍTULO TERCERO. FACULTADES Y COMPETENCIAS DE LAS AUTORIDADES DE LOS TRES ÓRDENES DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
+
+## TÍTULO TERCERO. FACULTADES Y COMPETENCIAS DE LAS AUTORIDADES DE LOS DISTINTOS ÓRDENES DE GOBIERNO
 
 ### CAPÍTULO I. Del Gobierno Federal
 
@@ -1376,17 +1422,25 @@ Además de las competencias para investigar, perseguir y sancionar los delitos o
 
 I. Determinar para toda la República la Política de Estado para prevenir, investigar, perseguir y sancionar los delitos previstos en esta Ley, así como para la asistencia y protección de las víctimas, los ofendidos y testigos, a cuyo efecto considerará la opinión de las autoridades de los tres poderes y los tres órdenes de gobierno, así como de los diversos sectores sociales involucrados;
 
-II. Desarrollar mecanismos de coordinación entre la federación, los estados, los municipios, el Distrito Federal y sus demarcaciones territoriales, con la finalidad de erradicar los delitos previstos en esta Ley;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-III. Impulsar acuerdos de coordinación entre dependencias del Gobierno Federal y los estados y el Distrito Federal que permitan prestar asistencia y protección integral a las víctimas, ofendidos y testigos;
+II. Desarrollar mecanismos de coordinación entre la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, con la finalidad de erradicar los delitos previstos en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+III. Impulsar acuerdos de coordinación entre dependencias del Gobierno Federal y las entidades federativas que permitan prestar asistencia y protección integral a las víctimas, ofendidos y testigos;
 
 IV. Regular un sistema nacional de formación, actualización, capacitación y profesionalización de los servidores públicos que participen en los procesos de prevención y sanción de los delitos previstos en esta Ley y de la asistencia y protección de las víctimas y posibles víctimas, ofendidos y testigos de dichos delitos;
 
-V. Promover en coordinación con los Gobiernos Federal, de las entidades federativas y del Distrito Federal cursos de capacitación a las personas que atienden a las víctimas, posibles víctimas, ofendidos y testigos de los delitos objeto de esta Ley;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Promover en coordinación con los Gobiernos Federal y de las entidades federativas cursos de capacitación a las personas que atienden a las víctimas, posibles víctimas, ofendidos y testigos de los delitos objeto de esta Ley;
 
 VI. Crear, regular y operar un sistema nacional de vigilancia y observación de los delitos objeto de esta Ley, que permita evaluar los avances y resultados de las acciones del Estado y la sociedad en su combate y prevención;
 
-VII. Fijar los lineamientos generales de las evaluaciones a las que se someterán las acciones y programas desarrollados por el Gobierno Federal, las entidades federativas, los municipios, el Distrito Federal y sus demarcaciones territoriales y la sociedad;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII. Fijar los lineamientos generales de las evaluaciones a las que se someterán las acciones y programas desarrollados por el Gobierno Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México y la sociedad;
 
 VIII. Apoyar la creación de refugios, albergues y casas de medio camino para las víctimas, ofendidos y testigos de los delitos que esta Ley define como del fuero federal, o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos previstos en esta Ley;
 
@@ -1394,7 +1448,9 @@ IX. En función de los resultados de la observación y evaluación de la evoluci
 
 X. Fijar los protocolos únicos para el uso de procedimientos y recursos para el rescate, asistencia y protección de las víctimas y posibles víctimas;
 
-XI. Fijar los requisitos mínimos de los programas y planes que formulen las autoridades federales, de las entidades federativas, los municipios, el Distrito Federal y sus demarcaciones territoriales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XI. Fijar los requisitos mínimos de los programas y planes que formulen las autoridades federales, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México;
 
 XII. Fijar requisitos mínimos de los proyectos y programas que formulen las organizaciones de la sociedad civil involucradas en el combate a los delitos previstos en esta Ley y la atención y protección a las víctimas, cuyas actividades cuenten con apoyos oficiales;
 
@@ -1414,11 +1470,15 @@ XIX. Proteger y asistir a las víctimas, ofendidos y testigos de los delitos que
 
 XX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO II. De las Autoridades Estatales, Municipales y del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE ENERO DE 2018)</small>
+
+### CAPÍTULO II. De las Autoridades de las Entidades Federativas y Municipales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 114.
 
-Corresponden de manera exclusiva a las autoridades de los estados y el Distrito Federal, en sus respectivos ámbitos de competencia, las atribuciones siguientes:
+Corresponden de manera exclusiva a las autoridades de las entidades federativas, en sus respectivos ámbitos de competencia, las atribuciones siguientes:
 
 I. En concordancia con el Programa Nacional, formular políticas e instrumentar programas estatales para prevenir, sancionar y erradicar los delitos previstos en esta Ley, así como para la protección, atención, rehabilitación y recuperación del proyecto de vida de las víctimas y posibles víctimas, ofendidos y testigos de los mismos;
 
@@ -1440,9 +1500,11 @@ IX. Impulsar reformas legales para el cumplimiento de los objetivos de la presen
 
 X. Las demás aplicables a la materia, que les confiera esta Ley u otros ordenamientos legales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 115.
 
-Corresponde a los municipios y a las demarcaciones territoriales del Distrito Federal en el ámbito de sus respectivas facultades y competencias, de conformidad con esta Ley, la legislación aplicable en la materia y las políticas y programas federales, estatales y del Distrito Federal:
+Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas facultades y competencias, de conformidad con esta Ley, la legislación aplicable en la materia y las políticas y programas federales y de las entidades federativas:
 
 I. Instrumentar políticas y acciones para prevenir y erradicar la esclavitud, la trata de personas o demás delitos previstos en esta Ley;
 
@@ -1454,9 +1516,11 @@ IV. Detectar y prevenir la trata de personas y demás delitos previstos en esta 
 
 V. Las demás aplicables sobre la materia y las que les confiera esta Ley y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 116.
 
-Adicionalmente a las atribuciones exclusivas de los gobiernos Federal, de las entidades federativas, municipios y del Distrito Federal y sus demarcaciones territoriales, les corresponde de manera concurrente las atribuciones siguientes:
+Adicionalmente a las atribuciones exclusivas de los gobiernos Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, les corresponde de manera concurrente las atribuciones siguientes:
 
 I. Editar y producir materiales de difusión para la prevención de los delitos previstos en esta Ley en todas sus formas y modalidades;
 
@@ -1486,7 +1550,9 @@ b) Sistematizar y ejecutar los métodos de análisis de información estratégic
 
 c) Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-VII. El gobierno de cada entidad federativa, el Distrito Federal, los ayuntamientos y las jefaturas delegacionales podrán celebrar convenios para coordinar o unificar sus actividades en la materia de esta Ley, para cumplir de mejor manera las responsabilidades a su cargo.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII. El gobierno de cada entidad federativa, los ayuntamientos y las alcaldías de la Ciudad de México podrán celebrar convenios para coordinar o unificar sus actividades en la materia de esta Ley, para cumplir de mejor manera las responsabilidades a su cargo.
 
 ### CAPÍTULO III. De la Reglamentación del Programa
 
@@ -1564,23 +1630,31 @@ IV. Retiro voluntario del Programa.
 
 Del Financiamiento a la Prevención, Sanción y Erradicación de los Delitos Previstos en esta Ley y de la Asistencia y Protección a las Víctimas, Ofendidos y Testigos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 123.
 
-El Gobierno Federal y los gobiernos de los estados y del Distrito Federal, con sujeción a las disposiciones de sus respectivas leyes de ingresos y decretos de egresos que resulten aplicables, concurrirán en el financiamiento de la prevención, sanción y erradicación de los delitos previstos en esta Ley y de los servicios para la asistencia y protección a las víctimas y ofendidos.
+El Gobierno Federal y los gobiernos de las entidades federativas, con sujeción a las disposiciones de sus respectivas leyes de ingresos y decretos de egresos que resulten aplicables, concurrirán en el financiamiento de la prevención, sanción y erradicación de los delitos previstos en esta Ley y de los servicios para la asistencia y protección a las víctimas y ofendidos.
 
 Los recursos federales recibidos para ese fin por cada entidad federativa, no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades previstas en esta Ley en la propia entidad.
 
-Los gobiernos de las entidades federativas y el Distrito Federal prestarán todas las facilidades y colaboración para que, en su caso, la Auditoría Superior de la Federación verifique la correcta aplicación de dichos recursos.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+Los gobiernos de las entidades federativas prestarán todas las facilidades y colaboración para que, en su caso, la Auditoría Superior de la Federación verifique la correcta aplicación de dichos recursos.
 
 En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 124.
 
-Los gobiernos de los estados y del Distrito Federal, de conformidad con las disposiciones aplicables, proveerán lo conducente para que cada ayuntamiento y demarcación territorial reciba recursos para el cumplimiento de las responsabilidades que estén a su cargo.
+Los gobiernos de las entidades federativas, de conformidad con las disposiciones aplicables, proveerán lo conducente para que cada ayuntamiento y demarcación territorial reciba recursos para el cumplimiento de las responsabilidades que estén a su cargo.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 125.
 
-Para dar cumplimiento a lo dispuesto en los artículos anteriores, el Gobierno Federal, los gobiernos de los estados y el del Distrito Federal, tomarán en cuenta el carácter prioritario de la prevención, combate y sanción de los delitos previstos en esta Ley, y de la protección y asistencia a las víctimas de este delito, para la seguridad nacional.
+Para dar cumplimiento a lo dispuesto en los artículos anteriores, el Gobierno Federal y los gobiernos de las entidades federativas, tomarán en cuenta el carácter prioritario de la prevención, combate y sanción de los delitos previstos en esta Ley, y de la protección y asistencia a las víctimas de este delito, para la seguridad nacional.
 
 ###### Artículo 126.
 
@@ -1632,8 +1706,14 @@ México, D. F., a 27 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 19 DE MARZO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
