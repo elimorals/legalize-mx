@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-archivos-85034"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-01-23"
-last_updated: "2012-01-23"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85034&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-18"
 
 LEY FEDERAL DE ARCHIVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de enero de 2012.
 
@@ -43,9 +43,11 @@ LEY FEDERAL DE ARCHIVOS
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 1.
 
-El objeto de esta Ley es establecer las disposiciones que permitan la organización y conservación de los archivos en posesión de los Poderes de la Unión, los organismos constitucionales autónomos y los organismos con autonomía legal, así como establecer los mecanismos de coordinación y de concertación entre la Federación, las entidades federativas, el Distrito Federal y los municipios para la conservación del patrimonio documental de la Nación, así como para fomentar el resguardo, difusión y acceso de archivos privados de relevancia histórica, social, técnica, científica o cultural.
+El objeto de esta Ley es establecer las disposiciones que permitan la organización y conservación de los archivos en posesión de los Poderes de la Unión, los organismos constitucionales autónomos y los organismos con autonomía legal, así como establecer los mecanismos de coordinación y de concertación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México para la conservación del patrimonio documental de la Nación, así como para fomentar el resguardo, difusión y acceso de archivos privados de relevancia histórica, social, técnica, científica o cultural.
 
 ###### Artículo 2.
 
@@ -185,7 +187,9 @@ VI. Promover el uso y difusión de los archivos históricos generados por los su
 
 VII. Favorecer la utilización de tecnologías de la información para mejorar la administración de los archivos por los sujetos obligados;
 
-VIII. Establecer mecanismos para la colaboración entre las autoridades federales, estatales y municipales en materia de archivos; y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VIII. Establecer mecanismos para la colaboración entre las autoridades federales, de las entidades federativas y municipales en materia de archivos; y
 
 IX. Contribuir a la promoción de una cultura de valoración de los archivos y su reconocimiento como eje de la actividad gubernamental.
 
@@ -261,7 +265,7 @@ V. Las demás que señale el Reglamento, los lineamientos y demás disposiciones
 
 Los sujetos obligados contarán con un archivo de concentración, adscrito al área coordinadora de archivos, en donde se conservará aquella documentación de uso esporádico que debe mantenerse por razones administrativas, legales, fiscales o contables.
 
-El responsable del archivo de concentración deberá contar con conocimientos y experiencia en archivística, y será nombrado por el titular de la dependencia o entidad o por el titular de la instancia u órgano que determinen los otros sujetos obligado distintos al Poder Ejecutivo Federal.
+El responsable del archivo de concentración deberá contar con conocimientos y experiencia en archivística, y será nombrado por el titular de la dependencia o entidad o por el titular de la instancia u órgano que determinen los otros sujetos obligado (sic) distintos al Poder Ejecutivo Federal.
 
 El responsable del archivo de concentración tendrá las siguientes funciones:
 
@@ -517,17 +521,25 @@ VII. Un representante del Instituto Federal Electoral;
 
 VIII. Un representante del Instituto Nacional de Geografía, Estadística e Informática;
 
-IX. Un representante de los archivos de los estados y del Distrito Federal, electo en la Reunión Nacional de Archivos;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IX. Un representante de los archivos de las entidades federativas, electo en la Reunión Nacional de Archivos;
 
 X. Un representante de los archivos de los municipios, electo en la Reunión Nacional de Archivos;
 
-XI. Un representante de los archivos de los poderes judiciales estatales y del Distrito Federal, electo en el Encuentro Nacional de Archivos Judiciales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-XII. Un representante de los archivos de los poderes legislativos estatales y del Distrito Federal, electo en la Reunión Nacional de Archivos;
+XI. Un representante de los archivos de los poderes judiciales de las entidades federativas, electo en el Encuentro Nacional de Archivos Judiciales;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XII. Un representante de los archivos de los poderes legislativos de las entidades federativas, electo en la Reunión Nacional de Archivos;
 
 XIII. Un representante del Instituto;
 
-XIV. Un representante de los institutos o consejos de transparencia estatales y del Distrito Federal, designados por la Conferencia Mexicana de Acceso a la Información Pública;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XIV. Un representante de los institutos o consejos de transparencia de las entidades federativas, designados por la Conferencia Mexicana de Acceso a la Información Pública;
 
 XV. Un representante de las instituciones de docencia, investigación, o preservación de archivos designado por la Asociación Nacional de Universidades e Instituciones de Educación Superior;
 
@@ -555,9 +567,11 @@ El Sistema Nacional de Archivos es un mecanismo de colaboración, coordinación 
 
 El Sistema Nacional de Archivos se conducirá de conformidad con las disposiciones previstas en esta Ley, su Reglamento y los criterios y directrices que emita el Consejo Nacional de Archivos.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 40.
 
-El Sistema Nacional de Archivos se integra por los archivos del Poder Ejecutivo Federal, el Poder Judicial de la Federación, el Poder Legislativo Federal, los organismos constitucionales autónomos, los organismos autónomos por ley, las entidades federativas y el Distrito Federal, los municipios o demarcaciones territoriales, las universidades e instituciones de educación superior, los archivos privados declarados de interés público, y aquellos archivos privados que soliciten ser considerados como parte de este sistema y acepten aplicar sus directrices.
+El Sistema Nacional de Archivos se integra por los archivos del Poder Ejecutivo Federal, el Poder Judicial de la Federación, el Poder Legislativo Federal, los organismos constitucionales autónomos, los organismos autónomos por ley y las entidades federativas, los municipios o demarcaciones territoriales, las universidades e instituciones de educación superior, los archivos privados declarados de interés público, y aquellos archivos privados que soliciten ser considerados como parte de este sistema y acepten aplicar sus directrices.
 
 ## TÍTULO SEXTO. DEL ARCHIVO GENERAL DE LA NACIÓN
 
@@ -615,7 +629,9 @@ XI. Preparar, publicar y distribuir, en forma onerosa o gratuita, las obras y co
 
 XII. Proporcionar los servicios complementarios que determine el Reglamento de esta Ley y otras disposiciones aplicables;
 
-XIII. Determinar lineamientos para concentrar en sus instalaciones el Diario Oficial de la Federación y demás publicaciones de los Poderes de la Unión, de las entidades federativas, del Distrito Federal y de los municipios o demarcaciones territoriales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XIII. Determinar lineamientos para concentrar en sus instalaciones el Diario Oficial de la Federación y demás publicaciones de los Poderes de la Unión, de las entidades federativas y de los municipios o demarcaciones territoriales de la Ciudad de México;
 
 XIV. Establecer políticas para reunir, organizar y difundir el acervo documental gráfico, bibliográfico y hemerográfico necesario para apoyar el desarrollo archivístico y la investigación histórica nacional, con base en las mejores prácticas internacionales adecuadas a la realidad nacional;
 
@@ -649,9 +665,11 @@ XXVIII. Proponer ante la autoridad competente el rescate de documentos históric
 
 XXIX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 45.
 
-El Archivo General de la Nación podrá celebrar convenios de colaboración o coordinación, según corresponda, con los sujetos obligados distintos del Poder Ejecutivo Federal, con entidades federativas, el Distrito Federal y municipios, así como con particulares, con el propósito de desarrollar acciones que permitan la modernización de los servicios archivísticos, el rescate y administración del patrimonio documental de la Nación, en el marco de la normatividad aplicable. Asimismo, podrá establecer vínculos con otros archivos internacionales afines.
+El Archivo General de la Nación podrá celebrar convenios de colaboración o coordinación, según corresponda, con los sujetos obligados distintos del Poder Ejecutivo Federal, con entidades federativas y municipios, así como con particulares, con el propósito de desarrollar acciones que permitan la modernización de los servicios archivísticos, el rescate y administración del patrimonio documental de la Nación, en el marco de la normatividad aplicable. Asimismo, podrá establecer vínculos con otros archivos internacionales afines.
 
 #### Sección Primera. Del Órgano de Gobierno
 
@@ -691,7 +709,9 @@ IV. Tener cuando menos treinta años de edad al día de la designación;
 
 V. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Órgano de Gobierno; y
 
-VI. No haber sido Secretario de Estado, Jefe de Departamento Administrativo, Procurador General de la República, Senador, Diputado Federal o Local, dirigente de un partido o asociación política, Gobernador de algún Estado o Jefe del Gobierno del Distrito Federal, durante el año previo al día de su nombramiento.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI. No haber sido Secretario de Estado, Jefe de Departamento Administrativo, Procurador General de la República, Senador, Diputado Federal o Local, dirigente de un partido o asociación política, Gobernador de algún Estado o Jefe del Gobierno de la Ciudad de México, durante el año previo al día de su nombramiento.
 
 ### Capítulo II. Del Registro Nacional de Archivos Históricos
 
@@ -794,3 +814,11 @@ Artículo Decimosegundo. Se derogan todas aquellas disposiciones legales o regla
 México, D. F., a 8 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Balfre Vargas Cortez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciocho de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
