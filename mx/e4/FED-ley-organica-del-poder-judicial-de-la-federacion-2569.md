@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2017-06-19"
+last_updated: "2018-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -371,8 +371,6 @@ VII. De las controversias que por razón de competencia se susciten entre tribun
 VIII. De las denuncias de contradicción entre tesis que sustenten los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los tribunales colegiados de circuito con diferente especialización, para los efectos a que se refiere la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. De las controversias que se susciten con motivo de los convenios a los que se refiere el segundo párrafo del artículo 119 Constitucional;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 X. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
@@ -756,8 +754,6 @@ III. De las autorizaciones para intervenir cualquier comunicación privada; así
 
 IV. De los delitos del fuero común respecto de los cuales el Ministerio Público de la Federación hubiere ejercido la facultad de atracción.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 50
@@ -781,8 +777,6 @@ TER.- Cuando la solicitud de autorización de intervención de comunicaciones pr
 > <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -866,31 +860,21 @@ IV. De los asuntos civiles concernientes a miembros del cuerpo diplomático y co
 
 V. De las diligencias de jurisdicción voluntaria que se promuevan en materia federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 VI. De las controversias ordinarias en que la federación fuere parte;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
 VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
 VIII. De los asuntos de la competencia de los juzgados de distrito en materia de procesos federales que no estén enumerados en los artículos 50, 52 y 55 de esta Ley, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
 IX. De los juicios y procedimientos previstos en los términos de la Ley Reglamentaria del Artículo 6o. Constitucional, en materia del Derecho de Réplica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO VIGÉSIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1338,25 +1322,17 @@ XXXVIII. Dictar las medidas que exijan el buen servicio y la disciplina en las o
 
 XXXIX. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales a que se refiere el artículo 153 de esta ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XL. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XLI. Designar de entre sus miembros a los comisionados que integrarán la Comisión de Administración del Tribunal Electoral, en los términos señalados en el párrafo segundo del artículo 205 de esta ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 XLII. Realizar las funciones que se le confieren en términos de lo dispuesto por el Libro Quinto del Código Federal de Procedimientos Civiles y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -2152,8 +2128,6 @@ Fuera del lugar de la residencia de los tribunales de circuito, las diligencias 
 
 Fuera de la residencia de los juzgados de distrito, las diligencias podrán practicarse por el mismo juez de distrito, por el del fuero común comisionado al efecto, o por el secretario o actuario del juzgado de distrito.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 En los asuntos del orden penal los jueces de distrito podrán autorizar a los jueces del orden común en términos del artículo 47 de esta Ley y cuando dichos jueces ordenen la práctica de diligencias para que resuelvan sobre la vinculación a proceso o no vinculación a proceso por falta de méritos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Nacional de Procedimientos Penales.
@@ -2182,9 +2156,11 @@ Los actos de los secretarios encargados de los tribunales de circuito y de los j
 
 Los magistrados de circuito y los jueces de distrito otorgarán a los secretarios, actuarios y demás empleados de los tribunales de circuito y juzgados de distrito, dos períodos de vacaciones durante el año, que no excederán de quince días cada uno, procurándose que no sean concedidas simultáneamente a todos los empleados de la misma oficina.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 163.
 
-En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la Ley.
+En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la Ley.
 
 ### CAPITULO VI. DE LAS LICENCIAS
 
@@ -4021,3 +3997,9 @@ D.O.F. 19 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, PUBLICADO EL VEINTITRÉS DE MAYO DE DOS MIL CATORCE”.]
 
 Único.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y 163 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
