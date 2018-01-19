@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2017-12-26"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "VER"
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 19 DE ENERO DE 2018.]</small>
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1269,7 +1271,9 @@ depósito y custodia de vehículos, de acuerdo con el
 
 Reglamento de la Ley de Tránsito y Transporte: 530.1364 UMA
 
-Revalidación anual: 1590409 UMA
+> <small>(F. DE E., G.O. 19 DE ENERO DE 2018)</small>
+
+Revalidación anual: 159.0409 UMA
 
 XIII. Por la transferencia por cesión de derechos de una concesión para prestar el servicio público de transporte en las modalidades siguientes:
 
