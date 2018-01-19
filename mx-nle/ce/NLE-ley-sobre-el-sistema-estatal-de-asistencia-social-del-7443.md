@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2015-03-16"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -163,17 +163,13 @@ XIX.- Apoyo a personas con padecimientos crónicos u oncológicos cuya situació
 
 XX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
-
 ###### ARTICULO 10o. Bis.
 
-Se crea la Comisión Estatal de la Vejez para apoyar y fortalecer los programas interinstitucionales que aseguren la atención integral de la población senecta en la prestación de los servicios asistenciales.
+(DEROGADO, P.O. 19 DE ENERO DE 2018)
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
+###### ARTICULO 10o. Bis 1.
 
-###### ARTICULO 10o.
-
-Bis I.- La Comisión Estatal de la Vejez se integrará por un Presidente que será el Gobernador del Estado y por un Secretario Ejecutivo que será el Director General del Sistema para el Desarrollo Integral de la Familia en Nuevo León, y además una representación de las Secretaría de Educación, Trabajo, Desarrollo Social, Desarrollo Económico, así como de la Comisión Estatal de Derechos Humanos, del Instituto Nacional de la Senectud, representantes de las Universidades e Institutos de Educación Superior y de la sociedad civil representada por las instituciones privadas que presten servicios de asistencia social a los ancianos en el Estado. Los cargos de todos sus integrantes serán honoríficos.
+(DEROGADO, P.O. 19 DE ENERO DE 2018)
 
 ### CAPITULO TERCERO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NUEVO LEON
 
@@ -556,3 +552,15 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 16 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 344. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, SE REFORMAN EL ARTÍCULO 3, LA FRACCIÓN X DEL ARTÍCULO 10 Y LOS ARTÍCULOS 17, 19, 20, 22 A 30, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO CUARTO Y DEL TÍTULO QUINTO; SE ADICIONAN LOS CAPÍTULOS I A IV AL TÍTULO QUINTO Y LOS ARTÍCULOS 30 BIS A 30 BIS 10, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; Y SE DEROGAN LOS ARTÍCULOS 10 BIS Y 10 BIS I DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La convocatoria para la integración del Consejo Técnico Consultivo de Participación Ciudadana para las Personas Adultas Mayores deberá publicarse en un plazo máximo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- La Junta de Gobierno dispondrá de un plazo de hasta 120 días naturales contados a partir de su instalación para llevar a cabo su Primera Sesión de Trabajo en la que se aprobará el Reglamento a que se refiere esta Ley y presentarlo ante el Titular del Poder Ejecutivo del Estado para su expedición.
+
+Cuarto.- La Secretaría de Finanzas y Tesorería General del Estado asignará la partida presupuestal aprobada para el ejercicio fiscal 2018 y necesaria para la creación y operación del Instituto.
