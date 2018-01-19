@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2016-06-01"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -82,7 +82,9 @@ III.- Entidades: las entidades paraestatales que con tal carácter determina la 
 
 IV.- Federación: el orden de gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes nacionales, a través de los poderes Legislativo, Ejecutivo o Judicial;
 
-V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la Federación, del Distrito Federal y de los Estados; las dependencias y entidades de las administraciones públicas Federal, del Gobierno del Distrito Federal, estatales y municipales; la Procuraduría General de la República; las unidades administrativas de la Presidencia de la República, y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la Federación y de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, de las entidades federativas y municipales; la Procuraduría General de la República; las unidades administrativas de la Presidencia de la República, y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de las entidades federativas;
 
 VI.- Instituciones destinatarias: las instituciones públicas que tienen destinados a su servicio inmuebles federales;
 
@@ -398,7 +400,9 @@ IX.- Presentar y ratificar denuncias y querellas en el orden penal relativas a l
 
 X.- Prestar asesoría a las dependencias y entidades que lo soliciten, en la materia inmobiliaria propia de su competencia;
 
-XI.- Suscribir bases de colaboración y convenios con las demás dependencias y con las entidades; convenios de colaboración con los Poderes Legislativo y Judicial de la Federación y con los órganos de carácter federal con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos; acuerdos de coordinación con los gobiernos del Distrito Federal, de los estados y de los municipios, y convenios de concertación con personas físicas o morales de los sectores privado y social, a fin de conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XI.- Suscribir bases de colaboración y convenios con las demás dependencias y con las entidades; convenios de colaboración con los Poderes Legislativo y Judicial de la Federación y con los órganos de carácter federal con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos; acuerdos de coordinación con los gobiernos de las entidades federativas y de los municipios, y convenios de concertación con personas físicas o morales de los sectores privado y social, a fin de conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo;
 
 XII.- Dictar las disposiciones necesarias para el cumplimiento de esta Ley, y
 
@@ -446,7 +450,9 @@ XVII.- Emitir los criterios para determinar los valores aplicables a cada tipo d
 
 XVIII.- Emitir las normas técnicas relativas a la imagen institucional, señalización, distribución de espacios e instalaciones, tipo de acabados y en general para el óptimo aprovechamiento, funcionalidad y racionalidad de los inmuebles federales utilizados como oficinas administrativas, atendiendo a los distintos tipos de edificios y su ubicación geográfica;
 
-XIX.- Planear y ejecutar las obras de construcción, reconstrucción, rehabilitación, conservación y demolición de los inmuebles federales compartidos por varias instituciones públicas y utilizados como oficinas administrativas, y las demás que realice en dichos bienes el Gobierno Federal por sí o en cooperación con otros países, con los gobiernos de los estados, los municipios y del Distrito Federal, así como con entidades o con los particulares;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XIX.- Planear y ejecutar las obras de construcción, reconstrucción, rehabilitación, conservación y demolición de los inmuebles federales compartidos por varias instituciones públicas y utilizados como oficinas administrativas, y las demás que realice en dichos bienes el Gobierno Federal por sí o en cooperación con otros países, con los gobiernos de las entidades federativas y los municipios, así como con entidades o con los particulares;
 
 XX.- Aprobar los proyectos de obras de construcción, reconstrucción, reparación, adaptación, ampliación o demolición de los inmuebles federales utilizados para fines religiosos, con excepción de los determinados por ley o decreto como monumentos históricos o artísticos;
 
@@ -670,7 +676,9 @@ El Registro Público de la Propiedad Federal permitirá a las personas que lo so
 
 En el Registro Público de la Propiedad correspondiente al lugar de ubicación de los inmuebles de que se trate, a solicitud de la Secretaría, deberán inscribirse los documentos a que se refiere el artículo 42, fracciones I a V, VII a XII, XV a XX, XXII y XXVI de esta Ley, así como los documentos en que consten los actos por los que se cancelen las inscripciones correspondientes, en términos de lo previsto por el artículo 44 de la presente Ley.
 
-La Secretaría en los acuerdos de coordinación que celebre de manera general o especial con los gobiernos de los estados y del Distrito Federal, instrumentará los mecanismos de comunicación entre el Registro Público de la Propiedad Federal a su cargo y los registros públicos de la propiedad de las entidades federativas para que agilicen la inscripción y la expedición de constancias respecto de los actos jurídicos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+La Secretaría en los acuerdos de coordinación que celebre de manera general o especial con los gobiernos de las entidades federativas, instrumentará los mecanismos de comunicación entre el Registro Público de la Propiedad Federal a su cargo y los registros públicos de la propiedad de las entidades federativas para que agilicen la inscripción y la expedición de constancias respecto de los actos jurídicos a que se refiere el párrafo anterior.
 
 ### CAPÍTULO II. DE LOS INMUEBLES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL CENTRALIZADA
 
@@ -852,7 +860,9 @@ II.- Los destinados al servicio de los Poderes Legislativo y Judicial de la Fede
 
 III.- Los destinados al servicio de las dependencias y entidades;
 
-IV.- Los destinados al servicio de los gobiernos de los estados, del Distrito Federal y de los municipios o de sus respectivas entidades paraestatales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+IV.- Los destinados al servicio de los gobiernos de las entidades federativas y de los municipios o de sus respectivas entidades paraestatales;
 
 V.- Los destinados al servicio de la Procuraduría General de la República, de las unidades administrativas de la Presidencia de la República, y de las instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados;
 
@@ -1164,9 +1174,11 @@ IX.- Definir los criterios y normas técnicas a que deberán sujetarse los usuar
 
 X.- Autorizar el traslado temporal de los bienes muebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, para fines de difusión de la cultura, conforme al convenio que para tal efecto se celebre, así como verificar que se tomen las medidas de seguridad necesarias para salvaguardar estos bienes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 82.
 
-Los gobiernos de los estados y del Distrito Federal, en auxilio de la Secretaría de Gobernación y de la Secretaría, podrán en los términos de los convenios de colaboración o coordinación que celebren, ejercer las siguientes facultades en relación con los inmuebles federales utilizados para fines religiosos y sus anexidades, con excepción de aquellos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente:
+Los gobiernos de las entidades federativas, en auxilio de la Secretaría de Gobernación y de la Secretaría, podrán en los términos de los convenios de colaboración o coordinación que celebren, ejercer las siguientes facultades en relación con los inmuebles federales utilizados para fines religiosos y sus anexidades, con excepción de aquellos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente:
 
 I.- Vigilar su conservación y preservación, así como la de los muebles ubicados en dichos inmuebles que se consideren inmovilizados o guarden conexión con el uso o destino religioso;
 
@@ -1230,7 +1242,9 @@ Los inmuebles federales que no sean útiles para destinarlos al servicio públic
 
 I.- Enajenación a título oneroso;
 
-II.- Permuta con las entidades; los gobiernos de los estados, del Distrito Federal y de los municipios o con sus respectivas entidades paraestatales, o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II.- Permuta con las entidades; los gobiernos de las entidades federativas y de los municipios o con sus respectivas entidades paraestatales, o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
 
 III.- Enajenación a título oneroso o gratuito, de conformidad con los criterios que determine la Secretaría, atendiendo la opinión de la Secretaría de Desarrollo Social, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
@@ -1248,7 +1262,9 @@ VIII. Indemnización como pago en especie por las expropiaciones y afectaciones;
 
 IX.- Enajenación al último propietario del inmueble que se hubiere adquirido por vías de derecho público, cuando vaya a ser vendido;
 
-X.- Donación a favor de los gobiernos de los estados, del Distrito Federal y de los municipios, o de sus respectivas entidades paraestatales, a fin de que utilicen los inmuebles en servicios públicos locales, fines educativos o de asistencia social; para obtener fondos a efecto de aplicarlos en el financiamiento, amortización o construcción de obras públicas, o para promover acciones de interés general o de beneficio colectivo;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+X.- Donación a favor de los gobiernos de las entidades federativas y de los municipios, o de sus respectivas entidades paraestatales, a fin de que utilicen los inmuebles en servicios públicos locales, fines educativos o de asistencia social; para obtener fondos a efecto de aplicarlos en el financiamiento, amortización o construcción de obras públicas, o para promover acciones de interés general o de beneficio colectivo;
 
 XI.- Enajenación a título oneroso a favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad, o para la realización de programas de vivienda y desarrollo urbano;
 
@@ -1318,9 +1334,11 @@ En los contratos respectivos deberá estipularse que la falta de pago de tres me
 
 (DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 91.
 
-En los casos en que el Gobierno Federal descentralice funciones o servicios a favor de los gobiernos de los estados, del Distrito Federal o de los municipios, y determine la transmisión del dominio de los inmuebles federales utilizados en la prestación de dichas funciones o servicios, la Secretaría procederá a celebrar los contratos de donación o, en su caso, de cesión gratuita de derechos posesorios.
+En los casos en que el Gobierno Federal descentralice funciones o servicios a favor de los gobiernos de las entidades federativas o de los municipios, y determine la transmisión del dominio de los inmuebles federales utilizados en la prestación de dichas funciones o servicios, la Secretaría procederá a celebrar los contratos de donación o, en su caso, de cesión gratuita de derechos posesorios.
 
 ###### ARTÍCULO 92.
 
@@ -1380,7 +1398,9 @@ No se requerirá intervención de notario en los casos siguientes:
 
 I.- Donaciones a favor de la Federación;
 
-II.- Donaciones de la Federación a favor de los gobiernos de los estados, del Distrito Federal y de los municipios, y de sus respectivas entidades;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II.- Donaciones de la Federación a favor de los gobiernos de las entidades federativas y de los municipios, y de sus respectivas entidades;
 
 III.- Adquisiciones y enajenaciones a título gratuito u oneroso que realice la Federación con las entidades;
 
@@ -1390,7 +1410,9 @@ V.- Transmisiones de propiedad a favor de la Federación de los inmuebles que hu
 
 VI.- Adjudicaciones a favor de la Federación en los casos previstos por el artículo 57 de esta Ley;
 
-VII.- Donaciones que realicen los gobiernos de los estados, del Distrito Federal o de los municipios, o sus respectivas entidades paraestatales, a favor de entidades, para la realización de las actividades propias de su objeto;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VII.- Donaciones que realicen los gobiernos de las entidades federativas o de los municipios, o sus respectivas entidades paraestatales, a favor de entidades, para la realización de las actividades propias de su objeto;
 
 VIII.- Enajenaciones de inmuebles federales a favor de personas de escasos recursos, para satisfacer necesidades habitacionales, cuando el valor de cada inmueble no exceda de la suma que resulte de multiplicar por diez el salario mínimo general elevado al año que corresponda al Distrito Federal;
 
@@ -1468,7 +1490,9 @@ IV.- La conservación y mantenimiento de los locales interiores del inmueble que
 
 Para los efectos previstos en las fracciones I y III de este artículo, tratándose de las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán tramitar las adecuaciones presupuestarias respectivas para que, en su caso, la Secretaría realice tales acciones, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
 
-En el caso de que sean ocupantes los Poderes Legislativo y Judicial de la Federación, las dependencias y entidades de las administraciones públicas del Distrito Federal, estatales y municipales o las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados, para los efectos previstos en las fracciones I y III del presente artículo, dichas instituciones participarán con los recursos necesarios en relación directa con el espacio que ocupen de manera exclusiva en el inmueble de que se trate.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+En el caso de que sean ocupantes los Poderes Legislativo y Judicial de la Federación, las dependencias y entidades de las administraciones públicas de las entidades federativas y municipales o las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados, para los efectos previstos en las fracciones I y III del presente artículo, dichas instituciones participarán con los recursos necesarios en relación directa con el espacio que ocupen de manera exclusiva en el inmueble de que se trate.
 
 #### Sección Octava. De la Recuperación de Inmuebles por la Vía Administrativa
 
@@ -1722,7 +1746,9 @@ Para efectos de la subasta se considerará postura legal la que cubra las dos te
 
 Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán vender bienes muebles sin sujetarse a licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, previa autorización de la Secretaría, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas. En estos casos, la selección del procedimiento de enajenación se hará en función de obtener las mejores condiciones para el Gobierno Federal, en cuanto a precio, oportunidad y demás circunstancias pertinentes.
 
-También podrán las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, vender bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a mil días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
+También podrán las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, vender bienes sin sujetarse a licitación pública, cuando el valor de éstos en su conjunto no exceda del equivalente a mil días de salario mínimo general vigente en la Ciudad de México.
 
 El monto de la enajenación no podrá ser inferior a los valores mínimos de los bienes que, en su caso, determine la Secretaría con base en el avalúo que para tal efecto practique o mediante el procedimiento que con ese objeto establezca. La Secretaría emitirá, conforme a las disposiciones aplicables, los instrumentos administrativos que contengan los referidos valores.
 
@@ -1730,9 +1756,11 @@ La enajenación de bienes muebles cuyo valor mínimo no hubiere fijado la Secret
 
 Lo dispuesto en los dos párrafos anteriores respecto al valor mínimo de venta no será aplicable a los casos de subasta a que se refiere el párrafo segundo de este artículo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 133.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, con aprobación expresa de su Oficial Mayor o equivalente, o del Comité de Bienes Muebles, en su caso, podrán donar bienes muebles de propiedad federal que estén a su servicio, cuando ya no les sean útiles, a los Estados, Distrito Federal, municipios, instituciones de salud, beneficencia o asistencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades que los necesiten para sus fines, siempre que el valor de los bienes objeto de la donación, conforme al último párrafo de este artículo, no exceda del equivalente a diez mil días de salario mínimo general vigente en el Distrito Federal. Dicha donación se realizará conforme al procedimiento establecido en este Capítulo.
+Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, con aprobación expresa de su Oficial Mayor o equivalente, o del Comité de Bienes Muebles, en su caso, podrán donar bienes muebles de propiedad federal que estén a su servicio, cuando ya no les sean útiles, a las entidades federativas, municipios, instituciones de salud, beneficencia o asistencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo de las propias dependencias, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos y a entidades que los necesiten para sus fines, siempre que el valor de los bienes objeto de la donación, conforme al último párrafo de este artículo, no exceda del equivalente a diez mil Unidades de Medida y Actualización. Dicha donación se realizará conforme al procedimiento establecido en este Capítulo.
 
 Si el valor de los bienes excede de la cantidad mencionada, se requerirá de la previa autorización de la Secretaría.
 
@@ -1752,9 +1780,11 @@ Efectuada la enajenación, transferencia o destrucción, se procederá a la canc
 
 Los actos de disposición final que respecto de los bienes muebles a su servicio, realicen en sus representaciones en el extranjero las dependencias y la Procuraduría General de la República, se regirán en lo procedente por este Capítulo, sin perjuicio de lo dispuesto por la legislación del lugar donde se lleven a cabo.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 137.
 
-Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán otorgar bienes muebles en comodato a entidades, a los gobiernos del Distrito Federal, de los estados y de los municipios, así como a instituciones de educación superior y asociaciones que no persigan fines de lucro, siempre y cuando con ello se contribuya al cumplimiento de programas del Gobierno Federal, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
+Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, podrán otorgar bienes muebles en comodato a entidades, a los gobiernos de las entidades federativas y de los municipios, así como a instituciones de educación superior y asociaciones que no persigan fines de lucro, siempre y cuando con ello se contribuya al cumplimiento de programas del Gobierno Federal, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
 
 ###### ARTÍCULO 138.
 
@@ -1820,7 +1850,9 @@ Previamente a la celebración de los actos jurídicos a que se refiere el presen
 
 I.- El valor de los inmuebles respecto de los que la Federación pretenda adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
 
-II.- El valor de los inmuebles respecto de los que la Federación pretenda transmitir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, aportación, afectación o cualquier otro autorizado por esta Ley, salvo los casos de donaciones a título gratuito de inmuebles a favor de los gobiernos de los estados, del Distrito Federal y de los municipios, así como de sus respectivas entidades paraestatales;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II.- El valor de los inmuebles respecto de los que la Federación pretenda transmitir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, aportación, afectación o cualquier otro autorizado por esta Ley, salvo los casos de donaciones a título gratuito de inmuebles a favor de los gobiernos de las entidades federativas y de los municipios, así como de sus respectivas entidades paraestatales;
 
 III.- El valor del patrimonio de las unidades económicas agropecuarias, industriales, comerciales o de servicios que por cualquier concepto adquiera, o enajene la Federación;
 
@@ -1828,7 +1860,9 @@ IV.- El valor de los terrenos ganados al mar, a los vasos de los lagos, lagunas,
 
 V.- El valor comercial de los terrenos nacionales con potencial turístico, urbano, industrial o de otra índole no agropecuaria, para su enajenación;
 
-VI.- El valor de los inmuebles donados por la Federación a los gobiernos de los estados, del Distrito Federal y de los municipios, o a sus respectivas entidades paraestatales, cuando aquéllos se vayan a enajenar a título oneroso, salvo el caso de que la enajenación tenga por objeto la regularización de la tenencia de la tierra a favor de sus poseedores;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+VI.- El valor de los inmuebles donados por la Federación a los gobiernos de las entidades federativas y de los municipios, o a sus respectivas entidades paraestatales, cuando aquéllos se vayan a enajenar a título oneroso, salvo el caso de que la enajenación tenga por objeto la regularización de la tenencia de la tierra a favor de sus poseedores;
 
 VII.- El monto de la indemnización por la expropiación, ocupación temporal o limitación de derechos de dominio sobre bienes inmuebles, muebles, acciones, partes sociales o derechos que decrete el Ejecutivo Federal, tratándose tanto de propiedades privadas como de inmuebles sujetos al régimen ejidal o comunal;
 
@@ -1850,7 +1884,9 @@ XV.- El monto de la indemnización por concepto de reparación de los daños y p
 
 XVI.- El valor de los bienes o monto de las contraprestaciones por su uso, aprovechamiento o explotación, cuando la Secretaría sea designada como perito en las diligencias judiciales que versen sobre bienes nacionales;
 
-XVII.- El valor de los inmuebles o el monto de la renta cuando los pretendan adquirir o tomar en arrendamiento los gobiernos de los estados, del Distrito Federal y de los municipios con cargo a recursos federales, con excepción de las participaciones en impuestos federales, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+XVII.- El valor de los inmuebles o el monto de la renta cuando los pretendan adquirir o tomar en arrendamiento los gobiernos de las entidades federativas y de los municipios con cargo a recursos federales, con excepción de las participaciones en impuestos federales, y
 
 XVIII.- Los demás valores que las leyes, reglamentos y demás disposiciones aplicables señalen que deben ser determinados por la Secretaría.
 
@@ -2055,3 +2091,9 @@ Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrad
 Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades paraestatales de la Administración Pública Federal con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo a su presupuesto autorizado para el ejercicio fiscal que corresponda.
 
 Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Desindexación del Salario Mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016, las referencias contenidas en el presente Decreto a la Unidad de Medida y Actualización se entenderán hechas al salario mínimo diario general vigente en la Ciudad de México.
+
+D.O.F. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO PRIMERO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
