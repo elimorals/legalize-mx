@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2017-11-10"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -271,7 +271,9 @@ I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho s
 
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor;
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar o ya haya penetrado sin derecho, su hogar o sus dependencias, aunque no sea su hogar habitual, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; dentro de la casa donde se encuentre su familia, en su oficina de trabajo, su negocio comercial, o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -547,7 +549,7 @@ Reparación del daño moral.- La reparación del daño moral será fijada por lo
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la victima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
+Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la víctima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -899,7 +901,7 @@ Cuando por culpa y con motivo del tránsito de vehículos se cause únicamente d
 
 La calificación de la gravedad de la imprudencia queda al prudente arbitrio del Juez de Control o Tribunal de Enjuiciamiento, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 69 y las especiales siguientes:
 
-I.- La mayor o menor facilidad de preveer (sic) y evitar el daño que resulto;
+I.- La mayor o menor facilidad de preveer y evitar el daño que resulto;
 
 II.- Si para ello bastaban una reflexión o atención ordinaria y conocimientos comunes en algún arte o ciencia;
 
@@ -3087,7 +3089,9 @@ V.- Tengan relación con los hijos de su pareja, siempre que no los hayan procre
 
 VI.- Tengan relación con la pareja de alguno de sus progenitores.
 
-Este delito se perseguirá por querella.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
+La comisión de este delito se perseguirá de oficio por la representación social.
 
 ###### Artículo 238.
 
@@ -3275,6 +3279,8 @@ Si en la comisión de uno o más delitos en los términos del párrafo anterior 
 
 ### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+
 ###### Artículo 249.
 
 Tipo y punibilidad.- Al que provoque públicamente a cometer un delito o haga apología de éste o de algún vicio, se le aplicará prisión de uno a tres años y hasta cincuenta días multa, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
@@ -3363,7 +3369,7 @@ LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO
 
 ###### Artículo 257.
 
-Tipo y punibilidad.- Al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él, se le impondrá de veinte a cuarenta días multa.
+Tipo y punibilidad.- Al que dolosamente abra o intercepte una comunicación escrita, electrónica, magnética, óptica o informática que no esté dirigida al inculpado, se le impondrá de veinte a cuarenta días multa.
 
 Exclusión de pena, por razón de la patria potestad, tutela o custodia.- No se impondrá pena a los que ejerciendo la patria potestad, la tutela o custodia, abran o intercepten las comunicaciones escritas a sus hijos menores de edad o a las personas que se hallen bajo su tutela o guarda.
 
@@ -3603,7 +3609,7 @@ La pena se aumentará hasta una mitad más, cuando el sujeto activo fuere minist
 
 Artículo 268 BIS.- Inhabilitación. Los sujetos activos de los delitos a los que se refiere este Título quedaran inhabilitados para ser tutores o curadores.
 
-Los delitos contemplados en este Titulo sólo se perseguirán en su comisión dolosa.
+Los delitos contemplados en este Título sólo se perseguirán en su comisión dolosa.
 
 ## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
@@ -4052,6 +4058,10 @@ II.- A cualquier persona que promueva la conducta ilícita del servidor público
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2017)</small>
 
 III.- Al servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción I del artículo 305 de este Código.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2018)</small>
+
+IV.- Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -5550,3 +5560,29 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto (sic) reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 154 MEDIANTE EL CUAL SE APRUEBA LA REFORMA POR LA QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 307 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 155 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 23 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 156 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 242 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 167 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 257 DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
