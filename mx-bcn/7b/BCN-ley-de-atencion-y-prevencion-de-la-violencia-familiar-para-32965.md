@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2016-09-23"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -41,9 +43,11 @@ LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CAL
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos tendientes a salvaguardar la integridad física, psicológica, sexual y económica de los miembros de la familia, mediante la atención y prevención de la violencia familiar en el Estado de Baja California.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
-Se considera como violencia familiar, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene por efecto causar daño en cualquiera de los aspectos entendidos por esta Ley como:
+Se considera como violencia familiar, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica, económica o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene por efecto causar daño en cualquiera de los aspectos entendidos por esta Ley como:
 
 I. Físico: todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
 
@@ -52,6 +56,10 @@ II. Psicológico: es la acción u omisión que provoca, en quien lo recibe alter
 III. Sexual: es la acción mediante la cual se induce o se impone la realización de prácticas sexuales no deseadas o respecto de las cuales se tiene incapacidad para consentir, y
 
 IV. Económico: toda omisión por la cual no se logre cubrir las necesidades básicas de las víctimas a efecto de ejercer control a través de recursos económicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+V. Verbal: toda palabra o series de palabras proferidas con las cuales se busque menoscabar la integridad moral de la víctima.
 
 ###### ARTÍCULO 3.
 
@@ -189,6 +197,10 @@ VII. Gestionar con los medios de comunicación, a fin de que participen en la di
 
 VIII. Proponer al Ejecutivo del Estado el proyecto de Reglamento Interno.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+
+IX. Proponer ante los Municipios las políticas públicas de prevención basadas en los trabajos realizados por el consejo.
+
 ###### ARTÍCULO 10.
 
 El Consejo deberá sesionar en forma ordinaria por lo menos una vez cada dos meses, y de manera extraordinaria cuando lo estime necesario.
@@ -207,15 +219,21 @@ La organización y el funcionamiento del Consejo, así como las facultades y sup
 
 ### CAPÍTULO TERCERO. PROGRAMA PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 14.
 
-El Programa, establecerá las estrategias, acciones y objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal y municipal en el ámbito de su competencia, con la participación que corresponda de los sectores privado y social, para propiciar la atención y prevención de la violencia familiar.
+E (sic) Programa, establecerá las estrategias, acciones y objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal y municipal en el ámbito de su competencia, con la participación que corresponda de los sectores privado y social, para propiciar la atención y prevención de la violencia familiar.
 
-El Programa tendrá carácter anual y su ejecución se ajustará a la disponibilidad presupuestal, así como a las disposiciones y lineamientos que sobre el particular dicten las autoridades competentes.
+Se invitará a las diversas organizaciones de la sociedad civil que tengan por objeto la erradicación de la violencia familiar, a conocer el Programa y a trabajar de forma conjunta con las autoridades competentes.
+
+El programa tendrá carácter anual y su ejecución se ajustará a la disponibilidad presupuestal, así como a las disposiciones y lineamientos que sobre el particular dicten las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 15.
 
-El Programa, deberá ser aprobado por el Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias.
+El Programa, deberá ser aprobado por el Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias y se dará a conocer al Poder Legislativo por medio de la Comisión que le corresponda.
 
 ###### ARTÍCULO 16.
 
@@ -302,8 +320,6 @@ XI. Las demás que le señalen ésta u otras leyes.
 ###### ARTÍCULO 25.
 
 Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento de esta Ley:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -515,7 +531,7 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado en la Ciudad de Mexicali, y en forma sucesiva en los demás Municipios, del Estado de Baja California, conforme al siguiente orden:
 
-l.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+I.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
 
 II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
 
@@ -528,3 +544,15 @@ P.O. 23 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 564 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 30 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 9, 14 Y 15 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
