@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2017-04-07"
+last_updated: "2018-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2018.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -68,6 +68,10 @@ II. Las que celebren entre sí las Dependencias y Entidades de la administració
 III. Las que celebren con dependencias y entidades de la administración pública federal y municipal, y
 
 IV. Las que celebren con cargo total o parcial a recursos federales, en cuyo caso, se regirán por la normatividad federal.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2018)</small>
+
+V. Las que celebren las Dependencias y Entidades de la Administración Pública Estatal en materia de arrendamiento de bienes inmuebles.
 
 Las concesiones de servicios públicos y las que requiera la administración pública estatal para su funcionamiento, se regirán por los procedimientos y criterios de contratación que se establecen en esta Ley.
 
@@ -117,7 +121,9 @@ XIX. Sub-Comité: Los Sub-Comités de Adquisiciones, Arrendamientos y Servicios 
 
 Entre las adquisiciones, enajenaciones, arrendamientos y servicios objeto de esta Ley, quedan comprendidos:
 
-I. Las adquisiciones y los arrendamientos de bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2018)</small>
+
+I. Las adquisiciones de bienes muebles e inmuebles y los arrendamientos de bienes muebles;
 
 II. Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, que sean necesarios para la realización de las obras públicas por administración directa, o los que suministren las Dependencias y Entidades de acuerdo con lo pactado en los contratos de obra;
 
@@ -151,9 +157,11 @@ Para los efectos de la Ley, los bienes que formen parte del patrimonio de las De
 
 Corresponde a la Secretaría, la interpretación y aplicación de esta Ley para efectos administrativos, y a la Contraloría, la vigilancia para su aplicación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2018)</small>
+
 ###### Artículo 7.
 
-Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios sólo podrán llevarse a cabo cuando se cuente con saldo disponible en las partidas correspondientes del Presupuesto de Egresos aprobado.
+Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios sólo podrán llevarse a cabo conforme a la disponibilidad presupuestal en las partidas correspondientes del Presupuesto de Egresos.
 
 Las Dependencias y entidades no deberán fraccionar las contrataciones con la finalidad de ubicarlas en las modalidades previstas en las fracciones I, II y III del artículo 28 de la Ley.
 
@@ -825,9 +833,11 @@ IV. En caso de que no sea posible lo anterior, la Dependencia o Entidad deberá 
 
 V. Dictaminada la adquisición del inmueble, la Dependencia o Entidad deberá realizar las gestiones necesarias para la firma, registro y archivo del título de propiedad correspondiente, de conformidad con la Constitución Política del Estado Libre y Soberano de Oaxaca y demás legislación y normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2018)</small>
+
 ###### Artículo 69.
 
-La adquisición o arrendamiento de inmuebles estará sujeta a:
+La adquisición de bienes inmuebles estará sujeta a:
 
 I. Los programas anuales aprobados;
 
@@ -1254,3 +1264,19 @@ P.O. 7 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 580.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 45 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1347.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Los actos administrativos en materia de arrendamientos de bienes inmuebles, suscritos a partir del ejercicio constitucional de la actual administración estatal, podrán realizarse conforme a lo previsto en el presente Decreto.
+
+CUARTO. Se faculta a la Secretaría de Administración del Gobierno del Estado, en uso de sus atribuciones legales, realizar los actos concernientes a las contrataciones de arrendamiento de bienes inmuebles para el debido cumplimiento de lo dispuesto por el presente Decreto.
+
+QUINTO. La Secretaría dispondrá de un plazo de noventa días hábiles, a partir de la fecha de entrada en vigor del presente Decreto, para expedir los Lineamientos para el arrendamiento de bienes inmuebles por parte de las Dependencias y Entidades, en su carácter de arrendatarias; mismo que deberá publicar en el Periódico Oficial del Gobierno del Estado y le dará la difusión suficiente.
+
+SEXTO. Se derogan todas las disposiciones de igual o menor rango, que se opongan a lo dispuesto por el presente Decreto.
