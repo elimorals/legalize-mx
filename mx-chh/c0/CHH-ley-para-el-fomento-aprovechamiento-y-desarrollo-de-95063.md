@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-el-fomento-aprovechamiento-y-desarrollo-de-95063"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2017-06-03"
+last_updated: "2018-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA EL FOMENTO, APROVECHAMIENTO Y DESARROLLO DE EFICIENCIA ENERGÉTICA Y DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 6 de julio de 2013.
 
@@ -101,13 +101,25 @@ g) La oceánica en sus distintas formas, a saber: maremotriz, maremotérmica, de
 
 h) Aquellas otras que cumplan con el primer párrafo de esta fracción.
 
-V.- Interconexión.- Conexión entre dos o más sistemas de producción y distribución de energía eléctrica para el intercambio entre estos, donde se debe considerar la construcción de las obras de infraestructura eléctrica necesarias para que los proyectos de energías renovables se puedan interconectar con el Sistema Eléctrico Nacional.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2018)</small>
 
-VI.- Ley.- La Ley para el Fomento, Aprovechamiento y Desarrollo de Eficiencia Energética y de Energías Renovables del Estado de Chihuahua.
+V.- El Fondo.- El Fondo Estatal para la Transición Energética del Campo.
 
-VII.- Programa.- El Programa Estatal en Materia de Fomento, Aprovechamiento y Desarrollo de Eficiencia Energética y Energías Renovables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2018)</small>
 
-VIII.- Sistema de Información.- El Sistema de Información Energética del Estado.
+VI.- Interconexión.- Conexión entre dos o más sistemas de producción y distribución de energía eléctrica para el intercambio entre estos, donde se debe considerar la construcción de las obras de infraestructura eléctrica necesarias para que los proyectos de energías renovables se puedan interconectar con el Sistema Eléctrico Nacional.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2018)</small>
+
+VII.- Ley.- La Ley para el Fomento, Aprovechamiento y Desarrollo de Eficiencia Energética y de Energías Renovables del Estado de Chihuahua.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2018)</small>
+
+VIII.- Programa.- El Programa Estatal en Materia de Fomento, Aprovechamiento y Desarrollo de Eficiencia Energética y Energías Renovables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2018)</small>
+
+IX.- Sistema de Información.- El Sistema de Información Energética del Estado.
 
 ###### Artículo 4.
 
@@ -165,7 +177,9 @@ VIII.- Promover la participación de los sectores académico, científico, tecno
 
 IX.- Promover, diseñar, instrumentar y ejecutar proyectos de inversión pública a largo plazo, en los términos de la normatividad en la materia.
 
-X.- Celebrar los convenios y acuerdos de coordinación para el cumplimiento del objeto y de los objetivos de la presente Ley.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2018)</small>
+
+X.- Celebrar los convenios y acuerdos de coordinación con la Federación, de acuerdo a la Ley de Transición Energética, para el cumplimiento del objeto y de los objetivos de la presente Ley.
 
 XI.- Promover el otorgamiento de estímulos, favoreciendo la focalización.
 
@@ -319,6 +333,54 @@ El Reglamento de la Ley establecerá los módulos y subsistemas en los que se es
 
 El tratamiento de los datos contenidos en el Sistema de Información, se realizará conforme a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado y demás ordenamientos aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2018)</small>
+
+### CAPÍTULO VI. DEL FONDO ESTATAL PARA LA TRANSICIÓN ENERGÉTICA DEL CAMPO
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2018)</small>
+
+###### Artículo 23.
+
+El Ejecutivo Estatal propondrá presupuestar anualmente el Fondo, que será operado por la Secretaría de Desarrollo Rural, con el fin de garantizar la productividad y la transición energética del campo chihuahuense a través de apoyos especiales destinados a:
+
+I. Adquisición e instalación de infraestructura destinada a la generación de electricidad, a través de radiación solar y energía eólica, atendiendo a los requerimientos regionales de consumo promedio de energía a fin de que los apoyos sean mayores donde más se necesiten.
+
+II. Infraestructura destinada a la producción de biogás y otros biocombustibles.
+
+III. Conversión y adaptación de maquinaria agrícola para la utilización de energías limpias.
+
+IV. Incentivos especiales para la producción de cultivos específicos susceptibles a ser transformados en biocombustibles.
+
+V. Investigación, capacitación y asesoría técnica especializada en materia de transición energética del campo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2018)</small>
+
+###### Artículo 24.
+
+Los recursos del Fondo podrán provenir, entre otras, de las siguientes fuentes:
+
+I. Los ingresos que perciba conforme al Presupuesto de Egresos del Estado.
+
+II. Aportaciones municipales.
+
+III. Aportaciones voluntarias de personas físicas o morales del sector privado.
+
+IV. Aportaciones de organizaciones nacionales e internacionales de cooperación e investigación.
+
+Los ingresos del Fondo, del orden Estatal, no podrán disminuirse en relación al año anterior, salvo en casos de contingencias presupuestales debidamente justificadas.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2018)</small>
+
+###### Artículo 25.
+
+Podrán acceder a los recursos del Fondo las personas físicas y morales, con domicilio fiscal en el Estado de Chihuahua, que cumplan con los requisitos que para este efecto se contemplen en las reglas de operación, así como en la respectiva convocatoria anual que deberá emitir el Ejecutivo, a través de la Secretaría de Desarrollo Rural, a más tardar el 31 de marzo de cada año.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2018)</small>
+
+###### Artículo 26.
+
+El Fondo deberá ser evaluado cada cinco años a fin de contemplar las modificaciones necesarias para cumplir con los objetivos de la transición energética o, en su caso, analizar su vigencia.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -352,3 +414,15 @@ P.O. 3 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N°. LXV/RFLEY/0421/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO, APROVECHAMIENTO Y DESARROLLO DE EFICIENCIA ENERGÉTICA Y DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones reglamentarias se emitirán en un plazo no mayor a 260 días hábiles contados a partir de la entrada en vigor de este Decreto.
+
+TERCERO.- Los recursos del Fondo se aportarán de conformidad a lo señalado en el Presupuesto de Egresos del Estado, de cada año.
+
+CUARTO.- El Congreso del Estado realizará las previsiones presupuestales necesarias para dar cumplimiento a lo dispuesto en este Decreto, a partir del Presupuesto de Egresos del Estado para el ejercicio fiscal del año 2018.
