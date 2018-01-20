@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-bebidas-alcoholicas-para-el-estado-de-zacatecas-57180
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-29"
-last_updated: "2017-12-30"
+last_updated: "2018-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE ENERO DE 2018.]
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2007.
 
@@ -623,9 +623,9 @@ I. Exhibir constancia de uso de suelo, respecto del inmueble donde pretenda oper
 
 II. Para el caso de inmuebles construidos veinte años anteriores a la fecha de la solicitud, acreditar el visto bueno de seguridad y operación, expedido por un Director Responsable de Obra autorizado;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-III. Que el inmueble, para la ubicación del establecimiento se encuentre a más de 350 metros de distancia de dependencias o entidades gubernamentales, escuelas, iglesias, salas de velación u hospitales;
+III. Que el inmueble, para la ubicación del establecimiento se encuentre a más de 350 metros de distancia, de acceso a acceso, de dependencias o entidades gubernamentales, escuelas, iglesias, salas de velación u hospitales;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -675,9 +675,9 @@ V. Fonda, lonchería, cenaduría y otras similares, son los establecimientos cuy
 
 VI. Hotel y motel, son comercios que ofrecen al público renta de habitaciones y en sus instalaciones destinan áreas para restaurante, bar, cafetería y salones de eventos, en los cuales venden bebidas alcohólicas en envase abierto o al copeo, siempre y cuando se consuman o hayan consumido alimentos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-VII. Espacio deportivo, es cualquier inmueble público o privado que se destine para la práctica de alguna o diversas disciplinas deportivas, donde podrán venderse y consumirse bebidas alcohólicas;
+VII. Espacio deportivo, es cualquier inmueble público o privado que se destine para la práctica de alguna o diversas disciplinas deportivas, donde no podrán venderse y consumirse bebidas alcohólicas;
 
 VIII. Billar, es el establecimiento destinado a la práctica de una actividad de recreo, donde se desarrollan juegos en mesas de billar bajo el cobro de cuotas de dinero por el uso de las mismas, donde podrán venderse y consumirse bebidas alcohólicas, limitándose a las de baja graduación;
 
@@ -715,9 +715,9 @@ II. Para el caso de licencias de salón de baile, el interesado deberá presenta
 
 III. Los anexos especiales de cantina o bar en hoteles, moteles, restaurantes, clubes sociales u otros lugares semejantes, para poder funcionar, necesitarán ser amparados por la licencia y deberán organizar su anexo de venta y de consumo de bebidas alcohólicas, en tal forma, que pueda cerrarse sin necesidad de impedir el funcionamiento del servicio principal, y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-IV. En la expedición de licencia o permiso, para la venta y consumo de bebidas en espacios y centros de espectáculos deportivos, la autoridad valorará que con ello no se ponga en riesgo la tranquilidad de los deportistas y aficionados, o que poniendo en riesgo la seguridad, se inhiba la convivencia familiar.
+IV. En la expedición de licencia o permiso, para la venta y consumo de bebidas en Centros de espectáculos deportivos, la autoridad valorará que con ello no se ponga en riesgo la tranquilidad de los deportistas y aficionados, o que poniendo en riesgo la seguridad, se inhiba la convivencia familiar.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -927,13 +927,9 @@ Botanero y a las 2:00 hrs.
 
 Merendero del día siguiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-e) Discoteca De las 18:00 hrs. a De 16:00 a 20:00 hrs.
-
-las 02:00 hrs.
-
-del día siguiente.
+e) Discoteca De las 16:00 hrs a las 02:00 hrs del día siguiente
 
 II. Los de giro accesorio:
 
@@ -969,13 +965,9 @@ celebraciones a las 2:00 hrs. de lunes a sábado
 
 particulares del día siguiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-e) Fonda, De 10:00 hrs. a De 11:00 a 20:00 hrs.
-
-Lonchería 10:00 hrs.
-
-y Cenaduría
+e) Fonda, Lonchería y Cenaduría De 10:00 hrs a 22:00 hrs
 
 f) Hoteles y Moteles Igual al horario Mismo horario que de
 
@@ -993,17 +985,17 @@ horario de venta
 
 de las 24 hrs.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017) (F. DE E., P.O. 20 DE ENERO DE 2018)
 
-g) Espacios De las 12:00 hrs. De 11:00 a 20:00 hrs.
+g) Centros de espectáculos deportivos
 
-deportivos a la 1:00 hrs del
+> <small>(F. DE E., P.O. 20 DE ENERO DE 2018)</small>
 
-y centros de día siguiente.
+Los Ayuntamientos podrán determinar en su Reglamento Municipal los horarios de operación de cualquiera de los giros, siempre y cuando sean dentro de los parámetros que se establecen en el presente artículo. Así mismo, podrán reglamentar la posibilidad de otorgar cambios de horario sin exceder los límites mínimo y máximo aquí señalados.
 
-espectáculos
+> <small>(F. DE E., P.O. 20 DE ENERO DE 2018)</small>
 
-deportivos
+En el caso de las excepciones previstas en el artículo 6 de esta Ley, los Ayuntamientos podrán autorizar únicamente horarios para las licencias de funcionamiento que no interrumpan los horarios de funcionamiento normal de los lugares protegidos por este ordenamiento legal.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
