@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-para-alumnos-del-instituto-estatal-de-40161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-12"
-last_updated: "2004-07-12"
+last_updated: "2018-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO PARA ALUMNOS DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO ÚNICO DEL REGLAMENTO INTERNO PARA ALUMNOS DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO PARA ALUMNOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de julio de 2004.
 
@@ -813,3 +815,11 @@ Sin más por el momento, manifiesto mi compromiso a la Comisión Estatal de los 
 EL PRESIDENTE DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE AGUASCALlENTES,
 
 Lic. Luis Fernando Jiménez Patiño.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “MANUAL DE INDUCCIÓN PARA ALUMNOS OPERATIVOS Y CADETES Y REFORMAS AL REGLAMENTO INTERNO PARA ALUMNOS DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Artículo Único.- El presente Reglamento abroga el anterior y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
