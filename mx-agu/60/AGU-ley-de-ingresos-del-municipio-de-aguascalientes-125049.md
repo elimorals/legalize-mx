@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-aguascalientes-125049"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-22"
-last_updated: "2018-01-05"
+last_updated: "2018-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES PARA EL EJERCICI
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE ENERO DE 2018 NO APLICA AL ARTÍCULO 94 DEL DECRETO 182 QUE FUE DECLARADO INVÁLIDO POR EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2018.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE ENERO DE 2018 NO APLICA AL ARTÍCULO 94 DEL DECRETO 182 QUE FUE DECLARADO INVÁLIDO POR EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2018.]</small>
 
 Ley publicada en la Tercera Sección al Número 25 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
