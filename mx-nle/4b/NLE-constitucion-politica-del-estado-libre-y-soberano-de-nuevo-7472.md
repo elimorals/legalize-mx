@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2017-10-18"
+last_updated: "2018-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -931,7 +931,7 @@ XII.- Gestionar la solución de las demandas de los nuevoleoneses.
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
-XIII. Fiscalizar, revisar, vigilar, evaluar, aprobar o rechazar en su caso con el apoyo de la Auditoría Superior del Estado, las Cuentas Públicas que presenten los Poderes del Estado, los Organismos Autónomos, los organismos descentralizados y desconcentrados y fideicomisos públicos de la administración pública del Estado, los Municipios y sus organismos descentralizados y desconcentrados, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ajustaron a los criterios señalados en los presupuestos respectivos y verificar el cumplimiento de los objetivos contenidos en los programas, así como fiscalizar a las personas físicas o morales de derecho privado que hayan recibido recursos públicos.
+XIII.- Fiscalizar, revisar, vigilar, evaluar, aprobar o rechazar en su caso con el apoyo de la Auditoría Superior del Estado, las Cuentas Públicas que presenten los Poderes del Estado, los Organismos Autónomos, los organismos descentralizados y desconcentrados y fideicomisos públicos de la administración pública del Estado, los Municipios y sus organismos descentralizados y desconcentrados, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ajustaron a los criterios señalados en los presupuestos respectivos y verificar el cumplimiento de los objetivos contenidos en los programas, así como fiscalizar a las personas físicas o morales de derecho privado que hayan recibido recursos públicos.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -999,9 +999,9 @@ XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior T
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y al Presidente de la Comisión Estatal de Derechos Humanos y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia y Magistrados del Tribunal de Justicia Administrativa, le presente el Titular del Poder Ejecutivo, así como nombrar a los comisionados del organismo garante que establece el artículo 6 de esta Constitución, en los términos establecidos por las disposiciones previstas en la ley;
+XXII.- Elegir al Presidente de la Comisión Estatal de Derechos Humanos y conocer, para su aprobación, de las propuestas que sobre los cargos de Magistrados del Tribunal de Justicia Administrativa, le presente el Titular del Poder Ejecutivo; así como nombrar a los comisionados del organismo garante que establece el artículo 6 de esta Constitución, en los términos establecidos por las disposiciones previstas en la ley;
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -1017,7 +1017,15 @@ XXIV.- Conceder o negar al Gobernador licencia temporal para separarse de su pue
 
 XXV.- Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda dar al Estado para el Ejército de la Nación.
 
-XXVI.- (DEROGADA, P.O. 14 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XXVI.- Elegir al Consejero de la Judicatura del Estado, a que se refiere el Artículo 94 de esta Constitución, conforme al siguiente procedimiento:
+
+a) Dentro de los diez días posteriores a la ausencia definitiva del Consejero de la Judicatura o noventa días previos a que finalice el periodo de su encargo, el Congreso del Estado emitirá una convocatoria pública por un plazo de quince días y contará con treinta días después de concluido dicho plazo para integrar la lista de candidatos, de entre las personas acreditadas de acuerdo al procedimiento que se fije en la propia convocatoria, la cual establecerá los mecanismos de análisis de perfiles de los participantes.
+
+b) Previa comparecencia, el Congreso del Estado elegirá al candidato, de entre los que conforman la lista, que ocupará la vacante al cargo de Consejero de la Judicatura mediante el voto aprobatorio secreto de, al menos, las dos terceras partes de los integrantes de la legislatura. De no alcanzarse dicha votación, se procederá a una segunda votación entre los dos integrantes que hayan obtenido más votos. En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá una votación para definir por mayoría quién, entre dichos candidatos, participará en la segunda votación. Si persiste el empate, se resolverá por insaculación entre ellos.
+
+Si en la segunda votación ninguno de los dos obtiene el voto aprobatorio de las dos terceras partes de los integrantes de la legislatura, se procederá a la insaculación de entre estos últimos dos.
 
 XXVII.- Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
@@ -1027,7 +1035,9 @@ XXVIII.- (DEROGADA, P.O. 14 DE ABRIL DE 2017)
 
 XXIX.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
-XXX.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1994)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XXX.- Elegir y conocer, para su aprobación, de las propuestas que sobre los cargos de Magistrados del Tribunal de (sic) Superior de Justicia, le presente el Consejo de la Judicatura en los términos establecidos por las (sic) artículos 97 y 99 de esta Constitución;
 
 XXXI.- Organizar el sistema penal sobre la base del trabajo como medio de regeneración.
 
@@ -2043,9 +2053,9 @@ XVIII.- Ordenar el uso de la fuerza pública municipal en los términos de lo di
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XX.- Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia y Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa con excepción del Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de esta Constitución;
+XX.- Someter a la aprobación del Congreso del Estado, las propuestas que le presente respecto a los cargos de Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa con excepción del Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
@@ -2067,9 +2077,13 @@ XXV.- Nombrar, remover y cesar directamente a los Oficiales del Registro Civil d
 
 XXVI.- Conceder indulto en los términos de la Ley respectiva y resolver sobre reducción de penas y retención, con arreglo a las Leyes.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XXVII.- Designar a un Consejero de la Judicatura del Estado de acuerdo con lo establecido en el artículo 94 de esta Constitución; y
+XXVII.- Designar a un Consejero de la Judicatura del Estado de acuerdo con lo establecido en el artículo 94 de esta Constitución y conforme al siguiente procedimiento:
+
+a) Dentro de los diez días posteriores a la ausencia definitiva del Consejero de la Judicatura o noventa días previos a que finalice el periodo de su encargo, el Gobernador del Estado emitirá una convocatoria pública por un plazo de quince días y contará con treinta días después de concluido dicho plazo para integrar la lista de aspirantes, de entre las personas acreditadas de acuerdo al procedimiento que se fije en la propia convocatoria, la cual establecerá los mecanismos de análisis de perfiles de los participantes.
+
+b) Previa comparecencia, el Gobernador del Estado elegirá al candidato, de entre los que conforman la lista, que ocupará la vacante al cargo de Consejero de la Judicatura.
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -2299,8 +2313,6 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Del Poder Judicial.
 
-(NOTA: EL 3 DE JULIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN CONSISTENTE EN "LA FALTA DE REGULACIÓN DEL HABER DE RETIRO PARA LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA ENTIDAD"; POR LO QUE, "DEBERÁ EMITIR LAS NORMAS CORRESPONDIENTES DURANTE EL PRÓXIMO PERÍODO ORDINARIO DE SESIONES", LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 94.
@@ -2315,17 +2327,17 @@ El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia,
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado, el cual tendrá las atribuciones que le señalen esta Constitución y las Leyes.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-El Tribunal Superior de Justicia funcionará en Pleno, en Salas Colegiadas y en Salas Unitarias y se regirá en la forma que señale la Ley Orgánica del Poder Judicial. Tendrá el número de Magistrados que determine la Ley, quienes durarán hasta veinte años en su encargo.
+El Tribunal Superior de Justicia funcionará en Pleno, en Salas Colegiadas y en Salas Unitarias y se regirá en la forma que señale la Ley Orgánica del Poder Judicial. Tendrá el número de Magistrados que determine la Ley, quienes durarán hasta veinte años en su encargo. Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 El Pleno del Tribunal Superior de Justicia estará integrado por los Magistrados y funcionará con el quórum que establezca la Ley. Las Sesiones del Pleno serán públicas y, por excepción, secretas en los casos en que así lo exijan la moral y el interés público.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-El Presidente del Tribunal Superior de Justicia será un Magistrado que no integrará Sala. Será electo por el Pleno y durará en su encargo dos años sin reelección inmediata.
+El Presidente del Tribunal Superior de Justicia será un Magistrado que no integrará Sala. Será electo por el Pleno y durará en su encargo dos años con posibilidad de una reelección inmediata.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -2335,25 +2347,25 @@ La vigilancia y disciplina del Poder Judicial se realizará en los términos que
 
 La administración del Poder Judicial estará a cargo del Pleno del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-El Consejo de la judicatura del Estado se compondrá por tres Consejeros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, otro será designado por el Titular del Poder Ejecutivo, y otro por el Congreso del Estado mediante voto aprobatorio secreto de, al menos, la mitad más uno de sus integrantes.
+El Consejo de la Judicatura del Estado se compondrá por cinco Consejeros, de los cuales uno será el Presidente del Tribunal Superior de Justicia; dos jueces designados por el Pleno del Tribunal Superior de Justicia; otro será designado por el Titular del Poder Ejecutivo, y otro por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-El Presidente del Tribunal Superior de Justicia también será el Presidente del Consejo de la Judicatura y permanecerá en este cargo durante el tiempo que tenga el carácter de Presidente de dicho tribunal, sin recibir remuneración adicional por el desempeño de esta función.
+El Presidente del Tribunal Superior de Justicia también será el Presidente del Consejo de la Judicatura y permanecerá en este cargo durante el tiempo que tenga el carácter de Presidente de dicho Tribunal, sin recibir remuneración adicional por el desempeño de esta función. Los jueces del Poder Judicial que hubieren sido designados como Consejeros de la Judicatura actuarán con licencia, por lo que, para el desempeño de esta función, deberán separarse de sus respectivos cargos.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función. Los funcionarios del Poder Judicial del Estado, excepto el Presidente del Tribunal Superior de Justicia, no podrán ser Consejeros de la Judicatura, salvo si se separan del cargo cien días naturales antes de su elección o designación.
+Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función.
 
-(REFORMADO, P.O. 9 DE JUNIO DE 2004) (F. DE E., P.O. 18 DE JUNIO DE 2004)
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
+Los Consejeros de la Judicatura del Estado no representan a quienes los designan, por lo que ejercerán su función con plena independencia e imparcialidad y deberán ser sustituidos de manera escalonada. Para este fin, los Consejeros de la Judicatura designados por el Poder Judicial y los designados por los Poderes Ejecutivo y Legislativo durarán en su cargo tres años pudiendo ser designados por hasta un periodo consecutivo adicional.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, otro de sus integrantes.
+El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de la mayoría de sus integrantes.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -2431,9 +2443,13 @@ XII. Examinar los informes que mensualmente deberán remitirle los Juzgados, ace
 
 XIII. En Pleno, acordar lo necesario para la implementación de dispositivos electrónicos necesarios para la realización de la función jurisdiccional; y
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XIV. Las demás facultades que las leyes le otorguen.
+XIV. Elegir en Pleno a los jueces que ocuparán el cargo de Consejero de la Judicatura; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XV. Las demás facultades que las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -2501,13 +2517,17 @@ XIV. Dar su opinión al Congreso del Estado y proporcionarle la información que
 
 XV. Elaborar la cuenta pública anual del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XVI. Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de adolescentes infractores; y
+XVI. Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de adolescentes infractores;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XVII. Las demás facultades que las leyes le otorguen.
+XVII. Enviar al Pleno del Congreso la terna con propuestas para el nombramiento de Magistrados de Tribunal Superior de Justicia; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XVIII. Las demás facultades que las leyes le otorguen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO 2012)</small>
 
@@ -2551,21 +2571,25 @@ Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se est
 
 Los Jueces Menores reunirán los mismos requisitos que se establecen para los Jueces de Primera Instancia, con excepción de la edad y título profesional, que serán cuando menos de veintisiete y cinco años, respectivamente.
 
-(NOTA: EL 3 DE JULIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN CONSISTENTE EN "LA FALTA DE REGULACIÓN DEL HABER DE RETIRO PARA LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA ENTIDAD"; POR LO QUE, "DEBERÁ EMITIR LAS NORMAS CORRESPONDIENTES DURANTE EL PRÓXIMO PERÍODO ORDINARIO DE SESIONES", LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 Art.- 99.- Los Magistrados del Tribunal Superior de Justicia serán designados de la siguiente manera:
 
-El Titular del Poder Ejecutivo propondrá al Congreso del Estado, candidato a la Magistratura, para su aprobación, la que se realizará previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los cinco días siguientes a la fecha de la comparecencia. Si el Congreso no se encontrase reunido, la Diputación Permanente convocará de inmediato a un Período Extraordinario de Sesiones.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-En caso de que, transcurrido el plazo de cinco días, el Congreso rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
+Dentro de los diez días posteriores a la ausencia definitiva de un Magistrado del Tribunal Superior de Justicia o ciento cincuenta días previos a que finalice el periodo de su encargo, el Consejo de la Judicatura emitirá una convocatoria pública por un plazo de quince días y contará con treinta días después de concluido dicho plazo para evaluar a los participantes en el que se deberá desahogar una comparecencia y remitir al Congreso del Estado una terna electa por mayoría para cada magistratura vacante.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-Si presentada la segunda propuesta, el Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese procedimiento ya hubieran sido propuestas al Congreso para ocupar dicho cargo.
+El Congreso del Estado deberá citar a los tres candidatos al cargo de Magistrado a una comparecencia, la cual se desarrollará ante la Comisión correspondiente en los términos que fije el propio Congreso.
 
-El nombramiento de los Magistrados del Tribunal Superior de Justicia será por un período inicial de diez años, al término del cual podrán ser ratificados, previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado a ratificar, para un período igual, hasta completar el período total de veinte años previsto en el Artículo 94 de esta Constitución. La ratificación de los Magistrados deberá ser hecha por el Congreso del Estado, y requerirá la aprobación de las dos terceras partes de los integrantes de la Legislatura, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda. Si el Congreso no hace la ratificación, se elegirá un Magistrado conforme a lo previsto en el presente artículo.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+El Congreso del Estado, dentro de los treinta días naturales siguientes, deberá hacer la designación del candidato que ocupará la vacante al cargo de Magistrado del Tribunal Superior de Justicia, de entre los que conforman la terna, mediante el voto aprobatorio secreto de, al menos, las dos terceras partes de los integrantes de la legislatura. De no alcanzarse dicha votación, se procederá a una segunda votación entre los dos integrantes de la terna que hayan obtenido más votos. En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá una votación para definir por mayoría quién, entre dichos candidatos, participará en la segunda votación. Si persiste el empate, se resolverá por insaculación entre ellos.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Si en la segunda votación ninguno de los dos obtiene el voto de las dos terceras partes de los integrantes de la legislatura, se procederá a la insaculación de entre estos últimos dos.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -2597,7 +2621,13 @@ Las faltas temporales de los Jueces serán cubiertas conforme lo determine la Le
 
 Art.- 102.- Ningún servidor público o empleado del Poder Judicial podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni tener cargo o empleo alguno del Gobierno o de particulares, salvo los cargos en instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
 
-Los impedimentos de este artículo serán aplicables a los servidores públicos del Poder Judicial que gocen de licencia.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Los impedimentos de este artículo serán aplicables a los servidores públicos del Poder Judicial que gocen de licencia, excepto a los jueces que se desempeñen como Consejeros de la Judicatura exclusivamente para ese efecto.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Las personas que hayan ocupado el cargo de Magistrado del Tribunal Superior de Justicia no podrán, dentro de los tres años siguientes a la fecha de terminación de su encargo, actuar como patronos, abogados o representantes de particulares en cualquier proceso ante los órganos del Poder Judicial del Estado, salvo que lo haga ejerciendo algún cargo público y con motivo de su función.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -2607,7 +2637,9 @@ Art.- 103.- El Poder Judicial definirá y ejercerá en forma autónoma sus parti
 
 El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
 
-Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente por el Congreso del Estado. Los Magistrados del Tribunal Superior de Justicia ratificados en términos constitucionales, al retirarse de su encargo, tendrán derecho a recibir un haber de retiro, según lo disponga la Ley.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -3123,11 +3155,11 @@ V.- Tener un modo honesto de vivir; y
 
 VI.- Saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Art. 123.
 
-Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos, el día 31 de Octubre.
+Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos el 30 de septiembre.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -3161,11 +3193,11 @@ Si alguno de los regidores o síndicos del Ayuntamiento dejare de desempeñar su
 
 En el supuesto que el Congreso actúe de acuerdo con lo previsto por el artículo 63 fracción VI de esta Constitución y declare la desaparición del Ayuntamiento o la suspensión de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos al Concejo Municipal que concluirá el periodo respectivo. Este Concejo Municipal estará integrado por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Art. 128.
 
-Los Ayuntamientos, en los primeros días del mes de Noviembre de cada año, presentarán al Congreso sus proyectos de Presupuestos de Ingresos para que, con su aprobación se pongan en vigor durante el año siguiente.
+Los Ayuntamientos, a más tardar el 30 de noviembre de cada año, presentarán al Congreso sus proyectos de Presupuestos de Ingresos para que, con su aprobación se pongan en vigor durante el año siguiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -4373,7 +4405,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -4455,7 +4487,7 @@ P.O. 28 DE DICIEMBRE DE 1983.
 
 DECRETO QUE REFORMA EL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
-UNICO:- EL presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE DICIEMBRE DE 1983.
 
@@ -5149,7 +5181,7 @@ Segundo.- En un término de 180 días hábiles a la entrada en vigor del present
 
 P.O. 15 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 097. SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN POR ADICIÓN AL ARTÍCULO 20 EN SU PÁRRAFO QUINTO FRACCIÓN II, POR ADICIÓN DE UNA FRACCIÓN XIII-A DEL NUMERAL 63, POR MODIFICACIÓN EL ARTÍCULO 63 FRACCIÓN XLV PÁRRAFO PRIMERO Y POR ADICIÓN DE LOS PÁRRAFOS TERCERO Y CUARTO DE LA MISMA FRACCIÓN, SE REFORMA POR ADICIÓN EL NUMERAL 63 AGREGANDO LAS FRACCIONES LII, LIII Y LIV PASANDO LA ACTUAL FRACCIÓN LII A SER LA FRACCIÓN LV, POR MODIFICACIÓN DEL PÁRRAFO TERCERO Y ADICIÓN DE LOS PÁRRAFOS SÉPTIMO Y OCTAVO POR LO QUE LOS ACTUALES PÁRRAFOS SÉPTIMO A DÉCIMO PRIMERO PASAN A SER LOS PÁRRAFOS NOVENO A DÉCIMO TERCERO DEL ARTÍCULO 87, SE REFORMA POR MODIFICACIÓN LA DENOMINACIÓN DEL TÍTULO VII DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DE LA RESPONSABILIDAD PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA, SE REFORMA POR ADICIÓN EL ARTÍCULO 105 AGREGANDO UN PÁRRAFO TERCERO, SE REFORMA EL ARTÍCULO 107 POR MODIFICACIÓN DEL PÁRRAFO PRIMERO FRACCIÓN II, POR MODIFICACIÓN Y ADICIÓN DE LA FRACCIÓN III MODIFICANDO EL PÁRRAFO SEGUNDO Y ADICIONANDO LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO, Y POR ADICIÓN DE UNA FRACCIÓN V INTEGRADA A SU VEZ POR CINCO PÁRRAFOS, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 109, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 110, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 117, SE REFORMA POR MODIFICACIÓN LOS PÁRRAFOS PRIMERO Y QUINTO Y POR ADICIÓN DE LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 136, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 137”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 097. SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN POR ADICIÓN AL ARTÍCULO 20 EN SU PÁRRAFO QUINTO FRACCIÓN II, POR ADICIÓN DE UNA FRACCIÓN XIII-A DEL NUMERAL 63, POR MODIFICACIÓN EL ARTÍCULO 63 FRACCIÓN XLV PÁRRAFO PRIMERO Y POR ADICIÓN DE LOS PÁRRAFOS TERCERO Y CUARTO DE LA MISMA FRACCIÓN, SE REFORMA POR ADICIÓN EL NUMERAL 63 AGREGANDO LAS FRACCIONES LII, LIII Y LIV PASANDO LA ACTUAL FRACCIÓN LII A SER LA FRACCIÓN LV, POR MODIFICACIÓN DEL PÁRRAFO TERCERO Y ADICIÓN DE LOS PÁRRAFOS SÉPTIMO Y OCTAVO POR LO QUE LOS ACTUALES PÁRRAFOS SÉPTIMO A DÉCIMO PRIMERO PASAN A SER LOS PÁRRAFOS NOVENO A DÉCIMO TERCERO DEL ARTÍCULO 87, SE REFORMA POR MODIFICACIÓN LA DENOMINACIÓN DEL TÍTULO VII DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DE LA RESPONSABILIDAD PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA, SE REFORMA POR ADICIÓN EL ARTÍCULO 105 AGREGANDO UN PÁRRAFO TERCERO, SE REFORMA EL ARTÍCULO 107 POR MODIFICACIÓN DEL PÁRRAFO PRIMERO FRACCIÓN II, POR MODIFICACIÓN Y ADICIÓN DE LA FRACCIÓN III MODIFICANDO EL PÁRRAFO SEGUNDO Y ADICIONANDO LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO, Y POR ADICIÓN DE UNA FRACCIÓN V INTEGRADA A SU VEZ POR CINCO PÁRRAFOS, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 109, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 110, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 117, SE REFORMA POR MODIFICACIÓN LOS PÁRRAFOS PRIMERO Y QUINTO Y POR ADICIÓN DE LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 136, SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 137".]
 
 Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5217,6 +5249,50 @@ P.O. 26 DE ABRIL DE 2017.
 
 P.O. 18 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 296. SE REFORMA POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 296. SE REFORMA POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 349. SE REFORMA LA FRACCIÓN XXII, XXVI Y XXX DEL ARTÍCULO 63, LAS FRACCIONES XX Y XXVII DEL ARTÍCULO 85, LOS PÁRRAFOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO TERCERO DEL ARTÍCULO 94, LA FRACCIÓN XIV DEL ARTÍCULO 96, LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 97, EL ARTÍCULO 99 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 102; Y ADEMÁS, SE ADICIONAN LA FRACCIÓN XV DEL ARTÍCULO 96 Y LA FRACCIÓN XVIII DEL ARTÍCULO 97; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, TAMBIÉN SE REFORMAN LOS ARTÍCULOS 19, 80, 82, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 83, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 87, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 113, EL ARTÍCULO 114 Y EL SEGUNDO PÁRRAFO DE LAS FRACCIONES II Y III DEL ARTÍCULO 115, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
+
+Tercero.- Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, en el ámbito de sus respectivas atribuciones, quedan facultados para proveer lo necesario para la nueva conformación del Consejo de la Judicatura, el cual deberá quedar instalado a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- Los Magistrados del Tribunal Superior de Justicia, que en esta fecha se encuentran en funciones, continuarán en su cargo hasta completar el periodo para el que hubieren sido originalmente nombrados.
+
+Quinto.- El Congreso del Estado y el Gobernador del Estado, en el ámbito de sus atribuciones, deberán realizar las acciones pertinentes para que el procedimiento para la designación de los nuevos Consejeros de la Judicatura, que les corresponde nombrar, se lleve a cabo conforme al procedimiento previsto en este Decreto, las cuales deben quedar concluidas y darse a conocer a la sociedad a más tardar tres meses antes de que concluyan su cargo los Consejeros de la Judicatura que actualmente se encuentra (sic) en funciones.
+
+Sexto.- Los tres Poderes del Estado, en el ámbito de sus atribuciones, deberán emprender las acciones necesarias para que la designación de los nuevos Magistrados del Tribunal Superior de Justicia, a partir de la entrada en vigor del presente Decreto, se realice conforme al procedimiento en el artículo 99 de esta Constitución.
+
+Séptimo.- Las disposiciones relativas a la nueva conformación constitucional del Consejo de la Judicatura entrarán en vigor hasta en tanto éste quede debidamente instalado, lo cual ocurrirá una vez que los dos Consejeros de la Judicatura faltantes sean electos por el Pleno del Tribunal Superior de Justicia y entren en funciones.
+
+Octavo.- Las disposiciones señaladas en el artículo 94 de esta Constitución, relativas al número de periodos que pueden ejercerse en el cargo del Presidente del Tribunal Superior de Justicia y de Consejeros de la Judicatura, serán aplicables a todos los funcionarios que actualmente ocupan dichos cargos.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 350. SE REFORMA POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 123 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 128 AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; ASÍ MISMO SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22, CUARTO PÁRRAFO DEL ARTÍCULO 23, QUINTO PÁRRAFO DEL ARTÍCULO 32; AL ARTÍCULO 33 EN SU INCISO A) FRACCIÓN I, INCISO E) FRACCIÓN I, INCISO B) FRACCIÓN III, FRACCIÓN VI DEL APARTADO A DEL ARTÍCULO 35, PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 59, TERCER PÁRRAFO DEL ARTÍCULO 60, FRACCIÓN SEXTA DEL ARTÍCULO 123, PÁRRAFO PRIMERO DEL ARTÍCULO 175, LA FRACCIÓN V DEL ARTÍCULO 227; POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL INCISO J) DE LA FRACCIÓN I DEL ARTÍCULO 33, DE UN TÍTULO DÉCIMO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 229, 230, 231 Y 232 TODOS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Ayuntamientos que resultaron electos en el proceso electoral del año 2015, concluirán el día 30 de octubre de 2018.
+
+Tercero.- Los Ayuntamientos que resulten electos en el proceso electoral del año 2018, tendrán un periodo constitucional que iniciará el 31 de octubre de 2018 y concluirá el día 29 de septiembre de 2021.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 351. SE REFORMAN EL PÁRRAFO CUARTO DEL ARTÍCULO 94 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 103 Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 102 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor cuarenta y cinco días posteriores a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para efectos del Artículo Primero del presente Decreto, el período de ejercicio de los actuales Magistrados del Tribunal Superior de Justicia se considerará a partir de la fecha de su nombramiento y por el término para el que hayan sido designados.
+
+Tercero.- El otorgamiento y pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial, no afectará en forma alguna los derechos adquiridos y/o las prestaciones que correspondan a los Magistrados del Tribunal Superior de Justicia por concepto de seguridad social; tampoco se afectará lo concerniente a las normas protectoras del salario.
+
+Cuarto.- El Poder Judicial del Estado tomará las previsiones presupuestarias necesarias para pagar el haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial a quienes tengan derecho; para lo cual, podrá manejar los recursos respectivos a través de un fondo o fideicomiso, los cuales deberán incluirse en una partida especial, dentro del presupuesto anual.
+
+Quinto.- En caso de que algún Magistrado del Tribunal Superior de Justicia ratificado en términos Constitucionales, después de su retiro, llegare a ocupar algún otro empleo, cargo o comisión de cualquier naturaleza en alguna institución o dependencia pública de carácter estatal en Nuevo León, se le suspenderá temporalmente el pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial. El periodo de la suspensión comprenderá solamente el tiempo de ejercicio en el diverso cargo público y no deberá computarse para efectos de su otorgamiento en los términos de ley.
