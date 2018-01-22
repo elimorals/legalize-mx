@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2016-10-03"
+last_updated: "2018-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA REFORMA Y ADICIONES AL ESTATUTO ORGÁNICO, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2016, LAS PRESENTES REFORMAS, ENTRAN EN VIGENCIA AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO, CON EXCEPCIÓN DE AQUÉLLAS RELATIVAS AL MUSEO ESPACIO, AL TALLER NACIONAL DE GRÁFICA Y LA SALA DE CONCIERTOS DE LA ORQUESTA SINFÓNICA DE AGUASCALIENTES, LAS CUALES ENTRAN EN VIGOR A PARTIR DE LA FECHA DE QUE LOS INMUEBLES DONDE OPERARÁN SEAN ENTREGADOS AL INSTITUTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -61,7 +61,9 @@ IV. Instituto: Instituto Cultural de Aguascalientes;
 
 V. Junta Directiva: Junta Directiva del Instituto Cultural de Aguascalientes;
 
-VI. Ley de Cultura: Ley de Cultural (sic) del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+VI. Ley de Cultura: Ley de Cultura del Estado de Aguascalientes;
 
 VII. Orquesta: Orquesta Sinfónica de Aguascalientes.
 
@@ -81,17 +83,23 @@ I. Órganos de Administración:
 
 a. Junta Directiva; y
 
-b. Director General.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+b. Dirección General
 
 II. Direcciones de Área:
 
-a. Dirección Administrativa.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
-b. Dirección de Museos y Galerías.
+a. Dirección de Administración
 
-c. Dirección Editorial y Bibliotecas Públicas.
+b. (DEROGADO, P.O. 22 DE ENERO DE 2018)
 
-d. Dirección de Educación Artística Básica.
+c. (DEROGADO, P.O. 22 DE ENERO DE 2018)
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+d. Dirección de Enseñanza Artística y Casas de la Cultura.
 
 e. Dirección de Promoción y Difusión.
 
@@ -101,9 +109,13 @@ III. Universidad de las Artes:
 
 a. Dirección de Universidad de las Artes.
 
-IV. Órgano de apoyo a los órganos del Instituto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
-a. Consejos Técnicos de Directores:
+IV. Órganos de apoyo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+a. Consejo Técnico de Directores.
 
 b. Comités Técnicos.
 
@@ -173,9 +185,11 @@ VI. Revisar, aprobar y firmar las actas de las sesiones de la Junta Directiva; y
 
 VII. Las demás que le correspondan de conformidad con la Ley de Cultura, Ley para el Control de las Entidades Paraestatales, este Estatuto Orgánico, las que le encomiende la Junta Directiva, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
+
 ###### Artículo 11.
 
-El cargo de Secretario será nombrado y removido por el Gobernador del Estado, quien podrá ser miembro o no del Instituto, y tendrá las siguientes facultades y obligaciones:
+El cargo de Secretario será nombrado y removido por la Junta Directiva, a propuesta de su Presidente, entre personas ajenas al Instituto, y quien podrá ser miembro o no de la Junta Directiva, y tendrá las siguientes facultades y obligaciones:
 
 I. Entregar a los miembros de la Junta Directiva, los citatorios que contengan las convocatorias a las sesiones ordinarias o extraordinarias;
 
@@ -195,15 +209,23 @@ VIII. Informar a la Junta Directiva sobre el cumplimiento de los acuerdos tomado
 
 IX. Las demás funciones técnicas y administrativas que deba realizar en la ejecución de los acuerdos y trabajos que se le deleguen.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Existirá también un Prosecretario que será nombrado y removido por la Junta Directiva, a propuesta del Director General del Instituto, y quien podrá ser miembro o no de la Junta Directiva y/o del Instituto, el cual fungirá como apoyo al Secretario, y tendrá sus facultades en caso de ausencia de éste.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
 ###### Artículo 12.
 
-La Junta Directiva sesionará válidamente con la asistencia de por lo menos de la mitad más uno de sus miembros integrantes, siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
+La Junta Directiva sesionará válidamente con la asistencia de por lo menos seis de sus miembros integrantes con derecho a voz y voto, siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
 
 ###### Artículo 13.
 
 Se citará a los integrantes de la Junta Directiva para que asistan a sesión ya sea ordinaria o extraordinaria, por medio de convocatoria firmada por el Presidente y en su ausencia, por su suplente.
 
-La convocatoria deberá contener la fecha, hora, lugar, orden del día de la sesión, y deberá ser acompañado (sic) de la documentación necesaria para el soporte de los temas a tratar. Cuando se trate de sesión ordinaria la convocatoria se hará llegar a los miembros de la Junta Directiva con una anticipación no inferior a ocho días hábiles, y para el caso de sesión extraordinaria no podrá ser menor de dos días hábiles.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+La convocatoria deberá contener la fecha, hora, lugar, orden del día de la sesión, y deberá ser acompañada de la documentación necesaria para el soporte de los temas a tratar. Cuando se trate de sesión ordinaria la convocatoria se hará llegar a los miembros de la Junta Directiva con una anticipación no inferior a ocho días hábiles, y para el caso de sesión extraordinaria no podrá ser menor de dos días hábiles.
 
 ###### Artículo 14.
 
@@ -235,7 +257,9 @@ II. El Secretario deberá informar sobre la asistencia de los miembros propietar
 
 III. Los suplentes deberán acreditar su personalidad exhibiendo oficio de suplencia o representación firmado por el miembro propietario que suplan;
 
-IV. Para el caso que se encuentre presente la mitad más uno de los miembros integrantes de la Junta Directiva, el Secretario informará que existe quórum legal y el Presidente declarará formalmente iniciados los trabajos de la sesión, en caso contrario, se cancelará la sesión y se convocará a una nueva, quedando formalmente citados quienes se encuentren presentes;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+IV. Cuando así aplique, el Secretario informará que existe quórum legal y el Presidente declarará formalmente iniciados los trabajos de la sesión, en caso contrario, se cancelará la sesión y se convocará a una nueva, quedando formalmente citados quienes se encuentren presentes;
 
 V. El Presidente dará a conocer el orden del día de la sesión, el cual podrá ser modificado, solicitando a los miembros presentes su aprobación;
 
@@ -249,9 +273,11 @@ IX. Para que un punto de acuerdo sea aprobado deberá obtener la mayoría de los
 
 X. Una vez agotado el orden del día, el Presidente declarará clausurados los trabajos de la sesión, mencionando fecha y hora.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
+
 ###### Artículo 17.
 
-A las sesiones de la Junta Directiva, previa invitación del Presidente, podrán asistir con voz pero sin voto, a (sic) distinguidas personalidades en el aspecto de cultura, así como funcionarios y directivos de Organismos o Instituciones Culturales e inclusive algún integrante de los Ayuntamientos, cuando en la sesión respectiva se trate lo concerniente a alguna actividad relacionada con el municipio que corresponda.
+A las sesiones de la Junta Directiva, previa invitación del Presidente, podrán asistir con voz pero sin voto, distinguidas personalidades en el ámbito de arte y cultura, así como funcionarios y directivos de Organismos o Instituciones Culturales.
 
 De igual manera podrán participar con voz pero sin voto el Director General y el Comisario Público.
 
@@ -291,7 +317,9 @@ X. Atender a servidores públicos de los diferentes niveles de gobierno, así co
 
 XI. Dirigir, coordinar y supervisar las actividades del Instituto y ejecutar los acuerdos determinados por la Junta Directiva;
 
-XII. Certificar las copias de los documentos que se emitan en atención a las funciones propias del Instituto. En ausencias del Director General, el Director Administrativo podrá realizar la certificación;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XII. Certificar las copias de los documentos que se emitan en atención a las funciones propias del Instituto. En ausencias del Director General, el Director de Administración podrá realizar la certificación;
 
 XIII. Expedir constancias, certificados y diplomas, previa autorización de las autoridades educativas competentes, como reconocimiento de la enseñanza que imparta el Instituto, a través de sus diversas modalidades;
 
@@ -349,7 +377,9 @@ XIV. Integrar, organizar, custodiar, sistematizar y vigilar la integridad del ar
 
 XV. Coordinar los trabajos para la certificación y la acreditación de los sistemas, programas, proyectos y servicios de su competencia;
 
-XVI. Coadyuvar con la unidad de Enlace de Transparencia y de Acceso a la Información Pública, para la debida y oportuna integración y actualización de la información pública que debe ser publicada de oficio, y proporcionar a dicha Unidad de Enlace, oportuna y debidamente, la información, documentación y el proyecto de respuesta, para que ésta gestione la contestación a las solicitudes de acceso a la información pública en la materia;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XVI. Coadyuvar con la Unidad de Enlace de Transparencia y de Acceso a la Información Pública, para la debida y oportuna integración y actualización de la información que debe ser publicada de oficio, y proporcionar a dicha Unidad de Enlace, oportuna y debidamente, la información, documentación y el proyecto de respuesta, para que ésta gestione la contestación a las solicitudes de acceso a la información pública en la materia;
 
 XVII. Coordinar sus actividades con los titulares de las demás Direcciones de área para el mejor desempeño de sus funciones;
 
@@ -357,7 +387,9 @@ XVIII. Suscribir todo documento relativo al ejercicio de sus atribuciones y aque
 
 XIX. Sujetar sus actuaciones a las políticas, lineamientos, procedimientos, manuales, y cualquier otra disposición de carácter institucional;
 
-XX. Resguardar y conservar los bienes muebles e inmuebles que se encuentre (sic) bajo su resguardo; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XX. Resguardar y conservar los bienes muebles e inmuebles que se encuentren bajo su resguardo; y
 
 XXI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales, así como las que otorgue el Director General, o la Junta Directiva.
 
@@ -365,13 +397,17 @@ XXI. Todas las demás facultades y atribuciones que le confiera este Estatuto Or
 
 Para el ejercicio de las funciones y atribuciones, el Instituto contará con las siguientes Direcciones de Área:
 
-I. Dirección Administrativa;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-II. Dirección de Museos y Galerías;
+I. Dirección de Administración.
 
-III. Dirección Editorial y Bibliotecas Públicas;
+II. (DEROGADA, P.O. 22 DE ENERO DE 2018)
 
-IV. Dirección de Educación Artística Básica;
+III. (DEROGADA, P.O. 22 DE ENERO DE 2018)
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+IV. Dirección de Enseñanza Artística y Casas de la Cultura;
 
 V. Dirección de Promoción y Difusión;
 
@@ -383,15 +419,21 @@ VII. Dirección de Universidad de las Artes.
 
 Los servidores públicos que ocupen el cargo de Director de Área, ejercerán su cargo y desempeñarán sus funciones de acuerdo con la distribución que establezcan la normatividad correspondiente y las contenidas en este Estatuto Orgánico, tendrán el carácter de personal de confianza, estando obligados a guardar reserva y confidencialidad sobre los asuntos de su respectiva competencia y sujetando sus actos a la Ley de Cultura, y cualquier otra disposición legal y administrativa que resulte aplicable.
 
-#### SECCIÓN SEGUNDA. Dirección Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ENERO DE 2018)</small>
+
+#### SECCIÓN SEGUNDA. Dirección de Administración
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Artículo 26.
 
-La Dirección Administrativa cumple con la función de garantizar el eficaz desarrollo de las actividades del Instituto, por medio de la administración del capital humano, los recursos materiales, recursos financieros, así como los bienes y servicios que resulten necesarios para cumplir con la finalidad del Instituto.
+La Dirección de Administración cumple con la función de garantizar el eficaz desarrollo de las actividades del Instituto, por medio de la administración del capital humano, los recursos materiales, recursos financieros, así como los bienes y servicios que resulten necesarios para cumplir con la finalidad del Instituto.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Artículo 27.
 
-La Dirección tendrá un titular denominado Director Administrativo, el cual deberá reunir los requisitos que la Ley de Cultura establece, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
+La Dirección tendrá un titular denominado Director de Administración, el cual deberá reunir los requisitos que la Ley de Cultura establece, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
 
 I. Integrar el programa operativo anual, con la información proporcionada por cada una de las direcciones de área del Instituto;
 
@@ -449,135 +491,63 @@ XXVII. Proporcionar a las direcciones y áreas del Instituto los recursos inform
 
 XXVIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE ENERO DE 2018)</small>
+
 #### SECCIÓN TERCERA. Dirección de Museos y Galerías
 
 ###### Artículo 28.
 
-La Dirección de Museos y Galerías cumple con la función de promover la creación, conservación y exhibición de testimonios y productos artísticos y culturales, para que estén al servicio del público con fines de estudio, educación y disfrute.
+(DEROGADO, P.O. 22 DE ENERO DE 2018)
 
 ###### Artículo 29.
 
-Al frente de esta Dirección, se tendrá un titular denominado Director de Museos y Galerías, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
+(DEROGADO, P.O. 22 DE ENERO DE 2018)
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-I. Administrar el Museo Espacio y el Taller Nacional de Gráfica, con sede en el Macro Espacio para la Cultura y las Artes, así como los demás museos y galerías adscritos al Instituto;
-
-II. Actuar como gestor cultural para el enriquecimiento del patrimonio artístico y cultural del Instituto;
-
-III. Proponer al Director General las estrategias para acercar al público a los bienes culturales y artísticos, dentro de su competencia;
-
-IV. Impartir la enseñanza artística en lo que respecta a la capacitación para el trabajo en las artes y los oficios característicos de nuestro Estado;
-
-V. Coordinar las actividades de los servicios educativos de los museos y galerías del Instituto;
-
-VI. Registrar la iniciativa de personas y grupos a efecto de promover y difundir sus actividades en el medio cultural;
-
-VII. Resguardar el patrimonio del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-VIII. Custodiar los inmuebles donde se encuentren albergados los bienes descritos en la fracción que antecede;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-IX. Vincularse con la Universidad de las Artes para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno al propio museo, las colecciones que resguarda y sus las (sic) curadurías e interpretaciones, así como a las exposiciones temporales;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-X. Vincularse con la Universidad de las Artes para promover la enseñanza del grabado en el nivel profesional; y
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2016)
-
-XI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE ENERO DE 2018)</small>
 
 #### SECCIÓN CUARTA. Dirección Editorial y Bibliotecas Públicas
 
 ###### Artículo 30.
 
-La Dirección Editorial y Bibliotecas Públicas cumple con la función de promover y fomentar la adquisición de material editorial para integrar el acervo del Instituto; promover la creación, edición y publicación de obras literarias; así como la difusión y promoción de la lectura.
+(DEROGADO, P.O. 22 DE ENERO DE 2018)
 
 ###### Artículo 31.
 
-Esta Dirección tendrá un titular denominado Director Editorial y Bibliotecas Públicas, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
+(DEROGADO, P.O. 22 DE ENERO DE 2018)
 
-I. Promover la creación, edición y publicación de obras literarias de escritores y autores mexicanos o extranjeros;
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 22 DE ENERO DE 2018)</small>
 
-II. Promover la edición ya sea directa o por conducto de terceros, de libros, revistas, folletos y publicaciones periódicas en medios tradicionales, magnéticos o electrónicos;
+#### SECCIÓN QUINTA. Dirección de Enseñanza Artística y Casas de la Cultura
 
-III. Promover la compra, venta, distribución, el dar y recibir en consignación y pignorar libros, folletos, revistas, medios magnéticos, electrónicos y demás publicaciones periódicas;
-
-IV. Promover la distribución directamente por el Instituto o por conducto de terceras personas, dentro y fuera del territorio nacional, tanto las ediciones propias y de las subsidiarias, como las de otras casas editoriales nacionales y extranjeras de naturaleza análoga;
-
-V. Promover la exportación e importación de libros, revistas, folletos, medios magnéticos y electrónicos y en general todo tipo de operaciones en el ramo editorial;
-
-VI. Exhibir y promover las obras que edite, publique y distribuya el Instituto en exposiciones, ferias y actos especiales, con la finalidad de lograr su oportuna y eficiente difusión;
-
-VII. Coordinar y supervisar la Red Estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos que se celebren con esa instancia federal y/o con los ayuntamientos;
-
-VIII. Proponer al Director General la lista anual de publicaciones que incluye colecciones editoriales y títulos;
-
-IX. En caso de traducciones y reinscripciones deberá gestionar los derechos de edición de obras registradas;
-
-X. Dirigir las revistas oficiales del Instituto;
-
-XI. Coordinar y supervisar el correcto funcionamiento del Centro de Investigación y Estudios Literarios de Aguascalientes "Fraguas";
-
-XII. En conjunto con el Director General, establecer políticas y actividades anuales del Fondo Especial del Fomento a la Lectura, así como supervisar su correcto funcionamiento;
-
-XIII. Representar a Aguascalientes en el programa editorial de la Región Centro Occidente;
-
-XIV. Promover el acceso al libro en igualdad de condiciones para la población, por medio de estrategias para aumentar su disponibilidad y acercarlo al lector;
-
-XV. Promover la participación social y de los sectores público y privado en las actividades de fomento a la lectura y el libro;
-
-XVI. Establecer vínculos estatales con las ferias nacionales e internacionales relacionadas con el libro;
-
-XVII. Fomentar campañas de difusión y divulgación de los autores aguascalentenses al promover su trabajo intelectual y la vocación de escribir;
-
-XVIII. Llevar a cabo acciones de coordinación con las organizaciones de padres de familia, las instituciones públicas, privadas y sociales, los organismos culturales, los clubes de lectura privados, los círculos literarios, los gremios de intelectuales y con cualquier otra organización de la sociedad civil que contribuya a elevar el nivel cultural y de lectura de los aguascalentenses;
-
-XIX. De forma conjunta con el Director General, deberá coordinar sus acciones de trabajo y promoción con las instituciones del Gobierno Federal y gobiernos municipales responsables de la aplicación de las políticas, programas y acciones de la promoción de la lectura y el libro para el mejoramiento de los niveles de lectura en el Estado;
-
-XX. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso al libro y la lectura;
-
-XXI. Promover y fomentar la adquisición de material didáctico y de lectura para personas con capacidades diferentes en centros culturales y bibliotecas;
-
-XXII. Realizar las acciones que resulten necesarias para garantizar el acceso de los ciudadanos a las bibliotecas públicas, siendo éstas las encargadas de reforzar la promoción del fomento a la lectura, del libro y del consumo de éstos como medio de socialización;
-
-XXIII. Promover dentro de las Bibliotecas Públicas, el uso y acceso a la (sic) redes de información y a los catálogos digitales, con el objetivo de fomentar la lectura en la sociedad;
-
-XXIV. Realizar las acciones necesarias para que las Bibliotecas Públicas del Instituto provean los servicios básicos que describe la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el Estado de Aguascalientes;
-
-XXV. Elaborar y presentar al Director General las propuestas para el programa Estatal para la Promoción de la Lectura y el Libro;
-
-XXVI. Registrar, enriquecer y preservar el acervo bibliográfico del Instituto, así como promover su difusión; y
-
-XXVII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
-
-#### SECCIÓN QUINTA. Dirección de Educación Artística Básica
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Artículo 32.
 
-La Dirección de Educación Artística Básica cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de promoción cultural y capacitación a docentes para impartir la educación artística básica, en los diferentes Centros de Animación Cultural y Programas del Instituto.
+La Dirección de Enseñanza Artística y Casas de la Cultura cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de promoción cultural y capacitación a docentes para impartir la educación artística básica, en las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto, así como la administración del Programa de Culturas Populares.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
 ###### Artículo 33.
 
-Esta Dirección tendrá un titular denominado Director de Educación Artística Básica, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
+Esta Dirección tendrá un titular denominado Director de Enseñanza Artística y Casas de la Cultura, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
 
 I. Elaborar y proponer al Director General los planes y programas de estudio que correspondan a la educación artística básica;
 
-II. Impartir la enseñanza artística básica en todas sus áreas y disciplinas afines en los diferentes Centros de Animación Cultural y Programas del Instituto;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+II. Impartir la enseñanza artística básica en todas sus áreas y disciplinas afines en las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto;
 
 III. Impartir la capacitación a docentes en educación artística básica, cuando sean celebrados convenios del Instituto con otras instituciones;
 
-IV. Proponer al Director General la plantilla docente para cada ciclo escolar, para su aprobación;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+IV. Proponer al Director General la plantilla docente cada ciclo escolar, para su aprobación;
 
 V. Coordinar, supervisar y evaluar la asistencia y desempeño de docentes adscritos a esta dirección;
 
-VI. Organizar presentaciones artísticas de los diferentes Centros de Animación Cultural y Programas del Instituto en los que se ofrece educación artística básica;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+VI. Organizar presentaciones artísticas de las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto en los que se ofrece educación artística básica;
 
 VII. Promover grupos de difusión artística básica a nivel municipal, estatal y nacional;
 
@@ -587,9 +557,21 @@ VIII. Coadyuvar con la Dirección de la Universidad de las Artes las actividades
 
 IX. Coordinar y supervisar las actividades de Planeación Académica;
 
-X. Coordinar y supervisar el correcto funcionamiento acorde a las políticas, lineamientos y normatividad aplicable, de los Centros de Animación Cultural del Instituto donde se imparta educación artística básica; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+X. Coordinar y supervisar el correcto funcionamiento acorde a las políticas, lineamientos y normatividad aplicable, de las Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto donde se imparta educación artística básica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XI. Coordinar el Programa de Culturas Populares; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XII. Impartir la enseñanza artística en lo que respecta a la capacitación para el trabajo en las artes y los oficios característicos de nuestro Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 #### SECCIÓN SEXTA. Dirección de Promoción y Difusión
 
@@ -623,7 +605,149 @@ IX. Promover la exportación e importación de eventos y productos culturales en
 
 X. Coordinar y promover los grupos de difusión cultural pertenecientes al Instituto; y
 
-XI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XI. Coordinar los museos y galerías, con el objetivo de promover la creación, conservación y exhibición de testimonios y productos artísticos y culturales, para que estén al servicio del público con fines de estudio, educación y disfrute.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XII. Actuar como gestor cultural para el enriquecimiento del patrimonio artístico y cultural del Instituto;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XIII. Proponer al Director General las estrategias para acercar al público a los bienes culturales y artísticos, dentro de su competencia;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XIV. Coordinar el Programa de Desarrollo Cultural para la Atención a Públicos Específicos; Programa de Desarrollo Cultural para la Juventud; y Fondo Especial para el Desarrollo Cultural Infantil-Alas y Raíces;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XV. Coordinar las actividades de los servicios educativos de los museos y galerías del Instituto;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XVI. Registrar la iniciativa de personas y grupos a efecto de promover y difundir sus actividades en el medio cultural;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XVII. Resguardar el patrimonio del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XVIII. Vincularse con las Direcciones de Área para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno a los museos, las colecciones que resguardan y las curadurías e interpretaciones, así como a las exposiciones temporales;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XIX. Coordinar el Taller Nacional de Gráfica;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XX. Realizar la coordinación editorial del Instituto.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXI. Promover la creación, edición y publicación de obras literarias de escritores y autores mexicanos o extranjeros;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXII. Promover la edición ya sea directa o por conducto de terceros, de libros, revistas, folletos y publicaciones periódicas en medios tradicionales, magnéticos o electrónicos;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXIII. Promover la compra, venta, distribución, el dar y recibir en consignación y pignorar libros, folletos, revistas, medios magnéticos, electrónicos y demás publicaciones periódicas;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXIV. Promover la distribución directamente por el Instituto o por conducto de terceras personas, dentro y fuera del territorio nacional, tanto las ediciones propias y de las subsidiarias, como las de otras casas editoriales nacionales y extranjeras de naturaleza análoga;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXV. Promover la exportación e importación de libros, revistas, folletos, medios magnéticos y electrónicos y en general todo tipo de operaciones en el ramo editorial;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXVI. Exhibir y promover las obras que edite, publique y distribuya el Instituto en exposiciones, ferias y actos especiales, con la finalidad de lograr su oportuna y eficiente difusión;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXVII. Coordinar y supervisar la Red Estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos que se celebren con esa instancia federal y/o con los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXVIII. Proponer al Director General la lista anual de publicaciones que incluye colecciones editoriales y títulos;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXIX. En caso de traducciones y reinscripciones deberá gestionar los derechos de edición de obras registradas;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXX. Dirigir las revistas oficiales del Instituto;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXI. Registrar, enriquecer y preservar el acervo bibliográfico del Instituto, así como promover su difusión;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXII. En conjunto con el Director General, establecer políticas y actividades anuales del Fondo Especial del Fomento a la Lectura, así como supervisar su correcto funcionamiento;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXIII. Representar a Aguascalientes en el programa editorial de la Región Centro Occidente;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXIV. Promover el acceso al libro en igualdad de condiciones para la población, por medio de estrategias para aumentar su disponibilidad y acercarlo al lector;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXV. Promover la participación social y de los sectores público y privado en las actividades de fomento a la lectura y el libro;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXVI. Establecer vínculos estatales con las ferias nacionales e internacionales relacionadas con el libro;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXVII. Fomentar campañas de difusión y divulgación de los autores aguascalentenses al promover su trabajo intelectual y la vocación de escribir;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXVIII. Llevar a cabo acciones de coordinación con las organizaciones de padres de familia, las instituciones públicas, privadas y sociales, los organismos culturales, los clubes de lectura privados, los círculos literarios, los gremios de intelectuales y con cualquier otra organización de la sociedad civil que contribuya a elevar el nivel cultural y de lectura de los aguascalentenses;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XXXIX. De forma conjunta con el Director General, deberá coordinar sus acciones de trabajo y promoción con las instituciones del Gobierno Federal y gobiernos municipales responsables de la aplicación de las políticas, programas y acciones de la promoción de la lectura y el libro para el mejoramiento de los niveles de lectura en el Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XL. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso al libro y la lectura;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XLI. Promover y fomentar la adquisición de material didáctico y de lectura para personas con capacidades diferentes en centros culturales y bibliotecas;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XLII. Realizar las acciones que resulten necesarias para garantizar el acceso de los ciudadanos a las bibliotecas públicas, siendo éstas las encargadas de reforzar la promoción del fomento a la lectura, del libro y del consumo de éstos como medio de socialización;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XLIII. Promover dentro de las Bibliotecas Públicas, el uso y acceso a las redes de información y a los catálogos digitales, con el objetivo de fomentar la lectura en la sociedad;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XLIV. Realizar las acciones necesarias para que las Bibliotecas Públicas del Instituto provean los servicios básicos que describe la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+
+XLV. Elaborar y presentar al Director General las propuestas para el programa Estatal para la Promoción de la Lectura y el Libro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XLVI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 #### SECCIÓN SÉPTIMA. Dirección de la Orquesta Sinfónica de Aguascalientes
 
@@ -651,9 +775,9 @@ VII. Representar a la Orquesta Sinfónica ante terceros a nivel nacional e inter
 
 VIII. Promover la superación individual y colectiva de los músicos que integran la Orquesta Sinfónica;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-IX. Administrar la Sala de Conciertos de la Orquesta, con sede en el Macro Espacio para la Cultural (sic) y las Artes;
+IX. Administrar la Sala de Conciertos de la Orquesta, con sede en el Macro Espacio para la Cultura y las Artes;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -693,7 +817,9 @@ La Dirección tendrá un titular denominado Director de Universidad de las Artes
 
 I. Impartir la enseñanza artística media y superior en todas sus áreas y disciplinas afines;
 
-II. Impartir talleres de iniciación artística que representen una antesala para la formación profesional, así como la (sic) difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard" y el Centro de Estudios Musicales "Manuel M. Ponce" del Instituto;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+II. Impartir talleres de iniciación artística que representen una antesala para la formación profesional, así como difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard" y el Centro de Estudios Musicales "Manuel M. Ponce" del Instituto;
 
 III. Participar con voz y voto en las reuniones de los Consejos Técnicos Académicos de las carreras;
 
@@ -703,7 +829,9 @@ V. Promover la gestión de recursos económicos para beneficio de la Universidad
 
 VI. Vincular a la Universidad de las Artes con la sociedad y organismos de educación artística a nivel estatal, nacional e internacional;
 
-VII. Promover la investigación de las distintas disciplinas artísticas que se imparten en la Universidad en (sic) las Artes, con el objeto de actualizar e innovar la educación artística técnica y profesional;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+VII. Promover la investigación de las distintas disciplinas artísticas que se imparten en la Universidad de las Artes, con el objeto de actualizar e innovar la educación artística técnica y profesional;
 
 VIII. Promover la nivelación académica de alumnos y docentes de la Universidad de las Artes;
 
@@ -731,9 +859,13 @@ XV. Vincularse con el Museo Espacio, por medio de la Dirección de Museos y Gale
 
 XVI. Vincularse con el Taller Nacional de Gráfica para promover la enseñanza del grabado en el nivel profesional; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
 
-XVII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XVII. Coordinar y supervisar el correcto funcionamiento del Centro de Investigación y Estudios Literarios de Aguascalientes "Fraguas"; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
+
+XVIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 ###### Artículo 42.
 
@@ -773,9 +905,11 @@ Los servidores públicos que no se encuentren dentro de los descritos en los art
 
 El ingreso de personal docente, y académico, se llevará a cabo mediante concursos de oposición externa, de acuerdo a los lineamientos que se expidan para tal efecto.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
 ###### Artículo 47.
 
-El Director General, en ausencias temporales de hasta 30 días, será suplido por el Director Administrativo.
+El Director General, en ausencias temporales de hasta 30 días, será suplido por el Director de Administración.
 
 ###### Artículo 48.
 
@@ -823,7 +957,9 @@ La Junta Directiva, a propuesta de su Presidente o cuando menos de la tercera pa
 
 A su vez las Direcciones de área podrán apoyarse en los Comités Técnicos relacionados con sus atribuciones, mismos que se conformarán por miembros del propio Instituto, y en su caso con miembros de la ciudadanía cuando así se considere necesario, siempre que la Junta Directiva autorice su constitución.
 
-## TÍTULO IV (SIC). ÓRGANOS DE CONTROL Y VIGILANCIA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE ENERO DE 2018)</small>
+
+## TÍTULO III. ÓRGANOS DE CONTROL Y VIGILANCIA
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -925,9 +1061,9 @@ XVIII.- Dictar las resoluciones en los recursos de revocación interpuestos por 
 
 XIX.- Vigilar que la actuación de los servidores públicos sea en estricto apego a la legislación aplicable, así como el cumplimiento exacto de las disposiciones que expida la Secretaría de Fiscalización y Rendición de Cuentas, y en los casos de infracción normativa, iniciar el procedimiento administrativo correspondiente;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XX.- Recibir, substancias (sic) y resolver las inconformidades expuestas por los actos derivados de cumplimiento o incumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, y realizar cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades de que haya conocido, en términos de dicho ordenamiento;
+XX.- Recibir, substanciar y resolver las inconformidades expuestas por los actos derivados de cumplimiento o incumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, y realizar cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades de que haya conocido, en términos de dicho ordenamiento;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -969,9 +1105,9 @@ XXIX.- Vigilar el cumplimiento exacto de las políticas, lineamientos y disposic
 
 XXX.- Certificar y en su caso expedir copias de los documentos que obren en los archivos de la Contraloría Interna;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-XXXI.- Atender en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas los requerimientos de las autoridades fiscalizadores (sic) como el Órgano Superior de Fiscalización, la Secretaría de la Función Pública y la Auditoría Superior de la Federación; y
+XXXI.- Atender en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas los requerimientos de las autoridades fiscalizadoras como el Órgano Superior de Fiscalización, la Secretaría de la Función Pública y la Auditoría Superior de la Federación; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1086,6 +1222,22 @@ P.O. 3 DE OCTUBRE DE 2016.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes reformas al Estatuto Orgánico, entrará (sic) en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de aquellas relativas al Museo Espacio, al Taller Nacional de Gráfica y la Sala de Conciertos de la Orquesta Sinfónica de Aguascalientes, las cuales entrarán en vigor a partir de la fecha de que los inmuebles donde operarán sean entregados al Instituto.
+
+###### ARTÍCULO SEGUNDO.
+
+Los acuerdos, circulares y demás disposiciones emitidas previamente a la entrada en vigor de las reformas y adiciones al presente Estatuto Orgánico del Instituto Cultural de Aguascalientes, tendrán plena validez siempre y cuando no contravengan las disposiciones de éste.
+
+###### ARTÍCULO TERCERO.
+
+Las diversas Direcciones, contarán con un plazo de treinta días naturales para asumir las atribuciones que les han sido señaladas en las reformas al Estatuto Orgánico y que a la fecha se encuentren siendo atendidas por otras áreas.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS DEL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico, entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
