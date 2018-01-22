@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2016-05-16"
+last_updated: "2018-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-(NOTA: EL 23 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX Y X, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 63/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 109, MEDIANTE EL CUAL SE REFORMÓ EL ARTÍCULO 7 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISÉIS DE MAYO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 27 DE SEPTIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -245,6 +243,8 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 (NOTA: EL 23 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX Y X, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 63/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 109, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE SEPTIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
 El Tribunal Superior de Justicia se integrará con catorce Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del artículo 115 de esta Ley.
@@ -264,8 +264,6 @@ El Tribunal Superior de Justicia funcionará en Pleno, así como en Salas Colegi
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 Uno de los Magistrados fungirá como Presidente del Tribunal sin integrar Sala.
-
-(NOTA: EL 3 DE JULIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 18/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN CONSISTENTE EN "LA FALTA DE REGULACIÓN DEL HABER DE RETIRO PARA LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA ENTIDAD"; POR LO QUE, "DEBERÁ EMITIR LAS NORMAS CORRESPONDIENTES DURANTE EL PRÓXIMO PERÍODO ORDINARIO DE SESIONES", LA CUAL SURTIÓ EFECTOS EL 4 DE JULIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### ARTÍCULO 10.
 
@@ -306,6 +304,10 @@ Los Secretarios a que se refiere el párrafo anterior, deberán reunir los requi
 ###### ARTÍCULO 17.
 
 Los Magistrados que estén en ejercicio, percibirán la remuneración asignada en el presupuesto de egresos del Poder Judicial, la cual no podrá ser disminuida durante su ejercicio.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Los Magistrados ratificados, al retirarse de su encargo, recibirán un haber de retiro en los términos que señala la Constitución, el cual será hasta por el tiempo que ejerció como Magistrado, quedando facultado el órgano de administración del Poder Judicial del Estado para regular lo relativo a su otorgamiento y cálculo, sin que su monto pueda exceder del ingreso que corresponda a los jueces de primera instancia en activo.
 
 ###### ARTÍCULO 18.
 
@@ -351,9 +353,11 @@ XI. Las demás que le confieran las leyes.
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-El Presidente del Tribunal Superior de Justicia será electo por el Pleno mediante votación secreta y durará en su cargo dos años, no pudiendo ser reelecto para el periodo inmediato.
+El Presidente del Tribunal Superior de Justicia será electo por el Pleno mediante votación secreta y durará en su encargo dos años con posibilidad de una reelección inmediata.
 
 ###### ARTÍCULO 20.
 
@@ -1433,25 +1437,31 @@ Para ser Director del Centro Estatal de Convivencia Familiar se deberán reunir 
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 80.
 
-El Consejo de la Judicatura se compondrá por tres Consejeros que serán designados conforme a lo dispuesto en la Constitución Política del Estado y solo podrán ser removidos por las causas determinadas en ésta.
+El Consejo de la Judicatura se compondrá por cinco Consejeros que serán designados conforme a lo dispuesto en la Constitución Política del Estado y solo podrán ser removidos por las causas determinadas en ésta. Los jueces del Poder Judicial que hubieren sido designados como Consejeros de la Judicatura actuarán con licencia, por lo que, para el desempeño de esta función, deberán separarse de sus respectivos cargos.
 
 ###### ARTÍCULO 81.
 
 Los Consejeros de la Judicatura percibirán la remuneración que corresponda a los Magistrados del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 82.
 
-Los Consejeros durarán en su encargo cinco años. En caso de falta definitiva de los Consejeros, se estará a lo dispuesto en la Constitución Política del Estado. El Consejero así designado durará en su encargo el tiempo faltante para concluir el plazo del sustituido y desempeñará los cargos que éste tuviere en el Consejo.
+Los Consejeros designados por el Poder Judicial y los designados por los Poderes Legislativo y Ejecutivo durarán en su cargo tres años pudiendo ser designados por hasta un periodo consecutivo adicional. En caso de falta definitiva de los Consejeros, se estará a lo dispuesto en la Constitución Política del Estado. Con el propósito de no afectar el escalonamiento previsto en el artículo 94 de dicha Constitución, el Consejero así designado durará en su encargo sólo el tiempo faltante para concluir el plazo del sustituido y desempeñará los cargos que éste tuviere en el Consejo.
 
 ###### ARTÍCULO 83.
 
 Las licencias de los Consejeros serán otorgadas conforme lo dispone esta Ley.
 
-Cuando la licencia se otorgue por un plazo hasta de quince días naturales, no será necesario designar a un Consejero interino, pero cuando recaiga en el Presidente del Consejo de la Judicatura, el Pleno deberá designar de entre los otros dos Consejeros a quien fungirá como Presidente interino.
+> <small>[N. DE E. DEL ANÁLISIS AL DEL DECRETO NO. 349 PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2018, SE ADVIERTE QUE EL ANTERIOR PÁRRAFO SEGUNDO Y TERCERO SE FUSIONÓ PARA FORMAR EL ACTUAL PÁRRAFO SEGUNDO.]</small>
 
-Cuando la licencia fuere por un periodo superior a quince días naturales el Consejero será suplido interinamente por la persona que determine la autoridad que las nombró. En caso de que el Consejero a quien se le otorgue la licencia fuera el Presidente del Pleno del Consejo, quien sea designado desempeñará ese cargo.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Cuando la licencia se otorgue por un plazo hasta de quince días naturales, no será necesario designar a un Consejero interino. Cuando la licencia fuere por un periodo superior a quince días naturales el Consejero será suplido interinamente por la persona que determine la autoridad que lo nombró. En caso de que el Consejero a quien se le otorgue la licencia fuera el Presidente, éste será suplido por el Magistrado que deba sustituirlo como Presidente del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 84.
 
@@ -1463,7 +1473,9 @@ El Consejo de la Judicatura contará con la estructura administrativa y personal
 
 El Consejo de la Judicatura funcionará en Pleno o en Comisiones.
 
-El Pleno se integrará con los tres Consejeros, pero bastará la presencia del Presidente y de otro de sus integrantes para sesionar.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+El Pleno se integrará con los cinco Consejeros, pero bastará la presencia del Presidente y tres de sus integrantes para sesionar.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -1477,7 +1489,9 @@ El Pleno del Consejo de la Judicatura sesionará, por convocatoria de su Preside
 
 El Pleno del Consejo de la Judicatura podrá integrar comisiones para atender los asuntos que expresamente les encomienden, quienes funcionarán en los términos que señale el reglamento respectivo, debiendo existir en todo caso las que atiendan los asuntos relacionados con la disciplina, la carrera judicial, la administración del Poder Judicial y la modernización tecnológica.
 
-Las sesiones de las comisiones sólo serán válidas con la asistencia de los dos consejeros que la integren.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Las sesiones de las comisiones sólo serán válidas con la asistencia de al menos tres de los consejeros que la integren.
 
 A las sesiones de las comisiones podrá invitarse, con voz pero sin voto, a personas que por sus conocimientos enriquezcan las labores de las mismas. La invitación la realizará el Consejero que presida la Comisión.
 
@@ -1789,11 +1803,15 @@ IX. Que los interesados sean hijos o cónyuges de cualquier deudor o acreedor de
 
 X. Cualquier otra causa análoga a las anteriores.
 
-Los integrantes del Consejo de la Judicatura en todo caso están impedidos para ejercer la abogacía, salvo en caso propio, no podrán ocupar otro cargo oficial; ni ejercer como Corredor, Notario Público, Apoderado Judicial, Curador, Albacea, excepto que tengan intereses en la herencia. Tampoco podrán intervenir en una quiebra o concurso o ser árbitro, ni desempeñar cargo particular salvo los de carácter docente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Los integrantes del Consejo de la Judicatura en todo caso están impedidos para ejercer la abogacía, salvo en caso propio, no podrán ocupar otro cargo oficial; ni ejercer como Corredor, Notario Público, Apoderado Judicial, Curador, Albacea, excepto que tengan intereses en la herencia. Tampoco podrán intervenir en una quiebra o concurso o ser árbitro, ni desempeñar cargo particular salvo los de carácter docente. El impedimento relativo a no ocupar otro cargo oficial no le será aplicable al Presidente del Consejo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 114.
 
-Los Consejeros no podrán abstenerse de votar sino cuando tuvieren impedimento legal. El Pleno del Consejo de la Judicatura calificará los impedimentos que hubieren sido planteados, respecto de sus miembros, en asuntos de su competencia. Si el Presidente fuera el impedido, el Pleno acordará que Consejero fungirá como Presidente para conocer del caso.
+Los Consejeros no podrán abstenerse de votar sino cuando tuvieren impedimento legal. El Pleno del Consejo de la Judicatura calificará los impedimentos que hubieren sido planteados, respecto de sus miembros, en asuntos de su competencia. Si el Presidente fuera el impedido, éste será suplido por el Magistrado que deba sustituirlo como Presidente del Tribunal Superior de Justicia, en términos del artículo 115 de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LAS FALTAS
 
@@ -1811,13 +1829,17 @@ Cuando la falta sea absoluta se procederá en los términos del artículo 22 de 
 
 II. Las de los Magistrados de las Salas Unitarias, del Tribunal Superior de Justicia, cuando la ausencia no pase de quince días y se trate del despacho de asuntos urgentes, serán cubiertas por el Magistrado que designe el Pleno, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Cuando la ausencia exceda de quince días se designará por el Tribunal en Pleno un Magistrado interino que la cubra, quien deberá cumplir los requisitos para desempeñar este encargo.
 
-En las faltas absolutas se procederá en los términos de la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+En las faltas absolutas se procederá en los términos de la Constitución Política del Estado. Si cuando se produzca la falta absoluta o definitiva no se ha hecho el nombramiento correspondiente, el Tribunal en Pleno podrá designar un Magistrado interino que se desempeñará en el cargo provisionalmente hasta que entre (sic) funciones el que deba cubrir la vacante, y quien deberá cumplir con los requisitos para ejercer este encargo;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
 III. La de un solo Magistrado de una Sala Colegiada, del Tribunal Superior de Justicia, cuando la ausencia no pase de quince días y se trate del despacho de asuntos urgentes, serán cubiertas por el Magistrado que designe el Pleno. Cuando la ausencia exceda de quince días se designará por el Tribunal en Pleno un Magistrado interino que la cubra, quien deberá cumplir los requisitos para desempeñar este encargo.
 
-En las faltas absolutas se procederá en los términos de la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+En las faltas absolutas se procederá en los términos de la Constitución Política del Estado. Si cuando se produzca la falta absoluta o definitiva no se ha hecho el nombramiento correspondiente, el Tribunal en Pleno podrá designar un Magistrado interino que se desempeñará en el cargo provisionalmente hasta que entre (sic) funciones el que deba cubrir la vacante, y quien deberá cumplir con los requisitos para ejercer este encargo;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2432,3 +2454,37 @@ P.O. 16 DE MAYO DE 2016.
 Primero.- La disminución de los Magistrados del Pleno del Tribunal Superior de Justicia, de 16 hasta llegar a 14, se realizará de manera gradual una vez que concluya el periodo de sus cargos o se actualice una ausencia definitiva de cualquiera de ellos, por cualquier causa y en cualquier tiempo, las vacantes que se presenten ya no serán suplidas y la sala correspondiente desaparecerá, debiendo el Pleno del Tribunal Superior de Justicia hacer los ajustes orgánicos correspondientes.
 
 Segundo.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 349. SE REFORMA LA FRACCIÓN XXII, XXVI Y XXX DEL ARTÍCULO 63, LAS FRACCIONES XX Y XXVII DEL ARTÍCULO 85, LOS PÁRRAFOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO TERCERO DEL ARTÍCULO 94, LA FRACCIÓN XIV DEL ARTÍCULO 96, LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 97, EL ARTÍCULO 99 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 102; Y ADEMÁS, SE ADICIONAN LA FRACCIÓN XV DEL ARTÍCULO 96 Y LA FRACCIÓN XVIII DEL ARTÍCULO 97; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, TAMBIÉN SE REFORMAN LOS ARTÍCULOS 19, 80, 82, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 83, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 87, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 113, EL ARTÍCULO 114 Y EL SEGUNDO PÁRRAFO DE LAS FRACCIONES II Y III DEL ARTÍCULO 115, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
+
+Tercero.- Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, en el ámbito de sus respectivas atribuciones, quedan facultados para proveer lo necesario para la nueva conformación del Consejo de la Judicatura, el cual deberá quedar instalado a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- Los Magistrados del Tribunal Superior de Justicia, que en esta fecha se encuentran en funciones, continuarán en su cargo hasta completar el periodo para el que hubieren sido originalmente nombrados.
+
+Quinto.- El Congreso del Estado y el Gobernador del Estado, en el ámbito de sus atribuciones, deberán realizar las acciones pertinentes para que el procedimiento para la designación de los nuevos Consejeros de la Judicatura, que les corresponde nombrar, se lleve a cabo conforme al procedimiento previsto en este Decreto, las cuales deben quedar concluidas y darse a conocer a la sociedad a más tardar tres meses antes de que concluyan su cargo los Consejeros de la Judicatura que actualmente se encuentra en funciones.
+
+Sexto.- Los tres Poderes del Estado, en el ámbito de sus atribuciones, deberán emprender las acciones necesarias para que la designación de los nuevos Magistrados del Tribunal Superior de Justicia, a partir de la entrada en vigor del presente Decreto, se realice conforme al procedimiento en el artículo 99 de esta Constitución.
+
+Séptimo.- Las disposiciones relativas a la nueva conformación constitucional del Consejo de la Judicatura entrarán en vigor hasta en tanto éste quede debidamente instalado, lo cual ocurrirá una vez que los dos Consejeros de la Judicatura faltantes sean electos por el Pleno del Tribunal Superior de Justicia y entren en funciones.
+
+Octavo.- Las disposiciones señaladas en el artículo 94 de esta Constitución, relativas al número de periodos que pueden ejercerse en el cargo del Presidente del Tribunal Superior de Justicia y de Consejeros de la Judicatura, serán aplicables a todos los funcionarios que actualmente ocupan dichos cargos.
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 351. SE REFORMAN EL PÁRRAFO CUARTO DEL ARTÍCULO 94 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 103 Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 102 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor cuarenta y cinco días posteriores a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para efectos del Artículo Primero del presente Decreto, el período de ejercicio de los actuales Magistrados del Tribunal Superior de Justicia se considerará a partir de la fecha de su nombramiento y por el término para el que hayan sido designados.
+
+Tercero.- El otorgamiento y pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial, no afectará en forma alguna los derechos adquiridos y/o las prestaciones que correspondan a los Magistrados del Tribunal Superior de Justicia por concepto de seguridad social; tampoco se afectará lo concerniente a las normas protectoras del salario.
+
+Cuarto.- El Poder Judicial del Estado tomará las previsiones presupuestarias necesarias para pagar el haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial a quienes tengan derecho; para lo cual, podrá manejar los recursos respectivos a través de un fondo o fideicomiso, los cuales deberán incluirse en una partida especial, dentro del presupuesto anual.
+
+Quinto.- En caso de que algún Magistrado del Tribunal Superior de Justicia ratificado en términos Constitucionales, después de su retiro, llegare a ocupar algún otro empleo, cargo o comisión de cualquier naturaleza en alguna institución o dependencia pública de carácter estatal en Nuevo León, se le suspenderá temporalmente el pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial. El periodo de la suspensión comprenderá solamente el tiempo de ejercicio en el diverso cargo público y no deberá computarse para efectos de su otorgamiento en los términos de ley.
