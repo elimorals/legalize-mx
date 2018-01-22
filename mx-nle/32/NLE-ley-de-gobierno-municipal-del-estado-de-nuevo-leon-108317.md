@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2015-06-19"
+last_updated: "2018-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 19 DE JUNIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -181,9 +179,11 @@ Los Regidores electos por mayoría relativa y los designados conforme al princip
 
 ### CAPÍTULO III. DE LA INSTALACIÓN DEL AYUNTAMIENTO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 22.
 
-El Ayuntamiento electo se instalará solemne y públicamente el día 31 de octubre del año que corresponda, conforme a lo establecido en la Constitución Política del Estado, aunque hubiere tomado protesta en hora anterior. El ejercicio del mismo iniciará a las cero horas del día 31 de octubre.
+El Ayuntamiento electo se instalará solemne y públicamente el día 30 de septiembre del año que corresponda, conforme a lo establecido en la Constitución Política del Estado, aunque hubiere tomado protesta en hora anterior. El ejercicio del mismo iniciará a las cero horas del día 30 de septiembre.
 
 Para los efectos de la instalación del Ayuntamiento, las autoridades que concluyan su gestión convocarán a una sesión solemne, a la que se invitará a la comunidad en general. La invitación referirá lugar, fecha y hora de la sesión, así como el orden del día correspondiente.
 
@@ -199,11 +199,13 @@ II. Toma de protesta a los demás integrantes del Ayuntamiento, por el President
 
 III. Declaración de Instalación formal del Ayuntamiento por el Presidente Municipal entrante.
 
-El Presidente Municipal entrante rendirá la protesta de Ley en los siguientes términos: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, SI NO LO HICIERE ASÍ, QUE LA NACION Y EL ESTADO ME LO DEMANDE”.
+El Presidente Municipal entrante rendirá la protesta de Ley en los siguientes términos: "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, SI NO LO HICIERE ASÍ, QUE LA NACION Y EL ESTADO ME LO DEMANDE".
 
-Acto seguido, el Presidente Municipal tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: “¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO DEL ESTADO (SIC) LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE REGIDOR Y SÍNDICO QUE EL PUEBLO OS HA CONFERIDO?”, a lo que los Regidores y Síndicos entrantes contestarán: “SI PROTESTO”, a lo que el Presidente Municipal entrante dirá: “SI NO LO HICIEREIS ASÍ, QUE EL PUEBLO OS LO DEMANDE”.
+Acto seguido, el Presidente Municipal tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO DEL ESTADO (SIC) LIBRE Y SOBERANO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE REGIDOR Y SÍNDICO QUE EL PUEBLO OS HA CONFERIDO?", a lo que los Regidores y Síndicos entrantes contestarán: "SI PROTESTO", a lo que el Presidente Municipal entrante dirá: "SI NO LO HICIEREIS ASÍ, QUE EL PUEBLO OS LO DEMANDE".
 
-Finalmente, el Presidente Municipal hará la declaración de instalación formal del Ayuntamiento en los siguientes términos: “HOY 31 DE OCTUBRE DEL AÑO EN CURSO, SIENDO LAS ___ HORAS, QUEDA FORMAL Y LEGALMENTE INSTALADO ESTE REPUBLICANO AYUNTAMIENTO DE __________, NUEVO LEÓN, ELECTO DEMOCRÁTICAMENTE PARA DESEMPEÑAR SU ENCARGO DURANTE EL PERÍODO CONSTITUCIONAL QUE COMPRENDE DEL ____ AL _____.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Finalmente, el Presidente Municipal hará la declaración de instalación formal del Ayuntamiento en los siguientes términos: "HOY 30 de septiembre DEL AÑO EN CURSO, SIENDO LAS ____ HORAS, QUEDA FORMAL Y LEGALMENTE INSTALADO ESTE REPUBLICANO AYUNTAMIENTO DE______, NUEVO LEÓN, ELECTO DEMOCRÁTICAMENTE PARA DESEMPEÑAR SU ENCARGO DURANTE EL PERÍODO CONSTITUCIONAL QUE COMPRENDE DEL____ AL ____.
 
 ###### ARTÍCULO 24.
 
@@ -275,7 +277,7 @@ Los Presidentes Municipales, entrante y saliente, y el Contralor Municipal salie
 
 ###### ARTÍCULO 32.
 
-Terminado el acto de entrega–recepción, el expediente integrado será sometido al análisis del Ayuntamiento entrante, el cual nombrará una comisión especial para emitir un dictamen que servirá de base para la glosa. Dicha comisión deberá ser presidida por el Síndico Primero o Síndico Municipal, en su caso. La Contraloría Municipal fungirá como auxiliar de la comisión especial en su caso.
+Terminado el acto de entrega-recepción, el expediente integrado será sometido al análisis del Ayuntamiento entrante, el cual nombrará una comisión especial para emitir un dictamen que servirá de base para la glosa. Dicha comisión deberá ser presidida por el Síndico Primero o Síndico Municipal, en su caso. La Contraloría Municipal fungirá como auxiliar de la comisión especial en su caso.
 
 Dicho dictamen será sometido por la comisión especial a consideración del Ayuntamiento, el cual podrá llamar a los integrantes del Ayuntamiento Saliente y a los servidores públicos antes señalados, para solicitar información o documentación.
 
@@ -283,7 +285,9 @@ Los integrantes del Ayuntamiento saliente y los servidores públicos municipales
 
 Para cumplir lo establecido en este artículo, el Ayuntamiento contará con un plazo de noventa días naturales contados a partir de la entrega-recepción, al término del cual emitirá el acuerdo correspondiente para glosar las cuentas del Ayuntamiento anterior. Mismo que no eximirá de responsabilidad a los integrantes del Ayuntamiento y servidores públicos de la administración pública municipal saliente, el cual deberá ser remitido dentro del mismo al Congreso del Estado, para que proceda en los términos de Ley.
 
-A fin de proteger los derechos y obligaciones de pagos que tiene pendiente la Administración Pública Municipal, en la primera semana del mes de Octubre, previo a la instalación del Ayuntamiento entrante, el Ayuntamiento saliente está obligado a colaborar con aquel, a efecto de convalidar las firmas de los futuros servidores públicos que se autorizaran en las cuentas bancarias para la expedición de cheques, mismos que cobraran vigencia y por tanto solo podrán ejercerse una (sic) servidor público de que se trate, a partir del día primero de noviembre siguiente.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+A fin de proteger los derechos y obligaciones de pagos que tiene pendiente la Administración Pública Municipal, en la primera semana del mes de septiembre, previo a la instalación del Ayuntamiento entrante, el Ayuntamiento saliente está obligado a colaborar con aquel, a efecto de convalidar las firmas de los futuros servidores públicos que se autorizarán en las cuentas bancarias para la expedición de cheques, mismos que cobrarán vigencia y por tanto sólo podrán ejercerse por el servidor público de que se trate, a partir del día 30 de septiembre siguiente.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
@@ -293,7 +297,9 @@ El Ayuntamiento tendrá las siguientes facultades y obligaciones:
 
 I. En materia de Gobierno y Régimen Interior:
 
-a) Rendir a la población, en el mes de octubre de cada año, en sesión pública y solemne, un informe, por conducto del Presidente Municipal, del estado que guarda el Gobierno y la Administración Pública Municipal. Dicho informe deberá ser resumido, breve, conciso y entendible para la población en general, teniendo como referencia los avances del Plan Municipal de Desarrollo;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+a) Rendir a la población, en el mes de septiembre de cada año, en sesión pública y solemne, un informe, por conducto del Presidente Municipal, del estado que guarda el Gobierno y la Administración Pública Municipal. Dicho informe deberá ser resumido, breve, conciso y entendible para la población en general, teniendo como referencia los avances del Plan Municipal de Desarrollo;
 
 b) Aprobar reglamentos, circulares y disposiciones administrativas de carácter general dentro de su respectivo ámbito de competencia territorial, con sujeción a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y la presente Ley;
 
@@ -301,7 +307,9 @@ c) Designar de entre sus Regidores y Síndicos a los integrantes de las comision
 
 d) A propuesta del Presidente Municipal, aprobar, nombrar o remover al Secretario de Ayuntamiento, al Tesorero Municipal, y en su caso al Contralor Municipal y al Titular de la Seguridad Pública Municipal;
 
-e) Resolver sobre el otorgamiento de licencias sin goce de sueldo, a integrantes del Ayuntamiento, así como al Secretario del Ayuntamiento, al Tesorero Municipal, y en su caso, al Titular del área de Seguridad Pública y al Contralor Municipal, para que éstos puedan separarse temporalmente del ejercicio de sus funciones para atender los asuntos de su interés, por más de quince días naturales consecutivos y hasta por un plazo que no exceda de treinta días naturales;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+e) Resolver sobre el otorgamiento de licencias sin goce de sueldo, a integrantes del Ayuntamiento, así como al Secretario del Ayuntamiento, al Tesorero Municipal, y en su caso, al Titular del área de Seguridad Pública y al Contralor Municipal, para que estos puedan separarse temporalmente del ejercicio de sus funciones para atender los asuntos de su interés, por más de quince días naturales consecutivos y hasta por un plazo que no exceda de cien días naturales;
 
 f) Sujetar los servicios de seguridad pública a las disposiciones que sobre la materia se especifican en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Nuevo León y en sus leyes reglamentarias;
 
@@ -316,6 +324,10 @@ h) Aprobar la constitución, transformación o extinción de órganos desconcent
 i) Aprobar la celebración de los actos jurídicos necesarios para la constitución, transformación o extinción de fideicomisos públicos, para el cumplimiento eficaz de los programas de obras y servicios públicos municipales;
 
 j) Elaborar, aprobar y publicar, en los términos de la presente Ley, dentro de los tres primeros meses, a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente al período constitucional de Gobierno y derivados de éste, los programas de obras y servicios públicos de su competencia, enfocados principalmente a aspectos relacionados con el desarrollo institucional para un buen gobierno, el desarrollo social incluyente, el desarrollo económico sostenible y el desarrollo ambiental sustentable;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Garantizar mediante las disposiciones reglamentarias y administrativas necesarias, todos aquellos lineamientos encaminados a establecer y preservar, de manera permanente y definitiva, el uso respectivo de su escudo de armas, sus colores y elementos de composición como imagen única para fines de comunicación social e imagen institucional del gobierno y la administración pública municipal, así como para su uso único y exclusivo en la decoración, identificación, distintivo y diseño de imagen en todos los bienes muebles e inmuebles del patrimonio municipal, formatos, papelería y documentación oficial.
 
 k) Establecer y aplicar los sistemas de vigilancia, evaluación y actualización del Plan Municipal de Desarrollo, así como el cumplimiento de los objetivos conforme a los indicadores de desempeño, para cuyo fin se auxiliará del Contralor Municipal, o quien haga las funciones de este;
 
@@ -347,7 +359,9 @@ III. En materia de Hacienda Pública Municipal:
 
 a) Vigilar el ejercicio de los recursos que integran la Hacienda Pública;
 
-b) Aprobar el proyecto de presupuesto de ingresos que deberá regir durante el ejercicio fiscal del año siguiente y enviarlo para su revisión y aprobación al Congreso del Estado, a más tardar en la primera quincena del mes de noviembre del año anterior al que se pretenda surta efectos. En los años en que corresponda la instalación de Ayuntamientos en el Estado, conforme a lo establecido en la Constitución Política y la Ley Electoral del Estado, se deberá presentar el referido presupuesto de ingresos a más tardar el 30 de noviembre de dicho año;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+b) Aprobar el proyecto de presupuesto de ingresos que deberá regir durante el ejercicio fiscal del año siguiente y enviarlo para su revisión y aprobación al Congreso del Estado, a más tardar el 30 de noviembre del año anterior al que se pretenda surta efectos;
 
 c) Presentar con oportunidad, y en su caso aprobar el presupuesto anual de egresos, que deberá establecer las partidas anuales y plurianuales, consideradas en relación con el Plan Municipal de Desarrollo, y la difusión de estos a más tardar, el 31 de diciembre de cada año;
 
@@ -501,7 +515,9 @@ IV. Informar durante las sesiones del Ayuntamiento el estado que guarde la Admin
 
 V. Conducir las relaciones del Municipio con la Federación, los Estados u otros Municipios;
 
-VI. Rendir el informe anual del Ayuntamiento en el mes de octubre de cada año;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+VI. Rendir el informe anual del Ayuntamiento en el mes de septiembre de cada año;
 
 VII. Proponer al Ayuntamiento las comisiones en que deben organizarse los Regidores y los Síndicos municipales;
 
@@ -795,21 +811,43 @@ IV. Aquellas que sean consideradas por el Ayuntamiento como incompatibles al car
 
 Una vez aprobada la licencia o renuncia del integrante el (sic) Ayuntamiento deberá llamarse de inmediato a su suplente para que rinda la protesta de Ley y se incorpore a los trabajos y comisiones de las que formaba parte el propietario.
 
-El Presidente Municipal podrá solicitar licencia por más de treinta días naturales sin exceder de sesenta, únicamente para atender cuestiones de salud personal, en cuyo caso será suplido por el integrante del Ayuntamiento que por acuerdo del mismo sea designado como encargado del despacho con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+> <small>(REFORMADO [N. DE E. DEROGADO CUARTO PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
-En el caso de licencia o renuncia del Presidente Municipal, el Ayuntamiento, por acuerdo de la mayoría absoluta de sus integrantes, respetando el origen partidista, designará dentro de los miembros del Ayuntamiento, quien deba encargarse del despacho de la Presidencia Municipal con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal, hasta en tanto rinda protesta el Presidente Municipal Sustituto, que deberá ser designado por el Congreso del Estado.
+> <small>(REFORMADO [N. DE E. DEROGADO QUINTO PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 60.
 
-El Presidente Municipal podrá ausentarse del Municipio hasta por treinta días naturales sin perder su carácter, sujetándose a las siguientes disposiciones:
+El Presidente Municipal podrá ausentarse del Municipio, sujetándose a las siguientes disposiciones:
+
+(REPUBLICADA, P.O. 22 DE ENERO DE 2018)
 
 I. Si la ausencia no excede de quince días naturales, los asuntos de mero trámite y aquellos que no admiten demora serán atendidos por el Secretario del Ayuntamiento, cumpliendo con las instrucciones del Presidente Municipal, pero no tendrá derecho de voto en las sesiones del Ayuntamiento; y
 
-II. Si la ausencia es mayor de quince días naturales, sin exceder de treinta, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por el integrante que acuerde el propio Ayuntamiento, quien quedará como encargado del despacho con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
-La ausencia podrá ser, entre otras, por enfermedad, vacaciones, o las contempladas por la Ley;
+II. Si la ausencia es mayor de quince días naturales, sin exceder de treinta, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por algún funcionario de los mencionados en el artículo 92 de esta ley o un integrante del Ayuntamiento.
 
-El Presidente Municipal podrá solicitar licencia por más de treinta días naturales sin exceder de sesenta, únicamente para atender cuestiones de salud personal, en cuyo caso será suplido por el integrante del Ayuntamiento que por acuerdo del mismo sea designado como encargado del despacho con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+(REPUBLICADA, P.O. 22 DE ENERO DE 2018)
+
+La ausencia podrá ser, entre otras, por enfermedad, vacaciones, o las contempladas por la Ley.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+
+El Presidente Municipal podrá solicitar licencia por más de treinta días naturales sin exceder de sesenta, únicamente para atender cuestiones de salud personal, en cuyo caso será suplido por algún funcionario de los mencionados en el artículo 92 de esta ley o un integrante del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Además, el Presidente Municipal podrá solicitar licencia en su último año de gobierno por más de treinta días naturales sin exceder de cien, en cuyo caso será suplido por algún funcionario de los mencionados en el artículo 92 de esta ley o un integrante del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+Los encargados del despacho a que se refiere esta fracción serán designados por el Ayuntamiento y tendrán todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+En el caso de licencia o ausencia definitiva o renuncia del Presidente Municipal, el Ayuntamiento, por acuerdo de la mayoría absoluta de sus integrantes, respetando el origen partidista, designará dentro de los miembros del Ayuntamiento, quien deba encargarse del despacho de la Presidencia Municipal con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal, hasta en tanto rinda protesta el Presidente Municipal Sustituto, que deberá ser designado por el Congreso del Estado.
 
 ###### ARTÍCULO 61.
 
@@ -1455,7 +1493,9 @@ IV. Fungir como investigador, asesor, promotor y expositor de la cultura de la c
 
 V. Elaborar monografías de la vida institucional del Municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de los ciudadanos;
 
-VI. Proponer la creación, modificación o cambio de escudos, himnos y lemas del Municipio;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+VI. Proponer la creación, modificación o cambio de himnos y lemas del Municipio;
 
 VII. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y costumbres locales o regionales;
 
@@ -2001,9 +2041,11 @@ IV. Los que así determinen las leyes y decretos federales, estatales y convenio
 
 Los Presupuestos de Ingresos Municipales tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del 1° de enero y hasta el 31 de diciembre del año que corresponda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 175.
 
-El Ayuntamiento deberá someter anualmente, al Congreso del Estado, para su examen y aprobación, su proyecto de Presupuesto de Ingresos, durante la primera quincena del mes de noviembre de cada año, o a más tardar el 30 de noviembre en los años en que corresponda la instalación de los Ayuntamientos. De no realizarlo, el Congreso declarará aplicable para el siguiente ejercicio fiscal el que se encuentre en vigor, con las modificaciones que se estimen pertinentes, sin demérito de que dicho proyecto se apruebe posteriormente.
+El Ayuntamiento deberá someter anualmente, al Congreso del Estado, para su examen y aprobación, su proyecto de Presupuesto de Ingresos, a más tardar el 30 de noviembre. De no realizarlo, el Congreso declarará aplicable para el siguiente ejercicio fiscal el que se encuentre en vigor, con las modificaciones que se estimen pertinentes, sin demérito de que dicho proyecto se apruebe posteriormente.
 
 El proyecto de Presupuesto de Ingresos será remitido al Congreso del Estado al mayor detalle posible, en conjunto con los elementos de juicio suficientes que justifiquen el comportamiento proyectado de los mismos.
 
@@ -2385,7 +2427,13 @@ III. Que tengan como propósito fundamental la seguridad, el bienestar y la tran
 
 IV. Que su aplicación fortalezca al Gobierno Municipal;
 
-V. Que en su elaboración se haya tomado en cuenta la opinión de la comunidad y que en los ordenamientos estén previstos procedimientos de revisión y consulta con la participación de la propia comunidad, para garantizar la oportuna actualización de cada reglamento;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+
+V. Informar a la comunidad del inicio del proceso de la consulta pública especificando los principales cambios del Reglamento Municipal o la iniciativa del Reglamento. El aviso deberá ser publicado el Periódico Oficial, así mismo en dos de los diarios de mayor circulación en la entidad, durante 2-dos días consecutivos y deberá cumplir con un tamaño mínimo de un octavo de página.
+
+El aviso del inicio de la consulta pública también podrá hacerse en los medios electrónicos y redes sociales.
+
+Las iniciativas o reformas a los Reglamentos estarán disponibles para la consulta pública durante un plazo de 15-quince días hábiles como mínimo, en las oficinas de la autoridad municipal, así como en sus respectivos portales de internet, durante dicho plazo los interesados podrán presentar por escrito a las autoridades competentes, los planteamientos que consideren respecto de la iniciativa del Reglamento Municipal o reformas, los planteamientos deberán estar fundamentados y consignar domicilio para oír y recibir notificaciones.
 
 VI. Que en su articulado se incluya la formación y funcionamiento de unidades administrativas municipales, responsables de la inspección y vigilancia del cumplimiento de los reglamentos, así como de la aplicación de sanciones cuando proceda;
 
@@ -2400,6 +2448,34 @@ Los particulares o las autoridades podrán, independientemente de los recursos a
 ###### ARTÍCULO 228.
 
 En la medida en que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, del surgimiento y desarrollo de actividades productivas, de la modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, el Ayuntamiento deberá adecuar su reglamentación municipal, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 2018)</small>
+
+## TÍTULO DECIMO SEGUNDO. DEL COMBATE A LA CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+###### ARTÍCULO 229.
+
+En el combate a la corrupción, los Municipios deberá de coordinarse y coadyuvar con el Sistema Estatal Anticorrupción, que concurrentemente tendrá por objeto establecer principios, bases generales, políticas públicas, acciones y procedimientos en la prevención, detección y sanción de faltas administrativas, actos y hechos de corrupción, así como coadyuvar con las autoridades competentes en la fiscalización y control de recursos públicos en el ámbito municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+###### ARTÍCULO 230.
+
+Los municipios del Estado emitirán un Reglamento Municipal Anticorrupción, conforme a los principios de la Ley General del Sistema Nacional Anticorrupción, de la Ley de Gobierno Municipal y de la Ley del Sistema Estatal Anticorrupción para el Estado de Nuevo León; así mismo deberán contar con un Código de Ética y Conducta para los Servidores Públicos del Gobierno Municipal correspondiente, en el que se contengan los principios y valores que deberán observar los servidores públicos de ese Gobierno Municipal, el cual deberá ser aprobado por el Ayuntamiento y publicado en el Periódico Oficial del Estado y, en su caso, en la Gaceta Municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+###### ARTÍCULO 231.
+
+Los municipios difundirán de manera permanente entre sus servidores públicos, los principios y valores a que se refieren el artículo 5 de la Ley del Sistema estatal Anticorrupción y harán constar por escrito que la relación de los mismos les fue entregado a cada servidor público, lo cual deberá constar en su expediente laboral.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2018)</small>
+
+###### ARTÍCULO 232.
+
+Los municipios realizarán capacitaciones frecuentes sobre anticorrupción y el Código de Ética y Conducta, debiendo reportarlas conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
 
 T R A N S I T O R I O S
 
@@ -2430,3 +2506,15 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 FELIPE ÁNGEL GONZÁLEZ ALANÍZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 350. SE REFORMA POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 123 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 128 AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN; ASÍ MISMO SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22, CUARTO PÁRRAFO DEL ARTÍCULO 23, QUINTO PÁRRAFO DEL ARTÍCULO 32; AL ARTÍCULO 33 EN SU INCISO A) FRACCIÓN I, INCISO E) FRACCIÓN I, INCISO B) FRACCIÓN III, FRACCIÓN VI DEL APARTADO A DEL ARTÍCULO 35, PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 59, TERCER PÁRRAFO DEL ARTÍCULO 60, FRACCIÓN SEXTA DEL ARTÍCULO 123, PÁRRAFO PRIMERO DEL ARTÍCULO 175, LA FRACCIÓN V DEL ARTÍCULO 227; POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL INCISO J) DE LA FRACCIÓN I DEL ARTÍCULO 33, DE UN TÍTULO DÉCIMO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 229, 230, 231 Y 232 TODOS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Ayuntamientos que resultaron electos en el proceso electoral del año 2015, concluirán el día 30 de octubre de 2018.
+
+Tercero.- Los Ayuntamientos que resulten electos en el proceso electoral del año 2018, tendrán un periodo constitucional que iniciará el 31 de octubre de 2018 y concluirá el día 29 de septiembre de 2021.
