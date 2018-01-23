@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-01-02"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3609,7 +3609,7 @@ En tanto que no se declare ilícito, inexistente o terminado un estado de huelga
 
 ###### ARTÍCULO 352.
 
-Antes de estallar la huelga, el Tribunal de Conciliación y Arbitraje, escuchando a las partes, fijará el número indispensable de trabajadores que deberán continuar en sus labores para que presten aquellos servicios cuya suspensión pueda dañar gravemente la conservación de los locales y las instalaciones, maquinaria, materiales o equipo de trabajo; o cuando la suspensión de labores pueda perjudicar la estabilidad de las instituciones o pueda significar un peligro para la salud y seguridad pública de la población.
+Antes de estallar la huelga, el Tribunal de Conciliación y Arbitraje, escuchando a las partes, fijará el número indispensable de trabajadores que deberán continuar en sus labores para que presten aquellos servicios cuya suspensión pueda dañar gravemente la conservación de los locales y las instalaciones, maquinaria, materiales o equipo de trabajo; o cuando la suspención (sic) de labores pueda perjudicar la estabilidad de las instituciones o pueda significar un peligro para la salud y seguridad pública de la población.
 
 Para estos trabajadores, no hay suspensión de los efectos de su nombramiento.
 
@@ -4000,6 +4000,10 @@ II. El auto de admisión de las pruebas.
 III. La resolución que ponga fin al recurso.
 
 Las notificaciones personales se harán directamente al recurrente si acude a las oficinas de la autoridad, o en el domicilio que haya señalado para tal efecto, o bien, por correo certificado con acuse de recibo. Las demás notificaciones se harán por estrados.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+Cuando el recurrente así lo desee, podrá manifestar en su escrito inicial que todas las notificaciones se le realicen por correo electrónico; para tal efecto deberá expresar de forma clara su petición y señalar el correo electrónico correspondiente. La autoridad encargada de resolver el recurso quedará obligada a conservar los comprobantes o acuse digitales que acrediten de modo fehaciente que las notificaciones se realizaron en tiempo y forma.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2014)</small>
 
@@ -4532,5 +4536,15 @@ P.O. 2 DE ENERO DE 2018.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los Municipios que inician su gestión en el año 2018 contaran con un plazo de hasta cuatro meses, contados a partir del inicio de sus periodos, para expedir el reglamento a que hace referencia el numeral 4 de la fracción VIII del Artículo 102; y en su caso, quienes ya cuenten con dicho ordenamiento, proceder a su revisión y actualización.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1166.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 397 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los recursos de revisión que se encuentren en proceso o se hayan presentado antes de la entrada en vigor de este decreto, deberán seguir notificándose conforme a lo dispuesto por el artículo 397 de este ordenamiento.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
