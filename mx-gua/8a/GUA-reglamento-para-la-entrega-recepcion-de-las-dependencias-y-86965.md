@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-entrega-recepcion-de-las-dependencias-y-8696
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-16"
-last_updated: "2012-03-16"
+last_updated: "2018-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA ENTREGA-RECEPCION DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ENTREGA-RECEPCIÓN PARA LA ADMINISTRACIÓN PÚBLICA ESTATAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ENTREGA-RECEPCIÓN PARA LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de marzo del 2012.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de la facultad que me confiere el artículo 77, fracción III, de la Constitución Política del Estado de Guanajuato y de conformidad con lo dispuesto por los artículos 99 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y 11 fracción XII de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien emitir el siguiente:
 
@@ -664,3 +666,21 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 GILBERTO ENRÍQUEZ SÁNCHEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 214 POR EL QUE SE EXPIDE EL REGLAMENTO DE ENTREGA-RECEPCIÓN PARA LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de entrega recepción, contenido en el Decreto Gubernativo número 199, publicado en el Periódico Oficial del Gobierno del Estado número 44, Segunda Parte, el 16 de marzo de 2012.
+
+Término para implementar el Sistema
+
+Artículo Tercero. La Secretaría deberá implementar las actualizaciones al sistema debiendo informar mediante circular el inicio de su operación, durante el periodo de actualización se deberán desarrollar los procesos de entrega-recepción en el sistema actual.
