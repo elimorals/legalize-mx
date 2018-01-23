@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-civil-de-carrera-jurisdiccional-124765"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-12"
-last_updated: "2017-12-12"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,17 +20,19 @@ issue_date: "2017-11-29"
 ---
 # ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2018 EN LA G.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 23 DE ENERO DE 2018.]</small>
 
 Estatuto publicado en el Número 217 de la Gaceta Oficial de la Ciudad de México, el martes 12 de diciembre de 2017.
 
 TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-LIC. OFELIA PAOLA HERRERA BELTRÁN, Secretaria General de Acuerdos (I), con fundamento en el artículo 7 de la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México, artículo 21 de la Ley de Justicia Administrativa de la Ciudad de México y los artículos 17 fracción IX y 62 fracciones I y XXVIII del Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal de conformidad con lo dispuesto por el artículo cuarto transitorio último párrafo de la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México, emitió lo siguiente:
+> <small>(F. DE E., G.O. 23 DE ENERO DE 2018)</small>
+
+LIC. OFELIA PAOLA HERRERA BELTRÁN, Secretaria General de Acuerdos (I), con fundamento en los artículos 14 fracción IV de la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México y 17 fracción IX y 62 fracciones I y XXVIII del Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal de conformidad con lo dispuesto por el artículo cuarto transitorio último párrafo de la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México, emitió lo siguiente:
 
 En cumplimiento al Acuerdo tomado por el Pleno General de la Sala Superior en sesión plenaria de fecha veintinueve de noviembre de dos mil diecisiete, se procede a la publicación del:
 
