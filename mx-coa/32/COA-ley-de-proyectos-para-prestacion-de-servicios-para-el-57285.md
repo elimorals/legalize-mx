@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proyectos-para-prestacion-de-servicios-para-el-57285"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-11"
-last_updated: "2017-12-26"
+last_updated: "2018-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de septiembre de 2007.
 
@@ -171,9 +171,139 @@ Una vez que se haya emitido la aprobación en los términos de los Artículos 11
 
 En caso de que durante el proceso de licitación, surja la necesidad de cambiar los términos aprobados por el Congreso o el Ayuntamiento, la Entidad Pública correspondiente deberá recabar la autorización u opinión de parte de la Secretaría, según se trate de Entidades Estatales o Entidades Municipales respectivamente y la autorización del Congreso o del Ayuntamiento, según corresponda.
 
-### Capítulo IV. De los procedimientos de adjudicación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2018)</small>
 
-### Capítulo V. De las Excepciones a la Licitación
+### Capítulo III Bis. De las Propuestas no Solicitadas
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-A.
+
+Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad estatal competente. Para efectos del párrafo anterior, las dependencias o entidades estatales deberán publicar en la Gaceta Oficial del Estado y en su página de Internet, un acuerdo mediante el cual determinen las propuestas de proyectos de asociación público-privada que estarán dispuestas a recibir, especificando como mínimo los sectores, subsectores, ámbitos geográficos, tipo de proyectos, metas físicas estimadas, fechas previstas de inicio de operación, o beneficios esperados, así como su vinculación con los objetivos nacionales, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo y en los programas sectoriales o institucionales que de él deriven. En estos casos, sólo se analizarán por las dependencias o entidades las propuestas recibidas que atiendan los elementos citados.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-B.
+
+Las propuestas a que se refiere el artículo anterior, deberán cumplir los requisitos siguientes:
+
+I. Se presentarán acompañadas con el estudio preliminar de factibilidad que deberá incluir los aspectos siguientes:
+
+a) Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
+
+b) Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
+
+c) La viabilidad jurídica del proyecto;
+
+d) En su caso, la rentabilidad social del proyecto;
+
+e) La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación público privada;
+
+f) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto federales y de los particulares como, estatales y municipales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
+
+g) La viabilidad económica y financiera del proyecto, y
+
+h) Las características esenciales del contrato de proyectos para la prestación de servicios a celebrar. En el evento de que la propuesta considere la participación de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector.
+
+II. Los proyectos se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al segundo párrafo del artículo 13-A de esta Ley, y
+
+III. No se trate de propuestas no solicitadas previamente presentadas y ya resueltas.
+
+El Reglamento señalará los alcances de los requisitos mencionados en las fracciones del párrafo anterior, sin que pueda establecer requisitos adicionales.
+
+Si la propuesta no solicitada incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
+
+En los informes trimestrales que el Ejecutivo Local, por conducto de la Secretaría de Finanzas, presente al Congreso Local, se deberán señalar las propuestas no solicitadas que las dependencias y entidades hayan recibido durante el período que se reporta, que cumplan con todos los requisitos establecidos en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-C.
+
+La dependencia o entidad competente que reciba la propuesta contará con un plazo de hasta dos meses para su análisis y evaluación. Este plazo podrá prorrogarse hasta por un mes adicional, cuando la dependencia o entidad así lo resuelva en atención a la complejidad del proyecto.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-D.
+
+En el análisis de las propuestas, la dependencia o entidad podrá requerir por escrito al interesado aclaraciones o información adicional, o podrá ella misma realizar los estudios complementarios.
+
+Asimismo, podrá transferir la propuesta a otra dependencia o entidad del sector público estatal, o invitar a estas y otras instancias del ámbito municipal a participar en el proyecto.
+
+Para la evaluación de la propuesta no solicitada deberá considerarse, entre otros aspectos, la alineación a los objetivos, metas y estrategias estatales, sectoriales, institucionales, especiales o regionales; la rentabilidad social del proyecto de asociación público-privada, en caso de ser aplicable; la conveniencia para llevar a cabo dicho proyecto mediante un esquema de asociación público-privada; las estimaciones de inversiones y aportaciones, y la viabilidad económica-financiera.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-E.
+
+Transcurrido el plazo para evaluación de la propuesta y, en su caso, su prórroga, la dependencia o entidad emitirá la opinión de viabilidad que corresponda, sobre la procedencia del proyecto y del concurso o bien sobre la adquisición de los estudios presentados.
+
+La aludida opinión se notificará al promotor y deberá publicarse en la página de Internet de la dependencia o entidad y en CompraNet, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitida, sin incluir información reservada o confidencial en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-F.
+
+Si la propuesta no solicitada es procedente y la dependencia o entidad decide celebrar el concurso, éste se realizará conforme a lo previsto en el capítulo IV de la presente Ley y las disposiciones siguientes:
+
+I. La dependencia o entidad convocante entregará al promotor del proyecto un certificado en el que se indicará el nombre del beneficiario, monto, plazo y demás condiciones para el reembolso de los gastos incurridos por los estudios realizados, para el evento de que el promotor no resulte ganador o no participe en el concurso. Este reembolso será con cargo al adjudicatario del contrato, en los términos que se indiquen en las bases del concurso o en su defecto con cargo a la propia dependencia o entidad. Contra entrega de este certificado, todos los derechos relativos a los estudios presentados pasarán al dominio de la dependencia o entidad convocante;
+
+II. El promotor suscribirá declaración unilateral de voluntad, irrevocable, en la que se obligue a:
+
+a. Otorgar sin limitación alguna toda la información relativa al proyecto, que le sea solicitada por cualquier postor en el concurso, incluyendo hojas de trabajo y demás documentos conceptuales o proyectos alternos; y
+
+b. Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otra para que el proyecto pueda desarrollarse en el evento de que el ganador del concurso sea distinto al mismo promotor.
+
+III. La dependencia o entidad podrá contratar con terceros, conforme a lo previsto en esta Ley, la evaluación de los proyectos o la realización de estudios complementarios que se requieran para convocar al concurso.
+
+IV. La convocatoria al concurso se realizará siempre y cuando se hayan cumplido todos los requisitos de la sección primera del capítulo II de esta Ley y de las fracciones I y II del presente artículo.
+
+Si el concurso no se convoca por causa imputable al promotor, éste perderá en favor de la dependencia o entidad convocante todos sus derechos sobre los estudios presentados -incluso si el proyecto se concursa- y se hará efectiva la garantía de seriedad en los términos que determine el reglamento;
+
+V. El promotor que presentó la propuesta con base en la cual se realiza el concurso, tendrá un premio en la evaluación de su oferta, que se establecerá en las bases y que no podrá exceder del equivalente a un diez por ciento en relación con los criterios señalados para adjudicar el contrato.
+
+El Reglamento establecerá métodos y procedimientos para calcular este premio;
+
+VI. En el evento de que en el concurso sólo participe el promotor, deberá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases del citado concurso, y
+
+VII. En caso de que se declare desierto el concurso, la dependencia o entidad convocante deberá cubrir el costo de los estudios con base en el certificado a que hace referencia la fracción I del presente artículo, en un plazo de 30 días hábiles a partir de la fecha en que se declaró desierto.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-G.
+
+Si el proyecto se considera procedente, pero la dependencia o entidad decide no celebrar el concurso deberá adquirir los estudios realizados, junto con los derechos de autor y de propiedad industrial correspondientes, mediante el reembolso de todos los costos incurridos.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-H.
+
+En los supuestos de los artículos 13-F fracción I y 13-G de esta Ley, el promotor deberá justificar los gastos realizados y su monto. El monto a reembolsar será determinado por un tercero acordado por ambas partes, contratado específicamente para ello y previo el respectivo estudio de mercado.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-I.
+
+Si el proyecto no es procedente, por no ser de interés público, por razones presupuestarias o por cualquier otra razón, la dependencia o entidad así lo comunicará al promotor. En todo caso, el promotor estará a lo dispuesto en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-J.
+
+Cuando se presenten dos o más propuestas en relación con un mismo proyecto y más de una se consideren viable (sic), la dependencia o entidad resolverá en favor de la que represente mayores beneficios esperados y, en igualdad de condiciones, en favor de la primera presentada.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-K.
+
+La presentación de propuestas sólo da derecho al promotor a que la dependencia o entidad las analice y evalúe. La opinión de viabilidad por la cual un proyecto se considere o no procedente, no representa un acto de autoridad y contra ella no procederá instancia ni medio de defensa alguno.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 13-L.
+
+En caso de que durante el plazo de evaluación, el interesado no proporcione la información solicitada sin causa justificada o bien, promueva el proyecto con alguna otra entidad o de alguna otra manera, o ceda su propuesta a terceros, se dará por concluido el trámite y el interesado perderá en favor del Ejecutivo local todos sus derechos sobre los estudios presentados, incluso si el proyecto se concursa, previa garantía de audiencia.
+
+### Capítulo IV. De los procedimientos de adjudicación
 
 ###### Artículo 14.
 
@@ -311,9 +441,7 @@ XII. Las personas condenadas, mediante sentencia firme dentro de los tres años 
 
 XIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
-### Capítulo VI. De la Contratación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+### Capítulo V. De las Excepciones a la Licitación
 
 ###### Artículo 22.
 
@@ -373,7 +501,9 @@ IV. Para la dependencia o entidad será opcional celebrar una junta de aclaracio
 
 V. La dependencia o entidad podrá asignar con solo una propuesta económica solvente el contrato o pedido respectivo, previa comprobación de que los precios propuestos resultan aceptables de acuerdo a los precios existentes en el mercado.
 
-### Capítulo VII. De la Ejecución de Proyectos e Información
+### Capítulo VI. De la Contratación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
@@ -489,19 +619,17 @@ El inversionista proveedor podrá ceder los derechos del contrato, total o parci
 
 Esta cesión sólo podrá llevarse a cabo en los supuestos, términos y condiciones previstos en el propio contrato.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2018)</small>
+
 ###### Artículo 27.
 
-En ningún caso, podrá celebrarse un Contrato, si el monto máximo proyectado a pagarse por la Entidad Pública en un año, sumado a los montos máximos a pagarse en el mismo, derivado de los Contratos celebrados con anterioridad, excede del cinco por ciento de los ingresos fiscales ordinarios del ejercicio vigente (o el 17 por ciento del gasto de capital). En caso de un Contrato que pretenda celebrar una Entidad Municipal, el porcentaje antes mencionado de ingresos (o de gasto) se referirá a los ingresos del ejercicio vigente correspondientes a nivel municipal.
-
-Para efectos de esta Ley, se consideran ingresos fiscales ordinarios las participaciones, aportaciones, impuestos, derechos, productos y aprovechamientos.
+La contratación de las obligaciones que deriven de la contratación de proyectos para la prestación de servicios las dependencias y entidades estatales y municipales se sujetarán a lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables.
 
 ###### Artículo 28.
 
 Las Entidades Públicas al realizar modificaciones al Contrato deberán obtener la autorización del Congreso o Ayuntamiento, según corresponda, en caso de que tales modificaciones no sean compatibles con las autorizaciones originales del Congreso o del Ayuntamiento.
 
-### Capítulo VII-A. De la Intervención del Proyecto
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+### Capítulo VII. De la Ejecución de Proyectos e Información
 
 ###### Artículo 29.
 
@@ -585,9 +713,9 @@ La información que se presente al Congreso del Estado o, en su caso al Ayuntami
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo VIII. De las inconformidades
+### Capítulo VII-A. De la Intervención del Proyecto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 37-A.
 
@@ -627,9 +755,9 @@ Si transcurrido el plazo de la intervención, el inversionista proveedor no est�
 
 En estos casos, la dependencia o entidad podrá encargarse directamente de la ejecución de la obra y prestación de los servicios, o bien contratar a un nuevo inversionista proveedor mediante concurso en términos del capítulo cuarto de la Ley.
 
-### Capítulo IX. De las sanciones
+### Capítulo VIII. De las inconformidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
@@ -681,7 +809,9 @@ En la substanciación del procedimiento, el Órgano de Control deberá otorgar l
 
 Sin perjuicio de lo previsto en este artículo, el Órgano de Control podrá iniciar las investigaciones correspondientes en los procedimientos de licitaciones que realicen las Entidades Públicas, cuando sea necesario para proteger el interés del Estado.
 
-### Capítulo X. De la solución de controversias y arbitraje
+### Capítulo IX. De las sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
@@ -744,6 +874,8 @@ El Órgano de Control aplicará las sanciones que procedan a los servidores púb
 ###### Artículo 46.
 
 Las responsabilidades a que se refiere la presente Ley, serán independientes de las de orden civil o penal que puedan derivar de la comisión de los mismos hechos.
+
+### Capítulo X. De la solución de controversias y arbitraje
 
 ###### Artículo 47.
 
@@ -868,3 +1000,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1194.- SE REFORMA EL ARTÍCULO 27 Y SE ADICIONA EL CAPÍTULO III BIS, CON LOS ARTÍCULOS 13-A AL 13-K AL 13-L QUE LO CONFORMAN, DE LA LEY DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
