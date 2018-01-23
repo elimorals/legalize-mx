@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-12-29"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1553,11 +1553,13 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijas o hijos menores de edad, o mayores de edad que requieran de asistencia o representación para el ejercicio de su capacidad jurídica, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2018)</small>
 
 ###### Artículo 238.
 
-La autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente.
+La autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente. Quien demande el pago de los alimentos con el argumento anterior, tiene a su favor la presunción de necesitarlos y tendrá derecho a una pensión compensatoria hasta en tanto se encuentre en posibilidades de proporcionarse a sí mismo los medios necesarios para su subsistencia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del cónyuge que se haya divorciado se extingue cuando haya transcurrido un término igual a la duración del matrimonio.
 
@@ -1689,9 +1691,11 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios, i
 
 La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del concubino después de la separación se extingue cuando haya transcurrido un término igual a la duración del concubinato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2018)</small>
+
 ###### Artículo 251.
 
-Al cesar el concubinato, el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado su convivencia. No podrá reclamar alimentos quien haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
+Al cesar el concubinato, el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado su convivencia. Quien demande el pago de los alimentos con el argumento de que se dedicó preponderantemente al trabajo del hogar o al cuidado y educación de los hijos, tiene a su favor la presunción de necesitarlos y tendrán derecho a una pensión compensatoria hasta en tanto se encuentre en posibilidades de proporcionarse a sí mismo los medios necesarios para su subsistencia.
 
 El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
 
@@ -4468,3 +4472,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1162.- SE REFORMA EL PRIMER PÁRRAFO DE (SIC) ARTÍCULO 238 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 251 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
