@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2017-12-26"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,185 +21,251 @@ state: "COA"
 ---
 # LEY DEL SISTEMA ESTATAL PARA LA GARANTIA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-La LXII Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Decreto Número 203
+DECRETA:
 
-Artículo Único.- Se aprueba la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, para quedar como sigue:
+NÚMERO 463.-
 
-LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
+LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-## TÍTULO I. DEL ÁMBITO DE APLICACIÓN DE LA LEY Y DE LA NATURALEZA JURÍDICA DE LA FISCALÍA GENERAL DEL ESTADO
+### CAPÍTULO PRIMERO
 
-### CAPÍTULO ÚNICO. Ámbito de Aplicación y Naturaleza Jurídica
+Disposiciones Generales.
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Esta Ley es de orden público, interés social, de observancia general en el Estado y tiene por objeto organizar la Fiscalía General para el despacho de los asuntos que al Ministerio Público atribuyen la Constitución Federal, la Constitución Local, los Tratados Internacionales de los que México sea parte y las demás normas aplicables, con sujeción a lo siguiente:
+###### Artículo 1.
 
-I. Las disposiciones de esta Ley son obligatorias para el Ministerio Público, sus auxiliares y apoyos jurídicos, administrativos y técnicos, y deberán ser observadas, en cuanto a los deberes que impongan y facultades que concedan, por cualquier autoridad establecida en el estado, así como por las personas físicas y morales que en él residan o transiten.
+La presente Ley es de orden público, interés social y de observación obligatoria en el Estado de Coahuila de Zaragoza, tiene como objeto:
 
-La vigilancia de los preceptos de esta Ley, corresponde en el ámbito de sus respectivas atribuciones, al Fiscal General, Vice Fiscales, directores generales, Agentes del Ministerio Público y demás servidores públicos de la institución;
+I. Reconocer a niños, niñas y adolescentes como titulares de derechos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Los tribunales del Estado, además, aplicarán y atenderán a la presente Ley por cuanto a los actos realizados por el Ministerio Público bajo el imperio de la misma;
+II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niños, niñas y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano forma parte;
 
-III. En el Estado de Aguascalientes, la Institución del Ministerio Público, para el ejercicio de sus atribuciones se estructura en la Fiscalía General, como un órgano autónomo, con personalidad jurídica y patrimonio propio, conforme al artículo 59, de la Constitución Local;
+III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal para la Garantía de los Derechos Humanos de Niños, y Niñas, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niños, niñas y adolescentes que hayan sido vulnerados;
 
-IV. La presente Ley deberá aplicarse e interpretarse en armonía con sus principios rectores, conforme a las garantías individuales, a las normas constitucionales relativas a la función ministerial. En materia de procedimiento penal se interpretará en conjunción con el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional; y
+IV. Establecer los principios rectores y criterios que orientarán la política estatal en materia de derechos de niños, niñas y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre el estado y los municipios; así como la actuación de los Poderes Legislativo y Judicial, y los organismos autónomos; y
 
-V. Para el despacho de los asuntos que competen al Ministerio Público, la actuación de la Fiscalía General, se regirá por los principios de Legalidad, Certeza, Honradez, Lealtad, Objetividad, Imparcialidad, Profesionalismo, Transparencia, Eficacia, Eficiencia y respeto a los Derechos Humanos.
+V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niños, niñas y adolescentes, así como a prevenir su vulneración.
 
-A.- Para efectos de la presente Ley, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Código Nacional: El Código Nacional de Procedimientos Penales;
+###### Artículo 2.
 
-II. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+Para garantizar la protección de los derechos de niños, niñas y adolescentes, las autoridades realizarán las acciones y tomarán medidas, debiendo observar, además de los establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes, como mínimo los siguientes principios rectores:
 
-III. Constitución Local: La Constitución Política del Estado de Aguascalientes;
+I. Respeto a los derechos humanos;
 
-IV. Fiscalía General: La Fiscalía General del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-V. Fiscal General: El Fiscal General del Estado de Aguascalientes;
+II. Derecho a la vida, a la paz, a la supervivencia y al desarrollo: El Estado debe ayudar a dar efectividad a estos derechos brindando asistencia material particularmente en lo que se refiere a la nutrición, la vestimenta, la educación y a la vivienda;
 
-VI. Ley: A la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes;
+III. Interés superior del niño o de la niña: Consiste en que el desarrollo y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas, políticas públicas y la aplicación de éstas en todos los órdenes relativos de su vida;
 
-VII. Servicio de Carrera: El Servicio Profesional de Carrera de la Fiscalía General; y
+IV. No discriminación: Consiste en tomar medidas apropiadas para garantizar la igualdad efectiva de oportunidades en el goce y ejercicio de sus derechos;
 
-VIII. Servicios Periciales: Al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-B.- Son principios rectores de la Fiscalía General en el ejercicio de sus funciones:
+V. Prioridad: Es obligación del Gobierno del Estado, los municipios, la familia y la sociedad en general, garantizar preferentemente el ejercicio de los derechos de niños, niñas y adolescentes;
 
-I. Eficiencia. Consiste en cumplir con la misión encomendada a la institución del Ministerio Público, a través del ejercicio pronto y expedito de las atribuciones legales que le corresponden;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-II. Honradez. Consiste en la realización recta en propósitos y acciones de las facultades conferidas legalmente a los servidores públicos de la institución del Ministerio Público;
+VI. Opinión y participación: Los niños, niñas y adolescentes, tienen derecho a expresar libremente su opinión y las autoridades deben escucharlos y permitir su participación en todos los asuntos que afecten el desarrollo de su vida, tomando en cuenta su edad y desarrollo intelectual;
 
-III. Imparcialidad. Consiste en el deber que tienen de ser ajenos o extraños a los intereses de las partes en controversia y de dirigir y resolver el juicio sin favorecer indebidamente a ninguna de ellas;
+VII. Protección de la familia: Consiste en la obligación a cargo del Estado de proteger el desarrollo y la organización de la familia como núcleo de la sociedad;
 
-IV. Legalidad. El Ministerio Público realizará sus actos con estricta sujeción a la Ley y los tratados internacionales suscritos por los Estados Unidos Mexicanos en los términos que establece la Constitución Federal;
+VIII. Integralidad: El Estado desarrollará políticas públicas integrales eficaces, con la participación de los ciudadanos y de la comunidad;
 
-V. Objetividad. Consiste en que los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones, deberán aplicar los criterios para velar por la correcta aplicación de la Ley;
+IX. Transversalidad: Consiste en la articulación, homologación y complementariedad de las políticas públicas, programas y acciones;
 
-VI. Profesionalismo: Consiste en la actuación responsable, mediante el empleo de los medios que la Ley otorga a los servidores públicos de la institución del Ministerio Público en el desempeño de sus funciones; y
+X. Interdisciplinariedad: Consiste en el diseño de políticas públicas tomando en cuenta conocimientos y herramientas de distintas disciplinas así como de experiencias nacionales e internacionales; y
 
-VII. Respeto a los derechos humanos. Corresponde a los servidores públicos del área de procuración de justicia, la protección de los derechos fundamentales de las personas que por cualquier circunstancia se ven involucradas en la actividad del Ministerio Público.
+XI. Transparencia y rendición de cuentas.
 
-## TÍTULO II. DEL FISCAL GENERAL
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 2°.
+###### Artículo 3.
 
-El Fiscal General del Estado será designado de conformidad con lo dispuesto por el artículo 59 y en relación con el 53 de la Constitución Política del Estado de Aguascalientes. En sus ausencias temporales, el Fiscal General será suplido por los Vice Fiscales, en el orden que determine el Reglamento de esta Ley, y a falta de estos, por los servidores públicos que señale dicho ordenamiento.
+Para los efectos de esta ley, se entenderá por:
 
-Antes de tomar posesión de su cargo, el Fiscal General deberá rendir la protesta constitucional para su ejercicio, ante el Congreso del Estado, de conformidad a los alcances legales establecidos en el procedimiento respectivo a que aduce el artículo 59 de la Constitución Local.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-Los titulares de las Vice Fiscalías, los directores y demás titulares de las unidades administrativas, antes de tomar posesión de sus cargos, rendirán la protesta constitucional ante el Fiscal General o ante quien éste designe.
+I. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
 
-###### ARTÍCULO 3°.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-El Fiscal General, será el titular de la Fiscalía General, el cual tendrá las atribuciones y facultades siguientes:
+II. Adolescente: Personas de entre 12 años cumplidos y menores de 18 años de edad.
 
-I. Ejercer, por sí o por conducto de sus subalternos, las atribuciones que confiere a la Institución la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-II. Representar a la Fiscalía General para todos los efectos legales;
+III. Amenaza: Acción u omisión con que se da a entender que se quiere hacer algún daño.
 
-III. Llevar las relaciones interinstitucionales con cualquier dependencia o entidad de la Administración Pública Federal, Estatal, Municipal y del Distrito Federal, cualquiera que sea su naturaleza jurídica;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-IV. Suscribir y vigilar que se cumplan los convenios de colaboración que, en materia de procuración de justicia y de seguridad pública que celebre la Fiscalía General con la Federación y otras entidades de la República;
+IV. Afectación: Acción u omisión que se desarrolla para dañar, menoscabar, perjudicar o influir desfavorablemente.
 
-V. Visitar por sí o por conducto del funcionario que designe al efecto, las agencias del Ministerio Público y demás unidades de la Fiscalía General, dictando las medidas necesarias para asegurar la mayor eficiencia del servicio;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-VI. Cambiar de adscripción o comisión a los servidores públicos de la Fiscalía General, cuando las necesidades del servicio así lo exijan;
+V. Consejo: Consejo para la Garantía de los Derechos Humanos de Niños y Niñas.
 
-VII. Suspender a los servidores públicos de la Fiscalía General en el caso que se les hubiere dictado auto de vinculación a proceso, de sujeción a proceso o auto de formal prisión por la comisión del delito doloso. Dicha suspensión se prolongará hasta que exista sentencia ejecutoriada. En caso de que ésta fuese condenatoria, serán destituidos; si por el contrario fuese absolutoria, se le (sic) restituirá en sus derechos;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-VIII. Organizar y controlar a la Policía Ministerial y a los servicios de investigación pericial y ejercer el mando directo de ambas unidades;
+VI. Consejo Técnico de Adopciones: El perteneciente al Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-IX. Dar a los funcionarios y empleados de la Fiscalía General, los lineamientos generales o especiales que estime convenientes para el cumplimiento de sus deberes y para la homologación de criterios y de acciones;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-X. Encomendar a cualquiera de los servidores públicos de la Fiscalía General, independientemente de sus atribuciones específicas, el estudio, atención y trámite de los asuntos que estime conveniente, siempre y cuando no sean incompatibles con el cargo que desempeñan;
+VII. Defensor: Defensor de los derechos de niños, niñas y adolescentes.
 
-XI. Solicitar y recabar de cualquier autoridad o institución pública o privada, o persona física, los informes, datos, copias y certificaciones o cualquier documento que necesitare para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XII. Exigir que se hagan efectivas, en su oportunidad, las responsabilidades en que incurran los servidores públicos por los delitos y faltas oficiales que cometieren en el desempeño de sus cargos;
+VIII. DIF: Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-XIII. Promover, en general, las medidas que convengan para lograr que la procuración y administración de justicia sea pronta y expedita;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XIV. Investigar las detenciones arbitrarias y otros abusos que se cometan, adoptando las medidas necesarias para hacerlos cesar de inmediato, sin perjuicio de proveer lo conducente para fincar las responsabilidades correspondientes;
+IX. Familia de origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes, niños, niñas y adolescentes tienen parentesco ascendente hasta segundo grado.
 
-XV. Realizar por sí o con la colaboración de universidades, organismos públicos o privados, dependencias municipales, estatales o federales, los estudios necesarios para diseñar, implementar y evaluar la política dirigida a afrontar la criminalidad en el Estado;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XVI. Vigilar, por sí o por medio de los servidores públicos designados para el efecto, el cumplimiento de las obligaciones de los servidores públicos subalternos y en su caso, imponer las sanciones por faltas administrativas en que incurran aquellos en el desempeño de su cometido, en los términos que prevé esta Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y los demás ordenamientos jurídicos aplicables;
+X. Familia extensa o ampliada: Aquélla compuesta por los ascendientes de niños, niñas y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
 
-XVII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de la normatividad interna, así como los casos de conflicto de competencia o sobre cualquier materia que le correspondan;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XVIII. Ordenar o autorizar al personal de la institución para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia. El personal autorizado, en los términos antes señalados, no quedará, por este hecho, comisionado con las autoridades a quienes auxilie;
+XI. Familia de Acogimiento Pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niños, niñas y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
 
-XIX. Intervenir en los convenios que celebre el Gobierno del Estado con la Fiscalía General de la República, con las Procuradurías o Fiscalías de los Estados, con la del Distrito Federal, con la Procuraduría de Justicia Militar; así como con las dependencias, entidades o personas de los sectores público, social y privado, que se estimen convenientes;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XX. Emitir las disposiciones conducentes al buen despacho de las funciones de la Fiscalía General;
+XII. Familia de Acogida: Es una modalidad de atención en la cual una familia seleccionada y capacitada, acoge voluntariamente a un niño, niña o adolescente, como una medida de protección, esto con la finalidad de que se le brinde la atención integral que le garantice y restituya sus derechos, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
-XXI. Suscribir convenios o cualquier otro instrumento jurídico que tenga relación con los fines que a la Fiscalía General le encomienda la Constitución Federal, la Constitución del Estado, la presente Ley y demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XXII. Expedir los acuerdos de adscripción y organización, manuales de procedimientos normativos, de coordinación, de operación y de cualquier naturaleza necesarios para el funcionamiento de la dependencia y la atención al público;
+XIII. Ley: Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
-XXIII. Implementar sistemas y procedimientos de desempeño y evaluación en el cumplimiento de las funciones asignadas al personal y a las unidades administrativas de la Fiscalía General;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XXIV. Promover e implementar la modernización y aplicación de tecnologías de información, relativas al mejoramiento y simplificación de las funciones de la Fiscalía General;
+XIV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-XXV. Solicitar a la autoridad judicial competente, la intervención de las comunicaciones privadas, en los términos que previene la Constitución federal y demás ordenamientos legales;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XXVI. Establecerá la Unidad de Enlace de acceso a la información pública en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+XV. Niño o niña: Personas menores de 12 años de edad.
 
-XXVII. Adscribir a los Agentes del Ministerio Público, Peritos, Policías Ministeriales y demás servidores públicos a las diversas unidades y órganos de la misma de conformidad con esta ley;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-XXVIII. Ejercer la coordinación estatal para la búsqueda de personas desaparecidas en términos de los protocolos y normatividad aplicable; y
+XVI. Niño, niña o adolescente institucionalizado: Es aquel que recibe como medida de protección judicial o administrativa, el internamiento en un centro de asistencia social público o privado, debido a la carencia de cuidado parental o familiar.
 
-XXIX. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-El Fiscal General ejercerá las facultades previstas en este artículo por sí o por conducto de los Vice Fiscales que determine.
+XVII. Procuraduría: Procuraduría para Niños, Niñas y la Familia.
 
-### CAPÍTULO I. Designación
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-###### ARTÍCULO 4°.
+XVIII. Riesgo: Contingencia o proximidad de un daño.
 
-Son facultades indelegables del Fiscal:
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-I. Manejar, dirigir y controlar la Fiscalía General y establecer las políticas correspondientes;
+XIX. Sistema: Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas.
 
-II. Expedir los reglamentos, acuerdos, circulares, instructivos, bases, lineamientos y manuales de organización y procedimientos conducentes al buen desempeño de las funciones de la Fiscalía;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-III. Determinar la organización y funcionamiento de la Fiscalía General y adscribir orgánicamente, mediante acuerdo, sus unidades administrativas;
+XX. Sistema Municipal: Sistema Municipal para la Garantía de los Derechos Humanos de Niños y Niñas.
 
-IV. Acordar las bases para los nombramientos, movimientos y terminación de sus efectos, de conformidad con lo que establece el Servicio de Carrera y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-V. Conceder licencias al personal de la Fiscalía, en los términos de los ordenamientos aplicables;
+XXI. Situación extraordinaria: Conjunto de factores o circunstancias que impiden el disfrute de alguno o algunos de los derechos humanos de niños, niñas y adolescentes.
 
-VI. Rendir cuando la Ley así lo requiera, los informes que estime procedentes o que le sean solicitados, en relación con los asuntos relativos a la Fiscalía;
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
 
-VII. Presentar por escrito ante el Congreso del Estado, a más tardar en el mes de febrero de cada año, un informe anual que contenga datos estadísticos relativos a sus actividades de procuración de justicia;
+XXII. Victimización secundaria: Conjunto de hechos o el hecho en que un individuo es víctima de violencia interpersonal en dos o más momentos separados en el tiempo, y realizada por al menos dos perpetradores diferentes; la victimización producida no como resultado directo de un acto delictivo en el cual el niño, la niña o el adolescente estuvo presente, sino por la respuesta de las instituciones y personas individuales en relación con la víctima.
 
-VIII. Elaborar el proyecto de presupuesto anual de egresos de la Fiscalía General y en su caso sus modificaciones, en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
-IX. Vigilar que se dé el debido seguimiento a los acuerdos que se tomen en la Conferencia Nacional de Procuración de Justicia;
+### CAPÍTULO SEGUNDO
 
-X. Acordar con los Vice Fiscales, Oficial Mayor, Coordinadores, Directores Generales, Fiscales y demás Servidores Públicos que estime pertinente, los asuntos de su respectiva competencia;
+De los derechos de niños, niñas y adolescentes.
 
-XI. Aplicar las determinaciones que la Ley de Extinción de Dominio para el Estado le confiera;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-XII. Conocer y en su caso autorizar cuando resulte procedente el desistimiento de la acción penal planteado previamente por el Ministerio Público; y
+###### Artículo 4.
 
-XII (SIC). El Fiscal General nombrará y removerá libremente a los Agentes del Ministerio Público, Peritos, Policías Ministeriales y demás servidores públicos de la Fiscalía.
+Niños, niñas y adolescentes son sujetos titulares de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y la Ley General, entre los que se encuentran, de manera enunciativa más no limitativa, los siguientes:
 
-Estas atribuciones y las demás que expresamente señalen las disposiciones jurídicas como indelegables, sólo podrán ser ejercidas por el Fiscal General.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I. A la vida, a la paz, a la supervivencia y al desarrollo integral;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II. Al disfrute del más alto nivel de salud y en ese sentido a ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+Además de la prevención, atención y rehabilitación de conductas de riesgo, como el suicidio, las adicciones y trastornos alimenticios, así como la prevención y detección temprana de trastornos mentales
+
+III. A vivir en un ambiente sano y a contar con servicios públicos básicos. Para ello se promoverán la protección, preservación y mejoramiento del medio ambiente mediante la articulación de políticas públicas;
+
+IV. A preservar su identidad, incluidos la nacionalidad, el nombre y las relaciones familiares de conformidad con las disposiciones del Código Civil para el Estado de Coahuila de Zaragoza, la Ley de Nacionalidad y, en su caso, lo dispuesto en los artículos 63 y 64 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+V. A la igualdad sustantiva, la equidad de género y la no discriminación en los términos prescritos en la Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+VI. A formar parte, convivir, ser criados y desarrollarse preferentemente por su familia de origen, extensa o adoptiva y, excepcionalmente, por una familia de acogimiento pre-adoptiva o de acogida, o en instituciones asistenciales conforme a las disposiciones de la legislación civil aplicable, así como los artículos 55 y 59 de la presente Ley;
+
+VII. A la vida privada, la intimidad personal y de la familia;
+
+VIII. A la cultura, la historia, el idioma y el modo de vida como un factor de enriquecimiento de la identidad cultural del Estado;
+
+Así mismo, tienen derecho a tener su propia vida cultural, a profesar y practicar su propia religión y a emplear su propio idioma;
+
+IX. De acceso a una educación gratuita y de calidad;
+
+X. De acceso a información y materiales procedentes de diversas fuentes nacionales e internacionales, en especial las que tengan por finalidad promover su bienestar social, espiritual, moral, su salud física y mental;
+
+XI. De acceso a tecnologías de la información y comunicación de tal manera que sean ampliamente disponibles, accesibles, costeables y permita mejorar su calidad de vida;
+
+XII. A expresar libremente su opinión y a que esta se tenga debidamente en cuenta en todos los asuntos que le afecten;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+XIII. A la libertad de pensamiento, conciencia y religión. Los padres, tutores, representantes legales o responsables tienen el deber de orientar a niños, niñas y adolescentes en el ejercicio de estos derechos a fin de que contribuya a su desarrollo integral;
+
+XIV. Al esparcimiento, el descanso, el juego y actividades recreativas, que contribuyan a su pleno desarrollo y que propicien su participación libre en la vida deportiva, cultural y artística del Estado;
+
+XV. A reunirse de manera pública o privada con fines lícitos y pacíficamente así como a asociarse libremente con otras personas, con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos o de cualquier otra índole siempre que sean de carácter lícito y que ello no vaya en contra de los derechos de otras personas;
+
+XVI. A la protección de sus datos personales;
+
+XVII. A la no utilización de trabajo de personas menores de catorce años de edad;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad. Quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal; observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, las instituciones de readaptación social y otros centros alternativos.
+
+XIX. A la protección contra la prostitución, la pornografía infantil, el secuestro, la venta y la trata de personas;
+
+XX. A la protección contra la tortura u otros tratos o penas crueles, inhumanas o degradantes;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+
+XXI. De acceso a la justicia, a la seguridad jurídica y al debido proceso.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Para sus efectos, aplicación e interpretación se estará a lo establecido en los términos de la Ley General.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 4 Bis.
 
@@ -207,397 +273,335 @@ Quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO II. Atribuciones y Facultades
+### CAPÍTULO TERCERO
 
-###### ARTÍCULO 5°.
+De niños, niñas y adolescentes en circunstancias especiales.
 
-El Fiscal General deberá reunir los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de tres años inmediatamente anteriores a la fecha de la designación;
+###### Artículo 5.
 
-II. Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación;
+Las autoridades estatales y municipales, a través del Consejo, deberán garantizar a niños, niñas y adolescentes:
 
-III. Tener cuando menos 35 años cumplidos el día de la designación;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto; y
+I. El derecho al disfrute de una vida plena y digna cuando presenten discapacidad motora y/o intelectual, en condiciones que aseguren su dignidad, que le permitan llegar a bastarse a sí mismo y le faciliten la participación activa en la sociedad;
 
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación.
+II. El derecho a recibir tratamiento médico cuando se trate de adictos a sustancias que causan dependencia, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica;
 
-## TÍTULO III. BASES DE ORGANIZACIÓN DE LA FISCALÍA GENERAL
+III. El derecho a recibir atención médica integral y sanitaria, para el tratamiento y rehabilitación de su salud cuando padezcan de VIH/Sida;
 
-### CAPÍTULO III. Facultades Indelegables
+IV. El derecho de adolescentes privados de libertad a ser tratados con la humanidad y el respeto que merece la dignidad inherente a la persona humana, de manera que se tengan en cuenta las necesidades de las personas de su edad. En particular, estarán separados de los adultos, a menos que ello se considere contrario a su interés superior, y tendrá derecho a mantener contacto con su familia por medio de correspondencia y de visitas, salvo en circunstancias excepcionales;
 
-###### ARTÍCULO 6°.
+V. Protección para que el trabajo de adolescentes mayores de catorce años y menores de dieciséis se realice bajo el principio de respeto a sus derechos humanos y de acuerdo a la Ley Federal del Trabajo;
 
-El Fiscal General, Titular de la Institución del Ministerio Público ejercerá autoridad jerárquica sobre todo el personal de la Fiscalía General.
+VI. Protección integral y prevención ante traslados o retenciones ilícitas;
 
-Para el despacho de los asuntos que competen a la Fiscalía General y al Ministerio Público del Estado, el Fiscal General se auxiliará de:
+VII. El derecho a la recuperación física, psicológica y la reintegración social de víctimas de cualquier forma de abandono, explotación o abuso; tortura u otra forma de tratos o penas crueles, inhumanas o degradantes; o conflictos armados. La recuperación y reintegración se llevarán a cabo en un ambiente que fomente la salud, el respeto de sí mismo y la dignidad del niño;
 
-I. Vice fiscales;
+VIII. Protección para que no sean reclutados por la delincuencia organizada, pandillas o asociaciones delictuosas;
 
-II. Oficialía Mayor;
+IX. Protección a quienes pertenecen a entornos delincuenciales por mera filiación o por su especial situación social;
 
-III. Directores Generales;
+X. Atención y protección cuando se encuentren en condiciones de extrema pobreza, malnutrición, madres o padres adolescentes o cualquier otra situación que impida o límite de algún modo el acceso a sus derechos humanos.
 
-IV. Directores de Área;
+XI. Los demás casos o situaciones que el Consejo determine y deban atenderse.
 
-V. Fiscales;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-VI. Subdirectores;
+Así mismo, el Consejo ordenará que se realice lo necesario para que se establezca de forma interinstitucional un programa específico y prioritario para brindar atención a niños, niñas y adolescentes cuando se encuentren en situación de calle; así como impulsar e implementar medidas tendientes a prevenir y evitar que realicen actividades marginales o de sobrevivencia mediante acciones preventivas para protegerlos y evitar su explotación; y que se implemente un programa interinstitucional para la defensa y protección de migrantes y repatriados, brindando los servicios necesarios para reintégralos con sus familias y comunidades de origen. Además, con las organizaciones de la sociedad civil, impulsar la consolidación de albergues de tránsito para su atención especializada y temporal.
 
-VII. Agentes del Ministerio Público;
+### CAPÍTULO CUARTO
 
-VIII. Agentes de Policía Ministerial;
+Del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas.
 
-IX. Peritos;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-X. Jefes de Departamento;
+###### Artículo 6.
 
-XI. Auxiliares;
+El Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas es el mecanismo transversal de la administración pública, creado para coordinar e implementar políticas públicas a favor de los derechos de niños, niñas y adolescentes del Estado de Coahuila de Zaragoza.
 
-XII. Asistentes;
-
-XIII. Secretarios; y
-
-XIV. Así como de los demás servidores públicos que establezcan el Reglamento de esta Ley y otras disposiciones aplicables.
-
-La Fiscalía Especial en Delitos Electorales estará adscrita a la Fiscalía General y funcionará conforme a lo dispuesto en el Código Electoral del Estado de Aguascalientes, así como en las disposiciones reglamentarias aplicables.
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 6 Bis.
 
 El Sistema se integra por las dependencias y entidades de la Administración Pública Estatal y Municipal así como por organizaciones de la sociedad civil que actúen dentro del Estado que tengan la obligación o facultad de garantizar los derechos humanos de niños, niñas y adolescentes debiendo observar como mínimo los principios rectores establecidos en la presente Ley.
 
-###### ARTÍCULO 7°.
+###### Artículo 7.
 
-De conformidad con el principio de especialización, la Fiscalía General contará con unidades administrativas especializadas en la investigación y persecución de géneros de delitos, atendiendo a la naturaleza, complejidad e incidencia de los ilícitos. Las unidades administrativas especializadas contarán con las atribuciones y estructura administrativa que establezcan las disposiciones aplicables.
+Para la implementación, seguimiento y evaluación del Sistema, se constituye el Consejo para la Garantía de los Derechos Humanos de Niños y Niñas como órgano rector cuyas facultades son esencialmente de carácter deliberativo y vinculante para la administración pública, conformado por las personas titulares de:
 
-De conformidad con el principio de organización territorial, la Fiscalía General actuará por conducto de unidades administrativas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables
+I. Poder Ejecutivo
 
-En la Fiscalía General existirá una Unidad de Enlace, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+II. Secretaría de Gobierno;
 
-## TÍTULO IV. VICE FISCALES
+III. Secretaría de Cultura;
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Los Vice Fiscales, Oficial Mayor, Directores Generales, Coordinadores y demás servidores públicos de nivel directivo serán nombrados y removidos libremente por el Fiscal General.
+IV. Secretaría de Inclusión y Desarrollo Social;
 
-###### ARTÍCULO 9°.
+V. Secretaría de Educación;
 
-Podrán ejercer las atribuciones y facultades que correspondan a los Agentes del Ministerio Público, y serán considerados como tales para los efectos de esta Ley, los Vice Fiscales, Directores Generales, Coordinadores, Directores y Fiscales.
+VI. Secretaría de Finanzas;
 
-###### ARTÍCULO 10.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Al frente de cada Vice Fiscalía estará un Vice Fiscal que tendrá las siguientes atribuciones genéricas:
+VII. Secretaría de Seguridad Pública;
 
-I. Promover, atender y vigilar las medidas necesarias para que las resoluciones de las áreas de sus respectivas adscripciones, se apeguen a la estricta legalidad;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. Promover, atender, y vigilar el cabal cumplimiento de los derechos humanos del imputado cuando fuere aprehendido, detenido o se haya presentado voluntariamente, durante la integración de la Carpeta de Investigación, y el respeto de sus garantías de legalidad dentro de las etapas del proceso;
+VIII. Secretaría de Infraestructura y Transporte;
 
-III. Acordar con el Fiscal General el despacho de los asuntos de su competencia, y de las unidades administrativas a su cargo y responsabilidad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Desempeñar las funciones y comisiones que el Fiscal General les encomiende informarle sobre el desarrollo de las mismas;
+IX. Instituto Coahuilense de la Juventud;
 
-V. Someter a la aprobación del Fiscal General los estudios y proyectos de trascendencia que se elaboren en las Unidades Administrativas a su cargo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VI. Fomentar y mantener el espíritu para dar trato digno y eficiente atención al público que acude a las dependencias de la Fiscalía General;
+X. Secretaría de Medio Ambiente y Desarrollo Urbano;
 
-VII. Detectar, proponer, programar, evaluar y participar en los programas de superación profesional, capacitación y actualización permanente del personal adscrito a las unidades administrativas que se encuentran a su cargo y responsabilidad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VIII. Planear, programar, coordinar, vigilar y evaluar las funciones y actividades de las unidades administrativas de su adscripción, de conformidad a los lineamientos que determine el Fiscal General;
+XI. Instituto Coahuilense de las Mujeres;
 
-IX. Someter a la consideración del Fiscal General los Manuales de Organización Interna, Procedimientos Normativos de Coordinación y Operación;
+XII. Secretaría de Salud;
 
-X. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción y resolver los asuntos que sean competencia de las mismas, así como conceder audiencia al público;
+XIII. Secretaría de Fiscalización y Rendición de Cuentas.
 
-XI. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por otras dependencias o entidades, de acuerdo con las políticas establecidas a este respecto;
+XIV. Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-XII. Participar en el ámbito de sus respectivas competencias, en cualquier etapa de la carpeta de investigación o del proceso;
+XV. Procuraduría para Niños, Niñas y la Familia
 
-XIII. Proporcionar atendiendo a los preceptos de transparencia y acceso a la información pública, los datos y cooperación técnica que les sean solicitados por otras dependencias o entidades, de acuerdo con las disposiciones legales y políticas establecidas;
+XVI. Secretaría del Trabajo;
 
-XIV. Planear y coordinar los programas y medidas necesarias para prevenir que las áreas que les estén adscritas no incurran en rezago;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XV. Dirimir los conflictos relativos al ejercicio de la función pública que se presenten entre las unidades administrativas que les estén adscritas;
+XVII. Fiscalía General del Estado;
 
-XVI. Proponer al Fiscal General a los Servidores Públicos subalternos en quienes delegaran las atribuciones previstas en los términos de la presente ley; y
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XVII. Las demás que les señalen las disposiciones legales y reglamentarias, y las que les sean conferidas por el Fiscal General, directamente o por delegación, así como las de la competencia de las unidades administrativas a su cargo.
+XVIII. Los Presidentes Municipales.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Para ser Vice Fiscal, se deberá cumplir con los siguientes requisitos:
+Formarán parte del Consejo con derecho a voz y voto, cinco personas representantes de la sociedad civil, de las cuales tres serán designadas por organizaciones encargadas de promover o proteger los derecho (sic) humanos en el Estado de Coahuila de Zaragoza, las restantes deberán ser un niño, niña o adolescente conforme a la convocatoria que la persona titular del Poder Ejecutivo emita para tal efecto. Si, durante el tiempo que se establezca, no se realiza designación alguna, este derecho será de la persona que funja como Presidente del Consejo.
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Tener cuando menos treinta años cumplidos el día de la designación;
+Cuando las organizaciones de la sociedad civil propongan a más de tres personas, las dependencias y entidadesque (sic) integran el Consejo harán la designación de los representantes mediante el voto de la mayoría.
 
-III. Contar con título profesional de licenciado en derecho, con ejercicio profesional de cinco años, contar con experiencia en el campo del derecho penal, procesal penal o constitucional, ya sea en la docencia en la investigación, litigio o en la procuración o administración de justicia;
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
 
-IV. Gozar de buena reputación;
+###### Artículo 7 Bis.
 
-V. No haber sido condenado por delito doloso o por delito culposo calificado como grave por la ley y no estar sujeto a proceso penal en el momento de su designación;
+En atención del interés superior de la infancia, el Estado y los municipios en el ámbito de su competencia, deberán fomentar la adopción de medidas educativas y preventivas destinadas a asegurar el ejercicio de los derechos de las niñas, niños y adolescentes y a prevenir las situaciones de riesgo que menoscaben su desarrollo.
 
-VI. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
+La prevención estará dirigida a:
 
-VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de las normas legales aplicables.
+a) Velar por el respeto y garantía de los derechos de las niñas, niños y adolescentes mediante actividades de información, divulgación, promoción y formación.
 
-## TÍTULO V. DIRECCIONES GENERALES
+b) Fomentar actividades destinadas a desarrollar la capacidad crítica y de libre decisión y el sentido de la propia responsabilidad de las niñas, niños y adolescentes.
 
-###### ARTÍCULO 12.
+c) Promover actividades que fortalezcan la promoción y protección de los derechos de la niñez y adolescencia, la igualdad de oportunidades y de trato entre hombre (sic) y mujeres y la no discriminación.
 
-Al frente de cada Dirección General estará a cargo un Director General, quien se auxiliará por los Directores, Subdirectores, Jefes de Departamento, unidades administrativas, así como el personal técnico y auxiliar que se determine, conforme a las necesidades del servicio y según lo previsto en el presupuesto de egresos correspondientes.
+###### Artículo 8.
 
-###### ARTÍCULO 13.
+El Consejo será presidido por la persona titular del Poder Ejecutivo del Estado quien fungirá como Presidente del mismo y tendrá la obligación de incorporar dentro del Plan Estatal de Desarrollo, la política pública que se implementará en el Estado de Coahuila de Zaragoza para garantizar los derechos humanos de niños y niñas.
 
-Los Directores Generales contarán con las siguientes atribuciones legales:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Acordar con su superior inmediato los asuntos de su competencia, escuchando previamente la opinión de los titulares de las unidades administrativas y de los servidores públicos que por la naturaleza de los asuntos a resolver, sean competentes;
+Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Secretaría de Inclusión y Desarrollo Social.
 
-II. Desempeñar las funciones y comisiones que su superior inmediato les encomiende, e informarle sobre el desarrollo de las mismas;
+###### Artículo 9.
 
-III. Someter a la aprobación de su superior inmediato los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
+Las personas que sean Presidente Honorario del Consejo Consultivo del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos, Presidente del Tribunal Superior de Justicia, Presidente de la Junta de Gobierno del Congreso del Estado, Presidente de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza y titular de la Unidad de Derechos Humanos de la Oficina del Gobernador serán miembros honorarios del Consejo quienes tendrán derecho únicamente a voz en las sesiones que se lleven a cabo.
 
-IV. Planear, programar, organizar, dirigir, supervisar, controlar y evaluar el desarrollo de las atribuciones y acciones encomendadas a las unidades que integren la Dirección a su cargo;
+###### Artículo 10.
 
-V. Coordinarse con los titulares de las otras Direcciones cuando el caso lo requiera, para el mejor desempeño de las funciones del Ministerio Público;
+Los servidores públicos integrantes del Consejo podrán designar suplentes. Los suplentes de los servidores públicos con derecho a voto tendrán facultades de decisión en las sesiones del Consejo a las que asistan.
 
-VI. Preparar y someter a la consideración de su superior inmediato, los proyectos de Manuales de Organización, de Procedimientos Normativos, de Coordinación y Operación correspondientes a la Dirección a su cargo;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. Realizar los dictámenes, opiniones e informes que les sean encomendados por la superioridad;
+Sólo podrán ser suplentes los servidores públicos que tengan facultades de dirección dentro de la dependencia o entidad a la que pertenecen o que conforme a la ley tengan facultades expresas para suplir a la persona titular.
 
-VIII. Recibir en acuerdo a los titulares de las Unidades Administrativas a su cargo y conceder audiencia al público;
+###### Artículo 11.
 
-IX. Realizar las investigaciones correspondientes en los asuntos de su competencia;
+El Consejo celebrará reuniones ordinarias semestralmente y las extraordinarias que sean necesarias en cualquier tiempo, previa convocatoria del presidente.
 
-X. Asesorar técnicamente, en asuntos de su competencia, a las diversas unidades de la Fiscalía General;
+###### Artículo 12.
 
-XI. Firmar y notificar los acuerdos de trámite, así como las resoluciones o acuerdos de las autoridades superiores, y aquéllas que se emitan con fundamento en facultades que les corresponda;
+El Consejo tendrá las siguientes facultades:
 
-XII. Cuidar el debido respeto al derecho de petición; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XIII. Despachar todos aquellos asuntos y ejercer las demás facultades que les señale las disposiciones legales y reglamentarias y las que les confiera el Fiscal General o sus superiores jerárquicos, dentro del ámbito de competencia de la unidad a su cargo.
+I. Promover, respetar, garantizar y proteger los derechos humanos reconocidos a favor de niños, niñas y adolescentes de acuerdo al Plan Estatal de Desarrollo mediante la gestión y promoción de programas coordinados entre las dependencias y entidades del Estado;
 
-###### ARTÍCULO 14.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Para ser Director General se debe cumplir con los siguientes requisitos:
+II. Aprobar los programas que las dependencias y entidades generen a favor de los derechos humanos de niños, niñas y adolescentes;
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Tener cuando menos treinta años cumplidos el día de la designación;
+III. Evaluar las Políticas Públicas adoptadas que sean de su competencia conforme al informe que presente la Secretaría Ejecutiva y las demás dependencias y entidades que sean requeridas;
 
-III. Contar con título profesional de licenciado en derecho, y con ejercicio profesional de cinco años;
+IV. Formar equipos de trabajo para el estudio, planeación y ejecución de las actividades que el Consejo deba desarrollar;
 
-IV. Gozar de buena reputación;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-V. No haber sido condenado por delito doloso;
+V. Establecer los mecanismos administrativos procedentes para la prevención de situación de riesgo, amenaza o afectación de los derechos de niños, niñas y adolescentes;
 
-VI. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
+VI. Establecer los lineamientos generales de coordinación con los Ayuntamientos, las dependencias y entidades públicas, así como organizaciones de la sociedad civil e instituciones privadas con la finalidad de que sus actuaciones se apeguen al Plan Estatal de Desarrollo;
 
-VII. No estar suspendido o haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de las normas legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-## TÍTULO VI. DEL MINISTERIO PÚBLICO
+VII. Promover, diseñar e instrumentar modelos de intervención en los cuales las dependencias y entidades públicas, así como organizaciones de la sociedad civil e instituciones privadas puedan articular sus recursos financieros, humanos, materiales y operativos, conforme al Plan Estatal de Desarrollo, para la prevención y atención de la problemática que afecta a niños, niñas y adolescentes; del Estado y limita su desarrollo;
 
-### CAPÍTULO I. Atribuciones
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 15.
+VIII. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de los diversos Sistemas Estatales regulados por la legislación del Estado de Coahuila de Zaragoza, de las dependencias y entidades públicas, así como organizaciones de la sociedad civil e instituciones privadas para la realización de acciones para garantizar el ejercicio de los derechos de niños, niñas y adolescentes;
 
-El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Federal, la Constitución Local, el Código Penal y de Procedimientos Penales para el Estado de Aguascalientes, el Código Nacional, la presente Ley y otros ordenamientos jurídicos.
+IX. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas y morales de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento del objeto de esta Ley;
 
-En particular tendrá las siguientes atribuciones:
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Recibir las denuncias o querellas que le presenten en forma oral, por escrito o a través de los medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+X. Impulsar acciones de difusión y socialización de los derechos de niños, niñas y adolescentes, así como promover a través de medios masivos de comunicación campañas de sensibilización comunitaria;
 
-II. Iniciar la carpeta de investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba para el esclarecimiento del hecho delictivo, que deberán servir para sus respectivas resoluciones y las del Órgano Jurisdiccional, así como recabar los elementos necesarios que determinen que el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-III. Hacer la clasificación legal de los hechos que le son denunciados con base en las constancias que se desprendan de la denuncia o de la carpeta de investigación, sin obligación de sujetarse o atender a la que hubieren hecho los denunciantes o querellantes;
+XI. Promover medidas positivas encaminadas a generar un proceso de cambio social para hacer de los derechos de niños, niñas y adolescentes, una práctica cotidiana entre las familias y las comunidades de la entidad así como fomentar la cultura de la denuncia de violaciones a los mismos;
 
-IV. Ejercer la conducción y mando de la Investigación de los delitos de su competencia con todas las facultades en términos de lo previsto por el artículo 21, de la Constitución Federal, artículo 6º de la Constitución Local, y las que este y otros ordenamientos jurídicos le otorguen.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-Para ello se auxiliará de la policía ministerial y de los servicios de investigación pericial y, en su caso, de los demás órganos y autoridades que prevea la Ley;
+XII. Promover la participación permanente de niños, niñas y adolescentes en el conocimiento, difusión y puesta en práctica de la Convención sobre los Derechos del Niño y demás normas vigentes en la materia, a fin de permitirles actuar como agentes de cambio en sus propias vidas, la de sus familias y sus comunidades;
 
-V. Turnar a las autoridades correspondientes las carpetas de investigación que no sean de su competencia, lo que hará de inmediato en los casos en que conozca de ellas con motivo de la detención en flagrancia del o los imputados;
+XIII. Promover las reformas legislativas necesarias para armonizar el marco normativo estatal con los principios derivados de la Constitución Política de los Estados Unidos Mexicanos y tratados internacionales de los que el Estado Mexicano forma parte;
 
-VI. Recabar testimonios, ordenar peritajes, formular requerimientos, practicar inspecciones, preservar el lugar de los hechos, obtener evidencias y desahogar e integrar a la carpeta de investigación los indicios que tiendan a acreditar el delito, así como decretar el aseguramiento de los objetos, instrumentos y productos del delito, así como de las cosas, evidencias, valores y substancias relacionadas con el mismo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VII. Llevar un registro con la identificación de las personas que intervengan en la cadena de custodia y de las autorizadas para reconocer y manejar los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito, así como cerciorarse de que se han seguido los procedimientos para preservar los indicios, huellas o asentar cualquier violación a las disposiciones para la recolección, el levantamiento, preservación y el traslado de los mismos, y dar vista a la autoridad competente para efectos de las responsabilidades a que hubiere lugar;
+XIV. Promover la formación de Consejos Municipales para la garantía de los derechos de niños, niñas y adolescentes;
 
-VIII. Solicitar a la autoridad judicial el desahogo de los medios de prueba que sólo por su conducto puedan recabarse; así como las órdenes de cateo, restricción y otras medidas precautorias que sean procedentes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-IX. Decretar las medidas cautelares y precautorias a que se refiere esta Ley y otros ordenamientos. Además ordenará a la policía que brinde protección a personas respecto de las cuales exista un riesgo objetivo para su vida o integridad corporal por su intervención en procedimientos penales de conformidad con los acuerdos que para tal efecto emita el Fiscal General del Estado;
+XV. Fomentar la cultura de la denuncia de violaciones a los derechos de niños, niñas y adolescentes;
 
-X. Otorgar las órdenes de protección en términos de lo previsto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
+XVI. Las demás que se deriven de leyes, reglamentos y otras disposiciones aplicables.
 
-XI. Solicitar la colaboración para la práctica de diligencias a los Ministerios Públicos de la Federación, Militar y del resto de las entidades federativas; así como obsequiar las que les sean solicitadas, en los términos que establezcan los convenios correspondientes;
+XVII. Las demás que se deriven de leyes o reglamentos.
 
-XII. Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos de la Constitución Federal y demás ordenamientos aplicables, así como poner a disposición del órgano jurisdiccional a las personas detenidas dentro de los plazos legales y conforme a las disposiciones jurídicas aplicables;
+###### Artículo 13.
 
-XIII. Otorgar la libertad caucional a los imputados que se encuentren a su disposición, cuando proceda;
+La Presidencia del Consejo tendrá las siguientes facultades:
 
-XIV. Vigilar que el imputado que sea puesto a su disposición no sea retenido por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Desde el momento en que tenga a su disposición al imputado, le hará saber los motivos de su detención, así como su derecho a guardar silencio y demás prerrogativas que en su favor consagra el artículo 20, de la Constitución Federal;
+I. Convocar a las reuniones ordinarias y extraordinarias del Consejo con el auxilio de la Secretaría Ejecutiva;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+II. Promover, gestionar, impulsar, seguir y evaluar el cumplimiento de los acuerdos tomados en las sesiones del Consejo, en los plazos establecidos y las responsabilidades asignadas;
 
-XV. Informar a la víctima u ofendido del delito, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución Federal, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y las disposiciones jurídicas aplicables, así como el alcance de esos derechos;
+III. Emitir voto de calidad;
 
-XVI. Aplicar los criterios de oportunidad que autoriza esta Ley y el Código Nacional, cuando ello sea procedente;
+IV. Firmar las actas del Consejo y;
 
-XVII. Procurar la solución del conflicto penal mediante el uso de las formas de justicia alternativa, en los términos que esta Ley establece; el Código Nacional y las disposiciones jurídicas aplicables cuando proceda;
+V. Representar al Consejo en eventos, reuniones y asuntos que sean relevantes.
 
-XVIII. Acordar el archivo provisional de las carpetas de investigación cuando no se reúnan los requisitos exigidos por el artículo 16, de la Constitución Federal, para el ejercicio de la acción penal, así como determinar el no ejercicio de la acción penal conforme a la legislación aplicable;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-XIX. Cuando el no ejercicio de la acción penal sea determinado de conformidad con lo dispuesto por el artículo 478, de la Ley General de Salud, el Ministerio Público deberá informar al consumidor o farmacodependiente la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. Asimismo, deberá realizar un reporte del no ejercicio de la acción penal al Centro Estatal de Prevención a las Adicciones del Instituto de Servicios de Salud del Estado de Aguascalientes, con el propósito de que éste promueva la correspondiente orientación médica o de prevención. Al tercer reporte del Ministerio Público, el tratamiento del consumidor o farmacodependiente será obligatorio;
+###### Artículo 14.
 
-XX. Brindar las medidas de seguridad necesarias a efecto de garantizar que las víctimas, ofendidos o testigos del delito puedan llevar acabo la identificación del imputado sin riesgo para ellos;
+La Secretaría Ejecutiva tendrá las facultades siguientes:
 
-XXI. Instruir a las Policías sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como de las demás actividades y diligencias que deban de ser llevadas a cabo dentro de la investigación;
+I. Proponer a la Presidencia con anticipación el orden del día y los asuntos a tratar en la reunión que al efecto deba convocarse;
 
-XXII. Requerir informes o documentación a otras autoridades y particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de otros datos de prueba, las cuales deberán proporcionar la información que le soliciten aplicando las medidas de apremio necesarias para su debido cumplimiento;
+II. Generar y difundir datos, conocimientos y experiencias para disponer de diagnósticos y herramientas que coloquen a niños y niñas como parte central de la formulación de las políticas.
 
-XXIII. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia de conformidad con las disposiciones jurídicas aplicables;
+III. Coordinar, seguir, monitorear y evaluar el cumplimiento en la materia del Plan Estatal de Desarrollo y de los programas que se desprendan del mismo que hayan sido aprobados por el Consejo así como coordinar la formulación de los informes que permitan conocer su funcionamiento, operatividad y resultados;
 
-XXIV. Dictar de forma inmediata una orden de búsqueda y localización de personas extraviadas o desaparecidas cuando reciba denuncia por la probable comisión de un delito relacionado con esos hechos, de conformidad con el Protocolo Nacional de Alerta AMBER México y la normatividad aplicable;
+IV. Organizar y coordinar el funcionamiento de los equipos de trabajo del Consejo, así como la integración de grupos auxiliares de trabajo que no dupliquen las funciones de los ya existentes;
 
-XXV. Informar y facilitar a los detenidos de nacionalidad extranjera el ejercicio del derecho a recibir asistencia consular por las embajadas o consulados y comunicar sin demora esos hechos a dichas representaciones diplomáticas;
+V. Invitar a los miembros del Consejo para integrarse a los equipos de trabajo que realizarán las actividades que previamente se acuerden;
 
-XXVI. Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XXVII. Registrar y auditar los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos;
+VI. Promover y coordinar la instalación de los Consejos Municipales para la garantía de los derechos de niños, niñas y adolescentes;
 
-XXVIII. Ejercitar la acción penal ante la autoridad jurisdiccional competente, en la vía que corresponda, concretando la acusación y, en su caso, ampliar ésta cuando proceda;
+VII. Coordinar y dar seguimiento a los trabajos y acuerdos del Consejo;
 
-XXIX. Solicitar a la autoridad judicial las órdenes de aprehensión, de reaprehensión y de comparecencia o de presentación, cuando se reúnan los requisitos del artículo 16, de la Constitución Federal;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XXX. Poner a disposición de la autoridad judicial a las personas detenidas, aprehendidas o reaprehendidas, así como los objetos y evidencias aseguradas, en los términos de las disposiciones jurídicas aplicables;
+VIII. Promover y mantener la coordinación con dependencias y entidades públicas así como organizaciones de la sociedad civil que coadyuven a mejorar la situación de niños, niñas y adolescentes en el Estado;
 
-XXXI. Solicitar que se preserve el lugar de los hechos, indicios, los instrumentos, objetos y evidencias del delito, así como la identidad y domicilios del imputado y de los testigos, cuando ello sea necesario;
+IX. Promover y mantener comunicación con los integrantes del Consejo y mantener permanentemente informados a sus integrantes sobre la situación que guardan los asuntos del mismo;
 
-XXXII. Pedir el embargo precautorio de bienes para los efectos de la reparación del daño, en los términos que prevenga la Ley;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XXXIII. Aportar las pruebas y promover todo lo conducente para el completo esclarecimiento de los hechos delictuosos y de las circunstancias en que éstos se realizaron;
+X. Dirigir y organizar el Sistema Informático para la Protección de Derechos de Niños, Niñas y la Familia, que consistirá en una plataforma tecnológica que servirá para la gestión de datos que permitan medir, evaluar y mejorar la administración y el monitoreo del estado de la protección de derechos de niños, niñas y adolescentes;
 
-XXXIV. Garantizar la protección de las víctimas, ofendidos, testigos, y en general, de todos los sujetos que intervengan en el proceso;
+XI. Autenticar y firmar conjuntamente con el Presidente las actas de las sesiones del Consejo; y
 
-XXXV. Formular conclusiones acusatorias cuando sean procedentes, en los términos que establezca el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional, así como desahogar las vistas que se le formulen y solicitar las sanciones y medidas de seguridad que correspondan según el caso;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XXXVI. Desistirse de la acción penal en ejercicio de los criterios de oportunidad establecidos en esta Ley y el Código Nacional. El desistimiento por esta causa dará lugar, en su caso, al sobreseimiento en los términos establecidos en el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional para el Estado de Aguascalientes;
+XII. Fungir como instancia de interlocución con el Sistema Nacional de Protección Integral de Niños, Niñas y Adolescentes, para la articulación de políticas públicas, así como el intercambio de información necesaria;
 
-XXXVII. Interponer los recursos que la Ley establece y expresar los agravios correspondientes, así como promover y dar seguimiento a los incidentes que la misma admite;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2015)</small>
 
-XXXVIII. Oponerse al otorgamiento de la libertad provisional del imputado y promover lo conducente para ello cuando existan razones de interés público;
+XIII. Compilar los acuerdos que se tomen en el Sistema, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
 
-XXXIX. Vigilar que el proceso se tramite en forma regular, promoviendo lo necesario para que el juzgador aplique las leyes y para que se cumplan sus determinaciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2015)</small>
 
-XL. Comunicar al Órgano Jurisdiccional y al imputado los hechos, así como los datos de prueba que los sustentan y la fundamentación jurídica, atendiendo al objetivo o finalidad de cada etapa del procedimiento;
+XIV. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
 
-XLI. Solicitar al Órgano Jurisdiccional la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2015)</small>
 
-XLII. Solicitar las providencias precautorias y medidas cautelares aplicables al imputado en el proceso, y promover su cumplimiento;
+XV. Las demás inherentes a su cargo, las que le encomiende el Presidente y las establecidas en la Ley General.
 
-XLIII. Solicitar la cancelación de órdenes de aprehensión, reaprehensión o comparecencia así como la reclasificación de la conducta o hecho por los cuales se haya ejercido la acción penal;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XLIV. Intervenir en la extradición, entrega o traslado de imputados, procesados o sentenciados, en los términos de las disposiciones jurídicas aplicables, así como en cumplimiento de los Tratados Internacionales en que el Estado Mexicano sea parte;
+###### Artículo 15.
 
-XLV. Intervenir en representación de la sociedad en el procedimiento de ejecución de las sanciones penales y medidas de seguridad;
+Las sesiones del Consejo se sujetarán a las bases siguientes:
 
-XLVI. Formular la imputación y solicitar la vinculación a proceso ante el Juez o Tribunal competente en los términos de la normatividad procesal aplicable;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XLVII. Proporcionar atención a las víctimas y a los ofendidos;
+I. Serán válidas con la asistencia de la mitad más uno de los servidores públicos que lo integren, siempre que esté presente su Presidente o quién deba suplirlo;
 
-XLVIII. Realizar estudios y programas de prevención del delito en el ámbito de su competencia y coadyuvar con organismos sociales, educativos o de seguridad pública en la difusión e implementación de estrategias para la prevención de la criminalidad en general;
+II. La Presidencia o quién deba suplir en el cargo, presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así los estime procedente y finalmente, someterá a votación los asuntos correspondientes;
 
-XLIX. Promover la participación de la comunidad en los programas que implemente o en los que participe, en los términos que los mismos establezcan;
+III. Se dará curso a los asuntos listados en el orden del día;
 
-L. Promover entre los servidores públicos la cultura de respeto a los derechos humanos y la equidad de género, así como atender las visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-LI. Cuidar que en los asuntos en que intervenga, se cumplan las determinaciones de la autoridad judicial;
+IV. De toda sesión del Consejo se levantará el acta respectiva a través de la Secretaría Ejecutiva. Las actas deberán contener una síntesis del asunto a tratar y el punto o puntos acordados y se resguardarán por la propia Secretaría;
 
-LII. Intervenir, en su carácter de representante social, ante los órganos jurisdiccionales del orden civil y familiar, en la protección de los menores e incapaces, en los juicios en que, de acuerdo con la Ley de la materia, tenga intervención, y en lo general, dar cumplimiento a lo señalado en la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-LIII. Rendir los informes que le sean solicitados por las autoridades judiciales federales y estatales;
+V. La Secretaría Ejecutiva del Consejo, al inicio de cada sesión, dará lectura al acta de la sesión anterior para su aprobación. La misma deberá ser autorizada con las firmas del Presidente y del Secretario o de quien deba suplirlos;
 
-LIV. Auxiliar a las autoridades federales y de otras entidades de la República, en la persecución de los delitos de la competencia de éstos, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
+VI. Las votaciones del Consejo se tomarán por mayoría de votos de los integrantes presentes, en caso de empate, la presidencia tendrá voto de calidad;
 
-LV. Participar en el Sistema Nacional de Seguridad Pública, de conformidad con la ley general de la materia, la presente Ley y demás ordenamientos jurídicos, así como ejercer las facultades que en materia de seguridad pública le confiere la legislación estatal;
+VII. Podrán asistir a las sesiones que celebre el Consejo, previa invitación, otras personas con amplia experiencia y conocimientos reconocidos en cualquier tema relacionado con el orden del día, las cuales participarán con voz; y
 
-LVI. Intervenir en los términos previstos por la Ley General de Salud y la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-LVII. En aquellos casos en que la Ley lo permita, propiciar la conciliación de los intereses en conflicto, proponiendo vías de solución que logren la avenencia;
+VIII. La Secretaría Ejecutiva del Consejo, deberá vigilar la ejecución y dar seguimiento a los acuerdos sin demora y sin esperar a que se apruebe el acta de donde provenga el acuerdo.
 
-LVIII. Recabar de las autoridades federales, estatales y municipales, así como de instituciones públicas y privadas, los informes, documentos y pruebas que se requieran para el ejercicio de sus funciones;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-LIX. Orientar a los particulares que formulen quejas por irregularidades o hechos que no sean constitutivos de delito, para que acudan ante las instancias competentes;
+###### Artículo 16.
 
-LX. Promover las medidas necesarias para el resguardo, conservación, aplicación y adjudicación a favor del Estado de los bienes que se encuentren a su disposición y que causaren abandono al no haber sido reclamados, en los términos que fijen las disposiciones que emita el titular del Poder Ejecutivo;
+Se establecerá un Sistema Municipal para la Garantía de los Derechos Humanos de Niños, Niñas y Adolescentes, con la finalidad de coordinar e implementar las políticas públicas a favor de los derechos de niños, niñas y adolescentes, así como las acciones de difusión, promoción y la prevención de vulneración de los mismos, en el ámbito de su competencia.
 
-LXI. Administrar y disponer de los fondos propios que le asigne o faculte la Ley, en los términos que la misma disponga;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-LXII. Participar activamente en el combate de los delitos en materia electoral y ambiental en el Estado, implementando los órganos y mecanismo (sic) necesarios para tales fines;
+En cada uno de los municipios se establecerá un Consejo Municipal para la implementación y seguimiento del Sistema Municipal, presidido por la persona titular del Ayuntamiento e integrado por el Sistema para el Desarrollo Integral de la Familia Municipal, las dependencias y entidades de la Administración Pública Municipal, organizaciones de la sociedad civil que en su función estén vinculadas al tema de promoción, garantía y protección de derechos de niños y niñas, así como niños, niñas y adolescentes, conforme al reglamento municipal que se expida para tal efecto.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+El Sistema para el Desarrollo Integral de la Familia Municipal fungirá como Secretaría Ejecutiva del Consejo Municipal.
 
-LXIII. Cumplir las obligaciones que a su cargo establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
+###### Artículo 17.
 
-LXIV. Certificar los documentos materia de su competencia que obren en sus archivos y garantizar que se dé fe de las diligencias que se practiquen, de conformidad con las disposiciones jurídicas vigentes;
+Las funciones de dichos Consejos se ajustarán a lo preceptuado en los artículos 10, 11, 12, 13 y 14 en lo que resulten aplicables al ámbito municipal apegándose a los lineamientos generales, objetivos, medidas, estrategias y acciones que se desprendan del Plan Estatal de Desarrollo.
 
-LXV. Participar con el carácter que la Ley le confiera en aquellos procedimientos en que así lo determine el orden jurídico vigente;
-
-LXVI. Solicitar, y en su caso, proporcionar la asistencia jurídica internacional que le sea requerida de conformidad con los Tratados Internacionales en los que el Estado Mexicano sea parte y lo dispuesto en la legislación aplicable; y
-
-LXVII. Las demás que le señalen este y otros ordenamientos.
-
-### CAPÍTULO II. Requisitos de Ingreso de los Agentes del Ministerio Público
-
-###### ARTÍCULO 16.
-
-Requisitos para ingresar como Agente del Ministerio Público, dentro del Servicio Profesional de Carrera se requiere:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional, y que se acredite, por lo menos, un año de ejercicio profesional;
-
-III. En su caso, tener acreditado el Servicio Militar Nacional;
-
-IV. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal, por delito culposo calificado como grave por la ley o estar sujeto a proceso penal;
-
-V. No estar suspendido ni haber sido destituido o inhabilitado por resolución irme (sic) firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
-
-VI. No hacer uso ilegal de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
-
-VII. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia de la Federación y las del Estado de Aguascalientes;
-
-VIII. Presentar y aprobar las evaluaciones de control de confianza y de competencias profesionales;
-
-IX. En su caso, sustentar y acreditar el concurso de oposición, en los términos que señalen las disposiciones aplicables; y
-
-X. Los demás requisitos que establezcan otras disposiciones aplicables.
-
-### CAPÍTULO III. Requisitos de Permanencia
-
-###### ARTÍCULO 17.
-
-Son requisitos de permanencia de los Agentes del Ministerio Público y de los Peritos, los siguientes:
-
-I. Cumplir los requisitos de ingreso durante el servicio;
-
-II. Cumplir con los programas de profesionalización que establezcan las disposiciones aplicables;
-
-III. Aprobar los procesos de evaluación de control de confianza, del desempeño, y de competencias profesionales que se establezcan en el Reglamento respectivo y demás disposiciones aplicables;
-
-IV. Contar con la certificación y registro actualizados a que se refiere la Ley General del Sistema Nacional de Seguridad Pública;
-
-V. Cumplir las órdenes de comisión, rotación y cambio de adscripción;
-
-VI. Cumplir con las obligaciones que les impongan las leyes respectivas;
-
-VII. No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales;
-
-VIII. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio; y
-
-IX. Los demás requisitos que establezcan las disposiciones aplicables.
-
-### CAPÍTULO IV. Designación Especial
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 17 Bis.
 
@@ -605,15 +609,21 @@ Las autoridades estatales y municipales coadyuvarán para el cumplimiento de los
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO IV. Requisitos
+### CAPÍTULO QUINTO
 
-###### ARTÍCULO 18.
+De la política pública para la Garantía de los Derechos Humanos de Niños, Niñas y Adolescentes.
 
-Los Agentes del Ministerio Público podrán ser de designación especial.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Para los efectos de esta Ley, se entiende por agentes del Ministerio Público de designación especial, aquéllos que sin ser de carrera, son nombrados por el Fiscal General, en casos excepcionales, y tratándose de personas con amplia experiencia profesional.
+###### Artículo 18.
 
-Los Agentes del Ministerio Público por designación especial, no serán miembros del Servicio Profesional de Carrera. En cualquier momento se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo.
+El Consejo a través de su Presidencia incorporará dentro del Plan Estatal de Desarrollo, lo referente a los objetivos y estrategias que mediante políticas públicas transversales e integrales se implementarán en el Estado de Coahuila de Zaragoza para garantizar los derechos humanos de niños, niñas y adolescentes.
+
+Dichas políticas públicas garantizarán el ejercicio de los derechos de niños, niñas y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+
+El Consejo deberá establecer medidas y acciones para promover y fortalecer los derechos humanos de niños, niñas y adolescentes, así como consolidar una cultura de respeto y protección de los mismos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 ###### Artículo 18 Bis.
 
@@ -621,13 +631,13 @@ El Consejo deberá elaborar y ejecutar el Programa Estatal de Protección de Ni�
 
 El Programa Estatal de Protección de Niños, Niñas y Adolescentes, deberá alinearse al Plan Estatal de Desarrollo y al Programa Nacional de Protección de Niños, Niñas y Adolescentes.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 19.
+###### Artículo 19.
 
-Los Agentes del Ministerio Público serán adscritos por el Fiscal General del Estado o por los servidores públicos en quienes delegue esta función, a las diversas unidades y órganos de la misma, de conformidad con las disposiciones aplicables.
+La Secretaría Ejecutiva, con la finalidad de lograr la transversalidad de las políticas públicas, supervisará que los programas que las dependencias y entidades públicas generen a favor de niños, niñas y adolescentes, observen el Plan Estatal de Desarrollo, las disposiciones de esta ley, así como las recomendaciones de organismos autónomos e internacionales con facultades para ello. De igual manera, velará porque se observe el cumplimiento de las obligaciones internacionales a nivel estatal y municipal.
 
-### CAPÍTULO V. En Materia de Instituciones de Crédito
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### Artículo 19 Bis.
 
@@ -635,1045 +645,997 @@ La Procuraduría, deberá impedir en el proceso judicial: la realización de pr�
 
 Para efectos de asistir al menor en toda diligencia a la que comparezca, la autoridad deberá en todo momento, solicitar la comparecencia de personal especializado del Centro de Evaluación Psicosocial del Poder Judicial del Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO I. Estructura Orgánica
+### CAPÍTULO SEXTO
 
-###### ARTÍCULO 20.
+De la Procuraduría para Niños, Niñas y la Familia.
 
-El Ministerio Público, por conducto del Fiscal General, podrá solicitar información a las instituciones de crédito respecto de las operaciones a que hace referencia el artículo 46, de la Ley de Instituciones de Crédito. De la misma manera se procederá para los efectos del artículo 4, de la Ley de la Comisión Nacional Bancaria y de Valores.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La información que se obtenga deberá ser utilizada exclusivamente en la investigación o en el proceso penal correspondiente, debiéndose guardar la más estricta confidencialidad.
+###### Artículo 20.
 
-Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+La Procuraduría para Niños, Niñas y la Familia es un organismo público descentralizado de la Administración Pública Estatal, sectorizado al Despacho de la persona titular del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, que tiene por objeto promover y proteger los derechos de niños, niñas y adolescentes.
 
-### CAPÍTULO VI. En Materia de Telecomunicaciones y Radiodifusión
+Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que establezca las representaciones que considere necesarias en las diversas regiones y municipios de la entidad y, que faciliten el cumplimiento de su objeto.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Cuando en la integración de una carpeta de investigación relativa al delito de amenazas o cualesquiera de los delitos graves previstos por el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional, se considere necesaria la solicitud de datos conservados de concesionarios de redes públicas de telecomunicaciones, el Ministerio Público lo solicitará por escrito al Fiscal General, quien hará la petición respectiva en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+###### Artículo 21.
 
-### CAPÍTULO VII. En Materia de Intervención de Comunicaciones
+El patrimonio de la Procuraduría, se constituirá por:
 
-###### ARTÍCULO 22.
+I. Los bienes muebles e inmuebles y demás ingresos que los Gobiernos Federal, Estatal y Municipales le aporten para la realización de su objeto;
 
-Cuando en la investigación de los delitos a que se refiere el artículo anterior, el Ministerio Público considere necesaria la intervención de comunicaciones privadas, lo hará del conocimiento del Fiscal General, quien, de estimarlo procedente, lo solicitará por escrito a la autoridad judicial federal correspondiente, expresando el objeto y necesidad de la intervención; así como los hechos, circunstancias, datos y demás elementos que se pretenda probar.
+II. Los ingresos que perciba conforme a la partida que para el efecto establezca el presupuesto anual de egresos del Estado, así como los que perciba por los servicios que preste en cumplimiento de su objeto, o que le correspondan por cualquier otro título legal;
 
-Las solicitudes de intervención deberán señalar, además, la persona o personas que serán investigadas; la identificación del lugar o lugares donde se realizará; el tipo de comunicación privada a ser intervenida; su duración; y el procedimiento y equipos para la intervención y, en su caso, la identificación de la persona a cuyo cargo está la prestación del servicio a través del cual se realiza la comunicación objeto de la intervención.
+III. Los subsidios y aportaciones permanentes, periódicos o eventuales, que reciba de los Gobiernos Federal, Estatal y Municipales y los que obtenga de instituciones públicas o privadas o de particulares;
 
-Podrán ser objeto de intervención las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
+IV. Las donaciones, legados y herencias que se hicieran a su favor; y
 
-El Ministerio Público ordenará la transcripción de aquellas grabaciones que resulten de interés para la Carpeta de Investigación. La transcripción contendrá los datos necesarios para identificar la fuente de donde fue tomada. Los datos o informes impresos que resulten de la intervención serán igualmente integrados a la averiguación y el Ministerio Público será responsable de su seguridad, cuidado e integridad.
+V. Todos los demás bienes que adquiera por cualquier otro medio legal.
 
-###### ARTÍCULO 23.
+###### Artículo 22.
 
-Si de los datos recabados de los concesionarios de redes públicas de telecomunicaciones o de la intervención de comunicaciones privadas, se tuviera conocimiento de la comisión de delitos diversos de aquéllos que motivaron las peticiones, se hará constar esta circunstancia y se dará intervención a la autoridad competente. Toda actuación del Ministerio Público hecha en contravención a esta disposición, carecerá de valor probatorio.
+Los servicios que presta la Procuraduría son gratuitos. En los procedimientos prevalecerán los principios de interés superior del niño o niña, de protección de la familia y de datos personales, publicidad, oralidad, economía procesal, inmediatez y de solución anticipada de conflictos.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-El Ministerio Público podrá emplear, como elemento probatorio, la vigilancia electrónica. Cuando se empleen registros de video, las secuencias de imágenes que se estimen convenientes serán convertidas a imágenes fijas y se imprimirán para su integración a la indagatoria. En este caso se indicará el medio de donde proviene la imagen, así como el nombre y cargo de la persona que realizó la conversión.
+Para los efectos de este artículo, el principio de publicidad se refiere a la divulgación, por cualquier medio, de las actuaciones de la Procuraduría conforme a la Ley de la materia.
 
-También podrán usarse como material probatorio el video o las imágenes captadas por dispositivos de vigilancia o seguridad de las instituciones públicas, privadas o sociales; así como las captadas por cualquier persona.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Cuando se trate de los supuestos previstos por la Ley de Video Vigilancia del Estado de Aguascalientes, el Ministerio Público podrá solicitar la grabación correspondiente al Comité de Video Vigilancia del Estado de Aguascalientes, el cual atenderá el requerimiento en forma inmediata.
+###### Artículo 23.
 
-### CAPÍTULO VIII. Observancia General
+La Procuraduría estará integrada por:
 
-###### ARTÍCULO 25.
+I. Un Procurador o Procuradora;
 
-Ningún imputado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada.
+II. Un Órgano de Gobierno;
 
-Desde el momento en que tenga a su disposición al imputado, el Ministerio Público le hará saber los motivos de su detención, así como su derecho a guardar silencio y demás prerrogativas que en su favor consagra el artículo 20, de la Constitución Federal.
+III. Una Comisaría;
 
-En las declaraciones de los imputados se dará estricto cumplimiento a lo dispuesto por el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional. Para tales efectos, el acta que se levante con motivo de la declaración, contendrá la reproducción más fiel posible de las manifestaciones del imputado, incluyendo la consulta con su defensor sobre la actitud a asumir.
+IV. Un Órgano Interno de Control;
 
-###### ARTÍCULO 26.
+V. Subprocuradurías Regionales;
 
-Los bienes asegurados por el Ministerio Público serán inventariados por la unidad administrativa que defina el Reglamento de esta Ley. La custodia y administración de dichos bienes se sujetara a lo dispuesto por la normatividad establecida para tal efecto
+VI. Procuradurías Municipales;
 
-El abandono de bienes asegurados será declarado en los términos que señale la Ley correspondiente.
+VII. Defensores;
 
-## TÍTULO VII. SERVICIOS PERICIALES
+VIII. Cuerpo especializado de seguridad pública;
 
-###### ARTÍCULO 27.
+IX. Áreas de medicina, de adopción, psicología y psiquiatría, jurídica, medios alternos de solución de controversias y trabajo social; y
 
-Los Servicios Periciales actuarán bajo la autoridad y mando inmediato directo del Ministerio Público sin perjuicio de la autonomía técnica e independencia de criterio que les corresponde en el estudio de los asuntos que se sometan a su consideración y dictamen.
+X. El demás personal técnico y administrativo necesario.
 
-Los peritos orientarán y asesorarán además al Ministerio Público, cuando así se les requiera, en metería (sic) de investigación criminal y apreciación de pruebas sin que ello comprometa la independencia y objetividad de su función. Serán responsables de la cadena de custodia, recolectarán la evidencia procediendo a su debido embalaje y preservación y pondrán a deposición del Ministerio Público el material sensible significativo que resulte de sus intervenciones.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 28.
+###### Artículo 23-A.
 
-Cuando la Fiscalía General no cuente con Peritos en la disciplina, ciencia o arte de que se trate, o en los casos que así lo requiera, podrá habilitar a cualquier persona que tenga los conocimientos requeridos, estos peritos no formarán parte del servicio profesional de carrera.
+La administración y la dirección de la Procuraduría estarán a cargo del Órgano de Gobierno y del Procurador o Procuradora, de conformidad con lo dispuesto en esta Ley, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-### CAPÍTULO I. Atribuciones
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 29.
+###### Artículo 23-B.
 
-Auxiliar al Ministerio Público en la búsqueda, preservación y obtención de indicios a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación y prosecución de los delitos.
+El Órgano de Gobierno de la Procuraduría estará integrado de la siguiente manera:
 
-###### ARTÍCULO 30.
+I. Un Presidente, que será la persona titular del Poder Ejecutivo;
 
-Establecer los mecanismos de atención y procedimientos de registro, de las solicitudes de Servicios Periciales en las diferentes especialidades, formuladas por el Ministerio público y, en su caso, por los órganos jurisdiccionales y demás autoridades así como de los programas de supervisión y seguimiento de la atención a tales solicitudes
+II. Un Secretario Técnico, que será el Procurador o Procuradora;
 
-###### ARTÍCULO 31.
+III. Por ocho vocales, que serán las personas titulares de:
 
-Brindar asesoría técnica a las unidades administrativas y órganos desconcentrados de la Fiscalía así como a otras instancias que lo requieran, en el ámbito de su competencia.
+a. La Secretaría de Gobierno;
 
-###### ARTÍCULO 32.
+b. La Secretaría de Inclusión y Desarrollo Social;
 
-Diseñar y establecer los requisitos mínimos de los dictámenes e informes, así como emitir, en coordinación con las unidades administrativas competentes, guías y manuales técnicos, que deban observarse en la intervención pericial, y para la formulación de dictámenes de las diversas especialidades periciales dentro del marco de la autonomía técnica de dichos servicios, velando por que se cumplan con las formalidades y requisitos que establezcan las leyes del procedimiento.
+c. La Secretaría de Educación;
 
-### CAPÍTULO II. Disposiciones Generales
+d. La Secretaría de Finanzas;
 
-###### ARTÍCULO 33.
+e. La Secretaría de Salud;
 
-Supervisar técnica y administrativamente la emisión de los dictámenes periciales a efecto de que estos cumplan con la metodología pericial y las normas vigentes.
+f. La Secretaría de Seguridad Pública;
 
-###### ARTÍCULO 34.
+g. La Secretaría del Trabajo; y
 
-Las demás previstas conforme al Código Nacional, el Reglamento de esta ley y las relativas a la normatividad aplicable.
+h. La Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO II. Requisitos de Ingreso
+Los integrantes del Órgano de Gobierno designarán un suplente, quien acudirá excepcionalmente a las sesiones, en aquellos casos en que el titular no pueda estar presente.
 
-###### ARTÍCULO 35.
+Los cargos del Órgano de Gobierno serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
 
-Para ingresar y permanecer como perito adscrito a los Servicios Periciales o como médico legista de la Fiscalía General se requiere:
+El Órgano de Gobierno celebrará sesiones ordinarias de manera trimestral, así como las extraordinarias que estime conveniente su Presidente, o a petición de una tercera parte del total de sus miembros.
 
-I. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
+Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del Órgano de Gobierno.
 
-II. Tener título legalmente expedido y registrado por autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio;
+Las votaciones para los acuerdos del Órgano de Gobierno se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
-III. En su caso, tener acreditado el Servicio Militar Nacional;
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia en la Federación o en las entidades federativas que correspondan;
+###### Artículo 23-C.
 
-V. Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+El Presidente del Órgano de Gobierno tendrá las facultades siguientes:
 
-VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+I. Convocar, a través del Secretario Técnico, a los miembros del Órgano de Gobierno, a las sesiones que se desarrollarán conforme al orden del día que para ese efecto se elabore;
 
-VII. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+II. Dirigir las sesiones del Órgano de Gobierno y declarar resueltos los asuntos en el sentido de las votaciones;
 
-VIII. Presentar y aprobar las evaluaciones de control de confianza y de competencias profesionales; y
+III. Autorizar, en unión del Secretario Técnico, las actas que se levanten de las sesiones que celebre el Órgano de Gobierno;
 
-IX. Los demás requisitos que establezcan otras disposiciones aplicables.
+IV. En general, realizar todos aquellos actos que fueren necesarios para el mejor funcionamiento de la Procuraduría; y
 
-### CAPÍTULO III. Requisitos de Permanencia
+V. Las demás que le confiera el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-###### ARTÍCULO 36.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Son requisitos de permanencia, los siguientes:
+###### Artículo 23-D.
 
-I. Cumplir los requisitos de ingreso durante el servicio;
+El Secretario Técnico del Órgano de Gobierno tendrá las facultades siguientes:
 
-II. Cumplir con los programas de profesionalización que establezcan las disposiciones aplicables;
+I. Asistir a las sesiones que celebre el Órgano de Gobiernocon (sic) voz, pero sin voto;
 
-III. Aprobar los procesos de evaluación de control de confianza, del desempeño, y de competencias profesionales que se establezcan en el Reglamento respectivo y demás disposiciones aplicables;
+II. Someter a la aprobación de los miembros del Órgano de Gobiernoel (sic) calendario para la celebración de las sesiones;
 
-IV. Contar con la certificación y registro actualizados a que se refiere la Ley General del Sistema Nacional de Seguridad Pública;
+III. Tomar las votaciones de los miembros presentes en las sesiones;
 
-V. Cumplir las órdenes de comisión, rotación y cambio de adscripción;
+IV. Elaborar y suscribir, en unión del Presidente y de los vocales que asistieron a las sesiones, las actas correspondientes, así como asentarlas en el libro que para el efecto lleve;
 
-VI. Cumplir con las obligaciones que les impongan las leyes respectivas;
+V. Remitir a los miembros del Órgano de Gobierno, cuando menos con diez días hábiles de anticipación para sesiones ordinarias y un día hábil para sesiones extraordinarias, las convocatorias, el orden del día y la documentación correspondiente a la sesión a celebrarse;
 
-VII. No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales;
+VI. Redactar las comunicaciones oficiales y someterlas a la aprobación del Presidente del Órgano de Gobierno; y
 
-VIII. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio; y
+VII. Las demás que le confiera el Órgano de Gobierno, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-IX. Los demás requisitos que establezcan las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO IV. Designación Especial
+###### Artículo 23-E.
 
-###### ARTÍCULO 37.
+Los vocales del Órgano de Gobierno tendrán las facultades siguientes:
 
-Los Peritos podrán ser de designación especial.
+I. Asistir a las sesiones a las que sean convocados y participar en ellas con voz y voto;
 
-Para los efectos de esta Ley, se entiende por peritos de designación especial, aquéllos que sin ser de carrera, son nombrados por el Fiscal General, en casos excepcionales, y tratándose de personas con amplia experiencia profesional.
+II. Poner a consideración del Órgano de Gobierno los asuntos que estimen necesarios para la eficaz marcha de la Procuraduría;
 
-Los Peritos por designación especial, no serán miembros del Servicio Profesional de Carrera. En cualquier momento se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo.
+III. Emitir las opiniones que les sean solicitadas; y
 
-## TÍTULO VIII. POLICÍA MINISTERIAL
+IV. Las demás que les confiera el Órgano de Gobierno, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-### CAPÍTULO I. Requisitos de Ingreso
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+###### Artículo 24.
 
-###### ARTÍCULO 38.
+El Procurador o Procuradora será designado por la persona titular del Poder Ejecutivo, de conformidad con lo previsto en la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza.
 
-Son requisitos para ingresar a la corporación de Policía Ministerial:
+El Procurador o Procuradora ejercerá las facultades enunciadas en esta Ley y el reglamento interior de la Procuraduría y distribuirá las que corresponda al personal a su cargo.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. En su caso, tener acreditado el Servicio Militar Nacional;
+###### Artículo 25.
 
-III. Estudios de Nivel Superior o equivalente concluidos;
+Las personas a que se refiere el artículo 23 fracciones I y Vdel (sic) presente ordenamiento deberán satisfacer, por lo menos, los siguientes requisitos:
 
-IV. Aprobar el concurso de ingreso y los cursos de formación;
+I. Tener la ciudadanía mexicana y encontrarse en pleno goce de sus derechos civiles y políticos;
 
-V. Aprobar los procesos de Evaluación y Confianza;
+II. Tener título de Licenciado en Derecho y cédula profesional;
 
-VI. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+III. Ser de reconocida honorabilidad; y
 
-VII. No padecer Alcoholismo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VIII. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+IV. Tener experiencia en materia de procuración de justicia o defensa de derechos de niños, niñas y adolescentes.
 
-IX. No estar suspendido o inhabilitado, sin haber sido destituido por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables; y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-X. No haber sido condenado por sentencia irrevocable como responsable de delito doloso, por delito culposo calificado como grave por la ley o estar sujeto a proceso penal.
+###### Artículo 26.
 
-### CAPÍTULO II. Disposiciones Generales
+Quienes estén a cargo de las Subprocuradurías Regionales y Procuradurías Municipales ejercerán las mismas facultades que el Procurador o Procuradora, siempre que sean compatibles con su cargo, pero en todo caso estarán sujetos a las instrucciones que reciban del mismo.
 
-###### ARTÍCULO 39.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Lo relativo a los Agentes de Policía Ministerial y la Carrera Policial se regirá conforme a lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de seguridad Pública de Aguascalientes. Las reglas y procesos en materia de carrera policial y régimen disciplinario de la policía ministerial, serán aplicados, operados y supervisados por la Fiscalía General.
+###### Artículo 27.
 
-###### ARTÍCULO 40.
+La Procuraduría tendrá las facultades y obligaciones siguientes:
 
-La Policía Ministerial actuará bajo la conducción y mando del Ministerio Público.
+I. La promoción y protección de los derechos de niños, niñas y adolescentes, en el ámbito de su competencia;
 
-Conforme al plan de investigación y a las instrucciones que en cada caso dicte el Ministerio Público, la Policía Ministerial desarrollará las diligencias que deban practicarse durante la carpeta de investigación, para lo que realizará las investigaciones, citaciones, cateos, notificaciones, detenciones y presentaciones que le ordene, asimismo ejecutará las ordenes de aprehensión y otros mandamientos que emitan los órganos jurisdiccionales.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-En todo caso, la actuación de la Policía Ministerial se desarrollará con respeto a los derechos humanos consagrados en la Constitución Federal, en la Constitución Local, y en los Instrumentos Jurídicos Internacionales que México ha suscrito.
+II. Elaborar programas tendientes a prevenir, detectar, y atender la violencia familiar, escolar y comunitaria, en el ámbito de su competencia e instrumentar mecanismos, acciones legales y campañas de información necesarias para prevenir el castigo corporal con fines disciplinarios.
 
-El Ministerio Público controlará la legalidad en la actuación de la Policía Ministerial.
+III. Proporcionar asesoría y orientación a las personas que lo soliciten, en todos los asuntos de controversias familiares;
 
-### CAPÍTULO III. Atribuciones
+IV. Impulsar la creación de Procuradurías en cada Municipio del Estado, con especialistas en las áreas de medicina, adopción, psicología y psiquiatría, jurídica, medios alternos de solución de controversias y trabajo social;
 
-###### ARTÍCULO 41.
+V. Establecer y mantener una coordinación adecuada con las Agencias del Ministerio Público; así como con las autoridades de seguridad pública del Estado y los municipios, para lograr, cuando sea necesario, su intervención oportuna y brindar atención a niños, niñas y adolescentes que resulten víctimas de violencia familiar;
 
-La Policía Ministerial auxiliará al Ministerio Público mediante el ejercicio de las siguientes atribuciones:
+VI. Recibir, atender e investigar todo reporte respecto a niños, niñas y adolescentes en riesgo, amenaza, afectación o situación extraordinaria;
 
-I. Investigar los hechos posiblemente delictuosos en los términos que le ordene el Ministerio Público, para lo cual podrá acudir al lugar de los hechos, entrevistarse con personas y autoridades que puedan tener conocimiento de los mismos, vigilar el comportamiento de quienes puedan estar involucrados, obtener información que obre en poder de las autoridades e instituciones públicas, así como localizar, preservar y poner a disposición del Ministerio Público los instrumentos, evidencias, objetos y productos del delito, respetando la cadena de custodia, en los términos que éste y otros ordenamientos jurídicos determinen;
+VII. Recibir y atender todo reporte de las autoridades educativas acerca de situaciones que se presuman afectan el desarrollo educativo de niños, niñas y adolescentes que cursan la educación obligatoria;
 
-II. Documentar el resultado de sus investigaciones mediante la suscripción de informes, toma de fotografías y la grabación de imágenes y sonidos, conforme a las disposiciones contenidas en esta Ley y los demás ordenamientos aplicables;
+VIII. Solicitar al Ministerio Publico y a la Secretaría de Salud la práctica de exámenes médicos o psicológicos necesarios para determinar si un niño, niña o adolescente se encuentra en riesgo, amenaza, afectación o situación extraordinaria; así como la realización de dictámenes periciales necesarios para el desempeño de sus funciones;
 
-III. Investigar cuando tenga noticia de un hecho posiblemente constitutivo de delito que sea (sic) pierdan, destruyan o alteren los instrumentos, evidencias, objetos y productos del ilícito; así como para propiciar la seguridad y el auxilio a las víctimas y ofendidos;
+IX. Decretar custodias de emergencia y separaciones provisionales o preventivas en el seno familiar, respecto de niños, niñas y adolescentes, en los casos que se estimen necesarios;
 
-IV. Detener, en los casos de flagrancia, al probable responsable de los hechos y ponerlo de inmediato a disposición del Ministerio Público;
+X. Promover ante la autoridad judicial los procedimientos de guarda y custodia, pérdidas o suspensión de patria potestad, tutela y adopción de niños, niñas y adolescentes institucionalizados, en los términos previstos en legislación civil y demás disposiciones aplicables;
 
-V. Cumplir las órdenes de localización, presentación, comparecencia y detención que le ordene el Ministerio Público;
+XI. Solicitar ante las autoridades administrativas y judiciales las medidas cautelares o precautorias necesarias, para la atención, protección y restitución de los derechos de niños, niñas y adolescentes que estén en riesgo de sufrir daños a su salud como consecuencia de la violencia familiar;
 
-VI. Ejecutar y vigilar el cumplimiento de las órdenes de restricción y protección, en los términos autorizados por la autoridad judicial o ministerial;
+XII. Representar, a través de los Defensores a niños, niñas y adolescentes ante las autoridades administrativas o judiciales, así como Interponer denuncias o querellas, ante la falta o negativa de quien legalmente corresponda; en los términos de las disposiciones aplicables;
 
-VII. Preservar y vigilar los lugares y objetos que le ordene el Ministerio Público;
+XIII. Conocer y aplicar preferentemente medios alternos y restaurativos de solución de controversias ante situaciones que afecten el bienestar de niños, niñas y adolescentes;
 
-VIII. Asegurar que las órdenes y determinaciones del Ministerio Público sean cumplidas;
+XIV. Determinar, en casos urgentes, las medidas especiales de protección de niños, niñas y adolescentes en situación extraordinaria;
 
-IX. Efectuar y participar en los operativos policiales conforme a las instrucciones que para el efecto reciban;
+XV. Vigilar para que los niños, niñas y adolescentes no sean internados en lugares destinados para la reclusión de adultos y, en su caso, denunciar tales circunstancias ante las autoridades competentes sin perjuicio de lo señalado en la legislación penal vigente en el Estado;
 
-X. Atender los auxilios que se le soliciten en los términos que le sean autorizados; y
+XVI. Coadyuvar en la vigilancia del cumplimiento de las disposiciones laborales aplicables a niños, niñas y adolescentes;
 
-XI. Las demás que los ordenamientos jurídicos dispongan.
+XVII. Proteger el derecho a la identidad de niños, niñas y adolescentes que estén bajo la custodia del organismo, mediante la realización de los trámites necesarios ante las autoridades del Registro Civil, o en su caso mediante el ejercicio de acciones de paternidad o maternidad conforme a la legislación civil;
 
-###### ARTÍCULO 42.
+XVIII. Colaborar con los Sistemas Federal, Estatales y Municipales para el Desarrollo Integral de la Familia;
 
-Los Agentes de Policía Ministerial serán nombrados y removidos por el Fiscal General.
+XIX. Realizar visitas de supervisión a las instituciones públicas y organizaciones de la sociedad civil que alberguen o brinden cuidados alternativos o atiendan a niños, niñas y adolescentes en el Estado;
 
-## TÍTULO IX. OBLIGACIONES Y RESPONSABILIDADES DE LOS MINISTERIOS PÚBLICOS, POLICÍAS Y PERITOS
+XX. Fungir como organismo auxiliar de la administración de justicia del Estado;
 
-### CAPÍTULO I. Causas de Responsabilidad
+XXI. Intervenir en los procesos de adopción de niños, niñas y adolescentes, en los términos de la legislación aplicable;
 
-###### ARTÍCULO 43.
+XXII. Determinar el egreso de niños, niñas y adolescentes que se encuentran bajo la custodia del Estado, de los centros de asistencia social públicos o privados;
 
-Son causas de responsabilidad de los Agentes del Ministerio Público, de los Agentes de la Policía Ministerial y, en lo conducente, de los Peritos:
+XXIII. Promover campañas e instrumentar programas en coordinación con otras dependencias u organismos públicos o privados, encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de la violencia familiar, sus efectos en las víctimas y demás integrantes del núcleo de convivencia, así como de las formas de prevenirla, combatirla y erradicarla;
 
-I. No cumplir, retrasar o perjudicar por negligencia la debida actuación del Ministerio Público;
+XXIV. Incentivar el estudio e investigación sobre maltrato infantil y difundir los resultados que derivan de dichos estudios e investigaciones;
 
-II. Aceptar o ejercer consignas, presiones, dádivas, encargos, o comisiones indebidas;
+XXV. Establecer mecanismos de consulta e intercambio de datos sobre la detección, la atención y los resultados de las investigaciones en materia de maltrato infantil;
 
-III. Distraer de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Fiscalía General;
+XXVI. Difundir por los medios más eficaces, el conocimiento de la presente ley, a efecto de lograr su plena observancia y contribuir con la cultura de legalidad;
 
-IV. No solicitar los dictámenes periciales correspondientes o abstenerse de realizarlos;
+XXVII. Aplicar medidas de apremio y sanciones administrativas cuando procedan; y
 
-V. No trabar el aseguramiento de bienes, objetos, instrumentos o productos de delito y no solicitar el decomiso cuando así proceda en los términos que establezcan las leyes penales;
+XXVIII. Emitir recomendaciones a los servidores públicos o autoridades responsables de la restricción o vulneración de derechos de niños, niñas y adolescentes, mismas que tendrán como finalidad exhortarlos a respetarlos y, en su caso, restituirles en el goce de sus derechos;
 
-VI. Omitir la práctica de las diligencias necesarias en cada asunto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-VII. Abstenerse de promover ante la autoridad judicial el reconocimiento de la calidad de víctima u ofendido en términos de las disposiciones aplicables;
+XXIX. Establecer y operar las Casas del Adolescente en la entidad; y
 
-VIII. Negar indebidamente a la víctima u ofendido el acceso a los fondos contemplados en Ley cuando tenga derecho a ello;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-IX. No registrar la detención conforme a las disposiciones aplicables o abstenerse de actualizar el registro correspondiente;
+XXX. Las demás que se deriven de los ordenamientos aplicables.
 
-X. Incumplir con los requisitos de permanencia previstos en la Ley;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XI. El incumplimiento de las obligaciones previstas en los artículos 44, 45 y 46, de esta Ley;
+###### Artículo 28.
 
-XII. La dilación en las investigaciones. Se considera que existe dilación en las investigaciones cuando, injustificadamente, dejen de realizarse diligencias tendentes a la acreditación del cuerpo del delito y la probable responsabilidad, por un periodo igual o superior a treinta y cinco días hábiles. Se sancionará la conducta descrita en la presente fracción conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes; y
+Las actuaciones practicadas por el Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y Procuradurías Municipales, en ejercicio de sus facultades, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
 
-XIII. Las demás que establezcan otras disposiciones aplicables, en particular las previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El personal de la Procuraduría está obligado a guardar absoluta discreción y reserva acerca de los asuntos que en ella se traten.
 
-### CAPÍTULO II. Obligaciones
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. Atribuciones
+###### Artículo 29.
 
-###### ARTÍCULO 44.
+El Órgano de Gobierno de la Procuraduría tendrá las facultades y obligaciones siguientes:
 
-Son obligaciones de los Agentes del Ministerio Público, los Agentes de la Policía Ministerial y, en lo conducente, de los Peritos, las siguientes:
+I. Expedir el reglamento interior de la Procuraduría;
 
-I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
+II. Otorgar poderes generales o especiales al Procurador o Procuradora;
 
-II. Prestar auxilio a las personas que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos, cuando resulte procedente. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
+III. Establecer, en congruencia con la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza y con el Plan Estatal de Desarrollo vigente, las políticas públicas generales y definir las prioridades y objetivos a los que deberá sujetarse la Procuraduría;
 
-III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, ideología política o por algún otro motivo;
+IV. Aprobar los planes, programas y presupuestos de la Procuraduría, así como sus modificaciones, de acuerdo con (sic) legislación aplicable;
 
-IV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de ello deberán denunciarlo inmediatamente ante la autoridad competente;
+V. Autorizar y ordenar la presentación ante el Congreso del Estado de la cuenta pública de la Procuraduría, en la forma y términos que establezcan las disposiciones aplicables;
 
-V. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+VI. Autorizar, previo informe de la persona titular de la Comisaría y dictamen de los auditores externos, los estados financieros anuales de la Procuraduría, los cuales deberán contener el registro patrimonial de los bienes a su cargo, así como gestionar lo conducente para la publicación de los mismos;
 
-VI. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
+VII. Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios y contratos o acuerdos que deba celebrar la Procuraduría con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios, los que en todo caso deberán sujetarse a la leyes de la materia;
 
-VII. Abstenerse de ordenar o realizar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución Federal y en los ordenamientos legales aplicables;
+VIII. Autorizar la creación interna de comisiones o grupos de trabajo;
 
-VIII. Velar por la vida e integridad física y psicológica de las personas detenidas o puestas a su disposición;
+IX. Autorizar la creación de comités o subcomités técnicos especializados, los cuales estarán integrados por personal de la Procuraduría y, en su caso, por asociaciones, grupos organizados de la ciudadanía relacionados con el objeto de comité o subcomité que se trate;
 
-IX. Participar en operativos de coordinación con otras instituciones de seguridad pública, así como brindarles el apoyo que conforme a derecho proceda;
+X. Dictar las disposiciones que normen la contratación, remuneración y prestaciones, que deban otorgarse a los servidores públicos de la Procuraduría, las que en todo caso deberán sujetarse a los tabuladores autorizados por el Gobierno del Estado;
 
-X. Obedecer las órdenes de los superiores jerárquicos, siempre y cuando sean conforme a derecho, y cumplir con todas sus obligaciones legales;
+XI. Vigilar que los acuerdos de coordinación que se celebren con las dependencias o entidades federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
 
-XI. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan. Podrá negar, de manera fundada y motivada, la expedición de copias cuando ello ponga en peligro las investigaciones que se realicen. El titular del Ministerio Público fijará, mediante acuerdo, los datos e información que sean reservados conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+XII. Analizar y aprobar en su caso, los informes periódicos que rinda el Procurador o Procuradora con la intervención que corresponda a la persona titular de la Comisaría;
 
-XII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por las disposiciones aplicables;
+XIII. Establecer los lineamientos que debe cumplir la Procuraduría en materia de acceso a la información, en términos de las disposiciones en la materia; y
 
-XIII. Usar el equipo a su cargo con la debida responsabilidad y prudencia que exige el cumplimiento de sus funciones, así como conservarlo;
+XIV. Las demás que le otorgue el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-XIV. Abstenerse de abandonar las funciones, comisión o servicio que tengan encomendado, sin causa justificada;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XV. Someterse a los procesos de evaluación en los términos de esta Ley y demás disposiciones aplicables; y
+###### Artículo 30.
 
-XVI. Las demás que se establezcan en las disposiciones aplicables.
+El Procurador o Procuradora tendrá las facultades y obligaciones siguientes:
 
-###### ARTÍCULO 45.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Además de lo señalado en el artículo anterior, los agentes de la Policía Ministerial tendrán las obligaciones siguientes:
+I. Administrar y representar legalmente a la Procuraduría;
 
-I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-II. Remitir a la instancia que corresponda la información recopilada en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro;
+II. Promover y celebrar convenios de colaboración con dependencias, entidades y organismos públicos, así como instituciones o asociaciones de los sectores social y privado con el propósito de que faciliten a la Procuraduría apoyos técnicos y humanos para el mejor desempeño de sus funciones;
 
-III. Entregar la información en tiempo y forma que le sea solicitada por otras instituciones de Seguridad Pública, en términos de las leyes correspondientes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+III. Coordinar las funciones a cargo de la entidad y las labores de las áreas que la componen;
 
-V. Ejecutar los mandamientos judiciales y ministeriales que le sean asignados, así como aquéllos de los que tengan conocimiento con motivo de sus funciones y en el marco de sus facultades;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VI. Obtener y mantener actualizado su Certificado Único Policial;
+IV. Rendir los informes que le sean solicitados por la persona titular del Poder Ejecutivo, el Consejo o la autoridad que tenga competencia para ello, en cualquier tiempo;
 
-VII. Obedecer las órdenes de los superiores jerárquicos, o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VIII. Responder sobre la ejecución de las órdenes directas que reciba, respetando la línea de mando;
+V. Adoptar las medidas que juzgue pertinentes para el eficaz y eficiente desarrollo de las actividades de la Procuraduría;
 
-IX. Hacer uso de la fuerza de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites que se marcan en los procedimientos establecidos en la normatividad institucional;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-X. Permanecer en las instalaciones de la Fiscalía General en que se le indique, en cumplimiento del arresto que les sea impuesto de conformidad con las normas aplicables;
+VI. Designar a las personas titulares de las Subprocuradurías Regionales y Procuradurías Municipales, así como a las personas que temporalmente desempeñarán las funciones inherentes al cargo, en caso de ausencia, falta o excusa de quien sea titular;
 
-XI. Abstenerse de asistir uniformado a bares, cantinas, expendios de bebidas alcohólicas, centros de apuestas o juegos, o prostíbulos u otros centros de este tipo, si no media orden expresa para el desempeño de sus funciones o en casos de flagrancia en la comisión de delitos;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio; y
+VII. Crear, dirigir, coordinar, supervisar y evaluar el desempeño y funcionamiento de las unidades administrativas que le estén adscritas;
 
-XIII. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO III. Impedimentos
+VIII. Ordenar las visitas de supervisión interna y externa que le competen a la Procuraduría;
 
-###### ARTÍCULO 46.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Los Agentes del Ministerio Público y los Agentes de la Policía Ministerial, no podrán:
+IX. Designar al personal técnico y administrativo adscrito a la entidad;
 
-I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o Estatal, en los gobiernos del Distrito Federal o del resto de los Estados integrantes de la Federación y Municipios, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-II. Ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado;
+X. Conocer y resolver sobre los asuntos relacionados con niños y niñas menores de doce años, quienes hayan realizado una conducta tipificada por las leyes penales como delito;
 
-III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador.
+XI. Solicitar el uso de fuerza pública en los casos que se requiera;
 
-### CAPÍTULO IV. Quejas, Infracciones y Sanciones
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 47.
+XII. Proponer el reglamento interior de la Procuraduría, y
 
-Las quejas que se presenten por presuntas irregularidades o por el incumplimiento de las obligaciones a que se refiere este Capítulo, serán tramitadas por la Dirección de Visitaduría, que practicará la visita y, en su caso, hará la denuncia administrativa o penal a que haya lugar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 48.
+XIII. Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la Procuraduría y presentarlos para su aprobación al Órgano de Gobierno;
 
-Se sancionará con destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, a los servidores públicos de la Fiscalía General, o sus auxiliares, que:
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Recaben datos de los concesionarios de redes públicas de telecomunicaciones, en términos distintos de los autorizados en esta Ley;
+XIV. Formular los programas de organización y administración de los recursos humanos, financieros y materiales que conforman la Procuraduría;
 
-II. Revelen, divulguen, comercialicen o utilicen en forma indebida o en perjuicio de otro la información, video o imágenes obtenidas en el curso de las investigaciones;
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Alteren, injustificadamente, de cualquier forma la escena del delito;
+XV. Establecer los métodos y prácticas que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la Procuraduría;
 
-IV. Destruyan, alteren o inutilicen indicios, excepto en los casos en los cuales sea necesario someterlos al análisis pericial;
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-V. Sustraigan indicios, o cualquier otro elemento de prueba, de la escena del delito o de la cadena de custodia; o
+XVI. Establecer los sistemas de control interno necesarios para alcanzar las metas u objetivos propuestos;
 
-VI. Injustificadamente, no pongan a disposición del Servicio de Administración de Bienes Asegurados de la Oficialía Mayor del Gobierno del Estado, los bienes asegurados, en los términos que establezcan las leyes.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-## TÍTULO X. DE LOS AUXILIARES DEL MINISTERIO PÚBLICO
+XVII. Presentar en las sesiones ordinarias del Órgano de Gobierno, el informe de desempeño de las actividades de la Procuraduría, incluido el ejercicio de los presupuestos de ingresos y egresos, y los estados financieros que contemplen los registros patrimoniales de los bienes con que cuente la entidad. En el informe y en los documentos de apoyo, se cotejarán las metas propuestas y los compromisos asumidos con las metas alcanzadas;
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 49.
+XVIII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Procuraduría y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho Órgano;
 
-Son auxiliares del Ministerio Público:
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Directos, y por ende, integrantes de la institución:
+XIX. Proponer al Órgano de Gobierno, en su caso, las reglas de operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
 
-a) La Policía Ministerial del Estado; y
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) Los servicios periciales.
+XX. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
 
-II. Indirectos:
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-a) Las policías preventivas, estatales y municipales;
+XXI. Las demás que le confiera el Órgano de Gobierno, esta Ley, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
-b) Las policías penitenciaria, de vialidad, bancaria o privada;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-c) Los síndicos de los ayuntamientos;
+###### Artículo 31.
 
-d) Los servicios públicos de salud en el Estado;
+La Procuraduría contará con una Comisaría para la vigilancia y supervisión de la entidad, cuyo titular será designado por la Secretaría de Fiscalización y Rendición de Cuentas, en los términos de las disposiciones aplicables.
 
-e) Las y los integrantes del Instituto Aguascalentense de la Mujer y los Institutos Municipales;
+Las facultades de la persona titular de la Comisaría se establecerán en el reglamento interior de la Procuraduría.
 
-f) La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes; y
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-g) Los demás que señalen otras leyes.
+###### Artículo 31-A.
 
-Para los efectos de esta Ley, se entenderá que los auxiliares directos estarán permanentemente a disposición del Ministerio Público. El Ministerio Público ordenará la actividad de los auxiliares indirectos en lo que corresponda exclusivamente a las actuaciones que practiquen en su auxilio, conforme a lo dispuesto en el Código Nacional.
+La Procuraduría contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables en la materia.
 
-###### ARTÍCULO 50.
+###### Artículo 32.
 
-Las unidades de las policías facultadas para el procesamiento del lugar de los hechos, previstas por la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, no podrán intervenir sin la instrucción expresa del Ministerio Público y la supervisión de los peritos.
+Las funciones de la Procuraduría, son de interés público, por lo que en el desempeño de sus actividades podrá solicitar la asistencia y auxilio de las autoridades federales, estatales y municipales.
 
-###### ARTÍCULO 51.
+### CAPÍTULO SÉPTIMO
 
-Los auxiliares del Ministerio Público deberán, bajo su responsabilidad, dar aviso de inmediato a éste, en todos los casos sobre los asuntos en que intervengan con ese carácter, haciendo de su conocimiento los elementos que conozcan con motivo de su intervención.
+Del Cuerpo Especializado de Seguridad Pública.
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-En la investigación de los delitos, todas las policías actuarán bajo la conducción y el mando del Ministerio Público, en términos de lo dispuesto por el artículo 21, de la Constitución Federal, las disposiciones legales aplicables y los protocolos de actuación que se establezcan al respecto.
+###### Artículo 33.
 
-En la investigación del delito, las unidades operativas de investigación de las policías previstas por la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, no podrán intervenir sin la instrucción expresa del Ministerio Público.
+La Procuraduría en su actuar se apoyará del Cuerpo Especializado de Seguridad Pública, área adscrita a esta entidadque (sic) se crea fundamentalmente para prevenir e investigar las afectaciones a derechos de niños, niñas y adolescentes.
 
-Cuando las policías previstas por esta Ley, tomen conocimiento de hechos probablemente constitutivos de delito, dictarán las medidas y providencias necesarias para preservar el lugar de los hechos e impedir que se pierdan, destruyan o alteren los indicios, instrumentos, evidencias, objetos y productos del delito; así como para propiciar la seguridad y el auxilio a las víctimas y ofendidos. De igual manera asegurarán a los probables responsables en los casos en que ello sea procedente, poniéndolos de inmediato a disposición del Ministerio Público.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Tan pronto intervenga el Ministerio Público o la Policía Ministerial en el conocimiento de los hechos, cederán a éstos el mando de las acciones, proporcionándoles todos los datos que hubieren obtenido respecto de los mismos, sin perjuicio de que continúen brindando los apoyos que dichas autoridades dispongan.
+###### Artículo 34.
 
-En cualquier caso, comunicarán los resultados de sus intervenciones al Ministerio Público mediante partes informativos.
+Los miembros del Cuerpo Especializado de Seguridad Pública actuarán bajo el mando directo del Procurador o Procuradora y bajo la coordinación del Consejo Estatal de Seguridad Pública.
 
-## TÍTULO XI. CRITERIOS DE OPORTUNIDAD
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+###### Artículo 35.
 
-###### ARTÍCULO 53.
+Los requisitos de ingreso y permanencia para ser miembro del Cuerpo Especializado de Seguridad Pública serán los mismos que se establecen en el artículo 474 de la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza salvo lo referente al grado de estudios y la especialización para el tratamiento de hechos relacionados con niños, niñas y adolescentes, para lo cual será necesario:
 
-Para el óptimo ejercicio de la acción penal, el Ministerio Público podrá considerar criterios de oportunidad, de acuerdo a lo establecido en el Código de Procedimientos Penales para el Estado de Aguascalientes y en el Código Nacional.
+I. Ser pasante o licenciado en Derecho, Psicología o carrera afín; y
 
-## TÍTULO XII. JUSTICIA ALTERNATIVA
+II. Haber cursado y aprobado el curso de especialización respectivo.
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 54.
+Además se deben satisfacer los requisitos que se desprendan de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-El Ministerio Público buscará, cuando proceda, la solución del conflicto penal mediante la aplicación de las formas alternas que prevé la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y demás disposiciones legales.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. Obligaciones de los Mediadores y Conciliadores
+###### Artículo 36.
 
-###### ARTÍCULO 55.
+Los miembros del Cuerpo Especializado de Seguridad Pública serán nombrados y removidos por el Procurador o Procuradora, de conformidad con las disposiciones del servicio profesional de carrera regulado en la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, siempre que se encuentren dentro de dicho régimen; en caso contrario podrán ser nombrados y removidos libremente por el Procurador o Procuradora.
 
-Son obligaciones de los mediadores y conciliadores, las siguientes:
+El Centro de Profesionalización, Acreditación, Certificación y Carrera dependiente de la Fiscalía General del Estado, así como el Instituto Superior de Estudios de Seguridad Pública del Estado de la Secretaría de Seguridad Pública, serán los responsables de establecer y operar el Servicio Profesional de Carrera Policial de la Procuraduría para Niños, Niñas y la Familia, para lo cual se tomarán las medidas o celebrarán los convenios de colaboración que sean necesarios.
 
-I. Realizar su función en forma rápida, profesional, neutral, imparcial, confidencial y equitativa, con apego a la presente Ley;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Vigilar que en los tramites de mediación y conciliación en los que intervengan, no se afecten derechos de terceros, intereses de menores e incapaces, ni cuestiones de orden público;
+###### Artículo 37.
 
-III. Propiciar soluciones que armonicen los intereses en conflicto, buscando en todo caso la equidad sustantiva entre las partes;
+El Procurador o Procuradora planeará y determinará la distribución y organización del personal de seguridad pública a su cargo.
 
-IV. Auxiliar a las partes en la elaboración del convenio al que llegaren, cuidando siempre que no se afecten intereses de orden público y que prevalezca la igualdad sustantiva;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
-V. Conservar la confidencialidad de los datos, informes, comentarios, conversaciones, acuerdos y posturas de las partes a los cuales tengan acceso con motivo de su función.
+### CAPÍTULO OCTAVO
 
-Por tanto, estarán obligados a conservar en concepto de secreto profesional, todo aquello que hayan conocido al intervenir en los procedimientos de mediación y conciliación e impedidos para fungir como testigos en asuntos relacionados con los negocios en los que hayan sido mediadores o conciliadores. Tampoco podrán ser patrocinadores o abogados en esos asuntos;
+De los Defensores de los derechos de niños, niñas y adolescentes.
 
-VI. Abstenerse de intervenir en asuntos en los que pudiera verse afectada su imparcialidad; y
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-VII. Las establecidas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+###### Artículo 38.
 
-Los mediadores y conciliadores oficiales estarán sujetos a la responsabilidad administrativa y, en su caso, a los procedimientos disciplinarios establecidos en los ordenamientos correspondientes, de acuerdo a la dependencia o institución a la que pertenezcan.
+Los Defensores de los derechos de niños, niñas y adolescentes, dependientes de la Procuraduría, tienen a su cargo la función de promover, proteger y defender los derechos humanos reconocidos en nuestro sistema jurídico.
 
-## TÍTULO XIII. DE LOS MENORES
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+###### Artículo 39.
 
-###### ARTÍCULO 56.
+Los Defensores podrán ser nombrados y removidos libremente por el Procurador o Procuradora.
 
-En la investigación y persecución de hechos punibles en los cuales intervenga como imputado una persona que tenga entre doce años cumplidos y menos de dieciocho años de edad, se deberá de atender a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Investigar los hechos punibles así previstos por las figuras típicas establecidas en el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional con el objeto de comprobar el cuerpo del delito, determinado en la figura típica correspondiente y el establecimiento de la probable responsabilidad;
+###### Artículo 40.
 
-II. Perseguir a los autores, participes o cómplices de los hechos punibles, cuando los probables responsables sean mayores de 12 años y menores de 18 años de edad;
+Para ser Defensor de los derechos de niños, niñas y adolescentes se requiere:
 
-III. Resolver sobre la remisión o no a la autoridad jurisdiccional competente, y todos los actos inherentes a su función acusadora, incluida la obligación de exigir la reparación de los daños y perjuicios;
+I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
 
-IV. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos; y
+II. Tener título de licenciado en derecho registrado ante el Tribunal Superior de Justicia del Estado y cedula profesional;
 
-V. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la normatividad del Sistema de Justicia para Adolescentes, e informar de inmediato al adolescente, a sus familiares a su defensor su situación jurídica, así como los derechos que le asisten.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-## TÍTULO XIV. DE LOS DERECHOS HUMANOS
+III. Acreditar experiencia mínima de tres años en el ejercicio profesional;
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+IV. Aprobar los exámenes, evaluaciones y cursos que correspondan;
 
-###### ARTÍCULO 57.
+V. Gozar de buena reputación y prestigio profesional;
 
-Con el fin de garantizar en su actuación el pleno respeto de los derechos humanos, la Fiscalía General tendrá las atribuciones siguientes:
+VI. No haber sido condenado por delito doloso que amerite pena privativa de libertad;
 
-I. Promover entre los servidores públicos de la Fiscalía General una cultura de respeto a los derechos humanos y a la perspectiva de género;
+VII. Acreditar conocimientos suficientes en la promoción, protección y defensa de los derechos humanos, y
 
-II. Atender las visitas, quejas, propuestas de conciliación y recomendaciones tanto de la Comisión Nacional de los Derechos Humanos, como de la Comisión Estatal de Derechos Humanos, conforme a las normas aplicables;
+VIII. Los demás requisitos que establezca la Procuraduría.
 
-III. Coordinarse, en el ámbito de su competencia, con la Comisión Nacional de los Derechos Humanos y la Comisión Estatal de Derechos Humanos, para promover el respeto a los derechos humanos en la procuración de justicia;
+###### Artículo 41.
 
-IV. Diseñar e implementar políticas públicas con la finalidad de que la actuación del Ministerio Público, la policía de investigación, oficiales, secretarios y peritos, sea respetuosa y garante de los derechos humanos, en concordancia con las normas e instrumentos internacionales en la materia, en los que México sea parte;
+Son facultades de los Defensores:
 
-V. Implementar una capacitación permanente en materia de derechos humanos y perspectiva de género para el personal que labora en la Fiscalía General, sobre la importancia del respeto a los derechos humanos y a la perspectiva de género, tanto de las víctimas del delito como de los imputados;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VI. Recibir las quejas que formulen directamente los particulares en materia de derechos humanos y darles la debida atención; y
+I. Promover acciones para protección de los intereses difusos o colectivos relativos a niños, niñas y adolescentes;
 
-VII. Las demás que establezcan las normas legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-## TÍTULO XV. EXTINCIÓN DE DOMINIO
+II. Interponer acciones para la protección de los derechos de niños, niñas y adolescentes en cualquier juicio, instancia o tribunal;
 
-### CAPÍTULO ÚNICO. De las Atribuciones
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 58.
+III. Promover ante las autoridades judiciales, la tramitación de los juicios relativos a custodias definitivas, pérdidas o suspensiones de la patria potestad, tutelas y los que sean procedentes de niños o niñas institucionalizados o en su representación ante la falta o negativa de quien legalmente corresponda;
 
-Las atribuciones en materia de extinción de dominio, y que ejercerá el Ministerio Público especializado, comprenden:
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Solicitar al juez las medidas cautelares necesarias y, en su caso, su ampliación, respecto de los bienes señalados en la ley de la materia o su ampliación;
+IV. Velar por el efectivo respeto a los derechos y garantías legales de niños, niñas y adolescentes, promoviendo las medidas judiciales, extrajudiciales y administrativas a su alcance;
 
-II. Requerir información o documentos del sistema financiero, a través del juez de extinción de dominio, que puedan servir para la substanciación del procedimiento;
+V. Requerir para el desempeño de sus funciones del apoyo del Cuerpo Especializado de Seguridad Pública, de los servicios de salud y educativos públicos o privados;
 
-III. Vigilar el respeto, durante el transcurso del procedimiento, a las garantías de audiencia y debido proceso del afectado, tercero, ofendido o víctimas del delito;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. Ejercer la acción de extinción de dominio y ser parte en los términos que señale la ley de la materia;
+VI. Brindar asesoría y orientación jurídica de cualquier índole a niños, niñas y adolescentes;
 
-V. Ampliar la acción de extinción de dominio;
+VII. Propiciar, cuando sea procedente, que se recurra a los medios alternos de solución de controversias;
 
-VI. Someter la resolución de improcedencia de la acción de extinción de dominio a revisión del Fiscal General;
+VIII. Recibir todo tipo de manifestación formulada por niños, niñas, cualquier otro miembro de una familia o por terceros, ya sea personalmente o por cualquier otro medio de comunicación, que pueda constituir riesgo, amenaza o afectación de sus derechos;
 
-VII. Someter al visto bueno del Fiscal General el desistimiento de la acción de extinción de dominio;
+IX. Realizar las citaciones y entrevistas que sean necesarias para valorar las solicitudes y aplicación de medidas especiales de protección; y
 
-VIII. Solicitar al Fiscal General la ampliación del término para la preparación de la acción de extinción de dominio;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-IX. Ordenar la búsqueda o solicitar información, a las autoridades correspondientes, de las personas a notificar personalmente de las que no se conozca su domicilio;
+X. Las demás que tengan como propósito la promoción, defensa y protección de los derechos humanos de niños, niñas y adolescentes.
 
-X. Aclarar y subsanar las observaciones que formule el juez por el ejercicio de la acción;
+###### Artículo 42.
 
-XI. Ofrecer los medios de prueba conducentes para acreditar la existencia de los hechos ilícitos y que los bienes son de los señalados en la ley de la materia; y
+Los servicios brindados por los Defensores serán gratuitos, quedando prohibida la participación de gestores e intermediarios.
 
-XII. Presentar los medios de impugnación que señala la ley en la materia, cuando sea procedente; y
+###### Artículo 43.
 
-XIII. Las demás que señale la Ley de Extinción de Dominio para el Estado, el Código Nacional, la presente Ley y otros ordenamientos aplicables para sustentar la acción de extinción de dominio.
+Todas las personas, las dependencias y entidades estatales y municipales y las organizaciones de la sociedad civil están obligadas a colaborar con los Defensores cuando sean requeridos, previo mandamiento escrito debidamente fundado y motivado. Todo aquel que desobedezca u obstaculice el ejercicio de las facultades de los Defensores serán sujetos de sanción administrativa o penal, según corresponda en cada caso concreto.
 
-## TÍTULO XVI. DE LA VIGILANCIA EN LA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO NOVENO
 
-###### ARTÍCULO 59.
+De las medidas especiales de protección y restitución de derechos.
 
-La Fiscalía General, deberá hacer del conocimiento de la autoridad judicial competente las contradicciones de criterios que surjan en juzgados y salas del Supremo Tribunal de Justicia del Estado, asimismo podrá:
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Formular quejas ante el Consejo de la Judicatura del Estado por faltas que a su juicio hubieren cometido los servidores públicos del Supremo Tribunal de Justicia del Estado, sin perjuicio de la intervención que legalmente le corresponda cuando los hechos sean constitutivos de delito;
+###### Artículo 44.
 
-II. Dar a conocer a las autoridades competentes aquellos hechos no constitutivos de delito, que hubieren llegado al conocimiento del Ministerio Público;
+El Estado a través de la presente ley regula medidas especiales de protección y restitución de derechos de carácter administrativo y no afectan de ningún modo las medidas de carácter judicial existentes, sino que tienen el fin primordial de prevenir o sustraer a niños, niñas y adolescentes del riesgo, amenaza o afectación restricción o vulneración de cualquiera de sus derechos de manera inmediata y transitoria mediante resolución administrativa, entretanto se recibe la protección judicial necesaria.
 
-III. Conocer de las quejas por demoras, excesos y faltas del Ministerio Público, Policía Ministerial, Secretarios o Peritos, iniciando los procedimientos legales correspondientes en los términos fijados por las normas reglamentarias y demás disposiciones aplicables e informar a los particulares sobre los procedimientos legales que seguirán;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. Ejercer y desarrollar normas de fiscalización, control, supervisión, vigilancia y demás mecanismos de evaluación técnico-jurídica en todas las unidades del Ministerio Público y sus órganos auxiliares, así como realizar visitas de inspección y vigilancia; y
+###### Artículo 45.
 
-V. Las demás que establezcan las normas legales aplicables.
+La autoridad competente puede imponer una o más medidas especiales de protección y restitución en un sólo caso siempre que se encuentre justificado y sirva para proteger o garantizar los derechos del niño, niña o adolescente.
 
-## TÍTULO XVII. DE LA DIRECCIÓN DE VISITADURÍA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+###### Artículo 46.
 
-###### ARTÍCULO 60.
+Son autoridades competentes para disponer las medidas especiales de protección y restitución de derechos de carácter administrativo, el Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales.
 
-La Dirección de Visitaduría tendrá a su cargo la supervisión y evaluación técnico jurídica, inspección, fiscalización y control del personal de las unidades administrativas y órganos desconcentrados de la Fiscalía General, coadyuvar en la erradicación y prevención de los actos de corrupción al interior de la Fiscalía General, mediante el ejercicio de la función de Órgano de Control Interno, vigilante de las funciones que con motivo de su encargo desempeñan los servidores públicos y, en su caso, instructor del Procedimiento de Responsabilidad Administrativo, de sanción o remoción correspondiente con base en las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La Dirección de Visitaduría tendrá libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público, agentes de la Policía Ministerial, peritos o demás auxiliares del Ministerio Público a quienes se realiza una visita, así como a las instalaciones correspondientes y la documentación, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta Ley, su Reglamento y los acuerdos relativos del Fiscal General del Estado.
+El Procurador o Procuradora podrá disponer de las medidas especiales de protección y restitución de derechos en todo el Estado de Coahuila de Zaragoza. Las personas titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales, sólo podrán hacerlo en el territorio al que fueron asignados.
 
-Los servidores públicos de la Dirección de Visitaduría serán nombrados por el Fiscal General en los términos que determine el Reglamento de esta Ley, y desempeñarán las atribuciones que en el mismo se les confiera.
+En caso de concurrencia, resolverá la autoridad que haya prevenido en el conocimiento de los hechos que justifican la medida especial de protección.
 
-### CAPÍTULO II. Atribuciones de la Dirección de Visitaduría
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 61.
+###### Artículo 47.
 
-Son atribuciones y facultades de la Dirección de Visitaduría:
+Cuando cualquiera de las Procuradurías Municipales conozca de un hecho que resulte de trascendencia e interés público, la Procuraduría de oficio o a petición de la primera podrá solicitar que le remitan las constancias existentes para que previa valoración determine si ejercerá la facultad de atracción para conocer directamente del asunto.
 
-I. Realizar las visitas de inspección y evaluación técnico-jurídicas que determine el Fiscal General a las Unidades Administrativas que integran la Fiscalía General, a fin de observar e inspeccionar los asuntos que en ella se ventilan y rendir el informe correspondiente al Fiscal General, con las propuestas que en su caso resulten conducentes;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-II. Ejercer las normas de control acerca del funcionamiento de la Fiscalía General, de acuerdo con las políticas que determine el Reglamento de esta Ley y demás disposiciones legales aplicables;
+###### Artículo 48.
 
-III. Emitir recomendaciones e instrucciones genéricas o específicas, a los servidores públicos de la Fiscalía General, para subsanar deficiencias detectadas o para la práctica de diligencias que perfeccionen su actuación;
+La Subprocuradurías Regionales y las Procuradurías Municipales tienen la responsabilidad de hacer el seguimiento de las medidas especiales de protección y restitución que hayan ordenado, revisar su aplicación y evaluar su efectividad durante su vigencia, en relación con la finalidad que se tuvo al momento de decretarlas.
 
-IV. Generar las propuestas necesarias para el mejor funcionamiento de la Fiscalía General, que autorice el Fiscal General;
+Las medidas especiales de protección pueden ser sustituidas, modificadas o revocadas por la autoridad que las impuso.
 
-V. Verificar y vigilar que los servidores públicos actúen con estricto respeto a los principios de legalidad, imparcialidad, transparencia, honradez y profesionalismo, a fin de prevenir y combatir la corrupción;
+###### Artículo 49.
 
-VI. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia de la Dirección de Visitaduría, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
+Las medidas reguladas en este capítulo pueden ser solicitadas mediante escrito, en forma verbal o por cualquier otro medio que sea eficaz por:
 
-VII. Iniciar los procedimientos de investigación, cuando en la realización de las visitas de inspección o de los estudios técnico-jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten faltas u omisiones que contravengan esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-VIII. Formular el proyecto de calendario mensual de las visitas de inspección y evaluación técnico-jurídicas a las diversas áreas de la Fiscalía General, y someterlo a consideración del Fiscal General;
+I. El niño, niña o adolescente que sufra de alguna afectación a sus derechos;
 
-IX. Acordar con el Fiscal General, los asuntos relevantes detectados en las visitas de inspección y evaluación técnico-jurídica practicadas por el personal de la Dirección de Visitaduría;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-X. Implementar los mecanismos necesarios para realizar una eficaz supervisión respecto de las actuaciones de los servidores públicos en el ejercicio de sus funciones;
+II. Los Defensores;
 
-XI. Iniciar el procedimiento de oficio o a petición de parte, respecto de la responsabilidad administrativa de algún servidor público de la Fiscalía General, para lo cual deberá de observar lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XII. Podrá iniciar de oficio, cuando con motivo de una visita practicada por el Visitador o los visitadores adscritos, resultare alguna causal de responsabilidad;
+III. El DIF; y
 
-XIII. Integrar en dos tantos los procedimientos de denuncia para sancionar;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-XIV. Iniciar la carpeta de investigación, cuando de la visita técnica-jurídica se desprendan hechos presuntivamente constitutivos de delito cometidos por el servidor público;
+IV. Cualquier persona o entidad que tenga conocimiento de una situación de riesgo, amenaza o afectación de derechos de niños, niñas o adolescentes.
 
-XV. De encontrarse acreditada la probable responsabilidad del imputado y acreditado el cuerpo del delito se procederá a ejercer la acción penal correspondiente;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-XVI. Presentar y formular la imputación y vinculación a proceso ante los órganos jurisdiccionales correspondientes; y
+###### Artículo 50.
 
-XVII. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
+El reporte que para tales efectos levante la Procuraduría, consignará la conducta denunciada, las circunstancias de su realización y, cuando sea posible, el nombre, edad, domicilio, vínculos familiares o de otro tipo existente entre las personas involucradas, así como todos aquellos datos que consideren necesarios para diagnosticar la situación de sus derechos.
 
-## TÍTULO XVIII. ATENCIÓN A VÍCTIMAS DEL DELITO
+La Procuraduría garantizará, en todo momento, el resguardo de la identidad de quien presente una denuncia o aporte datos que coadyuven en la investigación de la misma, si así lo solicita.
 
-### CAPÍTULO I. Obligaciones de la Fiscalía General
+Del mismo modo se debe garantizar el derecho de audiencia y defensa de la persona que pudiera resultar afectada por la intervención de la Procuraduría notificándole la existencia del reporte y concediéndole un término prudente para que realice las manifestaciones que tenga a su favor.
 
-###### ARTÍCULO 62.
+###### Artículo 51.
 
-La Fiscalía General deberá proporcionar la protección y auxilio a las personas que sean víctimas u ofendidos de algún delito o de conductas tipificadas como tales.
+Una vez recibido el reporte, la Procuraduría ordenará de manera inmediata las actuaciones que sean pertinentes para su investigación, otorgando la atención y asistencia necesarias.
 
-###### ARTÍCULO 63.
+En caso de no ser competente para conocer de la misma, se canalizará ante la autoridad correspondiente.
 
-La Fiscalía General, en materia de atención a víctimas tendrá las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+###### Artículo 52.
 
-I. Proporcionar a las víctimas u ofendidos del delito o de conductas tipificadas como tales, los servicios de asistencia médica, psicológica y psiquiátrica de urgencia; así mismo, canalizar a dichas víctimas u ofendidos a la Secretaría General de Gobierno, para recibir los servicios de asesoría jurídica gratuita;
+La Procuraduría por si o a través de los Defensores podrá girar citatorios, realizar investigaciones e implementar las acciones necesarias para constatar los hechos denunciados, detectados o recibidos, para lo cual se apoyará del cuerpo especializado de seguridad pública y/o de las autoridades competentes.
 
-II. Solicitar la colaboración de las dependencias e instituciones, así como la de particulares, para el debido cumplimiento de sus objetivos;
+La Procuraduría deberá levantar acta circunstanciada de las diligencias que lleve a cabo para la investigación de cada uno de los casos, y recabará las pruebas fehacientes que fueren necesarias para dar cumplimiento a lo dispuesto en esta ley.
 
-III. Celebrar los convenios necesarios con instituciones públicas o privadas para el cumplimiento de sus objetivos; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. Las demás que le confieran otros ordenamientos jurídicos aplicables.
+###### Artículo 53.
 
-### CAPÍTULO II. De los Derechos de la Víctima
+Una vez que se tenga información sobre un posible riesgo, amenaza, afectación restricción o vulneración de los derechos de un niño, niña, o adolescente, se podrá solicitar al personal del cuerpo especializado de seguridad pública que realicen la investigación que sea necesaria para diagnosticar la situación de sus derechos.
 
-###### ARTÍCULO 64.
+Así mismo, cuando sea necesario, se solicitará a los departamentos de trabajo social, psicología y psiquiatría la práctica de los exámenes que se estimen necesarios.
 
-Durante la Carpeta de Investigación y el proceso penal, la víctima u ofendido del delito, tendrá los derechos a que se refiere la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-## TÍTULO XIX. OFICIALÍA MAYOR
+###### Artículo 54.
 
-### CAPÍTULO ÚNICO. Atribuciones de la Oficialía Mayor
+La Procuraduría podrá, por acuerdo del Procurador o Procuradora o, en su caso, de quienes ocupen las Subprocuradurías Regionales o Procuradurías Municipales, separar preventivamente al niño, niña, o adolescente de la situación considerada como de riesgo, amenaza o afectación restricción o vulneración y, en su caso, de su hogar o de quien ejerza la patria potestad, tutela, guarda y custodia legal o de hecho, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su integridad física o mental, aun cuando no se hayan concluido las investigaciones a que se refiere el artículo anterior.
 
-###### ARTÍCULO 65.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-La Oficialía Mayor tendrá a su cargo, el manejo y supervisión de los recursos materiales, humanos y financieros de la Fiscalía General, en términos de lo previsto en el Reglamento de esta ley.
+Al llevar a cabo la medida a que se refiere este artículo, la Procuraduría deberá comparecer ante las autoridades judiciales correspondientes, acompañando las constancias respectivas, en un plazo que no excederá de setenta y dos horas, a efecto de que dicha medida sea ratificada, se dicten las medidas judiciales que resulten aplicables o se resuelva lo conducente.
 
-En lo concerniente a la relación laboral de los trabajadores de la Fiscalía General se observará lo dispuesto en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados y la Constitución Federal.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-## TÍTULO XX. CONSEJO DE PROFESIONALIZACIÓN
+###### Artículo 55.
 
-### CAPÍTULO ÚNICO. De las Facultades del Consejo
+El Estado, a través de los encargados de los centros con que el DIF cuente para ello, ejercerá la guarda y custodia de niños, niñas y adolescentes en los centros de asistencia pública o privada, así como con familias de acogimiento pre-adoptivas que determine para tal efecto, privilegiando cuando esto sea posible que los hermanos queden juntos, en tanto no se resuelva en definitiva la situación jurídica.
 
-###### ARTÍCULO 66.
+El personal de la Procuraduría realizará visitas periódicas a los lugares a que se refiere el párrafo que antecede, a efecto de vigilar la atención y cuidados que se brinden a niños, niñas y adolescentes, pudiendo llevar a cabo las acciones conducentes a su protección y salvaguarda.
 
-El Consejo de Profesionalización tendrá las facultades siguientes:
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Normar, desarrollar, supervisar y evaluar el Servicio Profesional de Carrera y establecer políticas y criterios generales para tal efecto, de conformidad con las disposiciones aplicables;
+###### Artículo 56.
 
-II. Aprobar las convocatorias para ingreso o ascenso del personal de carrera;
+Toda persona o institución que tenga bajo su custodia o cuidado a niños, niñas y adolescentes que hayan sido sustraídos de situaciones de riesgo, amenaza, afectación, restricción o vulneración de sus derechos, deberán permitir el contacto del personal de la Procuraduría con los mismos y deberán presentarlos para las entrevistas y diligencias que deban llevarse a cabo, bajo apercibimiento de que en caso de no cumplir con lo anterior se hará el retiro de la persona, sin perjuicio de las demás responsabilidades administrativas, civiles y penales en que pueda incurrir.
 
-III. Aprobar los resultados de los concursos de ingreso y de ascensos del personal de carrera;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. Recomendar al Fiscal General del Estado la adscripción inicial y los cambios de adscripción del personal de carrera;
+###### Artículo 57.
 
-V. Resolver en única instancia el procedimiento de separación del servicio a que se refiere esta Ley, así como respecto de las solicitudes de reingreso que le sean presentadas de acuerdo con las normas aplicables;
+Para la investigación de la situación de riesgo, amenaza, afectación, restricción o vulneración, la Procuraduría realizará todas las acciones conducentes para el esclarecimiento del caso, pudiendo solicitar, tratándose de notoria urgencia y bajo su responsabilidad, el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias cuando el cuerpo especializado de seguridad pública a su cargo no sea suficiente.
 
-VI. Establecer criterios y políticas generales de capacitación, formación, actualización, especialización, rotación, cambio de adscripción y licencias del personal de carrera;
+###### Artículo 58.
 
-VII. Dictar las normas necesarias para la regulación de su organización y funcionamiento; y
+En caso de oposición de particulares para que se lleve a cabo una medida de protección y ante la imposibilidad de aplicarla, la Procuraduría denunciará los hechos ante el Ministerio Público y solicitará al Juez competente las acciones de protección necesarias, en términos de las disposiciones legales aplicables.
 
-VIII. Las demás que le otorguen las disposiciones reglamentarias del Servicio Profesional de Carrera.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-## TÍTULO XXI. SERVICIO PROFESIONAL DE CARRERA DEL MINISTERIO PÚBLICO Y PERITOS
+###### Artículo 59.
 
-### CAPÍTULO I. Disposiciones Generales
+La Procuraduría procederá a solicitar a la autoridad judicial competente la pérdida o suspensión de la patria potestad, si la situación de riesgo, amenaza o afectación restricción o vulneración persiste durante los noventa días posteriores a la ratificación de la medida o de haberse dictado la medida judicial que haya resultado aplicable. En caso contrario se procurará la reintegración de la familia estableciendo el modo en que ésta deberá realizarse y las obligaciones a cargo de las personas responsables de los niños, niñas y adolescentes.
 
-###### ARTÍCULO 67.
+Se podrá solicitar una prórroga por el mismo tiempo al juez competente cuando el caso y las circunstancias lo ameriten.
 
-El Servicio de Carrera permite a los integrantes del Ministerio Público y a los peritos de la Fiscalía General, desarrollar sus conocimientos, capacidades, habilidades y actitudes, así como reforzar sus valores a fin de alcanzar en forma integral su desempeño profesional, fomentando el sentido de pertenencia institucional, garantizando que la aplicación de las reglas para el ingreso, desarrollo, permanencia y terminación sea objetiva, justa, transparente e imparcial.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-El Reglamento de esta Ley establecerá las categorías del Servicio de Carrera ministerial y pericial, así como la regulación para el desarrollo e implementación del mismo.
+Determinada la imposibilidad de reintegrar al niño, niña o adolescente, y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría podrá iniciar el procedimiento de adopción correspondiente, previa opinión del Consejo Técnico de Adopciones, en los términos de esta ley y demás disposiciones aplicables.
 
-### CAPÍTULO II. Bases del Servicio Profesional de Carrera
+###### Artículo 60.
 
-###### ARTÍCULO 68.
+La Procuraduría, con independencia de las medidas urgentes que lleve a cabo, deberá solicitar a la autoridad judicial competente que de vista al Ministerio Público de hechos posiblemente constitutivos de delito o bien, presentará la denuncia correspondiente.
 
-El Servicio Profesional de Carrera se organizará de conformidad con las bases siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, cursos, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende;
+###### Artículo 61.
 
-II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. Tendrá como objetivos la preparación, competencia, capacidad y superación constante;
+A fin de garantizar el derecho de un niño o niña expósito a ser inscrito inmediatamente después de ser encontrado, el derecho a un nombre y a adquirir una nacionalidad conforme al artículo 7 de la Ley de Nacionalidad, la Procuraduría solicitará ante la autoridad competente que el Registro Civil realice el registro provisional conforme a lo establecido en la legislación de la materia.
 
-III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará la profesionalización y el ejercicio de atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarios para el desempeño del servicio público;
+La omisión del registro provisional que se menciona en este artículo por la autoridad que tenga la obligación de solicitarlo o realizarlo acarrea la responsabilidad administrativa que corresponda por negligencia.
 
-IV. Contará con un sistema de rotación del personal;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-V. Determinará los perfiles, niveles jerárquicos en la estructura y de rangos;
+###### Artículo 62.
 
-VI. Contará con procedimientos administrativos y disciplinarios, sustentados en principios de justicia y con pleno respeto a los derechos humanos;
+Los directores y el personal encargado de los centros de salud, educativos, albergues, guarderías, estancias infantiles o cualquier otro sitio donde permanezcan, se atienda o se le preste algún servicio a niños, niñas o adolescentes, sean públicos o privados, están obligados a reportar a la Procuraduría para los Niños, Niñas y la Familia, cualquier condición o circunstancia de la cual pudiera derivar la sospecha de que exista una situación de riesgo, amenaza o bien denunciar cualquier afectación de los derechos de los mismos.
 
-VII. Buscará el desarrollo, ascenso y dotación de estímulos con base en el mérito y la eficiencia en el desempeño de funciones;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-VIII. Promoverá el sentido de pertenencia institucional;
+###### Artículo 63.
 
-IX. Contendrá las normas para el registro y el reconocimiento de los certificados del personal;
+La Procuraduría una vez que reciba a un niño, niña o adolescente que por las circunstancias especiales en las que se encontraba se determina que no se trata de expósito y no sea posible determinar su identidad, recabará la información necesaria para identificarlo.
 
-X. Contendrá las normas para el registro de las incidencias del personal; y
+En caso de existir indicios de maltrato, tortura o cualquier otra afectación a su integridad física o mental se realizará la denuncia penal que corresponda ante el Ministerio Público.
 
-XI. Las demás que señalen las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 69.
+Hecho lo anterior, si es posible, la Procuraduría entrevistará al niño, niña o adolescente, tomando en cuenta su edad y capacidad intelectual, para que éste proporcione información útil para determinar su identidad o encontrar a sus padres u otros familiares.
 
-El Servicio Profesional de Carrera implementará las reglas que garanticen el ingreso, el desarrollo, la permanencia y la terminación de los servidores públicos que ingresen a él, conforme a lo siguiente:
+Con la información obtenida, se dará vista al Ministerio Público y se ordenará cuanta diligencia sea necesaria para dar con el paradero de sus familiares para lo cual podrá solicitar información o auxilio a otras autoridades o a particulares que pudieran contribuir a su búsqueda y localización.
 
-I. Ingreso. Comprende los requisitos y procedimientos de reclutamiento, selección, inducción y certificación inicial, así como su registro;
+###### Artículo 64.
 
-II. Desarrollo y permanencia. Abarca los requisitos y procedimientos de formación continua y especializada, de actualización, de profesionalización, de evaluación al desempeño para la permanencia, de ascenso, de estímulos y reconocimientos, de reingreso y de certificación; y
+La Procuraduría a través de un Defensor podrá iniciar procedimiento no contencioso que tendrá por objeto determinar su identidad o la de sus familiares. Para tal efecto, en el escrito correspondiente, deberá informar al Juez que resulte competente lo siguiente:
 
-III. Terminación. Comprende las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos, los recursos y también contemplará un esquema de vinculación que permita aprovechar la experiencia y capacidad de los empleados jubilados y en retiro en los términos del Reglamento de esta Ley.
+I. El nombre que haya manifestado y/o descripción física haciendo notar su edad aparente y cualquier marca o cicatriz permanente que lo identifique particularmente;
 
-### CAPÍTULO III. Reclutamiento y Permanencia del Ministerio Público y Peritos
+II. Nombre y cédula profesional del Defensor asignado quien actuará como representante de la Procuraduría;
 
-###### ARTÍCULO 70.
+III. Domicilio para oír y recibir notificaciones;
 
-El reclutamiento se efectuará mediante el procedimiento de convocatoria a quienes cumplan los requerimientos exigidos para el ingreso;
+IV. Lugar donde se encuentra internado;
 
-###### ARTÍCULO 71.
+V. Prestaciones entre las que se solicitaran provisional y necesariamente:
 
-La selección es el procedimiento mediante el cual se eligen a los candidatos que participaron en los concursos de oposición libre o bien de oposición internos y que mediante dictamen de la comisión reúnen los requisitos para ocupar la categoría a la que concursaron.
+a) El reconocimiento de la tutela legítima a favor de la Procuraduría;
 
-Los resultados de los concursos se pondrán a disposición de los participantes que lo soliciten.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 72.
+b) La guarda y custodia provisional a favor de instituciones públicas u organizaciones de la sociedad civil que alberguen niños, niñas o adolescentes;
 
-La inducción es el procedimiento mediante el cual se proporciona al servidor público de reciente ingreso al puesto, la información sobre la institución, su naturaleza, objetivos, visión y misión, el organigrama con los rangos de mando y toda aquella información inherente a su cargo.
+c) La búsqueda de su identidad o de sus padres o familiares según sea el caso; y
 
-###### ARTÍCULO 73.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Son requisitos de permanencia de los Agentes del Ministerio Público y de los peritos, los siguientes:
+d) El registro provisional del niño, niña o adolescente ante el Registro Civil cuando no se tenga certeza sobre su identidad.
 
-I. Cumplir los requisitos de ingreso durante el servicio;
+VI. Lugar, fecha, hora y circunstancias en que fue encontrado;
 
-II. Cumplir con los programas de profesionalización que establezcan las disposiciones aplicables;
+VII. En su caso, nombre y domicilio de la persona que lo localizó o presentó ante la Procuraduría;
 
-III. Aprobar las evaluaciones correspondientes y la de control de confianza;
+VIII. Las pruebas con que cuenta la Procuraduría; y
 
-IV. Contar con la certificación y registro actualizados;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-V. Cumplir las órdenes de rotación;
+IX. Las demás que establezca la legislación civil aplicable.
 
-VI. Cumplir con las obligaciones impuestas en esta ley y demás normatividad aplicable; y
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2015, EN LOS CASOS EN QUE SE REFIERAN A HOGAR SUSTITUTO O A HOGAR PROVISIONAL, DEBERÁ ENTENDERSE COMO FAMILIA DE ACOGIDA O FAMILIA DE ACOGIMIENTO PRE - ADOPTIVA RESPECTIVAMENTE.]</small>
 
-VII. Los demás requisitos y condiciones que establezcan las disposiciones conducentes.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 74.
+###### Artículo 65.
 
-El Fiscal General en casos excepcionales podrá designar a personas que acrediten tener amplia experiencia o especialización en la materia, para ocupar alguno de los cargos que comprenda el Servicio de Carrera, dispensando la presentación de los concursos de ingreso u oposición.
+Sin perjuicio de lo anterior, la Procuraduría tendrá la facultad de nombrar un hogar sustituto: de forma temporal conforme a la legislación civil vigente.
 
-Dichas personas deberán satisfacer los requisitos de ingreso y permanencia, según corresponda, establecidos en esta Ley y en su reglamento, y están obligados a seguir los programas de desarrollo que se establezcan para su capacitación, actualización y especialización.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 75.
+###### Artículo 66.
 
-Los integrantes del Ministerio Público y los peritos deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca el Reglamento de esta Ley. En caso de que resulten no aptos en las evaluaciones podrán ser separados de su cargo sin responsabilidad para la Fiscalía General.
+Una vez recibido y admitido el inicio del procedimiento no contencioso, el Juez ordenará, siempre que sea posible y conducente, realizar una búsqueda en la base de datos del Registro Civil o cualquier otra institución pública u organización de la sociedad civil dentro del Estado, que pudiera proporcionar información para determinar la identidad del niño, niña o adolescente, o para localizar a su familia.
 
-Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán datos confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos ante autoridad administrativa, ministerial o jurisdiccional.
+También ordenará al Registro Civil que realice el registro provisional. Este registro provisional quedará sin efectos una vez que se determine la existencia previa de la identidad legal de la persona; si no es así se le dará el carácter de expósito o abandonado.
 
-###### ARTÍCULO 76.
+###### Artículo 67.
 
-Las solicitudes de reincorporación al Servicio Profesional de Carrera de la Fiscalía General se analizarán y en su caso, concederán con arreglo a lo que establezca esta ley, su Reglamento y demás disposiciones, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un procedimiento de responsabilidad administrativa o penal, local o federal.
+Una vez que se determine y acredite documentalmente la identidad de los padres o familiares, la Procuraduría realizará la investigación pertinente para evaluar si la reintegración a la familia es lo más benéfico, evitando poner en peligro su integridad física o mental.
 
-Terminación (sic)
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO IV. Terminación y Separación del Servicio Profesional
+###### Artículo 68.
 
-###### ARTÍCULO 77.
+Si durante la tramitación del procedimiento comparece una persona que se identifica como familiar distinto a los padres y se presume que estos últimos han incurrido en un hecho que amerita la pérdida o suspensión de la patria potestad, previa investigación de la Procuraduría, deberá estarse a lo dispuesto en la legislación civil respecto a la tutela, la guarda y la custodia.
 
-La terminación de Carrera será:
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. Ordinaria, que comprende:
+###### Artículo 69.
 
-a) Renuncia; y
+Si transcurridos 90 días naturales contados desde el inicio del procedimiento no contencioso y habiendo agotado todos los mecanismos legales a su alcance, no se tuviere noticia alguna sobre la identidad del niño, niña, adolescente, o su familia el Juez ordenará su inscripción definitiva en el Registro Civil y otorgará la tutela a favor de la Procuraduría conforme a la legislación civil del Estado.
 
-b) Incapacidad permanente total para el desempeño de las funciones; y c) Jubilación.
+###### Artículo 70.
 
-II. Extraordinaria, que comprende:
+Si como resultado de la investigación se determina únicamente la identidad pero no la ubicación de los padres o familiares, se podrá solicitar la declaración de suspensión o pérdida de la patria potestad de quienes en los registros aparezcan como sus padres según corresponda, salvo que existan elementos de prueba que hagan presumir una posible afectación a derechos en materia familiar.
 
-a) Separación por el incumplimiento de los requisitos de ingreso y permanencia; o
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-b) Remoción por incurrir en las causas señaladas en la presente ley.
+###### Artículo 71.
 
-###### ARTÍCULO 78.
+Cuando la Procuraduría, el DIF o alguna organización de la sociedad civil adquieran la guarda y custodia definitiva de un niño, niña o adolescente y obtengan datos sobre sus padres o familiares, la Procuraduría en su calidad de tutor podrá exigirles el pago de alimentos ante la autoridad judicial.
 
-La separación del Servicio de Carrera ministerial y pericial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a las siguientes reglas y las demás que se establezcan en el Reglamento de esta Ley:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Se deberá presentar reporte fundado y motivado ante la Dirección de Visitaduría, en el cual deberá señalarse el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el integrante del Servicio de Carrera de la Fiscalía General, adjuntando o señalando los documentos y demás pruebas que se considere pertinentes;
+###### Artículo 72.
 
-II. La Dirección de Visitaduría notificará el reporte al servidor público respectivo y lo citará a una audiencia, dentro de los tres días hábiles siguientes, para que manifieste lo que a su derecho convenga, y adjunte los documentos y demás elementos probatorios que estime procedentes;
+El Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y las Procuradurías Municipales tienen la facultad de realizar labores de inspección y vigilancia por sí o a través del personal que designe para tal efecto sin necesidad de previo aviso en instituciones públicas o privadas que brinden acogimiento residencial a niños, niñas, o adolescentes para verificar el cumplimiento de la presente Ley.
 
-III. Una vez desahogada la audiencia y agotadas las diligencias correspondientes, la Dirección de Visitaduría, en un término que no excederá de cinco días hábiles emitirá un dictamen proponiendo la determinación respectiva, dando cuenta de ello al Fiscal General para efectos de su resolución y respectiva aplicación;
+###### Artículo 73.
 
-IV. Contra la resolución emitida no procederá recurso alguno;
+Para llevar a cabo la inspección y vigilancia la Procuraduría actuará del siguiente modo:
 
-La Dirección de Visitaduría podrá allegarse en todo momento de los elementos probatorios y realizar las diligencias que estime necesarios para emitir la determinación que corresponda; y
+I. Se emitirá el acto administrativo que ordene la inspección y vigilancia, señalando además quien la llevará a cabo y los puntos sobre los que versará;
 
-V. En lo no previsto y en lo que no se oponga, el procedimiento para la separación del Servicio de Carrera ministerial y pericial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a lo dispuesto para el procedimiento de responsabilidad administrativa procedente contemplado en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 79.
+II. El Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales o el personal designado para tal efecto, se presentará en el domicilio de la institución, ante el administrador o encargado de la misma o con la persona que lo reciba cuando no se encuentre aquel, mostrando el documento que acredite su personalidad, y manifestará el motivo de su visita, solicitando que la persona que atienda se identifique, otorgándole copia del acto administrativo mediante el cual se haya ordenado la inspección y se levantará la constancia correspondiente;
 
-La remoción del Servicio de Carrera se aplicará de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO V. De la Comisión del Servicio Profesional
+III. Inmediatamente después se solicitará que se permita el acceso a las instalaciones de la Institución pública o privada. Si existe negativa u oposición, tal circunstancia se asentará en el acta que se levante para tal efecto y se presumirá que los niños, niñas, o adolescentes se encuentran en riesgo;
 
-###### ARTÍCULO 80.
+IV. Permitido el acceso, la institución debe asignar a una persona que servirá de guía, estará presente durante todo el recorrido, podrá manifestar lo que estime pertinente y deberá firmar la constancia que se levante; y
 
-El Reglamento de esta Ley deberá regular la organización de una Comisión del Servicio de Carrera del Ministerio Público y Peritos, el cual se integrará por:
+V. Concluida la inspección se entregará copia del acta que se levante a la persona asignada y a partir de ese momento la Procuraduría tiene un plazo de diez días para emitir una resolución que confirme el apego de la institución a la normatividad aplicable, emitir las recomendaciones que estime pertinentes o actuar conforme a las disposiciones legales aplicables.
 
-I. El Fiscal General, quien la presidirá;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-II. Un Vice Fiscal designado por insaculación realizada por la Dirección de Visitaduría;
+###### Artículo 74.
 
-III. El Director del Servicio de Carrera; y
+Cualquier persona que tenga conocimiento de que un niño, niña o adolescente sufre maltrato o violencia familiar, deberá informar inmediatamente a la Procuraduría, la cual, bajo su responsabilidad realizará las actuaciones que estime necesarias para asegurarse de la existencia o no de vulneración o restricción a sus derechos.
 
-IV. Un Agente del Ministerio Público y un Perito de la Fiscalía General, ambos designados mediante el proceso de insaculación, que realizará la Dirección de Visitaduría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 81.
+###### Artículo 75.
 
-La Comisión del Servicio de Carrera del Ministerio Público y Peritos tiene por objeto administrar, diseñar y ejecutar los lineamientos del Servicio de Carrera de ministerios públicos y peritos, comprendiendo las etapas del mismo desde el reclutamiento hasta la separación del servicio, establecerá y publicará la forma y criterios de evaluación para el ingreso y promoción de los servidores públicos del Servicio de Carrera y resolverá sobre la designación de los servidores públicos con base en la evaluación.
+Tales actuaciones podrán realizarse en el hogar, escuela o en el lugar donde sea posible localizar al niño, niña, adolescente, sus padres o la persona que lo tenga a su cargo, a través del personal de la Procuraduría y podrán consistir en:
 
-###### ARTÍCULO 82.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-Los integrantes de la Institución del Ministerio Público deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
+I. Entrevista que no requerirá más trámite que la presunción de existencia de vulneración o restricción a sus derechos;
 
-Los Agentes del Ministerio Público y los peritos quedarán sujetos al Servicio de Carrera, excepto aquellos que hayan sido nombrados por designación especial, en los términos de esta Ley.
+II. Inspección ocular;
 
-Los agentes de la Policía Ministerial se regirán conforme a las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública.
+III. Examen médico; y
 
-El personal de base deberá aprobar las evaluaciones de control de confianza, del desempeño y de competencias profesionales que establece esta Ley y estará sujeto al sistema de profesionalización que establezcan las disposiciones aplicables. En caso de que resulten no aptos, se darán por terminados los efectos del nombramiento, conforme a lo dispuesto por el Apartado B del Artículo 123 Constitucional.
+IV. Examen psicológico o psiquiátrico.
 
-Las funciones del personal distinto del ministerial, policial y pericial, así como del señalado en el párrafo anterior, son de confianza para todos los efectos legales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-Dicho personal estará sujeto a la evaluación de control de confianza, del desempeño y de competencias profesionales y al programa de profesionalización que se establezca; en ningún caso será considerado miembro de los servicios de carrera, y los efectos de su nombramiento podrán darse por terminados en cualquier momento.
+###### Artículo 76.
 
-La Fiscalía General contará con un programa de profesionalización en el que deberá participar todo el personal de la misma, cuyas características estarán contenidas en el Reglamento de esta Ley y demás normas aplicables.
+Si se acredita la posible existencia de vulneración o restricción a sus derechos, la Procuraduría decretará:
 
-## TÍTULO XXII. DETERMINACIONES GENERALES EN LAS CARPETAS DE INVESTIGACIÓN
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+I. La custodia de emergencia cuando la persona receptora de violencia sea niño, niña o adolescente;
 
-###### ARTÍCULO 83.
+II. La separación provisional o preventiva del seno familiar cuando la persona receptora de violencia sea mayor de edad en pleno goce de sus facultades; y
 
-Si en la Carpeta de Investigación, el Ministerio Público determine a el archivo temporal, elaborará la propuesta de determinación correspondiente de manera fundada y motivada. Dicha propuesta será sometida a la consideración del Vice Fiscal que corresponda, quien podrá autorizarla o rechazarla.
+III. La orden de alejamiento temporal de la persona posiblemente generadora de violencia o la prohibición de acercarse a determinado lugar cuando por la conducta de la persona generadora de violencia se corra el peligro de sufrir cualquier tipo de daño a la integridad física o mental de quien sea receptor de violencia.
 
-###### ARTÍCULO 84.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-El Vice Fiscal de Investigación de Delitos vigilará que en la propuesta se haya calculado y establecido el término de prescripción del ejercicio de la acción penal derivada del probable hecho punible.
+###### Artículo 77.
 
-No obstante haber sido autorizado el archivo temporal, si la prescripción del ejercicio de la acción penal derivada del probable hecho punible se da por causas imputables al Ministerio Público, se dará vista a los órganos de supervisión, control y vigilancia que correspondan.
+Hecho lo anterior y sin demora la Procuraduría a través de su Procurador o Procuradora, de la Subprocuraduría Regional o Procuraduría Municipal correspondiente actuará conforme a lo dispuesto en la legislación aplicable.
 
-### CAPÍTULO III. Requisitos
+###### Artículo 78.
 
-###### ARTÍCULO 85.
+El Juez sin perjuicio de las normas aplicables a cada caso concreto por su jurisdicción podrá mantener las medidas especiales de protección decretadas por la Procuraduría.
 
-Si en el curso de la investigación, el Ministerio Público encontrara elementos suficientes para establecer que el probable hecho punible es competencia de otra autoridad, determinará la incompetencia de inmediato, de manera fundada y motivada. Las determinaciones de incompetencia serán autorizadas por la unidad administrativa que determine el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Tratándose de incompetencia por razón de la circunscripción territorial asignada entre las agencias del Ministerio Público del Estado, se requerirá la autorización de la unidad administrativa que determine el Reglamento de esta Ley.
+###### Artículo 79.
 
-## TÍTULO XXIII. DEL RECURSO DE INCONFORMIDAD
+El derecho a la filiación de niños, niñas y adolescentes deberá ser garantizado por la Procuraduría, o por su madre o padre, según sea el caso mediante la acción de investigación de la paternidad o la maternidad conforme a las disposiciones de la legislación civil del Estado.
 
-### CAPÍTULO ÚNICO. De la Substanciación del Recurso
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 86.
+###### Artículo 80.
 
-Finalizada una indagatoria, si el Ministerio Público concluye el no ejercicio de la acción penal, elaborará la propuesta de determinación correspondiente, de manera fundada y motivada. Dicha propuesta será sometida a la consideración del Vice Fiscal que corresponda.
+El niño, niña o adolescente que, de acuerdo a su desarrollo y madurez intelectual, manifieste interés en conocer la identidad de su padre o madre biológicos podrá solicitar el auxilio de la Procuraduría para que, si existe un principio de prueba, promueva la acción correspondiente sin que sea necesaria la mediación de otra persona salvo en los casos de adopción. Las madres solteras o adolescentes gozarán del mismo derecho a la asistencia de la Procuraduría para realizar la investigación o desconocimiento de la paternidad o de la maternidad.
 
-Si el Vice Fiscal de Investigación de Delitos no autoriza la propuesta de determinación del Ministerio Público, el expediente se regresará al agente que hubiere efectuado la propuesta, a efecto de que continúe con su integración.
+La Procuraduría podrá servirse del cuerpo especializado de seguridad pública para realizar la investigación que considere útil y solicitar que se realicen las pruebas necesarias para conocer la verdad sobre la identidad del padre o madre, previo a ejercer la acción correspondiente.
 
-(NOTA: EL 29 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-Si el Vice Fiscal de Investigación de Delitos autoriza la propuesta de no ejercicio de la acción penal del Ministerio Público, el expediente se regresará al agente que hubiere efectuado la propuesta, a efecto de notificar la determinación a la víctima u ofendido, QUIENES CONTARÁN CON DIEZ DÍAS, A PARTIR DE LA NOTIFICACIÓN, PARA PRESENTAR SU INCONFORMIDAD POR ESCRITO ANTE EL FISCAL GENERAL.
+###### Artículo 81.
 
-(NOTA: EL 29 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+El Registro Civil tendrá la obligación de informar a la Procuraduría las inscripciones de nacimientos de hijos monoparentales, la cual podrá realizar las investigaciones e iniciar los procedimientos pertinentes que garanticen el derecho de niños, niñas y adolescentes a conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez.
 
-EL ESCRITO DE INCONFORMIDAD DEBERÁ SEÑALAR:
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-I. EL NÚMERO DE LA INDAGATORIA CORRESPONDIENTE;
+###### Artículo 82.
 
-II. UNA RELACIÓN SUCINTA DE LOS HECHOS;
+Los niños, niñas o adolescentes que por su situación social o por su filiación corran el riesgo de pertenecer a la delincuencia organizada y requieran de auxilio recibirán el apoyo y protección necesarios por parte de la Procuraduría.
 
-III. LOS PRECEPTOS LEGALES CUYO INCUMPLIMIENTO SE RECLAMA;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-IV. LOS ARGUMENTOS JURÍDICOS CORRESPONDIENTES; Y
+###### Artículo 83.
 
-V. LAS PETICIONES FINALES.
+La Procuraduría en conjunto con el cuerpo especializado de seguridad pública creará los mecanismos de investigación, necesarios y eficaces, para identificar oportunamente y prevenir conductas tipificadas como delito, que pudieran ser cometidas por niños, niñas, adolescentes, o en su agravio.
 
-(NOTA: EL 29 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
-LA FALTA DE ALGUNO DE LOS REQUISITOS ANTERIORES DARÁ LUGAR AL DESECHAMIENTO DE PLANO DEL RECURSO DE MÉRITO.
+###### Artículo 84.
 
-(NOTA: EL 29 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La Procuraduría siempre que decrete las medidas especiales de protección y restitución que estime necesarias para proteger los derechos humanos de niños, niñas, y adolescentes, deberá satisfacer los siguientes requisitos:
 
-EL FISCAL GENERAL RESOLVERÁ LA INCONFORMIDAD A TRAVÉS DE LOS SERVIDORES PÚBLICOS QUE TENGA A BIEN DESIGNAR, QUIENES VERIFICARÁN EL CUMPLIMIENTO DE LOS REQUISITOS LEGALES, ASÍ COMO LOS MÉRITOS EXPUESTOS POR LAS PERSONAS INCONFORMES.
+I. Que tenga carácter excepcional, transitorio y sea necesaria para evitar un daño irreparable o un riesgo inminente;
 
-(NOTA: EL 29 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Que toda actuación conste en documento escrito en el que se funde y motive la causa legal del procedimiento a adoptar y la medida a implementar;
 
-SI EL FISCAL GENERAL RESUELVE LA PROCEDENCIA DE LA INCONFORMIDAD, EL EXPEDIENTE SE REGRESARÁ AL AGENTE DEL MINISTERIO PÚBLICO QUE HUBIERE EFECTUADO LA DETERMINACIÓN INICIAL, A EFECTO DE QUE CONTINÚE LA INDAGATORIA. LA RESOLUCIÓN DEL FISCAL GENERAL SOBRE LA IMPROCEDENCIA DE LA INCONFORMIDAD PODRÁ SER IMPUGNADA POR LA VÍCTIMA U OFENDIDO ANTE LAS INSTANCIAS CORRESPONDIENTES.
+III. Que se garantice el derecho de audiencia y defensa;
 
-## TÍTULO XXIV. CENTRO DE JUSTICIA PARA MUJERES
+IV. Que la medida adoptada sea la menos lesiva y no se afecten derechos humanos en mayor medida a la protección brindada;
 
-### CAPÍTULO I. Objeto
+V. La substanciación de la medida a adoptar no durará más de 15 días; y
 
-###### ARTÍCULO 87.
+VI. Que decretada la medida especial de protección se acuda inmediatamente ante la autoridad judicial competente para resolver en definitiva.
 
-El centro de Justicia para las Mujeres es un Organismo dependiente de la Fiscalía General, que tiene por objeto impulsar políticas públicas, estrategias y acciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas, y niños víctimas de violencia, y así, facilitarles el acceso a la justicia favoreciendo que inicien un proceso de autovaloración tendente a erradicar la violencia que sufren, se les proporcionen servicios integrales que necesitan, en aras de contar con un nuevo proyecto de vida, así como el mejoramiento de su entorno familiar.
+### CAPÍTULO DÉCIMO
 
-El titular de este organismo será designado y removido por el Fiscal General y durará en su encargo seis años.
+De la atención a niños y niñas menores de doce años en conflicto con la ley.
 
-### CAPÍTULO II. Competencia
+###### Artículo 85.
 
-###### ARTÍCULO 88.
+Los niños y las niñas menores de doce años a quienes se les impute la comisión de una conducta tipificada por las leyes penales como delito, serán sujetos de rehabilitación y asistencia social a través de la Procuraduría y el DIF, de conformidad con lo establecido en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y en los artículos 3 y 4 de la Ley de Justicia para Adolescentes del Estado de Coahuila de Zaragoza.
 
-El Centro de Justicia para Mujeres, conocerá de las siguientes materias:
+###### Artículo 86.
 
-I. Violencia Familiar;
+Para los efectos de esta ley, la edad del niño o de la niña se comprobará con el acta respectiva expedida por las autoridades del registro civil.
 
-II. Violencia Sexual;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Hostigamiento;
+De no ser esto posible, se acreditará por medio de dictamen médico rendido por perito adscrito a la Fiscalía General del Estado.
 
-IV. Abuso;
+###### Artículo 87.
 
-V. Violación;
+La Procuraduría recibirá denuncias y canalizaciones referentes a niños o niñas a quienes se les atribuya la comisión de una conducta tipificada por las leyes penales como delito.
 
-VI. Explotación sexual;
+###### Artículo 88.
 
-VII. Trata de personas; y
+La Procuraduría llevará a cabo los procedimientos a que se refiere este capítulo en vía de justicia restaurativa.
 
-VIII. Las demás materias que se establezcan en las disposiciones legales aplicables.
+###### Artículo 89.
 
-## TÍTULO XXV. DEL PROCEDIMIENTO PARA SANCIONAR A LOS AGENTES DEL MINISTERIO PÚBLICO, AGENTES DE POLICÍA MINISTERIAL Y LOS PERITOS
+La Procuraduría citará a quien ejerza la patria potestad, tutela o guarda y custodia legal o de hecho del niño o de la niña en compañía del mismo, así como al denunciante u ofendido, con la finalidad de que los segundos expresen de manera libre y en un ambiente seguro y de respeto el impacto que la conducta atribuida al niño o a la niña ocasionó en la vida de estos y concientizarlos de la importancia de reparar el daño causado.
 
-### CAPÍTULO I. De las Sanciones
+###### Artículo 90.
 
-###### ARTÍCULO 89.
+En la diligencia a que se refiere el artículo anterior, la Procuraduría informará a quienes ejerzan la patria potestad, guarda y custodia o tutela de la conducta tipificada por las leyes penales como delito que se le imputa al niño o a la niña, así como, de los elementos de convicción con que se cuente.
 
-Las sanciones por incurrir en las causas de responsabilidad a que se refiere el Artículo 43, de esta Ley, serán las establecidas en la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
+###### Artículo 91.
 
-###### ARTÍCULO 90.
+Una vez concluido satisfactoriamente el procedimiento al que se sujetaren las partes, la Procuraduría tendrá a su disposición el convenio o en su caso la resolución respectiva, para que ante su incumplimiento y a solicitud de la parte interesada sea remitido al juez civil competente.
 
-La amonestación es el acto mediante el cual se le llama la atención al servidor público por la falta o faltas no graves cometidas en el desempeño de sus funciones y lo conmina a rectificar su conducta. La amonestación será impuesta, de manera fundada y motivada, por el superior jerárquico.
+###### Artículo 92.
 
-La amonestación podrá ser pública o privada dependiendo de las circunstancias específicas de la falta y, en ambos casos, se comunicará por escrito al infractor, en cuyo expediente personal se archivará una copia de la misma. Las amonestaciones serán consideradas en los procesos de ascenso del Servicio de Carrera.
+La Procuraduría canalizará a las familias y niños o niñas a que se refiere el artículo 89 de la presente ley, a terapia psicológica o programas de orientación de acuerdo a la problemática presentada.
 
-La acumulación de tres amonestaciones dará lugar a la suspensión.
+Lo anterior con independencia de que la Procuraduría pueda realizar las investigaciones que considere pertinentes para determinar si el niño o niña involucrados se encuentren en situación extraordinaria.
 
-###### ARTÍCULO 91.
+### CAPÍTULO DÉCIMO PRIMERO. De los Medios Alternos de Solución de Controversias
 
-La suspensión es la interrupción temporal de los efectos del nombramiento, la cual podrá ser entre siete a treinta días, cuando la falta cometida no amerite remoción. La suspensión será impuesta, de manera fundada y motivada, por el superior jerárquico.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La suspensión será comunicada al área administrativa para efectos de realizar los descuentos en las percepciones correspondientes y al infractor, en cuyo expediente personal se archivará una copia de la misma. Las suspensiones serán consideradas en los procesos de ascenso del Servicio de Carrera.
+###### Artículo 93.
 
-###### ARTÍCULO 92.
+La Procuraduría a través del personal a su cargo que cuente con conocimientos suficientes en la materia o mediante el auxilio del Centro de Medios Alternos de Solución de Controversias del Poder Judicial y de la Fiscalía General del Estado brindará en sus instalaciones el servicio público de mediación y conciliación para que las partes sometidas a su competencia puedan solucionar sus controversias sin recurrir a instancias judiciales o para terminar con un proceso judicial siempre que esté permitido por las leyes aplicables.
 
-El arresto es la prohibición de abandonar el lugar de trabajo durante un tiempo determinado y podrá ser hasta por treinta y seis horas.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-La imposición de esta sanción corresponde al titular de la unidad administrativa de la Policía Ministerial en que esté adscrito el infractor.
+###### Artículo 94.
 
-### CAPÍTULO I. Disposiciones Generales
+Para dotar de eficacia jurídica a los convenios celebrados ante la Procuraduría se estará a lo dispuesto en el artículo 28 de la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza.
 
-###### ARTÍCULO 93.
+###### Artículo 95.
 
-Las sanciones derivadas de los procedimientos administrativos de responsabilidad serán impuestas por el Fiscal General o los vice fiscales.
+La mediación y la conciliación familiar constituyen la vía preferente para resolver de manera extrajudicial los conflictos sobre derechos y obligaciones en materia familiar y que no se trate de violencia familiar o abuso sexual en cualquiera de sus modalidades.
 
-Corresponde al Órgano Interno de Control imponer la remoción, de conformidad con lo dispuesto en esta Ley.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 94.
+###### Artículo 96.
 
-Las sanciones se impondrán tomando en cuenta los elementos siguientes:
+Las actuaciones que tengan lugar en la Procuraduría, relativas a la aplicación de medios alternos de solución de controversias serán confidenciales y no podrán ser utilizadas como medio de prueba en otros juicios, excepción hecha de los acuerdos y resoluciones que se adopten, ni los mediadores o conciliadores podrán ser compelidos a declarar como testigos.
 
-I. La gravedad de la responsabilidad en que se incurra;
+###### Artículo 97.
 
-II. La necesidad de suprimir prácticas que vulneren el funcionamiento de la Fiscalía General;
+Es obligación de la persona mediadora o conciliadora, antes de iniciar cualquier procedimiento, preguntar a las partes si éstas se encuentran dirimiendo sus conflictos ante autoridad judicial, civil o penal, e informarles pormenorizadamente del contenido y alcances de la presente ley, las que les sean aplicables y de los procedimientos administrativos, jurisdiccionales, civiles y penales que existan en la materia; así como de las sanciones a las que se harán acreedores en caso de incumplimiento de las determinaciones que en estas vías se dicten o en caso de reincidencia.
 
-III. La reincidencia del responsable;
+###### Artículo 98.
 
-IV. El nivel jerárquico, el grado académico y la antigüedad en el servicio;
+Los procedimientos previstos en la presente ley no excluyen, ni son presupuesto necesarios para llevar a cabo un procedimiento jurisdiccional.
 
-V. Las circunstancias y medios de ejecución;
+Al término de los procedimientos de mediación o conciliación, en caso de que existiera un litigio familiar pendiente de resolverse en relación con el mismo asunto, se enviará al juez de la causa el convenio o la resolución correspondiente.
 
-VI. Las circunstancias socioeconómicas del servidor público; y
+En caso de incumplimiento de las obligaciones y deberes establecidos en el convenio, según sea el caso, se solicitará a la autoridad judicial competente su ejecución, de conformidad con lo dispuesto en la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-VII. El monto del beneficio, daño o perjuicio económicos derivado del incumplimiento de obligaciones.
+###### Artículo 99.
 
-### CAPÍTULO II. Del Procedimiento
-
-###### ARTÍCULO 95.
-
-La determinación de la remoción se hará conforme al procedimiento siguiente:
-
-I. Se iniciará de oficio por la Dirección de Visitaduría o por queja presentada ante ese mismo órgano;
-
-II. Las quejas que se formulen deberán estar apoyadas en elementos probatorios suficientes y deberán referirse a actos realizados, omitidos o consentidos por los servidores públicos de la Fiscalía General;
-
-III. Recibida la queja, la Dirección de Visitaduría solicitará al quejoso su ratificación formal, de la cual se dejará constancia en el expediente;
-
-IV. Ratificada la queja, la Dirección de Visitaduría realizará la evaluación técnico-jurídica del acto cuya realización, omisión o consentimiento se imputa al servidor público. Si de la evaluación se desprendieren nuevas causas de responsabilidad administrativa, estas se harán constar en el acta de evaluación técnico-jurídica que se levante y se les dará el trámite legal correspondiente;
-
-V. Para dichos efectos, la Dirección de Visitaduría podrá solicitar los informes o la documentación que estime necesaria y realizará las visitas que correspondan. Los resultados de la visita, los informes y los documentos serán integrados al acta de evaluación técnico-jurídica;
-
-VI. Concluida la evaluación técnico-jurídica, la Dirección de Visitaduría concluirá fundada y motivadamente, si existe una probable causa de remoción del servidor público. Iniciará de oficio el procedimiento administrativo de responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, y solicitará la remoción del servidor público;
-
-VII. La Dirección de Visitaduría enviará una copia de la denuncia administrativa y sus anexos al servidor público, para que en un término de quince días hábiles formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia o queja, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia o queja sobre los cuales el denunciado no suscitare explícitamente controversia, salvo prueba en contrario;
-
-VIII. La Dirección de Visitaduría citará al servidor público a una audiencia en la que se desahogarán las pruebas respectivas, si las hubiere, y se recibirán sus alegatos, por sí o por medio de su defensor;
-
-IX. Una vez verificada la audiencia y desahogadas las pruebas, se resolverá sobre la inexistencia de la responsabilidad o impondrá al responsable la sanción de remoción. La resolución se notificará al interesado o a su defensor;
-
-X. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias;
-
-XI. En cualquier momento, previo o posterior a la celebración de la audiencia, los servidores públicos a que se refiere la fracción I del artículo 1° de esta Ley podrán determinar la suspensión temporal del presunto responsable, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará si así lo resuelve la Dirección de Visitaduría, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo. La suspensión no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la misma. Si el servidor público suspendido no resultare responsable será restituido en el goce de sus derechos.
-
-###### ARTÍCULO 96.
-
-La Dirección de Visitaduría informará al Consejo de Profesionalización sobre las remociones impuestas a efecto de proceder a la cancelación del certificado del servidor público de que se trate, independientemente de la terminación de los efectos de su nombramiento, de conformidad con las normas aplicables.
-
-La cancelación del certificado deberá registrarse en los términos que establece la Ley General del Sistema Nacional de Seguridad Pública.
-
-###### ARTÍCULO 97.
-
-Los servidores públicos de la Fiscalía General están sujetos al régimen de responsabilidades a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-###### ARTÍCULO 98.
-
-La Dirección de Visitaduría promoverá las acciones necesarias para fincar las responsabilidades administrativas que resulten; aplicará las reglas y los procedimientos administrativos correspondientes; y contará con las facultades y atribuciones que establezca la presente Ley, el Reglamento de la misma, las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás disposiciones aplicables.
-
-###### ARTÍCULO 99.
-
-Se podrán imponer a los servidores públicos de la Fiscalía General, por las faltas en que incurran en el desempeño de su empleo, cargo o comisión, las sanciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, mediante el procedimiento que en ella se establece.
-
-En los casos en que la Dirección de Visitaduría determine las sanciones de destitución o inhabilitación, se entenderá que conllevan la cancelación de la certificación a que se refiere el artículo 21, de la Constitución Federal. La cancelación de la certificación deberá registrarse en los términos la Ley General del Sistema Nacional de Seguridad Pública.
-
-T R A N S I T O R I O S
+Si las partes no lograran resolver sus controversias, se les hará saber de las instancias correspondientes y, en todo caso, sus derechos quedarán a salvo para ejercerlos por la vía conducente.
 
 ###### Artículo 100.
 
@@ -1713,7 +1675,9 @@ Hecho lo descrito en el párrafo que antecede, se deberá ejercitar la acción c
 
 La cancelación de la inscripción, únicamente será procedente si el deudor alimentario moroso acredita que han sido cubiertos en su totalidad los adeudos que la motivaron.
 
-### CAPÍTULO II. Atribuciones Comunes
+### CAPÍTULO DÉCIMO SEGUNDO
+
+De la participación de la Procuraduría en los procesos de adopción.
 
 ###### Artículo 105.
 
@@ -1737,7 +1701,7 @@ La Procuraduría iniciará de manera inmediata el juicio de adopción de conform
 
 La Procuraduría, una vez concluido el procedimiento judicial, realizará el seguimiento que establece la legislación civil aplicable, con la finalidad de verificar que el niño, niña o adolescente, ha logrado su integración plena a su nuevo núcleo familiar.
 
-### CAPÍTULO III. Requisitos de Ingreso
+### CAPÍTULO DÉCIMO TERCERO. De las Sanciones
 
 ###### Artículo 109.
 
@@ -1909,7 +1873,13 @@ CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 9 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE ADICIONA UN ARTÍCULO 29 BIS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL CUAL EN SU “ARTICULO VIGÉSIMO QUINTO.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 5, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 598.- SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 36 DE LA LEY ESTATAL DE EDUCACIÓN Y SE REFORMA EL ARTÍCULO 62 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
@@ -1939,11 +1909,13 @@ P.O. 17 DE MARZO DE 2017.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes y en la misma fecha iniciará su vigencia la reforma al Artículo 59 de la Constitución Local, para lo cual este H. Congreso del Estado, declara expresamente la entrada en vigor de la autonomía constitucional de la Fiscalía General.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley Orgánica del Ministerio Público del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 20 de agosto de 2012.
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 800.- SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 2 Y LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
@@ -1966,6 +1938,70 @@ P.O. 21 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1177.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ABROGA LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 50 Y SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 39 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIGILANCIA Y REVISIÓN DE MEDIDAS CAUTELARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 13 Y EL ARTÍCULO 18 DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 2, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 41, DE LA LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 3, DE LA LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 18, DE LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 11, DE LA LEY DEL COLEGIO COAHUILENSE DE INVESTIGACIONES HISTÓRICAS; SE REFORMA EL ARTÍCULO 11, DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 35, Y EL ARTÍCULO 79, DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL INCISO A DE LA FRACCIÓN IV DEL ARTÍCULO 8 Y LA FRACCIÓN III DEL ARTÍCULO 16, DE LA LEY DE LA ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LOS ARTÍCULOS 65 Y 73, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1 Y LA FRACCIÓN XXII DEL ARTÍCULO 2, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2 Y LA FRACCIÓN IV DEL ARTÍCULO 15, DE LA LEY DE FOMENTO AL USO RACIONAL DE LA ENERGÍA PARA EL ESTADO DE COAHUILA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO COOPERATIVO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA "PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA"; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LOS ARTÍCULOS 8, 18, 65 Y LA FRACCIÓN II DEL ARTÍCULO 94, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 81, DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 11; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 15 BIS; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 19 Y EL ARTÍCULO 20 BIS, DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9, DE LA LEY DE POBLACIÓN Y DESARROLLO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 6; EL INCISO D DE LA FRACCIÓN III DEL ARTÍCULO 12 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 23, DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA EL ARTÍCULO 20, DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 8; EL PRIMER PÁRRAFO DEL ARTÍCULO 11; LA FRACCIÓN V DEL ARTÍCULO 13 Y LA FRACCIÓN VI DEL ARTÍCULO 15, DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA; SE MODIFICA EN INCISO A) DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 4 Y EL ARTÍCULO 22, TODOS DE LA LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL IMPULSO Y DESARROLLO DE LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA LA FRACCIÓN XIII DEL ARTÍCULO 7 DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DE CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 9, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN LAS FRACCIONES IV Y XII DEL ARTÍCULO 6, DE LA LEY PARA PREVENIR Y SANCIONAR LAS PRÁCTICAS DE CORRUPCIÓN EN LOS PROCEDIMIENTOS DE CONTRATACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; SE MODIFICA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN V Y LA FRACCIÓN VII DEL ARTÍCULO 25, DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1168.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1169.- SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2000,43 +2036,3 @@ Los servidores públicos que hayan sido nombrados por el Procurador General de J
 Los servidores públicos a que hacen referencia los párrafos anteriores, deberán continuar percibiendo los salarios y prestaciones económicas a las que tienen derecho por el ejercicio de sus cargos.
 
 Al iniciar su vigencia el presente Decreto, todos los recursos materiales y presupuestales de la Procuraduría General de Justicia del Estado, se transferirán a la Fiscalía General del Estado.
-
-###### ARTÍCULO SÉPTIMO.
-
-Los procedimientos jurisdiccionales y administrativos relacionados con la separación, remoción, cese, o cualquier otra forma de terminación del servicio de servidores públicos que prestaban su (sic) servicios en la Procuraduría General de Justicia del Estado al día de la entrada en vigor del presente decreto, concluirán conforme a la normatividad que les fue aplicable en el momento de inicio del procedimiento mientras que los procedimientos iniciados con posterioridad se seguirán de acuerdo con las presentes disposiciones.
-
-###### ARTÍCULO OCTAVO.
-
-Lo establecido en las fracciones IX, XIII y XXXV del artículo 15, y lo relativo al recurso de inconformidad establecido en el artículo 86 de la presente Ley, estará vigente hasta la entrada en vigor del sistema acusatorio, en términos de la Declaratoria emitida por el Congreso del Estado al respecto y publicada en el Periódico Oficial del Estado el 11 de junio del año 2014.
-
-###### ARTÍCULO NOVENO.
-
-En tanto no se constituya la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, la referencia a ésta se entenderá hecha a la Procuraduría de la Defensa del Menor y la Familia, de conformidad con el artículo Tercero Transitorio del Decreto Número 193 que contiene la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado, de fecha 3 de junio de 2015.
-
-Al Ejecutivo para su promulgación y publicación.
-
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los diecinueve días del mes de junio del año dos mil quince.
-
-Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
-
-Aguascalientes, Ags., a 19 de junio del año 2015.
-
-A T E N T A M E N T E
-
-LA MESA DIRECTIVA:
-
-Dip. Juan Antonio Esparza Alonso,
-
-PRESIDENTE.
-
-Dip. Cuauhtémoc Escobedo Tejada,
-
-PRIMER SECRETARIO.
-
-Dip. Verónica Sánchez Alejandre,
-
-SEGUNDA SECRETARIA.
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- Sergio Javier Reynoso Talamantes, Secretario de Gobierno, en suplencia del Jefe de Gabinete de conformidad con el Artículo 50 de la Constitución Política del Estado de Aguascalientes.- Rúbrica.
-
-P.O. 20 DE SEPTIEMBRE DE 2016.
