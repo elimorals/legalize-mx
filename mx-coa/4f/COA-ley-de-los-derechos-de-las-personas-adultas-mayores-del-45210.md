@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2017-12-26"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -270,6 +270,18 @@ Las familias tendrán derecho a recibir el apoyo subsidiario de las institucione
 IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
 1. Recibir la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+a) Recibir información sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+b) A que existan en (sic) instituciones educativas con certificaciones en oficios o áreas de su preferencia;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+c) A recibir de parte de las instituciones públicas correspondientes, la capacitación necesaria en el uso de las nuevas tecnologías de la información y comunicación.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
@@ -859,7 +871,7 @@ La Secretaría de Salud coordinará e implementará las acciones que se requiera
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
-De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura. de dignificación, respeto e integración a la sociedad, de tales personas.
+De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura. (sic) de dignificación, respeto e integración a la sociedad, de tales personas.
 
 ###### Artículo 59.
 
@@ -1464,3 +1476,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1167.- SE ADICIONAN TRES INCISOS, AL NUMERAL 1, DE LA FRACCIÓN IV DEL ARTÍCULO 10, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
