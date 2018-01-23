@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2017-12-26"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -207,6 +207,10 @@ I. A la vida, a la paz, a la supervivencia y al desarrollo integral;
 
 II. Al disfrute del más alto nivel de salud y en ese sentido a ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+Además de la prevención, atención y rehabilitación de conductas de riesgo, como el suicidio, las adicciones y trastornos alimenticios, así como la prevención y detección temprana de trastornos mentales
+
 III. A vivir en un ambiente sano y a contar con servicios públicos básicos. Para ello se promoverán la protección, preservación y mejoramiento del medio ambiente mediante la articulación de políticas públicas;
 
 IV. A preservar su identidad, incluidos la nacionalidad, el nombre y las relaciones familiares de conformidad con las disposiciones del Código Civil para el Estado de Coahuila de Zaragoza, la Ley de Nacionalidad y, en su caso, lo dispuesto en los artículos 63 y 64 de la presente Ley;
@@ -386,6 +390,20 @@ Formarán parte del Consejo con derecho a voz y voto, cinco personas representan
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Cuando las organizaciones de la sociedad civil propongan a más de tres personas, las dependencias y entidadesque (sic) integran el Consejo harán la designación de los representantes mediante el voto de la mayoría.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+###### Artículo 7 Bis.
+
+En atención del interés superior de la infancia, el Estado y los municipios en el ámbito de su competencia, deberán fomentar la adopción de medidas educativas y preventivas destinadas a asegurar el ejercicio de los derechos de las niñas, niños y adolescentes y a prevenir las situaciones de riesgo que menoscaben su desarrollo.
+
+La prevención estará dirigida a:
+
+a) Velar por el respeto y garantía de los derechos de las niñas, niños y adolescentes mediante actividades de información, divulgación, promoción y formación.
+
+b) Fomentar actividades destinadas a desarrollar la capacidad crítica y de libre decisión y el sentido de la propia responsabilidad de las niñas, niños y adolescentes.
+
+c) Promover actividades que fortalezcan la promoción y protección de los derechos de la niñez y adolescencia, la igualdad de oportunidades y de trato entre hombre (sic) y mujeres y la no discriminación.
 
 ###### Artículo 8.
 
@@ -1013,7 +1031,7 @@ XIX. Proponer al Órgano de Gobierno, en su caso, las reglas de operación, manu
 
 XX. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA] , P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 XXI. Las demás que le confiera el Órgano de Gobierno, esta Ley, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
 
@@ -1968,3 +1986,19 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1168.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1169.- SE ADICIONA EL ARTÍCULO 7 BIS A LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
