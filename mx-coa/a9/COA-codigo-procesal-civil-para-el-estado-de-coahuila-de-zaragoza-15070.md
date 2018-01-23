@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2017-09-22"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -154,8 +156,6 @@ Imperatividad de las normas procesales
 La observancia de las normas procesales es de orden público. En consecuencia, para la tramitación y resolución de los procesos y procedimientos civiles ante los tribunales y juzgados integrantes del Poder Judicial del Estado, se estará a lo dispuesto en este código, sin que las partes estén facultadas a celebrar convenios para renunciar a los derechos y oportunidades procesales que en el mismo se les confieren, ni para alterar o modificar las normas procesales en él contenidas.
 
 Sin embargo, con las limitaciones por él previstas, las partes podrán aceptar en forma expresa o tácita la prórroga de competencia por razón de territorio; solicitar al juzgador por una sola vez, la suspensión del procedimiento o la ampliación de algún plazo; dejar de utilizar los recursos previstos, o en general, renunciar a los derechos y a las obligaciones no esenciales dentro del procedimiento, cuando la ley se los autorice, exista conformidad entre ellas y no se afecten derechos de terceros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -451,27 +451,15 @@ V. Aquel en cuyo territorio radica un juicio sucesorio, para conocer de la deman
 
 VI. En los concursos de acreedores, el juzgado del domicilio del deudor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 VII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 VIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 IX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 X. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 XI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 XII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
@@ -490,8 +478,6 @@ XVIII. En las contiendas en que se debatan intereses colectivos de entidades de 
 XIX. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el juez del domicilio que escoja el actor.
 
 XX. Si se tratare de demandas que afecten el patrimonio de personas que no tengan domicilio dentro de la República, será competente el tribunal en cuyo territorio tenga sus bienes el demandado o se encuentre el objeto del litigio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 XXI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
@@ -565,8 +551,6 @@ Competencia por grado.
 
 La competencia por grado tiene lugar, cuando a raíz de un recurso interpuesto por la parte agraviada contra una resolución judicial de primera instancia que le perjudica; un tribunal superior puede revisarla y decretar su eventual revocación o modificación, en los casos en que este código lo autorice.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 51.
@@ -621,11 +605,17 @@ Los conflictos de competencia se presentan cuando dos órganos jurisdiccionales 
 
 #### SECCIÓN OCTAVA. Substanciación y decisión de los conflictos de competencias
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 58.
 
 Cuestiones de competencia.
 
-Las cuestiones de competencia sólo podrán promoverse por declinatoria, la que se propondrá ante el juzgador que se considera incompetente, precisamente en el escrito de contestación a la demanda, pidiéndole que se abstenga de continuar conociendo del proceso y remita el expediente al considerado competente.
+Las cuestiones de competencia podrán promoverse por declinatoria, la que se propondrá ante el juzgador que se considera incompetente, precisamente en el escrito de contestación a la demanda, pidiéndole que se abstenga de continuar conociendo del proceso y remita el expediente al considerado competente.
+
+(NOTA: EL 9 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SIN EMBARGO, CUANDO SE PRESENTE UNA DEMANDA ANTE UN JUEZ QUE ESTIME CARECER DE COMPETENCIA ASÍ LO DECLARARÁ Y DE INMEDIATO REMITIRÁ LA DEMANDA Y SUS ANEXOS AL ÓRGANO JURISDICCIONAL QUE ESTIME COMPETENTE, SIGUIENDO EN LO DEMÁS, EN LO CONDUCENTE, EL TRÁMITE PREVISTO EN EL ARTÍCULO SIGUIENTE.
 
 ###### ARTÍCULO 59.
 
@@ -939,8 +929,6 @@ V. El Ministerio Público, la Procuraduría de la Familia y los Defensores de lo
 
 VI. Cualquiera de los integrantes de un grupo afectado, que garantice una adecuada defensa para el interés general, o las instituciones, asociaciones o agrupaciones privadas, no políticas ni gremiales, especializadas en la defensa de los intereses sociales colectivos, cuando se trata de la tutela de intereses difusos, de grupos indeterminados que no constituyan una persona moral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 90.
@@ -955,13 +943,9 @@ Cambios en la capacidad de las partes.
 
 Cuando durante el proceso ocurran cambios en la capacidad de las partes, se observará lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 I. Si la parte requiriere asistencia o representación para el ejercicio de su capacidad jurídica durante el procedimiento, los actos posteriores a la declaración serán nulos. Los actos anteriores sólo serán anulables si la necesidad de asistencia o representación fuere notoria cuando éstos tuvieron lugar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -1573,8 +1557,6 @@ Personas impedidas para ser peritos traductores.
 
 No pueden ser peritos traductores, bajo pena de nulidad:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 I. Los niños y las niñas, el sujeto a interdicción, el inhabilitado y el que esté afectado de sus facultades mentales.
@@ -1906,8 +1888,6 @@ En los casos en que las nulidades de que se trata en el artículo anterior se ha
 La resolución que decida el incidente será apelable en el efecto devolutivo.
 
 ### CAPÍTULO SEGUNDO. Tiempo y lugar
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -2241,8 +2221,6 @@ Constancia en el expediente de la notificación por lista.
 
 En el tribunal y en los juzgados, los funcionarios o empleados que determine el juzgador harán constar en el expediente respectivo que se hizo la publicación y que causo estado la notificación por medio de lista. La infracción a este precepto será motivo para que se imponga al responsable la corrección disciplinaria que corresponda conforme a lo que dispone el artículo 174; pero no será causa de nulidad de las actuaciones judiciales respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 221.
@@ -2551,8 +2529,6 @@ Modificación de resoluciones judiciales.
 
 Las resoluciones judiciales dictadas con el carácter de provisionales pueden modificarse en la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Las resoluciones judiciales firmes dictadas pueden alterarse y modificarse en los procedimientos en los que así prevengan las leyes, cuando cambien las circunstancias que mediaron para el ejercicio de la pretensión que se dedujo en el juicio correspondiente.
@@ -2813,8 +2789,6 @@ III. La condena al demandado para que realice una conducta determinada.
 
 IV. La aplicación de las normas jurídicas encaminadas a la defensa de cualquier situación de hecho o de derecho favorable al actor, o a reparar los daños y perjuicios sufridos, o a evitar el riesgo probable de un bien jurídico propio, o respecto del cual se esté en obligación de salvaguardar, o para retener o restituir la posesión de un bien o bienes determinados a cualquiera que le pertenezca legítimamente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
 
 V. Se tutele el interés colectivo de grupos determinados e indeterminados.
@@ -2902,8 +2876,6 @@ III. El juzgador dará por concluido el procedimiento, sin sentencia, si la part
 IV. En la sentencia podrán imponerse a la parte demandada, las medidas que se juzguen más eficaces y necesarias para prevenir o impedir que se sigan produciendo los daños.
 
 V. La ejecución del fallo condenatorio comprenderá la distribución equitativa del resarcimiento de los daños generados, sin perjuicio de la indemnización de los daños particulares.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
 
@@ -3191,7 +3163,7 @@ b) Las costas serán a cargo del actor, salvo convenio en contrario. En este cas
 
 II. Por caducidad de la instancia. En este caso se aplicarán las reglas siguiente (sic):
 
-(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO A), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO A), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3203,7 +3175,7 @@ c) Sólo procederá por falta de promoción de las partes dirigida a impulsar el
 
 d) La caducidad de la primera instancia hará ineficaces las actuaciones del juicio y las cosas deberán volver al estado que tenían antes de la presentación de la demanda, levantándose los embargos provisionales y cautelares. Se exceptúan de la ineficacia mencionada las resoluciones firmes sobre competencia, litispendencia, cosa juzgada, personalidad y capacidad de los litigantes, que regirán en cualquier otro proceso. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocadas en el nuevo, si se promoviere, siempre que se ofrezcan y precisen en la forma legal.
 
-(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO E), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO E), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3217,7 +3189,7 @@ h) La suspensión del procedimiento producirá la interrupción del plazo de la 
 
 i) Contra la resolución de caducidad se dará sólo el recurso de reconsideración en los procedimientos que no admitan apelación. En los procedimientos que admiten la apelación, ésta se substanciará en el efecto suspensivo.
 
-(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO J), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DEL INCISO J), DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3325,91 +3297,61 @@ Necesidad de presentar la demanda con posterioridad.
 
 Si la medida se decretó antes de iniciarse el juicio ella quedará insubsistente, si no se interpone la demanda dentro de los cinco días de practicada. Las cosas se restituirán al estado que guardaban antes de dictarse la medida prejudicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO SEGUNDO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 320.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 321.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 322.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 323.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 324.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 325.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 326.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 327.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 328.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 329.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 330.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO TERCERO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 331.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 332.
 
@@ -3448,8 +3390,6 @@ Consignación a favor de acreedor desconocido o cuyo domicilio se ignore.
 Si el acreedor fuere desconocido o incierto o cuyo domicilio se ignore, se le citará por edictos, por el plazo que designe el juzgador. La citación se ajustará a las reglas previstas para el emplazamiento de las personas inciertas o ignoradas. La diligencia se practicará en la forma prevista en el artículo anterior.
 
 Lo dispuesto en este artículo es aplicable cuando el ofrecimiento de pago y consignación se hagan a persona cuyo domicilio se ignore.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -3492,8 +3432,6 @@ Declaración de liberación en favor del deudor.
 Hecho el ofrecimiento de pago y la consignación, el juzgador, a petición del deudor, podrá hacer declaración de liberación en contra del acreedor, en los siguientes casos:
 
 I. Cuando el acreedor fuere cierto y conocido y no comparezca a la diligencia de depósito, ni formule oposición, no obstante haber sido citado legalmente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -3625,15 +3563,9 @@ Casos en que las medidas cautelares pueden dictarse.
 
 A los fines del artículo anterior, el juzgador podrá acordar medidas cautelares en los casos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
 
@@ -3849,25 +3781,17 @@ Quebrantamiento del arraigo.
 
 El que quebrante el arraigo, será castigado con la pena que señala el Código Penal al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso se seguirá éste, según su naturaleza, conforme a las reglas comunes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO CUARTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 375.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 376.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 377.
 
@@ -4167,8 +4091,6 @@ Allanamiento.
 
 Si el demandado se allana a la demanda, el juzgador podrá ordenar la ratificación del escrito, cuando lo juzgue conveniente, y sin más trámites, citará a las partes para oír sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 No procederá citar para sentencia en caso de allanamiento de la demanda, cuando se controviertan derechos irrenunciables; cuando manifiestamente la sentencia por dictarse deba surtir efectos frente a terceros que no han litigado, y en los demás casos en que la ley así lo disponga.
@@ -4268,8 +4190,6 @@ Transcurrido el plazo fijado en el emplazamiento sin haber sido contestada la de
 Para hacer la declaración de rebeldía, el juzgador examinará escrupulosamente y bajo su más estricta responsabilidad, si el demandado fue emplazado en forma legal y solo hará tal declaración, cuando compruebe que se cumplió debidamente con este requisito.
 
 Cuando el juzgador advirtiere que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario, cuando aparezca responsable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -4811,7 +4731,7 @@ II. Cuando la citación para declarar sea distinta de la citación para absolver
 
 III. No procederá la confesión ficta en la prueba de declaración de parte.
 
-(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -5141,13 +5061,9 @@ Todos los que tengan conocimiento de los hechos que las partes deben probar, est
 
 No estarán obligados a declarar como testigos y podrán pedir que se les exima de hacerlo, las personas señaladas en la fracción II del artículo 425.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Los niños o las niñas, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, sólo podrán ser oídos cuando su testimonio resulte indispensable, por las circunstancias del caso. En tal supuesto, se tomará su declaración sin que se les exija la protesta de decir verdad, con la intervención de personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifiesten. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el testigo, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5165,15 +5081,11 @@ Ofrecimiento de la prueba testimonial.
 
 La prueba testimonial se ofrecerá indicando los nombres y domicilios de las personas, terceras ajenas al pleito, a quienes deba interrogarse, y los hechos sobre los cuales cada uno de ellos o todos deban declarar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Cuando se trate de niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, se deberá indicar tal circunstancia y la parte oferente deberá exhibir el interrogatorio correspondiente con copia simple para correr traslado. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que ordena la admisión de la prueba.
 
 La contraparte podrá, a su vez, dentro de los tres días siguientes al en que se le notifique el auto de admisión de la prueba, proponer otros testigos sobre los mismos hechos, indicando los puntos sobre los que debe interrogárseles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5220,8 +5132,6 @@ En caso de que el señalamiento del domicilio de algún testigo resulte inexacto
 Declaración del testigo en su domicilio u otro lugar adecuado.
 
 A los testigos de más de setenta años y a los enfermos, el juzgador podrá, según las circunstancias del caso, recibir su declaración en sus domicilios, en presencia de la otra parte, si asistiere.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5281,15 +5191,11 @@ Declaración por medio de intérprete o con la asistencia de personal especializ
 
 Si el testigo no sabe el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el juzgador cuando así se solicite en el ofrecimiento de la prueba. Si el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma por él o por el intérprete.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Cuando los testigos sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, el interrogatorio será formulado al testigo por medio de personal especializado conforme al artículo 478 y 479 y su declaración podrá ser recabada con la ayuda de cualquier medio electrónico audiovisual. El personal especializado podrá cambiar la forma de las preguntas del interrogatorio siempre que el contenido sea esencialmente el mismo y, cuando sea necesario, deberá emitir un dictamen que facilite la comprensión de la declaración del testigo.
 
 Las partes podrán asistir durante el desarrollo del interrogatorio pero no podrán interferirlo, ni intervenir sino a través del juez quien decidirá si la diligencia deberá continuar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5683,8 +5589,6 @@ La cosa juzgada es la verdad legal, y contra ella no se admite recurso ni prueba
 
 Existe cosa juzgada cuando la sentencia no está sujeta a impugnación por haber causado ejecutoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 531.
@@ -5732,8 +5636,6 @@ II. Contra los causahabientes de los que contendieron y los que están unidos a 
 III. Contra terceros aunque no hubieran litigado ni sean causahabientes, en las cuestiones relativas al estado civil de las personas y a la validez o nulidad de las disposiciones testamentarias, a menos de que el tercero demuestre que hubo colusión para perjudicarlo.
 
 IV. Contra los socios con responsabilidad solidaria respecto de la sentencia que se pronuncie contra la sociedad, condenándola al cumplimiento de obligaciones en favor de terceros, aunque los socios no hayan litigado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5845,19 +5747,13 @@ Cuando la denuncia se refiera al delito de fraude por simulación de un juicio, 
 
 # LIBRO CUARTO. Procedimientos especiales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ## TÍTULO PRIMERO. Juicios sobre las personas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO PRIMERO. Procedimiento de declaración de ausencia y presunción de muerte
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5877,8 +5773,6 @@ c) El ascendiente más próximo en grado al ausente.
 
 d) A falta de los anteriores, o cuando sea inconveniente que alguno de ellos, por su mala conducta, o por su ineptitud, sean nombrados depositarios, el juzgador nombrará al heredero presunto y si hubiere varios con igual derecho, ellos mismos elegirán al que deba ser depositario de los bienes del ausente o ignorado. En caso de desacuerdo la elección la hará el juzgador, prefiriendo al que tenga mejor interés en la conservación de los bienes del ausente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 548.
@@ -5890,8 +5784,6 @@ La demanda por declaración de ausencia podrá promoverse pasado un año desde e
 En ella debe consignarse el nombre, apellido y residencia de los presuntos sucesores legítimos del desaparecido o de los que hubieren sido nombrados en testamento público abierto, y cuando existan, el de su abogado o representante legal.
 
 Tienen legitimación para pedir la declaración de ausencia, los herederos instituidos en testamento público abierto por el ausente; sus presuntos herederos legítimos; los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente y el Ministerio Público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5907,8 +5799,6 @@ Pasados cuatro meses de la fecha de la última publicación, si no hubiere notic
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, será apelable en el efecto devolutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 550.
@@ -5916,8 +5806,6 @@ El fallo que se pronuncie en el juicio de declaración de ausencia, será apelab
 Efectos de la declaración de ausencia.
 
 Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al juzgador, dentro de los quince días contados a partir de la última publicación a que se refiere el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5929,8 +5817,6 @@ El juzgador, si el testamento no estuviere ya publicado, de oficio o a instancia
 
 En el caso de que no hubiere testamento, los herederos legítimos comparecerán ante el juzgador acreditando su entroncamiento con el ausente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 552.
@@ -5941,8 +5827,6 @@ Por virtud de la presentación o apertura del testamento, o una vez acreditado e
 
 En el juicio sucesorio, los herederos testamentarios y, en su caso, los que fueren legítimos, serán puestos en posesión provisional de los bienes como lo ordena el Código Civil, siempre que tengan capacidad legal para administrar bienes y otorguen caución que asegure las resultas de la administración. Cuando estuvieren bajo patria potestad o tutela, se procederá conforme a derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 553.
@@ -5950,8 +5834,6 @@ En el juicio sucesorio, los herederos testamentarios y, en su caso, los que fuer
 Falta de herederos del ausente.
 
 Si hecha la declaración de ausencia no se presentaren herederos del ausente, a petición del Ministerio Público, el juzgador determinará, según lo estime, la continuación del representante designado en los términos del último párrafo del artículo 547 o su sustitución por otro que en nombre de la Asistencia Pública entre en la posesión provisional de los bienes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5962,8 +5844,6 @@ Declaración de presunción de muerte.
 La demanda para la declaración de presunción de muerte se sujetará en lo conducente, en cuanto a forma y legitimación, a lo dispuesto para la demanda sobre declaración de ausencia.
 
 La demanda podrá presentarse cuando hayan transcurrido tres años desde la declaración de ausencia, y en los casos que esta proceda legalmente, el juzgador declarará la presunción de muerte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -5977,8 +5857,6 @@ Si se llega a probar la muerte del ausente, la herencia se difiere a los que deb
 
 La sentencia es apelable en el efecto devolutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 556.
@@ -5988,8 +5866,6 @@ Ejecución y registro de la sentencia de presunción de muerte.
 La sentencia que declare la presunción de muerte será ejecutada después de que haya pasado en autoridad de cosa juzgada.
 
 Una copia de la resolución se enviará al oficial del Registro Civil, en la que conste la partida de nacimiento del ausente, para que haga la anotación, y otra se remitirá a la Dirección del Registro Civil para el mismo efecto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -6019,43 +5895,29 @@ La tutela judicial comprenderá la adopción de todas las medidas necesarias par
 
 La existencia del perjuicio se presumirá siempre que se acredite una violación a los derechos de la personalidad. La indemnización se extenderá al daño moral que se valorará atendiendo a las circunstancias del caso y a la gravedad de la lesión efectivamente producida, para lo que se tendrá en cuenta, en su caso, la difusión que se haya dado al hecho lesivo. También se valorará el beneficio que haya obtenido el causante de la lesión como consecuencia de la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO TERCERO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 560.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 561.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 562.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 562-A.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 562-B.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -6065,19 +5927,13 @@ La existencia del perjuicio se presumirá siempre que se acredite una violación
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 564.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 565.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 566.
 
@@ -6087,79 +5943,53 @@ La existencia del perjuicio se presumirá siempre que se acredite una violación
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 568.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO QUINTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 569.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 570.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 571.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 572.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 573.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 574.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 575.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO SEXTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 576.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 577.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 578.
 
@@ -6169,501 +5999,333 @@ La existencia del perjuicio se presumirá siempre que se acredite una violación
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 580.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 581.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 582.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 583.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 584.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 585.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 586.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 2013)</small>
 
 ### CAPÍTULO SÉPTIMO. Divorcio necesario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 587.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 588.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 589.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 590.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 591.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 592.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 593.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 594.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 595.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 596.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO OCTAVO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 597.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 598.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 599.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO NOVENO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 600.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 601.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 602.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 603.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 604.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 605.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ARTÍCULO 605 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ARTÍCULO 605 BIS II. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 606.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 607.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 608.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 609.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 610.
 
 (DEROGADO, P.O. 26 DE JUNIO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 611.
 
 (DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 612.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 613.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 614.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 615.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 616.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 617.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DUODÉCIMO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 618.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 619.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 620.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 621.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 622.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 623.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 624.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 625.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 626.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 627.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 628.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO TERCERO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 629.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 630.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 631.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 632.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 633.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 634.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 635.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 636.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 637.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 638.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 639.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 640.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 641.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 642.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 643.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 644.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 645.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO CUARTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 646.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 647.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 648.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 649.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 650.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 651.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO QUINTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 652.
 
@@ -6673,133 +6335,89 @@ ARTÍCULO 605 BIS II. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 654.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO SEXTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 655.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 656.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 657.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 658.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 659.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 660.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 661.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 662.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 663.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 664.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 665.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO DÉCIMO SÉPTIMO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 666.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 667.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 668.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 669.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 670.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 671.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 672.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 673.
 
@@ -8119,8 +7737,6 @@ III. Si se embargaren también las rentas que produzca el inmueble, el depositar
 
 El embargo preventivo practicado a consecuencia de la declaración de rebeldía, continuará hasta la conclusión del juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 781.
@@ -8205,8 +7821,6 @@ IV. Los concernientes al estado civil de las personas.
 
 V. Los negocios que versen sobre derechos no disponibles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2013)</small>
 
 VI. Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias, y
@@ -8240,8 +7854,6 @@ Se entenderá que el acuerdo se ha formalizado por documento privado no sólo cu
 ###### ARTÍCULO 794.
 
 Personas legitimadas para comprometer en árbitros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -8809,7 +8421,7 @@ II. Apelación.
 
 III. Queja.
 
-(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 11 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -8977,7 +8589,11 @@ No puede apelar el que obtuvo todo lo que pidió, a menos de que se trate de ape
 
 Plazo para la interposición del recurso de apelación.
 
-El plazo para interponer el recurso de apelación, será:
+(NOTA: EL 9 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2018)</small>
+
+El plazo para interponer el recuro de apelación SE CONSIDERARÁ COMÚN Y POR TANTO SE CONTARÁ DESDE EL DÍA SIGUIENTE A AQUEL EN QUE TODAS LAS PARTES HAYAN QUEDADO NOTIFICADAS, Y será:
 
 I. De quince días, si se trata de sentencia definitiva.
 
@@ -9089,8 +8705,6 @@ I. Todas las apelaciones se admitirán en el efecto devolutivo, a menos que por 
 
 II. La apelación en el efecto devolutivo no suspende la ejecución de la resolución apelada ni la secuela del juicio en que se dicte.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 III. No obstante lo dispuesto en la fracción anterior, para ejecutar las sentencias definitivas, deberá otorgarse previamente caución para responder de los daños y perjuicios que puedan ocasionarse a la contraparte con motivo de la ejecución provisional. Podrá llevarse adelante la ejecución provisional sin necesidad de caución en los casos en que la ley lo disponga. Si la caución es otorgada por el actor, su monto comprenderá la devolución del bien que deba recibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causen al demandado, si el Superior revoca el fallo. Si se otorgare por el demandado como contragarantía para evitar la ejecución del fallo, su monto cubrirá el pago de lo juzgado y sentenciado o el cumplimiento, si la sentencia condena a hacer o no hacer.
@@ -9119,8 +8733,6 @@ I. Sólo podrá admitirse la apelación en el efecto suspensivo en los siguiente
 
 a) Cuando la ley de una manera expresa ordene que la apelación se admita con ese efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 b) DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 c) Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación.
@@ -9128,8 +8740,6 @@ c) Contra las sentencias interlocutorias y los autos que paralicen o pongan tér
 d) Contra el auto aprobatorio del remate.
 
 II. En los casos a que se refiere este artículo, se suspenderá la ejecución de la sentencia o auto apelado, hasta que recaiga fallo del superior; mientras tanto quedará en suspenso la tramitación del juicio en la parte afectada por el recurso. La suspensión no afecta las medidas puramente conservativas, lo concerniente al depósito, ni a las cuentas y gastos de administración y tampoco a las medidas de aseguramiento provisional de que habla la fracción siguiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -9215,8 +8825,6 @@ Sentencia de segunda instancia.
 
 La sentencia de segunda instancia se sujetará a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 I. Se limitará a estudiar y decidir sobre los agravios que haya expresado el apelante, sin que pueda resolver sobre cuestiones que no fueron materia de éstos o que hayan sido consentidas expresamente por las partes.
@@ -9246,8 +8854,6 @@ Las apelaciones contra sentencias interlocutorias y autos en cualquier clase de 
 Nuevas pretensiones y contrapretensiones en segunda instancia.
 
 Cuando se tramiten apelaciones contra sentencias, sólo podrán admitirse al actor nuevas pretensiones cuando se reclamen intereses o prestaciones futuras devengadas con posterioridad a la fecha en que se dictó la de primera instancia; o daños y perjuicios supervenientes; o la sustitución de la prestación reclamada porque el bien objeto del litigio haya sido destruido, u otra causa similar que imposibilite el cumplimiento de la prestación original. Al demandado sólo se le admitirán contrapretensiones supervenientes. Estas pretensiones y contrapretensiones, se tramitarán incidentalmente por cuerda separada y se decidirán en la sentencia definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -9835,8 +9441,6 @@ VIII. El tribunal podrá permitir que el acreedor, bajo protesta de decir verdad
 
 IX. Podrá pedirse la revisión de una cuenta ya aprobada; pero sólo en los casos de error material, omisiones de ingresos, o falsedad, o duplicidad de cargos que se hayan descubierto posteriormente. La revisión, en estos supuestos, se substanciará en incidente por separado, en el que se citará al que rindió la cuenta y demás interesados; y se les recibirán las pruebas que ofrezcan. La resolución que se dicte será apelable en el efecto devolutivo, si lo fuera la definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 935.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
@@ -9922,8 +9526,6 @@ d) No se proporcionen los datos precisos de la ubicación y registro de los bien
 Bienes exceptuados de embargo.
 
 Quedan exceptuados de embargo:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -10446,8 +10048,6 @@ Las partes tienen derecho de practicar y presentar de común acuerdo el avalúo 
 I. Cuando se haya practicado en el contrato que dio origen a la obligación, pero si se aceptará el que sea posterior al embargo.
 
 II. Cuando existan terceros interesados y éstos no hayan dado su conformidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -11439,8 +11039,6 @@ I. El nombre, fecha y lugar de la muerte del autor de la herencia, así como su 
 
 II. Si hay o no testamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 III. Nombres y domicilios de los herederos legítimos de que tenga conocimiento el denunciante, haya o no testamento, con expresión del grado de parentesco o lazo con el causante de la sucesión, indicando si hay niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
@@ -11474,8 +11072,6 @@ I. El cónyuge supérstite.
 II. Los herederos del autor de la sucesión, ya sean testamentarios o legítimos, aunque sólo tengan este carácter como presuntos.
 
 III. Los legatarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -11543,8 +11139,6 @@ VI. Si los bienes estuvieren situados en lugares diversos o distantes, podrán n
 
 El interventor cesará en su función, luego que se nombre o dé a conocer al albacea y entregará a éste los bienes, sin que pueda retenerlos bajo ningún pretexto, ni aún por mejoras o gastos de manutención o reparación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1053.
@@ -11560,8 +11154,6 @@ Tan pronto como el juzgador tenga conocimiento de la existencia de estos hereder
 Intervención del Ministerio Público en los juicios sucesorios.
 
 El Ministerio Público intervendrá en los juicios sucesorios en los siguientes casos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -11757,8 +11349,6 @@ Se citará también al Ministerio Público para que represente a los herederos c
 
 Luego que comparezcan los herederos y ausentes, cesará la representación del Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1070.
@@ -11766,8 +11356,6 @@ Luego que comparezcan los herederos y ausentes, cesará la representación del M
 Citación del representante legítimo o tutor de herederos o legatarios que sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
 En los juicios sucesorios en que existan herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, se les mandará citar a través de su representante legítimo o tutor, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -11869,8 +11457,6 @@ IV. La declaración de apertura de la sucesión legítima, si el testador hubier
 
 V. Discutir las demás cuestiones que en la junta sometan los interesados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 VI. La designación de tutor o representante, cuando así proceda, para los herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
@@ -11937,19 +11523,13 @@ El derecho a heredar por sucesión legítima debe comprobarse en la forma siguie
 
 I. Los descendientes, ascendientes y cónyuge, mediante la presentación de las copias certificadas de las actas del Registro Civil que acrediten la relación. Deben declarar además, bajo protesta de decir verdad, cuales otros parientes del autor de la sucesión existen dentro de los mismos grados. El cónyuge, si no existen descendientes o ascendientes, debe declarar, además, si existen colaterales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 III. Los colaterales acreditarán su relación con el finado con las partidas del Registro Civil correspondientes, y además, con información testimonial que ofrezcan de que no existen ascendientes o descendientes o cónyuge de aquél, o que se encuentren en alguno de los casos de herencia concurrente a que se refiere el Código Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 IV. Quien haya vivido con el autor de la herencia públicamente como cónyuge sin estar casado con él, en la forma prevista por la Ley para la Familia de Coahuila de Zaragoza, acreditará su carácter mediante las pruebas escritas que puedan exhibir y además con información de testigos que se recibirá con citación del Ministerio Público y demás herederos. No se admitirá promoción de quienes se encuentran en esta situación y si la hicieren se les mandará a devolver, cuando apareciere que existe cónyuge.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -11975,21 +11555,15 @@ I. Se hará constar por la secretaría si se hicieron oportunamente las citacion
 
 II. La falta de informes de la Dirección de Notarías y del Registro Público sobre los testamentos que hubiere otorgado el autor de la herencia, no suspenderá la junta, si se comprobare que se pagaron previamente los derechos por la expedición de los certificados, sin perjuicio de que se sobresea el intestado cuando aparezca que se otorgó el testamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 III. Se recibirán los documentos que exhiban los interesados para justificar sus derechos y se dará cuenta con los que ya existan en el expediente. El Ministerio Público representará a los herederos ausentes y a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica.
 
 IV. En seguida el juzgador hará la declaratoria de herederos, de acuerdo con los justificantes que se hubieren presentado y conforme a las reglas del Código Civil sobre sucesión legítima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 V. Se proveerá de tutor a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, que no lo tuvieren.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -12068,8 +11642,6 @@ Inventario solemne.
 El inventario solemne se practicará con intervención de un notario o del secretario del juzgado, sin perjuicio de que el juzgador pueda concurrir a su formación. Deberá practicarse inventario solemne en los siguientes casos:
 
 I. Si la mayoría de los herederos y legatarios lo piden.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -12427,8 +11999,6 @@ Los preceptos de este Título podrán aplicarse supletoriamente en el trámite d
 
 ### CAPÍTULO NOVENO. Transmisión hereditaria del patrimonio familiar
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1124.
@@ -12448,8 +12018,6 @@ I. Con la denuncia se acompañará la partida de defunción del autor de la here
 II. Si consta de estos documentos, quienes son los miembros de la familia beneficiaria, el juzgador hará desde luego la declaratoria de herederos. En caso contrario, se exhibirán los comprobantes de parentesco de los beneficiarios.
 
 III. El inventario y avalúo se practicará desde luego por el cónyuge que sobreviva o por el albacea, si estuviere designado, y en su defecto, por el heredero que sea de más edad. No se requerirá que el avalúo vaya firmado por perito si al constituirse el patrimonio familiar consta el valor de los bienes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -12577,8 +12145,6 @@ Los procedimientos sin litigio comprenden todos los actos en que por disposició
 
 Los procedimientos sin litigio podrán tramitarse también ante notario con sujeción a las disposiciones de este código, excepción hecha de los casos en los que en él o en otras leyes o en tratados o convenciones internacionales se requiera la intervención de la autoridad judicial o de cualquier otra clase de autoridades o de aquellos otros que deban iniciarse mediante la presentación de una demanda, independientemente de que exista o no controversia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Los notarios que hayan intervenido en el nombramiento de un tutor o hayan autorizado a los representantes legítimos de niños o niñas, o de personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, para que enajenen bienes inmuebles o muebles preciosos que les pertenezcan, no podrán tomar a su cargo la escrituración de negocios jurídicos en los que deba intervenir el tutor nombrado o deba hacerse efectiva la autorización concedida.
@@ -12614,8 +12180,6 @@ Casos en que se oirá al Ministerio Público.
 Se oirá precisamente al Ministerio Público cuando:
 
 I. La solicitud promovida afecte el interés público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -12682,8 +12246,6 @@ Naturaleza de las declaraciones judiciales en los procedimientos sin litigio.
 Las declaraciones emitidas por los jueces en los procedimientos sin litigio, no entrañan cosa juzgada, ni aún cuando, por haber sido objeto de recurso, hayan sido confirmadas por el Superior.
 
 Declarado un hecho mediante estos procedimientos, se presume cierto, salvo prueba en contrario; y los terceros que adquieran derechos de aquéllos en cuyo favor se ha hecho la declaración judicial, se presume que lo han hecho de buena fe, no mediando prueba en contrario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -13544,6 +13106,30 @@ P.O. 22 DE SEPTIEMBRE DE 2017.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1159.- SE REFORMA EL ARTÍCULO 58 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1161.- SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 868 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
