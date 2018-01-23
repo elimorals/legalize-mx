@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2017-03-17"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -16577,6 +16577,10 @@ III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandan
 
 IV. En el supuesto del artículo 2998.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+
+El mandato a que se refiere el presente artículo tendrá una vigencia de tres años, a partir de que se dio la declaración unilateral del poderdante en favor del apoderado, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque. Cualquier disposición que establezca un plazo superior se tendrá por no puesta.
+
 > <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 3010.
@@ -21198,3 +21202,9 @@ P.O. 17 DE MARZO DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1160.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3009 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
