@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-para-el-1229
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-08"
-last_updated: "2017-08-08"
+last_updated: "2018-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # LEY DE CIENCIA, DESARROLLO TECNOLOGICO E INNOVACION PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2018 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de agosto de 2017.
 
@@ -747,9 +745,15 @@ XVI. Asesorar y orientar a las instituciones educativas estatales que lo solicit
 
 XVII. Establecer vínculos de coordinación con el consejo nacional y los consejos estatales de ciencia y tecnología, para el intercambio de información, conocimientos, programas y acciones que se estén desarrollando;
 
-XVIII. Asesorar al gobierno del Estado, municipios, CI, IES, así como personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, tecnología e innovación; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2018)</small>
 
-XIX. Las demás que sean necesarias para el cumplimiento de su objeto y aquellas que le confiera la presente Ley y otras disposiciones aplicables.
+XVIII. Asesorar al Gobierno del Estado, Municipios, CI, IES, así como personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, tecnología e innovación;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2018)</small>
+
+XIX. Promover, y en su caso, organizar ferias y exposiciones de ciencia y tecnología de carácter regional, estatal, nacional e internacional, con la finalidad de dar a conocer el trabajo de estudiantes, investigadores, científicos e inventores en general, y estimular el interés por estas disciplinas del conocimiento en los niños y jóvenes; y
+
+XX. Las demás que sean necesarias para el cumplimiento de su objeto y aquellas que le confiera la presente Ley y otras disposiciones aplicables.
 
 #### SECCION II. Del Patrimonio
 
@@ -1076,3 +1080,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1191.- SE MODIFICA EL CONTENIDO DE LAS FRACCIONES XVIII, SE ADICIONA LA FRACCIÓN XIX Y SE RECORRE LA ACTUAL A LA FRACCIÓN XX DEL ARTÍCULO 66 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
