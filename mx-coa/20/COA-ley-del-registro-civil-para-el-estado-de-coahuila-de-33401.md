@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2017-12-26"
+last_updated: "2018-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -669,9 +669,11 @@ Cuando un juez resuelva que una tutela queda sin efectos por haber desaparecido 
 
 La celebración del matrimonio se sujetará a las formalidades y solemnidades que establece el Código Civil para el Estado de Coahuila.
 
-###### ARTÍCULO 93.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2018)</small>
 
-Toda persona que pretenda contraer matrimonio, independientemente de su edad, deberá satisfacer lo previsto en el artículo 197 del Código Civil para el Estado de Coahuila.
+###### Artículo 93.
+
+Toda persona que pretenda contraer matrimonio, deberá satisfacer lo previsto en el artículo 87 de la Ley para la Familia de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 94.
 
@@ -683,13 +685,9 @@ Los Oficiales del Registro Civil proporcionarán a quienes pretendan contraer ma
 
 Cuando alguno o ambos contrayentes sean extranjeros, se deberá cumplir con lo dispuesto en la Ley de Migración y el Artículo 14 de la presente ley.
 
-###### ARTÍCULO 96.
+###### Artículo 96.
 
-Las personas menores de edad que pretendan contraer matrimonio bajo el régimen de sociedad conyugal, deberán presentar las capitulaciones matrimoniales previamente aprobadas por las personas cuyo consentimiento sea necesario para la celebración del matrimonio.
-
-Si por el contenido de las capitulaciones matrimoniales, éstas deben constar en escritura pública, se acompañará testimonio de ésta.
-
-Si el matrimonio se desea celebrar bajo el régimen de sociedad conyugal, pero no se presentan las capitulaciones matrimoniales, el mismo, por disposición de ley, se entenderá celebrado bajo el régimen de separación de bienes.
+(DEROGADO, P.O. 23 DE ENERO DE 2018)
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2006)</small>
 
@@ -1141,7 +1139,7 @@ II. El resultado de la investigación se hará del conocimiento del Director o d
 
 III. La Secretaría de Gobierno instruirá el procedimiento correspondiente y en él oirá personalmente al Director o a la Directora del Registro Civil, concediéndole el término de veinte días hábiles para que aporte las pruebas que estime pertinentes para su defensa.
 
-IV. La Secretaría de Gobierno celebrará una audiencia, dentro de los 10 días siguientes al vencimiento del término a que se refiere la fracción que antecede, en la que se deshogarán las pruebas ofrecidas y admitidas. Desahogada la audiencia, se presentará un proyecto al titular del Ejecutivo para su resolución definitiva.
+IV. La Secretaría de Gobierno celebrará una audiencia, dentro de los 10 días siguientes al vencimiento del término a que se refiere la fracción que antecede, en la que se deshogarán (sic) las pruebas ofrecidas y admitidas. Desahogada la audiencia, se presentará un proyecto al titular del Ejecutivo para su resolución definitiva.
 
 ###### ARTÍCULO 137.
 
@@ -1360,3 +1358,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1163.- SE REFORMA EL ARTÍCULO 93, Y SE DEROGA EL ARTÍCULO 96, AMBOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
