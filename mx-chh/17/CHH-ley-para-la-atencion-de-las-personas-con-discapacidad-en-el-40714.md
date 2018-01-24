@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2017-02-22"
+last_updated: "2018-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO CHIHUAHUA
 
+[N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA,PUBLICADA EN EL P.O DE 24 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -954,3 +956,35 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Atención de las Personas con Discapacidad en el Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 59 del 24 de julio de 2004.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo y el Mecanismo, habrán de instalarse en un plazo máximo de 90 días naturales, a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El reglamento de esta Ley, deberá expedirse en un plazo máximo de 180 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Aquellas modificaciones legislativas que sean necesarias para la debida armonización de la presente Ley con la legislación del Estado, deberán realizarse en un plazo máximo de 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo Estatal deberá instituir el Fondo Especial para la Atención de Personas con Discapacidad, en un plazo no mayor a 30 días hábiles e incluir las partidas correspondientes en el Proyecto de Presupuesto de Egresos para el año 2018 y los subsecuentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+La minuta del Decreto No. 1570/2016 XXI P.E., por el que se expide la Ley para la Inclusión de las Personas con Discapacidad del Estado de Chihuahua, se deja sin efectos.
