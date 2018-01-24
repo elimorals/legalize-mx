@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2017-12-26"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LGSM"
 ---
 # LEY GENERAL DE SOCIEDADES MERCANTILES
 
-> <small>[N. DE E. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA PRESENTE LEY, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA PRESENTE LEY, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017.]
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2018.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -1752,6 +1754,10 @@ IV.- Porque el número de accionistas llegue a ser inferior al mínimo que esta 
 
 V.- Por la pérdida de las dos terceras partes del capital social.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+VI.- Por resolución judicial o administrativa dictada por los tribunales competentes, conforme a las causales previstas en las leyes aplicables.
+
 ###### ARTICULO 230.
 
 La sociedad en nombre colectivo se disolverá, salvo pacto en contrario, por la muerte, incapacidad, exclusión o retiro de uno de los socios, o porque el contrato social se rescinda respecto a uno de ellos.
@@ -1766,11 +1772,17 @@ Las disposiciones establecidas en el artículo anterior son aplicables a la soci
 
 En el caso de la fracción I del artículo 229, la disolución de la sociedad se realizará por el solo transcurso del término establecido para su duración.
 
-En los demás casos, comprobada por la sociedad la existencia de causas de disolución, se inscribirá ésta en el Registro Público de Comercio.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2018)</small>
 
-Si la inscripción no se hiciere a pesar de existir la causa de disolución, cualquier interesado podrá ocurrir ante la autoridad judicial, en la vía sumaria, a fin de que ordene el registro de la disolución.
+En los demás casos, comprobada por la sociedad la existencia de causas de disolución, la causa de disolución se inscribirá de manera inmediata en el Registro Público de Comercio.
 
-Cuando se haya inscrito la disolución de una sociedad, sin que a juicio de algún interesado hubiere existido alguna causa de las enumeradas por la Ley, podrá ocurrir ante la autoridad judicial, dentro del término de treinta días contados a partir de la fecha de la inscripción, y demandar, en la vía sumaria, la cancelación de la inscripción.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Si la inscripción no se hiciere a pesar de existir la causa de disolución, cualquier interesado podrá ocurrir ante la autoridad judicial, en la vía sumaria o, en los casos que la disolución sea por resolución judicial, en la vía incidental, a fin de que ordene el registro de la disolución.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Cuando se haya inscrito la disolución de una sociedad, sin que a juicio de algún interesado hubiere existido alguna causa de las enumeradas por la Ley, podrá ocurrir ante la autoridad judicial, dentro del término de treinta días contados a partir de la fecha de la inscripción, y demandar, en la vía sumaria, la cancelación de la inscripción, salvo los casos en que la disolución sea por resolución judicial, en los cuales aplicará los medios de impugnación correspondientes a la materia que emitió la resolución judicial correspondiente.
 
 ###### ARTICULO 233.
 
@@ -1790,17 +1802,29 @@ La liquidación estará a cargo de uno o más liquidadores, quienes serán repre
 
 A falta de disposición del contrato social, el nombramiento de los liquidadores se hará por acuerdo de los socios, tomado en la proporción y forma que esta Ley señala, según la naturaleza de la sociedad, para el acuerdo sobre disolución. La designación de liquidadores deberá hacerse en el mismo acto en que se acuerde o se reconozca la disolución. En los casos de que la sociedad se disuelva por la expiración del plazo o en virtud de sentencia ejecutoriada, la designación de los liquidadores deberá hacerse inmediatamente que concluya el plazo o que se dicte la sentencia.
 
-Si por cualquier motivo el nombramiento de los liquidadores no se hiciere en los términos que fija este artículo, lo hará la autoridad judicial en la vía sumaria, a petición de cualquier socio.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Si por cualquier motivo el nombramiento de los liquidadores no se hiciere en los términos que fija este artículo, lo hará la autoridad judicial en la vía sumaria o, en los casos en que la disolución sea por resolución judicial, en la vía incidental, ambos supuestos a petición de cualquier socio.
 
 ###### ARTICULO 237.
 
 Mientras no haya sido inscrito en el Registro Público de Comercio el nombramiento de los liquidadores y éstos no hayan entrado en funciones, los administradores continuarán en el desempeño de su encargo.
 
-###### ARTICULO 238.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
 
-El nombramiento de los liquidadores podrá ser revocado por acuerdo de los socios, tomado en los términos del artículo 236 o por resolución judicial, si cualquier socio justificare, en la vía sumaria, la existencia de una causa grave para la revocación.
+Lo anterior no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ENERO DE 2018)</small>
+
+###### Artículo 238.
+
+El nombramiento de los liquidadores podrá ser revocado por acuerdo de los socios, tomado en los términos del artículo 236 o por resolución judicial, si cualquier socio justificare, en la vía sumaria o, en los casos en que la disolución sea por resolución judicial, en la vía incidental, la existencia de una causa grave para la revocación.
 
 Los liquidadores cuyos nombramientos fueren revocados, continuarán en su encargo hasta que entren en funciones los nuevamente nombrados.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo anterior no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
 
 ###### ARTICULO 239.
 
@@ -1810,9 +1834,17 @@ Cuando sean varios los liquidadores, éstos deberán obrar conjuntamente.
 
 La liquidación se practicará con arreglo a las estipulaciones relativas del contrato social o a la resolución que tomen los socios al acordarse o reconocerse la disolución de la sociedad. A falta de dichas estipulaciones, la liquidación se practicará de conformidad con las disposiciones de este capítulo.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo anterior no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
+
 ###### ARTICULO 241.
 
 Hecho el nombramiento de los liquidadores, los Administradores les entregarán todos los bienes, libros y documentos de la sociedad, levantándose en todo caso un inventario del activo y pasivo sociales.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo anterior no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
 
 ###### ARTICULO 242.
 
@@ -1828,9 +1860,15 @@ IV.- Liquidar a cada socio su haber social;
 
 V.- Practicar el balance final de la liquidación, que deberá someterse a la discusión y aprobación de los socios, en la forma que corresponda, según la naturaleza de la sociedad.
 
-El balance final, una vez aprobado, se depositará en el Registro Público de Comercio;
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+El balance final, una vez aprobado, se depositará en el Registro Público de Comercio; deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio;
 
 VI.- Obtener de (sic) Registro Público de Comercio la cancelación de la inscripción del contrato social, una vez concluída la liquidación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo dispuesto en las fracciones anteriores no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
 
 ###### ARTICULO 243.
 
@@ -1848,6 +1886,10 @@ Las sociedades, aún después de disueltas, conservarán su personalidad jurídi
 
 Los liquidadores mantendrán en depósito, durante diez años después de la fecha en que se concluya la liquidación, los libros y papeles de la sociedad.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Los liquidadores podrán optar por conservar los libros y papeles de la sociedad en formato impreso, o en medios electrónicos, ópticos o de cualquier otra tecnología, siempre y cuando, en estos últimos medios se observe lo establecido en la norma oficial mexicana sobre digitalización y conservación de mensajes de datos que para tal efecto emita la Secretaría de Economía. En el caso de que la disolución o liquidación se realice en los términos de lo establecido en el artículo 249 Bis 1 de esta Ley, el plazo de conservación de la documentación será de cinco años.
+
 ###### ARTICULO 246.
 
 En la liquidación de las sociedades en nombre colectivo, en comandita simple o de responsabilidad limitada, una vez pagadas las deudas sociales, la distribución del remanente entre los socios, si no hubiere estipulaciones expresas, se sujetará a las siguientes reglas:
@@ -1864,6 +1906,10 @@ V.- Si, durante el plazo a que se refiere la fracción III, los socios formulare
 
 VI.- Si la liquidación social se hiciere a virtud de la muerte de uno de los socios, la división o venta de los inmuebles se hará conforme a las disposiciones de esta Ley, aunque entre los herederos haya menores de edad.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo dispuesto en las fracciones anteriores no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
+
 ###### ARTICULO 247.
 
 En la liquidación de las sociedades anónimas y en comandita por acciones, los liquidadores procederán a la distribución del remanente entre los socios con sujeción a las siguientes reglas:
@@ -1878,6 +1924,10 @@ El mismo balance quedará, por igual término, así como los papeles y libros de
 
 III.- Transcurrido dicho plazo, los liquidadores convocarán a una Asamblea General de Accionistas para que apruebe en definitiva el balance. Esta Asamblea será presidida por uno de los liquidadores.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+Lo dispuesto en las fracciones anteriores no será aplicable cuando el nombramiento del liquidador se realice conforme al procedimiento del artículo 249 Bis 1 de esta Ley.
+
 ###### ARTICULO 248.
 
 Aprobado el balance general, los liquidadores procederán a hacer a los accionistas los pagos que correspondan, contra la entrega de los títulos de las acciones.
@@ -1887,6 +1937,54 @@ Aprobado el balance general, los liquidadores procederán a hacer a los accionis
 ###### ARTICULO 249.
 
 Las sumas que pertenezcan a los accionistas y que no fueran cobradas en el transcurso de dos meses, contados desde la aprobación del balance final, se depositarán en una institución de crédito con la indicación del accionista. Dichas sumas se pagarán por la institución de crédito en que se hubiese constituido el depósito.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+###### ARTICULO 249 Bis.
+
+Las sociedades podrán llevar a cabo su disolución y liquidación conforme al procedimiento contemplado en el artículo 249 Bis 1, siempre y cuando la sociedad:
+
+I.- Esté conformada exclusivamente por socios o accionistas que sean personas físicas;
+
+II.- No se ubique en el supuesto contemplado en el artículo 3 de esta Ley;
+
+III.- Hubiere publicado en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio y las disposiciones para su operación, el aviso de inscripción en el libro especial de los socios o registro de acciones de registro con la estructura accionaria vigente por lo menos 15 días hábiles previos a la fecha de la asamblea mediante la cual se acuerde la disolución. Para tales efectos la información contenida en el aviso de la inscripción tendrá carácter confidencial;
+
+IV.- No se encuentre realizando operaciones, ni haya emitido facturas electrónicas durante los últimos dos años;
+
+V.- Esté al corriente en el cumplimiento de sus obligaciones fiscales, laborales y de seguridad social;
+
+VI.- No posea obligaciones pecuniarias con terceros;
+
+VII.- Sus representantes legales no se encuentren sujetos a un procedimiento penal por la posible comisión de delitos fiscales o patrimoniales;
+
+VIII.- No se encuentre en concurso mercantil, y
+
+IX.- No sea una entidad integrante del sistema financiero, en términos de la legislación especial aplicable.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2018)</small>
+
+###### ARTICULO 249 Bis 1.
+
+El procedimiento de disolución y liquidación a que se refiere el artículo 249 Bis de esta Ley, se realizará conforme a lo siguiente:
+
+I.- La totalidad de los socios o accionistas acordarán mediante asamblea la disolución y liquidación de la sociedad, declarando bajo protesta de decir verdad, que se ubican y cumplen con las condiciones a que se refiere el artículo 249 Bis de esta Ley, y nombrarán al liquidador de entre los socios o accionistas.
+
+Este acuerdo deberá suscribirse por todos los socios o accionistas, constar en acta de disolución y liquidación y publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio, a más tardar dentro de los 5 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, en ningún caso se exigirá el requisito de escritura pública, póliza, o cualquier otra formalidad adicional a la contemplada en este párrafo;
+
+II.- Una vez publicado el acuerdo, la Secretaría de Economía verificará que el acta de disolución y liquidación de la sociedad cumpla con lo establecido en la fracción anterior y, de ser procedente, lo enviará electrónicamente para su inscripción en el Registro Público de Comercio de conformidad con lo dispuesto en el artículo 10 Bis 1 del Reglamento del Registro Público de Comercio;
+
+III.- Los socios o accionistas entregarán al liquidador todos los bienes, libros y documentos de la sociedad a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
+
+IV.- El liquidador llevará a cabo la distribución del remanente del haber social entre los socios o accionistas de forma proporcional a sus aportaciones, si es que lo hubiere en un plazo que no excederá los 45 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
+
+V.- Los socios o accionistas entregarán al liquidador los títulos de las acciones a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
+
+VI.- Una vez liquidada la sociedad, el liquidador publicará el balance final de la sociedad en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio, que en ningún caso podrá exceder a los 60 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, y
+
+VII.- La Secretaría de Economía realizará la inscripción de la cancelación del folio de la sociedad en el Registro Público de Comercio de conformidad con lo dispuesto en el artículo 10 Bis 1 del Reglamento del Registro Público de Comercio y notificará a la autoridad fiscal correspondiente.
+
+En caso que los socios o accionistas faltaren a la verdad afirmando un hecho falso o alterando o negando uno verdadero conforme a lo establecido en el presente artículo, los socios o accionistas responderán frente a terceros, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido en materia penal.
 
 ### CAPITULO XII. De las sociedades extranjeras
 
@@ -1947,8 +2045,6 @@ Las asociaciones en participación funcionan, se disuelven y liquidan, a falta d
 ### CAPITULO XIV. De la sociedad por acciones simplificada
 
 > <small>[N. DE E. PARA CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL PRESENTE ARTÍCULO, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017.]</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
@@ -2306,7 +2402,7 @@ D.O.F. 14 DE MARZO DE 2016.
 
 D.O.F. 29 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
 
@@ -2315,3 +2411,9 @@ D.O.F. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2018.
+
+D.O.F. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+
+Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
