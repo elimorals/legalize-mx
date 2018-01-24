@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-previene-y-combate-la-discriminacion-en-el-estado-68449
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2011-05-11"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE PREVIENE Y COMBATE LA DISCRIMINACION EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 3 de abril de 2009.
 
@@ -47,25 +47,29 @@ Ley que Previene y Combate la Discriminación en el Estado de Chiapas
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general y obligatoria en el territorio del Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 2.
 
-El objeto de la presente Ley es prevenir y combatir toda forma de discriminación que se ejerza o pretenda ejercer contra cualquier persona o grupo de personas en el territorio del Estado, así como promover la igualdad de oportunidades y de trato.
+El objeto de la presente Ley es prevenir y combatir toda forma de discriminación que se ejerza o pretenda ejercer contra cualquier persona o grupo de personas en el territorio del Estado, así como promover la igualdad de oportunidades y de trato, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal para Prevenir y Eliminar la Discriminación, y demás disposiciones legales aplicables.
 
 ### Capítulo II. Definición de Discriminación
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta ley, se entiende por discriminación toda distinción, exclusión o restricción que basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, el idioma, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, el color, los patrones de conducta social, o cualquier otra que tenga por objeto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de los individuos y la igualdad real de oportunidades de estos últimos.
+Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
-Asimismo, serán considerados como discriminación, la xenofobia y el antisemitismo, en cualquiera de sus manifestaciones.
+Asimismo se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
 ### Capítulo III. Prohibición de las Prácticas Discriminatorias
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 4.
 
-Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, el color, las ideologías o creencias religiosas, la condición migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda forma de discriminación que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades, en términos del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 3 de la presente Ley.
 
 ###### Artículo 5.
 
@@ -74,6 +78,10 @@ Toda discriminación o toda intolerancia serán combatidas, toda vez que constit
 ###### Artículo 6.
 
 Toda autoridad, órgano público estatal o municipal y servidor público que actúe o se desempeñe en el Estado de Chiapas, con independencia de la esfera pública a que pertenezca, deberá abstenerse de efectuar prácticas discriminatorias por acción u omisión, y deberá eliminar aquellos obstáculos que limiten su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y de la entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+En ese sentido, las autoridades coadyuvarán en establecer acciones efectivas para proveer y ejecutar medidas de prevención, atención y en general todas aquellas que se requieran para erradicar la violencia de género, así como garantizar a las personas o grupos vulnerables, en especial a las mujeres y niñas, el pleno goce del derecho a una vida libre de violencia, lo anterior en términos de la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a Una Vida Libre de Violencia para las Mujeres y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -1160,3 +1168,19 @@ P.O. 11 DE MAYO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS; LEY QUE PREVIENE Y COMBATE LA DISCRIMINACIÓN EN EL ESTADO DE CHIAPAS; LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS; CÓDIGO CIVIL DEL ESTADO DE CHIAPAS; Y CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS; EN MATERIA DE PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS MUJERES Y NIÑAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial instrumentará el mecanismo necesario para informar al Registro Civil y al Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, sobre los casos de muerte por violencia familiar o de género que se susciten en el Estado.
+
+Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá realizar las acciones necesarias, para implementar el Programa de Reeducación para Personas Generadoras de Violencia.
+
+Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
+
+Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
