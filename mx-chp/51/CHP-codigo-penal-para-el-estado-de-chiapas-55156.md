@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2017-08-30"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -59,7 +59,9 @@ Código Penal para el Estado de Chiapas
 
 Las disposiciones de este Código son de orden público, interés social y de observancia general en el Estado de Chiapas. Los principios que le rigen son la igualdad, la no discriminación y el respeto a la dignidad y libertad de las personas; en ese sentido, cuando en este Código se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual.
 
-Para efectos de este Código se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, la tradición, la cultura, las opiniones, la preferencia e identidad sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, los antecedentes penales o cualquier otro motivo.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
+Para efectos de este Código se entenderá por discriminación, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, la pertenencia a un determinado grupo, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición de vulnerabilidad, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, la tradición, la cultura, las opiniones, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, los antecedentes penales o cualquier otro motivo.
 
 No se considerarán como actos de discriminación, para efectos del presente instrumento, las excepciones sobre inimputabilidad, aplicación de perspectiva de género, pertenencia cultural en pueblos originarios, y los requisitos establecidos en este Código.
 
@@ -375,7 +377,7 @@ Se consideran como delitos contra la seguridad del Estado, los siguientes: a) De
 
 11. DELITOS GRAVES QUE DETERMINE LA LEY EN CONTRA DE LA SALUD.
 
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TECERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 SE CONSIDERAN COMO DELITOS CONTRA LA SALUD, LOS SIGUIENTES: CONTRA LA SALUD, PREVISTOS Y SANCIONADOS EN LOS ARTÍCULOS 475 Y 476, EN RELACIÓN A LA TABLA CONTEMPLADA EN EL ARTÍCULO 479 DE LA LEY GENERAL DE SALUD.
 
@@ -407,7 +409,7 @@ Son autores del delito quienes tienen el dominio del hecho; son partícipes del 
 
 Son autores o partícipes del delito:
 
-l. Como autor intelectual, los que planeen o preparen su realización;
+I. Como autor intelectual, los que planeen o preparen su realización;
 
 II. Como autor material, los que lo realicen por sí mismos;
 
@@ -1013,7 +1015,9 @@ IV. Reingreso de la víctima al domicilio, una vez salvaguardada su seguridad.
 
 V. Prohibición de intimidar o molestar a la víctima, al ofendido, familiares o cualquier persona relacionada con ellos.
 
-VI. Auxilio inmediato por integrantes de instituciones policiales a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitarlo.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
+VI. Auxilio inmediato por integrantes de las instituciones de seguridad pública, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitarlo, en el marco de los derechos fundamentales.
 
 VII. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que estuvieran en posesión del probable responsable.
 
@@ -1723,11 +1727,11 @@ El Ejecutivo del Estado tendrá la facultad discrecional para indultar, en resol
 
 El Ejecutivo podrá otorgar el indulto en el fallo ejecutoriado, tomando siempre en consideración el grado de reinserción social del sentenciado, el hecho de que su liberación no represente un peligro para la tranquilidad y seguridad pública, los servicios prestados por el sentenciado, a la Nación o al Estado y, en su caso, las motivaciones de carácter político o social que lo hayan impulsado a delinquir.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 153.
 
-No podrá otorgarse el indulto a los sentenciados por los delitos de violación, homicidio doloso, secuestro, tráfico de menores y de los que no tengan capacidad de entender el significado del hecho, corrupción de menores e incapaces, pornografía infantil, lenocinio de menores, trata de personas y en los delitos imprescriptibles.
+No podrá otorgarse el indulto a los sentenciados por los delitos de violación, homicidio doloso, feminicidio, pederastia, secuestro, tráfico de menores y de los que no tengan capacidad de entender el significado del hecho, corrupción de menores e incapaces, pornografía infantil, lenocinio de menores, trata de personas y en los delitos imprescriptibles.
 
 ###### Artículo 154.
 
@@ -1825,13 +1829,15 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 El juzgador tomará en cuenta para los efectos de la sanción las modalidades calificativas y atenuantes en que el homicidio se hubiere perpetrado.
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ### Capítulo II. Lesiones
 
 ###### Artículo 164 Bis.
 
-Comete el delito de feminicidio y se sancionará con prisión de veinticinco a sesenta años, a quien por razones de género prive de la vida a una mujer.
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, y se sancionará con prisión de cuarenta a sesenta años y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 Serán consideradas razones de género las siguientes:
 
@@ -1848,6 +1854,8 @@ V. Existan datos o antecedentes que establezcan que se han cometido amenazas, ac
 VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público.
 
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 En el caso de la fracción I se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
@@ -2123,7 +2131,7 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 ### Capítulo II. Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 189.
 
@@ -2205,7 +2213,7 @@ Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deber�
 
 ###### Artículo 198.
 
-Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de dominarla, someterla, controlarla, denostarla, denigrarla, mediante el maltrato físico, verbal, psicoemocional o sexual, independientemente de que se produzcan o no lesiones o se realice cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
+Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de acosarla, dominarla, someterla, controlarla, denostarla, denigrarla, mediante el maltrato físico, verbal, psicoemocional o sexual, patrimonial y económico, independientemente de que se produzcan o no lesiones o se realice cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
 
 El mismo delito será imputable también a quien omita impedirlo o denunciarlo.
 
@@ -2217,25 +2225,49 @@ Maltrato psicoemocional: Cualquier conducta, activa u omisiva que mediante prohi
 
 Maltrato sexual: La utilización, imposición o abstención de prácticas sexuales como instrumento para el control, manipulación o dominio del sujeto pasivo, que le generen un daño físico o moral.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+Maltrato patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+Maltrato económico.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral,
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 199.
 
-Al que cometa el delito de violencia familiar, se le impondrá de tres a siete años de prisión, una multa de sesenta a ciento cincuenta días de salario mínimo, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio del juzgador, atendiendo a las circunstancias del hecho, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con el sujeto pasivo y el Juez estime oportuna esta medida y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
+Al que cometa el delito de violencia familiar, se le impondrá de cinco a ocho años de prisión, una multa de sesenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio de la juzgadora o el juzgador, atendiendo a las circunstancias del hecho, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con la víctima y la Jueza o el Juez estime oportuna esta medida y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
 
-En cualquier caso el Juez ordenará la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, a través de instituciones públicas. En caso de no cumplir con ésta disposición, se ordenará su reaprehensión.
+En cualquier caso la Jueza o el Juez ordenarán la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, así como al Programa de Reeducación para Personas Generadoras de Violencia, a través de instituciones públicas. En caso de no cumplir con ésta disposición, se ordenará su reaprehensión.
 
 Además, será obligatorio para la parte agresora, realizar trabajo comunitario por un período de veinte a ciento ochenta días, tomando en cuenta para ello las circunstancias del caso concreto.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 200.
 
-El delito de violencia familiar se perseguirá por querella, con excepción del que se cometa en contra de menores de edad, personas incapaces o personas mayores de sesenta años. En ningún caso se deberá aleccionar a la víctima, ni obligarla a participar en mecanismos de conciliación con su agresor.
+El delito de violencia familiar se perseguirá por querella, excepto cuando:
+
+I. La víctima sea menor de edad, o mayor de sesenta años.
+
+II. La víctima sea una persona discapacitada, incapaz o no tenga la capacidad de comprender el significado del hecho.
+
+III. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima.
+
+IV. La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto.
+
+V. Exista imposibilidad material de la víctima de denunciar.
+
+En ningún caso deberá admitirse un acuerdo reparatorio en el delito de Violencia Familiar.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 201.
 
-En todos los casos previstos en este capítulo, el juzgador o en su caso el Ministerio Público, podrán ordenar la adopción de las medidas preventivas que estimen necesarias para salvaguardar la integridad física y psíquica de la víctima.
+En todos los casos previstos en este capítulo, la jueza, el juez o en su caso la o el Fiscal del Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las medidas precautorias o de protección necesarias para salvaguardar la integridad física y psíquica de la víctima.
+
+En los casos de incumplimiento de las medidas u órdenes de protección, se estará a lo que dispone la legislación aplicable.
 
 ###### Artículo 202.
 
@@ -2281,7 +2313,7 @@ Los ascendientes o tutores que entreguen en un establecimiento de beneficencia o
 
 No se impondrá pena alguna cuando la entrega o el abandono del menor o del incapaz se realice por su padre con anuencia de la madre, por la madre o por ambos por notoria ignorancia, extrema pobreza o cuando el menor sea producto de una violación o inseminación artificial delictiva.
 
-### Capítulo II. Retención y Sustracción de Menores y los que no Tengan Capacidad de Entender el Significado del Hecho
+### Capítulo II. Retención y Sustracción de Menores y los que no Tengan Capacidad de Entender el Significado del Hecho, y Privación de la Libertad con Fines Sexuales
 
 ###### Artículo 208.
 
@@ -2369,6 +2401,8 @@ Si la recuperación de la víctima se logra por datos proporcionados por el impu
 
 (DEROGADO, P.O. 1 DE JULIO DE 2015)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2018)</small>
+
 ### Capítulo I Bis. Engaño
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2014)</small>
@@ -2391,7 +2425,25 @@ Si el sujeto activo de la sustracción del menor o del incapaz no tiene la final
 
 Cuando el sujeto activo devuelva espontáneamente al menor o al incapaz dentro de las veinticuatro horas siguientes a la comisión del delito de retención o sustracción de menores o incapaces, sólo se le impondrá hasta una tercera parte de las sanciones señaladas para esos delitos, sin perjuicio de las penas que correspondan por la comisión de otros delitos durante el tiempo que haya durado la sustracción o retención.
 
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE ENERO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 042, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ### Capítulo II. Allanamiento
+
+###### Artículo 226 Bis.
+
+A quien prive a otro de su libertad personal, con el propósito de realizar un acto sexual, se le impondrá de tres a cinco años de prisión y de cien a quinientos días multa.
+
+Si dentro de las veinticuatro horas siguientes, el sujeto activo pone en libertad a la víctima, sin haber practicado el acto sexual, sólo se le impondrá hasta una tercera parte de la sanción señalada para este delito, sin perjuicio de las penas que correspondan por la comisión de otros delitos durante el tiempo que haya durado la privación de la libertad.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE ENERO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 042, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+###### Artículo 226 Ter.
+
+La privación de la libertad con el propósito de realizar un acto sexual se perseguirá por querella de la parte ofendida.
 
 ### Capítulo III. Asalto
 
@@ -2489,9 +2541,7 @@ Las penas señaladas para los delitos de violación y violación equiparada, se 
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
 
-### Capítulo V. Rapto
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo V
 
 ###### Artículo 235.
 
@@ -2543,7 +2593,7 @@ Al responsable del delito de hostigamiento sexual se le impondrá una sanción d
 
 Se procederá de oficio contra el responsable de hostigamiento sexual, cuando se configure la conducta en contra de personas mayores de catorce años de edad, pero menores de dieciocho, o que se encuentren en situación de vulnerabilidad en cualquier ámbito que implique una relación de suprasubordinación que configure el tipo.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 238.
 
@@ -2551,7 +2601,17 @@ Si el hostigador sexual fuese servidor público y se aprovechare de esta circuns
 
 Las mismas penas se aplicarán al servidor público que obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
 
-Sólo se procederá contra el responsable del delito de hostigamiento sexual por querella de parte ofendida.
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+###### Artículo 238 Bis.
+
+Comete el delito de acoso sexual, quien, con fines de lujuria, asedie a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, independientemente de que se realice en uno o varios eventos.
+
+De igual manera incurre en acoso sexual, quien sin consentimiento del sujeto pasivo y con propósito de lujuria o erótico sexual, grabe y/o fotografíe a cualquier persona, a través de medios informáticos, audiovisuales, virtuales o por cualquier otro medio; así mismo, quien sin consentimiento y con fines lascivos, asedie de manera verbal o corporal a cualquier persona, en lugares públicos, instalaciones o vehículos destinados al transporte público de pasajeros, afectando o perturbando su derecho a la integridad y libre tránsito, causándole intimidación, degradación, humillación y/o un ambiente ofensivo.
+
+En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el sujeto pasivo del delito fuera menor de edad, adulto mayor, persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, o personas que se encuentren en estado de intoxicación, la pena se incrementará en un tercio.
+
+Sólo se procederá contra el responsable del delito de hostigamiento y Acoso sexual por querella de parte ofendida.
 
 ### Capítulo VII. Disposiciones Comunes Para los Delitos Contenidos en este Título
 
@@ -2561,9 +2621,9 @@ Sólo se procederá contra el responsable del delito de hostigamiento sexual por
 
 Comete el delito de estupro, el que tenga cópula con una persona mayor de catorce años y menor de dieciocho, cualquiera que sea su sexo, obteniendo su consentimiento por medio del engaño.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
-Al responsable del delito de estupro, se le sancionará con pena de prisión de cinco a diez años y multa de diez a veinte días de salario.
+Al responsable del delito de estupro, se le sancionará con pena de prisión de ocho a veinte años.
 
 ###### Artículo 240.
 
@@ -2613,21 +2673,13 @@ En todos los casos, cuando la víctima sea menor de catorce años, el delito se 
 
 Cuando se presente la intervención activa de un tercero en estos casos, sólo se procederá contra él si se demuestra que conocía las circunstancias en las que se lleva a cabo la cópula o el acto sexual, o cuando el sujeto pasivo sea menor de catorce años.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2018)</small>
+
 ### Capítulo III. Disposiciones Comunes Para los Delitos Comprendidos en este Título
 
 ###### Artículo 244.
 
-Comete el delito de rapto, el que se apodere de una persona sea cual fuere su sexo, por medio de la violencia física o psicológica, de la seducción o del engaño para satisfacer algún deseo erótico sexual o para casarse.
-
-Al responsable del delito de rapto utilizando el engaño, se le sancionará con prisión de cinco a diez años.
-
-La misma pena se impondrá cuando el raptor no emplee la violencia o el engaño y haga uso únicamente de la seducción para obtener el consentimiento del pasivo, si éste fuere menor de dieciséis años de edad.
-
-Se presumirá la seducción, cuando el sujeto pasivo no haya cumplido dieciséis años de edad y siga voluntariamente a su raptor.
-
-Si el sujeto activo utiliza la violencia como medio comisivo la pena se aumentará hasta en una mitad más.
-
-Las penas dispuestas se aplicarán con independencia de las que correspondan por la comisión de otros delitos.
+(DEROGADO, P.O. 24 DE ENERO DE 2018)
 
 ###### Artículo 245.
 
@@ -2651,9 +2703,11 @@ Cuando el sujeto pasivo sea una persona mayor de catorce años de edad, pero men
 
 En los casos de los delitos comprendidos en este título, la reparación del daño comprenderá el pago de gastos de maternidad, de alimentos del sujeto pasivo y de los hijos en caso de que los hubiere como producto de la conducta típica, observándose al respecto las reglas que sobre la materia establezca el Código Civil.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 248.
 
-Las penas previstas para los delitos de violación y abuso sexual, se aumentarán hasta en una mitad de su mínimo y su máximo cuando:
+Las penas previstas para los delitos de violación, pederastia y abuso sexual, se aumentarán hasta en una mitad de su mínimo y su máximo cuando:
 
 I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas.
 
@@ -3713,7 +3767,7 @@ Las sanciones a que se refiere este capítulo, sólo dejarán de aplicarse en el
 
 ### Capítulo VI. Incitación a la Violencia
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 352.
 
@@ -3919,9 +3973,11 @@ Los plazos para la prescripción de la pretensión punitiva y de la potestad de 
 
 ###### Artículo 378 Bis.
 
-A quien por cualquier medio de manera pública o privada incite a la violencia o a cometer un delito, o haga la apología de éste o de algún vicio, se le impondrá prisión de seis meses a tres años y multa de diez a cincuenta días de salario, si la violencia, el delito, la apología de éste o algún vicio no se ejecutare. En caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+A quien por cualquier medio de manera pública o privada incite a la violencia o a cometer un delito, o haga la apología de éste o de algún vicio, se le impondrá prisión de seis meses a tres años y multa de diez veces el valor diario de la Unidad de Medida y Actualización, si la violencia, el delito, la apología de éste o algún vicio no se ejecutare. En caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 Si el responsable de la conducta delictuosa, es o ha sido servidor público, la pena a la que se refiere el primer párrafo, se aumentará en una mitad más y se impondrá además en su caso, la destitución del empleo, cargo o comisión e inhabilitación por el término de la sanción privativa de libertad impuesta para desempeñar otro.
+
+Cuando el responsable incite directa o indirectamente al odio, hostilidad, discriminación o violencia contra las personas por motivos como: el origen étnico o nacional, la pertenencia a un determinado grupo, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición de vulnerabilidad, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, la tradición, la cultura, las opiniones, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, los antecedentes penales o cualquier otro motivo, las penas previstas se incrementarán hasta en dos terceras partes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -4333,7 +4389,7 @@ II.- Continúen ejerciendo las funciones de un empleo, cargo o comisión, despu�
 
 III.- En ejercicio de sus funciones o con motivo de ellas, otorgue o autorice el nombramiento o contratación de un empleo, cargo o comisión en el servicio público a persona que por resolución firme de la autoridad competente se encuentre inhabilitada para desempeñarlo, con pleno conocimiento de esta circunstancia; o autorice u otorgue el nombramiento o contratación sin que el designado satisfaga los requisitos legales, conociendo el sujeto activo esta circunstancia, adjudique contratos o realice adquisiciones, sin observar la normatividad en la materia.
 
-IV.- Simulare tener alguna otra comisión, empleo o cargo diferente del que realmente tuviere; ejerza funciones que no le correspondan, se abstenga de conocer las que le competen o se exceda en el ejercicio de las que tiene conferidas.
+IV.- (DEROGADA, P.O. 24 DE ENERO DE 2018)
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -4543,9 +4599,13 @@ XVIII.- Advertir al demandado, ilícitamente, respecto de la providencia de emba
 
 XIX.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
 
-A quién cometa el delito previsto en la fracción I, II, III, IV, V, VI, X, XIII, XVIII y XIX, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
+XX. Niegue, obstaculice o retarde dolosamente la procuración y administración de justicia en el delito de Feminicidio.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
+A quién cometa el delito previsto en la fracción I, II, III, IV, V, VI, X, XIII, XVIII, XIX y XX, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -5137,7 +5197,7 @@ La misma sanción a que alude el artículo anterior se impondrá a los encargado
 
 ###### Artículo 471.
 
-Se sancionará con prisión de dos a diez años y multa de diez a cien días de salario, a los que sustraigan o trasplanten órganos o partes del cuerpo humano, sin la autorización del paciente o de quien corresponda darla, y sin los requisitos legales, para realizar transplantes o injertos.
+Se sancionará con prisión de dos a diez años y multa de diez a cien días de salario, a los que sustraigan o trasplanten órganos o partes del cuerpo humano, sin la autorización del paciente o de quien corresponda darla, y sin los requisitos legales, para realizar transplantes (sic) o injertos.
 
 Si la extirpación, el injerto o el trasplante se realizan en persona plagiada o secuestrada, a los responsables se les incrementará un tercio de la sanción prevista en este artículo, sin perjuicio de las penas que les correspondan por los delitos cometidos en contra de la libertad de las personas.
 
@@ -5481,7 +5541,7 @@ Se impondrá sanción de suspensión de sus derechos políticos hasta por seis a
 
 Al servidor público que por sí mismo o a través de sus subordinados distraiga de su objeto, dinero, valores, fondos, bienes, servicios, o cualquier otra cosa perteneciente al Municipio, Estado o Federación que tenga a su disposición en virtud de su empleo, cargo o comisión en apoyo de un precandidato, candidato, partido político o coalición, se sancionará con la punibilidad siguiente:
 
-l.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente a quinientos días de salario mínimo vigente en el Estado en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a dos años de prisión y multa de cien a trescientas veces el salario mínimo; y
+I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente a quinientos días de salario mínimo vigente en el Estado en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a dos años de prisión y multa de cien a trescientas veces el salario mínimo; y
 
 II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda el equivalente a quinientos días de salario mínimo vigente en el Estado en el momento de cometerse el delito, se impondrán de dos a diez años de prisión y multa de trescientas a quinientas veces el salario mínimo.
 
@@ -5517,7 +5577,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
@@ -5780,3 +5840,27 @@ P.O. 30 DE AGOSTO DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS; LEY QUE PREVIENE Y COMBATE LA DISCRIMINACIÓN EN EL ESTADO DE CHIAPAS; LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS; CÓDIGO CIVIL DEL ESTADO DE CHIAPAS; Y CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS; EN MATERIA DE PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS MUJERES Y NIÑAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial instrumentará el mecanismo necesario para informar al Registro Civil y al Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, sobre los casos de muerte por violencia familiar o de género que se susciten en el Estado.
+
+Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá realizar las acciones necesarias, para implementar el Programa de Reeducación para Personas Generadoras de Violencia.
+
+Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
+
+Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 138 POR EL QUE SE DEROGA LA FRACCIÓN IV DEL PÁRRAFO PRIMERO DEL ARTÍCULO 417 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
