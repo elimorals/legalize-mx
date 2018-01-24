@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2014-11-27"
+last_updated: "2018-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -51,11 +51,15 @@ La presente Ley es de orden público e interés social y de observancia general 
 
 Así mismo, establecer la distribución de competencias y bases de coordinación entre los tres niveles de gobierno e instancias del Sistema Nacional de Seguridad Pública, generando a través de las Instituciones de la materia, acciones de confianza a la población en general para fomentar una cultura de responsabilidad, prevención social y participación ciudadana en políticas de seguridad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 2.
 
-La seguridad pública es una función a cargo de la Federación, del Estado y de los municipios, cuyos fines son salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del individuo, en términos de esta Ley, la Ley General del Sistema Nacional de Seguridad Pública, las políticas y lineamientos que emanen del Sistema Nacional de Seguridad Pública, la Constitución Local y en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+La seguridad pública es una función a cargo de la Federación, del Estado y de los municipios, cuyos fines son salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del sentenciado, en términos de esta Ley, la Ley General del Sistema Nacional de Seguridad Pública, las políticas y lineamientos que emanen del Sistema Nacional de Seguridad Pública, la Constitución Local y en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
-El Estado y los Municipios desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
+El Estado y los Municipios desarrollarán políticas en materia de prevención social del delito y de violencia de género con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad, a la perspectiva de género, a la prevención, protección y atención a víctimas.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -2122,3 +2126,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- Las Instituciones de Seguridad Pública en el Estado, en el ámbito de sus respectivas competencias, llevaran a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 24 DE ENERO DE 2018.
+
+[TRANSITORIOS DEL "DECRETO NO. 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS; LEY QUE PREVIENE Y COMBATE LA DISCRIMINACIÓN EN EL ESTADO DE CHIAPAS; LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS; CÓDIGO CIVIL DEL ESTADO DE CHIAPAS; Y CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS; EN MATERIA DE PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS MUJERES Y NIÑAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial instrumentará el mecanismo necesario para informar al Registro Civil y al Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, sobre los casos de muerte por violencia familiar o de género que se susciten en el Estado.
+
+Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá realizar las acciones necesarias, para implementar el Programa de Reeducación para Personas Generadoras de Violencia.
+
+Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
+
+Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
