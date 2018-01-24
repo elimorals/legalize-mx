@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2016-02-29"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -323,9 +323,11 @@ V. Promover la protección, rehabilitación y racionalización de las fuentes de
 
 ### CAPÍTULO X. DEL IMPULSO A LA DISTRIBUCIÓN Y COMERCIALIZACIÓN DE LAS ARTESANÍAS
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 30.
 
-La Secretaría de Turismo y Desarrollo Económico, por conducto del Instituto, otorgará permanentemente a los artesanos del Estado, servicios gratuitos de gestoría con el objeto de fomentar la distribución de sus productos, conocer mercados potenciales; proporcionar mejores condiciones de rentabilidad para las artesanías y contratar promoción especializada atendiendo al tipo de mercado, producto o rama artesanal de que se trate.
+Las Secretarías de Turismo y Economía, por conducto del Instituto, otorgarán permanentemente a los artesanos del Estado, servicios gratuitos de gestoría con el objeto de fomentar la distribución de sus productos; conocer mercados potenciales; proporcionar mejores condiciones de rentabilidad para las artesanías y contratar promoción especializada atendiendo al tipo de mercado, producto o rama artesanal de que se trate.
 
 ###### Artículo 31.
 
@@ -347,9 +349,11 @@ Se podrá difundir la cultura artesanal del Estado, mediante la edición de atla
 
 ### CAPÍTULO XI. DE LA PROMOCIÓN TURÍSTICA DE LAS ARTESANÍAS
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 34.
 
-La Secretaria de Turismo y Desarrollo Económico, procurará que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de las artesanías oaxaqueñas, preferentemente de la localidad o región de que se trate.
+La (sic) Secretarías de Turismo y Economía, procurarán que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de las artesanías oaxaqueñas, preferentemente de la localidad o región de que se trate.
 
 ###### Artículo 35.
 
@@ -361,9 +365,11 @@ El Instituto proporcionará la asesoría, capacitación y apoyo logistico necesa
 
 La presente Ley fomentará el rechazo a todas las expresiones de discriminación dentro de la actividad artesanal por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen étnico, posición social y económica, carácter físico, discapacidad o estado de salud.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+
 ###### Artículo 37.
 
-La Secretaria de Turismo y Desarrollo Económico Oaxaca con apoyo del Instituto, propiciará que en cada evento de promoción turística en que participe, se promocionen y enaltezcan las tradiciones con respeto absoluto a los derechos fundamentales de libertad de expresión y creativa, de autoría y protección de sus obras, de participación, a la información y a la libre asociación.
+Las Secretarías de Turismo y Economía con apoyo del Instituto, propiciarán que en cada evento de promoción turística en que participe, se promocionen y enaltezcan las tradiciones con respeto absoluto a los derechos fundamentales de libertad de expresión y creativa, de autoría y protección de sus obras, de participación, a la información y a la libre asociación.
 
 ###### Artículo 38.
 
@@ -442,3 +448,11 @@ P.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 790.- MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
