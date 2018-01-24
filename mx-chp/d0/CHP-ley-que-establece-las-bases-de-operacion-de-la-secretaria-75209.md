@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2017-07-12"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -33,7 +33,9 @@ Decreto Número 205
 
 La Honorable Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -58,6 +60,10 @@ La Secretaría de Seguridad y Protección Ciudadana es una Dependencia del Poder
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 Por ello, las disposiciones contenidas en la presente Ley, son de orden y de observancia obligatoria para los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana, quienes en el cumplimiento de su actuación velarán por los principios consagrados en este ordenamiento, y además con plena vocación de servicio, honestidad, disciplina, confianza, secrecía y lealtad, en beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+
+En ese sentido, se deben establecer acciones efectivas para proveer y ejecutar medidas de prevención, atención y en general todas aquellas que se requieran para erradicar la violencia de género, así como garantizar a las personas o grupos vulnerables, en especial a las mujeres y niñas, el pleno goce del derecho a una vida libre de violencia, lo anterior en términos de la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a Una Vida Libre de Violencia para las Mujeres y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -111,7 +117,9 @@ III. Coordinar la organización, ministración, resguardo y mantenimiento preven
 
 IV. Establecer los mecanismos de coordinación operativa, logística y de inteligencia con las instituciones policiales, tendentes a la solución de la problemática en materia de Seguridad Pública que afecte el territorio del Estado.
 
-V. Establecer los programas, proyectos, políticas públicas y herramientas sociales que permitan incrementar la participación de la comunidad en la prevención y denuncia de los delitos; estableciendo modelos de evaluación a fin de optimizar los recursos que favorecen la participación ciudadana.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
+V. Implementar programas de prevención social del delito con perspectiva de género, así como acciones y proyectos que permitan incrementar la participación de la comunidad en la contención de delitos mediante intervenciones policiales oportunas y efectivas; empleando las herramientas tecnológicas necesarias para prevenir la comisión de delitos cibernéticos, poniendo al alcance de la sociedad mecanismos eficaces para realizar la denuncia de los mismos; a fin de optimizar los recursos destinados a la participación ciudadana.
 
 VI. Controlar la operatividad de las Policías Preventivas del Estado para garantizar el cumplimiento de los objetivos encomendados, así como sancionar las faltas disciplinarias en las que incurran y mantener en ellas un alto sentido del cumplimiento del deber y salvaguarda de la seguridad y paz pública.
 
@@ -121,7 +129,9 @@ VII. Establecer los modelos y mecanismos de profesionalización, carrera policia
 
 VIII. Proponer las condiciones para una adecuada promoción profesional, social y humana de los integrantes de la Secretaría, basados en los principios de honradez, lealtad, objetividad, igualdad de oportunidades, equidad de género, mérito y capacidad.
 
-IX. Establecer las medidas necesarias para brindar la atención a las víctimas del delito en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
+IX. Establecer mecanismos y protocolos necesarios para la aplicación de medidas de seguridad, de prevención, y en general todas aquellas que se requieran para erradicar la violencia de género, así como fomentar la atención, asistencia e información oportuna a las personas víctimas del delito, garantizando en todo momento el respeto a sus derecho (sic) humanos con un enfoque transversal de género y diferencial, en términos de las disposiciones legales aplicables.
 
 X. Brindar el auxilio de la fuerza pública al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado, y demás autoridades Federales, Estatales o Municipales, cuando así lo requieran y resulte necesario para el debido ejercicio de sus funciones.
 
@@ -137,9 +147,9 @@ XII. Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas 
 
 XIII. Establecer y operar la política, acuerdos, lineamientos y normatividad penitenciaria, programas y proyectos que tendrán como objetivo primordial la reinserción social del sentenciado.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
-XIV. Implementar y operar la capacitación, adiestramiento y profesionalización de las Instituciones Policiales de la Secretaría, los Municipios y los prestadores de servicios de seguridad privada.
+XIV. Implementar y operar la capacitación, adiestramiento y profesionalización de los integrantes de la Secretaría, de los Municipios y prestadores de servicios de seguridad privada, en materia de derechos humanos con perspectiva de género, de conformidad con los protocolos estandarizados a las normas aplicables, y en particular en los casos de violencia de género.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2017)</small>
 
@@ -1057,13 +1067,23 @@ I. Atención de la denuncia en forma pronta y expedita.
 
 II. Atención jurídica, médica y psicológica especializada.
 
-III. Medidas de protección a la víctima.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
-IV. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y la Legislación Local.
+III. Atención y seguimiento a las órdenes de protección que emite el Ministerio Público.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
+IV. El acompañamiento y/o canalización a la instancia correspondiente, cuando así lo requiera la víctima en caso de violencia de género.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
+
+V. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y la Legislación Local.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 78.
 
-Las Policías Preventivas del Estado, las áreas de vinculación ministerial y los servicios médicos adscritos a la Secretaría, así como todas las que tengan contacto primario con la víctima de un delito deberán procurar la vinculación de la misma a un área especializada en su atención, evitando la re victimización y el menoscabo a la integridad de la víctima, quedando bajo su más estricta responsabilidad que la víctima reciba la atención especializada correspondiente.
+Las Policías Preventivas del Estado, las áreas de vinculación ministerial, atención a víctimas y servicios médicos de la Secretaría, así como todas las que están en primer contacto con la víctima procuraran la vinculación de la misma a un área especializada en su atención, garantizando siempre un enfoque transversal de género y diferencial, durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata, con plena observancia a los derechos humanos.
 
 T r a n s i t o r i o s
 
@@ -1124,3 +1144,19 @@ P.O. 12 DE JULIO DE 2017.
 Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS; LEY QUE PREVIENE Y COMBATE LA DISCRIMINACIÓN EN EL ESTADO DE CHIAPAS; LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS; CÓDIGO CIVIL DEL ESTADO DE CHIAPAS; Y CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS; EN MATERIA DE PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS MUJERES Y NIÑAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Poder Judicial instrumentará el mecanismo necesario para informar al Registro Civil y al Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, sobre los casos de muerte por violencia familiar o de género que se susciten en el Estado.
+
+Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá realizar las acciones necesarias, para implementar el Programa de Reeducación para Personas Generadoras de Violencia.
+
+Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
+
+Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
