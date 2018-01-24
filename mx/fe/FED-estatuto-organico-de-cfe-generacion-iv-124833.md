@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iv-124833"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-15"
-last_updated: "2017-12-15"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124833&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-03-29"
 ---
 # ESTATUTO ORGANICO DE CFE GENERACION IV
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE ENERO DE 2018.]</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 2017.
 
@@ -411,11 +411,13 @@ XIII. Garantizar que los aspectos de confiabilidad técnica de las Unidades Gene
 
 XIV. Coordinar las actividades relacionadas con los diagnósticos de fallas de las Unidades Generadoras de energía eléctrica que estén bajo su control, participando activamente como experto técnico en la identificación de la causa raíz, así como su posterior reparación;
 
-XV. Coadyuvar como experto técnico en los procesos de elaboración de requisiciones de bienes, servicios y obras con destino a las Central Hidroeléctricas de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+
+XV. Coadyuvar como experto técnico en los procesos de elaboración de requisiciones de bienes, servicios y obras con destino a las Centrales Hidroeléctricas de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
 
 XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten; y
 
-XVII Asegurar el cumplimiento a las pruebas periódicas de comportamiento de las Unidades Generadoras para determinar su eficiencia.
+XVII. Asegurar el cumplimiento a las pruebas periódicas de comportamiento de las Unidades Generadoras para determinar su eficiencia.
 
 ###### ARTÍCULO 16.
 
@@ -873,9 +875,11 @@ XXVI. Supervisar, coadyuvar e Informar al Subgerente sobre el cumplimiento de la
 
 XXVII. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Director General, Coordinador de Producción y el Subgerente.
 
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-Las Centrales estarán jerárquicamente subordinadas a las Subgerencias Producción a las cuales se encuentren adscritas, y con las funciones genéricas y especificas previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables. La CFE Generación IV cuenta con las siguientes Centrales:
+Las Centrales estarán jerárquicamente subordinadas a las Subgerencias Producción a las cuales se encuentren adscritas, y con las funciones genéricas y especificas previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables. CFE Generación IV cuenta con las siguientes Centrales:
 
 I. Central Ciclo Combinado Samalayuca II, en Cd. Juárez, Chihuahua.
 
@@ -903,11 +907,17 @@ XII. Central Turbo Gas Fundidora, en Monterrey, Nuevo León.
 
 XIII. Central Turbo Gas Leona, en San Pedro Garza García, Nuevo León.
 
-XIV. Central Turbo Gas 229 TG Baja California II Fase I, en La Paz Baja California Sur.
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
 
-XV. Central Turbo Gas Tijuana, en Playas de Rosarito, Baja California.
+XIV. Central Turbo Gas 229 TG Baja California II Fase I, en Playas de Rosarito, Baja California Norte.
 
-XVI. Central Turbo Gas La Paz, en La Paz Baja California Sur.
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+
+XV. Central Turbo Gas Tijuana, en Playas de Rosarito, Baja California Norte.
+
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+
+XVI. Central Turbo Gas La Paz, en la Paz, Baja California Sur.
 
 XVII. Central Hidroeléctrica Belisario Domínguez (Angostura), en Venustiano Carranza, Chiapas.
 
@@ -953,4 +963,6 @@ El Director General acreditará su representación en términos del nombramiento
 
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación IV, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación IV, en segunda sesión ordinaria celebrada el 16 de marzo de 2017, mediante el Acuerdo CA-GIV-12/2017.
 
-En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Generación VI, Juan Antonio Fernández Correa, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación IV, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+
+En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Generación IV, Juan Antonio Fernández Correa, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación IV, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
