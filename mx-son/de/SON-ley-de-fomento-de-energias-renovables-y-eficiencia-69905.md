@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-de-energias-renovables-y-eficiencia-69905"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-27"
-last_updated: "2009-08-27"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE FOMENTO DE ENERGIAS RENOVABLES Y EFICIENCIA ENERGETICA DEL ESTADO DE SONORA
 
-LEY DE FOMENTO DE ENERGIAS RENOVABLES Y EFICIENCIA ENERGETICA DEL ESTADO DE SONORA
+LEY DE FOMENTO DE ENERGÍAS RENOVABLES Y EFICIENCIA ENERGÉTICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 27 de agosto de 2009.
 
@@ -59,7 +59,7 @@ Para los efectos de esta ley se entenderá por:
 
 I.- Balance Estatal de Energía.- Es el estudio referido al conjunto de relaciones de equilibrio dentro del territorio estatal para el período de un año, la cuantificación de los flujos físicos del proceso de producción, intercambio, transformación y consumo final de energías renovables y no renovables; los recursos energéticos existentes y la evaluación del potencial de energías renovables en el Estado;
 
-II.- Comisión.- Comisión de Energía del Estado de Sonora;
+II.- (DEROGADA, B.O. 25 DE ENERO DE 2018)
 
 III.- Eficiencia Energética.- Conjunto de acciones relativas a la gestión eficiente de la demanda, uso racional y eficiente de la energía, entre otras, que permitan optimizar la relación entre la cantidad de energía consumida y los productos y servicios finales obtenidos para garantizar la satisfacción del usuario y las necesidades energéticas del Estado;
 
@@ -77,67 +77,25 @@ IX.- Secretaría.- La Secretaría de Economía del Estado de Sonora.
 
 ### CAPÍTULO II. DE LA AUTORIDAD
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
+
 ###### Artículo 3.
 
 Son autoridades competentes para aplicar la presente ley:
 
-I.- La Secretaría;
+I.- La Secretaría; y
 
-II.- Los ayuntamientos; y
+II.- Los ayuntamientos.
 
-III.- La Comisión.
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
 
 ###### Artículo 4.
 
-Corresponde a la Secretaría:
-
-I.- Proponer la política estatal para el fomento de las energías renovables y la eficiencia energética en la Entidad;
-
-II.- Proponer la previsión de los recursos necesarios para la promoción de las energías renovables y la eficiencia energética en la Entidad, para que sean contemplados en el proyecto de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal que corresponda;
-
-III.- Aprobar el Programa Estatal; y
-
-IV.- Las demás que en esta materia le otorguen esta ley u otros ordenamientos.
-
-###### Artículo 5.
-
-De acuerdo con lo estipulado en el artículo 4, fracciones II y III de esta ley, la Secretaría propondrá la previsión de los recursos y aprobará el Programa Estatal basado en el principio del desarrollo energético sostenible.
-
-###### Artículo 6.
-
-Los ayuntamientos tendrán las siguientes atribuciones:
-
-I.- Establecer la política municipal para el fomento y aprovechamiento de energías renovables así como el desarrollo, innovación y aplicación de las tecnologías en este ámbito;
-
-II.- Prever en su presupuesto de egresos para el ejercicio fiscal que corresponda, los recursos necesarios para la promoción de las energías renovables y la eficiencia energética en su Municipio;
-
-III.- Emitir los programas municipales en el marco del Programa Estatal dentro de su competencia territorial;
-
-IV.- Celebrar convenios de coordinación y colaboración con la Federación, el Estado, otros municipios, instituciones de educación e investigación, así como con los sectores social y privado, en materia de fomento y apoyo a la investigación, desarrollo, innovación y aplicación de las energías renovables;
-
-V.- Implementar mecanismos de aprovechamiento de energías renovables en la prestación de los servicios públicos;
-
-VI.- Implementar la reglamentación necesaria en materia de desarrollo urbano, con el fin de aprovechar las energías renovables en las obras públicas a realizar por los ayuntamientos; del mismo modo, se incorporen a los reglamentos de construcción, la normatividad pertinente que garantice la eficiencia energética en las edificaciones dentro de la jurisdicción de cada Ayuntamiento, considerando las condiciones del medio ambiente; y
-
-VII.- Las demás que le otorgue esta ley u otros ordenamientos.
-
-### CAPÍTULO III. DE LA COMISIÓN DE ENERGÍA DEL ESTADO DE SONORA
-
-#### SECCIÓN I. DEL OBJETO Y ATRIBUCIONES DE LA COMISIÓN
-
-###### Artículo 7.
-
-Se crea la Comisión de Energía del Estado de Sonora como un Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría, con personalidad jurídica y patrimonio propio, que tiene por objeto el fomento, apoyo a la investigación, desarrollo, innovación y aplicación de fuentes renovables de energía y la eficiencia energética.
-
-La Comisión tendrá su domicilio en la ciudad de Hermosillo, Sonora, pudiendo establecer oficinas en otros municipios del Estado.
-
-###### Artículo 8.
-
-Para el cumplimiento de su objeto, la Comisión tendrá las siguientes atribuciones:
+Para el cumplimiento del objeto de esta Ley, la Secretaría tendrá las siguientes atribuciones:
 
 I.- Desarrollar e implementar la política estatal para el fomento de la eficiencia energética y el aprovechamiento de energías renovables;
 
-II.-Proponer, administrar y operar el Fondo, de acuerdo a los términos del reglamento que se emita para tal efecto;
+II.- Proponer, administrar y operar los recursos necesarios para la promoción de las energías renovables y la eficiencia energética en la Entidad, para que sean contemplados en el proyecto de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal que corresponda, así como los del Fondo, esto último, de acuerdo a los términos del reglamento que se emita para tal efecto;
 
 III.- Diseñar, vigilar, supervisar, ejecutar y evaluar el Programa Estatal, procurando la participación social durante su planeación;
 
@@ -165,187 +123,117 @@ XIV.- Apoyar a las instituciones de educación superior y centros de investigaci
 
 XV.- Promover el otorgamiento de estímulos fiscales a las personas, especialmente a las pequeñas y medianas empresas, que inviertan en la generación de energía renovable en el Estado;
 
-XVI.- Promover, crear y otorgar reconocimientos a quienes (sic) a las personas que se comprometan implementen mecanismos de generación de energía renovable, así como a quienes cumplan con las normas oficiales mexicanas y demás disposiciones aplicables en materia de eficiencia energética, utilización de energías renovables;
+XVI.- Promover, crear y otorgar reconocimientos a quienes a las personas (sic) que se comprometan implementen mecanismos de generación de energía renovable, así como a quienes cumplan con las normas oficiales mexicanas y demás disposiciones aplicables en materia de eficiencia energética, utilización de energías renovables;
 
 XVII.- Impulsar la actualización de la normatividad en materia de eficiencia energética y energías renovables;
 
 XVIII.- Promover, en coordinación o con la participación de los sectores social y privado, la operación de un Centro Estatal de Investigación en Energías Renovables, con el propósito de desarrollar tecnología de vanguardia en esta materia para su aprovechamiento en el Estado;
 
-XIX.- Asesorar a los Municipios del Estado que así lo soliciten en materia de fomento de energía (sic) de energías renovables y eficiencia energética;
+XIX.- Asesorar a los Municipios del Estado que así lo soliciten en materia de fomento de energía de energías renovables y eficiencia energética;
 
 XX.- Celebrar convenios de colaboración con las autoridades federales, estatales y municipales, así como convenios de concertación con los sectores social y privado para el cumplimiento de su objeto;
 
-XXI.- Para cumplir las metas establecidas en el Programa Estatal, la Comisión coordinará el Fondo que operará en los términos del Reglamento que se emita para tal efecto; y
+XXI.- Para cumplir las metas establecidas en el Programa Estatal, la Unidad coordinará el Fondo que operará en los términos del Reglamento que se emita para tal efecto;
 
-XXII.- Las demás que le asigne esta ley o las demás disposiciones legales aplicables.
+XXII.- Emitir el Programa Estatal basado en el principio del desarrollo energético sostenible; y
+
+XXIII.- Las demás que le asigne esta ley o las demás disposiciones legales aplicables.
+
+###### Artículo 5.
+
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
+
+###### Artículo 6.
+
+Los ayuntamientos tendrán las siguientes atribuciones:
+
+I.- Establecer la política municipal para el fomento y aprovechamiento de energías renovables así como el desarrollo, innovación y aplicación de las tecnologías en este ámbito;
+
+II.- Prever en su presupuesto de egresos para el ejercicio fiscal que corresponda, los recursos necesarios para la promoción de las energías renovables y la eficiencia energética en su Municipio;
+
+III.- Emitir los programas municipales en el marco del Programa Estatal dentro de su competencia territorial;
+
+IV.- Celebrar convenios de coordinación y colaboración con la Federación, el Estado, otros municipios, instituciones de educación e investigación, así como con los sectores social y privado, en materia de fomento y apoyo a la investigación, desarrollo, innovación y aplicación de las energías renovables;
+
+V.- Implementar mecanismos de aprovechamiento de energías renovables en la prestación de los servicios públicos;
+
+VI.- Implementar la reglamentación necesaria en materia de desarrollo urbano, con el fin de aprovechar las energías renovables en las obras públicas a realizar por los ayuntamientos; del mismo modo, se incorporen a los reglamentos de construcción, la normatividad pertinente que garantice la eficiencia energética en las edificaciones dentro de la jurisdicción de cada Ayuntamiento, considerando las condiciones del medio ambiente; y
+
+VII.- Las demás que le otorgue esta ley u otros ordenamientos.
+
+### CAPÍTULO III. DE LA COMISIÓN DE ENERGÍA DEL ESTADO DE SONORA
+
+#### SECCIÓN I. DEL OBJETO Y ATRIBUCIONES DE LA COMISIÓN
+
+###### Artículo 7.
+
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
+
+###### Artículo 8.
+
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN II. DE LA ESTRUCTURA DE LA COMISIÓN
 
 ###### Artículo 9.
 
-Para el cumplimiento de su objeto, la Comisión contará con la estructura siguiente:
-
-I.-El Consejo Directivo;
-
-II.-La Dirección General; y
-
-III.- El Comité Técnico Consultivo.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN III. DEL CONSEJO DIRECTIVO DE LA COMISIÓN
 
 ###### Artículo 10.
 
-El Consejo Directivo será la máxima autoridad de la Comisión y estará integrado de la siguiente manera:
-
-I.- Un Presidente, que será el Gobernador del Estado;
-
-II.- Un Vicepresidente, que será el Secretario de Economía; y
-
-III.- Trece vocales, que serán:
-
-a) El Secretario de Educación y Cultura;
-
-b) El Secretario de Hacienda;
-
-c) El Secretario de Infraestructura y Desarrollo Urbano;
-
-d) El Secretario de Desarrollo Social;
-
-e) El titular de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
-
-f) El titular de la Comisión Estatal del Agua;
-
-g) El Rector del Instituto Tecnológico de Sonora;
-
-h) El Rector de la Universidad de Sonora;
-
-i) Un representante de las instituciones de educación superior privadas en la Entidad, de carácter federal o estatal, que realicen investigación y desarrollo científico y tecnológico en el ámbito del (sic) las energías renovables y ahorro de energía;
-
-j) Un representante de las cámaras o asociaciones del sector productivo que serán designados por el Gobernador del Estado, a propuesta de las mismas;
-
-k) El Presidente de la Asociación Nacional de Energía Solar;
-
-l) El Delegado en el Estado de la Secretaría de Medio Ambiente y Recursos Naturales; y
-
-m) El Delegado en el Estado de la Procuraduría Federal de Protección al Ambiente.
-
-Los representantes del Consejo a que se refieren los incisos i) y j) serán designados por el Gobernador del Estado, a propuesta de las mismas instituciones, cámaras o asociaciones y durarán en su encargo tres años, pudiendo ser reelectos una sola vez.
-
-El Presidente del Consejo Directivo podrá invitar a sus sesiones, a representantes de los sectores público, social y privado cuyas funciones o actividades tengan relación con los asuntos a tratar en cada sesión, quienes asistirán con voz pero sin voto.
-
-El Director General de la Comisión realizará las funciones de Secretario Técnico del Consejo Directivo, asistiendo solamente con voz a sus sesiones.
-
-Por cada uno de los miembros propietarios se designará un suplente, quien cubrirá las ausencias temporales de aquél. Los cargos de los miembros del Consejo Directivo serán de carácter honorífico, por lo que no percibirán sueldo o prestación alguna por su desempeño.
-
-Las ausencias del Presidente del Consejo Directivo serán suplidas por el Vicepresidente de la misma.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 ###### Artículo 11.
 
-El Consejo Directivo celebrará por lo menos tres sesiones ordinarias al año, y las extraordinarias cuando la trascendencia de los asuntos así lo requiera.
-
-El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes, siempre que entre ellos se encuentre el Presidente o quien lo supla. Las decisiones se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 ###### Artículo 12.
 
-El Consejo Directivo tendrá las siguientes atribuciones:
-
-I.- Aprobar los programas anuales de operación y de inversiones de la Comisión;
-
-II.- Conocer y, en su caso, aprobar el proyecto de presupuesto de ingresos de la Comisión para el siguiente ejercicio fiscal;
-
-III.- Establecer la política de gasto de la Comisión autorizando para tal efecto, a propuesta del Director General, el presupuesto anual de egresos de la Comisión. Dicho presupuesto podrá ser modificado cuando las necesidades de operación lo requieran;
-
-IV.- Examinar y, en su caso, aprobar el balance anual y los informes financieros y de actividades de la Comisión que le presente el Director General;
-
-V.- Aprobar los nombramientos del personal para la organización y operación de la Comisión, la fijación de sueldos y prestaciones, así como las modificaciones que posteriormente sean procedentes;
-
-VI.- Aprobar y expedir el Reglamento Interior de la Comisión y sus modificaciones, así como los Manuales de Organización, de Procedimientos y demás instrumentos de apoyo administrativo;
-
-VII.- Autorizar el Programa Estatal de Fomento a la Eficiencia Energética y Energías Renovables del Estado de Sonora que le sea presentado por el Director General y remitirlo a la Secretaría para su aprobación definitiva; así como la evaluación y seguimiento del mismo;
-
-VIII.- Evaluar la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas, atendiendo además, los informes de control y auditoría que sean turnados y vigilar la implementación de las medidas correctivas a que hubiese lugar;
-
-IX.- Expedir los lineamientos para el otorgamiento y administración de apoyos y reconocimientos a la investigación, desarrollo tecnológico y la innovación en materia de eficiencia energética y energías renovables, a propuesta del Director General; y
-
-X.- Las demás que le otorgue esta ley u otras disposiciones jurídicas.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN IV. DE LA DIRECCIÓN GENERAL DE LA COMISIÓN
 
 ###### Artículo 13.
 
-La Dirección General de la Comisión estará a cargo de un Director General, quien será nombrado y removido libremente por el Gobernador del Estado y tendrá las siguientes atribuciones:
-
-I.- Representar legalmente a la Comisión, con poderes y facultades para realizar todos los actos de administración que requiera el buen funcionamiento de ésta, y para pleitos y cobranzas en los términos del artículo 2831 del Código Civil para el Estado de Sonora, y con las facultades especiales que para dichos actos requieran cláusula especial conforme a la ley, inclusive para promover y desistirse del juicio de amparo, y de asuntos laborales y penales; otorgar, sustituir o revocar los poderes antes señalados; celebrar a nombre de la Comisión, actos cambiarios y operaciones de crédito y realizar en los propios títulos todos los actos que reglamente la ley de la materia; asimismo, y de conformidad con la autorización del Consejo Directivo, ejecutar los actos de dominio que se requieran para el cumplimiento del objeto y fines de la Comisión;
-
-II.- Ejecutar los acuerdos y decisiones del Consejo Directivo;
-
-III.- Elaborar el Programa Estatal y someterlo a la aprobación del Consejo Directivo, coordinar su implementación, así como presentar a dicho órgano un informe periódico de los logros alcanzados respecto del Programa;
-
-IV.- Formular, de conformidad con las disposiciones aplicables, los anteproyectos de presupuesto de ingresos y egresos de la Comisión, así como los programas de operación anual y de actividades, y someterlos a la aprobación del Consejo Directivo;
-
-renovables y la eficiencia energética; (sic)
-
-VI (SIC).- Formular y presentar, al Consejo Directivo, los estados financieros, balances ordinarios y extraordinarios, así como los informes que permitan conocer el estado administrativo y operativo de la Comisión;
-
-VII.- Proponer al Consejo Directivo, los lineamientos para el otorgamiento y administración de apoyos y reconocimientos a la investigación, desarrollo tecnológico y la innovación en materia de eficiencia energética y energías renovables;
-
-VIII.- Proponer y gestionar políticas, estímulos fiscales y financieros y facilidades administrativas que permitan la implementación de la eficiencia energética y de las tecnologías para el aprovechamiento de energías renovables;
-
-IX.- Elaborar el Balance Estatal de Energía, así como mantener actualizada, sistematizada y publicada la información que de éste se derive;
-
-X.- Establecer los mecanismos necesarios para la gestión de apoyos que organismos internacionales, dependencias y entidades de la administración pública federal y estatal, así como de los municipios, puedan otorgar a la investigación y desarrollo tecnológico, transferencia de tecnología y de innovación, capacitación en materia de eficiencia energética y aprovechamiento de energías renovables; asimismo, gestionar recursos económicos para que sus creadores puedan patentar dichos proyectos, así como la fabricación estatal de equipos y componentes en materia de energías renovables y su conversión eficiente;
-
-XI.- Asignar los recursos del Fondo para el fomento e implementación de la eficiencia energética y de las tecnologías para el aprovechamiento de energías renovables, de conformidad con lo dispuesto en esta ley y las reglas de operación que se establezcan para la aplicación de los recursos del Fondo;
-
-XII.- Constituir fideicomisos para el aprovechamiento de las fuentes renovables de energía y la eficiencia energética en el Estado de Sonora;
-
-XIII.- Prestar asesoría técnica y capacitación en materia de eficiencia energética y energías renovables a las dependencias y entidades de la administración pública estatal, así como de los Municipios que así lo requieran;
-
-XIV.- Proponer al Consejo Directivo el nombramiento de los funcionarios de la Comisión, la fijación de sueldos y prestaciones que autorice el presupuesto, así como las modificaciones necesarias en el organigrama;
-
-XV.- Implementar en el Estado, programas de promoción, difusión, capacitación y apoyo en materia de eficiencia energética y energías renovables y su impacto ambiental;
-
-XVI.- Promover, organizar y participar en foros, seminarios, programas educativos y cualquier otra actividad relacionada con el objeto de la Comisión;
-
-XVII.- Formular y someter a la aprobación del Consejo Directivo, el Reglamento Interior de la Comisión y demás instrumentos de apoyo administrativo, así como las disposiciones normativas necesarias para la ejecución de lo establecido en la presente ley;
-
-XVIII.- Impulsar y participar en los procesos de revisión y análisis de la normatividad en materia de energías renovables y eficiencia energética, tendientes a su actualización a las nuevas condiciones sociales;
-
-XIX.- Celebrar toda clase de acuerdos de coordinación o concertación con los sectores público, social y privado para la instrumentación de programas y la ejecución de las acciones relacionadas con el objeto de la Comisión, e informar sobre ellos al Consejo Directivo en la sesión que se lleve a cabo inmediatamente después de la fecha de celebración de éstos;
-
-XX.- Ejercer las acciones administrativas y jurídicas que se requieran para el debido cumplimiento del objeto y atribuciones de la Comisión; y
-
-XXI.- Las demás que le conceda esta ley, el Consejo Directivo y las demás disposiciones legales aplicables.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN V. DEL COMITÉ TÉCNICO CONSULTIVO DE LA COMISIÓN
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
+
 ###### Artículo 14.
 
-El Comité Técnico Consultivo será una instancia de vinculación de los sectores público, social y privado y funcionará como órgano de asesoría y apoyo del Consejo Directivo y la Dirección General en materia de fomento a la eficiencia energética y energías renovables.
+El Comité Técnico Consultivo será una instancia de vinculación de los sectores público, social y privado y funcionará como órgano de asesoría y apoyo de la Secretaría en materia de fomento a la eficiencia energética y energías renovables.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
 
 ###### Artículo 15.
 
 El Comité Técnico tendrá las siguientes funciones:
 
-I.- Proponer al Director General estrategias y acciones que le permitan a la Comisión el logro de su objeto;
+I.- Proponer a la Secretaría, estrategias y acciones que le permitan a la Unidad el logro de su objeto;
 
-II.- Analizar y en su caso dictaminar sobre los asuntos que le sean encomendados por el Director General, formulando las observaciones, propuestas y soluciones que estime procedentes;
+II.- Analizar y en su caso dictaminar sobre los asuntos que le sean encomendados por la Secretaría, formulando las observaciones, propuestas y soluciones que estime procedentes;
 
 III.- Recabar las opiniones y propuestas de los sectores público, social y privado sobre las políticas, programas y acciones en materia de eficiencia energética y aprovechamiento de energías renovables en el Estado de Sonora;
 
-IV.- Realizar estudios, dictámenes y auxiliar al Director General en el análisis de información relacionada con el fomento a la eficiencia energética y energías renovables, así como en el seguimiento de los informes técnicos presentados;
+IV.- Realizar estudios, dictámenes y auxiliar a la Secretaría en el análisis de información relacionada con el fomento a la eficiencia energética y energías renovables, así como en el seguimiento de los informes técnicos presentados;
 
 V.- Elaborar y presentar propuestas, programas y proyectos para integrar el Programa Estatal;
 
-VI.- Coadyuvar en la difusión de las acciones y tareas que lleve a cabo la Comisión; y
+VI.- Coadyuvar en la difusión de las acciones y tareas que lleve a cabo la Secretaría; y
 
-VII.- Las demás que le confiera el Reglamento Interior de la Comisión.
+VII.- Las demás que le confiera el Reglamento Interior de la Secretaría.
 
 ###### Artículo 16.
 
 El Comité Técnico estará integrado por:
 
-I.- El Director General, que será el Presidente del Comité;
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2018)</small>
+
+I.- El Secretario de Economía, que será el Presidente del Comité;
 
 II.- El Presidente del Colegio de Ingenieros Mecánicos Electricistas del Estado de Sonora (CIMES);
 
@@ -369,35 +257,19 @@ Los miembros del Comité Técnico no percibirán emolumento alguno por su labor.
 
 ###### Artículo 17.
 
-El patrimonio de la Comisión se integra con:
-
-I.- Todos los activos, bienes muebles e inmuebles que le sean donados por los gobiernos Federal, Estatal y Municipales;
-
-II.- Los recursos anuales que se fijen en el presupuesto de egresos del Gobierno del Estado, los cuales deberán ser mayores a los autorizados en el ejercicio fiscal inmediato anterior;
-
-III.- Los subsidios, asignaciones, aportaciones y demás ingresos que para su debida operación le designen los gobiernos Federal, Estatal o Municipales;
-
-IV.- Las aportaciones, legados y donaciones que en su favor otorguen los organismos e instituciones estatales, nacionales o internacionales, así como cualquier persona física o moral;
-
-V.- Los ingresos y beneficios que obtenga por la realización de eventos culturales, sociales o de cualquier otra índole que organice para allegarse de fondos;
-
-VI.- Los rendimientos, recuperaciones y demás ingresos que obtengan de la inversión de los recursos a que se refiere este artículo; y
-
-VII.- En general, todos los bienes, derechos y obligaciones a su favor, que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN VII. DEL CONTROL, EVALUACIÓN Y VIGILANCIA
 
 ###### Artículo 18.
 
-Las funciones de control, vigilancia y evaluación de la Comisión estarán a cargo del Órgano de Control y Desarrollo Administrativo y de los Comisarios Públicos Oficial y Ciudadano que designe la Secretaría de la Contraloría General, quienes desempeñarán sus funciones en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y demás disposiciones legales aplicables.
-
-El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público participarán con voz pero sin voto en las sesiones del Consejo Directivo.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 #### SECCIÓN VIII. DEL RÉGIMEN LABORAL
 
 ###### Artículo 19.
 
-Las relaciones de trabajo entre la Comisión y sus empleados se regirán por la Ley laboral aplicable.
+(DEROGADO, B.O. 25 DE ENERO DE 2018)
 
 ### CAPÍTULO IV. DEL PROGRAMA ESTATAL
 
@@ -459,9 +331,11 @@ Los Poderes Legislativo, Ejecutivo y Judicial y los gobiernos municipales, en el
 
 ### CAPÍTULO VI. DEL FONDO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE ENERO DE 2018)</small>
+
 ###### Artículo 24.
 
-El Ejecutivo Estatal creará un Fondo anual, con el fin de garantizar la instrumentación de los programas y subprogramas derivados del Programa Estatal. Dicho Fondo será operado por la Comisión.
+El Ejecutivo Estatal creará un Fondo anual, con el fin de garantizar la instrumentación de los programas y subprogramas derivados del Programa Estatal. Dicho Fondo será operado por la Secretaría.
 
 Los recursos del Fondo podrán provenir, entre otras, de las siguientes fuentes:
 
@@ -475,9 +349,11 @@ IV.- Aportaciones voluntarias de personas físicas o morales; y
 
 V.- Aportaciones de organizaciones de cooperación o investigación.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
+
 ###### Artículo 25.
 
-Para tener acceso a los recursos del Fondo, los proyectos deberán cumplir con los requisitos que para ese efecto se contemplen en las reglas de operación que emita la Comisión.
+Para tener acceso a los recursos del Fondo, los proyectos deberán cumplir con los requisitos que para ese efecto se contemplen en las reglas de operación que emita la Secretaría.
 
 ###### Artículo 26.
 
@@ -523,6 +399,32 @@ De igual forma, los recursos materiales, financieros y humanos asignados a la Co
 
 Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 
-COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLlCACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO. SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, HERMOSILLO, SONORA, 11 DE AGOSTO DE 2009, DIPUTADO PRESIDENTE.- C. JOSE SALOME TELLO MAGOS.- RUBRICA.- DIPUTADA SECRETARIA.- C. MARIBEL ESCALANTE GAMEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. ANGEL MARIO VAZQUEZ HUERTA.- RUBRICA.-
+COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO. SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, HERMOSILLO, SONORA, 11 DE AGOSTO DE 2009, DIPUTADO PRESIDENTE.- C. JOSE SALOME TELLO MAGOS.- RUBRICA.- DIPUTADA SECRETARIA.- C. MARIBEL ESCALANTE GAMEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. ANGEL MARIO VAZQUEZ HUERTA.- RUBRICA.-
 
-POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CATORCE DlAS DEL MES DE AGOSTO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS CATORCE DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 193, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO DE ENERGÍAS RENOVABLES Y EFICIENCIA ENERGÉTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes a la fecha de entrada en vigor de la presente Ley, el Ejecutivo del Estado deberá expedir los Reglamentos correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Por virtud del presente decreto, se transfiere la titularidad de todos aquellos actos jurídicos que en su oportunidad se otorgaron a la Comisión de Energía del Estado de Sonora a la Secretaría de Economía.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales, financieros y humanos asignados a la Comisión de Energía del Estado de Sonora se transferirán a la Secretaría de Economía a más tardar el 31 de diciembre del presente año en términos de la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
