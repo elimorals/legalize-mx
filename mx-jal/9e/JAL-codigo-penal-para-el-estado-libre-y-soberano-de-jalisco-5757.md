@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-12-02"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2143,17 +2143,23 @@ Los agravantes comunes a los delitos contra el desarrollo de la personalidad a q
 
 ### CAPITULO IX. Agravantes comunes a los delitos contra el desarrollo de la personalidad
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 142 N], P.O. 20 DE DICIEMBRE DE 2014)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ENERO DE 2018)</small>
 
-Art. 142 Ñ. Se incrementarán en una tercera parte las penas correspondientes a los delitos contra el desarrollo de la personalidad, cuando:
+###### Artículo 142
+
+Ñ. Se incrementarán en dos terceras partes las penas correspondientes a los delitos contra el desarrollo de la personalidad, cuando:
 
 I. El sujeto pasivo sea una persona menor de doce años;
 
 II. El sujeto pasivo sea descendiente o pariente consanguíneo hasta el cuarto grado del sujeto activo;
 
-III. El sujeto activo tenga la patria potestad, tutela o custodia del sujeto pasivo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-IV. El sujeto activo se aproveche de lazos afectivos, de confianza, de sumisión o de respeto para cometer el delito;
+III. El sujeto activo tenga la patria potestad, tutela, guarda, custodia o habite ocasional o permanentemente en el mismo domicilio aunque éste no tenga parentesco con la víctima;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+
+IV. El sujeto activo se aproveche de lazos afectivos, una posición de confianza, autoridad, respeto, influencia o de dependencia para cometer el delito;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2167,7 +2173,7 @@ VI. El sujeto activo utilice la violencia física o psicológica para cometer el
 
 VII. Cuando el delito sea cometido por más de una persona contra el mismo sujeto pasivo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2018)</small>
 
 ###### Art. 142.
 
@@ -2194,6 +2200,12 @@ Art. 142 B. Se impondrán de un mes a tres años de prisión, multa por el impor
 Art. 142 C. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2007)</small>
+
+###### Artículo 142-O.
+
+A quien tenga con la víctima lazos consanguíneos o parentesco, lazos afectivos, una posición de confianza, de autoridad, respeto, influencia o de dependencia y tenga conocimiento y no acuda a la autoridad competente para denunciar cualquiera de los delitos señalados en este capítulo, será castigado de dos a cinco años de prisión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO SEXTO. REVELACION DE SECRETOS Y LA OBTENCION ILICITA DE INFORMACION
 
@@ -3075,13 +3087,17 @@ Comete el delito de falsedad en declaraciones:
 
 I. Quien al declarar o informar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare dolosamente a la verdad en relación con los hechos que motivan la intervención de una autoridad, será sancionado con pena de uno a cinco años de prisión y multa por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-II. A quien con el propósito de exculpar a alguien indebidamente en un proceso penal, simule pruebas o declare falsamente en calidad de testigo ante cualquier autoridad, se aplicará la pena de dos meses a dos años de prisión y multa por el importe de dos a ocho veces el valor diario de la Unidad de Medida y Actualización; y
+II. A quien con el propósito de exculpar a alguien indebidamente en un proceso penal, simule pruebas o declare falsamente en calidad de testigo ante cualquier autoridad, se aplicará la pena de dos meses a dos años de prisión y multa por el importe de dos a ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-III. Al que examinado como perito por cualquier autoridad, en el ejercicio de sus funciones, faltare dolosamente a la verdad en su dictamen, se le impondrán de dos a seis años de prisión y multa por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+III. Al que examinado como perito por cualquier autoridad, en el ejercicio de sus funciones, faltare dolosamente a la verdad en su dictamen, se le impondrán de dos a seis años de prisión y multa por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2018)</small>
+
+IV. Al que indebidamente y de manera reiterada denuncie o reporte situaciones falsas de emergencia a la autoridad por medio de línea telefónica o instrumentos tecnológicos, será sancionado de diez a veinte jornadas de trabajo en beneficio de la comunidad.
 
 ### CAPITULO VI. Variación del nombre o del domicilio
 
@@ -4101,9 +4117,9 @@ II. El aprovechamiento de energía de cualquier tipo, agua o cualquier otro elem
 
 III. Desmantelar, remarcar, alterar, transplantar los números originales de identificación de uno o más vehículos automotores robados o bien dadas las condiciones o características del vehículo o las autopartes, sean de procedencia ilícita, así como comercializar conjunta o separadamente sus partes;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-IV. Enajenar o traficar de cualquier manera con vehículo o vehículos, a sabiendas de que son robados, remarcados o transplantados en su (sic) números originales de identificación;
+IV. Enajenar o traficar de cualquier manera con vehículo o vehículos, robados, remarcados o transplantados en sus números originales de identificación;
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -4113,25 +4129,25 @@ V. Detentar, poseer, custodiar, falsificar, alterar, tramitar o efectuar actos t
 
 VI. Trasladar el o los vehículos robados o remarcados de una entidad federativa a otra, o al extranjero;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-VII. Utilizar el o los vehículos automotores robados a sabiendas de su origen ilícito; y
+VII. Utilizar el o los vehículos automotores robados; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-VIII. La posesión, adquisición, transportación, comercialización o el almacenamiento de cosa mueble robada, a sabiendas de esta circunstancia.
+VIII. La posesión, adquisición, transportación, comercialización o el almacenamiento de cosa mueble robada.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
-Para efectos de la sanción de las fracciones I, II y VIII de este artículo, se aplicarán las sanciones establecidas en el artículo 235 de este Código.
+Para efectos de las fracciones I, II y VIII de este artículo, se aplicarán las sanciones establecidas en el artículo 235 de este Código.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
-Para efectos de la sanción de las fracciones III, IV, V, VI y VII a que se refiere el presente artículo, se impondrán las penas señaladas en el artículo 236 Bis, inciso c) de este Código.
+Para efectos de las fracciones III, IV, V, VI y VII a que se refiere el presente artículo, se impondrán las penas señaladas en el artículo 236 Bis, inciso c) de este Código.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
-Si en los actos que se describen en las fracciones III, IV, V, VI, VII y VIII, participa algún servidor público, que tenga o haya tenido a su cargo en los tres últimos años, funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de la sanción que le corresponde, se le aumentará en una mitad más y se inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un periodo de cinco años.
+Si en los actos que se describen en las fracciones III, IV, V, VI, VII y VIII, participa algún servidor público, que tenga o haya tenido a su cargo en los tres últimos años, funciones de prevención, persecución o sanción del delito o de ejecución de penas, la sanción que le corresponde se le aumentará en una mitad más y se inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un periodo de cinco años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -4339,19 +4355,27 @@ El robo cometido por un ascendiente contra un descendiente o por éste contra aq
 
 Si además de las personas a que se refiere el párrafo anterior, tuviere intervención en el robo alguna otra, para sancionar a ésta se necesita querella del ofendido, pero, en este caso, se procederá contra todos los responsables, incluyendo a los que se mencionan en el párrafo anterior.
 
-###### Art. 239.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ENERO DE 2018)</small>
 
-El responsable del robo quedará exonerado de toda sanción en los casos siguientes:
+###### Artículo 239.
+
+El responsable del robo quedará excluido de toda sanción en los casos siguientes:
 
 I. Cuando sin emplear engaño o medios violentos, se apodere de los objetos estrictamente indispensables para satisfacer imperiosas necesidades personales o familiares del momento; y
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-II. Cuando el valor de lo robado no pase del máximo establecido en la fracción I del artículo 235, sea restituido por el responsable espontáneamente y pague los daños y perjuicios dentro de los tres días siguientes al día en que la autoridad lo llame a la investigación y siempre que no se haya ejecutado el robo por medio de la violencia y se trate de persona que no haya sido condenada por delito contra el patrimonio.
+II. Cuando el valor de lo robado no pase del máximo establecido en la fracción I del artículo 235, sea restituido por el responsable espontáneamente y pague los daños y perjuicios dentro de los tres días siguientes al día en que la autoridad lo llame a la investigación y siempre que no se haya ejecutado el robo por medio de la violencia y se trate de personas que no haya sido condenada por el delito contra el patrimonio.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+Si en el mismo caso, la restitución y reparación se verifican después de iniciadas las investigaciones, pero antes de formularse conclusiones en el proceso, la pena será solo la multa triple del valor de lo robado y especial amonestación. Sin perjuicio de que la víctima u ofendido se desista o renuncie a la restitución de lo robado o a los daños o perjuicios, en cuyo caso procederá la exoneración;
 
-Si en el mismo caso, la restitución y reparación se verifican después de iniciadas las investigaciones, pero antes de formularse conclusiones en el proceso, la pena será solo la multa del triple del valor de lo robado y especial amonestación. Sin perjuicio de que si la víctima u ofendido se desista o renuncie a la restitución de lo robado o a los daños o perjuicios, en cuyo caso procederá a la exhoneración.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2018)</small>
+
+III. Cuando el adquiriente de un bien mueble, acredite su legítima propiedad o posesión, mediante nota de venta, factura, carta de responsiva u otro documento donde conste la identidad del transmisor, la descripción del objeto, la fecha y la dirección de quien transmite, adicionalmente cuando se trate de particulares o negocios no establecidos, el transmisor deberá agregar copia de su identificación oficial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2018)</small>
+
+IV. Tratándose del robo de vehículos o de cualquiera de sus partes será causa de inculpabilidad acreditar su legítima posesión, uso o custodia.
 
 ### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
@@ -4553,7 +4577,9 @@ Se comete el delito de violación de depósito por:
 
 I. El hecho de sustraer o disponer de una cosa su dueño, si le ha sido embargada y la tiene en su poder, con el carácter de depositario judicial o por cualquiera otra causa que legalmente le impida disponer de ella;
 
-II. El hecho de disponer de la cosa depositada, el depositario judicial o el designado por o ante las autoridades administrativas o del trabajo; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+
+II. El hecho de que el depositario, disponga de la cosa, fuera de sus obligaciones como tal; y
 
 III. El hecho de que una persona disponga, como suyo, del depósito que garantice la libertad caucional de un inculpado y del cual no le corresponda la propiedad. Es aplicable a este Capítulo en lo conducente, el Art. 238 de este Código. Al responsable de los delitos previstos en este Capítulo, se le aplicarán las sanciones contenidas en el Art. 246.
 
@@ -6441,6 +6467,12 @@ P.O. 11 DE NOVIEMBRE DE 2017.
 
 P.O. 2 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26504/LXI/17 QUE REFORMA LOS ARTÍCULOS 124 Y 263 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26504/LXI/17 QUE REFORMA LOS ARTÍCULOS 124 Y 263 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26736/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
