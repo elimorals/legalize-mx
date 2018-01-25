@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2017-11-30"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -413,7 +413,9 @@ X.- Establecer la organización y funcionamiento del Tribunal de Justicia Admini
 
 El Tribunal de Justicia Administrativa del Estado estará dotado de plena autonomía para dictar sus resoluciones y tendrá competencia para dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal y para imponer, en los términos que disponga la Ley de la materia, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos, según corresponda.
 
-EI Tribunal se integrará por tres Magistrados que durarán en su cargo quince años improrrogables y deberán reunir los requisitos que se señalen en la Ley.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
+
+El Tribunal se integrará hasta por siete Magistrados que durarán en su cargo quince años improrrogables y deberán reunir los requisitos que se señalen en la Ley.
 
 Los Magistrados del Tribunal serán designados por el Gobernador del Estado y ratificados por el voto de la mayoría de los miembros presentes del Congreso del Estado.
 
@@ -3616,3 +3618,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN X DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
