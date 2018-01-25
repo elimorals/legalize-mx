@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2017-11-09"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -47,7 +47,7 @@ Se expide la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, pa
 
 Ley del Sistema de Seguridad Pública Para el Estado de Jalisco
 
-## Título Primero. Disposiciones generales
+## Titulo Primero. Disposiciones generales
 
 ### Capítulo Único
 
@@ -673,7 +673,7 @@ VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, co
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de (sic) valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
+El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Artículo 40.
 
@@ -2287,17 +2287,17 @@ El Consejo Estatal impulsará las acciones necesarias para que el Estado y los m
 
 El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y las demás instancias de asistencia, públicas y privadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
 ### Capítulo II. De la comunicación con la ciudadanía
 
 ###### Artículo 166.
 
-Se sancionará con multa equivalente de tres a veinte veces la Unidad de Medida y Actualización al momento de cometer la infracción al dueño o usuario de la línea telefónica que llame anunciando emergencias falsas, haga uso indebido del servicio o llame con fines ociosos que distraigan el servicio telefónico de emergencia. El procedimiento para imponer y ejecutar la sanción se sujetará a lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios y por la Ley de Ingresos vigente.
+El usuario de una línea telefónica o instrumentos tecnológicos que llame para informar o denunciar emergencias falsas o haga uso indebido del servicio telefónico de emergencia, deberá reponer a las instituciones correspondientes, los gastos erogados con motivo de la movilización de elementos y equipo de auxilio, más una multa de diez a veinte veces el valor de lo erogado.
 
-Cuando por motivo de la falsa información proporcionada a las autoridades estatales o municipales, éstas realicen acciones u operativos para atender una emergencia falsa y con motivo de estos ocasionen accidentes o perjuicios de cualquier índole, el responsable tendrá que cubrir la reparación del daño causado al gobierno estatal o municipal a través del procedimiento de responsabilidad por las obligaciones que nacen de hechos ilícitos, a que se refiere el Código Civil del Estado de Jalisco.
+Al que indebidamente y de manera reiterada denuncie o reporte situaciones falsas de emergencia a la autoridad por medio de línea telefónica o instrumentos tecnológicos, se hará acreedor además, a las sanciones previstas en el Código Penal para el Estado Libre y Soberano de Jalisco
 
-El Centro Integral de Comunicaciones establecerá sistemas tecnológicos de información e inteligencia, con la finalidad de identificar, registrar, elaborar historiales y crear diversos vectores de atención inmediata y afín a líneas telefónicas infractoras o reincidentes en los supuestos antes mencionados, así como persuadir las llamadas falsas o que no representen una emergencia.
+El Centro Integral de Comunicaciones será responsable de identificar y registrar las líneas telefónicas infractoras o reincidentes.
 
 ###### Artículo 167.
 
@@ -2642,3 +2642,9 @@ P.O. 9 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26501/LXI/17 QUE RESUELVE LAS OBSERVACIONES QUE ENVÍA EL EJECUTIVO DEL ESTADO EN RELACIÓN AL DECRETO 26427/LXI/17 (REFORMA A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO)".]
 
 ÚNICO. El presente decreto iniciará su vigencia el día primero de enero de dos mil dieciocho, previa su publicación en el periódico oficial "Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26736/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
