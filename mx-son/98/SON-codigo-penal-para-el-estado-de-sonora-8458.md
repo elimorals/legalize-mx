@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2017-12-26"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE ENERO DE 2018.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -4097,9 +4097,11 @@ ARTÍCULO 307 BIS.- Se impondrá de un mes a seis años de prisión, al que se a
 
 Cuando en la ejecución del delito previsto en el párrafo anterior se actualice una o mas de las hipótesis contenidas en las fracciones I, IV, VII, VIII, IX y X del artículo 308, la pena aplicable será la establecida en dicho precepto y en su caso en el artículo 309 de este Código.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE ENERO DE 2018)</small>
+
 ###### ARTICULO 308.
 
-Se impondrá de dos a diez años de prisión, a quien se apodere de una cosa ajena mueble, sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley, cuando se ejecute:
+Se impondrá de 6 a 12 años de prisión, a quien se apodere de una cosa ajena mueble, sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley, cuando se ejecute:
 
 I.- Empleándose violencia en las personas o en las cosas;
 
@@ -4131,9 +4133,21 @@ X Bis.- Respecto de vales de papel o cualquier dispositivo electrónico en forma
 
 XI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2018)</small>
 
-XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado, saneamiento y demás bienes que sean parte de la infraestructura urbana, como: monumentos, placas, señalamientos de tránsito, casetas telefónicas, alumbrado y similares.
+XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado y saneamiento;
+
+> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
+
+XIII.- Respecto de accesorios automotrices o artículos que se encuentren al interior de un vehículo;
+
+> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
+
+XIV.- En contra de personas discapacitadas o mayores de sesenta años de edad; y
+
+> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
+
+XV.- Por quienes hayan sido o sean miembros de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no se encuentren en servicio.
 
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -4217,11 +4231,11 @@ ARTICULO 308 BIS D.- Comete el delito de robo de vehículo de propulsión mecán
 
 ARTICULO 308 BIS-E.- Los dependientes, colaboradores y propietarios de las casas de empeño, yunques, recicladoras, empresas dedicadas a la compraventa de metales preciosos, cobre, acero y demás metales de valor; así como, establecimientos de cualquier tipo que reciban productos que sean canjeables por dinero, de los conocidos como tianguis y similares, deberán identificar plenamente a los deudores prendarios o vendedores y que comprueben la procedencia legítima de las prendas o artículos que reciban por medio de facturas o notas, cualquier comprobante fehaciente que demuestre que el objeto no es producto de una actividad ilícita o, en caso de no poder acreditar la legítima procedencia del bien, cumplir con todos los requisitos establecidos en la Ley que determina las bases de operación de las casas de empeño del Estado de Sonora, en el entendido que los contratos de adhesión autorizados por la Procuraduría Federal del Consumidor y que son utilizados para formalizar las operaciones prendarias con los clientes, serán válidos para acreditar dichos requisitos y Ley que regula el funcionamiento y operación de yunques y recicladoras del Estado de Sonora respectivamente, de lo contrario serán sancionados con prisión de un mes a nueve años y con multa de una a doscientas cincuenta unidades de media y actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 309.
 
-El delito a que se refiere el artículo 308 se sancionará con prisión de tres a doce años:
+El delito a que se refiere el artículo 308 se sancionará con prisión de diez a veinte años:
 
 > <small>(REFORMADA, B.O. 7 DE JUNIO DE 2004)</small>
 
@@ -5110,3 +5124,11 @@ B.O. 26 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 183, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR Y DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
