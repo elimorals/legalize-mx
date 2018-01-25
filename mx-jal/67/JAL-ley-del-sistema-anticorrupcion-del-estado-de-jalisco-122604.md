@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -527,7 +527,9 @@ VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estata
 
 IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria; y
 
-X. No ser servidor público de elección popular, titular de las dependencias y entidades de la administración pública centralizada y paraestatal o de sus equivalentes en los municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada o paraestatal o su equivalente en algún municipio, a menos que se haya separado de su cargo un año antes del día de su designación.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+
+X. No ser titular de alguna dependencia o entidad de la administración pública centralizada o paraestatal, o de sus equivalentes en los municipios, titular de algún órgano de gobierno en los órganos constitucionales autónomos, titular de algún órgano jurisdiccional estatal, consejero de la Judicatura, subsecretario u oficial mayor de la administración pública centralizada o paraestatal o su equivalente en algún municipio, a menos que se haya separado de su cargo un año antes del día de su designación.
 
 ###### Artículo 35.
 
@@ -738,3 +740,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26724/LXI/17 QUE REFORMA EL ARTÍCULO 34, FRACCIÓN X DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El estado de Jalisco".
