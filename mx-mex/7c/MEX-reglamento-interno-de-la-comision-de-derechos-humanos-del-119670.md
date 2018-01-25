@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2017-07-18"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 25 DE ENERO DE 2018.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -347,9 +347,15 @@ III. Coordinar y organizar la realización de eventos en materia de derechos hum
 
 IV. Coordinar acciones con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
 
-V. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes; y
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2018)</small>
 
-VI. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
+V. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.G. 25 DE ENERO DE 2018)</small>
+
+VI. Proponer, ejecutar y promover actividades culturales y artísticas; y
+
+VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
 
 Atribuciones de (sic) Dirección General de Administración y Finanzas
 
@@ -1602,3 +1608,11 @@ G.G. 18 DE JULIO DE 2017.
 PRIMERO.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado, así como en la Gaceta de Derechos Humanos de la Comisión de Derechos Humanos.
 
 SEGUNDO.- Esta reforma entrará en vigor el 19 de julio de 2017.
+
+G.G. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 12/2017-03, POR EL QUE SE REFORMA EL REGLAMENTO INTERNO, Y SE ACTUALIZA EL MANUAL GENERAL DE ORGANIZACIÓN, AMBOS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, CON LA CREACIÓN DEL DEPARTAMENTO DE VINCULACIÓN CULTURAL”.]
+
+Primero.- Publíquese este Acuerdo en el periódico oficial “Gaceta del Gobierno” del Estado de México, así como en la “Gaceta de Derechos Humanos”, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+Segundo.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno” del Estado de México.
