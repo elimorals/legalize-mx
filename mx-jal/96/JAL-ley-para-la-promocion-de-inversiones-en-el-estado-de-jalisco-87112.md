@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2016-10-11"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -157,43 +155,51 @@ XI. Instaurar un sistema de seguimiento y retroalimentación oportuna, expedita 
 
 XII. Favorecer la coordinación entre las diferentes entidades y organismos estatales y municipales de promoción y fomento a la inversión productiva, y hacer compatibles sus agendas y objetivos particulares, con la finalidad de potenciar sus resultados.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 26728/LXI/17 PUBLICADO EN EL P.O. 25 DE ENERO DE 2018, SE ADVIERTE QUE SE MODIFICARÓN Y REACOMODARON LAS FRACCIONES DE LA I A LA XII DEL ARTÍCULO 9]</small>
+
 ###### Artículo 9.
 
 Para la atención de los objetivos encomendados al Sistema Estatal de Promoción de Inversiones y para la concreción, instrumentación, seguimiento y evaluación de los acuerdos que con ese fin se adopten, se conformará un Consejo, integrado de la siguiente manera:
 
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+II. El Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico y Ejecutivo;
 
-III. El Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico y Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+III. El Secretario de Planeación, Administración y Finanzas;
 
-IV. El Secretario de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-V. El Secretario de Desarrollo Rural;
+IV. El Secretario de Desarrollo Rural;
 
-VI. El Secretario de Turismo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+V. El Secretario de Turismo;
 
-VII. El Secretario de Medio Ambiente y Desarrollo Territorial;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-VIII. El Secretario de Trabajo y Previsión Social;
+VI. El Secretario de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-IX. El Fiscal General del Estado;
+VII. El Secretario de Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-X. El Secretario de Movilidad;
+VIII. El Fiscal General del Estado;
 
-XI. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-XII. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
+IX. El Secretario de Movilidad; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+
+X. El Secretario de Innovación, Ciencia y Tecnología.
 
 ###### Artículo 10.
 
@@ -255,11 +261,13 @@ III. Corresponde al Secretario Ejecutivo emitir la convocatoria para las sesione
 
 El Consejo del Sistema Estatal de Promoción de Inversiones sesionará de forma ordinaria por lo menos tres veces al año y de forma extraordinaria cuando sea necesario. El Reglamento de la Ley determinará los requisitos para la emisión, validación y notificación de la convocatoria correspondiente.
 
-La instalación de las sesiones del Consejo, al igual que sus acuerdos, se reputarán como válidos cuando estén presentes al menos ocho de sus integrantes, además de su Presidente.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
-El cargo de integrante del Consejo será personal e indelegable y su desempeño no será remunerado.
+Los integrantes del Consejo tendrán derecho a voz y voto. La instalación de las sesiones del Consejo, al igual que sus acuerdos, se reputarán como válidos cuando estén presentes al menos cuatro de sus integrantes, además de su Presidente y el Secretario de Desarrollo Económico; en caso de empate, el Presidente tendrá voto de calidad.
 
-Todos los integrantes del Consejo tendrán derecho a voz y voto, y sus decisiones se adoptarán con el acuerdo de la mayoría absoluta de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
+
+Cada integrante del Consejo podrá designar un suplente que lo sustituya en sus ausencias, el cual sólo podrá nombrarse de entre los inferiores jerárquicos inmediatos al consejero en sus respectivas dependencias o de entre los subsecretarios de las secretarías participantes, en su caso. El cargo de consejero será no remunerado.
 
 ###### Artículo 14.
 
@@ -686,3 +694,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26728/LXI/17 QUE REFORMA LOS ARTÍCULOS 9° Y 13 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente de decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
