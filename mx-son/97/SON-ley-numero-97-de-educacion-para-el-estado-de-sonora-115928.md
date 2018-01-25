@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2017-06-26"
+last_updated: "2018-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -273,11 +273,33 @@ Además de impartir la educación preescolar, la primaria, la secundaria y la me
 
 La educación que se imparta en las escuelas deberá vincularse activa y constantemente con la comunidad, y ofrecer, a quienes en ella participan, la oportunidad de aplicar y utilizar el conocimiento según lo requiera la sociedad.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 22.
 
-El fin primordial del proceso educativo es la formación del alumno. Para que éste logre el desarrollo armónico de su personalidad debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de la salud y de su cuerpo mediante una alimentación sana, el cuidado de su entorno, la práctica del deporte en cualquiera de sus expresiones y su espíritu creativo a través de actividades recreativas, artísticas y culturales; además deberá motivar su capacidad para interactuar entre sí y con el medio ambiente, proponiendo el desarrollo y uso óptimo de las potencialidades psicológicas, cognitivas y afectivas para el logro de metas individuales y colectivas.
+El fin primordial del proceso educativo es la formación humana del alumno. Para que éste logre el desarrollo armónico de su personalidad debe asegurársele la participación activa en dicho proceso.
 
-Todos los alumnos de escuelas públicas y privadas, tienen derecho a recibir orientación escolar para conseguir el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, debiendo contar cada institución con, cuando menos, un profesional de la psicología por cada trescientos alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia.
+Para el logro de una formación humana integral debe estimularse el sentido de responsabilidad social a través de la participación ciudadana, el cuidado de su entorno, la práctica del deporte o estímulo del espíritu creativo a través del arte y la cultura; Además, deberá motivar su capacidad para interactuar entre si y su entorno, teniendo para ello que promover la cultura de la paz.
+
+> <small>(ADICIONADO, B.O. 25 DE ENERO DE 2018)</small>
+
+ARTÍCULO 22 BIS.- En el desarrollo óptimo de las potencialidades psicológicas, cognitivas y afectivas de los alumnos de educación básica, se deberá brindar la prestación de servicios psicológicos y de orientación escolar, debiendo para ello la Secretaría, realizar diagnósticos psicosociales en las comunidades escolares, en los cuales se deberá evaluar la situación de riesgo o grados de violencia en sus distintas manifestaciones o dimensiones, desempeño educativo o alumnos con dificultades cognitivas así como las demás que se consideren necesarias para optimizar los recursos económicos y brindar una atención integral.
+
+> <small>(ADICIONADO, B.O. 25 DE ENERO DE 2018)</small>
+
+ARTÍCULO 22 BIS 1.- Para la prestación de servicios psicológicos y de orientación escolar al que se hace referencia en el Artículo 22 Bis, la Secretaría deberá crear un programa focalizado que cumpla con los siguientes elementos mínimos:
+
+I.- Focalizar la atención en comunidades escolares que sean detectadas como de riesgo por conductas de violencia, deserción escolar o de atención prioritaria por dificultades cognitivas mediante la elaboración de diagnósticos;
+
+II.- Establecer modelos de intervención unificados a través de criterios profesionales que permitan atender y orientar correctamente a los alumnos o comunidades escolares; estos modelos deberán ser representados en lineamientos o documentos administrativos que permitan una correcta gestión del capital humano;
+
+III.- Crear indicadores que detecten en función de comportamientos, incidentes o demás elementos que se consideren necesarios, las escuelas o comunidades escolares que requieran el programa de prestación de servicios psicológicos y de orientación escolar;
+
+IV.- Promover capacitaciones constantes para alumnos, maestros, padres de familia, profesionales de la psicología y demás grupos que así se consideren necesarios, para cumplir con los objetivos del programa;
+
+V.- Coordinar en forma integral a las autoridades educativas con padres de familia, dependencias, entidades u organismos de la sociedad civil para dar control y seguimiento a las comunidades escolares que presenten alguna situación de riesgo; y
+
+VI.- Promover la cultura de la paz y sana convivencia en los planteles educativos.
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DEL ESTADO EN MATERIA EDUCATIVA
 
@@ -1174,3 +1196,19 @@ B.O. 26 DE JUNIO DE 2017.
 ###### ARTICULO ÚNICO.
 
 Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 194, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura deberá poner en operación lo establecido en el presente decreto a más tardar 120 días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Sonora deberá asignar el presupuesto necesario para la operación de este decreto en el Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal 2018.
