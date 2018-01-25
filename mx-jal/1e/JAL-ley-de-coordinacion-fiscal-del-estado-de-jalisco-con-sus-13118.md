@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2017-04-08"
+last_updated: "2018-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -38,8 +40,6 @@ LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
 ### CAPÍTULO I. Del sistema de coordinación Fiscal del Estado
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 1°.
@@ -48,11 +48,9 @@ Se establece el Sistema de Coordinación Fiscal del Estado de Jalisco con sus Mu
 
 I. Coordinar el Sistema Fiscal del Estado de Jalisco con sus Municipios y fijar las reglas de colaboración administrativa entre ambas autoridades fiscales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
-
-II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución tanto de las Participaciones derivadas de gravámenes Federales y Estatales que correspondan a los Municipios del Estado, como de las Aportaciones Federales correspondientes a los Municipios, así como su distribución y vigilancia en el cálculo y liquidación;
+II. Establecer los montos, bases, plazos y toda normatividad requerida para la distribución de las Participaciones derivadas de gravámenes Federales y Estatales que correspondan a los Municipios del Estado, así como su distribución y vigilancia en el cálculo y liquidación;
 
 III. Constituir los organismos en materia de coordinación fiscal y definir su organización, funcionamiento y facultades, y
 
@@ -480,13 +478,11 @@ Cuando el estado o algún municipio contravengan lo establecido por esta Ley, o 
 
 ### CAPÍTULO VIII. De las aportaciones federales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
 
 ###### Artículo 23.
 
-Para los efectos de la distribución de los fondos de aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, y del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se estará a lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, en tanto que la determinación y aprobación de los coeficientes vinculados quedará a cargo del Congreso del Estado.
+Para los efectos de la distribución de los fondos de aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, y del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se estará a lo establecido en el capítulo V de la Ley de Coordinación Fiscal.
 
 ## TRANSITORIOS
 
@@ -593,3 +589,9 @@ P.O. 8 DE ABRIL DE 2017.
 PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
 
 SEGUNDO. En tanto existan adeudos de particulares en materia de Impuesto de Tenencia o Uso de Vehículos, de ejercicios fiscales anteriores al 2010, se aplicarán las disposiciones previstas en los artículos 4 y 5 anteriores a la entrada en vigor del presente decreto.
+
+P.O. 25 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26737/LXI/18 QUE REFORMA LOS ARTÍCULOS 1º Y 23 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
