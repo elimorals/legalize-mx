@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2018-01-19"
+last_updated: "2018-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -212,9 +212,9 @@ XVII. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del im
 
 XVIII. Ejercer las facultades previstas en los párrafos segundo y tercero del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-XIX. Reglamentar el funcionamiento de los órganos que realicen las labores de compilación, sistematización y publicación de las ejecutorias, tesis y jurisprudencias, así como de las sentencias en contrario que las interrumpan o las resoluciones que las sustituyan; la estadística e informática de la Suprema Corte de Justicia; y el centro de documentación y análisis que comprenderá la biblioteca central, el archivo histórico, el archivo central y los archivos de los tribunales federales foráneos, compilación de leyes y el archivo de actas; y cuando lo estime conveniente podrá el Pleno convenir con el Consejo de la Judicatura Federal las medidas necesarias para lograr una eficiente difusión de las publicaciones;
+XIX. Reglamentar el funcionamiento de los órganos que realicen las labores de compilación, sistematización y publicación de las ejecutorias, tesis y jurisprudencias, así como de las sentencias en contrario que las interrumpan o las resoluciones que las sustituyan; la estadística e informática de la Suprema Corte de Justicia; y el centro de documentación y análisis que comprenderá la biblioteca central, los archivos históricos de la Suprema Corte de Justicia, juzgados de distrito y tribunales de circuito, así como el archivo central de la Suprema Corte de Justicia, la compilación de leyes y el archivo de actas; y cuando lo estime conveniente podrá convenir con el Consejo de la Judicatura Federal las medidas necesarias para lograr una eficiente difusión de las publicaciones que de dicha compilación se realice;
 
 XX. Para conocer sobre la interpretación y resolución de los conflictos que se deriven de contratos o cumplimiento de obligaciones contraídas por particulares o dependencias públicas con la Suprema Corte de Justicia o con el Consejo de la Judicatura Federal;
 
@@ -1272,9 +1272,9 @@ XVI. Nombrar, a propuesta que haga su presidente, a los secretarios ejecutivos, 
 
 XVII. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Federación, a excepción de la Suprema Corte de Justicia, en ejercicio de su presupuesto de egresos, se ajuste a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-XVIII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público. Para tal efecto, deberá emitir la regulación suficiente, por medio de reglas y acuerdos generales, para la presentación de escritos y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen la Firma Electrónica, de conformidad con lo estipulado en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+XVIII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos y de servicios al público; así como para la organización, administración y resguardo de los archivos de los juzgados de distrito y tribunales de circuito, a excepción de los que de conformidad con esta Ley corresponden a la Suprema Corte de Justicia. Emitir la regulación suficiente, para la presentación de escritos y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen la Firma Electrónica, de conformidad con lo estipulado en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XIX. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los tribunales de circuito y juzgados de distrito;
 
@@ -1306,7 +1306,9 @@ XXXII. Nombrar a los servidores públicos de los órganos auxiliares del Consejo
 
 XXXIII. Fijar los períodos vacacionales de los magistrados de circuito y jueces de distrito;
 
-XXXIV. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, cuidando su mantenimiento, conservación y acondicionamiento, a excepción de los que correspondan a la Suprema Corte de Justicia;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
+
+XXXIV. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, incluyendo los documentos integrados al archivo judicial de juzgados de distrito y tribunales de circuito de todos los circuitos judiciales del país; garantizando su mantenimiento, conservación y acondicionamiento, a excepción de los que correspondan a la Suprema Corte de Justicia;
 
 > <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2009)</small>
 
@@ -4003,3 +4005,23 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y 163 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 11, FRACCIÓN XIX Y 81, FRACCIONES XVIII Y XXXIV DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de la Judicatura Federal, dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, deberá adecuar su normativa interna a efecto de establecer la regulación y los criterios para la organización, administración y resguardo del archivo judicial de los órganos judiciales federales a cuya transferencia se refiere este Decreto.
+
+Tercero. La transmisión de los archivos de los órganos judiciales federales bajo resguardo de la Suprema Corte de Justicia de la Nación al Consejo de la Judicatura Federal, a que se refiere el presente Decreto, se efectuará una vez realizadas las adecuaciones normativas previstas en el transitorio segundo.
+
+Cuarto. La transferencia de los archivos de los tribunales federales bajo resguardo de la Suprema Corte de Justicia de la Nación al Consejo de la Judicatura Federal deberá realizarse con pleno acatamiento a lo establecido en la ley de la materia, y en los ordenamientos normativos de carácter administrativos emitidos al respecto por el Pleno de la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal.
+
+Quinto. Los recursos humanos, materiales y financieros que la Suprema Corte de Justicia de la Nación destine al uso de la administración y reguardo (sic) de los archivos de los órganos jurisdiccionales federales referidos en el presente instrumento, se transferirán al Consejo de la Judicatura Federal, dentro de los seis meses siguientes a la entrada en vigor de este Decreto.
+
+Sexto. Las Casas de la Cultura de la Suprema Corte de Justicia de la Nación apoyarán a las áreas regionales del Consejo de la Judicatura Federal para que estas últimas asuman las atribuciones y realicen las acciones que correspondan para la organización, administración y reguardo (sic) de los archivos de los órganos jurisdiccionales federales radicados en la circunscripción territorial de su competencia.
+
+Séptimo. A la entrada en vigor del presente Decreto se suspenderán las transferencias a la Suprema Corte de Justicia de la Nación de los expedientes de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, aun cuando ya se encuentren programadas.
+
+Octavo. El Centro de Documentación y Análisis conservará bajo su resguardo los expedientes históricos de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, depositados en las Casas de la Cultura Jurídica, conforme a lo establecido en las normas administrativas generales que para tal efecto expida el Pleno de la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal.
