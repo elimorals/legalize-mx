@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2013-del-pleno-del-consejo-de-la-93683"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-04-12"
-last_updated: "2013-04-12"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93683&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-04-04"
 
 ACUERDO GENERAL 12/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN ZAPOPAN, JALISCO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y A LAS REGLAS PARA EL TURNO Y LA DISTRIBUCIÓN DE ASUNTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de abril de 2013.
 
@@ -49,7 +49,9 @@ PRIMERO. El nuevo órgano jurisdiccional iniciará funciones el dieciséis de ab
 
 Dicho órgano jurisdiccional tendrá su domicilio en Anillo Periférico Poniente Manuel Gómez Morín 7727, Edificio X4, Piso 1, Fraccionamiento Ciudad Judicial Federal, código postal 45010, en Zapopan, Jalisco.
 
-SEGUNDO. El nuevo órgano jurisdiccional conocerá, dentro de su jurisdicción, de todos los procedimientos orales mercantiles, conforme a lo dispuesto por el título especial denominado “Del Juicio Oral Mercantil” del libro quinto del Código de Comercio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 2/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE ENERO DE 2018)</small>
+
+SEGUNDO. El Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, conocerá, dentro de su jurisdicción, de todos los procedimientos orales mercantiles, conforme a lo dispuesto por el Título Especial "Del Juicio Oral Mercantil" y por el Título Especial Bis "Del Juicio Ejecutivo Mercantil Oral", ambos del Libro Quinto del Código de Comercio.
 
 Los Juzgados de Distrito en Materia Civil en el Estado de Jalisco conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente acuerdo.
 
@@ -102,3 +104,17 @@ SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deber
 SÉPTIMO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 12/2013, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Zapopan, Jalisco, así como a su competencia, jurisdicción territorial, domicilio y a las reglas para el turno y la distribución de asuntos, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de marzo de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a cuatro de abril de dos mil trece.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE LOS DIVERSOS 56/2011, 12/2013, 51/2016 Y 37/2017, EN RELACIÓN CON LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, PARA CONOCER DE JUICIOS EJECUTIVOS MERCANTILES ORALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el veintiséis de enero de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. En los Distritos y Circuitos Judiciales en los que no se encuentren instalados Juzgados de Distrito especializados en materia mercantil, los juzgados de Distrito mixtos, especializados y semiespecializados que en razón de su competencia conocen de juicios federales, continuarán conociendo de todos los juicios mercantiles incluyendo los que se tramiten en la vía oral, conforme a lo dispuesto en el Código de Comercio.
+
+TERCERO. Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en las Oficinas de Correspondencia Común de los Juzgados de Distrito en que sea procedente, a fin de introducir el campo de captura relativo al nuevo tipo de juicio ejecutivo mercantil oral y ajustar el importe anual de las cuantías señaladas para los juicios orales mercantiles hasta su desaparición, de conformidad con lo previsto en los Transitorios Tercero, Cuarto y Quinto del Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles, publicado el veinticinco de enero de dos mil diecisiete en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
