@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2017-12-29"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -919,9 +921,17 @@ d) Realizar las gestiones que permitan recuperar los documentos de trascendencia
 
 e) Difundir el acervo del archivo que se considere de interés para el público en general;
 
-f) Publicar revistas o ediciones periódicas con los Decretos y Acuerdos aprobados por el Congreso del Estado que resulten de interés general; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2018)</small>
 
-g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+f) Publicar revistas o ediciones periódicas con los Decretos y Acuerdos aprobados por el Congreso del Estado que resulten de interés general;
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2018)</small>
+
+g) Promover la traducción y difusión al sistema de escritura braille u otras formas de expresión audiovisual, cuando se trate de disposiciones legales orientadas a la protección de los derechos de las personas con discapacidad; y
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+
+h) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
@@ -1873,9 +1883,17 @@ XVI.- Formar parte del Comité del Servicio Profesional de Carrera Legislativa y
 
 XVII.- Diseñar, organizar e instrumentar el Curso de Inducción a la Función Legislativa, que se impartirá al inicio de cada Legislatura;
 
-XVIII.- Comisionar a servidores públicos del Congreso para que realicen las diligencias que sean necesarias para el cumplimiento de las funciones de éste, mismas que se desahogarán, en lo que no se oponga al presente ordenamiento o a cualquier otro aplicable, de conformidad con las disposiciones de la materia; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2018)</small>
 
-XIX.- Las demás que le señalen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, el presente Reglamento, el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado o le asigne el Presidente de la Junta de Gobierno y Coordinación Política o la Mesa Directiva.
+XVIII.- Comisionar a servidores públicos del Congreso para que realicen las diligencias que sean necesarias para el cumplimiento de las funciones de éste, mismas que se desahogarán, en lo que no se oponga al presente ordenamiento o a cualquier otro aplicable, de conformidad con las disposiciones de la materia;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2018)</small>
+
+XIX.- Verificar que acuda a las Sesiones de Pleno del Congreso del Estado, un intérprete de lengua de señas, a fin de garantizar el derecho de acceso a la información de personas con discapacidad auditiva; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2018)</small>
+
+XX.- Las demás que le señalen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, el presente Reglamento, el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado o le asigne el Presidente de la Junta de Gobierno y Coordinación Política o la Mesa Directiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -2383,13 +2401,17 @@ XII.- Definir la estrategia de vinculación institucional e interinstitucional d
 
 XIII.- Crear y supervisar la actualización del archivo en video y gráfico de los eventos y sesiones del Congreso;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2018)</small>
 
-XIV.- Establecer los mecanismos de comunicación interna a fin de dar a conocer al personal del Congreso, las políticas de desarrollo humano, capacitación y vinculación social que se considere pertinente implementar; y
+XIV.- Establecer los mecanismos de comunicación interna a fin de dar a conocer al personal del Congreso, las políticas de desarrollo humano, capacitación y vinculación social que se considere pertinente implementar;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2018)</small>
 
-XV.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
+XV.- Disponer del personal necesario para que se proporcione un intérprete de lengua de señas durante el desahogo de las Sesiones de Pleno, a fin de garantizar el derecho de acceso a la información de personas con discapacidad auditiva; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2018)</small>
+
+XVI.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
@@ -3288,3 +3310,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR VIRTUD DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
