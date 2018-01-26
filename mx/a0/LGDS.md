@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2016-06-01"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -188,9 +188,17 @@ I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, 
 
 II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-III. Fortalecer el desarrollo regional equilibrado, y
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
-IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social.
+III. Fortalecer el desarrollo regional equilibrado;
+
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
+
+IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2018)</small>
+
+V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
 
 ### Capítulo II. De la Planeación y la Programación
 
@@ -408,9 +416,11 @@ La coordinación del Sistema Nacional compete a la Secretaría, con la concurren
 
 La Secretaría coordinará la correspondencia entre el Programa Nacional de Desarrollo Social, los programas sectoriales y los de las entidades federativas, promoviendo que la planeación sea congruente, objetiva y participativa.
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2018)</small>
+
 ###### Artículo 40.
 
-En el ámbito de sus atribuciones y en congruencia con las disposiciones de esta Ley las legislaturas de los estados, la Asamblea Legislativa del Distrito Federal y los municipios emitirán normas en materia de desarrollo social, tomando en cuenta sus particularidades.
+En el ámbito de sus atribuciones y en congruencia con las disposiciones de esta Ley las legislaturas de las entidades federativas y los municipios emitirán normas en materia de desarrollo social, tomando en cuenta sus particularidades.
 
 ###### Artículo 41.
 
@@ -801,5 +811,19 @@ D.O.F. 1 DE JUNIO DE 2016.
 D.O.F. 1 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 3 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 11 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+D.O.F. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
