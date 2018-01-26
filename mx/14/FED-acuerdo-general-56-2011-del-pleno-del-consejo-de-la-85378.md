@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-56-2011-del-pleno-del-consejo-de-la-85378"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-01-27"
-last_updated: "2012-01-27"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-01-25"
 ---
 # ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [CONCLUSION DE FUNCIONES DE LOS JUZGADOS QUINTO DE DISTRITO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA Y DEL JUZGADO SEGUNDO DE DISTRITO AUXILIAR DE LA OCTAVA REGION, CON SEDE EN CANCUN, QUINTANA ROO Y SU TRANSFORMACION EN JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTIA MENOR]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 56/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, PUEBLA Y DEL JUZGADO SEGUNDO DE DISTRITO AUXILIAR DE LA OCTAVA REGIÓN, CON SEDE EN CANCÚN, QUINTANA ROO, Y SU TRANSFORMACIÓN EN JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR; CON SEDE EN LAS REFERIDAS CIUDADES, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, FECHA DE INICIO DE FUNCIONES Y A LAS REGLAS PARA EL TURNO Y LA DISTRIBUCIÓN DE ASUNTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de enero de 2012.
 
@@ -59,7 +61,7 @@ A partir de la fecha que determine el Pleno del Consejo de la Judicatura Federal
 
 Los órganos referidos tendrán la denominación, domicilio y jurisdicción territorial que se indican enseguida:
 
-> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 27 DE ENERO DE 2012, PÁGINA 81.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 27 DE ENERO DE 2012, PÁGINA 81.]</small>
 
 El Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula, Puebla, ejercerá jurisdicción territorial sobre el Sexto Circuito.
 
@@ -67,7 +69,9 @@ El Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de
 
 Los Juzgados de Distrito en el Estado de Puebla y los Juzgados de Distrito en el Estado de Quintana Roo, conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente acuerdo.
 
-TERCERO. A partir del inicio de sus funciones los órganos jurisdiccionales en materia mercantil especializados en juicios de cuantía menor, previstos en el punto que antecede, conocerán, dentro de su jurisdicción, de todos los procedimientos orales mercantiles, conforme lo dispuesto por el título especial “Del Juicio Oral Mercantil” del libro quinto del Código de Comercio.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 2/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE ENERO DE 2018)</small>
+
+TERCERO. Los órganos jurisdiccionales en materia mercantil especializados en juicios de cuantía menor, previstos en el numeral que antecede, conocerán, dentro de su jurisdicción, de todos los procedimientos orales mercantiles, conforme a lo dispuesto por el Título Especial "Del Juicio Oral Mercantil" y por el Título Especial Bis "Del Juicio Ejecutivo Mercantil Oral", ambos del Libro Quinto del Código de Comercio."
 
 CUARTO. A partir del veintiocho de enero de dos mil doce, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, lo será también del Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en esa misma localidad.
 
@@ -85,43 +89,43 @@ SEPTIMO. Se modifica el Acuerdo General 11/2011 del Pleno del Consejo de la Judi
 
 I. Se reforma el punto QUINTO del Acuerdo General 11/2011, en sus puntos 2 y 8 para quedar como sigue:
 
-“QUINTO. Se contará con:
+"QUINTO. Se contará con:
 
-1. …
+1. ...
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
 
-3. a 7. …
+3. a 7. ...
 
 8. El Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
 
-9 a 11. …
+9 a 11. ...
 
-…”.
+.".
 
 II. Se adiciona un inciso 4 en el punto SEGUNDO, apartado VI. SEXTO CIRCUITO, para quedar como sigue:
 
-“1 …
+"1 ...
 
-2. …
+2. ...
 
-3. …
+3. ...
 
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula”.
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula".
 
 III. Se adiciona un inciso 4 en el punto SEGUNDO, apartado XXVII. VIGESIMO SEPTIMO CIRCUITO, para quedar como sigue:
 
-“1 …
+"1 ...
 
-2. …
+2. ...
 
-3. …
+3. ...
 
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún”.
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún".
 
 OCTAVO. Se modifica el punto PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION del Acuerdo General 10/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
 
-“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Segunda Región, conformado por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810 en San Andrés Cholula; así como dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla; su domicilio será en avenida 23 poniente número 2509, colonia Los Volcanes, código postal, 72410 en Puebla.
+"PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Segunda Región, conformado por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810 en San Andrés Cholula; así como dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla; su domicilio será en avenida 23 poniente número 2509, colonia Los Volcanes, código postal, 72410 en Puebla.
 
 Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
@@ -145,23 +149,23 @@ Juzgado Décimo de Distrito del Centro Auxiliar de la Segunda Región.
 
 Los tribunales colegiados de Circuito se denominarán:
 
-…
+...
 
-…
+...
 
-…
+...
 
-…”.
+...".
 
 NOVENO. Se modifica el punto PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION del Acuerdo General 32/2010, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
 
-“PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito auxiliares y un juzgado de Distrito auxiliar, con residencia en Cancún, Quintana Roo, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+"PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito auxiliares y un juzgado de Distrito auxiliar, con residencia en Cancún, Quintana Roo, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado de Distrito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
-…
+...
 
-…”.
+...".
 
 DECIMO. Las Secretarías Ejecutivas de Finanzas, de Obra, Recursos Materiales y Servicios Generales, así como las Direcciones Generales de Tecnologías de la información y de Estadística Judicial, se coordinarán entre sí a fin de dotar a los nuevos órganos de la infraestructura y equipamiento necesario para el desempeño de sus funciones. Dichos órganos deberán contar con salas para la celebración de audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos, garantizando su fidelidad, integridad, conservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
 
@@ -188,3 +192,17 @@ SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de 
 OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 56/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones del Juzgado Quinto de Distrito Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla y del Juzgado Segundo de Distrito Auxiliar de la Octava Región, con sede en Cancún, Quintana Roo, y su transformación en Juzgados Primero y Segundo de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor; con sede en las referidas ciudades, así como a su competencia, jurisdicción territorial, fecha de inicio de funciones y a las reglas para el turno y la distribución de asuntos, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinticinco de enero de dos mil doce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a veinticinco de enero de dos mil doce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 2/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE LOS DIVERSOS 56/2011, 12/2013, 51/2016 Y 37/2017, EN RELACIÓN CON LA COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, PARA CONOCER DE JUICIOS EJECUTIVOS MERCANTILES ORALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el veintiséis de enero de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. En los Distritos y Circuitos Judiciales en los que no se encuentren instalados Juzgados de Distrito especializados en materia mercantil, los juzgados de Distrito mixtos, especializados y semiespecializados que en razón de su competencia conocen de juicios federales, continuarán conociendo de todos los juicios mercantiles incluyendo los que se tramiten en la vía oral, conforme a lo dispuesto en el Código de Comercio.
+
+TERCERO. Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en las Oficinas de Correspondencia Común de los Juzgados de Distrito en que sea procedente, a fin de introducir el campo de captura relativo al nuevo tipo de juicio ejecutivo mercantil oral y ajustar el importe anual de las cuantías señaladas para los juicios orales mercantiles hasta su desaparición, de conformidad con lo previsto en los Transitorios Tercero, Cuarto y Quinto del Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles, publicado el veinticinco de enero de dos mil diecisiete en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
