@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-12-12"
+last_updated: "2018-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE ENERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -404,9 +404,9 @@ C) Procuraduría Fiscal de la Ciudad de México, a la que quedan adscritas:
 
 3. Subprocuraduría de Recursos Administrativos y Autorizaciones, y
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2018)</small>
 
-4. Subprocuraduría de Asuntos Penales.
+4. Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE MAYO DE 2017)</small>
 
@@ -6408,11 +6408,11 @@ X. Expedir copias certificadas de los documentos que obren en sus archivos sobre
 
 XI. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE ENERO DE 2018)</small>
 
 ###### Artículo 91.
 
-Corresponde a la Subprocuraduría de Asuntos Penales:
+Corresponde a la Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios:
 
 > <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -20791,3 +20791,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Desarrollo Económico por conducto de la Subsecretaría de Desarrollo Económico y Sustentabilidad llevará a cabo acciones para contar con un Plan que considere mecanismos para la elaboración de propuestas y atención de proyectos dirigidos a consolidar empresas dedicadas a la energía sustentable, limpia y renovable.
 
 CUARTO.- En un término que no exceda de tres meses, la Secretaría de Desarrollo Económico por conducto de la Subsecretaría de Desarrollo Económico y Sustentabilidad deberá instalar un Órgano Colegiado donde participen el sector empresarial, social, académico y público para promover la participación de la sociedad con la finalidad de analizar la problemática, iniciativas y proyectos en materia de sustentabilidad energética en la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
