@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2017-11-24"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -2481,7 +2481,7 @@ La Secretaría podrá otorgar permisos, autorizaciones y acreditaciones a fabric
 
 Para prevenir y reducir la emisión de contaminantes a la atmósfera, la Secretaría promoverá ante las autoridades municipales competentes, programas de ordenamiento vial y de agilización del tránsito vehicular, especialmente en las horas de mayor incidencia de tráfico vehicular.
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO, Y DE LOS MATERIALES RESTRINGIDOS
 
 ###### Artículo 155.
 
@@ -2595,6 +2595,8 @@ Cuando no existan sistemas municipales para evacuación de las aguas residuales,
 
 El Estado se coordinará con las autoridades federales competentes, para realizar un sistemático y permanente monitoreo de calidad de las aguas de jurisdicción estatal y aplicar las medidas que procedan o en su caso promover su ejecución.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO V. MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ###### Artículo 166.
@@ -2630,6 +2632,22 @@ III. La generación, manejo y disposición final de residuos de competencia esta
 IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje; y
 
 V. El aprovechamiento sustentable de minerales y sustancias no reservadas a la Federación.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+
+###### Artículo 168 Bis.
+
+Para la protección ambiental del Estado de Nuevo León y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+
+Quedarán exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas utilizando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la autoridad correspondiente establezca dentro de los ordenamientos y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma oficial mexicana NMX-E-267 o las que la sustituyan.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+
+Artículo 168 Bis I.- Toda persona física o moral que tenga como objetivo un fin preponderantemente comercial e infrinja lo establecido en el artículo 168 BIS, será acreedor de una multa de mil quinientas a veinte mil UMAS.
+
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido.
+
+Procederá la clausura definitiva del establecimiento, en caso de cometer la misma infracción por tercera ocasión.
 
 ### CAPÍTULO VI. ACTIVIDADES QUE NO SEAN CONSIDERADAS COMO ALTAMENTE RIESGOSAS
 
@@ -3834,3 +3852,25 @@ Quinto.- Los estudios hidrológicos a que se refiere el artículo 126 bis 7, deb
 Quienes pretendan instalar u operar nuevos establecimientos en los términos de presente Decreto, deberán presentar el Estudio Hidrológico, en forma conjunta con la Manifestación de Impacto Ambiental o al Informe Preventivo previsto en la Ley Ambiental del Estado de Nuevo León y su Reglamento.
 
 Sexto.- De conformidad con lo establecido en el artículo 126 bis 9, éste será aplicable únicamente a los establecimientos que se instalen a partir de la entrada en vigor del presente Decreto, cuyo giro sea la explotación y aprovechamiento de materiales no reservados a la Federación.
+
+P.O. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 354. SE REFORMA POR MODIFICACIÓN LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO IV, Y POR ADICIÓN DE LOS ARTÍCULOS 168 BIS Y 168 BIS I, DE LA LEY DE AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Para la implementación de esta disposición, el Estado deberá elaborar las normas, programas y planes de manejo correspondientes.
+
+l. Dichos ordenamientos deberán establecer criterios de eficiencia ambiental, tecnológica, económica y social, bajo los principios de responsabilidad compartida y manejo integral;
+
+II. Estos ordenamientos deberán contener disposiciones que les sean aplicables a los productores, distribuidores, comerciantes, consumidores, usuarios de subproductos y generadores de residuos de estos materiales, así como a los diferentes niveles de gobierno en el estado;
+
+III. Dichos ordenamientos podrán considerar periodos de transición para que el sector industrial en el Estado y los comercios señalados en el primer párrafo del presente artículo cumplan con la presente disposición;
+
+IV. Entre las disposiciones que estos ordenamientos establezcan, deberán incluirse metas graduales de producción más limpia, de incremento de volúmenes de recuperación de estos materiales a través del servicio de recolección municipal de residuos sólidos urbanos en domicilios y espacios públicos;
+
+V. Las autoridades municipales que no realicen las acciones que estos ordenamientos señalen podrán ser sancionadas según las disposiciones aplicables; y
+
+VI. Las autoridades municipales establecerán en sus reglamentos correspondientes las sanciones a sus habitantes que no cumplan con las disposiciones previstas en estos ordenamientos.
+
+Tercero.- Las autoridades estatales deberán elaborar en un plazo no mayor a un año los ordenamientos a los que se refiere esta reforma.
