@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2017-12-07"
+last_updated: "2018-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -1397,9 +1397,11 @@ Los dictámenes se entregarán a la Junta de Coordinación y Concertación Polí
 
 Los dictámenes aprobados por el Pleno que se refieran a iniciativas de Ley o Decreto, se remitirán por conducto de la Mesa Directiva al Ejecutivo para que los sancione y mande publicar.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2018)</small>
+
 ###### Artículo 128.
 
-Cuando los dictámenes contengan Acuerdos en su parte resolutiva, se sujetarán a discusión y aprobación económica.
+Cuando los dictámenes contengan Acuerdos en su parte resolutiva, se sujetarán a discusión y aprobación mediante votación económica o electrónica.
 
 ###### Artículo 129.
 
@@ -1589,9 +1591,17 @@ V. Toda moción interpuesta estará debidamente fundada y motivada.
 
 ### Capítulo VI. De las Votaciones del Pleno
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2018)</small>
+
 ###### Artículo 146.
 
-Las votaciones serán: económicas, por cédula y nominales.
+Las votaciones serán: electrónicas, económicas, por cédula y nominales.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+
+###### Artículo 146 Bis.
+
+La votación electrónica será la que realicen los diputados a través del sistema de votación electrónica.
 
 ###### Artículo 147.
 
@@ -1617,9 +1627,11 @@ Las votaciones serán nominales tratándose de Leyes.
 
 La votación nominal se hará del modo siguiente: El secretario de la derecha del presidente dirá: ``POR LA AFIRMATIVA'', y el de la izquierda, en igual forma ``POR LA NEGATIVA''. Después, cada diputado iniciando por la derecha se pondrá de píe y dirá en voz alta su apellido y también su nombre si fuere necesario para distinguirse de otros, añadiendo la expresión ``SI'' o ``NO'' cuando se trate de votar en un asunto. El secretario de la derecha del presidente anotará los que aprueben, y el de la izquierda los que reprueben, cada uno de ellos llevará un escrutinio de los votos emitidos; concluida la votación, el secretario de la derecha preguntará dos veces si falta algún ciudadano diputado por votar y no faltando dirá: ``SE PROCEDE A TOMAR LA VOTACION DE LA MESA DIRECTIVA'', votando entonces dichos secretarios y el presidente; los primeros harán el cómputo de votos y leerán las listas que hubiesen formado, a fin de rectificar cualquier error, dando a conocer al Pleno el resultado de la elección, y el presidente hará la declaración que corresponda conforme al resultado obtenido.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2018)</small>
+
 ###### Artículo 153.
 
-La votación económica, servirá para todas las demás votaciones no especificadas en los Artículos anteriores.
+La votación electrónica o económica, servirá para todas las demás votaciones no especificadas en los artículos anteriores.
 
 ###### Artículo 154.
 
@@ -1966,3 +1978,15 @@ P.O. 7 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor una vez aprobado, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+P.O. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 125.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor una vez aprobado por el Pleno del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
