@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-de-la-defensoria-117
 country: "mx"
 rank: "codigo"
 publication_date: "2017-01-06"
-last_updated: "2017-01-06"
+last_updated: "2018-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA DEFENSORIA DE LOS DERECHOS HUMANOS DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DE QUERÉTARO, PUBLICADO EN EL P.O. DE 26 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 6 de enero de 2017.
 
@@ -244,3 +246,21 @@ ALEJANDRA MARTÍNEZ GALÁN
 CONSEJERA DE LA DEFENSORÍA
 
 DE LOS DERECHOS HUMANOS DE QUERÉTARO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Código de Ética aprobado el 16 de noviembre de 2016 y publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga el 06 de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado por al menos la mitad más uno de quienes integran el Consejo de la Defensoría de los Derechos Humanos de Querétaro, publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+###### ARTÍCULO TERCERO.
+
+El presente Código entrará en vigor el día siguiente al de la fecha de publicación señalada en el artículo anterior.
