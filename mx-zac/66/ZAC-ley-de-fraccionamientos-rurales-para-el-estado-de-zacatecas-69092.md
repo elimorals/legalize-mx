@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-para-el-estado-de-zacatecas-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-13"
-last_updated: "2014-12-03"
+last_updated: "2018-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de junio de 2009.
 
@@ -33,13 +33,15 @@ Que los DIPUTADOS SECRETARIOS de la Honorable Quincuagésima Novena Legislatura 
 
 DECRETO # 295
 
-LA HONORABLE QUlNCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA:
+LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA:
 
-RESULTANDO PRlMERO.- En Sesión del Pleno correspondiente al día 30 de septiembre de 2008, se dio lectura a una Iniciativa de Ley que en ejercicio de las facultades que le confieren los artículos 84 de la Constitución Política del Estado de Zacatecas; 24 fracción IV y 34 fracción VIII de la Ley Orgánica de la Administración Pública de la Entidad, presentó la C. Amalia D. García Medina, Gobernadora del Estado de Zacatecas.
+RESULTANDO PRIMERO.- En Sesión del Pleno correspondiente al día 30 de septiembre de 2008, se dio lectura a una Iniciativa de Ley que en ejercicio de las facultades que le confieren los artículos 84 de la Constitución Política del Estado de Zacatecas; 24 fracción IV y 34 fracción VIII de la Ley Orgánica de la Administración Pública de la Entidad, presentó la C. Amalia D. García Medina, Gobernadora del Estado de Zacatecas.
 
 RESULTANDO SEGUNDO.- Por acuerdo de la Presidenta de la Mesa Directiva y con fundamento en lo dispuesto en los artículos 131 y 154 fracciones I y V de la Ley Orgánica del Poder Legislativo y 83 fracción V de nuestro Reglamento General, la Iniciativa de referencia fue turnada en la misma fecha a las Comisiones Legislativas de Reservas Territoriales y Lotes Baldíos y Jurisdiccional, a través del memorándum 373, para su estudio y dictamen correspondiente.
 
-CONSIDERANDO PRlMERO.
+CONSIDERANDO PRIMERO
+
+[...]
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -47,11 +49,7 @@ DECRETA
 
 LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS
 
-TÍTULO PRlMERO
-
-DISPOSICIONES GENERALES
-
-## TÍTULO SEGUNDO. DE LAS FACULTADES DE LA DIRECCIÓN
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### Capítulo Único. Disposiciones preliminares
 
@@ -71,7 +69,9 @@ V. Establecer las zonas que deban destinarse como terrenos de agostadero de uso 
 
 VI. Delimitar, las zonas de protección, y en aquellos lugares donde se obstaculiza el libre tránsito de la comunidad, las áreas para el mismo;
 
-VII. Establecer el procedimiento a través del cual se llevará a cabo el cambio voluntario de régimen de propiedad;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VII. Establecer los procedimientos a través de los cuales se llevará a cabo el cambio de régimen de propiedad, el cual podrá ser de forma voluntaria o de oficio mediante alguno de los programas que implemente la Secretaría;
 
 VIII. Fijar las servidumbres que deban establecerse en los predios para el aprovechamiento de los aguajes, los que se considerarán de uso común, y
 
@@ -83,7 +83,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Ley: La presente Ley de Fraccionamientos Rurales del Estado de Zacatecas;
 
-II. Dirección: La Dirección de Fraccionamientos Rurales, dependiente de la Coordinación General Jurídica;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+II. Dirección: La Dirección de Regularización de Fraccionamientos Rurales, dependiente de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 III. Director: El Titular de la Dirección de Fraccionamientos;
 
@@ -109,9 +111,13 @@ XIII. Abandono: No trabajar la tierra por cinco años consecutivos, sin causa ju
 
 XIV. Días: Referido a días hábiles.
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-XV. Organismo Regularizador: al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+XV. Secretaría: A la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial.
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XVI. Certificación: A los trabajos técnicos que tienen por objeto determinar con precisión, la plena identificación, la exacta ubicación, las medidas, colindancias y superficies existentes de los inmuebles materia del procedimiento, de cambio de régimen y programas de regularización, la cual consistente en la exacta ubicación de las superficies, medidas y colindancias, tipo de suelo y usos de los mismos mediante los sistemas georeferenciados, lo anterior en apego al acuerdo por el que se aprueba la Norma Técnica de Estándares de Exactitud Posicional, así como a los artículos 13, 15, 16, 17, 18, 23 y 24 del Acuerdo por el que se Aprueba la Norma Técnica para la Generación, Captación e Integración de Datos Catastrales y Registrales con fines estadísticos y geográficos publicados en el Diario Oficial de la Federación de fechas 23 de diciembre del 2010 y 16 de enero del 2012, respectivamente que se realizará en todos los lotes sujetos al régimen de fraccionamientos rurales
 
 ###### Artículo 3.
 
@@ -135,7 +141,13 @@ Tratándose de lotes sujetos al régimen del patrimonio de familia, se estará a
 
 Cualquier gravamen constituido en contravención de esta disposición será nulo y el oficial del Registro Público rechazará su inscripción.
 
-## TÍTULO TERCERO. DE LOS FRACCIONAMIENTOS RURALES
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2018)</small>
+
+###### Artículo 4 Bis.
+
+Cuando la Dirección, mediante el procedimiento correspondiente declare la vacancia de un lote y en él se encuentren asentamientos humanos, la Secretaría mediante la declaratoria correspondiente, podrá incluir tales asentamientos al programa de regularización que la misma Dependencia implemente, para otorgarles el dominio pleno respecto de sus posesiones. Lo anterior con apego a los Programas de Regularización de la Tenencia de la Tierra que se expidan.
+
+## TÍTULO SEGUNDO. DE LAS FACULTADES DE LA DIRECCIÓN
 
 ### Capítulo Único
 
@@ -159,11 +171,13 @@ VII. Expedir los títulos a favor de los adjudicatarios que así lo soliciten en
 
 VIII. Fijar las bases que deban observarse para decretar la reserva territorial que se destinará a establecer las colonias en los fraccionamientos;
 
-IX. Elaborar el Reglamento de la Ley y someterlo a la consideración del Coordinador General Jurídico;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IX. Elaborar el proyecto de Reglamento de la Ley y someterlo a la consideración del Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 X. Autorizar itinerancias en las zonas de fraccionamientos rurales para la atención de los asuntos, de su competencia;
 
-XI. Autorizar el cambio de uso de suelo, siempre y cuando el solicitante demuestre tener permiso de la autoridad competente, y
+XI. (DEROGADA, P.O. 27 DE ENERO DE 2018)
 
 XII. Todas las demás que se deriven de esta Ley y su Reglamento.
 
@@ -175,7 +189,7 @@ Asimismo, los interesados podrán hacerse patrocinar o representar en un procedi
 
 En caso de incapacidad natural o legal se estará a lo señalado en el Código Familiar del Estado.
 
-## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+## TÍTULO TERCERO. DE LOS FRACCIONAMIENTOS RURALES
 
 ### Capítulo l. De los fraccionamientos agrícolas y ganaderos
 
@@ -341,7 +355,7 @@ IV. Ejercerán la representación legal de la sociedad solidaria y mancomunadame
 
 V. Las demás que se les conceda expresamente por la asamblea y de acuerdo con su reglamento interno, así como por las leyes de la materia.
 
-## TITULO QUINTO. DE LOS PROCEDIMIENTOS DE DECLARACIÓN DE VACANCIA, DE APEO Y DESLINDE Y DE CERTIFICACIÓN Y REPOSICIÓN DE TÍTULOS
+## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ### Capítulo I. Disposiciones preliminares
 
@@ -453,7 +467,7 @@ III. Por cédula que se fije en los estrados de la Dirección;
 
 IV. Por edictos, o
 
-V. Por correo certificado con cause de recibo.
+V. Por correo certificado con cause (sic) de recibo.
 
 ###### Artículo 51.
 
@@ -629,9 +643,11 @@ V. Los puntos resolutivos.
 
 En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste. La resolución que ponga fin al procedimiento administrativo decidirá todas las cuestiones planteadas por los interesados y de oficio las derivadas del mismo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 76.
 
-Cuando la resolución definitiva contenga omisiones sobre puntos discutidos, errores materiales o de cálculo o ambigüedades o contradicciones evidentes, cualquiera de los interesados podrá pedir que se integren o aclaren estos puntos.
+Cuando la resolución definitiva contenga omisiones sobre puntos discutidos, errores materiales, de cálculo, ambigüedades o contradicciones evidentes, de oficio o por cualquiera de los interesados podrá pedir que se integren o se aclaren estos puntos.
 
 ###### Artículo 77.
 
@@ -747,9 +763,11 @@ Toda persona en pleno goce de sus derechos, está facultad para solicitar se adj
 
 Si se presentaran dos o más solicitudes de adjudicación para un mismo lote, se procurará resolver la controversia en la vía conciliatoria, debiendo el Director citar a los interesados a la audiencia correspondiente. De no llegar a un acuerdo, se levantará el acta respectiva y dentro del término e quince días la Dirección emitirá la resolución respectiva, adjudicando a quien haya acreditado los supuestos legales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 93.
 
-Hecha la adjudicación se ordenará la expedición del titulo respectivo, debiendo el nuevo adjudicatario pagar a favor del fisco local conforme a lo establecido en la Ley de Ingresos del Estado, además de cubrir los derechos de inscripción en el Registro Público de la Propiedad y del Comercio que corresponda y de expedición del titulo, el cual deberá contener:
+Hecha la adjudicación se ordenará que dentro del plazo de los 90 días siguientes se expida el título respectivo, debiendo el nuevo adjudicatario pagar a favor del fisco local conforme a lo establecido en la Ley de Ingresos del Estado, además de cubrir los derechos de inscripción en el Registro Público de la Propiedad y del Comercio que corresponda y de expedición del título, el cual deberá contener:
 
 I. Nombre del adjudicatario;
 
@@ -761,7 +779,9 @@ IV. Nombre del fraccionamiento a que corresponda el lote;
 
 V. Valor del lote o lotes, y
 
-VI. La firma del Ejecutivo del Estado, del Secretario General, del Coordinador General Jurídico, y del Director.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VI. La firma del Ejecutivo del Estado o del Secretario.
 
 ###### Artículo 94.
 
@@ -777,9 +797,11 @@ El fraccionista tiene la facultad de designar libremente a la persona o personas
 
 La designación de sucesores hecha por el fraccionista, no surtirá efecto jurídico alguno, cuando tenga acreedores alimenticios cuyo aseguramiento no hubiere dispuesto antes de su fallecimiento, considerándose inoficiosa la designación en los términos prescritos por el Código Civil del Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 97.
 
-Para designar sucesor o sucesores, el fraccionista deberá presentar y ratificar ante la Dirección, solicitud por escrito haciendo saber su voluntad, para lo cual bastará que el adjudicatario formule una lista de sucesión en la que consten los nombres de las personas a las cuales deba hacerse la adjudicación de derechos a su fallecimiento. La lista de sucesión deberá ser depositada ante la Dirección; con las mismas formalidades podrá ser modificada por el propio fraccionista, en cuyo caso será válida la de fecha posterior.
+Para designar sucesor o sucesores, el fraccionista deberá presentar y ratificar ante la Dirección, solicitud por escrito haciendo saber su voluntad, para lo cual bastará que el adjudicatario formule una lista de sucesión en la que consten los nombres de las personas a las cuales deba hacerse la adjudicación de derechos a su fallecimiento. La lista de sucesión deberá ser depositada ante la Dirección; con las mismas formalidades podrá ser modificada por el propio fraccionista, en cuyo caso será válida la de fecha posterior, pudiendo el fraccionista, si a su interés conviene, realizar la designación ante Notario Público, misma que deberá ser depositada en la Dirección para su registro. La notaría pública correspondiente notificará a la Dirección dicho acto dentro de los 30 días posteriores a su realización.
 
 La designación deberá contener como mínimo lo siguiente:
 
@@ -799,7 +821,9 @@ Recibida la solicitud de designación de sucesores y ratificada la misma, se ord
 
 A falta de designación de sucesores, tienen derecho a heredar en el orden siguiente:
 
-I. El cónyuge supérstite; o la concubina o concubinario supérstite y los hijos reconocidos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+I. El cónyuge supérstite; o la concubina o concubinario supérstite y los hijos vivos reconocidos;
 
 II. Los ascendientes, y
 
@@ -845,7 +869,9 @@ IV. Comprobante que acredite la titularidad de los inmuebles a favor del autor d
 
 V. Certificado de gravámenes de los bienes que conforman el caudal hereditario;
 
-VI. Recibo actualizado del impuesto predial, y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VI. Cuando exista consenso de todos los herederos, se podrá acompañar el proyecto de división del caudal hereditario, y
 
 VII. Copias de la denuncia y anexos para correr traslado a quien corresponda.
 
@@ -867,13 +893,17 @@ Si el denunciante omitiere dolosamente señalar el nombre y domicilio de alguno 
 
 En caso de incomparecencia de los herederos, aún cuando fueren citados oportunamente por cualquier medio, el Ministerio Público hará la representación de los ausentes, menores e incapaces.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 106.
 
-presentada la denuncia con sus anexos, si se encuentra arreglada a derecho, el Director decretará la radicación del procedimiento y ordenará se haga la anotación correspondiente en el Libro de Gobierno. Si la denuncia fuere irregular o no viniera acompañada de los documentos exigidos por la presente Ley, el Director la mandará corregir o completar, por lo que de no subsanarse tal omisión en un término de tres días, la desechará de plano.
+Presentada la denuncia con sus anexos, si se encuentra ajustada a derecho, el Director decretará la radicación del procedimiento y ordenará se haga la anotación correspondiente en el Libro de Gobierno. Si la denuncia fuere irregular o no viniera acompañada de los documentos exigidos por la presente Ley, el Director la mandará corregir o completar, por lo que de no subsanarse tal omisión en un término de tres días, la desechará de plano.
 
 La radicación de todos los procedimientos de reconocimientos de derechos sucesorios, se mandarán hacer del conocimiento del Ministerio Público; corriéndole traslado con las copias de Ley.
 
-Recibida la solicitud de denuncia, el Director señalará el día y hora en que deberá llevarse a cabo, el reconocimiento de herederos y designación de albacea y ordenará la publicación de los edictos, convocando a interesados y presuntos herederos, así como a todos aquellos a quienes se crean con derechos a la sucesión, en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, por dos veces consecutivas, de diez en diez días.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Recibida la solicitud de denuncia, el Director señalará día y hora en que deberá llevarse a cabo el reconocimiento de herederos y designación de albacea y se ordenará la publicación del edicto, convocando a interesados y presuntos herederos, así como a todos aquéllos a quienes se crean con derechos a la sucesión, en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, por una sola vez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
@@ -921,7 +951,7 @@ El heredero debidamente reconocido, tiene plena libertad para realizar cesión d
 
 La adjudicación hecha por herencia o por desistimiento en favor del cónyuge o pariente en primer grado, no causará él pago del porcentaje a que se refiere el artículo 93 esta Ley, por lo que el nuevo o los nuevos fraccionistas, únicamente cubrirán los derechos de expedición de título e inscripción en el Registro Público.
 
-## TÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO DE NULIDAD Y DEL PROCEDIMIENTO ADMINISTRATIVO DE DIVISIÓN DE LA COSA COMÚN
+## TITULO QUINTO. DE LOS PROCEDIMIENTOS DE DECLARACIÓN DE VACANCIA, DE APEO Y DESLINDE Y DE CERTIFICACIÓN Y REPOSICIÓN DE TÍTULOS
 
 ### Capítulo l. De los procedimiento de declaración de vacancia
 
@@ -1029,7 +1059,7 @@ El fraccionista que solicite el apeo y deslinde deberá:
 
 I. Poseer titulo vigente que lo acredite como adjudicatario;
 
-II. Estar al corriente en el pago del impuesto predial;
+II. (DEROGADA, P.O. 27 DE ENERO DE 2018)
 
 III. Anexar el certificado de inscripción del inmueble en el Registro Público, y
 
@@ -1043,7 +1073,9 @@ I. Nombre del fraccionamiento y ubicación del inmueble que debe deslindarse;
 
 II. Nombre de los colindantes y sus domicilios, y
 
-III. El sitio donde deban colocarse las señales, lo que se indicará gráficamente en el plano que se adjunte.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. El sitio donde deban colocarse las señales, lo que se indicará gráficamente en el plano que se adjunte, cuando se trate de servidumbre de paso.
 
 ###### Artículo 124.
 
@@ -1121,7 +1153,7 @@ La Dirección resolverá sobre la reposición del título en el término que par
 
 En todo caso, la reposición deberá Manifestarse literalmente en el texto del titulo, conservando todos los demás datos o elementos que figuraron en el original. El Registro Público hará la anotación del caso en el titulo, de acuerdo con datos constantes en la inscripción respectiva.
 
-## TÍTULO SÉPTIMO. DEL CAMBIO DE RÉGIMEN Y DE LA AFECTACIÓN EN MATERIA DE FRACCIONAMIENTOS Y DE LA RESTITUCIÓN DE TIERRAS
+## TÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO DE NULIDAD Y DEL PROCEDIMIENTO ADMINISTRATIVO DE DIVISIÓN DE LA COSA COMÚN
 
 ### Capítulo I. Del procedimiento administrativo de nulidad
 
@@ -1207,7 +1239,9 @@ Las solicitudes sobre división de la cosa común deberán presentarse ante la D
 
 Si el derecho a la división no es cuestionado por los interesados, la división se decretará sin más trámite de acuerdo a la propuesta presentada.
 
-Si el derecho a la partición es cuestionado, se les requerirá para que concerten en un proyecto de partición, y si no lo hicieren, el Director distribuirá el bien de acuerdo a las reglas que para la oposición a la partición en el Procedimiento Administrativo de Derechos Sucesorio contempla esta Ley.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Si el derecho a la partición es cuestionado, se les requerirá para que en un término de cinco días concerten en un proyecto de partición, y si no lo hicieren, el Director distribuirá el bien de acuerdo a las reglas que para la oposición a la partición en el Procedimiento Administrativo de Derechos (sic) Sucesorio contempla esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
@@ -1233,69 +1267,79 @@ IV. Opinión favorable de cambio de uso de suelo emitida por las autoridades del
 
 La Dirección admitirá a trámite la solicitud, ordenando notificar con el proyecto de división a los adjudicatarios, para que en el término de treinta días comparezcan ante la Dirección a manifestar lo que a su derecho convenga, y fijará fecha para la realización de la Asamblea, que será presidida por el Director o persona designada para tal efecto.
 
-El proyecto de división referido en el párrafo anterior deberá considerar los asentamientos ahí existentes y será certificado y aprobado por el Organismo Regularizador, quien lo presentará en la Asamblea respectiva para su aprobación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+El proyecto de división referido en el párrafo anterior deberá considerar los asentamientos humanos ahí existentes y será certificado por la misma Secretaría para presentarlo en la Asamblea respectiva para su aprobación.
 
 Realizada la Asamblea y si existe consenso de las dos terceras partes de los adjudicatarios, la división se decretará sin más trámite de acuerdo a la propuesta de división.
 
-De no aprobarse el proyecto, se suspenderá la Asamblea y se les requerirá para que dentro de un término de treinta días presenten un nuevo proyecto de división; el cual deberá ser certificado y aprobado por el Organismo Regularizador y atenderá los planteamientos hechos en la Asamblea.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+De no aprobarse el proyecto, se suspenderá la Asamblea y se les requerirá para que dentro de un término de treinta días presenten un nuevo proyecto de división, el cual también deberá ser certificado por la Secretaría, quien deberá atender los planteamientos hechos en la Asamblea.
 
 Si el segundo proyecto no cumple con la aprobación calificada de la Asamblea, la Dirección pondrá fin al procedimiento administrativo de conformidad con el artículo 81 de la presente Ley.
 
-## TÍTULO OCTAVO. DE LOS RECURSOS, DE LA EJECUCIÓN DE LAS SENTENCIAS Y DE LAS SENTENClAS
+## TÍTULO SÉPTIMO. DEL CAMBIO DE RÉGIMEN Y DE LA AFECTACIÓN EN MATERIA DE FRACCIONAMIENTOS Y DE LA RESTITUCIÓN DE TIERRAS
 
 ### Capítulo I. Del cambio de régimen
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 142.
 
-El Régimen de Fraccionamientos Rurales es de carácter social; sin embargo, aquellos que lo deseen podrán optar por el cambio de régimen y obtener el dominio pleno de sus predios con la intervención de la Dirección y el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+El Régimen de Fraccionamientos Rurales es de carácter social; sin embargo, de oficio por conducto de la Secretaría o a petición de parte, podrá otorgarse el dominio pleno de los predios, a través del procedimiento y formalidades establecidas en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 En aquellos casos en que no se cuente con título definitivo, y se esté desahogando algún procedimiento ante la Dirección, una vez concluido el mismo, a petición del interesado se llevará a cabo el procedimiento de cambio de régimen con la sola resolución de adjudicación. De igual forma, por lo que respecta a reservas territoriales, la resolución que se emita, tendrá validez para los mismos efectos.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 143.
 
-Los fraccionistas o adjudicatarios, de acuerdo a sus intereses, podrán iniciar el procedimiento para adquirir el dominio pleno de sus tierras, obteniendo escritura pública o privada que acredite su propiedad.
+(DEROGADO, P.O. 27 DE ENERO DE 2018)
 
-La escritura privada se obtendrá a través del Organismo Regularizador o del organismo facultado para ello, en calidad de autorizado del Poder Ejecutivo.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 144.
 
-El procedimiento de cambio de régimen a través del dominio pleno, deberá ser instaurado por el titular del predio o su representante legalmente acreditado.
+El procedimiento de cambio de régimen al dominio pleno podrá ser iniciado por la Secretaría de acuerdo con los programas que expida para tal efecto, o bien, podrá ser instaurado por el titular del predio o su representante legalmente acreditado.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 144 Bis.
 
-Toda persona interesada en realizar el cambio de régimen de propiedad deberá reunir los siguientes requisitos:
+Para promover el cambio de régimen deberán cumplirse los siguientes requisitos:
 
-l. Poseer título definitivo expedido por el titular del Poder Ejecutivo del Estado, o resolución de adjudicación de la Dirección;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-ll. Que el documento se encuentre debidamente inscrito ante el Registro Público de la propiedad;
+I. Acreditar la existencia de un derecho sobre bienes de fraccionamientos rurales, mediante título o resolución de adjudicación correspondiente;
 
-III. Anexar plano de localización del terreno o lote certificado por el organismo regularizador;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-IV. Estar al corriente del pago del impuesto predial; y
+II. Exhibir el certificado de libertad o gravamen, expedida por el Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. Anexar plano de localización del terreno o lote certificado por la Secretaría;
+
+IV. (DEROGADA, P.O. 27 DE ENERO DE 2018)
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 V. No existir ningún litigio pendiente de resolver respecto del predio del que se solicite el cambio de régimen.
 
-El Organismo Regularizador realizará a petición de la Dirección, los trabajos técnicos y de certificación que se requieran para el procedimiento del dominio pleno.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+La Secretaría realizará los trabajos técnicos y de certificación que correspondan, previo al otorgamiento del dominio pleno.
 
 ###### Artículo 145.
 
 (DEROGADO, P.O. 18 DE MAYO DE 2013)
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 146.
 
-El trámite se iniciará con la solicitud presentada ante la Dirección a la que anexarán los documentos que acrediten los requisitos señalados en el artículo anterior.
+El trámite de cambio de régimen al dominio pleno a petición de parte, iniciará con la solicitud que presente el interesado, a la que anexarán los documentos que acrediten los requisitos previstos en el artículo 144 bis.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
@@ -1307,37 +1351,71 @@ l. Indicación del número de lote, nombre del fraccionamiento donde se ubica, s
 
 II. La declaración expresa de la voluntad del fraccionista de obtener del Poder Ejecutivo del Estado el dominio pleno sobre el lote; y
 
-III. La designación de la Notarla Pública ante la que se realizará la protocolización respectiva, el Organismo Regularizador o ante aquél facultado para emitir las escrituras privadas.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+III. La designación de la Notaría Pública ante la que se realizará la protocolización respectiva, cuando así lo solicite el promovente.
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IV. La declaración expresa del fraccionista de sujetarse a los resultados técnicos derivados de la certificación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 27 DE ENERO DE 2018]</small>
+
+Cuando el trámite así lo permita, la solicitud podrá ser de manera colectiva.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 146 Ter.
 
-A la recepción de la solicitud recaerá un acuerdo en el que se radicará el procedimiento, registrándose en el libro de gobierno correspondiente, ordenándose levantamiento topográfico del lote cuyo cambio de régimen se solicita. Asimismo, se ordenará publicar en el Periódico Oficial, por una sola vez el aviso de inicio del procedimiento, para que aquellos que tengan interés legal en oponerse al trámite lo hagan por escrito dentro de los diez días siguientes a la publicación. La oposición que se haga al trámite de cambio de régimen, se resolverá conforme a las reglas que para la oposición en el procedimiento administrativo de vacancia se estipulan en esta Ley.
+El procedimiento de cambio de régimen al dominio pleno a petición de parte se sujetará a las siguientes reglas:
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+I. En el acuerdo de radicación se ordenará la certificación del lote o polígono de que se trate, debiendo fijar fecha y hora para el desahogo de la diligencia, lo cual deberá ser notificado al promovente y a los fraccionistas colindantes;
+
+Los trabajos de certificación tendrán por objeto determinar con precisión, la plena identificación, la exacta ubicación, las medidas, colindancias y superficies existentes de los inmuebles materia del procedimiento;
+
+II. Se ordenará publicar, por una sola ocasión, en el Periódico Oficial, Órgano de Gobierno del Estado, el aviso de inicio del procedimiento, para que aquellos que tengan interés general en oponerse al trámite, lo hagan por escrito dentro de los diez días siguientes a la publicación;
+
+III. Transcurrido el término sin existir oposición alguna, una vez que obre en el expediente el resultado de la certificación y constancia de no litigio, de oficio se citará a los interesados para oír resolución, la que se dictará dentro de un término no mayor de quince días;
+
+IV. La oposición que se haga al trámite de cambio de régimen, cuando exista controversia respecto a una parte o la totalidad del inmueble, se resolverá conforme a las reglas previstas en el procedimiento administrativo de vacancia;
+
+V. La resolución que otorgue el dominio pleno será emitida por el Titular del Ejecutivo o por el Secretario; y en ella se ordenará la expedición del título respectivo, y
+
+VI. La Secretaría emitirá el título que reconozca el dominio pleno respecto de la superficie existente sobre los terrenos materia del procedimiento. Remitirá dicho título para su inscripción al Registro Público de la Propiedad y del Comercio, y cuando así lo solicite el promoverte (sic), podrá protocolizar la resolución que decreta el cambio de régimen ante notario público.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE ENERO DE 2018)</small>
 
 ###### Artículo 146 Quáter.
 
-Una vez exhibida por los interesados la publicación señalada en el artículo anterior, de oficio, el Director levantará el cómputo respecto del término para la presentación de cualquier oposición.
+El procedimiento de cambio de régimen al dominio pleno de oficio, además de las formalidades establecidas en el artículo anterior, la Secretaria deberá observar lo siguiente:
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+I. Únicamente procederá a instaurar de oficio el procedimiento de cambio de régimen de polígonos sujetos a los programas de regularización implementados por la Secretaría;
+
+II. El inicio del procedimiento deberá notificarse a los fraccionistas que correspondan, mediante Asamblea General convocada por la Secretaría, en la que se dará a conocer el día y hora fijada para que comiencen los trabajos de certificación;
+
+III. De la diligencia indicada en la fracción anterior, deberá levantarse acta circunstanciada, la cual suscribirán los interesados, o bien, se tomará razón de su negativa, lo cual no afectará la validez de su contenido;
+
+IV. Los fraccionistas del polígono o polígonos que se pretendan cambiar de régimen, contarán con un término de diez días hábiles, contados a partir de la notificación indicada en la fracción anterior, para manifestar su oposición fundada al trámite de oficio, la cual será resuelta de conformidad con lo previsto para el procedimiento administrativo de vacancia.
+
+Una vez exhibidas por los interesados las publicaciones en el Periódico Oficial, a que se refiere el presente Capítulo, el Director, de oficio levantará el cómputo respecto del término para la presentación de cualquier oposición;
+
+V. Si la oposición al cambio de régimen de oficio se presenta por más de la mitad de los fraccionistas que integran el polígono, la Secretaría decretará la improcedencia del trámite;
+
+VI. La Secretaría deberá recabar la documentación prevista para el cambio de régimen individual, debiendo integrar el expediente por fraccionista; y
+
+VII. Una vez integrados los expedientes y certificado el polígono, se emitirá la resolución general de cambio de régimen, ordenando la expedición del título individual.
 
 ###### Artículo 146 Quinquies.
 
-Transcurrido este término sin existir oposición alguna, de oficio se citará a los interesados para oír resolución, la que se dictará dentro de un término no mayor de quince días.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 27 DE ENERO DE 2018)
 
 ###### Artículo 146 Sexies.
 
-Una vez resuelto el procedimiento, el titular del Poder Ejecutivo del Estado autorizará el dominio pleno mediante el acuerdo respectivo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 27 DE ENERO DE 2018)
 
 ###### Artículo 146 Septies.
 
-Autorizado el cambio de régimen la Dirección remitirá el expediente respectivo a la Notaría Pública que corresponda para efectos de la protocolización, o en caso de así solicitarlo, al Organismo Regularizador para que expida la escritura privada.
+(DEROGADO, P.O. 27 DE ENERO DE 2018)
 
 ###### Artículo 147.
 
@@ -1421,6 +1499,8 @@ Para tal efecto se le concederá al requerido un término de cinco días hábile
 
 Si resultare que existe duplicidad de títulos expedidos por el Ejecutivo del Estado amparando el mismo inmueble, en la resolución que se dicte, el Director ordenará de manera oficiosa el inicio del procedimiento administrativo de nulidad de titulo, el cual deberá seguir la secuela contemplada para ese tipo de trámite.
 
+## TÍTULO OCTAVO. DE LOS RECURSOS, DE LA EJECUCIÓN DE LAS SENTENCIAS Y DE LAS SENTENCIAS
+
 ### Capítulo I. De los recursos
 
 ###### Artículo 163.
@@ -1441,9 +1521,11 @@ II. La petición de revocación se formulará por escrito y deberá contener los
 
 III. La revocación no suspende el curso del procedimiento y podrá ser resuelta de plano o mandando dar vista a la parte contraria en un término de cinco días.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 166.
 
-El recurso de revisión tiene por objeto que el Secretario General de Gobierno confirme, revoque o modifique la resolución dictada por la Dirección, respecto de los puntos relativos a los agravios expresados.
+El recurso de revisión tiene por objeto que el Coordinador General Jurídico, revoque o modifique la resolución dictada por la Dirección, respecto de los puntos relativos a los agravios expresados.
 
 ###### Artículo 167.
 
@@ -1453,9 +1535,11 @@ El recurso de revisión se interpondrá contra las resoluciones que pongan fin a
 
 Interpuesta en tiempo la revisión, el Director la admitirá sin substanciación alguna, si fuere procedente. En el mismo auto, el Director notificará a los interesados para que dentro del término de cinco días manifiesten lo que a sus intereses convenga.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 169.
 
-Transcurrido el término que establece el artículo anterior, se remitirá tanto el expediente principal con sus anexos, como el escrito de expresión de agravios, al Secretario General de Gobierno, quien dictará la resolución que proceda dentro del término de quince días siguientes a aquél en que reciba formalmente los autos.
+Transcurrido el término que establece el artículo anterior, se remitirá tanto el expediente principal con sus anexos, como el escrito de expresión de agravios, al Coordinador General Jurídico, quien dictará la resolución que proceda dentro del término de cuatro meses siguientes a aquél en que reciba formalmente los autos.
 
 ###### Artículo 170.
 
@@ -1467,9 +1551,11 @@ II. La resolución de segunda instancia resolverá en cuanto al fondo, en su int
 
 III. En caso de que la resolución definitiva recurrida no hubiere resuelto el fondo de la pretensión sometida al conocimiento de la Dirección y si la resolución de segunda instancia fuere revocatoria, deberá también resolver el fondo de la cuestión litigiosa en términos de la fracción anterior.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### Artículo 171.
 
-Contra la resolución que dicte el Secretario General no procede recurso alguno.
+Contra la resolución que dicte el Coordinador General Jurídico no procede recurso alguno.
 
 ###### Artículo 172.
 
@@ -1573,7 +1659,7 @@ EL COORDINADOR GENERAL JURÍDICO
 
 LIC. MIGUEL DE SANTIAGO REYES.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE MAYO DE 2013.
 
@@ -1590,3 +1676,13 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. 27 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 336.- SE REFORMA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su curso hasta su resolución conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Tercero. Dentro del plazo de 180 días contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley.
