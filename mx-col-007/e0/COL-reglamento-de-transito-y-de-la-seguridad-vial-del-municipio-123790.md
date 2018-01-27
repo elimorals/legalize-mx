@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-123
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-30"
-last_updated: "2017-09-30"
+last_updated: "2018-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2018.
 
 Reglamento publicado en el Suplemento No. 1 al Número 62 del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2017.
 
@@ -47,13 +47,17 @@ En virtud de lo anterior, la Comisión de Gobernación y Reglamentos en uso de s
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE MANZANILLO, COLIMA.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
 El presente Reglamento es de orden público e interés social, y sus disposiciones son de observancia general en el Municipio de Manzanillo.
 
-A petición escrita de propietarios o sus representantes legales, de bienes inmuebles de uso vial público, o con la autorización de aquellos, los agentes de tránsito y vialidad podrán aplicar el presente Reglamento en dichas áreas.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+A petición escrita de propietarios o sus representantes legales, de bienes inmuebles de uso vial público, o con la autorización de aquellos, los agentes de policía vial podrán aplicar el presente Reglamento en dichas áreas.
 
 ###### ARTÍCULO 2.
 
@@ -63,7 +67,9 @@ Este Reglamento tiene como objetivo primordial establecer las normas de tránsit
 
 Para efectos del presente Reglamento se entiende por:
 
-I. Agente de Tránsito y Vialidad.- El agente facultado por la Dirección General de Seguridad Pública, Tránsito y Vialidad, para aplicar este ordenamiento;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+I. Agente de Policía Vial.- El agente facultado por la Dirección General de Seguridad Pública y Policía Vial, para aplicar este ordenamiento;
 
 II. Arroyo: Superficie de rodamiento, área de una vía de circulación urbana, sobre la que transitan vehículos.
 
@@ -89,17 +95,27 @@ XII. Carta de porte.- Es el documento foliado que elabora y entrega al usuario, 
 
 XIII. Carta de inventario.- Es el documento foliado que elabora y entrega al usuario, el referido prestador de servicio de depósito vehicular, el cual contendrá los mismos requisitos que la carta porte, además de una descripción pormenorizada del vehículo, así como las condiciones materiales y accesorios del mismo y, en su caso, la carga y objetos que contenga, y contener la firma de recibido del mismo.
 
-XIV. Comisión.- La Comisión del Servicio Profesional de Carrera, Honor y Justicia órgano de autoridad facultado para conocer de los procedimientos para el otorgamiento de promociones, estímulos y recompensas, así como para la imposición de sanciones al personal de la Dirección General de Seguridad Pública Tránsito y Vialidad.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XIV. Comisión.- La Comisión del Servicio Profesional de Carrera, Honor y Justicia órgano de autoridad facultado para conocer de los procedimientos para el otorgamiento de promociones, estímulos y recompensas, así como para la imposición de sanciones al personal de la Dirección General de Seguridad Pública y Policía Vial.
 
 XV. Conductor.- La persona que maniobre o ponga en movimiento un vehículo de motor o de propulsión humana y/o animal en la vía pública;
 
-XVI. Corporación.- La Dirección General de Seguridad Pública, Tránsito y Vialidad del Municipio de Manzanillo;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XVI. Corporación.- La Dirección General de Seguridad Pública y Policía Vial del Municipio de Manzanillo;
 
 XVII. DB (A).- El Nivel Sonoro, es el nivel de presión acústica sopesada en ponderación o sea, el nivel de presión acústica ponderado por una curva. Se mide dB, en ponderación A; es decir, DB (A), para establecer la cantidad de decibeles por la medición de la intensidad del ruido generado por un vehículo;
 
 XVIII. Derecho de Vía.- El área que flanquea a los caminos o carreteras perfectamente delimitados, que se destinan como vía pública para ampliaciones o apertura de vías laterales;
 
-XIX. Director.- El Director de Tránsito y Vialidad del Municipio de Manzanillo;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XIX. Director.- El Director Operativo de Policía Vial del Municipio de Manzanillo;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN XX.]</small>
+
+Director General.- El Director General de Seguridad Pública y Policía Vial del Municipio de Manzanillo;
 
 XX. Director General.- El Director General de Seguridad Pública, Tránsito y Vialidad del Municipio de Manzanillo;
 
@@ -127,7 +143,9 @@ XXXI. Municipio.- El Municipio de Manzanillo, Colima;
 
 XXXII. Peatón.- La persona que camine o transite desplazándose por su esfuerzo físico en las vías públicas del Municipio;
 
-XXXIII. Perito de hechos de tránsito terrestre.- El Agente de Tránsito y Vialidad Municipal, capacitado en hechos de tránsito terrestre, que toma conocimiento de los mismos, siempre que se desarrollen dentro de la jurisdicción municipal del Municipio;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XXXIII. Perito de hechos de tránsito terrestre.- El Agente de Policía Vial Municipal, capacitado en hechos de tránsito terrestre, que toma conocimiento de los mismos, siempre que se desarrollen dentro de la jurisdicción municipal del Municipio;
 
 XXXIV. Persona con discapacidad.- La persona que presenta una alteración funcional física, mental o sensorial que dificulte su desplazamiento;
 
@@ -209,6 +227,8 @@ aa. Sitio.- Los lugares donde los vehículos concesionados al servicio público,
 
 Para todos los efectos legales a que diere lugar, cuando el presente ordenamiento haga referencia a los vocablos persona, individuo u hombre, incluyendo su respectivo plural, así como la calidad de su función, se entenderá indistintamente al género femenino o masculino. De igual forma, cuando sea el caso de denominaciones a cargos públicos, se enunciarán en el género femenino o masculino que corresponda con el propio de quienes los ocupen o desempeñen.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### ARTÍCULO 4.
@@ -219,11 +239,17 @@ I. El Cabildo Municipal;
 
 II. El Presidente Municipal;
 
-III. El Director General de Seguridad Pública, Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-IV. El Director de Tránsito y Vialidad;
+III. El Director General de Seguridad Pública y Policía Vial;
 
-V. El cuerpo operativo de tránsito y vialidad, que se integra por Comandantes, Supervisores, Peritos, Policías Primeros, Policías Segundos, Policías Terceros y por los Agentes de Tránsito y Vialidad, en sus diferentes niveles, grados de jerarquías y/o modalidad;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IV. El Director Operativo de Policía Vial;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+V. El cuerpo operativo de policía vial, que se integra por Comandantes, Supervisores, Peritos, Policías Primeros, Policías Segundos, Policías Terceros y por los Agentes de Policía Vial, en sus diferentes niveles, grados de jerarquías y/o modalidad;
 
 VI. Autoridades auxiliares municipales, que comprende a los Presidentes de las Juntas y Comisarios Municipales, que participan en coadyuvancia con el Director General para la aplicación y observancia del presente Reglamento;
 
@@ -231,11 +257,17 @@ VII. Los agentes de policía (municipal o estatal) que tengan a su cargo la segu
 
 VIII. El personal operativo de Protección Civil Municipal, quienes podrán actuar en los casos de emergencia, en tanto las autoridades de tránsito y vialidad asumen el control vial de la zona en emergencia; y
 
-IX. Se consideran auxiliares de tránsito y vialidad municipal:
+> <small>(REFORMADO [N. DE E. ESTE PARRAFO], P.O. 27 DE ENERO DE 2018)</small>
 
-a) Los directivos de los Comités de Participación Social o sus equivalentes, quienes podrán actuar en caso de emergencia, hasta que las autoridades de tránsito y vialidad asuman el control de la situación vial;
+IX. Se consideran auxiliares de policía vial municipal:
 
-b) Los ciudadanos que detecten alguna irregularidad en materia de vialidad, y que por el estado de necesidad o de emergencia se requiera de su intervención para evitar problemas mayores, hasta que las autoridades de tránsito y vialidad asuman el control de la situación vial;
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+a) Los directivos de los Comités de Participación Social o sus equivalentes, quienes podrán actuar en caso de emergencia, hasta que las autoridades de policía vial asuman el control de la situación vial;
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+b) Los ciudadanos que detecten alguna irregularidad en materia de vialidad, y que por el estado de necesidad o de emergencia se requiera de su intervención para evitar problemas mayores, hasta que las autoridades de policía vial asuman el control de la situación vial;
 
 c) Los promotores voluntarios de educación vial; y
 
@@ -267,13 +299,17 @@ III. Suscribir convenios de coordinación y colaboración para la prestación de
 
 IV. Suscribir convenios de coordinación y colaboración para la capacitación de los elementos de la corporación, previo acuerdo del Cabildo Municipal, con las autoridades federales, estatales, municipales, organizaciones e instituciones educativas;
 
-V. Nombrar y remover libremente al Director General de Seguridad Pública, Tránsito y Vialidad, así como al Director de Tránsito y Vialidad; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+V. Nombrar y remover libremente al Director General de Seguridad Pública y Policía Vial, así como al Director Operativo de Policía Vial; y
 
 VI. Las demás que le confieran la Ley y el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 7.
 
-Son atribuciones del Director General de Seguridad Pública, Tránsito y Vialidad:
+Son atribuciones del Director General de Seguridad Pública y Policía Vial:
 
 I. Auxiliar al Presidente Municipal en el ejercicio de las funciones que le otorgue el presente Reglamento;
 
@@ -281,7 +317,9 @@ II. Resolver el recurso de inconformidad presentado por los infractores a este R
 
 III. Diseñar planes y programas administrativos, técnicos y operativos, a fin de establecer orden en el tránsito e implementar medidas de seguridad vial;
 
-IV. Acordar con el Director Operativo de Tránsito y Vialidad y demás funcionarios de la dependencia los asuntos que en materia de tránsito y vialidad requieran su atención y para la aplicación y observancia del presente Reglamento y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IV. Acordar con el Director Operativo de Policía Vial y demás funcionarios de la dependencia los asuntos que en materia de tránsito y vialidad requieran su atención y para la aplicación y observancia del presente Reglamento y demás disposiciones aplicables;
 
 V. Autorizar el traslado de los vehículos que hayan sido detenidos o asegurados para su resguardo en el corralón de encierro, quedando a disposición de instituciones o dependencias oficiales, así como de la propia Dirección General;
 
@@ -289,7 +327,9 @@ VI. Suscribir acuerdos y convenios con organizaciones e instituciones del sector
 
 VII. Vigilar el cumplimiento del presente Reglamento mediante la intervención del personal operativo de la corporación y formular boletas de infracción a los responsables de infringir sus disposiciones normativas;
 
-VIII. Proponer a la Oficialía Mayor del Ayuntamiento el nombramiento o Comisión de Perito en Hechos de Tránsito Terrestre de cualquier agente de tránsito y vialidad, siempre y cuando éste acredite tener los conocimientos necesarios para tal fin;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VIII. Proponer a la Oficialía Mayor del Ayuntamiento el nombramiento o Comisión de Perito en Hechos de Tránsito Terrestre de cualquier agente (sic) policía vial, siempre y cuando éste acredite tener los conocimientos necesarios para tal fin;
 
 IX. Dictar las disposiciones administrativas, técnicas y operativas para dar cumplimiento a los mandamientos judiciales o de autoridades administrativas, así como a los requerimientos, solicitudes, o cualquier otra en apego a la legislación respectiva;
 
@@ -305,9 +345,11 @@ XIV. Determinar las sanciones administrativas y disciplinarias que se impongan a
 
 XV. Las demás que le señalen otras leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-Son atribuciones del Director de Tránsito y Vialidad:
+Son atribuciones del Director Operativo de Policía Vial:
 
 I. Implementar las disposiciones administrativas y de carácter técnico, así como los programas operativos que determine la Dirección General a fin de establecer medidas de seguridad vial en el Municipio;
 
@@ -331,9 +373,11 @@ X. En caso de que la Dirección, tenga conocimiento a través de una denuncia ci
 
 XI. Las demás atribuciones que le confiere la Ley y el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
-Son atribuciones del cuerpo operativo de tránsito y vialidad:
+Son atribuciones del cuerpo operativo de policía vial:
 
 I. Vigilar el cumplimiento de este Reglamento y formular las boletas de infracción a los conductores que incurran en su inobservancia;
 
@@ -363,27 +407,35 @@ XIII. La vigilancia y supervisión de vehículos, a fin de que éstos reúnan la
 
 XIV. Las demás que les confiere la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 10.
 
-Son atribuciones de los agentes de la policía estatal preventiva y del personal operativo de protección civil estatal o municipal, aplicar el presente Reglamento en casos de emergencia, interviniendo en auxilio del personal de tránsito hasta en tanto éstos se apersonen en el lugar del incidente de tránsito y asumen el control en el lugar de la emergencia en ejercicio de sus funciones.
+Son atribuciones de los agentes de la policía estatal preventiva y del personal operativo de protección civil estatal o municipal, aplicar el presente Reglamento en casos de emergencia, interviniendo en auxilio del personal de policía vial hasta en tanto éstos se apersonen en el lugar del incidente de tránsito y asuman el control en el lugar de la emergencia en ejercicio de sus funciones.
 
 ###### ARTÍCULO 11.
 
 Además de las atribuciones señaladas en los artículos anteriores, compete a los peritos intervenir en los hechos de tránsito terrestre para tomar conocimiento de las circunstancias esenciales y accidentales que se generaron en el hecho de tránsito, así como de las condiciones ambientales y geográficas prevalecientes en el lugar de los hechos, a los aspectos técnicos para regulación de tráfico y la señalización vial, que les permitan determinar las probables causas del accidente en la elaboración del parte informativo relativo al hecho de tránsito, haciendo referencia a las disposiciones legales aplicables al caso, para conocimiento del mando y de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-El personal de tránsito y vialidad intervendrá en acciones operativas para la regulación del transporte público, de acuerdo con las facultades concurrentes que dispone la Ley de Movilidad Sustentable para el Estado de Colima, y el presente Reglamento.
+El personal de policía vial intervendrá en acciones operativas para la regulación del transporte público, de acuerdo con las facultades concurrentes que dispone la Ley de Movilidad Sustentable para el Estado de Colima, y el presente Reglamento.
 
-### CAPÍTULO TERCERO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
 
-DE LOS PEATONES, ESCOLARES, PASAJEROS Y PERSONAS CON DISCAPACIDAD.
+### CAPÍTULO TERCERO. DE LOS PEATONES, ESCOLARES, PASAJEROS Y PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LOS PEATONES
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-Los peatones, deberán de cumplir las disposiciones de este Reglamento, las indicaciones de los agentes de tránsito y la de los dispositivos establecidos para el control de circulación vehículo y peatonal. Gozarán del derecho de paso preferencial en todas las intersecciones y en las zonas con señalamientos para este efecto, excepto en aquéllas, en que la circulación esté controlada por agentes o dispositivos electromecánicos, atendiendo las medidas de precaución al cruzar una vía y no irrumpir intempestivamente sobre la superficie de rodamiento.
+Los peatones, deberán de cumplir las disposiciones de este Reglamento, las indicaciones de los agentes de policía vial y la de los dispositivos establecidos para el control de circulación vehículo (sic) y peatonal. Gozarán del derecho de paso preferencial en todas las intersecciones y en las zonas con señalamientos para este efecto, excepto en aquéllas, en que la circulación esté controlada por agentes o dispositivos electromecánicos, atendiendo las medidas de precaución al cruzar una vía y no irrumpir intempestivamente sobre la superficie de rodamiento.
 
 ###### ARTÍCULO 14.
 
@@ -403,13 +455,17 @@ II. Queda prohibido el paso a peatones, en las avenidas, calles de alta densidad
 
 III. No deberán de cruzar frente al transporte público de pasajeros, cuando éstos, se hayan detenido momentáneamente a subir o bajar pasaje;
 
-IV. Para cruzar las calles, obligatoriamente lo harán por puentes peatonales cuando existan. Cuando no existan puentes lo harán por las esquinas o en zonas destinadas para ello; por su seguridad deberán cruzar las calles y los cruceros viales perpendicularmente a las aceras o banquetas, nunca en forma diagonal; y atendiendo la señalización vial, las indicaciones del Agente de Tránsito y Vialidad o a la regulación de los sistemas electrónicos de control de tráfico.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IV. Para cruzar las calles, obligatoriamente lo harán por puentes peatonales cuando existan. Cuando no existan puentes lo harán por las esquinas o en zonas destinadas para ello; por su seguridad deberán cruzar las calles y los cruceros viales perpendicularmente a las aceras o banquetas, nunca en forma diagonal; y atendiendo la señalización vial, las indicaciones del Agente de Policía Vial o a la regulación de los sistemas electrónicos de control de tráfico.
 
 V. Deberán de circular por el acotamiento, cuando no existan aceras en las vías públicas, y a falta de éste, por la orilla de la vía y en todo caso, hacerlo dando frente al tránsito de vehículos;
 
 VI. Ningún peatón circulará diagonalmente por los cruceros;
 
-VII. Los peatones que pretendan cruzar una intersección, no deberán invadir el arroyo, en tanto no se aparezca la señal que le permita atravesar la vía; y cuando no sea controlada la circulación por semáforos o agentes de tránsito, podrán cruzar luego de cerciorarse que, se encuentra libre de vehículos la vialidad o se hayan detenido momentáneamente. De igual forma lo harán en áreas suburbanas y rurales;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VII. Los peatones que pretendan cruzar una intersección, no deberán invadir el arroyo, en tanto no se aparezca la señal que le permita atravesar la vía; y cuando no sea controlada la circulación por semáforos o agentes de policía vial, podrán cruzar luego de cerciorarse que, se encuentra libre de vehículos la vialidad o se hayan detenido momentáneamente. De igual forma lo harán en áreas suburbanas y rurales;
 
 VIII. Los particulares, no deberán de invadir las vías destinadas al tránsito de vehículos y de personas, salvo que cuenten con el permiso expedido por la autoridad municipal correspondiente, que deberá de ser notificado a la Dirección;
 
@@ -425,7 +481,9 @@ XIII. Se prohíbe pasar a través de vallas militares, policiacas, de personas o
 
 XIV. Queda prohibido a los peatones acercarse o permanecer dentro de las áreas perimetrales de rescate por siniestros, hechos de tránsito o en lugares de hechos de algún crimen, que puedan dar lugar a que se altere o contamine la escena del lugar de los hechos, por lo que se abstendrá de obstaculizar las labores de peritos, policías, socorristas, bomberos, paramédicos, protección civil y autoridades judiciales o ministeriales que practiquen alguna diligencia.
 
-XV. Solo con permiso de la Secretaría del Ayuntamiento podrán los peatones o personas con discapacidad, solicitar o pedir contribuciones a los conductores o llevar a cabo publicidad, prestación de servicios o actividades comerciales en las intersecciones y vías públicas; a falta de éste, como medida de seguridad y prevención de accidentes se requerirá el retiro de los mismos por personal operativo de la Dirección Tránsito.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XV. Solo con permiso de la Secretaría del Ayuntamiento podrán los peatones o personas con discapacidad, solicitar o pedir contribuciones a los conductores o llevar a cabo publicidad, prestación de servicios o actividades comerciales en las intersecciones y vías públicas; a falta de éste, como medida de seguridad y prevención de accidentes se requerirá el retiro de los mismos por personal operativo de la Dirección Operativa de Policía Vial.
 
 XVI. Para la entrega de volantes y panfletos en vía pública, se requerirá la autorización de la Tesorería Municipal; y
 
@@ -455,9 +513,13 @@ Cuando se detengan en la vía pública para el ascenso y descenso de transporte 
 
 Además del derecho de paso, los escolares tendrán las siguientes preferencias:
 
-I. Los escolares, gozarán de preferencia para el ascenso, descenso en vehículos, y acceso o salida de sus lugares de estudio. Los agentes de tránsito y auxiliares, deberán de proteger mediante los dispositivos e indicaciones convenientes, el tránsito peatonal de los escolares en los horarios establecidos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-II. Los promotores voluntarios son auxiliares de tránsito para proteger a los escolares en la entrada y salida de sus establecimientos. Deberán de contar con autorización y capacitación vial, así como utilizar los chalecos identificadores correspondientes;
+I. Los escolares, gozarán de preferencia para el ascenso, descenso en vehículos, y acceso o salida de sus lugares de estudio. Los agentes de policía vial y auxiliares, deberán de proteger mediante los dispositivos e indicaciones convenientes, el tránsito peatonal de los escolares en los horarios establecidos;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+II. Los promotores voluntarios son auxiliares de policía vial para proteger a los escolares en la entrada y salida de sus establecimientos. Deberán de contar con autorización y capacitación vial, así como utilizar los chalecos identificadores correspondientes;
 
 III. Los maestros o personal voluntario en zonas escolares podrán proteger el paso de los alumnos, haciendo los señalamientos que, de acuerdo con lo que establece el Reglamento, deban respetar los que conduzcan vehículos; y
 
@@ -501,7 +563,9 @@ VI. Sujetarse del conductor o distraerlo;
 
 VII. Operar los dispositivos del control del vehículo;
 
-VIII. Interferir en las funciones del personal de tránsito; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VIII. Interferir en las funciones del personal de policía vial; y
 
 IX. Será responsabilidad del conductor la inobservancia a estos preceptos y dará lugar a infracción.
 
@@ -525,9 +589,11 @@ Los pasajeros para abordar o descender del vehículo deberán esperar a que ést
 
 Queda prohibido a los pasajeros viajar sobre otros ocupantes del vehículo o realizando movimientos que alteren al conductor o limiten la capacidad de control del vehículo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-Los pasajeros se abstendrán de intervenir en los casos que esté conociendo personal operativo de tránsito y vialidad con respecto al comportamiento del conductor, a menos que lo requiera el personal operativo. En caso de insultos, agresión u obstrucción de funciones por parte de éstos o del conductor se procederá al arresto y detención preventiva hasta por 36 horas, en el supuesto de no ser constitutivo de delito, ya que de serlo se pondrá a disposición de la Procuraduría General de Justicia del Estado.
+Los pasajeros se abstendrán de intervenir en los casos que esté conociendo personal operativo de policía vial con respecto al comportamiento del conductor, a menos que lo requiera el personal operativo. En caso de insultos, agresión u obstrucción de funciones por parte de éstos o del conductor se procederá al arresto y detención preventiva hasta por 36 horas, en el supuesto de no ser constitutivo de delito, ya que de serlo se pondrá a disposición de la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO 28.
 
@@ -541,9 +607,13 @@ Queda prohibido a los pasajeros arrojar objetos y basura a la vía pública, por
 
 Queda prohibido abrasar o sujetar al conductor, a fin de que no se entorpezca la maniobra de conducción, así mismo los pasajeros no deberán obstruir la visibilidad del conductor, siendo de éste la responsabilidad de cumplirlo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 31.
 
-Ninguna persona deberá ocupar un remolque que transite por las vías públicas del Municipio; excepto cuando haya sido diseñado para transporte de pasajeros y aprobado por la autoridad de tránsito y vialidad, o sea utilizado en el desarrollo de eventos especiales previamente autorizados por la Dirección Tránsito.
+Ninguna persona deberá ocupar un remolque que transite por las vías públicas del Municipio; excepto cuando haya sido diseñado para transporte de pasajeros y aprobado por la autoridad de policía vial, o sea utilizado en el desarrollo de eventos especiales previamente autorizados por la Dirección Operativa de Policía Vial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 LAS PERSONAS CON DISCAPACIDAD
 
@@ -551,11 +621,15 @@ LAS PERSONAS CON DISCAPACIDAD
 
 Las personas con discapacidad observarán las siguientes disposiciones en su tránsito por las vías y espacios públicos:
 
-I. En las intersecciones donde no existan semáforos o Agentes de Tránsito y Vialidad, tendrán derecho de paso sobre los vehículos, siempre y cuando se acerquen gradualmente al flujo vehicular y solo cuando la columna vehicular se detenga, podrán cruzar por las áreas peatonales;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+I. En las intersecciones donde no existan semáforos o Agentes de Policía Vial, tendrán derecho de paso sobre los vehículos, siempre y cuando se acerquen gradualmente al flujo vehicular y solo cuando la columna vehicular se detenga, podrán cruzar por las áreas peatonales;
 
 II. En intersecciones donde existan semáforos con aditamento auditivo o señal sonora, tendrán derecho de paso cuando el semáforo que corresponda a la vía pública que pretendan cruzar tenga la luz roja encendida o el semáforo peatonal, visual o sonoro lo indique, cuando le corresponda el paso y no alcance a cruzar por cambio del color de luz, los conductores esperarán a que termine la maniobra de cruce;
 
-III. El personal operativo de tránsito y vialidad deberá auxiliar a las personas con discapacidad visual o motriz a realizar el cruce de las calles bajo las reglas ya descritas y lo auxiliará para subir o bajar rampas o banquetas que representen un esfuerzo físico difícil de superar; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. El personal operativo de policía vial deberá auxiliar a las personas con discapacidad visual o motriz a realizar el cruce de las calles bajo las reglas ya descritas y lo auxiliará para subir o bajar rampas o banquetas que representen un esfuerzo físico difícil de superar; y
 
 IV. Tendrán acceso preferente al tránsito peatonal las personas con discapacidad que utilicen andaderas, arneses, muletas, sillas de ruedas o equipos similares en las vías o espacios públicos.
 
@@ -571,9 +645,11 @@ En el Municipio se instrumentarán políticas públicas permanentes que generen 
 
 Las personas con discapacidad podrán conducir vehículos especiales cuya adecuación y equipamiento les permita hacerlo con seguridad, observando las disposiciones generales que prevé el presente Reglamento para los conductores.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 35.
 
-La Dirección Tránsito instrumentará programas coordinados con las dependencias de los gobiernos federal y estatal, así como con los sectores social y privado, para brindar mayor accesibilidad de las personas con discapacidad a los diversos espacios públicos y privados de las vialidades del Municipio.
+La Dirección Operativa de Policía Vial instrumentará programas coordinados con las dependencias de los gobiernos federal y estatal, así como con los sectores social y privado, para brindar mayor accesibilidad de las personas con discapacidad a los diversos espacios públicos y privados de las vialidades del Municipio.
 
 ###### ARTÍCULO 36.
 
@@ -755,7 +831,9 @@ En el caso de las vialidades que cuenten con bayoneta en los camellones que aloj
 
 Los conductores en intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos ni agentes que regulen la circulación cederán el paso a los peatones que transiten sobre el área destinada a ellos, sobre el arroyo de circulación correspondiente al vehículo. De la misma manera se deberá ceder el paso al ciclista, así como a los conductores de otros vehículos de propulsión humana; en las vías de doble circulación donde no haya refugio central para peatones, también deberán ceder el paso a los que se aproximen provenientes del centro de la vialidad.
 
-### CAPITULO SÉPTIMO (SIC)
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+### CAPÍTULO SÉPTIMO (SIC)
 
 DE LAS OBLIGACIONES, PROHIBICIONES Y DERECHOS DE LOS MOTOCICLISTAS Y AUTOMOVILISTAS, Y DE LOS OBSTÁCULOS AL TRANSITO.
 
@@ -855,6 +933,8 @@ III. Atenderán las disposiciones de agentes y auxiliares, maestros y promotores
 
 IV. Circular a una velocidad máxima de 10 km. /Hr.; aun cuando no haya el señalamiento respectivo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LAS PROHIBICIONES A LOS AUTOMOVILISTAS
 
 ###### ARTÍCULO 62.
@@ -863,7 +943,9 @@ Los conductores, sin perjuicio de las demás restricciones que establezca el pre
 
 I. Conducir cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de bebidas alcohólicas, drogas, estupefacientes ni bajo el influjo de otras substancias o medicamentos que alteren y afecten el control psicomotriz o la percepción sensorial del conductor, por lo que su capacidad para conducir evidentemente se tornará en una conducción peligrosa. La Dirección determinará los medios que se utilizarán para la detección de todo lo anterior.
 
-Si un agente de tránsito detecta que el conductor de un vehículo presenta notorio aliento alcohólico o advierte el manejo sin precaución o de riesgo, procederá en el lugar de los hechos a aplicarle el examen de alcoholemia con el equipo electrónico correspondiente. En caso de no contar con el equipo para ello, se trasladará al conductor a las instalaciones de la Dirección Tránsito para aplicarle el examen médico respectivo, quedando sujeto al procedimiento que establece el presente Reglamento;
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Si un agente de policía vial detecta que el conductor de un vehículo presenta notorio aliento alcohólico o advierte el manejo sin precaución o de riesgo, procederá en el lugar de los hechos a aplicarle el examen de alcoholemia con el equipo electrónico correspondiente. En caso de no contar con el equipo para ello, se trasladará al conductor a las instalaciones de la Dirección Operativa de Policía Vial para aplicarle el examen médico respectivo, quedando sujeto al procedimiento que establece el presente Reglamento;
 
 II. Transportar personas en la carrocería o en lugares no especificados para ello; con excepción de algún desfile.
 
@@ -919,13 +1001,21 @@ XXVI. Cuando un conductor se acerque a un charco, corriente de agua o piedras su
 
 Son derechos de los conductores de vehículos:
 
-I. Ser tratados de manera respetuosa y correcta por las autoridades de tránsito;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-II. Recibir el auxilio de las autoridades de tránsito cuando así lo requiera;
+I. Ser tratados de manera respetuosa y correcta por las autoridades de policía vial;
 
-III. Al pago de los daños causados a su vehículo, por motivo del arrastre y detención del mismo por parte de las autoridades de tránsito responsables, o de las empresas concesionarias que tenga (sic) a su cargo esta función, acudiendo ante la Dirección;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-IV. A que se les proporcione información por las autoridades de tránsito, en todos los trámites, y cuando hayan sido parte de un accidente;
+II. Recibir el auxilio de las autoridades de policía vial cuando así lo requiera;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. Al pago de los daños causados a su vehículo, por motivo del arrastre y detención del mismo por parte de las autoridades de policía vial responsables, o de las empresas concesionarias que tenga a su cargo esta función, acudiendo ante la Dirección;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IV. A que se les proporcione información por las autoridades de policía vial, en todos los trámites, y cuando hayan sido parte de un accidente;
 
 V. Tienen derecho al auxilio de su persona y a la protección y custodia de sus bienes en caso de algún percance o accidente de tránsito; y
 
@@ -1001,7 +1091,7 @@ V.- Servicio social: Son aquellos que realicen actividades de emergencia o asist
 
 ### CAPÍTULO SÉPTIMO. DEL EQUIPAMIENTO VEHICULAR
 
-### CAPÍTULO OCTAVO. DE LA MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
+### CAPÍTULO OCTAVO. DE LA (SIC) MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
 
 ###### ARTÍCULO 67.
 
@@ -1155,6 +1245,8 @@ XV.- DE LAS PROHIBICIONES.-
 
 Se prohíbe la instalación de faros, equipo de iluminación o reflectores adicionales a los que vienen equipados de fábrica en la parte posterior de los vehículos, así como el uso de faros de halógeno, luces de xenón, luces rojas o azules al frente y luces estroboscópicas o destellantes del sistema LEDS en cualquier parte del vehículo, a excepción de los vehículos autorizados en el presente Reglamento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO NOVENO. DE LAS LICENCIAS PARA CONDUCIR
 
 OBLIGATORIEDAD DE PORTAR LICENCIA
@@ -1177,9 +1269,11 @@ El comprobante del pago de la infracción amparará por 15 días la circulación
 
 Queda prohibido a los propietarios de los vehículos automotores, quitar, alterar o modificar los dispositivos anticontaminantes instalados de fábrica o traerlos sin funcionar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 73.
 
-Los vehículos retirados de la circulación, por exceder los límites permisibles de contaminación y que estén asegurados por las autoridades de tránsito, los interesados para su recuperación deberán de cubrir lo siguiente:
+Los vehículos retirados de la circulación, por exceder los límites permisibles de contaminación y que estén asegurados por las autoridades de policía vial, los interesados para su recuperación deberán de cubrir lo siguiente:
 
 a. Acreditar que es el propietario del vehículo;
 
@@ -1187,7 +1281,7 @@ b. Haber pagado la multa por infracción cometida; y
 
 c. Cubrir los gastos ocasionados por retiro de la unidad y aseguramiento.
 
-### CAPÍTULO DÉCIMO. DE LAS SEÑALES PARA EL CONTROL DE TRANSITO
+### CAPÍTULO DÉCIMO. DE LAS SEÑALES PARA EL CONTROL DE TRÁNSITO
 
 ###### ARTÍCULO 74.
 
@@ -1253,7 +1347,11 @@ IV.- Para operar el Servicio Público concesionado por el Estado, en cualquiera 
 
 Para asegurar el pago de infracciones cometidas por automovilistas de otra entidad federativa o del extranjero, dentro de este municipio, se deberá de retener la placa en el momento de la infracción.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS OBSTÁCULOS AL TRANSITO
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS OBSTÁCULOS AL TRÁNSITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1263,11 +1361,15 @@ Las Señales son símbolos, leyendas o ambas cosas, lenguaje corporal, rayas, ma
 
 Las señales atendiendo sus características pueden ser; mímicas, auditivas o sonoras, nocturnas o luminosas, fijas, estacionarias y de obras diversas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LAS SEÑALES MÍMICAS
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 82.
 
-La Dirección Tránsito dispondrá de un cuerpo operativo conformado por agentes, peritos de hechos de tránsito, oficiales y policías, que realizarán funciones reguladoras de tránsito a efecto de coadyuvar al mayor orden del flujo vehicular y al movimiento peatonal en las vías y espacios públicos, así mismo para el mejor desempeño de sus funciones puede ser apoyado por agentes auxiliares.
+La Dirección Operativa de Policía Vial dispondrá de un cuerpo operativo conformado por agentes, peritos de hechos de tránsito, oficiales y policías, que realizarán funciones reguladoras de tránsito a efecto de coadyuvar al mayor orden del flujo vehicular y al movimiento peatonal en las vías y espacios públicos, así mismo para el mejor desempeño de sus funciones puede ser apoyado por agentes auxiliares.
 
 ###### ARTÍCULO 83.
 
@@ -1317,9 +1419,11 @@ Las señales mímicas serán acompañadas del uso del silbato.
 
 Los conductores de vehículos además de conocer, obedecer y observar las disposiciones y señalamientos viales, deberán accionar con anticipación los mecanismos para señalamientos a vehículos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 87.
 
-Los elementos operativos de tránsito y vialidad brindarán las medidas de seguridad mediante los señalamientos corporales que aseguren la protección de la integridad de los usuarios de las vías y espacios públicos.
+Los elementos operativos de policía vial brindarán las medidas de seguridad mediante los señalamientos corporales que aseguren la protección de la integridad de los usuarios de las vías y espacios públicos.
 
 ###### ARTÍCULO 88.
 
@@ -1353,7 +1457,9 @@ V. Colocará banderas o dispositivos de seguridad (en la noche, deberán tener l
 
 Los conductores podrán instalar en la parte posterior de los vehículos, señales adicionales a las establecidas en este ordenamiento, siempre que no resulten contradictorias a sus disposiciones, o entorpezcan la visibilidad posterior del conductor, o que por su materia produzcan efectos reflectores o afecte la visibilidad.
 
-DE LAS SEÑALES AUDITIVAS O SONORAS
+> <small>(REFORMADA SU DENONMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
+
+DE LAS SEÑALES AUDITIVAS O SONORA (SIC)
 
 ###### ARTÍCULO 91.
 
@@ -1369,17 +1475,25 @@ IV. Tres toques largos: todos los conductores que acceden a la intersección deb
 
 V. En caso de congestionamiento vehicular, dará tres o más toques cortos para conminar al orden y a la calma, procediendo posteriormente a la regulación del flujo y desahogo vehicular de acuerdo a las indicaciones anteriores.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 92.
 
-Cuando exista señalamiento vertical, horizontal o de semáforos y se estén dando indicaciones por el personal operativo de tránsito y vialidad, prevalecerán los comandos o indicaciones del agente en cuanto a la regulación del tráfico vehicular y peatonal.
+Cuando exista señalamiento vertical, horizontal o de semáforos y se estén dando indicaciones por el personal operativo de policía vial, prevalecerán los comandos o indicaciones del agente en cuanto a la regulación del tráfico vehicular y peatonal.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 93.
 
-Los elementos operativos de tránsito y vialidad observarán las normas previstas en este capítulo al efectuar sus señalamientos y aplicarán sus conocimientos o criterio para regular operativamente el tránsito a favor de la fluidez y seguridad de movimiento en vehículos y peatones.
+Los elementos operativos de policía vial observarán las normas previstas en este capítulo al efectuar sus señalamientos y aplicarán sus conocimientos o criterio (sic) para regular operativamente el tránsito a favor de la fluidez y seguridad de movimiento en vehículos y peatones.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 94.
 
-Los elementos operativos de tránsito y vialidad podrán restringir parcial o totalmente el tránsito vehicular y redireccionar el flujo vial cuando las condiciones de seguridad en el tránsito generado por la movilidad vehicular o peatonal lo demanden.
+Los elementos operativos de policía vial podrán restringir parcial o totalmente el tránsito vehicular y redireccionar el flujo vial cuando las condiciones de seguridad en el tránsito generado por la movilidad vehicular o peatonal lo demanden.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LAS SEÑALES LUMINOSAS O NOCTURNAS
 
@@ -1471,15 +1585,21 @@ Se preverá que todos los semáforos de tiempo fijo, tengan una secuencia progra
 
 Para evitar la contaminación por ruidos o sonidos mayores de 90 decibeles, y que son producidos por las cornetas de aire de las locomotoras, en el casco urbano de la ciudad de Manzanillo, se deberán de instalar campanas electrónicas suficientes, que funcionen sincronizadamente con las luces del semáforo, pudiendo ser este de destello o de péndulo.
 
-Dichos semáforos deben instalarse cuando el estudio del crucero, efectuado por ingenieros de tránsito experimentados y la Dirección de Desarrollo Urbano del H. Ayuntamiento, indique que existe la necesidad de reducir la contaminación por ruidos y con anticipación se anuncie a los conductores de vehículos, la proximidad del tren.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Dichos semáforos deben instalarse cuando el estudio del crucero, efectuado por ingenieros de policía vial experimentados y la Dirección de Desarrollo Urbano del H. Ayuntamiento, indique que existe la necesidad de reducir la contaminación por ruidos y con anticipación se anuncie a los conductores de vehículos, la proximidad del tren.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 103.
 
-La Dirección instalará los señalamientos y se colocarán en lugares estratégicos y a una distancia que permita a los conductores atender las disposiciones plasmadas en los mismos. El deterioro, rotura o falta de visibilidad de los señalamientos viales no limitan la responsabilidad del conductor, por lo que tal circunstancia deberá comunicarse a la Dirección Tránsito con el propósito de coadyuvar a su mantenimiento, reposición y/o ampliación.
+La Dirección instalará los señalamientos y se colocarán en lugares estratégicos y a una distancia que permita a los conductores atender las disposiciones plasmadas en los mismos. El deterioro, rotura o falta de visibilidad de los señalamientos viales no limitan la responsabilidad del conductor, por lo que tal circunstancia deberá comunicarse a la Dirección Operativa de Policía Vial con el propósito de coadyuvar a su mantenimiento, reposición y/o ampliación.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 104.
 
-Los señalamientos se establecerán en lugares estratégicos y a una distancia que permita a los conductores atender las disposiciones plasmadas en los mismos, en los camellones centrales, laterales y en las isletas, solo se colocarán señalamientos para el control del tráfico vehicular. Cualquier otro señalamiento, anuncio comercial o propaganda está prohibida y será retirada con cargo al infractor por personal de la Dirección Tránsito, independientemente de la sanción que corresponda.
+Los señalamientos se establecerán en lugares estratégicos y a una distancia que permita a los conductores atender las disposiciones plasmadas en los mismos, en los camellones centrales, laterales y en las isletas, solo se colocarán señalamientos para el control del tráfico vehicular. Cualquier otro señalamiento, anuncio comercial o propaganda está prohibida y será retirada con cargo al infractor por personal de la Dirección Operativa de Policía Vial, independientemente de la sanción que corresponda.
 
 ###### ARTÍCULO 105.
 
@@ -1677,6 +1797,8 @@ VI.- Cercas; y
 
 VII.- Guardaganados.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LAS SEÑALES ESTACIONARIAS O DISPOSITIVOS PARA PROTECCIÓN DE OBRAS.
 
 ###### ARTÍCULO 123.
@@ -1723,9 +1845,11 @@ Cuando las señales son ejecutadas por banderero, serán como lo establece el ma
 
 Es obligación de todos los usuarios de la red vial atender y obedecer todas las formas de señalamiento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 130.
 
-La Dirección Tránsito será la responsable de ubicar, colocar y mantener los señalamientos viales en las vías públicas del Municipio. Lo anterior de acuerdo al Manual de Dispositivos para el Control del Tránsito en Calles y Carreteras, editado por la Secretaría de Comunicaciones y Transportes, el cual se aplicará supletoriamente. En caso necesario podrá utilizar señales diferentes, que cubran los criterios básicos indicados en el manual antes mencionado.
+La Dirección Operativa de Policía Vial será la responsable de ubicar, colocar y mantener los señalamientos viales en las vías públicas del Municipio. Lo anterior de acuerdo al Manual de Dispositivos para el Control del Tránsito en Calles y Carreteras, editado por la Secretaría de Comunicaciones y Transportes, el cual se aplicará supletoriamente. En caso necesario podrá utilizar señales diferentes, que cubran los criterios básicos indicados en el manual antes mencionado.
 
 ###### ARTÍCULO 131.
 
@@ -1733,15 +1857,21 @@ Los modelos presentados en el Manual de Dispositivos para el Control del Tránsi
 
 El personal del Ayuntamiento cuando ejecuten obras de cualquier tipo en la vía pública, se sujetará a lo que dispone el presente artículo.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS LIMITES DE VELOCIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS LÍMITES DE VELOCIDAD
 
 ###### ARTÍCULO 132.
 
-No se permitirá en la vía pública destinada a tránsito vehicular o peatonal la instalación de estructuras metálicas, de mampostería o cualquier otro material permanente o móvil, ni la siembra o plantado de árboles en la vía pública, por tal motivo se requerirá a quienes lo hayan hecho de manera irregular para que los retiren voluntariamente, y en el caso de no hacerlo lo realizará el personal operativo de la Dirección Tránsito, con el apoyo de la Dirección General de Desarrollo Urbano, Dirección General de Servicios Públicos y la Dirección General de Seguridad Pública, a costa del infractor, independientemente de la multa que corresponda
+No se permitirá en la vía pública destinada a tránsito vehicular o peatonal la instalación de estructuras metálicas, de mampostería o cualquier otro material permanente o móvil, ni la siembra o plantado de árboles en la vía pública, por tal motivo se requerirá a quienes lo hayan hecho de manera irregular para que los retiren voluntariamente, y en el caso de no hacerlo lo realizará el personal operativo de la Dirección Operativa de Policía Vial, con el apoyo de la Dirección General de Desarrollo Urbano, Dirección General de Servicios Públicos y la Dirección General de Seguridad Pública, a costa del infractor, independientemente de la multa que corresponda.
 
 En consecuencia no se podrá depositar, en la vía pública, materiales de construcción o de cualquier índole. En caso de necesidad justificada, se recabará autorización de la autoridad municipal, quien la otorgará por un tiempo mínimo exclusivamente, en lugares donde dicho depósito no signifique algún obstáculo de importancia al libre tránsito de peatones y vehículos. De no existir autorización, la autoridad podrá retirarlos poniéndolos a disposición de la instancia competente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO DÉCIMO TERCERO. DE LA PREFERENCIA DE PASO A VEHÍCULOS DE EMERGENCIA Y PREVENTIVOS
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 133.
 
@@ -1759,7 +1889,9 @@ V. Los vehículos de plataforma y remolques dispondrán de un barandal o estruct
 
 Los conductores de camionetas pick-up y similares que participen en dichos eventos se asegurarán de que los ocupantes guarden el orden que garantice su seguridad.
 
-La Dirección Tránsito suspenderá el evento o retirará del mismo los vehículos que no cumplan con las disposiciones anteriores.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+La Dirección Operativa de Policía Vial suspenderá el evento o retirará del mismo los vehículos que no cumplan con las disposiciones anteriores.
 
 ###### ARTÍCULO 134.
 
@@ -1769,7 +1901,9 @@ Tratándose de manifestaciones de índole políticas, sólo será necesario dar 
 
 A una distancia de 50 metros de cualquier centro educativo, la velocidad vehicular será de 10 km/ hr., 30 minutos antes y después de la entrada y salida de los alumnos correspondientes.
 
-La Dirección Tránsito, en el ámbito de su jurisdicción, tendrá facultades para establecer los límites de velocidad de circulación de los vehículos, y en caso de no existir señalamientos se tendrán los siguientes parámetros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
+
+La Dirección Operativa de Policía Vial, en el ámbito de su jurisdicción, tendrá facultades para establecer los límites de velocidad de circulación de los vehículos, y en caso de no existir señalamientos se tendrán los siguientes parámetros:
 
 I. En carreteras: 70 Km/h máxima y 30 km/h mínima;
 
@@ -1795,9 +1929,11 @@ II. Vehículos de emergencia o seguridad pública con sirena y torreta funcionan
 
 Deberá de observarse el límite antes mencionado ante la presencia de escolares fuera de los horarios referidos. Los conductores de vehículos no deberán exceder de los límites de velocidad mencionados. La reincidencia de la infracción de esta disposición, será causa de suspensión de la licencia. Queda prohibido asimismo, transitar a una velocidad tan baja que entorpezca el tránsito, excepto en aquellos casos en que lo exijan las condiciones de las vías, del tránsito o de la visibilidad.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 138.
 
-Queda prohibido instalar en los vehículos mecanismos, sistemas o cualquier instrumento encaminado a eludir la vigilancia de los agentes de tránsito mediante la detección de radares. Además, sus ocupantes no deberán hacer señales a otros conductores con la finalidad de avisarles sobre los operativos para la regulación de velocidad.
+Queda prohibido instalar en los vehículos mecanismos, sistemas o cualquier instrumento encaminado a eludir la vigilancia de los agentes de policía vial mediante la detección de radares. Además, sus ocupantes no deberán hacer señales a otros conductores con la finalidad de avisarles sobre los operativos para la regulación de velocidad.
 
 ###### ARTÍCULO 139.
 
@@ -1807,17 +1943,23 @@ El exceso de velocidad o velocidad inmoderada será sancionado cuando sea eviden
 
 Los límites mínimos de velocidad pueden reducirse para contingentes de vehículos, en callejoneadas, exhibiciones y espectáculos, de acuerdo con la disposición del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 141.
 
-Cuando el agente de tránsito y vialidad verifique a través del radar o el tacómetro de su unidad la velocidad de los vehículos que se desplazan sobre la vía pública y rebasen los parámetros de la velocidad, o arriba de la velocidad permitida en las señales viales, procederá a marcar el alto al conductor para formular la boleta de infracción correspondiente.
+Cuando el agente de policía vial verifique a través del radar o el tacómetro de su unidad la velocidad de los vehículos que se desplazan sobre la vía pública y rebasen los parámetros de la velocidad, o arriba de la velocidad permitida en las señales viales, procederá a marcar el alto al conductor para formular la boleta de infracción correspondiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA CIRCULACIÓN VEHICULAR
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LAS PROHIBICIONES DE OBSTRUIR LAS INTERSECCIONES CUANDO NO HAYA ESPACIO SUFICIENTE
 
 ###### ARTÍCULO 142.
 
-En las vías públicas tienen preferencia de paso, vehículos de emergencia que lleve señales luminosas y audibles especiales o un vehículo de seguridad que use señales audibles solamente. Tienen preferencia de paso los vehículos destinados a los siguientes servicios: Bomberos, Ambulancias, Policía de Procuración de Justicia, Policía Federal, Policía Estatal, Protección Civil, Tránsito, de Seguridad Nacional, de la Defensa y Marina Armada de México, y otros vehículos de emergencia u oficiales, los cuales procurarán circular por el carril de mayor velocidad y podrán, en caso necesario, dejar de atender las normas de circulación que establece este Reglamento tomando las precauciones debidas.
+En las vías públicas tienen preferencia de paso, vehículos de emergencia que lleve (sic) señales luminosas y audibles especiales o un vehículo de seguridad que use señales audibles solamente. Tienen preferencia de paso los vehículos destinados a los siguientes servicios: Bomberos, Ambulancias, Policía de Procuración de Justicia, Policía Federal, Policía Estatal, Protección Civil, Policía Vial, de Seguridad Nacional, de la Defensa y Marina Armada de México, y otros vehículos de emergencia u oficiales, los cuales procurarán circular por el carril de mayor velocidad y podrán, en caso necesario, dejar de atender las normas de circulación que establece este Reglamento tomando las precauciones debidas.
 
 ###### ARTÍCULO 143.
 
@@ -1830,6 +1972,8 @@ Los emblemas de los vehículos de emergencia mencionados, no podrán ser usados 
 ###### ARTÍCULO 145.
 
 Los vehículos de seguridad pública y de emergencia, podrán estacionarse en la vía pública sólo cuando se hallen prestando ayuda o desarrollando algún servicio que así lo requiera, sin necesidad de sujetarse a las disposiciones de este Reglamento, siempre que se garantice la seguridad de las personas y sus bienes, estableciendo la coordinación del flujo vial y se activen las luces de emergencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS VUELTAS
 
@@ -1871,9 +2015,11 @@ III. Si ninguno hace ALTO, en caso de accidente el costo total de gastos ocasion
 
 En las esquinas o lugares donde exista señal gráfica de ceda el paso, sin semáforo o señalamiento, ya sea a la derecha o a la izquierda, el conductor lo hará con precaución anunciando oportunamente tal maniobra con las direccionales y cediendo el paso a los peatones, los conductores podrán entrar a la intersección si por la calle transversal por su derecha o izquierda, no se aproxima ningún vehículo que constituya peligro de accidente, en caso contrario deberán cederle el paso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 152.
 
-En cruceros o intersecciones donde no existan señales gráficas de ALTO o ceda el paso, no haya semáforos funcionando normalmente o no se encuentre un oficial de tránsito dirigiendo la circulación, tendrán prioridad de paso:
+En cruceros o intersecciones donde no existan señales gráficas de ALTO o ceda el paso, no haya semáforos funcionando normalmente o no se encuentre un oficial de policía vial dirigiendo la circulación, tendrán prioridad de paso:
 
 I. Las avenidas sobre las calles;
 
@@ -1996,6 +2142,8 @@ II. Para cambiar la dirección deberá usar la luz direccional o en su defecto d
 III. Las luces direccionales deberán de emplearse para indicar cambios de dirección, y durante paradas momentáneas o de estacionamiento de emergencia. También podrán usarse como advertencia, debiendo preferirse en éstas últimas situaciones, las luces intermitentes de destello.
 
 ### CAPÍTULO DÉCIMO SEXTO. DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DEL ESTACIONAMIENTO
 
@@ -2129,6 +2277,8 @@ Los conductores de vehículos que circulen en reversa deberán de ceder el paso 
 
 En caso de desarrollarse algún hecho de tránsito terrestre por la realización de maniobras de reversa o retroceso, quien los realice será responsable de los daños que cause por su maniobra, independientemente de las sanciones que determinen este Reglamento y las diversas a que se haga acreedor.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO DÉCIMO SÉPTIMO. DEL TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 179.
@@ -2147,7 +2297,9 @@ I. El vehículo deberá quedar orientado en el sentido de la circulación de la 
 
 II. Cuando no se restrinja el estacionamiento, éste deberá ser en cordón, salvo los casos en que se indique con señalamiento otra manera de estacionarse;
 
-III. Para estacionar un vehículo en cordón, se colocará en forma paralela a la acera o banqueta del lado que la Dirección Tránsito determine, a una distancia no mayor de 40 centímetros de la banqueta, 1 metro como mínimo y 1.50 m. como máximo de los vehículos estacionados en la parte posterior y anterior;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. Para estacionar un vehículo en cordón, se colocará en forma paralela a la acera o banqueta del lado que la Dirección Operativa de Policía Vial determine, a una distancia no mayor de 40 centímetros de la banqueta, 1 metro como mínimo y 1.50 m. como máximo de los vehículos estacionados en la parte posterior y anterior;
 
 IV. Para estacionar un vehículo en batería, se le colocará formando ángulo con la acera o banqueta, a 30 centímetros de la misma y a 75 centímetros como mínimo de las partes salientes laterales de los vehículos próximos estacionados con anterioridad. Cuando se indique el cajón del estacionamiento en el piso, el vehículo deberá estar alojado dentro del mismo sin invadir las líneas que lo delimiten;
 
@@ -2177,11 +2329,11 @@ e. Ceder el paso a vehículos al abrir las puertas o bajar por el lado de la ace
 
 Los habitantes o propietarios de edificios tendrán preferencia para estacionar sus vehículos frente a sus domicilios en el horario comprendido de las veintidós a las ocho horas del día siguiente.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 182.
 
-Las áreas privadas destinadas a cocheras o estacionamientos, así como calles cerradas, invariablemente tendrán libre acceso para los usuarios de estas áreas a la arteria vial a que correspondan, por lo que para estacionarse en la vía pública que capte estos accesos, los conductores deberán dejar como mínimo un metro por cada lado de la rampa o acceso de las áreas señaladas. En el caso de las calles cerradas, los conductores no deberán dejar estacionado su vehículo en un espacio comprendido dentro de los 5 metros de inicio de las vialidades que hagan intersección, distancia que se podrá ampliar por razones de seguridad mediante señalamiento vial que determine establecer la Dirección Tránsito.
-
-En el portón de ingreso de las áreas privadas destinadas a cochera se deberá instalar por sus usuarios un señalamiento de identificación como cochera.
+Las áreas privadas destinadas a cocheras o estacionamientos, así como calles cerradas, invariablemente tendrán libre acceso para los usuarios de estas áreas a la arteria vial a que correspondan, por lo que para estacionarse en la vía pública que capte estos accesos, los conductores deberán dejar como mínimo un metro por cada lado de la rampa o acceso de las áreas señaladas. En el caso de las calles cerradas, los conductores no deberán dejar estacionado su vehículo en un espacio comprendido dentro de los 5 metros de inicio de las vialidades que hagan intersección, distancia que se podrá ampliar por razones de seguridad mediante señalamiento vial que determine establecer la Dirección Operativa de Policía Vial.
 
 ###### ARTÍCULO 183.
 
@@ -2239,21 +2391,33 @@ XXI. Queda prohibido estacionarse simulando una falla mecánica, a fin de parars
 
 La preferencia de uso de estacionamiento para discapacitados solo podrá ser utilizada por el propio discapacitado cuando éste, se encuentre como pasajero del vehículo que haga uso del espacio reservado, debiéndose contar siempre con el distintivo que acredite al discapacitado para hacer uso de éste derecho.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LA PROHIBICIÓN DE APARTAR LUGARES
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 186.
 
-Queda prohibido a los particulares apartar lugares de estacionamiento en las vías públicas, así como colocar señalamientos u otros objetos que obstaculicen las mismas, en razón de lo cual los elementos operativos de tránsito y vialidad prevendrán al infractor para que inmediatamente los retire y en caso de no ser retirados por quienes los colocaron o no localizarse al infractor, se hará el retiro de éstos por los elementos operativos poniendo dichos objetos a disposición de la Dirección Tránsito.
+Queda prohibido a los particulares apartar lugares de estacionamiento en las vías públicas, así como colocar señalamientos u otros objetos que obstaculicen las mismas, en razón de lo cual los elementos operativos de policía vial prevendrán al infractor para que inmediatamente los retire y en caso de no ser retirados por quienes los colocaron o no localizarse al infractor, se hará el retiro de éstos por los elementos operativos poniendo dichos objetos a disposición de la Dirección Operativa de Policía Vial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LA PROHIBICIÓN DE REPARACIÓN DE VEHÍCULOS EN LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 187.
 
-Queda prohibido estacionarse en los espacios viales para la reparación de vehículos; solo se hará en los casos de una emergencia, debiendo tomar el conductor todo tipo de precauciones señalizando preventivamente el área para evitar cualquier accidente. La Dirección Tránsito retirará del lugar los vehículos y demás objetos que se encuentren indebidamente en la vía pública.
+Queda prohibido estacionarse en los espacios viales para la reparación de vehículos; solo se hará en los casos de una emergencia, debiendo tomar el conductor todo tipo de precauciones señalizando preventivamente el área para evitar cualquier accidente. La Dirección Operativa de Policía Vial retirará del lugar los vehículos y demás objetos que se encuentren indebidamente en la vía pública.
 
 Los talleres o negocios que cuenten con el registro del giro mercantil correspondiente, y los no registrados, que se dediquen a la reparación de vehículos; bajo ningún concepto podrán utilizar la vía pública para este objeto, de ser así los agentes deberán retirarlos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO DÉCIMO OCTAVO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 188.
 
@@ -2447,6 +2611,8 @@ La Dirección determinará las rutas que deberán seguir los vehículos de Servi
 
 Los conductores se abstendrán de llevar carga en sus vehículos, de tal forma que obstruyan la visibilidad posterior, al frente o a sus costados, o en tal cantidad que dificulte la operación del vehículo constituyendo un peligro para las condiciones generales de seguridad de la circulación y de realizar maniobras de carga y descarga fuera de los horarios establecidos por las autoridades correspondientes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LAS RESTRICCIONES PARA TRANSPORTAR CARGA
 
 ###### ARTÍCULO 194.
@@ -2469,9 +2635,11 @@ VII. No vayan debidamente sujetos al vehículo los cables, lonas y demás acceso
 
 VIII. Derrame o esparza cualquier tipo de carga en la vía pública.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 195.
 
-En el caso de los vehículos cuyo peso bruto vehicular o dimensiones excedan de los límites establecidos por el Ayuntamiento, se deberá de solicitar a éste, información para utilizar una ruta conveniente para transitar, misma que definirá la ruta y horario para su circulación y maniobras, y en su caso, las medidas de protección que deban adoptarse. No obstante, y para el caso de desacato de los conductores, los agentes de tránsito podrán impedir la circulación de un vehículo con exceso de peso, dimensiones, o fuera de horarios, sin perjuicio de la sanción que corresponda.
+En el caso de los vehículos cuyo peso bruto vehicular o dimensiones excedan de los límites establecidos por el Ayuntamiento, se deberá de solicitar a éste, información para utilizar una ruta conveniente para transitar, misma que definirá la ruta y horario para su circulación y maniobras, y en su caso, las medidas de protección que deban adoptarse. No obstante, y para el caso de desacato de los conductores, los agentes de policía vial podrán impedir la circulación de un vehículo con exceso de peso, dimensiones, o fuera de horarios, sin perjuicio de la sanción que corresponda.
 
 ###### ARTÍCULO 196.
 
@@ -2497,6 +2665,8 @@ Queda prohibido transportar combustible, líquidos o substancias peligrosas, en 
 
 A los vehículos que se les haya cambiado su sistema de combustión de gasolina a gas L.P. deberán de contar con la certificación de SECOFI.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LOS EQUIPOS MÓVILES DE VENTA AMBULANTES, FIJOS Y SEMIFIJOS.
 
 ###### ARTÍCULO 201.
@@ -2513,25 +2683,29 @@ IV. Si no son retirados por sus propietarios una vez de que sean notificados de 
 
 V. Los ciudadanos para mejorar el aspecto del municipio, tendrán derecho de acción civil para recomendarle a la Dirección, se cumpla con lo establecido en este Reglamento, será suficiente una llamada telefónica.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 202.
 
-El ciudadano podrá solicitar a la Dirección Tránsito los siguientes supuestos con relación a las áreas de estacionamiento en vía pública:
+El ciudadano podrá solicitar a la Dirección Operativa de Policía Vial los siguientes supuestos con relación a las áreas de estacionamiento en vía pública:
 
-I. Cuando una institución pública o privada de educación solicite restricción de estacionamiento en el área de la vía pública, comprendida al frente de sus instalaciones educativas, la Dirección Tránsito comisionará al Departamento de Ingeniería de Tránsito, si dicha solicitud es considerada procedente por el encargado del área, el cual generará una opinión que manifieste la viabilidad y la Dirección podrá dictar la instrucción para que se instale la señalización correspondiente;
+I. Cuando una institución pública o privada de educación solicite restricción de estacionamiento en el área de la vía pública, comprendida al frente de sus instalaciones educativas, la Dirección Operativa de Policía Vial comisionará al Departamento de Ingeniería de Policía Vial, si dicha solicitud es considerada procedente por el encargado del área, el cual generará una opinión que manifieste la viabilidad y la Dirección podrá dictar la instrucción para que se instale la señalización correspondiente;
 
-II. Cuando un ciudadano solicite un espacio de área de carga o descarga y que demuestre que dicho espacio es indispensable para el desarrollo de las actividades económicas del área urbana, la Dirección Tránsito turnará la solicitud al área de Ingeniería de Tránsito, si dicha solicitud es considerada procedente, el encargado del área generará una opinión que manifieste la viabilidad, por lo que la Dirección podrá dar instrucciones para que se instale la señalización correspondiente, con la característica que será de uso común el área de carga o descarga y no exclusivo del solicitante;
+II. Cuando un ciudadano solicite un espacio de área de carga o descarga y que demuestre que dicho espacio es indispensable para el desarrollo de las actividades económicas del área urbana, la Dirección Operativa de Policía Vial turnará la solicitud al área de Ingeniería de Policía Vial, si dicha solicitud es considerada procedente, el encargado del área generará una opinión que manifieste la viabilidad, por lo que la Dirección podrá dar instrucciones para que se instale la señalización correspondiente, con la característica que será de uso común el área de carga o descarga y no exclusivo del solicitante;
 
-III. Cuando un ciudadano solicite un espacio de área de estacionamiento para personas con discapacidad y demuestre que en el domicilio habita una persona con dichas características, la Dirección Tránsito en coordinación con el Instituto Colimense para la Discapacidad en el Estado, dispondrá que se analice técnicamente la procedencia para la asignación del espacio restrictivo de estacionamiento y en el caso de ser favorable se instruirá al Departamento de Ingeniería de Tránsito se instale la señalización correspondiente, con la característica que será de uso común para personas con discapacidad y no exclusivo del solicitante; y
+III. Cuando un ciudadano solicite un espacio de área de estacionamiento para personas con discapacidad y demuestre que en el domicilio habita una persona con dichas características, la Dirección Operativa de Policía Vial en coordinación con el Instituto Colimense para la Discapacidad en el Estado, dispondrá que se analice técnicamente la procedencia para la asignación del espacio restrictivo de estacionamiento y en el caso de ser favorable se instruirá al Departamento de Ingeniería de Policía Vial se instale la señalización correspondiente, con la característica que será de uso común para personas con discapacidad y no exclusivo del solicitante; y
 
-IV. A solicitud de las dependencias públicas, siempre y cuando se demuestre que es necesario dotar de un espacio de estacionamiento oficial en la vía pública, la Dirección Tránsito turnará la solicitud al área de Ingeniería de Tránsito, si dicha solicitud es considerada viable por el encargado de área se generará una opinión que manifieste la viabilidad, por lo que la Dirección podrá dar la instrucción para que se instale la señalización correspondiente, dicho estacionamiento solo amparará a vehículos oficiales de la autoridad o dependencia pública afecta.
+IV. A solicitud de las dependencias públicas, siempre y cuando se demuestre que es necesario dotar de un espacio de estacionamiento oficial en la vía pública, la Dirección Operativa de Policía Vial turnará la solicitud al área de Ingeniería de Policía Vial, si dicha solicitud es considerada viable por el encargado de área se generará una opinión que manifieste la viabilidad, por lo que la Dirección podrá dar la instrucción para que se instale la señalización correspondiente, dicho estacionamiento solo amparará a vehículos oficiales de la autoridad o dependencia pública afecta.
 
-Queda estrictamente prohibido, pintar el machuelo de la acera o banqueta de la vía o espacios públicos con color amarillo tráfico, para simular que esa área es exclusiva o privada, por lo que la Dirección Tránsito procederá a requerir al infractor la corrección inmediata de la irregularidad mediante el desvanecimiento o el repintado sobre el área señalizada y en caso de no hacerlo lo llevará a cabo el personal operativo de tránsito a su costa, independientemente de aplicar la sanción que corresponda.
+Queda estrictamente prohibido, pintar el machuelo de la acera o banqueta de la vía o espacios públicos con color amarillo tráfico, para simular que esa área es exclusiva o privada, por lo que la Dirección Operativa de Policía Vial procederá a requerir al infractor la corrección inmediata de la irregularidad mediante el desvanecimiento o el repintado sobre el área señalizada y en caso de no hacerlo lo llevará a cabo el personal operativo de policía vial a su costa, independientemente de aplicar la sanción que corresponda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 ### CAPÍTULO DÉCIMO NOVENO. DE LA PRESERVACIÓN ECOLOGÍA Y PROTECCIÓN DEL MEDIO AMBIENTE
 
 ###### ARTÍCULO 203.
 
-La Dirección de Tránsito instrumentará programas operativos, formativos e informativos de seguridad y educación vial, con la finalidad de fomentar una cultura de respeto a la normatividad, de auto cuidado en el manejo de vehículos y para mantenimiento preventivo de los mismos, así como de prevención de accidentes o hechos de tránsito terrestre, coordinándose con dependencias y organismos federales, estatales y municipales, así como de los sectores social y privado, para buscar los instrumentos que permitan mantener el orden en las vías públicas, brinden y den mayor seguridad y agilidad en el tránsito generado por la movilidad urbana, orientados a los siguientes niveles de la población:
+La Dirección Operativa de Policía Vial instrumentará programas operativos, formativos e informativos de seguridad y educación vial, con la finalidad de fomentar una cultura de respeto a la normatividad, de auto cuidado en el manejo de vehículos y para mantenimiento preventivo de los mismos, así como de prevención de accidentes o hechos de tránsito terrestre, coordinándose con dependencias y organismos federales, estatales y municipales, así como de los sectores social y privado, para buscar los instrumentos que permitan mantener el orden en las vías públicas, brinden y den mayor seguridad y agilidad en el tránsito generado por la movilidad urbana, orientados a los siguientes niveles de la población:
 
 I. A los alumnos de educación preescolar, básica y media;
 
@@ -2543,9 +2717,13 @@ IV. A los conductores infractores del Reglamento de Tránsito;
 
 V. A los conductores de vehículos de uso mercantil; y
 
-VI. A los conductores de vehículos del servicio público de transporte de pasajeros y de carga. A los agentes de tránsito se les impartirán cursos de actualización en materia de educación vial. Además la autoridad municipal diseñará e instrumentará programas y campañas permanentes de educación vial y cortesía urbana encaminadas a reafirmar los hábitos de respeto y cortesía hacia los discapacitados en su tránsito en la vía pública y en lugares de acceso al público.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+VI. A los conductores de vehículos del servicio público de transporte de pasajeros y de carga. A los agentes de policía vial se les impartirán cursos de actualización en materia de educación vial. Además, la autoridad municipal diseñará e instrumentará programas y campañas permanentes de educación vial y cortesía urbana encaminadas a reafirmar los hábitos de respeto y cortesía hacia los discapacitados en su tránsito en la vía pública y en lugares de acceso al público.
 
 La Dirección podrá solicitar alumnos para que presten su Servicio Social Externo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LOS TEMAS BÁSICOS DE LOS PROGRAMAS DE EDUCACIÓN VIAL
 
@@ -2575,25 +2753,35 @@ X. Del respeto a los derechos de tránsito de las personas con discapacidad;
 
 XI. Componentes de la vialidad;
 
-XII. El Agente de Tránsito y Vialidad; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XII. El Agente de Policía Vial; y
 
 XIII. De los derechos de los niños y niñas en el uso de las vías y espacios públicos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 205.
 
-La Dirección Tránsito buscará los medios didácticos más apropiados para auxiliarse en la ejecución de acciones para impulsar la generación de la cultura vial, a través de obras teatrales, manuales, revistas, folletos, trípticos, volantes, imágenes, carteles, películas, radio, televisión, entre otros.
+La Dirección Operativa de Policía Vial buscará los medios didácticos más apropiados para auxiliarse en la ejecución de acciones para impulsar la generación de la cultura vial, a través de obras teatrales, manuales, revistas, folletos, trípticos, volantes, imágenes, carteles, películas, radio, televisión, entre otros.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 206.
 
-Con el objetivo de concientizar y sensibilizar a la sociedad sobre el contenido de las disposiciones de este Reglamento, la Dirección Tránsito se coordinará con las instancias gubernamentales, administrativas y operativas, para difundir y promover las disposiciones normativas en materia de educación vial.
+Con el objetivo de concientizar y sensibilizar a la sociedad sobre el contenido de las disposiciones de este Reglamento, la Dirección Operativa de Policía Vial se coordinará con las instancias gubernamentales, administrativas y operativas, para difundir y promover las disposiciones normativas en materia de educación vial.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 207.
 
-La Dirección Tránsito, a través del personal de educación vial, desarrollará un programa integral formativo e informativo coordinado con la Secretaría de Educación del Gobierno del Estado, mediante la realización de talleres, pláticas, conferencias, foros, campañas, programas, módulos de exposiciones, proyecciones de video, testimonios, explicaciones, así como actividades operativas, preventivas y ejercicios prácticos y de elaboración de manualidades, que generen una cultura de prevención de hechos de tránsito.
+La Dirección Operativa de Policía Vial, a través del personal de educación vial, desarrollará un programa integral formativo e informativo coordinado con la Secretaría de Educación del Gobierno del Estado, mediante la realización de talleres, pláticas, conferencias, foros, campañas, programas, módulos de exposiciones, proyecciones de video, testimonios, explicaciones, así como actividades operativas, preventivas y ejercicios prácticos y de elaboración de manualidades, que generen una cultura de prevención de hechos de tránsito.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 208.
 
-La Dirección Tránsito realizará mensualmente, en el lugar que ésta designe, una plática de prevención de hechos de tránsito o de los temas señalados en el artículo 217 de este Reglamento, a todo aquel conductor que encontrándose bajo el influjo del consumo de bebidas alcohólicas o habiendo participado en un hecho de tránsito, haya sido calificada la infracción con esta sanción. Asimismo, podrá participar realizando acciones sociales encaminadas al fomento de la educación vial.
+La Dirección Operativa de Policía Vial realizará mensualmente, en el lugar que ésta designe, una plática de prevención de hechos de tránsito o de los temas señalados en el artículo 217 de este Reglamento, a todo aquel conductor que encontrándose bajo el influjo del consumo de bebidas alcohólicas o habiendo participado en un hecho de tránsito, haya sido calificada la infracción con esta sanción. Asimismo, podrá participar realizando acciones sociales encaminadas al fomento de la educación vial.
 
 DE LOS CONVENIOS CON ORGANIZACIONES PARA LA IMPARTICIÓN DE CURSOS DE EDUCACIÓN VIAL
 
@@ -2605,6 +2793,8 @@ DE LA INFORMACIÓN SOBRE EL ESTADO DE LA VIALIDAD
 
 ARTíCULO 210.- Con objeto de informar a la ciudadanía sobre el estado que guarda la vialidad en las horas de mayor intensidad en el tránsito, el Ayuntamiento se coordinará con las autoridades competentes y celebrará acuerdos de concertación con empresas concesionarias de radio y televisión para que se difundan masivamente los boletines respectivos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO VIGÉSIMO. DE LOS HECHOS DE TRÁNSITO
 
 ###### ARTÍCULO 211.
@@ -2615,17 +2805,23 @@ Los conductores deberán realizar los servicios de afinación y mantenimiento me
 
 Los conductores deberán regular la emisión de ruido de su vehículo, de acuerdo con la recomendación que establece la Norma Oficial Mexicana correspondiente, no rebasando los niveles que en el rango de decibeles se precisan en este Reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 213.
 
-La Dirección Tránsito, en coordinación con la Dirección de Ecología Municipal y de los gobiernos estatal y federal, realizará campañas y operativos tendientes a controlar la emisión de humos y ruidos por vehículos de motor de combustión interna.
+La Dirección Operativa de Policía Vial, en coordinación con la Dirección de Ecología Municipal y de los gobiernos estatal y federal, realizará campañas y operativos tendientes a controlar la emisión de humos y ruidos por vehículos de motor de combustión interna.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 214.
 
-La Dirección Tránsito instrumentará acciones específicas en materia de educación vial, para fomentar una cultura ecológica y de preservación del ambiente respecto del uso moderado y racional del vehículo de motor de combustión interna.
+La Dirección Operativa de Policía Vial instrumentará acciones específicas en materia de educación vial, para fomentar una cultura ecológica y de preservación del ambiente respecto del uso moderado y racional del vehículo de motor de combustión interna.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 215.
 
-La Dirección Tránsito promoverá acciones que permitan incentivar el uso de vehículos alternativos de transporte, tales como bicicleta y motocicleta o cualquier vehículo eléctrico o híbrido, a fin de disminuir la carga vehicular en la zona urbana, y con ello el impacto por ruidos y humos contaminantes que genera la movilidad urbana en el Municipio.
+La Dirección Operativa de Policía Vial promoverá acciones que permitan incentivar el uso de vehículos alternativos de transporte, tales como bicicleta y motocicleta o cualquier vehículo eléctrico o híbrido, a fin de disminuir la carga vehicular en la zona urbana, y con ello el impacto por ruidos y humos contaminantes que genera la movilidad urbana en el Municipio.
 
 ###### ARTÍCULO 216.
 
@@ -2655,17 +2851,21 @@ Los propietarios o poseedores de vehículos deberán mantenerlos en condiciones 
 
 Los propietarios de vehículos no deberán utilizarlos como depósito de basura o deshechos que generen contaminación, riesgo o afectación a los habitantes del Municipio.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 223.
 
-La Dirección Tránsito instrumentará campañas informativas y reactivas que motiven a los propietarios o poseedores de vehículos o autopartes, para evitar su abandono en la vía pública de manera que no se propicie la contaminación visual y del paisaje urbano.
+La Dirección Operativa de Policía Vial instrumentará campañas informativas y reactivas que motiven a los propietarios o poseedores de vehículos o autopartes, para evitar su abandono en la vía pública de manera que no se propicie la contaminación visual y del paisaje urbano.
 
 ###### ARTÍCULO 224.
 
 Los propietarios o poseedores de vehículos serán responsables de mantener cerradas sus unidades para evitar que sirvan de depósito de sustancias u objetos contaminantes o sean utilizados personas que representen riesgo para la seguridad pública.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 225.
 
-La Dirección Tránsito promoverá campañas informativas y de concientización para que los conductores conozcan los puntos claves de seguridad que deben ser sujetos de revisión en un automóvil, y fomentar una cultura de revisión mecánico-preventiva y de mantenimiento en los vehículos para transporte seguro de los usuarios y preservación del ambiente.
+La Dirección Operativa de Policía Vial promoverá campañas informativas y de concientización para que los conductores conozcan los puntos claves de seguridad que deben ser sujetos de revisión en un automóvil, y fomentar una cultura de revisión mecánico-preventiva y de mantenimiento en los vehículos para transporte seguro de los usuarios y preservación del ambiente.
 
 ### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS OBLIGACIONES DE LOS AGENTES
 
@@ -2799,6 +2999,8 @@ Los conductores de los vehículos implicados en accidentes tendrán la obligaci�
 
 ### CAPÍTULO VIGÉSIMO SEGUNDO. DE LOS PERITOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 233.
 
 Es obligación de los agentes permanecer en el crucero al cual fueron asignados para controlar el tránsito vehicular y tomar las medidas de protección peatonal conducentes. Durante sus labores de crucero, los agentes deberán colocarse en lugares claramente visibles para que, con su presencia, prevengan la comisión de infracciones.
@@ -2873,17 +3075,23 @@ f. Los nombres y orientación de las calles; y
 
 g. Una vez terminados el acta y el croquis deberán de ser supervisados por sus superiores y remitidos o consignados según corresponda.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 ### CAPÍTULO VIGÉSIMO TERCERO. DE LOS RECURSOS
 
 ###### ARTÍCULO 237.
 
-Serán peritos en materia de hechos de tránsito terrestre quienes a juicio de la Dirección Tránsito y previo examen del área, demuestren aptitudes y conocimientos en la materia, clasificándose de la siguiente manera:
+Serán peritos en materia de hechos de tránsito terrestre quienes, a juicio de la Dirección Operativa de Policía Vial y previo examen del área, demuestren aptitudes y conocimientos en la materia, clasificándose de la siguiente manera:
 
 I. De hechos de tránsito; quienes tengan conocimiento en materia de vialidad, criminalística, principios básicos de física y matemáticas, secuela de impactos, valuación de daños, manejo e identificación de todo tipo de vehículos y primeros auxilios; y
 
-II. De inspección vehicular; quienes tengan conocimientos en materia de identificación vehicular, de los vehículos sujetos a revisión vial o que se encuentren a disposición de la Dirección Tránsito, con base en la información documental y de registro de números de identificación confidencial de la unidad.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
 
-Para aspirar al puesto de perito en cualquiera de las áreas anteriores, se requiere contar con certificado de educación media superior, 3 años de antigüedad en la corporación y aprobar a satisfacción de la Dirección Tránsito los exámenes respectivos.
+II. De inspección vehicular; quienes tengan conocimientos en materia de identificación vehicular, de los vehículos sujetos a revisión vial o que se encuentren a disposición de la Dirección Operativa de Policía Vial, con base en la información documental y de registro de números de identificación confidencial de la unidad.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Para aspirar al puesto de perito en cualquiera de las áreas anteriores, se requiere contar con certificado de educación media superior, 3 años de antigüedad en la corporación y aprobar a satisfacción de la Dirección Operativa de Policía Vial los exámenes respectivos.
 
 ###### ARTÍCULO 238.
 
@@ -2925,9 +3133,11 @@ VI. Trasladará a las instalaciones de la corporación a los participantes del h
 
 VII. Tomará conocimiento de hechos suscitados con motivo de las irregularidades o alteraciones del equipamiento o infraestructura urbana municipal, en el que se vea afectado el patrimonio vehicular de los particulares, levantando las actuaciones correspondientes para el caso de reclamaciones de responsabilidad patrimonial.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 239.
 
-Cuando un agente de tránsito y vialidad traslade a un conductor que dio positivo en el alcoholímetro mayor al primer grado de ebriedad, deberá ser valorado por el médico para que determine clínicamente su estado de ebriedad. De confirmarse el grado de ebriedad, se proceda a turnarlo a la autoridad competente.
+Cuando un agente de policía vial traslade a un conductor que dio positivo en el alcoholímetro mayor al primer grado de ebriedad, deberá ser valorado por el médico para que determine clínicamente su estado de ebriedad. De confirmarse el grado de ebriedad, se proceda a turnarlo a la autoridad competente.
 
 ###### ARTÍCULO 240.
 
@@ -2956,6 +3166,8 @@ Si las partes que intervinieron en un hecho de tránsito llegaren a un acuerdo p
 ###### ARTÍCULO 243.
 
 La firma del convenio referido en el artículo anterior, no libera a los conductores del pago de las infracciones cometidas al presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LOS DAÑOS MATERIALES
 
@@ -2993,13 +3205,17 @@ DE LAS INFRACCIONES
 
 Los agentes de policía únicamente podrán detener la marcha de un vehículo cuando su conductor haya violado de manera flagrante alguna de las disposiciones de este Reglamento o por la sola revisión de documentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 246.
 
-Cuando los elementos operativos de tránsito y vialidad, observen o se percaten de manera evidente o documentada que no dé a lugar a duda de la comisión de una infracción; respecto a los conductores que cometan alguna falta a las disposiciones de este Reglamento; o por la sola revisión de documentos, deberán proceder en la forma siguiente:
+Cuando los elementos operativos de policía vial, observen o se percaten de manera evidente o documentada que no dé a (sic) lugar a duda de la comisión de una infracción; respecto a los conductores que cometan alguna falta a las disposiciones de este Reglamento; o por la sola revisión de documentos, deberán proceder en la forma siguiente:
 
 I. Indicar al infractor en forma notoria, que debe detener la marcha del vehículo y estacionarse en algún lugar donde no se obstaculice el tráfico ni ponga en riesgo la seguridad de terceros;
 
-II. Dirigirse respetuosamente al conductor, con los ojos descubiertos e identificarse con credencial que lo acredite como elemento operativo de tránsito y vialidad;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+II. Dirigirse respetuosamente al conductor, con los ojos descubiertos e identificarse con credencial que lo acredite como elemento operativo de policía vial;
 
 III. Señalar al conductor la infracción que ha cometido, informándole de los supuestos normativos y de la señalización regulatoria del tránsito inherente al caso;
 
@@ -3013,7 +3229,9 @@ VII. Cuando el conductor no cuente con licencia o permiso para conducir o el veh
 
 VIII. En caso de que el conductor cuente con licencia o permiso para conducir y no se encuentre vigente, o las placas para circular no estén vigentes; se elaborará infracción; y
 
-IX. Los elementos operativos de tránsito y vialidad podrán solicitar el auxilio de la fuerza pública para el aseguramiento o detención de conductores, pasajeros o terceras personas que interfieran u obstaculicen el cumplimiento de sus funciones, incurran en una agresión contra éstos o se ubiquen en supuestos de comisión de delitos.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+IX. Los elementos operativos de policía vial podrán solicitar el auxilio de la fuerza pública para el aseguramiento o detención de conductores, pasajeros o terceras personas que interfieran u obstaculicen el cumplimiento de sus funciones, incurran en una agresión contra éstos o se ubiquen en supuestos de comisión de delitos.
 
 ###### ARTÍCULO 247.
 
@@ -3045,9 +3263,11 @@ IX. Firmará la boleta de infracción; y
 
 X. Le informará al infractor que se le entrega la boleta de infracción, para lo cual deberá asentar si la recibe o no; si éste se niega a recibirla, se hará constar en el apartado de observaciones para que se encuadre en el proceso administrativo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 248.
 
-Si el responsable de la infracción no se encuentra presente, el agente de tránsito y vialidad formulará una boleta de infracción de conductor ausente en la cual deberá asentarse lo siguiente:
+Si el responsable de la infracción no se encuentra presente, el agente de policía vial formulará una boleta de infracción de conductor ausente en la cual deberá asentarse lo siguiente:
 
 I. Hará constar la infracción en boletas o formas impresas por triplicado, foliadas;
 
@@ -3065,7 +3285,11 @@ VII. Asentará además los códigos correspondientes a la infracción; y
 
 VIII. Asentará las observaciones que considere necesarias señalar y firmará la boleta de infracción.
 
-Con posterioridad al levantamiento de la boleta de infracción se identificará al propietario del vehículo, valiéndose de los datos de los registros de la Secretaría de Movilidad. Una vez conocido quien es el propietario del vehículo se le notificará en el domicilio registrado ante las autoridades competentes, entregándole el original de la boleta, para que en un plazo no mayor a 5 días naturales manifieste lo que a su derecho convenga ante la Dirección Tránsito. La notificación se hará en los términos previstos en la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Con posterioridad al levantamiento de la boleta de infracción se identificará al propietario del vehículo, valiéndose de los datos de los registros de la Secretaría de Movilidad. Una vez conocido quien es el propietario del vehículo se le notificará en el domicilio registrado ante las autoridades competentes, entregándole el original de la boleta, para que en un plazo no mayor a 5 días naturales manifieste lo que a su derecho convenga ante la Dirección Operativa de Policía Vial. La notificación se hará en los términos previstos en la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LA DETENCIÓN DE LOS VEHÍCULOS
 
@@ -3073,7 +3297,9 @@ DE LA DETENCIÓN DE LOS VEHÍCULOS
 
 Los agentes deberán impedir la circulación y en su caso detener al vehículo, y ponerlo a disposición del Juez Calificador de la jurisdicción correspondiente en los casos siguientes:
 
-I. Cuando algún agente de tránsito y vialidad perciba a través de los sentidos que un conductor se encuentre bajo el influjo del alcohol o alguna sustancia que afecte su capacidad de conducir, por lo que le indicará que exhale sobre la boquilla del alcoholímetro, para que esta herramienta electrónica vial, determine cuál es el nivel de alcohol en su aliento y tenga una referencia de orientación el agente sobre la intoxicación etílica, con los siguientes valores de referencia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2018)</small>
+
+I. Cuando algún agente de policía vial perciba a través de los sentidos que un conductor se encuentre bajo el influjo del alcohol o alguna sustancia que afecte su capacidad de conducir, por lo que le indicará que exhale sobre la boquilla del alcoholímetro, para que esta herramienta electrónica vial, determine cuál es el nivel de alcohol en su aliento y tenga una referencia de orientación el agente sobre la intoxicación etílica, con los siguientes valores de referencia:
 
 a. Cuando el valor de referencia sea de 0.50 mg. al 0.79mg., se considera aliento alcohólico;
 
@@ -3093,7 +3319,9 @@ Todo conductor está obligado a realizar las acciones que se le indiquen por par
 
 II. Se considere que una persona se encuentra bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias tóxicas, cuando así se determine legalmente. Determinando este estado por el médico legista, el Juez calificador o a la autoridad que en forma análoga realice esas funciones, impondrá las sanciones que procedan, sin perjuicio de las que competen aplicar a otras autoridades;
 
-III. Cuando el agente de tránsito y vialidad detecte conductores que son menores de edad y no cuenten con el permiso que los faculte para la conducción de vehículos, se retendrá la unidad para seguridad del conductor y de los demás usuarios de las vías públicas, siendo responsable el propietario del vehículo en cuanto a la falta cometida, quedando el menor bajo la custodia de dicho agente para ser entregado a quienes ejerzan la patria potestad;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+III. Cuando el agente de policía vial detecte conductores que son menores de edad y no cuenten con el permiso que los faculte para la conducción de vehículos, se retendrá la unidad para seguridad del conductor y de los demás usuarios de las vías públicas, siendo responsable el propietario del vehículo en cuanto a la falta cometida, quedando el menor bajo la custodia de dicho agente para ser entregado a quienes ejerzan la patria potestad;
 
 IV. Cuando el vehículo carezca de placas;
 
@@ -3109,19 +3337,25 @@ IX. Cuando se causen daños a terceros, y en el lugar de los hechos, no se garan
 
 X. Cuando el vehículo este indebidamente estacionado, en términos de lo señalado en los artículos destinados a prohibiciones de estacionamiento;
 
-XI. Queda prohibida la utilización de las vías públicas como depósito de vehículos o cualquiera de sus partes, entendiéndose este hecho como abandono de vehículo, a partir de las 24 horas en que se halla ubicado en el lugar del reporte, por lo que se requerirá al propietario o poseedor el retiro del vehículo o partes del mismo, a través de una notificación que se fijará al vehículo abandonado, en caso de no ubicar al propietario dentro del área habitacional inmediata para que lo retire voluntariamente en un término de 72 horas y en el supuesto de no hacerlo, lo retirará a su costa el personal operativo de tránsito y vialidad, utilizando el servicio de grúa para su traslado al depósito en el corralón vehicular, independientemente de imponerle la sanción que corresponda.;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2018)</small>
+
+XI. Queda prohibida la utilización de las vías públicas como depósito de vehículos o cualquiera de sus partes, entendiéndose este hecho como abandono de vehículo, a partir de las 24 horas en que se halla ubicado en el lugar del reporte, por lo que se requerirá al propietario o poseedor el retiro del vehículo o partes del mismo, a través de una notificación que se fijará al vehículo abandonado, en caso de no ubicar al propietario dentro del área habitacional inmediata para que lo retire voluntariamente en un término de 72 horas y en el supuesto de no hacerlo, lo retirará a su costa el personal operativo de policía vial, utilizando el servicio de grúa para su traslado al depósito en el corralón vehicular, independientemente de imponerle la sanción que corresponda;
 
 XII. Cuando el conductor agreda físicamente al personal de la Dirección, en el ejercicio de sus funciones; y
 
 XIII. Por orden judicial (mediante oficio).
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 250.
 
-Los agentes de tránsito y vialidad podrán hacer uso de cámaras fotográficas o de video, para documentar las faltas que cometen los usuarios e integrar una base de datos que sirva para esclarecer o aclarar con los infractores la falta constituida y, en el caso de ser combatida la infracción en un procedimiento administrativo, como prueba en el mismo.
+Los agentes de policía vial podrán hacer uso de cámaras fotográficas o de video, para documentar las faltas que cometen los usuarios e integrar una base de datos que sirva para esclarecer o aclarar con los infractores la falta constituida y, en el caso de ser combatida la infracción en un procedimiento administrativo, como prueba en el mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 251.
 
-La Dirección Tránsito asegurará vehículos por cualquiera de las causas siguientes:
+La Dirección Operativa de Policía Vial asegurará vehículos por cualquiera de las causas siguientes:
 
 I. Estacionarse en lugar prohibido obstaculizando la entrada de una cochera o en áreas de estacionamiento para carga y descarga, ascenso y descenso o para personas con discapacidad, así como para ambulancias, bomberos, autoridades policiales, de protección civil y vehículos de emergencia y frente a rampas para el acceso de personas con discapacidad; si el conductor no se encuentra presente, o estándolo se niegue a retirarlo.
 
@@ -3153,9 +3387,11 @@ XIV. Cuando a petición del propietario, éste lo hubiera dejado en algún talle
 
 XV. Cuando el conductor realice maniobras de peligro que pongan en riesgo la vida o bienes de éste, sus pasajeros o de terceros.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
 ###### ARTÍCULO 252.
 
-En el centro de monitoreo, los operadores de las cámaras fotográficas y de video tendrán la función de analizar la información gráfica recibida, una vez que se aprecie la comisión de infracción a una norma vial de este reglamento, informarán al agente de tránsito y vialidad encargado del sector o lugar de la infracción, para que ubique al conductor del vehículo y proceda a realizar las acciones correctivas o formular la boleta de infracción, en los términos ordenados en el artículo 246, de no localizar al conductor deberá proceder de conformidad con el artículo 248
+En el centro de monitoreo, los operadores de las cámaras fotográficas y de video tendrán la función de analizar la información gráfica recibida, una vez que se aprecie la comisión de infracción a una norma vial de este reglamento, informarán al agente de policía vial encargado del sector o lugar de la infracción, para que ubique al conductor del vehículo y proceda a realizar las acciones correctivas o formular la boleta de infracción, en los términos ordenados en el artículo 246, de no localizar al conductor deberá proceder de conformidad con el artículo 248.
 
 MENORES
 
@@ -3171,11 +3407,15 @@ III. Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civ
 
 Cuando el menor reincida en la conducta sancionada por el presente artículo, el Juez calificador, sin perjuicio de lo señalado en éste, deberá poner al menor a disposición del Consejo Tutelar para Menores Infractores.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DEL PROCEDIMIENTO DE REMISIÓN DE VEHÍCULOS AL DEPÓSITO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 254.
 
-Cuando los agentes de Tránsito y Vialidad, en cumplimiento a lo dispuesto en el presente reglamento, deban remitir al depósito vehicular un vehículo, procederán de la siguiente forma:
+Cuando los agentes de Policía Vial, en cumplimiento a lo dispuesto en el presente reglamento, deban remitir al depósito vehicular un vehículo, procederán de la siguiente forma:
 
 I. Cuando el vehículo no se encuentre en condiciones para autodesplazarse; o encuadre en la hipótesis del artículo 249 fracción VII:
 
@@ -3199,11 +3439,15 @@ c. En el caso de la fracción I del artículo 251, solo cuando la conducta despl
 
 V. Los gastos de acarreo y pensión serán por cuenta del conductor o propietario del vehículo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
+
 DE LA ENTREGA DE VEHÍCULOS INFRACTORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 255.
 
-Para solicitar la devolución de un vehículo asegurado por cualquiera de los supuestos del artículo anterior o por hecho de tránsito terrestre, necesariamente deberán acudir a recibirlo los propietarios, representantes legales o apoderados, quienes deberán presentar el oficio de liberación de su vehículo, en caso de encontrarse a disposición de autoridad distinta a la de tránsito y vialidad o deberán acreditar la propiedad, según el caso, y presentar el recibo de pago de la infracción.
+Para solicitar la devolución de un vehículo asegurado por cualquiera de los supuestos del artículo anterior o por hecho de tránsito terrestre, necesariamente deberán acudir a recibirlo los propietarios, representantes legales o apoderados, quienes deberán presentar el oficio de liberación de su vehículo, en caso de encontrarse a disposición de autoridad distinta a la de policía vial o deberán acreditar la propiedad, según el caso, y presentar el recibo de pago de la infracción.
 
 Los representantes legales deberán además exhibir el poder notarial que los acredite como tales, así como el acta constitutiva de la empresa, tratándose de personas morales. Las personas físicas, en caso de impedimento, podrán autorizar a un tercero para recoger el vehículo mediante poder simple ante dos testigos acompañados de credenciales de elector de los testigos, del otorgante y de quien acepta el poder.
 
@@ -3240,6 +3484,8 @@ III. En caso de reincidencia se le suspenderá al conductor hasta por un mes, in
 Para que el propietario pueda recoger un vehículo retirado de la vía pública, deberá pagar los derechos de traslado, mismos que no deberán de exceder de cinco UMAS, así como los previstos por estacionamiento, además de la multa por la infracción correspondiente, o las que resulten en su caso.
 
 En los supuestos previstos en los párrafos anteriores, se entiende que dichas multas y derechos deberán pagarse en los lugares establecidos por la Tesorería Municipal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ENERO DE 2018)</small>
 
 DE LAS SANCIONES
 
@@ -3289,7 +3535,9 @@ Si el infractor fuese jornalero, obrero o trabajador, la multa no será mayor al
 
 Las sanciones económicas serán cubiertas en la Tesorería Municipal y en los lugares que ésta designe. En el caso de los primo infractores, si el pago se hace dentro de los quince días naturales siguientes de cometida la infracción, se pagará el monto mínimo establecido en el tabulador de sanciones; si lo hace después del plazo anterior y antes de ser requerido por la dependencia mencionada en supra líneas, pagará el máximo correspondiente a la infracción cometida.
 
-En cuanto a la sanción opcional que se precisa en este Reglamento, su cumplimiento se ejecutará en el lugar que designe la Dirección Tránsito, mediante la realización de pláticas informativas, de intercambio de experiencias, sesiones terapéuticas, en labores de apoyo operativo y programas de prevención de accidentes.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+En cuanto a la sanción opcional que se precisa en este Reglamento, su cumplimiento se ejecutará en el lugar que designe la Dirección Operativa de Policía Vial, mediante la realización de pláticas informativas, de intercambio de experiencias, sesiones terapéuticas, en labores de apoyo operativo y programas de prevención de accidentes.
 
 En el caso de infractores con domicilio ubicado en otros municipios de la Entidad, el Presidente Municipal suscribirá con sus homólogos los acuerdos de coordinación para que las multas por las infracciones que aquellos cometan en el municipio de Manzanillo, puedan ser cobradas por la autoridad municipal competente del lugar de residencia.
 
@@ -3297,7 +3545,9 @@ En el caso de infractores con domicilio ubicado en otros municipios de la Entida
 
 La detención del conductor en el Centro Preventivo Municipal procederá cuando conduzca en estado de ebriedad, bajo el influjo de sustancias que alteren su estado anímico y psicomotriz que disminuyan su capacidad para conducir un vehículo o cuando no se encuentre apto para ello, y en el caso que realice maniobras de peligro con el vehículo, que pongan en riesgo la seguridad y la vida de las personas y sus bienes.
 
-Dará motivo a la detención del conductor y sus pasajeros o de terceras personas, cuando se opongan al cumplimiento de las funciones de los agentes de tránsito y vialidad y de los peritos, o que profieran insultos, amenazas o agresiones contra el personal de la corporación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Dará motivo a la detención del conductor y sus pasajeros o de terceras personas, cuando se opongan al cumplimiento de las funciones de los agentes de policía vial y de los peritos, o que profieran insultos, amenazas o agresiones contra el personal de la corporación.
 
 ###### ARTÍCULO 268.
 
@@ -3307,7 +3557,9 @@ Las infracciones en materia de tránsito y vialidad por violaciones a este Regla
 
 Los propietarios de los vehículos del transporte público serán solidariamente responsables con los conductores por las sanciones económicas que se impongan por infracciones o violaciones a las disposiciones del presente Reglamento.
 
-Únicamente para los efectos de este ordenamiento se entenderá como propietario la persona que aparezca como tal en los registros de las autoridades del transporte o de tránsito y vialidad, tanto federal como estatal; en el caso de que cuenten con permiso para circular, se considerará solidario a la persona a cuyo nombre esté dicho permiso.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2018)</small>
+
+Únicamente para los efectos de este ordenamiento se entenderá como propietario la persona que aparezca como tal en los registros de las autoridades del transporte o de policía vial, tanto federal como estatal; en el caso de que cuenten con permiso para circular, se considerará solidario a la persona a cuyo nombre esté dicho permiso.
 
 ###### ARTÍCULO 270.
 
@@ -3353,6 +3605,8 @@ TABULADOR DE SANCIONES DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MU
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 30 DE SEPTIEMBRE DE 2017, PAGINAS DE LA 74 A LA 79.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR, P.O. 27 DE ENERO DE 2018, PÁGINA 18.]</small>
+
 Expuesto lo anterior, con fundamento en el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos, 87 Fracción II y 89 Fracción II de la Particular del Estado Libre y Soberano de Colima, de los Artículos 1, 2, 25, 37, 42, 45 Fracción I, Inciso a) y 116 de la Ley del Municipio Libre del Estado de Colima; de los Artículos 1, 2, 4, 89 Párrafos Primero, Segundo y Cuarto, 92, 96 Fracción I; 97 Fracciones I y IV, 98 Fracción I, 99 Fracción IV, y 100 Fracciones I y II Incisos b), c) y d) del Reglamento que Rige el Funcionamiento del Cabildo de Manzanillo, Colima; las Comisiones de Gobernación y Reglamentos, y de Seguridad Pública y Transportes, tienen a bien emitir el siguiente:
 
 D I C T A M E N
@@ -3384,3 +3638,11 @@ SECRETARIA DEL H. AYUNTAMIENTO
 LICDA. LIZBETH ADRIANA NAVA LEAL.
 
 Rúbrica.
+
+P.O. 27 DE ENERO DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "PROYECTO DE REFORMA RELATIVA A LA SUSTITUCIÓN EN LA REGLAMENTACIÓN MUNICIPAL DEL NOMBRE DE POLICÍA DE TRÁNSITO Y VIALIDAD POR LA DENOMINACIÓN DE POLICÍA VIAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- La dirección encargada de la Vialidad en el Municipio de Manzanillo se denominará DIRECCIÓN DE POLICÍA VIAL, cuya dependencia estará a cargo del DIRECTOR OPERATIVO DE POLICÍA VIAL; a su vez, la Dirección General se le denominará DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y POLICÍA VIAL del Municipio de Manzanillo, Colima, a cuyo titular se le denominará DIRECTOR GENERAL DE SEGURIDAD PÚBLICA Y POLICÍA VIAL, como ha quedado planteado en los términos del CONSIDERANDO VIGÉSIMO QUINTO.
+
+SEGUNDO.- Siendo Aprobado el mismo, se proceda a su publicación para su entrada en vigor.
