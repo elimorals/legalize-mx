@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2017-12-20"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ state: "MEX"
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 29 DE ENERO DE 2018.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -12363,11 +12365,11 @@ La distribución entre los municipios de los recursos correspondientes al numera
 
 > <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN SÉPTIMA DE LA G.G. DE 20 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 35 A LA 36.]</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017) (F. DE E., G.G. 29 DE ENERO DE 2018)
 
 ###### Artículo 221.
 
-A las participaciones e incentivos federales derivados de los convenios a que se refieren los incisos A), B), D), F) y G) de la fracción I del artículo 219 de este Código, así como a los ingresos ministrados por el Gobierno Estatal a que se refieren los incisos A), B), C) y D) de la fracción II del mismo artículo, se le denominará la Recaudación Estatal Participable.
+A las participaciones e incentivos federales derivados de los convenios a que se refieren los incisos A), B), D), E), F) y G) de la fracción I del artículo 219 de este Código, así como a los ingresos ministrados por el Gobierno Estatal a que se refieren los incisos A), B), C) y D) de la fracción II del mismo artículo, se le denominará la Recaudación Estatal Participable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
