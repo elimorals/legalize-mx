@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2017-11-17"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1433,7 +1433,7 @@ Cuando las lesiones se cometan en alguna de las formas señaladas en el artícul
 
 ###### ARTICULO 141.
 
-Al que cometa homicidio por encontrarse en un estado transitorio de grave conmoción emocional, que las circunstancias hagan explicable, motivado por una agresión a sus sentimientos afectivos, se le impondrá prisión de dos a ocho años. Si lo causado fueren lesiones, la pena será hasta de una tercera parte de la que correspondería por el tipo de lesiones causadas.
+(DEROGADO, P.O. 29 DE ENERO DE 2018)
 
 ###### ARTICULO 142.
 
@@ -1565,8 +1565,6 @@ Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obli
 
 ### CAPITULO III. RAPTO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
-
 ###### ARTICULO 161.
 
 Al que habiendo atropellado a una persona, no le preste auxilio o solicite la asistencia que requiera pudiendo hacerlo, se le aplicará prisión de tres meses a un año o de treinta a noventa días multa.
@@ -1607,9 +1605,25 @@ III.- Cuando el sujeto activo sea cónyuge, concubinario o concubina, exista o h
 
 IV.- Que la privación se prolongue por más de tres días.
 
+(NOTA: EL 3 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE OCTUBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2018)</small>
+
+ARTICULO 164 BIS.- Al particular que ilegítimamente prive a otro de su libertad personal, con el propósito de realizar un acto sexual o para satisfacer un acto erótico, se le impondrá de dos a ocho años de prisión, y de cien a trescientos días multa.
+
+La pena prevista en el párrafo anterior, se aumentará hasta en una mitad más, cuando en la privación de la libertad ocurriere algunas de las circunstancias, previstas en al artículo anterior
+
+Este delito se perseguirá por querella de la parte ofendida.
+
 ###### ARTICULO 165.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de los tres días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
+
+(NOTA: EL 3 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE OCTUBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2018)</small>
+
+LO ANTERIOR NO SERÁ APLICABLE CUANDO LA PRIVACIÓN DE LA LIBERTAD PERSONAL SE REALICE EN LOS TÉRMINOS DEL ARTÍCULO 164 BIS.
 
 ###### ARTICULO 166.
 
@@ -1747,27 +1761,25 @@ ARTICULO 168 Bis F.- La autoridad judicial podrá ordenar que las personas que h
 
 La misma medida podrá imponerse de manera cautelar tratándose de inculpados en libertad con las reservas de ley e indiciados durante el tiempo que dure la averiguación previa o el proceso.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2018)</small>
+
 ### CAPITULO II. ASALTO
 
 ###### ARTICULO 169.
 
-Al que sustraiga o retenga a una persona para realizar algún acto sexual o satisfacer un acto erótico, se le impondrá prisión de uno a seis años, si fuere por medio de engaño y de seis a diez años si se realiza mediando violencia.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+(DEROGADO, P.O. 29 DE ENERO DE 2018)
 
 ###### ARTICULO 170.
 
-Al que sustraiga con los mismos fines e iguales circunstancias a que se refiere el artículo precedente, o retenga a una persona menor de catorce años de edad, o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le aumentará hasta en una mitad las penas previstas en dicho artículo.
+(DEROGADO, P.O. 29 DE ENERO DE 2018)
 
 ###### ARTICULO 171.
 
 (DEROGADO, P.O. 25 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
-
 ###### ARTICULO 172.
 
-El delito de rapto se perseguirá por querella, salvo que el mismo sea cometido con violencia, en este caso se perseguirá de oficio.
+(DEROGADO, P.O. 29 DE ENERO DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2013)</small>
 
@@ -4560,3 +4572,19 @@ P.O. 17 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA EL ARTÍCULO 164 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 165 Y SE DEROGA EL CAPÍTULO III DENOMINADO “RAPTO” DEL TÍTULO CUARTO, DE LA SECCION PRIMERA, DEL LIBRO SEGUNDO, CON LOS ARTÍCULOS 169, 170 Y 172, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. A las personas que estén siendo procesadas o que se les haya dictado sentencia por la comisión del delito de rapto derogado mediante el presente Decreto, les serán aplicables las disposiciones vigentes al momento de la comisión de dicho delito.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355 DEL H. CONGRESO DEL ESTADO.- QUE DEROGA EL ARTÍCULO 141 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
