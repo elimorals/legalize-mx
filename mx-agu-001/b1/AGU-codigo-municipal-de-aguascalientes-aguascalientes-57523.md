@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-01-08"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -7973,6 +7973,10 @@ Podrá considerarse como trabajo comunitario, la asistencia a psicoterapias reed
 
 El modelo de intervención se articulará en coordinación con el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que se proporcione con el enfoque de género y los estándares debidos para la atención de agresores.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2018)</small>
+
+De igual manera, se podrá considerar como trabajo comunitario, la asistencia a los cursos de concientización en materia de acoso callejero, descritos en la fracción VII del artículo 179 de la Ley Municipal para el Estado de Aguascalientes y la fracción XV del artículo 39 del Reglamento del Instituto Municipal de la Mujer de Aguascalientes.
+
 ###### ARTÍCULO 325.
 
 El Juez Municipal, a efecto de aplicar las sanciones administrativas que señala este Código, deberá de verificar si existe adecuación de la conducta del infractor con la falta descrita.
@@ -8243,9 +8247,13 @@ X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas ne
 
 XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
 
-XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito.
+XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito. Asimismo, se considerarán dentro de esta fracción, las demás conductas descritas por la fracción VII del artículo 8º de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+Para el caso de que la falta administrativa implique un acto de los incluidos en la presente fracción, la persona infractora deberá acreditar su asistencia a los cursos de concientización en la materia, mismos que deberá impartir el Instituto Municipal de la Mujer de Aguascalientes y se podrán considerar como trabajo comunitario según lo establecido por el último párrafo del artículo 324 del presente Código.
+
+En caso de que la persona infractora no realice el trabajo comunitario referido, la autoridad municipal competente emitirá en su contra una orden de presentación y le aplicará el arresto o multa que establece el primer párrafo del presente artículo. Si realizó parcialmente el servicio comunitario, únicamente se le podrá aplicar el arresto o multa de forma proporcional a la parte que dejó de cumplir.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -8636,6 +8644,10 @@ VII. Estar al mando de los oficiales custodios que se encuentren de turno en los
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
 
 VIII. Juzgar con perspectiva de género, considerando las desigualdades entre mujeres y hombres, en la comisión de las faltas administrativas que así lo requieran, resultando aplicable en los casos de presión, intimidación contra mujeres que hayan formulado quejas por actos de violencia de género.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2018)</small>
+
+IX. Solicitar los informes de la instancia municipal de la mujer, respecto a los cursos de concientización referidos en el último párrafo del artículo 324 del presente Código.
 
 ###### ARTÍCULO 368.
 
@@ -27476,6 +27488,14 @@ P.O. 8 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS A LOS ARTÍCULOS 114, 342, 342 BIS, 342 TER., 342 QUINQUIES Y 342 SEXIES; 343, 1089 Y 1298 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES A LOS ARTÍCULOS 12, 342, 324 Y 367 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, Y DEL ARTÍCULO 39 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES. (ACOSO CALLEJERO)".]
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas Publicas deberá prever las adecuaciones necesarias al Presupuesto de Egresos actual, así como a los subsecuentes, a fin de que el Instituto Municipal de la Mujer de Aguascalientes esté en posibilidades de impartir por sí mismo, o a través de los servicios de alguna organización de la sociedad civil especializada, los cursos de concientización en materia de acoso callejero dirigidos a infractores.
 
 ###### ARTICULO UNICO.
 
