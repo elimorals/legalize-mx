@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2018-01-25"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ENERO DE 2018.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -467,13 +467,13 @@ VI.- Según corresponda y de manera accesoria a los conceptos anteriores: el pag
 
 Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen por si mismo o por conducto de un abogado con título registrado en el Supremo Tribunal de Justicia del Estado, la reparación del daño. Asimismo el Ministerio Publico podrá de oficio gestionar la reparación del daño de la víctima u ofendido.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
-En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia Familiar para el Estado de Sonora.
+En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, rapto, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1111,15 +1111,17 @@ III. Que se otorgue por la víctima u ofendido o por la persona que reconozca aq
 
 Cuando sean varias las víctimas u ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
-(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)El perdón sólo beneficia al imputado en cuyo favor se otorga, a menos que la víctima u ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+El perdón sólo beneficia al imputado en cuyo favor se otorga, a menos que la víctima u ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 El perdón de la víctima u ofendido, también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se satisfagan los requisitos antes señalados, con excepción de lo establecido en la fracción II de este artículo.
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
-El perdón de la víctima u ofendido, en el caso del delito de violencia intrafamiliar, procederá en los términos y condiciones que señalan en el Capítulo IV del Título Decimotercero de este Código.
+El perdón de la víctima u ofendido, en el caso del delito de violencia familiar, procederá en los términos y condiciones que se señalan en el Capítulo IV del Título Decimotercero de este Código.
 
 ### CAPITULO V. INDULTO
 
@@ -2107,7 +2109,7 @@ XI.- Cuando teniendo conocimiento que una persona, sin los requisitos legales, f
 
 XII.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles, o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestara el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
 
-XIII.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio publico, siempre que lo haga con conocimiento de tal situación; y
+XIII.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y
 
 XIV.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe un empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
@@ -2959,9 +2961,9 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA FAMILIA
 
-### CAPITULO IV. Violencia Intrafamiliar
+### CAPITULO IV. Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 227.
 
@@ -3025,7 +3027,7 @@ El abandono o violación de las obligaciones de asistencia familiar a que se ref
 
 Para que el perdón concedido por la víctima u ofendido, o representante de los menores, pueda producir sus efectos, se requerirá que el responsable pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y otorgue fianza suficiente a juicio del juzgador, para garantizar que en lo sucesivo cumplirá con sus obligaciones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE ENERO DE 2018)</small>
 
 ### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
 
@@ -3033,59 +3035,45 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 ###### ARTICULO 234-A.
 
-Por violencia intrafamiliar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual o patrimonialmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico, sexual o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar.
+Por violencia familiar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica y/o patrimonialmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico, sexual, económico y/o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia familiar.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+Comete el delito de violencia familiar el cónyuge, excónyuge concubina o concubino; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
 
-Comete el delito de violencia intrafamiliar el cónyuge, excónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
+Al que cometa el delito de violencia familiar se le impondrán de seis meses a seis años de prisión, y pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él, con excepción de los casos de violencia familiar por motivos económicos.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
-
-Al que cometa el delito de violencia intrafamiliar se le impondrán de seis meses a seis años de prisión y la suspensión del derecho de alimentos.
-
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
-
-Asimismo, cuando la víctima se trate de un menor, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez. Si el delito se cometiera en contra de la víctima, por su condición de género, o en contra de un adulto mayor, se aumentará la pena que corresponda hasta en una tercera parte.
-
-> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
+Asimismo, cuando la víctima se trate de un menor, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez. Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 En todo caso, el victimario deberá sujetarse a un tratamiento psicológico especializado como una medida para buscar su rehabilitación.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
-
 Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judicial.
 
-> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
-
-Este delito se perseguirá por querella de la parte ofendida, excepto en los supuestos siguientes: que la víctima sea menor de edad o incapaz o mayor de 65 años; que la víctima presente lesiones; se presente agresión sexual; o cuando para causar daño psicológico, el agresor amenace a la víctima utilizando cualquier tipo de arma, ya sea blanca o de fuego.
-
-> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
+Este delito se perseguirá por querella de la parte ofendida, excepto en los supuestos siguientes: que la víctima sea menor de edad o incapaz o mayor de 65 años; que la víctima presente lesiones físicas; se presente agresión sexual; o cuando para causar daño psicológico, el agresor amenace a la víctima utilizando cualquier tipo de arma, ya sea blanca o de fuego, medios digitales, aparatos o artefactos de tecnología celular.
 
 En las excepciones señaladas en el párrafo anterior, la acción penal se extinguirá, por única vez, cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en la prosecución de la causa. La manifestación de desinterés jurídico no surtirá efectos cuando la víctima sea menor de edad, incapaz o persona mayor de 65 años. El menor, incapaz o persona mayor de 65 años, sólo se reintegrará a la familia, previo certificado o dictamen emitido por peritos psicológicos y/o psiquiátricos oficiales adscritos a la Procuraduría General de Justicia en el Estado o al Sistema para el Desarrollo Integral de la Familia en el Estado de Sonora, que determinen que la o las personas que hayan cometido el delito no representan un peligro o riesgo para aquellos.
 
-> <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2011)</small>
+Para que surta efectos legales el desinterés jurídico citado en el párrafo anterior o el perdón del ofendido en el resto de los supuestos del delito de violencia familiar, el agresor deberá abstenerse de cometer la conducta delictiva descrita en este artículo por lo menos durante un año, a partir de la manifestación expresa de los mismos, cumplir con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento en tanto hasta en tanto (sic) se cumpla con dichos requisitos.
 
-Para que surta efectos legales el desinterés jurídico citado en el párrafo anterior o el perdón del ofendido en el resto de los supuestos del delito de violencia intrafamiliar, el agresor deberá abstenerse de cometer la conducta delictiva descrita en este artículo por lo menos durante un año, a partir de la manifestación expresa de los mismos, cumplir con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento en tanto hasta en tanto (sic) se cumpla con dichos requisitos.
+Las penas contenidas en este capítulo se duplicarán cuando haya reincidencia o cuando quien imputado de los delitos descritos en este capítulo haya obtenido los beneficios de los acuerdos reparatorios y haya incumplido dichos acuerdos.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 234-B.
 
-Se equipara a la violencia intrafamiliar y se sancionará con seis meses a seis años de prisión, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera de matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
+Se equipara a la violencia familiar y se sancionará con seis meses a seis años de prisión, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
 > <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 Si el delito se cometiera en contra de la víctima por su condición de género, o en contra de un adulto mayor, se aumentará la pena que corresponda hasta en una tercera parte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 234-C.
 
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia intrafamiliar y, bajo su estricta responsabilidad, podrá imponer al imputado como medidas cautelares, el abandono inmediato del domicilio conyugal o común, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial de la víctima, incluyendo, en su caso, las órdenes de protección previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia familiar y, bajo su estricta responsabilidad, deberá imponer al probable responsable como medidas precautorias y de seguridad, el abandono inmediato del domicilio conyugal o común, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación, medios digitales, aparatos o artefactos de tecnología celular, o donde quiera que se encuentren; así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral, económica y/ó patrimonial de la víctima, incluyendo, en su caso, las órdenes de protección previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
-En tal sentido, el Ministerio Público podrá emitir las medidas cautelares a que se refiere el párrafo anterior a favor de los receptores de violencia y sus familiares, exponiendo las razones y fundamentos que las justifiquen, las cuales deberán ser notificadas de inmediato al imputado y se dará cumplimiento a las mismas a través de las corporaciones policíacas de que se auxilie; asimismo, remitirá las constancias respectivas al juez correspondiente, sin necesidad de ejercitar acción penal, para que dentro de las veinticuatro horas a la recepción de las mismas ratifique o modifique las medidas cautelares, según proceda. Cuando lo considere necesario y siempre que con anterioridad no se hayan emitido, el juez podrá decretar las medidas cautelares mencionadas, debiendo notificar lo anterior al imputado e informar al Ministerio Público para que dé cumplimiento a las medidas cautelares dictadas para garantizar a los receptores de violencia y sus familiares la más completa protección a su integridad y seguridad personal.
+En tal sentido, el Ministerio Público deberá emitir las medidas precautorias y de seguridad a que se refiere el párrafo anterior a favor de los receptores de violencia y sus familiares, exponiendo las razones y fundamentos que las justifiquen, las cuales deberán ser notificadas dentro de las cuarenta y ocho horas siguientes al indiciado y se dará cumplimiento a las mismas a través de las corporaciones policíacas de que se auxilie; asimismo, remitirá las constancias respectivas al juez penal correspondiente, sin necesidad de ejercitar acción penal, para que dentro de las veinticuatro horas a la recepción de las mismas ratifique o modifique las medidas, según proceda. Siempre que con anterioridad no se hayan emitido, el juez deberá decretar las medidas antes mencionadas, debiendo notificar lo anterior al inculpado e informar al Ministerio Público para que dé cumplimiento a las medidas dictadas para garantizar a los receptores de violencia y sus familiares la más completa protección a su integridad y seguridad personal.
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
@@ -5132,3 +5120,9 @@ B.O. 25 DE ENERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 120, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR Y DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA".]
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
