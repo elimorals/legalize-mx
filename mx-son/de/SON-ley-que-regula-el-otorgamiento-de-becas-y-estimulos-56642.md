@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-otorgamiento-de-becas-y-estimulos-56642"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-14"
-last_updated: "2017-11-06"
+last_updated: "2018-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 29 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ENERO DE 2018 (ABROGADO).
 
 Ley publicada en la Edición Especial No. 5 al Boletín Oficial del Estado de Sonora, el martes 14 de agosto de 2007.
 
@@ -848,3 +850,39 @@ B.O. 6 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE ENERO DE 2018.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DE LA “LEY NÚMERO 275, DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA”.]</small>
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Se abrogan la Ley que crea el Instituto de Crédito Educativo del Estado de Sonora y la Ley que regula el otorgamiento de Becas y Estímulos Educativos del Estado de Sonora, a la entrada en vigor de esta Ley, para lo cual se contará con un plazo máximo de noventa días naturales para el debido funcionamiento del Instituto de Becas y Crédito Educativo del Estado de Sonora, así como cualquier otra disposición que se oponga a lo establecido en la presente Ley.
+
+TERCERO.- A la entrada en vigor de la presente Ley, pasarán a formar parte del patrimonio del Instituto de Becas y Crédito Educativo del Estado de Sonora, los recursos, los activos, los bienes muebles e inmuebles, los derechos y las obligaciones que integren el patrimonio del Instituto de Becas y Estímulos Educativos del Estado de Sonora y del Instituto de Crédito Educativo del Estado de Sonora.
+
+Las inscripciones y anotaciones marginales efectuadas en los registros públicos de la propiedad y de comercio, así como en cualquier otro registro del país, relativas a el Instituto de Becas y Estímulos Educativos del Estado de Sonora y el Instituto de Crédito Educativo del Estado de Sonora, respecto de inmuebles, contratos, convenios, títulos de crédito, comisiones de carácter mercantil y cualquier otra, se entenderán referidas al Instituto de Becas y Crédito Educativo del Estado de Sonora.
+
+Como causahabientes el Instituto de Crédito Educativo del Estado de Sonora y el Instituto de Becas y Estímulos Educativos del Estado de Sonora cuya extinción se ordena en la presente Ley, el Instituto de Becas y Crédito Educativo del Estado de Sonora se subrogará en todos los derechos y obligaciones de aquellos, y ejercerá las acciones, opondrá las excepciones y defensas e interpondrá los recursos de cualquier naturaleza deducidos en los procedimientos judiciales y administrativos en los que hayan sido parte el Instituto de Crédito Educativo del Estado de Sonora y el Instituto de Becas y Estímulos Educativos del Estado de Sonora.
+
+Con objeto de que no se interrumpan las operaciones y funciones que a la fecha realizan el Instituto de Becas y Estímulos Educativos del Estado de Sonora y el Instituto de Crédito Educativo del Estado de Sonora, éstas se asumirán a la entrada en vigor dela (sic) presente Ley por la estructura orgánica del Instituto de Crédito Educativo del Estado de Sonora, hasta en tanto el Instituto de Becas y Crédito Educativo del Estado de Sonora que se crea en la presente Ley esté en posibilidad de hacerse cargo de las mismas, para lo cual tendrá un plazo de noventa días naturales posteriores a la entrada en vigor de la presente Ley
+
+En tanto se expide la normatividad interna del Instituto de Becas y Crédito Educativo del Estado de Sonora, se estará a lo que someta a consideración el Director General para que lo resuelva la Junta Directiva.
+
+CUARTO.- A la entrada en vigor de la presente Ley, pasarán a formar parte del patrimonio del Instituto de Becas y Crédito Educativo del Estado de Sonora, los recursos humanos, financieros y materiales, los activos, los bienes muebles e inmuebles, los derechos y las obligaciones que integren el patrimonio del Instituto de Becas y Estímulos Educativos del Estado de Sonora y del Instituto de Crédito Educativo del Estado de Sonora.
+
+Dentro de los treinta días hábiles siguientes a la publicación de la presente Ley el Instituto de Becas y Estímulos Educativos del Estado de Sonora, deberán enviar al Instituto de Crédito Educativo del Estado de Sonora toda la información referente a los programas implementados, recursos asignados y documentación relacionada con las atribuciones y funciones encomendadas.
+
+La transferencia formal de los bienes, derechos y obligaciones a que se contrae el párrafo que antecede, así como los actos necesarios para llevar a cabo la extinción del Instituto de Becas y Estímulos Educativos del Estado de Sonora a que se refiere el primer párrafo, deberán efectuarse a más tardar en un plazo de noventa días posteriores a la entrada en vigor de la presente Ley, a efecto de que este asuma la responsabilidad de iniciar con los trabajos de constituir el nuevo Instituto de Becas y Crédito Educativo del Estado de Sonora.
+
+Las transferencias de bienes y derechos previstas en el presente artículo, no quedarán gravadas por contribución estatal o federal alguna. Las inscripciones y anotaciones marginales efectuadas en los registros públicos de la propiedad y de comercio del Estado, así como en cualquier otro registro, relativas al Instituto de Crédito Educativo del Estado de Sonora y del Instituto de Becas y Estímulos Educativos del Estado de Sonora, respecto de inmuebles, contratos, convenios, títulos de crédito, comisiones de carácter mercantil y cualquier otra, se entenderán referidas al Instituto de Becas y Crédito Educativo del Estado de Sonora.
+
+QUINTO.- La Secretaría de Hacienda hará las previsiones necesarias para asignar recursos suficientes para el cumplimiento de las disposiciones de la presente Ley y del Reglamento.
+
+SEXTO.- Las Secretarías de la Contraloría General y de Educación y Cultura tomarán las previsiones necesarias y realizarán lo conducente a efecto de cumplir con lo señalado en los presentes artículos transitorios.
+
+SÉPTIMO.- Se respetarán los derechos laborales de los trabajadores de (sic) Instituto de Becas y Estímulos Educativos del Estado de Sonora y del Instituto de Crédito Educativo del Estado de Sonora, conforme a lo dispuesto por la Ley Federal del Trabajo, Ley del Servicio Civil del Estado y demás ordenamientos aplicables, por lo que la Secretaría de Hacienda y el Instituto que se crea por esta Ley realizarán las gestiones necesarias ante las instituciones nacionales y estatales correspondientes.
+
+OCTAVO.- En caso de ausencia de alguno de los actuales titulares del Instituto de Becas y Estímulos Educativos del Estado de Sonora y del Instituto de Crédito Educativo del Estado de Sonora, la Gobernadora nombrará a un encargado del despacho para los trabajos de transición.
+
+NOVENO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
