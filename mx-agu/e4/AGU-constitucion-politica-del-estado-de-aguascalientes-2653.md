@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2017-12-11"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -177,17 +177,11 @@ La Ley determinará las formas de participación de estas organizaciones, y la d
 
 De la forma de Gobierno.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 8°.
-
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo, Democrático, Laico y Popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 8o.
 
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo, Democrático, Laico y Popular, bajo un sistema de división de poderes, pluralismo político y participación social; teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -221,21 +215,29 @@ Son habitantes del Estado, las personas que residen en su territorio.
 
 La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 12.
 
-Son derechos de los habitantes del Estado, varones y mujeres:
+Son derechos de los ciudadanos del Estado:
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
 I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
+II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación;
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
 
-Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
+
+III.- Asociarse para constituir partidos políticos locales o asociaciones políticas locales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
+
+IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -361,71 +363,33 @@ La Ley General en Materia de Delitos Electorales, determinará los tipos penales
 
 El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 29 DE ENERO DE 2018)</small>
 
-C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado, y coadyuvará con los ayuntamientos en la realización de la consulta pública para la implementación del presupuesto participativo.
+C. En el Estado se reconoce la democracia directa y participativa, entendida como el derecho de las personas a incidir en las decisiones públicas y el control de la función pública, a través de los siguientes instrumentos de participación ciudadana:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+a) Plebiscito;
 
-El Plebiscito y Referéndum podrán solicitarlos:
+b) Referéndum;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+c) Iniciativa Ciudadana;
 
-a) El dos por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
+d) Consulta de Revocación de Mandato;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+e) Presupuesto Participativo;
 
-b) Una tercera parte de los Diputados que integran el H. Congreso del Estado;
+f) Cabildo Abierto;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+g) Consulta Ciudadana; y
 
-c) Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; o
+h) Comités Ciudadanos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
 
-d) El Gobernador del Estado.
+El Instituto Estatal Electoral será autoridad en la materia de instrumentos de participación ciudadana, teniendo por objeto establecer, fomentar y promover los instrumentos que permitan la organización y funcionamiento de la participación ciudadana.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
 
-Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado la cual, deberá ser turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-No podrán someterse a referéndum ni a Plebiscito aquéllas Leyes o Artículos que contemplen las siguientes materias:
-
-a) Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como la Ley de Ingresos y Presupuestos de Egresos en el Estado de Aguascalientes;
-
-b) Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
-
-c) Ley Orgánica del Poder Legislativo y sus Reglamentos;
-
-d) Ley Orgánica del Poder Judicial del Estado; y
-
-e) Las demás que determinen las leyes.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los procesos electorales serán aplicables a las figuras del plebiscito y el referéndum.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Se establece en el Estado la Iniciativa Popular, como un medio ciudadano para proponer al Congreso del Estado la creación, reformas, adición, derogación o abrogación de leyes del marco jurídico estatal, la cual opera bajo los siguientes requisitos;
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-a) Podrán solicitarla, el dos por ciento de los ciudadanos inscritos en el Padrón Electoral.
-
-b) Deberán acreditar los solicitantes estar inscritos en el Padrón Electoral Federal.
-
-c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley Orgánica del Poder Legislativo.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
-
-La ley regulará la revocación del mandato de las autoridades de elección popular y señalará las causales, los procedimientos para su solicitud y los mecanismos para que la misma se lleve a cabo.
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
-
-EI presupuesto participativo será un mecanismo de participación ciudadana por el cual el destino de al menos el 3% del presupuesto anual para obra pública de gasto no etiquetado de cada Municipio, sea determinado por los ciudadanos domiciliados en su territorio, en los términos que establezca la Ley.
+La ley regulará los instrumentos de participación ciudadana, los plazos, términos, medios de impugnación, publicidad, los procedimientos para su solicitud y los mecanismos para llevarlos a cabo; así como las materias de aplicación. Misma Ley que sólo podrá ser reformada, adicionada, derogado (sic) o abrogada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado.
 
 ###### Artículo 17 Bis.
 
@@ -833,13 +797,25 @@ De la Iniciativa y Formación de las Leyes.
 
 La iniciativa de las leyes corresponde:
 
-I.- A los Diputados al Congreso del Estado.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
 
-II.- Al Gobernador.
+I.- A los Diputados al Congreso del Estado;
 
-III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
 
-IV.- A los Ayuntamientos, en los asuntos de su competencia.
+II.- Al Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+
+III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+
+IV.- A los Ayuntamientos, en los asuntos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2018)</small>
+
+V.- A los ciudadanos que en términos de esta Constitución y la ley de la materia, presenten una Iniciativa Ciudadana.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
@@ -3150,6 +3126,14 @@ El presente Decreto iniciara su vigencia al día siguiente de su publicación en
 P.O. 11 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 165.- REFORMA CONSTITUCIONAL: CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO".]
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ENERO DE 2018.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMA EL DECRETO NÚMERO 212".]</small>
 
 ###### ARTÍCULO ÚNICO.
 
