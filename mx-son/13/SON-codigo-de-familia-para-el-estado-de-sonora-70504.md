@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2015-06-15"
+last_updated: "2018-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ENERO DE 2018.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -955,11 +955,17 @@ V. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cóny
 
 VI. Dictar, en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede encinta; y
 
-VII. Dictar, en su caso, cualquier medida de protección que resulte necesaria para que cese todo acto de violencia intrafamiliar, teniendo en cuenta el interés del agraviado.
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
 
-Dicha determinación implica la ejecución de las medidas de seguridad, seguimiento y terapias necesarias para la víctima y el agresor a fin de evitar, corregir y erradicar los actos de violencia intrafamiliar en los términos previstos por la legislación procesal civil de la materia.
+VII. Dictar, en su caso, cualquier medida de protección que resulte necesaria para que cese todo acto de violencia familiar, teniendo en cuenta el interés del agraviado.
 
-Para tal efecto, podrá solicitar el apoyo de la Procuraduría General del Estado en los términos que lo establece la Ley de Prevención y Atención a la Violencia Intrafamiliar, para que a través de la Policía Judicial del Estado y las corporaciones de Policía y Tránsito Municipal, ejecuten las acciones y medidas preventivas necesarias para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales y, en su caso, turnar a los generadores de violencia intrafamiliar a las autoridades competentes.
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+
+Dicha determinación implica la ejecución de las medidas de seguridad, seguimiento y terapias necesarias para la víctima y el agresor a fin de evitar, corregir y erradicar los actos de violencia familiar en los términos previstos por la legislación procesal civil de la materia.
+
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+
+Para tal efecto, podrá solicitar el apoyo de la Procuraduría General del Estado en los términos que lo establece la Ley de Prevención y Atención a la Violencia Familiar, para que a través de la Policía Judicial del Estado y las corporaciones de Policía y Tránsito Municipal, ejecuten las acciones y medidas preventivas necesarias para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales y, en su caso, turnar a los generadores de violencia familiar a las autoridades competentes.
 
 El Juez de Primera Instancia, para el cumplimiento y ejecución de las determinaciones que emita provisionalmente al admitir la demanda de divorcio, podrá hacer uso de la fuerza pública y hacer ejecutar las acciones y medidas que estime pertinentes para garantizar la integridad personal, física, psíquica, moral y patrimonial de cualquiera de los cónyuges.
 
@@ -1107,9 +1113,9 @@ XI.- Haber cometido uno de los cónyuges un delito que no sea político ni culpo
 
 XII.- El hábito compulsivo a los juegos de azar, cuando amenace causar la ruina de la familia, o constituya un continuo motivo de desavenencia conyugal;
 
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
 
-XIII.- Las conductas de violencia intrafamiliar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos, conforme a lo previsto en el artículo 166 de este Código;
+XIII.- Las conductas de violencia familiar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos, conforme a lo previsto en el artículo 166 de este Código;
 
 XIV.- Cometer un cónyuge contra la persona o los bienes del otro o de los hijos, un delito doloso que tenga señalada pena de prisión en la legislación correspondiente. Esta causal procederá aunque el acto no sea punible entre cónyuges o parientes y también en el caso de que, siendo perseguible a petición de parte ofendida, ésta no hubiese presentado la querella; y
 
@@ -1133,11 +1139,11 @@ El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a �
 
 El abandono injustificado del domicilio conyugal, constituye una causal permanente que sólo se interrumpe cuando el cónyuge abandonante regrese unilateralmente al hogar y cumpla plenamente las obligaciones inherentes al matrimonio, por lo que el divorcio debe solicitarse dentro de los seis meses siguientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 160.
 
-Ninguna de las causas de divorcio necesario pueden alegarse para pedir la suspensión o disolución del vínculo, cuando haya mediado perdón expreso o tácito, ni podrán subsumirse dos causales autónomas. Se exceptúa de lo anterior los casos de violencia intrafamiliar cometida en contra de los hijos menores e incapaces. El demandado puede reconvenir el divorcio por causal distinta o alegar la nulidad o inexistencia del matrimonio, como cuestiones previas.
+Ninguna de las causas de divorcio necesario pueden alegarse para pedir la suspensión o disolución del vínculo, cuando haya mediado perdón expreso o tácito, ni podrán subsumirse dos causales autónomas. Se exceptúa de lo anterior los casos de violencia familiar cometida en contra de los hijos menores e incapaces. El demandado puede reconvenir el divorcio por causal distinta o alegar la nulidad o inexistencia del matrimonio, como cuestiones previas.
 
 La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado, si aún no hubiese sentencia ejecutoria. En este caso los interesados deberán informar su reconciliación al Juez, sin que la omisión de esta denuncia destruya sus efectos y sin perjuicio de que el Ministerio Público o la Procuraduría de la Defensa del Menor y la familia, en su caso, demande la pérdida de la patria potestad cuando la causal afecte directamente a los hijos y lleve aparejada esta sanción.
 
@@ -1165,13 +1171,13 @@ Las amenazas e injurias graves, la acusación calumniosa por delito infamante y 
 
 El delito infamante cometido por uno de los cónyuges en contra de terceros, sí requiere de sentencia penal de condena debidamente ejecutoriada, en la que se imponga al inculpado una pena de prisión, independientemente de su duración y de que ésta se suspenda o se conmute.
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 166.
 
-Todos los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
+Todos los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia intrafamiliar se entiende, todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual o patrimonialmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico, sexual o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar.
+Por violencia familiar se entiende, todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica o patrimonialmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico, sexual, económico o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia familiar.
 
 ### CAPITULO VII. DE LAS CONSECUENCIAS PATRIMONIALES Y PERSONALES DEL DIVORCIO
 
@@ -1225,11 +1231,11 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 
 La sentencia fijará la situación de los hijos, según el tipo de divorcio y a la causal invocada. El Juez debe asignar la custodia a quien mejor garantice el desarrollo integral de los menores, manteniendo en forma amplia y natural, el libre ejercicio de los derechos que correspondan a ambos padres, atendiendo a lo dispuesto en este Código.
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 176.
 
-Cuando la causal afecte directamente a los hijos, como en los delitos graves cometidos en su contra, violencia intrafamiliar, abandono injustificado de sus deberes, o cuando se procure o permita su corrupción, podrá el juzgador decretar en la misma sentencia de divorcio la pérdida o suspensión de la patria potestad en perjuicio del cónyuge responsable, aunque no se haya solicitado en la demanda.
+Cuando la causal afecte directamente a los hijos, como en los delitos graves cometidos en su contra, violencia familiar, abandono injustificado de sus deberes, o cuando se procure o permita su corrupción, podrá el juzgador decretar en la misma sentencia de divorcio la pérdida o suspensión de la patria potestad en perjuicio del cónyuge responsable, aunque no se haya solicitado en la demanda.
 
 ###### Artículo 177.
 
@@ -1257,13 +1263,15 @@ En la separación voluntaria por más de dos años, ambos cónyuges deben conven
 
 En el divorcio culpable la situación de los hijos se fijará atendiendo a las siguientes reglas:
 
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
 
-Primera.- Cuando se trate de las causales I, VI, VII, VIII, IX, X, XI, XIII y XV del artículo 156 y la prevista en el artículo 157 de este Código, se mantendrá en el ejercicio de la patria potestad a ambos progenitores, quedando a discreción del juzgador asignar la custodia de los hijos. Esta regla se aplicará cuando el incumplimiento de las obligaciones familiares, violencia intrafamiliar o las sevicias, afecten sólo al otro cónyuge.
+Primera.- Cuando se trate de las causales I, VI, VII, VIII, IX, X, XI, XIII y XV del artículo 156 y la prevista en el artículo 157 de este Código, se mantendrá en el ejercicio de la patria potestad a ambos progenitores, quedando a discreción del juzgador asignar la custodia de los hijos. Esta regla se aplicará cuando el incumplimiento de las obligaciones familiares, violencia familiar o las sevicias, afecten sólo al otro cónyuge.
 
 Segunda.- Si la causa del divorcio estuviera comprendida en la Fracción II del artículo 156 de este Código, el menor producto del embarazo quedará al lado de su madre como única titular de la patria potestad, como también en el caso de la fracción XV, por lo que toca al hijo nacido por reproducción asistida.
 
-Tercera.- En el caso de que el divorcio se decrete con base en las causales III y IV o cuando las sevicias previstas en la fracción VII, la negativa injustificada a dar alimentos a que se refiere la fracción IX y la violencia intrafamiliar de la fracción XIII del artículo 156 afecten directamente a los hijos, el juez podrá condenar al culpable a la suspensión o pérdida de la patria potestad.
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
+
+Tercera.- En el caso de que el divorcio se decrete con base en las causales III y IV o cuando las sevicias previstas en la fracción VII, la negativa injustificada a dar alimentos a que se refiere la fracción IX y la violencia familiar de la fracción XIII del artículo 156 afecten directamente a los hijos, el juez podrá condenar al culpable a la suspensión o pérdida de la patria potestad.
 
 Cuarta.- Cuando se trate de actos inmorales o delitos graves que afecten directamente a los hijos, previstos en las fracciones V y XIV del artículo 156, el juez deberá decretar en la sentencia la pérdida de la patria potestad.
 
@@ -1931,7 +1939,7 @@ Artículo. 282.- La persona que haya acogido al menor o incapacitado por un per�
 
 ###### Artículo 283.
 
-Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
+Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el Desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
 
 ###### Artículo 284.
 
@@ -2179,15 +2187,21 @@ Cuando los padres del hijo nacido fuera de matrimonio se separen, ambos continua
 
 Esta resolución no causa estado y podrá modificarse en el futuro por causas supervinientes.
 
-> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 315 Bis.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos, así declarado por el Juez de Primera Instancia, en términos de lo establecido en el capítulo relativo a la violencia intrafamiliar.
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos, así declarado por el Juez de Primera Instancia, en términos de lo establecido en el capítulo relativo a la violencia familiar.
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el Juez de Primera Instancia resolverá lo conducente, en atención al interés superior del menor. Sólo por mandato judicial podrá suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
 
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
+
 Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
 
@@ -2337,7 +2351,9 @@ I.- Cuando el que la ejerza es condenado a la pérdida de ese derecho por senten
 
 II.- En los casos de divorcio necesario en que se decrete esta sanción;
 
-III.- Por las costumbres depravadas de quienes la ejercen, violencia intrafamiliar, abandono injustificado de sus deberes o la comisión de delitos graves en contra de los descendientes, de forma tal que comprometan su salud, seguridad o moralidad;
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
+
+III.- Por las costumbres depravadas de quienes la ejercen, violencia familiar, abandono injustificado de sus deberes o la comisión de delitos graves en contra de los descendientes, de forma tal que comprometan su salud, seguridad o moralidad;
 
 > <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -2361,7 +2377,9 @@ III.- Por sentencia condenatoria que imponga como pena dicha suspensión;
 
 IV.- En los casos de divorcio, cuando el juez de la causa imponga esta medida; y
 
-V.- Cuando el que la ejerce incurre en conductas de violencia intrafamiliar en contra del menor o incapacitado.
+> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
+
+V.- Cuando el que la ejerce incurre en conductas de violencia familiar en contra del menor o incapacitado.
 
 ###### Artículo 340.
 
@@ -2381,7 +2399,9 @@ En los casos en que el progenitor haya perdido la patria potestad, podrá solici
 
 Antes de resolver, el Juez valorará las razones que ameritaron dicha pérdida, observando siempre el interés del menor y oirá al ascendiente que ejerza este derecho, al menor y al Ministerio Público, los que podrán oponerse fundadamente. La aceptación u oposición que manifiesten respecto de la acción ejercida los señalados anteriormente, serán valoradas por el Juez para decidir finalmente lo que mejor convenga al interés superior del menor. A consideración del Juez, se podrá solicitar la opinión de la Procuraduría de la Defensa del Menor y la Familia.
 
-Se exceptúa de lo señalado en el presente artículo, y por lo tanto no procederá la recuperación, cuando la pérdida de la patria potestad haya derivado de un delito grave cometido en contra del menor o por violencia intrafamiliar.
+> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+
+Se exceptúa de lo señalado en el presente artículo, y por lo tanto no procederá la recuperación, cuando la pérdida de la patria potestad haya derivado de un delito grave cometido en contra del menor o por violencia familiar.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -2401,9 +2421,11 @@ En los casos en que se ordene la restitución de la patria potestad, el ascendie
 
 La restitución de la patria potestad, devuelve el derecho a una correcta comunicación del progenitor con sus hijos, pero será de tipo provisional, durante un período de dos años, al final del cual el Juez decretará la recuperación definitiva o la negará, atendiendo a las actitudes del solicitante y al cumplimiento de las obligaciones derivadas del vínculo paterno filial.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE ENERO DE 2018)</small>
+
 ###### Artículo 345.
 
-En los casos de suspensión de la patria potestad, decretada en el divorcio por culpa o violencia intrafamiliar, una vez concluido el plazo fijado en la sentencia, el Juez que la dictó ordenará el levantamiento de la medida, siempre que el padre haya cumplido sus obligaciones respecto de los hijos y se rinda dictamen pericial favorable. En caso contrario, el juez puede prolongar, por una sola vez, la suspensión hasta por un término igual.
+En los casos de suspensión de la patria potestad, decretada en el divorcio por culpa o violencia familiar, una vez concluido el plazo fijado en la sentencia, el Juez que la dictó ordenará el levantamiento de la medida, siempre que el padre haya cumplido sus obligaciones respecto de los hijos y se rinda dictamen pericial favorable. En caso contrario, el juez puede prolongar, por una sola vez, la suspensión hasta por un término igual.
 
 En los casos de suspensión por incapacidad o ausencia, una vez que se constate pericialmente la sanidad del enfermo o comparezca y se identifique plenamente al ausente, el juez que decretó la medida ordenará la recuperación de la patria potestad con todos sus efectos. Esta última fórmula se aplicará también en los casos en que aparezca vivo el presunto muerto.
 
@@ -2725,7 +2747,7 @@ Mientras que se califica la excusa, el Juez nombrará un tutor interino.
 
 ###### Artículo 390.
 
-Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
+Si el que teniendo excusa legitima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
 
 ###### Artículo 391.
 
@@ -3469,7 +3491,7 @@ El derecho a alimentos es una prerrogativa derivada del parentesco y, en los cas
 
 Los alimentos comprenden la comida, el vestido, la habitación, el sano esparcimiento y la asistencia en caso de enfermedad. Respecto de los menores, comprenden, además, los gastos necesarios para su educación, hasta proporcionarles un oficio, arte o profesión adecuados a sus circunstancias personales. Respecto de los discapacitados o declarados incapaces se prorrogará durante el tiempo que persista su discapacidad o hasta lograr su rehabilitación y pleno desarrollo y, comprenden, además, todos los gastos adicionales que se generen por la misma condición de los discapacitados o declarados incapaces. La obligación referida en este artículo se prorroga después de la mayoría de edad, si los acreedores alimentarios estudian una carrera técnica o superior, hasta el término normal necesario para concluir los estudios, si realizan los mismos de forma ininterrumpida.
 
-###### Articulo 514.
+###### Artículo 514.
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
@@ -3651,7 +3673,7 @@ Cada familia sólo puede constituir un patrimonio. Los que se constituyan despú
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### ARTÍCULO 542.
+###### Artículo 542.
 
 El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio o al notario público de su elección de la demarcación notarial en la que se ubiquen los bienes inmuebles que formaran parte de dicho patrimonio, designando con toda precisión los bienes que van a quedar afectados demostrando, además:
 
@@ -3669,7 +3691,7 @@ V.- (DEROGADA, B.O. 15 DE JUNIO DE 2015)
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### ARTÍCULO 543.
+###### Artículo 543.
 
 Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia, ordenará la protocolización ante notario público y mandará que se hagan las inscripciones correspondientes en el Registro Público.
 
@@ -3773,13 +3795,13 @@ VI.- Cuando la persona o personas que lo constituyeron, lo consideren convenient
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### ARTÍCULO 555.
+###### Artículo 555.
 
 Los constituyentes o constituyente del patrimonio de familia pueden segregar del mismo los bienes que consideren convenientes. Igualmente pueden, los mismos constituyentes, sustituir los bienes dados de baja del patrimonio de familia por otros de la misma naturaleza, pero en ningún caso podrán dar de baja la casa habitación en la que resida la familia sin sustituirla por otra, ya que, en ese caso el patrimonio de familia quedará extinto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### ARTÍCULO 556.
+###### Artículo 556.
 
 El Juez competente o el notario que designe el constituyente o los constituyentes formulará la declaratoria para constituir o extinguir el patrimonio de familia, cuando proceda o lo soliciten los constituyentes y ordenará su inscripción en el Registro Público de la Propiedad y del Comercio del domicilio en que se ubiquen los inmuebles, salvaguardando el interés superior del menor, en caso de existir.
 
@@ -3912,3 +3934,9 @@ B.O. 15 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR Y DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
