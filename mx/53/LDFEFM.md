@@ -4,7 +4,7 @@ identifier: "LDFEFM"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2016-04-27"
+last_updated: "2018-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LDFEFM"
 ---
 # LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el miércoles 27 de abril de 2016.
 
@@ -60,7 +62,9 @@ Adicionalmente, los Entes Públicos de las Entidades Federativas y los Municipio
 
 Para efectos de esta Ley, en singular o plural, se entenderá por:
 
-I. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+I. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;
 
 II. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
@@ -76,13 +80,19 @@ VII. Deuda Pública: cualquier Financiamiento contratado por los Entes Públicos
 
 VIII. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+VIII Bis. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
+
 IX. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos de las Entidades Federativas; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las Entidades Federativas y los Municipios, así como cualquier otro ente sobre el que las Entidades Federativas y los Municipios tengan control sobre sus decisiones o acciones. En el caso de la Ciudad de México, el Poder Ejecutivo incluye adicionalmente a sus alcaldías;
 
 X. Entidades Federativas: los Estados de la Federación y la Ciudad de México;
 
 XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XII. Financiamiento Neto: la diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
 XIII. Fuente de pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
@@ -170,6 +180,14 @@ V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como míni
 
 Las Leyes de Ingresos y los Presupuestos de Egresos de las Entidades Federativas deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+En los casos en que las Entidades Federativas aprueben sus Leyes de Ingresos y Presupuestos de Egresos, después de la publicación de la Ley de Ingresos de la Federación y el Presupuesto de Egresos de la Federación, las estimaciones de participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la Ley de Ingresos de la Federación y en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Para aquellas Transferencias federales etiquetadas, cuya distribución por Entidad Federativa no se encuentre disponible en el Presupuesto de Egresos de la Federación, las Entidades Federativas podrán realizar una estimación con base en los Criterios Generales de Política Económica, el monto nacional y la distribución realizada en ejercicios fiscales anteriores.
+
 ###### Artículo 6.
 
 El Gasto total propuesto por el Ejecutivo de la Entidad Federativa en el proyecto de Presupuesto de Egresos, aquél que apruebe la Legislatura local y el que se ejerza en el año fiscal, deberá contribuir a un Balance presupuestario sostenible.
@@ -198,9 +216,11 @@ II. Sea necesario cubrir el costo de la reconstrucción provocada por los desast
 
 III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 8.
 
-Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente fuente de ingresos distinta al Financiamiento, o compensarse con reducciones en otras previsiones de gasto.
 
 No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. La Entidad Federativa deberá revelar en la cuenta pública y en los informes que periódicamente entreguen a la Legislatura local, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
@@ -250,7 +270,9 @@ I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, conta
 
 II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos excedentes que obtengan y con la autorización previa de la secretaría de finanzas o su equivalente;
 
-III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil. De igual forma, no se requerirá realizar un análisis costo y beneficio, cuando el gasto de inversión se destine a la atención prioritaria de desastres naturales y sea financiado con Ingresos de libre disposición.
 
 Para los propósitos señalados en el párrafo anterior, cada Entidad Federativa deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva de la Entidad Federativa correspondiente.
 
@@ -278,7 +300,13 @@ VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición de las Entidades Federativas, deberán ser destinados a los siguientes conceptos:
 
-I. Por lo menos el 50 por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+I. Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para desastres naturales y de pensiones, conforme a lo siguiente:
+
+a) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50 por ciento;
+
+b) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento, y
 
 II. En su caso, el remanente para:
 
@@ -287,6 +315,14 @@ a) Inversión pública productiva, a través de un fondo que se constituya para 
 b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes.
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición de las Entidades Federativas podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, podrá utilizar hasta un 5 por ciento de los recursos a los que se refiere el presente artículo para cubrir Gasto corriente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en el presente artículo.
 
 ###### Artículo 15.
 
@@ -300,9 +336,11 @@ III. Gasto en servicios personales, prioritariamente las erogaciones por concept
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 16.
 
-El Ejecutivo de la Entidad Federativa, por conducto de la secretaría de finanzas o su equivalente, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración de la Legislatura local. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+El Ejecutivo de la Entidad Federativa, por conducto de la secretaría de finanzas o su equivalente, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración de la Legislatura local. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo que impliquen costos para su implementación.
 
 Todo proyecto de ley o decreto que sea sometido a votación del Pleno de la Legislatura local, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
 
@@ -370,7 +408,9 @@ Los Entes Públicos no podrán contraer, directa o indirectamente, Financiamient
 
 Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
 
-Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación, y lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 
 ###### Artículo 23.
 
@@ -382,9 +422,13 @@ I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo
 
 II. No se incremente el saldo insoluto, y
 
-III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
 
-Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público deberá informar a la Legislatura local sobre la celebración de este tipo de operaciones, así como inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único.
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue plazo o periodo de gracia, ni se modifique el perfil de amortizaciones del principal del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público deberá informar a la Legislatura local sobre la celebración de este tipo de operaciones, así como presentar la solicitud de inscripción de dicho Refinanciamiento o Reestructuración ante el Registro Público Único.
 
 ###### Artículo 24.
 
@@ -414,11 +458,17 @@ El secretario de finanzas, tesorero municipal o su equivalente de cada Ente Púb
 
 En el caso de que la Entidad Federativa o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, o el Municipio o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
 
-I. Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberán diferir en más de 30 días naturales y deberán tener una vigencia mínima de 60 días naturales;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+I. Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberán diferir en más de 30 días naturales y deberán tener una vigencia mínima de 60 días naturales. Tratándose de propuestas relativas a Instrumentos derivados, no será aplicable la vigencia mínima de 60 días naturales;
 
 II. La solicitud del Financiamiento que se realice a cada institución financiera deberá precisar y ser igual en cuanto a: monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como Fuente de pago del Financiamiento o Garantía a contratar, de acuerdo con la aprobación de la Legislatura local. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por la Legislatura local;
 
 III. Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la Fuente o Garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta;
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, el proceso competitivo será declarado desierto por única ocasión, por lo que el Ente Público deberá realizar un nuevo proceso competitivo y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I de éste artículo, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos establecidos en la invitación correspondiente;
 
 IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, es decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría, y
 
@@ -429,6 +479,14 @@ En caso de fraccionar la contratación del monto de Financiamiento autorizado po
 Para acreditar la contratación bajo las mejores condiciones de mercado de los Financiamientos distintos a los señalados en el segundo párrafo del presente artículo, el Ente Público deberá implementar un proceso competitivo con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I de este artículo.
 
 El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de Internet del propio Ente Público, o en su caso, de la Entidad Federativa o Municipio, según se trate.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+En el caso de operaciones de Reestructuración que cumplan lo señalado en el artículo 23, segundo párrafo de esta Ley, no se requerirá realizar el proceso competitivo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Asimismo, tratándose de Refinanciamientos que sustituyan un Financiamiento por otro de forma total, aplicará la excepción prevista en el párrafo que antecede.
 
 ###### Artículo 27.
 
@@ -444,7 +502,11 @@ La Comisión Nacional Bancaria y de Valores establecerá mediante disposiciones 
 
 Con excepción de los Financiamientos que se contraten mediante el mercado bursátil, cuando la autorización del Financiamiento a que hace referencia el artículo 24 exceda de cien millones de Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, en los términos siguientes:
 
-I. El proceso competitivo descrito en el artículo 26 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+I. El proceso competitivo descrito en el artículo 26 de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior. El Ente Público no estará obligado a presentar las negativas de participación presentadas por las Instituciones Financieras o prestador de servicios.
+
+En caso de no obtener el mínimo de ofertas irrevocables, la licitación pública será declarada desierta por única ocasión, por lo que el Ente Público deberá realizar una nueva licitación pública y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I del artículo 26 de esta Ley, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la convocatoria, misma que deberá cumplir con los términos establecidos en la propia convocatoria. La convocatoria podrá indicar supuestos adicionales bajo los cuales podrá declararse desierta una licitación pública, y
 
 II. La institución financiera participante que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a 2 días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos, incluyendo la página oficial de Internet del propio Ente Público, publicando el documento en que conste la comparación de las propuestas presentadas.
 
@@ -470,9 +532,11 @@ Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
 
 Las Entidades Federativas y los Municipios presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia el artículo 26, fracción IV, calculada conforme a la metodología que para tal efecto emita la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 32.
 
-Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en el Capítulo I del presente Título Tercero.
+Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 
 ### CAPÍTULO III. De la Contratación de Deuda Pública por parte de la Ciudad de México
 
@@ -608,9 +672,11 @@ Asimismo, la Secretaría enviará un reporte a la comisión legislativa bicamera
 
 ### CAPÍTULO V. Del Sistema de Alertas
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 43.
 
-La Secretaría deberá realizar una evaluación de los Entes Públicos que tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, de acuerdo a su nivel de endeudamiento.
+La Secretaría deberá realizar una evaluación de los Entes Públicos que tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, cuya fuente o garantía de pago sea de Ingresos de libre disposición, de acuerdo a su nivel de endeudamiento. Para aquellos casos en los que las Entidades Federativas o Municipios realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, se consolidarán estos con los Financiamientos y Obligaciones de la Entidad Federativa o Municipio y serán computables para efectos del Sistema de Alertas.
 
 Tratándose de Obligaciones derivadas de contratos de Asociación Público-Privada, la evaluación a que se refiere el párrafo anterior debe considerar las erogaciones pendientes de pago destinadas a cubrir los gastos correspondientes a la Inversión pública productiva.
 
@@ -626,7 +692,9 @@ Para el caso de los proyectos contratados bajo esquemas de Asociación Público-
 
 II. Indicador de Servicio de la Deuda y de Obligaciones sobre Ingresos de libre disposición, el cual está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros atados a cada Financiamiento y pago por servicios derivados de esquemas de Asociación Público-Privada destinados al pago de la inversión, y
 
-III. Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas sobre Ingresos totales, el cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de 12 meses en relación con los Ingresos totales.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+III. Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas, menos los montos de efectivo, bancos e inversiones temporales, sobre Ingresos totales, el cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de 12 meses en relación con los ingresos totales.
 
 La definición específica de cada indicador, su aplicación, periodicidad de medición y la obligación de entrega de información por parte de los Entes Públicos, serán establecidas en las disposiciones que al efecto emita la Secretaría. En caso de modificación de dichas disposiciones, como mínimo deberá establecerse un período de 180 días para su entrada en vigor.
 
@@ -656,15 +724,25 @@ Para los casos previstos en el artículo 7, fracciones I, II y III de esta Ley, 
 
 Para efectos de la determinación del Techo de Financiamiento Neto de aquellos Entes Públicos que no tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, que den lugar a la evaluación que deberá realizar la Secretaría sobre los indicadores del Sistema de Alertas de acuerdo a los artículos 43 y 44 de esta Ley, tendrán que entregar la información requerida por la Secretaría de acuerdo al Reglamento del Registro Público Único para la evaluación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 47.
 
-En caso de que un Ente Público, con excepción de las Entidades Federativas y los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un convenio con la Entidad Federativa o Municipio, para establecer obligaciones específicas de responsabilidad hacendaria.
+En caso de que un Ente Público, con excepción del Poder Ejecutivo de la Entidad Federativa y de los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un convenio con el Poder Ejecutivo de la Entidad Federativa o con el Municipio, para establecer obligaciones específicas de responsabilidad hacendaria.
 
-Los Entes Públicos celebrarán los convenios con la Entidad Federativa o Municipio, según corresponda. El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio, estará a cargo de la Entidad Federativa o Municipio, según corresponda. El seguimiento referido deberá realizarse con una periodicidad trimestral, remitirse a la Secretaría y publicarse a través de las páginas oficiales de Internet del ente responsable del seguimiento.
+El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio, estará a cargo del Poder Ejecutivo de la Entidad Federativa o del Municipio, según corresponda. El seguimiento referido deberá realizarse con una periodicidad trimestral, remitirse a la Secretaría y publicarse a través de las páginas oficiales de Internet del ente responsable del seguimiento.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
 
 ###### Artículo 48.
 
-El Sistema de Alertas será publicado en la página oficial de Internet de la Secretaría de manera permanente, debiendo actualizarse trimestralmente, dentro de los 60 días naturales posteriores al término de cada trimestre.
+El Sistema de Alertas será publicado en la página oficial de Internet de la Secretaría de manera permanente, debiendo actualizarse de la siguiente manera:
+
+a) Trimestralmente, tratándose de Entidades Federativas, dentro de los 60 días naturales posteriores al término de cada trimestre;
+
+b) Semestralmente, para el caso de los Municipios, dentro de los 90 días naturales posteriores al término de cada semestre, y
+
+c) Anualmente, en el caso de Entes Públicos distintos de la administración pública centralizada de las Entidades Federativas y los Municipios, a más tardar el último día hábil de agosto del ejercicio fiscal de que se trate.
 
 ### CAPÍTULO VI. Del Registro Público Único
 
@@ -690,6 +768,10 @@ I. Los Financiamientos y Obligaciones deberán cumplir con los requisitos establ
 
 II. En el caso de Financiamientos y Obligaciones que utilicen como Garantía o Fuente de pago las participaciones o aportaciones federales, se deberá cumplir con las disposiciones establecidas en la Ley de Coordinación Fiscal;
 
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
+Las Entidades Federativas o Municipios que realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, deberán cumplir con los requisitos que al efecto determine el Reglamento del Registro Público Único. En los reportes que en términos de esta Ley deben presentarse respecto de los Financiamientos y Obligaciones, éstos serán consolidados con los Financiamientos y Obligaciones de la Entidad Federativa o del Municipio, según corresponda;
+
 III. En el caso de la Ciudad de México se deberá cumplir además con lo previsto en el Capítulo III del Título Tercero de esta Ley, lo cual deberá ser acreditado con la inscripción en el Registro de la Deuda del Sector Público Federal;
 
 IV. En el caso de la Deuda Estatal Garantizada se deberá contar con la inscripción en el Registro de la Deuda del Sector Público Federal;
@@ -712,9 +794,15 @@ XI. Los demás requisitos que establezca el propio reglamento del Registro Públ
 
 En el Registro Público Único se inscribirán en un apartado específico las Obligaciones que se deriven de contratos de Asociaciones Público-Privadas. Para llevar a cabo la inscripción, los Entes Públicos deberán presentar al Registro Público Único la información relativa al monto de inversión del proyecto a valor presente y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 53.
 
-La disposición o desembolso del Financiamiento u Obligación a cargo de los Entes Públicos estará condicionada a la inscripción de los mismos en el Registro Público Único, excepto tratándose de Obligaciones a corto plazo o emisión de valores, en cuyo caso deberán quedar inscritos en un período no mayor a 30 días, contados a partir del día siguiente al de su contratación, de la fecha de cierre del libro o de subasta, según corresponda.
+La disposición o desembolso del Financiamiento u Obligación a cargo de los Entes Públicos estará condicionada a la inscripción de los mismos en el Registro Público Único, excepto tratándose de Obligaciones a corto plazo o emisión de valores.
+
+En el caso de Obligaciones a corto plazo la solicitud de inscripción deberá presentarse ante el Registro Público Único, en un período no mayor a 30 días naturales contados a partir del día siguiente al de su contratación.
+
+Tratándose de emisión de valores, el Ente Público deberá presentar en un plazo de diez días hábiles siguientes a la inscripción de la emisión en el Registro Público Único, la colocación o circulación de los valores a efecto de perfeccionar la inscripción.
 
 ###### Artículo 54.
 
@@ -808,7 +896,7 @@ OCTAVO.- El registro de proyectos de Inversión pública productiva de cada enti
 
 NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
 
-En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2018)</small>
 
 DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de acuerdo al artículo 21 de dicha Ley.
 
@@ -849,3 +937,23 @@ VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cual
 Ciudad de México, a 17 de marzo de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad vigente en el momento de su contratación.
+
+Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018, con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
+
+En el caso de los Entes Públicos distintos a la administración pública centralizada de las Entidades Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2020.
+
+Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
+
+Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
