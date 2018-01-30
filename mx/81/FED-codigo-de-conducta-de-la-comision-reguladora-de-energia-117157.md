@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-comision-reguladora-de-energia-117157"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-11-11"
-last_updated: "2016-11-11"
+last_updated: "2018-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-06"
 
 CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 11 de noviembre de 2016.
 
@@ -151,11 +151,13 @@ Visión.
 
 La Comisión es un Órgano Regulador Coordinado en Materia Energética que de manera autónoma, transparente y eficiente orienta los intereses de los usuarios y sujetos regulados al desarrollo de un mercado energético competitivo y sostenible, en beneficio de la sociedad.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+
 ###### Artículo 3.
 
 Misión.
 
-La misión de la Comisión es regular de manera transparente, imparcial y eficiente las actividades de la industria energética que son de su competencia, a fin de generar certidumbre que aliente la inversión productiva, fomentar una sana competencia, propiciar una adecuada cobertura y atender a la confiabilidad, calidad y seguridad en el suministro y la prestación de los servicios a precios competitivos, en beneficio de la sociedad.
+La misión de la Comisión es regular de manera transparente, imparcial y eficiente las actividades de los mercados energéticos que son de su competencia, a fin de generar certidumbre que aliente la inversión productiva, fomentar una sana competencia, propiciar una adecuada cobertura y atender a la confiabilidad, calidad y seguridad en el suministro y la prestación de los servicios a precios competitivos, en beneficio de la sociedad.
 
 ###### Artículo 4.
 
@@ -261,7 +263,9 @@ VI. Ofrecer un trato justo, cordial, equitativo y empático, orientado siempre p
 
 VII. Practicar una actitud de apertura, acercamiento, transparencia y rendición de cuentas y promover la participación de la sociedad;
 
-VIII. Tratar con dignidad, respeto y de manera cordial a todo el personal que labora en la Comisión sin hacer distinción de tipo alguno que atente contra la dignidad humana;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+VIII. Tratar con dignidad, respeto y de manera cordial a todo el personal que labora en la Comisión, sin hacer distinción de tipo alguno que atente contra la dignidad humana. El servidor público deberá conducirse en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
 
 IX. Tomar decisiones en apego a la ley y a los principios establecidos en el presente Código;
 
@@ -509,7 +513,9 @@ b. El superior inmediato instruirá al servidor público por escrito respecto a 
 
 c. El superior inmediato notificará por escrito al Comité de Ética las determinaciones adoptadas.
 
-IV. En caso de que el Servidor Público no se apegue a las fracciones anteriores, se estará a lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2018)</small>
+
+IV. En caso de que el Servidor Público no se apegue a las fracciones anteriores, se estará a lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 19.
 
@@ -559,165 +565,61 @@ Esta declaración de intereses será independiente a la que se presenten los ser
 
 El Comité de Ética emitirá el formato que considere los elementos mínimos requeridos en dicha Declaración de Intereses.
 
+> <small>[N. DE E. PARA LA PRESENTE DEROGACIÓN SE SUGIERE CONSULTAR EL CONSIDERANDO CUARTO DEL ACUERDO NÚMERO A/081/2017, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2018.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE ENERO DE 2018)</small>
+
 ## TÍTULO QUINTO. Naturaleza, integración, facultades y obligaciones del Comité de Ética
 
 ###### Artículo 22.
 
-Naturaleza del Comité de Ética.
-
-El Comité de Ética es el órgano de consulta y asesoría especializada integrado al interior de la Comisión para coadyuvar en la emisión, aplicación y cumplimiento del presente Código.
-
-Asimismo, es la instancia encargada de atender y orientar los casos de hostigamiento y acoso sexual o laboral que se presenten al interior de la Comisión, así como encauzar y dar acompañamiento a aquellos casos en materia de igualdad y no discriminación.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 23.
 
-Integración del Comité de Ética.
-
-El Comité se integrará de acuerdo con las Bases que emita el propio Comité, en apego a las disposiciones que establezca la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 24.
 
-Facultades y Obligaciones del Comité de Ética.
-
-El Comité de Ética tendrá las facultades y obligaciones que a continuación se señalan:
-
-I. Establecer mecanismos para recibir, investigar y atender quejas y denuncias contra posibles actos contrarios al Código de Ética o al presente Código, o actos específicos de hostigamiento y acoso sexual o laboral;
-
-II. Tratar con estricta confidencialidad la información procedente de quejas y denuncias;
-
-III. Dirigir al Órgano Interno de Control los casos que de manera fundada contravienen al Código de Ética o al presente Código;
-
-IV. Realizar llamadas de atención a los Servidores Públicos ante situaciones contrarias a los valores institucionales, principios éticos y normas de conducta establecidos en este Código;
-
-V. Implementar acciones para prevenir la incidencia de actos contrarios al presente Código;
-
-VI. Presentar al Comisionado Presidente un informe anual sobre el estado que guardan la ética y conducta en la Comisión, así como las acciones implementadas para impulsar la cultura de la ética y conducta institucionales;
-
-VII. Las demás que establezcan otras disposiciones en la materia.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 25.
 
-Facultades y obligaciones de la Presidencia del Comité.
-
-La Presidencia del Comité tendrá las facultades y obligaciones siguientes:
-
-I. Resolver sobre las solicitudes presentadas por los Servidores Públicos de la Comisión para asistir a eventos sociales, recreativos o de cualquier otra naturaleza análoga, en los términos que establece el artículo 19 del presente Código;
-
-II. Fomentar el cumplimiento del Código de Ética y de este Código;
-
-III. Determinar los grupos de trabajo específicos que sean necesarios para atender casos concretos;
-
-IV. Ejercer el voto de calidad en los asuntos del Comité, y
-
-V. Las demás que establezcan otras disposiciones en la materia.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 26.
 
-Facultades y obligaciones de la Secretaría Ejecutiva del Comité.
-
-La Secretaría Ejecutiva del Comité tendrá las facultades y obligaciones que a continuación se señalan:
-
-I. Recibir las propuestas y solicitudes de convocatoria de los integrantes del Comité;
-
-II. Integrar el orden del día, convocar a sesión del Comité, elaborar las actas de sesión dentro de los diez días hábiles posteriores a su celebración y enviarlas a los integrantes del Comité para su aprobación y firma;
-
-III. Emitir las convocatorias para la elección de los integrantes temporales del Comité;
-
-IV. Elaborar el proyecto de programa anual de trabajo del Comité y enviarlo a los integrantes del Comité;
-
-V. Coordinar las acciones para la actualización de los indicadores de cumplimiento del presente Código;
-
-VI. Informar al Comité de la evolución de los indicadores y solicitar su difusión a través de los medios de comunicación interna;
-
-VII. Enviar copia del programa de trabajo y evolución de los indicadores al Órgano Interno de Control en la Comisión y demás autoridades competentes de la Secretaría de la Función Pública, dentro de los plazos que establezca esta última;
-
-VIII. Recibir las consultas de los Servidores Públicos de la Comisión, hacerlas del conocimiento del Comité y generar un histórico de los temas atendidos;
-
-IX. Someter a consideración del Comité, los actos que los integrantes del mismo tengan respecto a posibles actos contrarios al Código de Ética o al presente Código, o posibles actos de hostigamiento o acoso sexual o laboral por parte de Servidores Públicos de la Comisión;
-
-X. Integrar el registro de las quejas y denuncias que se reciban, así como llevar un archivo de los documentos que se generen en el Comité; y
-
-XI. Las demás que establezcan otras disposiciones en la materia.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 27.
 
-Facultades y obligaciones de los integrantes temporales.
-
-Los integrantes temporales del Comité de Ética tendrán las facultades y obligaciones siguientes:
-
-I. Ejercer su derecho a voz y voto;
-
-II. En caso de considerarlo necesario, solicitar a la Secretaría Ejecutiva del Comité convoque a sesión de trabajo del Comité de Ética;
-
-III. Revisar las actas de las sesiones que les sean enviadas por la Secretaría Ejecutiva del Comité, y en caso de que existieran observaciones a las mismas, hacerlas del conocimiento de la Secretaría Ejecutiva del Comité dentro de los cinco días hábiles siguientes a su recepción;
-
-IV. Conocer, analizar y, en su caso, opinar sobre el proyecto de programa anual de trabajo, así como determinar los indicadores de cumplimiento del presente Código y el método que se seguirá para evaluar anualmente los resultados obtenidos;
-
-V. Realizar propuestas para el mejor funcionamiento del Comité de Ética;
-
-VI. Comunicar a la Presidencia del Comité o a la Secretaría Ejecutiva del Comité las conductas contrarias al Código de Ética o al presente Código, o relacionadas con hostigamiento y acoso sexual de los Servidores Públicos de la Comisión, de las que tenga conocimiento, y
-
-VII. Capacitarse en materias relacionadas con el hostigamiento y acoso sexual y todas aquellas que faciliten la comprensión, identificación y atención de casos que pongan en riesgo la sana convivencia laboral en la Comisión; y
-
-VIII. Las demás que establezcan otras disposiciones en la materia.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 28.
 
-Facultades y obligaciones de los invitados.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
-Los invitados del Comité de Ética tendrán las facultades y obligaciones siguientes:
+> <small>[N. DE E. PARA LA PRESENTE DEROGACIÓN SE SUGIERE CONSULTAR EL CONSIDERANDO QUINTO DEL ACUERDO NÚMERO A/081/2017, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2018.]</small>
 
-I. Ejercer su derecho a voz en las sesiones del Comité de Ética;
-
-II. Realizar propuestas para el mejor funcionamiento del Comité de Ética,
-
-III. Observar la confidencialidad que sea requerida en asuntos específicos, y
-
-IV. Participar en los grupos de trabajo específicos que le sean requeridos, de acuerdo con su especialidad y en su calidad de asesores del Comité.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE ENERO DE 2018)</small>
 
 ## TÍTULO SEXTO. De la atención de quejas y denuncias
 
 ###### Artículo 29.
 
-Quejas y denuncias.
-
-Las quejas, denuncias o cualquier caso particular relacionados con posibles actos contrarios al Código de Ética, a las Reglas de Integridad o al presente Código, así como los actos de hostigamiento y acoso sexual o laboral, o bien en materia de igualdad y no discriminación que se reciban en el Comité de Ética, deberán ser analizadas y atendidas por dicho órgano, sin perjuicio de las atribuciones del Órgano Interno de Control, del Consejo Nacional para Prevenir la Discriminación, del Instituto Nacional de las Mujeres y demás autoridades competentes.
-
-Cualquier persona puede hacer del conocimiento del Comité presuntos incumplimientos al Código de Ética, las Reglas de Integridad y el presente Código, a través de la presentación de una queja o denuncia, acompañada del testimonio de un tercero.
-
-Los Servidores Públicos de la Comisión están obligados a denunciar de manera inmediata al Comité de Ética o al Órgano Interno de Control, los presuntos incumplimientos descritos en el párrafo anterior. La omisión de la denuncia también será sujeta de sanción, en los términos establecidos en el Acuerdo, los protocolos y demás normatividad aplicable en la materia.
-
-La presentación de quejas o denuncias se podrá realizar de manera presencial o electrónica. Sólo se admitirán quejas o denuncias anónimas cuando en su contenido se identifique al menos a una persona que le consten los hechos.
-
-La atención de las quejas y denuncias del orden general, se apegará al protocolo que emita el Comité de Ética.
-
-En materia de hostigamiento sexual y acoso sexual, el Comité de Ética deberá atender el protocolo que para tal efecto emita el Instituto Nacional de las Mujeres e integrará a sus programas de trabajo las acciones tendientes a prevenir estas conductas.
-
-Ambos protocolos deberán ser difundidos a todo el personal de la Comisión, por los medios institucionales.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 30.
 
-De las medidas preventivas.
-
-La Presidencia del Comité podrá determinar medidas preventivas en caso de que la queja o denuncia describa conductas en las que exista presunción de hostigamiento, agresión, amenazas, acoso o intimidación a una persona, sin que ello signifique tener como ciertos los hechos.
-
-El protocolo de atención de quejas y denuncias será elaborado y aprobado por el Comité de Ética, el cual incluirá el mecanismo para su verificación y calificación. El protocolo de prevención, atención y sanción en materia de hostigamiento sexual y acoso sexual será aquél que emita el Instituto Nacional de las Mujeres, debiendo el Comité de Ética establecer las acciones necesarias para su implementación y seguimiento.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 31.
 
-De la conciliación.
-
-Cuando los hechos narrados en una queja o denuncia afecten únicamente a la persona que la presentó, los miembros del Comité podrán intentar una conciliación entre las partes involucradas, siempre con el interés de respetar los principios y valores contenidos en el presente Código, en el Código de Ética y en las Reglas de Integridad.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ###### Artículo 32.
 
-De las conclusiones del Comité de Ética
-
-En la atención de una queja o denuncia, el Comité presentará sus conclusiones y si éstas consideran un incumplimiento al presente Código, al Código de Ética o a las Reglas de Integridad, determinará sus observaciones y en su caso, recomendaciones o extrañamientos.
-
-Si de las investigaciones de las quejas o denuncias el Comité considera que se constituyen elementos que pueden dar lugar a probables infracciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, dará vista al Órgano Interno de Control de la Comisión, sin perjuicio de que los afectados ejerzan su derecho de presentar acciones directas ante las autoridades correspondientes, según sea el caso.
-
-En la atención de casos en materia de igualdad y no discriminación, así como de hostigamiento y acoso sexual, el Comité dará el acompañamiento respectivo a los afectados, para que en su caso el Consejo Nacional para Prevenir y Eliminar la Discriminación (CONAPRED) o el Instituto Nacional de las Mujeres (INMUJERES) determinen su conclusión en el ámbito de sus respectivas competencias.
+(DEROGADO, D.O.F. 30 DE ENERO DE 2018)
 
 ## TRANSITORIOS
 
@@ -726,3 +628,15 @@ PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deja sin efectos el Código de Conducta de la Comisión Reguladora de Energía aprobado el 18 de diciembre de 2014 por el Órgano de la Comisión Reguladora de Energía.
 
 Ciudad de México, a 6 de octubre de 2016.- El Presidente, Guillermo Ignacio García Alcocer.- Rúbrica.- Los Comisionados: Marcelino Madrigal Martínez, Luis Guillermo Pineda Bernal, Jesús Serrano Landeros, Noé Navarrete González, Cecilia Montserrat Ramiro Ximénez, Guillermo Zúñiga Martínez.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ENERO DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEXTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SÉPTIMO. Inscríbase el presente Acuerdo bajo el número A/081/2017, en el registro a que se refieren los artículos 22, fracción XXVI, inciso a) y 25, fracción X, de la Ley de los Órganos Reguladores Coordinados en Materia Energética y 4 y 16, del Reglamento Interno de la Comisión Reguladora de Energía.
