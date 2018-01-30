@@ -4,7 +4,7 @@ identifier: "GRO-estatuto-organico-que-regula-la-autonomia-tecnica-y-de-123360"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-10-14"
-last_updated: "2016-10-14"
+last_updated: "2018-01-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # ESTATUTO ORGANICO QUE REGULA LA AUTONOMIA TECNICA Y DE GESTION CONSTITUCIONAL DE LA CONTRALORIA INTERNA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ACUERDO 01/CI/10-01-2018 DEL CONTRALOR INTERNO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 01/CI/10-01-2018 DEL CONTRALOR INTERNO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
 ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2018 (SIN EFECTOS).
 
 Estatuto publicado en el Alcance I del Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 14 de Octubre de 2016.
 
@@ -500,3 +500,15 @@ EL CONTRALOR INTERNO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL E
 C.P. ENRIQUE JUSTO BAUTISTA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 01/CI/10-01-2018 DEL CONTRALOR INTERNO DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Estatuto Orgánico que regula la autonomía técnica y de gestión constitucional de la Contraloría Interna del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero entrará en vigor a partir del día siguiente a su aprobación.
+
+SEGUNDO. Con la entrada en vigor del presente Estatuto, se deja sin efectos el “Estatuto Orgánico que regula la Autonomía Técnica y de Gestión Constitucional de la Contraloría Interna del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero”, aprobado mediante Acuerdo 01/CI/01-07-2016 del Contralor Interno del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, mismo que fue publicado en el Periódico Oficial del Estado de Guerrero número 83 Alcance I, el día catorce de octubre de dos mil dieciséis.
+
+TERCERO. En los casos no previstos expresamente en el presente Estatuto, se actuará conforme a lo resuelto por el Titular de la Contraloría Interna del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
