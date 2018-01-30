@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "2016-04-27"
+last_updated: "2018-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY FEDERAL DE DEUDA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -421,7 +421,7 @@ La Oficialía Mayor de la Secretaría de Energía será responsable de la separa
 
 D.O.F. 27 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
 
@@ -445,7 +445,7 @@ OCTAVO.- El registro de proyectos de Inversión pública productiva de cada enti
 
 NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
 
-En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2018)</small>
 
 DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de acuerdo al artículo 21 de dicha Ley.
 
@@ -482,3 +482,21 @@ DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del
 VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para identificar el gasto realizado con recursos provenientes de ingresos de libre disposición, transferencias federales etiquetadas y deuda pública, en los términos definidos en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.
+
+D.O.F. 30 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad vigente en el momento de su contratación.
+
+Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018, con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
+
+En el caso de los Entes Públicos distintos a la administración pública centralizada de las Entidades Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2020.
+
+Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
+
+Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
