@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-del-estado-de-jalisco-38881"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-07"
-last_updated: "2016-10-11"
+last_updated: "2018-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. EL 30 DE ENERO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES DE SU PUBLICACIÓN.]</small>
+
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1849,7 +1849,7 @@ El incumplimiento del ente público prorroga en igual plazo la fecha originalmen
 
 ###### Artículo 214.
 
-El contratista es el único responsable de la ejecución de la obra pública y debe sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto señale el ente público. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia de contratista será a cargo de este.
+El contratista es el único responsable de la ejecución de la obra pública y debe sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto señale el ente público. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia de contratista será (sic) a cargo de este.
 
 Para el caso de la obra por administración directa el responsable es el propio ente público.
 
@@ -2393,7 +2393,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 10 DE MARZO DE 2005.
 
@@ -2416,3 +2416,39 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26720/LXI/17 QUE ABROGA LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y CREA LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente ley entra en vigor a los 180 días siguientes de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto número 20442 que contiene la Ley de Obra Pública del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco" el 7 de febrero de 2004, y los decretos posteriores que la reforman, adicionan o derogan.
+
+TERCERO. Se derogan todas las disposiciones que contravengan la presente Ley.
+
+CUARTO. El Ejecutivo Estatal debe expedir las disposiciones reglamentarias correspondientes dentro de los 120 días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. En tanto se expiden los reglamentos correspondientes deben aplicarse las disposiciones reglamentarias vigentes en lo que sean procedentes y no contravengan lo dispuesto en este decreto.
+
+SEXTO. La integración y publicación del Registro Público de Testigos Sociales estará a cargo de la Contraloría del Estado y deberá aplicarse a partir de los noventa días siguientes a la entrada en vigor del presente decreto, previa publicación de la convocatoria correspondiente.
+
+SÉPTIMO. Los registros de las personas físicas y jurídicas en el RUPC del Estado inscritas a la fecha de entrada en vigor de esta Ley son válidos, y deben sujetarse en lo sucesivo a lo dispuesto en esta Ley.
+
+OCTAVO. Los procedimientos de licitación pública, concurso por invitación o adjudicación directa, así como la ejecución de obra pública por contrato o por administración directa, que se encuentren en proceso al momento de entrar en vigor la presente ley, continúan rigiéndose por la ley vigente en la fecha de su inicio hasta la terminación de la obra.
+
+NOVENO. Los procedimientos y demás asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor de la presente ley siguen rigiéndose por las disposiciones vigentes al momento que iniciaron.
+
+DÉCIMO. Los ayuntamientos deberán aplicar la presente ley entre tanto expidan sus propios reglamentos de obra pública, mismos que deben formularse en el sentido de la presente ley.
+
+DÉCIMO PRIMERO. La Comisión de Hacienda del Congreso del Estado iniciará dentro de los diez días siguientes a la publicación del presente decreto, el proceso legislativo de modificación a la Ley de Ingresos del Estado de Jalisco para el año fiscal que corresponda, en lo referente a la adecuación de pagos de derechos derivados de la aplicación de la nueva Ley de Obra Pública del Estado de Jalisco y sus Municipios.
+
+DÉCIMO SEGUNDO. La Secretaría de Infraestructura y Obra Pública deberá solicitar a la Secretaría de Planeación, Administración y Finanzas, la adecuación del Sistema Estatal de Compras Gubernamentales y Contratación de Obra Pública, y del Registro Estatal Único de Proveedores y Contratistas, precisando las necesidades que deban cubrirse para dar cumplimiento al presente decreto.
+
+DÉCIMO TERCERO. La Secretaría de Infraestructura y Obra Pública, y la Secretaría de Planeación, Administración y Finanzas, contarán con un plazo que no excederá de la entrada en vigor del presente decreto, para lo siguiente:
+
+I. Llevar a cabo las adecuaciones necesarias en el Sistema Estatal de Compras Gubernamentales y Contratación de Obra Pública, con la finalidad de incluir las funcionalidades necesarias a efecto de que puedan llevarse a cabo licitaciones electrónicas, en atención a lo dispuesto en esta Ley; y
+
+II. Llevar a cabo las adecuaciones necesarias en el Registro Estatal Único de Proveedores y Contratistas, a fin de que los contratistas puedan obtener su registro en los términos indicados en la Ley de Obra Pública para el Estado de Jalisco y su (sic) Municipios.
+
+En términos de lo dispuesto por el presente artículo, se amplía hasta el día de entrada en vigor de la Ley de Obra Pública para el Estado de Jalisco y sus Municipios, el plazo para comenzar con la operación del Sistema Electrónico de Compras Gubernamentales y Contratación de Obra Pública.
