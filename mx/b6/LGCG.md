@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2018-01-19"
+last_updated: "2018-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -142,8 +142,6 @@ La interpretación de esta Ley, para efectos administrativos, corresponde a la S
 
 A falta de disposición expresa en esta Ley, se aplicará supletoriamente la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 En todo caso, la interpretación privilegiará los principios constitucionales relativos a la transparencia y máxima publicidad de la información financiera.
@@ -218,8 +216,6 @@ III. Emitir lineamientos para el establecimiento de un sistema de costos;
 
 IV. Emitir las reglas de operación del Consejo, del comité y de los consejos de armonización contable de las entidades federativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 V. Emitir su programa anual de trabajo para el cumplimiento de esta Ley y elaborar y publicar el informe correspondiente;
@@ -229,8 +225,6 @@ VI. Solicitar la elaboración de estudios al secretario técnico;
 VII. Emitir el marco metodológico para llevar a cabo la integración y análisis de los componentes de las finanzas públicas a partir de los registros contables y el proceso presupuestario, considerando los principales indicadores sobre la postura fiscal y los elementos de las clasificaciones de los ingresos y gastos;
 
 VIII. Nombrar a los representantes de los municipios y demarcaciones territoriales del Distrito Federal que integren el consejo y el comité, en términos de las reglas de operación y ajustándose a los requisitos que establece esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -245,8 +239,6 @@ XII. Realizar ajustes a los plazos para la armonización progresiva del sistema;
 XIII. Determinar los plazos para que la Federación, las entidades federativas, los municipios adopten las decisiones que emita el consejo, y
 
 XIV. Las demás establecidas en esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -356,8 +348,6 @@ VIII. Los representantes de otras organizaciones de profesionales expertos en ma
 
 El comité tendrá las funciones siguientes, en términos de sus reglas de operación:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 I. Proponer al secretario técnico la creación o modificación de normas contables y de emisión de información financiera, así como evaluar la calidad de la información financiera que difundan los entes públicos en Internet y, en su caso, emitir recomendaciones;
@@ -457,8 +447,6 @@ I. Los inmuebles destinados a un servicio público conforme a la normativa aplic
 II. Mobiliario y equipo, incluido el de cómputo, vehículos y demás bienes muebles al servicio de los entes públicos, y
 
 III. Cualesquiera otros bienes muebles e inmuebles que el consejo determine que deban registrarse.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -742,19 +730,13 @@ Adicionalmente se deberá presentar información por dependencia y entidad, de a
 
 Las cuentas públicas de los ayuntamientos de los municipios deberán contener la información contable y presupuestaria a que se refiere el artículo 48 de la presente Ley conforme a lo que determine el Consejo, en atención a las características de los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ## TÍTULO QUINTO. De la Transparencia y Difusión de la Información Financiera
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -764,23 +746,17 @@ La generación y publicación de la información financiera de los entes públic
 
 Dicha información podrá complementar la que otros ordenamientos jurídicos aplicables ya disponen en este ámbito para presentarse en informes periódicos y en las cuentas públicas. Asimismo, la información se difundirá en los medios oficiales de difusión en términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 57.
 
 La Secretaría de Hacienda, las secretarías de finanzas o sus equivalentes de las entidades federativas, así como las tesorerías de los municipios y sus equivalentes en las demarcaciones territoriales del Distrito Federal, establecerán, en su respectiva página de Internet, los enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno así como a los órganos o instancias de transparencia competentes. En el caso de las secretarías de finanzas o sus equivalentes, podrán incluir, previo convenio administrativo, la información financiera de los municipios de la entidad federativa o, en el caso del Distrito Federal, de sus demarcaciones territoriales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 58.
 
 La información financiera que deba incluirse en Internet en términos de este Título deberá publicarse por lo menos trimestralmente, a excepción de los informes y documentos de naturaleza anual y otros que por virtud de esta Ley o disposición legal aplicable tengan un plazo y periodicidad determinada, y difundirse en dicho medio dentro de los treinta días naturales siguientes al cierre del período que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -792,21 +768,15 @@ Las recomendaciones y propuestas del comité, así como las respuestas que recib
 
 El secretario técnico recibirá y procesará los formatos, las propuestas, la estructura y contenido de la información correspondiente, y establecerá la metodología para la evaluación y los mecanismos para el seguimiento de las recomendaciones a que se refiere este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO II. De la Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 60.
 
 Las disposiciones aplicables al proceso de integración de las leyes de ingresos, los presupuestos de egresos y demás documentos que deban publicarse en los medios oficiales de difusión, se incluirán en las respectivas páginas de Internet.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -832,8 +802,6 @@ En el proceso de integración de la información financiera para la elaboración
 
 El consejo establecerá las normas, metodologías, clasificadores y los formatos, con la estructura y contenido de la información, para armonizar la elaboración y presentación de los documentos señalados en este artículo para cumplir con las obligaciones de información previstas en esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 62.
@@ -842,13 +810,9 @@ Los entes públicos elaborarán y difundirán en sus respectivas páginas de Int
 
 El consejo emitirá las normas, así como la estructura y contenido de la información que rijan la elaboración de los documentos señalados en el párrafo anterior, con el fin de armonizar su presentación y contenido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO III. De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -856,15 +820,11 @@ El consejo emitirá las normas, así como la estructura y contenido de la inform
 
 La Iniciativa de Ley de Ingresos, el Proyecto de Presupuesto de Egresos y demás documentos de los entes públicos que dispongan los ordenamientos legales, deberán publicarse en las respectivas páginas de Internet.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 64.
 
 La información que establezca el consejo relativa a la evaluación del desempeño de los programas y políticas públicas se difundirá en Internet. La información disponible relativa a la evaluación más reciente se incluirá junto con la presentación de los documentos señalados en el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -872,13 +832,9 @@ La información que establezca el consejo relativa a la evaluación del desempe�
 
 Los ordenamientos a que se refiere el artículo 63, una vez que hayan sido aprobados por los poderes legislativos y los ayuntamientos, así como los dictámenes, acuerdos de comisión y, en su caso, actas de aprobación correspondientes, conforme al marco jurídico aplicable, deberán publicarse en las respectivas páginas de Internet.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO IV. De la Información Relativa al Ejercicio Presupuestario
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -887,8 +843,6 @@ Los ordenamientos a que se refiere el artículo 63, una vez que hayan sido aprob
 La Secretaría de Hacienda publicará en el Diario Oficial de la Federación los calendarios de ingresos y de presupuesto de egresos en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Las secretarías de finanzas o sus equivalentes de las entidades federativas, así como las tesorerías de los municipios deberán publicar en Internet, los calendarios de ingresos así como los calendarios de presupuesto de egresos con base mensual, en los formatos y plazos que determine el consejo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -911,8 +865,6 @@ La presentación de la información financiera del Gobierno Federal se sujetará
 Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México se sujetarán en la presentación de la información financiera, a esta Ley y a las disposiciones jurídicas aplicables. Por lo que se refiere a los recursos federales transferidos a dichos órdenes de gobierno, observarán las disposiciones específicas de las leyes citadas en el párrafo anterior y de la Ley de Coordinación Fiscal, así como las disposiciones del presente Capítulo.
 
 En los programas en que concurran recursos federales, de las entidades federativas y en su caso, municipios y demarcaciones territoriales del Distrito Federal, se harán las anotaciones respectivas identificando el monto correspondiente a cada orden de gobierno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -954,15 +906,11 @@ IV. Dentro del registro contable a que se refiere la fracción anterior, concent
 
 V. Coadyuvar con la fiscalización de los recursos públicos federales, conforme a lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación. Para ello, la Auditoría Superior de la Federación verificará que los recursos federales que reciban las entidades federativas, los municipios y alcaldías de la Ciudad de México, se ejerzan conforme a los calendarios previstos y de acuerdo con las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 71.
 
 En términos de lo dispuesto en los artículos 79, 85, 107 y 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 48 y 49, fracción V, de la Ley de Coordinación Fiscal, y 56 de esta Ley, las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, deberán informar de forma pormenorizada sobre el avance físico de las obras y acciones respectivas y, en su caso, la diferencia entre el monto de los recursos transferidos y aquéllos erogados, así como los resultados de las evaluaciones que se hayan realizado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -981,8 +929,6 @@ III. Proyectos, metas y resultados obtenidos con los recursos aplicados, y
 IV. La demás información a que se refiere este Capítulo.
 
 La Secretaría de Hacienda dará acceso al sistema de información a la Auditoría Superior de la Federación y a las demás instancias de fiscalización, de control y de evaluación federales y de las entidades federativas que lo soliciten, con el propósito de que puedan verificar, dentro del marco de sus respectivas atribuciones y conforme a los procedimientos establecidos en las disposiciones legales, el cumplimiento en la entrega de la información, su calidad y congruencia con la aplicación y los resultados obtenidos con los recursos federales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -1014,8 +960,6 @@ II. La Secretaría de Educación Pública del Gobierno Federal deberá:
 
 a) Conciliar las cifras de matrícula escolar, correspondiente al inicio del ciclo escolar, con las entidades federativas y enviar un reporte definitivo a la Cámara de Diputados del Congreso de la Unión durante el primer semestre del año;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 b) Conciliar el número, tipo de plazas docentes, administrativas y directivas, y número de horas, de educación tecnológica y de adultos, por escuela, con las entidades federativas, determinando aquéllas que cuentan con registro en la Secretaría de Educación Pública del Gobierno Federal y las que sólo lo tienen en las entidades federativas y, en su caso, aquéllas que lo tienen en ambas;
@@ -1028,13 +972,9 @@ c) Actualizar, a más tardar el último día hábil de julio, el registro de la 
 
 La Secretaría de Educación Pública del Gobierno Federal dará acceso al sistema establecido para el registro del personal federalizado, para efectos de consulta a las instancias locales y federales de control, evaluación y fiscalización que así lo soliciten;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 d) Incluir de conformidad con la normatividad aplicable, en su página de Internet la información a que se refiere el inciso anterior, particularmente respecto a:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -1072,13 +1012,9 @@ e) Coordinarse con las entidades federativas para que los pagos de nómina se re
 
 La Secretaría de Educación Pública del Gobierno Federal analizará la información proporcionada por las entidades federativas y les comunicará los casos en los que encuentre irregularidades, a efecto de corregir las mismas, a más tardar dentro de los 30 días naturales siguientes al término del trimestre respectivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 f) Enviar a la Cámara de Diputados del Congreso de la Unión, a la Secretaría de Hacienda y a la Secretaría de la Función Pública, durante el primer semestre del año, el listado de nombres, plazas y de entidades federativas en las que identifique doble asignación salarial que no sea compatible geográficamente, cuando la ocupación sea igual o superior a dos plazas en municipios no colindantes, y reportar durante el tercer trimestre del año, sobre la corrección de las irregularidades detectadas, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -1087,8 +1023,6 @@ g) Vigilar el monto de las remuneraciones, informando a la Cámara de Diputados 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 Para el cumplimiento de lo previsto en este artículo, el consejo solicitará a la Secretaría de Educación Pública del Gobierno Federal los formatos y el modelo de estructura de información que sean necesarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1138,8 +1072,6 @@ f) Incluir en su página de Internet la información que sea remitida por las en
 
 Para el cumplimiento de lo previsto en este artículo, el consejo solicitará a la Secretaría de Salud del Gobierno Federal los formatos y el modelo de estructura de información que sean necesarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
@@ -1153,8 +1085,6 @@ La Secretaría de Desarrollo Social del Gobierno Federal remitirá trimestralmen
 ###### Artículo 76.
 
 Los municipios, las demarcaciones territoriales de la Ciudad de México y en su caso, las entidades federativas, previo convenio de colaboración administrativa, difundirán en Internet la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, especificando cada uno de los destinos señalados para dicho Fondo en la Ley de Coordinación Fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1171,8 +1101,6 @@ III. El presupuesto comprometido, devengado y pagado correspondiente al ejercici
 La información sobre el destino de los recursos deberá estar claramente asociada con los objetivos de las estrategias definidas por el Consejo Nacional de Seguridad Pública.
 
 Para el cumplimiento de lo previsto en este artículo, el consejo solicitará al Consejo Nacional de Seguridad Pública los lineamientos y el modelo de estructura de información que sean necesarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1207,8 +1135,6 @@ a) En el caso de amortizaciones:
 b) El tipo de operación de saneamiento financiero que, en su caso, hayan realizado, incluyendo la relativa a la fracción III del artículo 47 de la Ley de Coordinación Fiscal.
 
 Los datos de producto interno bruto y los ingresos propios de los estados y municipios mencionados en la fracción anterior, que se utilicen como referencia, deberán ser los más recientes a la fecha del informe, que hayan emitido el Instituto Nacional de Estadística y Geografía o la Secretaría de Hacienda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1274,8 +1200,6 @@ Los actos u omisiones que impliquen el incumplimiento a los preceptos establecid
 
 Las responsabilidades administrativas se fincarán, a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa, mala fe o negligencia por parte de los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 57], D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 85.
@@ -1299,8 +1223,6 @@ V. No tener o no conservar, en los términos de la normativa, la documentación 
 Las sanciones administrativas a que se refiere este artículo se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
 
 Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II y IV del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1444,7 +1366,7 @@ Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el
 
 D.O.F. 27 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
 
@@ -1468,7 +1390,7 @@ OCTAVO.- El registro de proyectos de Inversión pública productiva de cada enti
 
 NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
 
-En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2018)</small>
 
 DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de acuerdo al artículo 21 de dicha Ley.
 
@@ -1531,3 +1453,21 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO PRIMERO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad vigente en el momento de su contratación.
+
+Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018, con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
+
+En el caso de los Entes Públicos distintos a la administración pública centralizada de las Entidades Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2020.
+
+Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
+
+Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
