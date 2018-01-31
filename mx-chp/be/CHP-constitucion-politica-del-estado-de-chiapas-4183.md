@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2017-09-06"
+last_updated: "2018-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1049,11 +1049,13 @@ XXXVII. Aprobar, por mayoría de sus miembros presentes, el convenio y el progra
 
 Estas facultades serán ejercidas por el pleno del congreso en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2018)</small>
 
 ###### Artículo 46.
 
-Dentro de los 125 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 155 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 El Congreso del Estado podrá acordar que el informe se lleve a cabo en diversas sesiones, en las que el Ejecutivo del Estado deberá informar en cada Región, lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Gobernador del Estado propondrá al Congreso las sedes y sesiones que sean necesarias llevarse a cabo, así como de ser necesario, designará al Servidor Público que deberá exponer el citado informe, de conformidad a la importancia de los asuntos a analizar.
 
@@ -1341,7 +1343,9 @@ XVI. Iniciar ante el Congreso del Estado, las leyes y decretos que juzgue conven
 
 XVII. Solicitar a la Comisión Permanente que convoque al Congreso del Estado a Sesiones Extraordinarias.
 
-XVIII.- Presentar al Congreso del Estado, dentro de los 125 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2018)</small>
+
+XVIII. Presentar al Congreso del Estado, dentro de los 155 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
 
 El Gobernador del Estado, en relación a los informes que se llevarán a cabo en cada región, podrá presentarlos por sí o a través de los servidores públicos que el designe, antes de los ocho días previos o cinco días posteriores a la réplica de los mismos.
 
@@ -4412,3 +4416,11 @@ Los Órganos Jurisdiccionales Locales con competencia en los Municipios de Silte
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, la Secretaría de Planeación, Gestión Pública y Programa de Gobierno deberá gestionar ante el Instituto Nacional de Estadística y Geografía el registro de los nombres y la georeferenciación de los nuevos municipios de Capitán Luis Ángel Vidal y Rincón Chamula San Pedro, conforme al Marco Geoestadístico Nacional a fin de obtener las claves municipal correspondientes.
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 147 POR EL QUE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
