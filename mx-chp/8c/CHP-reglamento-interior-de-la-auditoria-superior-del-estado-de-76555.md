@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-auditoria-superior-del-estado-de-7655
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-14"
-last_updated: "2016-06-01"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,123 +21,29 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE CHIAPAS
 
-CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS
 
-Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018 (ABROGADO).
 
-Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de julio de 2010.
 
-El C. Presidente Constitucional Substituto de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Código:
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo del Estado de Chiapas.- OFSCE, Chiapas.
 
-"ABELARDO L. RODRIGUEZ, Presidente Substituto Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+Órgano de Fiscalización Superior del Congreso del Estado
 
-Que en uso de las facultades que me fueron concedidas por decreto expedido por el Congreso de la Unión con fecha 27 de diciembre de 1933, he tenido a bien expedir el siguiente
+C.P. Humberto Blanco Pedrero, Auditor Superior del Estado de Chiapas, con fundamento en el artículo 72, fracción V, de la Ley de Fiscalización Superior del Estado de Chiapas, expido el siguiente:
 
-CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
+Reglamento Interior de la Auditoría Superior del Estado de Chiapas
 
-## TITULO PRELIMINAR
+### Capítulo I. Del Ámbito de Competencia y Organización de la Auditoría Superior del Estado de Chiapas
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 1o.
-
-El presente Código comprende los siguientes procedimientos:
-
-I.- El de averiguación previa a la consignación a los tribunales, que establece las diligencias legalmente necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción penal;
-
-II.- El de preinstrucción, en que se realizan las actuaciones para determinar los hechos materia del proceso, la clasificación de éstos conforme al tipo penal aplicable y la probable responsabilidad del inculpado, o bien, en su caso, Ia libertad de éste por falta de elementos para procesar;
-
-III.- El de instrucción, que abarca las diligencias practicadas ante y por los tribunales con el fin de averiguar y probar la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, así como la responsabilidad o irresponsabilidad penal de éste;
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-IV.- El de primera instancia, durante el cual el Ministerio Público precisa su pretensión y el procesado su defensa ante el Tribunal, y éste valora las pruebas y pronuncia sentencia definitiva;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-V.- El de segunda instancia ante el tribunal de apelación, en que se efectúan las diligencias y actos tendientes a resolver los recursos;
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-VI.- El de ejecución, que comprende desde el momento en que cause ejecutoria la sentencia de los tribunales hasta la extinción de las sanciones aplicadas;
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-VII.- Los relativos a inimputables, a menores y a quienes tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 2o.
-
-Dentro del período de averiguación previa la Policía Judicial Federal deberá, en ejercicio de sus facultades:
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-I.- Recibir las denuncias de los particulares o de cualquiera otra autoridad, sobre hechos que puedan constituir delitos de orden federal, sólo cuando por las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que la Policía Judicial Federal informará de inmediato acerca de las mismas y de las diligencias practicadas. Las diversas policías, cuando actúen en auxilio de la Policía Judicial, inmediatamente darán aviso al Ministerio Público, dejando de actuar cuando éste lo determine;
-
-II.- Practicar la averiguación previa; y
-
-III.- Buscar las pruebas de la existencia de los delitos del orden federal y de la responsabilidad de quienes en ellos hubieren participado.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1954)</small>
-
-###### ARTICULO 3o.
-
-Dentro del mismo periodo, el Ministerio Público Federal deberá:
-
-> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1954)</small>
-
-I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades y policías cuando conforme a la ley, ejerzan funciones de policía judicial.
-
-II.- Ejercitar la acción penal.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 4o.
-
-Los procedimientos de preinstrucción, instrucción y primera instancia, así como la segunda instancia ante el tribunal de apelación, constituyen el proceso penal federal, dentro del cual corresponde exclusivamente a los tribunales federales resolver si un hecho es o no delito federal, determinar la responsabilidad o irresponsabilidad penal de las personas acusadas ante ellos e imponer las penas y medidas de seguridad que procedan con arreglo a la ley.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-Dentro de estos procedimientos, el Ministerio Público y la policía judicial bajo el mando de aquél, en su caso, ejercitarán también las funciones que les encomiende la fracción III del artículo 2o.; y el Ministerio Público cuidará de que los Tribunales Federales apliquen estrictamente las leyes relativas, y de que las resoluciones de aquéllos se cumplan debidamente.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 5o.
-
-En el procedimiento de ejecución, el Poder Ejecutivo, por conducto del órgano que la ley determine, ejecutará las penas y medidas de seguridad decretadas en las sentencias de los tribunales hasta su extinción; y el Ministerio Público cuidará de que se cumplan debidamente las sentencias judiciales.
-
-## TITULO PRIMERO. Reglas generales para el procedimiento penal
-
-### CAPITULO I. Competencia
-
-###### ARTICULO 6o.
-
-Es tribunal competente para conocer de un delito, el del lugar en que se comete.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
-
-Si el delito produce efectos en dos o más entidades federativas, será competente el juez de cualquiera de éstas o el que hubiera prevenido.
-
-###### ARTICULO 7o.
-
-En los casos de los artículos 2°, 4° y 5°, fracción V, del Código Penal, será competente el tribunal en cuya jurisdicción territorial se encuentre el inculpado; pero si éste se hallare en el extranjero, lo será para solicitar la extradición, instruir y fallar el proceso, el tribunal de igual categoría en el Distrito Federal, ante quien el Ministerio Público ejercite la acción penal.
-
-###### ARTICULO 8o.
-
-En los casos de las fracciones I y II del artículo 5° del Código Penal, es competente el tribunal a cuya jurisdicción corresponda el primer punto del territorio nacional adonde arribe el buque; y en los casos de la fracción III del mismo artículo, el tribunal a cuya jurisdicción pertenezca el puerto en que se encuentre o arribe el buque.
-
-###### ARTICULO 9o.
-
-Las reglas del artículo anterior son aplicables, en los casos análogos, a los delitos a que se refiere la fracción IV del mismo artículo 5° del Código Penal.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 1°.
 
-La Auditoría Superior del Estado tiene a su cargo la revisión y fiscalización superior de la cuenta pública del Estado y municipios, y de manera cualitativa las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos, así como las atribuciones que expresamente le encomienden la Constitución Política del Estado Libre y Soberano de Chiapas, la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales aplicables.
+La Auditoría Superior del Estado tiene a su cargo la revisión y fiscalización superior de la cuenta pública del Estado y Municipios y de manera cualitativa, verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales, así como las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos, así como las atribuciones que expresamente le encomienden la Constitución Política del Estado de Chiapas, la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales aplicables.
 
 ###### Artículo 2°.
 
@@ -165,19 +71,21 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 2.2.3. Subdirección de Desarrollo de la Hacienda Pública.
 
-2.3. Coordinación de Evaluación de Políticas Públicas y Objetivos de Desarrollo del Milenio.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.3.1. Subcoordinación de Evaluación "A".
+2.3. Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización.
 
-2.3.2. Subcoordinación de Evaluación "B".
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.1.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.4. Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización.
+2.3.1. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Poderes y Entes Públicos del Estado.
 
-2.4.1. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Poderes y Entes Públicos del Estado.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.2.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.4.2. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Municipios.
+2.3.2. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Municipios.
 
-2.5. Coordinación de Registro y Control de Situación Patrimonial.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.5.], P.O. 1 DE JUNIO DE 2016)</small>
+
+2.4. Coordinación de Registro y Control de Situación Patrimonial.
 
 3. Auditoría Especial de los Poderes del Estado, Municipios y Entes Públicos.
 
@@ -204,6 +112,18 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 3.2.4. Subdirección de Auditoría a Municipios "D".
 
 3.2.5. Subdirección de Auditoría a Municipios "E".
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3. Dirección de Auditoría de Desempeño.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3.1. Subdirección de Auditoría de Desempeño a Poderes y Entes Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3.2. Subdirección de Auditoría de Desempeño a Municipios.
 
 4. Unidad de Asuntos Jurídicos.
 
@@ -239,7 +159,7 @@ La Auditoría Superior del Estado, conducirá sus actividades en forma programad
 
 La Auditoría Superior del Estado contará con un Consejo de Dirección que actuará como órgano de consulta, análisis de las estrategias institucionales y aprobación de asuntos de relevancia, presidido por el Auditor Superior del Estado e integrado por los Auditores Especiales, Directores, Titulares de Unidad, Contralor Interno y Secretario Técnico.
 
-### CAPITULO II. Formalidades
+### Capítulo II. De las Facultades del Auditor Superior del Estado
 
 ###### Artículo 4°.
 
@@ -271,7 +191,9 @@ VIII. Instruir se realice la fiscalización de las cuentas públicas, los inform
 
 IX. Autorizar la designación del personal encargado de practicar las inspecciones, visitas, auditorías y revisiones a cargo de la Auditoría Superior del Estado y la expedición de las constancias y credenciales de identificación, y en su caso, habilitar mediante la celebración de contratos de prestación de servicios a que se refiere la Ley de Fiscalización Superior del Estado de Chiapas, a profesionales de auditoría independientes;
 
-X. Autorizar la emisión de los pliegos de observaciones y los documentos que contengan la recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado, que deriven de los resultados de la revisión y fiscalización de la cuenta pública, que se remitirán a los Poderes del Estado, Municipios y entes públicos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+X. Autorizar la emisión de los pliegos de observaciones y los documentos que contengan la recomendación de acciones para mejorar las prácticas de gobierno, incluyendo las recomendaciones de desempeño y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado, que deriven de los resultados de la revisión y fiscalización de la cuenta pública, que se remitirán a los Poderes del Estado, Municipios y entes públicos;
 
 XI. Autorizar los pliegos definitivos de responsabilidades, a que den lugar las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio que afecte al Estado y Municipios, en su hacienda pública o al patrimonio de los entes públicos estatales y municipales, conforme a los ordenamientos legales y reglamentarios aplicables;
 
@@ -279,7 +201,9 @@ XII. Promover ante las autoridades competentes, el fincamiento de otras responsa
 
 XIII. Autorizar la emisión del informe del estado de solventación del pliego de observaciones, formulado a las entidades fiscalizadas;
 
-XIV. Instruir la expedición de las bases y normas para la baja de documentos justificatorios y comprobatorios para efectos de su destino final o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+XIV. Instruir que se diseñen y apliquen los instrumentos necesarios para la verificación del cumplimiento de los objetivos y metas contenidos en los programas estatales o municipales y la evaluación cualitativa de las políticas públicas alineadas a los Objetivos de Desarrollo del Milenio;
 
 XV. Fincar a los servidores públicos y a las personas físicas y morales que incurran en responsabilidades, las sanciones previstas en la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales que deban aplicarse;
 
@@ -343,7 +267,7 @@ XIV. Crear los comités internos que estime convenientes para la adecuada coordi
 
 XV. Adscribir orgánicamente las Unidades y Órganos Administrativos de la Auditoría Superior del Estado y delegar las facultades mediante Acuerdos que deberán ser publicados en el Periódico Oficial del Estado.
 
-### CAPITULO III. Intérpretes
+### Capítulo III. De las Facultades de los Auditores Especiales
 
 ###### Artículo 7°.
 
@@ -419,9 +343,11 @@ II. Coordinar el análisis de la información de las finanzas públicas del Esta
 
 III. Coordinar el examen de la información financiera, económica, programática y presupuestal que se presente en la cuenta pública y en el informe de avance de gestión financiera, cuidando en todo momento, que ambos documentos sean presentados conforme a lo dispuesto por la Ley de Fiscalización Superior del Estado y con sujeción a la Ley General de Contabilidad Gubernamental;
 
-IV. Establecer la metodología para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal y de manera cualitativa las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-V. Dirigir la revisión y fiscalización cualitativa de las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
+IV. Establecer la metodología para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal, así como aquella que permita verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales y las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos;
+
+V. (DEROGADA, P.O. 1 DE JUNIO DE 2016)
 
 VI. Coordinar la integración y actualización del marco normativo general para la fiscalización de la gestión gubernamental a cargo de la Auditoría Superior del Estado;
 
@@ -457,7 +383,7 @@ XXI. Coordinar la integración del Plan Estratégico Institucional, con la parti
 
 XXII. Dirigir la integración del Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores específicos y someterlo a la autorización del Auditor Superior del Estado, así como vigilar su cumplimiento;
 
-XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y, (sic)
+XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y,
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
@@ -473,7 +399,9 @@ Al Auditor Especial de los Poderes del Estado, Municipios y Entes Públicos, le 
 
 I. Coordinar la planeación y programación de las actividades de las Direcciones de su adscripción;
 
-II. Coordinar las auditorías, visitas, inspecciones y revisiones que las Direcciones de su adscripción practiquen a los Poderes del Estado, Municipios y Entes Públicos, en la revisión y fiscalización de los informes mensuales de cuenta pública municipal, de avance de gestión financiera y las cuentas públicas, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+II. Coordinar las auditorías, visitas, inspecciones y revisiones que las Direcciones de su adscripción practiquen a los Poderes del Estado, Municipios y Entes Públicos, en la revisión y fiscalización de los informes mensuales de cuenta pública municipal, de avance de gestión financiera y las cuentas públicas, así como aquellas orientadas a verificar el cumplimiento de los objetivos y metas de los programa (sic) estatales o municipales, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
 
 III. Coordinar que las Direcciones de su adscripción en la revisión y fiscalización superior, constaten que las entidades fiscalizadas hayan efectuado los registros de la estimación, recaudación y asignación de los ingresos, de los programas, proyectos y acciones ejecutados, y que los procedimientos aplicados fueron suficientes para salvaguardar y controlar debidamente los bienes públicos;
 
@@ -511,3820 +439,1072 @@ XIX. Promover ante las autoridades competentes, el fincamiento de otras responsa
 
 XX. Presentar denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus haciendas públicas, o al patrimonio de los entes públicos fiscalizados, así como denuncias de juicio político; de conformidad con lo señalado en el Título Noveno de la Constitución Política del Estado Libre y Soberano de Chiapas; y,
 
-XXI. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2016)</small>
 
-### CAPITULO IV. Despacho de los asuntos
+XXI. Aprobar las recomendaciones derivadas de las auditorías de desempeño practicadas por las áreas de su adscripción, y verificar, a través de la Dirección de Auditoría de Desempeño, que las entidades fiscalizadas atiendan su cumplimiento o manifiesten las razones de no adopción de las recomendaciones.
 
-###### ARTICULO 10.
+XXII. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
-Es competente para conocer de los delitos continuados y de los continuos o permanentes, cualquiera de los tribunales en cuyo territorio aquéllos produzcan efectos o se hayan realizado actos constitutivos de tales delitos.
+### Capítulo IV. De las Facultades de los Directores y Coordinadores
 
-###### ARTICULO 11.
+###### Artículo 10.
 
-Para la decisión de las competencias se observarán las siguientes reglas:
+Los Titulares de las Direcciones y las Coordinaciones tendrán, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, las facultades generales siguientes:
 
-I. Las que se susciten entre tribunales federales se decidirán conforme a los artículos anteriores, y si hay dos o más competentes a favor del que haya prevenido.
+I. Planear, programar, coordinar y ejecutar las actividades a su cargo de acuerdo con los lineamientos establecidos;
 
-II. Las que se susciten entre los tribunales de la Federación y los de los Estados, Distrito o Territorios Federales, se decidirán declarando cuál es el fuero en que radica la jurisdicción.
+II. Ejecutar y controlar los programas específicos y presupuestos asignados para el desarrollo de las funciones de la competencia de las Unidades Administrativas de su adscripción;
 
-III. Las que se susciten entre los tribunales de un Estado y los de otro, o entre los de éstos y los del Distrito o Territorios Federales se decidirán conforme a las leyes de esas Entidades, si tienen la misma disposición respecto del punto jurisdiccional controvertido. En caso contrario, se decidirán con arreglo a lo dispuesto en este Capítulo.
+III. Acordar con su superior jerárquico los asuntos cuya atención, trámite o resolución se encuentren dentro del ámbito de su competencia;
 
-###### ARTICULO 12.
+IV. Formular los estudios, opiniones, dictámenes, informes y demás documentos que les sean requeridos por su superior jerárquico;
 
-En materia penal, no cabe prórroga ni renuncia de jurisdicción.
+V. Proporcionar, conforme a sus facultades y de acuerdo con las políticas y normas establecidas la información, documentación, datos, informes y asesorías o cooperación técnica que le requieran otras Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-###### ARTICULO 13.
+VI. Supervisar la aplicación de los mecanismos de control y evaluación para el mejoramiento de la eficiencia operativa y funcional de las Unidades Administrativas a su cargo, de acuerdo con los manuales de organización y de procedimientos;
 
-Ningún tribunal puede promover competencia a su superior jerárquico.
+VII. Proporcionar la información correspondiente, para la elaboración del anteproyecto de presupuesto anual de la Auditoría Superior del Estado;
 
-###### ARTICULO 14.
+VIII. Vigilar el cumplimiento de las disposiciones laborales aplicables al funcionamiento de las Unidades Administrativas a su cargo y, en su caso, promover la imposición de las sanciones procedentes;
 
-Cuando los detenidos fueren reclamados por autoridades de dos o más Estados, o por las de éstos y las del Distrito o Territorios Federales, y no hubiere conformidad entre las autoridades requerientes y la requerida, la Suprema Corte de Justicia hará la declaración de preferencia. También resolverá lo procedente, en el caso de que la autoridad requerida se niegue a obsequiar un exhorto expedido conforme a la ley, para la aprehensión de un inculpado.
+IX. Proponer a su superior jerárquico, los nombramientos o promociones del personal de confianza de su adscripción; así como promover en el ámbito de su competencia, la investigación de los actos u omisiones que impliquen alguna irregularidad o conducta ilícita de dicho personal, a efecto de que se impongan las sanciones que procedan, cuando incurran en responsabilidades en el desempeño de sus funciones;
 
-Cuando los detenidos o los inculpados sean reclamados por dos o más tribunales federales, resolverá el tribunal de competencias respectivo.
+X. Proporcionar la información que se requiera para la elaboración de los manuales de organización y de procedimientos de la Dirección, Coordinación y Unidades Administrativas a su cargo, así como proponer las reformas y adiciones necesarias;
 
-###### ARTICULO 15.
+XI. Proponer a su superior jerárquico, los proyectos para integrar el Plan Estratégico Institucional, el Programa Anual de Actividades y la mejora continua de la gestión de las Unidades Administrativas a su cargo;
 
-Las actuaciones podrán practicarse a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación y en cada una de ellas se expresará el día, mes y año en que se practiquen.
+XII. Establecer comunicación con las entidades fiscalizadas, para facilitar la práctica de las auditorías, visitas, inspecciones y revisiones, de acuerdo con las normas establecidas y las que al respecto dicte el Auditor Superior del Estado;
 
-###### ARTICULO 16.
+XIII. Desempeñar las comisiones y, en su caso, participar en las auditorías, visitas, inspecciones y revisiones, que su superior jerárquico o el Auditor Superior del Estado le encomienden, e informar sobre el desarrollo de sus actividades;
 
-El Juez y los miembros de la policía judicial, estarán acompañados en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas pase.
+XIV. Coordinarse con las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, para el mejor desempeño de sus funciones;
 
-En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
+XV. Coadyuvar en la atención de quejas, denuncias y reportes, sobre presuntas irregularidades cometidas por servidores públicos, que impliquen un daño a la hacienda pública estatal y/o municipal o al patrimonio de sus entes públicos, en coordinación con la Contraloría Interna de la Auditoría Superior del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+XVI. Cambiar de adscripción y comisionar internamente por las necesidades del servicio, al personal a su cargo;
 
-###### ARTICULO 17.
+XVII. Solicitar a las entidades fiscalizadas los informes, datos o documentos necesarios para el cumplimiento de sus facultades;
 
-En las actuaciones y promociones no se emplearán abreviaturas, no se rasparán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas, el error cometido. En la misma forma se salvarán las palabras que se hubieren entrerrenglonado.
+XVIII. Someter a la consideración de su superior jerárquico, la imposición de sanciones por incumplimiento a los requerimientos de información y documentación, así como establecer e implementar el control del seguimiento respectivo;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+XIX. Vigilar y en su caso dar atención a las solicitudes de acceso a la información pública, en los términos establecidos en la ley de la materia;
 
-Todas las fechas y datos se escribirán precisamente con letra.
+XX. Autorizar las comisiones del personal bajo su adscripción, para realizar las actividades propias de su ámbito de competencia; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+XXI. Las demás que en el ámbito de sus respectivas competencias, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-Las actuaciones del Ministerio Público y de los tribunales deberán levantarse por duplicado, ser autorizadas y conservarse en sus respectivos archivos. En todo caso, los tribunales sacarán y entregarán al Ministerio Público, para conservarse en el archivo mencionado de éste, una copia certificada de las siguientes constancias: de los autos de formal prisión, sujeción a proceso o de libertad por falta de elementos para procesar; de los autos que den entrada y resuelvan algún incidente; de las sentencias definitivas, así como de las que dicte el tribunal de apelación resolviendo definitivamente algún recurso.
+###### Artículo 11.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+Al Director de Planeación e Informes le corresponde ejercer las siguientes facultades:
 
-Excepción hecha de lo dispuesto por el artículo 23 de este Código, en ningún caso se autorizará la salida de un expediente del local del tribunal sin que previamente se notifique de ello al Ministerio Público y a quien corresponda, conforme a la ley.
+l. Proponer la solicitud de la información necesaria, para la planeación y programación de auditorías, visitas, inspecciones y revisiones;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+II. Coordinar la preparación de los análisis temáticos, para efectos de la planeación e integración del Programa Anual de Auditorías, Visitas, Inspecciones y Revisiones;
 
-###### ARTICULO 18.
+III. Dirigir la integración del Programa Anual de Auditorías, Visitas, Inspecciones y Revisiones y someterlo a la consideración del Auditor Especial de Planeación e Informes;
 
-Inmediatamente después de que se hayan asentado las actuaciones del día o agregado los documentos recibidos, el secretario foliará y rubricará las hojas respectivas y pondrá el sello del tribunal en el fondo del cuaderno, de manera que abrace las dos caras.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-El secretario guardará con la seguridad debida, bajo su responsabilidad hasta en tanto dé cuenta al juez, los documentos originales u objetos que se presenten al proceso.
+IV. Coordinar el desarrollo de la metodología, para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal, así como aquella que permita verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales y las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
 
-###### ARTICULO 19.
+V. Supervisar la elaboración de los manuales, guías y demás instrumentos necesarios para la organización interna y la fiscalización superior, sometiéndolos a la autorización correspondiente;
 
-Las actuaciones se asentarán en los expedientes en forma continua, sin dejar hojas o espacios en blanco; y cuando haya que agregar documentos, se hará constar cuáles son las fojas que les corresponden.
+VI. Promover el establecimiento de mecanismos de coordinación e intercambio de información y colaboración con instancias de control y auditoría, con el fin de mejorar la calidad de las revisiones efectuadas por la Auditoría Superior del Estado;
 
-###### ARTICULO 20.
+VII. Coordinar la integración de los informes del resultado de la revisión de las cuentas públicas estatal y municipales, que debe remitir la Auditoría Superior del Estado a la Comisión de Vigilancia del Congreso del Estado;
 
-Las promociones que se hagan por escrito deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario; pero deberán ser siempre ratificadas si el que las hace no las firma por cualquier motivo.
+VIII. Atender los requerimientos de información, en el ámbito de los convenios suscritos con la Auditoría Superior de la Federación y demás instancias competentes;
 
-###### ARTICULO 21.
+IX. Supervisar la integración del Plan Estratégico Institucional, con la participación de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado y dar a conocer su grado de cumplimiento con base en los indicadores establecidos;
 
-Los secretarios deberán dar cuenta, dentro del término de veinticuatro horas, con las promociones que se hicieren. Para el efecto, se hará constar en los expedientes el día y hora en que se presenten las promociones por escrito y se hagan las verbales.
+X. Supervisar la integración del Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores específicos y someterlo a la consideración del Auditor Especial de Planeación e Informes, así como vigilar su cumplimiento;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+XI. Establecer las estrategias para dar seguimiento al sistema de gestión de la calidad que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos;
 
-A cada promoción recaerá una resolución específica por separado, que el tribunal fundará y motivará en los términos y plazos establecidos por la Ley y de no existir término o plazos dentro de las setenta y dos horas siguientes.
+XII. Establecer mecanismos para la obtención de los resultados relevantes de las auditorías practicadas por los Órganos Internos de Control de los Poderes del Estado, Municipios y entes públicos estatales y municipales, así como evaluar su inclusión en los programas de auditorías y solicitar, en su caso, a los auditores externos de las entidades fiscalizadas, copia de los dictámenes e informes de las auditorías y revisiones por ellos practicadas;
 
-###### ARTICULO 22.
+XIII. Proponer a su superior jerárquico los criterios para la selección de las entidades a fiscalizar; y,
 
-Cada diligencia se asentará en acta por separado.
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-El inculpado, el ofendido, los peritos y los testigos firmarán al calce del acta en que consten las diligencias en que tomaron parte y al margen de cada una de las hojas donde se asiente aquélla. Si no supieren firmar imprimirán, también al calce y al margen, la huella de alguno de los dedos de la mano, debiéndose indicar en el acta cuál de ellos fue.
+XIV. Coordinar la revisión y análisis de la información generada por las mejores prácticas de fiscalización superior nacionales e internacionales, con el fin de adecuar la normatividad interna del Órgano de Fiscalización Superior del Congreso del Estado; y,
 
-Si no quisieren o no pudieren firmar ni imprimir la huella digital, se hará constar el motivo.
+XV. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-El Ministerio Público firmará al calce y, si lo estima conveniente, también al margen.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Si antes de que se pongan las firmas o huellas los comparecientes hicieren alguna modificación o rectificación, se hará constar inmediatamente, expresándose los motivos que dijeron tener para hacerla. Si fuere después, pero antes de retirarse los interesados se asentará la modificación o rectificación en acta que se levantará inmediatamente después de la anterior, y que firmarán los que hayan intervenido en la diligencia.
+###### Artículo 12.
 
-###### ARTICULO 23.
+Al Subdirector de Investigación e Innovación, adscrito a la Dirección de Planeación e Informes, le corresponde ejercer las siguientes facultades:
 
-Podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en ellos. Estas y el ofendido podrán imponerse de los autos de la Secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo con los lineamientos establecidos;
 
-###### ARTICULO 24.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Si se perdiere algún expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida y además, se hará la consignación correspondiente al Ministerio Público.
+II. Proponer cursos de formación y capacitación derivados de la investigación de las mejores prácticas de fiscalización superior nacionales e internacionales, para elevar el nivel técnico y profesional del personal que integra el Órgano de Fiscalización Superior del Congreso del Estado;
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
+III. Investigar en el panorama nacional e internacional las mejores prácticas de fiscalización superior y promover su establecimiento institucional;
 
-###### ARTICULO 25.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Los secretarios de los tribunales cotejarán las copias o testimonios de constancias que se mandaren expedir, y las autorizarán con su firma y el sello correspondiente.
+IV. Revisar, actualizar y proponer normas, guías, lineamientos y manuales de los diversos procesos administrativos que desarrolla el Órgano de Fiscalización Superior del Congreso del Estado;
 
-###### ARTICULO 26.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a quienes corresponda firmar, dar fe o certificar el acto.
+V. Recopilar la información necesaria para el establecimiento de métodos y estrategias de fiscalización superior, de acuerdo con los avances científicos y técnicos en la materia;
 
-###### ARTICULO 27.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-La infracción de las disposiciones contenidas en los artículos 17, 18, 19, 21, 22, 23, 25 y 26, se sancionará con una corrección disciplinaria, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
+VI. Recopilar la información generada en el seno del Sistema Nacional de Fiscalización, con el fin de adecuar la normatividad interna del Órgano de Fiscalización Superior del Congreso del Estado;
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-ARTICULO 27 bis.- Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de las partes, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará, por la parte que la promueva, en la actuación subsecuente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables con efecto devolutivo.
+VII. Proponer la integración y actualización del marco normativo general para la fiscalización de la gestión gubernamental;
 
-### CAPITULO V. Correcciones disciplinarias y medios de apremio
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-###### ARTICULO 28.
+VIII. Aportar los elementos metodológicos y asistencia técnica para el desempeño de la función fiscalizadora que le sean requeridos por las áreas de la Auditoría Superior del Estado;
 
-Cuando el inculpado, el ofendido, los testigos o los peritos no hablen el idioma castellano, se les nombrará de oficio uno o más intérpretes, mayores de edad, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir. Cuando lo solicite cualquiera de las partes podrá escribirse la declaración en el idioma del declarante, sin que esto obste para que el intérprete haga la traducción.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Cuando no pudiere ser habido un intérprete mayor de edad, podrá nombrarse a un menor que haya cumplido catorce años.
+IX. Colaborar en la difusión de los instrumentos normativos para la fiscalización, al interior del Órgano de Fiscalización Superior del Congreso del Estado;
 
-###### ARTICULO 29.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-Las partes podrán recusar al intérprete motivando la recusación; y el funcionario que practique las diligencias resolverá de plano y sin recurso.
+X. Mantener coordinación permanente con las distintas áreas del Órgano de Fiscalización Superior del Congreso del Estado, para el establecimiento de acciones de mejora en los procesos de fiscalización superior; así como para dar seguimiento al Sistema de Gestión de la Calidad de la institución; y,
 
-###### ARTICULO 30.
+XI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Los testigos no podrán ser intérpretes.
+###### Artículo 13.
 
-###### ARTICULO 31.
+Al Subdirector de Programación de la Fiscalización, adscrito a la Dirección de Planeación e Informes, le corresponde ejercer las siguientes facultades:
 
-Si el inculpado, el ofendido o algún testigo fuere sordo-mudo, se le nombrará como intérprete a una persona que pueda comprenderlo, siempre que sea mayor de catorce años; y en este caso se observará lo dispuesto en los artículos anteriores.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos establecidos;
 
-###### ARTICULO 32.
+II. Proponer los requerimientos de información, con el fin de llevar a cabo la planeación y programación de auditorías, visitas, inspecciones y revisiones;
 
-A los sordos y a los mudos que sepan leer y escribir, se les interrogará por escrito o por medio de intérprete.
+III. Supervisar la integración del Programa Anual de Auditorías, Visitas, Inspecciones y Revisiones, y someterlo a la consideración de su superior jerárquico;
 
-###### ARTICULO 33.
+IV. Preparar e integrar la información que soliciten la Auditoría Superior de la Federación y demás instancias competentes;
 
-Los tribunales tienen el deber de mantener el buen orden y de exigir que se les guarde, tanto a ellos como a las demás autoridades, el respeto y la consideración debidos, aplicando en el acto, por las faltas que se cometan, las correcciones disciplinarias que este Código señala.
+V. Proponer el establecimiento de mecanismos de coordinación e intercambio de información y colaboración con los órganos internos de control de las entidades fiscalizadas, a fin de fortalecer la cobertura de la fiscalización superior;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+VI. Elaborar los términos de referencia, que sirvan de base para la contratación de profesionales de auditoría independientes; y,
 
-###### ARTICULO 34.
+VII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposiciones especiales de este Código y, en su defecto, a las del Código Civil aplicable en materia federal, y a la Ley Federal de Instituciones de Fianzas.
+###### Artículo 14.
 
-###### ARTICULO 35.
+Al Subdirector de Planeación e Informes de Resultados, adscrito a la Dirección de Planeación e Informes, le corresponde ejercer las siguientes facultades:
 
-En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos establecidos;
 
-###### ARTICULO 36.
+II. Supervisar la formulación de los informes del resultado de la revisión y fiscalización superior, de las cuentas públicas estatal y municipales;
 
-Todos los gastos que se originen en las diligencias de policía judicial, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por los tribunales, serán cubiertos por el Erario Federal.
+III. Inspeccionar la elaboración de los informes que solicite la Auditoría Superior de la Federación, que se deriven de la revisión y fiscalización superior en el marco de la colaboración institucional;
 
-Los gastos de las diligencias solicitadas por el inculpado o la defensa serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición de esas diligencias y entonces quedarán también a cargo del Erario Federal.
+IV. Formular los estudios, dictámenes, informes y demás documentos, en relación con los resultados de las revisiones practicadas a los Poderes del Estado, Municipios y entes públicos estatales y municipales;
 
-###### ARTICULO 37.
+V. Integrar el Plan Estratégico Institucional con la participación de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, y los informes respectivos de su seguimiento;
 
-Cuando cambiare el personal de un tribunal, no se proveerá auto alguno haciendo saber el cambio, sino que en el primero que proveyere el nuevo funcionario se insertará su nombre completo; y en los tribunales colegiados, se pondrán al margen de los autos los nombres y apellidos de los funcionarios que los firmen.
+VI. Integrar el Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores y los informes respectivos de su cumplimiento;
 
-Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
+VII. (DEROGADA, P.O. 22 DE FEBRERO DE 2012)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+VIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-###### ARTICULO 38.
+###### Artículo 15.
 
-Cuando en las actuaciones esté comprobado el cuerpo del delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para asegurar sus derechos o restituirlos en el goce de éstos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuera necesaria para la debida integración de la averiguación.
+Al Director de Análisis y Desarrollo de la Hacienda Pública le corresponde ejercer las siguientes facultades:
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+I. Coordinar el análisis de la información de las finanzas públicas y de la economía nacional, a fin de producir documentos que coadyuven en la elaboración del informe del resultado de la revisión y fiscalización superior de las cuentas públicas estatal y municipales;
 
-Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, la devolución se hará mediante caución bastante para garantizar el pago de los daños y perjuicios. La autoridad que conozca fijará la naturaleza y el monto de la caución, fundando y motivando su determinación, en vista de las circunstancias del caso.
+II. Coordinar el análisis de la información económica, programática, presupuestal y financiera presentada en las cuentas públicas y en los informes de avance de gestión financiera;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+III. Promover el uso de sistemas de información y estudios básicos para el desarrollo de la hacienda pública estatal y municipal, que mejoren la rendición de cuentas y la transparencia;
 
-###### ARTICULO 39.
+IV. Proponer al Auditor Especial de Planeación e Informes, la expedición, derogación o modificación de normas, procedimientos y métodos para su adecuada armonización al sistema de contabilidad gubernamental;
 
-Cuando durante el proceso se encontrare que el hecho que se averigua tiene ramificaciones, o que se siguen otros con los que tuviere conexión, se dará conocimiento de ello al Ministerio Público para que promueva lo que corresponda.
+V. Promover la aplicación de criterios normativos uniformes, para la elaboración y presentación de las cuentas públicas e informes de avance de gestión;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+VI. Supervisar la recepción y registro de los informes mensuales de cuenta pública, los trimestrales de avance de gestión financiera y las cuentas públicas municipales; así como, los expedientes unitarios de comprobación de obra;
 
-### CAPITULO VI. Requisitorias y exhortos
+VII. Establecer mecanismos para vigilar que se cumpla con el proceso de entrega-recepción de la administración municipal;
 
-###### ARTICULO 45.
+VIII. Implementar las acciones para el adecuado registro y control de las firmas y demás datos de identidad de los servidores públicos municipales;
 
-Las diligencias de policía judicial que deban practicarse fuera del lugar en que se esté tramitando alguna averiguación, se encargarán a quien toque desempeñar esas funciones en el lugar donde deban practicarse, enviándole la averiguación original o un oficio con las inserciones necesarias.
+IX. Coordinar la capacitación y asesoría a servidores públicos de los Poderes del Estado, Municipios y entes públicos estatales y municipales que contribuyan a mejorar la rendición de cuentas y la transparencia;
 
-###### ARTICULO 46.
+X. Participar en la vinculación y desarrollo institucional, en el marco de los convenios establecidos para el intercambio de información que contribuyan al mejoramiento continuo de la fiscalización superior;
 
-Cuando tengan que practicarse diligencias judiciales fuera del territorio jurisdiccional del tribunal que conozca del asunto, se encomendará su cumplimiento al de igual categoría del territorio jurisdiccional donde deban practicarse.
+XI. Intervenir en la forma que determine su superior jerárquico, en la evaluación de la información incluida en las cuentas públicas, en los informes de avance de gestión financiera, informe mensual de cuenta pública municipal que rindan las entidades fiscalizadas y en la elaboración del informe del resultado de la cuenta pública, en el marco de su respectivo ámbito de competencia;
 
-Si las diligencias tuvieren que practicarse fuera del lugar de la residencia del tribunal, pero dentro de su territorio jurisdiccional, y aquél no pudiere trasladarse, se encargará su cumplimiento al inferior del mismo fuero, o a la autoridad judicial del orden común del lugar donde deban practicarse.
+XII. Proponer a su superior jerárquico los criterios para la revisión de las cuentas públicas estatal y municipales, informes de avance de gestión financiera e informe mensual de cuenta pública municipal;
 
-Se empleará la forma de exhorto cuando se dirija a un tribunal igual en categoría, y de requisitoria cuando se dirija a un inferior.
+XIII. Recabar, integrar y presentar a la Unidad de Asuntos Jurídicos, previo acuerdo con su superior jerárquico, la documentación necesaria para ejercitar las acciones legales que procedan, derivadas de la revisión y fiscalización superior;
 
-Al dirigirse los tribunales a funcionarios o autoridades que no sean judiciales, lo harán por medio de oficio.
+XIV. Revisar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión de la cuenta pública municipal;
 
-###### ARTICULO 47.
+XV. Coordinar y supervisar las reuniones, para dar a conocer a las entidades fiscalizadas los resultados y observaciones preliminares de la revisión de la cuenta pública municipal;
 
-Cuando el tribunal federal requerido no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, podrá encomendar su ejecución al juez del orden común del lugar donde deban practicarse, remitiéndole el exhorto original o un oficio, con las inserciones necesarias.
+XVI. Someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión de la cuenta pública y promover la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado; y,
 
-###### ARTICULO 48.
+XVII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Cuando un tribunal no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otra jurisdicción la persona o las cosas que sean objeto de la diligencia, lo remitirá al tribunal del lugar en que aquélla o éstas se encuentren, y lo hará saber al requeriente.
+###### Artículo 16.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+Al Subdirector de Análisis de Información Municipal adscrito a la Dirección de Análisis y Desarrollo de la Hacienda Pública, le corresponde ejercer las siguientes facultades:
 
-El cumplimiento de los exhortos o requisitorias no implica prórroga ni renuncia de competencia.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos establecidos;
 
-###### ARTICULO 49.
+II. Recibir y registrar los informes mensuales de cuenta pública, los trimestrales de avance de gestión financiera y las cuentas públicas municipales; así como, los expedientes unitarios de comprobación de obra;
 
-Los exhortos y requisitorias contendrán las inserciones necesarias, según la naturaleza de las diligencias que hayan de practicarse; llevarán el sello del tribunal, e irán firmados por el funcionario correspondiente y por el secretario respectivo o por testigos de asistencia.
+III. Verificar que los informes mensuales de cuenta pública, los trimestrales de avance de gestión financiera y las cuentas públicas municipales sean presentados conforme a lo dispuesto en la normatividad aplicable;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+IV. Integrar la documentación necesaria para proponer la sanción a los responsables por el incumplimiento en la presentación de los informes mensuales de cuenta pública, de los trimestrales de avance de gestión financiera, de las cuentas públicas municipales y los requerimientos de información y documentación;
 
-###### ARTICULO 50.
+V. Revisar y analizar el cumplimiento de los programas municipales con base en la normatividad aplicable, así como el grado de avance de sus objetivos y metas;
 
-En casos urgentes, notificado que fuere de ello previamente el Ministerio Público y quien corresponda conforme a la ley, podrá resolverse que se haga uso de la vía telegráfica, expresándose con toda claridad las diligencias que han de practicarse, la parte que las solicitó, el nombre del inculpado, si fuere posible, el delito de que trata y el fundamento de la providencia. Estos exhortos se mandarán mediante oficio al jefe de la oficina telegráfica de la localidad, acompañados de una copia, en la cual el empleado respectivo de dicha oficina extenderá recibo; el oficio será entregado por conducto del Secretario o del Actuario del tribunal, quienes se identificarán ante el encargado del servicio telegráfico, quien deberá agregar esta circunstancia al texto del telegrama. En la misma fecha en que se entregue el citado oficio a la oficina telegráfica, el tribunal requirente enviará por correo el exhorto o requisitoria en forma.
+VI. Revisar y analizar la información económica, financiera, contable, programática y presupuestal que se presente en las cuentas públicas municipales y en los informes trimestrales de avance de gestión financiera;
 
-###### ARTICULO 51.
+VII. Elaborar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión de las cuentas públicas municipales y notificar los citatorios para darlos a conocer;
 
-Los exhortos y requisitorias que se expidan para la aprehensión del inculpado cuando proceda en los términos del articulo 16 constitucional, contendrán: el auto en que se haya decretado, el pedimento del Ministerio Público y la media filiación del inculpado, si fuere posible, o los datos necesarios para su identificación. En los demás casos de aprehensión, contendrán las inserciones que sean necesarias.
+VIII. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, los resultados y observaciones preliminares de la revisión de las cuentas públicas municipales, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+IX. Elaborar y someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión de las cuentas públicas municipales y solicitar la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-###### ARTICULO 52.
+X. Vigilar y dar seguimiento al proceso de entrega-recepción de las administraciones públicas municipales, conforme a lo dispuesto en la ley de la materia;
 
-En los casos del artículo anterior el tribunal requerido tomará la declaración preparatoria al inculpado, resolverá lo que proceda respecto de la libertad caucional, así como sobre su situación jurídica conforme al artículo diecinueve Constitucional y remitirá al detenido y las actuaciones, en su caso, a quien libró la orden, dentro de las veinticuatro horas siguientes al cumplimiento de las previsiones señaladas en este artículo.
+XI. Supervisar y vigilar el registro de firmas de autoridades y funcionarios municipales, así como su permanente actualización;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+XII. Supervisar la atención de las diversas solicitudes de información municipal que requieran instancias internas y externas; y,
 
-###### ARTICULO 53.
+XIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-El tribunal que recibiere un exhorto o requisitoria extendido en debida forma, procederá a cumplimentarlo en un plazo no mayor de cinco días contados a partir de la fecha de su recibo; si por la naturaleza o circunstancia de la diligencia no fuere posible su cumplimentación en el plazo indicado, el tribunal lo resolverá así, determinando o razonando las causas de ello. Si estimare que no concurren en él todos los requisitos legales, lo devolverá al requeriente, fundando su negativa dentro del mismo plazo establecido en este artículo.
+###### Artículo 17.
 
-Cuando un tribunal no atienda un exhorto o requisitoria sin motivo justificado, el que lo haya expedido podrá ocurrir en queja ante el superior de aquél. Recibida la queja, será resuelta dentro del término de tres días, con vista de las constancias del exhorto o requisitoria, de lo que expongan las autoridades contendientes y audiencia del Ministerio Público.
+Al Subdirector de Análisis de Información de los Poderes y Entes Públicos del Estado adscrito a la Dirección de Análisis y Desarrollo de la Hacienda Pública, le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 54.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos establecidos;
 
-Si el tribunal exhortado estimare que no debe cumplimentar el exhorto por interesarse en ello su jurisdicción, oirá al Ministerio Público y resolverá dentro de tres días, promoviendo en su caso la competencia respectiva.
+II. Verificar que el presupuesto de egresos, el informe de avance de gestión financiera y la cuenta pública estatal cumplan con los requisitos establecidos en la normatividad aplicable;
 
-###### ARTICULO 55.
+III. Analizar el Presupuesto de Egresos y la Ley de Ingresos del Estado, para generar información en apoyo a la programación y ejecución de auditorías;
 
-Se dará entera fe y crédito a los exhortos y requisitorias que libren los tribunales de la Federación, debiendo cumplimentarse siempre que llenen las condiciones fijadas por este Código.
+IV. Analizar la información económica, financiera, contable, programática y presupuestal que se presente en la cuenta pública estatal y en el informe de avance de gestión financiera, para generar información que fortalezca la fiscalización superior, considerando el grado de cumplimiento de los objetivos y metas;
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
+V. Proponer los criterios normativos, para la elaboración y presentación de la cuenta pública e informe de avance de gestión financiera de los Poderes y entes públicos del Estado;
 
-###### ARTICULO 56.
+VI. Proponer los mecanismos para participar en coordinación con los demás órganos administrativos de la Auditoría Superior, para el intercambio de información que contribuyan al mejoramiento continuo de la fiscalización superior; y
 
-Cuando se demore el cumplimiento de un exhorto o requisitoria, se recordará su despacho por medio de oficio. Si a pesar de esto continúa la demora, el tribunal requeriente lo pondrá en conocimiento del superior inmediato del requerido, si se trata de exhorto. Dicho superior apremiará al moroso, obligándolo a que diligencie el exhorto y hará la consignación del caso al Ministerio Público, si procede.
+VII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Si se tratare de requisitoria y continuare la demora, el tribunal requeriente hará uso de los medios de apremio y, si procediere, consignará el caso al Ministerio Público.
+###### Artículo 18.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+Al Subdirector de Desarrollo de la Hacienda Pública adscrito a la Dirección de Análisis y Desarrollo de la Hacienda Pública, le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 57.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo con los lineamientos establecidos;
 
-La resolución dictada por el tribunal requerido ordenando o negando la práctica de las diligencias que se le hayan encomendado, admite los recursos que este Código establece y que se resolverán por el órgano jurisdiccional federal competente en el Circuito en que se ubique el citado tribunal requerido.
+II. Proponer las innovaciones al Sistema Integral de Administración Hacendaria Municipal;
 
-(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
+III. Capacitar y asesorar a los servidores públicos en materia de contabilidad gubernamental, desarrollo de la hacienda pública y en el uso del Sistema Integral de Administración Hacendaria Municipal;
 
-###### ARTICULO 58.
+IV. Generar la información municipal que se requiera en apoyo a las tareas de fiscalización superior, derivada del Sistema Integral de Administración Hacendaria Municipal;
 
-Los exhortos dirigidos a los tribunales extranjeros se remitirán, con aprobación de la Suprema Corte de Justicia, por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Presidente o el Secretario General de Acuerdos de aquélla y las de estos servidores públicos por el Secretario de Relaciones Exteriores o el servidor público que él designe.
+V. Generar y difundir la normatividad hacendaria, para la presentación de las cuentas públicas municipales;
 
-###### ARTICULO 59.
+VI. Organizar, coordinar e impartir los diversos cursos de capacitación a los servidores públicos municipales, en materia de entrega-recepción y normatividad hacendaria;
 
-Podrá encomendarse la práctica de diligencias en países extranjeros a los secretarios de legaciones y a los agentes consulares de la República, por medio de oficio con las inserciones necesarias.
+VII. Atender las diversas solicitudes de información municipal que requieran las Unidades y Órganos que conforman la Auditoría Superior del Estado; y,
 
-###### ARTICULO 60.
+VIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Los exhortos de los tribunales extranjeros deberán tener, además de los requisitos que indiquen las legislaciones respectivas y los tratados internacionales, la legalización que haga el representante autorizado para atender los asuntos de la República en el lugar donde sean expedidos.
+###### Artículo 19.
 
-###### ARTICULO 40.
+(DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-Toda incoacción del proceso será comunicada al tribunal de apelación respectivo.
+###### Artículo 20.
 
-### CAPITULO VII. Cateos
+(DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+###### Artículo 21.
 
-###### ARTICULO 61.
+El Coordinador de Seguimiento de Resultados de la Revisión y Fiscalización tendrá las siguientes facultades:
 
-Cuando durante las diligencias de averiguación previa el Ministerio Público estime necesaria la práctica de un cateo, acudirá al tribunal respectivo o, si no lo hubiere en el lugar, al del orden común, solicitando la diligencia, expresando el objeto de ella y los datos que la justifiquen. Según las circunstancias del caso, el tribunal resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos.
+I. Vigilar que el proceso de solventación de los pliegos de observaciones derivados de las revisiones y auditorías practicadas a las cuentas públicas de las entidades fiscalizadas, se realice conforme a lo dispuesto en el marco jurídico y normativo;
 
-Cuando sea el Ministerio Público quien practique el cateo, dará cuenta al tribunal con los resultados del mismo.
+II. Coordinar la recepción y revisión de los documentos y argumentos, que las entidades fiscalizadas presenten en el proceso de solventación de los pliegos de observaciones;
 
-###### ARTICULO 62.
+III. Supervisar el análisis y valoración de las pruebas y argumentos presentados por las entidades fiscalizadas, en el proceso de solventación de los pliegos de observaciones;
 
-Las diligencias de cateo se practicarán por el tribunal que las decrete o por el secretario o actuario del mismo, o por los funcionarios o agentes de la policía judicial, según se designen en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público la promoción del cateo, podrá asistir a la diligencia.
+IV. Vigilar la atención de la recomendación de acciones, para mejorar las prácticas de gobierno y de las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-###### ARTICULO 63.
+V. Coordinar la elaboración del informe del estado de solventación del pliego de observaciones y someterlo a la consideración de su superior jerárquico;
 
-Para decretar la práctica de un cateo, bastará la existencia de indicios o datos que hagan presumir, fundadamente, que el inculpado a quien se trate de aprehender se encuentra en el lugar en que deba efectuarse la diligencia; o que se encuentran en él los objetos materia del delito, el instrumento del mismo, libros, papeles u otros objetos, que puedan servir para la comprobación del delito o de la responsabilidad del inculpado.
+VI. Supervisar la integración de los expedientes con presunta responsabilidad y remitirlo a la Unidad de Asuntos Jurídicos, para que ésta inicie el procedimiento correspondiente a que haya lugar;
 
-###### ARTICULO 64.
+VII. Emitir los informes de valoración respecto de las pruebas y argumentos presentados durante el procedimiento de fincamiento de responsabilidades y sanciones resarcitorias, a solicitud de la Unidad de Asuntos Jurídicos;
 
-Los cateos deberán practicarse entre las seis y las diez y ocho horas, pero si llegadas las diez y ocho horas no se han terminado, podrán continuarse hasta su conclusión.
+VIII. Promover las visitas, verificaciones e inspecciones que se requieran en el proceso de solventación de los pliegos de observaciones;
 
-###### ARTICULO 65.
+IX. Coordinar la integración de los informes de seguimiento, de la situación que guardan las acciones emitidas con motivo de las auditorías solicitadas por la Auditoría Superior de la Federación;
 
-Cuando la urgencia del caso lo requiera, podrán practicarse los cateos a cualquier hora, debiendo expresarse esta circunstancia en el mandamiento judicial.
+X. Coordinar la elaboración de los informes de la situación que guarda la solventación de los pliegos de observaciones, la atención de la recomendación de las acciones para mejorar las prácticas de gobierno; así como de las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado; y,
 
-###### ARTICULO 66.
+XI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Si al practicarse un cateo resultare casualmente el descubrimiento de un delito distinto del que lo haya motivado, se hará constar en el acta correspondiente, siempre que el delito descubierto sea de los que se persiguen de oficio.
+###### Artículo 22.
 
-###### ARTICULO 67.
+A los Subdirectores de Seguimiento adscritos a la Coordinación de Seguimiento de Resultados de la revisión y fiscalización, les corresponde ejercer las siguientes facultades:
 
-Para la práctica de un cateo en la residencia o despacho de cualquiera de los poderes federales o de los Estados, el tribunal recabará la autorización correspondiente.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
 
-###### ARTICULO 68.
+II. Recibir y revisar los documentos y argumentos que las entidades fiscalizadas presenten, en el proceso de solventación de los pliegos de observaciones;
 
-Cuando tenga que practicarse un cateo en buques mercantes extranjeros, se observarán las disposiciones de las leyes y reglamentos marítimos.
+III. Analizar y valorar las pruebas y argumentos presentados por las entidades fiscalizadas;
 
-###### ARTICULO 69.
+IV. Realizar el seguimiento del proceso de solventación de los pliegos de observaciones derivados de las auditorías, visitas, inspecciones y revisiones practicadas;
 
-Al practicarse un cateo se recogerán los instrumentos y objetos del delito, así como los libros, papeles o cualesquiera otras cosas que se encuentren, si fueren conducentes al éxito de la investigación o estuvieren relacionados con el nuevo delito en el caso previsto en el artículo 66.
+V. Dar seguimiento a la recomendación de acciones para mejorar las prácticas de gobierno y a las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-Se formará un inventario de los objetos que se recojan relacionados con el delito que motive el cateo y, en su caso, otro por separado con los que se relacionen con el nuevo delito.
+VI. Realizar las visitas, verificaciones e inspecciones, con motivo de la solventación de los pliegos de observaciones derivados de las auditorías practicadas;
 
-###### ARTICULO 70.
+VII. Elaborar el informe del estado de solventación del pliego de observaciones y someterlo a consideración de su superior jerárquico;
 
-Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; y si no supiere firmar, sus huellas digitales. En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
+VIII. Integrar los expedientes con presunta responsabilidad y someterlo a la consideración de su superior jerárquico;
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1986)</small>
+IX. Revisar, analizar, verificar y emitir opinión respecto a los documentos y argumentos presentados en el procedimiento de fincamiento de responsabilidades y sanciones resarcitorias, a solicitud de la Unidad de Asuntos Jurídicos;
 
-###### ARTICULO 41.
+X. Integrar los informes de seguimiento, de la situación que guardan las acciones emitidas con motivo de las auditorías solicitadas por la Auditoría Superior de la Federación;
 
-Los tribunales pueden dictar de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita.
+XI. Elaborar los informes de la situación que guarda la solventación de los pliegos de observaciones, la atención de la recomendación de las acciones para mejorar las prácticas de gobierno; así como de las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado; y,
 
-### CAPITULO VIII. Plazos y términos
+XII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+###### Artículo 23.
 
-###### ARTICULO 71.
+El Coordinador de Registro y Control de Situación Patrimonial tendrá las siguientes facultades:
 
-Los plazos son improrrogables y empezarán a correr desde el día siguiente al de la fecha de la notificación, salvo los casos que este Código señale expresamente.
+I. Elaborar, actualizar y presentar para su autorización las normas, métodos y sistemas para la recepción, registro y control de las declaraciones de situación patrimonial que deban presentar los servidores públicos municipales;
 
-No se incluirán en los plazos, los sábados, los domingos ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los tribunales, de tomarle su declaración preparatoria, o de resolver la procedencia de su formal prisión, sujeción a proceso, o libertad.
+II. Recibir, registrar y resguardar las declaraciones de situación patrimonial que presenten los servidores públicos municipales y expedir las constancias respectivas;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+III. Integrar la base de datos única de servidores públicos municipales obligados a presentar declaración patrimonial;
 
-###### ARTICULO 72.
+IV. Difundir las normas, métodos y sistemas que regulen la presentación, recepción y registro de las declaraciones de situación patrimonial;
 
-Los plazos se contarán por días hábiles, excepto los que se refieren a los tres casos mencionados en la segunda parte del artículo anterior y a cualquier otro que por disposición legal deba computarse por horas, pues éstos se contarán de momento a momento, a partir de la hora que corresponda conforme a la ley.
+V. Integrar los expedientes para promover ante las autoridades competentes, el fincamiento de responsabilidades que se deriven por el incumplimiento en la presentación de las declaraciones de situación patrimonial;
 
-Los términos se fijarán por día y hora, y salvo los actos a que se refieren el artículo 19 Constitucional y otras disposiciones, se precisarán por el tribunal cuando menos con cuarenta y ocho horas de anticipación al día y hora en que se hayan de celebrar las actuaciones a que se refieran.
+VI. Analizar y evaluar la información contenida en las declaraciones de situación patrimonial y en su caso, promover las investigaciones y acciones legales a que haya lugar;
 
-### CAPITULO IX. Citaciones
+VII. Solicitar a los Ayuntamientos la información que se requiera, para vigilar el debido cumplimiento de las obligaciones de situación patrimonial; y,
 
-###### ARTICULO 73.
+VIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Con excepción de los altos funcionarios de la Federación, toda persona está obligada a presentarse ante los tribunales y oficinas de Policía Judicial cuando sea citada, a menos que no pueda hacerlo porque padezca alguna enfermedad que se lo impida, o tenga alguna otra imposibilidad física para presentarse.
+###### Artículo 24.
 
-###### ARTICULO 74.
+Al Director de Auditoría a Poderes y Entes Públicos del Estado, adscrito a la Auditoría Especial de los Poderes del Estado, Municipios y Entes Públicos, le corresponde ejercer las facultades siguientes:
 
-Las citaciones podrán hacerse verbalmente, o por cédula, o por telégrafo, anotándose en cualquiera de esos casos la constancia respectiva en el expediente.
+I. Coordinar y participar en las auditorías, visitas, inspecciones y revisiones al informe de avance de gestión financiera y cuenta pública estatal, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+II. Coordinar la práctica de visitas a las entidades fiscalizadas y a terceros, para solicitar la exhibición de los libros y papeles indispensables en la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas en éstas;
 
-La cédula se asentará en papel oficial y deberá ser sellada por el tribunal o el Ministerio Público que haga la citación.
+III. Revisar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión y fiscalización superior de la cuenta pública estatal;
 
-###### ARTICULO 75.
+IV. Coordinar y supervisar las reuniones para dar a conocer a las entidades fiscalizadas, los resultados y observaciones preliminares de la revisión y fiscalización superior;
 
-La cédula y el telegrama contendrán:
+V. Someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión y fiscalización superior y promover la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-I.- La designación legal de la autoridad ante la que deba presentarse el citado;
+VI. Supervisar que los comisionados y profesionales de auditoría independientes que participen en las auditorías, visitas, inspecciones y revisiones, cumplan con las disposiciones normativas aplicables;
 
-II.- El nombre, apellido y domicilio del citado si se supieren o, en caso contrario, los datos de que se disponga para identificarlo;
+VII. Autorizar las comisiones del personal a su cargo, para llevar a cabo la revisión y fiscalización superior;
 
-III.- El día, hora y lugar en que debe comparecer;
+VIII. Coordinar y evaluar las actividades que se realicen en las Unidades Administrativas de su adscripción, a efecto de verificar el cumplimiento del Programa Anual de Actividades y el de auditorías, visitas, inspecciones y revisiones;
 
-IV.- El medio de apremio que se empleará si no compareciere; y
+IX. Coordinar y solicitar durante el desarrollo de las auditorías, visitas, inspecciones y revisiones, la información y documentación necesaria para el ejercicio de sus facultades;
 
-V.- La firma o la transcripción de la firma del funcionario que ordene la citación.
+X. Proponer a su superior jerárquico, la imposición de sanciones por el incumplimiento a los requerimientos de información y documentación;
 
-###### ARTICULO 76.
+XI. Integrar y remitir a la Unidad de Asuntos Jurídicos, la información y documentación necesaria para ejercitar las acciones legales que procedan como resultado de las irregularidades que se detecten en las revisiones, auditorías, visitas y verificaciones que se practiquen;
 
-Cuando se haga la citación por cédula, deberá acompañarse a ésta un duplicado en el cual firme el interesado o cualquiera otra persona que la reciba.
+XII. Someter a la consideración de su superior jerárquico, la promoción ante las autoridades competentes del fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo en las entidades fiscalizadas;
 
-###### ARTICULO 77.
+XIII. Someter a la consideración de su superior jerárquico, las comunicaciones oficiales que deban dirigirse a las autoridades fiscales, por errores u omisiones detectadas en las manifestaciones y declaraciones de los contribuyentes que hayan realizado operaciones con los entes fiscalizados; y,
 
-Cuando la citación se haga por telégrafo, se enviará por duplicado a la oficina que haya de transmitirla, la cual devolverá, con su constancia de recibo, uno de los ejemplares que se agregará al expediente.
+XIV. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-###### ARTICULO 78.
+###### Artículo 25.
 
-En caso de urgencia podrá hacerse la citación por telefonema que transmitirá el funcionario de la policía judicial que practique las diligencias o el secretario o actuario respectivo del tribunal que corresponda, quienes harán la citación con las indicaciones a que se refieren las fracciones I y III del artículo 75, asentando constancia en el expediente.
+A los Subdirectores de Auditoría a Poderes y Entes Públicos "A", "B", "C", "D" y "E" adscritos a la Dirección de Auditoría a Poderes y Entes Públicos del Estado, les corresponde ejercer las facultades siguientes:
 
-Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cumpliéndose con los requisitos del mismo artículo 75.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
 
-###### ARTICULO 79.
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización para mejorar la preparación técnica y profesional del personal a su cargo;
 
-También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
+III. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+IV. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo la revisión y fiscalización superior de la cuenta pública estatal;
 
-###### ARTICULO 80.
+V. Desempeñar las comisiones que les sean conferidas y participar en las auditorías, visitas, inspecciones y revisiones que su superior jerárquico le encomiende, e informar sobre el desarrollo de sus actividades;
 
-Cuando no se pueda hacer la citación verbalmente, se hará por cédula, la cual será entregada por el secretario o actuario del Juzgado o, en su caso, por la Policía Judicial Federal o por los auxiliares del Ministerio Público Federal, personalmente, a la persona citada, quien deberá firmar el recibo correspondiente en la copia de la cédula, o bien estampar en ésta su huella digital cuando no sepa firmar; si se negara a hacerlo, el secretario o actuario, la policía judicial o el auxiliar del Ministerio Público Federal asentarán este hecho y el motivo que el citado expresare para su negativa.
+VI. Supervisar que los comisionados y profesionales de auditoría independientes que participen en las auditorías, visitas, inspecciones y revisiones, cumplan con las disposiciones legales y normativas aplicables;
 
-Cuando el caso lo permita, podrá enviarse la cédula por correo, en sobre cerrado y sellado, con acuse de recibo.
+VII. Solicitar durante el desarrollo de las auditorías, visitas, inspecciones y revisiones, la información y documentación necesaria para el ejercicio de sus facultades;
 
-###### ARTICULO 81.
+VIII. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación y notificar las multas que procedan;
 
-En el caso de citación por cédula, cuando no se encuentre a quien va destinada, se entregará en su domicilio o en el lugar en que trabaje, y en el duplicado, que se agregará al expediente, se recogerá la firma o huella digital de la persona que la reciba, o su nombre y la razón de por qué no firmó o no puso su huella.
+IX. Elaborar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión y fiscalización superior y notificar los citatorios para darlos a conocer;
 
-Si la persona que recibiere la citación manifestare que el interesado está ausente, dirá dónde se encuentra y desde cuando se ausentó, así como la fecha en que se espera su regreso, y todo esto se hará constar para que el funcionario respectivo dicte las providencias que fueren procedentes.
+X. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, los resultados y observaciones preliminares de la revisión y fiscalización de la cuenta pública estatal, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+XI. Elaborar y someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión y fiscalización superior y promover la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-En los casos a los que se refiere el párrafo precedente de este artículo, y el artículo anterior, el secretario o actuario del tribunal o, en su caso, la policía judicial o el auxiliar del Ministerio Público Federal, asentará en su razón los datos que hubiere recabado para identificar a la persona a quien hubiese entregado la cédula.
+XII. Integrar la información y documentación necesaria, para promover ante las autoridades competentes, el fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo de las entidades fiscalizadas;
 
-###### ARTICULO 82.
+XIII. Recabar, integrar y presentar a su superior jerárquico, la información y documentación necesaria, para ejercitar las acciones legales que procedan como resultado de las irregularidades que se detecten en las auditorías, visitas, inspecciones y revisiones;
 
-La citación a los militares y empleados oficiales, o particulares en alguna rama del servicio público, se hará por conducto del superior jerárquico respectivo, a menos que el éxito de la tramitación requiera que no se haga así.
+XIV. Elaborar y proponer a su superior jerárquico, la promoción ante las autoridades competentes, del ejercicio de las atribuciones de comprobación en materia fiscal; y,
 
-###### ARTICULO 83.
+XV. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-Cuando se ignorare la residencia de la persona que deba ser citada, se encargará a la policía que averigüe su domicilio y lo proporcione. Si esta investigación no tuviere éxito y quien ordene la citación lo estimare conveniente, podrá hacerlo por medio de un periódico de los de mayor circulación.
+###### Artículo 26.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+Al Director de Auditoría a Municipios adscrito a la Auditoría Especial de los Poderes del Estado, Municipios y Entes Públicos, le corresponde ejercer las siguientes facultades:
 
-Se agregará al expediente un ejemplar del periódico en la parte que contiene la inserción, de modo que se identifique el periódico, la fecha de publicación y la sección y página en la que ésta aparece.
+I. Coordinar y participar en las auditorías, visitas, inspecciones y revisiones al informe mensual de cuenta pública, de avance de gestión financiera y cuentas públicas municipales, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+II. Coordinar la práctica de visitas a las entidades fiscalizadas y a terceros, para solicitar la exhibición de los libros y papeles indispensables en la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas en éstas;
 
-###### ARTICULO 84.
+III. Revisar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión y fiscalización superior de las cuentas públicas municipales;
 
-La citación a los jurados se hará por medio de cédulas que serán entregadas a los interesados por conducto del secretario o actuario del tribunal, y contendrán:
+IV. Coordinar y supervisar las reuniones, para dar a conocer a las entidades fiscalizadas, los resultados y observaciones preliminares de la revisión y fiscalización superior;
 
-I.- El lugar y la fecha en que se expida la cita;
+V. Someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión y fiscalización superior y promover la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-II.- El objeto de ella con expresión de los nombres y apellidos del acusado, del delito por el cual debe ser juzgado y la designación de la persona contra quien fue cometido;
+VI. Supervisar que los comisionados y profesionales de auditoría independientes que participen en las auditorías, visitas e inspecciones, cumplan con las disposiciones normativas aplicables;
 
-III.- El lugar, día y hora en que deba instalarse el jurado;
+VII. Autorizar las comisiones del personal a su cargo, para llevar a cabo la revisión y fiscalización superior;
 
-IV.- La conminación de que si el citado no concurriere pagará una multa de cinco a cien pesos, o sufrirá arresto de uno a quince días; y
+VIII. Coordinar y evaluar las actividades que se realicen en las Unidades Administrativas de su adscripción, a efecto de verificar el cumplimiento del Programa Anual de Actividades y el de auditorías, visitas, inspecciones y revisiones;
 
-V.- La firma del secretario y el sello del tribunal.
+IX. Coordinar y solicitar durante el desarrollo de las auditorías, visitas, inspecciones y revisiones, la información y documentación necesaria para el ejercicio de sus facultades;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+X. Proponer a su superior jerárquico, la imposición de sanciones por el incumplimiento a los requerimientos de información y documentación;
 
-###### ARTICULO 85.
+XI. Integrar y remitir a la Unidad de Asuntos Jurídicos, la información y documentación necesaria para ejercitar las acciones legales que procedan como resultado de las irregularidades que se detecten en las revisiones, auditorías, visitas y verificaciones que se practiquen;
 
-El Secretario o actuario del tribunal dará cuenta, por medio de informe en autos, del resultado de la entrega de las citas a que se refiere el artículo anterior, precisamente antes de la hora señalada para la audiencia.
+XII. Someter a la consideración de su superior jerárquico, la promoción ante las autoridades competentes, del fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo en las entidades fiscalizadas;
 
-La falta de cumplimiento de esta disposición será sancionada por el tribunal con multa de hasta diez días de salario mínimo vigente en el lugar de que se trate.
+XIII. Someter a la consideración de su superior jerárquico, las comunicaciones oficiales que deban dirigirse a las autoridades fiscales por errores u omisiones detectadas en las manifestaciones y declaraciones de los contribuyentes que hayan realizado operaciones con los entes fiscalizados; y,
 
-### CAPITULO X. Audiencias de derecho
+XIV. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+###### Artículo 27.
 
-###### ARTICULO 86.
+A los Subdirectores de Auditoría a Municipios "A", "B", "C", "D" y "E" adscritos a la Dirección de Auditoría a Municipios, les corresponde ejercer las facultades siguientes:
 
-Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo o por su defensor.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
 
-El Ministerio Público podrá replicar cuantas veces quisiere, pudiendo la defensa contestar en cada caso.
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización para mejorar la preparación técnica y profesional del personal a su cargo;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+III. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
 
-Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos cada vez que toque hablar a la defensa. Cuando intervinieren varios agentes del Ministerio Público, sólo se oirá a uno de ellos cada vez que corresponda intervenir al Ministerio Público.
+IV. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo la revisión y fiscalización superior de las cuentas públicas municipales;
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+V. Desempeñar las comisiones que les sean conferidas y participar en las auditorías, visitas, inspecciones y revisiones que su superior jerárquico les encomiende e informar sobre el desarrollo de sus actividades;
 
-###### ARTICULO 86.
+VI. Supervisar que los comisionados y profesionales de auditoría independientes que participen en las auditorías, visitas, inspecciones y revisiones, cumplan con las disposiciones legales y normativas aplicables;
 
-Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo o por su defensor.
+VII. Solicitar durante el desarrollo de las auditorías, visitas, inspecciones y revisiones, la información y documentación necesaria para el ejercicio de sus facultades;
 
-El Ministerio Público podrá replicar cuantas veces quisiere, pudiendo la defensa contestar en cada caso.
+VIII. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación, y notificar las multas que procedan;
 
-Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos en cada vez que toque hablar a la defensa. Lo mismo se hará cuando intervinieren varios agentes del Ministerio Público.
+IX. Elaborar y someter a la consideración de su superior jerárquico, los resultados y observaciones preliminares de la revisión y fiscalización superior y notificar los citatorios para darlos a conocer;
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+X. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, los resultados y observaciones preliminares de la revisión y fiscalización de las cuentas públicas municipales, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
 
-###### ARTICULO 88.
+XI. Elaborar y someter a la consideración de su superior jerárquico, los resultados definitivos de la revisión y fiscalización superior y promover la notificación del pliego de observaciones, recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado;
 
-En las audiencias a que se refieren los artículos 305, 307 y 311 si el defensor no concurre, el funcionario que las presida, las diferirá, requiriendo al inculpado para que nombre nuevo defensor y si no lo hiciere se le designará uno de oficio.
+XII. Integrar la información y documentación necesaria, para promover ante las autoridades competentes, el fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo de las entidades fiscalizadas;
 
-Cuando el nuevo defensor no esté en condiciones, de acuerdo con la naturaleza del negocio, para cumplir desde luego con su cometido, se diferirá o suspenderá la audiencia a juicio del tribunal.
+XIII. Recabar, integrar y presentar a su superior jerárquico, la información y documentación necesaria, para ejercitar las acciones legales que procedan como resultado de las irregularidades que se detecten en las auditorías, visitas, inspecciones y revisiones;
 
-Si el faltista fuere defensor de oficio se comunicará la falta a su superior inmediato se ordenará su presentación o se le substituirá por otro, sin perjuicio de su consignación al Ministerio Público si procediere.
+XIV. Elaborar y proponer a su superior jerárquico, la promoción ante las autoridades competentes del ejercicio de las atribuciones de comprobación en materia fiscal; y,
 
-###### ARTICULO 89.
+XV. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-Durante la audiencia el inculpado podrá comunicarse con sus defensores, pero no con el púbilco (sic).
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-Si infringe esta disposición, se le impondrá una corrección disciplinaria.
+Artículo 27 bis.- El Director de Auditoría de Desempeño, tendrá las siguientes facultades:
 
-Si alguna persona del público se comunica o intenta comunicarse con el inculpado, será retirada de la audiencia y se le impondrá una corrección disciplinaria, si se estima conveniente.
+I. Supervisar la elaboración del programa de trabajo para la realización de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, que permitan evaluar la eficacia, eficiencia, economía, calidad de los bienes y servicios prestados;
 
-###### ARTICULO 90.
+II. Proponer la metodología, normas, criterios y procedimientos para la realización de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, con el apoyo de las prácticas de fiscalización nacional e internacional;
 
-Antes de cerrarse el debate, el funcionario que presida la audiencia preguntará al inculpado si quiere hacer uso de la palabra, concediéndosela en caso afirmativo.
+III. Supervisar las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las entidades fiscalizadas; y de su marco jurídico correspondiente;
 
-###### ARTICULO 91.
+IV. Revisar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos;
 
-Si el inculpado altera el orden en una audiencia se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor. Todo esto, sin perjuicio de aplicarle la corrección disciplinaria que el tribunal estime pertinente.
+V. Coordinar y supervisar las reuniones para dar a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares de las auditorías de desempeño a las Cuentas Públicas Estatal y Municipales;
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+VI. Someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente y verificar que las entidades fiscalizadas atiendan su cumplimiento o manifiesten las razones de no adopción de las recomendaciones.
 
-###### ARTICULO 92.
+VII. Autorizar las comisiones del personal a su cargo, para llevar a cabo la realización de auditorías de desempeño;
 
-Si es el defensor quien altera el orden, se le apercibirá, y si continúa en la misma actitud se le expulsará del local, pudiendo imponérsele, además, una corrección disciplinaria. Para que el inculpado no carezca de defensor, se procerá (sic) de acuerdo con lo dispuesto en la parte primera del artículo 88.
+VIII. Coordinar y evaluar las actividades que se realicen en los órganos administrativos de su adscripción, a efecto de verificar el cumplimiento del Programa Anual de Actividades y el de Auditorías, Visitas, Inspecciones y Revisiones;
 
-###### ARTICULO 93.
+IX. Coordinar y solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
 
-En las audiencias la policía estará a cargo del funcionario que presida.
+X. Promover la imposición de sanciones por el incumplimiento a los requerimientos de información y documentación; y
 
-En los casos en que dicho funcionario se ausentare del local, la policía quedará a cargo del Ministerio Público.
+XI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Cuando también el Ministerio Público abandonare el local en que se efectúe la audiencia, la policía quedará encomendada al jefe de la escolta que haya conducido a los inculpados.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-### CAPITULO XI. Resoluciones judiciales
+Artículo 27 ter.- Al Subdirector de Auditoría de Desempeño a Poderes y Entes Públicos del Estado, le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 94.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
 
-Las resoluciones judiciales son: sentencias, si terminan la instancia resolviendo el asunto en lo principal; y autos, en cualquier otro caso.
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización en auditorías de desempeño, para mejorar la preparación técnica y profesional del personal a su cargo;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+III. Realizar las auditorías de desempeño, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las (sic) entes fiscalizados; y de su marco jurídico correspondiente;
 
-Toda resolución deberá ser fundada y motivada, expresará la fecha en que se pronuncie y se redactará en forma clara, precisa y congruente con la promoción o actuación procesal que la origine.
+IV. Revisar en las auditorías de desempeño, el cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de los entes fiscalizados, conforme a los indicadores estratégicos aprobados y de gestión;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+V. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
 
-Toda resolución deberá cumplirse o ejecutarse en sus términos.
+VI. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo las auditorías de desempeño;
 
-###### ARTICULO 95.
+VII. Desempeñar las comisiones que les sean conferidas y participar en las auditorías de desempeño que su superior jerárquico les encomiende e informar sobre el desarrollo de sus actividades;
 
-Las sentencias contendrán:
+VIII. Solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
 
-I.- El lugar en que se pronuncien;
+IX. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación, y notificar las multas que procedan;
 
-II.- La designación del tribunal que las dicte;
+X. Elaborar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño y notificar los citatorios para darlos a conocer;
 
-III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, su estado civil, su residencia o domicilio y su ocupación, oficio o profesión;
+XI. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
 
-IV.- Un extracto breve de los hechos conducentes a la resolución;
+XII. Elaborar y someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas en la realización de las auditorías de desempeño, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente; y
 
-V.- Las consideraciones y los fundamentos legales de la sentencia; y
+XIII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-VI.- La condenación o absolución que proceda, y los demás puntos resolutivos correspondientes.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+Artículo 27 quater.- Al Subdirector de Auditoría de Desempeño a Municipios, le corresponde ejercer las facultades siguientes:
 
-###### ARTICULO 96.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
 
-Los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de su motivación y fundamentos legales
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización en auditorías de desempeño, para mejorar la preparación técnica y profesional del personal a su cargo;
 
-###### ARTICULO 97.
+III. Realizar las auditorías de desempeño, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las (sic) entes fiscalizados; y de su marco jurídico correspondiente;
 
-Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de veinticuatro horas, contadas desde aquella en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales, dentro de tres días, y las sentencias dentro de quince días, a partir del siguiente al de la terminación de la audiencia; pero si el expediente excediera de quinientas fojas, a este término se aumentará un día por cada cincuenta de exceso.
+IV. Revisar en las auditorías de desempeño, el cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de los entes fiscalizados, conforme a los indicadores estratégicos aprobados y de gestión;
 
-###### ARTICULO 98.
+V. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
 
-Las resoluciones judiciales se dictarán por los respectivos Ministros de la Suprema Corte de Justicia, Magistrados o Jueces, y serán firmadas por ellos y por el secretario que corresponda o, a falta de éste, por testigos de asistencia.
+VI. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo las auditorías de desempeño;
 
-###### ARTICULO 99.
+VII. Desempeñar las comisiones que les sean conferidas y participar en las auditorías de desempeño que su superior jerárquico les encomiende e informar sobre el desarrollo de sus actividades;
 
-Para la validez de las sentencias y de los autos que no sean de mero trámite, dictados por un tribunal colegiado se requerirá, cuando menos, el voto de la mayoría de sus miembros.
+VIII. Solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
 
-###### ARTICULO 100.
+IX. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación, y notificar las multas que procedan;
 
-Cuando alguno de los componentes de un tribunal colegiado no estuviere conforme con la resolución de la mayoría, expresará sucintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
+X. Elaborar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño y notificar los citatorios para darlos a conocer;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+XI. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
 
-###### ARTICULO 101.
+XII. Elaborar y someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas en la realización de las auditorías de desempeño, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente; y
 
-Ningún juez o tribunal unitario puede modificar ni variar sus resoluciones después de formuladas, ni los colegiados después de haberlos votado. Esto se entiende sin perjuicio de la aclaración de sentencia.
+XIII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+### Capítulo V. De las Facultades de los Titulares de las Unidades
 
-###### ARTICULO 102.
+###### Artículo 28.
 
-Las resoluciones judiciales causan estado cuando notificadas las partes de las mismas, éstas manifiesten expresamente su conformidad, no interpongan los recursos que procedan dentro de los plazos señalados por la ley o, también, cuando se resuelvan los recursos planteados contra las mismas.
+Corresponde a los Titulares de las Unidades, sin perjuicio de lo dispuesto en otros artículos de este Reglamento, ejercer las siguientes facultades generales:
 
-Ninguna resolución judicial se ejecutará sin que previamente se haya notificado de la misma al Ministerio Público y a quien corresponda, conforme a la ley.
+I. Planear, programar, coordinar y ejecutar las actividades a su cargo, de acuerdo con los lineamientos establecidos;
 
-### CAPITULO XII. Notificaciones
+II. Ejecutar y controlar los programas específicos y presupuestos asignados, para el desarrollo de las funciones de la competencia de las Unidades Administrativas de su adscripción;
 
-###### ARTICULO 103.
+III. Acordar con el Auditor Superior del Estado, los asuntos cuya atención, trámite o resolución, se encuentren dentro del ámbito de su competencia;
 
-Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las motiven.
+IV. Proponer al Auditor Superior del Estado, los nombramientos o promociones del personal de confianza de su adscripción, así como promover en el ámbito de su competencia, la investigación de los actos u omisiones que impliquen alguna irregularidad o conducta ilícita de dicho personal, a efecto de que se impongan las sanciones que procedan, cuando incurran en responsabilidades en el desempeño de sus funciones;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+V. Desempeñar las comisiones que el Auditor Superior del Estado les encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
-Cuando la resolución entrañe una citación o un término para la práctica de una diligencia, se notificará personalmente con cuarenta y ocho horas de anticipación, cuando menos, al día y hora en que se haya de celebrar la actuación o audiencia a que se refiera, debiéndose tomar en cuenta lo dispuesto en el segundo párrafo del artículo 72 de este Código.
+VI. Proporcionar la información correspondiente, para la elaboración del anteproyecto de presupuesto anual de la Auditoría Superior del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+VII. Vigilar el cumplimiento de las disposiciones laborales y de la normatividad aplicable al funcionamiento de las Unidades Administrativas de su adscripción y, en su caso, proponer las modificaciones procedentes;
 
-###### ARTICULO 104.
+VIII. Adscribir internamente al personal de las Unidades Administrativas que dependan de ellos;
 
-Las resoluciones contra las cuales proceda el recurso de apelación, se notificarán personalmente a las partes por conducto del secretario o actuario del tribunal.
+IX. Coordinarse con las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, para el mejor desempeño de sus funciones;
 
-Las demás resoluciones -con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramientos y otras diligencias análogas respecto de las cuales el tribunal estime que deba guardarse sigilo para el éxito de la investigación- se notificarán al detenido o al procesado personalmente, y a los otros interesados en la forma señalada en el artículo 107 de este Código.
+X. Formular los estudios, opiniones, dictámenes, informes y demás documentos que les sean requeridos por el Auditor Superior del Estado;
 
-###### ARTICULO 105.
+XI. Proporcionar, conforme a sus facultades y de acuerdo con las políticas y normas establecidas la información, documentación, datos, informes y asesorías o cooperación técnica que le requieran otras Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-En los casos a que se refiere la segunda parte del artículo anterior, las resoluciones que deban guardarse en sigilo, solamente se notificarán al Ministerio Público. En las demás no será necesaria la notificación personal al inculpado, cuando éste haya autorizado a algún defensor para que reciba las notificaciones que deban hacérsele.
+XII. Supervisar la aplicación de los mecanismos de control y evaluación para el mejoramiento de la eficiencia operativa y funcional de las Unidades Administrativas a su cargo, de acuerdo con los manuales de organización y de procedimientos;
 
-###### ARTICULO 106.
+XIII. Proporcionar la información que se requiera para la elaboración de los manuales de organización y de procedimientos de la Unidad a su cargo, así como proponer las reformas y adiciones necesarias;
 
-Cuando el inculpado tenga varios defensores, designará a uno de ellos para que reciba las notificaciones que correspondan a la defensa, sin perjuicio de que sean notificados alguno o algunos de los demás, si lo solicitaren del tribunal.
+XIV. Proponer a su superior jerárquico los proyectos para integrar el Plan Estratégico Institucional, el Programa Anual de Actividades y la mejora continua de la gestión de las Unidades Administrativas a su cargo;
 
-Si no se hace esa designación, bastará notificar a cualquiera de los defensores.
+XV. Coadyuvar en la atención de quejas, denuncias y reportes sobre presuntas irregularidades cometidas por servidores públicos que impliquen un daño a la hacienda pública estatal y/o municipal o al patrimonio de sus entes públicos, en coordinación con la Contraloría Interna de la Auditoría Superior del Estado;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+XVI. Solicitar a las entidades fiscalizadas los informes, datos o documentos necesarios para el cumplimiento de sus facultades;
 
-###### ARTICULO 107.
+XVII. Someter a la consideración del Auditor Superior del Estado, la imposición de sanciones por incumplimiento a los requerimientos de información y documentación, y establecer e implementar el control del seguimiento respectivo;
 
-Los actuarios o secretarios del tribunal que hagan las notificaciones que no sean personales, fijarán diariamente en la puerta del tribunal una lista de los asuntos acordados, expresando únicamente el número del expediente y el nombre del inculpado, y asentarán constancia de ese hecho en los expedientes respectivos. En los lugares donde hubiere Boletín Judicial de la Federación, la lista se publicará en él.
+XVIII. Vigilar y en su caso dar atención a las solicitudes de acceso a la información pública, en los términos establecidos en la ley de la materia;
 
-Si alguno de los interesados desea que se le haga notificación personal, podrá ocurrir a más tardar al día siguiente al en que se fije la lista o se haga la publicación en el Boletín Judicial de la Federación, solicitándola del actuario o secretario del tribunal. Si no se presentaran los interesados en ese término, la notificación se tendrá por hecha al tercer día de que se fije la lista en la puerta del Tribunal o de que se hubiere publicado en el Boletín Oficial.
+XIX. Autorizar las comisiones del personal bajo su adscripción, para realizar las actividades propias de su ámbito de competencia; y,
 
-###### ARTICULO 108.
+XX. Las demás que en la esfera de su competencia, les confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
-Las personas que intervengan en un proceso, designarán en la primera diligencia un domicilio ubicado en el lugar, para recibir notificaciones. Si por cualquiera circunstancia no hacen la designación, cambian de domicilio sin dar aviso al tribunal o señalan uno falso, la notificación se les hará aun cuando deba ser personal, en la forma que establece el artículo anterior.
+###### Artículo 29.
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
+Al Titular de la Unidad de Asuntos Jurídicos le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 109.
+I. Representar a la Auditoría Superior del Estado, ante los tribunales federales y estatales y ejercer las acciones legales en los procedimientos civiles, penales, administrativos o de cualquier otra índole que se instauren con motivo de los resultados del ejercicio de las facultades de la Auditoría Superior del Estado o en aquellos en donde sea requerida su intervención;
 
-Las notificaciones personales se harán en el tribunal o en el domicilio designado. Si no se encuentra al interesado en el domicilio, se le dejará con cualquiera de las personas que allí residan, una cédula que contendrá: nombre del tribunal que la dicte, causa en la cual se dicta, transcripción, en lo conducente, de la resolución que se le notifique, día y hora en que se hace dicha notificación y persona en poder de la cual se deja, expresándose, además, el motivo por el cual no se hizo en persona al interesado.
+II. Instruir y substanciar el procedimiento de responsabilidades y sanciones resarcitorias a que se refiere la Ley de Fiscalización Superior del Estado de Chiapas y someter a consideración del Auditor Superior del Estado el proyecto del pliego definitivo de responsabilidades;
 
-Si el que deba ser notificado se niega a recibir al funcionario encargado de hacer la notificación, o las personas que residen en el domicilio se rehusan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará la cédula en la puerta de entrada.
+III. Ejercitar las acciones judiciales, civiles y contencioso-administrativas en los juicios en los que la Auditoría Superior del Estado sea parte, contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos de la propia Auditoría, dando el debido seguimiento a los procesos y juicios en que actúe;
 
-###### ARTICULO 110.
+IV. Elaborar y someter a consideración de su superior jerárquico, los proyectos de denuncias y querellas que deban presentarse en el caso de ilícitos cometidos en contra de la Auditoría Superior del Estado, así como por aquellas conductas que pudieran constituirlos en contra de las haciendas públicas estatal o municipal o al patrimonio de sus entes públicos; asimismo, para que promueva ante las autoridades competentes el fincamiento de responsabilidades civiles, penales, políticas o administrativas, y en su caso el ejercicio de las facultades de comprobación en materia fiscal, derivadas del cumplimiento de las atribuciones legales de la Auditoría Superior del Estado;
 
-Si se probare que no se hizo una notificación decretada, o que se hizo en contravención de lo dispuesto en este Capítulo, el encargado de hacerla será responsable de los daños y perjuicios que ocasione la falta y se le juzgará con arreglo a la ley, si obró con dolo. En caso contrario, se le impondrá alguna corrección disciplinaria.
+V. Asesorar al Auditor Superior del Estado y a las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, a fin de que en los procedimientos, acuerdos, estudios, proyectos e investigaciones que lleven a cabo, se cumplan las formalidades previstas en las disposiciones legales que los regulan;
 
-###### ARTICULO 111.
+VI. Autorizar la sistematización de los criterios de interpretación de las disposiciones jurídicas, que regulen el funcionamiento de la Auditoría Superior del Estado y su difusión;
 
-Si a pesar de no haberse hecho la notificación en la forma que este Código previene, la persona que debe ser notificada se muestra sabedora de la providencia, se tendrá por hecha la notificación.
+VII. Elaborar y someter a consideración del Auditor Superior del Estado, las denuncias de juicio político;
 
-###### ARTICULO 112.
+VIII. Vigilar que los pliegos de observaciones formulados por la Auditoría Superior del Estado y que derivan de los actos de fiscalización superior, se apeguen a las disposiciones legales y normativas aplicables;
 
-Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, excepto en el caso del artículo anterior.
+IX. Solicitar a la Secretaría del Ramo, para que proceda a instaurar el procedimiento administrativo de ejecución, y en su caso, a la traba del embargo precautorio en bienes de los presuntos responsables;
 
-## TITULO SEGUNDO. Averiguación previa
+X. Supervisar el registro y control de los responsables sancionados por la Auditoría Superior del Estado, derivado del pliego definitivo de responsabilidades, y en su caso, proponer al Auditor Superior las normas y lineamientos que regulen la integración y actualización de dicho registro;
 
-### CAPITULO I. Iniciación del procedimiento
+XI. Supervisar el registro y seguimiento del cobro de los resarcimientos y ejecución de las sanciones impuestas por la Auditoría Superior del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+XII. Someter a consideración del Auditor Superior del Estado, las propuestas de reformas y adiciones al marco legal que rige la actuación de la Auditoría Superior del Estado;
 
-###### ARTICULO 113.
+XIII. Proponer al Auditor Superior del Estado, la resolución de condonación de multas derivadas del procedimiento de fincamiento de responsabilidades y sanciones resarcitorias;
 
-Los servidores públicos y agentes de policía judicial, así como los auxiIiares del Ministerio Público Federal, están obligados a proceder de oficio a la investigación de los delitos de orden federal de que tengan noticia, dando cuenta inmediata al Ministerio Público Federal si la investigación no se ha iniciado directamente por éste. La averiguación previa no podrá iniciarse de oficio en los casos siguientes:
+XIV. Someter a la consideración y aprobación del Auditor Superior, los convenios de coordinación y colaboración que celebre la Auditoría Superior del Estado en ejercicio de sus atribuciones;
 
-I.- Cuando se trate de delitos en los que solamente se pueda proceder por querella necesaria, si ésta no se ha presentado.
+XV. Autorizar la notificación de los pliegos, resoluciones y demás actos administrativos que emita la Auditoría Superior del Estado y habilitar al personal que deba practicar dichas diligencias;
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+XVI. Instruir y substanciar el Recurso de Revocación, previsto en la Ley de Fiscalización Superior del Estado de Chiapas;
 
-Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediata cuenta al que corresponda legalmente practicarla.
+XVII. Elaborar los informes previos y justificados que se deban rendir en los juicios de amparo interpuestos contra actos de la Auditoría Superior del Estado; intervenir cuando la Institución tenga el carácter de tercero perjudicado en estos juicios, e interponer los recursos que procedan y actuar con las facultades de delegado en las audiencias;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+XVIII. Certificar documentos y expedir constancias de los expedientes relativos a los asuntos de la competencia de la Auditoría Superior del Estado;
 
-Cuando para la persecución de un delito se requiera querella u otro acto equivalente, a título de requisito de procedibilidad, el Ministerio Público Federal actuará según lo previsto en la Ley Orgánica de la Procuraduría General de la República, para conocer si la autoridad formula querella o satisface el requisito de procedibilidad equivalente.
+XIX. Participar en la elaboración del informe del resultado de la revisión de la cuenta pública, en el ámbito de su respectiva competencia y atribuciones;
 
-###### ARTICULO 114.
+XX. Coordinar la codificación de leyes, normatividad legal y técnica relacionada con la revisión y fiscalización superior y la organización interna de la Auditoría Superior del Estado;
 
-Es necesaria la querella del ofendido, solamente en los casos en que así lo determinen el Código Penal u otra ley.
+XXI. Desempeñar las funciones relativas a la Unidad de Acceso a la Información Pública, en los términos de la ley de la materia;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+XXII. Supervisar la actualización permanente del portal institucional en materia de transparencia y derecho a la información pública;
 
-###### ARTICULO 115.
+XXIII. Proporcionar la información que le sea requerida para la elaboración de los informes del resultado de la revisión y fiscalización de las cuentas públicas; y,
 
-Cuando el ofendido sea menor de edad, pero mayor de dieciséis años, podrá querellarse por sí mismo o por quien esté legitimado para ello. Tratándose de menores de esta edad o de otros incapaces, la querella se presentará por quienes ejerzan la patria potestad o la tutela.
+XXIV. Las demás que en la esfera de su competencia, le confiera las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
-###### ARTICULO 116.
+###### Artículo 30.
 
-Toda persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, está obligada a denunciarlo ante el Ministerio Público y en caso de urgencia ante cualquier funcionario o agente de policía.
+A los Subdirectores de Responsabilidades "A" y "B" adscritos a la Unidad de Asuntos Jurídicos, les corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 117.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración del superior jerárquico;
 
-Toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito que deba perseguirse de oficio, está obligada a participarlo inmediatamente al Ministerio Público, trasmitiéndole todos los datos que tuviere, poniendo a su disposición, desde luego, a los inculpados, si hubieren sido detenidos.
+II. Substanciar el procedimiento para el fincamiento de responsabilidades y sanciones resarcitorias a que se refiere la Ley de Fiscalización Superior del Estado de Chiapas, por actos u omisiones que causen daño o perjuicio patrimonial a las entidades fiscalizadas, y someter a consideración de su superior jerárquico, el proyecto del pliego definitivo de responsabilidades;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+III. Integrar el expediente y la propuesta para promover el fincamiento de responsabilidades distintas a la resarcitoria ante las autoridades competentes;
 
-###### ARTICULO 118.
+IV. Promover por acuerdo de su superior jerárquico, la solicitud a la Secretaría del Ramo, para que proceda a instaurar el procedimiento administrativo de ejecución y en su caso, a la traba del embargo precautorio en bienes de los presuntos responsables;
 
-Las denuncias y las querellas pueden formularse verbalmente o por escrito. Se contraerán, en todo caso, a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente, y se harán en los términos previstos para el ejercicio del derecho de petición. Cuando una denuncia o querella no reúna estos requisitos, el funcionario que la reciba prevendrá al denunciante o querellante para que la modifique, ajustándose a ellos. Asimismo, se informará al denunciante o querellante, dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realizan, sobre las penas en que incurre quien se produce falsamente ante las autoridades, y sobre las modalidades del procedimiento según se trate de delito perseguible de oficio o por querella.
+V. Llevar el registro y control de los responsables sancionados por la Auditoría Superior del Estado, derivado del pliego definitivo de responsabilidades, y en su caso, proponer a su superior jerárquico, las normas y lineamientos que regulen la integración y actualización de dicho registro;
 
-En el caso de que la denuncia o la querella se presenten verbalmente, se harán constar en acta que levantará el funcionario que las reciba. Tanto en este caso como cuando se hagan por escrito, deberán contener la firma o huella digital del que las presente y su domicilio.
+VI. Registrar y dar seguimiento del cobro de los resarcimientos y ejecución de las sanciones impuestas por la Auditoría Superior del Estado;
 
-Cuando el denunciante o querellante hagan publicar la denuncia o la querella, están obligados a publicar también a su costa y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiesen formulado dichas denuncia o querella, y sin perjuicio de las responsabilidades en que aquéllos incurran, en su caso, conforme a otras leyes aplicables.
+VII. Proponer a su superior jerárquico, el proyecto de resolución de condonación de multas derivadas del procedimiento de fincamiento de responsabilidades y sanciones resarcitorias;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+VIII. Integrar la información que le sea requerida, para la elaboración de los informes del resultado de la revisión de las cuentas públicas; y,
 
-###### ARTICULO 119.
+IX. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
-Cuando la denuncia o la querella se presenten por escrito, el servidor público que conozca de la averiguación, deberá asegurarse de la identidad del denunciante o querellante, de la legitimación de este último, así como de la autenticidad de los documentos en que aparezca formulada la querella y en los que se apoyen ésta o la denuncia.
+###### Artículo 31.
 
-En todo caso, el servidor público que reciba una denuncia o querella formuladas verbalmente o por escrito, requerirá al denunciante o querellante para que se produzcan bajo protesta de decir verdad, con el apercibimiento a que se refiere el artículo 118 y les formulará las preguntas que estime conducentes.
+Al Subdirector de lo Contencioso adscrito a la Unidad de Asuntos Jurídicos, le corresponde ejercer las siguientes facultades:
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración del superior jerárquico;
 
-###### ARTICULO 120.
+II. Representar por acuerdo de su superior jerárquico a la Auditoría Superior del Estado ante los tribunales federales y estatales y ejercer las acciones legales en los procedimientos civiles, penales, administrativos o de cualquier otra índole que se instauren con motivo de los resultados del ejercicio de las facultades de la Auditoría Superior del Estado o en aquellos en donde sea requerida su intervención;
 
-No se admitirá intervención de apoderado jurídico para la presentación de denuncias, salvo en el caso de personas morales que podrán actuar por conducto de apoderado general para pleitos y cobranzas. Las querellas formuladas en representación de personas morales, se admitirán cuando el apoderado tenga un poder general para pleitos y cobranzas, con cláusula especial para formular querellas, sin que sean necesarios acuerdo o ratificación del Consejo de Administración o de la Asamblea de Socios o Accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
+III. Ejercitar por acuerdo de su superior jerárquico, las acciones judiciales, civiles y contencioso-administrativas, en los juicios en los que la Auditoría Superior del Estado sea parte, contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos de la propia Auditoría, dando el debido seguimiento a los procesos y juicios en que actúe;
 
-###### ARTICULO 121.
+IV. Elaborar y someter a consideración de su superior jerárquico, los proyectos de denuncias y querellas que deban presentarse en el caso de ilícitos cometidos en contra de la Auditoría Superior del Estado, así como por aquellas conductas que pudieran constituirlos en contra de las haciendas públicas estatal o municipal o al patrimonio de sus entes públicos;
 
-Cuando en un negocio judicial se arguya de falso un documento o el tribunal tenga duda fundada sobre su autenticidad, se dará vista al Agente del Ministerio Público adscrito y si éste lo solicita se desglosará de los autos dejando en ellos copia fotostática, y si no fuere posible ésta, copia certificada. El original del documento, que deberá firmar el Juez o Magistrado y el secretario, y el testimonio de las constancias conducentes, se remitirán al Ministerio Público.
+V. Substanciar el Recurso de Revocación previsto en la Ley de Fiscalización Superior del Estado de Chiapas;
 
-###### ARTICULO 122.
+VI. Proponer al superior jerárquico, los informes previos y justificados que se deban rendir en los juicios de amparo interpuestos contra actos de la Auditoría Superior del Estado; intervenir cuando la Institución tenga el carácter de tercero perjudicado en estos juicios e interponer los recursos que procedan y actuar con las facultades de delegado en las audiencias;
 
-En los casos del artículo anterior, se requerirá a quien haya presentado el documento para que diga si insiste en que se tome en consideración o no; si contestare afirmativamente y siempre que la falsedad sea de tal naturaleza, a juicio del tribunal, que si llegare a dictarse sentencia influiría substancialmente en ella, éste ordenará, a petición del Ministerio Público, que se suspenda el procedimiento civil a partir de la citación para sentencia, hasta en tanto se declare que no ha lugar a intentarse la acción penal, o si se intenta, hasta que se pronuncie resolución definitiva. Si no se insistiere en que se tome en consideración el documento, no se suspenderá el procedimiento civil.
+VII. Elaborar y someter a consideración del superior jerárquico las denuncias de juicio político;
 
-Este artículo se aplicará también en lo conducente cuando se tache de falso a un testigo.
+VIII. Integrar la información que le sea requerida para la elaboración de los informes del resultado de la revisión y fiscalización superior de las cuentas públicas; y,
 
-### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de policía judicial
+IX. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+###### Artículo 32.
 
-###### ARTICULO 123.
+Al Subdirector de Legislación y Asistencia Técnica adscrito a la Unidad de Asuntos Jurídicos, le corresponde ejercer las siguientes facultades:
 
-Inmediatamente que el Ministerio Público Federal o los funcionarios encargados de practicar diligencias de Policía Judicial, tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efectos del mismo; saber qué personas fueron testigos; evitar que el delito se siga cometiendo y en general, impedir que se dificulte la averiguación, procediendo a la aprehensión de los responsables en los casos de flagrante delito.
+l. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración del superior jerárquico;
 
-Lo mismo se hará tratándose de delitos que solamente puedan perseguirse por querella, si ésta ha sido formulada.
+II. Elaborar la codificación de leyes, normatividad legal y técnica, relacionada con la revisión y fiscalización superior y la organización interna de la Auditoría Superior del Estado;
 
-###### ARTICULO 124.
+III. Recepcionar, controlar y dar seguimiento a las solicitudes de acceso a la información pública;
 
-En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos; el nombre y carácter de la persona que dió noticia de ellos, y su declaración, así como la de los testigos cuyos dichos sean más importantes, y la del inculpado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raiz de ocurridos los hechos, en las personas que en ellos intervengan; y las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
+IV. Asesorar en materia de transparencia y acceso a la información pública, a las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, a fin de que se cumplan las formalidades previstas en las disposiciones legales que los regulan;
 
-###### ARTICULO 125.
+V. Controlar y vigilar la actualización permanente del portal institucional en materia de transparencia y derecho a la información pública;
 
-Los funcionarios de policía judicial podrán citar para que declaren sobre los hechos que se averigüen, a las personas que por cualquier concepto participen en ellos o aparezca (sic) tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse o por qué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
+VI. Elaborar y proponer a su superior jerárquico, las propuestas de reformas y adiciones al marco legal que rige la actuación de la Auditoría Superior del Estado;
 
-###### ARTICULO 126.
+VII. Asesorar legalmente a las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, para el adecuado ejercicio de sus funciones;
 
-Cuando una autoridad distinta del Ministerio Público practique diligencias de policía judicial, remitirá a éste, dentro de tres días de haberlas iniciado, el acta o actas levantadas y todo lo que con ellas se relacione. Si hubiere detenidos, la remisión se hará dentro de las veinticuatro horas siguientes a la detención.
+VIII. Proponer la sistematización de los criterios de interpretación de las disposiciones jurídicas que regulen el funcionamiento de la Auditoría Superior del Estado y realizar su difusión;
 
-###### ARTICULO 127.
+IX. Revisar que los pliegos de observaciones formulados por la Auditoría Superior del Estado y que derivan de la revisión y fiscalización superior, se apeguen a las disposiciones legales y normativas aplicables;
 
-Cuando se presentare al funcionario o agente que hubiere iniciado una averiguación, un funcionario del Ministerio Público, éste podrá continuar por sí mismo la averiguación, en cuyo caso el primero cerrará el acta en el estado en que se encuentre, y la entregará a dicho funcioanrio (sic), así como los detenidos y los objetos que se hayan recogido, comunicándole todos los demás datos de que tenga noticia; pero si el Ministerio Público lo estima conveniente para el éxito de la averiguación, podrá encomendar a quien la haya iniciado, que la continúe bajo su dirección, debiendo el funcionario o agente comisionado acatar sus instrucciones y hacer constar esa intervención en el acta.
+X. Elaborar los proyectos de convenios de coordinación y colaboración que celebre la Auditoría Superior del Estado en ejercicio de sus atribuciones;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+XI. Supervisar la notificación de los pliegos, resoluciones y demás actos administrativos que emita la Auditoría Superior del Estado;
 
-###### ARTICULO 128.
+XII. Integrar la información que le sea requerida para la elaboración de los informes del resultado de la revisión de las cuentas públicas; y,
 
-Los funcionarios que practiquen diligencias de policía judicial determinarán, en cada caso, qué personas quedarán en calidad de detenidas, y en qué lugar, haciéndolo constar en el acta respectiva.
+XIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Si esta determinación no procede del Ministerio Público Federal, se le informará de inmediato para que tome conocimiento de los hechos y resuelva lo que legalmente corresponda. En todo caso se mantendrá separados a los hombres y a las mujeres en los lugares de detención.
+###### Artículo 33.
 
-Desde el momento en que se determine la detención, el Ministerio Público hará saber al detenido la imputación que se le hace y el derecho que tiene para designar persona que lo defienda, dejando constancia de esta notificación en las actuaciones. El Ministerio Público recibirá las pruebas que el detenido o su defensor oportunamente aporten dentro de la averiguación previa y para los fines de ésta, que se tomarán en cuenta, como legalmente corresponda, en el acto de consignación o de liberación del detenido, en su caso. Cuando no sea posible el pleno desahogo de pruebas de la defensa, se reservarán los derechos de ésta para ofrecerlas ante la autoridad judicial, y el Ministerio Público hará la consignación si están satisfechos los requisitos para el ejercicio de la acción.
+Al Titular de la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+I. Coordinar la administración de los recursos humanos, financieros y materiales de la Auditoría Superior del Estado, de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas por el Auditor Superior del Estado;
 
-###### ARTICULO 129.
+II. Coordinar el diseño, desarrollo, revisión, actualización, aplicación y cumplimiento de la normatividad interna en materia de recursos materiales, humanos, financieros y de tecnologías de información;
 
-Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo, quienes bajo su responsabilidad no autorizarán su salida, a menos de recibir notificación escrita en este sentido de parte de la autoridad que hubiese ordenado la internación; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
+III. Coordinar la prestación de los servicios que en general se requieran, para el debido funcionamiento de las instalaciones de la Auditoría Superior del Estado;
 
-###### ARTICULO 130.
+IV. Supervisar el cumplimiento de las normas aplicables para el proceso de formulación, ejecución, evaluación y control de los presupuestos asignados a los programas, Unidades y Órganos Administrativos de la Auditoría Superior del Estado y coordinar la integración de la cuenta comprobada de la Institución;
 
-El Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de policía judicial no estuvieren en estado de consignarse desde luego a los tribunales.
+V. Coordinar la administración del pago de nóminas, la elaboración de los nombramientos del personal de la Auditoría Superior del Estado y la realización de los movimientos nominales, de acuerdo con las disposiciones normativas aplicables;
 
-Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito y, por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver, se darán por el Ministerio Público.
+VI. Coordinar la administración del sistema de evaluación del desempeño del personal de la Auditoría Superior del Estado;
 
-###### ARTICULO 131.
+VII. Coordinar la promoción, ejecución y control de los programas de servicio social de pasantes en la Institución;
 
-Si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece que se puedan practicar otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos, y entretanto se ordenará a la policía que haga investigaciones tendientes a lograr el esclarecimiento de los hechos.
+VIII. Coordinar y autorizar la adquisición de bienes y servicios para atender los requerimientos de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, de conformidad con la normatividad aplicable;
 
-###### ARTICULO 132.
+IX. Autorizar de acuerdo con las disposiciones normativas aplicables, la contratación de arrendamientos y servicios relacionados con bienes muebles e inmuebles, capacitación y las inversiones físicas, que soliciten los Titulares de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-En la práctica de las diligencias de policía judicial, se aplicarán en lo conducente las disposiciones del Título Sexto de este Código.
+X. Coordinar la implementación, mantenimiento y actualización de los mecanismos y procedimientos que sean necesarios para salvaguardar los bienes de la Auditoría Superior del Estado y su destino final;
 
-###### ARTICULO 133.
+XI. Supervisar el control, salvaguarda y la facilitación de la consulta del Archivo General de la Auditoría Superior del Estado;
 
-Cuando en vista de la averiguación previa el Agente del Ministerio Público a quien la Ley Reglamentaria del artículo 102 de la Constitución General de la República faculte para hacerlo, determinare que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido, podrán ocurrir al Procurador General de la República dentro del término de quince días contados desde que se les haya hecho saber esa determinación, para que este funcionario, oyendo el parecer de sus Agentes Auxiliares, decida en definitiva si debe o no ejercitarse la acción penal.
+XII. Coordinar el establecimiento y control del programa interno de Protección Civil para el personal, instalaciones e información de la Auditoría Superior del Estado, de acuerdo a las normas aprobadas para su operación, desarrollo y vigilancia;
 
-Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de responsabilidad.
+XIII. Supervisar el cumplimiento de las normas aplicables para el proceso de formulación, ejecución, evaluación y control de los presupuestos asignados a los programas, Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+XIV. Establecer las normas, bases y lineamientos que permitan implantar, operar y controlar el servicio fiscalizador de carrera;
 
-ARTICULO 133 bis.- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público. El juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+XV. Coordinar la administración del programa de capacitación del personal de la Auditoría Superior del Estado en su (sic) diversas etapas, así como la capacitación que se brinde a servidores públicos municipales;
 
-### CAPITULO III. Consignación ante los tribunales
+XVI. Supervisar el cumplimiento de los compromisos y acuerdos que en materia de capacitación, celebre la Auditoría Superior del Estado;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+XVII. Coordinar la organización de los eventos oficiales de la Auditoria Superior del Estado;
 
-###### ARTICULO 134.
+XVIII. Coordinar la formación de instructores internos, con la colaboración normativa y técnica de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-Tan luego como aparezca de la averiguación previa que se ha comprobado el cuerpo del delito y la probable responsabilidad del indiciado, en los términos de la primera parte del artículo 168, el Ministerio Público ejercitará la acción penal ante los tribunales. Para el libramiento de orden de aprehensión, éstos se ajustarán a lo previsto en el artículo 16 constitucional y en el 195 del presente Código.
+XIX. Coordinar la ejecución de las sanciones legales emitidas por autoridad competente a los servidores públicos de la Auditoría Superior del Estado, cuando incurran en responsabilidades administrativas en el desempeño de sus funciones;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+XX. Coordinar el diseño y establecimiento de las normas, proyectos y políticas en materia de tecnologías de información y comunicación de la Auditoría Superior del Estado, así como supervisar su debido cumplimiento;
 
-Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en el que se encuentre. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
+XXI. Coordinar el desarrollo, implementación y mantenimiento de los sistemas de información, utilizando tecnologías de vanguardia, que aseguren la compatibilidad y su correcto funcionamiento, requeridos por las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, o en su caso, proponer la contratación de servicios externos complementarios;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+XXII. Coordinar la implementación de los procedimientos, medidas de control y evaluación del cumplimiento de las políticas de seguridad institucional en materia de tecnologías de información, comunicación y de infraestructura física;
 
-En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20, fracción I, de la Constitución, y en los preceptos de este Código referentes a la libertad provisional bajo caución, tanto por lo que toca a la determinación del tipo penal, incluyendo sus modalidades, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
+XXIII. Autorizar los estudios y/o dictámenes de viabilidad técnica y operativa de los requerimientos de contratación de servicios, adquisición o arrendamiento de bienes en materia de tecnologías de información y comunicación;
 
-###### ARTICULO 135.
+XXIV. Supervisar el registro de las operaciones contables de la Auditoría Superior del Estado, así como la elaboración de sus estados financieros y cierres presupuestales en tiempo y forma;
 
-Al recibir el Ministerio Público diligencias de policía judicial, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales. Si fuere injustificada, ordenará que los detenidos queden en libertad.
+XXV. Supervisar la validación de cheques y transferencias electrónicas, el pago a proveedores y prestadores de servicios, las gestiones y comprobación de viáticos, peajes, pasajes y las conciliaciones bancarias;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+XXVI. Coordinar el diseño, actualización y establecimiento de las normas y tarifas para la aplicación de viáticos y pasajes, que permitan apoyar y regular la operación de la Auditoría Superior del Estado, así como supervisar su debido cumplimiento;
 
-Cuando se trate de delito no intencional o culposo, exclusivamente, el Ministerio Público dispondrá la libertad del inculpado, sin perjuicio de solicitar su arraigo, si éste garantiza mediante caución suficiente, que fije el Ministerio Público, no sustraerse a la acción de la justicia, así como el pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Tratándose de delitos cometidos con motivo del tránsito de vehículos, no se concederá este beneficio al inculpado que hubiese incurrido en el delito de abandono de persona. Se dispondrá la libertad igualmente, sin necesidad de caución y de perjuicio de pedir el arraigo correspondiente, cuando el delito merezca pena alternativa o no privativa de libertad.
+XXVII. Coordinar la implementación de los mecanismos y procedimientos necesarios para salvaguardar los recursos financieros de la Auditoría Superior del Estado;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+XXVIII. Supervisar el adecuado control y resguardo de la documentación comprobatoria y justificativa de las cuentas públicas de la Institución conforme a la normatividad aplicable; y,
 
-Cuando el Ministerio Público deje libre al indiciado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa, y, concluida ésta, ante el Juez a quien se consigne, quien ordenará su presentación y si no comparece sin causa justa y comprobada, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
+XXIX. Las demás que en la esfera de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+###### Artículo 34.
 
-El Ministerio Público podrá hacer efectiva la garantía si el indiciado desobedeciere, sin causa justificada, las órdenes que dictare.
+Al Subdirector de Recursos Materiales y Servicios Generales adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-La garantía se cancelará y en su caso se devolverá por el Ministerio Público, cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada tácitamente, hasta en tanto el Juez no decida su modificación o cancelación.
+II. Administrar los recursos materiales de la Auditoría Superior del Estado, de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas por el Auditor Superior del Estado;
 
-## TITULO TERCERO
+III. Diseñar, desarrollar, actualizar y vigilar el cumplimiento de la normatividad interna en materia de recursos materiales, que permitan regular, apoyar y eficientar el desempeño y la operación de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-### CAPITULO UNICO. Acción penal
+IV. Prestar los servicios que en general se requieran, para el debido funcionamiento de las instalaciones de la Auditoría Superior del Estado;
 
-###### ARTICULO 136.
+V. Proponer la adquisición de bienes y servicios para atender los requerimientos de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, de conformidad con la normatividad aplicable;
 
-En ejercicio de la acción penal, corresponde al Ministerio Público:
+VI. Implementar, mantener y actualizar los mecanismos y procedimientos que sean necesarios, para salvaguardar los bienes de la Auditoría Superior del Estado y su destino final;
 
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+VII. Controlar y salvaguardar el Archivo General de la Auditoría Superior del Estado y facilitar su consulta;
 
-I.- Promover la incoación del proceso penal;
+VIII. Proponer de acuerdo con las disposiciones normativas aplicables, la contratación de arrendamientos y servicios relacionados con bienes muebles e inmuebles, capacitación y las inversiones físicas, que soliciten los Titulares de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado; y,
 
-II.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión, que sean procedentes;
+IX. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-III.- Pedir el aseguramiento precautorio de bienes para los efectos de la reparación del daño;
+###### Artículo 35.
 
-IV.- Rendir las pruebas de la existencia de los delitos y de la responsabilidad de los inculpados;
+Al Subdirector de Recursos Humanos adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-V.- Pedir la aplicación de las sanciones respectivas; y
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-VI.- En general, hacer todas las promociones que sean conducentes a la tramitación regular de los procesos.
+II. Administrar los recursos humanos de la Auditoría Superior del Estado, de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas por el Auditor Superior del Estado;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+III. Diseñar, desarrollar, revisar, actualizar, aplicar y dar cumplimiento a la normatividad interna en materia de recursos humanos, que permitan regular, apoyar y eficientar el desempeño y la operación de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-###### ARTICULO 137.
+IV. Administrar el pago de nóminas, elaborar los nombramientos del personal de la Auditoría Superior del Estado y realizar los movimientos nominales, de acuerdo con las disposiciones normativas aplicables;
 
-El Ministerio Público no ejercitará la acción penal:
+V. Administrar el sistema de evaluación del desempeño del personal de la Auditoría Superior del Estado;
 
-I.- Cuando la conducta o los hechos de que conozca no sean constitutivos de delito, conforme a la descripción típica contenida en la Ley Penal;
+VI. Promover, ejecutar y controlar los programas de servicio social de pasantes en la Institución;
 
-II.- Cuando se acredite plenamente que el inculpado no tuvo participación en la conducta o en los hechos punibles, y sólo por lo que respecta a aquél;
+VII. Ejecutar las sanciones legales emitidas por autoridad competente a los servidores públicos de la Auditoría Superior del Estado, cuando incurran en responsabilidades administrativas en el desempeño de sus funciones;
 
-III.- Cuando, aún pudiendo ser delictivos la conducta o los hechos de que se trate, resulte imposible la prueba de su existencia por obstáculo material insuperable;
+VIII. Establecer y controlar el programa interno de protección civil para el personal, instalaciones e información de la Auditoría Superior del Estado, de acuerdo a las normas aprobadas para su operación, desarrollo y vigilancia; y,
 
-IV.- Cuando la responsabilidad penal se halla extinguida legalmente, en los términos del Código Penal; y
+IX. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-V.- Cuando de las diligencias practicadas se desprenda plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal.
+###### Artículo 36.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+Al Subdirector de Contabilidad y Presupuesto adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 138.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-El Ministerio Público promoverá el sobreseimiento y la libertad absoluta del inculpado, cuando durante el proceso aparezca que la conducta o los hechos no son constitutivos de delito, conforme a la descripción típica contenida en la ley penal; que el inculpado no tuvo participación en el delito que se persigue; que la pretención punitiva está legalmente extinguida, o que existe en favor del inculpado una causa excluyente de responsabilidad.
+II. Formular, ejecutar, evaluar y controlar los presupuestos asignados a los programas, Unidades y Órganos Administrativos de la Auditoría Superior del Estado, con base en la normatividad aplicable;
 
-###### ARTICULO 139.
+III. Operar y mantener el sistema de contabilidad gubernamental establecido, e integrar la cuenta comprobada de la Institución;
 
-Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven.
+IV. Administrar, en coordinación con la Subdirección de Tesorería, los recursos financieros de la Auditoría Superior del Estado, de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas por el Auditor Superior del Estado;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+V. Controlar y salvaguardar la documentación comprobatoria y justificativa de las cuentas públicas de la Institución, conforme a la normatividad aplicable; y,
 
-###### ARTICULO 140.
+VI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-Para que la promoción del Ministerio Público produzca el efecto señalado en el artículo anterior, deberá ser formulada expresamente. En este caso, se estará al procedimiento previsto en los artículos 294 y 295 del presente Código, y en la Ley Orgánica de la Procuraduría General de la República.
+###### Artículo 37.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+Al Subdirector de Tesorería adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-###### ARTICULO 141.
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-La persona ofendida por el delito no es parte en el proceso penal, pero podrá coadyuvar con el Ministerio Público, proporcionando al juzgador por conducto de éste o directamente, todos los elementos que tenga y que conduzcan a comprobar la procedencia y monto de la reparación del daño y perjuicio.
+II. Administrar, en coordinación con la Subdirección de Contabilidad y Presupuesto, los recursos financieros de la Auditoría Superior del Estado, de conformidad con las disposiciones legales y reglamentarias que la rijan y con las políticas y normas emitidas por el Auditor Superior del Estado;
 
-## TITULO CUARTO. Instrucción
+III. Proponer la actualización de normas y tarifas para la aplicación de viáticos y pasajes en la Institución y supervisar su debido cumplimiento;
 
-### CAPITULO I. Reglas generales de la instrucción
+IV. Implementar los mecanismos y procedimientos necesarios para salvaguardar los recursos financieros de la Auditoría Superior del Estado; y,
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+V. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-###### ARTICULO 142.
+###### Artículo 38.
 
-El Tribunal ante el cual se ejercite la acción penal, radicará de inmediato el asunto. Sin más trámite le abrirá expediente en el que resolverá lo que legalmente corresponda y practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
+Al Jefe del Área de Sistemas adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-Si durante el plazo de 10 días, contados a partir del día en que se haya hecho la consignación, el juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante el Tribunal Unitario de Circuito que corresponda.
+I. Planear, programar y ejecutar las actividades correspondientes al área a su cargo y someterlas a la consideración de su superior jerárquico;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+II. Diseñar y establecer las normas, proyectos y políticas en materia de tecnologías de información y comunicación de la Auditoría Superior del Estado, así como supervisar su debido cumplimiento;
 
-El juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los 15 días contados a partir del día en que se haya acordado la radicación. Si no resuelve oportunamente sobre este punto, el Ministerio Público procederá en los términos previstos en la parte final del párrafo anterior.
+III. Implementar los procedimientos, medidas de control y evaluación del cumplimiento de las políticas de seguridad institucional en materia de tecnologías de información y comunicación;
 
-###### ARTICULO 143.
+IV. Elaborar los estudios y/o dictámenes de viabilidad técnica y operativa de los requerimientos de contratación de servicios, adquisición o arrendamiento de bienes en materia de tecnologías de información y comunicación;
 
-Siempre que un tribunal del orden común inicie diligencias en auxilio de la justicia federal, deberá dar aviso inmediato al federal competente y éste, a su vez, lo hará saber al Agente del Ministerio Público de su adscripción.
+V. Desarrollar, implementar y mantener los sistemas de información utilizando tecnologías de vanguardia, que aseguren la compatibilidad y su correcto funcionamiento, requeridos por las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, o en su caso, proponer la contratación de servicios externos complementarios; y,
 
-###### ARTICULO 144.
+VI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-El tribunal, con vista del aviso a que se refiere el artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
+###### Artículo 39.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+Al Jefe del Área de Capacitación adscrito a la Unidad General de Administración, le corresponde ejercer las siguientes facultades:
 
-De no existir instrucciones expedidas por el tribunal federal, en tratándose de consignaciones con detenidos, el juez del orden común, dará la participación que conforme a esta ley corresponda al Ministerio Público Federal, si en el lugar del juicio hay Agente de esta autoridad, tomará la declaración preparatoria al inculpado, proveerá lo que legalmente proceda, resolverá lo conducente respecto a la libertad caucional y la situación jurídica de acuerdo a los artículos 161, 162 y 167 de este Código. Cumplidas estas diligencias, el juez del orden común remitirá de inmediato, por conducto del Ministerio Público Federal, el expediente y el detenido al tribunal federal competente, a efecto de que éste continúe el proceso.
+I. Planear, programar y ejecutar las actividades correspondientes al área a su cargo y someterlas a la consideración de su superior jerárquico;
 
-###### ARTICULO 145.
+II. Administrar el proceso de capacitación en sus etapas de detección y diagnóstico de necesidades, conformación del programa anual, capacitación a servidores públicos y evaluación reactiva de los eventos;
 
-Las diligencias de policía judicial y las practicadas por los tribunales del orden común que pasen al conocimiento de los federales, no se repetirán por éstos para que tengan validez, sin perjuicio de lo dispuesto en el artículo 440.
+III. Cumplir con los compromisos y acuerdos que en materia de capacitación, celebre la Auditoría Superior del Estado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+IV. Organizar los eventos oficiales de la Auditoría Superior del Estado;
 
-La nulidad y los recursos planteados contra las resoluciones de los tribunales comunes a que se refiere este artículo, cuando actúen en los términos de la fracción VI del artículo 1o. de la Ley Orgánica del Poder Judicial de la Federación, serán resueltos conforme a lo establecido en este Código, por el tribunal federal que corresponda.
+V. Formar instructores internos con la colaboración normativa y técnica de las Unidades y Órganos Administrativos de la Auditoría Superior del Estado;
 
-###### ARTICULO 146.
+VI. Formular las normas, bases y lineamientos que permitan implantar, operar y controlar el servicio fiscalizador de carrera; y,
 
-Durante la instrucción el tribunal que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+VII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
-El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
+### Capítulo VI. De las Facultades de la Contraloría Interna
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+###### Artículo 40.
 
-La misma obligación señalada en los párrafos precedentes tiene el Ministerio Público durante la averiguación previa y en el curso de la instrucción, para el efecto de hacer, fundadamente, los señalamientos y peticiones que correspondan al ejercitar la acción penal o al formular conclusiones.
+El Contralor Interno tendrá las siguientes facultades:
 
-###### ARTICULO 147.
+I. Vigilar y promover que la operación de la Auditoría Superior del Estado, se realice bajo criterios de racionalidad, austeridad, eficiencia, eficacia y transparencia en el uso de los recursos públicos, en materia de recursos humanos, materiales y financieros, proponiendo las alternativas que resulten más adecuadas para mejorar su situación operativa;
 
-La instrucción deberá terminarse en el menor tiempo posible. Cuando exista auto de formal prisión y el delito tenga señalada una pena máxima que exceda de dos años de prisión, se terminará dentro de diez meses; si la pena máxima es de dos años de prisión o menor, o se hubiere dictado auto de sujeción a proceso, la instrucción deberá terminarse dentro de tres meses.
+II. Informar al Auditor Superior del Estado, sobre el cumplimiento de las políticas y lineamientos que rigen a la Institución, así como proponer mejoras que permitan un óptimo desempeño en el uso de los recursos públicos;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+III. Realizar auditorías, inspecciones, verificaciones, compulsas y evaluaciones técnicas, contables, financieras, operacionales o de cualquier otra índole, para constatar el cumplimiento de las atribuciones y obligaciones de las Unidades y Órganos Administrativos;
 
-Los plazos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso. Dentro del mes anterior a que concluya cualquiera de los plazos antes señalados, el juez dictará auto que señale esta circunstancia, así como la relación de pruebas, diligencias y recursos que aparezcan pendientes de desahogo. En el mismo auto, el juez ordenará se gire oficio al tribunal unitario que corresponda, solicitándole resuelva los recursos antes de que se cierre la instrucción, y dará vista a las partes para que, dentro de los diez días siguientes, manifiesten lo que a su derecho convenga, indicándoles que de no hacerlo resolverá como lo ordena el artículo 150 de este Código.
+IV. Promover acciones que prevengan actos y operaciones ilícitas por parte de los servidores públicos de la Auditoría Superior del Estado con el objeto de mejorar la calidad en el servicio;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+V. Verificar cuantitativa y cualitativamente la realización de la obra pública, adquisición de bienes y/o servicios contratados por la Auditoría Superior del Estado;
 
-Cuando el juez omita dictar el auto al que se refiere el párrafo anterior, cualquiera de las partes podrá recurrir en la forma prevista por este Código para la queja.
+VI. Vigilar que la Auditoría Superior del Estado, presente con oportunidad, confiabilidad y periodicidad necesaria, la información que requiera el sistema que integra la información de los ingresos y gasto público;
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+VII. Vigilar en coordinación con las Unidades Administrativas correspondientes, la realización de las auditorías y revisiones que efectúen los despachos externos contratados por la Auditoría Superior del Estado, así como supervisar y revisar que los mismos cumplan con sus obligaciones contractuales;
 
-###### ARTICULO 148.
+VIII. Proponer la actualización a las normas y lineamientos que regulen el procedimiento de recepción, registro y control de las declaraciones de situación patrimonial de los servidores públicos de la Auditoría Superior del Estado;
 
-El perdón que otorgue el querellante surtirá sus efectos en los términos que previene el Código Penal.
+IX. Recibir, registrar, analizar y resguardar las declaraciones de situación patrimonial que deben presentar los servidores públicos de la Auditoría Superior del Estado y del H. Congreso del Estado, expidiendo las constancias de recepción respectiva;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+X. Instruir y substanciar el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por las infracciones administrativas en que incurran los servidores públicos de la Auditoría Superior del Estado.
 
-###### ARTICULO 149.
+En cualquier momento, previa o posteriormente al citatorio al que se refiere el procedimiento que antecede, podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones respectivas;
 
-El Ministerio Público, el ofendido o sus legítimos representantes solicitarán al juez, y éste dispondrá, con audiencia del inculpado, salvo que éste se haya sustraído a la acción de la justicia, el embargo precautorio de los bienes en que pueda hacerse efectiva la reparación de daños y perjuicios. Tomando en cuenta la probable cuantía de éstos, según los datos que arrojen las constancias procesales, se negará el embargo o se levantará el efectuado, cuando el inculpado u otra persona en su nombre otorguen caución bastante, a juicio del órgano jurisdiccional, para asegurar la satisfacción de la responsabilidad de los daños y perjuicios causados.
+XI. Informar al Auditor Superior del Estado, de las infracciones administrativas, así como aquellos actos que constituyan ilícitos cometidos por los servidores públicos de la Auditoría Superior del Estado y establecer el registro y control de los servidores públicos sancionados;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+XII. Receptuar y dar el trámite correspondiente a las quejas y denuncias presentadas por la ciudadanía, en contra de servidores públicos de la Auditoría Superior del Estado;
 
-Para los efectos de este artículo, se resolverá y diligenciará el embargo, notificando de inmediato al inculpado sobre la medida precautoria dictada, para desahogar la audiencia prevista en el párrafo anterior.
+XIII. Coordinar la atención de las quejas y/o denuncias interpuestas, sobre presuntas irregularidades cometidas por servidores públicos en las entidades fiscalizadas; en su caso, realizar visitas de inspección y requerirles rindan un informe de situación excepcional sobre los conceptos específicos o situaciones denunciadas y promover las multas que procedan;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+XIV. Requerir información y documentación necesarias a las Unidades y Órganos Administrativos de la Auditoría Superior del Estado, para el cumplimiento de sus atribuciones;
 
-Se entiende que el inculpado se encuentra sustraído a la acción de la justicia a partir del momento en que se dicta en su contra orden de aprehensión, reaprehensión o comparecencia, y hasta en tanto se ejecuta ésta.
+XV. Certificar documentos y expedir constancias de los expedientes relativos a los procedimientos administrativos instrumentados en los términos del presente artículo;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+XVI. Cambiar de adscripción y comisionar internamente por las necesidades del servicio al personal a su cargo; y,
 
-###### ARTICULO 150.
+XVII. Las demás que en la esfera de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
-Transcurridos los plazos que señala el artículo 147 de este Código o cuando el tribunal considere agotada la instrucción lo determinará así mediante resolución que se notificará personalmente a las partes, y mandará poner el proceso a la vista de éstas por diez días comunes, para que promuevan las pruebas que estimen pertinentes y que puedan practicarse dentro de los quince días siguientes al en que se notifique el auto que recaiga a la solicitud de la prueba. Según las circunstancias que aprecie el juez en la instancia podrá de oficio ordenar el desahogo de las pruebas que a su juicio considere necesarias para mejor proveer o bien ampliar el plazo de desahogo de pruebas hasta por diez días más. Al día siguiente de haber transcurrido los plazos establecidos en este artículo, el tribunal, de oficio y previa la certificación que haga el secretario, dictará auto en el que se determinen los cómputos de dichos plazos.
+### Capítulo VII. De las Facultades de los Servidores Públicos Auxiliares
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+###### Artículo 41.
 
-Se declarará cerrada la instrucción cuando, habiéndose resuelto que tal procedimiento quedó agotado, conforme a lo previsto en el párrafo anterior, hubiesen transcurrido los plazos que se citan en este artículo o las partes hubieran renunciado a ellos.
+Corresponde a los Jefes de Departamento, Jefes de Oficina, Supervisores y Auditores ejercer las siguientes facultades generales:
 
-###### ARTICULO 151.
+I. Realizar las auditorías, visitas, supervisiones, inspecciones y revisiones para las cuales sean comisionados sujetándose a las leyes respectivas, y ser el representante de la Auditoría Superior del Estado en lo concerniente a la comisión conferida;
 
-Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará esto por cualquier medio de prueba en el curso de la instrucción. La resolución dictada en el procedimiento penal no servirá de base para el ejercicio de las acciones civiles que del derecho expresado puedan originarse.
+II. Formular actas circunstanciadas en presencia de dos testigos, en las que se harán constar hechos u omisiones que hubieren encontrado durante sus actuaciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+III. Solicitar y obtener toda la información y documentación necesaria para el cumplimiento de la comisión conferida;
 
-###### ARTICULO 152.
+IV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad;
 
-En los casos de delitos cuya pena no exceda de seis meses de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la instrucción dentro de quince días. Una vez que el tribunal la estime agotada, dictará resolución citando a la audiencia a que se refiere el artículo 307 y se estará a lo dispuesto en la fracción I del Artículo 367.
+V. Revisar y evaluar la información y documentación que se les proporcione en la práctica de las auditorías, visitas, inspecciones y revisiones, y en su caso, certificar los documentos que soporten las observaciones y recomendaciones;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+VI. Elaborar e integrar los expedientes con los papeles de trabajo correspondientes a cada auditoría o comisión conferida; en su caso, certificar las copias de los documentos que sustenten sus observaciones y recomendaciones que le hayan sido proporcionados por las entidades fiscalizadas;
 
-En el auto de formal prisión o de sujeción a proceso, según corresponda, el juez, de oficio, resolverá la apertura del procedimiento sumario en el que se procurará agotar la instrucción dentro del plazo de treinta días, cuando se esté en cualquiera de los siguientes casos:
+VII. Elaborar los resultados y observaciones preliminares, los pliegos de observaciones y proponer las recomendaciones correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+VIII. Elaborar el proyecto de informe final de las auditorías en las que participen;
 
-l.- Que se trate de flagrante delito;
+IX. Organizar, clasificar, archivar y salvaguardar, de acuerdo con las disposiciones aplicables, la información y documentación correspondiente a cada auditoría;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+X. Verificar el cumplimiento de parte del ente auditado del marco legal y normativo de la auditoría;
 
-II.- Que exista confesión rendida precisamente ante la autoridad judicial o ratificación ante ésta de la rendida legalmente con anterioridad, o
+XI. Dar seguimiento a las recomendaciones y observaciones derivadas de las auditorías en que participaron y promover su solventación y desahogo; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+XII. Las demás que les sean conferidas en los Acuerdos Delegatorios de Facultades correspondientes y las que deriven de las demás disposiciones legales aplicables a las auditorías.
 
-III.- Que no exceda de cinco años el término medio aritmético de la pena aplicable, o ésta sea alternativa o no privativa de libertad.
+Las facultades previstas en este precepto, las ejercerán los Jefes de Departamento, Jefes de Oficina, Supervisores y Auditores, y demás servidores públicos dentro del ámbito de competencia de las Unidades u Órganos Administrativos a los que estén adscritos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+### Capítulo VIII. De la Suplencia de los Funcionarios de la Auditoría Superior del Estado
 
-Una vez que el juzgador estime agotada la instrucción, dictará resolución citando a la audiencia a que se refiere el artículo 307, la que deberá celebrarse dentro de los diez días siguientes a la notificación de la resolución que declare cerrada la instrucción.
+###### Artículo 42.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+Las ausencias temporales del Auditor Superior del Estado, serán suplidas por el Auditor Especial de Planeación e Informes y por el Auditor Especial de los Poderes del Estado, Municipios y Entes Públicos, en ese orden, a falta de todos ellos, por el Jefe de la Unidad de Asuntos Jurídicos.
 
-ARTICULO 152 bis.- Cuando se haya dictado auto de formal prisión o de sujeción a proceso, en su caso, y ambas partes manifiesten en el mismo acto o dentro de los tres días siguientes a la notificación del auto que se conforman con él y que no tienen más pruebas que ofrecer, salvo las conducentes sólo a la individualización de la pena o medida de seguridad, y el juez no estime necesario practicar otras diligencias, se procederá conforme a lo previsto en la parte final del artículo anterior.
+###### Artículo 43.
 
-### CAPITULO II. Declaración preparatoria del inculpado y nombramiento de defensor
+En caso de falta definitiva del Auditor Superior del Estado, la Comisión de Vigilancia dará cuenta al Congreso para que se haga nueva designación. En tanto sea designado un nuevo Titular conforme a las disposiciones y al procedimiento señalado en la Ley de Fiscalización Superior del Estado de Chiapas, se aplicará el mismo orden de la suplencia en el caso de ausencias temporales a que se refiere el artículo anterior.
 
-###### ARTICULO 153.
+###### Artículo 44.
 
-La declaración preparatoria se recibirá en local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averigüen.
+Las ausencias temporales de los Auditores Especiales serán suplidas por el Director, que al efecto designe el Auditor Superior del Estado.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+Las ausencias temporales de los Titulares de las Unidades, Directores y Coordinadores, serán suplidas por el Subdirector, que al efecto designe el Auditor Superior del Estado.
 
-###### ARTICULO 154.
+En los casos de faltas definitivas de los servidores públicos antes señalados, el Auditor Superior del Estado designará al Encargado del Despacho y resolución de los asuntos correspondientes, hasta en tanto se proponga al Titular.
 
-La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido se le hará saber el derecho que tiene para defenderse por sí o por persona de su confianza, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio. A continuación se le impondrá de la naturaleza y causas de la acusación; se le hará conocer la querella, si la hubiere, así como los nombres de sus acusadores y testigos que depongan en su contra; se le examinará sobre los hechos que motiven la averiguación, para lo cual se adoptará la forma que se estime conveniente y adecuada al caso, a fin de esclarecer los hechos consignados así como la participación y las circunstancias personales del inculpado; y se le dará a conocer la garantía que le otorga la fracción I de artículo 20 constitucional y, en su caso, el derecho y forma de solicitar su libertad bajo protesta. Si el inculpado decidiera no rendir su declaración preparatoria o se rehusare a declarar, el juez deberá explicarle la naturaleza y el alcance legales de esta diligencia, dejando constancia de ello en el expediente. Acto seguido, el juez careará al inculpado con los testigos que depongan en su contra, si estuviesen en el lugar del juicio y fuese posible tomarles declaración y practicar el careo, para que el inculpado pueda hacerles todas las preguntas conducentes a su defensa.
+T r a n s i t o r i o s
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 155.
+Artículo Segundo.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Chiapas, publicado por Decreto número 146 en el Periódico Oficial del Estado número 220, de fecha 11 de febrero de 2004, sus reformas, acuerdos y todas aquellas disposiciones que se opongan o contravengan al presente Reglamento.
 
-La declaración preparatoria se rendirá oralmente por el inculpado, sin que sea aconsejado o asesorado por persona alguna en el momento de rendirla, salvo en lo que respecta a las informaciones u orientaciones que legalmente deba darle el juzgador. El inculpado podrá dictar sus declaraciones, pero si no lo hiciere, las redactará con la mayor exactitud posible el juzgador que practique la diligencia. Si fueran varios los inculpados por los mismos hechos, se les tomará declaración por separado, en una sola audiencia. Cuando haya diversos inculpados que deban rendir declaración, el juez adoptará las medidas precautorias previstas en el artículo 257.
+Artículo Tercero.- Los asuntos que a la fecha de entrada en vigor de este Reglamento se encontraban en trámite en la Subdirección de Seguimiento de Auditoría a Poderes y Entes Públicos y Subdirección de Seguimiento de Auditoría a Municipios, adscritas a la Auditoría Especial de los Poderes del Estado, Municipios y Entes Públicos, serán atendidos por la Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Poderes y Entes Públicos del Estado y por la Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Municipios, adscritas a la Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización de la Auditoría Especial de Planeación e Informes.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
 
-###### ARTICULO 156.
+El Auditor Superior del Estado, dispondrá se publique, circule y se le dé el debido cumplimiento.
 
-Tanto la defensa como el Agente del Ministerio Público, quien deberá estar presente en la diligencia, podrán interrogar al inculpado. Las preguntas que se hagan a éste deberán referirse a hechos propios, se formularán en términos precisos y cada una abarcará un solo hecho, salvo cuando se trate de hechos complejos en que por la íntima relación que exista entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. El juez podrá disponer que los interrogatorios se hagan por su conducto cuando lo estime necesario, y desechará las preguntas que a su juicio sean capciosas o inconducentes, pero la pregunta y la resolución judicial que la deseche se asentarán en el expediente, cuando así lo solicite quien la hubiese formulado. Esta resolución sólo será revocable.
+Dado en la sede del Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los trece días del mes de julio del año dos mil diez.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+El Auditor Superior del Estado, C.P. Humberto Blanco Pedrero.- Rúbrica.
 
-###### ARTICULO 157.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-En los casos a que se refiere el segundo párrafo del artículo 135, y en todos aquellos en que el delito no de lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan elementos que acrediten el cuerpo del delito y la presunta responsabilidad del inculpado.
+P.O. 22 DE FEBRERO DE 2012.
 
-###### ARTICULO 158.
+Único.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Si contra una orden de aprehensión no ejecutada o de comparecencia para preparatoria, se concede la suspensión definitiva por haber pedido amparo el inculpado, el tribunal que libró dicha orden procederá desde luego a solicitar del que concedió la suspensión que lo haga comparecer a su presencia dentro de tres días, para que rinda su declaración preparatoria y para los demás efectos del procedimiento.
+P.O. 1 DE JUNIO DE 2016.
 
-###### ARTICULO 159.
+## [N. DE E. TRANSITORIOS DE LA PUBLICACIÓN NO. 1452-A-2016 “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS”.]
 
-La designación de defensor de oficio en los lugares donde no resida tribunal federal y en que, por tanto, los jueces locales tengan que auxiliar a éste, se hará entre los defensores de oficio del orden común.
+Primero.- A la entrada en vigor del presente Acuerdo, los recursos humanos, materiales y financieros de la Coordinación de Políticas Públicas y Objetivos de Desarrollo del Milenio, pasan a formar parte de la Dirección de Auditoría de Desempeño, sin perjuicio de los derechos laborales de los trabajadores adscritos a la Coordinación que se extingue.
 
-Lo mismo se hará cuando no hubiere defensor de oficio federal en el lugar en que resida el tribunal federal que conozca del asunto.
+Segundo.- Los asuntos pendientes y en trámite que a la entrada en vigor del presente Acuerdo, estaban a cargo de la Coordinación de Políticas Públicas y Objetivos de Desarrollo del Milenio, serán tramitados y concluidos por la Dirección de Auditoría de Desempeño.
 
-###### ARTICULO 160.
+Tercero.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el Capítulo II, Título Décimosegundo del Libro II del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombarimento (sic) a todo defensor.
+P.O. 31 DE ENERO DE 2018.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+## [N. DE E. TRANSITORIOS DE LA “PUB. No. 2195-A-2018 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS”.]
 
-Fuera de los casos excluidos en el párrafo anterior, el inculpado puede designar a personas de su confianza para que lo defiendan, pero en caso de que la designación no recaiga sobre quien tenga cédula profesional de licenciado en Derecho o autorización de pasante, conforme a la Ley que reglamente el ejercicio de las profesiones, el tribunal dispondrá que intervenga, además del designado, un defensor de oficio que oriente a aquél y directamente al propio inculpado en todo lo que concierne a su adecuada defensa.
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Chiapas, publicado en el Periódico Oficial del Estado Número 243, de fecha 14 de julio de 2010, sus reformas, acuerdos y todas aquellas disposiciones que se opongan o contravengan al presente Reglamento, conforme a lo dispuesto en los artículos transitorios subsecuentes.
 
-Si el inculpado designare a varios defensores, éstos deberán nombrar en el mismo acto a un representante común, y si no lo hicieren, en su lugar lo determinará el juez.
+TERCERO.- Las unidades y órganos administrativos de la Auditoría Superior del Estado darán seguimiento hasta su conclusión a las auditorías, acciones y demás asuntos de su competencia relativos a las cuentas públicas del Estado y Municipios correspondientes al ejercicio 2016 y anteriores, conforme a lo establecido en el artículo Tercero Transitorio del Decreto por el que se expide la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, y por tanto podrán fundamentar sus actuaciones tanto en el presente Reglamento Interior como en el Reglamento Interior que se abroga.
 
-### CAPITULO III. Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para procesar
+CUARTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización, los continuará la Dirección de Seguimiento de Resultados, adscrita a la Auditoría Especial de Planeación e Informes, de conformidad con la competencia y facultades que le confiere el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Contraloría Interna, los continuará el Órgano Interno de Control, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
 
-###### ARTICULO 161.
+SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por el Área de Sistemas, serán atendidos y concluidos por la Coordinación de Desarrollo Tecnológico, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
 
-Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del juez, se dictará el auto de formal prisión cuando de lo actuado aparezcan acreditados los siguientes requisitos:
+SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Unidad de Planeación Estratégica y Desarrollo Institucional, serán atendidos y concluidos por la Coordinación de Desarrollo Institucional, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
 
-(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
+OCTAVO.- Las Subdirecciones de Substanciación “A” y “B” adscritas a la Unidad de Asuntos Jurídicos, con independencia de las atribuciones conferidas en el presente Reglamento, serán las encargadas de substanciar los procedimientos de fincamiento de responsabilidades y sanciones resarcitorias que deriven de la revisión y fiscalización superior de las cuentas públicas del Estado y Municipios del ejercicio 2016 y anteriores, conforme a las atribuciones que tenían conferidas las Subdirecciones de Responsabilidades “A” y “B” en el Reglamento que se abroga.
 
-I. Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
-
-(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
-
-II. Que esté comprobado el cuerpo del delito que tenga señalado sanción privativa de libertad;
-
-(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
-
-III. Que en relación a la fracción anterior, esté demostrada la presunta responsabilidad del acusado, y
-
-IV.- Que no esté plenamente comprobada a favor del inculpado alguna circunstancia eximente de responsabilidad, o que extinga la acción penal.
-
-###### ARTICULO 162.
-
-Cuando el delito cuya existencia se haya comprobado no merezca pena corporal, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir el proceso.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 163.
-
-Los autos a que se refieren los dos artículos anteriores se dictarán por el delito que realmente aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, y considerando la descripción típica legal y la presunta responsabilidad correspondientes, aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores. Dichos autos serán inmediatamente notificados, en forma personal, a las partes.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 164.
-
-El auto de formal prisión se notificará al jefe o responsable del establecimiento donde se encuentre detenido el inculpado. Si este funcionario no recibe copia autorizada de la mencionada resolución dentro de las setenta y dos horas siguientes al acto en que se puso al acusado a disposición de su juez, dará a conocer por escrito esta situación al citado juez y al Ministerio Público en el momento mismo de concluir el plazo, y si no obstante esto no recibe la copia autorizada del auto de formal prisión dentro de las tres horas siguientes, pondrá en libertad al inculpado. De todo ello se dejará constancia en el expediente del proceso.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 165.
-
-Dictado el auto de formal prisión o el de sujeción a proceso se identificará al procesado por el sistema adoptado administrativamente. En todo caso se comunicarán a las oficinas de identificación las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, para que se hagan las anotaciones correspondientes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Las constancias de antecedentes penales y los documentos o fichas en que conste la identificación de individuos indiciados o inculpados con motivo de cualquier averiguación o proceso penal, sólo se proporcionarán por las oficinas respectivas cuando lo requiera una autoridad competente, fundando y motivando su requerimiento, o cuando se solicite por ser necesarias para ejercitar un derecho o cumplir un deber legalmente previstos.
-
-###### ARTICULO 166.
-
-El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así se determine expresamente en el propio auto.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 167.
-
-Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, se dictará auto de libertad por falta de elementos para procesar, o de no sujeción a proceso, en su caso, sin perjuicio de que por medios de prueba posteriores se proceda nuevamente en contra del inculpado
-
-## TITULO QUINTO. Disposiciones comunes a la averiguación previa y a la Instrucción
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-### CAPITULO I
-
-Comprobación del cuerpo del delito y de la presunta responsabilidad del inculpado.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 168.
-
-El Ministerio Público, con la intervención legal de sus auxiliares, la Policía Judicial y el tribunal, en su caso, deberán procurar ante todo que se compruebe el cuerpo del delito y la presunta responsabilidad del inculpado como base del ejercicio de la acción penal y del proceso penal federal.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia de los elementos que integran la descripción de la conducta o hecho delictuosos, según lo determina la ley penal. Se atenderá para ello, en su caso, a las reglas especiales que para dicho efecto previene este Código.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-La presunta responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se deduzca su participación en la conducta o hechos constitutivos del delito demostrado.
-
-###### ARTICULO 169.
-
-Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por el funcionario que hubiere practicado las diligencias de policía judicial o por el tribunal que conozca del caso, y con la descripción que de ellas hagan los peritos médicos.
-
-###### ARTICULO 170.
-
-En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente de delito, se tendrá por comprobado el cuerpo de éste, con la inspección hecha por el funcionario o tribunal a quienes se refiere el artículo anterior, de las manifestaciones exteriores que presentare la víctima y con el dictamen pericial en que se expresarán los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, bastará con el dictamen pericial.
-
-###### ARTICULO 171.
-
-Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver hecha en los términos de los dos artículos anteriores y con el dictamen de los peritos médicos quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
-
-Solamente podrá dejarse de practicar la autopsia cuando tanto el tribunal como los peritos estimen que no es necesaria.
-
-###### ARTICULO 172.
-
-Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente declaren que la muerte fue resultado de las lesiones inferidas.
-
-###### ARTICULO 173.
-
-En los casos de aborto o de infanticidio el cuerpo del delito se tendrá por comprobado en los mismos términos que el de homicidio; pero en el primero, además, reconocerán los peritos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En uno y otro caso expresarán la edad de la víctima, si nació viable y todo aquello que pueda servir para fijar la naturaleza del delito.
-
-###### ARTICULO 174.
-
-En los casos de robo el cuerpo del delito podrá comprobarse por alguno de los medios siguientes, siempre que no haya sido posible hacerlo en los términos del artículo 168:
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-l.- Cuando el inculpado confiese el robo que se le imputa, aun cuando se ignore quién sea el dueño de la cosa objeto del delito;
-
-II.- Cuando haya prueba de que el inculpado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no sea verosímil que haya podido adquirir legítimamente, si no justifica la procedencia de aquélla y si hay además quien le impute el robo.
-
-###### ARTICULO 175.
-
-Siempre que no fuere posible comprobar el cuerpo del delito de robo en la forma que determina el artículo anterior, se procurará desde luego investigar:
-
-l.- Si el inculpado ha podido adquirir legítimamente la cosa que se dice robada;
-
-II.- La preexistencia, propiedad y falta posterior de la cosa robada; y
-
-lll.- Si la persona ofendida se hallaba en situación de poseer la cosa materia del delito y si es digna de fe y crédito.
-
-Si de la comprobación de todas estas circunstancias así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficientes, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
-
-###### ARTICULO 176.
-
-Se dará por comprobado el cuerpo del delito a que se refiere la fracción II del artículo 368 del Código Penal, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier flúido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva o a cualquier tubería o línea particular conectada a las tuberías o líneas de dicha empresa.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 177.
-
-El cuerpo de los delitos contra la salud, peculado, abuso de confianza y fraude, si no hubiere sido posible comprobarlo en los términos del artículo 168, podrá tenerse por comprobado en la forma que establece la fracción I del artículo 174, siempre y cuando la confesión del procesado esté adminiculada con elementos que a juicio del Tribunal la hagan verosímil, pero para el de peculado es necesario, además, que se demuestre, por cualquier otro medio de prueba, los requisitos que acerca del sujeto activo prevenga la ley penal.
-
-###### ARTICULO 178.
-
-En el caso de posesión de una droga, substancia, semilla o planta enervantes, siempre que no haya sido posible comprobar el cuerpo del delito en los términos del articulo 168, se tendrá por comprobado con la simple demostración del hecho material de que el inculpado las tenga o haya tenido en su poder, sin llenar los requisitos que señalan las leyes y demás disposiciones sanitarias, ya sea guardadas en cualquier lugar o trayéndolas consigo, aun cuando las abandone o las oculte o guarde en otro sitio.
-
-###### ARTICULO 179.
-
-Cuando, tratándose del delito de ataques a las vías de comunicación, no fuere posible practicar inspección ocular porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente su reparación, bastará para la comprobación del cuerpo del delito cualquiera otra prueba plena.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 180.
-
-Para la comprobación del cuerpo del delito y de la presunta responsabilidad del inculpado, el Ministerio Público, sus auxiliares, la Policía Judicial y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
-
-### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 181.
-
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, así como aquellos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados; ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan. Tratándose de delitos de imprudencia, ocasionados con motivo del tránsito de vehículos, éstos podrán asegurarse por el Ministerio Público, en cuyo caso se entregarán en depósito a su conductor o a quien se legitime como propietario, quienes deberán presentarlos ante la autoridad competente cuando ésta lo solicite. En caso de incumplimiento del depositario, se procederá conforme lo que dispone el artículo 385 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-De todas las cosas aseguradas se hará un inventario, en el que se las (sic) describirá de tal manera que en cualquier tiempo puedan ser identificadas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Cuando se trate de plantíos de mariguana, papaver somníferum o adormidera u otros estupefacientes, el Ministerio Público, la Policía Judicial o las autoridades que actúen en su auxilio, procederán a la destrucción de aquéllos, levantando un acta en la que se haga constar: el área del cultivo, cantidad o volumen del estupefaciente, debiéndose recabar muestras del mismo para que obren en la averiguación previa que al efecto se inicie.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Cuando se aseguren estupefacientes o psicotrópicos, el Ministerio Público acordará y vigilará su destrucción, si esta medida es procedente, previa la inspección de las sustancias, en la que se determinará la naturaleza, el peso y las demás características de éstas. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, en su caso.
-
-###### ARTICULO 182.
-
-Las cosas inventariadas conforme al artículo anterior, deberán guardarse en lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar la conservación e identidad de esas cosas.
-
-###### ARTICULO 183.
-
-Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser asegurada. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
-
-###### ARTICULO 184.
-
-Los cadáveres deberán ser siempre identificados por cualquier medio legal de prueba, y si esto no fuere posible dentro de las doce horas siguientes a la en que fueren recogidos, se expondrán al público en el local destinado al efecto por un plazo de veinticuatro horas a no ser que, según dictamen médico, tal exposición ponga en peligro la salubridad general. Cuando por cualquier circunstancia el rostro de los cadáveres se encuentre desfigurado y se haga difícil identificarlo, se hará su reconstitución, siempre que sea posible.
-
-Si a pesar de haberse tomado las providencias que señala este artículo no se logra la identificación del cadáver, se tomarán fotografías del mismo agregándose un ejemplar a la averiguación; se pondrán otros en los lugares públicos, juntamente con todos los datos que puedan servir para que sea reconocido; y se exhortará a todos los que hayan conocido al occiso para que se presenten ante la autoridad exhortante a declarar sobre la identidad de aquél.
-
-Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
-
-###### ARTICULO 185.
-
-Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario de policía judicial que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la autopsia, cuando proceda.
-
-Si hubiere temor de que el cadáver pueda ser ocultado o de que sufra alteraciones, no será entregado en tanto no se practique la autopsia o se resuelva que ésta no es necesaria.
-
-###### ARTICULO 186.
-
-En los casos de envenenamiento se recogerán cuidadosamente las vasijas y demás objetos que haya usado el ofendido, los restos de los alimentos, bebidas y medicinas que hubiere tomado, las deyecciones y vómitos que hubiere tenido, todo lo cual será depositado con las precauciones necesarias para evitar su alteración, y se describirán todos los síntomas que presente el individuo intoxicado. A la brevedad posible serán llamados los peritos para que reconozcan al ofendido, hagan el análisis de las substancias recogidas y emitan su opinión sobre las cualidades tóxicas que tengan éstas y si han podido causar la intoxicación de que se trate.
-
-###### ARTICULO 187.
-
-Si el delito fuere de falsificación de documento, además de la minuciosa descripción que se haga de éste, se depositará en lugar seguro haciendo que firmen sobre aquél, si fuere posible, las personas que depongan respecto de su falsedad, y en caso contrario, se hará constar el motivo. Al expediente se agregará una copia certificada del documento argüido de falso y otra fotostática del mismo, si fuere necesario y posible.
-
-### CAPITULO III. Atención médica a los lesionados
-
-###### ARTICULO 188.
-
-La atención médica de quienes hayan sufrido lesiones provenientes de delito, se hará en los hospitales públicos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
-
-Cuando por la urgencia del caso o la gravedad de la lesión se requiera la intervención médica inmediata y no fuese posible recurrir a un hospital que preste servicios al público en general, se recurrirá, para la atención que corresponda, a los establecimientos de salud de organismos de la Administración Pública más cercanos al lugar en que se encuentre el lesionado.
-
-Si el lesionado no debe estar privado de libertad, la autoridad que conozca del caso podrá permitir, si lo juzga conveniente, que sea atendido en lugar distinto bajo responsiva de médico con título legalmente reconocido y previa la clasificación legal de las lesiones. Este permiso se concederá sin perjuicio de que la autoridad se cerciore del estado del lesionado cuando lo estime oportuno.
-
-###### ARTICULO 189.
-
-En el caso de la segunda parte del artículo anterior, el lesionado tiene la obligación de participar a la autoridad que conozca del asunto en qué lugar va a ser atendido y cualquier cambio de éste o de su domicilio. La falta de aviso del cambio ameritará su ingreso al hospital o que se le imponga una corrección disciplinaria.
-
-###### ARTICULO 190.
-
-La responsiva a que se refiere el artículo 188, impone al médico las obligaciones siguientes:
-
-I.- Atender debidamente al lesionado;
-
-II.- Dar aviso a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de la lesión o si proviene de otra causa;
-
-III.- Comunicar inmediatamente a la misma autoridad todo cambio de domicilio del lesionado o del lugar donde sea atendido; y
-
-IV.- Extender certificado de sanidad o de defunción, en su caso, y los demás que le solicite la autoridad.
-
-El incumplimiento de cualquiera de las obligaciones señaladas en este artículo ameritará la imposición de una corrección disciplinaria, cuando no sea delictuoso.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 191.
-
-Los certificados de defunción o de sanidad expedidos por médicos particulares, estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 192.
-
-Cuando un lesionado necesite pronta atención, cualquier médico que se halle presente donde aquél se encuentre, debe atenderlo y aun trasladarlo del lugar de los hechos al sitio apropiado para su atención, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de brindarle los primeros auxilios, los siguientes datos: nombre del lesionado; lugar preciso en que fue encontrado y circunstancias en que se hallaba; naturaleza de las lesiones que presente y causas probables que las originaron; curaciones que se le hubieren hecho, y lugar preciso en que queda a disposición de la autoridad.
-
-### CAPITULO IV. Aseguramiento del inculpado
-
-###### ARTICULO 193.
-
-Los funcionarios que practiquen diligencias de policía judicial están obligados a proceder a la detención de los que aparezcan responsables de un delito, de los que se persiguen de oficio, sin necesidad de orden judicial:
-
-I.- En caso de flagrante delito.
-
-II.- En caso de notoria urgencia, por existir temor fundado de que el inculpado trate de ocultarse o de eludir la acción de la justicia, cuando no haya autoridad judicial en el lugar.
-
-###### ARTICULO 194.
-
-Para los efectos de la fracción I del artículo anterior, se entiende que el delincuente es aprehendido en flagrante delito no sólo cuando es detenido en el momento de estarlo cometiendo, sino cuando, despues de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente, o cuando en el momento de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 195.
-
-Cuando estén reunidos los requisitos del artículo 16 constitucional, el tribunal librará orden de aprehensión, reaprehensión o comparecencia, según el caso, contra el inculpado, a pedimento del Ministerio Público.
-
-La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y la clasificación provisional que se haga de los hechos delictuosos, y se transcribirá inmediatamente al Ministerio Público para que éste ordene a la policía su ejecución.
-
-###### ARTICULO 196.
-
-Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el tribunal que dicte la orden la comunicará al Agente del Ministerio Público adscrito para que éste la transcriba a la Procuraduría General de la República, a fin de que la Policía Judicial Federal o los auxiliares de ésta, localicen y aprehendan a dicha persona. Lograda la aprehensión se procederá en los términos del artículo 52.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 197.
-
-Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, quien la hubiere ejecutado deberá poner al aprehendido, sin demora alguna, a disposición del tribunal respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó, y dando a conocer al aprehendido el derecho que tiene para designar defensor.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
-
-Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que la policía judicial, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en la prisión preventiva o en un centro de salud. El encargado del reclusorio o del centro de salud asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente la policía judicial, el día y hora del recibo del detenido.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 198.
-
-Los miembros de la Policía o del Ejército que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir éstas en las prisiones especiales, si existieren, o en su defecto en las comunes.
-
-No podrán considerarse prisiones especiales los cuarteles u oficinas.
-
-###### ARTICULO 199.
-
-Para dictarse orden de aprehensión no será obstáculo la circunstancia de que esté pendiente un recurso de apelación interpuesto contra resolución anterior que la hubiere negado.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 200.
-
-Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión, o que debe reclasificarse la conducta o hecho por los cuales se hubiese ejercitado la acción, y la orden no se hubiera ejecutado aún, pedirá su cancelación o hará la reclasificación, en su caso, con acuerdo del Procurador o del Subprocurador que corresponda. La cancelación no impide que continúe la averiguación y que posteriormente vuelva a solicitarse orden de aprehensión, si procede. En los casos a que se refiere este artículo el juez resolverá de plano.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 201.
-
-Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fondos públicos, se tomarán las providencias necesarias para que no se interrumpa el servicio y se haga entrega de los fondos, valores y documentos que tenga en su poder el inculpado, dictándose entre tanto las medidas preventivas que se juzgue oportunas para evitar que se substraiga a la acción de la justicia.
-
-###### ARTICULO 202.
-
-Al ser aprehendido un empleado o funcionario público, se comunicará la detención sin demora al superior jerárquico respectivo.
-
-###### ARTICULO 203.
-
-Cuando deba aprehenderse a un empleado oficial o a un particular que en ese momento esté trabajando en un servicio público, se procurará que éste no se interrumpa, tomándose las providencias necesarias a fin de que el inculpado no se fugue entre tanto se obtiene su relevo.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 204.
-
-Para la aprehensión de funcionarios federales o locales se procederá de acuerdo con lo que dispongan la Ley Federal de Responsabilidades de los Servidores Públicos y las leyes orgánicas y reglamentarias respectivas, sin perjuicio de adoptar las medidas conducentes para evitar que el inculpado se sustraiga a la acción de la justicia. Si aquél intenta hacerlo, lo evitará la autoridad encargada de su vigilancia y solicitará inmediatamente instrucciones a quien esté conociendo del asunto o deba expedir la autorización, ajustándose a las órdenes que de estos órganos reciba.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 205.
-
-Cuando por la naturaleza del delito o de la pena aplicable el imputado no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez, fundada y motivadamente, o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo señalado en el artículo 133-bis o bien tratándose de la averiguación previa o bien en el proceso por el término constitucional en que este deba resolverse.
-
-## TITULO SEXTO. Prueba
-
-### CAPITULO I. Medios de prueba
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 206.
-
-Son admisibles todos los medios de prueba que no sean contrarios a Derecho. No se admitirán probanzas que no tengan relación con la materia del proceso o no sean idóneas para esclarecer hechos controvertidos en éste. La admisión y la práctica de las pruebas se ajustarán a los requisitos o procedimientos legalmente establecidos. Quien ofrece la prueba debe proporcionar los elementos de que disponga para este efecto, precisar las circunstancias necesarias para el desahogo de aquélla e indicar la finalidad que con la misma se persigue, relacionando la prueba con los hechos que se pretende acreditar.
-
-### CAPITULO II. Confesión
-
-###### ARTICULO 207.
-
-La confesión podrá recibirse por el funcionario de policía judicial que practique la averiguación previa o por el tribunal que conozca del asunto, y se admitirá en cualquier estado del procedimiento hasta antes de pronunciar la sentencia irrevocable.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-Para el desahogo de este medio son aplicables las reglas que señalan los artículos 155 y 156.
-
-### CAPITULO III. Inspección
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 208.
-
-Es materia de la inspección todo aquello que pueda ser directamente apreciado por la autoridad que conozca del asunto. La inspección debe ser practicada invariablemente, bajo pena de nulidad, con la asistencia del Ministerio Público o, en su caso, del juez, según se trate de la averiguación previa o del proceso. Para su desahogo se fijará día, hora y lugar, y se citará oportunamente a quienes hayan de concurrir, los que podrán hacer al funcionario que la practique las observaciones que estimen convenientes, que se asentarán en el expediente si así lo solicitan quien las hubiese formulado o alguna de las partes. Si el Ministerio Público o el juez lo consideran necesario, se harán acompañar de testigos y asistir de peritos que dictaminarán según su competencia técnica.
-
-Cuando por la complejidad de la inspección haya necesidad de preparar el desahogo de ésta, el Ministerio Público o el juez podrán ordenar que alguno de sus auxiliares realice los trámites conducentes a precisar la materia de la diligencia y a desarrollar ésta en forma pronta y expedita, conforme a las normas aplicables.
-
-###### ARTICULO 209.
-
-Para la descripción de lo inspeccionado se emplearán, según el caso, dibujos, planos topográficos, fotografías ordinarias o métricas, moldeados, o cualquier otro medio para reproducir las cosas, haciéndose constar en el acta cuál o cuáles de aquéllos, en qué forma y con qué objeto se emplearon.
-
-Se hará la descripción por escrito de todo lo que no hubiere sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito dejare, el instrumento o medio que probablemente se haya empleado y la forma en que se hubiere usado.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 210.
-
-Al practicarse una inspección podrá examinarse a las personas presentes, que puedan proporcionar algún dato útil a la averiguación previa o al proceso, según el caso, a cuyo efecto se les podrá prevenir que no abandonen el lugar.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 211.
-
-El Ministerio Público o el juez, según se trate de averiguación o de proceso, al practicar una inspección podrán hacerse acompañar por los peritos que estimen necesarios.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 212.
-
-En caso de lesiones, al sanar el lesionado se deberá hacer la inspección y la descripción de las consecuencias apreciables que hubieren dejado.
-
-###### ARTICULO 213.
-
-En los delitos sexuales y en el de aborto, puede concurrir al reconocimiento que practiquen los médicos el funcionario que conozca del asunto, si lo juzga indispensable.
-
-Además de las personas a que se refiere este artículo, únicamente se permitirá asistir a la diligencia a aquéllas que designe la reconocida cuando quiera que la acompañen.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 214.
-
-La inspección podrá tener el carácter de reconstrucción de hechos y su objeto será apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado. Se podrá llevar a cabo, simpre (sic) que la naturaleza del delito y las pruebas rendidas así lo exijan, a juicio del servidor público que conozca del asunto, aun durante la vista del proceso, si el tribunal lo estima necesario, no obstante que se haya practicado con anterioridad.
-
-###### ARTICULO 215.
-
-La reconstrucción deberá practicarse precisamente a la hora y en el lugar donde se cometió el delito, cuando estas circunstancias tengan influencia en la determinación de los hechos que se reconstruyan; en caso contrario podrá efectuarse en cualquiera hora y lugar.
-
-###### ARTICULO 216.
-
-No se practicará la reconstrucción sin que hayan sido examinadas las personas que hubieren intervenido en los hechos o que los hayan presenciado y deban tomar parte en ella. En el caso a que se refiere la primera parte del artículo anterior, es necesario, además, que se haya llevado a cabo la simple inspección ocular del lugar.
-
-###### ARTICULO 217.
-
-Cuando alguna de las partes solicite la reconstrucción deberá precisar cuáles son los hechos y circunstancias que desea esclarecer, pudiéndose repetir la diligencia cuantas veces sea necesario, a juicio del funcionario de policía judicial o del tribunal en su caso.
-
-###### ARTICULO 218.
-
-En la reconstrucción estarán presentes, si fuere posible, todos los que hayan declarado haber participado en los hechos o haberlos presenciado. Cuando no asistiere alguno de los primeros podrá comisionarse a otra persona para que ocupe su lugar, salvo que esa falta de asistencia haga inútil la práctica de la diligencia, en cuyo caso se suspenderá. Asímismo se citará a los peritos que sea necesario.
-
-La descripción se hará en la forma que establece el artículo 209.
-
-###### ARTICULO 219.
-
-Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán, si fueren conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas; y en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cuál de las versiones puede acercarse más a la verdad.
-
-### CAPITULO IV. Peritos
-
-###### ARTICULO 220.
-
-Siempre que para el examen de personas, hechos u objetos, se requieran conocimientos especiales se procederá con intervención de peritos.
-
-###### ARTICULO 221.
-
-Los peritos que dictaminen serán dos o más; pero bastará uno cuando solamente éste pueda ser habido, o cuando el caso sea urgente.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 222.
-
-Con independencia de las diligencias de pericia desahogadas en la averiguación previa, la defensa y el Ministerio Público tendrán derecho a nombrar hasta dos peritos en el proceso, para dictaminar sobre cada punto que amerite intervención pericial. El tribunal hará saber a los peritos su nombramiento y les ministrará todos los datos que fueren necesarios para que emitan su opinión.
-
-###### ARTICULO 223.
-
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o arte están legalmente reglamentados; en caso contrario, se nombrarán peritos prácticos.
-
-###### ARTICULO 224.
-
-También podrán ser nombrados peritos prácticos cuando no hubiere titulados en el lugar en que se siga la instrucción; pero en este caso se librará exhorto o requisitoria al tribunal del lugar en que los haya, para que en vista del dictamen de los prácticos emitan su opinión.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 225.
-
-La designación de peritos hecha por el tribunal o por el Ministerio Público deberá recaer en las personas que desempeñen ese empleo por nombramiento oficial y a sueldo fijo, o bien en personas que presten sus servicios en dependencias del Gobierno Federal, en Universidades del país, o que pertenezcan a Asociaciones de Profesionistas reconocidas en la República.
-
-###### ARTICULO 226.
-
-Si no hubiere peritos de los que menciona el artículo anterior y el tribunal o el Ministerio Público lo estiman conveniente, podrán nombrar otros. En estos casos los honorarios se cubrirán según lo que se acostumbre pagar en los establecimientos particulares del ramo de que se trate a los empleados permanentes de los mismos, teniendo en cuenta el tiempo que los peritos debieron ocupar en el desempeño de su comisión.
-
-###### ARTICULO 227.
-
-Los peritos que acepten el cargo, con excepción de los oficiales titulares, tiene obligación de protestar su fiel desempeño ante el funcionario que practique las diligencias.
-
-En casos urgentes la protesta la rendirán al producir o ratificar su dictamen.
-
-###### ARTICULO 228.
-
-El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si transcurrido ese tiempo no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
-
-Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público para que proceda por el delito a que se refiere el artículo 178 del Código Penal.
-
-###### ARTICULO 229.
-
-Cuando se trate de una lesión proveniente de delito y el lesionado se encontrare en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre además otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
-
-###### ARTICULO 230.
-
-La autopsia de los cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos de éste; sin perjuicio de la facultad que concede la parte final del artículo anterior.
-
-###### ARTICULO 231.
-
-Fuera de los casos previstos en los dos artículos anteriores el reconocimiento o la autopsia se practicará por los peritos médicos legistas oficiales si los hubiere y, además, si se estima conveniente, por los que designe el funcionario que conozca del asunto.
-
-###### ARTICULO 232.
-
-Cuando el funcionario que practique las diligencias lo juzgue conveniente, asistirá al reconocimiento u operaciones que efectúen los peritos.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 233.
-
-Corresponde sólo al funcionario que practique las diligencias hacer a los peritos las preguntas que resulten pertinentes sobre la materia objeto de la pericia, les dará por escrito o de palabra, pero sin sugestión alguna, los datos que tuviere y hará constar estos hechos en el acta respectiva.
-
-###### ARTICULO 234.
-
-Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera y expresarán los hechos y circunstancias que sirvan de fundamento a su opinión.
-
-###### ARTICULO 235.
-
-Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales no necesitarán ratificar sus dictámenes sino cuando el funcionario que practique las diligencias lo estime necesario.
-
-###### ARTICULO 236.
-
-Cuando las opiniones de los peritos discordaren, el funcionario que practique las diligencias los citará a junta en la que se discutirán los puntos de diferencia, haciéndose constar en el acta el resultado de la discusión. Si los peritos no se pusieren de acuerdo se nombrará un perito tercero en discordia.
-
-###### ARTICULO 237.
-
-Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino cuando más sobre la mitad de la substancia, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirla por completo, lo cual se hará constar en el acta respectiva.
-
-###### ARTICULO 238.
-
-Cuando el funcionario que practique las diligencias lo crea conveniente, podrá ordenar que asistan peritos a ellas.
-
-###### ARTICULO 239.
-
-Cuando se niegue o ponga en duda la autenticidad de un documento podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
-
-I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación, y en ese caso se levantará el acta correspondiente; y
-
-II.- El cotejo se hará con documentos indubitables, o con los que las partes de común acuerdo reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente, y con el escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique.
-
-El juez podrá ordenar que se repita el cotejo por otros peritos.
-
-### CAPITULO V. Testigos
-
-###### ARTICULO 240.
-
-El tribunal no podrá dejar de examinar durante la instrucción a los testigos presentes cuya declaración soliciten las partes.
-
-###### ARTICULO 241.
-
-También mandará examinar, según corresponda, a los testigos ausentes, sin que esto estorbe la marcha de la instrucción ni la facultad del tribunal para darla por terminada cuando haya reunido los elementos bastantes.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 242.
-
-Toda persona que sea testigo está obligada a declarar con respecto a los hechos investigados. Las preguntas que formulen las partes deberán guardar relación con los hechos. El tribunal desechará las preguntas impertinentes o inconducentes para los fines del proceso. El auto de desechamiento sólo será revocable. En todo caso el testigo dará razón de su dicho.
-
-Si el testigo no comparece a la primera cita, sin causa justificada, el juez ordenará que sea presentado a declarar por medio de la Policía Judicial.
-
-###### ARTICULO 243.
-
-No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto inclusive, ni a los que estén ligados con el inculpado por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieren voluntad de declarar se hará constar esta circunstancia y se recibirá su declaración.
-
-###### ARTICULO 244.
-
-Si el testigo se hallare en el lugar de la residencia del funcionario que practica las diligencias pero tuviere imposibilidad física para presentarse ante él, dicho funcionario podrá trasladarse al lugar donde se encuentre el testigo para tomarle su declaración.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 245.
-
-Cuando haya que examinar a los altos funcionarios de la Federación, quien practique las diligencias se trasladará al domicilio u oficina de dichas personas para tomarles su declaración o, si lo estima conveniente, solicitará de aquéllos que la rindan por medio de oficio, sin perjuicio de que el interesado si se le requiere y lo desea, comparezca personalmente.
-
-###### ARTICULO 246.
-
-Los testigos deben ser examinados separadamente y sólo las partes podrán asistir a la diligencia, salvo en los casos siguientes:
-
-I.- Cuando el testigo sea ciego.
-
-II.- Cuando sea sordo o mudo.
-
-III.- Cuando ignore el idioma castellano.
-
-En el caso de la fracción I el funcionario que practique las diligencias designará a otra persona para que acompañe al testigo, la que firmará la declaración después de que éste la haya ratificado; en los casos de las fracciones II y III se procederá conforme lo dispone el Capítulo III del Título Primero de este Código.
-
-###### ARTICULO 247.
-
-Antes de que los testigos comiencen a declarar se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad, o se niegan a declarar.
-
-Esto podrá hacerse hallándose reunidos todos los testigos.
-
-A los menores de dieciocho años en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
-
-###### ARTICULO 248.
-
-Después de tomarle la protesta de decir verdad, se preguntará al testigo su nombre, apellido, edad, lugar de origen, habitación, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
-
-###### ARTICULO 249.
-
-Los testigos declararán de viva voz, sin que les sea permitido leer las respuestas que tengan escritas; pero podrán consultar algunas notas o documentos que lleven consigo, cuando sea pertinente según la naturaleza del asunto y a juicio de quien practique las diligencias.
-
-El Ministerio Público y la defensa tendrán el derecho de interrogar al testigo; pero el tribunal podrá disponer que los interrogatorios se hagan por su conducto cuando así lo estime necesario; tendrá la facultad de desechar las preguntas que a su juicio o sean capciosas o inconducentes y además podrá interrogar al testigo sobre los puntos que estime conveniente.
-
-###### ARTICULO 250.
-
-Las declaraciones se redactarán con claridad y usando hasta donde sea posible las mismas palabras empleadas por el testigo. Si quisiere dictar o escribir su declaración se le permitirá hacerlo.
-
-###### ARTICULO 251.
-
-Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo sobre las señales que caractericen dicho objeto, se le pondrá a la vista para que lo reconozca y firme sobre él, si fuere posible.
-
-###### ARTICULO 252.
-
-Si la declaración es relativa a un hecho que hubiere dejado vestigios en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
-
-###### ARTICULO 253.
-
-Siempre que se examine a una persona cuya declaración sea sospechosa de falta de veracidad, se hará constar esto en el acta.
-
-###### ARTICULO 254.
-
-Concluída la diligencia se leerá al testigo su declaración o la leerá él mismo, si quisiere, para que la ratifique o la enmiende, y después de esto será firmada por el testigo y su acompañante si lo hubiere.
-
-###### ARTICULO 255.
-
-Si de lo actuado apareciere que algún testigo se ha producido con falsedad, se mandarán compulsar las constancias conducentes para la investigación de ese delito y se hará la consignación respectiva al Ministerio Público sin que esto sea motivo para que se suspenda el procedimiento; si en el momento de rendir su declaración el testigo, apareciere que es manifiesta la comisión del delito de falsedad, será detenido desde luego y consignado al Ministerio Público.
-
-###### ARTICULO 256.
-
-Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alguna persona que pueda declarar acerca del delito, de sus circunstancias o de la persona del inculpado, el tribunal, a solicitud de cualquiera de las partes, procederá a examinarla desde luego si fuere posible; en caso contrario, podrá arraigar al testigo por el tiempo que sea estrictamente indispensable para que rinda su declaración. Si resultare que la solicitud fué infundada y por lo mismo indebido el arraigo, el testigo podrá exigir al que lo solicitó que lo indemnice de los daños y perjuicios que le haya causado.
-
-###### ARTICULO 257.
-
-El funcionario que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
-
-### CAPITULO VI. Confrontación
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 258.
-
-Toda persona que tuviere que referirse a otra, lo hará de un modo claro y preciso mencionando, si le fuere posible, el nombre, apellido, habitación y demás circunstancias que puedan servir para identificarla.
-
-###### ARTICULO 259.
-
-Cuando el que declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese que podrá reconocerla si se le presentare, el tribunal procederá a la confrontación.
-
-Lo mismo se hará cuando el que declare asegure conocer a una persona y haya motivos para sospechar que no la conoce.
-
-###### ARTICULO 260.
-
-Al practicar la confrontación se cuidará de:
-
-I.- Que la persona que sea objeto de ella no se disfrace, ni se desfigure, ni borre las huellas o señales que puedan servir al que tiene que designarla;
-
-II.- Que aquélla se presente acompañada de otros individuos vestidos con ropas semejantes y aún con las mismas señas que las del confrontado, si fuere posible; y
-
-III.- Que los individuos que acompañen a la persona que va a confrontarse sean de clase análoga, atendidas su educación, modales y circunstancias especiales.
-
-###### ARTICULO 261.
-
-Si alguna de las partes solicita que se observen mayores precauciones que las prevenidas en el artículo anterior, el tribunal podrá acordarlas si las estima convenientes.
-
-###### ARTICULO 262.
-
-El que deba ser confrontado puede elegir el sitio en que quiera colocarse con relación a los que lo acompañen y pedir que se excluya del grupo a cualquiera persona que le parezca sospechosa. El tribunal podrá limitar prudentemente el uso de este derecho cuando lo crea malicioso.
-
-###### ARTICULO 263.
-
-En la diligencia de confrontación se procederá colocando en una fila a la persona que deba ser confrontada y a las que hayan de acompañarla; y se interrogará al declarante sobre:
-
-I.- Si persiste en su declaración anterior;
-
-II.- Si conocía con anterioridad a la persona a quien atribuye el hecho o si la conoció en el momento de ejecutarlo; y
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-III.- Si después de la ejecución del hecho la ha visto, en qué lugar, por qué motivo y con qué objeto.
-
-Se le llevará frente a las personas que formen el grupo; se le permitirá mirarlas detenidamente y se le prevendrá que toque con la mano a la de que se trate, manifestando las diferencias o semejanzas que tuviere entre el estado actual y el que tenía en la época a la que se refirió en su declaración.
-
-###### ARTICULO 264.
-
-Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se verificarán en actos separados.
-
-### CAPITULO VII. Careos
-
-###### ARTICULO 265.
-
-Con excepción de los mencionados en la fracción IV del artículo 20 de la Constitución, los careos se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
-
-###### ARTICULO 266.
-
-El careo solamente se practicará entre dos personas y no concurrirán a la diligencia sino las que deban ser careadas, las partes, y los intérpretes si fueren necesarios.
-
-###### ARTICULO 267.
-
-Los careos, salvo los exceptuados en el artículo 265, se practicarán dando lectura a las declaraciones que se reputen contradictorias, llamando la atención de los careados sobre sus contradicciones, a fin de que discutan entre sí y pueda aclararse la verdad.
-
-###### ARTICULO 268.
-
-Cuando, por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
-
-Si los que deban carearse estuvieren fuera de la jurisdicción del tribunal, se librará el exhorto correspondiente.
-
-### CAPITULO VIII. Documentos
-
-###### ARTICULO 269.
-
-El tribunal recibirá las pruebas documentales que le presenten las partes durante la instrucción y las agregará al expediente asentando razón en autos.
-
-###### ARTICULO 270.
-
-Siempre que alguna de las partes pidiere copia o testimonio de algún documento que obre en los archivos públicos, las otras tendrá derecho de pedir, dentro de tres días, que se adicione con lo que crean conveniente del mismo asunto. El tribunal resolverá de plano si es procedente la adición solicitada.
-
-###### ARTICULO 271.
-
-Los documentos existentes fuera de la jurisdicción del tribunal en que se siga el procedimiento, se compulsarán a virtud de exhorto que se dirija al del lugar en que se encuentren.
-
-###### ARTICULO 272.
-
-Los documentos privados y la correspondencia procedentes de uno de los interesados, que se presenten por otro, se reconocerán por aquél.
-
-Con este objeto se le mostrarán originales y se le dejará ver todo el documento.
-
-###### ARTICULO 273.
-
-Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija al inculpado, pedirá al tribunal y éste ordenará que dicha correspondencia se recoja.
-
-###### ARTICULO 274.
-
-La correspondencia recogida se abrirá por el juez en presencia de su secretario, del Ministerio Público y del inculpado si estuviere en el lugar.
-
-En seguida el juez leerá para sí la correspondencia; si no tuviere relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, si aquél no estuviere presente; si tuviere relación le comunicará su contenido, y la mandará agregar al expediente.
-
-###### ARTICULO 275.
-
-El tribunal podrá ordenar que se faciliten por cualquiera oficina telegráfica, copias autorizadas de los telegramas por ella transmitidos o recibidos, si pudiere esto contribuir al esclarecimiento de los hechos.
-
-###### ARTICULO 276.
-
-El auto motivado que se dicte en los casos de los tres artículos que preceden, determinará con exactitud el nombre del destinatario cuya correspondencia deba ser recogida.
-
-###### ARTICULO 277.
-
-Cuando a solicitud de parte el tribunal mande sacar testimonio de documentos privados existentes en los libros, cuadernos o archivos de comerciantes, industriales o de cualquier otro particular, el que pida la compulsa deberá indicar la constancia que solicita y el tribunal ordenará la exhibición de aquéllos para que se inspeccione lo conducente.
-
-En caso de resistencia del tenedor del documento el tribunal, oyendo a aquél y a las partes presentes, resolverá de plano si debe hacerse la exhibición.
-
-###### ARTICULO 278.
-
-Los documentos redactados en idioma extranjero se presentarán originales, acompañados de su traducción al castellano.
-
-Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el tribunal.
-
-### CAPITULO IX. Valor Jurídico de la Prueba
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 279.
-
-La autoridad judicial calificará el valor de la confesión, tomando en cuenta los requisitos previstos en el artículo 287 y razonando su determinación, según lo dispuesto en el artículo 290.
-
-La confesión hará prueba plena para la comprobación del cuerpo del delito en los casos de los artículos 174, fracción I, y 177.
-
-###### ARTICULO 280.
-
-Los documentos públicos harán prueba plena, salvo el derecho de las partes para redargüirlos de falsedad y para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
-
-###### ARTICULO 281.
-
-Son documentos públicos los que señale como tales el Código Federal de Procedimientos Civiles o cualquiera otra ley federal.
-
-###### ARTICULO 282.
-
-Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán ser legalizados por el representante autorizado para atender los asuntos de la República en el lugar donde sean expedidos.
-
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
-
-La legalización de las firmas del representante se hará por el funcionario autorizado de la Secretaría de Relaciones Exteriores.
-
-> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1981)</small>
-
-No será necesaria la legalización de firmas cuando los documentos sean presentados por la vía diplomática.
-
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
-
-###### ARTICULO 283.
-
-Cuando no haya representante mexicano en el lugar donde se expidan los documentos públicos y, por tanto, los legalice el representante de una nación amiga, la firma de este representante deberá ser legalizada por el ministro o cónsul de esa nación que resida en la capital de la República, y la de éste, por el funcionario autorizado de la Secretaría de Relaciones Exteriores.
-
-###### ARTICULO 284.
-
-La inspección, así como el resultado de los cateos, harán prueba plena siempre que se practiquen con los requisitos legales.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 285.
-
-Todos los demás medios de prueba o de investigación y la confesión, salvo lo previsto en el segundo párrafo del artículo 279, constituyen meros indicios.
-
-###### ARTICULO 286.
-
-Los tribunales, según la naturaleza de los hechos y el enlace lógico y natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de los indicios hasta poder considerarlos como prueba plena.
-
-###### ARTICULO 287.
-
-La confesión deberá reunir los requisitos siguientes:
-
-I.- Que sea hecha por persona mayor de dieciocho años, con pleno conocimiento y sin coacción ni violencia;
-
-II.- Que sea hecha ante el funcionario de policía judicial que practique la averiguación previa o ante el tribunal que conozca del asunto;
-
-III.- Que sea de hecho propio; y
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-IV.- Que existan datos que, a juicio del tribunal, la hagan verosímil.
-
-###### ARTICULO 288.
-
-Los tribunales apreciarán los dictámenes periciales, aun los de los peritos científicos, según las circunstancias del caso.
-
-###### ARTICULO 289.
-
-Para apreciar la declaración de un testigo el tribunal tendrá en consideración:
-
-I.- Que por su edad, capacidad e instrucción, tenga el criterio necesario para juzgar del acto;
-
-II.- Que por su probidad, la independencia de su posición y antecedentes personales, tenga completa imparcialidad;
-
-III.- Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otro;
-
-IV.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la sustancia del hecho, ya sobre sus circunstancias esenciales; y
-
-V.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no se reputará fuerza.
-
-###### ARTICULO 290.
-
-Los tribunales, en sus resoluciones, expondrán los razonamientos que hayan tenido en cuenta para valorar jurídicamente la prueba.
-
-## TITULO SEPTIMO. Conclusiones
-
-### CAPITULO UNICO
-
-###### ARTICULO 291.
-
-Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público por cinco días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso o fracción, se aumentará un día al término señalado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-Transcurrido el plazo al que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar al Procurador acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, sin perjuicio de disponer las medidas disciplinarias que correspondan.
-
-###### ARTICULO 292.
-
-El Ministerio Público, al formular sus conclusiones, hará una exposición breve de los hechos y de las circunstancias peculiares del procesado; propondrá las cuestiones de derecho que se presenten; y citará las leyes, ejecutorias o doctrinas aplicables. Dichas conclusiones deberán precisar si hay o no lugar a acusación.
-
-(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 23 DE MARZO DE 1984)
-
-###### ARTICULO 293.
-
-En el primer caso de la parte final del artículo anterior, deberá fijar en proposiciones concretas, los hechos punibles que atribuya al acusado, solicitar la aplicación de las sanciones correspondientes, incluyendo la reparación del daño y perjuicio, y citar las leyes y la jurisprudencia aplicables al caso. Estas proposiciones deberán contener los elementos constitutivos del delito y los conducentes a establecer la responsabilidad, así como las circunstancias que deban tomarse en cuenta para individualizar la pena o medida. Para este último fin, el Ministerio Público considerará las reglas que el Código Penal señala acerca de la individualización de las penas o medidas.
-
-###### ARTICULO 294.
-
-Si las conclusiones fueren de no acusación; si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción; si fueren contrarias a las constancias procesales; o si en ellas no se cumpliere con lo dispuesto en el artículo 293, el tribunal las enviará, con el proceso, al Procurador General de la República, señalando cuál es la omisión o contradicción, si éstas fueren el motivo del envío.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 295.
-
-El Procurador General de la República o el Subprocurador que corresponda oirán el parecer de los funcionarios que deban emitirlo, y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverán si son de confirmarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta de los funcionarios primeramente mencionados, se entenderá que las conclusiones han sido confirmadas.
-
-###### ARTICULO 296.
-
-Las conclusiones acusatorias, ya sean formuladas por el Agente o por el Procurador, en su caso, se harán conocer al acusado y a su defensor dándoles vista de todo el proceso, a fin de que, en un término igual al que para el Ministerio Público señala el artículo 291, contesten el escrito de acusación y formulen, a su vez, las conclusiones que crean procedentes.
-
-Cuando los acusados fueren varios, el término será común para todos.
-
-###### ARTICULO 297.
-
-Si al concluirse el término concedido al acusado y a su defensor, éstos no hubieren presentado conclusiones, se tendrán por formuladas las de inculpabilidad.
-
-## TITULO OCTAVO. Sobreseimiento
-
-### CAPITULO UNICO
-
-###### ARTICULO 298.
-
-El sobreseimiento procederá en los casos siguientes:
-
-I.- Cuando el Procurador General de la República confirme o formule conclusiones no acusatorias.
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Il.- Cuando el Ministerio Público lo solicite, en el caso al que se refiere el artículo 138;
-
-III.- Cuando aparezca que la responsabilidad penal está extinguida.
-
-IV.- Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no es delictuoso, o cuando estando agotada ésta se compruebe que no existió el hecho delictuoso que la motivó.
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-V.- Cuando, habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión, o se esté en el caso previsto por la parte final del artículo 426; y
-
-VI.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad.
-
-###### ARTICULO 299.
-
-El procedimiento cesará y el expediente se mandará archivar en los casos de la fracción IV del artículo anterior, o cuando esté plenamente comprobado que los únicos presuntos responsables se hallan en alguna de las circunstancias a que se refieren las fracciones I, II, III, V y VI del mismo; pero si alguno no se encontrare en tales condiciones, el procedimiento continuará por lo que a él se refiere, siempre que no deba suspenderse en los términos del Capítulo III de la Sección Segunda del Título Décimoprimero.
-
-Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará el procedimiento en cuanto a los demás delitos, siempre que no deba suspenderse.
-
-###### ARTICULO 300.
-
-El sobreseimiento puede decretarse de oficio o a petición de parte, en los casos de las fracciones I a IV del artículo 298 y en la última forma en los demás.
-
-###### ARTICULO 301.
-
-El sobreseimiento se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
-
-###### ARTICULO 302.
-
-No podrá dictarse auto de sobreseimiento después de que hayan sido formuladas conclusiones por el Ministerio Público, excepto en los casos a que se refieren las fracciones I y II del artículo 298.
-
-###### ARTICULO 303.
-
-El inculpado a cuyo favor se haya decretado el sobreseimiento será puesto en absoluta libertad respecto al delito por el que se decretó.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 304.
-
-El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria con valor de cosa juzgada.
-
-## TITULO NOVENO. Juicio
-
-### CAPITULO I. Procedimiento ante los Jueces de Distrito
-
-###### ARTICULO 305.
-
-El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en el momento en que se haga la declaración a que se refiere el artículo 297, se citará a una audiencia que deberá efectuarse dentro de los cinco días siguientes. La citación para esa audiencia produce los efectos de citación para sentencia.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 306.
-
-En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del tribunal, y si hubieren sido solicitadas por las partes a más tardar el día siguiente al en que se notificó el auto citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso, con lo que terminará la diligencia.
-
-Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
-
-###### ARTICULO 307.
-
-Cuando se trate de delitos cuya pena no exceda de seis meses de prisión o en los que la aplicable no sea corporal, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforma a lo dispuesto en los artículos 294 y 295.
-
-(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 23 DE MARZO DE 1984)
-
-Cuando se esté en los casos de los Artículos 152 y 152 bis, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia o dentro de los cinco días siguientes a ésta, salvo que el juez, oyendo a las partes, considere conveniente citar a nueva audiencia, por una sola vez. Si las conclusiones fueren no acusatorias, o si se produjeren bajo cualquiera de los otros casos contemplados en el artículo 294, se suspenderá la audiencia y se estará a lo previsto en el artículo 295.
-
-### CAPITULO II. Procedimiento relativo al jurado popular
-
-###### ARTICULO 308.
-
-En los casos de la competencia del jurado popular federal, formuladas las conclusiones del Ministerio Público y de la defensa, el tribunal que conozca del proceso señalará día y hora para la celebración del juicio, dentro de los quince siguientes, y ordenará la insaculación y sorteo de los jurados.
-
-En el mismo auto se mandará citar a todos los testigos y peritos no científicos que hubiesen sido examinados durante la instrucción.
-
-Los peritos científicos sólo podrán ser citados cuando lo solicite alguna de las partes, o cuando a juicio del tribunal sea necesaria su presencia para el solo efecto de fijar hechos o esclarecerlos.
-
-###### ARTICULO 309.
-
-La insaculación y sorteo de jurados se hará en público el día anterior al en que deba celebrarse el juicio, debiendo estar presente el juez, su secretario, el Ministerio Público, el acusado y su defensor. Estos dos últimos podrán dejar de asistir si así les conviniere.
-
-###### ARTICULO 310.
-
-Reunidas las personas a que se refiere el artículo anterior, el juez introducirá en una ánfora los nombres de cien jurados inscritos en los padrones respectivos y de ellos sacará treinta.
-
-Al sacarse cada nombre, el juez lo leerá en voz alta. En este acto el Ministerio Público y el acusado, por sí o por su defensor, podrán recusar, sin expresión de causa, cada uno de ellos, hasta cinco de los jurados designados por la suerte. Los recusados serán substituídos inmediatamente en el mismo sorteo. Concluída la diligencia, se ordenará se cite a los jurados designados.
-
-###### ARTICULO 311.
-
-Durante la audiencia deberán estar presentes: el Presidente de Debates, su secretario, el representante del Ministerio Público, el acusado, a no ser que renuncie expresamente su derecho de asistir, su defensor y los jurados insaculados. Si alguno faltare sin motivo justificado, el tribunal impondrá al faltista una corrección disciplinaria.
-
-###### ARTICULO 312.
-
-El día fijado para la audiencia, transcurrida media hora de la señalada, presentes el Presidente de Debates, su secretario y el representante del Ministerio Público, se dará cuenta con los informes a que se refiere el artículo 85 y se pasará lista a los jurados citados.
-
-Si concurrieren doce jurados, por lo menos, se procederá a la insaculación y sorteo de los que deban conocer de la causa. En caso contrario, se mandará traer por medio de la policía a los ausentes que hubieren sido citados, según los informes rendidos, hasta completar el número de doce.
-
-Si transcurriere una hora sin haberse reunido el número requerido, no se efectuará la audiencia y se señalará nuevo día para la insaculación y sorteo de los jurados, y celebración de aquélla.
-
-###### ARTICULO 313.
-
-A todos los jurados que, habiendo sido citados, no concurrieren, se les impondrá de plano la sanción con que se les hubiere conminado, que se hará efectiva sin recurso alguno, a menos que el faltista probare el impedimento que le hubiere imposibilitado para asistir.
-
-No se considerará como impedimento justificado el no haber tenido conocimiento de la cita por encontrarse ausente o por haber cambiado de domicilio si hubiere omitido el faltista los avisos correspondientes.
-
-A los jurados que se presentaren durante el sorteo, se les llamará públicamente la atención por su falta de puntualidad.
-
-###### ARTICULO 314.
-
-Reunidos doce jurados, por lo menos, se introducirán sus nombres en una ánfora de la que el Presidente de Debates extraerá los de siete propietarios y los de los supernumerarios que crea conveniente, de modo que el número total de los sorteados no iguale al de los presentes. Los jurados supernumerarios suplirán a los propietarios en el orden en que hubiesen sido sorteados.
-
-###### ARTICULO 315.
-
-Practicado el sorteo, el Presidente de Debates ordenará se dé lectura a las disposiciones de la Ley Orgánica del Poder Judicial de la Federación que establezcan los requisitos para ser jurado y sus causas de impedimento, y en seguida preguntará a los jurados sorteados si tienen los requisitos y si no existen respecto de ellos algunas de esas causas. Si un jurado manifiesta que reconoce no poder fungir por cualquiera de esos motivos, se oirá en el acto al Ministerio Público, y el Presidente de Debates resolverá de plano, sin recurso alguno, si admite o desecha el motivo alegado.
-
-No se aceptará en este caso como motivo de impedimento, el de simple excusa que señale la misma Ley Orgánica.
-
-###### ARTICULO 316.
-
-Cuando un jurado no manifestare el impedimento que crea tener al hacércele (sic) la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere la fracción I del artículo 247 del Código Penal.
-
-La misma consignación se hará si se alegare algún impedimento, y después apareciere no ser cierto.
-
-###### ARTICULO 317.
-
-Admitido el impedimento, será substituido por medio de sorteo el jurado impedido y, con el que resulte designado, se observará lo dispuesto en el artículo 315.
-
-###### ARTICULO 318.
-
-En este acto las partes podrán pedir la exclusión de algún jurado que tenga impedimento y no lo hubiere manifestado procediendo el Presidente de Debates con arreglo a los artículos anteriores.
-
-###### ARTICULO 319.
-
-Concluído el sorteo, se retirarán los jurados que no hubieren sido designados, y se pasará lista de los peritos y testigos citados.
-
-###### ARTICULO 320.
-
-Si todos los peritos y testigos citados estuvieren presentes o se hubiere declarado que a pesar de la falta de alguno de ellos es de celebrarse la audiencia, estando completo el número de los jurados, el Presidente de los Debates tomará a éstos la siguiente protesta:
-
-"Protestáis desempeñar las funciones de jurado sin odio ni temor y decidir según apreciéis en vuestra conciencia y en vuestra íntima convicción, los cargos y los medios de defensa, obrando en todo con imparcialidad y firmeza?"
-
-Cada miembro del jurado, llamado individualmente, deberá contestar: "Sí protesto."
-
-###### ARTICULO 321.
-
-Si alguno de los jurados se negare a protestar, el Presidente de los Debates le impondrá de plano, y sin recurso alguno, multa de diez a cien pesos y lo substituirá desde luego por el supernumerario correspondiente.
-
-###### ARTICULO 322.
-
-Instalado el Jurado, el Presidente de los Debates ordenará al secretario que dé lectura a las constancias que el mismo Presidente estime necesarias o que soliciten las partes.
-
-###### ARTICULO 323.
-
-Terminada la lectura de constancias, el Presidente de Debates interrogará al acusado sobre los hechos motivo del juicio. El Ministerio Público, la defensa y los jurados podrán a continuación interrogarlo, por sí mismos, pidiendo la palabra al Presidente, o por medio de éste, y hacerle las preguntas conducentes al esclarecimiento de la verdad. Los jurados evitarán cuidadosamente que se trasluzca su opinión.
-
-Se examinará a los testigos y peritos en la forma y por las personas que señala el párrafo anterior, así como por el acusado si lo pidiere.
-
-En los interrogatorios del acusado, testigos y peritos, se observarán en su caso, las reglas establecidas en los artículos 156 y 249.
-
-###### ARTICULO 324.
-
-Concluído el examen del acusado, de los testigos y peritos, practicados los careos y recibidas las demás pruebas, el Ministerio Público fundará verbalmente sus conclusiones.
-
-Su alegato se reducirá a una exposición clara y metódica de los hechos imputados al acusado y de las pruebas rendidas con el análisis que creyere conveniente hacer, pero sin referirse a las reglas sobre la prueba legal, ni hacer alusión a la sanción que deba imponerse al acusado; no podrá citar leyes, ejecutorias, doctrinas, ni opiniones jurídicas de ninguna especie. El Presidente de los Debates llamará al orden al infractor de esta disposición, conminándolo con multa de cincuenta a doscientos pesos si reincidiere.
-
-###### ARTICULO 325.
-
-El Ministerio Público deberá sostener las mismas conclusiones que hubiere formulado en el proceso, sin poder retirarlas, modificarlas o alegar otras, sino por causa superveniente y suficiente, bajo su más estricta responsabilidad y sin que sea necesaria la revisión del Procurador General de la República.
-
-En este caso, cuando le corresponda hacer uso de la palabra para fundar sus conclusiones, expondrá verbalmente las razones que tenga para retirarlas, modificarlas o sostener otras.
-
-###### ARTICULO 326.
-
-Concluído el alegato del Ministerio Público, el defensor hará la defensa sujetándose a las reglas que establece el artículo 324.
-
-###### ARTICULO 327.
-
-Siempre que el Ministerio Público o la defensa citen o hagan referencia a alguna constancia del proceso que o (sic) no exista, o no sea tal como se indica, el Presidente de los Debates tomará nota para hacer la rectificación correspondiente al concluir el orador.
-
-###### ARTICULO 328.
-
-El defensor podrá cambiar o retirar libremente sus conclusiones.
-
-###### ARTICULO 329.
-
-Al concluir de hablar el acusado, el Presidente declarará cerrados los debates.
-
-###### ARTICULO 330.
-
-A continuación, el Presidente de los debates procederá a formular el interrogatorio, que deberá someter a la deliberación del Jurado, sujetándose a las reglas siguientes:
-
-I.- Si en las conclusiones formuladas por el Ministerio Público se encontraren algunas contradicciones, el Presidente lo declarará así; si, no obstante esta declaración, aquél no retirare alguna de ellas para hacer desaparecer la contradicción, ninguna de las contradictorias se pondrá en el interrogatorio;
-
-II.- Si existiere la contradicción en las conclusiones de la defensa, se procederá del mismo modo que respecto del Ministerio Público previene la fracción anterior;
-
-III.- Si el Ministerio Público retirase toda acusación, el Presidente declarará disuelto el Jurado y sobreseerá el proceso;
-
-IV.- Si la defensa, en sus conclusiones, estimare los hechos considerados por el Ministerio Público como constitutivos de delito diverso, se formará sobre esto otro interrogatorio, agregando a él las circunstancias alegadas por el Ministerio Público cuando no sean incompatibles;
-
-V.- Los hechos alegados en las conclusiones del Ministerio Público y de la defensa, que no constituyan una circunstancia determinada por la ley, o que por carecer de alguno de los elementos que en aquélla se exigen no puedan ser considerados en la sentencia, no se incluirán en el interrogatorio;
-
-VI.- Cuando las conclusiones del Ministerio Público y las de la defensa sean contradictorias, se pondrán en el interrogatorio las anotaciones necesarias para que el Jurado no incurra en contradicciones;
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-VII.- Cuando los hechos contenidos en las conclusiones del Ministerio Público o de la defensa, sean complejos, se dividirán en el interrogatorio en tantas preguntas cuantas sean necesarias para que cada una contenga un solo hecho;
-
-VIII.- Si en las conclusiones de alguna de las partes se empleare un término técnico que, jurídicamente, contenga varios hechos o elementos, se procederá como previene la fracción anterior.
-
-Si sólo significare un hecho, se substituirá el término técnico por uno vulgar, hasta donde esto fuere posible; en caso contrario, se hará una anotación explicando el significado de dicho término;
-
-IX.- No se incluirán en el interrogatorio preguntas sobre la edad o sexo del acusado, o del ofendido, ni sobre los hechos que consten o deban constar por juicio especial de peritos científicos.
-
-Tampoco se incluirán preguntas relativas a trámites o constancias, que sean exclusivamente del procedimiento;
-
-X.- Tampoco se incluirán en el interrogatorio preguntas que envuelvan la negación de un hecho, pues sólo se someterán a los jurados cuando el Ministerio Público o la defensa afirmen la existencia de ese hecho;
-
-XI.- La primera pregunta del interrogatorio se formulará en los términos siguientes: "Al acusado N. N. le es imputable........... (aquí se asentarán el hecho o hechos que constituyan los elementos materiales del delito imputado, sin darles denominación jurídica ni aplicar lo dispuesto en la fracción VII de este artículo).
-
-En seguida se pondrán las preguntas sobre las circunstancias modificativas, observándose lo dispuesto en las fracciones VII y VIII de este artículo; y
-
-XII.- En una columna del interrogatorio destinada a este efecto, se pondrán delante de cada pregunta, las palabras "hecho constitutivo", "circunstancia modificativa," según el carácter de la pregunta.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 331.
-
-En el caso de la fracción IV del artículo anterior, el Jurado sujetará primero a votación cuál de los dos interrogatorios es de votarse, y votará aquel que decida la mayoría. Al calce de éste y antes de las firmas se asentará la razón de la votación, expresándose el número de votos que hubieren formado la mayoría.
-
-###### ARTICULO 332.
-
-Los hechos a que se refiere la fracción X del artículo 330, los estimará el Presidente de Debates en su sentencia con sujeción a las reglas de la prueba legal, siempre que hubieren sido materia de las conclusiones de alguna de las partes.
-
-###### ARTICULO 333.
-
-En los casos en que, conforme a la ley, para que se tome en consideración una circunstancia se requiera la no existencia de un hecho, se tendrá éste por no existente, siempre que el Jurado no hubiere votado su existencia, ya por no habérsele sometido, ya porque sometida en los términos de la fracción X del artículo 330, la hubiere negado.
-
-###### ARTICULO 334.
-
-Por cada acusado, si hubiere varios, se formará distinto interrogatorio, conforme a las reglas establecidas en el artículo 330.
-
-###### ARTICULO 335.
-
-El Ministerio Público y la defensa podrán objetar la redacción del interrogatorio. El Presidente de los Debates resolverá, sin recurso alguno, sobre la oposición.
-
-###### ARTICULO 336.
-
-A continuación, el Presidente de los Debates dirigirá a los jurados la siguiente instrucción:
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-"La ley no toma en cuenta a los jurados los medios por los cuales formen su convicción; no les fija ninguna regla de la cual dependa la prueba plena y suficiente; sólo les manda interrogarse a sí mismos y examinar con la sinceridad de su conciencia la impresión que sobre ella produzcan las pruebas rendidas en favor o en contra del acusado. La ley se limita a hacerles esta pregunta, que resume todos sus deberes: ¿Tenéis la íntima convicción de que el acusado cometió el hecho que se le imputa? Los jurados faltan a su principal deber si toman en cuenta la suerte que, en virtud de su decisión, deba caber al acusado por lo que disponen las Leyes Penales."
-
-En seguida el Presidente de los Debates entregará el proceso e interrogatorio al jurado de más edad, quien hará de Presidente del Jurado, funcionando el más joven como secretario.
-
-Suspendida la audiencia, los jurados pasarán a la sala de deliberaciones, sin poder salir de ella ni tener comunicación alguna, con las personas de fuera, sino hasta que el veredicto esté firmado.
-
-Los jurados supernumerarios que no estuvieren supliendo a algún propietario, permanecerán en la sala de audiencias, para cubrir cualquier falta que ocurra durante las deliberaciones.
-
-###### ARTICULO 337.
-
-El Presidente del Jurado sujetará a la deliberación de los jurados, una a una, las preguntas del interrogatorio, permitiéndoles y aun exhortándolos, a discutirlas; sólo cuando la discusión estuviere agotada se procederá a votar.
-
-###### ARTICULO 338.
-
-En la deliberación el Presidente del Jurado exhortará a los miembros del mismo a expresar su opinión y a discutir el caso. Agotada la discusión se procederá a votar.
-
-###### ARTICULO 339.
-
-Para la votación, el secretario entregará a cada uno de los jurados dos fichas, una de las cuales contendrá la palabra "sí" y la otra la palabra "no" y después les presentará una ánfora para que en ella depositen la ficha que contenga su voto. Recogidas las fichas de todos los jurados, el secretario entregará el ánfora al Presidente del Jurado, y presentará otra a los jurados para que depositen en ella la ficha sobrante. El Presidente sacará del ánfora de votación una a una, las fichas que contenga, y leerá en voz alta la palabra escrita en ella, haciendo el secretario el cúmputo (sic) de votos. Después se dará lectura a éste, y el Presidente ordenará al secretario que asiente el resultado de la votación en el pliego en que se formuló el interrogatorio.
-
-Si alguno de los jurados reclamare en este momento, por haber incurrido en error o equivocación al emitir su voto, se repetirá la votación.
-
-Una vez escrito el resultado de la votación ya no podrá repetirse.
-
-###### ARTICULO 340.
-
-Cuando alguno de los jurados se negare a votar, el Presidente del Jurado llamará al de los Debates, quien exhortará al renuente a que dé su voto, haciéndole ver las sanciones en que incurre por su negativa.
-
-Si el jurado insistiere en no votar, el Presidente de los Debates le impondrá, de plano y sin recurso alguno, una multa de cincuenta a doscientos pesos o el arresto correspondiente, y ordenará que el voto omitido se agregue a la mayoría o al más favorable para el acusado, si hubiere igual número en pro y en contra del mismo.
-
-###### ARTICULO 341.
-
-Asentado el resultado de la votación, el secretario del Jurado recogerá las firmas de todos los jurados, certificará que han sido puestas por ellos y firmará la certificación.
-
-Si alguno de los jurados no firmare por imposibilidad física, el secretario los certificará así. Esta certificación surtirá todos los efectos de la firma del impedido.
-
-###### ARTICULO 342.
-
-Si algún jurado rehusare firmar, se procederá conforme al artículo 340.
-
-###### ARTICULO 343.
-
-Firmado el veredicto, pasarán los jurados a la sala de audiencias y su Presidente lo entregará con el proceso al de los Debates, quien dará lectura al veredicto en voz alta.
-
-###### ARTICULO 344.
-
-Si hubiere dejado de votarse alguna pregunta o hubiere contradicción en la votación, a juicio del Presidente de los Debates, hará éste que los jurados vuelvan a la sala de deliberaciones a votar la pregunta omitida, o las contradictorias en lo que sea necesario para decidir la contradicción.
-
-El secretario pondrá la razón de la nueva votación, recogerá las firmas de los jurados y las certificará.
-
-Si no hubiere necesidad de proceder como lo preceptúan los párrafos anteriores, sea absolutorio o condenatorio el veredicto, el Presidente de los Debates manifestará a los jurados que habiendo concluído su misión pueden retirarse. En seguida se abrirá la audiencia de derecho.
-
-###### ARTICULO 345.
-
-Abierta la audiencia de derecho, se concederá la palabra al Ministerio Público y en seguida a la defensa, para que aleguen lo que creyeren pertinente, fundando su petición en las leyes, ejecutorias y doctrinas que estimen aplicables.
-
-###### ARTICULO 346.
-
-Concluído el debate, el juez dictará la sentencia que corresponda, la que solamente contendrá la parte resolutiva y que será leída por el secretario.
-
-###### ARTICULO 347.
-
-La lectura de la sentencia conforme al artículo anterior, surte los efectos de notificación en forma en cuanto a las partes que hubieren asistido a la audiencia, aun cuando no estuvieren presentes en los momentos de la lectura, siempre que la ausencia fuere voluntaria.
-
-A las que no hubieren asistido a la audiencia se les notificará el fallo en la forma y términos establecidos en el Capítulo XII del Título Primero.
-
-###### ARTICULO 348.
-
-Si la sentencia fuere absolutoria, se pondrá en el acto en libertad al acusado, si no estuviere detenido por otro motivo.
-
-###### ARTICULO 349.
-
-Dentro de los tres días siguientes el secretario del tribunal extenderá acta pormenorizada de la audiencia, en la que siempre se harán constar los nombres y apellidos de todas las personas que con cualquier carácter hubieren intervenido en ella.
-
-###### ARTICULO 350.
-
-La sentencia se engrosará dentro de los cinco días siguientes al de la fecha del acta a que se refiere el artículo anterior.
-
-### CAPITULO III. Aclaración de sentencia
-
-###### ARTICULO 351.
-
-La aclaración procede únicamente tratándose de sentencias definitivas, y sólo una vez puede pedirse.
-
-###### ARTICULO 352.
-
-La aclaración se pedirá ante el tribunal que haya dictado la sentencia, dentro del término de tres días contados desde la notificación y expresando claramente la contradicción, ambigüedad, obscuridad o deficiencia de que, en concepto del promovente, adolezca la sentencia.
-
-###### ARTICULO 353.
-
-De la solicitud respectiva se dará vista a las otras partes por tres días, para que expongan lo que estimen procedente.
-
-###### ARTICULO 354.
-
-El tribunal resolverá dentro de tres días si es de aclararse la sentencia y en qué sentido, o si es improcedente la aclaración.
-
-###### ARTICULO 355.
-
-Cuando el tribunal que dictó la sentencia estime que debe aclararse algún error de ella, dictará auto expresando las razones que crea existan para hacer la aclaración. Dará a conocer esa opinión a las partes para que éstas, dentro de tres días, expongan lo que estimen conveniente y en seguida procederá en la forma que dispone el artículo anterior.
-
-###### ARTICULO 356.
-
-En ningún caso se alterará, a pretexto de aclaración, el fondo de la sentencia.
-
-###### ARTICULO 357.
-
-La resolución en que se aclare una sentencia se reputará parte integrante de ella.
-
-###### ARTICULO 358.
-
-Contra la resolución que se dicte otorgando o negando la aclaración, no procede recurso alguno.
-
-###### ARTICULO 359.
-
-La aclaración propuesta interrumpe el término señalado para la apelación.
-
-### CAPITULO IV. Sentencia irrevocable
-
-###### ARTICULO 360.
-
-Son irrevocables y causan ejecutoria:
-
-I.- Las sentencias pronunciadas en primera instancia cuando se hayan consentido expresamente o cuando, concluído el término que la ley señala para interponer algún recurso, no se haya interpuesto; y
-
-II.- Las sentencias contra las cuales no dé la ley recurso alguno.
-
-## TITULO DECIMO. Recursos
-
-### CAPITULO I. Revocación
-
-###### ARTICULO 361.
-
-Solamente los autos contra los cuales no se conceda por este Código el recurso de apelación, serán revocables por el tribunal que los dictó.
-
-También lo serán las resoluciones que se dicten en segunda instancia antes de la sentencia.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 362.
-
-El plazo para interponer el recurso de revocación y ofrecer pruebas será de cinco días, contados a partir de que surta efectos la notificación de la resolución que se impugna.
-
-El tribunal resolverá el recurso oyendo a las partes en una audiencia que se efectuará dentro de las cuarenta y ocho horas siguientes a la notificación que se haga a la parte que no interpuso el recurso, acerca de la admisión de éste. En la audiencia se desahogarán las pruebas ofrecidas, se escuchará a las partes y se dictará resolución, contra la que no procede recurso alguno. Si no es posible que en esa audiencia concluya el desahogo de pruebas, el juez podrá convocar, por una sola vez, a otra audiencia.
-
-### CAPITULO II. Apelación
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 363.
-
-El recurso de apelación tiene por objeto examinar si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó ésta inexactamente, si se violaron los principios reguladores de la valoración de la prueba, si se alteraron los hechos o no se fundó o motivó correctamente.
-
-###### ARTICULO 364.
-
-La segunda instancia solamente se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la vista del asunto. El tribunal de apelación podrá suplir la deficiencia de los agravios cuando el recurrente sea el procesado o, siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
-
-Las apelaciones interpuestas contra resoluciones anteriores a la sentencia de primera instancia, deben ser resueltas por el tribunal de apelación antes de que se emita dicha sentencia.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 365.
-
-Tienen derecho de apelar el Ministerio Público, el inculpado y su defensor, así como el ofendido o sus legítimos representantes cuando hayan sido reconocidos por el juez de primera instancia, como coadyuvante del Ministerio Público, para efectos de la reparación de daños y perjuicios. En este caso, la apelación se contraerá a lo relativo a la reparación de daños y perjuicios y a las medidas precautorias conducentes a asegurarla.
-
-###### ARTICULO 366.
-
-Son apelables en ambos efectos solamente las sentencias definitivas en que se imponga alguna sanción.
-
-###### ARTICULO 367.
-
-Son apelables en el efecto devolutivo:
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-I.- Las sentencias definitivas que absuelven al acusado, excepto las que se pronuncien en relación con delitos punibles con no más de seis meses de prisión o con pena no privativa de libertad, en los términos del primer párrafo del artículo 152;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-II.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a VI del artículo 298 y aquéllos en que se niegue el sobreseimiento.
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-III.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos; los que decreten o nieguen la separación de autos; los que concedan o nieguen la recusación;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-IV.- Los autos de formal prisión; los de sujeción a proceso; los de falta de elementos para procesar; y aquéllos que resuelvan situaciones concernientes a la prueba.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la libertad por desvanecimiento de datos, y los que resuelvan algún incidente no especificado;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-VI.- Los autos en que se niegue la orden de aprehensión o se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público.
-
-(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
-
-VII.- Los autos que nieguen el cateo, las medidas precautorias de carácter patrimonial o el arraigo del indiciado;
-
-(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
-
-VIII.- Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria, o a librar el oficio inhibitorio a que se refiere el artículo 436, y
-
-(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
-
-IX.- Las demás resoluciones que señala la Ley.
-
-###### ARTICULO 368.
-
-La apelación podrá interponerse en el acto de la notificación o por escrito o comparecencia dentro de los cinco días siguientes si se tratare de sentencia, o de tres días si se interpusiere contra un auto.
-
-###### ARTICULO 369.
-
-Al notificarse al acusado la sentencia definitiva de primera instancia, se le hará saber el término que la ley concede para interponer el recurso de apelación; lo que se hará constar en el proceso.
-
-La omisión de este requisito surte el efecto de duplicar el término legal para interponer el recurso, y el secretario o actuario que haya incurrido en ella, será castigado disciplinariamente por el tribunal que conozca del recurso, con una multa de cinco a cincuenta pesos.
-
-###### ARTICULO 370.
-
-Interpuesto el recurso dentro del término legal, el tribunal que dictó la resolución apelada lo admitirá o lo desechará de plano, según que sea o no procedente conforme a las disposiciones anteriores.
-
-Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio de lo que dispone el artículo 374.
-
-###### ARTICULO 371.
-
-Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
-
-###### ARTICULO 372.
-
-Admitida la apelación en ambos efectos, se remitirá original el proceso al Tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 531.
-
-Si se trata de sentencia absolutoria, podrá remitirse original el proceso, a no ser que hubieren uno o más inculpados que no hubiesen apelado.
-
-Cuando la apelación se admite en el efecto devolutivo, salvo el caso del párrafo anterior, se remitirá el duplicado autorizado de constancias o testimonio de lo que las partes designen y de lo que el tribunal estime conveniente.
-
-El duplicado o testimonio debe remitirse dentro de ocho días y si no se cumple con esta prevención, el tribunal de apelación a pedimento del apelante, impondrá al inferior una multa de cincuenta a mil pesos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
-
-En el caso al que se refiere el párrafo anterior, el juez remitirá al tribunal de apelación, junto con el testimonio, un informe indicando el estado que guarda el proceso al momento en que dictó el auto recurrido, para los efectos de la última parte del artículo 364.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 373.
-
-Recibido el proceso, el duplicado autorizado de constancias o el testimonio, en su caso, el tribunal lo pondrá a la vista de las partes por el plazo de tres días; y si dentro de ellos no promovieren prueba se señalará día para la vista, que se efectuará dentro de los treinta siguientes a la conclusión del primer plazo, si se tratare de sentencias definitivas, y dentro de cinco días si se tratare de autos.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
-
-Para ella serán citados el Ministerio Público, el inculpado si estuviere en el lugar y el defensor nombrado. Si no se hubiere nombrado a éste para la instancia, el tribunal lo nombrará de oficio.
-
-###### ARTICULO 374.
-
-Dentro de los tres días a que se refiere el artículo anterior, las partes podrán impugnar la admisión del recurso o el efecto o efectos en que haya sido admitido, y el tribunal dará vista de la promoción a las otras partes por tres días, y resolverá lo que fuere procedente dentro de los tres días siguientes.
-
-Si se declarare mal admitida la apelación, se devolverá el proceso al tribunal de su origen, si lo hubiere remitido.
-
-###### ARTICULO 375.
-
-Si las partes no impugnan el recurso conforme al artículo anterior, se podrá declarar de oficio, después de la celebración de la vista, que fue mal admitida la apelación, y sin revisarse la resolución apelada, se devolverá el expediente, en su caso, al tribunal de su origen.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 376.
-
-Si dentro del plazo para promover prueba a que se refiere el artículo 373, alguna de las partes la promueve, expresará el objeto y naturaleza de la prueba. Dentro de tres días de hecha la promoción, el tribunal decidirá, sin más trámite, si es de admitirse o no.
-
-Cuando se admita la prueba, se rendirá dentro del plazo de cinco días. Desahogada, denegada o pasado el plazo que se concedió para rendirla, nuevamente se citará para la vista de la causa dentro de los plazos que señala el artículo 373.
-
-###### ARTICULO 377.
-
-Si la prueba hubiere de rendirse en lugar distinto al en que se encuentre el tribunal de apelación, éste concederá el término que crea prudente según las circunstancias del caso.
-
-###### ARTICULO 378.
-
-Sólo se admitirá la prueba testimonial en segunda instancia, cuando los hechos a que se refiera no hayan sido materia del examen de testigos en primera instancia.
-
-###### ARTICULO 379.
-
-Siempre que se haya interpuesto el recurso de apelación en contra de una sentencia definitiva, el tribunal tiene facultad para admitir las pruebas que no se hubieren promovido o practicado en primera instancia para justificar la procedencia de la condena condicional y para resolver sobre ella al fallarse el asunto, aun cuando no haya sido motivo de agravio el no haberse concedido ese beneficio en la primera instancia.
-
-###### ARTICULO 380.
-
-Los instrumentos públicos son admisibles mientras no se declare vista la causa.
-
-###### ARTICULO 381.
-
-Las partes podrán tomar en la Secretaría del tribunal los apuntes que necesiten para alegar.
-
-###### ARTICULO 382.
-
-El día señalado para la vista comenzará la audiencia haciendo el secretario del tribunal una relación del asunto; en seguida hará uso de la palabra el apelante y a continuación las otras partes, en el orden que indique quien presida la audiencia. Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo funcionario que presida.
-
-###### ARTICULO 383.
-
-Declarado visto el asunto, quedará cerrado el debate y el tribunal de apelación pronunciará el fallo que corresponda, a más tardar, dentro de ocho días, confirmando, revocando o modificando la resolución apelada.
-
-###### ARTICULO 384.
-
-No obstante lo dispuesto en el artículo anterior, si después de celebrada la vista el tribunal de apelación creyere necesaria la práctica de alguna diligencia para ilustrar su criterio, podrá decretarla para mejor proveer, y la practicará dentro de los diez días siguientes con arreglo a las disposiciones relativas de este Código. Practicada que fuere, fallará el asunto dentro de los cinco días siguientes.
-
-###### ARTICULO 385.
-
-Si solamente hubiere apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Si se tratare de auto de formal prisión o de sujeción a proceso, o de orden de aprehensión o de citación para preparatoria, podrá cambiarse la clasificación del delito y dictarse por el que aparezca probado.
-
-###### ARTICULO 386.
-
-La reposición del procedimiento se decretará a petición de parte, debiendo expresarse los agravios en que se apoye la petición. No se podrán alegar aquellos con los que la parte agraviada se hubiere conformado expresamente, ni los que cause alguna resolución contra la que no se hubiere intentado el recurso que la ley conceda o, si no hay recurso, si no se protesta contra dichos agravios al tenerse conocimiento de ellos en la instancia en que se causaron.
-
-###### ARTICULO 387.
-
-No obstante lo dispuesto en el artículo anterior, si el tribunal de apelación encuentra que hubo violación manifiesta del procedimiento que haya dejado sin defensa al procesado, y que sólo por torpeza o negligencia de su defensor no fue combatida debidamente, podrá suplir la deficiencia del agravio y ordenar que se reponga dicho procedimiento.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 388.
-
-Habrá lugar a la reposición del proceso por alguna de las causas siguientes:
-
-I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, o el nombre de las personas que le imputen la comisión del delito.
-
-II.- Por no habérsele permitido nombrar defensor o no nombrársele el de oficio en los términos que señala la ley; por no habérsele facilitado la manera de hacer saber al defensor su nombramiento, y por habérsele impedido comunicarse con él o que dicho defensor lo asistiere en alguna de las diligencias del proceso.
-
-III.- Por no habérsele ministrado los datos que necesitare para su defensa y que constaren en el proceso.
-
-IV.- Por no habérsele careado con algún testigo que hubiere depuesto en su contra, si el testigo rindió su declaración en el mismo lugar donde se sigue el proceso, estando allí también el procesado.
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-V.- Por no haber sido citada alguna de las partes para las diligencias que tuviere derecho a presenciar;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-VI.- Por no haberse recibido a alguna de las partes, injustificadamente, las pruebas que hubiere ofrecido, con arreglo a la ley;
-
-VII.- Por haberse celebrado el juicio sin asistencia del funcionario que deba fallar, de su secretario o testigos de asistencia y del Ministerio Público;
-
-VIII.- Por haberse hecho la insaculación de jurados en forma distinta de la prevenida por este Código.
-
-IX.- Por no haberse aceptado injustificadamente al acusado o a su defensor, la recusación de alguno o algunos de los jurados hecha en la forma y términos legales.
-
-X.- Por no haberse integrado el jurado por el número de personas que señale la ley o por carecer alguna de ellas de algún requisito legal.
-
-XI.- Por haberse sometido a la resolución del jurado cuestiones de distinta índole de las que la ley señale.
-
-XII.- Por haber sido juzgado el acusado por un tribunal de derecho, debiendo haberlo sido por el Jurado, o viceversa.
-
-XIII.- Por habérsele condenado por delito distinto del señalado en las conclusiones del Ministerio Público.
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1986)</small>
-
-XIV.- Por haberse negado a alguna de las partes los recursos procedentes; y
-
-XV.- Por haberse tenido en cuenta en la sentencia una diligencia que la ley declare expresamente que es nula.
-
-###### ARTICULO 389.
-
-Notificado el fallo a las partes, se remitirá desde luego la ejecutoria al tribunal de primera instancia, devolviéndole el expediente, en su caso.
-
-###### ARTICULO 390.
-
-Siempre que el tribunal de apelación encuentre que se retardó indebidamente el despacho del asunto o que se violó la ley durante el procedimiento judicial, si esas violaciones no ameritan que sea repuesto el procedimiento ni que se revoque o modifique la resolución de que se trate, llamará la atención al inferior y podrá imponerle una corrección disciplinaria, o consignarlo al Ministerio Público si la violación constituye delito.
-
-###### ARTICULO 391.
-
-Cuando el tribunal de apelación notare que el defensor faltó a sus deberes: por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos, cuando de las constancias de autos apareciere que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado, o por haber alegado hechos no probados en autos, podrá imponerle una corrección disciplinaria o consignarlo al Ministerio Público si procediere. Si el defensor fuere de oficio, el tribunal deberá, además, dar cuenta al superior de aquél, llamándole la atención sobre la negligencia o ineptitud de dicho defensor.
-
-### CAPITULO III. Denegada apelación
-
-###### ARTICULO 392.
-
-El recurso de denegada apelación procede cuando ésta se haya negado, o cuando se conceda sólo en el efecto devolutivo siendo procedente en ambos, aun cuando el motivo de la denegación sea que no se considera como parte al que intente el recurso.
-
-###### ARTICULO 393.
-
-El recurso se interpondrá verbalmente o por escrito, dentro de los tres días siguientes al en que se notifique la resolución que niegue la apelación.
-
-###### ARTICULO 394.
-
-Interpuesto el recurso, el tribunal, sin más substanciación, mandará expedir dentro de tres días, certificado en el que brevemente expondrá la naturaleza y estado de las actuaciones, el punto sobre que recayó el auto apelado e insertará éste a la letra, así como el que lo haya declarado inapelable.
-
-###### ARTICULO 395.
-
-Cuando el tribunal de primera instancia no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito ante el de apelación, el cual mandará que el inferior remita el certificado dentro de veinticuatro horas, sin perjuicio de la responsabilidad a que hubiere lugar.
-
-###### ARTICULO 396.
-
-Recibido por el promovente el certificado, deberá presentarlo ante el tribunal de apelación dentro del término de tres días contados desde que se le entregue, si el tribunal reside en el mismo lugar. Si reside en otro, el de primera instancia señalará además de los tres días, el término que sea necesario, atendidas las distancias y los medios de comunicación, sin que el término total pueda exceder de treinta días.
-
-###### ARTICULO 397.
-
-El tribunal de apelación, sin más trámite, citará para sentencia y pronunciará ésta dentro de los cinco días siguientes a la notificación.
-
-###### ARTICULO 398.
-
-Si la apelación se declara admisible, o se varía el grado, se pedirá el testimonio o el expediente, en su caso, al tribunal de primera instancia para substanciar la segunda.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-### CAPITULO IV. Queja
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 398 Bis.
-
-El recurso de queja procede contra las conductas omisas de los jueces de distrito que no radiquen una averiguación o no resuelvan respecto al libramiento o negativa de la orden de aprehensión o de comparecencia, en los términos a que alude el artículo 142.
-
-(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986))
-
-También procede el recurso de queja contra las conductas omitidas de los jueces de Distrito que no cumplan dentro de los plazos otorgados en este Código, con las obligaciones establecidas en los artículos 53, 147, 150 y 433.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-En las hipótesis previstas en el artículo 142, el recurso lo interpondrá el Ministerio Público.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-La queja podrá interponerse en cualquier tiempo a partir de que hubieran transcurrido los plazos establecidos en los artículos 53,142,147, 150 y 433, y se interpondrá por escrito ante el Tribunal Unitario de Circuito que corresponda.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-El tribunal Unitario de Circuito, en el plazo de 48 horas, le dará entrada al recurso y requerirá al Juez de Distrito, cuya conducta omisa haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda y si se estima fundado el recurso, el Tribunal Unitario requerirá al Juez de Distrito, para que cumpla con las obligaciones determinadas en los artículos 53, 142, 147, 150 y 433. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el monto y lugar en que hubiere ocurrido la omisión.
-
-TITULO DECIMOPRIMERO
-
-Incidentes
-
-#### SECCION PRIMERA. Incidentes de libertad
-
-### CAPITULO I. Libertad provisional bajo caución
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 399.
-
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo las modalidades atenuantes o agravantes de éste, acreditadas cuando se resuelva sobre dicha libertad.
-
-En la determinación que dicte, el juez fundará y motivará el otorgamiento o la negativa de libertad, así como la revocación de ésta, en su caso, tomando en cuenta las prevenciones constitucionales y legales aplicables. En lo que respecta a la determinación del monto de la caución, se hará señalamiento específico sobre los daños y perjuicios, en la medida en que de las actuaciones se desprendan datos para fijar unos y otros. El juez valorará lo actuado, asimismo, para resolver si se trata de delito intencional, preterintencional, o imprudencial, con el propósito de precisar las consecuencias de esta clasificación para los efectos de la garantía debida.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-Fuera de los casos de libertad ordenada por órgano jurisdiccional, o de aquellos a que se refiere el artículo 107 Constitucional, en ningún otro se excarcelará al inculpado sin que previamente el encargado del reclusorio lo notifique personalmente al Ministerio Público.
-
-###### ARTICULO 400.
-
-Cuando proceda la libertad caucional, inmediatamente que se solicite se decretará en la misma pieza de autos.
-
-###### ARTICULO 401.
-
-Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
-
-###### ARTICULO 402.
-
-El monto de la caución se fijará por el tribunal, quien tomará en consideración:
-
-I.- Los antecedentes del inculpado;
-
-II.- La gravedad y circunstancias del delito imputado;
-
-III.- El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
-
-IV.- Las condiciones económicas del inculpado; y
-
-V.- La naturaleza de la garantía que se ofrezca.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Cuando el delito represente un beneficio económico para su autor, o cause a la víctima un daño patrimonial, la garantía será necesariamente, cuando menos, tres veces mayor al beneficio obtenido o al daño y perjuicio causado, y quedará sujeta a la reparación del daño que, en su caso, se resuelva.
-
-###### ARTICULO 403.
-
-La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
-
-###### ARTICULO 404.
-
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en la oficina o sucursal del Banco de México que hubiere en el lugar, o en la institución de crédito autorizada para ello. El certificado correspondiente se depositará en la caja de valores del tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en la instituciones mencionadas, el tribunal recibirá la cantidad exhibida y la mandará depositar en aquéllas el primer día hábil.
-
-###### ARTICULO 405.
-
-Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
-
-###### ARTICULO 406.
-
-Cuando se ofrezca como garantía fianza personal por cantidad que no exceda de trescientos pesos, quedará bajo la responsabilidad del tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
-
-###### ARTICULO 407.
-
-Cuando la fianza sea por cantidad mayor de trescientos pesos, se regirá por lo dispuesto en los artículos 2851, 2852, 2853, 2854 y 2855 del Código Civil Federal, con la salvedad de que, tratándose de instituciones de crédito o de empresas afianzadoras legalmente constituídas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad.
-
-###### ARTICULO 408.
-
-Los bienes inmuebles de los fiadores deben tener, cuando menos, un valor de tres veces mayor que el monto de la caución señalada.
-
-###### ARTICULO 409.
-
-Las fianzas de que habla este Capítulo se extenderán en la misma pieza de autos o se agregarán a éstos.
-
-###### ARTICULO 410.
-
-El fiador, excepto cuando se trate de las instituciones o empresas mencionadas en el artículo 407, declarará ante el tribunal bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
-
-###### ARTICULO 411.
-
-Al notificarse al inculpado el auto que le conceda la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el tribunal que conozca de su caso los días fijos que se estime conveniente señalarle y cuantas veces sea citado o requerido para ello; comunicar al mismo tribunal los cambios de domicilio que tuviere, y no ausentarse del lugar sin permiso del citado tribunal, el que no se lo podrá conceder por tiempo mayor de un mes.
-
-También se le harán saber las causas de revocación de la libertad caucional.
-
-En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones y las causas de revocación; pero la omisión de este requisito no librará de ellas ni de sus consecuencias al inculpado.
-
-###### ARTICULO 412.
-
-Cuando el inculpado haya garantizado por sí mismo su libertad con depósito o hipoteca, aquélla se le revocará en los casos siguientes:
-
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto.
-
-II.- Cuando antes de que el expediente en que se le concedió la libertad esté concluído por sentencia ejecutoria, cometiere un nuevo delito que merezca pena corporal.
-
-III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su asunto o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del tribunal, o al Agente del Ministerio Público que intervengan en el caso.
-
-IV.- Cuando lo solicite el mismo inculpado y se presente al tribunal.
-
-V.- Cuando aparezca con posterioridad que le corresponde al inculpado una pena que no permita otorgar la libertad.
-
-VI.- Cuando en el proceso cause ejecutoria la sentencia dictada en primera o segunda instancia.
-
-VII.- Cuando el inculpado no cumpla con algunas de las obligaciones a que se refiere el artículo 411.
-
-###### ARTICULO 413.
-
-Cuando un tercero haya garantizado la libertad del inculpado por medio de depósito en efectivo, de fianza o de hipoteca, aquélla se revocará:
-
-I.- En los casos que se mencionan en el artículo anterior.
-
-II.- Cuando el tercero pida que se le releve de la obligación y presente al inculpado.
-
-III.- Cuando con posterioridad se demuestre la insolvencia del fiador.
-
-IV.- En el caso del artículo 416.
-
-###### ARTICULO 414.
-
-En los casos de las fracciones I y VII del artículo 412 se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
-
-En los casos de las fracciones II, III, V y VI del mismo artículo y III del artículo 413, se ordenará la reaprehensión del inculpado. En los de las fracciones IV del artículo 412 y II del 413, se remitirá al inculpado al establecimiento que corresponda.
-
-###### ARTICULO 415.
-
-El tribunal ordenará la devolución del depósito o mandará cancelar la garantía:
-
-I.- Cuando de acuerdo con el artículo anterior se remita al inculpado al establecimiento correspondiente.
-
-II.- En los casos de las fracciones II, III, V y VI del artículo 412, cuando se haya obtenido la reaprehensión del inculpado.
-
-III.- Cuando se decrete el sobreseimiento en el asunto o la libertad del inculpado.
-
-IV.- Cuando el acusado sea absuelto.
-
-V.- Cuando resulte condenado el acusado y se presente a cumplir su condena.
-
-###### ARTICULO 416.
-
-Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el tribunal podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estima oportuno. Si concluído el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía, en los términos del primer párrafo del artículo 414.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 417.
-
-En los casos del primer párrafo del artículo 414 y de la última parte del artículo 416, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva, entretanto se resuelve sobre la sanción pecuniaria, para los efectos del último párrafo del artículo 35 del Código Penal.
-
-### CAPITULO II. Libertad provisional bajo protesta
-
-###### ARTICULO 418.
-
-La libertad bajo protesta podrá decretarse siempre que concurran las circunstancias siguientes:
-
-I.- Que la pena corporal que debe imponerse no exceda de dos años de prisión;
-
-II.- Que sea la primera vez que delinque el inculpado;
-
-III.- Que éste tenga domicilio fijo y conocido en el lugar en donde se sigue o deba seguirse el proceso, o dentro de la jurisdicción del tribunal respectivo;
-
-IV.- Que la residencia del inculpado en dicho lugar sea de un año cuando menos;
-
-V.- Que el inculpado tenga profesión, oficio, ocupación o modo honesto de vivir; y
-
-VI.- Que a juicio de la autoridad que la conceda no haya temor de que el inculpado se substraiga a la acción de la justicia.
-
-La libertad bajo protesta se substanciará en la forma establecida para los incidentes no especificados.
-
-Serán aplicables a la libertad bajo protesta, las disposiciones contenidas en el artículo 411.
-
-###### ARTICULO 419.
-
-Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Si sólo apeló el reo, no se revocará la libertad bajo protesta, salvo que se esté en el caso previsto en la fracción IV del artículo 421.
-
-###### ARTICULO 420.
-
-El auto en que se conceda la libertad bajo protesta, no surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal que conozca del asunto siempre que se le ordene.
-
-###### ARTICULO 421.
-
-La libertad bajo protesta se revocará en los casos siguientes:
-
-I.- Cuando el inculpado desobedeciere sin causa justa y probada la orden de presentarse al tribunal que conozca de su proceso.
-
-II.- Cuando cometiere un nuevo delito, antes de que el proceso en que se le concedió la libertad esté concluído por sentencia ejecutoria.
-
-III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su proceso o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del tribunal, o al Agente del Ministerio Público que intervengan en su proceso.
-
-IV.- Cuando en el curso del proceso apareciere que el delito merece una pena mayor que la señalada en la fracción I del artículo 418.
-
-V.- Cuando dejare de concurrir alguna de las condiciones expresadas en las fracciones III, V y VI del artículo 418.
-
-VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause ejecutoria.
-
-### CAPITULO III. Libertad por desvanecimiento de datos
-
-###### ARTICULO 422.
-
-La libertad por desvanecimiento de datos procede en los siguientes casos:
-
-I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión aparezcan plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito.
-
-II.- Cuando en cualquier estado de la instrucción y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de formal prisión para tener al detenido como presunto responsable.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 423.
-
-Para substanciar el incidente respectivo, hecha la petición por alguna de las partes, el tribunal las citará a una audiencia dentro del término de cinco días, a la que el Ministerio Público deberá asistir.
-
-La resolución que proceda se dictará dentro de las setenta y dos horas siguientes a la en que se celebró la audiencia.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 424.
-
-La solicitud del Ministerio Público para que se conceda la libertad por desvanecimiento de datos no implica el desistimiento de la acción penal. En consecuencia, el tribunal puede negar dicha libertad a pesar de la petición favorable del Ministerio Público, salvo que se esté en el caso previsto por el artículo 138.
-
-###### ARTICULO 425.
-
-Cuando el inculpado solamente haya sido declarado sujeto a proceso, se podrá promover el incidente a que se refiere este capítulo, para que quede sin efecto esa declaración.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 426.
-
-La resolución que conceda la libertad tendrá los mismos efectos que el auto de libertad por falta de elementos para procesar, quedando expeditos el derecho del Ministerio Público para pedir nuevamente la aprehensión del inculpado y la facultad del tribunal para dictar nuevo auto de formal prisión, si aparecieren posteriormente datos que les sirvan de fundamento y siempre que no se varíen los hechos delictuosos motivo del procedimiento. Cuando la libertad se resuelva con apoyo en la fracción I del artículo 422, tendrá efectos definitivos y se sobreseerá el proceso.
-
-#### SECCION SEGUNDA. Incidentes diversos
-
-### CAPITULO I. Substanciación de las competencias
-
-###### ARTICULO 427.
-
-Las cuestiones de competencia pueden iniciarse por declinatoria o por inhibitoria.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-Cuando se hubiere optado por uno de estos medios, no se podrá abandonar para recurrir al otro ni emplear los dos sucesivamente, pues se deberá pasar por el resultado de aquel que se hubiere preferido.
-
-###### ARTICULO 428.
-
-La declinatoria se intentará ante el tribunal que conozca del asunto pidiéndole que se abstenga del conocimiento del mismo y que remita las actuaciones al tribunal que se estime competente.
-
-###### ARTICULO 429.
-
-La declinatoria podrá promoverse en cualquier estado del procedimiento judicial. Si se opusiere durante la instrucción, el tribunal que conozca del asunto podrá seguir actuando válidamente hasta que el Ministerio Público y la defensa formulen conclusiones.
-
-###### ARTICULO 430.
-
-Propuesta la declinatoria el tribunal mandará dar vista de la solicitud a las otras partes por el término de tres días comunes y resolverá lo que corresponda dentro de los seis días siguientes.
-
-###### ARTICULO 431.
-
-La declinatoria puede iniciarse y sostenerse de oficio por los tribunales y para el efecto se oirá la opinión del Ministerio Público y se resolverá lo que se estime procedente remitiéndose, en su caso, las actuaciones por conducto del Ministerio Público a la autoridad que se juzgue competente.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 432.
-
-La competencia por declinatoria no podrá resolverse hasta después de que se practiquen las diligencias que no admitan demora, y en caso de que haya detenido de haberse dictado el auto de formal prisión o el de libertad por falta de elementos para procesar.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 433.
-
-El tribunal que reciba las actuaciones que le remita el que se hubiese declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el plazo de seis días si reconoce su competencia. Si no la reconoce remitirá las audiencias al tribunal de competencia con su opinión, comunicándole al tribunal que hubiere enviado el expediente. Si el tribunal que reciba las actuaciones conforme a lo previsto en la primera parte de este artículo, no resuelve dentro del plazo señalado, se procederá como en la queja.
-
-###### ARTICULO 434.
-
-La inhibitoria se intentará ante el tribunal a quien se crea competente para que se avoque el conocimiento del asunto.
-
-###### ARTICULO 435.
-
-El que promueva la inhibitoria puede desistirse de ella antes de que sea aceptada por los tribunales; mas una vez que éstos la acepten, continuará substanciándose hasta su decisión.
-
-###### ARTICULO 436.
-
-El tribunal mandará dar vista al Ministerio Público cuando no proviniere de éste la instancia, por el término de tres días, y si estimare que es competente para conocer del asunto, librará oficio inhibitorio al tribunal que conozca del negocio, a efecto de que le remita el expediente.
-
-###### ARTICULO 437.
-
-Luego que el tribunal requerido reciba la inhibitoria, señalará tres días al Ministerio Público y otros tres comunes a las demás partes, si las hubiere, para que se impongan de lo actuado; los citará para una audiencia que se efectuará dentro de las veinticuatro horas siguientes, concurran o no los citados; y resolverá lo que corresponda dentro de tres días. Si la resolución es admitiendo su incompetencia, remitirá desde luego los autos al tribunal requeriente.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-Si la resolución fuere sosteniendo su competencia remitirá el incidente al tribunal de competencias comunicando este trámite al requeriente para que a su vez remita sus actuaciones al tribunal que deba decidir la controversia.
-
-###### ARTICULO 438.
-
-Los incidentes sobre competencias se tramitarán siempre por separado.
-
-###### ARTICULO 439.
-
-El tribunal de competencias en los casos de los artículos 433 y 437, dará vista al Ministerio Público por el término de seis días y resolverá lo que corresponda dentro de los quince días siguientes, remitiendo las actuaciones al tribunal que declare competente.
-
-###### ARTICULO 440.
-
-Lo actuado por un tribunal incompetente será válido si se tratare de tribunal del mismo fuero. Si se tratare de distinto fuero, el tribunal federal dictará auto declarando que queda abierta la instrucción para que las partes promuevan las diligencias de prueba que estimen convenientes, procediéndose en seguida conforme a las demás disposiciones de este Código.
-
-###### ARTICULO 441.
-
-Cuando la competencia se resuelva en favor del fuero que haya conocido del asunto, el tribunal de competencias se limitará a devolver las actuaciones al tribunal que las haya remitido.
-
-###### ARTICULO 442.
-
-En la substanciación de las competencias, una vez transcurridos los términos se proveerá de oficio el trámite que corresponda.
-
-###### ARTICULO 443.
-
-En todas las controversias de competencia, será oído el Ministerio Público.
-
-### CAPITULO II. Impedimentos, excusas y recusaciones
-
-###### ARTICULO 444.
-
-Los magistrados y jueces deben excusarse en los asuntos en que intervengan, por cualquiera de las causas de impedimento que señale la Ley Orgánica del Poder Judicial de la Federación.
-
-###### ARTICULO 445.
-
-Las causas de impedimento no pueden dispensarse por voluntad de las partes.
-
-###### ARTICULO 446.
-
-El impedimento se calificará por el superior a quien correspondería juzgar de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
-
-###### ARTICULO 447.
-
-Cuando un juez o magistrado no se excuse a pesar de tener algún impedimento, procederá la recusación.
-
-No son admisibles las recusaciones sin causa. En todo caso se expresará concreta y claramente la que exista, y siendo varias se propondrán al mismo tiempo, salvo que se trate de alguna superveniente, la que se propondrá cuando ocurra.
-
-###### ARTICULO 448.
-
-La recusación puede interponerse en cualquier tiempo, pero no después de que se haya citado para sentencia de primera instancia o para la vista en los tribunales superiores, y la promovida no suspenderá la instrucción ni la tramitación del recurso pendiente. Si se interpusiere en contra de un juez o magistrado, se suspenderá la celebración del juicio y, en su caso, la audiencia para la resolución del asunto en los tribunales superiores.
-
-###### ARTICULO 449.
-
-Si después de la citación para sentencia o para la vista, hubiere cambio en el personal de un tribunal, la recusación sólo será admisible si se propone dentro de los tres días siguientes al en que se notifique el auto a que se refiere el artículo 37.
-
-###### ARTICULO 450.
-
-Toda recusación que no fuere promovida en tiempo y forma, será desechada de plano.
-
-###### ARTICULO 451.
-
-Cuando el juez o magistrado estimen cierta y legal la causa de recusación, sin audiencia de las partes se declararán inhibidos y mandarán que pase el asunto a quien corresponda.
-
-###### ARTICULO 452.
-
-Cuando los funcionarios a que se refiere el artículo anterior estimen que no es cierta o que no es legal la causa alegada, señalarán al recusante el término de cuarenta y ocho horas para que ocurra ante el superior que deba conocer de la recusación.
-
-Si éste estuviere en diferente lugar del en que reside el funcionario recusado, además de las cuarenta y ocho horas indicadas, se concederá otro término que será el suficiente teniendo en cuenta la mayor o menor dificultad en las comunicaciones.
-
-Si dentro de los términos de que trata este artículo no se presenta el recusante al superior, se le tendrá por desistido.
-
-###### ARTICULO 453.
-
-Interpuesta la recusación, el recusado deberá dirigir oficio al superior que deba calificar aquélla, con inserción del escrito en que se haya promovido, del proveído correspondiente y de las constancias que sean indispensables, a juicio del mismo recusado, y de las que señalare el recusante.
-
-###### ARTICULO 454.
-
-En el caso del artículo 452 recibido el escrito de la parte que haya promovido la recusación por quien deba conocer de ella, se pedirá informe al funcionario recusado, quien lo rendirá dentro del término de veinticuatro horas.
-
-###### ARTICULO 455.
-
-Dentro de cinco días, contados desde el siguiente al en que se reciban los oficios a que se refieren los dos artículos anteriores, se resolverá si es legal o no la causa de recusación que se hubiere alegado.
-
-Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que no estuvieren justificados, se abrirá el incidente a prueba por un término que no excederá de diez días.
-
-###### ARTICULO 456.
-
-Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
-
-###### ARTICULO 457.
-
-Cuando se deseche la recusación se impondrá al recusante una multa de diez a cien pesos.
-
-###### ARTICULO 458.
-
-Admitido un impedimento o calificada como legal la causa de una recusación, el impedido o recusado quedará definitivamente separado del conocimiento del asunto, del cual conocerá el tribunal a quien corresponda conforme a la Ley Orgánica del Poder Judicial de la Federación.
-
-###### ARTICULO 459.
-
-No procede la recusación:
-
-I.- Al cumplimentar exhortos.
-
-II.- En los incidentes de competencia.
-
-III.- En la calificación de los impedimentos o recusaciones.
-
-###### ARTICULO 460.
-
-Los secretarios y los actuarios de los tribunales quedan comprendidos en lo dispuesto en este capítulo, con las modificaciones que determinan los tres siguientes artículos.
-
-###### ARTICULO 461.
-
-De los incidentes conocerá el juez o magistrado de quien dependa el impedido o recusado.
-
-###### ARTICULO 462.
-
-Alegado el impedimento o admitida la recusación, el secretario o actuario pasará el asunto a quien deba substituirle conforme a la ley.
-
-###### ARTICULO 463.
-
-Reconocida por el recusado como cierta la causa de recusación, o admitido como legítimo el impedimento, el juez o magistrado declarará, sin más trámite, impedido para actuar en el negocio al secretario o actuario de quien se trate.
-
-Si se declara que el impedimento o la recusación no es procedente, el secretario o el actuario continuará actuando en la causa.
-
-Contra la resolución respectiva no cabe recurso alguno.
-
-###### ARTICULO 464.
-
-Los jurados, funcionarios del Ministerio Público y defensores de oficio, deben excusarse en los asuntos en que intervengan, por cualquiera de las causas de impedimento que señalen las Leyes Orgánicas o Reglamentarias respectivas.
-
-###### ARTICULO 465.
-
-Los impedimentos de los funcionarios del Ministerio Público serán calificados por quienes designe la ley que reglamente la Institución.
-
-###### ARTICULO 466.
-
-Las excusas de los defensores de oficio serán calificadas por el tribunal que conozca del asunto.
-
-###### ARTICULO 467.
-
-Las excusas voluntarias de los jurados serán calificadas en los términos que señale la Ley Orgánica del Poder Judicial de la Federación.
-
-### CAPITULO III. Suspensión del procedimiento
-
-###### ARTICULO 468.
-
-Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos siguientes:
-
-I.- Cuando el responsable se hubiere substraído a la acción de la justicia.
-
-II.- Cuando se advirtiere que se está en alguno de los casos señalados en las fracciones I y II del artículo 113.
-
-III.- Cuando enloquezca el procesado, cualquiera que sea el estado del proceso.
-
-IV.- Cuando no exista auto de formal prisión o de sujeción a proceso y se llenen además los requisitos siguientes:
-
-a).- Que aunque no esté agotada la averiguación haya imposibilidad transitoria para practicar las diligencias que resulten indicadas en ella;
-
-b).- Que no haya base para decretar el sobreseimiento; y
-
-c).- Que se desconozca quién es el responsable del delito.
-
-V.- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-La suspensión fundada en los supuestos de las fracciones I y III no impide que, a requerimiento del Ministerio Público o del ofendido o sus representantes, adopte el juzgador medidas precautorias patrimoniales en los términos del artículo 149.
-
-###### ARTICULO 469.
-
-Lo dispuesto en la fracción I del artículo anterior se entiende sin perjuicio de que, en su oportunidad, se practiquen todas las diligencias que sean procedentes para comprobar la existencia del delito y la responsabilidad del prófugo, y para lograr su captura.
-
-La substracción de un inculpado a la acción de la justicia no impedirá la continuación del procedimiento, respecto de los demás inculpados que se hallaren a disposición del tribunal.
-
-###### ARTICULO 470.
-
-Lograda la captura del prófugo, el proceso continuará su curso, sin que se repitan las diligencias ya practicadas, a menos que el tribunal lo estime indispensable.
-
-###### ARTICULO 471.
-
-Cuando se haya decretado la suspensión del procedimiento en los casos a que se refieren las fracciones II, III y IV del artículo 468, se continuará tan luego como desaparezcan las causas que lo motivaron.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 472.
-
-El tribunal resolverá de plano sobre la suspensión del procedimiento, de oficio, a petición del Ministerio Público o del inculpado o su representante, en lo procedente, fundada en cualquiera de las causas a que se refiere el artículo 468.
-
-### CAPITULO IV. Acumulación de autos
-
-###### ARTICULO 473.
-
-La acumulación tendrá lugar:
-
-I.- En los procesos que se sigan contra una misma persona, en los términos del artículo 18 del Código Penal.
-
-II.- En los que se sigan en investigación de delitos conexos.
-
-III.- En los que se sigan contra los copartícipes de un mismo delito.
-
-IV.- En los que se sigan en investigación de un mismo delito contra diversas personas.
-
-###### ARTICULO 474.
-
-No procederá la acumulación si se trata de diversos fueros.
-
-###### ARTICULO 475.
-
-Los delitos son conexos:
-
-I.- Cuando han sido cometidos por varias personas unidas.
-
-II.- Cuando han sido cometidos por varias personas, aunque en diversos tiempos y lugares, pero a virtud de concierto entre ellas.
-
-III.- Cuando se ha cometido un delito: para procurarse los medios de cometer otro, para facilitar su ejecución, para consumarlo, o para asegurar la impunidad.
-
-###### ARTICULO 476.
-
-La acumulación no podrá decretarse en los procesos después de cerrada la instrucción.
-
-###### ARTICULO 477.
-
-Cuando alguno de los procesos ya no estuviere en estado de instrucción, pero tampoco estuviere concluído, o cuando no sea procedente la acumulación conforme a este capítulo, el tribunal cuya sentencia cause ejecutoria la remitirá en copia certificada al tribunal que conozca del otro proceso para los efectos de la aplicación de las sanciones.
-
-###### ARTICULO 478.
-
-Si los procesos se siguen en el mismo tribunal, la acumulación podrá decretarse de oficio sin substanciación alguna.
-
-Si la promoviere alguna de las partes, el tribunal las oirá en audiencia verbal que tendrá lugar dentro de tres días y, sin más trámite, resolverá dentro de los tres siguientes, pudiendo negarla cuando a su juicio dificulte la investigación.
-
-###### ARTICULO 479.
-
-Si los procesos se siguen en diversos tribunales, será competente para conocer de todos los que deban acumularse el tribunal que conociere de las diligencias más antiguas; y si éstas se comenzaron en la misma fecha, el que designare el Ministerio Público.
-
-###### ARTICULO 480.
-
-La acumulación deberá promoverse ante el tribunal que, conforme al artículo anterior, sea competente; y el incidente a que dé lugar se substanciará en la forma establecida para las competencias por inhibitoria.
-
-###### ARTICULO 481.
-
-Los incidentes de acumulación se substanciarán por separado sin suspenderse el procedimiento.
-
-###### ARTICULO 482.
-
-Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen por los tribunales, aun cuando no exista auto de formal prisión o de sujeción a proceso.
-
-### CAPITULO V. Separación de autos
-
-###### ARTICULO 483.
-
-Podrá ordenarse la separación de los autos acumulados cuando concurran las siguientes circunstancias:
-
-I.- Que la pida alguna de las partes antes de que esté concluída la instrucción;
-
-II.- Que la acumulación se haya decretado en razón de que los autos se refieran a una sola persona inculpada por delitos diversos e inconexos; y
-
-III.- Que el tribunal estime que, de continuar la acumulación, la investigación se demoraría o dificultaría.
-
-###### ARTICULO 484.
-
-La separación podrá decretarse de oficio cuando no haya habido acumulación en los términos del capítulo anterior.
-
-###### ARTICULO 485.
-
-Contra el auto en que el tribunal declare no haber lugar a la separación, no procede recurso alguno; pero dicho auto no pasará en autoridad de cosa juzgada mientras no esté concluída la instrucción.
-
-###### ARTICULO 486.
-
-Decretada la separación, conocerá de cada asunto el tribunal que conocía de él antes de haberse efectuado la acumulación. Dicho tribunal, si fuere diverso del que decretó la separación, no podrá rehusarse a conocer del caso, sin perjuicio de que pueda suscitarse la cuestión de competencia.
-
-###### ARTICULO 487.
-
-El incidente sobre separación de autos se substanciará por separado, en la misma forma que el de acumulación sin suspender el procedimiento.
-
-###### ARTICULO 488.
-
-Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 477.
-
-### CAPITULO VI. Reparación del daño exigible a personas distintas del inculpado
-
-###### ARTICULO 489.
-
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 32 del Código Penal, debe ejercitarse por quien tenga derecho a ello ante el tribunal que conozca de la penal (sic); pero deberá intentarse y seguirse ante los tribunales del orden común, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando, concluída la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
-
-Cuando promovidas las dos acciones hubiere concluído el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
-
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 490.
-
-A la falta de disposición expresa de este Código, en la tramitación de los incidentes sobre reparación del daño exigible a persona distinta del inculpado, supletoriamente se aplicará, en lo conducente o en lo que determina al (sic) ley, el Código Federal de Procedimientos Civiles. Estos incidentes se tramitarán por separado. Las notificaciones se harán en la forma que señala el capítulo XII del Título Primero de este Código.
-
-###### ARTICULO 491.
-
-Si el incidente llega al estado de alegar antes de que concluya la instrucción, se suspenderá hasta que el proceso se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del juicio penal.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 492.
-
-En los casos previstos en las fracciones I y III del artículo 468, se continuará la tramitación del incidente hasta dictarse sentencia.
-
-###### ARTICULO 493.
-
-Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código Federal de Procedimientos Civiles, sin perjuicio de las facultades que las leyes conceden al Fisco para asegurar su interés.
-
-### CAPITULO VII. Incidentes no especificados
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 494.
-
-Los incidentes cuya tramitación no se detalle en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquéllos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar dentro de los tres días siguientes. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-TITULO DECIMOSEGUNDO
-
-Procedimiento relativo a los enfermos mentales, a los menores y a los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
-
-### CAPITULO I. Enfermos mentales
-
-###### ARTICULO 495.
-
-Tan pronto como se sospeche que el inculpado esté loco, idiota, imbécil o sufra cualquiera otra debilidad, enfermedad o anomalía mentales, el tribunal lo mandará examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundado, ordenará provisionalmente la reclusión del inculpado en manicomio o en departamento especial.
-
-###### ARTICULO 496.
-
-Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior, cesará el procedimiento ordinario y se abrirá el especial, en el que la ley deja al recto criterio y a la prudencia del tribunal la forma de investigar la infracción penal imputada, la participación que en ella hubiere tenido el inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
-
-###### ARTICULO 497.
-
-Si se comprueba la infracción a la ley penal y que en ella tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si los tuviere, el tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 24 inciso 3, 68 y 69 del Código Penal.
-
-La resolución que se dicte será apelable en el efecto devolutivo.
-
-###### ARTICULO 498.
-
-Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 468, fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
-
-###### ARTICULO 499.
-
-La vigilancia del recluído estará a cargo de la autoridad administrativa federal correspondiente.
-
-### CAPITULO II. Menores
-
-###### ARTICULO 500.
-
-En los lugares donde existan tribunales locales para menores, éstos serán competentes para conocer de las infracciones a las leyes penales federales cometidas por menores de dieciocho años, aplicando las disposiciones de las leyes federales respectivas.
-
-###### ARTICULO 501.
-
-Los tribunales federales para menores en las demás Entidades federativas, conocerán en sus respectivas jurisdicciones, de las infracciones a las leyes penales federales cometidas por menores de dieciocho años.
-
-###### ARTICULO 502.
-
-En las Entidades federativas donde hubiere dos o más tribunales para menores, conocerá del caso el que hubiere prevenido.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 503.
-
-En todo lo relativo al procedimiento, medidas y ejecución de éstas, los tribunales federales para menores y las demás personas y autoridades que deban intervenir, se ajustarán a lo previsto en la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal.
-
-###### ARTICULO 504.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 505.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 506.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 507.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 508.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 509.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 510.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 511.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 512.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 513.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 514.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 515.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 516.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 517.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 518.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 519.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 520.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 521.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 522.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-### CAPITULO III
-
-De los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 523.
-
-Cuando el Ministerio Público tenga conocimiento de que una persona ha hecho uso indebido de estupefacientes o psicotrópicos, al iniciar su averiguación, se pondrá inmediatamente en relación con la autoridad sanitaria federal correspondiente para determinar la intervención que ésta deba tener en el caso.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 524.
-
-Si la averiguación se refiere a la adquisición y posesión de estupefacientes o psicotrópicos, el Ministerio Público, de acuerdo con la autoridad sanitaria a que se refiere el artículo anterior, precisará acuciosamente si esa posesión tiene por finalidad exclusiva el uso personal que de ellos haga el indiciado. En este caso, y siempre que el dictamen hecho por la autoridad sanitaria indique que el inculpado tiene el hábito o necesidad de consumir ese estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, no hará consignación a los tribunales; en caso contrario, ejercitará acción penal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 525.
-
-Si se hubiere hecho la consignación y dentro de las setenta y dos horas que señala el artículo 19 constitucional, se formula o se rectifica el dictamen en el sentido de que el inculpado tiene hábito o la necesidad de consumir el estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, el Ministerio Público se desistirá de la acción penal sin necesidad de consulta al Procurador y pedirá al tribunal que el detenido sea puesto a disposición de la autoridad sanitaria federal para su tratamiento, por el tiempo necesario para su curación.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 526.
-
-Si el inculpado está habituado o tiene la necesidad de consumir estupefacientes o psicotrópicos y además de adquirir o poseer los necesarios para su consumo, comete cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la autoridad sanitaria federal para su tratamiento.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 527.
-
-Cuando exista aseguramiento de estupefacientes o psicotrópicos, los peritos de la autoridad sanitaria federal o cualesquiera otros oficiales, rendirán al Ministerio Público o a los tribunales, un dictamen sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen cuando hubiere detenido, será rendido dentro del término de setenta y dos horas a que se refiere el artículo 19 constitucional.
-
-TITULO DECIMOTERCERO
-
-Ejecución
-
-### CAPITULO I. Disposiciones generales
-
-###### ARTICULO 528.
-
-En toda sentencia condenatoria el tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 42 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia y de habitualidad que fueren procedentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 529.
-
-La ejecución de las sentencias irrevocables en materia penal corresponde al Poder Ejecutivo, quien, por medio del órgano que designe la Ley, determinará, en su caso, el lugar y las modalidades de ejecución, ajustándose a lo previsto en el Código Penal, en las normas sobre ejecución de penas y medidas y en la sentencia.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean estrictamente cumplidas; y lo hará así, ya gestionando cerca de las autoridades administrativas lo que proceda, o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
-
-###### ARTICULO 530.
-
-El Ministerio Público cumplirá con el deber que le impone el artículo anterior siempre que, por queja del interesado o de cualquiera otra manera, llegue a su noticia que la autoridad encargada de la ejecución de la sentencia se aparta de lo ordenado en ella. Los Agentes del Ministerio Público, para hacer sus gestiones en tales casos ante la autoridad administrativa o ante los tribunales, recabarán previamente instrucciones expresas y escritas del Procurador General de la República.
-
-###### ARTICULO 531.
-
-Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella a la Procuraduría General de la República, la que enviará a la autoridad encargada de la ejecución uno de los testimonios.
-
-###### ARTICULO 532.
-
-El Ministerio Público solicitará de los tribunales que, para los efectos del artículo 37 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se condena a la sanción pecuniaria, para que se haga efectivo su importe.
-
-###### ARTICULO 533.
-
-Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fiscal, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición del tribunal, el que hará comparecer a quien tenga derecho a ella para hacerle entrega inmediata de su importe.
-
-El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone este artículo.
-
-###### ARTICULO 534.
-
-Cuando un reo enloquezca después de dictarse en su contra sentencia irrevocable que lo condene a pena corporal, se suspenderán los efectos de ésta mientras no recobre la razón, internándosele en un hospital público para su tratamiento.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-###### ARTICULO 535.
-
-Cuando se decrete el decomiso, se estará a lo previsto en el Código Penal para los fines de conservación, destrucción, venta y aplicación de instrumentos, objetos y productos de los delitos.
-
-### CAPITULO II. Condena condicional
-
-###### ARTICULO 536.
-
-Las pruebas que se promuevan para acreditar los requisitos que exige el artículo 90 del Código Penal para la concesión de la condena condicional, se rendirán durante la instrucción sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
-
-###### ARTICULO 537.
-
-Al formular conclusiones el Agente del Ministerio Público o el defensor, si estiman procedente la condena condicional, lo indicarán así para el caso en que el tribunal imponga una pena privativa de libertad que no exceda de dos años.
-
-###### ARTICULO 538.
-
-Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la condena condicional y si no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
-
-El reo que considere que al dictarse sentencia reunía las condiciones fijadas en el artículo 90 del Código Penal para el Distrito y Territorios Federales en materia de Fuero Común, y para toda la República en materia de Fuero Federal, y que está en aptitudes de cumplir los demás requisitos que en el propio precepto se establecen, si es por inadvertencia de su parte o de los Tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda abriendo el incidente respectivo ante el juez de la causa.
-
-###### ARTICULO 539.
-
-Cuando por alguna de las causas que señala el artículo 90 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la condena condicional, el tribunal que concedió éste, procederá, con audiencia del Ministerio Público, y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
-
-### CAPITULO III. Libertad preparatoria
-
-###### ARTICULO 540.
-
-Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad preparatoria, la solicitará del órgano del Poder Ejecutivo que designe la ley a cuyo efecto acompañará los certificados y demás pruebas que tuviere.
-
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
-
-###### ARTICULO 541.
-
-Recibida la solicitud, se pedirán informes acerca de los requisitos a que se refieren las fracciones I y II del artículo 84 del Código Penal, a la autoridad ejecutiva del reclusorio en el que el sentenciado se encuentre compurgando la condena, la cual deberá acompañar además el dictamen que en cada caso emita el Consejo Técnico Interdisciplinario.
-
-Los informes que rinda la autoridad mencionada no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio.
-
-Tratándose de delitos contra la salud en materia de estupefacientes o psicotrópicos, deberán pedirse informes en todo caso a la Procuraduría General de la República.
-
-En vista de estos informes y datos, se resolverá sobre la procedencia de la libertad solicitada y se fijarán las condiciones a que su concesión deba sujetarse.
-
-###### ARTICULO 542.
-
-Cuando se conceda la libertad preparatoria se recibirá una información sobre la solvencia e idoneidad del fiador propuesto y en vista de ella se resolverá si es de admitirse al fiador.
-
-###### ARTICULO 543.
-
-Admitido el fiador se otorgará la fianza en los términos que este Código establece para la libertad bajo caución y se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad preparatoria. Esta concesión se comunicará al jefe de la prisión respectiva, a la autoridad municipal del lugar que se señale para la residencia del mismo reo y al tribunal que haya conocido del proceso.
-
-###### ARTICULO 544.
-
-El salvoconducto a que se refiere el artículo anterior se remitirá al jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndolo subscribir un acta en que conste que recibió dicho salvoconducto y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad preparatoria.
-
-En caso de que al que se le haya concedido la libertad preparatoria obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar adonde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
-
-###### ARTICULO 545.
-
-El reo deberá presentar el salvoconducto, siempre que sea requerido para ello por un Magistrado o Juez Federal o Agente de la Policía Judicial Federal o del Ministerio Público y si se rehusare, se comunicará a la autoridad que le concedió la libertad preparatoria, la que podrá imponerle hasta quince días de arresto, pero sin revocarle dicha libertad.
-
-###### ARTICULO 546.
-
-Cuando el que goce de libertad preparatoria se encuentre en alguno de los casos que menciona el artículo 86 del Código Penal, la autoridad municipal o cualquiera otra que tenga conocimiento de ello dará cuenta a la que le concedió la libertad, para los efectos del mismo artículo.
-
-###### ARTICULO 547.
-
-Cuando el reo cometiere un nuevo delito, el tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad con el artículo 86 del Código Penal.
-
-###### ARTICULO 548.
-
-Cuando se revoque la libertad preparatoria conforme a los dos artículos anteriores, se recogerá e inutilizará el salvo-conducto.
-
-### CAPITULO IV. Retención
-
-###### ARTICULO 549.
-
-Siempre que llegare a conocimiento del órgano del Ejecutivo encargado de la ejecución de las sentencias, cualquiera noticia que pueda motivar que se aplique la retención, procederá a practicar una investigación que deberá concluirse y resolverse antes de que el reo cumpla la condena impuesta.
-
-Los jefes de las prisiones están obligados a comunicar a la autoridad a que se refiere el párrafo anterior, cualquier hecho que pueda dar motivo a que se aplique la retención.
-
-###### ARTICULO 550.
-
-En vista de la investigación practicada, se resolverá si procede o no la retención. En la resolución respectiva se harán constar los motivos que la funden y el tiempo que deba durar, en caso de que se decrete.
-
-###### ARTICULO 551.
-
-Cuando el fallo considere inaplicable la retención, no impedirá que ésta se decrete posteriormente por causas supervenientes, siempre que el reo no haya sido puesto en libertad por haber cumplido su condena.
-
-###### ARTICULO 552.
-
-Las resoluciones sobre la procedencia o improcedencia de la retención se comunicarán al reo, al jefe de la prisión donde cumpla su condena y al tribunal que dictó la sentencia.
-
-### CAPITULO V. Conmutación y reducción de sanciones y cesación de sus efectos
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 553.
-
-El que hubiese sido condenado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones o de aplicación de ley más favorable a que se refiere el Código Penal, podrá solicitar de la autoridad jurisdiccional o del Poder Ejecutivo, en su caso, la conmutación, la reducción de pena o el sobreseimiento que procedan, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
-
-###### ARTICULO 554.
-
-Recibida la solicitud se resolverá sin más trámite lo que fuere procedente.
-
-Dictada la resolución se comunicará al tribunal que haya conocido del proceso y al jefe de la prisión en que se encuentre el reo. El tribunal deberá mandar notificar la resolución al interesado.
-
-###### ARTICULO 555.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-###### ARTICULO 556.
-
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-### CAPITULO VI. Indulto y reconocimiento de la inocencia del sentenciado
-
-###### ARTICULO 557.
-
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1984)
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 558.
-
-El indulto se podrá conceder cuando el solicitante hubiere prestado importantes servicios a la Nación. En este caso, el condenado ocurrirá al Ejecutivo por conducto del órgano que designe la ley, con su instancia y con los justificantes de los servicios prestados.
-
-###### ARTICULO 559.
-
-El Ejecutivo, en vista de los comprobantes, o si así conviniere a la tranquilidad y seguridad públicas tratándose de delitos políticos, concederá el indulto sin condición alguna o con las que estimare convenientes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 560.
-
-El reconocimiento de la inocencia del sentenciado se basa en alguno de los motivos siguientes:
-
-I.- Cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas.
-
-II.- Cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-III.- Cuando condenada alguna persona por homicidio de otra que hubiere desaparecido, se presentare ésta o alguna prueba irrefutable de que vive.
-
-IV.- Cuando dos reos hayan sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido.
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios diversos. En este caso será nula la segunda sentencia, y
-
-VI.- En el segundo caso de los considerados en el artículo 57 del Código Penal.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 561.
-
-El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá a la Suprema Corte de Justicia, por escrito en el que expondrá la causa en que funda su petición, acompañando las pruebas que correspondan o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción III del mismo artículo anterior.
-
-###### ARTICULO 562.
-
-Al hacer su solicitud, el sentenciado podrá nombrar defensor, conforme a las disposiciones conducentes de este Código, para que lo patrocine durante la substanciación del indulto, hasta su resolución definitiva.
-
-###### ARTICULO 563.
-
-Recibida la solicitud se pedirá inmediatamente el proceso o procesos a la oficina en que se encontraren; y cuando conforme al artículo 561 se haya protestado exhibir las pruebas, se señalará un término prudente para recibirlas.
-
-###### ARTICULO 564.
-
-Recibidos el proceso o procesos y, en su caso, las pruebas del promovente, se pasará el asunto al Ministerio Público por el término de cinco días para que pida lo que a su representación convenga.
-
-###### ARTICULO 565.
-
-Devuelto el expediente por el Ministerio Público, se pondrá a la vista del reo y de su defensor por el término de tres días, para que se impongan de él y formulen sus alegatos por escrito.
-
-###### ARTICULO 566.
-
-Transcurrido el término a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los diez días siguientes.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
-
-###### ARTICULO 567.
-
-Si se declara fundada, se remitirá original el expediente al Ejecutivo de la Unión por conducto de la Secretaría de Gobernación, para que, sin más trámite, reconozca la inocencia del sentenciado.
-
-###### ARTICULO 568.
-
-Todas las resoluciones en que se conceda indulto se publicarán en el "Diario Oficial" de la Federación y se comunicarán al tribunal que hubiere dictado la sentencia para que se haga la anotación correspondiente en el proceso.
-
-### CAPITULO VII. Rehabilitación
-
-###### ARTICULO 569.
-
-La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga, la Ley Orgánica del artículo 38 de la Constitución.
-
-###### ARTICULO 570.
-
-La rehabilitación de los derechos civiles o políticos no procederá mientras el reo esté extinguiendo la sanción privativa de libertad.
-
-###### ARTICULO 571.
-
-Si el reo hubiere extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir al tribunal que haya dictado la sentencia irrevocable, solicitando se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo los documentos siguientes:
-
-I.- Un certificado expedido por la autoridad que corresponda, que acredite haber extinguido la pena privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación, o el indulto, en su caso; y
-
-II.- Un certificado de la autoridad municipal del lugar donde hubiere residido desde que comenzó a sufrir la inhabilitación, o la suspensión, y una información recibida por la misma autoridad, con audiencia del Ministerio Público, que demuestre que el promovente ha observado buena conducta continua desde que comenzó a sufrir su pena, y que ha dado pruebas de haber contraído hábitos de orden, trabajo y moralidad.
-
-###### ARTICULO 572.
-
-Si la pena impuesta al reo hubiere sido la de inhabilitación o suspensión por seis o más años, no podrá ser rehabilitado antes de que transcurran tres años, contados desde que hubiere comenzado a extinguirla.
-
-Si la inhabilitación o suspensión fuere por menos de seis años, el reo podrá solicitar su rehabilitación cuando haya extinguido la mitad de la pena.
-
-###### ARTICULO 573.
-
-Recibida la solicitud, el tribunal, a instancia del Ministerio Público o de oficio, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
-
-###### ARTICULO 574.
-
-Recibidas las informaciones, o desde luego si no se estimaren necesarias, el tribunal decidirá dentro de tres días, oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. En el primer caso remitirá las actuaciones originales, con su informe, al Ejecutivo de la Unión, por conducto de la Secretaría de Gobernación, a efecto de que resuelva en definitiva lo que fuere procedente. Si se concediere la rehabilitación se publicará en el "Diario Oficial" de la Federación; si se negare, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo después de un año.
-
-###### ARTICULO 575.
-
-Concedida la rehabilitación por el Ejecutivo, la Secretaría de Gobernación comunicará la resolución al tribunal correspondiente, para que haga la anotación respectiva en el proceso.
-
-###### ARTICULO 576.
-
-Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
-
-## TRANSITORIOS
-
-###### ARTICULO 1o.
-
-Este Código comenzará a regir el día primero de octubre de mil novecientos treinta y cuatro.
-
-###### ARTICULO 2o.
-
-Desde esa fecha queda abrogado el Código Federal de Procedimientos Penales expedido el día dieciséis de diciembre de mil novecientos ocho.
-
-###### ARTICULO 3o.
-
-Todos los asuntos que estén tramitándose al comenzar a regir este Código, se sujetarán a sus disposiciones.
-
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
-###### ARTICULO 4o.
-
-Los recursos interpuestos antes de la vigencia de éste Código y que no se hubieren admitido o desechado aún, se admitirán siempre que en este mismo Código o en el anterior fueren procedentes, y se substanciarán conforme a lo determinado en el presente, excepto los de apelación que se tramitarán de acuerdo con las disposiciones del Código anterior.
-
-###### ARTICULO 5o.
-
-Los términos que estén corriendo al comenzar a regir este Código, se computarán conforme a las disposiciones del mismo o del anterior, aplicándose las que señalen mayor tiempo.
-
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente Código, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintitrés días de mes de agosto de mil novecientos treinta y cuatro.- A. L. Rodríguez.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica"
-
-Lo que comunico a usted para su publicación y demás fines.
-
-Sufragio Efectivo. No Reelección.
-
-México, D. F., a 28 de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
-
-Al C...
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-D.O.F. 9 DE ENERO DE 1954.
-
-###### ARTICULO PRIMERO.
-
-Este decreto surtirá sus efectos un mes después de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Las audiencias en los procesos del orden federal que se celebren dentro de la vigencia de esta ley, se sujetarán a lo que se dispone en los preceptos que se reforman.
-
-D.O.F. 13 DE ENERO DE 1965.
-
-UNICO.- Este decreto entrará en vigor dentro de los tres días siguientes de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 21 DE DICIEMBRE DE 1968.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 29 DE JULIO DE 1970.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 19 DE MARZO DE 1971.
-
-###### ARTICULO UNICO.
-
-La presente reforma entrará en vigor simultáneamente a la reforma del artículo 90 del Código Penal, ya aprobada por el H. Congreso de la Unión.
-
-D.O.F. 31 DE DICIEMBRE DE 1974.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones legales que se opongan a las presentes rformas (sic).
-
-###### ARTICULO CUARTO.
-
-Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
-
-D.O.F. 31 DE DICIEMBRE DE 1976.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE DICIEMBRE DE 1978.
-
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE ENERO DE 1981.
-
-UNICO.- Este decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 27 DE DICIEMBRE DE 1983.
-
-PRIMERO.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los individuos que se encuentren sujetos a proceso al momento de entrar en vigor este Decreto, podrán optar por acogerse a las disposiciones en él contenidas, o continuar sometidos a las que se modifican.
-
-D.O.F. 24 DE DICIEMBRE DE 1984.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE ENERO DE 1986.
-
-###### ARTICULO UNICO.
-
-Las presentes reformas entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE NOVIEMBRE DE 1986.
-
-DECRETO QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 181 DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES.
-
-###### ARTICULO UNICO.
-
-Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE NOVIEMBRE DE 1986.
-
-DECRETO QUE REFORMA AL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES (ARTICULOS 1, 4, 5, 6, 10, 17, ETC.).
-
-###### ARTICULO UNICO.
-
-Las presentes reformas entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO 42.
-
-Son correcciones disciplinarias:
-
-I.- Apercibimiento;
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-II.- Multa por el equivalente a entre uno y quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingreso;
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-III.- Arresto hasta de treinta y seis horas, y
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-IV.- Suspensión.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-La suspensión sólo se podrá aplicar a servidores públicos, con la duración prevista por la Ley Federal de Responsabilidades de los Servidores Públicos.
-
-###### ARTICULO 43.
-
-Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, si lo solicita dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
-
-En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-###### ARTICULO 44.
-
-El Ministerio Público en la averiguación previa, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-I.- Multa por el equivalente a entre uno y treinta días de salario mínimo, vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingreso;
-
-II.- Auxilio de la fuerza pública; y
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-III.- Arresto hasta de treinta y seis horas.
+NOVENO.- El Titular de la Unidad de Asuntos Jurídicos, será el facultado para emitir los pliegos definitivos de responsabilidades y de fincar las sanciones resarcitorias a que se refería el Capítulo III del Título Cuarto de la Ley de Fiscalización Superior del Estado de Chiapas actualmente abrogada, que deriven de la revisión y fiscalización superior de las cuentas públicas del Estado y Municipios del ejercicio 2016 y anteriores.
