@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-auditoria-superior-del-estado-de-7655
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-14"
-last_updated: "2016-06-01"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de julio de 2010.
 
@@ -1484,3 +1486,25 @@ Primero.- A la entrada en vigor del presente Acuerdo, los recursos humanos, mate
 Segundo.- Los asuntos pendientes y en trámite que a la entrada en vigor del presente Acuerdo, estaban a cargo de la Coordinación de Políticas Públicas y Objetivos de Desarrollo del Milenio, serán tramitados y concluidos por la Dirección de Auditoría de Desempeño.
 
 Tercero.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. No. 2195-A-2018 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Chiapas, publicado en el Periódico Oficial del Estado Número 243, de fecha 14 de julio de 2010, sus reformas, acuerdos y todas aquellas disposiciones que se opongan o contravengan al presente Reglamento, conforme a lo dispuesto en los artículos transitorios subsecuentes.
+
+TERCERO.- Las unidades y órganos administrativos de la Auditoría Superior del Estado darán seguimiento hasta su conclusión a las auditorías, acciones y demás asuntos de su competencia relativos a las cuentas públicas del Estado y Municipios correspondientes al ejercicio 2016 y anteriores, conforme a lo establecido en el artículo Tercero Transitorio del Decreto por el que se expide la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, y por tanto podrán fundamentar sus actuaciones tanto en el presente Reglamento Interior como en el Reglamento Interior que se abroga.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización, los continuará la Dirección de Seguimiento de Resultados, adscrita a la Auditoría Especial de Planeación e Informes, de conformidad con la competencia y facultades que le confiere el presente Reglamento.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Contraloría Interna, los continuará el Órgano Interno de Control, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por el Área de Sistemas, serán atendidos y concluidos por la Coordinación de Desarrollo Tecnológico, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Unidad de Planeación Estratégica y Desarrollo Institucional, serán atendidos y concluidos por la Coordinación de Desarrollo Institucional, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+OCTAVO.- Las Subdirecciones de Substanciación “A” y “B” adscritas a la Unidad de Asuntos Jurídicos, con independencia de las atribuciones conferidas en el presente Reglamento, serán las encargadas de substanciar los procedimientos de fincamiento de responsabilidades y sanciones resarcitorias que deriven de la revisión y fiscalización superior de las cuentas públicas del Estado y Municipios del ejercicio 2016 y anteriores, conforme a las atribuciones que tenían conferidas las Subdirecciones de Responsabilidades “A” y “B” en el Reglamento que se abroga.
+
+NOVENO.- El Titular de la Unidad de Asuntos Jurídicos, será el facultado para emitir los pliegos definitivos de responsabilidades y de fincar las sanciones resarcitorias a que se refería el Capítulo III del Título Cuarto de la Ley de Fiscalización Superior del Estado de Chiapas actualmente abrogada, que deriven de la revisión y fiscalización superior de las cuentas públicas del Estado y Municipios del ejercicio 2016 y anteriores.
