@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-funcion-publica-del-937
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FUNCION PUBLICA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento 6 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -179,7 +181,7 @@ III. Resolver los recursos administrativos que de acuerdo a la normatividad vige
 
 IV. Sustanciar los procedimientos de responsabilidad administrativa con motivo de quejas o denuncias, o bien derivado de los resultados obtenidos de los procesos de auditoría o fiscalización; e
 
-V. Intervenir en los procesos de licitación pública que celebre el Gobierno del Estado; (sic)
+V. Intervenir en los procesos de licitación pública que celebre el Gobierno del Estado;
 
 ###### Artículo 8.
 
@@ -796,3 +798,21 @@ FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 
 GUILLERMO HUIZAR CARRANZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+Artículo Primero. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de la Función Pública, publicado el 27 de marzo de 2013 en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Tercero. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las áreas administrativas de la Secretaría de la Función Pública que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las áreas administrativas que resulten competentes conforme al mismo.
+
+Artículo Cuarto. Los asuntos en trámite que son atendidos por áreas administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las áreas administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+Artículo Quinto. Los Manuales de Organización y de Procedimientos de la Secretaría de la Función Pública, deberán publicarse en un término que no exceda de 90 días naturales contados a partir de la entrada en vigor del presente Reglamento.
+
+Artículo Sexto. Se abroga el acuerdo delegatorio de Facultades y Atribuciones en favor del Titular del Departamento (sic) Quejas y Denuncias de la Secretaría de la Función Pública, publicado en el Periódico Oficial de Gobierno del Estado el 14 de octubre de 2017.
