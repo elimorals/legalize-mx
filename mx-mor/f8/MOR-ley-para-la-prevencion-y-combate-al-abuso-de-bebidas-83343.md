@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-combate-al-abuso-de-bebidas-83343"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2017-03-08"
+last_updated: "2018-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY PARA LA PREVENCION Y COMBATE AL ABUSO DE BEBIDAS ALCOHOLICAS Y DE REGULACION PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -101,109 +103,127 @@ V. Bebida contaminada: Bebida alcohólica cuyo contenido o materia prima conteng
 
 VI. Bebida preparada: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras;
 
-VII. Clasificación: Denominación que se asigna a cada uno de los establecimientos a que alude esta Ley, de acuerdo a su modalidad o giro;
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2018)</small>
 
-VIII. Cervecerías: Establecimientos en los que sólo se vende cerveza para consumo inmediato dentro de los mismos o para llevar;
+VII. Bebidas energéticas o hipertónicas: Compuestas principalmente por cafeína, varias vitaminas, carbohidratos y otras sustancias naturales orgánicas como la taurina que elimina la sensación de agotamiento;
 
-IX. Control sanitario: Conjunto de acciones administrativas o normativas que tengan por objeto hacer efectivo el objeto de la presente ley, ya sea para orientar y educar a la población, como las que tienen que ver el, (sic) muestreo, verificación, y en su caso, la aplicación de medidas de seguridad y sanción que sean convenientes para asegurar la salud y combatir e inhibir el consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-X. Depósitos: Establecimientos comerciales dedicados a la venta de cerveza en envase cerrado o por caja, para llevar;
+VIII. Clasificación: Denominación que se asigna a cada uno de los establecimientos a que alude esta Ley, de acuerdo con su modalidad o giro;
 
-XI. Destilerías: Establecimientos donde se produzcan, elaboren, mezclen, envasen y almacenen bebidas alcohólicas;
+IX. Cervecerías: Establecimientos en los que sólo se vende cerveza para consumo inmediato dentro de los mismos o para llevar;
 
-XII. Establecimiento: La construcción que define a la zona de servicio o local habilitado y acondicionado para realizar los actos de comercio con fines de especulación comercial por la venta principal o accesoria de bebidas alcohólicas; que reúne las características que lo hace susceptible para que las personas reciban la autorización para operarlos, siempre y cuando reúnan previamente los requisitos establecidos en la presente Ley y sus normas reglamentarias;
+X. Control sanitario: Conjunto de acciones administrativas o normativas que tengan por objeto hacer efectivo el objeto de la presente ley, ya sea para orientar y educar a la población, como las que tienen que ver el, muestreo, verificación, y en su caso, la aplicación de medidas de seguridad y sanción que sean convenientes para asegurar la salud y combatir e inhibir el consumo de bebidas alcohólicas;
 
-XIII. Establecimiento comercial específico: Aquellos que se dedican de forma única y exclusiva a la venta y consumo de bebidas alcohólicas;
+XI. Depósitos: Establecimientos comerciales dedicados a la venta de cerveza en envase cerrado o por caja, para llevar;
 
-XIV. Establecimientos no específicos: Aquellos establecimientos en los cuales se realiza de forma accesoria la venta y consumo de bebidas alcohólicas;
+XII. Destilerías: Establecimientos donde se produzcan, elaboren, mezclen, envasen y almacenen bebidas alcohólicas;
 
-XV. Establecimientos para venta sin consumo: Aquellos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-XVI. Establecimientos eventuales: Aquellos donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas;
+XIII. Establecimiento: La construcción que define a la zona de servicio o local habilitado y acondicionado para realizar los actos de comercio con fines de especulación comercial por la venta principal o accesoria de bebidas alcohólicas, que reúne las características que lo hace susceptible para que las personas reciban la autorización para operarlos, siempre y cuando reúnan previamente los requisitos establecidos en la presente Ley y sus normas reglamentarias;
 
-> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+XIV. Establecimiento comercial específico: Aquellos que se dedican de forma única y exclusiva a la venta y consumo de bebidas alcohólicas;
 
-XVII.- Establecimientos de giro rojo con espectáculo: Aquellos que además de venta de alcohol, específicos o no, ofrezcan espectáculos en vivo de exhibición erótico sexual;
+XV. Establecimientos no específicos: Aquellos establecimientos en los cuales se realiza de forma accesoria la venta y consumo de bebidas alcohólicas;
 
-> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+XVI. Establecimientos para venta sin consumo: Aquellos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas;
 
-XVIII.- Estado de ebriedad: Condición física y mental ocasionada por la ingesta inmoderada de alcohol, que se presenta en una persona cuando su organismo contiene un nivel igual o superior de 0.5 gramos de alcohol por litro de sangre o de 0.25 miligramos de alcohol por litro de aire espirado;
-
-XIX. Evento privado: Reunión de personas en lugar privado o comercial, de carácter ocasional, organizado de forma particular para llevar a cabo fiestas, luz y sonido, espectáculos musicales o de cualquier tipo, en los que se comercialice la venta de alcohol, ya sea que esté incluida en el precio de acceso o no, y que tenga por objeto la reunión comercial de los asistentes.
-
-XX. Giro: Modalidad, condición, denominación y características de la autorización específica a un particular para realizar las actividades sociales, comerciales o de cualquier tipo relacionadas con la producción, distribución o venta de bebidas alcohólicas, sean temporales o permanentes;
-
-XXI. Instancia municipal: La autoridad administrativa por cada Ayuntamiento de la entidad, autorizada y facultada por el Cabildo para vigilar la observancia de la presente Ley y su reglamento;
-
-XXII. Ley: Ley de Prevención y Combate al abuso de bebidas alcohólicas y de regulación para su venta y consumo en el Estado de Morelos.
-
-XXIII. Ley de Salud: Ley de Salud del Estado de Morelos.
-
-XXIV. Licencia: La autorización, expresa y por escrito expedida por la autoridad competente, para que una persona física o moral, pueda realizar actividades sociales, comerciales o de cualquier tipo, relacionadas con la producción, distribución, o venta de bebidas alcohólicas, de carácter permanente, renovable cada año;
-
-XXV. Licorerías o vinaterías: Establecimientos comerciales fijos dedicados preponderantemente a la venta de bebidas alcohólicas en envase cerrado o por caja, para llevar;
-
-XXVI. Modalidad: Es la forma en que se venden o suministran las bebidas alcohólicas; las que pueden ser para consumo inmediato o en envase cerrado para llevar;
-
-XXVII. Minisúper o tienda de conveniencia: Establecimientos comerciales que venden alimentos varios, latería y enseres menores, en los que el sistema de venta al público es de autoservicio, y de manera accesoria cuenten con la venta de bebidas alcohólicas en envase cerrado, para llevar;
-
-XXVIII. Órgano consultivo: El órgano colegiado de carácter estatal establecido conforme a las directrices de esta Ley;
-
-XXIX. Otros: Instalaciones de servicio al público en los que se sirvan bebidas alcohólicas para su consumo inmediato, tales como salones de fiesta; centros de convenciones que se rentan para eventos sociales; estadios; arenas de box y lucha libre; plazas de toros; lienzos charros; carriles para carreras de caballos; palenques móviles; y lugares donde se desarrollan espectáculos deportivos, artísticos y ferias estatales, regionales o municipales.
-
-XXX. Permiso: El acto jurídico administrativo proveniente de la autoridad competente, por el que por escrito se faculta a una persona de derecho-individual o física o de derecho-colectivo o moral a realizar actos de comercio con el propósito de especulación comercial para la venta, almacenaje para su distribución o venta para su consumo directo de bebidas con graduación alcohólica; de carácter temporal, específico, no renovable;
-
-XXXI. Permisionario: Las personas jurídico-individuales o físicas y jurídico-colectivas o morales que ostenten la titularidad de una licencia o permiso para la venta, almacenaje para su distribución o venta para su consumo directo de bebidas con graduación alcohólica;
-
-XXXII. Prevención: Conjunto de acciones y medidas dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas y destinadas a generar conciencia en los daños colaterales que su consumo implica en las relaciones sociales;
-
-> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
-
-XXXIII.- Programas: Instrumentos legales mediante los que el Ejecutivo del Estado y los Municipios, proveen en su esfera administrativa, la exacta observancia de esta y otras leyes, en los que se establece el conjunto de acciones a implementarse en el ámbito de sus respectivas competencias y, en su caso, con la colaboración y participación de las autoridades federales, con el objeto de controlar, combatir, tratar y prevenir el consumo y venta de bebidas alcohólicas;
-
-> <small>(ADICIONADA, P. O. 22 DE ABRIL DE 2015)</small>
-
-XXXIV.- Prueba de Alcoholimetría: Toma de una muestra del aire espirado en dos etapas, resultante del proceso respiratorio de un individuo, en busca de la presencia y concentración de alcohol en el organismo, lo anterior con un equipo técnico de medición en aire espirado denominado alcoholímetro, pudiendo arrojarse un resultado cualitativo o cuantitativo, dependiendo el tipo de prueba practicado, siendo la primera etapa de la prueba la que determina la presencia o no de alcohol en el organismo y la segunda la concentración de alcohol en el sujeto al que se aplica;
-
-XXXV.- Pulquerías: Establecimientos comerciales fijos en los que se expende pulque al público para su consumo inmediato;
+XVII. Establecimientos eventuales: Aquellos donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXVI. Registro Público: El registro público de licencias y permisos a que se refiere esta Ley, el cual deberá ser público y accesible para cualquier persona que desee consultarlo;
-
-XXXVII.- Reglamento: El orden normativo que cada ayuntamiento expida con objeto de complementar los• preceptos de esta ley, en sus respectivos ámbitos de aplicación territorial;
+XVIII. Establecimientos de giro rojo con espectáculo: Aquellos que además de venta de alcohol, específicos o no, ofrezcan espectáculos en vivo de exhibición erótico sexual;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXVIII.- Reincidencia: Cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción;
+XIX. Estado de ebriedad: Condición física y mental ocasionada por la ingesta inmoderada de alcohol, que se presenta en una persona cuando su organismo contiene un nivel igual o superior de 0.5 gramos de alcohol por litro de sangre o de 0.25 miligramos de alcohol por litro de aire espirado;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+XX. Evento privado: Reunión de personas en lugar privado o comercial, de carácter ocasional, organizado de forma particular para llevar a cabo fiestas, luz y sonido, espectáculos musicales o de cualquier tipo, en los que se comercialice la venta de alcohol, ya sea que esté incluida en el precio de acceso o no, y que tenga por objeto la reunión comercial de los asistentes;
+
+XXI. Giro: Modalidad, condición, denominación y características de la autorización específica a un particular para realizar las actividades sociales, comerciales o de cualquier tipo relacionadas con la producción, distribución o venta de bebidas alcohólicas, sean temporales o permanentes;
+
+XXII. Instancia municipal: La autoridad administrativa por cada Ayuntamiento de la entidad, autorizada y facultada por el Cabildo para vigilar la observancia de la presente Ley y su reglamento;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+XXIII. Ley: Ley de Prevención y Combate al abuso de bebidas alcohólicas y de regulación para su venta y consumo en el Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+XXIV. Ley de Salud: Ley de Salud del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+XXV. Licencia: La autorización, expresa y por escrito expedida por la autoridad competente, para que una persona física o moral, pueda realizar actividades sociales, comerciales o de cualquier tipo, relacionadas con la producción, distribución o venta de bebidas alcohólicas, de carácter permanente, renovable cada año;
+
+XXVI. Licorerías o vinaterías: Establecimientos comerciales fijos dedicados preponderantemente a la venta de bebidas alcohólicas en envase cerrado o por caja, para llevar;
+
+XXVII. Modalidad: Es la forma en que se venden o suministran las bebidas alcohólicas; las que pueden ser para consumo inmediato o en envase cerrado para llevar;
+
+XXVIII. Minisúper o tienda de conveniencia: Establecimientos comerciales que venden alimentos varios, latería y enseres menores, en los que el sistema de venta al público es de autoservicio, y de manera accesoria cuenten con la venta de bebidas alcohólicas en envase cerrado, para llevar;
+
+XXIX. Órgano consultivo: El órgano colegiado de carácter estatal establecido conforme a las directrices de esta Ley;
+
+XXX. Otros: Instalaciones de servicio al público en los que se sirvan bebidas alcohólicas para su consumo inmediato, tales como salones de fiesta; centros de convenciones que se rentan para eventos sociales; estadios; arenas de box y lucha libre; plazas de toros; lienzos charros; carriles para carreras de caballos; palenques móviles; y lugares donde se desarrollan espectáculos deportivos, artísticos y ferias estatales, regionales o municipales;
+
+XXXI. Permiso: El acto jurídico administrativo proveniente de la autoridad competente, por el que por escrito se faculta a una persona de derecho-individual o física o de derecho-colectivo o moral, a realizar actos de comercio con el propósito de especulación comercial para la venta, almacenaje para su distribución o venta para su consumo directo de bebidas con graduación alcohólica; de carácter temporal, específico, no renovable;
+
+XXXII. Permisionario: Las personas jurídico-individuales o físicas y jurídico-colectivas o morales que ostenten la titularidad de una licencia o permiso para la venta, almacenaje para su distribución o venta para su consumo directo de bebidas con graduación alcohólica;
+
+XXXIII. Prevención: Conjunto de acciones y medidas dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas y destinadas a generar conciencia en los daños colaterales que su consumo implica en las relaciones sociales;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XXXIX.- Salud pública: El conjunto de acciones interinstitucionales, que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar, prolongar la vida humana, y en general establecer las condiciones necesarias para establecer relaciones sociales adecuadas y ajenas a los efectos nocivos del consumo de alcohol;
+XXXIV. Programas: Instrumentos legales mediante los que el Ejecutivo del Estado y los Municipios, proveen en su esfera administrativa, la exacta observancia de esta y otras leyes, en los que se establece el conjunto de acciones a implementarse en el ámbito de sus respectivas competencias y, en su caso, con la colaboración y participación de las autoridades federales, con el objeto de controlar, combatir, tratar y prevenir el consumo y venta de bebidas alcohólicas;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XL.- Secretaría: Secretaría de Salud del Poder Ejecutivo del Estado de Morelos;
+XXXV. Prueba de Alcoholimetría: Toma de una muestra del aire espirado en dos etapas, resultante del proceso respiratorio de un individuo, en busca de la presencia y concentración de alcohol en el organismo, lo anterior con un equipo técnico de medición en aire espirado denominado alcoholímetro, pudiendo arrojarse un resultado cualitativo o cuantitativo, dependiendo el tipo de prueba practicado, siendo la primera etapa de la prueba la que determina la presencia o no de alcohol en el organismo y la segunda la concentración de alcohol en el sujeto al que se aplica;
+
+XXXVI. Pulquerías: Establecimientos comerciales fijos en los que se expende pulque al público para su consumo inmediato;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XLI.- Servicios adyacentes: Las actividades de diversión, entretenimiento, espectáculos o servicios complementarlos que se presenten o realicen en los establecimientos o giros autorizados para llevar a cabo las actividades reguladas por esta Ley, en las modalidades que se consignen en cada uno de los Reglamentos Municipales y que podrán explotar temporal o permanentemente los permisionarios;
+XXXVII. Registro Público: El registro público de licencias y permisos a que se refiere esta Ley, el cual deberá ser público y accesible para cualquier persona que desee consultarlo;
 
-XLII.- Tratamiento: Conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas;
-
-> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
-
-XLIII.- Venta: La comercialización de bebidas alcohólicas en envase cerrado, que ofertan y promueven los establecimientos o giros autorizados con un propósito de especulación comercial, con sujeción a las medidas y restricciones establecidas en esta Ley y los Reglamentos de cada una de las municipalidades del estado de Morelos;
+XXXVIII. Reglamento: El orden normativo que cada ayuntamiento expida con objeto de complementar los preceptos de esta Ley, en sus respectivos ámbitos de aplicación territorial;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XLIV.- Venta para el consumo directo: La comercialización de bebidas alcohólicas en envase abierto para consumo directo en los establecimientos o giros autorizados para tal efecto, con sujeción a las medidas y restricciones de esta Ley y cada Reglamento Municipal;
+XXXIX. Reincidencia: Cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción;
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
-XLV. Zona de servicio: El área o local consignado a la clientela para la compra de bebidas alcohólicas, ya sea sólo para su venta o para el consumo acompañado de los servicios adyacentes de cada establecimiento; y
+XL. Salud pública: El conjunto de acciones interinstitucionales, que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar, prolongar la vida humana, y en general establecer las condiciones necesarias para establecer relaciones sociales adecuadas y ajenas a los efectos nocivos del consumo de alcohol;
 
-XLVI.- Zona turística: El territorio en el que el turismo es la actividad económica preferente donde se ofertan diversos productos turísticos, aunque predomine un tipo de producto concreto; integra diferentes destinos turísticos y se manifiesta como un conglomerado de agrupaciones de empresas o entidades turísticas de carácter empresarial, territorial o institucional.
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLI. Secretaría: Secretaría de Salud del Poder Ejecutivo del Estado de Morelos;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLII. Servicios adyacentes: Las actividades de diversión, entretenimiento, espectáculos o servicios complementarios que se presenten o realicen en los establecimientos o giros autorizados para llevar a cabo las actividades reguladas por esta Ley, en las modalidades que se consignen en cada uno de los Reglamentos Municipales y que podrán explotar temporal o permanentemente los permisionarios;
+
+XLIII. Tratamiento: Conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLIV. Venta: La comercialización de bebidas alcohólicas en envase cerrado, que ofertan y promueven los establecimientos o giros autorizados con un propósito de especulación comercial, con sujeción a las medidas y restricciones establecidas en esta Ley y los Reglamentos de cada una de las municipalidades del estado de Morelos;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLV. Venta para el consumo directo: La comercialización de bebidas alcohólicas en envase abierto para consumo directo en los establecimientos o giros autorizados para tal efecto, con sujeción a las medidas y restricciones de esta Ley y cada Reglamento Municipal;
+
+> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+
+XLVI. Zona de servicio: El área o local consignado a la clientela para la compra de bebidas alcohólicas, ya sea sólo para su venta o para el consumo acompañado de los servicios adyacentes de cada establecimiento, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2018)</small>
+
+XLVII. Zona turística: El territorio en el que el turismo es la actividad económica preferente donde se ofertan diversos productos turísticos, aunque predomine un tipo de producto concreto; integra diferentes destinos turísticos y se manifiesta como un conglomerado de agrupaciones de empresas o entidades turísticas de carácter empresarial, territorial o institucional.
 
 ###### Artículo 6.
 
@@ -311,19 +331,33 @@ A las autoridades estatales y municipales en el ámbito de sus respectivas compe
 
 I. Desarrollar estrategias y programas preventivos que permitan combatir el consumo de alcohol, incluyendo aquellos que deriven de la conducción de vehículos automotores en estado de ebriedad, implementando las medidas y acciones que consideren necesarias y oportunas para reducir y prevenir la comisión de faltas administrativas y delitos;
 
-> <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-II. Instruir y promover, en coordinación con las autoridades competentes, la implementación en el Sistema Educativo de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales;
+II. Ordenar la suspensión de actividades en fechas y horas determinadas, con el objeto de prevenir la alteración del orden, la salud pública, la moralidad y la seguridad pública, dicha suspensión deberá estar fundada, motivada y difundida en el Periódico Oficial, y en los medios de comunicación; la infracción a esta disposición será sancionada por la autoridad correspondiente;
 
-III. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-IV. Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de lograr el cumplimiento de esta Ley,
+III. Instruir y promover, en coordinación con las autoridades competentes, la implementación en el Sistema Educativo de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales;
 
-V. Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presente problemas de consumo abusivo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-VI. Apoyar a centros de prevención y organizaciones no gubernamentales que promuevan ante la sociedad campañas continuas para reducir el consumo de alcohol, o brinden tratamiento a las personas que así lo requieran;
+IV. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol;
 
-VII. Las demás que señalen otras disposiciones de carácter general.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+V. Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de lograr el cumplimiento de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+VI. Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presenté problemas de consumo abusivo de bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+VII. Apoyar a centros de prevención y organizaciones no gubernamentales que promuevan ante la sociedad campañas continuas para reducir el consumo de alcohol, o brinden tratamiento a las personas que así lo requieran, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2018)</small>
+
+VIII. Las demás que señalen otras disposiciones de carácter general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P. O. 22 DE ABRIL DE 2015)</small>
 
@@ -331,7 +365,7 @@ VII. Las demás que señalen otras disposiciones de carácter general.
 
 Corresponde al Poder Ejecutivo Estatal a través de sus Secretarias, Dependencias y Entidades competentes:
 
-I.- Ordenar la suspensión de actividades en fechas y horas determinadas, con el objeto de prevenir la alteración del orden, la salud pública, la moralidad y la seguridad pública, dicha suspensión deberá estar fundada, motivada y difundida en el periódico oficial, y en los medios de comunicación; la infracción a esta disposición será sancionada por el Ejecutivo del Estado a través de la dependencia correspondiente.
+I.- (DEROGADA, P.O. 31 DE ENERO DE 2018)
 
 > <small>(REFORMADA, P. O. 22 DE ABRIL DE 2015)</small>
 
@@ -609,9 +643,17 @@ III. Por razones de interés público;
 
 IV. Por no iniciar operaciones en un plazo de ciento ochenta días, una vez que el titular recibió la licencia o el permiso provisional respectivo;
 
-V. Por no ajustarse a las condiciones, restricciones o modalidades autorizadas, y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
 
-VI. Por las demás causas expresamente establecidas en los ordenamientos estatales o municipales
+V. Por vender Bebidas Alcohólicas mezcladas y/o preparadas con cualquier tipo de bebida energética o hipertónica;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2018)</small>
+
+VI. Por no ajustarse a las condiciones, restricciones o modalidades autorizadas, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2018)</small>
+
+VII. Por las demás causas expresamente establecidas en los ordenamientos estatales o municipales.
 
 ### CAPÍTULO VIII. FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS Y GIROS
 
@@ -689,9 +731,11 @@ En aquellas zonas declaradas por los planes municipales de desarrollo urbano, co
 
 Las licencias o permisos que se otorguen en términos de la presente ley, sólo podrán dar los servicios de venta, expendio o consumo de bebidas alcohólicas, hasta las 3 a.m. Sólo los establecimientos de venta cerrada de bebidas y que no sea para su consumo inmediato, podrán realizar sus actividades a partir de las 9 a.m. Tratándose de venta de bebidas para su consumo inmediato, el horario autorizado no deberá iniciar antes de la 12 p.m.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2018)</small>
+
 ###### Artículo 61.
 
-El Poder Ejecutivo por razones extraordinarias podrá determinar la suspensión temporal de la venta de bebidas alcohólicas, mediante la publicación en el Periódico Oficial y en medios de comunicación, del acuerdo administrativo correspondiente debidamente fundado y motivado.
+El Poder Ejecutivo y las Autoridades Municipales, dentro del ámbito de sus respectivas competencias y por razones extraordinarias podrán determinar la suspensión temporal de la venta de bebidas alcohólicas, mediante la publicación en el Periódico Oficial y en medios de comunicación, del acuerdo administrativo correspondiente, debidamente fundado y motivado, la infracción a esta disposición será a través de las dependencias correspondientes y sancionada conforme a lo que establece el artículo 95 fracción X, de esta ley.
 
 ###### Artículo 62.
 
@@ -1274,3 +1318,13 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS NOVENTA Y TRES POR EL QUE SE ADICIONAN, MODIFICAN Y DEROGA DIVERSAS DISPOSICIONES A LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Los ayuntamientos de la entidad tendrán un plazo de tres meses, contados a partir del día siguiente de la entrada en vigor de esta Ley, para adecuar sus bandos de policía y buen gobierno y expedir los reglamentos que complementen las disposiciones de la misma.
