@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-de-servicios-de-salud-de-9498
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-20"
-last_updated: "2013-06-20"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL "INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR", PUBLICADO EN EL B.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL "INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2013.
 
@@ -344,7 +346,7 @@ IX. Discutir y aprobar, en su caso, los proyectos de inversión que se propongan
 
 X. Examinar, discutir y aprobar, en su caso, los planes de trabajo que se propongan, así como los informes del ejercicio presupuestal y estados financieros que se presenten a su consideración;
 
-XI. Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el Instituto con terceros; y (sic)
+XI. Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el Instituto con terceros; y
 
 XII. Aprobar la creación de nuevas unidades de investigación, capacitación y servicio; y
 
@@ -954,7 +956,7 @@ Las Unidades Administrativas denominadas Jurisdicciones Sanitarias, Hospitales y
 
 ###### Artículo 36°.
 
-Las Unidades Administrativas del Instituto, así como sus titulares tendrán las atribuciones y facultades que este Reglamento les confiera; Asimismo desempeñarán las funciones asignadas en su manual de organización específico y demás instrumentos administrativos que regirán y orientarán toda actuación; (sic)
+Las Unidades Administrativas del Instituto, así como sus titulares tendrán las atribuciones y facultades que este Reglamento les confiera; Asimismo desempeñarán las funciones asignadas en su manual de organización específico y demás instrumentos administrativos que regirán y orientarán toda actuación;
 
 ###### Artículo 37°.
 
@@ -1058,7 +1060,7 @@ XXII. Ejercer el control de las cuotas de recuperación que recauden en apego a 
 
 XXIII. Elaborar, actualizar y presentar para aprobación al Director General del Instituto, los manuales de organización y procedimientos de la unidad;
 
-XXIV. Las demás que señalen otras disposiciones legales o le confiera el Director General: (sic)
+XXIV. Las demás que señalen otras disposiciones legales o le confiera el Director General:
 
 ###### Artículo 39°.
 
@@ -1223,3 +1225,25 @@ Director General del Instituto de Servicios de Salud y Secretario Técnico de la
 Lic. Maritza Muñoz Vargas
 
 Contralora General del Estado y Comisaria de la Junta de Gobierno del ISSBCS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DE BAJA CALIFORNIA SUR”.]
+
+Primero: El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Segundo: Una vez publicado el presente Reglamento, se abrogará el Reglamento Interior del ISSBCS, publicado en el Boletín Oficial del Gobierno del Estado No. 27 de fecha veinte de junio de 2013.
+
+Tercero: Se abroga el Reglamento interior de la Administración de la Beneficencia Pública del Estado, publicado en el Boletín Oficial del Gobierno del Estado, numero 54 de fecha 20 de noviembre del 2001; así como las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+Las menciones en otras disposiciones normativas que atribuyan a la Beneficencia Pública el ejercicio de un derecho o una atribución u obligación, deberán entenderse que serán realizadas por conducto del ISSBCS conforme a las disposiciones del presente reglamento.
+
+Cuarto: El Manual de Organización del ISSBCS deberá ser expedido en un término no mayor de 90 días hábiles, contados de la entrada en vigor del presente Reglamento y tendrá vigencia de hasta dos años.
+
+Quinto: Las Unidades Administrativas deberán elaborar su propio manual de organización, será validado por su inmediato superior y ser expedido en un término de 120 días hábiles, contados de la entrada en vigor del presente Reglamento y tendrán vigencia de hasta dos años.
+
+Sexto: En tanto se expiden los manuales de organización y de procedimientos correspondientes, el Director General, queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
+
+Séptimo: La Junta de Gobierno será la facultada para solicitar modificaciones o la actualización del presente Reglamento.
