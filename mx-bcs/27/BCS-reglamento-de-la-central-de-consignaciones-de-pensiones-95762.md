@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-central-de-consignaciones-de-pensiones-95762"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-27"
-last_updated: "2013-08-27"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO DE LA CENTRAL DE CONSIGNACIONES DE PENSIONES ALIMENTICIAS DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PÚBLICADO EN EL B.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA CENTRAL DE CONSIGNACIONES DE PENSIONES ALIMENTICIAS DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 27 de agosto de 2013.
 
@@ -504,3 +506,21 @@ LA C. SECRETARIA GENERAL DE ACUERDOS
 DEL PLENO Y DE LA PRESIDENCIA.
 
 LIC. MARTHA ELENA CERVANTES LEAÑOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones del Reglamento de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado Número 39, el día 11 de octubre de 1996, que se opongan al presente reglamento, expresamente, las contenidas en los Títulos Primero, Quinto y Sexto.
+
+Artículo Tercero.- Se Abroga el Reglamento de los Centros de Convivencia Familiar del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 23 el día 31 de mayo del año 2014.
+
+Artículo Cuarto.- Se Abroga el Reglamento de la Central de Consignaciones de Pensiones Alimenticias del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 40 del 27 de agosto del año 2013.
+
+Artículo Quinto.- El sistema de identificación de huella digital a que se hace referencia en la sección relativa a la Central de Consignaciones de Pensiones Alimentarias, entrará en funcionamiento a más tardar el día 15 de Febrero del 2018.
+
+Artículo Sexto.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
