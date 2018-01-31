@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2017-09-27"
+last_updated: "2018-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -2618,3 +2620,23 @@ Artículo Tercero.- Los Servidores Públicos Municipales que requieran contar co
 En el caso de que el mecanismo de certificación en la materia no se encuentre vigente, el servidor público que corresponda contará con un plazo de un año para obtener la certificación a partir de la publicación del estándar de competencia laboral en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Los funcionarios públicos que ocupen cargos dentro de las estructuras municipales que brindan servicios públicos que no se encuentren contemplados dentro de la Ley Orgánica Municipal, pero se encuentren dentro de los manuales de organización aprobados por los cabildos municipales, deberán cumplir con las certificaciones correspondientes de acuerdo a sus funciones, que se encuentran contemplados en el considerando de este decreto.
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 020 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. La presente Ley de Desarrollo Constitucional en Materia de Gobierno y Administración Municipal del Estado de Chiapas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Se abroga la Ley Orgánica Municipal del Estado de Chiapas, publicada en el Periódico Oficial del Estado num. 179 tomo III de fecha 29 de julio de 2009; así como todas sus reformas y adiciones.
+
+Artículo Cuarto.- Los Ayuntamientos deberán expedir dentro de los 180 días naturales siguientes a la publicación de la presente Ley, los bandos de policía y buen gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones; así como al Secretario de la Juventud, Recreación y Deporte Municipal.
+
+Artículo Quinto.- Los Ayuntamientos deberán expedir dentro de los 365 días naturales siguientes a la publicación de la presente Ley, la implementación de un sistema de Gobierno Digital Municipal.
+
+Artículo.- Sexto- (sic) Los servidores públicos designados previamente a la entrada en vigor del presente decreto, mantendrán a salvo sus derechos.
+
+Artículo Séptimo.- Los procedimientos que estén en trámites antes de la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+Artículo Octavo.- La Integración de los Ayuntamientos a que se refiere el artículo 38, del presente Decreto, entrarán en vigor después del proceso electoral del año 2018.
