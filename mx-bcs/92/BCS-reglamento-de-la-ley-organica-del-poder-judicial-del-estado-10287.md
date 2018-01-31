@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-102
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-11"
-last_updated: "1996-10-11"
+last_updated: "2018-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,35 +20,33 @@ state: "BCS"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018.
 
 Reglamento publicado en el número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 11 de octubre de 1996.
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
+
 ## TITULO PRIMERO. PARTE GENERAL
 
 ###### Artículo 1º.
 
-Las presentes disposiciones son reglamentarias de la Ley Orgánica del Poder Judicial del Estado.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 2°.
+###### Artículo 2º.
 
-El despacho ordinario de las oficinas del Poder Judicial será todos los días hábiles de las ocho treinta a las quince horas, excepto los viernes que se laborará hasta las catorce horas. Los titulares de los juzgados y Dependencias Administrativas cuando así lo requiera el cumplimiento de la ley o las necesidades del servicio lo ameriten, podrán acordar que el personal desarrolle además labores en horario y día diferente.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 3°.
+###### Artículo 3º.
 
-Los servidores públicos deberán concurrir puntualmente a sus oficinas los días hábiles y permanecer en ellas durante las horas de despacho, salvo causa justificada a juicio del superior inmediato.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 4°.
+###### Artículo 4º.
 
-Los sellos oficiales y la papelería que utilicen las dependencias judiciales y administrativas del Poder Judicial, llevarán impreso el Escudo Nacional con la leyenda Estados Unidos Mexicanos en el semicírculo superior, además las palabras Poder Judicial del estado de Baja California Sur y el nombre del Tribunal Superior de Justicia, Juzgado o Dependencia, así como el lugar de residencia de la oficina.
-
-Los Juzgados y las Dependencias del Poder Judicial podrán utilizar sellos fechadores para asentar la razón de recepción de documentos que contendrán los datos necesarios para la identificación de la oficina y fecha de recepción.
-
-El Presidente del Honorable Tribunal Superior de Justicia, será la autoridad que proporcione los sellos mencionados y su distribución se hará por el Secretario General, quien recogerá y destruirá aquellos que dejen de estar en condiciones de uso, levantando la constancia correspondiente. El secretario o encargado de la oficina que los reciba será responsable de su uso adecuado.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ## TITULO SEGUNDO. DEL HONORABLE TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -74,7 +72,7 @@ I.- Reunidos en el salón destinado para tal efecto, el Presidente del Tribunal 
 
 Cuando uno o varios Magistrados estimen necesario modificar o revocar Acuerdos tomados, harán ante el Pleno el planteamiento correspondiente en la Sesión Ordinaria siguiente a aquella en que se tomó el acuerdo impugnado, alegando las razones que fundamente su petición y, el Pleno allegándose los elementos de prueba que estime necesarios, resolverá lo procedente.
 
-II.- Una vez aprobada el Acta, con observaciones o sin ellas, el Secretario General dará cuenta en los negocios que ese día deban someterse a la consideración del Pleno. El secretario sólo dará lectura integra a los documentos con los que da cuenta, si lo pidiera alguno de los Magistrados;
+II.- Una vez aprobada el Acta, con observaciones o sin ellas, el Secretario General dará cuenta en los negocios que ese día deban someterse a la consideración del Pleno. El Secretario sólo dará lectura integra a los documentos con los que da cuenta, si lo pidiera alguno de los Magistrados;
 
 III.- El Presidente dará el trámite que corresponda a cada asunto. Los Magistrados podrán hacer observaciones a los trámites dictados por el Presidente; si este no estuviere conforme con ellos, se someterá a votación el punto, subsistiendo el trámite que apruebe la mayoría;
 
@@ -512,981 +510,517 @@ Los Jueces Menores y de Paz, únicamente conocerán de los asuntos descritos en 
 
 Los Jueces Menores y de Paz, tendrán además de las obligaciones señaladas en la Ley Orgánica del Poder Judicial del Estado y en este capítulo, las contenidas en este Reglamento en los Artículos 47 48, 49 y 50.
 
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
+
 ## TITULO QUINTO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO UNICO. DE LOS PERITOS
 
-###### Artículo 61°.
+###### Artículo 61º.
 
-Para obtener autorización como Peritos deberán reunir los requisitos y cumplir con las disposiciones que señala la Ley Orgánica del Poder Judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 62°.
+###### Artículo 62º.
 
-Aquellas personas que deseen fungir como Peritos ante el Tribunal y los Juzgados, deberán presentar su solicitud por escrito ante el Presidente del Tribunal, acompañando a dicha solicitud:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Dos fotografías tamaño credencial;
+###### Artículo 63º.
 
-Acta de nacimiento (si es extranjero, documento que acredite su calidad de inmigrado);
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Título profesional, constancia de estudios o documentos que acrediten su conocimiento sobre la materia;
+###### Artículo 64º.
 
-Cédula profesional;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Curriculum vitae;
+###### Artículo 65º.
 
-Carta de residencia;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Carta de no antecedentes penales; y
+###### Artículo 66º.
 
-Dos cartas de recomendación, de personas físicas o morales que desempeñen actividades relacionadas con la materia de que se trate.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 63°.
-
-El Presidente del Tribunal con la solicitud y documentos de justificación, dará cuenta al Pleno por conducto del Secretario General para que previo su análisis se dictamine sobre la aprobación o negativa en su caso.
-
-###### Artículo 64°.
-
-Una vez aprobada la solicitud por el Pleno, el Presidente expedirá autorización para fungir como perito en la ciencia, arte u oficio que se haya acreditado, autorización que tendrá vigencia por un año y que podrá ser refrendada durante los primeros diez días del mes de febrero de cada año, si no lo hicieren durante este tiempo se le suspenderá su actividad hasta el año siguiente.
-
-###### Artículo 65°.
-
-Autorizado un Perito, se hará del conocimiento de las Salas del Tribunal y de los Juzgados del Estado mediante oficio, ordenándose además su publicación en el Boletín Judicial.
-
-###### Artículo 66°.
-
-El Secretario General llevará un libro en el que se asentará: nombre del perito, fotografía, materia sobre la que se autoriza, fecha de aprobación, vencimiento y refrendo en su caso.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS CAPÍTULOS Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ## TITULO SEXTO. DE LAS DEPENDENCIAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
+
 ### CAPITULO I. DEL INSTITUTO DE ESTUDIOS JUDICIALES
 
-###### Artículo 67°.
+###### Artículo 67º.
 
-El Instituto de Estudios Judiciales es la Dependencia del Tribunal Superior de Justicia a la cual se le ha asignado la responsabilidad de preparar, actualizar al personal que aspira a trabajar en la Administración de Justicia del Fuero Común o que ya se encuentra dentro de ella, especializar a los que deseen ocupar puestos superiores y apoyar la investigación jurídica a efecto de contribuir a una mejor impartición de justicia así como la profesionalización de la carrera judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 68°.
+###### Artículo 68º.
 
-El egresado del Instituto de Estudios Judiciales será capaz de dirigir el proceso jurisdiccional conforme a las normas procesales vigentes y en particular, a las atribuciones, deberes y responsabilidades que la Ley le señale.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 69°.
+###### Artículo 69º.
 
-El cuerpo docente se integrará por profesionales del derecho que desempeñen, o. hayan desempeñado la judicatura y la docencia, y realicen o hayan realizado labores de investigación, indistintamente.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Corresponde a los docentes:
+###### Artículo 70º.
 
-I.- Conducir las actividades académicas que se lleven a cabo en los grupos, dentro del Programa Pedagógico del Instituto.
-
-II.- Evaluar en los participantes los conocimientos adquiridos del curso que se imparta y entregar los resultados.
-
-III.- Cumplir estrictamente con los calendarios y horarios establecidos.
-
-###### Artículo 70°.
-
-Los participantes deberán ser profesionales que aspiren al ejercicio de la judicatura y cumplan con los requisitos previstos por la Ley Orgánica del Poder Judicial.
-
-Corresponde a los participantes:
-
-I.- Cumplir con los trámites administrativos que el Instituto señale presentando la documentación requerida.
-
-II.- Concurrir al número de sesiones -clase establecidas por el Instituto, cumpliendo con un mínimo de 85% de asistencia.
-
-III.- Practicar, en los Juzgados en las diversas ramas Civil, Mercantil, Familiar y Penal, siguiendo el método pedagógico, teórico-práctico.
-
-IV.- Presentar examen de oposición para la plaza designada.
-
-V.- Recibir el documento oficial que acredite su egreso del Instituto.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ###### Artículo 71º.
 
-También se considerará participantes del Instituto a todas aquellas personas que laboran dentro del Tribunal Superior de Justicia y que deban actualizarse, cumpliendo con los requisitos que para este efecto establezca la Institución.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Así como todos aquellos que aspiren a ocupar puestos superiores en las distintas Ramas de la Administración de Justicia.
+###### Artículo 72º.
 
-###### Artículo 72°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones del Director del Instituto de Estudios Judiciales además de las otorgadas por la Ley Orgánica del Poder Judicial las siguientes:
+###### Artículo 73º.
 
-I.- Planear, organizar, dirigir y evaluar las actividades relacionadas con la preparación y actualización del personal Judicial y del Tribunal Superior de Justicia.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II.- Someter a consideración del Pleno los planes y programas formulados anualmente para preparar y actualizar al personal judicial, previa verificación de que los mismos se ajusten a los programas y objetivos generales y a las necesidades del Tribunal Superior de Justicia.
-
-III.- Promover la participación de investigadores y funcionarios de reconocido prestigio así como de los Magistrados que integran el Pleno en los cursos que lleve a cabo el Instituto, a fin de garantizar la calidad en los procesos de preparación y actualización del personal judicial.
-
-IV.- Supervisar que los contenidos académicos de los cursos que se realicen, sean congruentes con los planes y programas autorizados y contengan los elementos teórico-práctico que garanticen la superación profesional del personal judicial.
-
-V.- Promover conjuntamente con la Presidencia la celebración de convenios de coordinación e intercambio documental, científico y, de ser necesario tecnológico, con Instituciones que realicen actividades afines, con el objeto de complementar y fortalecer las propias.
-
-VI.- Definir con base en los requerimientos de preparación y actualización del personal judicial así como la necesidad de personal de nuevo ingreso, la publicación de los eventos contenidos y Programas de Desarrollo, una vez autorizados por el Pleno del Tribunal Superior de Justicia.
-
-VII.- Coordinar los estudios que conduzcan al mejoramiento de las estrategias jurídico administrativas que deba llevar a cabo el Instituto, tanto para la investigación como para la docencia y la práctica judicial.
-
-VIII.- Integrar, analizar y realizar la formación del material documental susceptible de ser publicado y presentarlo al Pleno del Tribunal para su revisión y autorización de impresión.
-
-IX.- Formular, aplicar y operar los procedimientos registros y controles necesarios en los procesos de ingreso, permanencia y egreso tanto de los docentes como de los participantes.
-
-X.- Elaborar los documentos que deba expedir el Centro, tales como constancias, certificados, credenciales, etc. y entregarlos a los interesados que los soliciten.
-
-XI.- Diseñar y aplicar modelos de investigación que se adecuan a la problemática y práctica judicial del Estado, en las materias competencia del Tribunal para efectos de preparación y actualización del personal judicial que participa en los cursos del instituto.
-
-XII.- Realizar investigaciones, que coadyuven a la mejor interpretación y aplicación de la Ley por parte del personal del Tribunal encargado de la administración de Justicia.
-
-XIII.- Recopilar y analizar documentos de apoyo técnico-judicial y elaborar resúmenes y guías de estudios que complementen la actividad científica del Instituto.
-
-XIV.- Registrar y controlar el material de investigación tanto el de uso interno como el de consulta, y promover acciones para el enriquecimiento del mismo, a través de la compra, la donación y el intercambio.
-
-XV.- En coordinación con la Unidad de Estadística, Informática y Computación realizar el diseño gráfico de folletos, boletines, trípticos, carteles y demás material promocional y de difusión presentando los originales ante el Pleno del Tribunal para su selección y autorización.
-
-XVI.- Efectuar la distribución del material impreso conforme al programa autorizado.
-
-XVII.- Seleccionar y proponer al Pleno del Tribunal el personal integrante del cuerpo docente.
-
-XVIII.- Determinar la suplencia o sustitución del titular de la materia, previa autorización del Pleno, pudiendo asumir las funciones de docente cuando la situación lo requiera.
-
-###### Artículo 73°.
-
-El Director del Instituto de estudios judiciales contará con el personal docente-técnicoadministrativo-jurídico acorde al presupuesto para desarrollar sus atribuciones.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO II. DE LA OFICIALÍA MAYOR
 
-###### Artículo 74°.
+###### Artículo 74º.
 
-Son obligaciones del Oficial Mayor:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Llevar la correspondencia oficial con los Servidores Públicos, Dependencias, Particulares y Juzgados.
-
-II.- Cuidar la seguridad del edificio del Tribunal Superior de Justicia vigilando que este debidamente cerrado en horas inhábiles a través del personal bajo su dependencia.
-
-III.- Proveer con oportunidad y adecuación las solicitudes de material, papelería y equipo de oficina que hagan las diversas áreas del Poder Judicial para el desempeño de sus funciones.
-
-IV.- Tener bajo su responsabilidad el Almacén de Artículos de Oficina y Limpieza.
-
-V.- Autorizar el material suficiente para las oficinas y juzgados locales, foráneos, para que realicen sus funciones propias; abriendo un expediente a cada área sobre el material suministrado.
-
-VI.- Abastecer de bienes muebles a las áreas previa autorización del Presidente del Tribunal Superior de Justicia.
-
-VII.- Recibir las quejas sobre el orden, moralidad del personal a cargo de cada jefe inmediato, poniéndolo en conocimiento del Presidente del Tribunal Superior de Justicia, para los efectos correspondientes.
-
-VIII.- Auxiliar a los Jueces en todos aquellos problemas de reparación y conservación de muebles que tienen bajo su custodia y resguardo.
-
-IX.- Manejar el fondo revolvente para los gastos urgentes de mantenimiento del mobiliario, presentando los comprobantes ante la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia para su reembolso.
-
-X.- Formular las hojas de servicio de los servidores públicos de la administración de justicia con la información proporcionada por la Secretaría de Finanzas y Administración del Gobierno del Estado, haciendo constar al calce que fue proporcionada por esta.
-
-XI.- Expedir las constancias de trabajo y sueldo que le soliciten los trabajadores del Poder Judicial.
-
-XII.- Expedir las credenciales de identificación del personal del Poder Judicial, las cuales deberán ser debidamente autorizadas en términos de la Ley Orgánica.
-
-XIII.- Girar oficio a la Administración de Política Presupuestal y Servicios Personales cuando el Pleno le haga de su conocimiento la multa impuesta a algún empleado o funcionario, para que efectúe el descuento pertinente sobre el sueldo del sancionado.
-
-XIV.- Vigilar que la Dirección de Recursos Humanos inserte al expediente personal del empleado o funcionario la amonestación hecha por las Salas, el Pleno del Tribunal Superior de Justicia. Así como las constancias de las multas.
-
-XV.- Recibir las estadísticas de las Salas del Tribunal Superior de Justicia, de los Juzgados de Primera Instancia, Menores y de Paz en forma mensual, integrándola para remitirla a la Presidencia, sintetizada, en forma anual; tendrá relación directa con la Unidad de Estadísticas Informática y Computación a efecto de capturar la información proporcionada por estas áreas.
-
-XVI.- Enviar los avisos de altas y bajas, cambios de adscripción o categoría a la Administración de Política Presupuestal y Servicios Personales.
-
-XVII.- Hacer reuniones el último viernes de cada quincena con la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia, con la Administración de Política Presupuestal y Servicios Personales y Recursos Humanos para tratar y resolver problemas y cuestiones administrativas afines.
-
-XVIII.- Gestionar la adquisición de vehículos que se requieran para el buen funcionamiento del Tribunal Superior de Justicia, así como proporcionarle, el correcto mantenimiento.
-
-XIX.- Proponer ante el Pleno la ayuda económica que pueda entregarse por el reconocimiento social y la maternidad, para ropa o uniformes de trabajo, para el fomento o practicas de actividades culturales o deportivas.
-
-XX.- Coordinar la capacitación y asistencia a los eventos de comunicación sobre protección, para la salvaguarda y seguridad de los recursos humanos y activos del Poder Judicial en caso de fenómenos hidrometeorol6gicos, sismos e incendios, en relación directa con la Presidencia.
-
-XXI.- Tener relación estrecha con los diversos Organismos e Instituciones de enseñanza sobre los diversos cursos de capacitación que imparten, que pueda tomar el personal de las diferentes áreas del H. Tribunal Superior de Justicia. En coordinación con la Presidencia y el Instituto de Estudios Judiciales.
-
-XXII.- Requerir por oficio a las áreas locales y foráneas de las necesidades de mantenimiento y conservación de edificios, llevar a cabo una evaluación física cuantitativa y proceder a elaborar el programa de mantenimiento respectivo, el que hará del conocimiento de ti Presidencia.
-
-XXIII.- Coordinar y revisar los convenios de servicios médicos con el Instituto de Servicios de Salud en el Estado, para los empleados y dependientes consanguíneos en primera línea, locales y foráneos que no reciban los servicios médicos del I.S.S.S.T.E., informando a la Presidencia del H. Tribunal Superior de Justicia.
-
-XXIV.- Controlar las credenciales expedidas a los compensados y sus dependientes económicos locales y foráneos derivadas de los Convenios de Atención Médica con diversas Instituciones de Salud.
-
-XXV.- Poner en inmediato conocimiento del Presidente, cualquier irregularidad o deficiencia que por razón de su cargo advierta en los Bienes, Materiales o Servicios, a fin de que se tomen las medidas pertinentes para su solución.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO III. DE LA DIRECCION DE RECURSOS HUMANOS
 
-###### Artículo 75°.
+###### Artículo 75º.
 
-Son obligaciones del Director de Recursos Humanos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Auxiliar al Oficial Mayor en las actividades que éste o la Presidencia le encomienden.
-
-II.- Elaborar programas anuales para optimizar los recursos humanos y materiales.
-
-III.- Integrar expedientes personales a los trabajadores del Poder Judicial conteniendo los documentos relativos a su nombramiento; toma de posesión, licencias, incapacidades e inasistencias, altas, y bajas por cambios de categoría, adscripción, personal de nuevo ingreso, y aquellos documentos que acrediten el desempeño de los servidores del Poder Judicial. Así como las constancias de cursos de capacitación.
-
-IV.- Llevar el control diario de puntualidad y asistencia del personal Compensado y de Base, enviando mensualmente los avisos de descuento a la Administración de Política Presupuestal y Servicios Personales para que se haga el descuento al personal que no justificó su inasistencia o retardo.
-
-V.- Llevar un control diario de las horas extraordinarias y de guardias del personal que labora en el Tribunal Superior de Justicia, enviando esta información a la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia para que realice el pago.
-
-VI.- Proponer al Pleno un estímulo y reconocimiento al mejor trabajador de base y compensado del Tribunal Superior de Justicia, en forma trimestral.
-
-VII.- Recabar anualmente de los servidores públicos que tienen obligación de formular un inventario general de los recursos materiales del Poder Judicial.
-
-VIII.- Realizar la evaluación y actualización de los bienes que integran el patrimonio del Poder Judicial, a través de un programa que contendrá una clave asignada para cada área o juzgado, una descripción de las características del bien-mueble y el estado físico en que se encuentra y un número consecutivo que se asignará a cada enser inventariado.
-
-IX.- Girar oficio al titular del área para que firme la constancia para uso, guarda y custodia de los muebles necesarios para realizar sus funciones.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO IV
 
 DE LA DIRECCION DE FINANZAS Y FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA.
 
-###### Artículo 76.
+###### Artículo 76º.
 
-La Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia estará a cargo de un Director responsable de su funcionamiento y se dividirá en cuatro áreas:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Finanzas.
+###### Artículo 77º.
 
-II.- Política Presupuestal y Servicios Personales.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Fondo Auxiliar para la Administración de Justicia.
+###### Artículo 78º.
 
-IV.- Fondo de Ahorro de los Servidores Públicos del Poder Judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 77°.
+###### Artículo 79º.
 
-El objeto de la Dirección de Finanzas es el de aplicar y optimizar los recursos económicos que aporta el Gobierno del Estado, a través del presupuesto el cual se clasifica en cuatro rubros:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-a) Servicios Personales
+###### Artículo 80º.
 
-b) Materiales y Suministros
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-c) Servicios Generales
+###### Artículo 81º.
 
-d) Bienes Muebles e Inmuebles.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 78°.
+###### Artículo 82º.
 
-La Dirección de Finanzas estará integrada para su mejor funcionamiento y control por:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Un Contador
+###### Artículo 83º.
 
-II.- Un Auxiliar Contable
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Una Secretaría
+###### Artículo 84º.
 
-IV.- Un Auxiliar Administrativo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 79°
+###### Artículo 85º.
 
-Son obligaciones de la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Informar mensualmente la aplicación del presupuesto recibido por el Gobierno del Estado, así como de las atribuciones asignadas por el Artículo 116 de la ley Orgánica del Poder Judicial.
+###### Artículo 86º.
 
-II.- Solicitar ante el Poder Ejecutivo del Estado durante los primeros ocho días de cada mes el presupuesto que requiere, para realizar las funciones propias del Poder Judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Solicitar de las diferentes Instituciones Bancarias dentro de los primeros diez días de cada mes los Estados de Cuenta, conciliando las operaciones y movimientos bancarios, así como las transferencias de fondo debidamente autorizadas por el Presidente del Tribunal Superior de Justicia.
+###### Artículo 87º.
 
-IV.- Estar al día sobre los mejores Sistemas de Inversión y Servicios que ofrezcan las diversas Instituciones Bancarias.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-V.- Asistir a las sesiones del Pleno, previa invitación del Presidente, para informar sobre asuntos del Fondo y cualquier otra información de su área que se le pida, así como para explicar los estados financieros mensuales y anuales.
+###### Artículo 88º.
 
-###### Artículo 80°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones del área de Contabilidad:
+###### Artículo 89º.
 
-I.- Registrar todos y cada uno de los movimientos contables con motivos de los Ingresos, Egresos, Traspasos. Así como los movimientos contables de la nómina en los Libros de Diario y Mayor para determinar los estados financieros mensuales. Originados por el manejo del presupuesto.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II.- Llevar por separado los registros contables de los Ingresos y Egresos del Fondo Auxiliar para la Administración de Justicia.
+###### Artículo 90º.
 
-###### Artículo 81°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El objeto del Fondo será aplicar sus recursos económicos al mejoramiento de la calidad y de los elementos y ambientes materiales de trabajo, al servicio de la Administración de Justicia que compete al Poder Judicial, así como al mejoramiento del ingreso económico de sus servidores públicos, en la forma y condiciones establecidas en este Reglamento.
+###### Artículo 91º.
 
-###### Artículo 82°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El patrimonio del Fondo estará constituido por los bienes mencionados en el Artículo 110 de la Ley Orgánica del Poder Judicial.
+###### Artículo 92º.
 
-La adjudicación en favor del Fondo de los bienes y valores a que se refieren los cinco incisos del artículo anteriormente citado; se decretará de oficio una vez que transcurran los términos fijados en el precepto indicado y la autoridad correspondiente remitirá al Fondo copia certificada de su resolución la que constituirá título legítimo de propiedad.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 83°.
+###### Artículo 93º.
 
-El órgano representativo y de administración originario del Fondo, será el Pleno del Tribunal Superior de Justicia del Estado, quien actuará a través del Presidente del mismo, como su representante legal, en los términos del Código Civil vigente en el Estado, relativos al mandato.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 84°.
+###### Artículo 94º.
 
-El Sistema Administrativo y Contable del Fondo quedará centralizado en la oficina de su domicilio que lo será el Tribunal Superior de Justicia, sin perjuicio de las modificaciones que a dicho Sistema impongan las circuntancias (sic) o necesidades, para hacerlo más efectivo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 85°.
+###### Artículo 95º.
 
-Los depósitos en dinero o valores recibidos por cualquier órgano o dependencia del Poder Judicial del Estado, se documentarán mediante la forma denominada Recibo de Caja y deberán remitirse a más tardar al día siguiente de su recepción a las oficinas del Fondo, acompañados de una copia del mismo, el original del recibo de caja se entregará al depositante y una copia de aquel permanecerá en el archivo de la dependencia que reciba el depósito.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-La demora injustificada en el cumplimiento de esta obligación será sancionada como falta oficial en los términos de la Ley Orgánica.
+###### Artículo 96º.
 
-###### Artículo 86°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Las entregas o reintegros de depósitos al beneficiario o depositante, se documentarán mediante la forma denominada Recibo de Entrega y los mismos se efectuaran por la misma dependencia; ante la cual se hubiere constituido el depósito si fuere foránea y por el propio Fondo cuando ante este se haya depositado, procurando en los casos foráneos que el envío del importe se haga por el medio más rápido disponible.
+###### Artículo 97º.
 
-###### Artículo 87°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El Sistema de Inversiones que realice el Fondo será sobre la base de procurar las de mejor rendimiento, siempre que éstas, dentro de lo previsible, garanticen disponibilidad inmediata para devoluciones de depósito judiciales que deban hacerse.
+###### Artículo 98º.
 
-###### Artículo 88°
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El Pleno sesionará ordinariamente por lo menos una vez por mes, para tratar los asuntos que se relacionen con el Fondo, el Presidente por si, o a petición de otro u otros miembros del Pleno, para ese efecto, podrá convocar a sesión en cualquier tiempo por causa que lo amerite.
+###### Artículo 99º.
 
-###### Artículo 89°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Para la mejor administración del Fondo, el Director se auxiliará del siguiente personal nombrado por el Pleno del Tribunal Superior de Justicia:
+###### Artículo 100º.
 
-I.- Un Auxiliar Administrativo;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II.- Un Auxiliar Contable;
+###### Artículo 101º.
 
-III.- Un Cajero;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-IV.- El demás personal que las necesidades del servicio requieran.
+###### Artículo 102º.
 
-###### Artículo 90.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El Director de Finanzas y del Fondo para la Administración de Justicia tendrá en relación al Fondo Auxiliar las siguientes atribuciones:
-
-I.- Llevar la contabilidad del Fondo Auxiliar.
-
-II.- Recibir y controlar los depósitos que le remitan los Juzgados y demás Dependencias del Poder Judicial, y acusar los recibos correspondientes.
-
-III.- Cuidar que las inversiones del Fondo se hagan de la manera más productiva conforme al Artículo 87 de este Reglamento y de acuerdo a las instrucciones del Pleno.
-
-IV.- Proveer a las Dependencias del Poder Judicial de las cantidades que deban ser reintegrados a los beneficiario (sic) o depositantes, recabando los recibos de entrega correspondiente.
-
-V.- Elaborar los informes mensuales para su debida aprobación por el Pleno.
-
-VI.- Elaborar en el mes de diciembre de cada año, el Presupuesto de Egresos del Fondo, para la aprobación en su caso por parte del Pleno.
-
-VII.- Practicar las visitas que acuerde el Pleno a los Juzgados, para revisar el manejo de los valores y depósitos a cargo de los mismos, conforme al Artículo 120 de la Ley Orgánica.
-
-VIII.- Tener al corriente la captura de recibos de caja y entrega del Fondo.
-
-IX.- En General, realizar todos aquellos actos de ejecución y vigilancia que para la mejor administración del Fondo le encargue el Pleno del Tribunal Superior de Justicia.
-
-###### Artículo 91.
-
-Para la debida administración del Fondo en los términos de este Reglamento y la ley Orgánica, se deberán implementar formatos y procedimientos que permitan optimizar su funcionamiento.
-
-Para la Administración de Recursos Financieros se llevarán los siguientes formatos de:
-
-a) Captación de dinero proveniente de los Juzgados y demás Dependencias del Poder Judicial;
-
-b) Canalización del dinero proveniente de los asuntos judiciales;
-
-c) Suministro de dinero para las erogaciones del Fondo conforme el presupuesto autorizado;
-
-d) Control del efectivo disponible.
-
-Para el control administrativo de los Juzgados locales y foráneos se llevarán los siguientes procedimientos y formatos:
-
-a) De la recepción y resguardo de documentación de recibos de caja, recibos de entrega, oficios, edictos, ordenes de pago; y
-
-Para el Control de Contabilidad se llevará un registro de unidades monetarias de todas las operaciones derivadas del manejo y control de los recursos financieros.
-
-###### Artículo 92°.
-
-El destino y la aplicación del patrimonio del Fondo se ajustará a lo dispuesto por el Artículo 115 de la Ley Orgánica del Poder Judicial.
-
-###### Artículo 93°.
-
-Será el Pleno el que nombre al personal encargado de ejecutar la administración del Fondo, fijándole la remuneración correspondiente y quien apruebe, en su caso la cuenta de gastos que dicha ejecución origina.
-
-###### Artículo 94°.
-
-El Pleno cuidará que las oficinas judiciales se mantengan suficientemente proveídas de mobiliario, equipo y libros de consulta, y para este efecto, decidirá las compras que con cargo al Fondo deban efectuarse de acuerdo al presupuesto autorizado.
-
-###### Artículo 95°.
-
-Queda prohibido el uso de los bienes del Fondo en oficinas que no sean del Poder Judicial, así como el uso o aprovechamiento de los mismos y de los valores para fines distintos a los del propio Fondo. La violación de esta disposición se sancionará como legalmente corresponda a su gravedad.
-
-###### Artículo 96°.
-
-Los estímulos económicos a que se refiere la fracción IV del Artículo 115 de la ley Orgánica, tendrán el carácter de:
-
-I.- Permanentes, que se destinarán para motivar a quien los reciba hacia su superación personal en todos los ordenes del trabajo, necesario para una correcta administración de justicia;
-
-II.- Eventuales, que sirvan para reconocer la calidad, la eficiencia, la asiduidad, la puntualidad y la disciplina en el trabajo, y los demás a que se refiere el Artículo 32° del Reglamento para otorgar estímulos y recompensas a los trabajadores al servicios de los Poderes del Estado y Municipios de Baja California Sur, teniendo en estos casos el carácter de recompensa.
-
-###### Artículo 97°.
-
-Los estímulos económicos no crean derecho alguno a los servidores públicos del Poder Judicial que los reciban, ni generan obligaciones para el Fondo, por lo que el Pleno podrá disminuirlos y aún suspenderlos a título de sanción o por causa justificada.
-
-###### Artículo 98°.
-
-Para los efectos de sanción a que alude el artículo anterior, e independientemente de cualquiera otra que proceda, el Pleno cuidará y tomará muy en cuenta todo aquello que resultando imputable a los servidores públicos del Poder Judicial, vaya en contra, a juicio del propio Pleno, de la debida y normal prestación del servicio judicial.
-
-###### Artículo 99°.
-
-El monto y la periodicidad de los estímulos económicos permanentes y eventuales los determinará el Pleno, tomando en cuenta la categoría de los cargos.
-
-###### Artículo 100°.
-
-Por estímulo social se entenderá:
-
-I.- La ayuda económica que pueda otorgarse para gastos ocasionados por la consumación de riesgos contra la vida o la salud de las personas, o bien, la erogación para cualquier medida de protección que se pueda adoptar en previsión de la presencia de dichos riesgos.
-
-###### Artículo 101°.
-
-Será el propio Pleno el que determine el monto, ocasión y personas en su caso, para el otorgamiento de estímulos sociales, e igualmente, cuando y cuales de ellos pueden adquirir carácter obligatorio para el Fondo, de acuerdo con las posibilidades y disponibilidades económicas de reserva con que cuenta.
-
-###### Artículo 102°.
-
-Son obligaciones del Administrador de Política Presupuestal además de las conferidas en los Artículos 117 y 118 de la Ley Orgánica del Poder Judicial las siguientes:
-
-I.- Elaborar el Programa de Trabajo Anual, debiendo calendarizar las actividades de su área de responsabilidad.
-
-II.- Informar al personal asignado a su área de trabajo el calendario de actividades; distribuyendo las cargas de trabajo rutinarias y periódicas.
-
-III.- Solicitar al inicio del año a los titulares del área de trabajo local y foránea, con el fin de conformar el anteproyecto de presupuesto del ejercicio fiscal que corresponda, los requerimientos de recursos humanos, materiales y suministros, servicios generales, bienes muebles e inmuebles.
-
-IV.- Presentar el anteproyecto de presupuesto a la Dirección de Finanzas para su análisis remitiéndola a la Presidencia del Tribunal Superior de Justicia.
-
-V.- Una vez autorizado el presupuesto, se procederá a elaborar su programa detallado por capítulo de gasto, el cual informará de las prioridades y opciones del ejercicio del gasto.
-
-VI.- Elaborar un informe mensual del seguimiento presupuestal de los recursos programados y el gasto por capítulo y presentarlo a la Presidencia.
-
-VII.- Recibir de la Dirección de Recursos Humanos del Poder Judicial los reportes de ausentismo y movimientos de personal, para la elaboración quincenal del reporte de incidencias que afecta la nómina.
-
-VIII.- Recopilar información quincenal del Poder Ejecutivo, referente a las deducciones nominales tales como, Fondo de Ahorro, I.S.S.S.T.E., F.O.N.A.C.O.T.,y demás para su aplicación en las incidencias de nómina.
-
-Aplicar al Programa de Nómina las incidencias señaladas en el punto anterior para ejecutar la impresión de cheques, listado de nómina normal y complementaria, así como relaciones de personal con los datos generales.
-
-IX.- Elaborar calendario de trabajo con los titulares administrativos de cada área, inicialmente para que de común acuerdo, correlacionar la información estructural organizativa, para la elaboración de los manuales de organización y procedimientos.
-
-Una vez aprobado (sic) dichos manuales se dará seguimiento a los cambios que por ordenamiento judicial se tengan que aplicar con el objeto de mantenerlos vigentes.
-
-X.- Participar en las reuniones de trabajo, y las actividades que le confiera el Magistrado Presidente.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO V
 
 DEL FONDO DE AHORRO, INTEGRACION, ADMINISTRACION E INAFECTABILlDAD.
 
-###### Artículo 103°.
+###### Artículo 103º.
 
-Este departamento dependerá de la Dirección de Finanzas, el objetivo del Fondo de Ahorro es el de promover en los integrantes de éste, el espíritu de ahorro, con el cual podrán obtener préstamos con una disponibilidad inmediata, así como el beneficio de los intereses generados por las aportaciones realizadas.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 104.
+###### Artículo 104º.
 
-El patrimonio del Fondo de Ahorro estará integrado por las cantidades aportadas en forma quincenal, mismas que determinarán los asociados marcándose los limites inferior del 8% y el mayor del 20% de su sueldo nominal.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Las aportaciones al Fondo de Ahorro serán efectuadas directamente por los asociados a la caja de la Dirección de Finanzas, y una vez que se establezca el programa computarizado adecuado; dichas aportaciones serán retenidas del cheque del sueldo nominal de cada asociado, por la Dirección de Finanzas a través de la Administración de Política Presupuestal y Servicios Personales del Tribunal Superior de Justicia del estado de Baja California Sur.
+###### Artículo 105º.
 
-Si el asociado no hiciere la aportación, en la fecha correspondiente, las consecuencias que se deriven de esta omisión y que afectaren su solicitud de préstamo se resolverán por el Consejo Consultivo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 105°.
+###### Artículo 106º.
 
-La Administración del Fondo de Ahorro, estará a cargo de la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-a) Unicamente podrán intervenir para administrar los fondos depositados en la Institución Bancaria, para los efectos del presente Reglamento; el responsable de la Administración del Fondo de Ahorro a que se refiere el párrafo anterior siempre y cuando firmen de manera mancomunada el C. Presidente del Tribunal Superior de Justicia, un Magistrado, el Director de Finanzas, siendo suficiente dos firmas para efectos de este Artículo.
-
-b) Los gastos que se originen por concepto de administración del Fondo de Ahorro serán con cargo al presupuesto del Tribunal Superior de Justicia.
-
-Los gastos de administración a que se hace referencia son los siguientes.
-
-1.- Sueldos y prestaciones para el personal administrativo.
-
-2.- Mobiliario, equipo de oficina y papelería.
-
-c) Incurrirán en responsabilidad Civil o Penal, quien o quienes participen en el desvío de los recursos del Fondo de Ahorro, en los términos de las Leyes sustantivas vigentes en el Estado.
-
-###### Artículo 106°.
-
-Las sumas de dinero aportadas por los asociados del Fondo de Ahorro son inafectables tanto para el Poder Judicial como para cualquiera otra autoridad, salvo los casos expresamente señalados por la Ley.
-
-En el caso de que uno de los asociados deje de prestar sus servicios al Poder Judicial por cualquier motivo, le serán reintegradas las cantidades que hubiere aportado en un término de quince días a partir de la recepción de la baja que corresponda.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 DE LOS ASOCIADOS
 
-###### Artículo 107°.
+###### Artículo 107º.
 
-Tienen derecho a formar parte de este Fondo de Ahorro, todos los trabajadores al servicio del Poder Judicial del estado de Baja California Sur.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Para poder pertenecer al Fondo de Ahorro deberá de presentar la solicitud de ingreso que para tal efecto se le proporcione, debidamente firmada y por duplicado.
+###### Artículo 108º.
 
-###### Artículo 108°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Los asociados del Fondo de Ahorro tienen los siguientes derechos:
-
-a) Obtener prestamos;
-
-b) Hacer Retiros parciales de las aportaciones;
-
-c) Retirar el total de las aportaciones hechas al Fondo de Ahorro;
-
-d) Recibir el pago de intereses por las aportaciones;
-
-e) Reingresar al Fondo de Ahorro; y
-
-f) Reintegrar los retiros parciales en un plazo no mayor de 30 días.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 DE LOS PRESTAMOS
 
-###### Artículo 109°.
+###### Artículo 109º.
 
-Los préstamos a que tienen derecho los asociados serán iguales al monto ahorrado al momento de la solicitud tabulado a partir de la octava aportación quincenal al Fondo de Ahorro. Y serán clasificados a corto plazo, largo plazo y especiales.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 110°.
+###### Artículo 110º.
 
-Los préstamos a corto plazo, son aquellos que no excedan del importe del sueldo de una quincena del acreditado y que deberán cubrirse a más tardar en 5 (cinco) meses a partir de la fecha de su constitución y se otorgarán a los asociados cuya aportación al Fondo de Ahorro sea del 8% al 10% mensual de su salario.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ###### Artículo 111º.
 
-Los préstamos a largo plazo, son aquellos que deban cubrirse a más tardar en un periodo de 10 (diez) meses a partir de la fecha de su otorgamiento concediéndose a los asociados que aporten al fondo del 8% al 15% de su sueldo y no podrán exceder del valor de un mes de sueldo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 112°.
+###### Artículo 112º.
 
-Los préstamos especiales, son aquellos en que podrán los socios obtener préstamos previo estudio que se haga de su solicitud, la cual deberá contar con el visto bueno del Presidente del Tribunal; por tratarse de cantidades superiores a un mes de su sueldo y para reintegrarse en un plazo no mayor de 14 (catorce) meses siempre y cuando el acreditado tenga depositado en el Fondo un equivalente a un 60% de la suma que solicite y ahorre mensualmente cuando menos el 15% de su sueldo; a partir del cuarto año de constituido el Fondo de Ahorro, podrá otorgar este tipo de préstamo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 113°.
+###### Artículo 113º.
 
-Los préstamos otorgados causarán un interés del 1% mensual mismo que será descontado al momento de entregar el préstamo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 114°.
+###### Artículo 114º.
 
-La deducción por concepto de descuento al Fondo de Ahorro, se aplicará a los cheques nominales de los asociados por el total de la suma recibida en préstamo y serán retenidas de la manera prevista en el Artículo 104 de este Reglamento, referente a las aportaciones ordinarias.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 115°.
+###### Artículo 115º.
 
-Para solicitar un nuevo préstamo, el asociado deberá tener cubierto el 80% del préstamo anterior. En caso de que requiera solicitar un nuevo préstamo, el asociado podrá solicitar el traspaso del importe ahorrado para liquidar el adeudo del préstamo existente.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 116°.
+###### Artículo 116º.
 
-La Dirección de Recursos Humanos informará a la administración del Fondo de Ahorro en los casos que se otorguen licencias sin goce de sueldo para los efectos correspondientes.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 117°
+###### Artículo 117º.
 
-En caso de no efectuarse el descuento del préstamo por falta de liquidez en su cheque nominal, se le hará un traspaso del ahorro al adeudo del préstamo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
+
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 DE LOS RETIROS DEL FONDO
 
-###### Artículo 118°.
+###### Artículo 118º.
 
-De acuerdo a la disponibilidad de recursos del Fondo de Ahorro, los asociados pueden hacer en cualquier momento el retiro de la cantidad total acreditada en su cuenta por medio de la solicitud de retiro, misma que deberá ser presentada en la administración del Fondo de Ahorro.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Cuando se tenga adeudo por concepto de préstamo, únicamente se podrá retirar la diferencia existente entre el saldo ahorrado y el adeudo del préstamo.
+###### Artículo 119º.
 
-a) Si el asociado no recoge el cheque por concepto de retiro en un lapso de quince días, se cancelará dicho movimiento acreditando a su cuenta el importe del mismo. En caso de requerir el retiro tendrá que iniciar los tramites.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-b) Los asociados podrán hacer retiros de su saldo a favor una vez al mes.
+###### Artículo 120º.
 
-###### Artículo 119°.
-
-Los asociados del Fondo de Ahorro podrán retirarse en forma voluntaria o necesaria.
-
-###### Artículo 120°
-
-La separación voluntaria da a lugar a que se le entregue al asociado el monto de sus aportaciones e intereses menos el descuento de los adeudos por concepto de préstamos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ###### Artículo 121º.
 
-La separación necesaria da a lugar a los mismos efectos del artículo anterior y procede en los casos que el asociado deje de prestar sus servicios por el motivo que fuere en el Poder Judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
+
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SURCON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 DEL PAGO DE INTERESES POR APORTACIONES
 
-###### Artículo 122°.
+###### Artículo 122º.
 
-El pago de los intereses generados serán liquidados a los asociados de la siguiente forma:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-a) A partir de la segunda quincena del mes de enero en proporción a sus aportaciones de enero a diciembre del año próximo anterior.
+###### Artículo 123º.
 
-b) Cuando se retiren del Fondo de Ahorro conforme al Artículo 118 de este Reglamento.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-c) A los beneficiarios del asociado de acuerdo a lo estipulado en el Artículo 124° y conforme al precepto arriba invocado.
-
-###### Artículo 123°.
-
-Al pagar en el mes de enero los intereses que se generaron por el monto de sus aportaciones, el asociado que así lo disponga, solicitará al Fondo de Ahorro que el importe sea abonado a su cuenta como aportación, o si en un Periodo de 30 días a partir de la elaboración de su cheque no lo recoge, automáticamente será acreditado a su aportación.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON ELARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2018)</small>
 
 DE LOS BENEFICIARIOS POR FALLECIMIENTO
 
-###### Artículo 124°.
+###### Artículo 124º.
 
-Los asociados deberán designar un beneficiario al momento de elaborar la solicitud de ingreso con el fin de que el Fondo de Ahorro pueda hacer entrega de las cantidades ahorradas, los intereses que generen en caso de fallecimiento del asociado; si existieren cargos en su cuenta, estos serán deducidos de las aportaciones al Fondo de Ahorro.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
+
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 DEL CONSEJO CONSULTIVO
 
-###### Artículo 125°.
+###### Artículo 125º.
 
-La administración, autorización y manejo del Fondo de Ahorro así como las iniciativas a ejecutar, se regirán por los acuerdos que dicte el Consejo Consultivo.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 126°.
+###### Artículo 126º.
 
-El Consejo Consultivo a que se refiere el artículo anterior lo integrarán:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I).- El Pleno del Tribunal Superior de Justicia del estado de Baja California Sur;
+###### Artículo 127º.
 
-II).- El Presidente del Tribunal;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III).- El Oficial Mayor;
+###### Artículo 128º.
 
-IV).- El Secretario General de Acuerdos;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-V).- El Director de Finanzas y Fondo Auxiliar para la Administración de Justicia;
+###### Artículo 129º.
 
-VI).- El Director de Recursos Humanos; y
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-VII).- El representante de los asociados de cada uno de los Juzgados del Poder Judicial.
-
-###### Artículo 127°.
-
-El Consejo Consultivo estará presidido por el Presidente del Tribunal Superior de Justicia del estado de Baja California Sur y los demás integrantes fungirán como vocales del mismo.
-
-###### Artículo 128°.
-
-El Consejo Consultivo deberá reunirse cuando el Presidente lo convoque, para recibir y analizar los estados financieros y la operación del Fondo de Ahorro, practicar auditorias y determinar iniciativas para el mejor funcionamiento del Fondo de Ahorro. Así mismo se reunirán de manera extraordinaria las veces que sea necesario, previa convocatoria de dos Vocales cuando menos.
-
-###### Artículo 129°.
-
-Los casos no previstos por el presente Reglamento serán resueltos por el Consejo Consultivo sin ulterior recurso.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO VI. DEL ARCHIVO JUDICIAL
 
-###### Artículo 130°
+###### Artículo 130º.
 
-El jefe del Archivo Judicial contará con el siguiente personal.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Una secretaria
+###### Artículo 131º.
 
-II.- Auxiliares
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Un archivista
+###### Artículo 132º.
 
-IV.- Un intendente
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-V.- El demás personal que fuere necesario para el correcto desempeño de esta dependencia.
+###### Artículo 133º.
 
-###### Artículo 131°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones del jefe del Archivo Judicial además de las establecidas en la Ley Orgánica del Poder Judicial las siguientes:
+###### Artículo 134º.
 
-I.- Supervisar el Archivo en cuanto a la conservación y seguridad de los acervos que poseen.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II.- Supervisar el trabajo del personal a su cargo.
+###### Artículo 135º.
 
-III.- Recibir todas las solicitudes tanto de las Salas como de los Juzgados locales y foráneos, para la devolución de expedientes, ordenar su búsqueda, elaborando el oficio correspondiente y remitirlos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-IV.· Recibir todas las solicitudes de copias certificadas, así como la devolución de originales que obren en autos, solicitar su búsqueda, ordenar el acuerdo y turnarlo por conducto de la Secretaria General del Tribunal a la Presidencia para su autorización y posteriormente certificarlos.
+###### Artículo 136º.
 
-V.- Certificadas las copias solicitadas hacer la devolución de los originales previa constancia.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-VI.- Recibir los expedientes para su resguardo del Tribunal, Salas, Juzgados locales y foráneos, cotejarlos con las relaciones recibidas, sellarlos y ordenar su acomodo.
+###### Artículo 137º.
 
-VII. Atender al público en sus diversas solicitudes e inquietudes.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-VIII.- Poner en inmediato conocimiento del Presidente del Tribunal Superior de Justicia cualquier irregularidad y defecto que con motivo de sus atribuciones advierta.
+###### Artículo 138º.
 
-###### Artículo 132°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones de la Secretaria.
+###### Artículo 139º.
 
-I.- Elaborar expedientillos para certificación de copias y para la devolución de documentos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II.- Elaborar oficios con los que se envían los expedientes a la autoridad solicitante.
+###### Artículo 140º.
 
-III.- Elaborar las franquicias con que se remiten los expedientes foráneos, así como la remisión de los mismos.
-
-IV.- Llevar el control de legajos así como de las relaciones de los diversos expedientes que se remiten a los Juzgados y Salas.
-
-V.- Todas las demás que le encomiende su jefe inmediato.
-
-###### Artículo 133°.
-
-Son obligaciones de los Auxiliares:
-
-I.- Capturar y clasificar expedientes.
-
-II.- Entregar los oficios que se emiten en el Departamento de Archivo, así como la entrega de los expedientes solicitados por otras áreas.
-
-III.- Buscar los expedientes que se le requieran a titulo especial.
-
-IV.- Llevar el archivo y control por Juzgado, año y cronológicamente de los expedientillos originados con motivo de la consignación de las pensiones alimenticias.
-
-V.- Tener bajo su custodia los Boletines Judiciales compilándolos de forma mensual, archivándolos por año.
-
-VI.- Todas las demás que le señale su jefe inmediato en auxilio a las otras áreas y a las necesidades del Archivo Judicial.
-
-###### Artículo 134°.
-
-Son obligaciones del Archivista:
-
-I.- Acomodar todos los expedientes que se reciban de acuerdo a los criterios de clasificación de esa dependencia.
-
-II.- Buscar todos los expedientes que se le solicitan entregándolos a la área solicitada.
-
-III.- Tener bajo su responsabilidad inmediata la custodia de los expedientes.
-
-IV.- Acompañar a los promoventes al área de fotocopiado.
-
-V.- Todas las demás que le encomiende el titular del área.
-
-###### Artículo 135°.
-
-Son obligaciones del Intendente:
-
-Limpiar, acomodar y buscar los expedientes.
-
-###### Artículo 136°.
-
-Se sancionará disciplinariamente por el Pleno del Tribunal la extracción de documentos, expedientes u objetos que realice el personal del Archivo Judicial al exterior, sin autorización alguna.
-
-###### Artículo 137°.
-
-Se depositaran en el Archivo Judicial los documentos, instrumentos u objetos remitidos por las dependencias del Poder Judicial que el Pleno o el Presidente del Tribunal determinen, de conformidad con la Ley Orgánica.
-
-###### Artículo 138°.
-
-El material archivado sólo podrá salir del local del Archivo para devolverse a la autoridad que lo remitió, a la que legalmente la sustituya, o para consulta de los Magistrados.
-
-###### Artículo 139°.
-
-No podrá extraerse documento, instrumento u objeto alguno sin otorgar recibo; el encargado del Archivo Judicial llenará una cédula con los datos que identifiquen el material extraído, que quedará en lugar de este; al ser regresado se anotará en la cédula la fecha de devolución y se archivará; el examen de los documentos o expedientes del archivo, solo podrán hacerse en presencia del encargado o, una vez que acredite el solicitante tener personalidad dentro de los autos.
-
-###### Artículo 140°.
-
-Respecto al material archivado sólo el Presidente del Tribunal podrá autorizar la devolución de documentos que se encuentren en el o la expedición de copias certificadas de sus constancias.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ###### Artículo 141º.
 
-Cuando ya no fueren necesarios en la oficina donde se generaron, el Secretario General y los de las Salas, enviaran los expedientes, legajos y libros al Archivo Judicial, de igual manera lo harán los Secretarios de los Juzgados y los encargados de las Dependencias Administrativas la remisión del material se sujetará a las siguientes reglas:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Los expedientes se enviaran en paquetes cuyo grosor no exceda de treinta centímetros, a menos que un solo Toca, expediente o documento sobrepase dicha medida, en cuyo caso se considerará como un solo paquete;
+###### Artículo 142º.
 
-II.- Se acompañará de listas por triplicado con los datos de identificación de la oficina remitente y la firma de la persona autorizada. Cada pieza se numerará en forma consecutiva, describiéndola brevemente. Si se trata de expedientes de procedimientos judiciales, se anotará su número, el nombre de los interesados y la naturaleza del procedimiento; una vez revisados pasarán a ser clasificados y capturados;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Todo tipo de documentos, materiales de cualquier naturaleza que no vengan debidamente relacionados, clasificados y empaquetados por el responsable del área remisora, no se admitirá en el Archivo Judicial hasta en tanto subsane el error;
+###### Artículo 143º.
 
-IV.- Cuando el material que se remite ya hubiere sido anteriormente clasificado en el Archivo, la devolución se hará también con listas por triplicado y en paquetes por separado del que se envía por primera vez, cuidando escrupulosamente la autoridad remitente que se haga bajo el mismo número de legajo que originalmente le correspondió.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Para la correcta clasificación del material que reciba el Archivo, las autoridades remisoras evitarán enviar paquetes que contengan simultáneamente material de distinta naturaleza;
+###### Artículo 144º.
 
-V.- Tratándose de instrumentos u objetos peligrosos o contaminantes, el encargado del Archivo Judicial deberá hacerlo del conocimiento de la superioridad para que se tomen las medidas pertinentes.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 142°.
+###### Artículo 145º.
 
-El encargado revisará el paquete o los objetos al recibirlos y si la lista estuviere correcta, devolverá un ejemplar de la misma sellado y firmado. En caso de que no fuera así se estará a lo dispuesto por la Fracción Tercera.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El encargado clasificará el material recibido y lo colocará en el lugar que le corresponda atendiendo a su naturaleza, juzgado o dependencia de origen o a las determinaciones del Presidente.
+###### Artículo 146º.
 
-###### Artículo 143°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son documentos históricos todos aquellos considerados por la propia Ley Orgánica del Poder Judicial, así como los comprendidos desde 1950 hacia atrás a los cuales se les dará un trato diferente para su archivo, evitando agentes biológicos, humedad y polvo que los pudiera dañar.
+###### Artículo 147º.
 
-Así como aquellos documentos administrativos que nos marquen la pauta o el criterio político y de administración del Tribunal Superior de Justicia, como libros de registros de expedientes, cuadernos de registro de sentencia entre otros.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 144°.
+###### Artículo 148º.
 
-Se clasificaran atendiendo la naturaleza del juicio, al año, así como al Juzgado o Sala que le haya generado, asignándoles un número de folio para su control y captura.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 145°.
+###### Artículo 149º.
 
-Todos los documentos históricos serán despojados de cualquier clase de sujetador metálico u objeto que pudieran deteriorarlos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 146°.
+###### Artículo 150º.
 
-Se protegerán insertándolos en carpetas diseñadas para tal efecto después de haberlos limpiado perfectamente con brocha fina, resguardándolos en una vitrina, evitando su excesiva manipulación, y si fuere necesario para su mantenimiento se recosturarán.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 147°.
+###### Artículo 151º.
 
-A juicio del Pleno y con el objeto de impulsar la investigación jurídica histórica se editaran temas contemplados dentro de los documentos históricos.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 148°.
+###### Artículo 152º.
 
-Todas aquellas personas que deseen consultar el Archivo Histórico que no sean funcionarios del Tribunal Superior de Justicia, deberán obtener autorización para ello de la Presidencia.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 149°.
-
-La consulta de estos expedientes se efectuará en horas hábiles contemplados por la Ley Orgánica, mediante una forma de control que contendrá los datos del interesado y de lo que solicita.
-
-###### Artículo 150°.
-
-El objeto y la finalidad de la comisión dictaminadora será la depuración del Archivo Judicial la cual estará integrada por un abogado, el jefe del Archivo Judicial, un Juez, con la asesoría de un Magistrado; siguiendo los siguientes criterios de depuración:
-
-I.- Deberán preservar los documentos que por ser útiles y necesarios para la impartición de justicia se consideren insustituibles.
-
-II.- Se conservaran los documentos relativos a juicios sucesorios, del estado civil de las personas, de las propiedades, previo análisis que a juicio del Pleno del Tribunal Superior de Justicia sean necesarios.
-
-III.- Se depuraran todos aquellos documentos que sean de archivo definitivo y que tengan más de diez años de remitidos y concluidos.
-
-IV.- Deberán realizar un muestreo general de juicios que contenga firmas indubitables de los servidores públicos del Poder Judicial de quienes han sido titulares de Juzgados y Magistraturas, que nos sirvan para seguir integrando la memoria histórica de la judicatura.
-
-V.- Deberán considerarse todas las sentencias de fondo que se dicten por los Juzgados de Primera Instancia y las Ejecutorias de las Salas, mediante minutarios de sentencias; formándose tomos para su conservación para efecto de los Anales de Jurisprudencia; sin perjuicio que dentro del proceso de modernidad pueda llegar a contar el Tribunal Superior de Justicia con microfilm o microcopiado, procediéndose a su destrucción una vez capturado por estos medios.
-
-###### Artículo 151°.
-
-Para la clasificación custodia, conserva y salvaguarda de los expedientes se asignará una sección de estantería a cada Sala, Juzgado en que serán colocados los expedientes por materia, año, cronológicamente, por centena y partido judicial, rotulando cada gaveta con la información que contenga.
-
-###### Artículo 152°.
-
-los objetos remitidos por los Juzgados Penales con motivo de los diversos procesos, se clasificaran por Juzgado por partido judicial, por año y número de expediente asignándoles una área específica.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO VII. DE LA UNIDAD DE ESTADISTICA, INFORMATICA Y COMPUTACION
 
-###### Artículo 153°.
+###### Artículo 153º.
 
-la Unidad de Estadística Informática y Computación estará a cargo de un Director que será responsable de su funcionamiento; integrada por las siguientes áreas:
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-I.- Mantenimiento, Soporte Técnico, Soporte Usuario.
+###### Artículo 154º.
 
-II.- Análisis, Diseño y Programación de Sistemas.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-III.- Diseño Gráfico, Estadística y Boletín Judicial.
+###### Artículo 155º.
 
-###### Artículo 154°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones del Director de la Unidad de Estadística, Informática y Computación:
+###### Artículo 156º.
 
-I. Coordinar las actividades de la Unidad.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II. Administrar los recursos materiales para optimizar el aprovechamiento de los mismos.
+###### Artículo 157º.
 
-III. Seleccionar las tecnologías más apropiadas a las necesidades del Poder Judicial.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-IV. Informar a la Presidencia del H. Tribunal Superior de Justicia de las actividades realizadas por la Unidad de forma semestral, anual y cada vez que le sea requerido.
-
-V. Tener bajo su responsabilidad al personal y las atribuciones que compete a los departamentos que integran la Unidad.
-
-###### Artículo 155°.
-
-Son obligaciones del área de mantenimiento, soporte técnico, y soporte a usuarios:
-
-I. Instalar los equipos, redes de comunicación y demás accesorios que se requieran.
-
-II. Configurar los equipos de computo para lograr un rendimiento optimo de los mismos.
-
-III. Instrumentar en forma oportuna programas de mantenimiento preventivo y correctivo al equipo de computo que se encuentra instalado en red, tanto locales como foráneos, de las diversas áreas que integran el Tribunal Superior de Justicia. Cuidando contar con la herramienta y equipo necesario para realizar el mantenimiento.
-
-IV. Mantener actualizados los inventarios de computadoras y demás accesorios que integran todo el Sistema de Computo del Tribunal Superior de Justicia.
-
-V. Asesorar en el aspecto informático a todos los usuarios del Sistema de Computo.
-
-VI. Impartir cursos de capacitación por lo menos una vez al año al personal que utiliza el equipo de computo; dichos cursos serán sobre Sistema Operativo, Procesador de Texto, Hojas de Cálculo y demás paquetes que se utilizan en el Sistema de Computo y sobre las cuestiones prácticas que surjan para un mejor aprovechamiento del equipo.
-
-###### Artículo 156°.
-
-Son obligaciones del área de Análisis, Diseño y Programación de Sistemas:
-
-I. Efectuar el análisis, diseño y programación de los sistemas de información requeridos por todas aquellas áreas que integran el Poder Judicial.
-
-II. Realizar las modificaciones y ajustes pertinentes a los sistemas de información existentes acordes a las necesidades del Poder Judicial.
-
-III. Mantener actualizados los archivos de datos de todos los sistemas de información en coordinación con los responsables de la captura en los Juzgados Civiles, Familiares, Penales, Salas y demás departamentos administrativos del Poder Judicial.
-
-###### Artículo 157°.
-
-Son obligaciones del área de Diseño Gráfico y Estadísticas:
-
-I. El diseño de impresión de todo tipo de formatos solicitados por los Juzgados locales y foráneos, y por las demás áreas del Poder Judicial.
-
-II. La edición de las revistas, folletos, informes de labores y otras publicaciones del Poder Judicial.
-
-III. Elaborar toda clase de documentos e informes estadísticos.
-
-IV. Auxiliar en la elaboración del informe anual de actividades en lo referente a la información estadística.
-
-V. La elaboración del Boletín Judicial.
-
-VI. Publicar las listas de acuerdos dictados por el Pleno, las Salas, y los Juzgados, con efectos de notificación en los términos establecidos por el Código de Procedimientos Civiles vigente en el Estado y las demás actividades determinadas por la Ley.
-
-VII. El Boletín Judicial se publicará diariamente con excepción de los sábados, domingos, días de fiestas nacionales o cuando por cualquier otra causa se suspendan las labores por el Tribunal Superior de Justicia.
-
-VIII. En el Boletín Judicial sólo podrán hacerse las publicaciones que marca la Ley, pero cuando el Tribunal Superior estime que deban darse a conocer estudios jurídicos de importancia o fallos notables que se pronuncien en el propio Tribunal o diversos de la República, podrá ordenarse a su publicación en un órgano que se denominará suplemento de información judicial. En el Boletín Judicial se publicará el periodo de vacaciones de los Juzgados.
-
-IX. Cuidar que el material y maquinaria del área sean manejados únicamente por personal autorizado que ajuste su actividad a las reglas técnicas aplicables.
-
-X. Cuidar que en forma oportuna se de mantenimiento a la maquinaria y se suministre el material para su funcionamiento.
-
-XI. Rendir informe mensual al Presidente del Tribunal del trabajo realizado en el que se expresará: el número de ejemplares del Boletín Judicial que se expidieron; el número de copias fotostáticas que se reprodujeron con descripción del Juzgado o Dependencia solicitante conforme a los recibos que para tal efecto se formulen; así como del material recibido y utilizado durante el periodo en que se informe; y
-
-XII. Imprimir el Boletín Judicial a más tardar a las quince horas, debiendo recabar con la oportunidad debida las listas de acuerdos de las Salas del Tribunal, de los Juzgados, así como de los demás documentos que deban publicarse por instrucciones del Pleno o del Presidente.
-
-El encargado del Boletín tendrá la obligación de hacerlo llegar diariamente a la Presidencia, Salas del Tribunal y Juzgados, quedando ejemplares del mismo a disposición del público en la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia.
-
-XIII. Tendrá también bajo su cargo el Servicio de Fotocopias del Tribunal en el que se reproducirán aquellos formatos que se utilicen en el propio Tribunal, en los Juzgados y en las Dependencias del Poder Judicial.
-
-XIV. El encargado del Boletín Judicial sólo expedirá copias fotostáticas cuando la solicitud vaya debidamente requisitada por los Magistrados o demás personal autorizado para ello por el Presidente.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO VIII. DE LA BIBLIOTECA
 
-###### Artículo 158°.
+###### Artículo 158º.
 
-la Biblioteca estará a cargo de un Bibliotecario y el horario de servicio será de las ocho treinta a las catorce horas en días hábiles.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 159°.
+###### Artículo 159º.
 
-El material de que se componga la Biblioteca será capturado dentro del Sistema de Computo que operará en la propia Biblioteca, reuniendo las siguientes características: clasificación por título de obra, por autor, por obras principales, así como clasificación general.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 160°.
+###### Artículo 160º.
 
-Además del control a través del Sistema de Computo, se elaborarán tarjeteros donde se clasifique el acervo bibliográfico por materia, título y autor.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 161°.
+###### Artículo 161º.
 
-la Biblioteca estará al servicio de los Magistrados y Jueces de manera permanente, los demás servidores públicos del Ramo de Justicia, los litigantes, así como el personal docente y alumnos de Instituciones Académicas y Organismos de Profesionistas, cuando existan convenios en términos de la Ley Orgánica podrán consultar el material bibliográfico, expidiéndose para ello credenciales que los acreditarán como usuarios.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 162°.
+###### Artículo 162º.
 
-Unicamente a los Magistrados y a los Jueces se les permitirá extraer algún libro de la Biblioteca mediante el recibo correspondiente. Los demás servidores públicos podrán extraerlos por un término que no exceda a las 72 horas naturales.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-El resto de las personas encuadradas en el artículo anterior podrán sacar el libro por un término que no excederá de 8 horas hábiles, cuando requieran fotocopias, dejando su credencial de respaldo.
+###### Artículo 163º.
 
-###### Artículo 163°.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-Son obligaciones del encargado de la Biblioteca:
+###### Artículo 164º.
 
-I. Registrar conforme la clasificación adoptada, en el Sistema de Cómputo las obras que se vayan adquiriendo;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-II. Elaborar tarjeteros donde se clasifique el acervo bibliográfico por materia, título y autor;
+###### Artículo 165º.
 
-III. Elaborar tarjeteros que faciliten la utilización de los textos legales disponibles, así como sus enmiendas y antecedentes;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-IV. Cuidar que se haga uso adecuado de las obras, estableciendo para ello los controles necesarios;
+###### Artículo 166º.
 
-V. Elaborar y distribuir entre Magistrados y Jueces, un Boletín mensual que contenga las novedades Legislativas, Jurisprudenciales y Bibliográficas;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-VI. Contratar servicios de suscripción de periódicos, diario oficial, boletín oficial, revistas y ediciones especializadas en Derecho locales y del país;
+###### Artículo 167º.
 
-VII. Recabar catálogos de las Bibliotecas Jurídicas más importantes;
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-VIII. Recabar y presentar al Presidente, cada tres meses las sugerencias de adquisición de obras que hagan los Magistrados, Jueces y Secretarios del Tribunal Superior, así como de los diversos usuarios de la Biblioteca en los términos del Artículo161; y
+###### Artículo 168º.
 
-IX. Hacer convenios con las diferentes editoriales nacionales para que le envíen las listas de los libros editados en materia Jurídica, como su costo a efecto de solicitarlos por este medio.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
-###### Artículo 164°.
-
-El material bibliográfico especialmente valioso y de difícil recuperación, se guardará en lugar especial y sólo podrá consultarse bajo la vigilancia directa del encargado o del empleado que comisione.
-
-###### Artículo 165°.
-
-En los libros donados se asentará el nombre del donante. Cuando así lo desee éste.
-
-###### Artículo 166°.
-
-Todos los usuarios de la Biblioteca que no regresen el material bibliográfico facilitado en el término establecido por la Ley Orgánica y este Reglamento pagaran una multa equivalente a un día de salario mínimo vigente en el Estado por cada día de retardo.
-
-Los Magistrados y Jueces que requieran el material bibliográfico por un término mayor a lo establecido por la Ley Orgánica podrán renovar la solicitud, el día de su vencimiento.
-
-###### Artículo 167°.
-
-Estas multas se canalizaran a la Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia para formar un fondo que auxiliará para la compra de acervo cultural.
-
-###### Artículo 168°.
-
-El Biliotecario (sic) deberá integrar una Hemeroteca con el periódico que a juicio del Pleno del Tribunal Superior de Justicia sea el de mayor relevancia y contenido;
-
-Así mismo deberá recopilar y tener bajo su guarda y custodia los demás periódicos emitidos en la localidad y los que se reciban de otras entidades cuando menos de un año hacia atrás.
+> <small>(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2018)</small>
 
 ### CAPITULO IX. DE LA UNIDAD DE COMUNICACION SOCIAL
 
-###### Artículo 169°.
+###### Artículo 169º.
 
-Son obligaciones de la Unidad de Comunicación Social.
-
-I. Establecer y fomentar las relaciones con los medios de comunicación masiva, así como la emisión periódica de Boletines de Prensa, que lleven en su presentación el logotipo del Tribunal, para que se distribuyan a la Prensa, Radio y Televisión locales.
-
-II. La elaboración de una memoria con los recortes periodísticos que se refieran al H. Tribunal Superior de Justicia, así como la minuciosa evaluación de la información que sobre el Tribunal se difunda en los medios.
-
-III. La elaboración diaria de una síntesis informativa que analice los medios de comunicación en el aspecto político, económico y social, remitiéndolo a la Presidencia del Tribunal Superior de Justicia.
-
-IV. Coadyuvar en la tarea que emprenda este H. Tribunal, que tiendan a fortalecer la imagen institucional al exterior.
-
-V. Apoyar la organización y coordinación de eventos especiales agendados por la Presidencia del Tribunal. Así como la cobertura informativa, fotográfica dándole la difusión correspondiente.
-
-VI. Las demás atribuciones y obligaciones que a juicio de la Presidencia y del Pleno del H. Tribunal se acuerde.
+(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, P.O. 31 DE ENERO DE 2018)
 
 ## TITULO SEPTIMO
 
@@ -1513,3 +1047,21 @@ Tercero:-Los beneficios personales que de la Ley Orgánica del Poder Judicial y 
 Cuarto:-La vigencia de este Reglamento iniciará a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado y en el Boletín Judicial.
 
 Quinto:-Se abroga el vigente Reglamento de la Ley Orgánica del Poder Judicial del estado de Baja California Sur de fecha 10 de julio de 1990.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Articulo Segundo.- Se derogan todas aquellas disposiciones del Reglamento de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado Número 39, el día 11 de octubre de 1996, que se opongan al presente reglamento, expresamente, las contenidas en los Títulos Primero, Quinto y Sexto.
+
+Artículo Tercero.- Se Abroga el Reglamento de los Centros de Convivencia Familiar del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 23 el día 31 de mayo del año 2014.
+
+Artículo Cuarto.- Se Abroga el Reglamento de la Central de Consignaciones de Pensiones Alimenticias del Poder Judicial del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 40 del 27 de agosto del año 2013.
+
+Artículo Quinto.- El sistema de identificación de huella digital a que se hace referencia en la sección relativa a la Central de Consignaciones de Pensiones Alimentarias, entrará en funcionamiento a más tardar el día 15 de Febrero del 2018.
+
+Artículo Sexto.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
