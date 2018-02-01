@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-consejo-estatal-de-concertacion-45161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2013-07-18"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 12 de mayo de 2005.
 
@@ -91,29 +91,41 @@ DEL CONSEJO DIRECTIVO.
 
 INTEGRACIÓN Y ATRIBUCIONES.
 
-> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, B.O. 1 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 4º.
+###### ARTÍCULO 4°.
 
-El máximo órgano de gobierno del Consejo Estatal de Concertación para la Obra Pública es su Consejo Directivo, el cual se integra por:
+El Consejo Directivo será la máxima autoridad del Consejo Estatal de Concertación para la Obra Pública y se integrará por:
 
-> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+I.- Un Presidente, que será el Gobernador del Estado;
 
-I.- Un Presidente, que será el Secretario de Infraestructura y Desarrollo Urbano;
+II.- Un Vicepresidente, que será el Secretario Técnico y de Atención Ciudadana;
 
-> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+III.- Un representante de la sociedad civil, designado por el Presidente;
 
-II.- Un Vicepresidente, que será el Subsecretario de Participación Ciudadana y Enlace Institucional de la Secretaría de Desarrollo Social, quien además fungirá como Presidente de la Junta Estatal de Participación Social;
+IV.- Un Tesorero, que será un representante de la sociedad civil, designado por el Presidente del Consejo Directivo; y
 
-III.- Un representante de la sociedad civil, designado por el Presidente del Consejo Directivo;
+V.- Once Vocales, que serán:
 
-IV.- Un Tesorero, que será un representante de la sociedad civil; y
+a) El Secretario de Infraestructura y Desarrollo Urbano;
 
-> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+b) El Secretario de Gobierno;
 
-V.- Once Vocales, que serán: tres representantes de la sociedad civil, tres Presidentes Municipales y los Titulares de las Secretarías de Gobierno, de Hacienda, de Desarrollo Social, de Economía y de Educación y Cultura.
+c) El Secretario de Hacienda;
 
-Los integrantes del Consejo Directivo se desempeñarán en forma honorífica.
+d) El Secretario de Desarrollo Social;
+
+e) El Secretario de Economía;
+
+f) El Secretario de Educación y Cultura;
+
+g) Dos representantes de la sociedad civil, designados por el Coordinador General del Consejo Estatal de Concertación para la Obra Pública; y
+
+h) Tres Presidentes Municipales, designados por el Coordinador General del Consejo Estatal de Concertación para la Obra Pública.
+
+Los cargos del Consejo Directivo serán honoríficos, por lo que por su desempeño no se percibirá retribución o compensación alguna.
+
+Cada uno de los miembros propietarios podrá designar, por escrito, a su respectivo suplente que lo sustituirá en caso de sus ausencias temporales. El carácter de suplente deberá acreditarse antes del inicio de la sesión ante el Presidente y el Secretario Técnico del Consejo Directivo.
 
 ###### ARTÍCULO 5º.
 
@@ -437,9 +449,9 @@ VIII.- Las demás que le confieran este Reglamento, el Presidente del Consejo Di
 
 La Junta Estatal de Participación Social se integrará por:
 
-> <small>(REFORMADA, B.O. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 1 DE FEBRERO DE 2018)</small>
 
-I.- Un Presidente, que será el Subsecretario de Participación Ciudadana y Enlace Institucional de la Secretaría de Desarrollo Social;
+I.- Un Presidente a cargo del Secretario Técnico y de Atención Ciudadana;
 
 II.- Un Secretario;
 
@@ -447,9 +459,13 @@ III.- Hasta nueve vocales, y
 
 IV.- Un Secretario Técnico.
 
-> <small>(REFORMADO, B.O. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, B.O. 1 DE FEBRERO DE 2018)</small>
 
-El Presidente del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública, designará al Secretario, a los Vocales y al Secretario Técnico de la Junta Estatal de Participación Social.
+El Presidente de la Junta designará a los integrantes de la misma previstos en las fracciones II y III de este artículo, quienes en su mayoría deberán ser ciudadanos representativos de las distintas regiones del Estado. El Secretario Técnico será designado por el Coordinador General del Consejo Estatal de Concertación para la Obra Pública.
+
+> <small>(ADICIONADO, B.O. 1 DE FEBRERO DE 2018)</small>
+
+El carácter de miembro de la Junta Estatal de Participación Social es honorifico, por lo que los mismos no percibirán remuneración o compensación alguna por su desempeño.
 
 > <small>(REFORMADO, B.O. 18 DE JULIO DE 2013)</small>
 
@@ -663,7 +679,9 @@ VIII.- Definir las políticas de instrumentación de los sistemas de control que
 
 IX.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el organismo.
 
-X.- Ejecutar los acuerdos que dicte el Consejo Directivo y ejecutar las políticas y estrategias que emita éste, para llevar a cabo las actividades del organismo.
+> <small>(REFORMADA, B.O. 1 DE FEBRERO DE 2018)</small>
+
+X.- Ejecutar los acuerdos que emita el Consejo Directivo y las políticas y estrategias que emita éste para llevar las actividades del organismo, así como instruir la publicación en el Boletín Oficial del Gobierno del Estado de dichos acuerdos que conforme a la normatividad aplicable deban difundirse en ese medio oficial.
 
 XI.- Acordar con los titulares de las unidades administrativas del organismo, el despacho de los asuntos a su cargo y con los demás servidores públicos, los asuntos de la competencia de éstos, cuando así lo considere conveniente.
 
@@ -711,6 +729,10 @@ XXIV.- Proporcionar al comisario público oficial o ciudadano, en su caso, desig
 
 XXV.- Tomar las medidas necesarias para el cumplimiento de las disposiciones contenidas en el Decreto de Creación del organismo y en las leyes, decretos, reglamentos y demás disposiciones aplicables, así como para su verificación.
 
+> <small>(ADICIONADO, B.O. 1 DE FEBRERO DE 2018)</small>
+
+XXV Bis.- Cotejar y certificar copias fotostáticas o digitales de toda clase de documentos físicos y digitales que se generen en este organismo, así como los que obren en los archivos de Coordinación General y cualquiera de sus Direcciones y/o áreas; y,
+
 XXVI.- Las demás que se requieran para el mejor desempeño de las anteriores facultades y obligaciones, que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
 
 ###### ARTÍCULO 48.
@@ -753,7 +775,7 @@ XI.- Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 XII.- Proponer la celebración de acuerdos de coordinación con las dependencias y entidades de la administración pública federal y municipal, así como bases de coordinación y colaboración institucional con dependencias y entidades estatales;
 
-XIII.- Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones administrativas relacionadas con los servicios y actividades de la competencia de las unidades administrativa (sic), tomando las mediadas adecuadas para prevenir y corregir las violaciones de dichas normas;
+XIII.- Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones administrativas relacionadas con los servicios y actividades de la competencia de las unidades administrativa (sic), tomando las mediadas (sic) adecuadas para prevenir y corregir las violaciones de dichas normas;
 
 XIV.- Evaluar sistemática y periódicamente, la relación que guardan los programas a cargo de la unidad administrativa a su cargo, así como los resultados de su ejecución, con los objetivos y prioridades de los programas del organismo y proponer las medidas necesarias para corregir las desviaciones a dichos programas, y
 
@@ -877,6 +899,10 @@ XXII.- Preparar la información prevista en el artículo 117 del Reglamento de l
 
 XXIII.- Participar en el ámbito de su competencia, en la solventación de aquellas recomendaciones que, derivado de la práctica de auditorías y de estudios evaluatorios realicen auditores externos, el comisario público del organismo y la Secretaría de la Contraloría General, dando seguimiento, en todos los casos, a las acciones correctivas que se realicen, y
 
+> <small>(ADICIONADO, B.O. 1 DE FEBRERO DE 2018)</small>
+
+XXIII Bis.- Cotejar y certificar copias fotostáticas o digitales de toda clase de documentos físicos y digitales que se generen en este organismo, así como los que obren en los archivos de Coordinación General y cualquiera de sus Direcciones y/o áreas; y,
+
 XXIV.- Las demás que le señale el Consejo Directivo, el Coordinador General o le confieran este reglamento y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 53.
@@ -994,3 +1020,19 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 B.O. 18 DE JULIO DE 2013.
 
 ÚNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 47 Y LA FRACCIÓN XXIII BIS AL ARTÍCULO 52, AMBOS DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+SEGUNDO.- Las modificaciones a los manuales de organización y de procedimientos derivadas de este Acuerdo, deberán expedirse dentro de los ciento ochenta días siguientes a la publicación del mismo en el Boletín Oficial, quedando facultado el titular del Consejo para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales.
+
+B.O. 1 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA”]
+
+###### ARTÍCULO UNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
