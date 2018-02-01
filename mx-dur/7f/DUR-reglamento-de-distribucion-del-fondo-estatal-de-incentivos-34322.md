@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-distribucion-del-fondo-estatal-de-incentivos-3432
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-04"
-last_updated: "2003-09-04"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DE DISTRIBUCIÓN DEL FONDO ESTATAL DE INCENTIVOS POR ACTOS DE FISCALIZACIÓN DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 4 de septiembre de 2003.
 
@@ -39,9 +39,11 @@ REGLAMENTO DE DISTRIBUCIÓN DEL FONDO ESTATAL DE INCENTIVOS POR ACTOS DE FISCALI
 
 Con el propósito de estimular la eficiencia y productividad del personal que interviene en los actos de fiscalización se crea el Fondo Estatal de Incentivos por Actos de Fiscalización con los recursos provenientes de los incentivos Económicos que otorga el Gobierno Federal, derivados del cumplimiento del Convenio de Colaboración Administrativa en Materia Fiscal Federal que tiene celebrado el Gobierno del Estado de Durango con la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
-Los incentivos fiscales a que se refiere el artículo anterior serán los que reciba efectivamente el Estado de conformidad con las cláusulas decimaprimera y la decimacuarta, fracciones III, IV, X incisos b, c y d, XI y XIV y del Convenio de Colaboración Administrativa en Materia Fiscal Federal que tiene celebrado el Gobierno del Estado de Durango con la Secretaría de Hacienda y Crédito Público, disminuidos con el total de las devoluciones por los mismos conceptos.
+Los incentivos fiscales a que se refiere el artículo anterior serán los que reciba efectivamente el Estado de conformidad con la cláusula decima novena, fracciones I, II, III, V, VI, VII, IX incisos b), c) y d), X y XI inciso b) del Convenio de Colaboración Administrativa en Materia Fiscal Federal, que tiene celebrado el Gobierno del Estado de Durango con la Secretaría de Hacienda y Crédito Público, exclusivamente por concepto de multas, honorarios de notificación y gastos de ejecución, así como los conceptos establecidos en los artículos 101, 102, 104, 106, 108, 110, 140 y 163 del Código Fiscal del Estado de Durango, que efectivamente se cobren, disminuidos por el total de las devoluciones por los mismos conceptos.
 
 ###### ARTÍCULO 3.
 
@@ -87,17 +89,19 @@ La Dirección de Auditoria Fiscal efectuará el pago de los incentivos mediante 
 
 El Fondo Estatal de Incentivos por Actos de Fiscalización a que se refiere este Título se distribuirá conforme a lo siguiente:
 
-I. El 30% del mismo en la creación de un Fondo de Capacitación que también incluya incentivos por asistencia, equipamiento y recreación conforme a la siguiente tabla:
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2018)</small>
+
+I.- El 30% del mismo en la creación de un Fondo de Capacitación que también incluya incentivos por asistencia, equipamiento y recreación conforme a la siguiente tabla:
 
 CONCEPTO % ASIGNADO
 
-Capacitación 40%
+Capacitación 20%
 
 Incentivos por asistencia 25%
 
-Equipamiento 20%
+Equipamiento 50%
 
-Actividades de recreación 15%
+Actividades de recreación 5%
 
 100%
 
@@ -488,3 +492,13 @@ LIC. JOSÉ MIGUEL CASTRO CARRILLO
 EL SECRETARIO DE FINANZAS Y DE ADMINISTRACIÓN
 
 LIC. JUAN MANUEL FLORES ÁLVAREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS A LOS ARTÍCULOS NÚMERO 2 Y 10 DEL REGLAMENTO DE DISTRIBUCIÓN DEL FONDO ESTATAL DE INCENTIVOS POR ACTOS DE FISCALIZACIÓN DE LA SECRETARÍA DE FINANZAS Y DE ADMINISTRACIÓN-SUBSECRETARÍA DE INGRESOS”.]
+
+PRIMERO.- El presente instrumento modificatorio entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los recursos que a la fecha de entrada en vigor del presente instrumento, se encuentren en el Fondo de Capacitación a que se refiere el artículo 10 fracción I del Reglamento de Distribución del Fondo Estatal de Incentivos por Actos de Fiscalización, se redistribuirán conforme a la nueva disposición.
