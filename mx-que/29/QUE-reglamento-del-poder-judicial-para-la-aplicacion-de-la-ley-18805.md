@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-poder-judicial-para-la-aplicacion-de-la-ley-1880
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2002-10-25"
+last_updated: "2018-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,17 @@ state: "QUE"
 ---
 # REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
 
-REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACION DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE QUERETARO
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACIÓN DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de noviembre de 2000.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anterior, se expide el presente:
 
@@ -397,15 +401,17 @@ El Comité deberá declarar desierta una licitación o concurso por invitación 
 
 I. Si no se registran por los menos dos concursantes en el acto de apertura de propuestas técnicas.
 
-II. Si al abrir los expedientes de documentación presentada no se encuentran por lo menos dos que cumplan los requisitos de documentación legal solicitada.
+II. (DEROGADA, P.O. 2 DE FEBRERO DE 2018)
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
-
-III. Si en la evaluación económica no existen al menos dos proveedores que cumplan las condiciones exigidas en la convocatoria y bases de la licitación o concurso por invitación restringida.
+III. (DEROGADA, P.O. 2 DE FEBRERO DE 2018)
 
 IV. Si en la evaluación económica no fuese posible adjudicar los contratos a ningún proveedor porque no cumplen las condiciones exigidas en la convocatoria y bases de la licitación o concurso por invitación restringida.
 
 V. Cuando el costo de los bienes ofertados en la propuesta más baja, sea superior al costo promedio del mercado.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2018)</small>
+
+Siempre que se registren al menos dos proveedores y al menos una de las propuestas cumpla con los requisitos señalados en la normatividad aplicable y las bases correspondientes, los procedimientos de licitación o invitación restringida se desahogarán hasta su conclusión.
 
 ### Capítulo II. Causas para cancelar una licitación o concurso por invitación restringida
 
@@ -465,8 +471,18 @@ TERCERO.- Se ratifica la eficacia jurídica de las acciones y contrataciones pre
 
 DADO EN EL RECINTO OFICIAL DEL PODER JUDICIAL, EN LA CIUDAD DE SANTIAGO DE QUERETARO, ESTADO DE QUERETARO, EN LA SESION PLENARIA DEL DIA 20 VEINTE DEL MES DE OCTUBRE DEL AÑO 2000 DOS MIL. APROBADO POR UNANIMIDAD POR LOS MAGISTRADOS LICENCIADOS ARACELI AGUAYO HERNANDEZ, MARIA ELISA RENTERIA MORENO, CELIA MAYA GARCIA, J. JESÚS CASTELLANOS MALO, GONZALO AGUIRRE FUENTES, ARTURO GONZALEZ DE COSIO FRIAS, FRANCISCO D. CHOWELL FERNANDEZ, JESUS GARDUÑO SALAZAR Y JUAN MANUEL ZEPEDA GARRIDO, CON AUSENCIA DEL LIC. SERGIO HERRERA TREJO Y DE CONFORMIDAD CON EL ARTICULO 12 DE LA LEY ORGANICA DEL PODER JUDICIAL, FUNGIENDO COMO PRESIDENTE LA PRIMERA DE LAS NOMBRADAS Y COMO SECRETARIA DE ACUERDOS LA LIC. NOEMÍ PALACIOS CAMACHO. (Rúbricas).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 25 DE OCTUBRE DE 2002.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 2 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DEROGAN LAS FRACCIONES II Y III DEL ARTÍCULO 57 DEL REGLAMENTO DEL PODER JUDICIAL PARA LA APLICACIÓN DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, Y SE ADICIONA UN PÁRRAFO AL FINAL DEL MISMO".]
+
+PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+SEGUNDO. El presente acuerdo surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
