@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2017-11-17"
+last_updated: "2018-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1464,6 +1464,10 @@ Resultará electo Gobernador del Estado el candidato que, una vez realizada la e
 El Gobernador deberá rendir la protesta constitucional de su cargo ante el Pleno del Congreso del Estado.
 
 En caso de que el Gobernador no pueda rendir protesta ante el Pleno, lo hará ante la Mesa Directiva o ante la Comisión Permanente; en su caso, ante el Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2018)</small>
+
+El Gobernador del Estado, protestará su cargo, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así que la Nación y el Estado me lo demanden".
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3641,7 +3645,21 @@ Son servidores públicos del Estado los representantes de elección popular, los
 
 1. Los servidores públicos se encuentran sujetos al siguiente régimen jurídico:
 
-I. A rendir protesta constitucional previa al ejercicio de su encargo, de conformidad con las modalidades establecidas en la ley;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2018)</small>
+
+I. A rendir protesta constitucional previa al ejercicio de su cargo en los términos siguientes:
+
+La autoridad que reciba la protesta dirá:
+
+¿Protesta guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes del cargo de… que el Estado os ha conferido?
+
+El interrogado contestará:
+
+"Si Protesto".
+
+Acto continuo, la misma autoridad que tome la protesta dirá:
+
+"Si no lo hicieres así, que la Nación y el Estado os lo demanden".
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -5110,3 +5128,23 @@ PRIMERO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la ent
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 2 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247 POR EL QUE SE REFORMA EL NUMERAL 1, FRACCIÓN I DEL ARTÍCULO 191 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto a los Ayuntamientos de la entidad para efecto de lo dispuesto por la fracción III del numeral 1 del Artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la Declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+
+###### ARTICULO SEGUNDO.
+
+Una vez emitida la Declaratoria por el Congreso del Estado, la presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO TERCERO.
+
+Remítase al Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
+
+###### ARTICULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
