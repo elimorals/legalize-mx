@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2017-06-20"
+last_updated: "2018-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -685,7 +685,9 @@ XIV. Fungir como enlace institucional en materia de transparencia, vigilar y coo
 
 XV. Asesorar el funcionamiento de los cuerpos colegiados que operen en el Consejo;
 
-XVI. Llevar a cabo la legalización y registro de firmas y de los poderes de los servidores públicos del Consejo ante la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2018)</small>
+
+XVI. Llevar a cabo el registro interno de firmas y presentar a la Secretaría de Gobernación los registros correspondientes, para que ésta realice el trámite de legalización procedente de los documentos públicos del Consejo. Así como el registro de los poderes de los servidores públicos, que por sus funciones lo requieran, ante la Secretaría de Hacienda y Crédito Público.
 
 XVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes;
 
@@ -1266,3 +1268,7 @@ D.O.F 25 DE AGOSTO DE 2016.
 D.O.F 20 DE JUNIO DE 2017.
 
 > <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 2 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
