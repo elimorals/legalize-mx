@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-fraccionamientos-del-estado-de-baja-california-37
 country: "mx"
 rank: "reglamento"
 publication_date: "1971-04-10"
-last_updated: "1993-11-26"
+last_updated: "2018-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de abril de 1971.
 
@@ -1313,13 +1313,13 @@ Si el permiso del fraccionamiento se otorgó para su desarrollo total, se puede 
 
 ### CAPITULO V. ZONIFICACION
 
-###### ARTICULO 88.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2018)</small>
+
+###### ARTÍCULO 88.
 
 Generalidades.
 
-Todo fraccionamiento que se realice en una superficie de terreno mayor de diez hectáreas, el fraccionador estará obligado a presentar su proyecto de zonificación y ésta se ajustará a lo que en Artículos anteriores se estableció para cada clasificación de tipo de fraccionamiento.
-
-En fraccionamientos con superficies inferiores a diez hectáreas, la superficie de donación será del 15% y lo que corresponda al costo de construcción de escuela según el cálculo que se haga, será enterado en efectivo a la Tesorería General del Estado.
+En todo fraccionamiento que se realice, indistintamente al régimen de propiedad que se sujete, el fraccionador estará obligado a presentar su proyecto de zonificación y éste se ajustará a lo que en artículos anteriores se estableció para cada clasificación de tipo de fraccionamiento.
 
 ###### ARTICULO 89.
 
@@ -1852,3 +1852,15 @@ El presente Acuerdo entrará en vigor al día siguiente hábil, al de su publica
 ###### ARTICULO SEGUNDO.
 
 Los Fraccionamientos autorizados con anterioridad a la publicación del presente acuerdo y que no hayan formalizado la entrega de las áreas donables correspondientes, se podrán efectuar mediante documento privado.
+
+P.O. 2 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 88 DEL REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dictaminaciones de carácter estatal, respecto de las autorizaciones de fraccionamientos, que se encuentren pendientes a la fecha de entrada en vigor de la presente reforma, se realizarán tomando en consideración lo previsto en la misma.
