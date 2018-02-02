@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2017-03-10"
+last_updated: "2018-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -509,6 +509,38 @@ VI.- Coordinación de Atención Ciudadana;
 
 VII.- Coordinación de Atención a Personas con Discapacidad.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 32 BIS.- La Oficina de la Presidencia contará con un órgano operativo desconcentrado, con autonomía de gestión para el desarrollo de sus funciones, denominado Unidad Coordinadora de Transparencia, cuyo titular será designado por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 32 TER.- La Unidad Coordinadora de Transparencia además fungirá como Unidad de Transparencia del Ayuntamiento y de las dependencias de la Administración Pública Municipal y tendrá las atribuciones siguientes:
+
+I.- Recabar y difundir las obligaciones de transparencia entre los sujetos obligados municipales, y fomentar la transparencia y su accesibilidad al interior del gobierno municipal;
+
+II.- Recabar, difundir y de forma preventiva, verificar que el Ayuntamiento y las dependencias de la Administración Pública Municipal publiquen y actualicen la información pública de oficio, emitiendo las observaciones y recomendaciones que considere necesarias de manera preventiva a los sujetos obligados del Municipio;
+
+III.- Asesorar a los particulares sobre el derecho de acceso a la información pública y la protección de datos personales, así como recibir sus comentarios y sugerencias;
+
+IV.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información pública y en caso de que la información solicitada corresponda a otro sujeto obligado, orientarlos sobre el lugar donde se les pueda proporcionar;
+
+V.- Recibir y tramitar las solicitudes de acceso a la información pública y de protección de datos personales, que se formulen al Ayuntamiento y dependencias de la Administración Pública Municipal y proponer personal habilitado para tales efectos;
+
+VI.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información pública;
+
+VII.- Servir como vínculo entre los solicitantes y el Ayuntamiento o las dependencias de la Administración Pública Municipal;
+
+VIII.- Efectuar las notificaciones correspondientes a los solicitantes;
+
+IX.- Registrar las solicitudes de información pública, respuestas, resultados, costos de reproducción y envío;
+
+X.- Proponer al Comité de Transparencia del Ayuntamiento y de las dependencias de la Administración Pública Centralizada, los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información pública, conforme a la normatividad aplicable;
+
+XI.- Informar a la Sindicatura Municipal la probable responsabilidad por el incumplimiento de las obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales, y
+
+XII.- Las demás que señalen las leyes, reglamentos y ordenamientos respectivos.
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO INTEGRADO POR CINCO FRACCIONES.</small>
 
 ###### ARTICULO 33.
@@ -673,7 +705,7 @@ ARTICULO 40 BIS.- La Secretaría del Ayuntamiento para el cumplimiento de sus at
 
 I.- La Subdirección de Gobierno, de la que dependerán las siguientes unidades administrativas:
 
-a) Unidad Municipal de Acceso a la Información;
+a) (DEROGADO, P.O. 2 DE FEBRERO DE 2018)
 
 b) Unidad Municipal de Protección Civil;
 
@@ -735,41 +767,7 @@ VIII.- Expedir las constancias de vecindad y residencia que sean solicitadas por
 
 IX.- Participar en la mediación y resolución de conflictos de carácter social, que requieren la intervención de la Secretaria del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
-
-ARTICULO 41 BIS.- La Unidad Municipal de Acceso a la Información, será el vínculo entre el gobierno municipal y el peticionario para la atención de las solicitudes de información, asimismo será la responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, para ello la Unidad tendrá las siguientes atribuciones:
-
-I.- Recabar, difundir y actualizar en coordinación con los sujetos obligados, la información pública de oficio a que se refiere el presente Reglamento, tramitando su publicación en los medios electrónicos correspondientes del Ayuntamiento, así como et propiciar que las dependencias y entidades de la Administración Pública, la actualicen' según un calendario establecido por el Comité;
-
-II.- Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema;
-
-III.- Elaborar formatos de solicitudes de acceso a la información pública, así como los de acceso y corrección de datos personales;
-
-IV.- Recibir y dar trámite a las solicitudes de acceso a la información que no esté disponible en los medios electrónicos respectivos;
-
-V.- Entregar, en su caso, a los peticionarios, la información solicitada;
-
-VI.- Auxiliar a los peticionarios en la elaboración de solicitudes de acceso a la información y de ser necesario, en caso de que la información solicitada corresponda a otra instancia de gobierno, orientarlos sobre el lugar donde se la puedan proporcionar;
-
-VII.- Realizar al interior de la Administración Pública, los trámites necesarios para integrar la información solicitada, además de efectuar las notificaciones a los peticionarios respecto del trámite;
-
-VIII.- Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las peticiones de acceso a la información;
-
-IX.- Coadyuvar en el diseño de sistemas fáciles de operar para el acceso a la información, para garantizar que la información presentada en los medios electrónicos correspondientes sea comprensible y actualizada;
-
-X.- Proporcionar asesoría a los particulares y servidores públicos del Ayuntamiento sobre la información solicitada cuando sea necesario;
-
-XI.- Llevar un registro de las solicitudes de acceso a la información y sus resultados;
-
-XII.- Elaborar un catálogo de información de expedientes clasificados en primera instancia por los servidores públicos, que será del conocimiento público;
-
-XIII.- Coadyuvar con el Comité, para la elaboración del proyecto de aprobación, modificación o revocación de la clasificación de la información realizada en primera instancia por los servidores públicos;
-
-XIV.- Coadyuvar en la capacitación de los servidores públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
-
-XV.- Acatar las recomendaciones y requerimientos de informes que realice el Consejo, así como los lineamientos y criterios que determine el Ayuntamiento; y
-
-XVI.- Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las disposiciones jurídicas aplicables.
+ARTICULO 41 BIS.- (DEROGADO, P.O. 2 DE FEBRERO DE 2018)
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -3706,3 +3704,13 @@ P.O. 10 DE MARZO DE 2017.
 PRIMERO: Las presentes reformas surtirán efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
 SEGUNDO: Se instruye a la Tesorería Municipal a efecto de realizar las modificaciones presupuestales pertinentes para la generación y funcionamiento de la coordinación en mención.
+
+P.O. 2 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE AUTORIZA LA DISPENSA DE DICTAMEN DE COMISIÓN RESPECTO A LAS REFORMAS PLANTEADAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA; SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 32 BIS Y 32 TER, Y SE DEROGAN EL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 40 BIS Y EL ARTÍCULO 41 BIS, DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+UNO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+DOS.- La Tesorería Municipal deberá realizar las adecuaciones pertinentes, para transferir los recursos presupuestales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano operativo desconcentrado de la Oficina de la Presidencia, denominado Unidad Coordinadora de Transparencia.
+
+TRES.- La Oficialía Mayor deberá llevar a cabo las acciones necesarias para adscribir al personal y recursos materiales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano operativo desconcentrado de la Oficina de la Presidencia, denominado Unidad Coordinadora de Transparencia.
