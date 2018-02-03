@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2017-08-05"
+last_updated: "2018-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -4195,9 +4195,9 @@ ART. 704.- Si el cónyuge ausente regresa o se probare su existencia, quedará r
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE FEBRERO DE 2018)</small>
 
-ART. 705.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+ART. 705.- Cuando hayan transcurrido dos años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el capítulo I de este título.
 
@@ -5711,7 +5711,7 @@ ART. 1212.- Por razón de delito son incapaces de adquirir por testamento o por 
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+II.- (DEROGADA, P.O. 3 DE FEBRERO DE 2018)
 
 III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -11498,3 +11498,9 @@ P.O. 5 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 324 POR EL QUE SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 103, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 11 DE JUNIO DE 2016".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 440 POR EL QUE SE REFORMA EL ARTÍCULO 705 Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 1212 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
