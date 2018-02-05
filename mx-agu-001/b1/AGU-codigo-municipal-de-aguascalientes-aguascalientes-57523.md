@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-01-29"
+last_updated: "2018-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS REFORMAS Y MODIFICACIONES A LOS ARTÍCULOS 98 Y 104 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2018, LAS REFERENCIAS A LA CONTRALORÍA MUNICIPAL O A SU TITULAR CONTENIDAS EN ESTE CÓDIGO, ASÍ COMO EN OTRAS DISPOSICIONES REGLAMENTARIAS, ADMINISTRATIVAS O CONTRACTUALES, SE ENTENDERÁN HECHAS AL ÓRGANO INTERNO DE CONTROL Y A SU TITULAR, SEGÚN CORRESPONDA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3255,27 +3257,33 @@ Departamento de Difusión.
 
 Departamento de Análisis y Síntesis.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2018)</small>
 
-VIII.- CONTRALORÍA MUNICIPAL
+VIII.- ÓRGANO INTERNO DE CONTROL
 
-Coordinación Jurídica.
+Titular del Órgano Interno de Control.
 
-Coordinación de Atención Ciudadana y Quejas.
+Departamento Administrativo.
 
-Dirección de Auditoría Operacional y de Gestión.
+Dirección Interna de Control.
 
-Departamento de Control de Procesos.
+Departamento de Rendición de Cuentas y Normatividad.
 
-Departamento de Revisión al Ejercicio de Recursos Federales y Municipales.
+Departamento de Prevención y Atención a Entes Fiscalizadores.
 
-Departamento de Auditoría de Información Contable.
+Dirección de Investigación.
 
-Dirección de Auditoría de Obra Pública.
+Departamento de Auditoría de Obra Pública.
 
-Departamento de Evaluación a Obras Públicas.
+Departamento de Auditoría Financiera.
 
-Departamento de Evaluación a Servicios Públicos.
+Departamento de Calificación y Asesoría Jurídica.
+
+Dirección Substanciadora.
+
+Departamento de Acuerdos.
+
+Departamento de Proyectos y Resoluciones.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
@@ -4453,13 +4461,17 @@ XIX. Las demás que le encomiende el Consejo de la Ciudad, la Comisión Permanen
 
 (DEROGADO, P.O. 31 DE ENERO DE 2011)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2018)</small>
+
 APARTADO QUINTO
 
-Contraloría Municipal
+Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 104.
 
-Corresponde a la Contraloría Municipal, como único órgano de control interno del Municipio de Aguascalientes, el despacho de los siguientes asuntos:
+Corresponde al Órgano Interno de Control del Municipio de Aguascalientes, el despacho de los siguientes asuntos:
 
 I. Evaluar el Sistema de Control Interno en la administración pública municipal.
 
@@ -4473,37 +4485,35 @@ V. Practicar auditorias, revisiones, visitas e inspecciones a las dependencias y
 
 VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento.
 
-VII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+VII. Investigar de oficio o en atención a las quejas, denuncias y a los hechos o elementos detectados en las auditorias, revisiones y visitas de verificación, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa.
 
-VIII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal.
+VIII. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas.
 
-IX. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas.
+IX. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal.
 
-X. Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente.
+X. Interpretar para efectos jurídico-administrativos la legislación Municipal.
 
-XI. Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Municipio o de aquellos concertados con la Federación y el Estado que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública Municipal, de la Federación, del Estado o al patrimonio de sus entidades, organismos descentralizados, auxiliares y fideicomisos públicos.
+XI. Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
 
-XII. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal.
+XII. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño.
 
-XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución.
+XIV (SIC). Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine el Órgano Interno de Control, Delegados de la propia ante las dependencias de la administración pública municipal.
 
-XIV. Interpretar para efectos jurídico-administrativos la legislación Municipal.
+XV. Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código.
 
-XV. Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
+XVI. Calificar las faltas de los servidores públicos municipales así como las de los particulares que impliquen presuntas responsabilidades administrativas.
 
-XVI. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño.
+XVII. Substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-XVII. Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine la Contraloría, Delegados de la propia ante las dependencias de la administración pública municipal.
+XVIII. Suscribir convenios de colaboración con entes Fiscalizadores y con Organismos Públicos Descentralizados, para efecto de practicar revisiones, auditorías y visitas de verificación.
 
-XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código.
+XIX. Desahogar las funciones y conocer de los recursos administrativos, que establezcan las leyes de responsabilidades administrativas.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+XX. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas.
 
-XIX. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental.
+XXI. Implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+XXII. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -27496,6 +27506,20 @@ P.O. 29 DE ENERO DE 2018.
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- La Secretaría de Finanzas Publicas deberá prever las adecuaciones necesarias al Presupuesto de Egresos actual, así como a los subsecuentes, a fin de que el Instituto Municipal de la Mujer de Aguascalientes esté en posibilidades de impartir por sí mismo, o a través de los servicios de alguna organización de la sociedad civil especializada, los cursos de concientización en materia de acoso callejero dirigidos a infractores.
+
+P.O. 5 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y MODIFICACIONES A LOS ARTÍCULOS 98 Y 104 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, MEDIANTE EL CUAL SE CREA EL ÓRGANO INTERNO DE CONTROL DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas y la Secretaría de Administración; deberán llevar a cabo todos los actos legales y administrativos a efecto de que el órgano Interno de Control del Municipio de Aguascalientes, cuente con sus respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, asimismo, para que todos los bienes que actualmente posea la contraloría municipal pasen al nuevo órgano, a efecto de que éste cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+TERCERO.- Se faculta al Titular del Órgano Interno de Control del Municipio de Aguascalientes, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la substanciación de los Procedimientos con antelación a la vigencia de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+CUARTO.- Al momento de la aprobación de la presente reforma por parte del Honorable Cabildo del Municipio de Aguascalientes, se deberá iniciar el procedimiento de la entrega-recepción de la Contraloría Municipal, debiéndose designar a un encargado de despacho para tal efecto, el cual durará en dicho encargo hasta el momento que la Presidenta Municipal de Aguascalientes designe y nombre al Titular del Órgano Interno de Control del Municipio de Aguascalientes, lo que se deberá realizar dentro de los siguientes treinta días hábiles.
+
+QUINTO.- Las referencias a la Contraloría Municipal o a su titular contenidas en este Código, así como en otras disposiciones reglamentarias, administrativas o contractuales, se entenderán hechas al órgano interno de control y a su titular, según corresponda.
 
 ###### ARTICULO UNICO.
 
