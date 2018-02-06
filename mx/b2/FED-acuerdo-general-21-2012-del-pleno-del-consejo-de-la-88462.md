@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2016-11-22"
+last_updated: "2018-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
@@ -71,9 +71,11 @@ Queda prohibida la ocupación de meritorios y personas que presten servicios o r
 
 Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares, incluyendo los adscritos a los Centros de Justicia Penal Federal.
 
-Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 1 y hasta 2 por tribunal Unitario; 2 y hasta 4 por juzgado de Distrito pero, en el caso de los Centros de Justicia Penal Federal solo 1 por cada Juez de Distrito especializado en el sistema penal acusatorio en funciones jurisdiccionales, y Juez de Distrito en funciones de Administrador. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2018)</small>
 
-Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de “Prácticas Judiciales” en un órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal. En este último caso la solicitud la hará el Administrador del Centro respectivo.
+Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 2 y hasta 3 por tribunal Unitario; 2 y hasta 4 por juzgado de Distrito pero, en el caso de los Centros de Justicia Penal Federal solo 1 por cada Juez de Distrito especializado en el sistema penal acusatorio en funciones jurisdiccionales, y Juez de Distrito en funciones de Administrador. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
+
+Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de "Prácticas Judiciales" en un órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal. En este último caso la solicitud la hará el Administrador del Centro respectivo.
 
 Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal coadyuvará en la coordinación, difusión y seguimiento de dicho Programa en los Centros de Justicia Penal Federal.
 
@@ -262,3 +264,11 @@ D.O.F. 22 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 6 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON EL NÚMERO DE PARTICIPANTES EN EL PROGRAMA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
