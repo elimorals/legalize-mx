@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-01-02"
+last_updated: "2018-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "OAX"
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -623,25 +625,25 @@ LXXV.- Señalar mediante acuerdo los requisitos de las garantías tendientes a g
 
 LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+(ADICIONADA, P.O. 10 DE MARZO DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
-LXXVII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012;
+LXXVII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
-LXXVIII.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes, y;
+LXXVIII.- Promover e instalar los Comités de contraloría social;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
 LXXIX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
-LXXIX (SIC).- Las demás que le señalen las leyes y reglamentos municipales.
+LXXX.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes, y;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
 
-LXXX.- Las demás que les señalen las leyes y reglamentos municipales.
+LXXXI.- Las demás que le señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
