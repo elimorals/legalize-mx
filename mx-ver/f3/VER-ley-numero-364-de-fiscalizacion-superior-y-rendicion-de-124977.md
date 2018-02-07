@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-124977"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-18"
-last_updated: "2017-12-18"
+last_updated: "2018-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 364 DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 7 DE FEBRERO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 364 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 
@@ -83,7 +83,9 @@ X. Congreso: El H. Congreso del Estado de Veracruz de Ignacio de la Llave;
 
 XI. Constitución del Estado: La Constitución Política del Estado de Veracruz de Ignacio de la Llave;
 
-XII. Cuentas Públicas: Aquellas a que se refiere el artículo 33, fracción XXIX de la Constitución del Estado y que se definen en el artículo 33 (sic) de la presente Ley;
+> <small>(F. DE E., G.O. 7 DE FEBRERO DE 2018)</small>
+
+XII. Cuentas Públicas: Aquellas a que se refiere el artículo 33, fracción XXIX de la Constitución del Estado y que se definen en el artículo 26 de la presente Ley;
 
 XIII. Despachos: Los Despachos Externos que prestan servicios profesionales de auditoría;
 
