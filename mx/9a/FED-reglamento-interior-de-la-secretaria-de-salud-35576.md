@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-salud-35576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-19"
-last_updated: "2011-01-10"
+last_updated: "2018-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-15"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 19 de enero de 2004.
 
@@ -49,9 +49,9 @@ II. Subsecretario de Prevención y Promoción de la Salud;
 
 III. Subsecretario de Administración y Finanzas;
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-III Bis. Coordinador General de Asuntos Jurídicos y Derechos Humanos;
+III Bis. Abogado General;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -95,11 +95,15 @@ IX. Dirección General de Planeación y Desarrollo en Salud;
 
 X. Dirección General de Políticas de Investigación en Salud;
 
-XI. Dirección General de Programación, Organización y Presupuesto;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XI. Dirección General de Programación y Presupuesto;
 
 XII. Dirección General de Promoción de la Salud;
 
-XIII. Dirección General de Recursos Humanos;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XIII. Dirección General de Recursos Humanos y Organización;
 
 XIV. Dirección General de Recursos Materiales y Servicios Generales;
 
@@ -121,13 +125,11 @@ XVII Bis. Dirección General de Epidemiología;
 
 XVIII. Secretariado Técnico del Consejo Nacional de Salud;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIX. Secretariado Técnico del Consejo Nacional de Salud Mental;
+XIX. Secretariado Técnico del Consejo Nacional de Salud Mental, y
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XX. Secretariado Técnico del Consejo Nacional para las Personas con Discapacidad, y
+XX. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -173,9 +175,7 @@ XII. Comisión Nacional de Protección Social en Salud, y (sic)
 
 XIII. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIII Bis. Instituto de Geriatría, y
+XIII Bis. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 XIV. Servicios de Atención Psiquiátrica.
 
@@ -233,19 +233,27 @@ VII. Consejo Nacional para la Prevención de Accidentes;
 
 VIII. Consejo Nacional para la Prevención y el Control del Síndrome de la Inmunodeficiencia Adquirida;
 
-IX. Consejo Nacional para la Prevención y el Tratamiento de las Enfermedades Visuales;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-X. Consejo Nacional para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, y
+IX. Consejo Nacional para la Prevención y el Tratamiento de las Enfermedades Visuales, y
 
-XI. Consejo Nacional para las Personas con Discapacidad.
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+X. Consejo Nacional para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia.
+
+XI. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 D. La coordinación sectorial de las siguientes entidades:
 
-I. Institutos Nacionales de Salud;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-II. Hospital General de México;
+I. Institutos Nacionales de Salud y Hospitales Regionales de Alta Especialidad;
 
-III. Hospital General “Dr. Manuel Gea González”;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+II. Hospital General de México “Dr. Eduardo Liceaga”;
+
+III. Hospital General "Dr. Manuel Gea González";
 
 > <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -295,21 +303,27 @@ X. Coordinar la política de investigación en salud que se realice en la Secret
 
 XI. Aprobar y expedir las Condiciones Generales de Trabajo de la Secretaría;
 
-XII. Establecer las comisiones y los comités internos que sean necesarios para la mejor instrumentación de los programas y asuntos encomendados a la Secretaría, así como designar a sus miembros;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIII. Aprobar la organización y funcionamiento de la Secretaría y autorizar las modificaciones internas de las distintas unidades administrativas;
+XII. Establecer las comisiones, comités y consejos internos que sean necesarios para la mejor instrumentación de los programas y asuntos encomendados a la Secretaría de Salud, así como designar a sus miembros;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XIII. Establecer las políticas necesarias para la mejor organización y funcionamiento de la Secretaría de Salud;
 
 XIV. Aprobar y expedir el Manual de Organización General de la Secretaría y disponer su publicación en el Diario Oficial de la Federación, así como aprobar y expedir los demás manuales de organización, de procedimientos y de servicios al público necesarios para el buen funcionamiento de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XV. Designar a los titulares de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, y de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, a los titulares de las unidades de Análisis Económico y Coordinadora de Vinculación y Participación Social, así como a los titulares de órganos administrativos desconcentrados y a los representantes de la Secretaría ante organismos de carácter internacional, comisiones intersecretariales y órganos colegiados de entidades paraestatales, salvo en aquellos casos en que el nombramiento corresponda al Presidente de la República, de conformidad con las disposiciones aplicables;
+XV. Designar al Abogado General y a los titulares de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, y de las unidades de Análisis Económico y Coordinadora de Vinculación y Participación Social, así como a los titulares de órganos administrativos desconcentrados y a los representantes de la Secretaría de Salud ante organismos de carácter internacional, comisiones intersecretariales y órganos colegiados de entidades paraestatales, salvo en aquellos casos en que el nombramiento corresponda al Presidente de la República, de conformidad con las disposiciones jurídicas aplicables;
 
-XVI. Expedir acuerdos de adscripción orgánica de las unidades administrativas, de delegación de facultades, de desconcentración de funciones, así como los demás acuerdos que sean necesarios para el correcto desarrollo de la Secretaría, los cuales deberán publicarse en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XVI. Expedir acuerdos de adscripción de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud y de delegación de facultades, así como los demás acuerdos que sean necesarios para el ejercicio de las atribuciones de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables. Dichos acuerdos deberán publicarse en el Diario Oficial de la Federación;
 
 XVII. Definir, conducir y controlar el proceso de descentralización de los servicios de salud y el de desconcentración de las funciones de la Secretaría y la modernización administrativa;
 
-XVIII. Dictar acuerdos que fijen los criterios de ejercicio de facultades discrecionales, conforme lo dispongan las leyes;
+XVIII. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 XIX. Determinar, mediante acuerdo que se publicará en el Diario Oficial de la Federación, los establecimientos que deberán dar aviso de funcionamiento a la Secretaría;
 
@@ -343,7 +357,9 @@ Los subsecretarios tienen dentro del ámbito de su competencia, las siguientes f
 
 I. Acordar con el Secretario el despacho de los asuntos a su cargo y los de las unidades administrativas adscritas a su responsabilidad;
 
-II. Establecer las normas, políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir en las unidades administrativas que se hubieren adscrito a su responsabilidad, así como en el ámbito regional;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+II. Establecer las normas, criterios, sistemas y procedimientos de carácter técnico que deban regir en las unidades administrativas que se hubieren adscrito a su responsabilidad, así como en el ámbito regional;
 
 III. Apoyar técnicamente la descentralización de los servicios de salud, la desconcentración de las funciones de la Secretaría y la modernización administrativa por gestión de procesos;
 
@@ -351,11 +367,13 @@ IV. Desempeñar las funciones y comisiones que el Secretario les encomiende y ma
 
 V. Presidir el Comité Consultivo Nacional de Normalización del que sean parte;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-VI. Formular los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y órdenes en los asuntos de su competencia, con la participación de la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
+VI. Formular los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas en los asuntos de su competencia, con la participación de la Oficina del Abogado General;
 
-VII. Planear, organizar y evaluar el funcionamiento de las unidades administrativas a ellos adscritas, así como coordinar las actividades de éstas con las adscritas al Secretario, a las de los otros subsecretarios, Coordinador General y titulares de las unidades y de los órganos desconcentrados;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+VII. Planear, organizar y evaluar el funcionamiento de las unidades administrativas que tengan adscritas, así como coordinar las actividades de éstas con las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
 VIII. Participar, en el ámbito de su competencia, en la definición y desarrollo del Programa de Investigación en Salud;
 
@@ -369,9 +387,13 @@ XI. Formular los anteproyectos de presupuesto que les correspondan y una vez apr
 
 XII. Someter a la aprobación del Secretario los programas, estudios y proyectos elaborados en las áreas de su responsabilidad;
 
-XIII. Someter a la consideración del Secretario los proyectos de manuales de organización específicos de sus diversas unidades administrativas adscritas, de conformidad con los lineamientos y el dictamen de la unidad administrativa competente;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIV. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las unidades administrativas de la Secretaría y por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las políticas establecidas a este respecto, así como coordinar el cumplimiento de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XIII. Coordinar la formulación de los proyectos de manuales de organización específicos, de procedimientos y, en su caso, de servicios de la Subsecretaría a su cargo, así como validar los de las unidades administrativas y órganos administrativos desconcentrados que tengan adscritos, conforme a los lineamientos emitidos por la Dirección General de Recursos Humanos y Organización;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XIV. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las unidades administrativas de la Secretaría de Salud y por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las disposiciones jurídicas aplicables, así como coordinar el cumplimiento de la normativa en materia de transparencia y acceso a la información pública;
 
 XV. Recibir, en acuerdo ordinario, a los titulares de las unidades administrativas de sus respectivas áreas y, en acuerdo extraordinario, a cualquier otro servidor público subalterno, así como conceder audiencias al público;
 
@@ -391,9 +413,9 @@ XIX. Designar al Gabinete de Apoyo y a los servidores públicos de libre designa
 
 XX. Aplicar, en el ámbito de su competencia, las disposiciones relativas al Servicio Profesional de Carrera, en coordinación con las unidades administrativas e instancias competentes;
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XXI. Analizar, validar, integrar y enviar a la Dirección General de Programación, Organización y Presupuesto los tabuladores de cuotas de recuperación, que generen sus áreas adscritas para su trámite y autorización respectivos ante la Secretaría de Hacienda y Crédito Público, y
+XXI. Analizar, validar, integrar y enviar a la Dirección General de Programación y Presupuesto, los tabuladores de cuotas de recuperación que generen las unidades administrativas y órganos administrativos desconcentrados que tengan adscritos para su trámite y autorización respectivos ante la Secretaría de Hacienda y Crédito Público, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -417,9 +439,9 @@ III. Establecer la coordinación entre los sectores salud y educativo para la fo
 
 IV. Establecer las políticas y estrategias, que permitan optimizar y garantizar la equidad en la asignación de recursos financieros para la atención a la salud, sin perjuicio de las atribuciones que en esta materia tengan otras dependencias;
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-IV Bis. Emitir y coordinar la expedición de normas oficiales mexicanas, así como proponer reformas a las disposiciones jurídicas en las materias de su competencia, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+IV Bis. Emitir y coordinar la expedición de normas oficiales mexicanas, así como proponer modificaciones a las disposiciones jurídicas en las materias de su competencia, con la participación que corresponda a la Oficina del Abogado General;
 
 V. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
@@ -437,13 +459,15 @@ X. Coordinar la generación de información para la rendición de cuentas a todo
 
 XI. Coordinar la generación y difusión de la información sobre mejores prácticas clínicas y tecnologías en salud en términos de su costo-efectividad;
 
-XII. Promover la participación de las organizaciones de la sociedad civil, para la realización de acciones conjuntas y suma de esfuerzos en favor de la calidad de los servicios de salud que recibe la población;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XII. Promover la participación de las organizaciones de la sociedad civil, para la realización de acciones conjuntas en favor de la calidad de los servicios de salud que recibe la población, y
 
-XIII. Promover la concurrencia de las instituciones del Sistema Nacional de Salud, para el diseño e instrumentación de estrategias enfocadas al desarrollo profesional y participación del personal de salud, y
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIV. Las demás que le señalen otras disposiciones legales o le confiera el Secretario, así como las que competen a las unidades administrativas que se le adscriban.
+XIII. Promover la concurrencia de las instituciones del Sistema Nacional de Salud, para el diseño e instrumentación de estrategias enfocadas al desarrollo profesional y participación del personal de salud.
+
+XIV. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 ### CAPÍTULO V. DEL SUBSECRETARIO DE PREVENCIÓN Y PROMOCIÓN DE LA SALUD
 
@@ -455,17 +479,17 @@ Corresponde al Subsecretario de Prevención y Promoción de la Salud:
 
 I. Proponer al Secretario las políticas en las materias de prevención y promoción de la salud, de control de enfermedades, de salud mental y de discapacidad, así como establecer las estrategias de ejecución, la coordinación, la dirección, la supervisión y la evaluación de aquellas políticas aprobadas por el Secretario;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-II. Coordinar el desarrollo de los centros nacionales de Programas Preventivos y Control de Enfermedades, para la Salud de la Infancia y la Adolescencia, de Equidad de Género y Salud Reproductiva, para la Prevención y Control del VIH/SIDA, y para la Prevención y Control de las Adicciones;
+II. Coordinar el desarrollo de los centros nacionales de Programas Preventivos y Control de Enfermedades, para la Salud de la Infancia y la Adolescencia, de Equidad de Género y Salud Reproductiva, así como para la Prevención y Control del VIH/SIDA;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-II Bis. Coordinar el desarrollo de los secretariados técnicos de los consejos nacionales de Salud Mental, para las Personas con Discapacidad y para la Prevención de Accidentes;
+II Bis. Coordinar el desarrollo de los secretariados técnicos de los consejos nacionales de Salud Mental y para la Prevención de Accidentes;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-III. Elaborar, conducir, coordinar y promover la integración de los programas de prevención y promoción de la salud y control de enfermedades, de salud mental, de discapacidad y de accidentes;
+III. Elaborar, coordinar y promover la integración de los programas de prevención y promoción de la salud, así como de control de enfermedades, de salud mental y de accidentes;
 
 IV. Establecer, con la aprobación del Secretario, las políticas y estrategias en materia de seguridad en salud y dirigir su ejecución;
 
@@ -475,31 +499,31 @@ V. Dirigir la operación del Sistema Nacional de Vigilancia Epidemiológica, as�
 
 VI. Definir y emitir las políticas y normas sobre información epidemiológica que deban reportar los servicios de salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-VII. Emitir y coordinar la expedición de normas oficiales mexicanas, así como proponer las reformas a las disposiciones jurídicas en las materias de su competencia, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+VII. Emitir y coordinar la expedición de normas oficiales mexicanas, así como proponer las modificaciones a las disposiciones jurídicas en las materias de su competencia, con la participación que corresponda a la Oficina del Abogado General;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-VIII. Proponer las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas de prevención, promoción de la salud y de control de enfermedades, así como en materia de salud mental, discapacidad y accidentes, sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas o dependencias;
+VIII. Proponer las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas de prevención, promoción de la salud y de control de enfermedades, así como en materia de salud mental y accidentes, sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas de la Secretaría o dependencias de la Administración Pública Federal;
 
 IX. Colaborar, en el ámbito de su competencia, en la definición y desarrollo del Sistema de Protección Social en Salud, en coordinación con las unidades administrativas competentes;
 
 X. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XI. Normar y conducir el proceso de evaluación del desempeño de los sistemas nacional y estatales de salud en lo referente a prevención, promoción de la salud, control de enfermedades, así como en materia de salud mental, discapacidad y accidentes, así como analizar y proponer alternativas, en el ámbito de su competencia;
+XI. Normar y coordinar el proceso de evaluación del desempeño de los sistemas nacional y estatales de salud en lo referente a prevención, promoción de la salud, control de enfermedades, salud mental y accidentes, así como analizar y proponer alternativas, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XII. Coordinar, con la participación que corresponda a otras unidades administrativas, la política normativa en materia de prevención y promoción de la salud, de control de enfermedades, así como la relativa a la salud mental, la discapacidad y los accidentes;
+XII. Coordinar, con la participación que corresponda a otras unidades administrativas de la Secretaría de Salud, la política normativa en materia de prevención y promoción de la salud, de control de enfermedades, así como la relativa a la salud mental y los accidentes;
 
 XIII. Apoyar y proponer las políticas y acciones de salud pública de carácter internacional, en coordinación con las unidades administrativas competentes;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIV. Promover mecanismos para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la comunidad en las acciones de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad y accidentes;
+XIV. Promover mecanismos para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la sociedad en las acciones de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental y accidentes;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -509,11 +533,13 @@ XVI. Presidir el Comité Consultivo Nacional de Normalización de Prevención y 
 
 XVII. Representar al Secretario del Ramo ante Organismos Internacionales vinculados con su ámbito de competencia;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XVIII. Proponer, en su ámbito de competencia, instrumentos y mecanismos para la reforma y la modernización de la Secretaría, así como definir y proponer la aplicación de estrategias de vanguardia en los programas de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad y accidentes;
+XVIII. Proponer, en su ámbito de competencia, instrumentos y mecanismos para la modernización de la Secretaría de Salud, así como definir y proponer la aplicación de estrategias de vanguardia en los programas de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental y accidentes, y
 
-XIX. Planear, organizar, programar y administrar las actividades de las unidades administrativas que le estén adscritas, y
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XIX. Planear, organizar, programar y administrar las actividades de las unidades administrativas que le estén adscritas.
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
@@ -531,191 +557,171 @@ XXII. Normar y conducir el proceso de evaluación del desempeño de los sistemas
 
 XXIII. Promover mecanismos para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la comunidad en las acciones de prevención y el control de las adicciones que corresponda aplicar a las áreas bajo su adscripción, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
-
-XXIV. Las demás que le señalen otras disposiciones legales o le confiera el Secretario, así como las que competen a las unidades administrativas que se le adscriban.
+XXIV. (DEROGADA, D.O.F. 7 DE FEBRERO DE 2018)
 
 ### CAPÍTULO VI. DEL SUBSECRETARIO DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11.
 
 Corresponde al Subsecretario de Administración y Finanzas:
 
-I. Someter a aprobación del Secretario las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de que disponga la Secretaría de Salud;
+I. Someter a la aprobación del Secretario las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de la Secretaría de Salud, y una vez aprobados, establecer las estrategias para su ejecución, coordinación, dirección, supervisión y evaluación;
 
-II. Supervisar la elaboración y ejecución de los programas de apoyo para la realización de las funciones de la Secretaria de Salud, particularmente en materia de cooperación técnico-administrativa y presupuestal;
+II. Coordinar la elaboración y ejecución de los programas de apoyo en materia de cooperación técnico administrativa y presupuestaria para la realización de las funciones de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+III. Supervisar los procesos de programación, presupuestación, control y evaluación del gasto público de la Secretaría de Salud;
 
-III. Coordinar el proceso anual de programación y presupuestación, así como el ejercicio presupuestal y contable de la Secretaría de Salud;
+IV. Emitir dictamen técnico de las estructuras orgánicas, así como de los manuales de organización específicos, de procedimientos y, en su caso, de servicios, de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+V. Dirigir las relaciones laborales de la Secretaría de Salud con sus trabajadores de conformidad con los lineamientos que para tal efecto determine el Secretario, así como participar en la elaboración y revisión de las Condiciones Generales de Trabajo de la Secretaría de Salud;
 
-IV. Emitir dictamen administrativo de aprobación de estructuras orgánicas, así como de los manuales administrativos específicos de las unidades de la dependencia;
-
-V. Conducir las relaciones laborales de la Secretaría de Salud con sus trabajadores de conformidad con los lineamientos que al efecto determine el Secretario y participar en la elaboración y revisión de las Condiciones Generales de Trabajo, así como supervisar su difusión y cumplimiento;
-
-VI. Integrar la Comisión Evaluadora para efectos de la Ley de Premios, Estímulos y Recompensas Civiles;
+VI. Integrar la Comisión Evaluadora para efectos del Premio Nacional de Administración Pública, en términos de la Ley de Premios, Estímulos y Recompensas Civiles;
 
 VII. Proponer al Secretario la designación o remoción, en su caso, de los representantes de la Secretaría de Salud ante las comisiones o comités mixtos en materia laboral;
 
-VIII. Establecer las políticas en materia de desarrollo de personal, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades;
+VIII. Establecer en términos de las disposiciones jurídicas aplicables, directrices en materia de desarrollo de personal, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo, para el mejor desempeño de sus actividades;
 
-IX. Verificar, en coordinación con las unidades administrativas competentes, en el caso de autorizaciones de compatibilidad de empleos, que los interesados cumplan con las tareas encomendadas y con los horarios y jornadas establecidas y, en su caso, promover la cancelación de cualquier autorización cuando se compruebe que el interesado no desempeña los empleos o comisiones señalados en su solicitud, o que los horarios indicados en dicho documento no son correctos;
+IX. Aprobar los programas anuales de obras públicas y servicios relacionados con las mismas y de adquisiciones, arrendamientos y servicios de la Secretaría de Salud;
 
-X. Coordinar y apoyar la ejecución de los programas de capacitación técnico-administrativa de la Secretaría;
+X. Presidir los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas; de Bienes Muebles y Técnico de Profesionalización y Selección;
 
-XI. Coordinar la formulación y ejecución de los programas anuales de obra pública, adquisiciones, conservación y mantenimiento de bienes muebles e inmuebles de la Secretaría, así como la regularización jurídica de los últimos;
+XI. Coordinar la elaboración, establecimiento, ejecución, seguimiento y evaluación del programa de modernización de la Secretaría de Salud, a través del uso de tecnologías de la información y comunicación, de conformidad con las disposiciones jurídicas aplicables y con base en las necesidades y prioridades de dicha Dependencia;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+XII. Coordinar al interior de la Secretaría de Salud la implementación y líneas de acción que determine la Secretaría de la Función Pública en materia de gobierno digital;
 
-XII. Presidir los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas; de Enajenación de Bienes Muebles e Inmuebles; de Informática de la Secretaría de Salud y Técnico de Profesionalización y Selección;
+XIII. Dirigir el Sistema Institucional de Archivos de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIV. Coordinar la operación del Programa Interno de Protección Civil y el de seguridad y vigilancia que requieran las unidades administrativas de la Secretaría de Salud, y
 
-XIII. Coordinar la formulación de los programas de conservación, mantenimiento, reparación y rehabilitación, y reubicación de los equipos, aparatos e instrumental médico;
+XV. Suscribir los convenios, contratos y demás documentos que impliquen actos de administración y dominio que no estén encomendados expresamente a otras unidades administrativas de la Secretaría de Salud.
 
-XIV. Proponer las políticas y criterios que se consideren convenientes para racionalizar y optimizar el desarrollo de programas en materia de obra pública, adquisiciones, conservación y mantenimiento de bienes muebles e inmuebles de la Secretaría;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XV. Conducir la integración, ejecución, evaluación y seguimiento del Programa de Desarrollo Informático, con base en las políticas y lineamientos aplicables en la materia y de acuerdo con las necesidades y prioridades de la Secretaría;
+### CAPÍTULO VI BIS. DEL ABOGADO GENERAL
 
-XVI. Establecer las políticas, normas y líneas de acción en materia de redes de voz y datos, telecomunicaciones, sistemas automatizados de información, reingeniería y automatización de procesos, a fin de apoyar y optimizar el desarrollo de las actividades de la Secretaría de Salud;
-
-XVII. Fomentar los servicios de tecnologías de la información de la Secretaría de Salud a fin de fortalecer la productividad del personal y aprovechamiento de los recursos;
-
-XVIII. Supervisar las actividades relacionadas con el desarrollo de proyectos interinstitucionales de tecnologías de la información en los que participe la Secretaría de Salud;
-
-XIX. Coordinar el sistema de administración de documentos y archivo de la Secretaría, así como proporcionar la información institucional derivada de éste a las unidades administrativas que lo requieran;
-
-XX. Coordinar la operación del Programa Interno de Protección Civil y el de Seguridad y Vigilancia que requieran las unidades administrativas de la Secretaría de Salud;
-
-XXI. Participar y presidir, en su caso, los órganos colegiados que se integren en la Secretaría en los que tenga contemplada su participación, o en aquellos en los que así se establezca en las disposiciones legales aplicables, o por instrucción del Secretario de Salud;
-
-XXII. Someter a la aprobación del Secretario los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio de la Beneficencia Pública y propiciar su encauzamiento hacia los programas de salud;
-
-XXIII. Instruir sobre la expedición de nombramientos, así como sobre las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio de la Secretaría de Salud;
-
-XXIV. Suscribir los convenios, contratos y demás documentos que impliquen actos de administración y dominio que no estén encomendados expresamente a otras unidades administrativas, así como autorizar, en su caso, aquellos, que afecten el presupuesto de la Secretaría de Salud, y
-
-XXV. Las demás que le señalen otras disposiciones legales o le encomiende el Secretario, así como las que competen a las unidades administrativas que se le adscriban.
-
-> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-### CAPÍTULO VI BIS. DEL TITULAR DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS Y DERECHOS HUMANOS
-
-> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11 Bis.
 
-Corresponde al Titular de la Coordinación General de Asuntos Jurídicos y Derechos Humanos:
+Corresponde al Abogado General:
 
 I. Acordar con el Secretario el despacho de los asuntos a su cargo;
 
-II. Formular, revisar y someter, en su caso, a consideración del Secretario, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos relativos a los asuntos de la competencia de la Secretaría de Salud, con base en las propuestas que elaboren las áreas técnicas competentes, así como emitir opinión sobre los que formulen las entidades agrupadas administrativamente en el sector y las demás dependencias y entidades, para el trámite que corresponda;
+II. Formular, revisar y someter, en su caso, a consideración del Secretario, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos relativos a los asuntos de la competencia de la Secretaría de Salud, con base en las propuestas que elaboren las unidades administrativas y órganos administrativos desconcentrados competentes de dicha Dependencia, así como emitir opinión jurídica sobre los proyectos que formulen las dependencias y entidades de la Administración Pública Federal, para el trámite que corresponda;
 
-III. Presidir a través de su Titular el Comité de Ética Jurídica de la Secretaría de Salud;
+III. Opinar los aspectos jurídicos de los contratos, convenios, acuerdos, bases de colaboración o coordinación y demás instrumentos análogos que propongan las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-IV. Proponer al Secretario, previa opinión de las áreas técnicas de la Secretaría, cuando así sea conducente, la postura institucional respecto de las iniciativas que se presenten ante el Congreso de la Unión en materia de salud;
+IV. Firmar los contratos, convenios, acuerdos, bases de colaboración o coordinación y demás instrumentos análogos que deban ser formalizados por el Secretario, y una vez suscritos por las partes, registrarlos, así como aquéllos que determine el Secretario;
 
-V. Actuar conjuntamente con la Unidad Coordinadora de Vinculación y Participación Social y áreas técnicas competentes de la Secretaría de Salud, para la revisión de las iniciativas que se presenten ante el Congreso de la Unión en materia de salud, en el ámbito de sus respectivas atribuciones en coordinación con las instancias competentes del Gobierno Federal;
+V. Apoyar al Secretario en las funciones de coordinación de las entidades paraestatales sectorizadas a la Secretaría de Salud en materia jurídica;
 
-VI. Revisar los aspectos jurídicos y, en su caso, formular contrapropuestas a la normatividad interna que propongan las unidades y órganos administrativos desconcentrados de la Secretaría de Salud en asuntos de su competencia;
+VI. Analizar y coadyuvar en la formulación de instrumentos jurídicos relacionados con la competencia del Secretario en su carácter de Presidente de los consejos internos de los órganos administrativos desconcentrados de la Secretaría de Salud y de los órganos de gobierno de las entidades paraestatales sectorizadas a dicha Secretaría;
 
-VII. Brindar asesoría jurídica en la elaboración de las normas oficiales mexicanas que expida la Secretaría de Salud;
+VII. Actuar conjuntamente con la Unidad Coordinadora de Vinculación y Participación Social y demás unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría de Salud, para la revisión de las iniciativas de leyes o decretos que se presenten ante el Congreso de la Unión en materia de salud, en el ámbito de sus respectivas atribuciones en coordinación con las instancias competentes de la Administración Pública Federal y fijar la postura institucional respecto de dichas iniciativas o decretos, previo acuerdo con el Secretario, cuando así se requiera;
 
-VIII. Atender, coordinar y supervisar los asuntos jurídicos de la Secretaría, sus unidades administrativas y de sus órganos administrativos desconcentrados, cuando por la naturaleza o importancia del asunto se amerite, o a solicitud de éstos, considerando el impacto que pueda tener en la Secretaría de Salud;
+VIII. Analizar los aspectos jurídicos y, en su caso, formular contrapropuestas a la normativa interna que propongan las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud en asuntos de su competencia;
 
-IX. Establecer los criterios de interpretación y de aplicación de las disposiciones legales, reglamentarias y administrativas competencia de la Secretaría de Salud y difundirlos entre las unidades administrativas y órganos desconcentrados;
+IX. Brindar asesoría jurídica en la elaboración de las normas oficiales mexicanas que expida la Secretaría de Salud;
 
-X. Compilar, estudiar y difundir los ordenamientos y disposiciones jurídicas nacionales e internacionales relacionados con la Secretaría y el sector salud;
+X. Atender y coordinar los asuntos jurídicos de la Secretaría de Salud. Tratándose de asuntos jurídicos de los órganos administrativos desconcentrados de dicha Secretaría, esta facultad se ejercerá cuando por la naturaleza o importancia del asunto, en atención al impacto que pueda tener para la Secretaría de Salud, así lo determine el Secretario, o bien a solicitud de dichos órganos administrativos desconcentrados;
 
-XI. Llevar a cabo estudios e investigaciones jurídicas de temas vinculados con la competencia de la Secretaría de Salud;
+XI. Coordinar las funciones que en materia jurídica llevan a cabo las unidades jurídicas de los órganos administrativos desconcentrados de la Secretaría de Salud y al demás personal con funciones jurídicas de las unidades administrativas de dicha Secretaría;
 
-XII. Impulsar el desarrollo académico en materia jurídica para los Licenciados en Derecho adscritos a la Secretaría de Salud;
+XII. Establecer los criterios de interpretación y de aplicación de las disposiciones jurídicas competencia de la Secretaría de Salud y difundirlos entre las unidades administrativas y órganos administrativos desconcentrados de dicha Dependencia;
 
-XIII. Tramitar a petición del área o unidad responsable de su generación, y previa remisión de dicha área o unidad de los requisitos que indican las disposiciones jurídicas aplicables, la publicación en el Diario Oficial de la Federación de los documentos que sean remitidos para tal efecto, con excepción de los relativos a las licitaciones públicas, los del Servicio Profesional de Carrera e instrumentos consensuales;
+XIII. Compilar, estudiar y difundir los ordenamientos jurídicos nacionales e internacionales relacionados con la Secretaría de Salud y las entidades paraestatales sectorizadas a dicha Dependencia;
 
-XIV. Fungir como órgano de consulta jurídica y asesorar al Secretario, a las unidades administrativas, órganos desconcentrados y a las entidades del sector coordinado de la Secretaría de Salud a solicitud de éstas;
+XIV. Llevar a cabo estudios e investigaciones jurídicas de temas vinculados con la competencia de la Secretaría de Salud;
 
-XV. Participar en la revisión de las Condiciones Generales de Trabajo de la Secretaría de Salud;
+XV. Gestionar, a petición de la unidad administrativa u órgano administrativo desconcentrado responsable de su emisión y, previa remisión de dicha unidad u órgano, de las evidencias de cumplimiento de los requisitos que señalan las disposiciones jurídicas, la publicación en el Diario Oficial de la Federación de los documentos que deban difundirse a través de ese medio, con excepción de los relativos a las licitaciones públicas, los del servicio profesional de carrera y los instrumentos consensuales;
 
-XVI. Fijar, difundir y revisar los lineamientos, modelos y requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, bases de coordinación y demás actos jurídicos que celebre la Secretaría de Salud;
+XVI. Fungir como órgano de consulta jurídica y asesorar al Secretario, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como a las entidades paraestatales sectorizadas a dicha Dependencia;
 
-XVII. Revisar y opinar sobre los aspectos jurídicos de los tratados y demás instrumentos de carácter internacional, en los que la Secretaría de Salud y/o sus órganos administrativos desconcentrados participen;
+XVII. Apoyar y asesorar jurídicamente a la Subsecretaría de Administración y Finanzas en la revisión de las Condiciones Generales de Trabajo y en la relación con el Sindicato Nacional de Trabajadores de la Secretaría de Salud;
 
-XVIII. Coordinar las respuestas de la autoridad competente a las peticiones que se presenten en los términos del artículo 8o. de la Constitución Política de los Estados Unidos Mexicanos;
+XVIII. Opinar sobre los aspectos jurídicos de los tratados y demás instrumentos de carácter internacional que sean competencia de la Secretaría de Salud;
 
-XIX. Presidir el Comité de Información de la Secretaría de Salud, así como elaborar los proyectos de resoluciones de dicho Comité y formular alegatos de los recursos que se interpongan ante el Instituto Federal de Acceso a la Información Pública;
+XIX. Dar respuesta, con la participación de las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría de Salud, a las peticiones que se presenten a dicha Dependencia en términos del artículo 8o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-XX. Fungir como enlace a solicitud de la Secretaría de Gobernación entre ésta y las unidades administrativas y órganos desconcentrados de la Secretaría de Salud, para la actualización del Registro de Autógrafos de los servidores públicos adscritos a esta Secretaría;
+XX. Realizar las funciones de la Unidad de Transparencia de la Secretaría de Salud en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y presidir el Comité de Transparencia de dicha Dependencia, así como coordinar la elaboración de los proyectos de resoluciones de dicho Comité y de los alegatos correspondientes a los recursos que se interpongan ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XXI. Fungir como vínculo con la Consejería Jurídica del Ejecutivo Federal en la tramitación de los nombramientos presidenciales de servidores públicos de la Secretaría de Salud y del sector coordinado, así como para la presentación de proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos;
+XXI. Elaborar para firma del Secretario los nombramientos de los servidores públicos a que se refiere el artículo 7, fracciones XV, XXIV y XXV de este Reglamento, así como los de los directores generales e integrantes de los órganos de gobierno y de apoyo de las entidades paraestatales sectorizadas a la Secretaría de Salud que por disposición jurídica le corresponda expedir a dicho servidor público;
 
-XXII. Llevar el registro de nombramientos de los directores generales de las entidades paraestatales del sector coordinado con excepción de aquéllos que corresponda emitir al Titular del Ejecutivo Federal, así como de los nombramientos de los vocales de la Junta de Gobierno de dichas entidades;
+XXII. Fungir como enlace institucional entre la Secretaría de Gobernación y las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, para la actualización del registro de autógrafos de los servidores públicos de esta Secretaría;
 
-XXIII. Asesorar a la Dirección General de Recursos Materiales y Servicios Generales en los procesos de regularización inmobiliaria federal, respecto de los inmuebles que estén destinados a la Secretaría de Salud o que por cualquier título tenga a su servicio;
+XXIII. Fungir como enlace institucional de la Secretaría de Salud con la Auditoría Superior de la Federación, sin perjuicio de las atribuciones que en el ámbito de su competencia, correspondan a otras unidades administrativas de la Secretaría de Salud;
 
-XXIV. Participar brindando asesoría en el ámbito de su competencia, a las unidades administrativas y órganos desconcentrados, en los procedimientos de licitación pública, y de excepción a la licitación en materia de adquisiciones, arrendamientos, obras públicas, servicios y bienes;
+XXIV. Fungir como enlace institucional con la Consejería Jurídica del Ejecutivo Federal en la tramitación de los nombramientos presidenciales de servidores públicos de la Secretaría de Salud y de las entidades paraestatales sectorizadas a dicha Dependencia, así como de proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas;
 
-XXV. Coadyuvar con la Procuraduría General de la República en la integración de las averiguaciones previas y en el trámite de los procesos que afecten a la Secretaría de Salud, o bien en los que ésta tenga interés jurídico, así como solicitar la intervención del Procurador General de la República en todos aquellos asuntos contenciosos que le competan en los términos de la Constitución Política de los Estados Unidos Mexicanos;
+XXV. Llevar el registro de los nombramientos de los directores generales de las entidades paraestatales sectorizadas a la Secretaría de Salud y de los integrantes del órgano de gobierno de dichas entidades, con excepción de aquéllos que corresponda emitir al Titular del Ejecutivo Federal;
 
-XXVI. Establecer y coordinar los mecanismos de vinculación jurídica con el Poder Judicial de la Federación y, con los de las entidades federativas, a efecto de defender los intereses de la Secretaría de Salud;
+XXVI. Asesorar a la Dirección General de Recursos Materiales y Servicios Generales, en los procesos de regularización de la propiedad inmobiliaria federal, respecto de los inmuebles que estén destinados a la Secretaría de Salud o que por cualquier título estén a su cargo;
 
-XXVII. Establecer mecanismos de coordinación con las áreas jurídicas de las entidades federativas, para el desarrollo de los asuntos jurídicos de su competencia;
+XXVII. Asesorar en el ámbito de su competencia, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, en los procedimientos de contrataciones públicas a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
-XXVIII. Comparecer y representar a la Secretaría de Salud ante las autoridades de carácter administrativo o judicial, en los juicios o procedimientos en que sea actora o demandada, tenga interés jurídico o se le designe como parte, para lo cual ejercitará toda clase de acciones, defensas y excepciones que correspondan a la Dependencia; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular y suscribir las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios, recursos o cualquier procedimiento interpuesto ante dichas autoridades, y asesorar a las unidades administrativas y órganos desconcentrados de la Secretaría de Salud para el debido cumplimiento de las resoluciones correspondientes; asimismo, mediante oficio, conferir dichas representaciones a servidores públicos de la Secretaría de Salud y, en su caso, sustituir o revocar dichas facultades;
+XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación por los hechos que puedan constituir delitos de los servidores públicos de la Secretaría de Salud en el desempeño de sus funciones; allegarse de los elementos probatorios del caso; darle la intervención que corresponda al Órgano Interno de Control en la Secretaría de Salud y a la Secretaría de la Función Pública; denunciar o querellarse ante el Ministerio Público competente de los hechos presumiblemente delictuosos en que la Secretaría de Salud o sus unidades administrativas y órganos administrativos desconcentrados, resulten parte ofendida o en aquéllos en que tenga conocimiento o interés jurídico; coadyuvar en estos casos con el propio Ministerio Público, aportando, en su caso, los datos o elementos de prueba con los que cuente, e interponer los recursos que procedan en términos de ley; solicitar la reparación del daño cuando proceda, así como las providencias necesarias para la restitución de sus derechos;
 
-XXIX. Representar al Secretario, a las unidades administrativas y órganos desconcentrados de la Secretaría de Salud ante el Tribunal Federal de Justicia Fiscal y Administrativa e interponer los recursos procedentes, en términos de las disposiciones legales aplicables;
+XXIX. Fungir como Asesor Jurídico de la Secretaría de Salud en el sistema procesal penal acusatorio ejerciendo todas las prerrogativas y facultades que se contemplen en la legislación aplicable, siendo éstas, de manera enunciativa más no limitativa: formular cualquier medio de impugnación para recurrir las resoluciones judiciales y determinaciones administrativas; intervenir, representar y consentir las formas de terminación anticipada de la investigación y del proceso penal, así como las soluciones alternas de los procedimientos penales, siempre y cuando se haya reparado el daño material que hubiere sufrido la Dependencia o bien se establezca de manera expresa por las partes la forma en que se resarcirá; representar los intereses de la Dependencia en los procedimientos de ejecución de penas que contemple la legislación aplicable; así como autorizar a los servidores públicos de la propia Oficina del Abogado General para representar legalmente a la Dependencia en el ejercicio de las presentes atribuciones mediante oficio suscrito por el Abogado General o bien por los servidores públicos que puedan suplirlo por ausencia;
 
-XXX. Formular los desistimientos, así como otorgar discrecionalmente los perdones legales que procedan y, por ausencia del Secretario o subsecretarios, absolver posiciones;
+XXX. Establecer y coordinar los mecanismos de vinculación jurídica con el Poder Judicial de la Federación y con los de las entidades federativas, a efecto de defender los intereses de la Secretaría de Salud;
 
-XXXI. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Salud representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+XXXI. Establecer mecanismos de coordinación con las áreas jurídicas de las entidades federativas, para el desarrollo de los asuntos jurídicos de su competencia;
 
-XXXII. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Salud represente al Presidente de la República;
+XXXII. Comparecer y representar a la Secretaría de Salud, así como al Secretario o a las unidades administrativas y órganos administrativos desconcentrados de dicha Dependencia, ante las autoridades de carácter administrativo o judicial, incluyendo las competentes en materia civil y electoral, así como en los juicios o procedimientos en que dicha Secretaría sea actora o demandada, tenga interés jurídico, legítimo o se le designe como parte, para lo cual ejercitará toda clase de acciones, defensas y excepciones que le corresponda; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular y suscribir las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios, recursos o cualquier procedimiento interpuesto ante dichas autoridades, y asesorar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud para el debido cumplimiento de las resoluciones correspondientes;
 
-XXXIII. Representar al Secretario en las controversias constitucionales y en las acciones de inconstitucionalidad en las que tenga el carácter de actor, demandado o tercero interesado;
+XXXIII. Autorizar, mediante oficio, a servidores públicos bajo su adscripción, las representaciones a que se refiere la fracción anterior y, en su caso, sustituir o revocar dichas representaciones;
 
-XXXIV. Representar a las autoridades de la Secretaría en todos los trámites dentro de los juicios de amparo en que sean señaladas como responsables, en términos del artículo 19 de la Ley de Amparo;
+XXXIV. Representar al Secretario, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud ante el Tribunal Federal de Justicia Administrativa e interponer los recursos procedentes, en términos de las disposiciones jurídicas aplicables;
 
-XXXV. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; formular dictámenes, contestación de demandas laborales, articular y absolver posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran;
+XXXV. Absolver posiciones por ausencia del Secretario o subsecretarios de la Secretaría de Salud;
 
-XXXVI. Instruir, coordinar y dictaminar en definitiva las actas administrativas que se levanten a los trabajadores de la Secretaría de Salud por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes de cese que hubiere emitido;
+XXXVI. Representar al Presidente de la República en los juicios de amparo respecto de los asuntos que corresponda a la Secretaría de Salud, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXVII. Representar legalmente a la Secretaría de Salud y a sus servidores públicos cuando sean parte en juicios o en otros procedimientos judiciales o extrajudiciales, por actos derivados del servicio;
+XXXVII. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario represente al Presidente de la República;
 
-XXXVIII. Establecer las políticas y lineamientos, así como capacitar, promover y asesorar en materia de derechos humanos al interior de la Secretaría de Salud, sector coordinado y Sistema Nacional de Salud;
+XXXVIII. Representar a las autoridades de la Secretaría de Salud en los juicios de amparo, conforme a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXIX. Representar institucionalmente a la Secretaría de Salud, en materia de Derechos Humanos, ante la Comisión de Política Gubernamental, o la que la sustituya, y ante otras dependencias o entidades de la Administración Pública Federal y del Sistema Nacional de Salud, así como ante organismos y foros internacionales;
+XXXIX. Representar a la Secretaría de Salud, así como al Secretario y a las unidades administrativas y órganos administrativos desconcentrados de dicha Dependencia, ante el Tribunal Federal de Conciliación y Arbitraje, y demás autoridades en materia laboral, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; formular dictámenes, contestación de demandas laborales, articular y absolver posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran;
 
-XL. Asesorar a las unidades administrativas y órganos desconcentrados de la Secretaría de Salud en el seguimiento de quejas y en aquellos procedimientos que puedan dar lugar a recomendaciones emitidas por instancias internacionales y nacionales defensores de los derechos humanos, así como orientar las quejas y denuncias que conozca sobre la materia hacia las autoridades competentes;
+XL. Instruir, coordinar y dictaminar en definitiva las actas administrativas que se levanten a los trabajadores de la Secretaría de Salud por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes de cese que hubiere emitido;
 
-XLI. Resolver los recursos administrativos que no sean de la competencia de otra unidad administrativa;
+XLI. Representar legalmente al Secretario y a los servidores públicos de la Secretaría de Salud, cuando sean parte en juicios o en otros procedimientos judiciales o extrajudiciales, por actos derivados del ejercicio de sus facultades;
 
-XLII. Certificar las constancias que obren en los archivos de la Secretaría de Salud para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación;
+XLII. Resolver los recursos administrativos que no sean de la competencia de otra unidad administrativa;
 
-XLIII. Participar en los órganos colegiados que se integren en la Secretaría de Salud, en los que se tenga contemplada la intervención de la unidad administrativa y, en su caso, presidir aquéllos en que así se establezca en las disposiciones legales aplicables o por instrucción del Secretario;
+XLIII. Capacitar, sensibilizar y asesorar al personal de la Secretaría de Salud y de las entidades paraestatales sectorizadas a dicha Dependencia, en materia de derechos humanos;
 
-XLIV. Participar en la Comisión de Estudios Jurídicos de la Administración Pública Federal y formular los estudios e informes que le sean solicitados;
+XLIV. Fungir como enlace institucional ante la Comisión Nacional de los Derechos Humanos y representar a la Secretaría de Salud en esta materia, en cuerpos colegiados y ante otras dependencias o entidades de la Administración Pública Federal y del Sistema Nacional de Salud, así como ante organismos y foros internacionales, cuando dicha representación no sea otorgada por el Secretario a otro servidor público de la Secretaría de Salud;
 
-XLV. Coordinar y recibir a los enlaces jurídicos de los órganos desconcentrados, áreas mayores y unidades administrativas de la Secretaría de Salud;
+XLV. Asesorar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud en el seguimiento de quejas y en aquellos procedimientos que puedan dar lugar a recomendaciones emitidas por instancias nacionales e internacionales de derechos humanos, así como orientar las quejas y denuncias que conozca sobre la materia hacia las autoridades competentes;
 
-XLVI. Planear, organizar y evaluar el funcionamiento de las áreas a él adscritas, así como coordinar las actividades de éstas con las adscritas al Secretario, a los subsecretarios, Coordinador General y titulares de las unidades y de los órganos desconcentrados;
+XLVI. Certificar las constancias que obren en los archivos de la Secretaría de Salud para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso, averiguación o carpeta de investigación, según sea el caso;
 
-XLVII. Expedir los nombramientos de los directores de área y, en su caso, de los directores generales adjuntos adscritos a su responsabilidad, aplicando las disposiciones relativas al Servicio Profesional de Carrera;
+XLVII. Participar en la Comisión de Estudios Jurídicos del Gobierno Federal y formular los estudios e informes que le sean solicitados;
 
-XLVIII. Designar al Gabinete de Apoyo y a los servidores públicos de libre designación adscritos a su responsabilidad, de conformidad con lo que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento;
+XLVIII. Elaborar y someter a la consideración y, en su caso, firma del Secretario, las designaciones de los representantes de la Secretaría de Salud ante los órganos de gobierno de las entidades paraestatales que no se encuentran sectorizadas a ésta y demás cuerpos colegiados en que participe esta Dependencia;
 
-XLIX. Proponer al Secretario la delegación, en servidores públicos subalternos, de las facultades que tenga encomendadas;
+XLIX. Coordinar las acciones de la Secretaría de Salud en materia de fomento a la cultura para la transparencia y la rendición de cuentas en la función pública;
 
-L. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las unidades administrativas de la Secretaría y por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las políticas establecidas a este respecto, así como coordinar el cumplimiento de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+L. Asesorar a las diferentes unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como a las entidades paraestatales sectorizadas a dicha Dependencia, en materia de transparencia y acceso a la información;
 
-LI. Suscribir los contratos, convenios, acuerdos y documentos relativos al ejercicio de sus funciones y de aquellas que le hayan sido conferidas por delegación o que le corresponda por suplencia;
+LI. Participar en los órganos colegiados que se integren en la Secretaría de Salud y, en su caso, presidir aquéllos en que así se establezca en las disposiciones jurídicas aplicables o por instrucción del Secretario;
 
-LII. Aplicar, en el ámbito de su competencia, las disposiciones relativas al Servicio Profesional de Carrera, en coordinación con las unidades administrativas e instancias competentes, y
+LII. Expedir los nombramientos de los directores generales adjuntos y de área adscritos a su responsabilidad, conforme a las disposiciones relativas al Servicio Profesional de Carrera;
 
-LIII. Las demás que le fije el Secretario o cualquier otro ordenamiento jurídico.
+LIII. Designar al Gabinete de Apoyo y a los servidores públicos de libre designación adscritos a su responsabilidad, de conformidad con lo establecido en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento;
 
-Los servidores públicos adscritos a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, podrán ejercer las facultades que se establecen en el presente artículo, que en forma expresa les sean autorizadas por el Titular de la Coordinación General de Asuntos Jurídicos y Derechos Humanos.
+LIV. Proponer al Secretario la delegación de facultades en servidores públicos subalternos, respecto de las facultades que le corresponda;
+
+LV. Suscribir los contratos, convenios, acuerdos y demás documentos relativos al ejercicio de sus facultades y de aquéllas que le hayan sido conferidas por delegación o que le corresponda por suplencia;
+
+LVI. Aplicar, en el ámbito de su competencia, las disposiciones relativas al Servicio Profesional de Carrera, en coordinación con las unidades administrativas competentes de la Secretaría de Salud y demás instancias competentes, y
+
+LVII. Las demás que le confieran otras disposiciones jurídicas y aquéllas que le encomiende el Secretario.
+
+El Abogado General para el ejercicio de sus facultades se auxiliará del Director General Adjunto de lo Contencioso quien podrá ejercer las facultades a que se refieren las fracciones XVII, XIX, XXVIII, XXIX, XXX, XXXII, XXXIV, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLI, XLVI y LI de este artículo, del Director General Adjunto de lo Consultivo quien podrá ejercer las facultades a que se refieren las fracciones III, V, VI, VII, VIII, IX, X, XIII, XIV, XV, XVI, XVIII, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXXI, XLVIII y LI de este artículo y del Director General Adjunto de Transparencia y Derechos Humanos quien podrá ejercer las facultades a que se refieren las fracciones XXIII, XLIII, XLIV, XLV, XLIX, L, y LI de este artículo.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 10 DE ENERO DE 2011)</small>
 
@@ -889,9 +895,9 @@ I. Acordar con el Secretario el despacho de los asuntos a su cargo, así como lo
 
 II. Establecer y coordinar los mecanismos de vinculación con las dependencias y entidades del sector público, poder legislativo y sociedad civil, a fin de colaborar en el desarrollo de los programas y proyectos del Sistema Nacional de Salud;
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-II Bis. Actuar conjuntamente con la Coordinación General de Asuntos Jurídicos y Derechos Humanos, para la revisión y seguimiento de las iniciativas y procesos legislativos que se presenten ante el Congreso de la Unión en materia de salud, en coordinación con las instancias competentes del Gobierno Federal;
+II Bis. Actuar conjuntamente con la Oficina del Abogado General, para la revisión y seguimiento de las iniciativas de leyes y decretos que se presenten ante el Congreso de la Unión en materia de salud, en coordinación con las dependencias competentes de la Administración Pública Federal;
 
 III. Conducir las relaciones entre la Secretaría de Salud y otras instituciones públicas y privadas, con el fin de promover las actividades conjuntas que coadyuven a la instrumentación de los programas de trabajo de la institución;
 
@@ -1013,21 +1019,21 @@ II. Acordar con su superior inmediato la resolución de los asuntos relevantes c
 
 III. Realizar investigaciones y formular dictámenes e informes, así como emitir opiniones relativas a la competencia de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-IV. Realizar la selección, contratación y promoción del personal de su adscripción que no esté sujeto al Servicio Profesional de Carrera; así como, en su caso, autorizar las licencias, tolerancias y remociones, con la intervención de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, sólo en el caso de remociones, y de la Dirección General de Recursos Humanos;
+IV. Realizar la selección, contratación y promoción del personal de su adscripción que no esté sujeto al Servicio Profesional de Carrera, así como autorizar, en coordinación con la Dirección General de Recursos Humanos y Organización, las licencias y remociones, con la intervención de la Oficina del Abogado General en este último caso;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-V. Proponer al superior jerárquico los acuerdos de coordinación con gobiernos estatales, así como los convenios o bases, de colaboración, coordinación, concertación o inducción que procedan con otras dependencias, entidades, organizaciones o instituciones diversas que propicien el mejor desarrollo de sus funciones, en coordinación con las unidades administrativas competentes y con la participación de la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
+V. Proponer al superior jerárquico los acuerdos de coordinación con gobiernos de las entidades federativas, así como los convenios o bases de colaboración, coordinación, concertación o inducción que procedan con otras dependencias y entidades de la Administración Pública Federal, organizaciones o instituciones diversas que propicien el mejor desarrollo de sus funciones, en coordinación con las unidades administrativas competentes de la Secretaría de Salud y previa opinión de la Oficina del Abogado General;
 
 VI. Presidir, coordinar y participar en las comisiones y comités que les encomiende el Secretario o su superior y, en su caso, designar suplente, así como informar de las actividades que se realicen en dichos órganos colegiados;
 
 VII. Proporcionar la información, los datos, la cooperación o la asesoría técnica y administrativa que les sean requeridos internamente o por otras dependencias de conformidad con las políticas respectivas;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-VIII. Formular, en los asuntos de su competencia, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y órdenes, con la participación de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, para su trámite correspondiente;
+VIII. Formular los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas en los asuntos de su competencia, con la participación de la Oficina del Abogado General, para su trámite correspondiente;
 
 IX. Proponer a su superior jerárquico, en el ámbito de su competencia, los servicios a descentralizar, las funciones a desconcentrar y las acciones para la modernización administrativa;
 
@@ -1037,23 +1043,27 @@ XI. Participar en la formulación e instrumentación de los proyectos y programa
 
 XII. Coadyuvar en los dictámenes técnicos y pruebas a los bienes que ofrezcan los participantes en los procedimientos de adquisición, cuando se trate de bienes solicitados por las áreas a su cargo;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIII. Suscribir los convenios y demás documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia, debiendo recabar opinión previa de la Coordinación General de Asuntos Jurídicos y Derechos Humanos y contar con el acuerdo favorable de su superior para la suscripción de convenios;
+XIII. Suscribir los convenios y demás documentos relativos al ejercicio de sus atribuciones y aquéllos que les sean señalados por delegación o suplencia. Tratándose de la suscripción de convenios se debe contar con la opinión previa de la Oficina del Abogado General y el acuerdo favorable de su superior jerárquico;
 
 > <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
 XIII Bis. Firmar y notificar los acuerdos de trámite, las resoluciones o acuerdos de las autoridades superiores y aquellos que se emitan con fundamento en las facultades que les correspondan;
 
-XIV. Formular los anteproyectos de presupuesto y de los manuales de organización, de procedimientos y de servicios al público, para el trámite que corresponda y de conformidad con los lineamientos de la Dirección General de Programación, Organización y Presupuesto;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIV. Formular los anteproyectos de presupuesto y de los manuales de organización, de procedimientos y de servicios al público, para el trámite que corresponda, de conformidad con los lineamientos que para tal efecto formulen la Dirección General de Programación y Presupuesto y la Dirección General de Recursos Humanos y Organización, en sus respectivos ámbitos de competencia;
 
-XV. Proponer en el ámbito de su competencia la expedición y actualización de normas oficiales mexicanas, así como participar en su elaboración y formular las respuestas a comentarios recibidos respecto de los proyectos que se elaboren en las áreas de su competencia, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XV. Proponer la expedición y actualización de normas oficiales mexicanas, así como participar en su elaboración y formular, en el ámbito de su competencia, las respuestas a los comentarios recibidos de los proyectos que se elaboren, con la participación que corresponda a la Oficina del Abogado General;
 
 XVI. Promover la formación, capacitación y actualización de su personal, en coordinación con las unidades administrativas competentes;
 
-XVII. Suscribir, previo dictamen de la Dirección General de Recursos Humanos, los contratos de servicios profesionales que genere la unidad administrativa a su cargo;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XVII. Suscribir, previo dictamen de la Dirección General de Recursos Humanos y Organización, los contratos de servicios profesionales que genere la unidad administrativa a su cargo;
 
 XVIII. Rescindir, cuando proceda, los contratos que hayan celebrado;
 
@@ -1063,9 +1073,9 @@ XX. Recibir en acuerdo a los servidores públicos subalternos y conceder audienc
 
 XXI. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que firmen documentos o intervengan en determinados asuntos relacionados con la competencia de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XXII. Observar los criterios que emita la Coordinación General de Asuntos Jurídicos y Derechos Humanos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionarle la información que requiera en los plazos y en los términos que dicha unidad administrativa les solicite;
+XXII. Observar los criterios jurídicos que emita el Abogado General y consultarlo cuando los asuntos impliquen cuestiones jurídicas, así como proporcionarle la información que requiera en los plazos y términos que dicho servidor público les solicite;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -1101,13 +1111,13 @@ II. Establecer los instrumentos de rectoría necesarios para mejorar la calidad 
 
 III. Proponer normas oficiales mexicanas y demás actos administrativos de carácter general, en términos de las disposiciones aplicables, a los que deberá sujetarse en las instituciones públicas, sociales y privadas, la prestación de los servicios de atención médica y asistencia social, así como los de formación, capacitación y actualización de los recursos humanos para la salud y, en esta última materia, promover y vigilar su cumplimiento, con la participación que corresponda a las unidades administrativas competentes;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-IV. Proponer normas oficiales mexicanas y demás actos administrativos de carácter general, en los términos de las disposiciones legales aplicables a las que deberán sujetarse la construcción, infraestructura, equipamiento y remodelación de todo tipo de establecimientos para los servicios de atención médica, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría de Salud, así como promover su cumplimiento, dando la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+IV. Proponer normas oficiales mexicanas y demás actos administrativos de carácter general, en los términos de las disposiciones jurídicas aplicables a las que deberán sujetarse la construcción, infraestructura, equipamiento y remodelación de todo tipo de establecimientos para la prestación de servicios de atención médica, con la participación que corresponda a la Oficina del Abogado General, sin perjuicio de las atribuciones que correspondan a otras unidades administrativas de la Secretaría de Salud, así como promover su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-V. Proponer normas oficiales mexicanas y demás actos administrativos, en los términos de las disposiciones jurídicas aplicables, a las que deberá sujetarse la investigación para la salud que se desarrolla en seres humanos, así como promover su cumplimiento y dando la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos en términos del artículo 11 Bis de este Reglamento;
+V. Proponer normas oficiales mexicanas y demás actos administrativos de carácter general, en los términos de las disposiciones jurídicas aplicables, a las que deberá sujetarse la investigación para la salud que se desarrolla en seres humanos, con la participación que corresponda a la Oficina del Abogado General, así como promover su cumplimiento;
 
 VI. Desarrollar y aplicar modelos para el monitoreo y evaluación de la calidad de los servicios de atención médica que proporcionan los sectores público, social y privado, en términos de las disposiciones legales aplicables e identificar la opinión y percepción del usuario sobre estos servicios;
 
@@ -1235,9 +1245,9 @@ IX. Realizar los estudios de opinión pública que permitan conocer el efecto de
 
 X. Participar en las actividades de difusión con otras entidades del Gobierno Federal, en programas conjuntos, así como en situaciones de emergencia causadas por los eventos naturales;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XI. Celebrar previa opinión jurídica de la Coordinación General de Asuntos Jurídicos y Derechos Humanos los contratos de prestación de servicios en materia de comunicación social que se adjudiquen conforme a los artículos 41 y 42 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en términos de las disposiciones aplicables, incluyendo los de los órganos administrativos desconcentrados de la Secretaría de Salud que no cuentan con subcomité de adquisiciones, así como calificar, admitir, custodiar y, en su caso, ordenar la cancelación de las fianzas de los contratos que celebre o presentarlas ante la Tesorería de la Federación para que las haga efectivas, y
+XI. Celebrar previa opinión jurídica de la Oficina del Abogado General, los contratos de prestación de servicios en materia de comunicación social que se adjudiquen conforme a los artículos 41 y 42 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en términos de las disposiciones jurídicas aplicables, incluyendo los de los órganos administrativos desconcentrados de la Secretaría de Salud que no cuentan con subcomité de adquisiciones, así como calificar, aceptar, custodiar y, en su caso, ordenar la cancelación de las fianzas de los contratos que celebre o presentarlas ante la Tesorería de la Federación para que las haga efectivas, y
 
 > <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -1369,89 +1379,51 @@ XIV. Promover el mejoramiento del desempeño gerencial del personal directivo de
 
 XV. Conducir, de conformidad con las disposiciones aplicables, la elaboración, ejecución y evaluación del presupuesto por programa en salud en el ámbito de su competencia.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 22.
 
 Corresponde a la Dirección General de Desarrollo de la Infraestructura Física:
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+I. Elaborar el programa anual de obras públicas y servicios relacionados con las mismas de la Secretaría de Salud;
 
-I. Realizar el programa de infraestructura física en salud para la construcción, demolición de obras a cargo de la Secretaría de Salud y para la conservación, mantenimiento y reparación de unidades de atención médica de su competencia en coordinación con las unidades administrativas correspondientes, así como la elaboración de proyectos ejecutivos para la mejor planeación de las obras a ejecutar;
+II. Participar en coordinación con la Dirección General de Programación y Presupuesto en la formulación del programa de inversiones en la materia de su competencia;
 
-II. Participar en coordinación con la Dirección General de Programación, Organización y Presupuesto en la formulación del Programa de Inversiones en la materia de su competencia;
+III. Desarrollar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, las estrategias de calidad y sustentabilidad en materia de obras públicas y servicios relacionados con las mismas;
 
-III. Desarrollar, en coordinación con las unidades competentes, estrategias de calidad en materia de obras y conservación de la infraestructura física;
+IV. Celebrar los contratos y convenios que requiera para el cumplimiento de sus atribuciones, terminarlos de manera anticipada, o bien, declarar su rescisión administrativa, así como ordenar la suspensión parcial, total, temporal o definitiva de las obras públicas o servicios relacionados contratados, de conformidad con las disposiciones jurídicas aplicables;
 
-IV. Celebrar los contratos y convenios que requiera para el cumplimiento de sus atribuciones enviando a la Dirección General de Programación, Organización y Presupuesto la documentación original relativa a los mismos y rescindir cuando proceda, o convenir la terminación anticipada de dichos contratos y convenios, así como ordenar, en su caso, la suspensión parcial, total, temporal o definitiva de las obras, conservación y servicios de la infraestructura física contratadas;
+V. Informar al Órgano Interno de Control en la Secretaría de Salud, sobre los casos de rescisión, terminación anticipada o suspensión de los contratos en materia de obras públicas y servicios relacionados con las mismas, en el ámbito de sus atribuciones, así como los casos en que los licitantes o contratistas que participen en los procedimientos que instruya, incurran en alguno de los supuestos de sanción que prevé el artículo 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+VI. Realizar los procedimientos de licitación pública, invitación a cuando menos tres personas y adjudicación directa de las obras públicas y servicios relacionados con las mismas, así como asesorar y apoyar en esta materia, cuando así se lo soliciten, a las entidades paraestatales sectorizadas a la Secretaría de Salud y a los servicios de salud de las entidades federativas;
 
-IV Bis. Elaborar, suscribir, formalizar y tramitar los contratos de mantenimiento y conservación de inmuebles para oficinas que impliquen obra pública o de servicios relacionados con las mismas;
+VII. Designar a los servidores públicos que fungirán como residentes de obra y de servicios, encargados de llevar a cabo la supervisión, vigilancia, control y revisión de los trabajos que contrate;
 
-V. Informar con la debida oportunidad, al Órgano Interno de Control sobre los casos de rescisión, terminación anticipada o suspensión de los contratos en materia de obra pública, conservación y servicios de la infraestructura física, así mismo informar a la Secretaría de la Función Pública sobre las infracciones a las disposiciones a que se refieren los artículos 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y 60 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+VIII. Efectuar la supervisión de la ejecución de los contratos de obras públicas y servicios relacionados con las mismas que, en su caso, le soliciten los órganos administrativos desconcentrados de la Secretaría de Salud que cuenten con facultades para suscribir dichos contratos;
 
-VI. Realizar los procedimientos de licitación pública, invitación a cuando menos tres personas y de adjudicación directa, en materia de adquisiciones para la conservación, servicios y obras públicas para la infraestructura física que le corresponda contratar directamente, así como asesorar y apoyar en esta materia a los órganos desconcentrados, servicios estatales de salud e Institutos Nacionales de Salud que se lo soliciten;
+IX. Realizar la recepción física de los trabajos contratados, previa verificación de su debida ejecución, así como los finiquitos correspondientes de los mismos y, en su caso, ordenar la cancelación o hacer efectivas las fianzas relacionadas con los contratos y convenios que celebre, de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Autorizar, en su caso, el otorgamiento a contratistas de porcentajes mayores de anticipos a los determinados por la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+X. Asesorar y apoyar técnicamente, a los órganos administrativos desconcentrados de la Secretaría de Salud, a las entidades paraestatales sectorizadas a dicha Dependencia y a los servicios de salud de las entidades federativas que se lo soliciten, en relación a la proyección y ejecución de las obras públicas y servicios relacionados con las mismas, que desarrollen y conserven la infraestructura física del sector salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XI. Coordinar y promover acciones en materia de obras públicas y servicios relacionados con las mismas con instituciones públicas del Sistema Nacional de Salud, a nivel federal y local, a fin de unificar criterios normativos para el desarrollo de la infraestructura física del Sistema Nacional de Salud;
 
-VIII. Efectuar la supervisión de la ejecución de los contratos de obra pública, servicios y de adquisiciones, conservación y servicios de la infraestructura física a su cargo, y en su caso, la de aquellas que le sean solicitadas por otras unidades administrativas de la Secretaría de Salud;
+XII. Participar en la elaboración y difusión de normas oficiales mexicanas, en materia de especificaciones de la infraestructura, construcción, conservación y mantenimiento de los establecimientos para la prestación de servicios de atención médica;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIII. Realizar la integración de los proyectos de inversión de la Secretaría de Salud, en materia de obras públicas y servicios relacionados con las mismas, tanto en el aspecto técnico como financiero, así como establecer los mecanismos necesarios para su formulación, evaluación y seguimiento, en coordinación con las unidades administrativas competentes de la Secretaría de Salud;
 
-IX. Realizar los finiquitos relativos a las obras que le corresponda ejecutar directamente y en su caso, solicitar la cancelación y recuperación de fianzas relacionadas con los contratos y convenios que celebre y aquellos que reciba en el ejercicio de sus atribuciones y presentarlas ante la Tesorería de la Federación con la finalidad de hacerlas efectivas;
+XIV. Vigilar el desarrollo del programa anual de obras públicas y servicios relacionados con las mismas de la Secretaría de Salud, así como el cumplimiento de sus metas, informando lo conducente al Comité de Obra Pública de dicha Secretaría;
 
-X. Asesorar y apoyar técnica y normativamente, a los órganos desconcentrados y a los servicios estatales de salud e Institutos Nacionales de Salud en la elaboración de proyectos, ejecución de trabajos relacionados con obras, conservación y mantenimiento, en coordinación con la Dirección General de Calidad y Educación en Salud, cuando se trate de unidades de atención médica;
+XV. Opinar y apoyar, en coordinación con la Dirección General de Planeación y Desarrollo en Salud, la formulación de los nuevos prototipos de establecimientos para la prestación de servicios de salud;
 
-XI. Coordinar y vincular las acciones de obras y conservación con unidades del sector salud, a nivel federal y estatal, a fin de unificar criterios normativos en el desarrollo de la infraestructura física en salud;
+XVI. Emitir, de conformidad con las disposiciones jurídicas aplicables, los documentos que funden y motiven la realización de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa por excepción a la licitación pública, de las obras públicas y servicios relacionados con las mismas que le corresponda contratar directamente;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XVII. Participar con la Secretaría de la Función Pública en la elaboración del Catálogo de Conceptos de Obra Pública del Sector Salud;
 
-XII. Participar en la elaboración y difusión de normas oficiales mexicanas, en materia de especificaciones de la infraestructura, construcción, conservación y mantenimiento de unidades de atención médica;
+XVIII. Participar, en el ámbito de su competencia, en la integración de los estudios, bases de licitación y mecanismos de seguimiento de los proyectos de asociaciones público privadas que realice la Secretaría de Salud y realizar los procedimientos de contratación respectivos;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIX. Integrar, con la participación que corresponda a otras unidades administrativas de la Secretaría de Salud, un sistema de información y evaluación de la infraestructura física del sector salud, que permita conocer sus condiciones de operación, así como evaluar y monitorear las acciones y estrategias que se realicen en materia de conservación y mantenimiento a dicha infraestructura, y
 
-XIII. Desarrollar, actualizar, fomentar, coordinar e impartir los programas de formación, capacitación y actualización de los recursos humanos relacionados con obras públicas, así como con la operación, conservación y mantenimiento de las mismas, y suscribir, para tal efecto, convenios de cooperación con los sectores público, social y privado;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIV. Promover, con la asesoría de la Coordinación General de Asuntos Jurídicos y Derechos Humanos y la Dirección General de Recursos Materiales y Servicios Generales, el destino de bienes inmuebles para la construcción de obras, en el ámbito de su competencia, así como su regularización ante las autoridades correspondientes;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XV. Realizar las funciones de Secretario Ejecutivo del Comité de Obras Públicas, así como vigilar el cumplimiento de sus acuerdos y recomendaciones;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XVI. Realizar la integración de los proyectos de inversión tanto en el aspecto técnico como financiero, de las obras de carácter federal que le sean asignadas, así como establecer los mecanismos necesarios para su formulación, evaluación, y seguimiento, en coordinación con entidades administrativas involucradas;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XVII. Vigilar el desarrollo del Programa de Obras a cargo de la Secretaría, así como el cumplimiento de sus metas, informando lo conducente al Comité de Obra Pública de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XVIII. Apoyar a la Dirección General de Planeación y Desarrollo en Salud, en la formulación de los nuevos modelos de unidades médicas para la atención a la salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIX. Evaluar de conformidad con las disposiciones aplicables, los dictámenes técnicos que se formulen para la celebración de procedimientos de invitación a cuando menos tres personas y asignaciones directas por excepción de licitación pública, inherentes al desarrollo de infraestructura física en salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XX. Coordinar la actuación, emisión y difusión del catálogo universal de conceptos y costos de las obras de la Secretaría, para la presupuestación de las mismas y, como instrumento de referencia, para los órganos administrativos desconcentrados, entidades del sector coordinado y los servicios estatales de salud que lo soliciten;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXI. Integrar, conjuntamente con las áreas competentes, los estudios y bases de licitación de los proyectos para prestación de servicios, realizar los procedimientos de contratación de dichos proyectos; y establecer los mecanismos necesarios para su seguimiento, en coordinación con las unidades administrativas competentes;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXII. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de infraestructura física, de aplicación para las unidades administrativas de la Secretaría de Salud, órganos administrativos desconcentrados, y a las entidades agrupadas administrativamente en el sector, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXIII. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de infraestructura física, de aplicación para las unidades administrativas de la Secretaría de Salud, órganos administrativos desconcentrados y a las entidades agrupadas administrativamente en el sector, para el adecuado desarrollo del encargo y su evaluación.
+XX. Participar por parte de la Secretaría de Salud en los comités de evaluación de daños a la infraestructura en salud de las entidades federativas y municipios; cuantificar y evaluar los daños a la infraestructura física en salud de carácter federal, que resulte afectada por desastres naturales, así como presentar los diagnósticos de obras y acciones preliminares, el programa de obras y acciones debidamente calendarizados y el avance físico financiero de las obras que se ejecuten con cargo a los recursos del Fondo de Desastres Naturales.
 
 ###### Artículo 23.
 
@@ -1661,79 +1633,53 @@ XVI. Realizar las gestiones necesarias para la obtención de aportaciones al Fon
 
 XVII. Formular dictámenes e informes, así como emitir opiniones, relativas a la competencia de la unidad administrativa a su cargo.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Dirección General de Programación, Organización y Presupuesto:
+Corresponde a la Dirección General de Programación y Presupuesto:
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+I. Coordinar el proceso de integración programática de la Secretaría de Salud, así como de los fondos de aportaciones del Ramo General 33 que le competen a dicha Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
-I. Integrar las propuestas de modificación al Reglamento Interior de la Secretaría de Salud y elaborar el Manual de Organización General correspondiente, con la participación que corresponda a la Subsecretaría de Administración y Finanzas y la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
+II. Coordinar la formulación del anteproyecto de presupuesto de la Secretaría de Salud, así como el de los fondos de aportaciones del Ramo General 33 que le competen a dicha Secretaría;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+III. Coordinar la integración, programación y seguimiento de la matriz de indicadores para resultados de los programas presupuestarios de la Secretaría de Salud;
 
-II. Proponer y difundir los lineamientos para la elaboración de manuales de organización, de procedimientos, de trámites y de servicios al público de las unidades administrativas centrales y órganos administrativos desconcentrados de la Secretaría de Salud, y opinar sobre los de las entidades agrupadas administrativamente al sector, cuando éstas se lo soliciten;
+IV. Dar a conocer a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como a las entidades paraestatales sectorizadas a dicha Secretaría, el presupuesto autorizado y calendarizado;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+V. Formular, integrar y administrar, en coordinación con la Dirección General de Recursos Humanos y Organización, el presupuesto de servicios personales de la Secretaría de Salud y su calendario de gasto;
 
-III. Formular recomendaciones orientadas a racionalizar los recursos y las estructuras orgánicas, así como para simplificar los procedimientos operativos de las unidades administrativas centrales y órganos administrativos desconcentrados de la Secretaría de Salud, para el desarrollo administrativo y la gestión por proceso, y opinar sobre el funcionamiento de las entidades agrupadas administrativamente en el sector;
+VI. Integrar la información correspondiente a la captación de ingresos de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, por concepto de derechos, productos y aprovechamientos para su incorporación al anteproyecto de Ley de Ingresos de la Federación y realizar las gestiones, previa solicitud de las mismas, para la recuperación de los que resulten procedentes;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+VII. Gestionar ante la Secretaría de Hacienda y Crédito Público, la aprobación de los tabuladores de cuotas de recuperación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como de las entidades paraestatales sectorizadas a dicha Dependencia;
 
-IV. Generar y difundir los lineamientos para la integración de las propuestas de modificación estructural de las unidades administrativas de nivel central y paraestatal, así como enviar las estructuras para su autorización y registro a las dependencias globalizadoras correspondientes, con la participación que corresponda a la Subsecretaría de Administración y Finanzas;
+VIII. Registrar y actualizar en el sistema que para tal efecto establezca la Secretaría de Hacienda y Crédito Público, la cartera de programas y proyectos de inversión a cargo de las diferentes unidades responsables de la Secretaría de Salud, así como integrar e informar sobre su avance físico y financiero;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+IX. Someter al Titular de la Subsecretaría de Administración y Finanzas la liberación de los oficios de inversión de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-V. Emitir el dictamen técnico-funcional de los contratos bajo el régimen de honorarios de las unidades administrativas centrales y órganos administrativos desconcentrados; realizar la gestión de éstos ante las dependencias globalizadoras, así como difundir la normatividad correspondiente en coordinación con la Dirección General de Recursos Humanos;
+X. Administrar el presupuesto de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como coordinar el de las entidades paraestatales sectorizadas a dicha Dependencia, de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Coordinar la formulación del proyecto de presupuesto de egresos de la Secretaría y el de los ramos generales contenidos en el Presupuesto de Egresos de la Federación que le corresponda administrar, mediante el análisis de la información generada en sus programas anuales de trabajo, para ordenar y clasificar los programas y actividades conforme a las prioridades de salud establecidas;
+XI. Incorporar al sistema de administración financiera federal la información respectiva de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Coordinar el proceso de integración programática de la Secretaría y de los ramos generales contenidos en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal que le corresponda administrar, en congruencia con los objetivos, programas y fuentes de financiamiento, en el marco de la alineación de recursos con el Sistema de Protección Social en Salud, así como establecer políticas y lineamientos para el efecto;
+XII. Coordinar la operación del sistema de contabilidad gubernamental de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como resguardar la documentación contable, justificativa y comprobatoria de las operaciones financieras de las unidades administrativas de dicha Dependencia, de conformidad con las disposiciones jurídicas aplicables;
 
-VIII. Coordinar la integración y calendarización de los objetivos, metas e indicadores presupuestarios de la Secretaría, que permitan evaluar el cumplimiento de los programas y la ejecución del gasto público;
+XIII. Coordinar la integración de la información de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como de las entidades paraestatales sectorizadas a dicha Dependencia, para formular la Cuenta de la Hacienda Pública Federal;
 
-IX. Dar a conocer a las unidades responsables de la Secretaría y a los servicios estatales de salud, su presupuesto autorizado y calendarizado;
+XIV. Integrar la información financiera de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, para realizar la gestión institucional y gubernamental;
 
-X. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2010)
+XV. Distribuir el fondo rotatorio a las unidades administrativas de la Secretaría de Salud y vigilar su ejercicio, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XVI. Integrar la información que deba incorporarse al Sistema Integral de Información de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación y vigilar su cumplimiento en las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como incorporar la información de las entidades paraestatales sectorizadas a dicha Dependencia en el Sistema;
 
-XI. Formular, integrar y administrar en coordinación con la Dirección General de Recursos Humanos, el presupuesto de servicios personales de la Secretaría de Salud y su calendario de gasto;
+XVII. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de programación y presupuesto que lleven a cabo las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas;
 
-XII. Integrar la información correspondiente a la captación de ingresos y de los tabuladores de cuotas de recuperación de las áreas centrales, órganos administrativos desconcentrados y entidades agrupadas administrativamente en el sector por concepto de derechos, productos y aprovechamientos para su incorporación al proyecto de Ley de Ingresos de la Federación;
+XVIII. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de programación y presupuesto que lleven a cabo las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, para el adecuado desarrollo de sus atribuciones y su evaluación;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIX. Emitir con la participación que corresponda a las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría de Salud, las evaluaciones de impacto presupuestario que deriven de los anteproyectos de iniciativas de leyes y decretos legislativos, reglamentos, decretos, acuerdos y demás ordenamientos relativos a los asuntos de la competencia de la Secretaría de Salud;
 
-XIII. Registrar y actualizar la cartera de programas y proyectos de inversión a cargo de las diferentes unidades responsables de la Secretaría de Salud, así como integrar e informar sobre su avance físico y financiero;
+XX. Integrar y realizar la verificación de que no existen estudios, proyectos y consultorías similares de acuerdo con el artículo 19 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público para elaborar las constancias correspondientes, y
 
-XIV. Someter al Titular de la Subsecretaría de Administración y Finanzas la liberación de los oficios de inversión, así como la certificación de los ingresos excedentes por concepto de derechos, productos y aprovechamientos generados por las unidades administrativas centrales y órganos administrativos desconcentrados de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XV. Administrar el presupuesto de las unidades administrativas centrales y órganos administrativos desconcentrados, así como coordinar el de las entidades agrupadas administrativamente en el sector, de conformidad con las disposiciones aplicables;
-
-XVI. Operar el Sistema Integral de Administración Financiera Federal en la Secretaría, de conformidad con la normatividad aplicable;
-
-XVII. Administrar el Sistema de Contabilidad de la Secretaría y mantener en resguardo la documentación contable comprobatoria de las operaciones financieras, de conformidad con las disposiciones aplicables;
-
-XVIII. Integrar y validar la información financiera de las unidades administrativas centrales y órganos administrativos desconcentrados de la Secretaría y de las entidades agrupadas administrativamente en el sector para realizar la gestión institucional y gubernamental;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIX. Distribuir el fondo rotatorio a las unidades administrativas de la Secretaría de Salud y vigilar su ejercicio, de conformidad con la normatividad aplicable;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XX. Integrar la información que deba incorporarse al Sistema Integral de Información de la Comisión Intersecretarial de Gasto Financiamiento, y vigilar su cumplimiento en las unidades administrativas centrales y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXI. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de programación, organización y presupuesto, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXII. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de programación, organización y presupuesto, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, para el adecuado desarrollo del encargo y su evaluación.
+XXI. Participar en los órganos colegiados que se integren en la Secretaría de Salud en los que así se establezca en las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -1787,183 +1733,111 @@ XX. Definir y desarrollar campañas y estrategias de comunicación que promuevan
 
 XXI. Establecer las normas y procedimientos para la instrumentación de las acciones de prevención y promoción de la salud, así como de la salud del migrante, incluidos los que permitan el seguimiento y la evaluación de la efectividad de dichas acciones.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 29.
 
-Corresponde a la Dirección General de Recursos Humanos:
+Corresponde a la Dirección General de Recursos Humanos y Organización:
 
-I. Dirigir y normar la administración y desarrollo del personal de la Secretaría, así como definir los sistemas para su evaluación, en coordinación con las unidades administrativas competentes;
+I. Elaborar el Manual de Organización General de la Secretaría de Salud, con la participación que corresponda a la Subsecretaría de Administración y Finanzas y a la Oficina del Abogado General, así como integrar la propuesta de modificación de la estructura orgánica que requiera la instancia competente para sustentar dicha modificación en el Reglamento Interior de la Secretaría de Salud;
 
-II. Establecer y promover las normas, criterios y procedimientos en materia de reclutamiento, selección e inducción de personal;
+II. Proponer y difundir los lineamientos para la elaboración de manuales de organización, de procedimientos y de servicios al público de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, y opinar, cuando así se lo soliciten, sobre los (sic) de las entidades paraestatales sectorizadas a dicha Dependencia;
 
-III. Definir los lineamientos de la estructura ocupacional de las unidades administrativas de la Secretaría y vigilar su cumplimiento;
+III. Formular recomendaciones orientadas a racionalizar los recursos humanos y las estructuras orgánicas, así como para simplificar los procedimientos operativos de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, para el desarrollo administrativo y la gestión por proceso, y opinar, cuando así se lo soliciten, sobre el funcionamiento de las entidades paraestatales sectorizadas a dicha Dependencia;
 
-IV. Evaluar y presentar a dictamen administrativo del Subsecretario de Administración y Finanzas, las modificaciones a la estructura ocupacional y plantillas de personal operativo de la Secretaría;
+IV. Formular y difundir los lineamientos para la integración de las propuestas de modificación estructural de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, así como solicitar su aprobación y registro a las dependencias competentes de la Administración Pública Federal;
 
-V. Desarrollar, administrar y dar mantenimiento a los sistemas de cómputo de recursos humanos y procesar la nómina de las Áreas Centrales y Órganos Desconcentrados de la Secretaría;
+V. Emitir dictamen técnico-funcional de los contratos bajo el régimen de honorarios de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud y realizar la gestión de éstos ante las dependencias competentes de la Administración Pública Federal, así como difundir la normativa aplicable en esta materia;
 
-VI. Conducir el sistema de remuneraciones y de política salarial para el personal de la Secretaría, así como promover la aplicación de las normas y lineamientos que, en la materia, emitan las dependencias competentes;
+VI. Fungir como enlace institucional ante la Secretaría de la Función Pública, para las gestiones técnicas, administrativas y normativas en materia organizacional;
 
-VII. Normar, tramitar, controlar y registrar los movimientos e incidencias del personal, así como los nombramientos y demás documentos que acrediten la situación laboral de los trabajadores;
+VII. Realizar y normar la administración y desarrollo del personal de la Secretaría de Salud, así como definir los sistemas para su evaluación, en coordinación con las unidades administrativas competentes de dicha Secretaría y conforme a las disposiciones jurídicas aplicables;
 
-VIII. Administrar, promover, coordinar y vigilar la debida aplicación de los sistemas de premios, estímulos y recompensas, así como proporcionar a los trabajadores los beneficios y prestaciones económicas y sociales que establecen las disposiciones aplicables;
+VIII. Desarrollar, administrar y dar mantenimiento a los sistemas electrónicos de recursos humanos y procesar la nómina de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+IX. Administrar el sistema de remuneraciones y de política salarial para el personal de la Secretaría de Salud, así como promover la aplicación de las normas y lineamientos que en esta materia emitan las dependencias competentes de la Administración Pública Federal, y realizar el pago de las remuneraciones y liquidaciones que correspondan a cargo de la Secretaría de Salud;
 
-IX. Elaborar y revisar, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, las Condiciones Generales de Trabajo y demás normas laborales internas de la Secretaría de Salud, así como difundirlas al personal y vigilar su observancia, en coordinación con las unidades administrativas competentes;
+X. Normar, tramitar, controlar y registrar los movimientos e incidencias del personal de la Secretaría de Salud, así como los nombramientos y demás documentos que acrediten la situación laboral de los trabajadores que prestan sus servicios a dicha Secretaría;
 
-X. Participar en los comités y comisiones que se creen en materia laboral y de capacitación técnico-administrativa, así como en aquellos que establezca la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento;
+XI. Administrar, promover, coordinar y vigilar la debida aplicación de los sistemas de premios, estímulos y recompensas de la Secretaría de Salud, así como proporcionar a los trabajadores de ésta, los beneficios y prestaciones económicas y sociales que establecen las disposiciones jurídicas aplicables;
 
-XI. Vigilar el cumplimiento y observancia de las disposiciones legales en materia laboral, elaborar los lineamientos relacionados con la normatividad laboral y atender las peticiones, sugerencias y quejas que formulen los trabajadores y sus representantes sindicales, así como resolver administrativamente los conflictos internos que se susciten por violación a las Condiciones Generales de Trabajo y demás disposiciones jurídicas y administrativas que rigen a los servidores públicos e imponer, en su caso, las medidas disciplinarias que correspondan;
+XII. Elaborar y revisar, con la participación que corresponda a la Oficina del Abogado General, las Condiciones Generales de Trabajo y las disposiciones que de ellas deriven, así como la demás normativa laboral interna de la Secretaría de Salud, así como difundirlas al personal de ésta y vigilar su observancia, en coordinación con las unidades administrativas competentes de dicha Secretaría;
 
-XII. Cuantificar, costear y validar, en su caso, los programas de reclasificación y requerimientos de recursos humanos que demanden las unidades administrativas y órganos desconcentrados de la Secretaría, en coordinación con las instancias competentes de la misma;
+XIII. Participar en los comités y comisiones que se creen en materia laboral, de capacitación técnico-administrativa y de aquéllos que establezca la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento, así como vigilar el funcionamiento de las comisiones nacionales mixtas previstas en la ley de la materia y en las Condiciones Generales de Trabajo;
 
-XIII. Participar en la elaboración del programa operativo anual de la Secretaría en lo referente a servicios personales;
+XIV. Vigilar el cumplimiento y observancia de las disposiciones jurídicas en materia laboral; elaborar los lineamientos relacionados con la normativa laboral y atender las peticiones, sugerencias y quejas que formulen los trabajadores de la Secretaría de Salud y sus representantes sindicales, así como resolver administrativamente los conflictos internos que se susciten por violación a las Condiciones Generales de Trabajo y demás disposiciones jurídicas que rigen a los servidores públicos e imponer, en su caso, las medidas disciplinarias que correspondan;
 
-XIV. Participar en la definición de las normas, sistemas y procedimientos aplicables al proceso de descentralización en materia de personal, así como promover su cumplimiento;
+XV. Cuantificar, costear y validar, en su caso, los movimientos salariales que afecten al inventario de plazas, así como los requerimientos de recursos humanos que demanden las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, en coordinación con las instancias competentes de la misma;
 
-XV. Definir y conducir el Sistema Nacional de Capacitación y Desarrollo del Personal de la Secretaría; así como coordinar programas de capacitación técnico-administrativa con base en las necesidades de las diferentes unidades administrativas y en apego a la legislación y normatividad aplicable;
+XVI. Participar en la elaboración del programa operativo anual de la Secretaría de Salud en lo referente a servicios personales;
 
-XVI. Definir y promover el desarrollo de las actividades culturales, cívicas, sociales y recreativas que efectúe la Secretaría, así como coadyuvar al Programa de Gestión Social para la Atención Ciudadana;
+XVII. Participar en la definición de las normas, sistemas y procedimientos aplicables al proceso de descentralización en materia de personal de la Secretaría de Salud, así como promover su cumplimiento;
 
-XVII. Conducir el sistema de orientación e información al público, así como promover la actualización permanente del manual de servicios de la Secretaría;
+XVIII. Definir y conducir el programa de capacitación técnico-administrativa de la Secretaría de Salud, con base en las necesidades de las diferentes unidades administrativas de dicha Secretaría y en apego a las disposiciones jurídicas aplicables;
 
-XVIII. Coordinar la operación del Sistema de Servicio Profesional de Carrera con base en las disposiciones que expida la Secretaría de la Función Pública e instancias correspondientes;
+XIX. Coordinar e instrumentar las actividades de orden social, cultural, cívico, recreativo y de protección al salario de los trabajadores de la Secretaría de Salud, que establezcan las disposiciones jurídicas aplicables, así como en las Condiciones Generales de Trabajo;
 
-XIX. Celebrar en apego a las disposiciones que al efecto emita la Secretaría de la Función Pública, convenios con las instancias competentes, para que se imparta cualquier modalidad de capacitación que coadyuve a cubrir las necesidades de formación de los servidores públicos de carrera, así como para el intercambio de estos recursos humanos con el fin de fortalecer su desarrollo profesional;
+XX. Coordinar la operación del Sistema de Servicio Profesional de Carrera en la Secretaría de Salud, conforme a las disposiciones jurídicas aplicables;
 
-XX. Promover el fortalecimiento del capital humano a través de la certificación correspondiente;
+XXI. Celebrar, conforme a las disposiciones jurídicas aplicables, convenios con las instancias competentes, para que se imparta cualquier modalidad de capacitación que coadyuve a cubrir las necesidades de formación de los servidores públicos de carrera de la Secretaría de Salud, así como para el intercambio de estos recursos humanos con el fin de fortalecer su desarrollo profesional;
 
-XXI. Atender los acuerdos que en el ámbito de su competencia emita el Consejo Consultivo del Sistema y el Comité Técnico de Profesionalización y Selección de la Secretaría, de conformidad a las disposiciones establecidas en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su respectivo Reglamento;
+XXII. Expedir los nombramientos, distintos a los que corresponda emitir al Secretario o a otros servidores públicos de la Secretaría de Salud, conforme a lo previsto en este Reglamento y autorizar los cambios de adscripción, permutas, transferencias y reubicaciones de los trabajadores de dicha Secretaría;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+XXIII. Coordinar y autorizar las peticiones de licencia que sean de su competencia, de conformidad con la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y las Condiciones Generales de Trabajo de la Secretaría de Salud;
 
-XXII. Expedir los nombramientos y realizar las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio de la Secretaría;
+XXIV. Otorgar la asignación de estímulos y reconocimientos a los servidores públicos de carrera de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+XXV. Promover, difundir y otorgar oportunidades de becas, financiamientos e intercambios científico-académicos entre el personal de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Coordinar y autorizar las peticiones de licencia con goce de sueldo por comisión sindical a nivel nacional, así como las comisiones oficiales y externas en el nivel central y sus órganos administrativos desconcentrados;
+XXVI. Asesorar a los Comités Técnicos de Selección de los órganos administrativos desconcentrados de la Secretaría de Salud, y proponer las acciones que tiendan a lograr una mayor coordinación entre estos órganos y las unidades administrativas de la Secretaría, para dar cumplimiento a las disposiciones en materia del Servicio Profesional de Carrera;
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+XXVII. Promover, gestionar y suscribir los convenios que señala la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, su Reglamento y demás disposiciones jurídicas aplicables;
 
-XXIV. Otorgar la asignación de estímulos y reconocimientos a los servidores públicos de carrera de la Secretaría, de conformidad con las disposiciones aplicables;
+XXVIII. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de recursos humanos y organización, que lleven a cabo las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas, y
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+XXIX. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de recursos humanos y organización que lleven a cabo las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, para el adecuado desarrollo del encargo y su evaluación.
 
-XXV. Promover, difundir y otorgar oportunidades de becas, financiamientos e intercambios científico-académicos entre el personal de la Secretaría, de conformidad con las disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXVI. Fungir como asesor de los Comités Técnicos de Profesionalización y Selección de los órganos administrativos desconcentrados, y proponer las acciones que tiendan a lograr una mayor coordinación entre estos órganos y las unidades administrativas centrales de la Secretaría de Salud, para dar cabal cumplimiento a las disposiciones en materia del Servicio Profesional de Carrera;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXVII. Promover, gestionar y suscribir los convenios que señala la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, su Reglamento y demás disposiciones aplicables;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXVIII. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de recursos humanos, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXIX. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de recursos humanos, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, para el adecuado desarrollo del encargo y su evaluación.
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-La Dirección General Adjunta de Administración, Operación y Control de Servicios Personales, la Dirección General Adjunta de Relaciones Laborales, la Dirección General Adjunta de Administración del Servicio Profesional de Carrera y Capacitación y la Dirección de Personal, forman parte de la Dirección General de Recursos Humanos y podrán ejercer las facultades que se establecen en el presente artículo, conforme lo establezca el manual de organización específico.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 30.
 
 Corresponde a la Dirección General de Recursos Materiales y Servicios Generales:
 
-I. Emitir y difundir las normas, políticas y procedimientos para regular los sistemas de adquisición, almacenamiento, distribución y control de bienes de activo fijo, artículos de consumo y para la prestación de servicios generales y verificar su cumplimiento;
+I. Emitir y difundir, de conformidad con las disposiciones jurídicas aplicables, las normas, directrices y procedimientos para regular los sistemas de adquisición, almacenamiento, distribución y control de bienes de activo fijo, artículos de consumo y para la prestación de servicios generales y verificar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+II. Realizar los procedimientos de licitación pública, invitación a cuando menos tres personas y de adjudicación directa, en materia de adquisiciones, arrendamientos y servicios, que requieran las unidades administrativas de la Secretaría de Salud, así como la de aquellos órganos administrativos desconcentrados de dicha Secretaría que no se encuentren facultados para ello, de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, su Reglamento y demás disposiciones jurídicas aplicables;
 
-II. Realizar los procedimientos de licitación pública, invitación a cuando menos tres personas y de adjudicación directa en materia de adquisiciones, arrendamientos y servicios, que requieran las unidades administrativas centrales y órganos desconcentrados de la Secretaría de Salud que no cuenten con un subcomité de adquisiciones, de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y demás normatividad aplicable en la materia; cuando se trate de bienes de tecnologías de la información y comunicaciones, éstos deberán ser canalizados a través de la Dirección General de Tecnologías de la Información; para su consolidación y emisión del dictamen correspondiente;
+III. Coordinar la elaboración de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+IV. Celebrar contratos, convenios y demás instrumentos jurídicos análogos, con proveedores y prestadores de servicios de acuerdo a los requerimientos de las unidades administrativas y órganos administrativos desconcentrados solicitantes, de conformidad con los procedimientos de contratación efectuados y de acuerdo a los modelos aprobados por la Oficina del Abogado General;
 
-III. Obtener de las unidades administrativas, y órganos desconcentrados de la Secretaría de Salud, que soliciten los bienes y/o servicios, los dictámenes correspondientes de los procedimientos de contratación, y cuando se trate de consolidaciones obtener de las entidades correspondientes dichos dictámenes;
+V. Calificar, aceptar, custodiar y, en su caso, ordenar la cancelación de las fianzas relacionadas con los contratos y convenios que celebre esta Dirección General por la adquisición de bienes y la prestación de servicios y aquéllas que reciba en el ejercicio de sus atribuciones, o presentarlas ante la Tesorería de la Federación para que las haga efectivas;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+VI. Colaborar con la Dirección General de Programación y Presupuesto en la elaboración e integración del programa de inversiones de bienes muebles de la Secretaría de Salud;
 
-IV. Fungir como Secretario Ejecutivo del Comité de Adquisiciones, Arrendamientos y Servicios, del Comité de Bienes Muebles, del Comité de Compras Consolidadas de Biológicos, cuando esta Secretaría de Salud presida dicho comité, del Comité de Compras Consolidadas de Bienes y Servicios, así como vigilar el cumplimiento de sus acuerdos y recomendaciones;
+VII. Controlar y actualizar el inventario físico de los bienes inmuebles destinados a la Secretaría de Salud o que tenga a su servicio y, con la participación que, en el ámbito de su competencia corresponda a la Oficina del Abogado General, tramitar su regularización y los instrumentos jurídicos que otorguen o concedan el uso o goce de dichos bienes;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+VIII. Controlar y actualizar el registro de los bienes muebles de la Secretaría de Salud, autorizar el dictamen de no utilidad y la propuesta de disposición final de los mismos, así como tramitar su baja y disposición final y, en su caso, instrumentar el procedimiento respectivo;
 
-V. Realizar las funciones de Secretario Ejecutivo del Comité de Enajenación de Bienes Muebles e Inmuebles;
+IX. Coordinar que cada año las unidades administrativas realicen el inventario físico de los bienes muebles que tienen bajo su resguardo conforme a las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+X. Ser el responsable de contratar y administrar los programas de aseguramiento de bienes patrimoniales a cargo de la Secretaría de Salud;
 
-VI. Coordinar la elaboración de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios;
+XI. Formular, coordinar y supervisar, la integración de los programas anuales de adquisiciones, arrendamientos y servicios y de recursos materiales y servicios generales de la Secretaría de Salud, así como sus presupuestos respectivos y someterlos a la aprobación de la Subsecretaría de Administración y Finanzas, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XII. Administrar el almacén de la Secretaría de Salud de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Celebrar contratos y/o convenios con proveedores y prestadores de servicios de acuerdo a los requerimientos de las áreas solicitantes, de conformidad con los procedimientos de contratación efectuados y de acuerdo a los modelos aprobados por la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
+XIII. Promover ante la dependencia competente de la Administración Pública Federal, la ocupación y redistribución de espacios que requieran las distintas unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XIV. Poner a disposición de la Secretaría de Hacienda y Crédito Público, el destino de los inmuebles que no le sean útiles a la Secretaría de Salud;
 
-VIII. Calificar, admitir, custodiar y, en su caso, ordenar la liberación de las fianzas relacionadas con los contratos y convenios que celebre esta Dirección General por la adquisición de bienes y la prestación de servicios y aquellas que reciba en el ejercicio de sus atribuciones, o presentarlas ante la Tesorería de la Federación para que las haga efectivas;
+XV. Elaborar, suscribir, formalizar y tramitar los contratos de arrendamiento de inmuebles de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables, y previa opinión de la Oficina del Abogado General;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+XVI. Integrar, operar y mantener actualizado el Programa Interno de Protección Civil de la Secretaría de Salud;
 
-IX. Colaborar con la Dirección General de Programación, Organización y Presupuesto en la elaboración e integración del programa de inversiones de bienes muebles de la Secretaría de Salud;
+XVII. Asesorar y apoyar en materia de adquisiciones, arrendamientos y servicios, así como de bienes muebles e inmuebles, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, y
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-X. Controlar y actualizar el inventario físico de los bienes inmuebles destinados a la Secretaría de Salud o que tenga a su servicio y, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, tramitar su regularización y los instrumentos legales que otorguen o concedan el uso o goce de dichos bienes;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XI. Controlar y actualizar el registro de los bienes muebles de la Secretaría de Salud, así como determinar y tramitar la baja y disposición final de los mismos, emitir el dictamen técnico y, en su caso, instrumentar el procedimiento respectivo;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XII. Coordinar que cada año las unidades administrativas realicen el inventario físico de los bienes muebles que tienen bajo su resguardo conforme a las disposiciones legales aplicables;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIII. Contratar los seguros de los bienes a cargo de esta Secretaría y tramitar ante las instituciones aseguradoras, en coordinación con las unidades administrativas, y órganos desconcentrados de la Secretaría de Salud, el pago de las indemnizaciones por concepto de siniestros que los mismos reporten;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIV. Integrar el programa anual de adquisiciones, el programa anual de disposición final de bienes muebles, y el de arrendamiento de inmuebles en coordinación con las unidades administrativas y órganos desconcentrados de la Secretaría de Salud;
-
-XV. Administrar los almacenes de la Secretaría por medio de un sistema adecuado de control de inventarios, así como vigilar y realizar el control de calidad y los procesos de recepción y distribución de bienes e insumos de acuerdo con las disposiciones existentes, así como emitir las bases y lineamientos para el funcionamiento y control de los almacenes que operen las diversas unidades administrativas de la Secretaría y vigilar su cumplimiento;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XVI. Promover ante la dependencia competente, la ocupación y redistribución de espacios que requieran las distintas áreas de la Secretaría de Salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XVII. Poner a disposición de la Secretaría de la Función Pública, el destino de los inmuebles que no le sean útiles a la Secretaría de Salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XVIII. Elaborar, suscribir, formalizar y tramitar los contratos de arrendamiento de inmuebles, previa justificación de las unidades administrativas, y órganos desconcentrados de la Secretaría de Salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIX. Coordinar y, en su caso, apoyar los servicios generales de correspondencia y transporte de personas que requieran las unidades administrativas de la Secretaría de Salud;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XX. Integrar, operar y mantener actualizado el Programa Interno de Protección Civil para el personal, instalaciones, e información correspondientes a la Secretaría de Salud;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXI. Asesorar y apoyar en materia de adquisiciones, arrendamientos y servicios, así como bienes muebles e inmuebles, relacionados con las mismas a las unidades administrativas y órganos desconcentrados;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXII. Proponer los procedimientos generales y establecer las medidas necesarias que propicien la mejora del control interno en materia de recursos materiales y servicios generales, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, que impulsen el mejor aprovechamiento de dichos recursos y que permitan garantizar una adecuada rendición de cuentas, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXIII. Proponer los procedimientos generales y establecer las medidas necesarias que generen la mejora continua de la gestión en materia de recursos materiales y servicios generales, de aplicación para las unidades administrativas de la Secretaría de Salud y órganos administrativos desconcentrados, así como de las entidades agrupadas administrativamente en el sector, para el adecuado desarrollo del encargo y su evaluación.
+XVIII. Suscribir las actas de entrega recepción para transferir o recibir bienes muebles por parte de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables, con la participación que corresponda a la Oficina del Abogado General.
 
 ###### Artículo 31.
 
@@ -1983,9 +1857,9 @@ IV. Organizar eventos de salud de carácter internacional, así como apoyar el d
 
 V. Preparar, en coordinación con las áreas técnicas de la Secretaría de Salud, la posición del sector salud mexicano ante los distintos organismos y mecanismos internacionales en salud; así como difundir información del sector a otros países y organismos;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-VI. Revisar que los convenios, acuerdos y tratados internacionales en los que intervenga la Secretaría de Salud sean congruentes con los lineamientos de carácter internacional vigentes, así como participar con las unidades administrativas competentes en la elaboración de los proyectos respectivos, con la intervención que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
+VI. Revisar que los convenios, acuerdos y tratados internacionales en los que intervenga la Secretaría de Salud sean congruentes con las disposiciones de carácter internacional aplicables, así como participar con las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría de Salud en la elaboración de los proyectos respectivos, con la intervención que corresponda a la Oficina del Abogado General;
 
 VII. Identificar posibles fuentes de financiamiento en el exterior para apoyar el desarrollo de programas estratégicos de salud de la Secretaría;
 
@@ -2035,35 +1909,33 @@ XX. Evaluar y gestionar las contribuciones financieras a organismos y programas 
 
 XXI. Colaborar con otras instancias competentes en las acciones dirigidas a mejorar la salud de los trabajadores agrícolas temporales en el exterior del país.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 32.
 
 Corresponde a la Dirección General de Tecnologías de la Información:
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+I. Formular, en coordinación con las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, el Plan Estratégico de Tecnologías de la Información y Comunicaciones de la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables y a los objetivos institucionales, así como coordinar su ejecución, evaluación y seguimiento;
 
-I. Conducir el Desarrollo Informático de la Secretaría de Salud;
+II. Establecer, de conformidad con las disposiciones jurídicas aplicables, las directrices y la normativa técnica para el uso innovador de las tecnologías de la información y el manejo de documentos y archivos en las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud y promover su establecimiento en las entidades paraestatales sectorizadas a dicha Dependencia, así como en los servicios de salud de las entidades federativas;
 
-II. Establecer las políticas y la normatividad técnica aplicables para el uso innovador de las tecnologías de la información y el manejo de documentos y archivos en la Secretaría, así como en sus órganos desconcentrados y promover su establecimiento en los organismos descentralizados agrupados en el sector coordinado y en los Servicios Estatales de Salud;
+III. Desarrollar y promover la aplicación de nuevas tecnologías, equipo especializado, infraestructura tecnológica, sistemas de cómputo e informáticos y telecomunicaciones, en las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, que permitan elevar su eficiencia operativa;
 
-III. Conducir y promover el aprovechamiento de las tecnologías de la información como herramienta estratégica para mejorar la productividad y la calidad de los Servicios de Salud que se proporcionan;
+IV. Fomentar programas de capacitación, a fin de fortalecer el uso y aprovechamiento de tecnologías de la información y comunicaciones en la Secretaría de Salud;
 
-IV. Fomentar el Programa de Capacitación en Informática, para fortalecer el uso de las Tecnologías de Información en la Secretaría;
+V. Dictaminar técnicamente las necesidades de uso de tecnologías de la información, los proyectos con contenido tecnológico, así como las solicitudes de adquisición, arrendamiento de bienes o contratación de servicios de tecnologías de la información y comunicaciones de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud;
 
-V. Emitir los dictámenes técnicos sobre las necesidades de uso de tecnología de la Información e Infraestructura de Telecomunicaciones, así como de proyectos de informática y de desarrollo e implantación de sistemas automatizados de información;
+VI. Emitir, de conformidad con las disposiciones jurídicas aplicables, la normativa en materia de seguridad informática, coadyuvando a su implementación en la Secretaría de Salud;
 
-VI. Normar en materia de Seguridad Informática, coadyuvando a la implantación de las políticas que se generen dentro de la Secretaría;
+VII. Establecer el uso de las tecnologías de la información y comunicaciones, para innovar procesos en las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, con el fin de optimizar el desarrollo de sus actividades;
 
-VII. Establecer el uso de las tecnologías de la información para innovar procesos en las Áreas de la Secretaría con el fin de optimizar el desarrollo de sus actividades;
+VIII. Colaborar con instituciones públicas, sociales y privadas, nacionales e internacionales, para el aprovechamiento de las tecnologías de la información y comunicaciones;
 
-VIII. Colaborar con Organismos Públicos, Sociales y Privados, Nacionales e Internacionales para el aprovechamiento de la tecnología de la información;
+IX. Fungir como área coordinadora de archivos de la Secretaría de Salud y desempeñar las funciones y facultades que establece la ley de la materia y demás disposiciones jurídicas aplicables;
 
-IX. Coordinar el Sistema de Documentación Institucional;
+X. Fungir como enlace de la Secretaría de Salud con el Archivo General de la Nación y el Instituto Nacional de Acceso a la Información y Protección de Datos Personales en materia de archivos y administración de documentos, y
 
-X. Representar a la Secretaría ante los órganos normativos del Gobierno Federal en materia de archivos y administración de documentos y ser el enlace con el Archivo General de la Nación;
-
-XI. Normar los procedimientos conducentes a la identificación, acopio, y en su caso, la disposición final de la documentación institucional generada por las unidades administrativas centrales y órganos desconcentrados y someterlos al Comité de Información, y
-
-XII. Desarrollar productos informativos para la atención a usuarios y difusión de los acervos de la Secretaría de Salud a cargo del Centro de Documentación Institucional, ya sea mediante formatos tradicionales o a través del uso de tecnologías de la información.
+XI. Administrar y operar los servidores de cómputo, sistemas de almacenamiento central y equipos de telecomunicaciones de la Secretaría de Salud.
 
 ###### Artículo 32 Bis 1.
 
@@ -2207,49 +2079,9 @@ XXI. Supervisar el desempeño de las localidades, jurisdicciones sanitarias, ent
 
 XXII. Ejercer las atribuciones establecidas en el artículo 16 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, así como aquéllas que le encomiende su superior jerárquico.
 
-> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 ###### Artículo 35 Bis 1.
 
-Corresponde al Secretariado Técnico del Consejo Nacional para las Personas con Discapacidad:
-
-I. Proponer al Subsecretario de Prevención y Promoción de la Salud el contenido de la política y estrategias nacionales de orientación, prevención, detección, estimulación temprana, atención integral y rehabilitación para las diferentes discapacidades, así como en materia de educación para la salud para las personas con discapacidad, y evaluar su impacto;
-
-II. Coadyuvar en la instrumentación de las acciones específicas de orientación, prevención, detección, estimulación temprana, atención integral y rehabilitación para las diferentes discapacidades;
-
-III. Establecer mecanismos de coordinación con el Secretario Ejecutivo del Consejo Nacional para las Personas con Discapacidad;
-
-IV. Elaborar, en coordinación con las unidades administrativas competentes de la Secretaría, así como con otras dependencias y unidades integrantes del Consejo Nacional para las Personas con Discapacidad, propuestas de disposiciones normativas, a efecto de que los establecimientos que provean servicios de atención para las personas con discapacidad dispongan de instalaciones y equipos adecuados para la prestación de sus servicios;
-
-V. Impulsar el desarrollo de actividades de información, orientación y sensibilización que coadyuven a la integración de las personas con discapacidad, en coordinación con las instituciones y organismos especializados en la materia;
-
-VI. Impulsar, en forma conjunta con las dependencias y organismos nacionales e internacionales competentes, el establecimiento de redes sociales y de apoyo comunitario en materia de discapacidad;
-
-VII. Participar en la elaboración de propuestas para la actualización y desarrollo de disposiciones jurídicas en materia de discapacidad;
-
-VIII. Propiciar la celebración de convenios y acuerdos de coordinación con los gobiernos de las entidades federativas y municipios, para impulsar su apoyo y participación en el desarrollo de las acciones en materia de discapacidad;
-
-IX. Participar en la definición, instrumentación, supervisión y evaluación de las estrategias y contenidos técnicos de los materiales de difusión, comunicación social e información dentro del ámbito de su competencia, así como de los materiales didácticos y metodologías que se utilicen para la capacitación, actualización y desarrollo humano del personal que opera las acciones en materia de discapacidad, en coordinación con las unidades administrativas competentes;
-
-X. Promover mecanismos para fomentar la participación de los sectores público, social y privado en las acciones en materia de discapacidad, fomentando el fortalecimiento del Consejo Consultivo para las Personas con Discapacidad;
-
-XI. Coadyuvar en la operación del Sistema Nacional de Vigilancia Epidemiológica, en relación con la información vinculada con la materia de su competencia;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XII. Participar, en el ámbito de su competencia, en la instrumentación del Sistema de Protección Social en Salud, en coordinación con las unidades administrativas competentes;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIII. Participar en la definición e integración de la Clasificación Nacional de Discapacidades, así como en la supervisión y evaluación de la información generada por los sistemas institucionales de información y de investigación en salud, relacionada con las materias a su cargo, en coordinación con las unidades administrativas competentes;
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XIV. Proponer normas oficiales mexicanas en materia de discapacidad y vigilar su cumplimiento, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XV. Ejercer las atribuciones establecidas en el artículo 16 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, así como aquéllas que le encomiende su superior jerárquico.
+(DEROGADO, D.O.F. 7 DE FEBRERO DE 2018)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -2369,25 +2201,33 @@ I Bis 2. Aplicar los procedimientos necesarios que generen la mejora continua de
 
 II. Acordar con su superior la resolución de los asuntos relevantes cuya tramitación corresponda al órgano a su cargo;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-III. Formular, en los asuntos de su competencia, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y órdenes, con la participación de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, para su trámite correspondiente;
+III. Formular, en los asuntos de su competencia, los anteproyectos de iniciativas de leyes y decretos, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas, con la participación de la Oficina del Abogado General, para su trámite correspondiente;
 
 IV. Proponer al Secretario la delegación de atribuciones en servidores públicos subalternos;
 
-V. Representar al órgano de que se trate, con facultades para celebrar los actos jurídicos, convenios y contratos que requieran para el ejercicio de las atribuciones del órgano respectivo y, cuando proceda, rescindirlos o convenir su terminación anticipada, así como otorgar y revocar poderes generales para pleitos y cobranzas;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+V. Ejercer las atribuciones del órgano administrativo desconcentrado, así como contar con facultades para celebrar los actos jurídicos, convenios y contratos que requieran y, cuando proceda, rescindirlos o convenir su terminación anticipada;
 
 VI. Participar, en el ámbito de su competencia, en los mecanismos de coordinación y concertación que se establezcan con las autoridades federales, estatales y municipales, así como con los sectores social y privado;
 
-VII. Formular y proponer al Secretario los manuales de organización, procedimientos y servicios del órgano desconcentrado, de conformidad con los lineamientos internos de carácter técnico y administrativo que al efecto establezca la Subsecretaría de Administración y Finanzas, a través de la Dirección General de Programación, Organización y Presupuesto;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+VII. Formular los manuales de organización, de procedimientos y de servicios al público del órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
 
 VIII. Promover e instrumentar los programas de modernización administrativa en el órgano;
 
-IX. Formular, en coordinación con la Subsecretaría de Administración y Finanzas, a través de la Dirección General de Programación, Organización y Presupuesto, los anteproyectos de programa presupuesto del órgano desconcentrado y, una vez aprobado, verificar su correcta y oportuna ejecución;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+IX. Formular, en coordinación con la Dirección General de Programación y Presupuesto, los anteproyectos de presupuesto del órgano administrativo desconcentrado y, una vez aprobado, verificar su correcta y oportuna ejecución;
 
 X. Ejercer desconcentradamente el presupuesto autorizado, así como registrar y controlar los compromisos;
 
-XI. Llevar el registro contable del órgano sobre operaciones de ingresos y egresos;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XI. Llevar el registro contable del órgano administrativo desconcentrado sobre operaciones de ingresos y egresos, así como resguardar la documentación contable, justificativa y comprobatoria de las operaciones financieras, de conformidad con las disposiciones jurídicas aplicables;
 
 XII. Elaborar los programas anuales de adquisiciones y obras públicas del órgano con base en los proyectos de cada una de las áreas bajo su responsabilidad;
 
@@ -2403,13 +2243,13 @@ XVII. Expedir certificaciones de los documentos que obren en los archivos a su c
 
 XVIII. Pagar los documentos que se presenten para su cobro;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIX. Intervenir en la designación, desarrollo, capacitación, promoción y adscripción del personal a su cargo no sujeto al Servicio Profesional de Carrera, así como autorizar, dentro del ámbito de su competencia, licencias, tolerancias y remociones, con la intervención de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, sólo en el caso de remociones y de la Dirección General de Recursos Humanos, del personal de su responsabilidad;
+XIX. Intervenir en la designación, desarrollo, capacitación, promoción y adscripción del personal a su cargo no sujeto al Servicio Profesional de Carrera, así como autorizar dentro del ámbito de su competencia, y en coordinación con la Dirección General de Recursos Humanos y Organización, las licencias y remociones, con la intervención de la Oficina del Abogado General en este último caso, del personal a su cargo;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XX. Analizar, validar, integrar y enviar a la Dirección General de Programación, Organización y Presupuesto los tabuladores de cuotas de recuperación que generen sus áreas adscritas para su trámite y autorización respectivos ante la Secretaría de Hacienda y Crédito Público;
+XX. Analizar, validar, integrar y enviar a la Dirección General de Programación y Presupuesto, los tabuladores de cuotas de recuperación que generen las unidades administrativas de su órgano administrativo desconcentrado para su trámite y autorización respectivos ante la Secretaría de Hacienda y Crédito Público;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -2453,13 +2293,17 @@ IV. Celebrar los contratos de fideicomiso, arrendamiento y comodato en que la Be
 
 V. Coadyuvar al logro del fin de los fideicomisos en los que participa la Administración del Patrimonio de la Beneficencia Pública;
 
-VI. Administrar el patrimonio de la Beneficencia Pública, así como los subsidios, aportaciones, subvenciones, bienes y demás recursos que el Gobierno Federal, los gobiernos de las entidades federativas y las entidades paraestatales otorguen o destinen a ésta;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+VI. Administrar el patrimonio de la Beneficencia Pública, así como los subsidios, aportaciones, subvenciones, bienes y demás recursos que el Gobierno Federal, los gobiernos de las entidades federativas, los gobiernos municipales, sus entidades paraestatales, las personas físicas o morales, organismos e instituciones nacionales e internacionales, otorguen o destinen a ésta, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 VII. Administrar los bienes, derechos y recursos que obtenga la Beneficencia Pública por cualquier título legal, así como los rendimientos, utilidades, intereses, recuperaciones y demás ingresos que se generen por las inversiones y operaciones que realice, y disponer de estos recursos para contribuir al cumplimiento de sus fines, de conformidad con las disposiciones aplicables;
 
-VIII. Promover y gestionar la enajenación de bienes pertenecientes a la beneficencia pública, que no sean necesarios para el cumplimiento de sus fines;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+VIII. Promover y gestionar la enajenación de bienes y derechos pertenecientes a la beneficencia pública, que no sean necesarios para el cumplimiento de sus fines;
 
 IX. Distribuir a programas de salud, de acuerdo con las políticas que para el efecto emita el Consejo Interno del órgano desconcentrado, los recursos patrimoniales de la Beneficencia Pública;
 
@@ -2469,15 +2313,17 @@ XI. Promover, en coordinación con las unidades administrativas competentes, la 
 
 XII. Asesorar a las entidades federativas que lo soliciten, en la constitución y organización administrativa de sus respectivas instituciones encargadas de la administración de la Beneficencia Pública, así como coordinarse con éstas en la ejecución de programas sobre la materia;
 
-XIII. Promover y asignar de acuerdo al presupuesto autorizado, los recursos presupuestales disponibles para apoyos y subsidios específicos a instituciones del sector social, público y privado en el campo de la salud o que tengan por objeto la investigación científica, la enseñanza o cualquier acción de las que integran la asistencia social;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XIII. Promover y asignar los recursos presupuestarios que tenga autorizados para apoyos, ayudas extraordinarias, donativos y subsidios específicos, a instituciones del sector social, público y privado en el campo de la salud o que tengan por objeto la investigación científica, la enseñanza o cualquier acción de las que integran la asistencia social, conforme a las disposiciones jurídicas aplicables;
 
 XIV. Participar en el órgano de gobierno de Pronósticos para la Asistencia Pública, así como en los de otras instituciones similares por acuerdo del Secretario;
 
 XV. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XVI. Apoyar la ejecución de los programas a cargo de las unidades administrativas de la Secretaría, de acuerdo con las disposiciones aplicables y en coordinación con la Dirección General de Programación, Organización y Presupuesto;
+XVI. Apoyar la ejecución de los programas a cargo de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Salud, de acuerdo con las disposiciones jurídicas aplicables, con la participación que corresponda a la Dirección General de Programación y Presupuesto;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -2491,9 +2337,9 @@ XVIII. Generar recursos, de conformidad con las disposiciones aplicables, para r
 
 XIX. Participar con personas físicas o morales en proyectos productivos, quedando facultada la Beneficencia Pública para aportar, previa autorización de su Consejo Interno, los bienes o recursos que considere pertinentes para la captación de nuevos recursos y la aplicación de los mismos a programas de salud, de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XX. Participar con organizaciones e instituciones de los sectores público, social y privado en programas de alto impacto en materia de salud, previa autorización del Consejo Interno;
+XX. Participar con organizaciones e instituciones de los sectores público, social y privado en la ejecución de programas en materia de salud, previa autorización del Consejo Interno;
 
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -2515,9 +2361,9 @@ Corresponde al Centro Nacional de Equidad de Género y Salud Reproductiva:
 
 I. Proponer al Subsecretario de Prevención y Promoción de la Salud las políticas nacionales en materia de salud reproductiva, incluyendo planificación familiar, cáncer cérvico uterino y mamario, de salud materna y perinatal, de equidad de género, y de prevención y atención de la violencia familiar, sexual y contra las mujeres como un problema de salud pública, sin perjuicio de las atribuciones que en estas materias correspondan a otras dependencias, y evaluar su impacto;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-II. Proponer la elaboración de normas oficiales mexicanas en el ámbito de su competencia, así como vigilar su cumplimiento, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+II. Proponer la elaboración de normas oficiales mexicanas en el ámbito de su competencia, así como vigilar su cumplimiento, con la participación que corresponda a la Oficina del Abogado General;
 
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -2635,9 +2481,9 @@ XII. Emitir los dictámenes y certificados de necesidad de equipo médico en con
 
 XIII. Realizar y coordinar las evaluaciones de tecnologías en salud, como una herramienta para la mejora en la prestación de los servicios de salud, y
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XIV. Proponer y gestionar en coordinación con la Dirección General de Programación, Organización y Presupuesto, ante las instancias competentes, el monto de los derechos, productos y aprovechamientos que se cobren por los servicios que presta el Centro en los términos que determinen las leyes aplicables.
+XIV. Proponer y gestionar en coordinación con la Dirección General de Programación y Presupuesto, ante las instancias competentes, el monto de los derechos, productos y aprovechamientos que se cobren por los servicios que presta el Centro en términos de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -2709,7 +2555,9 @@ XVI. Proponer y apoyar técnicamente a la Comisión Federal para la Protección 
 
 XVII. Proporcionar apoyo técnico normativo en el ámbito de su competencia;
 
-XVIII. Establecer un sistema de cuotas de recuperación en materia de su competencia, en coordinación con la Dirección General de Programación, Organización y Presupuesto, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+XVIII. Establecer un sistema de cuotas de recuperación en materia de su competencia, en coordinación con la Dirección General de Programación y Presupuesto, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -2731,9 +2579,9 @@ XXI. Proponer lineamientos para la operación de los Centros Estatales de la Tra
 
 Corresponde al Centro Nacional de Trasplantes:
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-I. Proponer normas oficiales mexicanas, lineamientos, procedimientos y circulares, en materia de disposición de órganos, tejidos, células y cadáveres de seres humanos, incluyendo la extracción, donación, trasplante y asignación, así como las de los establecimientos de salud donde se realicen los actos relativos, con excepción de las células progenitoras hematopoyéticas y con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+I. Proponer normas oficiales mexicanas, lineamientos, procedimientos y circulares, en materia de disposición de órganos, tejidos, células y cadáveres de seres humanos, incluyendo la extracción, donación, trasplante y asignación, así como las de los establecimientos de salud donde se realicen dichos actos, con excepción de las células progenitoras hematopoyéticas, con la participación que corresponda a la Oficina del Abogado General;
 
 II. Promover que los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes se ajusten a las disposiciones aplicables;
 
@@ -3001,9 +2849,9 @@ XIII. Regular y promover la difusión de la información sobre prevención, aten
 
 XIV. Participar en la definición, instrumentación, supervisión y evaluación de las estrategias y los contenidos técnicos de los materiales de comunicación social en el ámbito de su competencia, así como de los materiales didácticos y metodologías que se utilicen para la capacitación y actualización de los prestadores de servicios de salud, en coordinación con las unidades administrativas competentes;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-XV. Proponer normas oficiales mexicanas en materia de prevención y control de la infección por Virus de la Inmunodeficiencia Humana, el Síndrome de la Inmunodeficiencia Adquirida y las infecciones de transmisión sexual, y vigilar su cumplimiento, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos en términos del artículo 11 Bis de este Reglamento;
+XV. Proponer normas oficiales mexicanas en materia de prevención y control de la infección por virus de la inmunodeficiencia humana, el síndrome de la inmunodeficiencia adquirida y las infecciones de transmisión sexual, y vigilar su cumplimiento, con la participación que corresponda a la Oficina del Abogado General;
 
 XVI. Certificar el desempeño de las localidades, jurisdicciones sanitarias, entidades federativas, regiones, comunidades o establecimientos, según sea el caso, en relación con los programas del ámbito de su competencia;
 
@@ -3035,9 +2883,9 @@ III. Proponer al Subsecretario de Prevención y Promoción de la Salud las polí
 
 IV. Coordinar las acciones de las instituciones del Sistema Nacional de Salud en materia de salud de la infancia y la adolescencia y de vacunación para toda la población en el territorio nacional;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-V. Proponer normas oficiales mexicanas en materia de salud de la infancia y la adolescencia y de la administración de vacunas, sueros, antitoxinas e inmunoglobulinas en el humano, así como formular las respuestas a los comentarios recibidos a los proyectos de dichas normas y vigilar su cumplimiento, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
+V. Proponer normas oficiales mexicanas en materia de salud de la infancia y la adolescencia y de la administración de vacunas, sueros, antitoxinas e inmunoglobulinas en el humano, así como formular las respuestas a los comentarios recibidos a los proyectos de dichas normas y vigilar su cumplimiento, con la participación que corresponda a la Oficina del Abogado General;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -3145,25 +2993,25 @@ La Secretaría de Salud y sus órganos desconcentrados proporcionarán al Titula
 
 ### CAPÍTULO XIII. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 53.
 
-El Secretario será suplido en sus ausencias por los subsecretarios de Integración y Desarrollo del Sector Salud, de Prevención y Promoción de la Salud, de Administración y Finanzas y por el Coordinador General de Asuntos Jurídicos y Derechos Humanos, en el orden mencionado.
+El Secretario será suplido en sus ausencias por los subsecretarios de Integración y Desarrollo del Sector Salud, de Prevención y Promoción de la Salud, de Administración y Finanzas y por el Abogado General, en el orden mencionado.
 
 ###### Artículo 54.
 
 Los subsecretarios serán suplidos en sus ausencias por el director general o puesto homólogo adscrito al área de su responsabilidad que al efecto sea designado por el Secretario o por el servidor público que vaya a ausentarse.
 
-> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
-El Titular de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, será suplido en sus ausencias por el Director Contencioso, por el Director Consultivo, por el Director de Contratos de Adquisiciones y Obras Públicas, y por el Director de Apoyo Técnico Normativo, en el orden mencionado, todos ellos adscritos a la Coordinación General de Asuntos Jurídicos y Derechos Humanos.
+El Abogado General será suplido en sus ausencias por los directores generales adjuntos de lo Contencioso, de lo Consultivo, y de Transparencia y Derechos Humanos, en el orden mencionado.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 55.
 
-Las ausencias del Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, de los titulares de las unidades administrativas, de los órganos administrativos desconcentrados, directores generales adjuntos, directores, subdirectores y jefes de departamento, serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Las ausencias del Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, de los titulares de Unidad, de las unidades administrativas, de los órganos administrativos desconcentrados, directores generales adjuntos, directores, subdirectores y jefes de departamento, serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
 
 ###### Artículo 56.
 
@@ -3218,3 +3066,21 @@ TERCERO. Las referencias que se hacen en otros instrumentos jurídicos al Secret
 CUARTO. Los recursos humanos, materiales y financieros con que cuenta la Dirección General de Gestión Financiera y Administrativa, pasarán a formar parte de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
 
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, sea adscrito de una unidad administrativa a otra, se respetarán conforme a la Ley.
+
+D.O.F. 7 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen en otras disposiciones administrativas, a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, a la Dirección General de Programación, Organización y Presupuesto, así como a la Dirección General de Recursos Humanos, se entenderán hechas a la Oficina del Abogado General, a la Dirección General de Programación y Presupuesto y a la Dirección General de Recursos Humanos y Organización, respectivamente.
+
+TERCERO.- En tanto se realicen los trámites administrativos para actualizar las denominaciones de las unidades administrativas adscritas a la Oficina del Abogado General, la Dirección General Adjunta Consultiva y Contenciosa y las direcciones Consultiva, Contenciosa, de Contratos de Adquisiciones y Obras Públicas, Derechos Humanos e Investigación Normativa en Salud, y la de Apoyo Técnico Normativo, podrán ejercer, en el ámbito de sus competencias, las facultades que se establecen en el artículo 11 Bis de este Reglamento.
+
+CUARTO.- Los recursos humanos, materiales y financieros de la Dirección General de Programación y Presupuesto que se utilizaban para ejercer las atribuciones a que se refieren las fracciones I a VI del artículo 29 de este ordenamiento, se transferirán a la Dirección General de Recursos Humanos y Organización.
+
+QUINTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase a formar parte de la Dirección General de Recursos Humanos y Organización, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+SEXTO.- Las atribuciones que se otorgan en decretos, reglamentos, acuerdos, lineamientos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Salud que cambian de denominación o modifican sus atribuciones, por virtud de la entrada en vigor del presente Decreto, se entenderán conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento.
+
+SÉPTIMO.- Los asuntos que se encuentran en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
