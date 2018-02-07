@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-12-15"
+last_updated: "2018-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2018.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3752,6 +3752,10 @@ I. Las que se encuentren inhabilitadas por cualquiera de las autoridades compete
 II. Aquéllas con las que los servidores públicos que intervengan en cualquier forma en la adjudicación del contrato tengan interés personal, familiar o de negocios, incluyendo los que puedan obtener algún beneficio para ellos, sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades, incluyendo sus representantes legales, respecto de los cuales el servidor público o las personas antes referidas formen o hayan formado parte o las hayan representado durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
 III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA CELEBRACIÓN DE CONTRATOS EN MATERIA DE CAPACITACIÓN DEL INSTITUTO DE LA JUDICATURA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+
+Se exceptúan de lo anterior, las personas que desempeñen un empleo, cargo o comisión en el servicio público, con los que se celebre contrato para la impartición de asignaturas que integran los programas académicos del Instituto de la Judicatura, supuesto en el cual no se requerirá autorización previa del Pleno. Para tal efecto, el Director General del Instituto deberá presentar un informe semestral de las contrataciones que realice conforme a lo previsto en este párrafo;
 
 IV. Respecto de aquellas sobre las cuales la Comisión de Administración haya formulado declaración de impedimento para contratar, por actualizarse alguno de los siguientes supuestos:
 
@@ -12624,3 +12628,11 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 7 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA CELEBRACIÓN DE CONTRATOS EN MATERIA DE CAPACITACIÓN DEL INSTITUTO DE LA JUDICATURA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
