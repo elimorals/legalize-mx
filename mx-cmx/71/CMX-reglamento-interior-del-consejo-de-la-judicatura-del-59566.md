@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2017-03-28"
+last_updated: "2018-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1416,7 +1416,7 @@ Las resoluciones que se presenten a través del trabajo colegiado en las seccion
 
 I. Por unanimidad;
 
-II. Por mayoría de votos, en cuyo caso el Consejero disidente, presentará en un término de tres días hábiles su voto particular por escrito ante la Secretaría Técnica de de (sic) la Comisión de Disciplina Judicial, debiendo versar sobre los puntos que generan el discenso y que deberá engrosarse al cuerpo del acta de la sesión que corresponda.
+II. Por mayoría de votos, en cuyo caso el Consejero disidente, presentará en un término de tres días hábiles su voto particular por escrito ante la Secretaría Técnica de de (sic) la Comisión de Disciplina Judicial, debiendo versar sobre los puntos que generan el discenso (sic) y que deberá engrosarse al cuerpo del acta de la sesión que corresponda.
 
 En caso de que el proyecto presentado por un Consejero sea desechado por la mayoría, será returnado a otro para que formule un nuevo proyecto, mismo que se presentará a la Sección de la Comisión de Disciplina Judicial correspondiente, dentro de los cinco días hábiles siguientes.
 
@@ -1530,11 +1530,11 @@ V. En caso de que la Comisión de Disciplina Judicial estime que no se desprende
 
 Cuando alguno de los interesados a que se refiere la fracción III del artículo 214 de la Ley Orgánica, que promuevan la queja en nombre y representación de una persona física o moral, su personalidad será reconocida en el procedimiento de queja para todos los efectos legales, siempre que compruebe tal circunstancia con las constancias respectivas.
 
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 126.
 
-El Consejero Semanero, así como los integrantes de la Comisión de Disciplina Judicial, para hacer cumplir sus determinaciones podrán hacer uso de los medios de apremio previstos en el Código Federal de Procedimientos Penales, de aplicación supletoria de la Ley Orgánica y del presente Reglamento.
-
-Asimismo, los Consejeros para preservar el orden, así como el respeto y consideración que les corresponde, durante las audiencias o la realización de cualquier tipo de diligencia, podrán aplicar las correcciones disciplinarias previstas en Código Federal de Procedimientos Penales, de aplicación supletoria de la Ley Orgánica y del presente Reglamento.
+El Consejero Semanero, así como los integrantes de la Comisión de Disciplina Judicial, para hacer cumplir sus determinaciones y para preservar el orden, respeto y consideración que les corresponde durante las audiencias o la realización de cualquier tipo de diligencia, podrán hacer uso de los medios de apremio previstos en la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 ###### Artículo 127.
 
@@ -1644,9 +1644,11 @@ La audiencia será pública, hecha excepción de la que, a juicio de los conseje
 
 El Consejero Semanero cuidará que los procedimientos de responsabilidad no queden paralizados, proveyendo lo que corresponda hasta poner el asunto en estado de resolución.
 
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 143.
 
-En todas las cuestiones relativas al procedimiento administrativo de queja o de oficio, no previstas en la Ley Orgánica o en este Reglamento, así como en la apreciación de las pruebas, se observarán las disposiciones de la Ley Federal de Responsabilidades y, en su defecto, el Código Federal de Procedimientos Penales.
+En todas las cuestiones relativas al procedimiento administrativo de queja o de oficio, no previstas en la Ley Orgánica o en este Reglamento, así como en la valoración de las pruebas, se observarán las disposiciones de la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 #### SECCIÓN CUARTA. DE LAS RESOLUCIONES
 
@@ -1678,9 +1680,11 @@ II. Por ministerio de ley, las pronunciadas en segunda instancia.
 
 Contra las resoluciones dictadas por las Secciones que integran a la Comisión de Disciplina Judicial, que declaren la responsabilidad del servidor público, procede el recurso de inconformidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 149.
 
-El servidor público dispondrá de un término de tres días hábiles, contados a partir del día siguiente a la notificación de la resolución recurrida, para interponer el recurso.
+El servidor público dispondrá de un plazo de cinco días hábiles, contados a partir del día siguiente a la notificación de la resolución recurrida, para interponer el recurso.
 
 El recurso de inconformidad deberá presentarse por escrito ante la propia Comisión de Disciplina, conteniendo los siguientes requisitos:
 
@@ -2123,3 +2127,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Incorpórese el texto que se adiciona al Reglamento Interior del Consejo de la Judicatura de la Ciudad de México, en la página web del propio Consejo.
+
+G.O. 8 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 36-48/2017".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura de la Ciudad de México.
