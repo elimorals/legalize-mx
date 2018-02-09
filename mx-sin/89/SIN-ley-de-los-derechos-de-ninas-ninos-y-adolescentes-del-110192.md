@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2015-10-14"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -1021,6 +1021,38 @@ La Procuraduría de Protección en coordinación con la Procuraduría de Protecc
 
 Todo Centro de Asistencia Social es responsable de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
+
+Las autoridades Estatales y municipales en el ámbito de sus respectivas competencias, deberán coordinarse para garantizar que en cada municipio se instale al menos un Centro de Asistencia Social para niñas, niños y adolescentes, sin cuidado parental o familiar, a los que se les otorgará cuidado alternativo o acogimiento residencial, donde serán resguardados de manera temporal o hasta que se resuelva su situación jurídica, a todos aquellos menores de edad que estén bajo la tutela de la Procuradurías (sic) de Protección Estatal y las Municipales, por disposición del Ministerio Público o resolución judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
+
+Para el cumplimiento de lo anterior, dichas autoridades cuando no cuenten con espacios suficientes en sus Centros de Asistencia Social, podrán celebrar convenios con Centros de Asistencia Social privados que se encuentren debidamente autorizados y registrados en el Registro Estatal de Centros de Asistencia Social, para garantizar la integridad física y psicológica de las niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuradurías (sic) de Protección Estatal o Municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
+
+En caso de ser requerido el traslado de un menor de edad de un Centro de Asistencia Social a otro municipio, la Procuraduría de Protección que lo remite deberá hacer entrega del expediente completo para efectos de que su situación sea revisada y valorada de manera particular, garantizando la protección de sus datos personales conforme a la legislación en la materia. Dicho expediente deberá entregarse en un plazo de quince días hábiles y deberá contener, como mínimo, los siguientes datos:
+
+I. Oficio de solicitud para resguardo temporal;
+
+II. Datos generales;
+
+III. Huellas dactilares y fotografía reciente;
+
+IV. Acta Circunstanciada de Traslado debidamente fundamentada y motivada;
+
+V. Investigación de trabajo social;
+
+VI. Evaluación psicológica;
+
+VII. Evaluación médica;
+
+VIII. Todas las demás actuaciones de cualquier naturaleza que deriven del caso en particular.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
+
+Todo Centro de Asistencia Social deberá admitir a niñas, niños y adolescentes con discapacidad temporal o permanente, sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
+
 ###### Artículo 89.
 
 Los Centros de Asistencia Social se regirán por los lineamientos referentes a instalaciones, requisitos, servicios, personal y obligaciones de los titulares o responsables previstos por la Ley General.
@@ -1559,6 +1591,12 @@ I. Prevención escrita acerca de la violación o puesta en riesgo del derecho de
 
 II. Orden de cese inmediato de la situación que viola o pone en riesgo el derecho en cuestión, cuando se hubiere actuado conforme a la fracción anterior y no comparezca en el plazo conferido para tal efecto, o bien, cuando haya comparecido y continúe la misma situación perjudicial.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2018)</small>
+
+###### Artículo 120 Bis.
+
+Se impondrá una multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización al servidor público que no cumpla con lo establecido en el cuarto párrafo del artículo 88 de la presente Ley.
+
 ###### Artículo 121.
 
 Para la determinación de la sanción, las autoridades competentes deberán considerar:
@@ -1704,3 +1742,13 @@ LIC. MARIO LÓPEZ VALDEZ
 El Secretario General de Gobierno
 
 C. GERARDO O. VARGAS LANDEROS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 380 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 88, ASÍ COMO UN ARTÍCULO 120 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto deberán hacerse las modificaciones respectivas al Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa, y quedan derogadas las demás disposiciones que contravengan al presente Decreto.
