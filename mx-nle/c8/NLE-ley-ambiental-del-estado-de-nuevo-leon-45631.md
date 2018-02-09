@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2018-01-26"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -2633,13 +2633,19 @@ IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan dismin
 
 V. El aprovechamiento sustentable de minerales y sustancias no reservadas a la Federación.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
+(ADICIONADO, P.O. 26 DE ENERO DE 2018) (F. DE E., P.O. 9 DE FEBRERO DE 2018)
 
 ###### Artículo 168 Bis.
 
-Para la protección ambiental del Estado de Nuevo León y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
+Para la protección ambiental del Estado de Nuevo León y sujeto a los términos señalados en esta Ley y de las disposiciones que de ella emanen, se restringe la venta, dádiva y uso de bolsas en supermercados, tiendas de autoservicio, tiendas de conveniencia, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados.
 
-Quedarán exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas utilizando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la autoridad correspondiente establezca dentro de los ordenamientos y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma oficial mexicana NMX-E-267 o las que la sustituyan.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+
+Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sean con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E-267 o las que la sustituyan.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+
+El Porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2018)</small>
 
@@ -3859,18 +3865,30 @@ P.O. 26 DE ENERO DE 2018.
 
 Primero.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-Segundo.- Para la implementación de esta disposición, el Estado deberá elaborar las normas, programas y planes de manejo correspondientes.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
 
-l. Dichos ordenamientos deberán establecer criterios de eficiencia ambiental, tecnológica, económica y social, bajo los principios de responsabilidad compartida y manejo integral;
+Segundo.- Para la implementación de esta disposición, el Estado deberá elaborar las normas, programas y planes de manejo que sean necesarios para fomentar la cultura en la sociedad, así como minimizar la generación y maximizar la gestión y valorización de estos productos, y asegurarse de tener un programa de desarrollo del sector de servicios de recolección y gestión de residuos.
 
-II. Estos ordenamientos deberán contener disposiciones que les sean aplicables a los productores, distribuidores, comerciantes, consumidores, usuarios de subproductos y generadores de residuos de estos materiales, así como a los diferentes niveles de gobierno en el estado;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
 
-III. Dichos ordenamientos podrán considerar periodos de transición para que el sector industrial en el Estado y los comercios señalados en el primer párrafo del presente artículo cumplan con la presente disposición;
+Dichos ordenamientos deberán establecer criterios de eficiencia ambiental, tecnológica, económica y social, bajo los principios de responsabilidad compartida y manejo integral.
 
-IV. Entre las disposiciones que estos ordenamientos establezcan, deberán incluirse metas graduales de producción más limpia, de incremento de volúmenes de recuperación de estos materiales a través del servicio de recolección municipal de residuos sólidos urbanos en domicilios y espacios públicos;
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
 
-V. Las autoridades municipales que no realicen las acciones que estos ordenamientos señalen podrán ser sancionadas según las disposiciones aplicables; y
+Estos ordenamientos deberán contener disposiciones que les sean aplicables a los productores, distribuidores, comerciantes, consumidores, usuarios de subproductos y generadores de residuos de estos materiales, así como a los diferentes niveles de gobierno en el estado.
 
-VI. Las autoridades municipales establecerán en sus reglamentos correspondientes las sanciones a sus habitantes que no cumplan con las disposiciones previstas en estos ordenamientos.
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
 
-Tercero.- Las autoridades estatales deberán elaborar en un plazo no mayor a un año los ordenamientos a los que se refiere esta reforma.
+Dichos ordenamientos podrán considerar periodos de transición para que el sector industrial en el Estado y los comercios señalados en el primer párrafo del presente artículo cumplan con la presente disposición.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+
+Entre las disposiciones que estos ordenamientos establezcan, deberán incluirse metas graduales de producción más limpia, de incremento de volúmenes de recuperación de estos materiales a través del servicio de recolección municipal de residuos sólidos urbanos en domicilios y espacios públicos.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+
+Las autoridades municipales en un plazo que no deberá de exceder de 6 meses, deberán establecer en sus reglamentos las correspondientes sanciones para quienes no cumplan con la (sic) disposiciones previstas en el presente Decreto.
+
+> <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
+
+Tercero.- Las autoridades estatales deberán elaborar en un plazo no mayor a 360 días los ordenamientos a los que se refiere el presente Decreto.
