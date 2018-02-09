@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6761
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2010-07-14"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 11 de marzo de 2009.
 
@@ -119,11 +119,11 @@ En la celebración de convenios o acuerdos de coordinación a que se refiere el 
 
 Para el seguimiento y evaluación de los resultados que se obtengan en la ejecución de los convenios y acuerdos a que se refiere este capítulo, participará la Comisión Estatal de los Derechos Humanos, en su calidad de responsable de la protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2010)</small>
 
 ### CAPÍTULO SEGUNDO. DEL EJECUTIVO ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 10.
 
@@ -241,7 +241,7 @@ El Ejecutivo Estatal es el encargado de la aplicación del Sistema y el Programa
 
 El Instituto Sinaloense de la Mujer, a través de su Junta Directiva, sin menoscabo de las atribuciones que le confiere la Ley especifica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -339,7 +339,7 @@ La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglament
 
 Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -391,7 +391,7 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. Impulsar liderazgos igualitarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -553,9 +553,17 @@ II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a 
 
 III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
 
-IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2018)</small>
 
-V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2018)</small>
+
+V. Emitir opiniones respecto de los presupuestos de los Poderes del Estado y de los órganos autónomos, a fin de que los mismos se elaboren con una perspectiva de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2018)</small>
+
+VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ###### Artículo 47.
 
@@ -595,10 +603,16 @@ El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE JULIO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 377 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 46 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
