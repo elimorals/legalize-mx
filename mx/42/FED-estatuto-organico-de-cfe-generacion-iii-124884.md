@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iii-124884"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-02"
-last_updated: "2018-01-02"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124884&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-11-28"
 ---
 # ESTATUTO ORGANICO DE CFE GENERACION III
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE FEBRERO DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN III
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL LA FEDERACIÓN DEL 9 DE FEBRERO DE 2018.]</small>
 
 Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 2 de enero de 2018.
 
@@ -79,7 +79,9 @@ VIII. Operador de Mercado: Centro Nacional de Control de Energía (CENACE).
 
 IX. SENER: Secretaría de Energía.
 
-X. Empresa Productiva Subsidiaria CFE Generación III: CFE Generación III.
+> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+X. CFE Generación III: Empresa Productiva Subsidiaria CFE Generación III.
 
 ### CAPÍTULO II. De la Estructura
 
@@ -91,7 +93,9 @@ Para el despacho de los asuntos de su competencia, CFE Generación III cuenta co
 
 a) Subgerencia de Producción
 
-b) Subgerencia de Producción Hidroeléctrica Ixtapantango
+> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+b) Subgerencia de Producción Hidroeléctrica Ixtapantongo
 
 c) Subgerencia de Producción Termoeléctrica Baja California
 
@@ -145,7 +149,9 @@ El Consejo designará, a propuesta del Director General, a los titulares de los 
 
 a) Subgerencia de Producción.
 
-b) Subgerencia de Producción Hidroeléctrica Ixtapantango.
+> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+b) Subgerencia de Producción Hidroeléctrica Ixtapantongo.
 
 c) Subgerencia de Producción Termoeléctrica Baja California.
 
@@ -1140,3 +1146,11 @@ TERCERO. Los derechos de los trabajadores no se verán afectados por la reestruc
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación III, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación III, en su segunda sesión ordinaria celebrada el 16 de marzo de 2017, mediante el Acuerdo CA-GIII-12/2017.
 
 En la Ciudad de México, a los veintiocho días del mes de noviembre de dos mil diecisiete.- El Director General de CFE Generación III, Guillermo Virgen González, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación III, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN III, PUBLICADO EL 2 DE ENERO DE 2018”.]
+
+ÚNICO.- La presente Nota Aclaratoria al Estatuto Orgánico de CFE Generación III de (sic) entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
