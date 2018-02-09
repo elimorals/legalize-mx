@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2017-11-29"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -511,7 +511,11 @@ VII. Proponer, en su programa editorial, la publicación de obras de mérito esp
 
 VIII. Emitir opiniones, cuando así se le solicite, sobre investigaciones o estudios que realicen los órganos del Congreso; y
 
-IX. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2018)</small>
+
+IX. Realizar la valoración del impacto presupuestario de las iniciativas de Ley o Decreto presentadas ante el Congreso; y
+
+X. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1522,3 +1526,9 @@ Segundo. Los Departamentos de Organización y Métodos, y de Responsabilidades A
 Tercero. Dentro de los sesenta días hábiles siguientes al de la entrada en vigor del presente Decreto, se deberá iniciar el procedimiento para la designación del contralor interno, mediante el mecanismo que para tal efecto establezca el Congreso del Estado a través de la Junta de Coordinación Política.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 623 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 26 RECORRIENDO LA SUBSECUENTE DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
