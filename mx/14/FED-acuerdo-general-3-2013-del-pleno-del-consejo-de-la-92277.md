@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-01-31"
+last_updated: "2018-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -469,13 +469,17 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
-1. Dos tribunales colegiados, uno con residencia en Tlaxcala y otro con residencia en Apizaco, ambos en el Estado de Tlaxcala.
+1. Dos tribunales colegiados con residencia en Apizaco, Tlaxcala.
 
-2. Un tribunal unitario con sede en Tlaxcala.
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
-3. Tres juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+2. Un tribunal unitario con sede en Apizaco, Tlaxcala.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+3. Tres juzgados de Distrito con residencia en Apizaco, Tlaxcala.
 
 XXIX. VIGESIMO NOVENO CIRCUITO:
 
@@ -825,7 +829,9 @@ Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún
 
 XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
-Los juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+Los juzgados de Distrito con residencia en Apizaco, Tlaxcala, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XXIX. VIGESIMO NOVENO CIRCUITO:
 
@@ -5456,6 +5462,42 @@ XVI. …
 XVII. a XXXII. …”
 
 SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 9 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO Y RESIDENCIA DEL PRIMER TRIBUNAL COLEGIADO Y DEL TRIBUNAL UNITARIO, AMBOS DEL VIGÉSIMO OCTAVO CIRCUITO; DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO EN EL ESTADO DE TLAXCALA, ASÍ COMO AL CAMBIO DE DENOMINACIÓN Y DOMICILIO DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE LA PROPIA ENTIDAD FEDERATIVA, TODOS CON RESIDENCIA EN TLAXCALA, TLAXCALA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación, con excepción del cambio de domicilio de los órganos jurisdiccionales, así como el cambio de denominación y domicilio de la Oficina de Correspondencia Común indicados, los cuales iniciarán su vigencia conforme a lo previsto en los artículos 2 y 4 de dicho instrumento normativo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los órganos jurisdiccionales a que se refiere el presente Acuerdo y la Oficina de Correspondencia Común de que se trata, deberán colocar avisos en lugares visibles con relación al cambio de domicilio.
+
+CUARTO. Se reforman los numerales SEGUNDO, fracción XXVIII, números 1 a 3; y CUARTO, fracción XXVIII, segundo párrafo, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a XXVII. ...
+
+XXVIII. ...
+
+1. Dos tribunales colegiados con residencia en Apizaco, Tlaxcala.
+
+2. Un tribunal unitario con sede en Apizaco, Tlaxcala.
+
+3. Tres juzgados de Distrito con residencia en Apizaco, Tlaxcala.
+
+XXIX. a XXXII. ...
+
+CUARTO. ...
+
+I. a XXVII. ...
+
+XXVIII. ...
+
+Los juzgados de Distrito con residencia en Apizaco, Tlaxcala, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXIX. a XXXIII. ...”
 
 ###### Artículo 10.
 
