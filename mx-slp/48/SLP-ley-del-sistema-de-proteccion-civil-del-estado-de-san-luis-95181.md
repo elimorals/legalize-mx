@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2017-03-15"
+last_updated: "2018-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -33,7 +33,9 @@ DECRETO 176
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Para expedir esta nueva Ley, se tomó en cuenta además de las disposiciones de la Ley General de Protección Civil, que son obligatorias, las aportaciones contenidas en iniciativas anteriores; de las autoridades, funcionarios y expertos en la materia, que se incorporan a sus disposiciones que resultan en beneficio de la protección de la vida de los potosinos y de sus bienes.
 
@@ -775,11 +777,19 @@ XXIV. Edificaciones para almacenamiento, distribución o expendio de hidrocarbur
 
 XXV. Áreas o inmuebles en los que se lleven a cabo actos públicos de manera extraordinaria, en los que deberá además contarse con un programa especial, a fin de establecer medidas de prevención y reacción;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-XXVI. Áreas o inmuebles en donde se desarrollen actividades pirotécnicas, y
+XXVI. Áreas o inmuebles en donde se desarrollen actividades pirotécnicas;
 
-XXVII. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XXVII. Inmuebles en que se ofrezca cualquier tipo de alquiler, venta y manejo de juegos inflables, brincolines y saltarines;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XXVIII. Los lugares donde se tengan o instalen juegos inflables, brincolines y saltarines; así como a los implementos para su seguridad, y
+
+XXIX. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
 
 ###### ARTÍCULO 63.
 
@@ -926,3 +936,13 @@ P.O. 15 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 877.- SE REFORMA EL ARTÍCULO 62; Y ADICIONA AL MISMO ARTÍCULO 62 DOS FRACCIONES, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Una vez vigente el presente Decreto, el Estado y los ayuntamientos tendrán noventa días para realizar las modificaciones a sus reglamentos de protección civil, a fin de incluir las medidas de seguridad para el uso y manejo de juegos inflables, brincolines y saltarines.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
