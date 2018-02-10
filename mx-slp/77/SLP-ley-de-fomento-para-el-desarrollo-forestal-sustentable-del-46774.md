@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2017-10-03"
+last_updated: "2018-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -131,9 +131,17 @@ XIII. Comisión: Comisión Nacional Forestal;
 
 XIV. Ley General: Ley General de Desarrollo Forestal Sustentable;
 
-XV. Ley: Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-XVI. Barbecho: periodo de tiempo en que las tierras de labranza están en descanso o sin siembra.
+XV. Ley: Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XVI. Barbecho: periodo de tiempo en que las tierras de labranza están en descanso o sin siembra;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XVII. Especies de interés prioritario local: especies forestales de tratamiento especial, definidas con base en criterios de peligro de extinción, vulnerabilidad, escasez, factores endémicos, o por tener interés económico y/o cultural local.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA FORESTAL Y SUS ATRIBUCIONES
 
@@ -231,9 +239,15 @@ VI. Brindar atención, de forma coordinada con la federación y los municipios, 
 
 VII. Apoyar de conformidad con los acuerdos y convenios que se celebren con la federación, las autorizaciones del cambio de uso de suelo en terrenos forestales;
 
-VIII. Elaborar y mantener actualizado el inventario estatal forestal y de suelos, con los principios, criterios y lineamientos que se establecen para el Inventario Nacional Forestal y de Suelos, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-IX. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
+VIII. Elaborar y mantener actualizado el inventario estatal forestal y de suelos, con los principios, criterios y lineamientos que se establecen para el Inventario Nacional Forestal y de Suelos;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+IX. Elaborar y promover estudios para definir especies como de interés prioritario local, así como diseñar e implementar políticas específicas para éstas, y
+
+X. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 13.
 
@@ -489,9 +503,19 @@ V. La cuantificación de los recursos forestales, que incluya la valoración de 
 
 VI. Los factores e indicadores de sustentabilidad y degradación de los ecosistemas forestales;
 
-VII. La infraestructura forestal existente, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-VIII. Los demás datos afines a la materia forestal.
+VII. La infraestructura forestal existente;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+VIII. Condiciones de especies forestales definidas como de interés prioritario local;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+IX. Definición y condiciones de las áreas forestales en situación de mayor vulnerabilidad por causas como siniestros, deforestación o condiciones climáticas, y
+
+X. Los demás datos afines a la materia forestal.
 
 ###### ARTICULO 35.
 
@@ -1016,3 +1040,13 @@ P.O. 3 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0879.- SE REFORMA Y ADICIONA LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Las autoridades obligadas podrán establecer un plazo conveniente para el cumplimiento de las disposiciones contenidas en este Decreto.
