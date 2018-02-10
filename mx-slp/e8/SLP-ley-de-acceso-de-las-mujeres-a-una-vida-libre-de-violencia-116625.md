@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2017-10-10"
+last_updated: "2018-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -102,6 +102,10 @@ III. Violencia económica: toda acción u omisión del agresor que afecta la sit
 IV. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
 V. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, y que puede provocar o no lesiones, ya sean internas, externas o ambas;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+V BIS. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. El estado y los municipios tienen la obligación de organizar el aparato gubernamental en el ámbito de sus competencias, de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia. Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el estado y los municipios deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
 
@@ -1106,3 +1110,11 @@ P.O. 10 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0876.- SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 3°, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga toda disposición que se oponga al presente Decreto.
