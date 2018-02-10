@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2017-11-25"
+last_updated: "2018-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -221,21 +221,29 @@ VI.- Ser integrante de comisiones del Congreso;
 
 VII.- Participar en los trabajos, deliberaciones y debates de las comisiones;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-VIII.- Abstenerse de votar en las sesiones del Congreso o de las Comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
+VIII.- Participar con voz en las sesiones de comisión en que se dictamine una iniciativa que haya suscrito;
 
-IX.- Contar con el documento e insignia que los acredite como Diputados;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+IX.- Abstenerse de votar en las sesiones del Congreso o de las comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
 
-X.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-XI.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
+X.- Contar con el documento e insignia que los acredite como Diputados;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-XII.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Comisión Permanente.
+XI.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XII.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XIII.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la comisión Permanente.
 
 ###### ARTICULO 23.
 
@@ -683,9 +691,9 @@ I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, d
 
 II.- Proponer a la Asamblea la designación del Oficial Mayor, así como pedir su remoción y vigilar el funcionamiento de la citada dependencia;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-III.- Aprobar el nombramiento y remoción del Contralor, directores, servidores públicos y demás empleados del Poder Legislativo;
+III.- Aprobar el nombramiento y remoción del Contralor, directores, titular de la Unidad de Igualdad de Género, servidores públicos y demás empleados del Poder Legislativo;
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
@@ -827,9 +835,9 @@ Estas comisiones permanentes serán por todo el ejercicio constitucional. A peti
 
 Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
-ARTICULO 57 BIS.- Quienes presidan las Comisiones Legislativas, serán los responsables de los dictámenes que emitan las mismas. Cualquiera de los diputados integrantes de la Legislatura, en el ejercicio de sus funciones, podrá tener acceso a los criterios técnicos que emitan las autoridades según correspondan, así como cualquier documento que vaya anexo al dictamen.
+ARTICULO 57 BIS.- Quienes presidan las Comisiones Legislativas, serán los responsables de los dictámenes que emitan las mismas. Cualquiera de los diputados integrantes de la Legislatura, en el ejercicio de sus funciones, podrá tener acceso a los criterios técnicos que emitan las autoridades según correspondan, así como cualquier documento que vaya anexo al dictamen; asimismo, los diputados iniciadores deberán ser convocados a las reuniones de comisión en las que se discuta o dictamine su propuesta.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -881,9 +889,11 @@ Para elegir al Auditor Superior del Estado el Congreso emitirá la convocatoria 
 
 Las facultades, atribuciones y organización del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, se regulan conforme a lo establecido en su Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 63.
 
-La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, para la atención y realización de los asuntos legislativos del mismo. Tendrá las funciones que le señale el Reglamento.
+La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, para la atención y realización de los asuntos legislativos del mismo. Tendrá las atribuciones que el Reglamento de esta Ley le señale. Asimismo, este órgano contará con las Direcciones y las Unidades necesarias para el eficaz desempeño de sus funciones, en términos del artículo 87 del Reglamento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1109,13 +1119,23 @@ I.- A los Diputados;
 
 II.- Al Gobernador del Estado;
 
-III.- Al Supremo Tribunal de Justicia, en asuntos del ramo de justicia; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-IV.- A los Ayuntamientos, en lo que se relaciona con asuntos de la administración municipal.
+III.- Al Supremo Tribunal de Justicia, en asuntos del ramo de justicia;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+IV.- A los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+V.- A los órganos autónomos, en las materias de su competencia.
+
+La iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2000)</small>
 
-V.- A los ciudadanos en los términos de la Ley respectiva.
+VI.- A los ciudadanos en los términos de la Ley respectiva.
 
 ###### ARTICULO 84.
 
@@ -1148,6 +1168,10 @@ Ninguna iniciativa de ley o decreto se presentará a la Asamblea, sin que antes 
 ###### ARTICULO 87.
 
 Las iniciativas de punto de acuerdo o de acuerdo económico provenientes de los Diputados, serán discutidas y resueltas en la sesión que sean presentadas.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+En los puntos de acuerdo con exhorto, al iniciador se le entregará una copia con la firma y el sello de recibido de la autoridad exhortada. Así como de la respuesta que esta emita en su caso.
 
 ###### ARTICULO 88.
 
@@ -1566,3 +1590,11 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 378 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 444 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En lo relativo a la Unidad de Igualdad de Género, ésta entrará en vigor siempre que exista suficiencia presupuestal.
