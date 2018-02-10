@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-11-25"
+last_updated: "2018-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -83,13 +83,17 @@ g) Asamblea: al Pleno del Congreso del Estado; y
 
 h) Grupos parlamentarios: a los Diputados de un mismo partido que se unen para sostener los principios y lineamientos de sus respectivos partidos y coadyuvar al mejor desarrollo del proceso legislativo;
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
-i) Recinto Legislativo: Lugar habilitado para que sesione el Pleno del Congreso del Estado de Colima. También puede entenderse como el conjunto arquitectónico que alberga el Congreso del Estado de Colima, incluyendo Salón de Sesiones, Edificio de Oficinas, Estacionamientos, Sala de Juntas y demás bienes inmuebles destinados para su funcionamiento; y
+i) Recinto Legislativo: Lugar habilitado para que sesione el Pleno del Congreso del Estado de Colima. También puede entenderse como el conjunto arquitectónico que alberga el Congreso del Estado de Colima, incluyendo Salón de Sesiones, Edificio de Oficinas, Estacionamientos, Sala de Juntas y demás bienes inmuebles destinados para su funcionamiento;
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
-j) Galerías: Las butacas establecidas dentro del Recinto Legislativo, destinadas para que las ocupen invitados y público en general.
+j) Galerías: Las butacas establecidas dentro del Recinto Legislativo, destinadas para que las ocupen invitados y público en general; y
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+k) Unidad de Género: La Unidad de Igualdad de Género del H. Congreso del Estado.
 
 ###### Artículo 3º.
 
@@ -1051,13 +1055,45 @@ I.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre
 
 II.- Conocer lo relacionado con programas y acciones de los tres órdenes de gobierno encaminados a la atención y superación de las mujeres; formulando las propuestas que considere convenientes;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen; y
+III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+IV.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, las iniciativas en materia de igualdad de género y de acceso de las mujeres a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+V.- Proponer acciones orientadas a lograr la igualdad sustantiva de género en el Honorable Congreso del Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+VI.- Crear espacios de diálogo, así como de intercambio parlamentario con instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de la igualdad de género y de la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+VII.- Promover la armonización legislativa en materia de igualdad de género y acceso de las mujeres a una vida libre de violencia, para que el marco jurídico estatal esté acorde a los tratados, convenios y acuerdos internacionales de los que el Estado Mexicano sea parte, y a la legislación nacional;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+VIII.- Colaborar con instituciones de educación superior, organizaciones de la sociedad civil, centros de estudio, empresas privadas y con los Poderes Ejecutivo y Judicial, para la elaboración y promoción de publicaciones y contenidos editoriales sobre perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+IX.- Podrá participar con voz en el proceso de dictaminación de las demás comisiones legislativas cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género y el acceso de las mujeres a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+X.- Los referentes a la creación, organización y funcionamiento de las dependencias e instituciones que impulsen la igualdad de género y el acceso de las mujeres a una vida libre de violencia, así como conocer los asuntos en materia normativa y financiera que éstas requieran;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XI.- Tener participación en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, de los Planes Municipales de Desarrollo, del Programa Estatal para la Igualdad entre Mujeres y Hombres, y del Programa integrar (sic) Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres en el Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1321,11 +1357,11 @@ XVIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comis
 
 #### SECCIÓN C. DE LOS ÓRGANOS DE APOYO DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con una Contraloría y con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y de Servicios Generales; de Servicios Documentarios; Jurídica y de Comunicación Social.
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones de Proceso Legislativo; Administración, Finanzas y de Servicios Generales; Servicios Documentarios; Jurídica y de Comunicación Social. Además, contará con una Unidad de Igualdad de Género.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
 
@@ -1502,6 +1538,30 @@ III.- Encargarse de preparar diariamente la síntesis local y nacional de notici
 IV.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisión de Gobierno.
 
 El Director de Comunicación Social, deberá ser preferentemente un licenciado en Comunicación Social con una experiencia profesional de por lo menos 5 años de experiencia y cumplir los requisitos que señala el artículo 85.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+###### Artículo 92 Bis.
+
+La Unidad de Igualdad de Género tendrá las facultades y obligaciones siguientes:
+
+l.- Promover acciones para institucionalizar y transversalizar las materias de igualdad entre mujeres y hombres y de acceso de las mujeres a una vida libre de violencia en el Congreso del Estado;
+
+II.- Coordinar esfuerzos con la Comisión de Igualdad de Género del Congreso, para auxiliar a ésta en sus funciones;
+
+III.- Informar mensualmente a la Comisión de Igualdad de Género del Congreso de las acciones, políticas y programas efectuados para alcanzar la igualdad de género dentro del Congreso;
+
+IV.- Impulsar las acciones y las estrategias encaminadas a institucionalizar el lenguaje incluyente como parte del trabajo cotidiano de todas las áreas que integran el Congreso del Estado, para contribuir a que los documentos legislativos se redacten evitando un uso sexista del lenguaje;
+
+V.- Gestionar la incorporación y transversalidad de la perspectiva de género en la planeación, programación y presupuestación del Congreso;
+
+VI.- Coordinar la formación, capacitación y certificación del personal en materia de género e igualdad;
+
+VII.- Crear y administrar un sistema informativo, de registro, seguimiento y evaluación de la situación de igualdad entre mujeres y hombres, así como de violencia contra las mujeres, al interior del Congreso; y
+
+VIII.- Elaborar y remitir a la Comisión de Igualdad de Género del Congreso del Estado, los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso.
+
+El Titular de la Unidad de Igualdad de Género del Congreso, deberá cumplir con los mismos requisitos que señalan las fracciones I y II del artículo 85 de este Reglamento, y tener cuando menos 3 años de experiencia en materia de género.
 
 ### CAPÍTULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1727,6 +1787,10 @@ El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la sig
 
 Toda iniciativa deberá presentarse por escrito y en medio electrónico, firmada por quienes la presenten e irá dirigida a los Secretarios del Congreso.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+Para efectos de lo dispuesto por el artículo 85 de la Ley Orgánica y del párrafo primero del artículo 124 de este Reglamento, bastará la sola entrega del documento físico y electrónico que contenga la iniciativa, y se le dé el trámite correspondiente.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 123.
@@ -1741,11 +1805,15 @@ c).- Cuerpo jurídico en el que se especifique claramente el texto sugerido; y
 
 d).- Artículos transitorios.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 124.
 
-Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan por medio electrónico, para su estudio, análisis y dictamen correspondiente y sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
+Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan por medio electrónico, para su estudio, análisis y dictamen correspondiente.
+
+Sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
+
+Únicamente las iniciativas a que se refiere el párrafo anterior, deberán leerse íntegramente en la sesión que corresponda para efectos de que se discuta por los integrantes de la Asamblea. No obstante, lo anterior, cuando la Asamblea lo apruebe, cualquier iniciativa podrá leerse en una sesión.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -1807,6 +1875,10 @@ Las copias de los dictámenes deberán darse a conocer por medio electrónico a 
 
 Una vez presentado un dictamen a la Asamblea y concluida su lectura, el Presidente lo pondrá a consideración de la misma para los efectos de su discusión y aprobación en esa sesión o en la siguiente, si así lo acuerda la mayoría de los miembros presentes o lo solicita la comisión.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+Siempre que se haya cumplido con lo dispuesto por el artículo 131 de este Reglamento, podrá la Asamblea acordar, por mayoría simple, que un dictamen se lea de forma parcial, con la obligación de insertar íntegramente el documento en el diario de los debates.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 133.
@@ -1821,7 +1893,7 @@ Los dictámenes elaborados por las comisiones sobre asuntos que no llegare a res
 
 ### CAPITULO XIV. DE LA DISPENSA DE TRÁMITES
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 135.
 
@@ -1855,7 +1927,7 @@ VIII.- Las proposiciones suspensivas serán puestas a debate luego que se presen
 
 ###### Artículo 137.
 
-En caso de notoria urgencia y, siempre y cuando se justifique ésta, calificada por mayoría de votos de los Diputados presentes, puede la Asamblea dispensar los trámites que para cada asunto determine este Reglamento, sin que se omita en ningún caso el traslado al Ejecutivo, salvo lo dispuesto por el artículo 141 de este ordenamiento.
+En caso de notoria urgencia, siempre y cuando se justifique ésta, calificada por mayoría de votos de los Diputados presentes, puede la Asamblea dispensar los trámites que para cada asunto determine este Reglamento, sin que se omita en ningún caso el traslado al Ejecutivo.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1875,15 +1947,13 @@ La dispensa de trámites de los dictámenes podrá pedirse por escrito o verbalm
 
 Formulada la proposición, será puesta a discusión inmediatamente, pudiendo hablar un Diputado en pro y otro en contra y enseguida se procederá a la votación.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 141.
 
-Se necesita el voto de los dos tercios de los Diputados presentes para:
+Se necesita el voto de la mayoría de los Diputados presentes para:
 
-I.- Dispensar todos los trámites de cualquier proyecto de Ley, excepto el de traslado al Ejecutivo:
-
-II.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por el Ejecutivo: y
+l.- Dispensar el que pase a Comisión un asunto devuelto con observaciones por el Ejecutivo; y
 
 II.- Discutir con preferencia cualquier dictamen de los designados por el Presidente.
 
@@ -2996,3 +3066,11 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 378 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 444 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En lo relativo a la Unidad de Igualdad de Género, ésta entrará en vigor siempre que exista suficiencia presupuestal.
