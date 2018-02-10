@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2017-06-17"
+last_updated: "2018-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de Septiembre de 2015.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
 Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
@@ -35,7 +35,9 @@ DECRETO 1195
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley para la Igualdad entre Mujeres y Hombres del Estado de San Luis Potosí, para quedar como sigue
 
@@ -106,6 +108,10 @@ X. Perspectiva de género: la visión científica, analítica y política sobre 
 XI. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
 XII. Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+
+XII BIS. Sistema Nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres;
 
 XIII. Transversalidad: el proceso que permite garantizar la incorporación de la perspectiva de género, como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria en todas la (sic) instituciones públicas, y
 
@@ -457,9 +463,11 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 El Programa Estatal será propuesto por el Instituto al Sistema Estatal, considerando las propuestas de los entes públicos que integran el Sistema, y tomará en cuenta las desigualdades que prevalezcan en cada región del Estado, con base en las regiones y micro regiones que establece la Ley de Planeación del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-El Programa Estatal, con visión de corto, mediano y largo alcance, contendrá como mínimo, los objetivos, estrategias y líneas de acción fundamentales para alcanzar la igual (sic) sustantiva, tomando en cuenta los criterios e instrumentos de la política nacional y estatal de igualdad, en congruencia con el Programa Nacional.
+El Programa Estatal, con visión de corto, mediano y largo alcance, contendrá como mínimo, los objetivos, estrategias y líneas de acción fundamentales para alcanzar la igualdad sustantiva, tomando en cuenta los criterios e instrumentos de la política nacional y estatal de igualdad, en congruencia con el Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
 Para aplicar el principio de transversalidad, el Sistema llevará a cabo las acciones que se requieran a fin de que los programas sectoriales, institucionales, consideren los criterios e instrumentos de esta ley.
 
@@ -720,6 +728,14 @@ Lic. José Eduardo González Sierra
 P.O. 17 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE REFORMAN LOS ARTÍCULOS 13, 19, 21 Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN 5°, 9°, 17, 22 BIS, 25, Y 29 DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN EL ARTICULO 23 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 98 Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 880.- SE REFORMA EL ARTÍCULO 30; Y ADICIONA AL ARTÍCULO 5° LA FRACCIÓN XII BIS DE LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
