@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2017-09-13"
+last_updated: "2018-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -303,9 +303,15 @@ El médico o partera que atienda un alumbramiento estará obligado a notificar, 
 
 El Oficial del Registro Civil, en cuanto reciba la notificación a que se refiere el párrafo anterior, levantará la constancia respectiva en un libro sellado y foliado que se llevará para tales efectos, y citará, con apercibimiento de sanción, a los progenitores cuyos datos le hubieren sido comunicados. Si ninguno de ellos compareciese dentro de los noventa días siguientes a la fecha del nacimiento, se dará aviso al Consejo de Familia del Distrito Judicial que corresponda, a fin de que se procure la localización del menor y de los padres omisos y se tomen las medidas que en cada caso se requieran para que no resulten perjuicios a los derechos del menor.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 37.
 
-El acta de nacimiento contendrá la hora, día, mes, año y lugar en que ocurrió, así como el sexo, la impresión digital del pulgar derecho o en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse. Igualmente se asentará si es presentado vivo o muerto; nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá la hora, dia, mes, año y lugar en que ocurrió, así como el sexo, la impresión digital del pulgar derecho o, en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse. Igualmente se asentará si es presentado vivo o muerto; nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+
+El Oficial del Registro Civil orientará a quien presente al menor para que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien, que exponga al registrado a ser motivo de burla, con el objeto de que el mismo contribuya, adecuadamente, al desarrollo de su identidad.
 
 ###### ARTICULO 38.
 
@@ -5042,3 +5048,15 @@ Artículo primero. El presente Decreto entrará en vigor ciento ochenta días de
 Artículo segundo. Dentro de los noventa días siguientes a la publicación del presente Decreto, se harán las modificaciones que correspondan al Código de Procedimientos Civiles vigente en el Estado y a los demás ordenamientos legales que sean necesarios para la plena vigencia de este instrumento legal.
 
 Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 204 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS"
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente Decreto.
