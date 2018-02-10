@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-servicios-de-seguridad-privada-para-el-estado-de-san-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2012-04-03"
+last_updated: "2018-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de abril de 2012.
 
@@ -521,9 +521,11 @@ Cuando el prestador de servicios de seguridad privada incurra en alguna de las i
 
 Se considera reincidencia a la comisión de dos o más infracciones en un periodo no mayor a seis meses
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 44.
 
-En los términos de esta Ley se sancionará a los prestadores de servicios de seguridad privada, con multa de cien hasta mil veces el salario mínimo general diario vigente en la zona económica correspondiente del Estado, cuando:
+En los términos de esta Ley se sancionará a los prestadores de servicios de seguridad privada, con multa de cien hasta mil unidades de medida de actualización, cuando:
 
 I. Se presten los servicios de seguridad privada con personal sin uniforme, ni identificación personal visible;
 
@@ -537,9 +539,11 @@ V. Realicen persecuciones que causen alteraciones al orden público.
 
 En caso de reincidencia se duplicará la multa que corresponda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 45.
 
-Se sancionará a los prestadores de servicios de seguridad privada, con multa de doscientos hasta dos mil veces el salario mínimo general diario vigente en la zona económica del Estado, cuando:
+Se sancionará a los prestadores de servicios de seguridad privada con multa de doscientos hasta dos mil unidades de medida de actualización, cuando:
 
 I. No informen a la Secretaría dentro de los sesenta días en que ocurran, el cambio de accionistas, las variaciones a su capital social, suscripción de acciones, modificaciones, transformaciones, fusiones, disoluciones y liquidación de la persona moral autorizada;
 
@@ -555,9 +559,11 @@ VI. No entreguen el informe a que se refiere la fracción IX del artículo 30 de
 
 En caso de reincidencia se duplicará la multa que corresponda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 46.
 
-Se sancionará a los prestadores de servicios de seguridad privada, con multa de mil hasta cinco mil veces el salario mínimo general diario vigente en la zona económica del Estado, cuando:
+Se sancionará a los prestadores de seguridad privada, con multa de mil hasta cinco mil unidades de medida de actualización, cuando:
 
 I. Divulguen la información que obtengan con motivo de la prestación de servicios de seguridad privada;
 
@@ -642,3 +648,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0878.- SE REFORMA LOS ARTÍCULOS 44, 45 Y 46 DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
