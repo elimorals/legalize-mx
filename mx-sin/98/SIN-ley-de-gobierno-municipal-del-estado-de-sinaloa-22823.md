@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2017-12-27"
+last_updated: "2018-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -169,7 +169,9 @@ La protesta a que se refiere el Artículo anterior se rendirá con las formalida
 
 Las faltas temporales del Presidente Municipal, cuando no excedan de diez días, serán cubiertas por el Secretario del Ayuntamiento con el carácter de encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente Municipal al propio Ayuntamiento.
 
-Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal sólo podrá separarse de su puesto previa licencia concedida por el Ayuntamiento, quien elegirá de entre sus miembros a un Presidente Municipal Provisional. El suplente del electo será llamado a sustituirlo como Regidor.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal sólo podrá separarse de su puesto previa licencia concedida por el Ayuntamiento, quien elegirá de entre sus miembros a un Presidente Municipal Provisional. El suplente del electo será llamado a sustituirlo como Regidor o Síndico Procurador, según corresponda.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2004)</small>
 
@@ -333,9 +335,9 @@ III. Recaudar y administrar los ingresos correspondientes a la hacienda pública
 
 IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos, sujetándose a lo establecido en el Artículo 124 de la Constitución Estatal, a la Ley de Presupuesto y Responsabilidad Hacendaria, a la Ley de Deuda Pública, a la Ley de Contratos de Colaboración Público Privada, todas del Estado de Sinaloa, y a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-V. Formular la cuenta pública mensual, dentro de los primeros quince días del mes siguiente al que corresponda, que deben presentar al Congreso, acompañada de los comprobantes respectivos y recabar de la Auditoría Superior del Estado, los finiquitos correspondientes;
+V. Formular la cuenta pública mensual dentro de los primeros quince días del mes siguiente al que corresponda, que deben presentar al Congreso, la cuenta pública mensual será revisada por el Síndico Procurador en los términos del artículo 59, fracción V de la presente Ley.
 
 VI. Administrar los bienes del Municipio, manteniendo un inventario para el control y registro de los mismos;
 
@@ -665,7 +667,9 @@ Para ser Presidente Municipal además de los requisitos que exige el artículo 4
 
 Son facultades y obligaciones del Presidente Municipal, las siguientes:
 
-I. Dirigir el gobierno y la administración pública municipal y proponer al Ayuntamiento el nombramiento del Secretario del Ayuntamiento, del Tesorero y del Oficial Mayor, así como, nombrar y remover a los demás servidores públicos municipales;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+I. Dirigir el gobierno y la administración pública municipal y proponer al Ayuntamiento el nombramiento del Secretario del Ayuntamiento, del Tesorero y del Oficial Mayor, así como, nombrar y remover a los demás servidores públicos municipales, con excepción de los servidores públicos adscritos al Síndico Procurador;
 
 II. Presidir las sesiones y dirigir los debates del Ayuntamiento, tomando parte en las deliberaciones con voz y voto;
 
@@ -719,23 +723,101 @@ XXII. Las demás que establezcan esta Ley u otras disposiciones legales.
 
 ### CAPÍTULO V. DEL SÍNDICO PROCURADOR Y DE LOS REGIDORES
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 39.
 
-El síndico procurador tendrá a su cargo la función de contraloría interna y la procuración de la defensa de los intereses del ayuntamiento, y tendrá las siguientes facultades y obligaciones:
+El Síndico Procurador tendrá a su cargo la función de contraloría interna, contraloría social y la procuración de la defensa de los intereses del Ayuntamiento. Para el cumplimiento estricto de las facultades mencionadas en la presente Ley, en el presupuesto anual de egresos, los ayuntamientos autorizarán una partida específica para cada ejercicio fiscal del Municipio.
 
-I. Asistir con regularidad y puntualidad a las sesiones del Ayuntamiento;
+El Síndico Procurador tendrá las siguientes facultades y obligaciones:
+
+I. Asistir con regularidad y puntualidad a las sesiones del Ayuntamiento. El Síndico Procurador participará en las sesiones del Ayuntamiento con voz y voto, salvo en aquellos casos que tuviera un interés personal directo, lo tuviera alguno de sus parientes consanguíneos o por afinidad hasta el cuarto grado; o bien cuando por razón del ejercicio de las funciones que la ley le confiere, se genere oposición de intereses.
 
 II. Ejercer la representación jurídica del Ayuntamiento en los litigios judiciales y en las negociaciones relativas a la hacienda municipal pudiendo nombrar procuradores judiciales en el ámbito municipal, con arreglo a las facultades específicas que el Ayuntamiento le delegue;
 
-En caso de que el síndico procurador, por cualquier causa, se encuentre imposibilitado para ejercer la representación jurídica del Ayuntamiento, éste resolverá lo conducente;
+III. Nombrar, ratificar y remover al personal a su cargo, cuidando su perfil profesional en atención al área correspondiente;
 
-III. En términos de la reglamentación municipal correspondiente, proponer o ratificar el nombramiento del personal a su cargo;
+IV. Vigilar que la administración de los bienes municipales, la recaudación fiscal, los procedimientos administrativos, la ejecución y calidad de las obras y el ejercicio de los recursos públicos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la legislación aplicable;
 
-IV. Vigilar que la recaudación fiscal, los procedimientos administrativos y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas de conformidad con lo dispuesto por la reglamentación interior o de gobierno;
+V. Vigilar el exacto cumplimiento de las disposiciones del Ayuntamiento, informando sobre cualquier deficiencia o irregularidad que advierta en los diferentes ramos de la administración pública municipal y paramunicipal, a la autoridad competente;
 
-V. Vigilar el exacto cumplimiento de las disposiciones del Ayuntamiento; y
+VI. Desempeñar las funciones y cumplir con las obligaciones que en materia de responsabilidades administrativas le otorgue la legislación aplicable;
 
-VI. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte, con el propósito de que cumpla con las obligaciones y facultades señaladas en las tres fracciones anteriores.
+VII. Revisar la cuenta pública mensual previo a su análisis y aprobación en el pleno del Cabildo, para su posterior envío al Congreso del Estado;
+
+VIII. Presentar denuncias o querellas ante las autoridades competentes, derivadas de las revisiones e investigaciones que lleve a cabo y donde se presuma la comisión de alguna conducta tipificada como delito, sin detrimento de las facultades otorgadas al órgano interno de control.
+
+IX. Conocer de las observaciones formuladas por la Auditoría Superior del Estado, en función de las deficiencias e irregularidades que se hayan encontrado e instruir al órgano interno de control a darle el seguimiento necesario hasta su total solventación;
+
+X. Procurar la participación ciudadana, para que la ciudadanía supervise y vigile la realización de obras públicas y demás acciones del Gobierno Municipal, proporcionándole asistencia técnica y respaldo en atención a sus quejas;
+
+XI. Vigilar que los servidores públicos municipales presenten oportunamente la declaración patrimonial de su situación económica en los plazos establecidos en la legislación aplicable.
+
+XII. Realizar visitas y revisiones a las dependencias de la administración pública municipal y descentralizada. Así mismo, requerir la entrega de la documentación o información necesaria;
+
+XIII. Vigilar que el proceso de planeación municipal, de programación, licitación, ejecución y supervisión de las obras, se realice de conformidad con la reglamentación vigente;
+
+XIV. Coordinar y certificar que los actos de entrega-recepción de las dependencias de la administración pública municipal, se realice de acuerdo a la normatividad vigente, a través de acta formal listando los activos y el estado físico en que se encuentran, así como la información administrativa necesaria para la correcta operación de las mismas;
+
+XV. Evaluar anualmente el resultado de las acciones específicas que hayan implementado en materia de control interno, rendición de cuentas, transparencia y responsabilidades administrativas;
+
+XVI. Aprobar e implementar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno para la prevención de faltas administrativas y hechos de corrupción en el ámbito de su competencia;
+
+XVII. Suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización;
+
+XVIII. Vigilar que los servidores públicos del municipio se apeguen a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia en la administración y ejercicio del servicio público;
+
+XIX. Practicar revisiones a los documentos que habrán de conformar la cuenta pública, y presentar las observaciones que resulten en la sesión en la que vayan a aprobarse dichas cuentas, en caso de advertir la existencia de irregularidades proceder en términos de la Ley de la materia;
+
+XX. Vigilar que oportunamente se remita al Congreso del Estado la cuenta pública municipal;
+
+XXI. Nombrar procuradores judiciales cuando proceda y designar a los profesionistas y personas autorizadas para oír y recibir notificaciones;
+
+XXII. Vigilar la atención de las recomendaciones que dirijan las comisiones Nacional y Estatal de Derechos Humanos, a las áreas y servidores públicos del Municipio;
+
+XXIII. Verificar el cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública;
+
+XXIV. Recibir y dar trámite legal por conducto del órgano interno de control del Ayuntamiento a las denuncias hechas ante el Ayuntamiento sobre la ocupación irregular de los predios, fincas y espacios de propiedad municipal;
+
+XXV. Resolver los recursos administrativos que se interpongan contra actos de autoridades municipales y cuya resolución no sea competencia de otra autoridad;
+
+XXVI. Ser la instancia encargada de supervisar la sustanciación y resolución de los procedimientos de responsabilidad administrativa de los servidores públicos de la administración pública municipal, a cargo del órgano interno de control;
+
+XXVII. Llevar el registro de antecedentes disciplinarios de los servidores públicos de la administración pública municipal;
+
+XXVIII. Establecer estrategias para dar a conocer al ciudadano su derecho, para presentar y tramitar quejas y denuncias que a su juicio considera, por presuntas irregularidades de los servidores públicos municipales en el ejercicio de sus funciones;
+
+XXIX. Coordinarse con los organismos públicos descentralizados, en los asuntos de su competencia;
+
+XXX. Rendir todos los informes que le solicite el Ayuntamiento;
+
+XXXI. Proponer iniciativa al Ayuntamiento para la creación, reforma o abrogación de reglamentos municipales y demás disposiciones administrativas;
+
+XXXII. Desempeñar las comisiones transitorias que el Ayuntamiento le encomiende;
+
+XXXIII. Recibir de la dependencia municipal correspondiente, asesoría técnica o elaboración de trabajos que impliquen conocimientos específicos en la atención y solicitud de asuntos que se le turnen para su estudio y ejecución; y
+
+XXXIV. Todas aquéllas que el Ayuntamiento le confiera en el reglamento que regule su estructura orgánica, o en los acuerdos específicos que adopte, con el propósito de que cumpla con las obligaciones y facultades señaladas en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+###### Artículo 39 Bis.
+
+El Síndico Procurador tendrá facultades de revisión, supervisión y coordinación de las funciones del órgano interno de control del Ayuntamiento. El órgano interno de control se encargará de revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos, así como investigar, sustanciar y resolver los expedientes en materia de responsabilidades administrativas en los términos del artículo 67 Bis de la presente Ley.
+
+El Síndico Procurador propondrá el nombramiento del Titular del órgano interno de control al Cabildo y revisará su informe anual de resultados, así como su programa de trabajo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+###### Artículo 39 Ter.
+
+Para el ejercicio de la función de contraloría social el Síndico Procurador tendrá las siguientes facultades:
+
+I. Promover, en su caso, el establecimiento de Contralorías Sociales dentro de los Ayuntamientos a efecto de que la comunidad participe en el control y vigilancia de las obras públicas y demás acciones del Gobierno Municipal;
+
+II. Proporcionar apoyos y asistencia técnica a los Contralores Sociales para el cumplimiento de sus funciones; y
+
+III. Recibir y atender el reporte de cualquier irregularidad, queja o denuncia que sea presentada por los contralores sociales.
 
 ###### Artículo 40.
 
@@ -981,13 +1063,17 @@ III. Custodiar y administrar los ingresos provenientes de los impuestos, derecho
 
 IV. Imponer las sanciones que correspondan por infracciones a los ordenamientos fiscales, cuya aplicación esté encomendada a la propia Tesorería;
 
-V. Llevar la contabilidad del Ayuntamiento y formular la cuenta pública;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+V. Llevar la contabilidad del Ayuntamiento, formular la cuenta pública en los primeros diez días del mes que corresponde, remitiéndola de inmediato al Síndico Procurador, para su revisión, contando este último con cinco días para efectuarla. Transcurrido este plazo, deberá ser enviada a la Comisión respectiva.
 
 VI. Intervenir en los estudios de planeación financiera del Ayuntamiento, evaluando las necesidades, posibilidades y condiciones de los financiamientos internos y externos de los programas de inversión;
 
 VII. Ejercer el presupuesto de egresos, efectuando los pagos que procedan con cargo a las partidas del mismo. Los comprobantes correspondientes, debidamente requisitados, deberán estar visados por el regidor presidente de la Comisión de Hacienda y aprobados por el Presidente Municipal;
 
-VIII. Remitir al Congreso del Estado, dentro de los primeros veinte días de cada mes, la cuenta pública del mes inmediato anterior, con todos sus anexos, acompañados de los comprobantes respectivos; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+VIII. Remitir al Congreso del Estado, dentro de los primeros veinte días de cada mes, la cuenta pública del mes inmediato anterior, con todos sus anexos, acompañados de los comprobantes respectivos y del acta de aprobación del cabildo correspondiente; y
 
 IX. Todo lo demás que se relacione con la Hacienda Pública Municipal o que le encomienden las leyes o reglamentos.
 
@@ -1812,3 +1898,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS DEL" DECRETO NÚMERO 382 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS ARTÍCULOS 20, PÁRRAFO SEGUNDO; 28, FRACCIÓN V; 38, FRACCIÓN I; 39; Y 59, FRACCIONES V Y VIII; SE ADICIONAN LOS ARTÍCULOS 39 BIS, Y 39 TER DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
