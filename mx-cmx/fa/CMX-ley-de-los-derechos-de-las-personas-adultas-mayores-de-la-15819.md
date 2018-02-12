@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2017-10-30"
+last_updated: "2018-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -159,6 +159,10 @@ III. A recibir un trato digno y apropiado cuando sean víctimas, o ellos mismos 
 IV. A recibir el apoyo de los órganos locales de Gobierno en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, del Tribunal Superior de Justicia del Distrito Federal, de las Procuradurías competentes y de la Comisión de Derechos Humanos del Distrito Federal; y
 
 V. A contar con asesoría jurídica gratuita y contar con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar.
+
+> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2018)</small>
+
+VI. A demandar alimentos a sus descendientes conforme a lo establecido en el Código Civil para el Distrito Federal.
 
 C). De la salud y alimentación:
 
@@ -737,6 +741,14 @@ TERCERO.- Los derechos, erogaciones y acciones previstas en este ordenamiento ju
 G.O. 30 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL; DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 12 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
