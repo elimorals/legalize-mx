@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2018-01-29"
+last_updated: "2018-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1915,11 +1915,13 @@ Cuando el asalto se cometa utilizando armas de fuego contra un poblado o parte d
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
 ## TITULO SEXTO. DELITOS CONTRA LA INVIOLABILIDAD DEL DOMICILIO, DE LA INTIMIDAD Y DE LA IDENTIDAD DE LAS PERSONAS
 
 ### CAPITULO II. INSEMINACION ARTIFICIAL INDEBIDA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 176.
 
@@ -1929,7 +1931,7 @@ Si el medio empleado fuese la violencia la penalidad se aumentará hasta en una 
 
 ### CAPITULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 177.
 
@@ -1943,7 +1945,7 @@ Los delitos de este Título, se perseguirán por querella.
 
 ### CAPITULO IV. ESTUPRO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
 ## TITULO SEPTIMO. DELITO CONTRA LA INVIOLABILIDAD DEL SECRETO
 
@@ -1975,11 +1977,17 @@ Este delito se perseguirá por querella.
 
 ###### ARTICULO 179.
 
-A quien por medio de la violencia, realice cópula con persona de cualquier sexo sin la voluntad de ésta, se le impondrá prisión de seis a quince años.
+A quien por medio de la violencia, realice cópula con persona de cualquier sexo sin la voluntad de ésta, se le impondrá prisión de seis a veinte años.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
 Para los efectos de este código, se entiende por cópula la introducción del pene en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+
 Comete también el delito de violación y se sancionará como tal, al que introduzca por vía vaginal o anal, cualquier parte del cuerpo, elemento, objeto o instrumento diferente del pene, por medio de violencia, sea cual fuere el sexo del ofendido.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
 Se aplicará la misma pena prevista en este artículo, cuando entre el sujeto activo del delito y el pasivo exista o haya un vínculo de matrimonio, concubinato o relación de hecho.
 
@@ -2011,7 +2019,7 @@ Cuando la violación o su equiparación sea cometida por dos o más personas, se
 
 ###### ARTICULO 182.
 
-Al que por medio de la violencia, física o moral, o por engaños, realice en una mujer inseminación artificial, se le aplicará prisión de dos a seis años.
+Al que por medio de la violencia, física o moral, o por engaño, realice en una mujer inseminación artificial, se le aplicará prisión de dos a siete años.
 
 La pena se aumentará hasta en una mitad más, si la inseminación se hace en una menor de edad.
 
@@ -2021,25 +2029,29 @@ La pena se aumentará hasta en una mitad más, si la inseminación se hace en un
 
 ###### ARTICULO 183.
 
-Comete el delito de abuso sexual el que ejecute, haga que ejecute u obligue a observarle un acto sexual, sin el propósito directo e inmediato de llegar a la cópula, con un menor de edad o con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
+Comete el delito de abuso sexual el que ejecute, haga que ejecute u obligue a observarle un acto sexual, sin el propósito directo e inmediato de llegar a la cópula, con un menor de edad o con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo. Se le impondrá una pena de uno a tres años de prisión y multa de hasta doscientos días, cuando el sujeto pasivo sea un menor de edad.
 
-Se le impondrá una pena de tres meses a un año de prisión, cuando el sujeto pasivo sea un menor de edad.
+Si el sujeto pasivo es menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, se le aplicará una pena de dos a ocho años de prisión y multa de hasta quinientos días.
 
-Si el sujeto pasivo es menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, se le aplicará una pena de dos a seis años de prisión.
+Cuando se empleare la violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-Cuando se empleare la violencia, la pena será de dos a ocho años de prisión.
-
-Tratándose de los casos sancionados conforme a los párrafos tercero y cuarto, este delito se perseguirá de oficio.
+El delito previsto en el presente artículo se perseguirá de oficio.
 
 ### CAPITULO III. DISPOSICIONES COMUNES
 
 ###### ARTICULO 184.
 
-Al que tenga cópula con una persona menor de dieciocho años pero mayor de dieciséis, obteniendo su consentimiento por medio de engaño, se le aplicará prisión de uno a cuatro años.
+Al que tenga cópula con una persona menor de dieciocho años pero mayor de dieciséis, obteniendo su consentimiento por medio de engaño, se le aplicará prisión de uno a seis años y multa de cien a trescientos días.
 
-Si el sujeto pasivo es mayor de doce pero menor de dieciséis años, se aumentará en una mitad la pena anterior.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+Si el sujeto pasivo es mayor de catorce pero menor de dieciséis años, se aumentará en una mitad la pena anterior.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
 Cuando la edad del agente supere con quince años o más la edad del sujeto pasivo, se le aplicará el doble de la pena establecida en los párrafos anteriores.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
 Se presume que existe engaño cuando el sujeto pasivo sea menor de dieciséis años.
 
@@ -2491,7 +2503,9 @@ Al responsable de delito informático se le impondrá una pena de seis meses a d
 
 ARTICULO 241 BIS.- Por violencia familiar debe entenderse cualquier acción u omisión que de manera directa e indirecta causare daño o sufrimiento físico, sexual, psico-emocional, económico o patrimonial, por parte de pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, concubina o concubinario, cónyuge o excónyuge o con quien se haya procreado hijos.
 
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, prohibición de ir a lugar determinado, en su caso, y perderá el derecho de pensión alimenticia. Asimismo, se le impondrá medida de seguridad consistente en tratamiento psicológico especializado, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito que resulte.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+A quien cometa el delito de violencia familiar se le impondrá de uno a seis años de prisión, prohibición de ir a lugar determinado, en su caso, y perderá el derecho de pensión alimenticia. Asimismo, se le impondrá medida de seguridad consistente en tratamiento psicológico especializado, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito que resulte.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
@@ -2505,15 +2519,27 @@ ARTICULO 241 BIS B.- En todos los casos previstos en los dos artículos preceden
 
 ARTICULO 241 Bis C.- El delito de violencia familiar se perseguirá por querella; y de oficio, en los siguientes supuestos:
 
-I. La víctima sea menor de edad o incapaz;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-II. La víctima sea una mujer en estado de embarazo;
+I. La víctima sea persona adulta mayor, menor de edad o incapaz;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+II. La víctima sea una mujer;
 
 III. Se cometa con el uso de armas de fuego o punzocortantes;
 
-IV. Se deje cicatriz permanente en alguna parte del cuerpo; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-V. Existan datos de prueba que establezcan conductas previas de violencia familiar cometidos por el mismo agresor contra la víctima.
+IV. Se deje cicatriz permanente en alguna parte del cuerpo;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+V. Existan datos de prueba que establezcan conductas previas de violencia familiar cometidos por el mismo agresor contra la víctima; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+VI. La víctima haya sido expuesta en lugar público.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE MAYO DE 2017)</small>
 
@@ -4588,3 +4614,11 @@ P.O. 29 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355 DEL H. CONGRESO DEL ESTADO.- QUE DEROGA EL ARTÍCULO 141 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 379 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL ARTÍCULO 179, PÁRRAFO PRIMERO; 182, PÁRRAFO PRIMERO; 183, 184, PÁRRAFOS PRIMERO Y SEGUNDO; Y 241 BIS, PÁRRAFO SEGUNDO; 241 BIS C, FRACCIONES I, II, IV Y V; Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 241 BIS C DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
