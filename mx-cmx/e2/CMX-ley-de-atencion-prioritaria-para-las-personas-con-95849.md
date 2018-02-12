@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-prioritaria-para-las-personas-con-95849"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2017-10-05"
+last_updated: "2018-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95849&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-09-12"
 
 LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de septiembre de 2013.
 
@@ -102,11 +102,13 @@ Las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y
 
 ###### Artículo 5.
 
-Las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal, se encuentran obligadas a brindar atención prioritaria en la realización de trámites y la prestación de servicios a personas con discapacidad y en situación de vulnerabilidad.
+Las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal, se encuentran obligadas a brindar atención prioritaria y de acceso inmediato, con trato digno, respetuoso y no discriminatorio, contando con espacios de fácil acceso y confortables, así como con personal específico y capacitado para su atención, para la realización de trámites y la prestación de servicios a personas con discapacidad y en situación de vulnerabilidad.
 
 ## TITULO SEGUNDO
 
 ### CAPÍTULO I. DE LA ATENCIÓN EN LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 6.
 
@@ -187,6 +189,14 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 5 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 12 DE FEBRERO DE 2018.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
