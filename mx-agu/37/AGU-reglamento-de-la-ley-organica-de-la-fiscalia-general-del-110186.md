@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-110186
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-05"
-last_updated: "2016-07-04"
+last_updated: "2018-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2015.
 
@@ -201,13 +201,13 @@ F). Dirección General de Investigación Pericial:
 
 I.- Dirección de Investigación Pericial.
 
-I.I.- Coordinación de Informes Periciales “A”.
+I.I.- Coordinación de Informes Periciales "A".
 
-I.II.- Coordinación de Informes Periciales “B”.
+I.II.- Coordinación de Informes Periciales "B".
 
-I.III.- Coordinación de Informes Periciales “C”.
+I.III.- Coordinación de Informes Periciales "C".
 
-I. IV.- Coordinación de Informes Periciales “D”.
+I. IV.- Coordinación de Informes Periciales "D".
 
 I.V.- Coordinación de Calidad Técnica Científica.
 
@@ -229,7 +229,21 @@ II.- Coordinación de Servicios.
 
 J). Dirección General de la Asesoría Jurídica.
 
-El Fiscal General se auxiliará directamente de las siguientes unidades administrativas:Secretaría (sic) Particular, Coordinación de Asesores, Dirección de Comunicación Social y la Dirección General de Tecnologías de Información y Comunicaciones, además de los Agentes del Ministerio Público,Inspectores (sic) Generalesy (sic) agentes de la Policía Ministerial, Peritos, Jefes de Departamento y demás servidores públicos que establezcan el presente Reglamento y otras disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+K). Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2018)</small>
+
+La organización, funcionamiento y adscripción de la Fiscalía Especializada, prevista por el apartado K), del presente artículo, se hará de conformidad con el Acuerdo, que al efecto emita el Fiscal General.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+La Fiscalía Especializada en Combate a la Corrupción, es un órgano con autonomía técnica y operativa para Investigar y perseguir las conductas consideradas como hechos de corrupción por parte de cualquier servidor público o particulares que sancione la normatividad local. Únicamente, el Fiscal General ejercerá autoridad jerárquica sobre dicha unidad de Investigación. En caso de ausencia temporal de su titular, el Fiscal General designará a quien desempeño dicho encargo de forma temporal.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE FEBRERO DE 2018)</small>
+
+El Fiscal General se auxiliará directamente de las siguientes unidades administrativas: Secretaría Particular, Coordinación de Asesores, Dirección de Comunicación Social y la Dirección General de Tecnologías de Información y Comunicaciones, además de los Agentes del Ministerio Público, Inspectores Generales y agentes de la Policía Ministerial, Peritos, Jefes de Departamento y demás servidores públicos que establezcan el presente Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 7°.
 
@@ -551,7 +565,13 @@ II. Fiscalía Especializada en Justicia Familiar y de Género;
 
 III. Fiscalía Especializada en Robo de Vehículos;
 
-IV. Fiscalía Especializada enInvestigación (sic) de Robos;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+IV. Fiscalía Especializada en Investigación de Robos; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+V. Fiscalía Especializada en Materia de Trata de Personas.
 
 Y las demás unidades administrativas y sustantivas que se establezcan en la estructura de organización de la Fiscalía o en los acuerdos que emita el Fiscal General o que determinen las normas aplicables, salvo que el titular de la Institución determine una adscripción diversa.
 
@@ -2412,3 +2432,11 @@ P.O. 4 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DE “REFORMAS AL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO”.]
 
 > <small>[N. DE E. EL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 12 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DE "REFORMA AL ARTÍCULO 6° DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
