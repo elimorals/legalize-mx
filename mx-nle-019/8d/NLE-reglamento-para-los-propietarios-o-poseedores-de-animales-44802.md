@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-los-propietarios-o-poseedores-de-animales-44802
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2016-07-18"
+last_updated: "2018-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMÉSTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de abril de 2005.
 
@@ -51,151 +51,125 @@ IV. Fomentar el trato humanitario para los animales domésticos; y,
 
 V. Promover entre la ciudadanía la cultura de responsabilidad en cuanto a la posesión de animales domésticos, sus cuidados y recomendaciones, de conformidad con los Ordenamientos legales y Normas Oficiales Mexicanas que así lo prevean.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 2.
 
 Para efectos de la aplicación de este Reglamento se consideran las siguientes definiciones:
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+I. Adopción de animales: Acción que consiste en la entrega de un animal irracional menor de un año, sano, esterilizado e inmunizado, confinado en un Centro de Control Canino y Felino a una persona mayor de edad que así lo solicite, ya sea de manera gratuita u onerosa.
 
-Adopción de animales: Acción que consiste en la entrega de un animal irracional menor de un año, sano, esterilizado e inmunizado, confinado en un Centro de Control Animal a una persona mayor de edad que así lo solicite, ya sea de manera gratuita u onerosa.
+II. Agresión: Acción por la cual un animal ataca a una persona o algún animal irracional, en forma espontánea o como resultado de algún estímulo nocivo o molesto, ocasionando lesiones.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+III. Animal: Especie de ser orgánico irracional que vive, siente y se mueve por propio impulso.
 
-Agresión: Acción por la cual un animal ataca a una persona o algún animal irracional, en forma espontánea o como resultado de algún estímulo nocivo o molesto, ocasionando lesiones.
+IV. Animal agresivo o agresor: Animal que ejecuta una agresión en contra de alguna persona u otro animal.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+V. Animal callejero: Animal que se encuentre en vía pública sin propietario aparente.
 
-Animal: Especie de ser orgánico irracional que vive, siente y se mueve por propio impulso.
+VI. Animal potencialmente peligroso: Cualquier animal que por su naturaleza temperamental y cuidados especiales es considerado como tal por el presente Reglamento, así como aquellos que presenten características o antecedentes de animal agresivo, y sean propensos de causar un daño, ya sea físico, psicológico o material, en el ser humano o sus posesiones.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+VII. Animal doméstico: Aquel que convive con el ser humano.
 
-Animal agresivo o agresor: Animal que ejecuta una agresión en contra de alguna persona u otro animal.
+VIII. Captura de animales: Acción de detener o aprehender a un animal, a través de métodos y técnicas autorizadas para ello.
 
-Animal callejero: Animal que se encuentre en vía pública sin propietario aparente.
+IX. Consultorio o Clínica Veterinaria: Es el establecimiento de atención médica en general para animales, cuyo responsable es un Médico Veterinario con título Universitario que cumpla con las normas establecidas.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+X. Control: Aplicación de medidas de seguridad para disminuir la incidencia de casos de enfermedades transmitidas por animales.
 
-Animal potencialmente peligroso: Cualquier animal que por su naturaleza temperamental y cuidados especiales es considerado como tal por el presente Reglamento, así como aquellos que presenten características o antecedentes de animal agresivo, y sean propensos de causar un daño, ya sea físico, psicológico o material, en el ser humano o sus posesiones.
+XI. Cuidado: Acción de atender a un animal para asegurar el correcto desarrollo, así como evitar que los animales produzcan daños a las personas o a los bienes u objetos públicos o de particulares.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+XII. Diagnóstico: Técnica para la identificación de una enfermedad, mediante datos clínicos y pruebas de laboratorio.
 
-Animal doméstico: Aquel que convive con el ser humano.
+XIII. Donación de animales: Actividad que llevan a cabo el propietario de animales domésticos, que consiste en la entrega espontánea y voluntaria del animal a las Autoridades del Centro de Control Canino y Felino, para diversos fines.
 
-Captura de animales: Acción de detener o aprehender a un animal, a través de métodos y técnicas autorizadas para ello.
+XIV. Eliminación de animales: Acción de sacrificar mediante métodos humanitarios a los animales.
 
-Consultorio o Clínica Veterinaria: Es el establecimiento de atención médica en general para animales, cuyo responsable es un Médico Veterinario con título Universitario que cumpla con las normas establecidas.
+XV. Especie: Caracteres comunes que clasifican a los animales irracionales
 
-Control: Aplicación de medidas de seguridad para disminuir la incidencia de casos de enfermedades transmitidas por animales.
+XVI. Enfermedad: Ruptura del equilibrio en la interacción entre un animal, agente biológico y medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero.
 
-Cuidado: Acción de atender a un animal para asegurar el correcto desarrollo, asi como evitar que los animales produzcan daños a las personas o a los bienes u objetos públicos o de particulares.
+XVII. Esterilización de animales: Cirugía que incapacita a un animal para reproducirse (histerectomía o vasectomía).
 
-Diagnóstico: Técnica para la identificación de una enfermedad, mediante datos clínicos y pruebas de laboratorio.
+XVIII. Herida: Lesión en la que se presenta pérdida de la solución de continuidad de las partes blandas del cuerpo.
 
-Donación de animales: Actividad que llevan a cabo el propietario de animales domésticos, que consiste en la entrega espontánea y voluntaria del animal a las Autoridades del Centro de Control Canino y de Zoonosis, para diversos fines.
+XIX. Infección: Situación en el (sic) cual un virus o bacteria penetra a un organismo sea una persona o un animal.
 
-Eliminación de animales: Acción de sacrificar mediante métodos humanitarios a los animales.
+XX. Lesión: Daño o alteración física o psicológica.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+XXI. Molestia: Alteración de la normalidad, sensación desagradable producida por un animal.
 
-Especie: Caracteres comunes que clasifican a los animales irracionales.
+XXII. Observación de animales: Mantener en cautiverio por un el (sic) período de 10-diez días como mínimo, a cualquier animal que presuntamente haya realizado un acto de agresión, con el fin de identificar signos o síntomas de rabia u otra enfermedad específica.
 
-Enfermedad: Ruptura del equilibrio en la interacción entre un animal, agente biológico y medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero.
+XXIII. Perrera: Sitio donde se guardan o encierran a los perros.
 
-Esterilización de animales: Cirugía que incapacita a un animal para reproducirse (histerectomía o vasectomía).
+XXIV. Perro aullador: Aquel que tiene por costumbre aullar infatigablemente, causando molestia a los vecinos.
 
-Herida: Lesión en la que se presenta pérdida de la solución de continuidad de las partes blandas del cuerpo.
+XXV. Perro casero: Animal doméstico que porta una identificación
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+XXVI. Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
-Infección: Situación en el cual un virus o bacteria penetra a un organismo sea una persona o un animal.
+XXVII. Perro de combate: El que se ha adiestrado para combatir a otros animales.
 
-Lesión: Daño o alteración física o psicológica.
+XXVIII. Perro de compañía: El que comparte su vida con el ser humano, principalmente con niños o con ancianos que viven solos.
 
-Molestia: Alteración de la normalidad, sensación desagradable producida por un animal.
+XXIX. Perro de defensa: Entrenado para defender a su amo contra cualquier persona o animal por medio de una señal o indicación.
 
-Observación de animales: Mantener en cautiverio por un el (sic) período de 10-diez días como mínimo, a cualquier animal que presuntamente haya realizado un acto de agresión, con el fin de identificar signos o síntomas de rabia u otra enfermedad específica.
+XXX. Perro guardián: El que se utiliza para proteger y vigilar a su amo.
 
-Perrera: Sitio donde se guardan o encierran a los perros.
+XXXI. Perro peligroso: El que es agresivo o que presenta una enfermedad contagiosa.
 
-> <small>(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+XXXII. Reincidencia: Repetición de una conducta violatoria del presente Reglamento.
 
-Perro aullador: Aquel que tiene por costumbre aullar infatigablemente, causando molestia a los vecinos.
+XXXIII. Prevención: Conjunto de programas destinados a controlar procedimientos sanitarios, destinados a proteger al ser humano y a los animales contra enfermedades.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+XXXIV. Rabia: Enfermedad infectocontagiosa, aguda y mortal, que afecta al sistema nervioso central. Es provocada por el virus del género Lyssavirus y de la familia rhabdoviridae. Es trasmitida (sic) por la saliva de algún animal enfermo o por material contaminado por el virus.
 
-Perro casero: Animal doméstico que porta una identificación.
+XXXV. Razas grandes: Cánidos con un peso mínimo de 35-treinta y cinco kilogramos y una altura mínima de 66-sesenta y seis centímetros a la cruz.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+XXXVI. Razas medianas: Cánidos con un peso mínimo de 15-quince y un máximo de 36-treinta y seis kilogramos y una altura de los 35-treinta y cinco a los 65-sesenta y cinco centímetros a la cruz.
 
-Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
+XXXVII. Razas pequeñas: Cánidos con un peso no mayor a los 15-quince kilogramos y una altura mínima de 35-treinta y cinco centímetros a la cruz.
 
-Perro de combate: El que se ha adiestrado para combatir a otros animales.
+XXXVIII. Reglamento: Reglamento para los Propietarios o Poseedores de Animales Domésticos del Municipio de San Pedro Garza García, Nuevo León.
 
-Perro de compañía: El que comparte su vida con el ser humano, principalmente con niños o con ancianos que viven solos.
+XXXIX. Ruido Constante: Emisión de sonidos de un animal, que puede ser percibido fuera del predio del propietario o poseedor, por períodos intermitentes de 10-diez minutos o más, en forma constante.
 
-Perro de defensa: Entrenado para defender a su amo contra cualquier persona o animal por medio de una señal o indicación.
+XL. Secretaría: La Secretaría de Servicios Públicos y Medio Ambiente o a la que competa conocer los asuntos de salud, bienestar y seguridad animal, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
 
-Perro guardián: El que se utiliza para proteger y vigilar a su amo.
+XLI. Sujetador: Tubo largo con un lazo ajustable en el que se introduce la cabeza del animal sujetándolo sin estrangular.
 
-Perro peligroso: El que es agresivo o que presenta una enfermedad contagiosa.
+XLII. Tenencia: Posesión material del animal o animales.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+XLIII. Trato humanitario: Trato adecuado para disminuir el sufrimiento, traumatismos y dolo (sic) de los animales durante su captura, movilización, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio.
 
-Reincidencia: Repetición de una conducta violatoria del presente Reglamento.
+XLIV. Vacunación: Administración de un antígeno a un animal en dosis adecuada, con el propósito de prevenir una enfermedad, induciendo la producción de anticuerpos específicos.
 
-Prevención: Conjunto de programas destinados a controlar procedimientos sanitarios, destinados a proteger al hombre y a los animales contra enfermedades.
-
-Rabia: Enfermedad infectocontagiosa, aguda y mortal, que afecta al sistema nervioso central. Es provocada por el virus del género Lyssavirus y de la familia rhabdoviridae. Es trasmitida por la saliva de algún animal enfermo o por material contaminado por el virus.
-
-Razas grandes: Cánidos con un peso mínimo de 35-treinta y cinco kilogramos y una altura mínima de 66-sesenta y seis centímetros a la cruz.
-
-Razas medianas: Cánidos con un peso mínimo de 15-quince y un máximo de 36-treinta y seis kilogramos y una altura de los 35-treinta y cinco a los 65-sesenta y cinco centímetros a la cruz.
-
-Razas pequeñas: Cánidos con un peso no mayor a los 15-quince kilogramos y una altura mínima de 35-treinta y cinco centímetros a la cruz.
-
-Reglamento: Reglamento para los Propietarios o Poseedores de Animales Domésticos del Municipio de San Pedro Garza García, Nuevo León.
-
-Ruido Constante: Emisión de sonidos de un animal, que puede ser percibido fuera del predio del propietario o poseedor, por períodos intermitentes de 10-diez minutos o más, en forma constante.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
-
-Secretaría: La Secretaría de Desarrollo Social y Humano o a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
-
-Sujetador: Tubo largo con un lazo ajustable en el que se introduce la cabeza del animal sujetándolo sin estrangular.
-
-Tenencia: Posesión material del animal o animales.
-
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
-
-Trato humanitario: Trato adecuado para disminuir el sufrimiento, traumatismos y dolo (sic) de los animales durante su captura, movilización, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio.
-
-Vacunación: Administración de un antigeno a un animal en dosis adecuada, con el propósito de prevenir una enfermedad, induciendo la producción de anticuerpos específicos.
-
-Zoonosis: Enfermedades que de una manera natural se transmiten entre animales vertebrados y el hombre.
+XLV. Zoonosis: Enfermedades que de una manera natural se transmiten entre animales vertebrados y el ser humano.
 
 ###### Artículo 3.
 
 (DEROGADO, P.O. 1 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 4.
 
-La Ley Estatal de Salud, la Ley de Protección a los Animales para el Estado de Nuevo León, Ley Ganadera del Estado de Nuevo León, Ley para la Protección de los Derechos de las Personas con Discapacidad, el Código de Procedimientos Civiles Vigente en el Estado de Nuevo León, y el Reglamento para Personas con Discapacidad del Municipio de San Pedro Garza García, Nuevo León, serán aplicados supletoriamente en lo conducente, en ese orden respectivamente y en todo aquello que no se encuentre previsto en el presente Reglamento.
+La Ley Estatal de Salud, la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León, Ley para la Protección de los Derechos de las Personas con Discapacidad, el Código de Procedimientos Civiles del Estado de Nuevo León, y el Reglamento para las Personas con Discapacidad en el Municipio de San Pedro Garza García, Nuevo León, serán aplicados supletoriamente en lo conducente, en ese orden respectivamente y en todo aquello que no se encuentre previsto en el presente Reglamento.
 
-(REUBICADO, P.O. 22 DE JUNIO DE 2009)
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 5.
 
 Son Autoridades competentes para conocer y aplicar las disposiciones del presente Reglamento.
 
-I. Presidente Municipal;
+I. El Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+II. La Secretaría de Servicios Públicos y Medio Ambiente o la que competa conocer los asuntos de salud y seguridad animal, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
 
-II. Secretaría de Desarrollo Social y Humano o la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León; y,
+III. La Dirección de Medio Ambiente; y
 
-III. Coordinación de Municipio Saludable.
+IV. El Centro de Control Canino y Felino.
 
 ### Capítulo II
 
@@ -207,61 +181,69 @@ De las Autoridades Competentes.
 
 Son atribuciones de las Autoridades mencionadas en el artículo anterior, las siguientes:
 
-I. Presidente Municipal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
+
+I. Del Presidente Municipal:
 
 A) Verificar el cumplimiento del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+B) (DEROGADO, P.O. 12 DE FEBRERO DE 2018)
 
-B) Aplicar las sanciones derivadas del incumplimiento del presente Reglamento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
-
-II. Secretaría de Desarrollo Social y Humano aquella a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
+II. De la Secretaría de Servicios Públicos y Medio Ambiente o aquella a la que competa conocer los asuntos de la salud, bienestar y seguridad animal, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 A) Verificar el cumplimiento del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
-
-B) Aplicar las sanciones derivadas del incumplimiento del presente Reglamento.
+B) (DEROGADO, P.O. 12 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 C) Atender y resolver los recursos de inconformidad que se interpongan de conformidad con lo previsto por este Reglamento.
 
-III. Coordinación de Municipio Saludable:
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-A) Verificar el cumplimiento del presente Reglamento.
+III. De la Dirección de Medio Ambiente:
 
-B) Expedir las órdenes de verificación sanitaria en los casos referentes al presente Reglamento.
+a. Ordenar las visitas de inspección para vigilar la aplicación de la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León y del presente Reglamento;
 
-C) Desahogo de los procedimientos instaurados de conformidad con este Reglamento.
+b. Ordenar la aplicación de medidas de seguridad o, en su caso, de la imposición de sanciones por el incumplimiento del presente ordenamiento;
 
-D) Aplicar las sanciones administrativas correspondientes, así como las medidas de seguridad previstas por este Reglamento.
+c. Realizar el trámite, desahogo y seguimiento de los procedimientos jurídicos instaurados de conformidad con este Reglamento;
 
-E) Elaborar el plan de trabajo correspondiente.
+d. Realizar acuerdos con las Asociaciones Protectoras de Animales y con otras dependencias ya sean Estatales o Federales, para la entrega de animales domésticos que sean capturados en el área urbana o entregados en las instalaciones del Centro de Control Canino y Felino del Municipio; y
 
-F) Mantener actualizado el registro de posesión de los animales considerados peligrosos.
+e. Determinar las sanciones a imponer a quienes incumplan el presente Reglamento.
 
-G) Determinar la entrega de los animales domésticos capturados en la vía pública y sacrificio de los mismos, así como la devolución de los animales agresores o peligrosos conforme al presente Reglamento.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-H) Administrar el Centro de Control Canino y de Zoonosis, dar seguimiento a toda denuncia relacionada con animales domésticos, salvaguardar las instalaciones y apoyar los programas que proponga la Secretaría Estatal de Salud.
+IV. Del Centro de Control Canino y Felino:
 
-I) Determinar el uso de las instalaciones.
+a. Vigilar el cumplimiento del presente Reglamento;
 
-J) Programar la recolección de animales domésticos que se encuentran en la vía pública, así como la atención de reportes recibidos al respecto.
+b. Expedir las órdenes de verificación sanitaria en los casos referentes al presente Reglamento;
 
-K) Realizar la captura de animales, así como su sacrificio y disposición final, cuando así proceda de conformidad con el presente Reglamento.
+c. Elaborar el plan de trabajo correspondiente;
 
-L) Realizar acuerdos con la Asociación Protectora de Animales y con otras dependencias ya sean Estatales o Federales, para la entrega de animales domésticos que sean capturados en el área urbana o entregados en las instalaciones del Centro de Control Canino y Zoonosis del Municipio.
+d. Mantener actualizado el registro de posesión de los animales considerados peligrosos o agresivos;
 
-M) Apoyo en campañas de vacunación antirrábica.
+e. Determinar la entrega de los animales domésticos capturados en la vía pública y sacrificio de los mismos, así como la devolución de los animales agresores o peligrosos conforme al presente Reglamento;
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+f. Administrar el Centro de Control Canino y Felino;
 
-N) Promover el trato humanitario a todo animal.
+g. Dar seguimiento a toda denuncia relacionada con animales domésticos;
+
+h. Salvaguardar las instalaciones y apoyar los programas que propongan la Secretaría de (sic) Estatal de Salud y la Secretaría de Desarrollo Sustentable del Estado;
+
+i. Programar la recolección de animales domésticos que se encuentran en la vía pública, así como la atención de reportes recibidos al respecto;
+
+j. Realizar la captura de animales, así como su sacrificio y disposición final, cuando así proceda de conformidad con el presente Reglamento;
+
+k. Realizar campañas de vacunación antirrábica, así como promover y realizar campañas permanentes de esterilización; y
+
+l. Promover el trato humanitario a todo animal.
 
 ###### Artículo 7.
 
@@ -375,37 +357,43 @@ Todo propietario, poseedor de un animal doméstico que cause daños o perjuicios
 
 Las indemnizaciones de los gastos generados por agresiones de cualquier animal doméstico a personas u otro animal, como consultas, medicamentos, tratamientos y en su caso hasta la hospitalización, serán reclamables, en su caso, por parte del afectado ante la Autoridad Judicial competente.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 13.
 
-El propietario de un animal agresor esta obligado a entregarlo al personal del Centro Canino y Zoonosis, para su estricto control epidemiológico, por un período mínimo de 10-diez días.
+El propietario de un animal agresor está obligado a entregarlo al personal del Centro Canino y Felino, para su estricto control epidemiológico, por un período mínimo de 10-diez días.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 14.
 
-La devolución de animales por parte del Centro de Control Canino y Zoonosis, se realizará siempre que no se le haya detectado una enfermedad transmisible, y una vez que se haya acreditado debidamente haber cumplido con la sanción administrativa que corresponda de conformidad con lo establecido por el presente Reglamento.
+La devolución de animales por parte del Centro de Control Canino y Felino, se realizará siempre que no se le haya detectado una enfermedad transmisible, y una vez que se haya acreditado debidamente haber cumplido con la sanción administrativa que corresponda de conformidad con lo establecido por el presente Reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ### Capítulo V
 
-De los Animales Considerados Peligrosos.
+De los Animales Considerados Potencialmente Peligrosos.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 15.
 
-El poseedor de cualquier animal considerado como peligroso o agresivo, deberá de presentarlo para su registro en el Centro de Control Canino y de Zoonosis, acreditando la aprobación de la Autoridad Estatal competente para la tenencia respectiva dentro de su propiedad.
+El poseedor de cualquier animal considerado como potencialmente peligroso o agresivo, deberá de presentarlo para su registro en el Centro de Control Canino y Felino.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+Quien posea un animal potencialmente peligroso deberá solicitar autorización del Centro de Control Canino y Felino y colocar avisos que alerten del riesgo. Será sujeto de sanción administrativa conforme lo establece la Ley o el presente reglamento quien no cumpla con esta disposición.
 
-Quien posea un animal peligroso deberá solicitar autorización de la Secretaría y colocar avisos que alerten del riesgo. Será sujeto de sanción administrativa conforme lo establece la Ley o el presente reglamento quien no cumpla con esta disposición.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 16.
 
-Por su naturaleza temperamental y cuidados especiales que requieren los perros de raza Rottweiler, Akita-inu, Bull Terrier, Stanffordshire Terrier, Chow Chow, Dálmata, Dóberman, Presa Canario, Fila Brasileiro y la variedad de Mastines, se consideran animales potencialmente peligrosos.
+Por su naturaleza temperamental y cuidados especiales que requieren los perros de raza Rottweiler, Akita-inu, Bull Terrier, Pitbull Terrier, Stanffordshire Terrier, Chow Chow, Dálmata, Dóberman, Presa Canario, Fila Brasileiro, Pastor Belga Malinois y la variedad de Mastines, así como aquellos que por sus características específicas así lo estime el Centro de Control Canino y Felino, se consideran animales potencialmente peligrosos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 17.
 
-En toda área que además de cumplir con lo establecido en él artículo 10 del presente Reglamento, para la tenencia o posesión de animales considerados peligrosos, potencialmente peligrosos o agresivos deberá de cumplir con las siguientes medidas:
+En toda área que además de cumplir con lo establecido en el artículo 10 del presente Reglamento, para la tenencia o posesión de animales considerados potencialmente peligrosos deberá de cumplir con las siguientes medidas:
 
 I. El área de hábitat asignada al animal deberá de contar con barda perimetral a una altura tal que impida que dicho animal pueda escapar;
 
@@ -417,9 +405,11 @@ III. Esta obligado a colocar letreros de aviso en un lugar visible que indiquen 
 
 De los Animales en la Vía Pública.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 18.
 
-Los animales que circulen libremente en la vía pública sin la compañía de su propietario, serán capturados y trasladados por el personal del Centro de Control Canino y de Zoonosis, para depositarse en dicho Centro por un período de 5-cinco días hábiles, de conformidad con lo dispuesto por el artículo 29 del presente Reglamento; si en dicho plazo no fuera reclamado por su propietario, se procederá a practicarle la eutanasia, si así lo requiriera, o en su caso a otorgarlo en donación, en términos de lo estipulado por los artículos 30 y 33 de este ordenamiento.
+Los animales que circulen libremente en la vía pública sin la compañía de su propietario, serán capturados y trasladados por el personal del Centro de Control Canino y Felino, para depositarse en dicho Centro por un período de 5-cinco días hábiles, de conformidad con lo dispuesto por el artículo 29 del presente Reglamento; si en dicho plazo no fuera reclamado por su propietario, se procederá a practicarle la eutanasia, si así lo requiriera, o en su caso a otorgarlo en donación, en términos de lo estipulado por los artículos 30 y 33 de este ordenamiento.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
 
@@ -431,13 +421,13 @@ En caso de presentarse el propietario a reclamar su mascota, deberá firmar una 
 
 Para el caso de que el número de perros, gatos, u otros animales existentes en el Municipio, representen un riesgo sanitario para la comunidad, se regulará su cantidad mediante la captura y posterior eutanasia, en coordinación con la Secretaría de Salud del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 20.
 
-Quien encuentre un animal perdido o abandonado, de cualquier especie, deberá entregarlo o dar aviso a la autoridad municipal correspondiente, quién actuará conforme a lo establecido en la Ley Ganadera del Estado o cualquier otra legislación aplicable.
+Quien encuentre un animal perdido o abandonado, de cualquier especie, deberá entregarlo o dar aviso a la autoridad municipal correspondiente, quién actuará conforme a lo establecido en la legislación y reglamentación aplicable.
 
-En caso de abandono deliberado de un animal, por su propietario, poseedor o encargado, por negligencia o imprudencia y estando en riesgo su salud, la Secretaría, comprobando los hechos y con los testigos correspondientes, podrá girar una orden de aseguramiento precautorio del animal, bajo el procedimiento legal que corresponda. Los animales asegurados, deberán de ser retenidos en los Centros de los que dispongan las autoridades correspondientes. La persona que desee recuperar al animal, deberá pagar la sanción correspondiente, así como los gastos de traslado y manutención del animal, durante el período de aseguramiento
+En caso de abandono deliberado de un animal, por su propietario, poseedor o encargado, por negligencia o imprudencia y estando en riesgo su salud, el Centro de Control Canino y Felino, comprobando los hechos y con los testigos correspondientes, podrá girar una orden de aseguramiento precautorio del animal, bajo el procedimiento legal que corresponda. Los animales asegurados, deberán de ser retenidos en los Centros de los que dispongan las autoridades correspondientes. La persona que desee recuperar al animal, deberá pagar la sanción correspondiente, así como los gastos de traslado y manutención del animal, durante el período de aseguramiento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2009)</small>
 
@@ -495,9 +485,9 @@ II. Deberán de contar con un espacio exclusivo para la crianza, que cuente con 
 
 III. Cada criadero deberá contar con un control de producción; y,
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-IV. En el caso de reproducción de Cánidos, se aplicará lo dispuesto por los artículos 9, fracción I, inciso B y C, fracciones II, III y artículo 10 del presente Reglamento. Para las demás especies, se aplicará lo dispuesto por la Ley Ganadera del Estado, la Ley Estatal de Salud, la Ley de Protección a los Animales para el Estado de Nuevo León, así como sus respectivos Reglamentos.
+IV. En el caso de reproducción de Cánidos, se aplicará lo dispuesto por los artículos 9, fracción I, inciso B y C, fracciones II, III y artículo 10 del presente Reglamento. Para las demás especies, se aplicará lo dispuesto por la Ley Estatal de Salud, la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León, así como sus respectivos Reglamentos.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -507,19 +497,27 @@ Artículo 23 BIS.- La Secretaría, en el ámbito de su competencia, establecerá
 
 Artículo 23 BIS 1.- Para la venta de un animal vivo se requiere que se entregue una guía informativa al comprador, y que ésta se realice a personas mayores de dieciocho años, a menos que estén acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor por el menor, de la adecuada subsistencia y trato para el animal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2018)</small>
+
 ### Capítulo VIII
 
-De los Centros de Control Canino y de Zoonosis.
+Del Centro de Control Canino y Felino.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 24.
 
-El Centro de Control Canino y de Zoonosis estará integrado por el personal requerido para el desempeño de sus funciones.
+El Centro de Control Canino y Felino estará integrado por el personal requerido para el desempeño de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 25.
 
-El Centro de Control Canino y de Zoonosis, es la unidad de servicio a la comunidad, encargada de la atención y prevención de las enfermedades en los animales, con especial atención en la prevención y erradicación de la rabia en el Municipio; su operatividad técnica y administrativa se ajustará a lo siguiente:
+El Centro de Control Canino y Felino, es la unidad de servicio a la comunidad, encargada de la atención y prevención de las enfermedades en los animales, con especial atención en la prevención y erradicación de la rabia en el Municipio; su operatividad técnica y administrativa se ajustará a lo siguiente:
 
-I. A los convenios de coordinación que el Ayuntamiento celebre con la Secretaría Estatal de Salud, o cualquier otro Organismo Estatal o Federal, en materia de cuidado, conservación y protección de animales; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+I. A los convenios de coordinación que el Ayuntamiento celebre con la Secretaría Estatal de Salud, la Secretaría de Desarrollo Sustentable del Estado, o cualquier otro Organismo Estatal o Federal, en materia de cuidado, conservación y protección de animales; y,
 
 II. Se encargara de la atención de:
 
@@ -543,9 +541,11 @@ Así mismo, en caso de considerarlo pertinente, previo acuerdo con la Secretarí
 
 Para la atención de reportes y quejas se llevara el registro del tipo de reporte o queja recibida, ya sea en forma personal, por vía telefónica o por Internet, con la fecha de recepción, el nombre de quien reporta, el domicilio o ubicación en el que se estén ejecutando los actos motivo del reporte, las acciones realizadas por parte de la Autoridad Municipal, así como la fecha y el sentido en que se concluye el reporte, será prioritaria la atención de reportes relativos a agresiones causadas por animales.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
-Artículo 26 BIS.- La Secretaría a través del Centro de Control Canino y de Zoonosis llevará un registro de las asociaciones legalmente constituidas dedicadas a la protección, la conservación y eliminación del maltrato de animales, y promoverá su participación en las acciones gubernamentales que implementen, relacionadas con la defensa y protección de los mismos.
+###### Artículo 26 Bis.
+
+La Secretaría a través del Centro de Control Canino y Felino llevará un registro de las asociaciones legalmente constituidas dedicadas a la protección, la conservación y eliminación del maltrato de animales, y promoverá su participación en las acciones gubernamentales que implementen, relacionadas con la defensa y protección de los mismos.
 
 ###### Artículo 27.
 
@@ -553,49 +553,73 @@ A las agresiones realizadas por animales, se dará el siguiente tratamiento:
 
 I. Toda agresión se registrará en un diario en el cual se plasmarán todos los datos de la persona o animal afectado según sea el caso, así como el motivo y el tipo de agresión. Los datos del dueño del animal si se conocieran, el lugar o ubicación de la agresión y los datos necesarios para la identificación del animal;
 
-II. El Centro de Control Canino y de Zoonosis custodiara al (sic) los perros o gatos agresores, y en caso de una distinta especie lo turnara a las Autoridades correspondientes;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-III. Según sea el caso, se notificará al propietario o poseedor dentro de las siguientes 24-veinticuatro horas sobre la agresión causada por su animal, el que en caso de no haber sido capturado en la vía pública, deberá ser entregado por su propietario dentro de las 24-veinticuatro horas siguientes, para su debida observación al Centro de Control Canino correspondiente; y,
+II. El Centro de Control Canino y Felino custodiará a los perros o gatos agresores, y en caso de una distinta especie lo turnará a las Autoridades correspondientes;
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+III. Según sea el caso, se notificará al propietario o poseedor dentro de las siguientes 24-veinticuatro horas sobre la agresión causada por su animal, el qué en caso de no haber sido capturado en la vía pública, deberá ser entregado por su propietario dentro de las 24-veinticuatro horas siguientes, para su debida observación al Centro de Control Canino Felino correspondiente; y,
 
 IV. Si el propietario o poseedor del animal agresor no lo entregara en los términos de la fracción anterior, se procederá a:
 
-A) Citar al propietario o poseedor del animal agresor, por parte del Coordinador del Centro de Control Canino Municipal, requiriéndole la presentación del animal para la debida observación; Se mandarán hasta 2-dos citatorios, con intervalos de 24-veinticuatro horas cada uno.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+A) Citar al propietario o poseedor del animal agresor, por parte del Coordinador del Centro de Control Canino y Felino Municipal, requiriéndole la presentación del animal para la debida observación; Se mandarán hasta 2-dos citatorios, con intervalos de 24-veinticuatro horas cada uno.
 
 B) Si el interesado hiciera caso omiso a los citatorios, se presumirá que la agresión fue provocada por el propietario o poseedor del animal, procediéndose a aplicar la sanción correspondiente de conformidad con lo previsto por este Reglamento.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
 
-El personal del Centro de Control Canino y de Zoonosis podrá orientar a la parte afectada por la agresión, para que proceda de conformidad con lo dispuesto por el artículo 12 del presente Reglamento.
+El personal del Centro de Control Canino y Felino podrá orientar a la parte afectada por la agresión, para que proceda de conformidad con lo dispuesto por el artículo 12 del presente Reglamento.
 
 ###### Artículo 28.
 
 De la observación:
 
-I. Todo animal agresor, que cause lesiones, será sujeto de observación clínica obligatoria, permaneciendo para tal efecto en las instalaciones del Centro de Control Canino y de Zoonosis por un tiempo mínimo de 10-diez días naturales, contados a partir del día de la agresión, confinándose en una jaula individual, previo baño de desparasitación externa;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-II. La observación de animal o animales agresores podrá realizarse sin necesidad de su internamiento en el Centro de Control Canino y de Zoonosis, siempre y cuando exista falta de espacio para su observación en el Centro o el domicilio en el que haya de permanecer el animal cumpla con los requisitos que para tal efecto disponga el responsable del Centro, debiéndose presentar al animal agresor cada tercer día;
+I. Todo animal agresor, que cause lesiones, será sujeto de observación clínica obligatoria, permaneciendo para tal efecto en las instalaciones del Centro de Control Canino y Felino por un tiempo mínimo de 10-diez días naturales, contados a partir del día de la agresión, confinándose en una jaula individual, previo baño de desparasitación externa;
 
-III. Si un animal llegará a fallecer durante el período de observación, se procederá a la extracción de su cerebro, para enviarlo al Laboratorio Estatal de Salud Pública para su diagnóstico;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-IV. Cumplido con el período de observación, el animal que no sea reclamado por su propietario permanecerá 5-cinco días más en Centro de Control Canino y de Zoonosis, y finalizado este plazo se procederá a su donación, o en su caso a practicarle la eutanasia, sin responsabilidad para el Municipio, lo anterior sin perjuicio de la aplicación de a (sic) las sanciones aplicables conforme el presente Reglamento;
+II. La observación de animal o animales agresores podrá realizarse sin necesidad de su internamiento en el Centro de Control Canino y Felino, siempre y cuando exista falta de espacio para su observación en el Centro o el domicilio en el que haya de permanecer el animal cumpla con los requisitos que para tal efecto disponga el responsable del Centro, debiéndose presentar al animal agresor cada tercer día;
 
-V. El Centro de Control Canino y de Zoonosis queda exento de toda responsabilidad que pudiera suscitarse respecto a la salud de los animales agresores que ingresen para observación; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-VI. Queda bajo el criterio del Médico Veterinario Zootecnista del Centro de Control Canino y de Zoonosis, autorizar la liberación del animal agresor, atendiendo al comportamiento de dicho animal durante el período de observación, así como a las demás disposiciones del presente Reglamento.
+III. Si el animal fallece durante el período de observación, se procederá a la extracción de su cerebro, para enviarlo al Laboratorio Estatal de Salud Pública para su diagnóstico;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+IV. Cumplido con el período de observación, el animal que no sea reclamado por su propietario permanecerá 3-tres días hábiles más en (sic) Centro de Control Canino y Felino, y finalizado este plazo se procederá a su donación, previa valoración del Médico Veterinario en turno y con la autorización del responsable del Centro de Control Canino y Felino, o en su caso a practicarle la eutanasia, sin responsabilidad para el Municipio, lo anterior sin perjuicio de la aplicación de las sanciones aplicables conforme el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+V. El Centro de Control Canino y Felino queda exento de toda responsabilidad que pudiera suscitarse respecto a la salud de los animales agresores que ingresen para observación; y,
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+VI. Queda bajo el criterio del Médico Veterinario Zootecnista del Centro de Control Canino y Felino, autorizar la liberación del animal agresor, atendiendo al comportamiento de dicho animal durante el período de observación, así como a las demás disposiciones del presente Reglamento.
 
 ###### Artículo 29.
 
 De la captura:
 
-I. El personal del Centro del Control Canino y de Zoonosis, al acudir a atender una denuncia por animales que se encuentren en la vía pública, procederá de la siguiente manera:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
 
-A) Se recogerá todo animal que se encuentre libre en la vía pública, transportándolo al Centro de Control Canino y de Zoonosis.
+I. El personal del Centro del (sic) Control Canino y Felino, al acudir a atender una denuncia por animales que se encuentren en la vía pública, procederá de la siguiente manera:
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+A) Se recogerá todo animal que se encuentre libre en la vía pública, transportándolo al Centro de Control Canino y Felino.
 
 B) Cuando un animal considerado no peligroso sea atrapado en la vía pública, y en ese momento lo reclame su propietario, previa identificación correspondiente, se procederá a su devolución, siempre y cuando no se trate de reincidencia, debiendo comprometerse el propietario por escrito, a cumplir con la prohibición de tener animales sueltos en la vía pública, así como a ajustarse a lo dispuesto por este Reglamento.
 
 C) En los casos de reincidencia, si el animal no es considerado como peligroso, se procederá en los términos de lo establecido por el artículo 36 de este Reglamento; y en caso de que sea considerado como peligroso, atendiendo a lo previsto por el artículo 30 de este Reglamento.
 
-D) Cuando fuese capturado en la vía pública un animal considerado peligroso, se procederá a su traslado al Centro de Control Canino y de Zoonosis, y en su caso, la entrega respectiva se ajustará a lo establecido en los artículos 14, 15 y 16 del presente Reglamento.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+D) Cuando fuese capturado en la vía pública un animal considerado peligroso, se procederá a su traslado al Centro de Control Canino y Felino, y en su caso, la entrega respectiva se ajustará a lo establecido en los artículos 14, 15 y 16 del presente Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -603,19 +627,21 @@ D) Cuando fuese capturado en la vía pública un animal considerado peligroso, s
 
 Del sacrificio:
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-I. Los animales capturados que no sean reclamados dentro de los siguientes 5-cinco días a su captura, así como los agresores que permanezcan en observación, y no sean reclamados después del período establecido para tal efecto, o bien no sean objeto de devolución en términos de lo establecido por el artículo 37 de este Reglamento, e incluso aquellos animales donados de forma espontánea por particulares, en caso de no ser adoptados por algún ciudadano o miembro de la Asociación Protectora de Animales, se les practicará la eutanasia, ajustándose a lo previstos (sic) por la Ley de Protección a los Animales para el Estado de Nuevo León, y en su caso por los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público;
+I. Los animales capturados que no sean reclamados dentro de los siguientes 5-cinco días a su captura, así como los agresores que permanezcan en observación, y no sean reclamados después del período establecido para tal efecto, o bien no sean objeto de devolución en términos de lo establecido por el artículo 37 de este Reglamento, e incluso aquellos animales donados de forma espontánea por particulares, en caso de no ser adoptados por algún ciudadano o miembro de la Asociación Protectora de Animales, se les practicará la eutanasia, ajustándose a lo previsto por la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León, y en su caso por los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud, la Secretaría de Desarrollo Sustentable del Estado o cualquier otro Organismo Público;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-II. El sacrificio de los perros y gatos se realizará conforme a lo establecido por la Ley de Protección a los Animales para el Estado de Nuevo León o los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público competente;
+II. El sacrificio de los perros o gatos se realizará conforme a lo establecido por la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León o los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud, la Secretaría de Desarrollo Sustentable del Estado o cualquier otro Organismo Público competente;
 
-III. Las fechas de eliminación serán programadas por el Coordinador del Centro de Control Canino y de Zoonosis; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+III. Las fechas de eliminación serán programadas por el Coordinador del Centro de Control Canino y Felino;
 
-IV. Los cerebros extraídos a los animales que se les haya practicado la eutanasia, serán enviados a la Secretaría de Salud del Estado de Nuevo León, para monitoreo de las áreas de riesgo, de conformidad con la Norma Oficial Mexicana NOM-011-SSA2-1993, y demás aplicables, así como a lo establecido para tal efecto en los Convenios de Colaboración celebrados con la Secretaría de Salud del Estado de Nuevo León, o cualquier otro Organismo Público;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+IV. Los cerebros extraídos a los animales que se les haya practicado la eutanasia, serán enviados a la Secretaría de Salud del Estado de Nuevo León, para monitoreo de las áreas de riesgo, de conformidad con la Norma Oficial Mexicana Vigente, y demás aplicables, así como a lo establecido para tal efecto en los Convenios de Colaboración celebrados con la Secretaría de Salud del Estado de Nuevo León, o cualquier otro Organismo Público; y
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -625,17 +651,19 @@ V. El sacrificio de un animal no destinado al consumo humano solo podrá realiza
 
 De la vacunación antirrábica:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-I. En el Centro de Control Canino y de Zoonosis, en coordinación con la Secretaría de Salud del Estado de Nuevo León, o la competente, se aplicará la vacuna contra la rabia, sin costo alguno, una vez al año, a todo perro o gato mayor de 3-tres meses de edad, entregándose al propietario una constancia de vacunación antirrábica gratuita;
+I. En el Centro de Control Canino y Felino, en coordinación con la Secretaría de Salud del Estado de Nuevo León, o la competente, se aplicará la vacuna contra la rabia, sin costo alguno, una vez al año, a todo perro o gato mayor de 3-tres meses de edad, entregándose al propietario una constancia de vacunación antirrábica gratuita;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-II. Para vacunar el 100% de los animales susceptibles, se organizarán brigadas de vacunación casa por casa, siguiendo los lineamientos establecidos por la Secretaría de Salud del Estado de de Nuevo León;
+II. Para vacunar el 100% de los animales susceptibles, se organizarán brigadas de vacunación casa por casa, siguiendo los lineamientos establecidos por la Secretaría de Salud del Estado de Nuevo León;
 
 III. La vacuna será aplicada por personal calificado y por vacunadores voluntarios;
 
-IV. Todo animal que sea entregado a su propietario después de la estancia en el Centro de Control Canino y de Zoonosis, por cualquier razón, deberá de ser vacunado contra la rabia si así lo requiere, atendiendo a su última vacunación;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+IV. Todo animal que sea entregado a su propietario después de la estancia en el Centro de Control Canino y Felino, por cualquier razón, deberá de ser vacunado contra la rabia si así lo requiere, atendiendo a su última vacunación;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -647,7 +675,9 @@ VI. La aplicación del biológico será (sic) hará sin excepción con jeringas 
 
 Del destino de los cadáveres:
 
-Los animales que hayan sido objeto de sacrificio o hayan muerto en las instalaciones del Centro de Control Canino y de Zoonosis o en el período de observación previsto por este Reglamento, serán remitidos a las plantas de SIMEPRODESO, atendiendo a las normas de sanidad y medio ambiente aplicables.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+Los animales que hayan sido objeto de sacrificio o hayan muerto en las instalaciones del Centro de Control Canino y Felinos o en el período de observación previsto por este Reglamento, serán remitidos a las plantas de SIMEPRODESO, atendiendo a las normas de sanidad y medio ambiente aplicables.
 
 ###### Artículo 33.
 
@@ -655,13 +685,13 @@ De la donación de animales:
 
 I. La recepción de animales por donación se realizará de forma voluntaria por el propietario de estos, ya sea derivado de la falta de espacio para su tenencia, por enfermedad, por su peligrosidad, así como cualquier otro motivo; y,
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-II. El Centro de Control Canino y de Zoonosis solo podrá donar animales a los ciudadanos y a las instituciones que así lo requieran, cuando estos se encuentren en buen estado de salud y no tengan antecedentes de haber ocasionado lesiones a personas o animales y;
+II. El Centro de Control Canino y Felino sólo podrá donar animales a los ciudadanos y a las instituciones que así lo requieran, cuando estos se encuentren en buen estado de salud y no tengan antecedentes de haber ocasionado lesiones a personas o animales, y;
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
 
-III. La Secretaría a través del Centro de Control Canino y Zoonosis podrá celebrar acuerdos con las sociedades protectoras de animales legalmente constituidas para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados para que posteriormente puedan ser adoptados.
+III. La Secretaría a través del Centro de Control Canino y Felino podrá celebrar acuerdos con las sociedades protectoras de animales legalmente constituidas para que puedan recoger, resguardar legalmente constituidas para que puedan recoger, resguardar temporalmente y cuidar a los animales abandonados para que posteriormente puedan ser adoptados.
 
 ###### Artículo 34.
 
@@ -673,25 +703,35 @@ De la persona o personas agredidas:
 
 I. Se procederá a identificar a la persona afectada por agresión animal, con el fin de que reciban la atención médica pertinente, de conformidad con la Norma Oficial Mexicana para la prevención y Control de rabia;
 
-II. Cuando el Centro de Control Canino y Zoonosis no cuente con consultorio para atención humana, se establecerá la comunicación oficial con la Unidad de Salud de la Secretaría Estatal de Salud más cercana al domicilio de la persona o personas agredidas, a fin de que reciba la atención médica adecuada;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+II. Cuando el Centro de Control Canino y Felino no cuente con consultorio para atención humana, se establecerá la comunicación oficial con la Unidad de Salud de la Secretaría Estatal de Salud más cercana al domicilio de la persona o personas agredidas, a fin de que reciba la atención médica adecuada;
 
 III. El Médico en turno de la Unidad de Salud, al realizar la valorización médica de la exposición, determinará las medidas de control aplicables a la persona o personas afectadas, así como de los riesgos de infección, y en su caso la aplicación de biológicos; y,
 
-IV. El Coordinador o Jefe del Centro de Control Canino y de Zoonosis deberá de informar mensualmente las actividades realizadas al respecto, a la Jurisdicción Sanitaria correspondiente.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+
+IV. El Coordinador del Centro de Control Canino y Felino deberá de informar mensualmente las actividades realizadas al respecto, a la Jurisdicción Sanitaria correspondiente.
 
 ###### Artículo 36.
 
 De la entrega de los animales:
 
-Los trámites para la devolución de animales capturados en la vía pública y animales agresores que hayan sido objeto de la observación prevista por este Reglamento, se realizará exclusivamente en las oficinas del Centro de Control Canino y de Zoonosis, tomando en cuenta los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
+
+Los trámites para la devolución de animales capturados en la vía pública y animales agresores que hayan sido objeto de la observación prevista por este Reglamento, se realizará exclusivamente en las oficinas del Centro de Control Canino y Felino, tomando en cuenta los siguientes requisitos:
 
 A) Haber agredido o lesionado dentro del domicilio donde habita.
 
-B) Haber proporcionado anticipadamente, o en su caso, devolver el alimento o croquetas que hayan sido proporcionadas al animal durante su estancia en el Centro de Control Canino y de Zoonosis.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+B) Haber proporcionado anticipadamente, o en su caso, devolver el alimento o croquetas que hayan sido proporcionadas al animal durante su estancia en el Centro de Control Canino y Felino.
 
 C) Realizar el pago de la sanción correspondiente, de conformidad con este Reglamento.
 
-D) No contar con registro de agresión en el libro que para tal efecto se lleve en el Centro de Control Canino y de Zoonosis, es decir, no estar ante un caso de reincidencia.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+D) No contar con registro de agresión en el libro que para tal efecto se lleve en el Centro de Control Canino y Felino, es decir, no estar ante un caso de reincidencia.
 
 E) Cumplir con lo previsto por los artículos 9, fracción I, Inciso C, 10, 15, 16, 17 y demás relativos a la tenencia de animales, del presente Reglamento.
 
@@ -707,7 +747,9 @@ A) Haber agredido en la vía pública, y causando lesiones graves o de considera
 
 B) Si se trata de un animal definido como potencialmente peligroso, y haya agredido en la vía pública.
 
-C) Contar con registro de agresión en el libro que para tal efecto se lleve en el Centro de Control Canino y de Zoonosis, es decir, estar ante un caso de reincidencia.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+C) Contar con registro de agresión en el libro que para tal efecto se lleve en el Centro de Control Canino y Felino, es decir, estar ante un caso de reincidencia.
 
 D) Cuando existan reportes o quejas de vecinos por escrito, debido a la agresividad de la mascota, falta de higiene en la vivienda o por generación excesiva de ruido.
 
@@ -731,9 +773,11 @@ VI. Actos de usufructo, diversión, entretenimientos o peleas de animales.
 
 Vigilancia y Sanciones.
 
+> <small>(REFORMADA, [N. DE E. ESTE PÁRRAFO] .O. 12 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 39.
 
-Corresponde la vigilancia del cumplimiento de este Reglamento y demás disposiciones que se dicten con base en ella, incluso la aplicación de sanciones, a la Coordinación de Municipio Saludable, o en su caso a aquella dependencia a la que competa de conformidad con el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+Corresponde la vigilancia del cumplimiento de este Reglamento a las autoridades indicadas en el artículo 6, o en su caso a aquella dependencia o autoridad a la que competa de conformidad con el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
 
 Cuando la violación al presente Reglamento sea manifiesta, cualquier Autoridad Municipal podrá levantar el reporte correspondiente y turnarlo a la Secretaría para que ésta proceda en consecuencia.
 
@@ -1009,6 +1053,24 @@ Para el ejercicio de la denuncia pública contemplada en el artículo que antece
 
 Es obligación de la Autoridad, hacer del conocimiento del denunciante el resultado de la verificación de los hechos denunciados.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO XII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+###### Artículo 70.
+
+En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, transformación de sus actividades productivas y demás aspectos de la vida comunitaria, así como de la propia evolución de la Administración Pública Municipal, el presente Reglamento podrá ser reformado para actualizarlo a las nuevas condiciones y retos del Municipio, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2018)</small>
+
+###### Artículo 71.
+
+El presente Reglamento permanecerá publicado en el portal de Internet Oficial del Municipio.
+
+Los ciudadanos de San Pedro Garza García, Nuevo León, además de los integrantes del Republicano Ayuntamiento, tendrán en todo tiempo la posibilidad de proponer su reforma en los términos de la normatividad aplicable.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO
@@ -1062,3 +1124,11 @@ P.O. 18 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 12 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA INICIATIVA DE REFORMA A DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMÉSTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las solicitudes de los particulares, procedimientos y demás trámites previstos en el Reglamento objeto de reforma que se encuentren en proceso, se resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
