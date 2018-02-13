@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2017-08-11"
+last_updated: "2018-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-01"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2018.
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -187,25 +187,31 @@ n. Dirección General de Gestión de Información y Estudios;
 
 o. Dirección General de Gobierno Abierto y Transparencia;
 
-p. Dirección General de Investigación y Verificación;
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-q. Dirección General de Normatividad y Consulta;
+p. Dirección General de Investigación y Verificación del Sector Privado;
 
-r. Dirección General de Planeación y Desempeño Institucional;
+> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-s. Dirección General de Políticas de Acceso;
+q. Dirección General de Evaluación, Investigación y Verificación del Sector Público;
 
-t. Dirección General de Prevención y Autorregulación;
+r. Dirección General de Normatividad y Consulta;
 
-u. Dirección General de Promoción y Vinculación con la Sociedad;
+s. Dirección General de Planeación y Desempeño Institucional;
 
-v. Dirección General de Protección de Derechos y Sanción;
+t. Dirección General de Políticas de Acceso;
 
-w. Dirección General de Tecnologías de la Información;
+u. Dirección General de Prevención y Autorregulación;
 
-x. Dirección General de Vinculación, Coordinación y Colaboración con Entidades Federativas;
+v. Dirección General de Promoción y Vinculación con la Sociedad;
 
-y. Dirección General Técnica, Seguimiento y Normatividad del Sistema Nacional de Transparencia; y
+w. Dirección General de Protección de Derechos y Sanción;
+
+x. Dirección General de Tecnologías de la Información;
+
+y. Dirección General de Vinculación, Coordinación y Colaboración con Entidades Federativas;
+
+z. Dirección General Técnica, Seguimiento y Normatividad del Sistema Nacional de Transparencia; y
 
 XI. Las demás unidades y personal técnico y administrativo que autorice el Pleno del Instituto a propuesta del Comisionado Presidente, en términos de su presupuesto.
 
@@ -373,37 +379,43 @@ VIII. Mantener la cohesión del Instituto, así como de las instancias internas;
 
 IX. Supervisar la adecuada administración de los recursos humanos, financieros y materiales del Instituto e informar al Pleno;
 
-X. Someter a consideración del Pleno del Instituto el nombramiento y, en su caso, la remoción de los titulares de las Secretarías y de las Direcciones Generales del Instituto;
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XI. Acordar con los Secretarios los asuntos de su competencia, así como llevar a cabo reuniones de seguimiento para el cumplimiento de los objetivos y metas institucionales;
+X. Coordinar la política de control interno y administración de riesgos del Instituto;
 
-XII. Coordinar la política de comunicación social del Instituto;
+XI. Someter a consideración del Pleno del Instituto el nombramiento y, en su caso, la remoción de los titulares de las Secretarías y de las Direcciones Generales del Instituto;
 
-XIII. Someter a consideración del Pleno la propuesta de convenios, acuerdos y demás actos consensuales, tanto nacionales como internacionales, a celebrarse con cualquier ente público o privado;
+XII. Acordar con los Secretarios los asuntos de su competencia, así como llevar a cabo reuniones de seguimiento para el cumplimiento de los objetivos y metas institucionales;
 
-XIV. Suscribir los convenios, acuerdos y demás actos consensuales aprobados por el Pleno;
+XIII. Coordinar la política de comunicación social del Instituto;
 
-XV. Rendir el informe anual de actividades y de la evaluación general en materia de acceso a la información pública en el país, ante el Senado en la fecha y en los términos que dispone la Ley General y los lineamientos que para tal efecto apruebe el Pleno;
+XIV. Someter a consideración del Pleno la propuesta de convenios, acuerdos y demás actos consensuales, tanto nacionales como internacionales, a celebrarse con cualquier ente público o privado;
 
-XVI. Solicitar a los organismos garantes locales la información necesaria para la integración del informe anual y la evaluación de la situación del derecho de acceso a la información en el país, con el apoyo de la Secretaría Ejecutiva del Sistema Nacional de Transparencia;
+XV. Suscribir los convenios, acuerdos y demás actos consensuales aprobados por el Pleno;
 
-XVII. Presidir el Consejo Nacional;
+XVI. Rendir el informe anual de actividades y de la evaluación general en materia de acceso a la información pública en el país, ante el Senado en la fecha y en los términos que dispone la Ley General y los lineamientos que para tal efecto apruebe el Pleno;
 
-XVIII. Ejercer las funciones que le otorgue la normatividad emitida por el Consejo Nacional sin que contravenga la emitida por el Instituto;
+XVII. Solicitar a los organismos garantes locales la información necesaria para la integración del informe anual y la evaluación de la situación del derecho de acceso a la información en el país, con el apoyo de la Secretaría Ejecutiva del Sistema Nacional de Transparencia;
 
-XIX. Convocar al Consejo Nacional a sesión ordinaria o extraordinaria;
+XVIII. Presidir el Consejo Nacional;
 
-XX. Promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Nacional;
+XIX. Ejercer las funciones que le otorgue la normatividad emitida por el Consejo Nacional sin que contravenga la emitida por el Instituto;
 
-XXI. Proponer acuerdos, lineamientos, normas y resoluciones generales que regulen el funcionamiento del Sistema Nacional, previo acuerdo del Pleno;
+XX. Convocar al Consejo Nacional a sesión ordinaria o extraordinaria;
 
-XXII. Participar como integrante del Comité Coordinador del Sistema Nacional Anticorrupción y ejercer las atribuciones que le otorgue la normatividad correspondiente;
+XXI. Promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema Nacional;
 
-XXIII. Proponer lineamientos, normas, recomendaciones, criterios y dictámenes relacionados con el Comité Coordinador del Sistema Nacional Anticorrupción, previa consulta a los Comisionados o aprobación del Pleno, según sea el caso, y
+XXII. Proponer acuerdos, lineamientos, normas y resoluciones generales que regulen el funcionamiento del Sistema Nacional, previo acuerdo del Pleno;
 
-XXIV. Las demás que le señalen las leyes, sus reglamentos y otras disposiciones administrativas que le resulten aplicables y el Pleno.
+XXIII. Participar como integrante del Comité Coordinador del Sistema Nacional Anticorrupción y ejercer las atribuciones que le otorgue la normatividad correspondiente;
 
-A la Oficina del Comisionado Presidente se encuentran adscritas las Direcciones Generales de Administración; de Asuntos Jurídicos; de Comunicación Social y Difusión; y de Planeación y Desempeño Institucional.
+XXIV. Proponer lineamientos, normas, recomendaciones, criterios y dictámenes relacionados con el Comité Coordinador del Sistema Nacional Anticorrupción, previa consulta a los Comisionados o aprobación del Pleno, según sea el caso, y
+
+XXV. Las demás que le señalen las leyes, sus reglamentos y otras disposiciones administrativas que le resulten aplicables y el Pleno.
+
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+A la Oficina del Comisionado Presidente se encuentran adscritas las Direcciones Generales de Administración; de Asuntos Jurídicos; de Comunicación Social y Difusión; y de Planeación y Desempeño Institucional; y la Oficina de Control Interno.
 
 ###### Artículo 17.
 
@@ -665,35 +677,67 @@ XI. Coordinar la orientación y asesoría al público de conformidad con la norm
 
 XII. Asesorar en la elaboración y ejecución de planes y programas de los sujetos obligados del sector público, en materia de protección de datos personales;
 
-XIII. Promover, coordinar y supervisar la elaboración de evaluaciones de impacto a la protección de datos personales;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XIV. Coordinar el diseño, operación, vigilancia y mejora del sistema de autorregulación en materia de protección de datos personales; así como promoverlo y definir incentivos para la autorregulación;
+XIII. Promover, coordinar y supervisar la elaboración de evaluaciones de impacto a la protección de datos personales, así como emitir los dictámenes correspondientes conforme a la normatividad que resulte aplicable y dar seguimiento a las recomendaciones que de ellos deriven;
 
-XV. Dirigir el Registro de Esquemas de Autorregulación Vinculante, determinar procedente la difusión de información en el mismo, y establecer las características y reglas de uso de distintivos oficiales que denoten el reconocimiento o validación de los esquemas de autorregulación vinculante en materia de protección de datos personales;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XVI. Conocer, sustanciar, resolver y realizar todos los trámites y procedimientos previstos en los Parámetros de Autorregulación en materia de Protección de Datos Personales, las Reglas de Operación del Registro de Autorregulación Vinculante y demás normativa en materia de autorregulación que otorgue atribuciones al Instituto;
+XIV. Coordinar el diseño, operación, vigilancia y mejora del sistema de autorregulación y mejores prácticas en materia de protección de datos personales; así como promoverlo y definir incentivos para la autorregulación y mejores prácticas;
 
-XVII. Coordinar en la vigilancia del sistema de certificación en materia de protección de datos personales y ejercer las atribuciones que otorga al Instituto el artículo 59 de los Parámetros de Autorregulación en materia de Protección de Datos Personales; o bien, instruir a la Dirección General de Prevención y Autorregulación sobre el ejercicio de dichas funciones;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XVIII. Conocer, tramitar y resolver sobre las solicitudes de autorización para la implementación de medidas compensatorias, así como aquéllas relativas al uso de hipervínculos o hiperenlaces en una página de Internet del Instituto para difundir avisos de privacidad a través de medidas compensatorias;
+XV. Dirigir el Registro de Esquemas de Autorregulación Vinculante y aquél al que refiere el artículo 73 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, determinar procedente la difusión de información en los mismos, y establecer las características y reglas de uso de distintivos oficiales que denoten el reconocimiento o validación de los esquemas de autorregulación vinculante y de mejores prácticas en materia de protección de datos personales;
 
-XIX. Coordinar las acciones para el desarrollo de criterios, estándares y mejores prácticas en materia de protección y seguridad de los datos personales, así como de recomendaciones, modelos y herramientas que faciliten el cumplimiento de las obligaciones previstas en la normatividad que regule la protección de datos personales, entre ellas las medidas de seguridad para la protección de los datos personales, para el sector público y privado;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XX. Acordar conjuntamente con el Director General de Investigación y Verificación, el inicio del procedimiento de verificación de oficio o a petición de parte, así como la ampliación del periodo de resolución definitiva del procedimiento de verificación hasta por un plazo de ciento ochenta días a que se refiere el artículo 132 del Reglamento de la Ley de Protección de Datos Personales, sin perjuicio de su ejercicio directo por el Pleno del Instituto;
+XVI. Conocer, sustanciar, resolver y realizar todos los trámites y procedimientos previstos en los Parámetros de Autorregulación en materia de Protección de Datos Personales, las Reglas de Operación del Registro de Autorregulación Vinculante y demás normativa en materia de autorregulación que otorgue atribuciones al Instituto, así como en lo relativo a mejores prácticas según la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad que resulte aplicable;
 
-XXI. Ejecutar las instrucciones que dicte el Pleno del Instituto respecto del procedimiento de verificación previsto en la Ley de Protección de Datos Personales; emitir las órdenes de verificación y suscribir los oficios de comisión para la sustanciación del procedimiento de verificación conforme al ordenamiento legal citado y a las demás disposiciones aplicables; así como expedir las credenciales de verificador a los servidores públicos que ejerzan tales funciones;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XXII. Coordinar y supervisar los procedimientos de protección de derechos, verificación e imposición de sanciones, en términos de lo previsto por la normatividad aplicable;
+XVII. Coordinar la vigilancia del sistema de certificación en materia de protección de datos personales y ejercer las atribuciones que otorga al Instituto el artículo 59 de los Parámetros de Autorregulación en materia de Protección de Datos Personales; o bien, instruir a la Dirección General de Prevención y Autorregulación sobre el ejercicio de dichas funciones;
 
-XXIII. Acordar conjuntamente con el Director General de Protección de Derechos y Sanción, la ampliación del plazo de resolución definitiva de los procedimientos de protección de derechos y de imposición de sanciones en el sector privado, en términos de la Ley de Protección de Datos Personales sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XXIV. Resolver conjuntamente con el Director General de Protección de Derechos y Sanción, sobre el desechamiento y sobreseimiento de las solicitudes de protección de derechos del sector privado, en términos de lo dispuesto por la Ley de Protección de Datos Personales, sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+XVIII. Conocer, tramitar y resolver sobre las solicitudes de autorización para la implementación de medidas compensatorias, así como aquéllas relativas al uso de hipervínculos o hiperenlaces en una página de Internet del Instituto para difundir avisos de privacidad a través de medidas compensatorias, en el sector público y privado;
 
-XXV. Coordinar la elaboración de los anteproyectos de criterios en materia de protección de datos personales, y
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XXVI. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno y el Comisionado Presidente.
+XIX. Conocer las solicitudes de auditorías voluntarias presentadas ante el Instituto por parte de los sujetos obligados de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y autorizar aquéllas que en su caso proponga realizar la Dirección General de Prevención y Autorregulación; realizar los trámites y procedimientos correspondientes para su atención, de manera directa o a través de la Dirección General de Prevención y Autorregulación; emitir el informe correspondiente, y estar informado sobre la atención y seguimiento a las observaciones que deriven de las auditorías voluntarias practicadas;
 
-Para el ejercicio de sus funciones, la Secretaría de Protección de Datos Personales se auxiliará de las Direcciones Generales de Investigación y Verificación; de Normatividad y Consulta; de Prevención y Autorregulación; y de Protección de Derechos y Sanción; así como de una Dirección de Coordinación y Seguimiento.
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XX. Coordinar el seguimiento a las recomendaciones que, en su caso, se emitan en la evaluación del desempeño de los sujetos obligados respecto del cumplimiento de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+XXI. Coordinar las acciones para el desarrollo de criterios, estándares y mejores prácticas en materia de protección y seguridad de los datos personales, así como de recomendaciones, modelos y herramientas que faciliten el cumplimiento de las obligaciones previstas en la normatividad que regule la protección de datos personales, entre ellas las medidas de seguridad para la protección de los datos personales, para el sector público y privado;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXII. Acordar conjuntamente con los Directores Generales de Investigación y Verificación del Sector Privado, y de Evaluación, Investigación y Verificación del Sector Público, el inicio de los procedimientos de verificación de oficio o a petición de parte previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, así como la ampliación del periodo de resolución definitiva del procedimiento de verificación en el sector privado hasta por un plazo de ciento ochenta días a que se refiere el artículo 132 del Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, sin perjuicio de su ejercicio directo por el Pleno del Instituto;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXIII. Ejecutar las instrucciones que dicte el Pleno del Instituto respecto de los procedimientos de verificación previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; emitir las órdenes de verificación y suscribir los oficios de comisión para la sustanciación de los procedimientos de verificación conforme a los ordenamientos legales citados y a las demás disposiciones aplicables; así como expedir las credenciales de verificador a los servidores públicos que ejerzan tales funciones;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXIV. Coordinar y supervisar los procedimientos de protección de derechos, investigación, verificación e imposición de sanciones, en términos de lo previsto por la normatividad aplicable;
+
+XXV. Acordar conjuntamente con el Director General de Protección de Derechos y Sanción, la ampliación del plazo de resolución definitiva de los procedimientos de protección de derechos y de imposición de sanciones en el sector privado, en términos de la Ley de Protección de Datos Personales sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+
+XXVI. Resolver conjuntamente con el Director General de Protección de Derechos y Sanción, sobre el desechamiento y sobreseimiento de las solicitudes de protección de derechos del sector privado, en términos de lo dispuesto por la Ley de Protección de Datos Personales, sin perjuicio de su ejercicio directo por el Pleno de este Instituto;
+
+XXVII. Coordinar la elaboración de los anteproyectos de criterios en materia de protección de datos personales, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXVIII. Coordinar y supervisar el diseño, elaboración, aplicación y seguimiento de los indicadores y criterios para evaluar el desempeño de los sujetos obligados respecto del cumplimiento de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones que resulten aplicables, y
+
+XXIX. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno y el Comisionado Presidente.
+
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+Para el ejercicio de sus funciones, la Secretaría de Protección de Datos Personales se auxiliará de las Direcciones Generales de Investigación y Verificación del Sector Privado; de Evaluación, Investigación y Verificación del Sector Público; de Normatividad y Consulta; de Prevención y Autorregulación; y de Protección de Derechos y Sanción; así como de una Dirección de Coordinación y Seguimiento.
 
 ### CAPÍTULO NOVENO. De la Secretaría Ejecutiva
 
@@ -1427,31 +1471,91 @@ XII. Elaborar dictámenes y opiniones respecto de las consultas que formulen los
 
 XIII. Las demás que deriven de la normatividad aplicable en la materia y las que dispongan el Pleno, el Comisionado Presidente y el Secretario de Acceso a la Información.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 41.
 
-La Dirección General de Investigación y Verificación tendrá las siguientes funciones:
+La Dirección General de Investigación y Verificación del Sector Privado tendrá las siguientes funciones:
 
-I. Realizar procedimientos de investigación, incluyendo los relativos sobre vulneraciones a la seguridad, dictaminar y emitir opiniones en materia de vigilancia y verificación relacionadas con el cumplimiento de las disposiciones de la Ley de Protección de Datos Personales, la Ley Federal, sus reglamentos y las demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-II. Acordar conjuntamente con el Secretario de Protección de Datos Personales, el inicio del procedimiento de verificación de oficio o a petición de parte, así como la ampliación del periodo de resolución definitiva del procedimiento de verificación hasta por un plazo de ciento ochenta días a que se refiere el artículo 132 del Reglamento de la Ley de Protección de Datos Personales, sin perjuicio de su ejercicio directo por el Pleno del Instituto;
+I. Realizar procedimientos de investigación, dictaminar y emitir opiniones en materia de vigilancia y verificación durante dichos procedimientos, relacionadas con el cumplimiento de las disposiciones de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y las demás disposiciones aplicables;
 
-III. Sustanciar el procedimiento de verificación conforme a lo establecido en la Ley de Protección de Datos Personales, su Reglamento y las demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-IV. Elaborar informes y reportes sobre presuntas infracciones e incumplimientos, en materia de datos personales, tanto en el sector público como en el privado, de conformidad con las disposiciones legales aplicables;
+II. Acordar conjuntamente con el Secretario de Protección de Datos Personales, el inicio del procedimiento de verificación de oficio o a petición de parte, así como la ampliación del periodo de resolución definitiva del procedimiento de verificación en el sector privado hasta por un plazo de ciento ochenta días a que se refiere el artículo 132 del Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, sin perjuicio de su ejercicio directo por el Pleno del Instituto;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+III. Sustanciar el procedimiento de verificación conforme a lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y las demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+IV. Elaborar informes y reportes sobre presuntas infracciones e incumplimientos, durante los procedimientos de investigación y verificación en materia de datos personales en el sector privado, de conformidad con las disposiciones legales aplicables;
 
 V. Coordinarse con las autoridades federales, estatales y municipales, bajo la supervisión de la Secretaría de Protección de Datos Personales, y por medio del Secretario Ejecutivo del Sistema Nacional de Transparencia, en su caso, para obtener el apoyo necesario en el ejercicio de sus facultades;
 
-VI. Requerir a particulares y autoridades, la información o documentación necesaria para investigar el probable incumplimiento a la Ley de Protección de Datos Personales, a la Ley Federal, su Reglamento y demás disposiciones aplicables en materia de protección de datos personales;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-VII. Suscribir todo tipo de actuaciones y resoluciones para el desarrollo de investigaciones por probables incumplimientos a la Ley de Protección de Datos Personales, sus reglamentos y a las demás disposiciones aplicables, tanto para el sector público como privado, en materia de datos personales;
+VI. Requerir a particulares y autoridades, la información o documentación necesaria para investigar el probable incumplimiento a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y demás disposiciones aplicables en materia de protección de datos personales;
 
-VIII. Suscribir todo tipo de actuaciones y resoluciones para la sustanciación del procedimiento de verificación, conforme a lo establecido en la Ley de Protección de Datos Personales, la Ley Federal, la Ley Federal de Procedimiento Administrativo y las demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+VII. Suscribir todo tipo de actuaciones y resoluciones para el desarrollo de investigaciones por probables incumplimientos a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y a las demás disposiciones aplicables para el sector privado en materia de datos personales;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+VIII. Suscribir todo tipo de actuaciones y resoluciones para la sustanciación del procedimiento de verificación, conforme a lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Procedimiento Administrativo y las demás disposiciones aplicables;
 
 IX. Realizar las notificaciones en el ámbito de su competencia;
 
-X. Elaborar y turnar los proyectos de resoluciones que correspondan con motivo de la sustanciación del procedimiento de verificación previsto en la Ley de Protección de Datos Personales, y
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+X. Elaborar y turnar los proyectos de resoluciones que correspondan con motivo de la sustanciación del procedimiento de verificación previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y demás normatividad aplicable, y
 
 XI. Las demás que deriven de la normatividad aplicable en la materia, y las que disponga el Pleno, el Comisionado Presidente y el Secretario de Protección de Datos Personales.
+
+> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+La Dirección General de Evaluación, Investigación y Verificación del Sector Público tendrá las siguientes funciones:
+
+I. Realizar procedimientos de investigación, dictaminar y emitir opiniones en materia de vigilancia y verificación, durante dichos procedimientos, relacionadas con el cumplimiento de las disposiciones de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones aplicables;
+
+II. Acordar conjuntamente con el Secretario de Protección de Datos Personales, el inicio del procedimiento de verificación de oficio o a petición de parte, en términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable, sin perjuicio de su ejercicio directo por el Pleno del Instituto;
+
+III. Sustanciar el procedimiento de verificación conforme a lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones legales aplicables;
+
+IV. Elaborar informes y reportes durante los procedimientos de investigación y verificación sobre presuntas infracciones e incumplimientos, en materia de datos personales en el sector público, de conformidad con las disposiciones legales aplicables;
+
+V. Coordinarse con las autoridades federales, estatales y municipales, bajo la supervisión de la Secretaría de Protección de Datos Personales, y por medio del Secretario Ejecutivo del Sistema Nacional de Transparencia, en su caso, para obtener el apoyo necesario en el ejercicio de sus facultades;
+
+VI. Requerir a particulares y autoridades, la información o documentación necesaria para investigar el probable incumplimiento a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en materia de protección de datos personales;
+
+VII. Suscribir todo tipo de actuaciones y resoluciones para el desarrollo de investigaciones por probables incumplimientos a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y a las demás disposiciones aplicables para el sector público en materia de datos personales;
+
+VIII. Suscribir todo tipo de actuaciones y resoluciones para la sustanciación del procedimiento de verificación, conforme a lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley Federal de Procedimiento Administrativo y las demás disposiciones aplicables;
+
+IX. Realizar las notificaciones en el ámbito de su competencia;
+
+X. Ordenar, implementar y verificar el cumplimiento de las medidas cautelares establecidas durante los procedimientos de verificación, en términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable;
+
+XI. Elaborar y turnar los proyectos de resoluciones que correspondan con motivo de la sustanciación del procedimiento de verificación previsto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable;
+
+XII. Diseñar y aplicar los indicadores y criterios para evaluar el desempeño de los sujetos obligados respecto de las disposiciones establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la normatividad que de ella derive;
+
+XIII. Diseñar, actualizar e instrumentar las herramientas y metodología para la evaluación del cumplimiento de las disposiciones de la Ley General de la Protección de Datos Personales en Posesión de los Sujetos Obligados;
+
+XIV. Desarrollar un sistema integral de indicadores de desempeño y evaluación del cumplimiento de las obligaciones previstas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+XV. Brindar recomendaciones y asesoría técnica para la implementación de los criterios y herramientas para la medición del desempeño en el cumplimiento de las obligaciones establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+XVI. Emitir todo tipo de actuaciones y documentos relativos a las evaluaciones y reportes correspondientes respecto del cumplimiento de las obligaciones derivadas de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+XVII. Elaborar y publicar anualmente, previa aprobación del Pleno, un informe con los resultados de la evaluación y la medición del desempeño en el cumplimiento de las obligaciones previstas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y
+
+XVIII. Las demás que deriven de la normatividad aplicables en la materia, y las que disponga el Pleno, el Comisionado Presidente y el Secretario de Protección de Datos Personales.
 
 ###### Artículo 42.
 
@@ -1465,7 +1569,9 @@ III. Elaborar informes y reportes sobre presuntas infracciones e incumplimientos
 
 IV. Proponer anteproyectos de dictamen ante las solicitudes de evaluación de impacto a la protección de datos personales que se presenten;
 
-V. Asesorar al sector público federal y privado en la implementación de los resultados de los dictámenes de las evaluaciones de impacto a la protección de datos personales;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+V. Asesorar al sector público federal y privado en la implementación de las recomendaciones de los dictámenes de las evaluaciones de impacto a la protección de datos personales, así como dar el seguimiento que corresponda a éstos;
 
 VI. Elaborar estudios jurídicos que propicien la correcta aplicación de la normativa en materia de protección de datos personales;
 
@@ -1557,37 +1663,59 @@ XII. Las demás que deriven de la normatividad aplicable en la materia y las que
 
 La Dirección General de Prevención y Autorregulación tendrá las siguientes funciones:
 
-I. Promover la autorregulación en materia de protección de datos personales entre los responsables y encargados del tratamiento de datos personales, del sector público y privado;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+I. Promover la autorregulación y mejores prácticas en materia de protección de datos personales entre los responsables y encargados del tratamiento de datos personales del sector público y privado;
 
 II. Desarrollar y proponer la adopción de criterios, estándares, recomendaciones y mejores prácticas en materia de protección y seguridad de datos personales, para el sector público y privado;
 
-III. Desarrollar recomendaciones, modelos y herramientas que faciliten el cumplimiento de las obligaciones previstas en la normatividad que regula la protección de datos personales, entre ellas la seguridad para la protección de los mismos, para el sector público y privado;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-IV. Diseñar y operar el sistema de autorregulación en materia de protección de datos personales, así como proporcionar apoyo técnico para su vigilancia y revisión y la emisión de recomendaciones con relación al funcionamiento del sistema;
+III. Desarrollar herramientas y material de orientación que faciliten el cumplimiento de las obligaciones previstas en la normatividad que regula la protección de datos personales, entre ellas la seguridad de los datos personales, para el sector público y privado;
 
-V. Administrar y operar el Registro de Esquemas de Autorregulación Vinculante;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+IV. Diseñar y operar los sistemas de autorregulación y mejores prácticas en materia de protección de datos personales del sector público y privado, así como proporcionar apoyo técnico para su vigilancia y revisión, y la emisión de recomendaciones con relación a su funcionamiento;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+V. Administrar y operar el Registro de Esquemas de Autorregulación Vinculante y aquél que señala el artículo 73 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
 VI. Coadyuvar en la elaboración de reglas de autorregulación y buenas prácticas que pretendan adaptar la normatividad en materia de protección de datos personales a la actividad de sectores específicos y elevar los estándares de protección, así como en las acciones de coordinación, desarrollo y tramitación de las mismas;
 
-VII. Coadyuvar en la tramitación de solicitudes y asuntos vinculados con la validación de esquemas de autorregulación vinculante y reconocimiento de las autorizaciones a entidades de acreditación, acreditaciones de organismos de certificación, y certificados otorgados en materia de protección de datos personales, así como lo relativo a sus modificaciones, suspensiones, restauraciones, bajas, cancelaciones, revocaciones e inscripción y cambios respectivos en el Registro de Esquemas de Autorregulación Vinculante;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-VIII. Evaluar los esquemas presentados para validación del Instituto y elaborar los proyectos de resolución y acuerdos correspondientes;
+VII. Coadyuvar en la tramitación de solicitudes y asuntos vinculados con la validación de esquemas de autorregulación vinculante y de mejores prácticas y el reconocimiento de las autorizaciones a entidades de acreditación, acreditaciones de organismos de certificación, y certificados otorgados en materia de protección de datos personales, así como lo relativo a sus modificaciones, suspensiones, restauraciones, bajas, cancelaciones, revocaciones e inscripción y cambios respectivos en el Registro de Esquemas de Autorregulación Vinculante y de aquél al que refiere el artículo 73 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+VIII. Evaluar los esquemas presentados para validación del Instituto y elaborar los proyectos de resolución y acuerdos correspondientes, del sector público y privado;
 
 IX. Valorar los esquemas de autorregulación desarrollados y reconocidos fuera del territorio mexicano, a fin de determinar su grado de equivalencia, para que el Secretario de Protección de Datos Personales acuerde la admisión e inscripción correspondiente en el Registro de Esquemas de Autorregulación Vinculante, y coadyuvar en la realización de acciones para su operación en México, cuando se requiera y sea competencia del Instituto;
 
 X. Brindar apoyo técnico a la Secretaría de Protección de Datos Personales para el ejercicio de las atribuciones establecidas en el artículo 59 de los Parámetros de Autorregulación en materia de Protección de Datos Personales y para la vigilancia del sistema de certificación;
 
-XI. Realizar las inscripciones y publicaciones en el Registro de Esquemas de Autorregulación Vinculante, y elaborar las constancias correspondientes;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XII. Coadyuvar en la tramitación de las solicitudes de autorización para la implementación de medidas compensatorias, así como aquellas relativas al uso de hipervínculos o hiperenlaces en una página de Internet del Instituto para difundir avisos de privacidad a través de medidas compensatorias; realizar la valoración correspondiente y proponer el proyecto de resolución;
+XI. Realizar las inscripciones y publicaciones en el Registro de Esquemas de Autorregulación Vinculante y en aquél al que refiere el artículo 73 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y elaborar las constancias correspondientes;
 
-XIII. Coadyuvar en las acciones de capacitación, promoción, difusión, educación cívica y cultura que tengan como finalidad impulsar el derecho a la protección de datos personales entre los responsables y encargados del tratamiento de datos personales del sector público y privado, así como entre los titulares;
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XIV. Acompañar y asesorar a los responsables y encargados del tratamiento de datos personales del sector público y privado en la implementación de acciones y medidas para el cumplimiento de sus obligaciones en materia de protección de datos personales, entre ellas las relativas a la seguridad de los datos personales;
+XII. Coadyuvar en la tramitación de las solicitudes de autorización para la implementación de medidas compensatorias, así como aquellas relativas al uso de hipervínculos o hiperenlaces en una página de Internet del Instituto para difundir avisos de privacidad a través de medidas compensatorias; realizar la valoración correspondiente y proponer el proyecto de resolución, para el sector público y privado;
 
-XV. Elaborar estudios y realizar análisis técnicos en materia de autorregulación y seguridad de los datos personales, para el sector público y privado, y
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
 
-XVI. Las demás que se desprendan de la normatividad aplicable en la materia y las que dispongan el Pleno, el Comisionado Presidente y el Secretario de Protección de Datos Personales.
+XIII. Realizar las auditorías voluntarias previstas en el artículo 151 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, tanto las solicitadas por los sujetos obligados como las que en su caso proponga la propia Dirección General y a las que se sometan de manera voluntarias (sic) los sujetos obligados; llevar a cabo los trámites y procedimientos respectivos, salvo que el Secretario de Protección de Datos Personales determine la atención directa; elaborar el proyecto de informe para su presentación al Secretario de Protección de Datos Personales; dar seguimiento a la atención de las observaciones que deriven de las mismas, e informar lo conducente al Secretario de Protección de Datos Personales;
+
+XIV. Coadyuvar en las acciones de capacitación, promoción, difusión, educación cívica y cultura que tengan como finalidad impulsar el derecho a la protección de datos personales entre los responsables y encargados del tratamiento de datos personales del sector público y privado, así como entre los titulares;
+
+XV. Acompañar y asesorar a los responsables y encargados del tratamiento de datos personales del sector público y privado en la implementación de acciones y medidas para el cumplimiento de sus obligaciones en materia de protección de datos personales, entre ellas las relativas a la seguridad de los datos personales;
+
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XVI. Elaborar estudios y realizar análisis técnicos en materia de sus atribuciones, para el sector público y privado, y
+
+XVII. Las demás que se desprendan de la normatividad aplicable en la materia y las que dispongan el Pleno, el Comisionado Presidente y el Secretario de Protección de Datos Personales.
 
 ###### Artículo 46.
 
@@ -1821,7 +1949,11 @@ XXVII. Nombrar y remover a los servidores públicos adscritos al Órgano Interno
 
 XXVIII. Promover el establecimiento de acciones que coadyuven al mejoramiento de la gestión en las unidades administrativas del Instituto, cuando derivado de la atención de los asuntos de su competencia así se determine, y
 
-XXIX. Las demás que las disposiciones legales y administrativas le confieran.
+> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+XXIX. Expedir copias certificadas de los documentos que obren en sus archivos, en los términos de la normatividad aplicable.
+
+XXX. Las demás que las disposiciones legales y administrativas le confieran.
 
 ### CAPÍTULO DÉCIMO CUARTO. De las licencias y ausencias
 
@@ -1841,11 +1973,15 @@ Para el caso de ausencia temporal o definitiva de las Direcciones Generales de A
 
 Las ausencias temporales o definitivas de los Directores Generales, con excepción a los mencionados en el artículo anterior, serán suplidas por el servidor público inmediato inferior que designe el Secretario correspondiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 56.
 
-Las ausencias temporales o definitivas del Titular del Órgano Interno de Control, serán suplidas en su orden, por el Director de Responsabilidades y Quejas, y por el Director de Auditoría Interna.
+Las ausencias temporales o definitivas del Titular del Órgano Interno de Control, serán suplidas en su orden, por el Director de Responsabilidades Administrativas y Contrataciones Públicas, por el Director de Auditoría Interna y por el Director de Investigaciones de Quejas y Denuncias.
 
-Las ausencias del Director de Responsabilidades y Quejas, y del Director de Auditoría Interna, serán suplidas por alguno de los servidores públicos de la jerarquía inmediata inferior o por el que designe el Titular del Órgano Interno de Control.
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2018)</small>
+
+Las ausencias del Director de Responsabilidades Administrativas y Contrataciones Públicas, del Director de Auditoría Interna y del Director de Investigaciones de Quejas y Denuncias, serán suplidas por alguno de los servidores públicos de la jerarquía inmediata inferior o por el que designe el Titular del Órgano Interno de Control.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2017)</small>
 
@@ -1894,3 +2030,21 @@ SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos, para que rea
 TERCERO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
 
 CUARTO. El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBAN LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las modificaciones al Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento que, como anexo, forma parte del presente Acuerdo.
+
+SEGUNDO. Los procedimientos, orientaciones, investigaciones, verificaciones y cualquier otro asunto en materia de protección de datos personales en posesión de los sujetos obligados del sector público, que se encuentren en trámite o pendientes de resolución, así como en el archivo de trámite o de concentración de la ahora Dirección General de Investigación y Verificación del Sector Privado a la entrada en vigor del presente Acuerdo, se remitirán a la Dirección General de Evaluación, Investigación y Verificación del Sector Público.
+
+TERCERO. En relación con los procedimientos, orientaciones, investigaciones, verificaciones y cualquier otro asunto en materia de protección de datos personales de carácter mixto, es decir, que involucren a (sic) tanto a sujetos obligados del sector público como a particulares, la Dirección General de Investigación y Verificación del Sector Privado deberá remitir un desglose a la Dirección General de Evaluación, Investigación y Verificación del Sector Público.
+
+CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos, para que realice las gestiones necesarias, a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+QUINTO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+El presente acuerdo y su anexo puede ser consultado en la dirección electrónica siguiente: http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-EXT-PUB-06-12.2017.03.pdf
+
+SEXTO. El presente Acuerdo entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
