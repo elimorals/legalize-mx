@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-sancionar-la-tortura-del-estado-de-34922"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-01"
-last_updated: "2003-12-01"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY PARA PREVENIR Y SANCIONAR LA TORTURA DEL ESTADO DE YUCATAN
 
-LEY PARA PREVENIR Y SANCIONAR LA TORTURA DEL ESTADO DE YUCATAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, PUBLICADO EN EL D.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY PARA PREVENIR Y SANCIONAR LA TORTURA DEL ESTADO DE YUCATÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 1 de diciembre de 2003.
 
@@ -65,7 +67,7 @@ El delito de tortura se considerará como delito grave en términos del Artícul
 
 ###### ARTÍCULO 5.
 
-Al responsable del delito de tortura se le impondrá como pena prisión de tres a doce años multa por el importe de doscientos. a quinientos días de salario e inhabilitación para el desempeño de cualquier cargo o comisión pública, independientemente de las penas que se le impongan de resultar otros delitos.
+Al responsable del delito de tortura se le impondrá como pena prisión de tres a doce años, multa por el importe de doscientos a quinientos días de salario e inhabilitación para el desempeño de cualquier cargo o comisión pública, independientemente de las penas que se le impongan de resultar otros delitos.
 
 ###### ARTÍCULO 6.
 
@@ -153,7 +155,7 @@ Las autoridades deberán emitir los acuerdos necesarios para hacer efectivas sus
 
 En todo lo no previsto por este ordenamiento se estará a lo que establecen los Códigos Penal y de Procedimientos en Materia Penal ambas (sic) del Estado Yucatán y demás disposiciones aplicables.
 
-T R A N S I T O R l O S :
+T R A N S I T O R I O S :
 
 PRIMERO.- Esta ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
@@ -174,3 +176,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, publicada en el diario oficial del estado el 1 de diciembre de 2003.
+
+Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
+
+El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
