@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-28494
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-31"
-last_updated: "2007-03-14"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 31 de diciembre de 2002.
 
@@ -1356,3 +1356,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 98 DEL REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO"].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
