@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2017-12-13"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2427,7 +2427,9 @@ El Bando de Gobierno Municipal deberá ser aprobado por el Ayuntamiento y public
 
 Los reglamentos municipales son ordenamientos jurídicos que establecen normas de observancia obligatoria para el propio Ayuntamiento y para los habitantes del municipio, cuyo propósito es ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de la comunidad.
 
-Los reglamentos municipales serán expedidos por los propios Ayuntamientos quienes los aprobarán ajustándose a la Ley que establezca el Congreso del Estado y deberán ser publicados para su observancia, en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
+Los Gobiernos Municipales deberán expedir y contar con sus reglamentos actualizados y vigentes, ajustándose a la Ley que establezca el Congreso del Estado y vigilando que se cumpla con lo dispuesto en los ordenamientos jurídicos Federales y con las resoluciones de la Suprema Corte de Justicia de la Nación, debiendo ser publicados para su observancia, en el Periódico Oficial del Estado.
 
 ###### Artículo 146.
 
@@ -2451,15 +2453,19 @@ VII. Determinar las sanciones que procedan por las infracciones a los reglamento
 
 VIII. Los demás que sean procedentes de conformidad con las atribuciones municipales.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 147.
 
-Los Ayuntamientos deberán difundir permanentemente el Bando de Gobierno Municipal y los reglamentos municipales para orientar su cumplimiento.
+Los Ayuntamientos deberán difundir permanentemente el Bando de Gobierno Municipal y los reglamentos municipales para orientar, vigilar y garantizar su cumplimiento.
 
-El Bando de Gobierno Municipal y los reglamentos municipales podrán modificarse de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
+El Bando de Gobierno Municipal y los reglamentos municipales deberán revisarse y actualizarse el primer bimestre de cada año, de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 148.
 
-Los reglamentos municipales podrán comprender, entre otras, las siguientes materias:
+Los reglamentos municipales deberán comprender, entre otras, las siguientes materias:
 
 I. Organización Administrativa;
 
@@ -2497,13 +2503,17 @@ XVII. Estacionamientos Públicos;
 
 XVIII. Cementerios y Panteones;
 
-XIX. Espectáculos;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
+
+XIX. Espectáculos Públicos y Privados;
 
 XX. Horarios Comerciales;
 
 XXI. Rastros y Expendios de Carne;
 
-XXII. Anuncios, Espectáculos y Diversiones Públicos; y,
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
+
+XXII. Anuncios y Diversiones;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -3230,3 +3240,11 @@ P.O. 13 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 408 POR EL QUE "SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 50 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 424 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 145, 147 Y 148 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se concede a todos los Ayuntamientos el plazo de sesenta días naturales para que expidan o en su caso revisen y actualicen sus reglamentos municipales.
