@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-secretaria-de-seguridad-publica-56805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-02"
-last_updated: "2009-07-02"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, VIALIDAD, TRÁNSITO Y PROTECCIÓN CIVIL DEL MUNICIPIO DE GARCIA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de agosto de 2007.
 
@@ -1343,3 +1343,23 @@ SEGUNDO.- El presente Reglamento Interno de la Secretaría de Seguridad Pública
 TERCERO.- Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
 
 CUARTO.- Una vez en vigencia el presente reglamento, publíquese en el portal electrónico de Internet del Municipio para el cumplimiento de lo establecido en el artículo 9 de la Ley de Acceso a la Información Publica del Estado de Nuevo León.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO INTERIOR DE LA INSTITUCIÓN DE POLICÍA PREVENTIVA MUNICIPAL DE GARCÍA, N.L.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría de Seguridad Pública, Vialidad, Tránsito y protección Civil del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 2 de julio de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
+
+###### ARTÍCULO CUARTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
