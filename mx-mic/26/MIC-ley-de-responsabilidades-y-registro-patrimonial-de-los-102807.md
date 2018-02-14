@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2017-07-18"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -251,27 +251,15 @@ En caso de resultar absolutoria, el Pleno determinarai (sic) su archivo.
 
 ###### Artículo 37.
 
-Sujetos de fuero. Para proceder penalmente por la comisión de delitos del orden común contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los diputados, los magistrados y consejeros electorales y del Poder Judicial y el Auditor Superior, el Congreso erigido en Jurado de Sentencia declararai (sic) por las dos terceras partes de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa.
-
-Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial.
-
-La declaración de haber lugar a formación de causa contra un funcionario procede desde el día en que inicie su encargo hasta el momento en que concluya por cualquier motivo su mandato.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ###### Artículo 38.
 
-Procedimiento. Cuando exista denuncia o querella en contra de alguno de los sujetos de fuero, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, el Ministerio Público presentará solicitud de Declaración de Procedencia ante la Mesa Directiva del Congreso del Estado, misma que se presentará al Pleno en la sesión inmediata siguiente turnándose a la Comisión Jurisdiccional a efecto de que analice y dictamine respecto a la subsistencia del fuero cuya remoción se solicita.
-
-Concluido este análisis, la Comisión Jurisdiccional dictaminará si ha lugar o no a formación de causa contra el inculpado.
-
-Para los efectos de este artículo, la Comisión Jurisdiccional deberá rendir su dictamen en un plazo de treinta días naturales a partir de que obre en su poder la documentación respectiva, salvo que fuese necesario disponer de más tiempo, a juicio de la Comisión.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ###### Artículo 39.
 
-Jurado de Sentencia. El Congreso del Estado se erigirá en Jurado de Sentencia dentro de los tres días siguientes a la fecha en que se hubiere presentado el dictamen a la Mesa Directiva, haciéndose saber esto al inculpado y a su defensor, así como al Ministerio Público, procediendo en los términos establecidos para el Juicio Político durante la sesión.
-
-En caso de que se declare que ha lugar a formación de causa, se ordenará notificar al Ministerio Público y al Presidente del Supremo Tribunal de Justicia del Estado, quedando el servidor público sujeto a la acción de los tribunales.
-
-En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ### CAPÍTULO V. Disposiciones comunes para Juicio Político y Declaración de Procedencia
 
@@ -323,9 +311,13 @@ Las autoridades están obligadas a expedir dichas copias certificadas sin demora
 
 Por su parte, la Comisión Jurisdiccional solicitará copias certificadas de las constancias que estime necesarias para el procedimiento.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 45.
 
-Regulación de los procedimientos. En los procedimientos de Juicio Político y de Declaración de Procedencia se estará a lo dispuesto en esta ley y, en todo lo que no se oponga, a lo dispuesto en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán.
+Regulación de los procedimientos.
+
+En el procedimiento de Juicio Político se estará a lo dispuesto en esta Ley y, en todo lo que no se oponga, a lo dispuesto en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 368 POR EL QUE SE CREA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -454,3 +446,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan los capítulos I, II, VI y VII de la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, publicada mediante Decreto 337 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 14 de octubre del año 2014.
 
 TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigencia de la presente Ley, se seguirán sustanciando con la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, publicada mediante Decreto 337 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 14 de octubre del año 2014.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 427 POR EL QUE "SE REFORMA EL ARTÍCULO 45 Y SE DEROGAN LOS ARTÍCULOS 37, 38 Y 39 DE LA LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Decreto Legislativo 425, por el que se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, de conformidad con lo previsto por el artículo 164 de la Constitución Estatal.
