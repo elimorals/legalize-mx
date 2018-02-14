@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2016-12-29"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -368,6 +368,16 @@ En estos casos, además, deberán tomar las medidas inmediatas que sean necesari
 ###### ARTÍCULO 17.
 
 La Secretaría fijará los lineamientos para el establecimiento de Centros de Control de Urgencias Médicas. Su número estará determinado por las características geopoblacionales en forma local y de infraestructura hospitalaria.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
+Es derecho de todo paciente recibir atención médica de emergencia por personal médico capacitado, en los establecimientos de salud, sean públicos o privados de acuerdo a sus necesidades médicas, con el propósito de estabilizar su salud, cuando esté en peligro su vida, un órgano o una función.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 17 A. La mujer embarazada con signos de parto o en cualquier etapa de la gestación que se encuentre y que requiera atención médica de urgencia, debe recibirla de manera prioritaria, inmediata e impostergable, por las instituciones que presten servicios de salud, privilegiando siempre la vida de la madre y de su hijo, sin que medie requerimiento económico como condicionante.
+
+Las omisiones a lo anterior, serán sancionadas en los términos que establezcan las leyes de la materia.
 
 ###### ARTÍCULO 18.
 
@@ -2324,3 +2334,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 426 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE ADICIONA EL ARTÍCULO 17 A, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
