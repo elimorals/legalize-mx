@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2017-12-04"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -1019,6 +1019,14 @@ Cuando los quejosos se encuentren privados de su libertad o se desconozca su par
 
 Los encargados de los centros de detención o reinserción social deberán transmitir sin demora alguna los escritos de queja elaborados por las personas privadas de su libertad. De igual forma estos escritos podrán entregarse directamente al Visitador General o a los visitadores de la comisión.
 
+> <small>(ADICIONADO, D.O. 14 DE FEBRERO DE 2018)</small>
+
+###### Artículo 58 Bis.
+
+Quejas relacionadas con violaciones a la integridad personal
+
+Tratándose de una queja por violaciones a la integridad personal, como la tortura y otros tratos y penas crueles, inhumanos y degradantes se deberá investigar y documentar inmediatamente después de recibida la queja correspondiente y se deberán remitir los eventuales peritajes y recomendaciones a los órganos de procuración de justicia y judiciales competentes, en su caso.
+
 ###### Artículo 59.
 
 Quejas presentadas por organizaciones de la sociedad civil
@@ -1650,3 +1658,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, publicada en el diario oficial del estado el 1 de diciembre de 2003.
+
+Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
+
+El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
