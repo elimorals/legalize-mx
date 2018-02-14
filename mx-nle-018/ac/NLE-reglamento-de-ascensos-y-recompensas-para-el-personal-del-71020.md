@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ascensos-y-recompensas-para-el-personal-del-71020
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-01"
-last_updated: "2009-10-01"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DEL CUERPO OPERATIVO DE LA SECRETARIA DE SEGURIDAD PUBLICA, VIALIDAD, TRANSITO Y PROTECCION CIVIL, DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DEL CUERPO OPERATIVO DE LA SECRETARIA DE SEGURIDAD PUBLICA, VIALIDAD, TRANSITO Y PROTECCION CIVIL DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el jueves 1 de octubre de 2009.
 
@@ -1117,3 +1119,27 @@ C. PRESIDENTE MUNICIPAL
 LIC. BENITO ARÁMBULA AMAYA.
 
 SECRETARIO DE AYUNTAMIENTO
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamente del Servicio Profesional de Carrera Policial del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 14 de mayo de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de Ascensos y Recompensas para el Personal del Cuerpo Operativo de la Secretaría de Seguridad Pública, Vialidad, Tránsito y Protección Civil del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 1 de octubre de 2009.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
