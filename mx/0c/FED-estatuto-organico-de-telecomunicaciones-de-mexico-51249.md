@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-51249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-14"
-last_updated: "2014-05-20"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-07-06"
 ---
 # ESTATUTO ORGANICO DE TELECOMUNICACIONES DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EN EL D.O.F. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -137,7 +139,7 @@ XVI. Acordar, con sujeción a las disposiciones legales respectivas, lo referent
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
 
-XVII. Aprobar las bases para cancelar adeudos a cargo de terceros, cuando fuere notoria la imposibilidad práctica de cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de su Coordinadora de Sector, y (sic)
+XVII. Aprobar las bases para cancelar adeudos a cargo de terceros, cuando fuere notoria la imposibilidad práctica de cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de su Coordinadora de Sector, y
 
 XVIII. Fijar las remuneraciones, estímulos y recompensas a que podrán ser sujetos sus miembros en el ejercicio de sus funciones;
 
@@ -179,7 +181,7 @@ IV. Elaborar el calendario de sesiones de la Junta Directiva y ponerlo a conside
 
 V. Recabar información sobre el cumplimiento de los acuerdos de la Junta Directiva y hacerla del conocimiento de los integrantes de la misma;
 
-VI. Dar lectura al acta de sesión anterior y tomar nota de las observaciones de sus miembros a fin de hacer las modificaciones pertinentes, y (sic)
+VI. Dar lectura al acta de sesión anterior y tomar nota de las observaciones de sus miembros a fin de hacer las modificaciones pertinentes, y
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
 
@@ -399,7 +401,7 @@ XIII. Asesorar a las unidades administrativas del Organismo en los procedimiento
 
 XIII Bis. Supervisar y coordinar el ejercicio y funciones del personal técnico de las áreas jurídicas adscritas a las unidades administrativas del organismo;
 
-XIV. Elaborar a solicitud del Director General, los poderes especiales o generales con las facultades que les competan a los distintos servidores públicos del Organismo, y (sic)
+XIV. Elaborar a solicitud del Director General, los poderes especiales o generales con las facultades que les competan a los distintos servidores públicos del Organismo, y
 
 > <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
@@ -985,7 +987,7 @@ Unico. El presente Estatuto Orgánico entrará en vigor al día siguiente de su 
 
 El Secretario de la Junta Directiva de Telecomunicaciones de México, certifica que en la sexagésima novena sesión de dicho Cuerpo Colegiado, celebrada el seis de julio de dos mil seis, se aprobó el Estatuto Orgánico de Telecomunicaciones de México para su debida formalización y publicación en el Diario Oficial de la Federación.- Doy fe.- México, D.F., a los seis días del mes de julio de dos mil seis.- El Secretario de la Junta Directiva de Telecomunicaciones de México, José Manuel Corona Gallaga.- Rúbrica.- El Prosecretario de la Junta Directiva de Telecomunicaciones de México, Jaime Bravo García.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.]</small>
 
 D.O.F. 12 DE NOVIEMBRE DE 2008.
 
@@ -1010,3 +1012,25 @@ D.O.F. 20 DE MAYO DE 2014.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
+
+D.O.F. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ABROGA EL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EL 14 DE AGOSTO DE 2006, Y SUS REFORMAS PUBLICADAS EL 12 DE NOVIEMBRE DE 2008, 8 DE ABRIL DE 2010, 9 DE DICIEMBRE DE 2011 Y 20 DE MAYO DE 2014, Y SE EXPIDE EL NUEVO ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO".]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Telecomunicaciones de México publicado en el Diario Oficial de la Federación el 14 de agosto de 2006 y, sus reformas publicadas en el mismo medio oficial del 12 de noviembre de 2008, 8 de abril de 2010, 9 de diciembre de 2011 y 20 de mayo de 2014 publicados en el mismo medio oficial.
+
+TERCERO.- Los asuntos pendientes de atención y resolución a la entrada en vigor de este Estatuto Orgánico, serán sustanciados por las Unidades Administrativas en el ámbito de sus competencias.
+
+CUARTO.- A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas asumirán el ejercicio de las facultades, atribuciones y funciones que les correspondan.
+
+Las Unidades Administrativas que a continuación se enuncian, operarán de la siguiente forma, hasta en tanto se autorice la Estructura Orgánica de Telecomunicaciones de México:
+
+I. El Titular de la anterior Dirección de Administración Financiera, realizará las funciones que le competen a la Dirección de Administración, asimismo, para realizar las funciones de tecnologías de la información y comunicaciones, tendrá a su cargo a las Subdirecciones de Desarrollo de Informática, la Subdirección Técnica de Servicios de Informática y Comunicaciones, Gerencia de Centros de Cómputo y Equipamiento Informático, Gerencia de la Red Telegráfica Integrada, Gerencia de Desarrollo de Sistemas Informáticos y Gerencia de Seguridad en Informática y Comunicaciones, se encontrarán a su cargo.
+
+II. El Titular de la anterior Dirección de Operaciones Telegráficas realizará las funciones que le competen a la Dirección de la Red de Sucursales, por lo que la Subdirección de Nuevos Servicios y Mercados, la Subdirección de Comercialización de Servicios Financieros Básicos y Telegráficos, Gerencia Comercial de Comunicación y Nuevos Canales Comerciales de Servicio, Gerencia Comercial de Servicios Financieros Básicos, Gerencia de Inteligencia de Mercado y Gerencia de Nuevos Servicios, se encontrarán a su cargo.
+
+III. El Titular de la anterior Dirección Técnica de Telecomunicaciones y Mexsat realizará las funciones que le competen a la Dirección de la Red de Telecomunicaciones y Mexsat, asimismo, para realizar las funciones de comercialización, tendrá a su cargo a la Subdirección Comercial de Telecomunicaciones y a la Gerencia de Administración de Ventas de Servicios de Telecomunicaciones.
+
+QUINTO.- El Organismo formalizará los nombramientos de los Titulares de las Unidades Administrativas ante la Junta Directiva y gestionará ante las Secretarías de Hacienda y Crédito Público y de la Función Pública, las modificaciones en la Estructura Orgánica que correspondan, en términos de la normatividad aplicable.
