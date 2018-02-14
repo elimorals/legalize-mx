@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-los-comites-de-participacion-ciudadana-del-25404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-03"
-last_updated: "2002-07-03"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LOS COMITES DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE LOS COMITES DE PARTICIPACION CIUDADANA
+> <small>[N. DE E. DE CONFORMIDAD CON ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de julio de 2002.
 
@@ -273,3 +275,25 @@ Presidente Municipal
 C. LIC. SANDRA E. LOZANO SEPULVEDA.
 
 Secretario del Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LOS ACUERDOS DE LA SESIÓN EXTRAORDINARIA DE FECHA 28 DE SEPTIEMBRE DE 2017 POR EL QUE "SE APRUEBA EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA EN MATERIA DE SEGURIDAD MUNICIPAL DE GARCÍA, N.L.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de los Comités de Participación Ciudadana, publicado en el Periódico Oficial del Estado de Nuevo León, en fecha 3 de julio de 2002.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
+
+###### ARTÍCULO CUARTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
