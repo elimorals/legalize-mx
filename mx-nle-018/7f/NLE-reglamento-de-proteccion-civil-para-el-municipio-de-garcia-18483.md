@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-para-el-municipio-de-garcia-1848
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-05"
-last_updated: "2000-06-05"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE GARCIA, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE GARCÍA, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2000.
 
@@ -980,3 +982,25 @@ PRESIDENTE MUNICIPAL
 C. FRANCISCO ROMAN AGUIRRE MONTES
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE GARCÍA, N.L.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Protección Civil, del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, en fecha 05 de junio de 2000
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
+
+###### ARTÍCULO CUARTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
