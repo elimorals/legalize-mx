@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-victimas-del-estado-de-yucatan-114372"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2016-05-02"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE OCTUBRE DE 2016.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento I del Diario Oficial del Estado de Yucatán, el lunes 2 de Mayo de 2016.
 
@@ -138,6 +136,10 @@ Medidas
 Las medidas de ayuda inmediata, que comprenden las de alojamiento y alimentación, de transporte, de protección y de asesoría jurídica; las de asistencia y atención, que comprenden las económicas y de desarrollo y de atención y asistencia en materia de procuración y administración de justicia; y las medidas de reparación integral, que comprenden las de restitución, de rehabilitación, de compensación, de satisfacción y de no repetición establecidas en la Ley General de Víctimas serán otorgadas de manera gratuita y se prestarán en atención a la gravedad del daño sufrido y a las condiciones particulares de la víctima, especialmente tratándose de personas pertenecientes a grupos vulnerables como son las niñas, niños, adolescentes, mujeres, adultos mayores, personas con discapacidad e indígenas.
 
 Las medidas se brindarán en los términos de las reglas de operación de los programas a cargo de las dependencias y entidades de la Administración Pública estatal o municipal.
+
+> <small>(ADICIONADO, D.O. 14 DE FEBRERO DE 2018)</small>
+
+Las dependencias y entidades de la Administración Pública estatal deberán instrumentar programas para proporcionar medidas de ayuda, asistencia, atención y protección, a las víctimas de tortura, con especial énfasis en aquellas que se encuentran privadas de su libertad, en términos de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ###### Artículo 8.
 
@@ -327,7 +329,9 @@ XII. Implementar los mecanismos de control, con la participación de la sociedad
 
 XIII. Brindar capacitación a los asesores jurídicos en materias relacionadas con la atención y protección de víctimas.
 
-XIV. Las demás que le confiera el Código de la Administración Pública de Yucatán, su reglamento y el estatuto orgánico.
+> <small>(REFORMADA, D.O. 14 DE FEBRERO DE 2018)</small>
+
+XIV. Las demás que establezcan esta ley; la Ley General de Víctimas; la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; el Código de la Administración Pública de Yucatán, su reglamento y el estatuto orgánico.
 
 ###### Artículo 23.
 
@@ -778,3 +782,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, publicada en el diario oficial del estado el 1 de diciembre de 2003.
+
+Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
+
+El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
