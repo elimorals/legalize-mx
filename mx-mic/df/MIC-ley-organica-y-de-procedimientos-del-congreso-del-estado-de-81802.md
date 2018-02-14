@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2017-12-01"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -63,8 +65,6 @@ El Congreso funcionará por Legislaturas a la cual se le denomina agregando prev
 
 El Año Legislativo inicia el quince de septiembre y concluye el catorce de septiembre del año siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 El Pleno del Congreso dentro del año legislativo sesionará en dos periodos ordinarios de sesiones conforme a la presente Ley. El resto del año las comisiones y los demás órganos del Congreso, trabajarán regularmente.
@@ -91,15 +91,11 @@ IV. Constitución: La Constitución Política del Estado Libre y Soberano de Mic
 
 V. Dictamen: Opinión y juicio que emiten las Comisiones de Dictamen sobre los asuntos de carácter legislativo que el Pleno del Congreso les ha encomendado conocer;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 VI. Diputado Independiente: Son aquéllos representantes por elección constitucional, o quienes deciden no pertenecer o separarse de un Grupo o Representación Parlamentaria;
 
 VII. El Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -117,31 +113,21 @@ XIII. Mesa: La Mesa Directiva del Congreso del Estado;
 
 XIV. Pleno: Sesión de los diputados en el Recinto, realizada con cuando menos la mitad más uno de los integrantes de la Legislatura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XV. Posicionamiento: Es toda aquella participación en tribuna de los diputados para establecer una postura personal, de grupo o de representación parlamentaria relacionado con algún acontecimiento social, político o histórico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XVI. Propuesta de acuerdo: Aquélla propuesta de cualquier Diputado u órganos del Congreso, en asuntos de toda índole para que el Pleno, emita resolución, pronunciamiento, exhorto o recomendación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XVII. Presidente del Congreso: Presidente de la Mesa Directiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XVIII. Recinto: El lugar en donde el Congreso se reúne para sesionar; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -149,15 +135,17 @@ XIX. Urgencia notoria: Condición constitucional para la dispensa de segunda lec
 
 ### CAPÍTULO TERCERO. DE LOS DIPUTADOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 5.
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y jamás podrán ser reconvenidos o enjuiciados por ellas.
+Los diputados no podrán ser reconvenidos ni serán sujetos de responsabilidad por las opiniones, propuestas legislativas o votos que emitan en el ejercicio de su encargo.
 
-Ningún diputado podrá ser procesado por delitos del orden común o federal, sin que el Congreso erigido en Jurado de Sentencia, declare si es de proceder la formación de causa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE FEBRERO DE 2018)</small>
 
-En los juicios del orden civil no se requiere declaración de procedencia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE FEBRERO DE 2018)</small>
 
-Cuando la denuncia, querella, acusación o requerimiento del Ministerio Público, sea contra un diputado, éste deberá ausentarse del Pleno durante el tiempo que se verifique la sesión en que se debatirá la declaración de procedencia.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 14 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 6.
 
@@ -229,13 +217,9 @@ II. Privación del equivalente a un mes de dieta, cuando falte a tres Sesiones c
 
 III. Privación del equivalente a dos meses de dieta en los casos de incumplimiento de las obligaciones previstas en las fracciones VII y VIII del artículo 7 de esta ley; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 IV. Privación del equivalente a un día de dieta, cuando el Diputado incurra en tres retardos de al menos treinta minutos de iniciada la sesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -247,8 +231,6 @@ Para la aplicación de las sanciones, se seguirá el procedimiento siguiente:
 
 En los casos de las fracciones I, II y III del artículo anterior, el Primer Secretario de la Mesa o Presidente de Comisión o Comité, según corresponda, notificará de las faltas por escrito al Presidente del Congreso, quien deberá elaborar la comunicación al Secretario de Administración y Finanzas a fin de hacer los descuentos correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 El Diputado contra quien se solicite la sanción administrativa, tiene derecho a la garantía de audiencia y defensa ante la Mesa.
@@ -257,21 +239,15 @@ De no realizar las notificaciones que previene este artículo, se harán acreedo
 
 En la página de Internet del Congreso se publicarán mensualmente las asistencias o faltas de los diputados a las sesiones del Pleno, reuniones de comisiones o comités.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
 Para los efectos de las fracciones II y III del artículo 7 de esta Ley, se considera falta justificada de un Diputado:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 I. Por enfermedad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -315,8 +291,6 @@ La integración, funcionamiento y disolución de los grupos parlamentarios, se r
 
 Cuando se encuentren dos o más partidos políticos representados en el Congreso por un solo diputado, de éstos, quienes así lo consideren, podrán integrarse sólo como una Representación Parlamentaria, cuya atribución será que uno de ellos forme parte de la Junta y la Conferencia con voz y voto ponderado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 Los diputados independientes, previa solicitud, podrán formar parte de la Representación Parlamentaria.
@@ -327,15 +301,11 @@ La Representación Parlamentaria se tendrá por acreditada, con la manifestació
 
 Los coordinadores de los grupos parlamentarios serán designados conforme a los estatutos y lineamientos internos de cada partido político, y serán los conductos de coordinación con la Mesa Directiva, la Junta de Coordinación Política, las comisiones y comités del Congreso. Los vicecoordinadores de los grupos parlamentarios o quien sea designado por ellos, suplirán las ausencias temporales de los Coordinadores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
 Durante el ejercicio de la Legislatura, el Coordinador del Grupo Parlamentario, Representación Parlamentaria comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su grupo. El Presidente del Congreso llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -385,7 +355,9 @@ Si a juicio de las dos terceras partes de los diputados asistentes existe imposi
 
 El Recinto del Congreso es inviolable. Toda fuerza pública está impedida a tener acceso al mismo, salvo con permiso del Presidente del Congreso, quedando en todo caso bajo su mando.
 
-El Presidente del Congreso, podrá solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de sus integrantes y la inviolabilidad del Recinto.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2018)</small>
+
+El Presidente del Congreso, podrá solicitar el auxilio de la fuerza pública para salvaguardar la inviolabilidad del Recinto.
 
 Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente del Congreso podrá decretar la suspensión de la Sesión hasta que la misma hubiere abandonado el Palacio del Poder Legislativo.
 
@@ -407,19 +379,13 @@ II. Junta de Coordinación Política;
 
 III. Conferencia para la Programación de los Trabajos Legislativos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 IV. Comisiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 V. Comités; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -453,7 +419,9 @@ El Presidente sólo responderá ante el Pleno, cuando en el ejercicio de sus atr
 
 Son atribuciones del Presidente del Congreso las siguientes:
 
-I. Hacer respetar el Fuero Constitucional de los Diputados, la seguridad del Palacio del Poder Legislativo y velar por la inviolabilidad del Recinto;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
+
+I. Hacer respetar la seguridad del Palacio del Poder Legislativo y velar por la inviolabilidad del Recinto;
 
 II. Representar jurídicamente al Congreso, con facultades generales y especiales, pudiendo delegar éstas en los funcionarios que él determine;
 
@@ -493,8 +461,6 @@ XIX. Determinar los trámites para el desahogo del Orden del Día en las Sesione
 
 XX. Conceder el uso de la voz a los diputados, cuando sea el caso; así como al Gobernador, al Presidente del Supremo Tribunal de Justicia o a sus representantes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XXI. Someter a votación del Pleno, la calificación de urgencia notoria, de los trámites que así lo requieran;
@@ -511,8 +477,6 @@ XXVI. Tomar la protesta a los Diputados y Servidores Públicos que por Ley la de
 
 XXVII. Formar parte con voz en las reuniones de la Junta de Coordinación Política;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XXVIII. Designar comisiones de protocolo que resulten pertinentes para cumplir con el ceremonial;
@@ -522,8 +486,6 @@ XXIX. Declarar al Congreso en Jurado de Sentencia cuando así proceda;
 XXX. Solicitar el auxilio de la fuerza pública en los casos que resulten necesarios;
 
 XXXI. Exigir al Secretario de Administración y Finanzas, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -563,11 +525,7 @@ V. Concurrir, por los menos una hora antes de que se celebre la sesión, con el 
 
 Son atribuciones del Primer Secretario:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 I. (DEROGADA, P.O. 19 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -575,7 +533,7 @@ II. Verificar que las Iniciativas, dictámenes, propuestas de Acuerdo, posiciona
 
 III. Supervisar la edición de la Gaceta Parlamentaria, que deberá distribuirse a los Diputados, vigilando su entrega oportuna;
 
-IV. Supervisar y aprobar la edición del “Diario de los Debates”, que consignará la trascripción literal de lo expresado en las sesiones de Pleno en un plazo no mayor de cinco días siguientes a su aprobación;
+IV. Supervisar y aprobar la edición del "Diario de los Debates", que consignará la trascripción literal de lo expresado en las sesiones de Pleno en un plazo no mayor de cinco días siguientes a su aprobación;
 
 V. Dar cuenta al Pleno, del proyecto de Orden del Día, y realizar las lecturas que para su desahogo, le sean instruidas;
 
@@ -614,8 +572,6 @@ I. Abrir, integrar y actualizar los expedientes de los asuntos recibidos por el 
 II. Expedir certificaciones documentales y asentarlas bajo su firma en el libro respectivo;
 
 III. Rendir al Pleno, un informe de los asuntos que fueron despachados y los que aún están en trámite, una vez concluido el periodo de la Mesa Directiva, en la primera Sesión del periodo inmediato posterior;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -677,8 +633,6 @@ V. Establecer con base en las propuestas que haga el Comité de Administración 
 
 VI. Participar en la coordinación de los trabajos de las secretarías de Servicios Parlamentarios y de Administración y Finanzas, para su buen funcionamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 VII. Proponer al Pleno las ternas para la designación de Secretario de Servicios Parlamentarios, Secretario de Administración y Finanzas, Contralor Interno, Director del Instituto de Investigaciones y Estudios Legislativos, Coordinador de Comunicación Social, Coordinador de Atención Ciudadana y Gestoría, Coordinador de Transparencia y Acceso a la Información Pública y Coordinador de Editorial, Biblioteca y Archivo;
@@ -696,8 +650,6 @@ XII. Someter a discusión y aprobación del Pleno el informe financiero y ejecuc
 XIII. Recibir de los Diputados y presentar al Pleno, las propuestas de los diputados que representen al Poder Legislativo en el Consejo General del Instituto Electoral de Michoacán, y ante los consejos y órganos autónomos donde deba haber representantes de este Poder;
 
 XIV. Refrendar los acuerdos legislativos que emita la Conferencia para la Programación de los Trabajos Legislativos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -779,8 +731,6 @@ Las Comisiones deberán contar para el desempeño de sus funciones, con los elem
 
 Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso hasta con un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta. Las comisiones especiales se integrarán por el número de diputados que disponga su acuerdo de creación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 54.
@@ -797,27 +747,19 @@ En caso de que algún Diputado se separe del Grupo parlamentario al que pertenec
 
 Ningún Diputado puede presidir más de una comisión o comité, ni integrar más de tres comisiones o comités. Para efectos de esta regla, no se computará la participación en comisiones especiales. El Presidente del Congreso podrá suspender su participación en las comisiones, en tanto dure su encargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 56.
 
 Los presidentes de comisiones son responsables de los expedientes turnados, que les serán entregados a través de la Secretaría de Servicios Parlamentarios, firmando constancia de ello para su custodia o resguardo. Las comisiones conocerán de los asuntos que les hayan sido turnados
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 Los presidentes de comisiones y comités, deberán llevar un registro de los asuntos y resguardo de los expedientes turnados, los cuales remitirá al Presidente de la Mesa Directiva, al final de la legislatura, para su entrega recepción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 Las comisiones, mediante acuerdo fundado y motivado, podrán solicitar al Presidente del Congreso, el turno de un asunto del que conozca otra Comisión, para dictaminar conjuntamente con aquella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -862,8 +804,6 @@ Las Comisiones, de acuerdo con su competencia, podrán dar opinión fundada a la
 ###### ARTÍCULO 59.
 
 Todo Diputado puede participar en cualquier Comisión o comité de la que no sea integrante, con voz pero sin voto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -1449,8 +1389,6 @@ XII. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán;
 
 XIII. Emitir las medidas necesarias para que la Auditoría Superior de Michoacán cumpla con las funciones que le correspondan; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XIV. Proponer al Pleno las ternas para el nombramiento del Auditor Superior del Estado de Michoacán, los Auditores Especiales y el Director de la Unidad General de Asuntos Jurídicos; y,
@@ -1481,7 +1419,9 @@ VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, s
 
 Corresponde a la Comisión Jurisdiccional, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I. Encabezar la procedencia sobre juicios políticos y las solicitudes para declarar que ha lugar a proceder penalmente en contra de algún servidor público que goce de protección constitucional;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
+
+I. Encabezar el desahogo del procedimiento de los juicios políticos;
 
 II. La suspensión o desaparición de poderes de los Ayuntamientos;
 
@@ -1490,8 +1430,6 @@ III. La legislación relativa a las sanciones de los servidores públicos;
 IV. La suspensión o revocación del mandato de los miembros de los Ayuntamientos; y,
 
 V. La remoción de algún miembro de la Mesa Directiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -1507,27 +1445,19 @@ II. Los que se refieren a la Legislación Civil, Penal y Administrativa;
 
 III. Las iniciativas relacionadas con la organización y estructura del Poder Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 IV. Evaluar y dictaminar el informe anual que rinda el Procurador General de Justicia del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 V. Observar el desempeño de los integrantes de la Procuraduría General de Justicia del Estado y opinar lo que corresponda, así como solicitar al Pleno del Congreso del Estado, la comparecencia de su titular;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 VI. La elección de los integrantes del Consejo del Poder Judicial;
 
 VII. Los relacionados con la procuración e impartición de justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -1623,9 +1553,17 @@ VI. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a la c
 
 VII. Las leyes orgánicas de dispositivos de la Constitución y los que la Constitución Federal le autorice reglamentar;
 
-VIII. Los que se refieran a ordenamientos encaminados a hacer efectivas las atribuciones que la Constitución otorga a los poderes de la Entidad; y,
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
 
-IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+VIII. Los que se refieran a ordenamientos encaminados a hacer efectivas las atribuciones que la Constitución otorga a los poderes de la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2018)</small>
+
+IX. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2018)</small>
+
+X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 90.
 
@@ -1805,13 +1743,9 @@ XII. Aprobar la propuesta de política salarial que le presente la Secretaría d
 
 XIII. Supervisar el inventario de los bienes del Congreso y sus dependencias, así como vigilar que la Secretaría de Administración cuide de la conservación de los mismos; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 XIV. Convocar a las sesiones del Comité a los titulares de la Secretaría de Administración y Finanzas, para que informen y en su caso entreguen copia de la documentación que les requiera el Comité, para el mejor despacho de los negocios; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -1838,8 +1772,6 @@ VI. Proponer su respectivo presupuesto y el Plan Operativo Anual de la Coordinac
 VII. Coordinar y aprobar las campañas de difusión de actividades del Congreso;
 
 VIII. Coordinar y vigilar la buena y efectiva comunicación entre el congreso y la ciudadanía;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -1999,7 +1931,9 @@ La Secretaría de Servicios Parlamentarios es el órgano, que en el ámbito de l
 
 La Secretaría de Servicios Parlamentarios, prestará los servicios siguientes:
 
-I. De asistencia técnica: a la Mesa en comunicaciones y correspondencia, turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con el fuero de los legisladores; y, registro biográfico de los integrantes de la legislatura;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2018)</small>
+
+I. De asistencia técnica: a la Mesa en comunicaciones y correspondencia, turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y registro biográfico de los integrantes de la legislatura;
 
 II. De asistencia en la Sesión: para apoyo a la Mesa Directiva en la preparación y desarrollo de los trabajos del Pleno; de registro, seguimiento e integración de expedientes de iniciativas, propuestas de Acuerdo o minutas de Ley o Decreto; distribución de los documentos sujetos a su conocimiento; información y estadística de las actividades del Congreso; elaboración, registro y publicación de las actas de las Sesiones; y registro de leyes y resoluciones que adopte el Pleno;
 
@@ -2757,8 +2691,6 @@ II. El resumen que contenga las motivaciones y los objetivos que se pretenden al
 
 ### CAPÍTULO SEGUNDO. DEL CALENDARIO DE LAS SESIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 214.
@@ -2810,8 +2742,6 @@ II. Privadas: aquellas en que por tratarse de los casos a que se refiere esta Le
 III. Permanentes: cuando lo determine el Pleno. El tiempo de duración será el necesario para desahogar los asuntos de que se trate; y,
 
 IV. Solemnes: aquellas en que por mandato constitucional o legal así se establezcan y conlleven un protocolo especial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -2901,21 +2831,15 @@ IV. La firma autógrafa, o en su caso clave electrónica del Presidente.
 
 La convocatoria deberá ser remitida a sus destinatarios al menos con dos días hábiles de anticipación a la fecha en que haya de celebrarse la sesión, con aviso al Secretario de Servicios Parlamentarios, a efecto de que brinde el apoyo necesario en el ámbito de sus responsabilidades.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 227.
 
 Para la integración del orden del día de las sesiones ordinarias de Pleno, la Conferencia, considerará exclusivamente los asuntos que hayan sido registrados para tal fin, ante la Secretaría de Servicios Parlamentarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 De manera extraordinaria se podrá incorporar al proyecto del orden del día, posicionamiento o propuesta de acuerdo, previamente registrado por cualquier Diputado, ante la Presidencia de la Conferencia, hasta las veintiún horas del día previo a la sesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -2936,8 +2860,6 @@ IV. Iniciativas de Ley o de Decreto;
 V. Dictámenes en primera o segunda lectura, discusión y aprobación en su caso;
 
 VI. Informes de las comisiones legislativas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -2982,8 +2904,6 @@ Es iniciativa de Ley o de Decreto el acto mediante el cual se propone crear, adi
 ###### ARTÍCULO 235.
 
 Las iniciativas de Ley o de Decreto deben ser dirigidas al Presidente del Congreso, con fundamento constitucional y legal, tener una exposición de motivos y la propuesta del articulado respectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3038,8 +2958,6 @@ VI. Si durante la discusión se propone la modificación a la exposición de mot
 ###### ARTÍCULO 237.
 
 La Mesa Directiva del Congreso, debe informar al Pleno de toda propuesta de particulares, corporaciones o autoridades que no tengan derecho a iniciativa, turnándose a la Comisión que corresponda, a fin de resolver su procedencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3107,15 +3025,11 @@ Cuando algún Diputado disienta del dictamen de Comisión, firmará señalando s
 
 El dictamen de minoría, es el documento mediante el cual uno o varios diputados disienten del contenido y sentido del dictamen emitido por la mayoría de los miembros de la Comisión, el mismo deberá ser leído con posterioridad al dictamen de mayoría y sólo será puesto a discusión y votación si aquél fuere desechado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 246.
 
 Los dictámenes relativos a reformas constitucionales e iniciativas de Ley, deben recibir siempre dos lecturas en sesiones distintas. La segunda de ellas, se hará en la sesión en que se vaya a debatir y votar. Solo puede dispensarse este requisito cuando se califique de urgencia notoria por acuerdo expreso de las dos terceras partes de los diputados presentes en el Pleno y se hayan distribuido o publicado en la Gaceta Parlamentaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3167,8 +3081,6 @@ Concluida la intervención de los oradores en cada ronda, el Presidente someter�
 
 El Presidente del Congreso pondrá a discusión el Dictamen primero en lo general y después en lo particular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 En el momento de la votación en lo general, que es nominal, los diputados pueden, en su caso, manifestar su reserva del o los artículos para su discusión en lo particular. Aprobado en lo general un Dictamen de Ley o Decreto, se debe discutir en lo particular. En la discusión en lo particular debe presentarse el proyecto de artículo que pretenda sustituir al que está a discusión. Si no hubiere artículos reservados por ninguno de los diputados, el Dictamen se tiene por aprobado también en lo particular y se deberá hacer la declaratoria respectiva.
@@ -3194,8 +3106,6 @@ Si en el desarrollo de la discusión, un Diputado desea interpelar al orador, so
 ###### ARTÍCULO 253.
 
 Los diputados pueden pedir la palabra para rectificar hechos o contestar alusiones personales cuando haya concluido el orador para lo cual se podrá auxiliar del Sistema Electrónico. En cuyo caso harán uso de la palabra hasta por cinco minutos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3459,9 +3369,11 @@ En caso de decretarse la remoción de la totalidad de los integrantes de la mesa
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 291.
 
-En los términos de la Constitución, interpuesta una denuncia, querella o requerimiento del Ministerio Público o acusación ante el Congreso para instruir procedimiento relativo al juicio político, o para la Declaración de Procedencia se turnará a la Comisión Jurisdiccional.
+En los términos de la Constitución, interpuesta una acusación ante el Congreso para instruir procedimiento relativo al juicio político, se turnará a las Comisiones de Gobernación y de Puntos Constitucionales para determinar la procedencia de la denuncia. El desahogo del procedimiento de los juicios políticos corresponderá a la Comisión Jurisdiccional.
 
 El Congreso conoce de las acusaciones que se hagan a los servidores públicos por delitos en que incurran en el desempeño de su cargo. Se erigirá en Jurado de Sentencia para declarar si ha o no lugar, a proceder contra los que gocen de fuero constitucional, cuando sean acusados por delitos del orden común o federal, de acuerdo con lo señalado en el Título Cuarto de la Constitución y demás leyes relativas.
 
@@ -3545,17 +3457,15 @@ La declaración del Congreso deberá hacerse del conocimiento a la autoridad com
 
 ###### ARTÍCULO 302.
 
-En caso de la declaración de procedencia, si el dictamen es acusatorio, el Presidente del Congreso citará al Pleno a erigirse en Jurado de Sentencia, dentro de los tres días siguientes a la fecha en que se hubiere presentado el dictamen a la Secretaría haciéndolo saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ###### ARTÍCULO 303.
 
-Si el Congreso constituido en Jurado de Sentencia declara que ha lugar a proceder contra el inculpado, el funcionario público quedará sujeto a la acción de los Tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial.
-
-En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ###### ARTÍCULO 304.
 
-Cuando se siga proceso penal, sin haberse satisfecho el procedimiento a que se refieren los artículos anteriores, la Secretaría del Congreso, librará oficio al juez o tribunal que conozca de la causa a fin de que se suspenda el procedimiento en tanto se plantea y resuelve por el Congreso si ha lugar a proceder.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2018)
 
 ## TÍTULO SEGUNDO. DE LA SUSPENSIÓN Y DESAPARICIÓN DE LOS AYUNTAMIENTOS Y DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
 
@@ -3877,7 +3787,7 @@ SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 
 P.O. 29 DE SEPTIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 565 POR EL QUE "SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 565 POR EL QUE “SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4018,3 +3928,11 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 427 POR EL QUE “SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 5, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 26, LA FRACCIÓN I DEL ARTÍCULO 33, LA FRACCIÓN I DEL ARTÍCULO 84, EL ARTÍCULO 89, LA FRACCIÓN I DEL ARTÍCULO 109, EL PRIMER PÁRRAFO DEL ARTÍCULO 291; Y SE DEROGAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 5 Y LOS ARTÍCULOS 302, 303 Y 304 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Decreto Legislativo 425, por el que se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, de conformidad con lo previsto por el artículo 164 de la Constitución Estatal.
