@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-unidad-municipal-de-atencion-69734"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-02"
-last_updated: "2009-07-02"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DE LA UNIDAD MUNICIPAL DE ATENCION INTEGRAL, DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO INTERNO DE LA UNIDAD MUNICIPAL DE ATENCION INTEGRAL, DEL MUNICIPIO DE GARCIA, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CENTRO DE ATENCIÓN A VÍCTIMAS DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA UNIDAD MUNICIPAL DE ATENCIÓN INTEGRAL, DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el jueves 2 de julio de 2009.
 
@@ -559,3 +561,25 @@ C. PRESIDENTE MUNICIPAL
 LIC. BENITO ARÁMBULA AMAYA
 
 SECRETARIO DE AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA EL REGLAMENTO DEL CENTRO DE ATENCIÓN A VÍCTIMAS DEL MUNICIPIO DE GARCÍA, N.L.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Unidad Municipal de Atención Integral, publicado en el Periódico Oficial del Estado en fecha 2 de julio de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
