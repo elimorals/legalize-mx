@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2017-11-24"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -61,11 +61,11 @@ I. Consejo estatal: el Consejo Estatal de Seguridad Pública.
 
 II. Consejos municipales: los consejos municipales de seguridad pública.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 III. Instituciones de seguridad pública: las instituciones policiales, la Fiscalía General del Estado y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 IV. Instituciones policiales: la Policía estatal, las policías municipales y los cuerpos de seguridad y custodia de los centros de reinserción social y de aplicación de medidas para adolescentes, y de vigilancia de las audiencias judiciales.
 
@@ -391,11 +391,11 @@ VIII. Propiciar que los programas y las acciones que implementen las institucion
 
 IX. Gestionar la celebración de eventos académicos que difundan y promuevan la prevención del delito.
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 X. Propiciar la coordinación interinstitucional para el cumplimiento de los propósitos establecidos en el artículo 266 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, relacionados con la función preventiva de la comunidad.
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 XI. Desarrollar políticas públicas y programas interdisciplinarios de prevención social de la violencia y la delincuencia para personas adolescentes, con base en los criterios y las disposiciones establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
@@ -463,13 +463,13 @@ Obligaciones
 
 Los integrantes de las instituciones de seguridad pública tendrán las obligaciones establecidas en el artículo 40 de la ley general.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 Además de las obligaciones establecidas en el párrafo anterior, los integrantes de las instituciones de seguridad pública que intervengan en la detención de alguna persona adolescente tendrán las dispuestas en el artículo 74 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 Adicionalmente, los integrantes de las instituciones policiales tendrán las obligaciones específicas establecidas en el artículo 41 de la ley general.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 31 Bis.
 
@@ -511,13 +511,13 @@ Funciones
 
 Las instituciones policiales del estado desempeñarán las siguientes funciones:
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 I. Prevención, que consiste en evitar la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción.
 
 II. Reacción, que consiste en mantener y restablecer, en su caso, la paz y el orden públicos.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 III. Investigación, que será aplicable ante la preservación de la escena de un hecho probablemente delictivo; la petición al Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo mando y conducción de este; los actos que se deban efectuar de forma inmediata; o la comisión de un delito en flagrancia.
 
@@ -1183,7 +1183,7 @@ Compatibilidad de los servicios de telecomunicaciones
 
 El estado y los municipios, en el ámbito de sus respectivas competencias, deberán destinar los recursos financieros e implementar las acciones necesarias para lograr la compatibilidad de sus servicios de telecomunicaciones y registros con los del sistema nacional.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 95 Bis.
 
@@ -1205,9 +1205,13 @@ III. El Registro Estatal de Armamento y Equipo.
 
 IV. El Registro Estatal de Indicadores sobre Seguridad Pública.
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 V. El Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada.
+
+> <small>(ADICIONADA, D.O. 14 DE FEBRERO DE 2018)</small>
+
+VI. El Registro Estatal del Delito de Tortura.
 
 ### Capítulo II. Registros administrativos
 
@@ -1349,11 +1353,11 @@ Utilidad
 
 Las instituciones de seguridad pública deberán considerar la información del Registro Estatal de Indicadores sobre Seguridad Pública en la definición de objetivos, políticas, estrategias y líneas de acción en la materia.
 
-> <small>(ADICIONADA CON AL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA CON AL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 #### Sección quinta. Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 109 Bis.
 
@@ -1368,6 +1372,32 @@ II. La suspensión condicional del proceso aprobada por el juez de control, espe
 III. Los acuerdos reparatorios que se realicen, especificando los nombres de las partes, el tipo de delito, la autoridad que los sancionó y su cumplimiento o incumplimiento.
 
 IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 14 DE FEBRERO DE 2018)</small>
+
+#### Sección sexta. Registro Estatal del Delito de Tortura
+
+> <small>(ADICIONADO, D.O. 14 DE FEBRERO DE 2018)</small>
+
+Artículo 109 ter. Operación y administración del registro
+
+La Fiscalía General del Estado coordinará la operación y la administración del Registro Estatal del Delito de Tortura, el cual es la herramienta de investigación y de información estadística que incluye los datos sobre todos los casos en los que se denuncie y se investigue los casos de tortura y otros tratos o penas crueles, inhumanos o degradantes; incluido el número de víctimas, el cual estará integrado por las bases de datos de la Fiscalía General del Estado, de la Comisión Ejecutiva Estatal de Atención a Víctimas y de la Comisión de Derechos Humanos del Estado de Yucatán.
+
+El Registro Estatal del Delito de Tortura estará interconectado con el Registro Estatal de Atención a Víctimas, en términos de la Ley de Víctimas del Estado de Yucatán, cuando proceda su inscripción en este. La Fiscalía General del Estado procurará que las personas identificadas como víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes aparezcan en ambos registros, para lo cual se coordinará con las autoridades establecidas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O. 14 DE FEBRERO DE 2018)</small>
+
+Artículo 109 quater. Integración
+
+El Registro Estatal del Delito de Tortura estará integrado por la siguiente información:
+
+I. El lugar, la fecha, las circunstancias y las técnicas utilizadas como actos de tortura y tratos o penas crueles, inhumanos o degradantes.
+
+II. Las autoridades señaladas como posibles responsables.
+
+III. El estado de las investigaciones.
+
+IV. La información referente a la víctima, como su situación jurídica, edad, sexo, o cualquier otra condición relevante para los efectos estadísticos, en su caso.
 
 ## TÍTULO SEXTO. Servicios de seguridad privada
 
@@ -1455,7 +1485,7 @@ Secretario general de Gobierno
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 24 DE NOVIEMBRE DE 2017.
+D.O. 24 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
 
@@ -1500,3 +1530,19 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, publicada en el diario oficial del estado el 1 de diciembre de 2003.
+
+Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
+
+El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
