@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-consejo-de-desarrollo-social-en-el-6418
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-18"
-last_updated: "2008-08-18"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE GARCIA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL OBSERVATORIO CIUDADANO EN MATERIA DE OBRAS Y SERVICIOS PÚBLICOS MUNICIPALES DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 18 de agosto de 2008.
 
@@ -271,3 +273,21 @@ C. PRESIDENTE MUNICIPAL
 LIC. ARNULFO TELLEZ ZAVALA
 
 C. SECRETARIO DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL "SE APRUEBA EL REGLAMENTO DEL OBSERVATORIO CIUDADANO EN MATERIA DE OBRAS Y SERVICIOS PÚBLICOS MUNICIPALES DE GARCÍA, N.L".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Consejo de Desarrollo Social En el Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, en fecha 18 de agosto de 2018 (sic).
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
