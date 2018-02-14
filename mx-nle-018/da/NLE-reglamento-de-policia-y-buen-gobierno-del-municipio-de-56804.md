@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-56804"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-06"
-last_updated: "2007-08-06"
+last_updated: "2018-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GARCIA NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GARCÍA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de agosto de 2007.
 
@@ -526,3 +528,25 @@ LIC. ARNULFO TELLEZ ZAVALA
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de García, Nuevo León, a los 26-veintiséis días del mes de Julio del 2007-dos mil siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL "SE APRUEBA EL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GARCÍA, N.L".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Policía y Buen Gobierno del Municipio de García, Nuevo León, Publicado en el Periódico Oficial del Estado en fecha 6 de agosto de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Reglamento
+
+###### ARTÍCULO CUARTO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
