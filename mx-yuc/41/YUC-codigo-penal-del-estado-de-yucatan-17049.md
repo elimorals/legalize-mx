@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2017-12-04"
+last_updated: "2018-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -147,11 +147,11 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 14 DE FEBRERO DE 2018)</small>
 
-###### Artículo 13.
+###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos, previsto en el artículo 284-bis; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; falsificación de documentos, previsto en el artículo 284-bis; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -719,25 +719,19 @@ Si el delito por el que se impuso la publicación fue cometido por medio de la p
 
 ### CAPÍTULO XII. TRATAMIENTO EN LIBERTAD, SEMILIBERTAD Y TRABAJO EN FAVOR DE LA COMUNIDAD
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 14 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 69.
 
 El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y el cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la sanción de prisión sustituida.
 
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
 La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso, del siguiente modo: externación durante la semana de trabajo o educativa con reclusión de fin de semana, salida de fin de semana con reclusión durante el resto de esta, o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
 El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
-Cada dos días de prisión serán substituidos por una jornada de trabajo en favor de la comunidad.
+Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
 La extensión de la jornada de trabajo será fijada por la autoridad judicial tomando en cuenta las circunstancias del caso.
-
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 El trabajo en favor de la comunidad puede ser pena autónoma o sustitutivo de la prisión o de la multa.
 
@@ -4777,7 +4771,7 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 
 D.O. 4 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN”.]
 
 Primero. Entrada en vigor
 
@@ -4794,3 +4788,19 @@ La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en e
 Cuarto. Expedición del reglamento interno
 
 La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
+
+D.O. 14 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, publicada en el diario oficial del estado el 1 de diciembre de 2003.
+
+Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
+
+El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
