@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2017-12-27"
+last_updated: "2018-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -103,13 +105,15 @@ XVIII. Tribunal Superior, al Tribunal Superior de Justicia del Estado de Morelos
 
 ### CAPÍTULO II. De la Integración del Tribunal
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4.
 
-El Tribunal estará integrado por cinco Magistrados, actuará y estará organizado de la siguiente manera:
+El Tribunal estará integrado por siete Magistrados, actuará y estará organizado de la siguiente manera:
 
-I. En cinco salas de las cuales tres serán Salas de Instrucción y dos serán Salas Especializadas teniendo éstas últimas, competencia exclusiva en responsabilidades administrativas, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
+I. En siete salas de las cuales cinco serán Salas de Instrucción y dos serán Salas Especializadas, teniendo éstas últimas competencia exclusiva en responsabilidades administrativas, pudiendo auxiliar, previo acuerdo del Pleno y en caso de requerirse, en las demás materias; dicho acuerdo deberá ser publicado en el Periódico Oficial;
 
-II. Un Pleno Especializado, que estará integrado por tres Magistrados, y
+II. Un Pleno Especializado, que estará integrado por cinco Magistrados, y
 
 III. El Pleno, integrado por el total de los Magistrados.
 
@@ -151,17 +155,21 @@ Las licencias a los Magistrados por un término que no exceda de treinta días n
 
 ### CAPÍTULO III. Del Presidente del Tribunal
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 12.
 
-La Presidencia del Tribunal será rotativa entre los Magistrados de las Salas, en los términos de esta Ley y su Reglamento.
+El Presidente del Tribunal será elegido por el voto favorable de cuando menos cinco Magistrados de las Salas, en los términos de esta Ley y su Reglamento.
 
-El Presidente durará en el cargo dos años, al término del cual, pasará la Presidencia al Magistrado que por número consecutivo le corresponda.
+El Presidente durará en el cargo dos años.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 13.
 
 En el último día hábil del mes de diciembre de cada año, el Tribunal celebrará sesión solemne en la que el Presidente en funciones rendirá el informe anual correspondiente. El informe deberá de ser publicado en el Boletín Electrónico del Tribunal y se remitirá al Ejecutivo estatal para su publicación en el Periódico Oficial.
 
-En esta misma sesión, llegado el caso, el Presidente saliente entregará la Presidencia al Magistrado que por orden consecutivo le corresponda, tomándole la protesta de ley.
+En esta misma sesión, llegado el caso, el Presidente saliente entregará la Presidencia al Magistrado que haya resultado electo Presidente del Tribunal, tomándole la protesta de ley.
 
 ###### Artículo 14.
 
@@ -215,9 +223,11 @@ XXI. Las demás que le confieran el Pleno, la presente Ley u otros ordenamientos
 
 ### Capítulo IV. Del Pleno
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 16.
 
-El Pleno se conformará por el Magistrado Presidente y los cuatro Magistrados de las Salas.
+El Pleno se conformará por el Magistrado Presidente y los seis Magistrados de las Salas.
 
 Las sesiones del Pleno serán válidas con la concurrencia de la mayoría de sus miembros.
 
@@ -289,7 +299,9 @@ I. Aprobar el proyecto de presupuesto de egresos, que será remitido al Ejecutiv
 
 II. Expedir, modificar y dejar sin efectos el Reglamento;
 
-III. Llevar a cabo la rotación de la Presidencia del Tribunal en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
+
+III. Llevar a cabo la elección del Presidente del Tribunal en los términos de la presente Ley;
 
 IV. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, formular y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados;
 
@@ -313,7 +325,11 @@ XIII. Aprobar el presupuesto de egresos y la cuenta pública anual, de conformid
 
 XIV. Cada dos años presentar el diagnóstico cualitativo y cuantitativo sobre el trabajo de las Salas de Instrucción en materia de responsabilidades administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, y
 
-XV. Las demás que determinen las Leyes.
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2018)</small>
+
+XV. Realizar la adscripción de las Salas Especializadas y del Pleno Especializado por cuando menos el voto favorable de al menos cinco magistrados, y
+
+XVI. Las demás que determinen las Leyes
 
 B) Competencias:
 
@@ -351,11 +367,15 @@ IV. Los demás que determinen las Leyes.
 
 ### Capítulo V. Del Pleno Especializado
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 19.
 
-El Pleno Especializado se integrará por dos Magistrados de las Salas de Instrucción y un Magistrado de Sala Especializada quien lo presidirá, exceptuando al Magistrado de Sala Especializada que haya dictado la resolución en primera instancia de que se trate.
+El Pleno Especializado se integrará por cuatro Magistrados de las Salas de Instrucción y un Magistrado de Sala Especializada, exceptuando al Magistrado de Sala Especializada que haya dictado la resolución en primera instancia de que se trate.
 
-El Presidente del Pleno del Tribunal no integrará el Pleno Especializado, salvo cuando sea a la vez, titular de una Sala Especializada. En ese caso, el Pleno designará por la mayoría de votos de sus integrantes, a dos Magistrados de las Salas de Instrucción para que integren el Pleno Especializado junto con los Magistrados de las Salas Especializadas, quienes lo harán de manera rotativa, excluyendo en todo momento, al Magistrado que haya resuelto en primera instancia.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
+El Presidente del Pleno no integrará el Pleno Especializado. El Pleno designará por la mayoría de votos de sus integrantes al Presidente del Pleno Especializado y a los cuatro Magistrados de las Salas de Instrucción para que integren el Pleno Especializado junto con los Magistrados de las Salas Especializadas, quienes lo harán de manera rotativa, excluyendo en todo momento, al Magistrado que haya resuelto en primera instancia.
 
 Los nombramientos que realice el Pleno del Tribunal sobre los Magistrados de las Salas de Instrucción para integrar el Pleno Especializado serán por tiempo indefinido, hasta que el Presidente del Tribunal proponga otra votación y se resuelva por la mayoría del Pleno del Tribunal.
 
@@ -373,11 +393,11 @@ Las sesiones del Pleno Especializado en las que se traten asuntos jurisdiccional
 
 ### Capítulo VI. Del Presidente del Pleno Especializado
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 20.
 
-La Presidencia del Pleno Especializado será rotativa entre los Magistrados de las Salas Especializadas, en los términos de esta Ley y su Reglamento.
-
-El Presidente del Pleno Especializado durará en el cargo dos años, al término del cual pasará la Presidencia al Magistrado de Sala Especializada que en número le corresponda y así sucesivamente hasta terminar su adscripción a las Salas Especializadas.
+El Presidente del Pleno Especializado será electo por cuando menos cinco votos favorables en Pleno de los Magistrados, durará en el cargo dos años.
 
 ###### Artículo 21.
 
@@ -455,9 +475,11 @@ XI. Informar mensualmente al Pleno del Tribunal de las labores del Pleno Especia
 
 #### Sección Primera. De la Integración de las Salas
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 26.
 
-El Tribunal funcionará en tres Salas de Instrucción y dos Salas Especializadas, las que tendrán las facultades y competencia previstas en esta Ley.
+El Tribunal funcionará en cinco Salas de Instrucción y dos Salas Especializadas, las que tendrán las facultades y competencia previstas en esta Ley.
 
 ###### Artículo 27.
 
@@ -1221,19 +1243,19 @@ En todo lo no previsto por este ordenamiento se aplicarán en lo conducente, las
 
 DISPOSICIONES TRANSITORIAS
 
-PRIMERA. Una vez aprobadas (sic) la presente Ley, remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA. Una vez aprobadas (sic) la presente Ley, remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44, 47 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. La presente Ley entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Estado de Morelos.
+SEGUNDA. La presente Ley entrará en vigor a partir del día diecinueve de julio de dos mil diecisiete, previa publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
 
 TERCERA. Los procedimientos de fincamiento de responsabilidad administrativa que hayan iniciado su trámite con la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado de Morelos serán resueltos de conformidad con la Ley de Responsabilidades de los Servidores Públicos vigente a la fecha en que fueron iniciados.
 
-CUARTA. Se abroga la Ley de Justicia Administrativa del Estado de Morelos publicada en el Periódico oficial “Tierra y Libertad” número 5366 de fecha tres de febrero de dos mil dieciséis y todas las disposiciones legales y administrativas que se opongan a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+CUARTA. Se abroga la Ley de Justicia Administrativa del Estado de Morelos publicada en el Periódico oficial "Tierra y Libertad" número 5366 de fecha tres de febrero de dos mil dieciséis y todas las disposiciones legales y administrativas que se opongan a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
 
 QUINTA. Los juicios iniciados con anterioridad a la entrada en vigor de la presente Ley continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias que se llevarán a cabo conforme a las reglas de la Ley de Justicia Administrativa del Estado de Morelos.
 
-SEXTA. El Magistrado Titular de la Tercera Sala continuará fungiendo como Presidente hasta el 31 de diciembre de 2018; a partir del primero de enero de 2019 y hasta el 31 de diciembre de 2020, asumirá la Presidencia del Tribunal el Titular de la Cuarta Sala, y por último a partir del primero de enero de 2021 asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Quinta Sala hasta el 31 de diciembre de 2022; a partir del primero de enero de 2023 se procederá conforme a lo previsto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+SEXTA. (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
-SÉPTIMA. A la entrada en vigor de la presente Ley, quedarán designados como Magistrados de las Salas Especializadas en Responsabilidades Administrativas, los Titulares de las Salas Cuarta y Quinta, por un plazo de nueve años. Lo anterior sin perjuicio de que dichos Magistrados podrán mantener su adscripción durante todo su encargo, en razón de las consideraciones expuestas en el presente Decreto.
+SÉPTIMA. (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 OCTAVA. El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la Ley de Justicia Administrativa del Estado de Morelos, deberá expedir el reglamento interior de la presente Ley, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
 
@@ -1259,7 +1281,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del estado de Morelos a los dieciocho días del mes de julio de dos mil diecisiete.
 
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
@@ -1284,3 +1306,47 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Se deroga la disposición transitoria Décimo Cuarta del decreto por el que se expide la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
 
 CUARTA. La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, deberá a la entrada en vigor del presente decreto, emitir en un plazo no mayor a 30 días naturales, la convocatoria a que hace referencia el artículo 51 de Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+P.O. 15 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLITÍCA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias a la Ley Orgánica del Poder Judicial.
+
+CUARTA. EL Congreso del Estado contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, para que realice la expedición de la Ley Orgánica del Centro de Conciliación Laboral del Estado de Morelos.
+
+QUINTA. En tanto se instituye e inicia operaciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación a que se refiere el presente instrumento jurídico, así como el organismo descentralizado federal; la Junta Local de Conciliación y Arbitraje del Estado de Morelos, continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+SEXTA. Los asuntos que se encuentren en trámite al momento de iniciar sus funciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación Laboral del Estado de Morelos y el organismo descentralizado federal, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+SÉPTIMA. En cualquier caso, los derechos de los trabajadores de la Junta Local de Conciliación y Arbitraje se respetarán conforme a la ley.
+
+OCTAVA. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deberá transferir los expedientes y documentación que, en el ámbito de su competencia, tenga bajo su atención o resguardo, al Tribunal Laboral del Poder Judicial del Estado de Morelos y al Centro de Conciliación Laboral del Estado de Morelos, respectivamente, los cuales se encargarán de atender o resolver las diferencias y los conflictos entre patrones y trabajadores en el ámbito de su competencia y en términos de la normativa aplicable.
+
+NOVENA. Una vez publicado el presente decreto, el Gobernador Constitucional contará con un plazo de treinta días hábiles para enviar al Congreso del Estado la terna de aspirantes que cumplan con los requisitos para ocupar el cargo de Fiscal General del Estado, pudiendo estar incluido el ciudadano que se encuentra ocupando dicho cargo actualmente.
+
+DECIMA. Las reformas a la (sic) Leyes secundarias entrarán en vigor una vez que se realice la Declaratoria de la modificación a la Constitución y se realice su publicación correspondiente.
+
+DÉCIMA PRIMERA. Los recursos humanos, materiales y financieros, así como el acervo documental con que actualmente cuenta el Consejo de la Judicatura, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA SEGUNDA. Los servidores públicos que actualmente laboran en el Consejo de la Judicatura, con excepción de los Consejeros, seguirán formando parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA TERCERA. En un término máximo de noventa días hábiles, a partir de la declaratoria correspondiente, el Congreso del Estado deberá expedir la reforma a la Ley Orgánica del Tribunal Superior de Justicia para adecuarla a la extinción del Consejo de la Judicatura.
+
+DÉCIMA CUARTA. EL Consejo de la Judicatura quedará formalmente extinto, una vez entrada en vigor las reformas del presente decreto. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor el presente decreto, continuarán tramitándose en los términos de las Leyes aplicables, hasta su conclusión en lo que no contravengan con este decreto.
+
+DÉCIMA QUINTA. Los actuales Consejeros de la Judicatura, procederán a realizar la entrega recepción a partir del siguiente día al que entre en vigor la presente reforma.
+
+DÉCIMA SEXTA. Las menciones que en otros ordenamientos se hagan del Consejo de la Judicatura y de los Consejeros del mismo, se entenderán referidas al Pleno del Tribunal Superior de Justicia y los Magistrados que lo integran respectivamente.
+
+DÉCIMA SÉPTIMA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Consejo de la Judicatura del Tribunal Superior de Justicia, de su titular en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, de acuerdo con las atribuciones que mediante la presente reforma se le otorga.
+
+DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supernumerarios que se encuentren desempeñando sus funciones adquirirán el carácter de Magistrados Numerarios, previa ratificación que realice el Congreso del Estado de Morelos.
+
+DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
+
+VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
