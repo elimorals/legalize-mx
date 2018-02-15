@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2018-01-10"
+last_updated: "2018-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -99,27 +101,25 @@ XX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General y de la 
 
 XXI. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 3.
 
-La Fiscalía General, es una Institución perteneciente al Poder Ejecutivo del Estado, dotada de autonomía de gestión, técnica, de ejercicio y de aplicación del gasto público que le asigne el Congreso del Estado.
+La Fiscalía General, es un órgano constitucional autónomo, dotado de personalidad jurídica y de patrimonio propios.
 
-Por su parte, la Fiscalía Anticorrupción, integrante del Sistema Estatal Anticorrupción, cuenta con autonomía técnica, de gestión y operación, con competencia exclusiva para la prevención, persecución e investigación de los delitos que la ley señale como relacionados con hechos de corrupción.
+Además, se establece la Fiscalía Especializada en Combate a la Corrupción, integrante del Sistema Estatal Anticorrupción, estará dotada de autonomía de gestión, técnica, de ejercicio y de aplicación del gasto público.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 4.
 
-Por su autonomía de gestión, la Fiscalía General y la Fiscalía Anticorrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
+Por su autonomía de gestión, la Fiscalía Especializada para Investigación de Hechos de Corrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
 
-El Fiscal Anticorrupción elaborará su anteproyecto y lo entregará a la Secretaría de Hacienda, para que sea integrado al Proyecto de Presupuesto de Egresos del Gobierno del Estado, para su posterior aprobación por parte del Congreso Local.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 5.
 
-La autonomía técnica de la Fiscalía General, y de la Fiscalía Anticorrupción, debe ser entendida como la facultad que les ha sido otorgada para expedir sus propias disposiciones normativas, con excepción de las disposiciones legales que le competan al Gobernador, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento, la Constitución Federal, la Convención de Naciones Unidas Contra la Corrupción, los Tratados Internacionales en materia de Derechos Humanos de los que el Estado Mexicano sea parte, los Códigos y Leyes Nacionales, Generales y Federales que rijan su actuar procesal, la Constitución Local, y en general toda disposición jurídica aplicable.
+La autonomía Constitucional de la Fiscalía General, debe ser entendida como la facultad que le ha sido otorgada para expedir sus propias disposiciones normativas, con el propósito de regular las acciones que desarrolla en el ámbito de su competencia, delimitar las atribuciones que ejerce y regir su actuación, bajo las políticas permanentes de especialización técnica, profesionalización y rendición de cuentas, debiendo respetar en todo momento, la Constitución, tanto Federal como Local, y la Ley.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -407,7 +407,9 @@ XXV. Supervisar y dirigir el Servicio Civil de Carrera de la Fiscalía Anticorru
 
 XXVI. Las demás que le otorguen su Reglamento Interior, las que le sean conducentes consignadas en el artículo 31 de esta Ley, y otras disposiciones jurídicas aplicables.
 
-Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Anticorrupción, que goza de la misma autonomía que la Fiscalía General en términos de los artículos 4 y 5 de esta Ley, incluso respecto de ésa, a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
+Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Especializada en Combate a la Corrupción, gozará de autonomía técnica y de gestión en términos de esta Ley a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
 
 El Fiscal Anticorrupción, además de cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, gozará de nivel equivalente al del Fiscal General, y no le resultarán aplicables los requisitos a que se refiere el artículo 37 de esta Ley.
 
@@ -717,7 +719,9 @@ El Fiscal General tendrá las siguientes atribuciones:
 
 I. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Fiscalía General;
 
-II. Establecer las medidas necesarias para consolidar la autonomía técnica y de gestión de la Fiscalía General;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
+
+II. Establecer las medidas necesarias para consolidar la autonomía constitucional de la Fiscalía General;
 
 III. Autorizar el anteproyecto de Presupuesto de Egresos de la Fiscalía General, a fin de someterlo a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
@@ -739,7 +743,7 @@ XI. Administrar, de manera racional, eficiente y eficaz, los recursos materiales
 
 XII. Denunciar ante la autoridad competente, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público adscrito a la Fiscalía General, que pueda constituir responsabilidad administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
 
-XIII. Proponer al Gobernador los Proyectos o modificaciones a las Leyes, Reglamentos y Decretos de los ordenamientos normativos, relacionados con los fines de la Fiscalía General;
+XIII. (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 XIV. Rendir informes o comparecer ante el Pleno del Congreso del Estado, en términos de lo dispuesto en la Constitución Política del Estado Libre y Soberano de Morelos;
 
@@ -1630,3 +1634,47 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
+
+P.O. 15 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias a la Ley Orgánica del Poder Judicial.
+
+CUARTA. EL Congreso del Estado contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, para que realice la expedición de la Ley Orgánica del Centro de Conciliación Laboral del Estado de Morelos.
+
+QUINTA. En tanto se instituye e inicia operaciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación a que se refiere el presente instrumento jurídico, así como el organismo descentralizado federal; la Junta Local de Conciliación y Arbitraje del Estado de Morelos, continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+SEXTA. Los asuntos que se encuentren en trámite al momento de iniciar sus funciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación Laboral del Estado de Morelos y el organismo descentralizado federal, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+SÉPTIMA. En cualquier caso, los derechos de los trabajadores de la Junta Local de Conciliación y Arbitraje se respetarán conforme a la ley.
+
+OCTAVA. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deberá transferir los expedientes y documentación que, en el ámbito de su competencia, tenga bajo su atención o resguardo, al Tribunal Laboral del Poder Judicial del Estado de Morelos y al Centro de Conciliación Laboral del Estado de Morelos, respectivamente, los cuales se encargarán de atender o resolver las diferencias y los conflictos entre patrones y trabajadores en el ámbito de su competencia y en términos de la normativa aplicable.
+
+NOVENA. Una vez publicado el presente decreto, el Gobernador Constitucional contará con un plazo de treinta días hábiles para enviar al Congreso del Estado la terna de aspirantes que cumplan con los requisitos para ocupar el cargo de Fiscal General del Estado, pudiendo estar incluido el ciudadano que se encuentra ocupando dicho cargo actualmente.
+
+DECIMA. Las reformas a la Leyes secundarias entrarán en vigor una vez que se realice la Declaratoria de la modificación a la Constitución y se realice su publicación correspondiente.
+
+DÉCIMA PRIMERA. Los recursos humanos, materiales y financieros, así como el acervo documental con que actualmente cuenta el Consejo de la Judicatura, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA SEGUNDA. Los servidores públicos que actualmente laboran en el Consejo de la Judicatura, con excepción de los Consejeros, seguirán formando parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA TERCERA. En un término máximo de noventa días hábiles, a partir de la declaratoria correspondiente, el Congreso del Estado deberá expedir la reforma a la Ley Orgánica del Tribunal Superior de Justicia para adecuarla a la extinción del Consejo de la Judicatura.
+
+DÉCIMA CUARTA. EL Consejo de la Judicatura quedará formalmente extinto, una vez entrada en vigor las reformas del presente decreto. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor el presente decreto, continuarán tramitándose en los términos de las Leyes aplicables, hasta su conclusión en lo que no contravengan con este decreto.
+
+DÉCIMA QUINTA. Los actuales Consejeros de la Judicatura, procederán a realizar la entrega recepción a partir del siguiente día al que entre en vigor la presente reforma.
+
+DÉCIMA SEXTA. Las menciones que en otros ordenamientos se hagan del Consejo de la Judicatura y de los Consejeros del mismo, se entenderán referidas al Pleno del Tribunal Superior de Justicia y los Magistrados que lo integran respectivamente.
+
+DÉCIMA SÉPTIMA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Consejo de la Judicatura del Tribunal Superior de Justicia, de su titular en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, de acuerdo con las atribuciones que mediante la presente reforma se le otorga.
+
+DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supernumerarios que se encuentren desempeñando sus funciones adquirirán el carácter de Magistrados Numerarios, previa ratificación que realice el Congreso del Estado de Morelos.
+
+DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
+
+VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
