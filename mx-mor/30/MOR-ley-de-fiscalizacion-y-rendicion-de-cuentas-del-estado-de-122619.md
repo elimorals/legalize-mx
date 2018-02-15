@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12261
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-11-15"
+last_updated: "2018-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -837,7 +835,7 @@ I. Ser ciudadano mexicano por nacimiento, de preferencia morelense, y estar en p
 
 II. Haber residido en el Estado durante los últimos 10 años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del servicio público;
 
-III. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
+III. (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 IV. Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
@@ -1560,3 +1558,51 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias a la Ley Orgánica del Poder Judicial.
+
+CUARTA. EL Congreso del Estado contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, para que realice la expedición de la Ley Orgánica del Centro de Conciliación Laboral del Estado de Morelos.
+
+QUINTA. En tanto se instituye e inicia operaciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación a que se refiere el presente instrumento jurídico, así como el organismo descentralizado federal; la Junta Local de Conciliación y Arbitraje del Estado de Morelos, continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+SEXTA. Los asuntos que se encuentren en trámite al momento de iniciar sus funciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación Laboral del Estado de Morelos y el organismo descentralizado federal, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+SÉPTIMA. En cualquier caso, los derechos de los trabajadores de la Junta Local de Conciliación y Arbitraje se respetarán conforme a la ley.
+
+OCTAVA. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deberá transferir los expedientes y documentación que, en el ámbito de su competencia, tenga bajo su atención o resguardo, al Tribunal Laboral del Poder Judicial del Estado de Morelos y al Centro de Conciliación Laboral del Estado de Morelos, respectivamente, los cuales se encargarán de atender o resolver las diferencias y los conflictos entre patrones y trabajadores en el ámbito de su competencia y en términos de la normativa aplicable.
+
+NOVENA. Una vez publicado el presente decreto, el Gobernador Constitucional contará con un plazo de treinta días hábiles para enviar al Congreso del Estado la terna de aspirantes que cumplan con los requisitos para ocupar el cargo de Fiscal General del Estado, pudiendo estar incluido el ciudadano que se encuentra ocupando dicho cargo actualmente.
+
+DECIMA. Las reformas a la (sic) Leyes secundarias entrarán en vigor una vez que se realice la Declaratoria de la modificación a la Constitución y se realice su publicación correspondiente.
+
+DÉCIMA PRIMERA. Los recursos humanos, materiales y financieros, así como el acervo documental con que actualmente cuenta el Consejo de la Judicatura, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA SEGUNDA. Los servidores públicos que actualmente laboran en el Consejo de la Judicatura, con excepción de los Consejeros, seguirán formando parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA TERCERA. En un término máximo de noventa días hábiles, a partir de la declaratoria correspondiente, el Congreso del Estado deberá expedir la reforma a la Ley Orgánica del Tribunal Superior de Justicia para adecuarla a la extinción del Consejo de la Judicatura.
+
+DÉCIMA CUARTA. EL Consejo de la Judicatura quedará formalmente extinto, una vez entrada en vigor las reformas del presente decreto. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor el presente decreto, continuarán tramitándose en los términos de las Leyes aplicables, hasta su conclusión en lo que no contravengan con este decreto.
+
+DÉCIMA QUINTA. Los actuales Consejeros de la Judicatura, procederán a realizar la entrega recepción a partir del siguiente día al que entre en vigor la presente reforma.
+
+DÉCIMA SEXTA. Las menciones que en otros ordenamientos se hagan del Consejo de la Judicatura y de los Consejeros del mismo, se entenderán referidas al Pleno del Tribunal Superior de Justicia y los Magistrados que lo integran respectivamente.
+
+DÉCIMA SÉPTIMA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Consejo de la Judicatura del Tribunal Superior de Justicia, de su titular en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, de acuerdo con las atribuciones que mediante la presente reforma se le otorga.
+
+DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supernumerarios que se encuentren desempeñando sus funciones adquirirán el carácter de Magistrados Numerarios, previa ratificación que realice el Congreso del Estado de Morelos.
+
+DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
+
+VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE, PUBLICADO EN EL P.O. 15 DE FEBRERO DE 2018, SE ADVIERTE QUE EN LA PARTE FINAL DEL ARTÍCULO SEXTO, SE DEROGAN LAS DISPOSICIONES SEXTA Y SÉPTIMA; SIN EMBARGO, POR UN ERROR DE IMPRESIÓN SE DUPLICÓ LA INFORMACIÓN DE OTRO ORDENAMIENTO Y POR ENDE NO APLICA A ÉSTE SINO A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS.]</small>
