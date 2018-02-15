@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-01-10"
+last_updated: "2018-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -818,9 +818,9 @@ I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o prov
 
 II.- Los Magistrados Electorales o los Secretarios del Tribunal Electoral del Estado de Morelos, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, Tribunal de Justicia Administrativa del Estado de Morelos y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los presidentes municipales, así como quienes ocupen un cargo de dirección en los gobiernos federal, estatal y municipal o ejerzan bajo cualquier circunstancia las mismas funciones, los titulares de los organismos públicos autónomos, salvo que se separen del cargo ciento ochenta días antes del día de la fecha de la elección. Los Diputados que pretendan ser reelectos, podrán optar por no separarse de su cargo, en términos de la normativa aplicable;
+III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos y de la Sala Especializada en Justicia Penal para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los presidentes municipales, así como quienes ocupen un cargo de dirección en los gobiernos federal, estatal y municipal o ejerzan bajo cualquier circunstancia las mismas funciones, los titulares de los organismos públicos autónomos, salvo que se separen del cargo ciento ochenta días antes del día de la fecha de la elección. Los Diputados que pretendan ser reelectos, podrán optar por no separarse de su cargo, en términos de la normativa aplicable;
 
 (NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1180,9 +1180,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Comisionados del Instituto Morelense de Información Pública y Estadística, Auditor General de la Entidad Superior de Auditoría y Fiscalización y Secretario de la Contraloría, la protesta a que se refiere el artículo 133 de esta Constitución;
+XXVII.- Recibir de los Diputados, del Gobernador, del Fiscal General del Estado, del Fiscal Especializado en Combate a la Corrupción, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Laboral del Poder Judicial del Estado de Morelos, de los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, del Magistrado de la Sala Especializada en Justicia Penal para Adolescentes, Comisionados del Instituto Morelense de Información Pública y Estadística, Auditor General de la Entidad Superior de Auditoría y Fiscalización y Secretario de la Contraloría, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
@@ -1202,31 +1202,27 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, del Fiscal Especializado en Combate a la Corrupción, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos internos de control de los Organismos Constitucionales Autónomos;
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Laboral del Poder Judicial del Estado de Morelos, del Tribunal de Justicia Administrativa del Estado de Morelos, del Magistrado de la Sala Especializada en Justicia Penal para Adolescentes, del Fiscal General del Estado, del Fiscal Especializado en Combate a la Corrupción, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos internos de control de los Organismos Constitucionales Autónomos;
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción y al Auditor General de la Entidad Superior de Auditoría y Fiscalización, siempre que su ausencia exceda de treinta días;
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Laboral del Poder Judicial del Estado de Morelos, del Tribunal de Justicia Administrativa, de la Sala Especializada en Justicia Penal para Adolescentes, al Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción y al Auditor General de la Entidad Superior de Auditoría y Fiscalización, siempre que su ausencia exceda de treinta días;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 XXXIV.- Convocar a elecciones de Gobernador, de los integrantes del Congreso del Estado, y de Ayuntamientos en los casos previstos por esta Constitución.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
-
-XXXV.- Designar al representante del Poder Legislativo ante el Consejo de la Judicatura;
+XXXV.- (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado de Morelos y al Fiscal Especializado en Combate a la Corrupción, estos últimos de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
-
-Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Laboral del Poder Judicial del Estado de Morelos; a los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y al Magistrado de la Sala Especializada en Justicia Penal para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado de Morelos y al Fiscal Especializado en Combate a la Corrupción, estos últimos de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado. Las designaciones a que alude esta fracción deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -1252,9 +1248,9 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así mismo designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los titulares de los órganos internos de control de los organismos públicos autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento del Secretario de la Contraloría del Estado;
+XLIV.- Designar y remover, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así mismo designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los titulares de los órganos internos de control de los organismos públicos autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento del Secretario de la Contraloría del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1280,9 +1276,9 @@ LI.- (DEROGADA, P.O. 18 DE FEBRERO DE 2015)
 
 LII.- Expedir el Bando Solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Morelense de Procesos Electorales y Participación Ciudadana o el Tribunal Electoral del Estado de Morelos, en su caso;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-LIII.- Aprobar por la mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Fiscal General del Estado que presente el Titular del Poder Ejecutivo del Estado.
+LIII. A solicitud del Gobernador del Estado, aprobar con el voto de las dos terceras partes, la remoción del Fiscal General por las causas graves que establezca la Ley;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -1420,11 +1416,11 @@ Para que una iniciativa tenga el carácter de ley o decreto, necesita en votaci�
 
 El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Comisionados del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirles los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 46.
 
-El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos y del Tribunal Unitario de Justicia para Adolescentes al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
+El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos y de la Sala Especializada en Justicia Penal para Adolescentes al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -1672,11 +1668,11 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
 
-###### ARTÍCULO 70.
+###### Artículo 70.
 
-Son facultades del Gobernador del Estado:
+Son facultades y obligaciones del Gobernador del Estado:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1714,7 +1710,7 @@ IX.- Visitar el Estado en sus correspondientes municipios, ya sea personalmente 
 
 Dentro del proceso de la planeación y programación democrática, así como de las acciones de evaluación y los ajustes que de ello puedan derivarse, las visitas y en general todas las acciones deberán considerar invariablemente la presencia y participación del Presidente Municipal del lugar al que corresponda, del diputado local del distrito respectivo y de la Comisión que del H. Congreso del Estado corresponda.
 
-X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de ésta Constitución.
+X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
 
 XI.- (DEROGADA, P.O. 22 DE JULIO DE 2015)
 
@@ -1834,9 +1830,9 @@ XXXII.- Solicitar al Instituto Morelense de Procesos Electorales y Participació
 
 XXXIII.- Presentar su declaración patrimonial de bienes en los términos que determine esta Constitución.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes se designe al Fiscal General del Estado, así como solicitar a la Legislatura la remoción del mismo, exponiendo los motivos o razones para ello;
+XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes se designe al Fiscal General del Estado de acuerdo con lo previsto en el artículo 79-B, así como solicitar su remoción por las causas graves que establezca la Ley, de acuerdo con el procedimiento establecido en el artículo 79-B de esta Constitución;
 
 (ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -1984,15 +1980,11 @@ Los servidores públicos a que alude este precepto, así como aquellos que del m
 
 DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1322, PUBLICADO EN EL P.O. 30 DE ABRIL DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014) (F. DE E., P.O. 28 DE MAYO DE 2014)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 79-A.
 
-El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
+El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, como órgano constitucional autónomo, dotado de personalidad jurídica y de patrimonio propios. Su Titular será el Fiscal General del Estado.
 
 > <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
@@ -2034,21 +2026,23 @@ VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los pl
 
 VIII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 79-B.
 
 La Institución del Ministerio Público estará integrada por un Fiscal General del Estado de Morelos, que será el jefe de la misma, y por agentes del Ministerio Público de su Dependencia, a quienes nombrará y removerá libremente.
 
-La Fiscalía General del Estado es una institución integrada al Poder Ejecutivo del Estado.
+El Fiscal General del Estado durará en su encargo nueve años y su designación y remoción se hará de acuerdo con lo siguiente:
 
-La designación del Fiscal General del Estado se hará en términos de lo dispuesto por la fracción XXXVII del artículo 40 de esta Constitución.
+a) A partir de la ausencia definitiva del Fiscal General, el Gobernador del Estado contará con veinte días para enviar una terna al Congreso del Estado;
 
-Para dar cumplimiento a lo que se refiere en el párrafo anterior, el Gobernador del Estado deberá presentar al Congreso del Estado la terna de ciudadanos en un plazo máximo de treinta días.
+b) El Congreso del Estado, con base a la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros de la legislatura;
 
-En caso de falta absoluta del Fiscal General del Estado, el Gobernador enviará al Congreso, en un plazo de treinta días, la terna para la designación de uno nuevo; en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo; el encargado deberá cumplir los mismos requisitos que para ser Fiscal General del Estado esta Constitución establece.
+c) El Gobernador podrá solicitar al Congreso del Estado la remoción del Fiscal General por las causas graves que establezca la ley. La remoción deberá ser aprobada por las dos terceras partes de los miembros de la legislatura local; de no pronunciarse el Congreso dentro de los diez días hábiles seguidos a la presentación de la solicitud, se entenderá como rechazada y el Fiscal General seguirá desempeñando el cargo en los términos de su nombramiento;
 
-Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su Titular podrá solicitar al Poder Legislativo, dentro del primer semestre de su administración, la designación de un nuevo Fiscal General del Estado.
+d) En los recesos del Congreso del Estado, la Diputación Permanente convocará de inmediato a un Periodo Extraordinario, para la designación o para pronunciarse sobre la solicitud de remoción del Fiscal General, y
+
+e) Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
 El Fiscal General del Estado deberá comparecer ante el Pleno del Congreso del Estado a rendir un informe semestral de su gestión.
 
@@ -2056,33 +2050,21 @@ La ley organizará al Ministerio Público y determinará la forma y términos en
 
 Para ser Fiscal General del Estado se deberán reunir los siguientes requisitos:
 
-I.- Ser ciudadano morelense o ciudadano mexicano, en éste último caso, con una residencia de tres años inmediatos anteriores en el Estado; en pleno ejercicio de sus derechos;
+I. Ser ciudadano morelense o ciudadano mexicano, en este último caso, con una residencia de tres años inmediatos anteriores en el Estado; en pleno ejercicio de sus derechos;
 
-II.- Contar con treinta y cinco años de edad y no ser mayor de sesenta y cinco años de edad, a la fecha de su designación;
+II. Contar con treinta y cinco años y no ser mayor de sesenta y cinco años, a la fecha de su designación;
 
-III.- Poseer título y cédula profesional de licenciatura en derecho, con antigüedad de cinco años previos a la fecha de su designación;
+III. Poseer título y cédula profesional de licenciatura en derecho, con antigüedad de cinco años previos a la fecha de su designación;
 
-IV.- Ser de reconocida honorabilidad y honradez;
+IV. Ser de reconocida honorabilidad y honradez;
 
-V.- No haber sido sentenciado a pena privativa de libertad por delito doloso. Empero, si se tratare de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la penalidad impuesta; y
+V. No haber sido sentenciado a pena privativa de libertad por delito doloso. Empero, si se tratare de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la penalidad impuesta, y
 
-VI.- No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
+VI. No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 
 La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal.
 
-El requisito de residencia a que se refiere la fracción I del presente artículo, podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
-
-La Fiscalía General se integrará, además, de la estructura que establezca su Ley Orgánica, con una Fiscalía Especializada en Combate a la Corrupción, la cual tendrá, autonomía técnica y de gestión en el ejercicio de sus atribuciones, capacidad para decidir el ejercicio de su presupuesto, para determinar su organización interna y sobre su funcionamiento, actos y resoluciones. Al frente de ésta Fiscalía estará un Fiscal Especializado designado en los términos de ésta Constitución, quien deberá actuar con base en los principios que rigen a la Fiscalía General y será integrante del Sistema Estatal Anticorrupción, cuyas facultades y competencias se establecerán en la Ley Orgánica.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
-
-Dicho Fiscal Especializado deberá cumplir con los mismos requisitos que para ser Fiscal General; será designado por el Congreso del Estado, de entre la terna que le remita el Gobernador Constitucional del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de los diputados que lo integran; su permanencia en el cargo estará a lo dispuesto en los párrafos quinto y sexto del presente artículo.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
-
-El Fiscal General del Estado de Morelos y el Fiscal Especializado a que se refieren los dos párrafos precedentes, una vez que hayan rendido la protesta del cumplimiento de su respectivo cargo, deberán recibir sus respectivos nombramientos expedidos por el Gobernador Constitucional del Estado.
+El requisito de residencia a que se refiere la fracción I del presente artículo podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
@@ -2166,7 +2148,9 @@ El Congreso del Estado evaluará el desempeño de la Entidad Superior de Auditor
 
 El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales de las áreas Jurídica, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el órgano político del Congreso del Estado; serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso.
 
-La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
+La función de fiscalización será ejercida conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
 La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
@@ -2212,9 +2196,13 @@ IX.- Las demás que establezcan esta Constitución y las leyes aplicables.
 
 Los Poderes del Estado y las entidades fiscalizadas, proporcionarán los auxilios que requiera la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos para el ejercicio de sus funciones.
 
-B.- El Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo ocho años y podrá ser nombrado nuevamente por una sola vez, previa evaluación realizada por el órgano de gobierno del Congreso, deberá contar con cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II, IV y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-Para su designación se conformará una comisión calificadora integrada por los coordinadores de los grupos parlamentarios, la cual presentará al Pleno del Congreso la propuesta correspondiente. La Ley establecerá los requisitos y el procedimiento para su designación. Podrá ser removido exclusivamente por las cusas (sic) graves que la ley señale con la misma votación requerida para su nombramiento o por las causas conforme los procedimientos establecidos en el titulo séptimo de esta constitución.
+B.- El Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, será electo por una sola ocasión por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo ocho años, deberá contar con cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+> <small>[N. DE E. PERTENECE AL APARTADO B, P.O. 15 DE FEBRERO DE 2018]</small>
+
+Para su designación se conformará una comisión calificadora integrada por los coordinadores de los grupos parlamentarios, la cual presentará al Pleno del Congreso la propuesta correspondiente. La Ley establecerá los requisitos y el procedimiento para su designación. Podrá ser removido exclusivamente por las causas graves que la ley señale con la misma votación requerida para su nombramiento o por las causas conforme los procedimientos establecidos en el titulo séptimo de esta constitución.
 
 ###### Artículo 85.
 
@@ -2278,25 +2266,43 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integral y sustentable, para este efecto, también garantizará la conservación del patrimonio natural del estado, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del estado.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE FEBRERO DE 2018)</small>
 
-DISPOSICIONES PRELIMINARES.
+### CAPÍTULO VIII. DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
+Artículo 85 F.- La resolución de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal se resolverá en términos del artículo 105 Bis de esta Constitución.
+
+Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente, conforme lo dispone la fracción XX del artículo 123 de la Constitución Federal.
+
+En el estado de Morelos la función conciliatoria a que se refiere el párrafo anterior estará a cargo del Centro de Conciliación Laboral del Estado de Morelos, como organismo descentralizado del Poder Ejecutivo Estatal, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propios; así como con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su organización y funcionamiento se determinarán en su ley orgánica.
+
+La persona titular del Centro de Conciliación Laboral del Estado de Morelos será designada por el Gobernador del Estado en términos de la normativa aplicable y deberá cumplir con los requisitos que establezca la misma.
+
+La persona titular del organismo público descentralizado desempeñará su encargo por periodos de siete años y podrá ser reelecto por una sola ocasión.
 
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
+El ejercicio del Poder Judicial del Estado se deposita en:
+
+a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Salas Colegiadas y Sala Especializada de Justicia Penal para Adolescentes;
+
+b) En tribunales y juzgados de primera instancia y juzgados menores; organizados de acuerdo con su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
+
+El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables les confieran.
+
+Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -2304,25 +2310,27 @@ El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de
 
 La Ley establecerá y organizará los Tribunales, garantizará la independencia de Magistrados y Jueces en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas. Los nombramientos de los Magistrados y Jueces, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 88.
 
-Los Magistrados de los Tribunales del Estado, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
+Los Magistrados de los Tribunales del Estado, los Jueces y los Consejeros de la Judicatura Estatal, no podrán desempeñar otro empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, a no ser que sean de educación o de beneficencia, el cual no les impida el expedito ejercicio de sus funciones y no reciban remuneración alguna por los mismos. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados Numerarios que se requieran para la integración de las salas que lo conformen, cuando menos de tres supernumerarios y en su caso, de los Magistrados interinos. Los magistrados serán designados por el Pleno del Congreso del Estado y sólo en el caso de los Magistrados Interinos, podrá designar también la Diputación Permanente, en ambos casos a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública para designar a los Magistrados, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados que se requieran para la integración de las salas que lo conformen. Los magistrados serán designados por el Pleno del Congreso del Estado a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública para designarlos, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-Los Magistrados del Tribunal Superior de Justicia, rendirán su protesta ante el Pleno del Congreso o la Diputación Permanente, durarán en su cargo catorce años contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser privados del cargo en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+Los Magistrados del Tribunal Superior de Justicia, rendirán su protesta ante el Pleno del Congreso, durarán en su cargo catorce años contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser privados del cargo en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 El Presidente del Tribunal Superior de Justicia durará en su encargo dos años, pudiendo ser reelecto sólo por un período más, sin posibilidad de volver a ocupar ese cargo.
 
@@ -2330,15 +2338,13 @@ El Presidente del Tribunal Superior de Justicia durará en su encargo dos años,
 
 Las funciones de los Magistrados del Poder Judicial se regirán por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honestidad, independencia, transparencia y rendición de cuentas.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-Ninguna que (sic) persona que haya sido nombrada magistrado del Tribunal Superior de Justicia podrá volver a ocupar dicho cargo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
+Ninguna que (sic) persona que haya sido nombrada magistrado del Tribunal Superior de Justicia podrá volver a ocupar dicho cargo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en el cargo.
 
-Al término de los catorce años, los Magistrados numerarios tendrán derecho a un haber por retiro, conforme lo establezca la Ley en la materia. Para el caso de los Magistrados Supernumerarios, al término de su período se les otorgará de manera proporcional dicho derecho en los términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
+Al término de los catorce años, los Magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Ley en la materia.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -2394,69 +2400,41 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aqué
 
 VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General del Estado o Diputado Local, durante el año previo al día de su designación.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 91.
 
-Los Magistrados Numerarios integrarán el pleno del Tribunal Superior de Justicia.
+Los Magistrados integrarán el pleno del Tribunal Superior de Justicia.
 
 El pleno del Tribunal Superior de Justicia estará facultado para expedir acuerdos generales tendientes a lograr una adecuada distribución entre las salas de los asuntos de la competencia del propio Tribunal.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
-
-Los Magistrados supernumerarios constituirán la Sala Auxiliar y además, sustituirán a los numerarios en el conocimiento de determinados negocios, por excusa o recusación de los mismos. De igual manera, suplirán a los numerarios en las faltas temporales de éstos, siempre que dichas faltas no excedan de treinta días; en los demás casos, suplirán los Magistrados interinos.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+En caso de excusa, recusación y ausencias hasta treinta días de los Magistrados y los Magistrados Especializados se estará a lo dispuesto por la Ley. Las ausencias que excedan de treinta días serán suplidas por los Magistrados interinos.
 
 ###### Artículo 92.
 
-El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado de Morelos con independencia técnica, de gestión y para emitir sus resoluciones, a las cuales deberá dar publicidad y transparencia en los términos de la Ley de la materia.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2018)
 
-El Consejo se integrará por cinco miembros, de los cuales uno será el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado Numerario, un Juez de Primera Instancia, ambos designados conforme a lo que establezca la Ley Orgánica del Poder Judicial; un representante designado por el Ejecutivo del Estado y un representante del Poder Legislativo del Estado, designado por el órgano político del Congreso.
-
-Los Consejeros deberán reunir los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia y ejercerán su función con independencia e imparcialidad, independientemente de quien los designa.
-
-Los integrantes del Consejo para su elección deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, y en el caso de los designados por el Poder Judicial, deberán gozar, además con reconocimiento en el ámbito judicial plenamente comprobados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
-
-Salvo el Presidente del Consejo, los demás Consejeros durarán seis años en el cargo. Ninguno de los integrantes del Consejo podrá ser designado para un nuevo período. Durante su gestión los Consejeros podrán ser removidos además, en los términos que señale esta Constitución.
-
-La Ley reglamentaria deberá prever la integración y facultades del Consejo de la Judicatura Estatal, las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 92-A.
 
-Son facultades del Consejo de la Judicatura Estatal:
+Son facultades del Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+I.- Presentar a consideración del órgano político del Congreso del Estado, los dictámenes técnicos y el expediente de los magistrados que concluyan sus funciones, por lo menos noventa días hábiles antes de que concluyan su encargo;
 
-I.- Presentar a consideración del órgano político del Congreso del Estado, los dictámenes técnicos y el expediente de los magistrados que concluyan sus funciones, por lo menos noventa días hábiles antes de que concluyan su encargo.
+II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial. Los Jueces de Primera Instancia y los que con cualquier otra denominación se designen, serán adscritos y removidos del cargo por el voto de la mayoría simple del total de sus integrantes;
 
-II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
+III.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley;
 
-Los Jueces de Primera Instancia y los que con cualquier otra denominación se designe, serán adscritos y removidos del cargo por el voto de la mayoría simple del total de los miembros del Consejo de la Judicatura Estatal.
+IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley;
 
-III.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley.
+V.- Iniciar investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial;
 
-IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley.
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los Juzgados, y demás Órganos Judiciales, así como recibir del Tribunal Electoral del Estado de Morelos su propuesta de presupuesto, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlos para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
+VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial de acuerdo con lo que la ley establezca;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
-
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los Juzgados, y demás Órganos Judiciales así como recibir del Tribunal Electoral del Estado de Morelos su propuesta de presupuesto, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlos para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
-
-VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
-
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
-
-VIII.- Crear los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo a un estudio de factibilidad presupuestal.
-
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+VIII.- Crear los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal, y
 
 IX.- Las demás que le confiera este mismo ordenamiento u otras leyes.
 
@@ -2488,11 +2466,11 @@ Las licencias de los Magistrados que no excedan de treinta días, serán concedi
 
 Las faltas absolutas de los Magistrados se cubrirán mediante nombramiento, en términos del Artículo 89.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 98.
 
-Los Magistrados, los Jueces y los Consejeros de la Judicatura Estatal percibirán una remuneración adecuada a su alta responsabilidad, la cual será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo.
+Los Magistrados y los Jueces percibirán una remuneración adecuada a su alta responsabilidad, la cual será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -2570,11 +2548,9 @@ VII.- No podrán ser objeto de estas controversias los actos del Congreso como j
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA DEFENSORÍA PÚBLICA.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ###### Artículo 102.
 
@@ -2592,7 +2568,35 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO III BIS. DEL TRIBUNAL LABORAL DEL PODER JUDICIAL DEL ESTADO DE MORELOS
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2018)</small>
+
+###### Artículo 105 Bis.
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones de competencia estatal y los diversos que le corresponda conocer al Tribunal de Arbitraje que refiere el inciso L de la fracción XX del artículo 40 de esta Constitución, estará a cargo del Tribunal Laboral del Poder Judicial del Estado de Morelos, cuyos integrantes serán designados de conformidad con los artículos 116, fracción III, de la Constitución Federal y 20, 21, 86, 87 y 88 de esta Constitución. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+La ley determinará la integración, atribuciones, funcionamiento y demás particularidades del Tribunal Laboral, misma que deberá observar lo dispuesto en la Constitución Federal y demás normativa aplicable.
+
+Los Magistrados integrantes del Tribunal Laboral deberán reunir los mismos requisitos que se requieren para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con capacidad y experiencia en materia laboral.
+
+Serán designados por el Pleno del Congreso del Estado a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+
+Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+
+Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo.
+
+En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en ejercicio del mismo. Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme lo establece esta Constitución y la Ley de la materia. El retiro forzoso del cargo se producirá en los mismos términos que para los Magistrados del Tribunal Superior de Justicia.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
+
+### CAPITULO IV.
+
+DE LA DEFENSORÍA PÚBLICA.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
 
 ### CAPITULO V. DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
@@ -2602,31 +2606,23 @@ La Ley determinará los asuntos de la competencia de los Jueces de Primera Insta
 
 DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
-
-### CAPÍTULO VII.
-
-DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-### CAPITULO I.
-
-DE SU ORGANIZACION POLITICA.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 109 Bis.
 
-La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos, dotado de plena jurisdicción y autonomía para dictar sus fallos, órgano jurisdiccional que no estará adscrito al Poder Judicial.
+La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos; será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, dotado de plena jurisdicción y autonomía para dictar sus fallos.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y resolución de las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares; la determinación de existencia de conflicto de intereses; la emisión de resoluciones sobre la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Poderes Públicos, los organismos públicos autónomos, los municipios y los organismos auxiliares de la administración pública, estatal o municipal; la imposición en los términos que disponga la Ley, de las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales, la Universidad Autónoma del Estado de Morelos y los Organismos Públicos Autónomos creados por esta Constitución.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en ésta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-El Tribunal de Justicia Administrativa estará integrado por cinco magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
+El Tribunal de Justicia Administrativa estará integrado por siete magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2636,17 +2632,23 @@ Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados d
 
 Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
-
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en ejercicio del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
 Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme lo establece esta Constitución y la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
 La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. El Tribunal podrá establecer unidades de apoyo técnico especializado, atendiendo a su disponibilidad presupuestal. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 Los Magistrados deberán cumplir con la presentación oportuna de su declaración de intereses y situación patrimonial en los términos de lo dispuesto por el artículo 133-bis de esta Constitución.
 
@@ -2668,13 +2670,9 @@ El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y ser
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPITULO II.
+### CAPÍTULO VII.
 
-DE SU INTEGRACIÓN Y ELECCION.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2016, PÁGINA 11.]</small>
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
+DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
 
 ###### Artículo 108.
 
@@ -2690,51 +2688,25 @@ Los Magistrados Electorales serán designados en términos de lo dispuesto por l
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO III.
+### CAPITULO I.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE SU ORGANIZACION POLITICA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 109
 
-Ter.- El Tribunal Unitario de Justicia para Adolescentes, será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d), párrafo cuarto, de esta Constitución.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-Para ser Magistrado del Tribunal Unitario de Justicia para Adolescentes, se deberá acreditar especialización en la materia y reunir los requisitos que esta Constitución establece para ser magistrado del Tribunal Superior de Justicia; será nombrado por el Congreso del Estado previa convocatoria a examen de oposición que emitirá el órgano político del Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-Durará en su encargo un periodo de catorce años, contados a partir de la fecha en que rinda la protesta constitucional y sólo podrá ser privado del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos, al término de los cuales tendrá derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme a lo establecido en esta Constitución y las leyes en la materia.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, el Magistrado que hubiere ejercido el cargo con el carácter de titular o suplente, podrá rebasar catorce años en el cargo. El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Entidad Superior de Fiscalización del Estado de Morelos.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
-
-Habrá un Magistrado titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación para la Educación Superior, designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENÚLTIMO Y ÚLTIMO PÁRRAFOS, QUEDAN INTEGRADOS EN UNO.]</small>
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-La Ley Orgánica establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones. La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
+Ter.- (DEROGADO, P.O. 15 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPITULO II.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU INTEGRACIÓN Y ELECCION.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2016, PÁGINA 11.]</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 109
 
@@ -2758,11 +2730,11 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPÍTULO III.
 
-DE SU HACIENDA.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 110.
 
@@ -2786,11 +2758,11 @@ La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO IV.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 112.
 
@@ -2812,11 +2784,11 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO V.
 
-DE LOS REQUISITOS DE ELEGIBILIDAD.
+DE SU HACIENDA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 113.
 
@@ -2834,9 +2806,9 @@ Los Municipios tienen personalidad jurídica propia; pero la política y la admi
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VIII.
+### CAPITULO VI.
 
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2876,11 +2848,11 @@ Los Ayuntamientos deberán otorgar orientación e información turística a los 
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IX.
+### CAPITULO VII.
 
-DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
+DE LOS REQUISITOS DE ELEGIBILIDAD.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 115.
 
@@ -2944,9 +2916,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I.
+### CAPITULO VIII.
 
-PRINCIPIOS GENERALES DE LA ADMINISTRACION PUBLICA.
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 116.
 
@@ -2978,11 +2952,11 @@ X.- Cuando dos o más centros urbanos situados en territorios municipales del Es
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO II.
+### CAPITULO IX.
 
-DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS.
+DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 117.
 
@@ -3018,11 +2992,9 @@ VII.- (DEROGADA, P.O. 27 DE ABRIL DE 2017)
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO III.
+### CAPITULO I.
 
-DE LA DECLARACIÓN DE INTERESES Y DE SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+PRINCIPIOS GENERALES DE LA ADMINISTRACION PUBLICA.
 
 ###### Artículo 118.
 
@@ -3046,11 +3018,11 @@ VII.- Los procedimientos mediante los cuales se resolverán los conflictos que s
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPITULO II.
 
-DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
+DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS.
 
-ADICIONADO, P.O. 20 DE JULIO DE 2005)
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 118
 
@@ -3082,11 +3054,11 @@ DE LA ADMINISTRACION DEL ESTADO.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO X DEL TÍTULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
 
-### CAPITULO I.
+### CAPITULO III.
 
-DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
+DE LA DECLARACIÓN DE INTERESES Y DE SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 119.
 
@@ -3150,11 +3122,11 @@ Las Autoridades del Estado vigilarán por la estricta aplicación y observancia 
 
 Ninguna Ley ni autoridad puede permitir ni autorizar en el Estado espectáculos contrarios a la cultura y moralidad públicas.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 124.
 
-En los casos de huelga, tratándose de servicios públicos, será obligatorio para los trabajadores dar aviso con diez días de anticipación a la Junta de Conciliación y Arbitraje, de la fecha señalada para la suspensión del trabajo.
+En los casos de huelga, tratándose de servicios públicos, será obligatorio para los trabajadores dar aviso con diez días de anticipación, a la autoridad laboral competente, de la fecha señalada para la suspensión del trabajo.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -3226,11 +3198,11 @@ La primera inscripción de la propiedad, será gratuita y el registro de los act
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
-### CAPITULO II.
+### CAPITULO IV.
 
-DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+DE LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
+ADICIONADO, P.O. 20 DE JULIO DE 2005)
 
 ###### Artículo 133.
 
@@ -3247,6 +3219,12 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
+
+### CAPITULO I.
+
+DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
+
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E. P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 133
 
@@ -3265,6 +3243,12 @@ Las declaraciones deberán contener los bienes propios, de todo tipo, los de su 
 La presentación se hará ante la autoridad que corresponda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)</small>
+
+### CAPITULO II.
+
+DE LAS REFORMAS A LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 133
 
@@ -3290,9 +3274,9 @@ Para los efectos de las responsabilidades a que se refiere este Título, se repu
 
 Al Gobernador sólo se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa y calificada como grave a esta Constitución, ataques a la libertad electoral y al derecho de participación ciudadana y por delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por los Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, Fiscalía Especializada en Combate a la Corrupción, Secretaría de la Contraloría, el Magistrado Presidente del Tribunal de Justicia Administrativa, el Comisionado Presidente del Instituto Morelense de Información Pública y Estadística, así como por un representante del Consejo de la Judicatura del Poder Judicial, un representante de los Contralores Municipales del Estado y el Presidente del Comité de Participación Ciudadana; el Presidente del Comité de Participación Ciudadana, lo será a su vez del Comité Coordinador.
+El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por los Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, Fiscalía Especializada en Combate a la Corrupción, Secretaría de la Contraloría, el Magistrado Presidente del Tribunal de Justicia Administrativa, el Comisionado Presidente del Instituto Morelense de Información Pública y Estadística, así como por un representante del Tribunal Superior de Justicia, un representante de los Contralores Municipales del Estado y el Presidente del Comité de Participación Ciudadana; el Presidente del Comité de Participación Ciudadana, lo será a su vez del Comité Coordinador.
 
 Sin detrimento de las funciones que la normativa aplicable le confiera, corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
 
@@ -3318,17 +3302,17 @@ Los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anti
 
 El proceso para la selección de los integrantes del Comité, se establecerá en los términos y condiciones contenidos en la convocatoria pública que expida el Órgano Político del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 135.
 
-El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
+El Gobernador, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los diputados al Congreso del Estado, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura Estatal, por la comisión de delitos federales durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros, previo audiencia del acusado por sí, por su defensor, o por ambos, si ha lugar o no a la formación da causa.
+Para proceder penalmente en contra de los diputados al Congreso del Estado, el Gobernador y los Magistrados del Tribunal Superior de Justicia, por la comisión de delitos federales durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros, previa audiencia del acusado por sí, por su defensor, o por ambos, si ha lugar o no a la formación de causa.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -3342,15 +3326,15 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado de la Sala Especializada en Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos del Estado de Morelos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado de la Sala Especializada en Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -5261,3 +5245,47 @@ P.O. 10 DE ENERO DE 2018.
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+P.O. 15 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA. El Congreso del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias a la Ley Orgánica del Poder Judicial.
+
+CUARTA. EL Congreso del Estado contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, para que realice la expedición de la Ley Orgánica del Centro de Conciliación Laboral del Estado de Morelos.
+
+QUINTA. En tanto se instituye e inicia operaciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación a que se refiere el presente instrumento jurídico, así como el organismo descentralizado federal; la Junta Local de Conciliación y Arbitraje del Estado de Morelos, continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+SEXTA. Los asuntos que se encuentren en trámite al momento de iniciar sus funciones el Tribunal Laboral del Poder Judicial del Estado de Morelos, el Centro de Conciliación Laboral del Estado de Morelos y el organismo descentralizado federal, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+SÉPTIMA. En cualquier caso, los derechos de los trabajadores de la Junta Local de Conciliación y Arbitraje se respetarán conforme a la ley.
+
+OCTAVA. La Junta Local de Conciliación y Arbitraje del Estado de Morelos deberá transferir los expedientes y documentación que, en el ámbito de su competencia, tenga bajo su atención o resguardo, al Tribunal Laboral del Poder Judicial del Estado de Morelos y al Centro de Conciliación Laboral del Estado de Morelos, respectivamente, los cuales se encargarán de atender o resolver las diferencias y los conflictos entre patrones y trabajadores en el ámbito de su competencia y en términos de la normativa aplicable.
+
+NOVENA. Una vez publicado el presente decreto, el Gobernador Constitucional contará con un plazo de treinta días hábiles para enviar al Congreso del Estado la terna de aspirantes que cumplan con los requisitos para ocupar el cargo de Fiscal General del Estado, pudiendo estar incluido el ciudadano que se encuentra ocupando dicho cargo actualmente.
+
+DECIMA. Las reformas a la (sic) Leyes secundarias entrarán en vigor una vez que se realice la Declaratoria de la modificación a la Constitución y se realice su publicación correspondiente.
+
+DÉCIMA PRIMERA. Los recursos humanos, materiales y financieros, así como el acervo documental con que actualmente cuenta el Consejo de la Judicatura, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA SEGUNDA. Los servidores públicos que actualmente laboran en el Consejo de la Judicatura, con excepción de los Consejeros, seguirán formando parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+DÉCIMA TERCERA. En un término máximo de noventa días hábiles, a partir de la declaratoria correspondiente, el Congreso del Estado deberá expedir la reforma a la Ley Orgánica del Tribunal Superior de Justicia para adecuarla a la extinción del Consejo de la Judicatura.
+
+DÉCIMA CUARTA. EL Consejo de la Judicatura quedará formalmente extinto, una vez entrada en vigor las reformas del presente decreto. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor el presente decreto, continuarán tramitándose en los términos de las Leyes aplicables, hasta su conclusión en lo que no contravengan con este decreto.
+
+DÉCIMA QUINTA. Los actuales Consejeros de la Judicatura, procederán a realizar la entrega recepción a partir del siguiente día al que entre en vigor la presente reforma.
+
+DÉCIMA SEXTA. Las menciones que en otros ordenamientos se hagan del Consejo de la Judicatura y de los Consejeros del mismo, se entenderán referidas al Pleno del Tribunal Superior de Justicia y los Magistrados que lo integran respectivamente.
+
+DÉCIMA SÉPTIMA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Consejo de la Judicatura del Tribunal Superior de Justicia, de su titular en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, de acuerdo con las atribuciones que mediante la presente reforma se le otorga.
+
+DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supernumerarios que se encuentren desempeñando sus funciones adquirirán el carácter de Magistrados Numerarios, previa ratificación que realice el Congreso del Estado de Morelos.
+
+DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
+
+VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
