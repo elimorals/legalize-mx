@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2017-12-19"
+last_updated: "2018-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -1448,9 +1448,9 @@ II. El Presidente de la Junta Directiva podrá exponer los fundamentos del dicta
 
 III. Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos, siempre que se deseche el dictamen aprobado por la comisión;
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2018)</small>
 
-IV. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrán disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
+IV. Un integrante de cada grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrá disponer de hasta cinco minutos para exponer su postura. En caso de que el dictamen a discusión haya sido aprobado de forma unánime por la Comisión dictaminadora, la Mesa Directiva, previo acuerdo con la Junta de Coordinación Política, podrá instruir que se elija un solo orador que exponga la postura integral del dictamen con Proyecto de Ley o de Decreto que se sujeta a discusión en lo general. Lo anterior, sin detrimento de que algún diputado o diputada quiera hacer uso de la palabra respecto al dictamen con Proyecto de Ley o de Decreto sujeto a discusión en lo general;
 
 V. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
 
@@ -1498,9 +1498,9 @@ I. Se discutirán y votarán en lo general y después en lo particular;
 
 II. Serán leídos por un Secretario de la Mesa Directiva;
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 2018)</small>
 
-III. Un integrante de cada grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrán disponer de hasta tres minutos para exponer su postura.
+III. Un integrante de cada grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrán disponer de hasta tres minutos para exponer su postura; la Mesa Directiva, previo acuerdo con la Junta de Coordinación Política, podrá instruir que se elija un solo orador para exponer una postura integral de la iniciativa o minuta que por vencimiento de plazo hayan pasado al Pleno en sus términos, cuando estas se sujeten a su discusión en lo general. Lo anterior, sin detrimento de que algún diputado o diputada quiera hacer uso de la palabra respecto a la iniciativa o minuta a discusión;
 
 IV. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
 
@@ -4017,3 +4017,9 @@ D.O.F. 19 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 109 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 104 Y LA FRACCIÓN III DEL ARTÍCULO 105 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
