@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-administracion-y-77541"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-12"
-last_updated: "2010-11-12"
+last_updated: "2018-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE SINALOA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 12 de noviembre de 2010.
 
@@ -1582,3 +1584,15 @@ El Secretario de la Contraloría y Desarrollo Administrativo
 Lic. Pedro Rafael Estrella Robles.
 
 LA PRESENTE HOJA DE FIRMAS CORREPONDE (SIC) AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS”.]
+
+Artículo Primero.- El presente Reglamento y su estructura correspondiente, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Administración y Finanzas, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 136, Tomo Cl, 3ra Época, Edición Vespertina de fecha 12 de noviembre de 2010.
+
+Artículo Tercero.- Esta Secretaría formulará dentro de un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público.
