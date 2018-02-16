@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2016-07-08"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -142,6 +142,10 @@ IV. Conocer y resolver los procedimientos de aclaración o rectificación admini
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 2016)</small>
 
 IV Bis. Anular las actas de nacimiento cuando exista duplicidad de registros únicamente en relación a las fechas de nacimiento y de registro, de conformidad con el procedimiento establecido en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+IV Bis 1. Conocer y resolver el procedimiento para la expedición de las constancias de homonimia, previo pago y búsqueda en los archivos electrónicos o documentales, a petición del interesado.
 
 V. Instalar, en coordinación con los Ayuntamientos, un sistema informático que establezca una red que cubra todo el territorio estatal, que a su vez permita la conexión con la red nacional;
 
@@ -291,11 +295,13 @@ XXV. Expedir las constancias de inexistencia de registros, de acuerdo a los resu
 
 XXVI. Autorizar los registros extemporáneos de nacimiento y defunción, siempre y cuando se cumpla con los requisitos señalados por la presente Ley y por las leyes aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 2016)</small>
 
 XXVI Bis. Autorizar la nulidad de las actas de nacimiento cuando exista duplicidad de registro;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XXVI Bis 1. Autorizar las constancias de homonimia, cuando en los registros que obren en los formatos, libros y base de datos del Archivo Estatal del Registro Civil a su cargo, se den los elementos que señala el artículo 109 bis 3 de la presente Ley;
 
 XXVII. Respetar y vigilar el cumplimiento de los convenios, para el adecuado funcionamiento del sistema nacional para la solicitud, trámite y obtención de copias certificadas de actas foráneas del Registro Civil;
 
@@ -1279,11 +1285,59 @@ II. Integrado el expediente respectivo y desahogadas las probanzas de referencia
 
 III. Ejecutoriada la resolución pronunciada por la autoridad competente, se comunicará a la Oficialía del Registro Civil correspondiente y al Archivo del Sistema Estatal del Registro Civil, para la anotación respectiva en sus archivos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO III BIS 1. DE LA CONSTANCIA DE HOMONIMIA
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 109 Bis 3.
+
+La constancia de homonimia es el documento que certifica que en los registros que obran en el Archivo Estatal del Registro Civil, dos personas tienen nombres y apellidos iguales y fecha de nacimiento similar, pero distintos nombres de los padres y lugar de nacimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 109 Bis 4.
+
+Para la expedición de la constancia de homonimia, el interesado o su representante legal, presentarán la solicitud por escrito a la Coordinación Técnica del Sistema Estatal del Registro Civil o ante el Oficial del Registro Civil que corresponda, misma que procederá cuando existan dos o más registros homónimos.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 109 Bis 5.
+
+Las solicitudes de constancia de homonimia, deberán señalar:
+
+I. La autoridad a la que se dirige;
+
+II. El nombre del peticionario y, en su caso, de quien promueve en su nombre;
+
+III. El domicilio;
+
+IV. El nombre y domicilio de la Oficialía del Registro Civil donde realizó el registro; y
+
+V. Una relación clara de los hechos, motivos y fundamentos de la solicitud.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 109 Bis 6.
+
+El particular deberá adjuntar a su petición:
+
+I. El documento que acredite su personalidad, cuando no se gestione a nombre propio;
+
+II. La copia certificada del acta asentada en la Oficialía del Registro Civil correspondiente; y
+
+III. El documento que motivó su solicitud, en su caso.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 109 Bis 7.
+
+La constancia de homonimia se deberá emitir en un plazo no mayor a tres días a partir de la recepción de la solicitud.
+
 ### CAPÍTULO IV
 
 DE LA AUDIENCIA.
-
-### CAPÍTULO V. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 110.
 
@@ -1305,7 +1359,7 @@ Concluido el desahogo de las prueba, las partes podrán alegar por escrito o ver
 
 Una vez oídos los alegatos de las partes, la autoridad administrativa podrá reservarse el dictado de la sentencia dentro de un término no mayor de diez días.
 
-### CAPÍTULO VI. DE LA QUEJA
+### CAPÍTULO V. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 114.
 
@@ -1341,7 +1395,7 @@ La Coordinación Técnica del Sistema Estatal del Registro Civil resolverá en d
 
 Las resoluciones no impugnadas en términos legales causan estado por ministerio de ley.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LA QUEJA
 
 ###### Artículo 119.
 
@@ -1364,6 +1418,8 @@ En este caso, la Coordinación Técnica del Sistema Estatal del Registro Civil g
 Si del estudio del caso se resuelve que existe la presunción de responsabilidad penal, se formulará la denuncia correspondiente ante el Ministerio Público.
 
 ## TÍTULO QUINTO (SIC). DE LAS SANCIONES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 122.
 
@@ -1576,3 +1632,11 @@ P.O. 8 DE JULIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor a los treinta días después del día de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Guerrero.
 
 SEGUNDO. Los asuntos que hayan sido iniciados hasta antes de la entrada en vigor del presente Decreto, seguirán su trámite acorde a la normatividad vigente en el momento de su inicio y hasta su conclusión.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 660 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Notifíquese el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
