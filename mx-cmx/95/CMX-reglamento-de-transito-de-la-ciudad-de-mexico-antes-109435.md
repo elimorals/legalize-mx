@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2015-12-22"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL DISTRITO FEDERAL.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 22 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -554,6 +550,8 @@ III, IV, V, VI, X 10 a 20 veces 3 puntos
 
 VII, VIII, IX, XI 10 a 20 veces 1 punto
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 11.
 
 Se prohíbe a los conductores de todo tipo de vehículos:
@@ -572,7 +570,7 @@ IV. Detenerse en sitios donde exista señalamiento restrictivo que así lo indiq
 
 V. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares;
 
-VII (SIC). Rebasar a otros vehículos cuando éstos se detengan para ceder el paso a los peatones;
+VI. Rebasar a otros vehículos cuando éstos se detengan para ceder el paso a los peatones;
 
 VII. Realizar un movimiento diferente a lo indicado por la señalización vial sobre carriles destinados para giros a la derecha o izquierda;
 
@@ -616,7 +614,7 @@ XIV. Circular detrás de vehículos de emergencia que transiten con las señales
 
 XV. Detenerse a una distancia que entorpezca o ponga en riesgo las labores del personal de atención a emergencias.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 Los conductores de vehículos motorizados que incumplan lo dispuesto en este artículo, serán sancionados de acuerdo a la siguiente tabla:
 
@@ -632,7 +630,7 @@ la Ciudad de
 
 México vigente
 
-IV, V, XII 5 a 10 veces 1 punto
+IV, V, XIII 5 a 10 veces 1 punto
 
 I, II, VI, VII, VIII, IX, 20 a 30 veces 3 puntos
 
@@ -642,19 +640,13 @@ XV
 
 III 20 a 30 veces 3 puntos
 
-y remisión
+I, II y III en caso 40 a 50 veces 3 puntos
 
-del vehículo
+de conductores
 
-al depósito
+de vehículos de
 
-I, II, III en caso 40 a 50 veces 3 puntos
-
-de conductores y remisión
-
-de vehículos de del vehículo
-
-transporte público al depósito
+transporte público
 
 y conductores
 
@@ -1220,6 +1212,8 @@ México vigente
 
 I, II, III, IV, V, VI 10 a 20 veces 1 punto
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 30.
 
 Se prohíbe estacionar cualquier vehículo:
@@ -1230,7 +1224,7 @@ II. En las vías primarias;
 
 III. Sobre o debajo de cualquier puente o estructura elevada de una vía pública o en el interior de un túnel;
 
-IV. En el costado izquierdo de la vía cuando existan camellones centrales, laterales o islas, así como en las glorietas, salvo que las marcas en el pavimento y el señalamiento lo permita;
+IV. En el costado izquierdo de la vía cuando existan camellones centrales, laterales o islas, así como en las glorietas, salvo que las marcas en el pavimento y el señalamiento lo permita (sic);
 
 V. En donde exista señalamiento restrictivo, o la guarnición de la acera sea de color amarillo, que indica el área donde está prohibido el estacionamiento;
 
@@ -1312,17 +1306,15 @@ XXI 5 a 10 veces No aplica
 
 I, XII, XVI 10 a 20 veces 3 puntos
 
-II, IV, V, XI 10 a 20 veces 1 punto
+II, IV, V, XI, 10 a 20 veces 1 punto
 
-XII, IV, XX
+XIII, XIV, XX
 
-III, VIII, X, XVII 15 a 20 veces 3 puntos
+III, VIII, X, XVIII, 15 a 20 veces 3 puntos
 
 XIX
 
 VI, VII, XV 20 a 30 veces 6 puntos
-
-En los casos anteriores, se usara grúa o vehículo autorizado para que el vehículo sea remitido al depósito vehicular
 
 ###### Artículo 31.
 
@@ -1638,6 +1630,8 @@ del vehículo
 
 al depósito
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 38.
 
 Los conductores de vehículos son responsables de evitar realizar acciones que pongan en riesgo su integridad física y la de los demás usuarios de la vía, por lo que se prohíbe:
@@ -1734,15 +1728,9 @@ V a); VI a)
 
 IV 10 a 20 veces 3 puntos
 
-y remisión
-
-del vehículo
-
-al depósito
-
 II i) 20 a 30 veces 3 puntos
 
-II e) 30 a 35 veces 3 puntos
+II c) 30 a 35 veces 3 puntos
 
 V b) 40 a 60 veces 3 puntos
 
@@ -1750,7 +1738,7 @@ y remisión
 
 del vehículo
 
-al depósito
+al deposito
 
 VI b) 400 a 600 veces 6 puntos
 
@@ -1766,6 +1754,8 @@ Los conductores que no cumplan con lo establecido en el presente artículo será
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS DE LOS VEHÍCULO
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 40.
 
 Los conductores de vehículos deben cerciorarse de que su vehículo esté provisto de los siguientes elementos, de acuerdo a la naturaleza propia de cada vehículo.
@@ -1778,47 +1768,25 @@ II. Conductores de todo vehículo motorizado:
 
 a) Combustible y lubricante suficiente para su buen funcionamiento;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 b) Cuartos delanteros, de luz amarilla o blanca y cuartos traseros de luz roja;
-
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
 c) Faros delanteros, que cumplan con las Normas Oficiales Mexicanas, dotados de un mecanismo para cambio de intensidad;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 d) Luces indicadoras de frenos en la parte trasera; direccionales y luces de parada de destello intermitente delanteras y traseras; luces para indicar movimiento en reversa; luces que iluminen la placa de matrícula posterior;
-
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
 e) Neumáticos en condiciones que garanticen la seguridad;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 f) Parabrisas en óptimas condiciones que permita la visibilidad al interior y exterior del vehículo;
-
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
 g) Ambas defensas;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 h) Dos espejos retrovisores laterales y uno interior los vehículos de transporte de carga y de pasajeros cuya carrocería impida la visión central sólo tendrán los espejos laterales;
-
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
 i) Una bocina que emita un sonido audible desde una distancia de sesenta metros en circunstancias normales;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 j) Un dispositivo silenciador en el escape que amortigüe las explosiones del motor;
 
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
-
 k) Cinturones de seguridad para cada ocupante del vehículo, y
-
-> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
 l) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
 
@@ -1836,7 +1804,7 @@ a) Bandas reflejantes de color blanco y rojo en los costados laterales y posteri
 
 b) Contar con un botiquín de primeros auxilios; y
 
-c) Tratándose de taxis preferentes los sistemas para la sujeción de pasajeros que viajen en silla de ruedas, deben ser de acuerdo con el anexo de este reglamento
+c) Tratándose de taxis preferentes los sistemas para la sujeción de pasajeros que viajen en silla de ruedas, deben ser de acuerdo con el anexo de este reglamento.
 
 V. Vehículos de transporte de carga:
 
@@ -1860,7 +1828,7 @@ la Ciudad de
 
 México vigente
 
-II a), b), c), d) 5 a 10 veces No aplica
+II a), b), c), d), 5 a 10 veces No aplica
 
 e), f), g), h), i),
 
@@ -1869,12 +1837,6 @@ j), k), l)
 IV, V 10 a 20 veces No aplica
 
 III 30 a 40 veces
-
-y remisión del
-
-vehículo al
-
-depósito
 
 Adicionalmente, las escuelas de manejo que incumplan lo dispuesto en la fracción III serán sancionadas de acuerdo a lo que establezca la autorización respectiva de funcionamiento.
 
@@ -2655,3 +2617,17 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 > <small>N. DE E. VÉASE ANEXO 4 SISTEMA DE RETENCIÓN INFANTIL EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 115 A LA 117.</small>
 
 > <small>N. DE E. VÉASE ANEXO 5 DISPOSITIVOS DE SEGURIDAD PARA VEHÍCULOS DE TRANSPORTE DE CARGA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 118 A LA 121.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+CUARTO.- Se instruye a la Secretaría de Seguridad Pública de la Ciudad de México para que dentro del ámbito de sus atribuciones realice las acciones necesarias para la implementación del presente Decreto y de ser necesario la actualización de la normatividad institucional.
