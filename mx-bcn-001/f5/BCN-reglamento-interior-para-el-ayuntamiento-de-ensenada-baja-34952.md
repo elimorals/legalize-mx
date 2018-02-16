@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2017-09-25"
+last_updated: "2018-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1435,9 +1435,9 @@ III.- Administración Pública y Fortalecimiento Municipal;
 
 IV.- Equidad Social e Igualdad de Género;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-V.- Obras y Servicios Públicos e infraestructura;
+V.- Servicios Públicos e Infraestructura;
 
 VI.- Desarrollo Urbano;
 
@@ -1571,33 +1571,25 @@ XI.- Supervisar el correcto funcionamiento de los servicios que preste el Instit
 
 XII.- Impulsar ante el pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de la mujer como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia de (sic) Social y de Género.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-COMISIÓN DE OBRAS Y SERVICIOS PÚBLICOS E INFRAESTRUCTURA.
+COMISIÓN DE SERVICIOS PÚBLICOS E INFRAESTRUCTURA
 
-###### ARTÍCULO 118.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 118.
 
 Atribuciones:
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de servicios públicos e infraestructura.
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de obras y servicios públicos e infraestructura;
+II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la presentación de los servicios públicos e infraestructura municipal.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+III.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con la municipalización y concesión de servicios públicos e infraestructura municipal, y la concurrencia del Ayuntamiento con los Gobiernos Federal y Estatal en su presentación;
 
-II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación de los Servicios Públicos e Infraestructura Municipal;
+IV.- Dictaminar respecto de los proyectos de convenio por los que el ayuntamiento concurra con otros Gobiernos Municipales en la presentación de los servicios públicos;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-III.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con la municipalización y concesión de servicios públicos e infraestructura municipal, y la concurrencia del Ayuntamiento con los Gobiernos Federal y Estatal en su prestación;
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-IV.- Dictaminar respecto de los proyectos de convenio por los que el Ayuntamiento concurra con otros Gobiernos Municipales en la prestación de los servicios públicos;
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-V.- Dictaminar sobre el programa anual de Obra pública e infraestructura municipal.
+V.- Dictaminar sobre el programa anual de infraestructura municipal.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
@@ -2350,3 +2342,9 @@ P.O. 25 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL PROEMIO Y DEL ANTECEDENTE PRIMERO DEL DICTAMEN 085/2017 APROBADO EN SESIÓN EXTRAORDINARIA DE EXTREMA URGENCIA DE FECHA 16 DE AGOSTO DE 2017; ASÍ COMO LA REFORMA (SIC) DIVERSOS ARTÍCULOS AL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, REGLAMENTO INTERIOR DE LA SINDICATURA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA Y REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma se publicará en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal y de conformidad a lo establecido en el primer artículo transitorio de la Ley de Responsabilidades Administrativas del Estado de Baja California, la presente reforma entrará en vigor el primero de enero del año dos mil dieciocho.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 114 FRACCIÓN V Y 118 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
