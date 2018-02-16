@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2015-01-27"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -132,7 +132,9 @@ A los Institutos Nacionales de Salud les corresponderá:
 
 I. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas, en las áreas biomédicas y sociomédicas en el campo de sus especialidades, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, y rehabilitación de los afectados, así como para promover medidas de salud;
 
-II. Publicar los resultados de las investigaciones y trabajos que realice, así como difundir información técnica y científica sobre los avances que en materia de salud registre;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+II. Publicar los resultados de las investigaciones y trabajos que realice, integrándolos al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, de conformidad con lo estipulado en la Ley de Ciencia y Tecnología.
 
 III. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio o cooperación con instituciones afines;
 
@@ -725,3 +727,9 @@ Séptimo. Se abroga el Decreto por el que se crea el Instituto de Geriatría, pu
 D.O.F. 27 DE ENERO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD”.]
+
+Único: El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
