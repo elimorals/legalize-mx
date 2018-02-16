@@ -4,7 +4,7 @@ identifier: "LFSA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2007-07-25"
-last_updated: "2012-06-07"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de julio de 2007.
 
@@ -1266,9 +1266,11 @@ XV. Plantas que pretendan exportar bienes de origen animal a los Estados Unidos 
 
 Las disposiciones de sanidad animal y las relativas a las buenas prácticas pecuarias, establecerán en su caso programas de verificación de los establecimientos, asimismo determinarán aquéllos que deberán contar con médicos veterinarios responsables autorizados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 106.
 
-Los propietarios, el administrador único, los responsables de la administración o poseedores de los establecimientos a los que hace referencia el artículo anterior, y los médicos veterinarios responsables autorizados en su caso, serán responsables del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias que por el tipo de establecimiento les sean aplicables. Asimismo dichas personas estarán obligadas a proporcionar las facilidades necesarias a la Secretaría cuando ejerza sus atribuciones de inspección del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias de los bienes de origen animal.
+Los propietarios, el administrador único, los responsables de la administración o poseedores de los establecimientos a los que hace referencia el artículo anterior, y los médicos veterinarios responsables autorizados o un médico veterinario oficial en su caso, serán responsables del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias que por el tipo de establecimiento les sean aplicables. Asimismo dichas personas estarán obligadas a proporcionar las facilidades necesarias a la Secretaría cuando ejerza sus atribuciones de inspección del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias de los bienes de origen animal.
 
 Dichas personas estarán obligadas a establecer las medidas de control necesarias e informar inmediata y expresamente a la Secretaría, en el supuesto de que detecten o tengan la sospecha de una enfermedad o plaga de notificación obligatoria, enfermedad o plaga exótica o una posible fuente de contaminación de los bienes de origen animal.
 
@@ -1296,7 +1298,9 @@ La certificación TIF tendrá validez y surtirá sus efectos en toda la Repúbli
 
 La Secretaría promoverá que los centros de sacrificio de animales y establecimientos de procesamiento de bienes de origen animal obtengan el carácter de Tipo Inspección Federal una vez que se cumpla con lo dispuesto en esta Ley y su Reglamento.
 
-Los establecimientos TIF de sacrificio de animales y de procesamiento de bienes de origen animal, deberán tener a su servicio durante las horas laborables, cuando menos un médico veterinario responsable autorizado para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias y de buenas prácticas pecuarias.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+Los establecimientos TIF de sacrificio de animales y de procesamiento de bienes de origen animal, deberán tener a su servicio durante las horas laborables, cuando menos un médico veterinario oficial o médico veterinario responsable autorizado para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias y de buenas prácticas pecuarias.
 
 Asimismo, la Secretaría autorizará la instalación y funcionamiento de las plantas de rendimiento o beneficio, en las cuales también ejercerá la inspección, verificación y vigilancia por personal oficial, unidad de verificación u organismo de certificación.
 
@@ -1959,3 +1963,9 @@ CUARTO.- Las legislaturas de los estados deberán adecuar en su legislación cor
 QUINTO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 SEXTO.- Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Salud, a efecto de que en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los productos procesados en rastros y en establecimientos dedicados al procesamiento de los productos derivados del sacrificio, les confieren la Ley Federal de Sanidad Animal, la Ley General de Salud y las demás disposiciones aplicables.
+
+D.O.F. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, PRIMER PÁRRAFO Y 108, SEGUNDO PÁRRAFO DE LA LEY FEDERAL DE SANIDAD ANIMAL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
