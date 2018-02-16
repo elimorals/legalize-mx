@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2017-08-09"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -77,9 +77,7 @@ b) Auditoría Especial de Gobierno del Estado y Organismos Públicos Autónomos
 
 c) Auditoría Especial de Municipios
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
-
-d) Laboratorio de Obra Pública
+d) (DEROGADO, P.O. 16 DE FEBRERO DE 2018)
 
 e) (DEROGADO, P.O. 8 DE MAYO DE 2015)
 
@@ -90,6 +88,14 @@ a) Contraloría Interna
 b) Unidad de Asuntos Jurídicos
 
 c) Unidad General de Administración
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE FEBRERO DE 2018)</small>
+
+III. De Soporte y Fiscalización
+
+a) Coordinación de Auditoría Forense; y
+
+b) Laboratorio de Obra Pública
 
 ###### Artículo 5.
 
@@ -130,6 +136,24 @@ IV. Jefes;
 V. Analistas; y
 
 VI. Auxiliares.
+
+En el caso de puestos que no estén contemplados en los niveles anteriores, con independencia de su denominación, deberán asimilarse a la estructura anterior considerando las facultades y atribuciones asignadas, para los efectos de determinación del nivel jerárquico y demás elementos inherentes al mismo.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 7 Bis.
+
+La estructura orgánica de las unidades administrativas de soporte y fiscalización de la Auditoría Superior del Estado, se determinará con base en los siguientes niveles jerárquicos:
+
+I. Coordinadores;
+
+II. Jefes;
+
+III. Auditores;
+
+IV. Técnicos; y
+
+V. Auxiliares
 
 En el caso de puestos que no estén contemplados en los niveles anteriores, con independencia de su denominación, deberán asimilarse a la estructura anterior considerando las facultades y atribuciones asignadas, para los efectos de determinación del nivel jerárquico y demás elementos inherentes al mismo.
 
@@ -673,73 +697,17 @@ III. Emitir opiniones y dictámenes técnicos en relación a los precios unitari
 
 IV. Las demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
 
 #### Sección Cuarta. Del Laboratorio de Obra Pública
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
-
 ###### Artículo 25.
 
-La Auditoría Superior del Estado, para la verificación de las especificaciones constructivas y de calidad de los materiales de la obra pública, contará con un laboratorio de ensaye de materiales, a cargo de un Coordinador del Laboratorio de Obra Pública.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+(DEROGADO, P.O. 16 DE FEBRERO DE 2018)
 
 ###### Artículo 26.
 
-Corresponde al Coordinador del Laboratorio de Obra Pública, el ejercicio de las facultades y atribuciones siguientes:
-
-I. Supervisar que la toma de las muestras de materiales de construcción o suelos de las obras públicas que realice el personal a su cargo, sea suficiente y que cumpla con la normatividad establecida;
-
-II. Verificar que los ensayes del laboratorio practicados por el personal a su cargo en campo y en las instalaciones del laboratorio de la Auditoría Superior del Estado, sean realizados observando las normas, estándares y procedimientos técnicos aplicables;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
-
-III. Emitir el dictamen correspondiente a los resultados de las pruebas practicadas en laboratorio a los materiales de la obra pública revisada;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
-
-IV. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-V. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-VI. Proporcionar la información, documentación, datos, informes, asesorías y cooperación técnica que requieran otras áreas;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-VII. Supervisar la elaboración y levantamiento de las actas circunstanciadas derivadas de las actuaciones realizadas;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-VIII. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de sus funciones, en los plazos establecidos por la Ley;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-IX. Cotejar y validar la información y documentación que les sea proporcionada en la práctica de auditorías, visitas, inspecciones o revisiones, con sus originales, haciendo constar dicha situación en el acta circunstanciada respectiva;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-X. Apoyar a las Unidades de Fiscalización competentes, en la elaboración de los dictámenes técnicos de auditoría e integración de los expediente técnicos respectivos;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-XI. Requerir a terceros que hubieren contratado con los entes públicos, obra pública, bienes, servicios o arrendamientos mediante cualquier modalidad legal, y en general a cualquier entidad o persona física o moral, pública o privada que haya ejercido recursos públicos, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-XII. Ordenar, coordinar y supervisar la práctica de visitas y auditorías a los sujetos de fiscalización, así como las inspecciones y demás investigaciones necesarias para el cumplimiento de sus funciones;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-XIII. Designar e incorporar al personal encargado de los procesos de revisión y fiscalización; y
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
-
-XIV. Los demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendados por su superior jerárquico.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA SU NUMERACIÓN Y REUBICADA [N. DE E. ANTES SECCIÓN CUARTA], P.O. 8 DE MAYO DE 2015)</small>
 
@@ -933,35 +901,129 @@ XXVI. Elaborar los finiquitos de las cuentas públicas para su expedición por e
 
 XXVII. Tramitar, instruir y elaborar los proyectos de resolución de los recursos de reconsideración que se interpongan en términos de la Ley;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XXVIII. Supervisar al Director de la Unidad de Investigación y al Director de la Unidad de Substanciación en todas sus atribuciones y funciones;
+XXVIII. Supervisar al Director de la Unidad de Investigación, al Director de la Unidad de Substanciación, y al Director de Consulta y Asistencia Jurídica, en todas sus atribuciones y funciones;
 
 XXIX. Formar parte de los comités, comisiones o grupos de trabajo que le designe el Auditor General; y
 
 XXX. Las demás que le confieran la Ley, el Reglamento u otras disposiciones legales, así como los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean asignadas por el Auditor General.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 30 Bis.
 
-Corresponde al Director de la Unidad de Investigación, adscrito a la Unidad de Asuntos Jurídicos, el ejercicio de las facultades y atribuciones siguientes:
+La Unidad de Investigación estará adscrita a la Unidad de Asuntos Jurídicos, y tendrá a su cargo la realización de las facultades que la Ley General de Responsabilidades Administrativas otorga a la autoridad investigadora de las Entidades de Fiscalización Superior de las entidades federativas. Dicha unidad tendrá como titular al Director de la Unidad de Investigación, y corresponderá a éste, el ejercicio de las facultades y atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
 I. Recibir de las unidades administrativas de fiscalización de la Auditoría Superior del Estado de Nuevo León, los dictámenes técnicos por la falta de solventación de los pliegos presuntivos de responsabilidades o por las presuntas responsabilidades administrativas;
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
 II. Realizar investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas o penales, en su caso;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
 III. Incorporar a sus funciones las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas nacionales e internacionales;
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
 IV. Acceder a la información necesaria para el esclarecimiento de los hechos con inclusión de aquella, que las disposiciones legales en la materia, considere de carácter confidencial, debiendo mantener la misma reserva y secrecía conforme a lo que se determine en las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
 V. Formular requerimientos de información a los entes públicos y las personas físicas o morales que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
 
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
+
 VI. Solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas o penales, según corresponda;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2017)</small>
 
 VII. Notificar al denunciante, cuando este fuera identificable, que los hechos investigados hayan sido calificados como no graves; y
 
-VIII. Las demás que le confieran la Ley, la Ley General de Responsabilidades Administrativas, el Reglamento u otras disposiciones legales, así como lo manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean asignadas por su superior jerárquico.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+VIII. Elaborar y someter a consideración de su superior jerárquico los proyectos de reformas y adiciones al Reglamento;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+IX. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+X. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XI. Adoptar las medidas necesarias para el cumplimiento de las normas del Sistema de Gestión de Calidad de la Auditoría Superior del Estado y demás ordenamientos aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XII. Supervisar la elaboración de proyectos de los manuales de organización y procedimientos necesarios para el funcionamiento de la unidad de su adscripción, así como sus respectivas reformas; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XIII. Las demás que le confiera a las Autoridades Investigadoras de las Entidades de Fiscalización Superior de las entidades federativas la Ley General de Responsabilidades Administrativas, así como aquellas que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado, o le sean encomendadas por su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 30 Bis 1.
+
+La Unidad Substanciadora estará adscrita a la Unidad de Asuntos Jurídicos, y tendrá a su cargo la realización de las facultades que la Ley General de Responsabilidades Administrativas otorga a la autoridad substanciadora de las Entidades de Fiscalización Superior de las entidades federativas. Dicha unidad tendrá como titular al Director de la Unidad Substanciadora, y corresponderá a éste, el ejercicio de las facultades y atribuciones siguientes:
+
+I. Elaborar y someter a consideración de su superior jerárquico los proyectos de reformas y adiciones al Reglamento;
+
+II. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+III. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+IV. Adoptar las medidas necesarias para el cumplimiento de las normas del Sistema de Gestión de Calidad de la Auditoría Superior del Estado y demás ordenamientos aplicables en la materia;
+
+V. Supervisar la elaboración de proyectos de los manuales de organización y procedimientos necesarios para el funcionamiento de la unidad de su adscripción, así como sus respectivas reformas;
+
+VI. Revisar el informe de Presunta Responsabilidad Administrativa, emitido por la Unidad de Investigación, y en su caso solicitarle que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe, a fin de pronunciar su admisión;
+
+VII. Emitir, en caso de considerarlo procedente, el acuerdo de admisión del informe de Presunta Responsabilidad Administrativa con el que se dará inicio al procedimiento de responsabilidad;
+
+VIII. Llevar los registros de los asuntos de su competencia; y
+
+IX. Las demás que le confiera a las Autoridades Substanciadoras de las Entidades de Fiscalización Superior de las entidades federativas la Ley General de Responsabilidades Administrativas, así como aquellas que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado, o le sean encomendadas por su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 30 Bis 2.
+
+La Dirección de Consulta y Asistencia Jurídica estará adscrita a la Unidad de Asuntos Jurídicos, y será la encargada de dirigir las gestiones y acciones necesarias para emitir una opinión o recomendación, de las consultas efectuadas por las Unidades Administrativas de la Auditoría Superior del Estado, así como la elaboración de proyectos y acuerdos necesarios para el ejercicio de las acciones legales correspondientes. Dicha Dirección tendrá como titular al Director de Consulta y Asistencia Jurídica, y corresponderá a éste, el ejercicio de las facultades y atribuciones siguientes:
+
+I. Colaborar con las Unidades Administrativas proporcionando asesoría jurídica que contribuya al mejor cumplimiento de su trabajo;
+
+II. Elaborar y someter a consideración de su superior jerárquico los proyectos de reformas y adiciones al Reglamento;
+
+III. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+IV. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+V. Adoptar las medidas necesarias para el cumplimiento de las normas del Sistema de Gestión de Calidad de la Auditoría Superior del Estado y demás ordenamientos aplicables en la materia;
+
+VI. Supervisar la elaboración de proyectos de los manuales de organización y procedimientos necesarios para el funcionamiento de la unidad de su adscripción, así como sus respectivas reformas;
+
+VII. Instruir la elaboración de proyectos de los lineamientos, reglas, guías, acuerdos, contratos, convenios y demás resoluciones que le sean turnados por su superior jerárquico;
+
+VIII. Instruir en la elaboración de estudios, investigaciones y análisis relacionados con la función de la Auditoría Superior del Estado;
+
+IX. Encomendar para la notificación de los actos emitidos por la Auditoría Superior del Estado por sí o a través del personal que designe para tal efecto;
+
+X. Intervenir en la elaboración de los Informes del Resultado, en el ámbito de su competencia;
+
+XI. Determinar con su superior jerárquico la resolución de las consultas que sean formuladas por las Unidades Administrativas y demás acciones legales derivadas del ejercicio de las facultades de fiscalización de la Auditoría Superior del Estado;
+
+XII. Coordinar la elaboración de proyectos y acuerdos necesarios para el ejercicio de las acciones legales correspondientes en contra de los servidores públicos adscritos a la Auditoría Superior del Estado;
+
+XIII. Elaborar los procedimientos y proyectos para la imposición de las multas que en términos de la Ley procedan, con base en los elementos que le sean proporcionados por las Unidades Administrativas de la Auditoría Superior del Estado correspondientes; y
+
+XIV. Las demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -1413,13 +1475,153 @@ IX. Notificar los actos emitidos por sus superiores jerárquicos en el ejercicio
 
 X. Las demás que les confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
-### Capítulo Único. Disposiciones Generales
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### Capítulo V. De las Atribuciones de las Unidades Administrativas de Soporte y Fiscalización
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
+
+#### Sección Primera. De la Coordinación de Auditoría Forense
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+La Coordinación de Auditoría Forense, será la Unidad de Soporte y Fiscalización encargada de apoyar a las Unidades Administrativas de la Auditoría Superior del Estado durante los procesos de auditoría en la integración de los elementos que permitan identificar las causas, efectos, consecuencias e incluso los móviles de un hecho o conducta específicos, que provoquen las irregularidades detectadas, recopilando información documental, testimonial y las evidencias que sustenten debidamente estos actos, así como gestionar la realización de las auditorías forenses que determine el Auditor General del Estado. Dicha Coordinación tendrá como titular al Coordinador de Auditoría Forense, y corresponderá a éste, el ejercicio de las facultades y atribuciones siguientes:
+
+l. Elaborar el programa anual de actividades de la Coordinación a su cargo y presentarlo al Auditor General del Estado;
+
+II. Participar, en coordinación con las Direcciones de las Unidades Administrativas de Fiscalización, en la planeación y desarrollo del Programa Anual de Auditorías para la Fiscalización de la Cuenta Pública que corresponda, con la finalidad de identificar probables entes, áreas y conceptos, con alto grado de riesgo en sus operaciones, proponiendo las acciones correspondientes para su revisión;
+
+III. Utilizar tecnologías de información y comunicación, herramientas de punta y las mejores prácticas aceptadas nacional e internacionalmente para la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que impliquen irregularidad o conducta ilícita;
+
+IV. Identificar y proponer factores específicos de riesgo que deban ser considerados por los auditores durante el desarrollo de la fiscalización que practiquen las áreas dependientes de las Unidades Administrativas de Fiscalización para valorar el potencial de una posible conducta ilícita;
+
+V. Supervisar el cumplimiento de los objetivos y las metas de los planes de desarrollo, estatal o municipales, conforme a las normas y principios constitucionales rectores de la fiscalización de la Cuenta Pública;
+
+VI. Coordinar la práctica de auditorías que conforme a los programas de trabajo le determine el Auditor General del Estado, informando sobre las inobservancias que se identifiquen en la realización de las mismas;
+
+VII. Requerir a las entidades fiscalizadas y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para las etapas de planeación y desarrollo de las auditorías;
+
+VIII. Investigar y evidenciar hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita;
+
+IX. Proporcionar, conforme a sus atribuciones y de acuerdo con las instrucciones del Auditor General del Estado, la información, documentación, datos, informes y asesorías o cooperación técnica requeridos por otras áreas de la Auditoría Superior del Estado, y en su caso solicitar a éstas, los datos, información o apoyo necesario para el cumplimiento de sus funciones;
+
+X. Requerir por instrucciones del Auditor General del Estado, información y documentación a servidores públicos, así como a cualquier ente, persona física o moral, pública o privada o cualquier otra figura jurídica que reciba o ejerza recursos públicos, en el ámbito de su competencia;
+
+XI. Validar los análisis de datos, información, hallazgos, hechos relevantes, obtención de evidencias, aplicación de pruebas y demás elementos para llegar a conclusiones válidas y soportadas que permitan conformar integralmente el informe de auditoría, en el ámbito de su competencia;
+
+XII. Efectuar los análisis de información y hallazgos obtenidos para detectar conductas ilícitas de los servidores públicos durante el desarrollo de las auditorías;
+
+XIII. Requerir a las instancias de control competentes, los informes, resultados, o demás información que se requiera para el ejercicio de sus funciones;
+
+XIV. Llevar a cabo reuniones con los Directores de las Unidades Administrativas de Fiscalización para la exposición de los casos de auditoría forense y proponer, previa autorización del Auditor General del Estado, las acciones correspondientes a seguir al interior de la Institución;
+
+XV. Supervisar el seguimiento a las observaciones y acciones resultantes de las auditorías practicadas, en el ámbito de su competencia;
+
+XVI. Coadyuvar con la Unidad de Asuntos Jurídicos en las acciones y procedimientos legales derivadas de los resultados de la auditoría forense aplicada;
+
+XVII. Coordinar, de conformidad con lo establecido en el artículo 49 de la Ley, la elaboración de los informes del resultado de las auditorías que se practiquen y someterlos a la consideración y autorización del Auditor General del Estado;
+
+XVIII. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+XIX. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+XX. Adoptar las medidas necesarias para el cumplimiento de las normas del Sistema de Gestión de Calidad de la Auditoría Superior del Estado y demás ordenamientos aplicables en la materia;
+
+XXI. Supervisar la elaboración de proyectos de los manuales de organización y procedimientos necesarios para el funcionamiento de la unidad de su adscripción, así como sus respectivas reformas; y
+
+XXII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis 1.
+
+Corresponde al Jefe de Auditoría Forense adscrito a la Coordinación de Auditoría Forense, las siguientes atribuciones:
+
+I. Asegurar el cumplimiento del programa anual de actividades del área;
+
+II. Utilizar tecnologías de información y comunicación, herramientas forenses y las mejores prácticas aceptadas nacional e internacionalmente para la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que impliquen irregularidad o conducta ilícita;
+
+III. Verificar el cumplimiento de los objetivos y las metas de los planes de desarrollo estatal o municipal, conforme a las normas y principios constitucionales rectores de la fiscalización de la Cuenta Pública;
+
+IV. Practicar a solicitud de su superior jerárquico, auditorías forenses sobre hechos o actos específicos, a fin de comprobar que éstos se hayan ajustado a las disposiciones jurídicas aplicables, y que no hayan causado daños o perjuicios en contra de la hacienda o patrimonio de los entes públicos;
+
+V. Requerir información y documentación a servidores públicos, así como a cualquier ente, persona física o moral, pública o privada o cualquier otra figura jurídica que reciba o ejerza recursos públicos, en el ámbito de su competencia;
+
+VI. Recabar, analizar y procesar la información que requiera para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento o bases de datos;
+
+VII. Investigar, documentar y evidenciar hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, en el ámbito de su competencia;
+
+VIII. Realizar las visitas domiciliarias para exigir la exhibición de documentos y archivos indispensables para la realización de investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas por los cateos, de conformidad con el programa de auditorías autorizado;
+
+IX. Analizar la información y hallazgos obtenidos para detectar conductas ilícitas de los servidores públicos durante el desarrollo de las auditorías;
+
+X. Dar seguimiento a las solicitudes de información que se realicen a las instancias de control competente;
+
+XI. Apoyar a su superior jerárquico en la exposición de casos y acciones de seguimiento al interior de la Auditoría Superior del Estado;
+
+XII. Dar seguimiento a las observaciones y acciones resultantes de las auditorías practicadas, en el ámbito de su competencia;
+
+XIII. Colaborar con la Unidad de Asuntos Jurídicos en las acciones y procedimientos legales derivadas de los resultados de la auditoría forense aplicada;
+
+XIV. Coadyuvar con las Unidades Administrativas de Fiscalización en la elaboración de los Informes del Resultado de las auditorías que se practiquen de conformidad con lo establecido en el artículo 49 de la Ley;
+
+XV. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+XVI. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+XVII. Adoptar las medidas necesarias para el cumplimiento de las normas del Sistema de Gestión de Calidad de la Auditoría Superior del Estado y demás ordenamientos aplicables en la materia; y
+
+XVIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
+
+#### Sección Segunda. Del Laboratorio de Obra Pública
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 25], P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis 2.
+
+La Auditoría Superior del Estado, para la verificación de las especificaciones constructivas y de calidad de los materiales de la obra pública, contará con un laboratorio de ensaye de materiales, a cargo de un Coordinador del Laboratorio de Obra Pública.
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 26], P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis 3.
+
+Corresponde al Coordinador del Laboratorio de Obra Pública, el ejercicio de las facultades y atribuciones siguientes:
+
+I. Supervisar que la toma de las muestras de materiales de construcción o suelos de las obras públicas que realice el personal a su cargo, sea suficiente y que cumpla con la normatividad establecida;
+
+II. Verificar que los ensayes del laboratorio practicados por el personal a su cargo en campo y en las instalaciones del laboratorio de la Auditoría Superior del Estado, sean realizados observando las normas, estándares y procedimientos técnicos aplicables;
+
+III. Emitir el dictamen correspondiente a los resultados de las pruebas practicadas en laboratorio a los materiales de la obra pública revisada;
+
+IV. Evaluar las necesidades de capacitación del personal a su cargo a fin de elevar el nivel técnico y profesional del mismo;
+
+V. Participar en la evaluación del desempeño del personal a su cargo conforme a las políticas y procedimientos que se establezcan;
+
+VI. Proporcionar la información, documentación, datos, informes, asesorías y cooperación técnica que requieran otras áreas;
+
+VII. Supervisar la elaboración y levantamiento de las actas circunstanciadas derivadas de las actuaciones realizadas;
+
+VIII. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de sus funciones, en los plazos establecidos por la Ley;
+
+IX. Cotejar y validar la información y documentación que les sea proporcionada en la práctica de auditorías, visitas, inspecciones o revisiones, con sus originales, haciendo constar dicha situación en el acta circunstanciada respectiva;
+
+X. Apoyar a las Unidades Administrativas de Fiscalización competentes, en la elaboración de los dictámenes técnicos de auditoría e integración de los expediente (sic) técnicos respectivos;
+
+XI. Requerir a terceros que hubieren contratado con los entes públicos, obra pública, bienes, servicios o arrendamientos mediante cualquier modalidad legal, y en general a cualquier entidad o persona física o moral, pública o privada que haya ejercido recursos públicos, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
+
+XII. Ordenar, coordinar y supervisar la práctica de visitas y auditorías a los sujetos de fiscalización, así como las inspecciones y demás investigaciones necesarias para el cumplimiento de sus funciones;
+
+XIII. Designar e incorporar al personal encargado de los procesos de revisión y fiscalización; y
+
+XIV. Los demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendados por su superior jerárquico.
 
 ## TÍTULO III. DE LOS IMPEDIMENTOS Y EXCUSAS PARA LA FISCALIZACIÓN DE LAS CUENTAS PÚBLICAS
 
-### Capítulo Único. De la Suplencia de los Servidores Públicos de la Auditoría Superior del Estado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+### Capítulo Único. Disposiciones Generales
 
 ###### Artículo 42.
 
@@ -1449,7 +1651,9 @@ III. El servidor público que continúe involucrado en la práctica de las audit
 
 ## TÍTULO IV. DEL RÉGIMEN DE SUPLENCIAS
 
-### Capítulo Único. Del Padrón de Despachos Certificados
+### Capítulo Único. De la Suplencia de los Servidores Públicos de la Auditoría Superior del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
@@ -1462,6 +1666,8 @@ En caso de ausencia absoluta o renuncia del Auditor General y, en tanto sea desi
 Las ausencias temporales, absoluta o por renuncia de los Auditores Especiales, Titulares de Unidad o Directores, serán suplidas por el servidor público que designe el Auditor General, hasta en tanto no se realice en su caso, el nombramiento definitivo correspondiente.
 
 ## TÍTULO V. DE LA CONTRATACIÓN DE DESPACHOS CERTIFICADOS
+
+### Capítulo Único. Del Padrón de Despachos Certificados
 
 ###### Artículo 48.
 
@@ -1526,3 +1732,9 @@ P.O. 9 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 Artículo Único. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
