@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2018-01-10"
+last_updated: "2018-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS SEGUNDA Y TERCERA DEL DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA, PUBLICADO EN EL P. O. DE 16 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE EL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y LOS JUZGADOS ESPECIALIZADOS, SUBSISTIENDO COMO ÓRGANOS JURISDICCIONALES, QUEDEN FORMALMENTE CONSTITUIDOS COMO SALA ESPECIALIZADA DE JUSTICIA PENAL PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE MORELOS; TAL TRANSFORMACIÓN ESTARÁ CONDICIONADA HASTA EN TANTO EL CONGRESO DEL ESTADO DE MORELOS, REALICE LAS ADECUACIONES PRESUPUESTARIAS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018 (ABROGADA CON CONDICIÓN).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -430,3 +432,29 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Se abroga la Ley de Justicia para Adolescentes del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad” número 4636 de fecha 18 de agosto de 2008, así como se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Unitario de Justicia para Adolescentes, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad Pública y el Instituto de la Defensoría Pública del Estado de Morelos, deberán realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para dar cumplimiento al mismo; en tanto esto sucede, se mantendrán vigentes los actuales.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y ABROGA LA LEY ORGÁNICA DEL TRIBUNAL (SIC) DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS”.]
+
+PRIMERA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos, con las salvedades previstas en la disposición Tercera Transitoria de este instrumento.
+
+SEGUNDA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, deberá abrogarse la Ley Orgánica del Tribunal de Justicia Para Adolescentes y Juzgados Especializados, publicada en el Periódico Oficial “Tierra y Libertad”, número 4577, del 19 de diciembre de 2007.
+
+TERCERA. De manera complementaria al régimen transitorio de las reformas contenidas en el Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5578, de 15 quince de febrero de 2018, a fin de garantizar la debida autonomía del Poder Judicial y su operatividad, los recursos humanos, materiales, presupuestales y financieros, así como el acervo documental con que actualmente cuenta el Tribunal Unitario de Justicia para Adolescentes, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+El Tribunal Unitario de Justicia para Adolescentes y los Juzgados Especializados, subsistiendo como órganos jurisdiccionales, quedarán formalmente constituidos como Sala Especializada de Justicia Penal para Adolescentes y Juzgados Especializados del Tribunal Superior de Justicia del Estado de Morelos; sin embargo, tal transformación estará condicionada hasta en tanto el Congreso del Estado de Morelos, realice las adecuaciones presupuestarias correspondientes, por lo que los asuntos que se encuentren en trámite o en proceso, continuarán tramitándose en los términos que establezca su Ley Orgánica y demás legislación aplicable, hasta su conclusión, por el referido Tribunal Unitario y los mencionados Juzgados Especializados, los que seguirán operando ordinariamente hasta que dichas adecuaciones presupuestarias se realicen, por lo que la transferencia ordenada en el primer párrafo que antecede también quedará suspendida por la citada condición.
+
+De igual forma la reforma objeto del presente Decreto a la Ley Orgánica del Poder Judicial quedará condicionada a surtir sus efectos, una vez que se realicen las reasignaciones presupuestales a que se refiere el segundo párrafo de esta disposición transitoria.
+
+CUARTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada y su suplente continuarán desempeñando el cargo respectivo en la Sala Especializada en Justicia para Adolescentes del Tribunal Superior de Justicia, hasta la conclusión del término para el que fueron originalmente designadas.
+
+Las menciones que en otros ordenamientos se hagan del Tribunal Unitario de Justicia para Adolescentes, se entenderán referidas a la Sala Especializada en Justicia para Adolescentes del Tribunal Superior de Justicia y Juzgados Especializados, según sea el caso, hasta en tanto se cumpla la condición de la disposición tercera transitoria.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo del Tribunal Unitario de Justicia para Adolescentes, en cualquier ordenamiento legal, así como en contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, una vez que se cumpla la condición prevista en la Disposición Tercera que antecede.
+
+QUINTA. El Pleno del Tribunal Superior de Justicia nombrará una comisión que estará integrada por el Presidente del Tribunal y dos Magistrados, así como un Secretario General, éste último quien dará fe de sus actos, será designado por el Presidente del Tribunal, a efecto de realizar las funciones que en forma colegiada venía realizando el extinto Consejo de la Judicatura, la cual tendrá su funcionamiento hasta en tanto este Congreso realice las adecuaciones a la presente ley respecto de las funciones administrativas, de disciplina y vigilancia del Poder Judicial a que se refieren las disposiciones transitorias tercera y décima tercera de las reformas contenidas en el Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5578, de 15 quince de febrero de 2018, referida en el presente decreto.
+
+SEXTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada del Tribunal Unitario de Justicia para Adolescentes procederá a realizar la entrega recepción al Tribunal Superior de Justicia del Estado.
+
+SÉPTIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
