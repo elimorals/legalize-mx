@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2017-07-07"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -35,7 +35,7 @@ Presidente Municipal
 
 XI Ayuntamiento Constitucional Ensenada, B.C.
 
-REGLAMENTO Para el Funcionamiento de Espectáculos Públicos y Centros de Reunión Para el Municipio de Ensenada, Baja California
+REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
 ## TITULO PRIMERO
 
@@ -59,9 +59,11 @@ El presente Reglamento es de observancia general y obligatoria dentro de los lí
 
 El órgano Oficial a cuyo cargo queda la expedición de las licencias para el funcionamiento de lugares abiertos para espectáculos públicos y centros de reunión para el esparcimiento de las personas y la vigilancia del cumplimiento de las disposiciones de este Reglamento, lo es el Gobierno Municipal, siempre y cuando la expedición de tales licencias no esté reservada a otra autoridad por leyes o reglamentos en vigor, para el caso del permiso de salones sociales se estará a lo dispuesto en el Reglamento para el Funcionamiento de Salones Sociales para el Municipio de Ensenada, Baja California.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4o.
 
-La facultad de calificar las infracciones que se levanten por violaciones a las disposiciones de este Reglamento corresponderá a las autoridades fiscales municipales, representadas por el Tesorero y Recaudación de Rentas del Municipio.
+La facultad de calificar las infracciones que se levanten por violaciones a las disposiciones de este Reglamento corresponderá a la Tesorería Municipal por conducto del Departamento de Comercio, Alcoholes y Espectáculos Públicos.
 
 ## TITULO SEGUNDO
 
@@ -119,9 +121,13 @@ De las Licencias y Requisitos para el Funcionamiento.
 
 Ninguna de las actividades a que se refiere el presente Reglamento podrá funcionar sin licencia que deberá expedir el Gobierno Municipal, siempre y cuando la expedición de tales licencias no esté reservada a otra Autoridad por Leyes o Reglamentos en vigor.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 8o.
 
 Para obtener la expedición de la licencia para el funcionamiento de alguna de las actividades a que se refiere este Reglamento, se deberán satisfacer los requisitos siguientes:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2018)</small>
 
 I.- Presentar la solicitud ante el Presidente Municipal, que deberá contener los siguientes datos:
 
@@ -141,9 +147,9 @@ f).- Si la expedición de la licencia se solicitare por alguna Sociedad, deberá
 
 g).- Expresión de la clase de espectáculos públicos, actividad cultural, deportiva, de esparcimiento, etc., a que se dedicará el negocio.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-h).- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por la Secretaría General del Ayuntamiento previa inspección y responsiva de la Dirección de Obras y Servicios Públicos Municipales.
+h).- Los centros de reunión y lugares donde se presente cualquier espectáculo público, deberán fijar en lugar visible la autorización que indique la capacidad de aforo determinada por Tesorería, previa inspección y responsiva de la Dirección de Servicios Públicos Municipales e Infraestructura.
 
 i).- Exhibir los contratos celebrados con los trabajadores cuyos servicios se utilicen debiendo darse preferencia a trabajadores de nacionalidad mexicana que deben emplearse conforme a lo que dispone la Ley Federal del Trabajo. Debiendo además demostrar a satisfacción la capacidad de los mismos mediante título, Diploma, certificado, etc. ó en su defecto con el respaldo y responsiva de alguna Asociación reconocida que avale la calidad del trabajador, en cualquiera de los espectáculos a que se refiere el presente Reglamento.
 
@@ -181,11 +187,11 @@ Cuando se trate de actividades temporales, el Tesorero o el Recaudador de Rentas
 
 Las actividades que se citan en la Fracción IV, del Artículo 6o. en este Reglamento, deberán depositar la cantidad que marque la Ley de Ingresos Municipal, con el fin a que se refieren los Artículos que anteceden.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 14o.
 
-Fenecido el término para que se hubiere concedido la licencia, a solicitud de los interesados y previa constancia de la Secretaría General del Ayuntamiento que no existen responsabilidades por falta de pago de multas impuestas y constancia de la Recaudación de Rentas de encontrarse cubiertos todos los impuestos, se ordenará la devolución de las cantidades depositadas.
+Fenecido el término para que se hubiere concedido la licencia, a solicitud de los interesados y previa constancia de la Tesorería que no existen responsabilidades por falta de pago de multas impuestas y constancia de la Recaudación de Rentas de encontrarse cubiertos todos los impuestos, se ordenará la devolución de las cantidades depositadas.
 
 ###### Artículo 15o.
 
@@ -235,17 +241,17 @@ Los espectáculos que requieran que se señalen reglas especiales para cada even
 
 De las Prohibiciones a las Empresas o Representantes de Espectáculos Públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2018)</small>
 
-###### Artículo 23o.
+###### Artículo 23.
 
 Se prohíbe estrictamente a las empresas o representantes de cualquiera de los espectáculos públicos a que se refiere este Reglamento:
 
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
 I.- Anunciar o exhibir o representar películas u obras cuyos programas no hubieren sido previamente autorizados por el Gobierno Municipal.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
-
-Para ese efecto los interesados deberán presentar ante la Secretaría General del Ayuntamiento, cuando menos dos días antes de la fecha en que deberá hacerse la exhibición o representación ante el público, los programas respectivos a efecto de que el Secretario General del Ayuntamiento de cuenta al Presidente Municipal, para su aprobación y una vez autorizado con el sello correspondiente de la Secretaria General del Ayuntamiento, se le devuelvan al interesado. Sólo con la autorización de la Presidencia Municipal, o del Inspector Autoridad que intervenga en el centro de espectáculos respectivo, podrá hacerse la variación de las exhibiciones o representaciones autorizadas, en la inteligencia de que deberán fijar avisos en lugares visibles a la entrada del local en que se desarrolle el programa, para que el público quede enterado del cambio.
+Para ese efecto, los interesados deberán presentar ante el Departamento de Comercio, Alcoholes y Espectáculos Públicos, cuando menos dos días antes de la fecha en que deberá hacerse la exhibición o representación ante el público, los programas respectivos a efecto de que el Jefe de Departamento de Comercio, Alcoholes y Espectáculos Públicos dé cuenta al Presidente Municipal, para su aprobación y una vez autorizado con el sello correspondiente de la Tesorería, se le devuelvan al interesado. Sólo con lo autorización de la Presidencia Municipal, o del Inspector Autoridad que intervenga en el centro de espectáculos respectivo, podrá hacerse la variación de las exhibiciones o representaciones autorizadas, en la inteligencia de que deberán fijar avisos en lugares visibles a la entrada del local en que se desarrolle el programa, para que el público quede enterado del cambio.
 
 II.- Vender al público mayor número de localidades que las correspondientes al cupo del local.
 
@@ -279,9 +285,9 @@ XII.- Una vez que se haya duplicado en elenco y el nombre de las obras que será
 
 De las variaciones o alteraciones que se hagan, se hará la publicación en forma profusa por todos los medios que sea posible, ya sea por los periódicos, anuncios murales, de mano o por transmisiones radiofónicas y en los vestíbulos o puertas de acceso a los lugares en que habrá de presentar el programa, alterado o modificado, también se anunciará en forma profusa para que el público se entere.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XIII.- Se les prohíbe a las empresas, sus representantes o empleados, vender boletaje que no haya sido sellado por la autoridad fiscal correspondiente, o si existieren aparatos automáticos para la venta de boletos en los locales donde se dará la función los rollos se presentarán ante la Secretaría General del Ayuntamiento para su autorización. Los inspectores, antes de que principie la venta de boletos al público, darán fe de que esos boletos o las tarjetas de abono han sido autorizados legalmente.
+XIII.- Se les prohíbe a las empresas, sus representantes o empleados, vender boletaje que no haya sido sellado por la autoridad fiscal correspondiente, o si existieren aparatos automáticos para la venta de boletos en los locales donde se dará la función los rollos se presentarán ante el Departamento de Comercio, Alcoholes y Espectáculos Públicos para su autorización. Los inspectores, antes de que principie la venta de boletos al público, darán fe de que esos boletos o las tarjetas de abono han sido autorizados legalmente.
 
 XIV.- En los espectáculos públicos el uso de los Símbolos Patrios quedará sujeto a las disposiciones que emanan de la Ley en vigor sobre la materia.
 
@@ -320,6 +326,10 @@ XXIV.- Permitir el ingreso de niños y jóvenes menores de edad, a aquellos espe
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
 
 XXV.- Queda prohibido el establecimiento y operación de espectáculos circenses fijos o itinerantes, ya sea públicos o privados, en los cuales se utilicen animales vivos de cualquier especie, con fines de explotación, exposición y/o participación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XXVI.- Permitir el ingreso de niños, niñas y adolescentes menores de edad, a aquellos espectáculos donde se promueva, difunda o realice algún tipo de violencia, así como los palenques que pongan en riesgo la integridad del menor.
 
 ### Capítulo Segundo.
 
@@ -589,11 +599,11 @@ Los Inspectores de la Autoridad rendirán diariamente, antes de las once horas, 
 
 Para los efectos del artículo que antecede, los Inspectores de la Autoridad deberán levantar una acta pormenorizada de las infracciones que descubrieron.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 60o.
 
-Las infracciones con relación a defectos en las construcciones, instalaciones de tomas de agua contra incendios, instalaciones y defectos de aparatos extinguidores, serán de la competencia de los Inspectores de la Dirección de Obras y Servicios Públicos Municipales y de la Dirección de Bomberos y Protección Civil y de las deficiencias en la instalación de los servicios sanitarios y las condiciones de salubridad general que deben mantenerse en los centros de espectáculos y esparcimiento, serán de la competencia de la Dirección de Servicios Médicos; las infracciones que por estos conceptos se levantaren, serán consignados a la Secretaría General del Ayuntamiento para su calificación. En todo caso que se levanten infracciones de esta naturaleza, se concederá a la empresa un plazo prudente para que corrija las anomalías que hubieren dado lugar a la infracción.
+Las infracciones con relación a defectos en las construcciones, instalaciones de tomas de agua contra incendios, instalaciones y defectos de aparatos extinguidores, serán de la competencia de los Inspectores de la Dirección de Servicios Públicos Municipales e Infraestructura y de la Dirección de Bomberos y la Unidad Municipal de Protección Civil y de las deficiencias en la instalación de los servicios sanitarios y las condiciones de salubridad general que deben mantenerse en los centros de espectáculos y esparcimiento, serán de la competencia de los Servicios Médicos; las infracciones que por estos conceptos se levantaren, serán consignados a la Tesorería para su calificación. En todo caso que se levanten infracciones de esta naturaleza, se concederá a la empresa un plazo prudente para que corrija las anomalías que hubieren dado lugar a la infracción.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
@@ -984,3 +994,9 @@ P.O. 7 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 007/2017, RELATIVO A REFORMAR LOS ARTÍCULOS 3 Y 42 PÁRRAFO PRIMERO, DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o la Gaceta Municipal.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIATE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO PARA EL FUCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORINIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
