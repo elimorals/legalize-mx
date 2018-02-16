@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "2018-01-19"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFMZAAH"
 ---
 # LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -48,7 +50,9 @@ El objeto de esta ley es de interés social y nacional y sus disposiciones de or
 
 Es de utilidad pública, la investigación, protección, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos.
 
-La Secretaría de Educación Pública, el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes y los demás institutos culturales del país, en coordinación con las autoridades estatales, municipales y los particulares, realizarán campañas permanentes para fomentar el conocimiento y respeto a los monumentos arqueológicos, históricos y artísticos.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+La Secretaría de Cultura, el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes y los demás institutos culturales del país, en coordinación con las autoridades estatales, municipales y los particulares, realizarán campañas permanentes para fomentar el conocimiento y respeto a los monumentos arqueológicos, históricos y artísticos.
 
 El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, de acuerdo con lo que establezca el reglamento de esta Ley, organizarán o autorizarán asociaciones civiles, juntas vecinales, y uniones de campesinos como órganos auxiliares para impedir el saqueo arqueológico y preservar el patrimonio cultural de la Nación. Además se establecerán museos regionales.
 
@@ -58,7 +62,9 @@ La aplicación de esta Ley corresponde a:
 
 I.- El Presidente de la República;
 
-II.- El Secretario de Educación Pública;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+II.- El Secretario de Cultura;
 
 III.- El Secretario del Patrimonio Nacional;
 
@@ -78,9 +84,9 @@ Las autoridades de las entidades federativas y los municipios tendrán, en la ap
 
 Son monumentos arqueológicos, artísticos, históricos y zonas de monumentos los determinados expresamente en esta Ley y los que sean declarados como tales, de oficio o a petición de parte.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-El Presidente de la República, o en su caso el Secretario de Educación Pública, previo procedimiento establecido en los artículos 5o. Bis y 5o. Ter de la presente Ley, expedirá o revocará la declaratoria correspondiente, que será publicada en el Diario Oficial de la Federación.
+El Presidente de la República, o en su caso el Secretario de Cultura, previo procedimiento establecido en los artículos 5o. Bis y 5o. Ter de la presente Ley, expedirá o revocará la declaratoria correspondiente, que será publicada en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -106,7 +112,9 @@ f) Los hechos y razones por las que considera que el bien o zona de que se trate
 
 TER.- La expedición de las declaratorias a las que se refiere la presente Ley se sujetará al siguiente procedimiento:
 
-I. Se iniciará de oficio o a petición de parte, de conformidad con el acuerdo que al respecto emita el Presidente de la República o el Secretario de Educación Pública, por conducto del titular del Instituto competente, según corresponda, y será tramitado ante este último.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+I. Se iniciará de oficio o a petición de parte, de conformidad con el acuerdo que al respecto emita el Presidente de la República o el Secretario de Cultura, por conducto del titular del Instituto competente, según corresponda, y será tramitado ante este último.
 
 Tratándose de declaratorias seguidas a petición de parte, el Instituto competente revisará si la solicitud respectiva reúne los requisitos señalados en el artículo que antecede, en cuyo caso se admitirá a trámite. En caso contrario, dentro de un plazo de diez días hábiles siguientes a la presentación de la solicitud, el Instituto competente prevendrá por una sola vez al promovente para que subsane las omisiones dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación. Transcurrido el término sin que la prevención haya sido desahogada, el trámite será desechado.
 
@@ -116,15 +124,21 @@ Tratándose de declaratorias de monumentos artísticos o de zonas de monumentos 
 
 III. Los interesados tendrán un término de quince días hábiles a partir de la notificación o de la última de las publicaciones a que se refiere la fracción anterior, para manifestar ante el Instituto competente lo que a su derecho convenga y presentar las pruebas y alegatos que estimen pertinentes.
 
-IV. Manifestado por los interesados lo que a su derecho convenga y presentadas las pruebas y alegatos o transcurrido el término para ello, el titular del Instituto competente enviará al Secretario de Educación Pública el expediente respectivo, junto con su opinión sobre la procedencia de la declaratoria, dentro de en un plazo de treinta días hábiles.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-V. Recibido el expediente por el Secretario de Educación Pública, si se tratara de una declaratoria que le corresponda expedir, tendrá un plazo de ciento veinte días hábiles para hacerlo o para emitir resolución en contrario, por conducto del titular del Instituto competente, la cual será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
+IV. Manifestado por los interesados lo que a su derecho convenga y presentadas las pruebas y alegatos o transcurrido el término para ello, el titular del Instituto competente enviará al Secretario de Cultura el expediente respectivo, junto con su opinión sobre la procedencia de la declaratoria, dentro de un plazo de treinta días hábiles.
 
-Si se tratara de una declaratoria que corresponda expedir al Presidente de la República, el Secretario de Educación Pública enviará a aquél el expediente dentro de un plazo de noventa días hábiles. El Presidente de la República expedirá la declaratoria o emitirá resolución en contrario por conducto del titular del Instituto competente, dentro de un plazo de ciento veinte días hábiles. Dicha resolución será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+V. Recibido el expediente por el Secretario de Cultura, si se tratara de una declaratoria que le corresponda expedir, tendrá un plazo de ciento veinte días hábiles para hacerlo o para emitir resolución en contrario, por conducto del titular del Instituto competente, la cual será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
+
+Si se tratara de una declaratoria que corresponda expedir al Presidente de la República, el Secretario de Cultura enviará a aquél el expediente dentro de un plazo de noventa días hábiles. El Presidente de la República expedirá la declaratoria o emitirá resolución en contrario por conducto del titular del Instituto competente, dentro de un plazo de ciento veinte días hábiles. Dicha resolución será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
 
 VI. Las resoluciones a que se refiere la fracción anterior únicamente podrán ser impugnadas en términos de lo dispuesto por el artículo 83 de la Ley Federal de Procedimiento Administrativo.
 
-VII. Durante la tramitación del procedimiento, el Presidente de la República o el Secretario de Educación Pública, según corresponda, por conducto del titular del Instituto competente, podrá dictar las medidas precautorias para preservar y conservar el bien de que se trate, en términos de esta Ley, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+VII. Durante la tramitación del procedimiento, el Presidente de la República o el Secretario de Cultura, según corresponda, por conducto del titular del Instituto competente, podrá dictar las medidas precautorias para preservar y conservar el bien de que se trate, en términos de esta Ley, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles.
 
 El presente procedimiento no será aplicable en el caso previsto en el artículo 34 Bis de esta Ley.
 
@@ -190,11 +204,11 @@ En estos casos, serán solidariamente responsables con el propietario, el que ha
 
 Los propietarios de bienes muebles declarados monumentos históricos o artísticos deberán conservarlos, y en su caso restaurarlos, siendo aplicable en lo conducente lo dispuesto en los artículos 6o., 7o., 8o., 9o., 10,11 y 12 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-El destino o cambio de destino de inmuebles de propiedad federal declarados monumentos arqueológicos, históricos o artísticos, deberá hacerse por decreto que expedirá el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública.
+El destino o cambio de destino de inmuebles de propiedad federal declarados monumentos arqueológicos, históricos o artísticos, deberá hacerse por decreto que expedirá el Ejecutivo Federal, por conducto de la Secretaría de Cultura.
 
 ###### ARTICULO 15.
 
@@ -230,11 +244,11 @@ I.- Los tratados internacionales y las leyes federales; y
 
 II.- Los códigos civil y penal vigentes.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 20.
 
-Para vigilar el cumplimiento de esta Ley, la Secretaría de Educación Pública y los Institutos competentes, podrán efectuar visitas de inspección, en los términos del Reglamento respectivo.
+Para vigilar el cumplimiento de esta Ley, la Secretaría de Cultura y los Institutos competentes, podrán efectuar visitas de inspección, en los términos del Reglamento respectivo.
 
 ### CAPITULO II. Del Registro
 
@@ -354,11 +368,13 @@ Tratándose de la declaratoria de monumentos artísticos de bienes inmuebles o d
 
 La Comisión sólo podrá funcionar cuando esté presente el Director General del Instituto Nacional de Bellas Artes y Literatura y más de la mitad de sus restantes miembros. Las decisiones se tomarán por mayoría de votos de los presentes y el presidente tendrá voto de calidad.
 
-> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-ARTICULO 34 BIS.- Cuando exista el riesgo de que se realicen actos de efectos irreparables sobre bienes muebles o inmuebles con valor estético relevante, conforme al artículo 33 de esta Ley, la Secretaría de Educación Pública, por conducto del Instituto Nacional de Bellas Artes y Literatura, sin necesidad de la opinión a que se refiere el artículo 34 podrá dictar una declaratoria provisional de monumento artístico o de zona de monumentos artísticos, debidamente fundada y motivada de acuerdo con la misma Ley, que tendrá efectos por un plazo de 90 días naturales a partir de la notificación de que esa declaratoria se haga a quien corresponda, en la que se mandará suspender el acto y ejecutar las medidas de preservación que resulten del caso.
+ARTICULO 34 BIS.- Cuando exista el riesgo de que se realicen actos de efectos irreparables sobre bienes muebles o inmuebles con valor estético relevante, conforme al artículo 33 de esta Ley, la Secretaría de Cultura, por conducto del Instituto Nacional de Bellas Artes y Literatura, sin necesidad de la opinión a que se refiere el artículo 34 podrá dictar una declaratoria provisional de monumento artístico o de zona de monumentos artísticos, debidamente fundada y motivada de acuerdo con la misma Ley, que tendrá efectos por un plazo de 90 días naturales a partir de la notificación de que esa declaratoria se haga a quien corresponda, en la que se mandará suspender el acto y ejecutar las medidas de preservación que resulten del caso.
 
-Los interesados podrán presentar ante el Instituto Nacional de Bellas Artes y Literatura objeciones fundadas, dentro del término de 15 días contados a partir de la notificación de la declaratoria, que se harán del conocimiento de la Comisión de Zonas y Monumentos Artísticos y de la Secretaría de Educación Pública para que ésta resuelva.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+Los interesados podrán presentar ante el Instituto Nacional de Bellas Artes y Literatura objeciones fundadas, dentro del término de 15 días contados a partir de la notificación de la declaratoria, que se harán del conocimiento de la Comisión de Zonas y Monumentos Artísticos y de la Secretaría de Cultura para que ésta resuelva.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -426,9 +442,11 @@ El Instituto Nacional de Antropología e Historia es competente en materia de mo
 
 El Instituto Nacional de Bellas Artes y Literatura es competente en materia de monumentos y zonas de monumentos artísticos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 46.
 
-En caso de duda sobre la competencia de los Institutos para conocer un asunto determinado, el Secretario de Educación Pública resolverá a cual corresponde el despacho del mismo.
+En caso de duda sobre la competencia de los Institutos para conocer un asunto determinado, el Secretario de Cultura resolverá a cual corresponde el despacho del mismo.
 
 Para los efectos de competencia, el carácter arqueológico de un bien tiene prioridad sobre el carácter histórico, y éste a su vez sobre el carácter artístico.
 
@@ -589,3 +607,17 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO SEGUNDO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES.”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS”.]
+
+Primero. El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos y trámites en los que intervenga la Secretaría de Educación Pública relacionados con el presente ordenamiento, deberán enviarse a la Secretaría de Cultura para su seguimiento.
+
+Tercero. Las declaratorias de monumentos que hayan sido expedidas al amparo de la presente ley antes de la reforma, así como sus inscripciones, subsisten en sus términos y se aplicará lo señalado en el artículo Transitorio Segundo.
+
+Cuarto. El Ejecutivo Federal a través de la Secretaría de Cultura deberá proceder a actualizar el reglamento de la presente Ley y publicarlo en el Diario Oficial de la Federación dentro de los treinta días siguientes a la publicación del presente Decreto.
+
+Quinto. Cada uno de los Institutos deberá realizar la actualización de los trámites relacionados con la presente reforma ante la Comisión Federal de Mejora Regulatoria, dentro de los cinco días siguientes a la publicación del presente Decreto.
