@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-02-07"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -471,9 +469,9 @@ XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último 
 
 XXII.- Remitir al Congreso del Estado a más tardar el último día hábil del mes de febrero, la Cuenta Pública Municipal del año anterior para su revisión y fiscalización. El Congreso del Estado publicará en su portal de internet la cuenta pública municipal, para facilitar su consulta pública.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través de la Auditoría Superior del Estado, para su conocimiento y fiscalización;
+XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
 
 XXIV.- Dotar a la cabecera municipal, agencias, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
 
@@ -523,29 +521,49 @@ XLVI.- Fomentar y fortalecer los valores históricos cívicos del pueblo, así c
 
 XLVII.- Aceptar herencias y legados en favor del Municipio;
 
-XLVIII.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado a la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XLVIII.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado al Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 XLIX.- Establecer y actualizar la información económica, social y estadística de interés general;
 
 L.- Elaborar y publicar en coordinación con las autoridades competentes, el catálogo del patrimonio histórico y cultural del Municipio, vigilando y promoviendo su preservación y coadyuvando a determinar las construcciones y edificios que no podrán modificarse;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
 
-LI.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado, la información financiera que a continuación se señala:
+LI.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación se señala:
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 a) Estado de situación financiera;
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
 b) Estado de variación en la hacienda pública;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 c) Estado de cambios en la situación financiera;
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
 d) Notas a los estados financieros;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 e) Estado analítico del activo;
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
 f) Estado analítico de los ingresos;
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
 g) Estado analítico de los egresos en las clasificaciones administrativa (sic), por objeto del gasto y funcional-programática.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+h) Estado de actividades;
 
 LII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública Estatal y Municipal;
 
@@ -885,7 +903,9 @@ VII.- La disposición de bienes pertenecientes al patrimonio municipal que orden
 
 VIII.- Cuando el ayuntamiento permita que extranjeros se inmiscuyan en asuntos internos del Estado o de los Municipios;
 
-IX.- La falta de comprobación y aplicación correcta de los recursos que integran la Hacienda Pública Municipal, en términos de los (sic) dispuesto en la Ley de fiscalización Superior del Estado y demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+IX.- La falta de comprobación y aplicación correcta de los recursos que integran la Hacienda Pública Municipal, en términos de lo dispuesto en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y demás disposiciones aplicables; y,
 
 X.- Por abandono del ejercicio de sus funciones.
 
@@ -905,7 +925,9 @@ I.- La incapacidad física o legal transitoria;
 
 II.- El haberse dictado en su contra orden de aprehensión, auto de sujeción a proceso o de formal prisión, como probable responsable en la comisión de un delito;
 
-III.- Cuando así lo disponga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y la Ley de fiscalización Superior del Estado; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+III.- Cuando así lo disponga la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca; y,
 
 IV.- El incumplimiento de una resolución judicial en materia electoral.
 
@@ -919,17 +941,23 @@ Son causas graves para la revocación del mandato de algún miembro del Ayuntami
 
 I.- La incapacidad física o legal permanente;
 
-II.- El haberse dictado en su contra sentencia condenatoria, como plenamente responsable en la comisión de un delito intencional;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+II.- El haberse dictado en su contra sentencia condenatoria, como plenamente responsable en la comisión de un delito intencional o por faltas graves previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 III.- La inasistencia a tres sesiones del Ayuntamiento en forma consecutiva y sin causa justificada;
 
 IV.- El realizar en lo individual, cualquiera de los actos que dan origen a la desaparición de un Ayuntamiento;
 
-V.- La realización reiterada de actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+V.- La realización reiterada de actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones de conformidad con la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 VI.- El causar conflictos reiterados en contra de la mayoría o totalidad de los integrantes de un Ayuntamiento, o a la comunidad, y que hagan imposible el cumplimiento de los fines o el ejercicio de las funciones a cargo del ayuntamiento;
 
-VII.- Cuando así lo disponga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y la Ley de fiscalización Superior del Estado; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+VII.- Cuando así lo disponga la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca.
 
 VIII.- La inejecución de sentencia en materia electoral.
 
@@ -1227,9 +1255,9 @@ X.- Regularizar ante la autoridad competente, la propiedad de los bienes inmuebl
 
 XI.- Admitir, tramitar y resolver los recursos administrativos a que se refiere esta Ley, con excepción de los contenidos en disposiciones fiscales;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XII.- Vigilar que los servidores públicos municipales obligados, presenten oportunamente su declaración de evolución patrimonial, de intereses y constancia de presentación de declaración fiscal, conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+XII.- Vigilar que los servidores públicos municipales obligados, presenten oportunamente su declaración patrimonial, de intereses y fiscal, conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -1555,9 +1583,9 @@ Expedir el comprobante fiscal digital a favor del Gobierno del Estado de Oaxaca 
 
 II Bis.- Llevar a cabo el registro contable de los ingresos provenientes de las participaciones y aportaciones que se hayan transferido al Municipio.
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-III.- Actualizar los registros contables, financieros administrativos de los ingresos, egresos y presupuestos;
+III.- Realizar los registros de todas la (sic) operaciones presupuestarias, contables, financieras y administrativas de los ingresos, egresos, activos, pasivos, patrimoniales y demás eventos económicos que afectan la hacienda pública, debiendo ajustarse a su catálogo de cuentas, el que deberá de estar alineado a la Ley General de Contabilidad Gubernamental y la normatividad emitida por el Consejo Nacional de Armonización Contable.
 
 IV.- Elaborar el día último de cada mes los estados financieros correspondientes al mes de que se trate, para determinar el movimiento de ingresos y egresos que deberá recibir la aprobación del Ayuntamiento;
 
@@ -1591,7 +1619,9 @@ X.- Con apego a las leyes de la materia, proponer al Ayuntamiento las medidas ne
 
 XI.- Vigilar y controlar las oficinas recaudadoras municipales;
 
-XII.- Hacer las retenciones y el entero sobre sueldos y salarios, con apego a las disposiciones vigentes, cuando corresponda; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XII.- Hacer las retenciones y el entero de los impuestos sobre sueldos y salarios u otros que le impongan las disposiciones vigentes, cuando corresponda;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -1789,9 +1819,11 @@ III.- Los datos de inscripción en el registro público de la propiedad.
 
 El inventario de bienes muebles y el catálogo de bienes inmuebles propiedad del Municipio, se publicarán anualmente en el mes de enero, en el Periódico Oficial del Gobierno del Estado o en la Gaceta Municipal y se enviarán al Congreso del Estado para su conocimiento.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 114.
 
-La alteración, sustracción, disposición indebida, ocultamiento, así como otra conducta análoga realizada por los servidores públicos municipales, sobre los bienes del Municipio, será sancionada conforme a lo dispuesto en el Código Penal para el Estado de Oaxaca.
+La alteración, sustracción, disposición indebida, ocultamiento, así como otra conducta análoga realizada por los servidores públicos municipales, sobre los bienes del Municipio, será sancionada conforme a lo dispuesto en el Código Penal para el Estado de Oaxaca y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ### CAPÍTULO III. DE LA AFECTACIÓN DEL PATRIMONIO INMOBILIARIO MUNICIPAL
 
@@ -1877,11 +1909,15 @@ Si vencido el plazo a que se refiere el párrafo anterior, no se hubiere present
 
 La inspección de la hacienda pública municipal, compete al Presidente Municipal, al Síndico o Síndicos y al Regidor de Hacienda, en los términos de esta Ley. Para la mejor supervisión del ejercicio de los recursos públicos, el Ayuntamiento podrá realizar funciones de contraloría preventiva.
 
-En todo caso, el Congreso del Estado esta facultado para practicar a través de la Auditoría Superior, las auditorias, revisiones y fiscalización a la hacienda municipal, cuando se requiera para el buen funcionamiento del Municipio.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+En todo caso, el Congreso del Estado está facultado para practicar a través del Órgano Superior de Fiscalización del Estado de Oaxaca, las auditorias, revisiones y fiscalización a la hacienda municipal, cuando se requiera para el buen funcionamiento del Municipio.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 125.
 
-Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediante la presentación de elementos de prueba, podrá formular denuncia ante el Ayuntamiento o ante el Congreso del Estado sobre los casos de malversación de fondos municipales y cualquier otro hecho que se estime en contra del erario municipal.
+Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediante la presentación de elementos de prueba, podrá formular denuncia ante el Ayuntamiento, el Congreso del Estado o el Órgano Superior de Fiscalización del Estado de Oaxaca, sobre los casos de malversación de fondos municipales y cualquier otro hecho que se estime en contra del erario municipal.
 
 ###### ARTÍCULO 126.
 
@@ -2047,7 +2083,9 @@ El Presupuesto de Egresos regulará el gasto público municipal y se formulará 
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
-El presupuesto de egresos deberá ser aprobado por mayoría calificada y deberán remitirse copia al Congreso del Estado a través de la Auditoría Superior para su conocimiento y fiscalización.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+El presupuesto de egresos deberá ser aprobado por mayoría calificada y deberá remitirse copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca para su conocimiento y fiscalización.
 
 ###### ARTÍCULO 128.
 
@@ -2237,9 +2275,11 @@ Se expedirá por el Ayuntamiento un Reglamento para el Procedimiento conciliator
 
 ### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 147.
 
-Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes en aplicación del presente ordenamiento, los particulares afectados podrán promover el recurso administrativo que corresponda y substanciado éste, también podrán interponer el juicio respectivo ante el Tribunal de lo Contenciosos Administrativo.
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes en aplicación del presente ordenamiento, los particulares afectados podrán promover el recurso administrativo que corresponda y substanciado éste, también podrán interponer el juicio respectivo ante el Tribunal de lo Contenciosos (sic) Administrativo y de Cuentas.
 
 ###### ARTÍCULO 148.
 
@@ -2401,13 +2441,17 @@ Los Ayuntamientos están obligados a observar y dar cumplimiento a las disposici
 
 Son servidores públicos municipales, los concejales del Ayuntamiento, y todos aquellos que desempeñen un empleo, cargo o comisión en la administración pública municipal, dichos servidores públicos municipales serán responsables por los delitos y faltas oficiales que cometan durante su encargo. Los miembros del Ayuntamiento no gozan de fuero.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 167.
 
-Las infracciones administrativas cometidas a esta Ley, Bandos de Policía y Gobierno, y Reglamentos municipales por los servidores públicos municipales serán sancionadas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Las infracciones administrativas cometidas a esta Ley, Bandos de Policía y Gobierno, y Reglamentos municipales por los servidores públicos municipales serán sancionadas en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 168.
 
-Los servidores públicos municipales deberán presentar su declaración patrimonial en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Los servidores públicos municipales deberán presentar su declaración patrimonial, de intereses y fiscal en los términos que establece la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2535,7 +2579,9 @@ I. El primer ejemplar quedará en poder del Presidente Municipal entrante;
 
 II. El segundo ejemplar quedará en poder del Presidente Municipal saliente; y
 
-III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción a la Auditoría Superior del Estado, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción al Órgano Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2633,7 +2679,9 @@ d) Relación de rezagos; y
 
 e) Legislación fiscal.
 
-VII. Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por la Auditoria Superior del Estado y por el Congreso a través de la Comisión correspondiente.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+VII.- Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por el Órgano Superior de Fiscalización del Estado de Oaxaca y por el Congreso a través de la Comisión correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2653,11 +2701,11 @@ Los integrantes del Cabildo que manejen recursos humanos, materiales y/o financi
 
 Si los servidores públicos mencionados con anterioridad, no procedieran de conformidad con el párrafo anterior, se entenderá que están conformes con la Entrega-Recepción.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 180.
 
-Los servidores públicos de la administración saliente tienen la obligación de atender los requerimientos de aclaraciones o justificaciones que se les hagan, dentro del plazo de 15 días hábiles, contados a partir de la fecha en que se les notifique el requerimiento, de no hacerlo incurrirán en responsabilidad y serán sancionados en los términos de las Leyes aplicables.
+Los servidores públicos de la administración saliente tienen la obligación de atender los requerimientos de aclaraciones o justificaciones que se les hagan, dentro del plazo que se menciona en el artículo anterior, de no hacerlo incurrirán en responsabilidad, en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2667,33 +2715,45 @@ La Entrega-Recepción no exime a los servidores públicos de la administración 
 
 El Ayuntamiento entrante recibirá los bienes y recursos municipales tal y como los encuentre física o documentalmente, pues la recepción no implica que se deslinde responsabilidad alguna o que se avale la información contenida en el expediente de Entrega-Recepción.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚM. 1333 PUBLICADO EN EL P.O. DE FECHA 16 DE FEBRERO DE 2018, SE ADVIERTE LA ACTUALIZACIÓN DEL TÉRMINO "AUDITORÍA SUPERIOR DEL ESTADO" POR EL DE "ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE OAXACA", POR LO QUE DICHA ACTUALIZACIÓN SE APLICA A LOS PÁRRAFOS RESPECTIVOS.]</small>
+
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 182.
 
 El servidor público entrante, tendrá la obligación de recibir los recursos, bienes y documentación que le entregue la administración saliente en la fecha señalada por la ley o según sus sistemas normativos internos, para lo cual se procederá conforme a lo establecido en el artículo 169 de este ordenamiento legal.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, la administración entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo a la Auditoría Superior del Estado, copia certificada de dichas actuaciones.
+En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, el Ayuntamiento entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo al Órgano Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-El Órgano Superior de Fiscalización del Estado, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a quince días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, la Auditoría Superior del Estado procederá a promover las responsabilidades que correspondan.
+El Órgano de Fiscalización Superior del Estado de Oaxaca, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a 15 días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, el Órgano de Fiscalización Superior del Estado de Oaxaca procederá a promover las responsabilidades que correspondan.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 183.
 
-Cuando por causas de fuerza mayor, caso fortuito, o ante la negativa de la administración entrante de recibir la administración y documentación en términos de esta Ley, no sea posible llevar a cabo el acto de Entrega-Recepción; el Presidente Municipal saliente, formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia de estos hechos, misma que entregará a la Auditoría Superior del Estado, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse al toma de posesión. La Auditoría Superior del Estado recibirá en calidad de depositaria únicamente los documentos que a continuación se mencionan y que forman parte del acta circunstanciada levantada:
+Cuando por causas de fuerza mayor, caso fortuito, o ante la negativa de la administración entrante de recibir la administración y documentación en términos de esta Ley, no sea posible llevar a cabo el acto de Entrega-Recepción; el Presidente Municipal saliente, formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia de estos hechos, misma que entregará al Órgano de Fiscalización Superior del Estado e (sic) Oaxaca, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse la toma de posesión. El Órgano de Fiscalización Superior del Estado de Oaxaca recibirá en calidad de depositaria únicamente los documentos que a continuación se mencionan y que forman parte del acta circunstanciada levantada:
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 a) Informes trimestrales de avance de gestión financiera;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 b) Estado que guarda la Cuenta Pública Municipal;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 c) Situación de la Deuda Pública Municipal y su registro;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 d) Estado de la obra pública ejecutada y en proceso; y
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 e) Situación que guardan las aportaciones estatales y federales, con sus respectivos comprobantes.
 
@@ -2705,19 +2765,19 @@ f) Inventario de bienes muebles e inmuebles;
 
 g) Sellos Oficiales utilizados por el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-Una vez recibida esta documentación, la Auditoría Superior de Fiscalización del Estado deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de diez días hábiles.
+Una vez recibida esta documentación, el Órgano de Fiscalización Superior del Estado de Oaxaca deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
 ### CAPÍTULO VI. DE LA VIGILANCIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 184.
 
-Corresponde a la Auditoría Superior de Fiscalización del Estado, vigilar dentro del ámbito de competencia que le confiere el presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
+Corresponde al Órgano de Fiscalización Superior del Estado de Oaxaca, vigilar dentro del ámbito de competencia que le confiere en (sic) presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2753,7 +2813,9 @@ Para efectos del presente Título, son facultades del Síndico Municipal, las si
 
 I. Vigilar la integración del Comité Interno de Entrega, asimismo, que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
 
-II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita la Auditoría Superior del Estado; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita el Órgano Superior de Fiscalización del Estado de Oaxaca; y
 
 III. Informar al Ayuntamiento de los avances en el cumplimiento del proceso de Entrega-Recepción.
 
@@ -2761,11 +2823,11 @@ III. Informar al Ayuntamiento de los avances en el cumplimiento del proceso de E
 
 ### CAPÍTULO VII. DE LAS RESPONSABILIDADES
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 186.
 
-El incumplimiento a las disposiciones de la presente Ley, será sancionado en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca y demás que resulten aplicables.
+El incumplimiento a las disposiciones de la presente Ley, será sancionado en los términos que establece la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2773,9 +2835,17 @@ El incumplimiento a las disposiciones de la presente Ley, será sancionado en lo
 
 De las autoridades competentes para conocer de las irregularidades que se deriven del proceso de Entrega-Recepción, serán, según corresponda:
 
-I. El Congreso del Estado, cunado las irregularidades las cometan los integrantes de los Ayuntamientos entrante o saliente; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-II. El Ayuntamiento, cuando los actos u omisiones sean cometidos por servidores públicos o ex servidores de la administración municipal que no sean de elección popular.
+I. El Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, cuando las irregularidades las cometan los integrantes de los Ayuntamientos entrante o saliente;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+II. El Ayuntamiento o el Órgano Interno de Control, cuando los actos u omisiones sean cometidos por servidores públicos o ex servidores de la administración municipal que no sean de elección popular; y,
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+III. Las demás autoridades que de acuerdo a las faltas o delitos cometidos resulten competentes de conformidad con las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2803,17 +2873,17 @@ h) Omitir y ocultar información y documentación que resulte relevante para el 
 
 i) Los demás actos u omisiones que obstaculicen o impidan de cualquier forma que el proceso de Entrega-Recepción se realice conforme a lo establecido en esta Ley.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 189.
 
-El Congreso del Estado podrá sancionar en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, a los miembros del Ayuntamiento entrante o saliente que incurran en responsabilidad relacionada con el proceso de Entrega-Recepción y promover las responsabilidades que procedan ante las autoridades competentes.
+El Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca podrá promover las responsabilidades que procedan ante las autoridades competentes en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, a los miembros del Ayuntamiento entrante o saliente que incurran en responsabilidad relacionada con el proceso de Entrega Recepción.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 190.
 
-Los Ayuntamientos sancionarán a los servidores o ex servidores públicos municipales que no sean de elección popular, cuando incurran en responsabilidad relacionada con el proceso de Entrega-Recepción en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y promover las responsabilidades que procedan ante las autoridades competentes.
+Los Ayuntamientos sancionarán a los servidores o ex servidores públicos municipales que no sean de elección popular, cuando incurran en responsabilidad relacionada con el proceso de Entrega-Recepción en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y promover las responsabilidades que procedan ante las autoridades competentes.
 
 T R A N S I T O R I O S :
 
@@ -3050,3 +3120,9 @@ P.O. 2 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 770.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1333.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
