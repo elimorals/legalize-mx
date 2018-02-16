@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2018-01-19"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1645,7 +1645,9 @@ El Pleno del Tribunal elaborará su presupuesto de egresos por grupos y partidas
 
 La Ley desarrollara en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-El Tribunal Estatal de Justicia Administrativa contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo la vigilancia, administración, disciplina y fiscalización del Tribunal, el titular de dicho órgano, deberá reunir los requisitos y sujetarse al procedimiento que determine la ley. El tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+El Tribunal Estatal de Justicia Administrativa contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo la vigilancia, disciplina y fiscalización del Tribunal, el titular de dicho órgano, deberá reunir los requisitos y sujetarse al procedimiento que determine la ley. El tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
 
 ### CAPITULO III.. DE LA JURISDICCION ELECTORAL
 
@@ -4716,3 +4718,13 @@ P.O. 19 DE ENERO DE 2018.
 PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 188 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional y la publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La reforma al último párrafo del apartado C del artículo 55, de la Constitución Política del Estado Libre y Soberano de Baja California, correspondiente al Decreto número 97, publicado en el Periódico Oficial del Estado en fecha 28 de julio del 2017, entrará en vigor el mismo día en (sic) entre en vigor la reforma prevista en el Decreto número 97 en mención y, de conformidad con lo que establece su artículo QUINTO transitorio.
