@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2017-03-01"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -147,11 +147,11 @@ Ningún nombramiento para servidor público de la administración de justicia o 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-El Pleno del Tribunal Superior de Justicia tiene competencia territorial en todo el Estado; las Salas de Circuito, en el de su adscripción; los Jueces de Primera Instancia y Menores en el Circuito, Distrito o Demarcación para el que se les designe; y, los Jueces de paz en el Municipio para el cual se les nombre.
+El Pleno del Tribunal Superior de Justicia, la Sala Especializada en Justicia Penal para Adolescentes y los Jueces adscritos a esta, tienen competencia territorial en todo el Estado; las Salas de Circuito, en el de su adscripción; los Jueces de Primera Instancia y Menores en el Circuito, Distrito o Demarcación para el que se les designe; y, los Jueces de paz en el Municipio para el cual se les nombre.
 
 ###### ARTICULO 15.
 
@@ -227,9 +227,13 @@ El Presidente del Tribunal Superior de Justicia será uno de los Magistrados Num
 
 Durante el ejercicio de su período no podrá ser removido del cargo, salvo por causa grave así determinada en la legislación.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 25.
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere cumplir con las condiciones que al respecto establece la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Para ser Magistrado de la Sala Especializada en Justicia Penal para Adolescentes, además se deberá acreditar especialización en dicha materia.
 
 ###### ARTICULO 26.
 
@@ -269,9 +273,11 @@ De la misma manera, las disposiciones antes señaladas resultarán aplicables a 
 
 ### CAPITULO SEGUNDO. DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 27.
 
-El Pleno del Tribunal es la máxima autoridad del Poder Judicial en todas las cuestiones que no sean de la competencia exclusiva del Consejo de la Judicatura Estatal; se constituye por los Magistrados numerarios que integren las Salas y por el Presidente de ese cuerpo colegiado.
+El Pleno del Tribunal es la máxima autoridad del Poder Judicial; se constituye por el Presidente y los Magistrados que integren las Salas, excepto el titular de la Sala Unitaria Especializada en Justicia Penal para Adolescentes.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE JULIO DE 2008)</small>
 
@@ -413,9 +419,11 @@ El Presidente del Tribunal podrá en cualquier tiempo renunciar a la presidencia
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 37.
 
-El Tribunal Superior de Justicia, para la atención de los asuntos de su competencia, ejercerá sus funciones en Salas Civiles, Penales o Mixtas, según lo determine el Pleno, integradas cada una por tres Magistrados.
+El Tribunal Superior de Justicia, para la atención de los asuntos de su competencia, ejercerá sus funciones en Salas Civiles, Penales, Mixtas, según lo determine el Pleno, integradas cada una por tres Magistrados y una Sala Unitaria Especializada en Justicia Penal para Adolescentes.
 
 ###### ARTICULO 38.
 
@@ -429,9 +437,9 @@ Las Salas conocerán de las excusas y recusaciones de sus integrantes, en los ca
 
 Son atribuciones de los presidentes de Sala:
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-I.- Distribuir por riguroso turno los asuntos entre él y los demás miembros de la Sala, para su estudio y solución oportuna;
+I.- Distribuir, en su caso, por riguroso turno los asuntos entre él y los demás miembros de la Sala, para su estudio y solución oportuna;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -455,11 +463,11 @@ VII.- Remitir los autos radicados en la Sala cuando deban ser diligenciados fuer
 
 VIII.- Conocer de los demás asuntos que les encomiende esta ley.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 41.
 
-Las decisiones de las Salas serán tomadas por mayoría de votos. En los casos que sean del conocimiento de las Salas, un Magistrado designado por el Presidente, por riguroso turno, será ponente y presentará proyectos de resolución ante la Sala en el término que fijen las leyes del procedimiento.
+Las decisiones de las Salas, en su caso, serán tomadas por mayoría de votos. En los casos que sean del conocimiento de las Salas, un Magistrado designado por el Presidente, por riguroso turno, será ponente y presentará proyectos de resolución ante la Sala en el término que fijen las leyes del procedimiento.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
@@ -529,9 +537,41 @@ En el procedimiento penal acusatorio y adversarial el Secretario de Acuerdos de 
 
 Corresponde a la Sala Auxiliar y a las de Competencia Mixta conocer de los asuntos a que se refieren los artículos 44 y 45 de esta ley, en los términos de los acuerdos a que se refieren los artículos 17 y 29 fracción VI, de la misma. Dichas Salas se regirán por lo dispuesto en los artículos 37 a 43.
 
-### CAPITULO QUINTO. DE LOS FUNCIONARIOS DEL TRIBUNAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE FEBRERO DE 2018)</small>
 
-### CAPITULO SEXTO. DEL PERSONAL DEL PODER JUDICIAL
+### CAPITULO CUARTO BIS. DE LA SALA ESPECIALIZADA EN JUSTICIA PENAL PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTICULO 46 BIS.- La Sala Especializada de Justicia Penal para Adolescentes será Unitaria y por tanto estará integrada por un Magistrado Especializado.
+
+En caso de falta temporal o impedimento del titular de la Sala Especializada en Justicia Penal para Adolescentes, se avocará al conocimiento de los asuntos su suplente; cuando ejerza dicha función disfrutará de los emolumentos que correspondan.
+
+Los Juzgados de Primera Instancia Especializados en Justicia Penal para Adolescentes, contarán con Jueces de Control, de Enjuiciamiento y de Ejecución de Sanciones, quienes actuarán de manera unitaria.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTICULO 46 TER.- En la justicia para adolescentes, el Magistrado y los Jueces especializados, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito, por lo que actuarán sin asistencia de secretarios o testigos de asistencia.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTICULO 46 QUATER.- El Magistrado Especializado conocerá del recurso de apelación previsto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; resolverá las recusaciones, excusas y los conflictos de competencia de los Jueces especializados.
+
+El recurso de revocación previsto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes lo conocerá la propia autoridad judicial que haya emitido la resolución que se pretende impugnar, pudiendo ser tanto los Jueces como el Magistrado.
+
+El recurso de queja previsto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, lo conocerá y resolverá la instancia el órgano encargado de la vigilancia y disciplina del Poder Judicial del Estado.
+
+La ejecución de las sentencias que dicten la Sala Especializada y los Jueces Especializados será competencia del Juez de Ejecución en los términos que señala la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTICULO 46 QUINTUS.- La residencia de la Sala Especializada y de los Juzgados Especializados será preferentemente en la Capital del Estado, pero podrá ubicarse según lo determine el Pleno del Tribunal Superior de Justicia, en cualquier otro lugar dentro del Estado de Morelos, para un adecuado funcionamiento y buen servicio público.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTICULO 46 SEXTUS.- Los Jueces de Control especializados en Justicia para Adolescentes, ejercerán las funciones a que se refiere el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la etapa de investigación y etapa intermedia; los jueces de enjuiciamiento especializados, aquellas relativas a la etapa de juicio, conforme lo señala la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; y los jueces de ejecución, las relativas a la etapa de ejecución de medidas de sanción.
+
+### CAPITULO QUINTO. DE LOS FUNCIONARIOS DEL TRIBUNAL
 
 ###### ARTICULO 47.
 
@@ -655,7 +695,7 @@ Cada una de las Salas contará con los Actuarios que el servicio requiera, los c
 
 Los Secretarios de Estudio y Cuenta tendrán a su cargo el estudio de los asuntos que les encomiende el Magistrado ponente al cual estén adscritos, dando cuenta a éste con el estudio realizado.
 
-### CAPITULO SEPTIMO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+### CAPITULO SEXTO. DEL PERSONAL DEL PODER JUDICIAL
 
 ###### ARTICULO 55.
 
@@ -721,7 +761,7 @@ En la selección se dará preferencia al escalafón, y en caso de que ninguno re
 
 La Dirección de Recursos Humanos llevará el escalafón de los empleados y el expediente de cada uno, en el que figuren copia de los nombramientos que hayan recibido en el Poder Judicial, certificado de nacimiento o información testimonial en su caso, comprobantes de estudios y demás documentos que califiquen su hoja de servicios.
 
-### CAPITULO PRIMERO. DE LOS JUECES EN GENERAL
+### CAPITULO SEPTIMO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 62.
 
@@ -759,7 +799,7 @@ XV.- Las demás personas, físicas o jurídicas, a quienes las leyes encomienden
 
 ## TITULO CUARTO. DE LOS JUZGADOS
 
-### CAPITULO SEGUNDO. DE LOS JUECES DE PRIMERA INSTANCIA
+### CAPITULO PRIMERO. DE LOS JUECES EN GENERAL
 
 ###### ARTICULO 63.
 
@@ -847,7 +887,7 @@ Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisió
 
 Tratándose del envío de exhorto, mandamiento o comisión a otro Estado, el Juez solicitará, en la medida en que no se contravengan las disposiciones de esa entidad, se ejecute de acuerdo al procedimiento vigente para la autoridad exhortante.
 
-### CAPITULO TERCERO. DE LOS JUECES MENORES
+### CAPITULO SEGUNDO. DE LOS JUECES DE PRIMERA INSTANCIA
 
 ###### ARTICULO 67.
 
@@ -855,9 +895,15 @@ Son Jueces de primera instancia los siguientes:
 
 I.- Civiles;
 
-II.- Penales; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-III.- Mixtos.
+II.- Penales;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+III.- Especializados para adolescentes, y
+
+IV.- Mixtos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1003,15 +1049,15 @@ XIII.- Llevar los libros de gobierno y demás que ordenen las disposiciones lega
 
 XIV.- Las demás que les imponga la ley.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VI, IX, X, XII y XIII de este artículo, quedarán a cargo del administrador.
+Tratándose de los juzgados penales del sistema procesal penal acusatorio y adversarial, así como los especializados en justicia para adolescentes, donde se hubiere asignado un administrador de juzgado, las atribuciones previstas en las fracciones II, III, V, VI, IX, X, XII y XIII de este artículo, quedarán a cargo del administrador.
 
 ###### ARTICULO 74.
 
 En los distritos y demarcaciones en que hubiere más de un juzgado los asuntos se turnarán por la oficialía de partes común en los términos que señale el Pleno del Tribunal.
 
-### CAPITULO CUARTO. DE LOS JUECES DE PAZ
+### CAPITULO TERCERO. DE LOS JUECES MENORES
 
 ###### ARTICULO 75.
 
@@ -1033,7 +1079,7 @@ IV.- Los demás asuntos que se les encomiende, de conformidad con lo dispuesto e
 
 Dentro del límite de su competencia los Jueces Menores tendrán las mismas atribuciones y obligaciones que esta ley señala para los Jueces de Primera Instancia.
 
-### CAPITULO QUINTO. DE LOS SECRETARIOS DE ACUERDOS, DE LOS ACTUARIOS Y DE LOS ADMINISTRADORES
+### CAPITULO CUARTO. DE LOS JUECES DE PAZ
 
 ###### ARTICULO 77.
 
@@ -1135,7 +1181,7 @@ Los Jueces de Paz desempeñarán sus funciones dentro de los límites territoria
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
-### CAPITULO PRIMERO. DEL JURADO POPULAR
+### CAPITULO QUINTO. DE LOS SECRETARIOS DE ACUERDOS, DE LOS ACTUARIOS Y DE LOS ADMINISTRADORES
 
 ###### ARTICULO 92.
 
@@ -1229,7 +1275,7 @@ III.- No haber sido condenado por delito doloso en los últimos seis años.
 
 ## TITULO QUINTO. DEL JURADO POPULAR Y DE LOS ARBITROS
 
-### CAPITULO SEGUNDO. DE LOS ARBITROS
+### CAPITULO PRIMERO. DEL JURADO POPULAR
 
 ###### ARTICULO 95.
 
@@ -1289,7 +1335,7 @@ La publicación de la lista hecha de acuerdo con lo previsto en los artículos a
 
 El jurado popular tendrá jurisdicción en el Distrito Judicial en cuya cabecera funcione.
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. DE LOS ARBITROS
 
 ###### ARTICULO 105.
 
@@ -1297,7 +1343,7 @@ Los árbitros no tienen autoridad pública. El ejercicio de su función y corres
 
 ## TITULO SEXTO. DE LA JURISPRUDENCIA
 
-### CAPITULO PRIMERO. DE LA INTEGRACION Y FACULTADES DEL CONSEJO
+### CAPITULO UNICO
 
 ###### ARTICULO 106.
 
@@ -1333,7 +1379,7 @@ Previamente a la integración de la jurisprudencia, el Pleno o las Salas, según
 
 ## TITULO SEPTIMO. DEL CONSEJO DE LA JUDICATURA ESTATAL
 
-### CAPITULO SEGUNDO. DE LOS FUNCIONARIOS DEL CONSEJO
+### CAPITULO PRIMERO. DE LA INTEGRACION Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 113.
 
@@ -1489,7 +1535,7 @@ XV.- Llamar a su presencia a los Jueces o administradores, según corresponda, p
 
 XVI.- Los demás que le confieran las leyes.
 
-### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL GENERAL
+### CAPITULO SEGUNDO. DE LOS FUNCIONARIOS DEL CONSEJO
 
 ###### ARTICULO 120.
 
@@ -1607,7 +1653,7 @@ VIII.- Las demás que señalen las disposiciones jurídicas o le sean delegadas 
 
 ## TITULO OCTAVO. DE LAS DEPENDENCIAS DEL CONSEJO
 
-### CAPITULO SEGUNDO. DE LA BIBLIOTECA
+### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL GENERAL
 
 ###### ARTICULO 128.
 
@@ -1677,7 +1723,7 @@ El reglamento respectivo fijará las atribuciones de los empleados del archivo j
 
 Solamente a los Magistrados y Jueces les será permitido consultar expedientes fuera de la oficina del archivo, previo recibo y por un período máximo de veinte días.
 
-### CAPITULO TERCERO. DEL BOLETIN JUDICIAL
+### CAPITULO SEGUNDO. DE LA BIBLIOTECA
 
 ###### ARTICULO 139.
 
@@ -1711,9 +1757,7 @@ VII.- Promover la actualización y modernización de la biblioteca; y
 
 VIII.- Las demás que prescriban las leyes y reglamentos relativos y aquellas que se deriven de las instrucciones del Presidente del Consejo.
 
-### CAPITULO CUARTO. DE LA ESCUELA JUDICIAL
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
+### CAPITULO TERCERO. DEL BOLETIN JUDICIAL
 
 ###### ARTICULO 143.
 
@@ -1725,7 +1769,9 @@ El Boletín Judicial circulará diariamente en todos los distritos judiciales, a
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2008)</small>
 
-### CAPITULO QUINTO. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
+### CAPITULO CUARTO. DE LA ESCUELA JUDICIAL
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 145.
 
@@ -1745,7 +1791,7 @@ En la Escuela Judicial se publicará una revista jurídica periódica, la que te
 
 La Escuela Judicial tomará las medidas necesarias y vigilará que la revista tenga la difusión debida y oportuna entre las autoridades, instituciones y público en general a los que interese su contenido.
 
-### CAPITULO SEXTO. DEL CENTRO DE COMPUTACION E INFORMATICA
+### CAPITULO QUINTO. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 148.
 
@@ -1771,7 +1817,7 @@ La Escuela Judicial tomará las medidas necesarias y vigilará que la revista te
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
-### CAPITULO SEPTIMO. DE LA DIRECCION DE LA CONTRALORIA INTERNA
+### CAPITULO SEXTO. DEL CENTRO DE COMPUTACION E INFORMATICA
 
 ###### ARTICULO 154.
 
@@ -1791,7 +1837,7 @@ V.- La información sobre el contenido del centro de cómputo e informática só
 
 Para una mejor eficiencia del servicio de computación e informática, el Presidente del Consejo de la Judicatura Estatal autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de cómputo e informática, tanto en la Capital del Estado como en los distritos judiciales, de acuerdo con las posibilidades presupuestales, determinando, en su caso, la zonificación que técnicamente sea conveniente para las necesidades del servicio y volumen de trabajo.
 
-### CAPITULO OCTAVO. DE LA INTENDENCIA
+### CAPITULO SEPTIMO. DE LA DIRECCION DE LA CONTRALORIA INTERNA
 
 ###### ARTICULO 156.
 
@@ -1813,21 +1859,21 @@ V.- Ser enlace con la Contraloría General del Estado, para la recepción y regi
 
 VI.- Las demás que señalen las disposiciones jurídicas o le sean delegadas por el Consejo de la Judicatura Estatal o por el Presidente.
 
-### CAPITULO UNICO. ESTMULOS (SIC) Y RECOMPENSAS
+### CAPITULO OCTAVO. DE LA INTENDENCIA
 
 ###### ARTICULO 158.
 
 El servicio de intendencia dependerá de la Dirección de Recursos Materiales y Servicios y tendrá a su cargo el mantenimiento, limpieza y vigilancia de los muebles e inmuebles en las áreas en los que se encuentren adscritos.
 
+### CAPITULO UNICO. ESTMULOS (SIC) Y RECOMPENSAS
+
 ### CAPITULO UNICO. DE LAS VACACIONES, LICENCIAS Y PERMISOS
 
 ### CAPITULO PRIMERO. GENERALIDADES
 
-### CAPITULO SEGUNDO. DE LAS AUSENCIAS TEMPORALES Y ACCIDENTALES
-
 ## TITULO NOVENO
 
-### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
+### CAPITULO SEGUNDO. DE LAS AUSENCIAS TEMPORALES Y ACCIDENTALES
 
 ###### ARTICULO 159.
 
@@ -1861,7 +1907,7 @@ V.- Participación en programas de arrendamiento y venta de casas, en la medida 
 
 ## TITULO DECIMO
 
-### CAPITULO PRIMERO. GENERALIDADES
+### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
 
 ###### ARTICULO 162.
 
@@ -1885,7 +1931,7 @@ Cuando algún funcionario o empleado de la administración de justicia fallezca 
 
 ## TITULO DECIMO PRIMERO. DE LAS AUSENCIAS
 
-### CAPITULO SEGUNDO. DE LAS FALTAS OFICIALES
+### CAPITULO PRIMERO. GENERALIDADES
 
 ###### ARTICULO 167.
 
@@ -1895,7 +1941,7 @@ Las ausencias de los servidores públicos judiciales serán suplidas en los tér
 
 Cuando los Jueces, Secretario, Actuarios y demás empleados auxiliares del Poder Judicial, faltaren a sus labores por mas de tres días en un período de treinta sin causa justificada, previa audiencia serán cesados en su empleo y se declarará vacante en su caso el cargo, para los efectos de los nuevos nombramientos.
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPITULO SEGUNDO. DE LAS FALTAS OFICIALES
 
 ###### ARTICULO 169.
 
@@ -1938,6 +1984,8 @@ Las faltas temporales o accidentales de los Secretarios de Acuerdos de los juzga
 ###### ARTICULO 175.
 
 Las faltas accidentales o temporales de los servidores públicos judiciales, serán cubiertas por la persona que designe el Presidente del Consejo cuando no excedan de quince días, o por el servidor público que designe el Consejo de la Judicatura Estatal cuando sea por más de quince días.
+
+### CAPITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTICULO 176.
 
@@ -2428,3 +2476,29 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y ABROGA LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS”.]
+
+PRIMERA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos, con las salvedades previstas en la disposición Tercera Transitoria de este instrumento.
+
+SEGUNDA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, deberá abrogarse la Ley Orgánica del Tribunal de Justicia Para Adolescentes y Juzgados Especializados, publicada en el Periódico Oficial “Tierra y Libertad”, número 4577, del 19 de diciembre de 2007.
+
+TERCERA. De manera complementaria al régimen transitorio de las reformas contenidas en el Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5578, de 15 quince de febrero de 2018, a fin de garantizar la debida autonomía del Poder Judicial y su operatividad, los recursos humanos, materiales, presupuestales y financieros, así como el acervo documental con que actualmente cuenta el Tribunal Unitario de Justicia para Adolescentes, pasarán a formar parte del Tribunal Superior de Justicia del Estado de Morelos.
+
+El Tribunal Unitario de Justicia para Adolescentes y los Juzgados Especializados, subsistiendo como órganos jurisdiccionales, quedarán formalmente constituidos como Sala Especializada de Justicia Penal para Adolescentes y Juzgados Especializados del Tribunal Superior de Justicia del Estado de Morelos; sin embargo, tal transformación estará condicionada hasta en tanto el Congreso del Estado de Morelos, realice las adecuaciones presupuestarias correspondientes, por lo que los asuntos que se encuentren en trámite o en proceso, continuarán tramitándose en los términos que establezca su Ley Orgánica y demás legislación aplicable, hasta su conclusión, por el referido Tribunal Unitario y los mencionados Juzgados Especializados, los que seguirán operando ordinariamente hasta que dichas adecuaciones presupuestarias se realicen, por lo que la transferencia ordenada en el primer párrafo que antecede también quedará suspendida por la citada condición.
+
+De igual forma la reforma objeto del presente Decreto a la Ley Orgánica del Poder Judicial quedará condicionada a surtir sus efectos, una vez que se realicen las reasignaciones presupuestales a que se refiere el segundo párrafo de esta disposición transitoria.
+
+CUARTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada y su suplente continuarán desempeñando el cargo respectivo en la Sala Especializada en Justicia para Adolescentes del Tribunal Superior de Justicia, hasta la conclusión del término para el que fueron originalmente designadas.
+
+Las menciones que en otros ordenamientos se hagan del Tribunal Unitario de Justicia para Adolescentes, se entenderán referidas a la Sala Especializada en Justicia para Adolescentes del Tribunal Superior de Justicia y Juzgados Especializados, según sea el caso, hasta en tanto se cumpla la condición de la disposición tercera transitoria.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo del Tribunal Unitario de Justicia para Adolescentes, en cualquier ordenamiento legal, así como en contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, serán asumidos por el Tribunal Superior de Justicia, una vez que se cumpla la condición prevista en la Disposición Tercera que antecede.
+
+QUINTA. El Pleno del Tribunal Superior de Justicia nombrará una comisión que estará integrada por el Presidente del Tribunal y dos Magistrados, así como un Secretario General, éste último quien dará fe de sus actos, será designado por el Presidente del Tribunal, a efecto de realizar las funciones que en forma colegiada venía realizando el extinto Consejo de la Judicatura, la cual tendrá su funcionamiento hasta en tanto este Congreso realice las adecuaciones a la presente ley respecto de las funciones administrativas, de disciplina y vigilancia del Poder Judicial a que se refieren las disposiciones transitorias tercera y décima tercera de las reformas contenidas en el Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5578, de 15 quince de febrero de 2018, referida en el presente decreto.
+
+SEXTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada del Tribunal Unitario de Justicia para Adolescentes procederá a realizar la entrega recepción al Tribunal Superior de Justicia del Estado.
+
+SÉPTIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
