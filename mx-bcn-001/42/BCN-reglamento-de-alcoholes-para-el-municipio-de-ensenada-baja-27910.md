@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2017-08-18"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -821,7 +821,11 @@ XV.- Contar con un seguro de responsabilidad civil para cubrir a los usuarios ta
 
 XVI.- A solicitud del Presidente Municipal, escrito firmado por los vecinos del área donde se pretenda establecer el establecimiento mercantil, en el que se establezca que no se oponen la operación del giro comercial; y,
 
-XVII.- Los demás requisitos establecidos en este Reglamento, la Ley y demás ordenamientos municipales.
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XVII.- Si en el establecimiento comercial que se pretenda ubicar existe eminente afectación en un radio de 100 metros, el solicitante deberá presentar la aprobación de los vecinos por escrito que deberá contener las identificaciones que acrediten residencia cercana al establecimiento.
+
+XVIII.- Los demás requisitos establecidos en este Reglamento, la Ley y demás ordenamientos municipales.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -1686,3 +1690,9 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DE "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL DICTAMEN 090/2017, RELATIVO A LA REFORMA DE DIVERSOS ARTÍCULOS DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DEL REGLAMENTO PARA ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- LA REFORMA DEL ARTÍCULO 36 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
