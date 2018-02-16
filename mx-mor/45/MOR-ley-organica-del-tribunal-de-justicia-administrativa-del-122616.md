@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2018-02-15"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -81,7 +81,7 @@ VI. Ley, a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado d
 
 VII. Ley de Justicia Administrativa, a la Ley de Justicia Administrativa del Estado de Morelos;
 
-VIII. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado;
+VIII. Periódico Oficial, al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado;
 
 IX. Pleno, al Pleno del Tribunal de Justicia Administrativa del Estado de Morelos;
 
@@ -95,9 +95,13 @@ XIII. Reglamento, al Reglamento Interior del Tribunal de Justicia Administrativa
 
 XIV. Salas, a todas las Salas del Tribunal;
 
-XV. Salas de Instrucción, a las Salas Primera, Segunda y Tercera que integran el Tribunal de Justicia Administrativa;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XVI. Salas Especializadas, a las Salas Cuarta y Quinta también integrantes del Tribunal de Justicia Administrativa;
+XV. Salas de Instrucción, a las Salas encargadas de conocer asuntos jurisdiccionales;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XVI. Salas Especializadas, a las Salas encargadas de conocer sobre responsabilidades administrativas graves;
 
 XVII. Tribunal, al Tribunal de Justicia Administrativa del Estado de Morelos, y
 
@@ -351,9 +355,9 @@ e) Las controversias que se susciten por la interpretación, cumplimiento, resci
 
 f) Conforme a lo establecido en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, conocerá de los juicios promovidos por los miembros de las instituciones de seguridad pública, derivados de su relación administrativa con el Estado y los Ayuntamientos, en contra de las sentencias definitivas mediante las que se imponen correctivos disciplinarios y sanciones impuestas por los Consejos de Honor y Justicia, con excepción de las responsabilidades administrativas graves previstas en la Ley General de Responsabilidades Administrativas;
 
-g) La aprobación de los convenios debidamente ratificados que lleguen a celebrarse con motivo de un acuerdo conciliatorio entre las partes para elevarlos a categoría de cosa juzgada
+g) (DEROGADO, P.O. 16 DE FEBRERO DE 2018)
 
-h) Las jurisdicciones voluntarias relacionadas con los convenios de terminación de la resolución administrativa para elevarlos a categoría de cosa juzgada;
+h) (DEROGADO, P.O. 16 DE FEBRERO DE 2018)
 
 i) De las controversias vinculadas con la probable violación al derecho de los servidores públicos de elección popular cuyo periodo ha concluido, de recibir las remuneraciones que en derecho les corresponda, por el desempeño de un encargo de elección popular cuando el periodo de su ejercicio ya ha concluido;
 
@@ -403,11 +407,15 @@ El Presidente del Pleno Especializado será electo por cuando menos cinco votos 
 
 En el último día hábil del mes de junio de cada año, el Pleno Especializado celebrará sesión solemne en la que su Presidente del Pleno Especializado rendirá el informe anual correspondiente, el cual deberá publicarse en el Boletín Electrónico del Tribunal, debiendo remitirlo al Poder Ejecutivo para su publicación en el Periódico Oficial.
 
-En esta misma sesión, de ser el caso, el Presidente del Pleno Especializado saliente entregará la Presidencia al Magistrado Especializado que por orden consecutivo le corresponda, tomándole la protesta de ley.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+En esta misma sesión, de ser el caso, el Presidente del Pleno Especializado saliente entregará la Presidencia al Magistrado que haya resultado electo Presidente por el Pleno, tomándole la protesta de ley.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 22.
 
-El Presidente del Pleno Especializado será suplido en sus faltas temporales por el Magistrado de Sala Especializada que por número consecutivo le corresponda.
+El Presidente del Pleno Especializado será suplido en sus faltas temporales por el Magistrado que determine el Pleno.
 
 ###### Artículo 23.
 
@@ -487,6 +495,8 @@ Las Salas de Instrucción y Salas Especializadas conocerán de los asuntos que p
 
 #### Sección Segunda. De las Atribuciones Genéricas de los Magistrados
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 28.
 
 Los Magistrados de las Salas de Instrucción y de las Salas Especializadas tendrán las atribuciones siguientes:
@@ -517,9 +527,13 @@ XII. Emitir opinión, con relación a las solicitudes de licencias que presente 
 
 XIII. Informar mensualmente al Pleno de las labores de la Sala;
 
-XIV. Proponer al Pleno, a través de su Presidente, los nombramientos y remociones de los funcionarios y del personal administrativo de la Sala a su cargo, y
+XIV. Proponer al Pleno, a través de su Presidente, los nombramientos y remociones de los funcionarios y del personal administrativo de la Sala a su cargo;
 
-XV. Someter al Pleno que corresponda, los proyectos de resolución de los asuntos de su competencia.
+XV. La aprobación de los convenios debidamente ratificados que lleguen a celebrarse con motivo de un Acuerdo Conciliatorio entre las partes para elevarlos a categoría de cosa juzgada.
+
+XVI. Las jurisdicciones voluntarias relacionadas con los convenios de terminación de la resolución administrativa para elevarlos a categoría de cosa juzgada, y
+
+XVII. Someter al Pleno que corresponda, los proyectos de resolución de los asuntos de su competencia.
 
 #### Sección Tercera. De las Atribuciones Específicas de los Magistrados
 
@@ -1350,3 +1364,13 @@ DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supe
 DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
 
 VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA Y UNO POR EL QUE SE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. De manera complementaria al régimen transitorio del Decreto Número Dos Mil Quinientos Ochenta y Nueve, publicado en el Periódico Oficial “Tierra y Libertad” en fecha quince de febrero de este mismo año, a fin de garantizar la legalidad de las actuaciones del Tribunal de Justicia Administrativa del Estado de Morelos, hasta en tanto se realicen las nuevas designaciones de los titulares del Pleno del Tribunal, del Pleno Especializado y de las Salas Especializadas, en los términos de la presente Ley, se seguirán desempeñando como sus titulares los Magistrados que se encuentran en funciones en los mismos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
