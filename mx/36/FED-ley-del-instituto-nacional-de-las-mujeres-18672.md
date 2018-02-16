@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-nacional-de-las-mujeres-18672"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-12"
-last_updated: "2015-06-04"
+last_updated: "2018-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2015, TODA REFERENCIA QUE SE HAGA AL PROGRAMA NACIONAL PARA LA IGUALDAD DE OPORTUNIDADES Y NO DISCRIMINACIÓN CONTRA LAS MUJERES, SE ENTENDERÁ HECHA AL PROGRAMA NACIONAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de enero de 2001.
 
@@ -41,9 +41,11 @@ LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en toda la República, en materia de equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del Artículo Cuarto, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta Ley son de orden público y de observancia general en toda la República, en materia de igualdad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del Artículo Cuarto, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
@@ -53,13 +55,17 @@ Se crea el Instituto Nacional de las Mujeres como un organismo público descentr
 
 Son sujetos de los derechos que esta Ley garantiza todas las mujeres mexicanas y extranjeras que se encuentren en el territorio nacional, y las mexicanas en el extranjero, sin importar origen étnico, edad, estado civil, idioma, cultura, condición social, discapacidad, religión o dogma; quienes podrán participar en los programas, servicios y acciones que se deriven del presente ordenamiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4.
 
-El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre los géneros; el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social del país, bajo los criterios de:
+El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre los géneros; el ejercicio pleno de todos los derechos de las mujeres y su participación igualitaria en la vida política, cultural, económica y social del país, bajo los criterios de:
 
 - Transversalidad, en las políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Federal, a partir de la ejecución de programas y acciones coordinadas o conjuntas.
 
-- Federalismo, en lo que hace al desarrollo de programas y actividades para el fortalecimiento institucional de las dependencias responsables de la equidad de género en los estados y municipios.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+- Federalismo, en lo que hace al desarrollo de programas y actividades para el fortalecimiento institucional de las dependencias responsables de la igualdad de género en los estados y municipios.
 
 - Fortalecimiento de vínculos con los Poderes Legislativo y Judicial tanto federal como estatal.
 
@@ -81,9 +87,13 @@ Consejo Social: el Consejo Social del Instituto Nacional de las Mujeres.
 
 Género: concepto que refiere a los valores, atributos, roles y representaciones que la sociedad asigna a hombres y mujeres.
 
-Equidad de género: concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquéllos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-Perspectiva de género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
+Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
 
 ###### Artículo 6.
 
@@ -97,21 +107,29 @@ II. La coordinación, seguimiento y evaluación de los programas, proyectos y ac
 
 La ejecución de la política de coordinación permanente entre las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales y de los sectores social y privado en relación con las mujeres.
 
-La evaluación de los programas, proyectos y acciones para la no discriminación y la equidad de género, en coordinación con las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias;
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-III. La promoción de la cultura de la no violencia, la no discriminación contra las mujeres y de la equidad de género para el fortalecimiento de la democracia.
+La evaluación de los programas, proyectos y acciones para la no discriminación y la igualdad de género, en coordinación con las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias;
 
-La representación del Gobierno Federal en materia de equidad de género y de las mujeres ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, y
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+III. La promoción de la cultura de la no violencia, la no discriminación contra las mujeres y de la igualdad de género para el fortalecimiento de la democracia.
+
+La representación del Gobierno Federal en materia de igualdad de género y de las mujeres ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, y
 
 IV. La promoción y monitoreo del cumplimiento de los tratados internacionales celebrados en términos de lo dispuesto por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
-La ejecución de programas de difusión e información para las mujeres de carácter gratuito y alcance nacional, que informen acerca de los derechos de las mujeres, procedimientos de impartición de justicia y, proporcionen orientación sobre el conjunto de políticas públicas y programas de organismos no gubernamentales y privados para la equidad de género.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+La ejecución de programas de difusión e información para las mujeres de carácter gratuito y alcance nacional, que informen acerca de los derechos de las mujeres, procedimientos de impartición de justicia y, proporcionen orientación sobre el conjunto de políticas públicas y programas de organismos no gubernamentales y privados para la igualdad de género.
 
 ###### Artículo 7.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I. Apoyar la formulación de políticas públicas gubernamentales e impulsar las de la sociedad, para alcanzar la equidad de género;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+I. Apoyar la formulación de políticas públicas gubernamentales e impulsar las de la sociedad, para alcanzar la igualdad de género;
 
 II. Impulsar la incorporación de la perspectiva de género en la planeación nacional del desarrollo, programación y presupuesto de egresos de la federación;
 
@@ -131,7 +149,9 @@ VII. Establecer y concertar acuerdos y convenios con las autoridades en los tres
 
 VIII. Propiciar y en su caso, participar en coordinación con la Secretaría de Relaciones Exteriores en la firma y cumplimiento de los instrumentos acordados en el ámbito internacional y regional, relacionados con la igualdad de oportunidades y no discriminación contra las mujeres;
 
-IX. Difundir y dar seguimiento al cumplimiento de las obligaciones contraídas con gobiernos o entidades de otros países o con organismos internacionales relacionados con la equidad de género y las mujeres;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IX. Difundir y dar seguimiento al cumplimiento de las obligaciones contraídas con gobiernos o entidades de otros países o con organismos internacionales relacionados con la igualdad de género;
 
 X. Promover entre los tres Poderes de la Unión y la sociedad, acciones dirigidas a mejorar la condición social de la población femenina y la erradicación de todas las formas de discriminación contra las mujeres, en los ámbitos de la vida social, económica, política y cultural;
 
@@ -139,13 +159,17 @@ XI. Establecer vínculos de colaboración con las Cámaras de Diputados y de Sen
 
 XII. Establecer relaciones permanentes con las autoridades responsables de la procuración de justicia y de la seguridad pública de la Federación y Entidades Federativas, para proponer medidas de prevención contra cualquier forma de discriminación femenina;
 
-XIII. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en las entidades federativas para promover y apoyar, en su caso, las políticas, programas y acciones en materia de equidad de género y de igualdad de oportunidades para las mujeres;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+XIII. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en las entidades federativas para promover y apoyar, en su caso, las políticas, programas y acciones en materia de igualdad de género e igualdad de oportunidades para las mujeres;
 
 XIV. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales y con la banca multilateral, para el desarrollo de proyectos que beneficien a las mujeres;
 
 XV. Propiciar las condiciones necesarias para legitimar, ante las instituciones del Estado, la relevancia de impulsar políticas públicas con perspectiva de género, que contribuyan a la superación de las diversas formas de discriminación contra las mujeres y, promuevan las condiciones sociales adecuadas para garantizar a las mujeres el ejercicio efectivo de sus derechos;
 
-XVI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado, en materia de equidad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+XVI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado, en materia de igualdad de género y de igualdad de oportunidades para las mujeres, cuando así lo requieran;
 
 XVII. Promover la ejecución de acciones para el reconocimiento y la visibilidad pública de las mujeres, así como para la difusión a nivel nacional e internacional de las actividades que las benefician;
 
@@ -155,9 +179,13 @@ XIX. Participar y organizar reuniones y eventos para el intercambio de experienc
 
 XX. Promover, difundir y publicar obras relacionadas con las materias objeto de esta Ley;
 
-XXI. Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas; organizaciones privadas y sociales; organismos internacionales y regionales; gobiernos de otros países y particulares interesados en apoyar el logro de la equidad de género;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-XXII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de equidad de género, de conformidad con las disposiciones aplicables;
+XXI. Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas; organizaciones privadas y sociales; organismos internacionales y regionales; gobiernos de otros países y particulares interesados en apoyar el logro de la igualdad de género;
+
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+XXII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de igualdad de género, de conformidad con las disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
@@ -327,7 +355,9 @@ II. No haber sido condenada (o) por delito intencional alguno, o inhabilitada (o
 
 III. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiere conocimiento y experiencia en materia administrativa;
 
-IV. Haber destacado por su labor a nivel nacional o estatal, en favor de la equidad de género, o en actividades relacionadas con la promoción de la igualdad de oportunidades para las mujeres y demás materias objeto de esta Ley, y
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IV. Haber destacado por su labor a nivel nacional o estatal, a favor de la igualdad de género, o en actividades relacionadas con la promoción de la igualdad de oportunidades para las mujeres y demás materias objeto de esta Ley, y
 
 V. No encontrarse en uno o en varios de los impedimentos establecidos en la fracción III del artículo 21 de la Ley Federal de Entidades Paraestatales.
 
@@ -389,13 +419,17 @@ II. Haber recibido título de nivel licenciatura debidamente acreditado por las 
 
 III. Haber desempeñado cargos de nivel técnico y decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
 
-IV. Contar con experiencia en materia de la equidad de género o de las causas de las mujeres, a nivel estatal, nacional o internacional, así como en actividades relacionadas con las materias objeto de esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IV. Contar con experiencia en materia de igualdad de género o de las causas de las mujeres, a nivel estatal, nacional o internacional, así como en actividades relacionadas con las materias objeto de esta Ley.
 
 ###### Artículo 20.
 
 La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 
-I. Proponer a la Presidencia del Instituto, las políticas generales que en materia de equidad de género y de igualdad de oportunidades y de trato para las mujeres habrá de seguir el Instituto ante los órganos gubernamentales y las organizaciones privadas o no gubernamentales, nacionales e internacionales;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+I. Proponer a la Presidencia del Instituto, las políticas generales que en materia de igualdad de género e igualdad de oportunidades y de trato para las mujeres habrá de seguir el Instituto ante los órganos gubernamentales y las organizaciones privadas o no gubernamentales, nacionales e internacionales;
 
 II. Someter a la consideración de la Presidencia del Instituto, proyectos de informes anuales, así como los especiales que serán presentados a la Junta de Gobierno;
 
@@ -419,9 +453,11 @@ La Junta de Gobierno determinará en el Estatuto Orgánico del Instituto la estr
 
 Las integrantes del Consejo Consultivo durarán en su encargo tres años, pudiendo permanecer un periodo más. Las nuevas integrantes deberán representar a organizaciones distintas de las representadas en el periodo inmediato anterior. Al término de su encargo, el Consejo Consultivo presentará un informe anual a la Junta de Gobierno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 24.
 
-El Consejo Social será un órgano de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta Ley. Éste se integrará por un número no menor de diez ni mayor de veinte mujeres representativas de los sectores público, privado y social, que se hayan distinguido por sus tareas a favor del impulso a la equidad de género.
+El Consejo Social será un órgano de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta Ley. Éste se integrará por un número no menor de diez ni mayor de veinte mujeres representativas de los sectores público, privado y social, que se hayan distinguido por sus tareas a favor del impulso a la igualdad de género.
 
 La Junta de Gobierno determinará en el Estatuto Orgánico del Instituto la estructura, organización y funciones del Consejo Social, el cual será dirigido por una Consejera Presidenta.
 
@@ -433,13 +469,15 @@ Las integrantes del Consejo Social durarán en su encargo tres años, pudiendo p
 
 El Consejo Consultivo colaborará con el Instituto en los casos siguientes:
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Nacional para la Igualdad entre Mujeres y Hombres y en los demás asuntos en materia de equidad de género y mujeres que sean sometidos a su consideración;
+I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Nacional para la Igualdad entre Mujeres y Hombres y en los demás asuntos en materia de igualdad de género y mujeres que sean sometidos a su consideración;
 
 II. Impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
-III. Promover vínculos de coordinación con los responsables de las iniciativas a favor de la equidad e igualdad de oportunidades de las mujeres en las instancias de gobierno, así como con los sectores y organizaciones de la sociedad en general;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+III. Promover vínculos de coordinación con los responsables de las iniciativas a favor de la igualdad de género e igualdad de oportunidades de las mujeres en las instancias de gobierno, así como con los sectores y organizaciones de la sociedad en general;
 
 IV. Apoyar el fortalecimiento de las organizaciones de mujeres y de las que trabajen a favor de las mujeres, y
 
@@ -451,7 +489,9 @@ El Consejo Social colaborará con el Instituto en los casos siguientes:
 
 I. Dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres, en el marco de esta Ley;
 
-II. Vigilar el cumplimiento de los compromisos del Estado Mexicano a nivel nacional e internacional, relacionados con la equidad de género y las mujeres;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+II. Vigilar el cumplimiento de los compromisos del Estado Mexicano a nivel nacional e internacional, relacionados con la igualdad de género y las mujeres;
 
 III. Elaborar y presentar a la Junta de Gobierno los informes de evaluación en las materias objeto de esta Ley;
 
@@ -463,11 +503,11 @@ VI. Las demás que determine el Estatuto Orgánico del Instituto y demás dispos
 
 ### Capítulo VI. De la Colaboración de los tres Poderes de la Unión
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 28.
 
-El Instituto solicitará a las y los titulares de las dependencias y entidades de la Administración Pública Federal, las y los titulares de los órganos de impartición de justicia federal, así como las y los titulares de la Junta de Coordinación Política de ambas Cámaras del Congreso de la Unión la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres.
+El Instituto solicitará a las y los titulares de las dependencias y entidades de la Administración Pública Federal, las y los titulares de los órganos de impartición de justicia federal, así como las y los titulares de la Junta de Coordinación Política de ambas Cámaras del Congreso de la Unión la información pertinente en materia de igualdad de género, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 29.
 
@@ -556,3 +596,9 @@ D.O.F. 4 DE JUNIO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Toda referencia que se haga al Programa Nacional para la Igualdad de Oportunidades y no Discriminación Contra las Mujeres, se entenderá hecha al Programa Nacional para la Igualdad entre Mujeres y Hombres.
+
+D.O.F. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO NACIONAL DE LAS MUJERES, EN MATERIA DE IGUALDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
