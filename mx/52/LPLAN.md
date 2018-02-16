@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2016-11-28"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LPLAN"
 ---
 # LEY DE PLANEACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -48,31 +50,41 @@ I.- Las normas y principios básicos conforme a los cuales se llevará a cabo la
 
 II.- Las bases de integración y funcionamiento del Sistema Nacional de Planeación Democrática;
 
-III.- Las bases para que el Ejecutivo Federal coordine sus actividades de planeación con las entidades federativas, conforme a la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+III.- Las bases para que el Ejecutivo Federal coordine las actividades de planeación de la Administración Pública Federal, así como la participación, en su caso, mediante convenio, de los órganos constitucionales autónomos y los gobiernos de las entidades federativas, conforme a la legislación aplicable;
 
-IV.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales así como de los pueblos y comunidades indígenas, a través de sus representantes y autoridades, en la elaboración del Plan y los programas a que se refiere esta Ley, y
+> <small>(ADICIONADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-V.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades del plan y los programas.
+IV.- Los órganos responsables del proceso de planeación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+V.- Las bases de participación y consulta a la sociedad, incluyendo a los pueblos y comunidades indígenas, a través de sus representantes y autoridades, en la elaboración del Plan y los programas a que se refiere esta Ley, y
+
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+VI.- Las bases para que el Ejecutivo Federal concierte con los particulares las acciones a realizar para la elaboración y ejecución del Plan y los programas a que se refiere esta Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2o.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral y sustentable del país y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo equitativo, incluyente, integral, sustentable y sostenible del país, con perspectiva de interculturalidad y de género, y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales, ambientales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
 
 I.- El fortalecimiento de la soberanía, la independencia y autodeterminación nacionales, en lo político, lo económico y lo cultural;
 
-II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución establece; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del gobierno;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+II.- La preservación y el perfeccionamiento del régimen representativo, democrático, laico y federal que la Constitución establece; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo en un medio ambiente sano;
 
-III.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+III.- La igualdad de derechos entre las personas, la no discriminación, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
-IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales, políticos y culturales;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IV.- Las obligaciones del Estado de promover, respetar, proteger y garantizar los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
 > <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
 
@@ -100,31 +112,33 @@ Para los efectos de esta Ley se entiende por planeación nacional de desarrollo 
 
 Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades, así como criterios basados en estudios de factibilidad cultural; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4o.
 
-Es responsabilidad del Ejecutivo Federal conducir la planeación nacional del desarrollo con la participación democrática de los grupos sociales, de conformidad con lo dispuesto en la presente Ley.
+Es responsabilidad del Ejecutivo Federal conducir la planeación nacional del desarrollo con la participación democrática de la sociedad, de conformidad con lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 5o.
 
-El Presidente de la República remitirá el Plan al Congreso de la Unión para su examen y opinión. En el ejercicio de sus atribuciones constitucionales y legales y en las diversas ocasiones previstas por esta Ley, el Poder Legislativo formulará, asimismo, las observaciones que estime pertinentes durante la ejecución, revisión y adecuaciones del propio Plan.
+El Ejecutivo Federal elaborará el Plan Nacional de Desarrollo y lo remitirá a la Cámara de Diputados del Congreso de la Unión para su aprobación, en los plazos previstos en esta Ley. En el ejercicio de sus atribuciones constitucionales y legales y en las diversas ocasiones previstas por esta Ley, la Cámara de Diputados formulará, asimismo, las observaciones que estime pertinentes durante la ejecución y revisión del propio Plan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+Para el inicio de los trabajos de elaboración del Plan Nacional de Desarrollo se estará a lo dispuesto en el artículo 43 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 6o.
 
-El Presidente de la República, al informar ante el Congreso de la Unión sobre el estado general que guarda la administración pública del país, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Nacional de Desarrollo y los Programas Sectoriales.
+El Presidente de la República informará al Congreso de la Unión sobre el estado general que guarda la administración pública del país, haciendo mención expresa de las acciones y los resultados obtenidos relacionados con la ejecución del Plan Nacional de Desarrollo, los Programas Sectoriales y, en su caso, los programas especiales, así como lo concerniente al cumplimiento de las disposiciones del artículo 2o. Constitucional en materia de derechos y cultura indígena.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+El contenido de la Cuenta Pública Federal deberá relacionarse, en lo conducente, con la información a que alude este artículo, a fin de permitir a la Cámara de Diputados su análisis con relación a los objetivos y prioridades del Plan Nacional de Desarrollo y de los Programas Sectoriales.
 
-En el mes de marzo de cada año, el Ejecutivo remitirá a la Comisión Permanente del Congreso de la Unión el informe de las acciones y resultados de la ejecución del plan y los programas a que se refiere el párrafo anterior, incluyendo un apartado específico con todo lo concerniente al cumplimiento de las disposiciones del artículo 2 Constitucional en materia de derechos y cultura indígena.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El contenido de las Cuentas Anuales de la Hacienda Pública Federal y del Gobierno del Distrito Federal deberá relacionarse, en lo conducente, con la información a que aluden los dos párrafos que anteceden, a fin de permitir a la Cámara de Diputados el análisis de las cuentas, con relación a los objetivos y prioridades de la Planeación Nacional referentes a las materias objeto de dichos documentos.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 7o.
 
-El Presidente de la República, al enviar a la Cámara de Diputados las iniciativas de leyes de Ingresos y los proyectos de Presupuesto de Egresos, informará del contenido general de dichas iniciativas y proyectos y su relación con los programas anuales que, conforme a lo previsto en el Artículo 27 de esta ley, deberán elaborarse para la ejecución del Plan Nacional de Desarrollo.
+El Presidente de la República, al enviar a la Cámara de Diputados las iniciativas de leyes de Ingresos y los proyectos de Presupuesto de Egresos, informará del contenido general de dichas iniciativas y proyectos y su vinculación con el Plan Nacional de Desarrollo y sus programas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -140,19 +154,17 @@ En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten 
 
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 9o.
 
-Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, integral y sustentable.
+Las dependencias y entidades de la Administración Pública Federal deberán planear y conducir sus actividades con perspectiva intercultural y de género y con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, incluyente, integral, sustentable y sostenible.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+Para el caso de las entidades, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley. Las entidades que no estuvieran agrupadas en un sector específico, se sujetarán a lo previsto por el artículo 7 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, dará seguimiento a los avances de las dependencias y entidades de la Administración Pública Federal en el logro de los objetivos y metas del Plan y sus programas, con base en el Sistema de Evaluación del Desempeño previsto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2003)</small>
-
-El Ejecutivo Federal establecerá un Sistema de Evaluación y Compensación por el Desempeño para medir los avances de las dependencias de la Administración Pública Federal centralizada en el logro de los objetivos y metas del Plan y de los programas sectoriales que se hayan comprometido a alcanzar anualmente y para compensar y estimular el buen desempeño de las unidades administrativas y de los servidores públicos.
+La Secretaría de Hacienda y Crédito Público publicará la información relacionada con el seguimiento a que se refiere el párrafo anterior, en el Portal de Transparencia Presupuestaria de la Secretaría de Hacienda y Crédito Público, en los términos previstos por la legislación en materia de transparencia y acceso a la información pública.
 
 ###### Artículo 10.
 
@@ -184,29 +196,27 @@ La Secretaría de Hacienda y Crédito Público tendrá las siguientes atribucion
 
 I.- Coordinar las actividades de Planeación Nacional del Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-II.- Elaborar el Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados, los planteamientos que se formulen por los grupos sociales y por los pueblos y comunidades indígenas interesados, así como la perspectiva de género;
+II.- Elaborar y someter a consideración del Presidente de la República, el proyecto de Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Federal y, en su caso, de los órganos constitucionales autónomos y de los gobiernos de las entidades federativas, así como los planteamientos que deriven de los ejercicios de participación social incluyendo a los pueblos y comunidades indígenas y a las personas con discapacidad en términos de la Ley General para la Inclusión de las Personas con Discapacidad;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-III.- Proyectar y coordinar la planeación regional con la participación que corresponda a los gobiernos estatales y municipales; así como consultar a los grupos sociales y los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen; y elaborar los programas especiales que señale el Presidente de la República;
+III.- Establecer los criterios generales que deberán observar las dependencias y entidades de la Administración Pública Federal para la elaboración de los programas derivados del Plan que tengan a su cargo, para lo cual se deberá prever la participación que corresponda a los gobiernos de las entidades federativas, municipios y demarcaciones territoriales; los ejercicios de participación social de los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen;
 
 IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido;
 
 V.- Coordinar las actividades que en materia de investigación y capacitación para la planeación realicen las dependencias de la Administración Pública Federal;
 
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+VI.- (DEROGADA, D.O.F. 16 DE FEBRERO DE 2018)
 
-VI.- Elaborar los programas anuales globales para la ejecución del Plan y los programas regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras de sector, y los respectivos gobiernos estatales;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+VII.- Definir los mecanismos para que verifique, periódicamente, la relación que guarden los presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y sus programas, así como para adoptar las adecuaciones a los programas respectivos que, en su caso, resulten necesarias para promover el logro de sus objetivos, y
 
-VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas regionales y especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, el Plan y los programas respectivos, y
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 20 DE JUNIO DE 2011)</small>
-
-VIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en mujeres y hombres.
+VIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en grupos específicos de la población, distinguiendo por origen étnico, género, edad, condición de discapacidad, tipo de localidad, entre otros.
 
 ###### Artículo 15.
 
@@ -224,11 +234,11 @@ IV.- Verificar que las operaciones en que se haga uso del crédito público prev
 
 V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 16.
 
-A las dependencias de la administración pública federal les corresponde:
+A las dependencias de la Administración Pública Federal les corresponde:
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
 
@@ -236,19 +246,29 @@ I.- Intervenir respecto de las materias que les competan, en la elaboración del
 
 II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública Federal, determine el Presidente de la República.
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los gobiernos de los estados, así como las opiniones de los grupos sociales y de los pueblos y comunidades indígenas interesados;
+III.- Elaborar los programas sectoriales, considerando las propuestas que, en su caso, presenten las entidades del sector, los órganos constitucionales autónomos, y los gobiernos de las entidades federativas, así como las que deriven de los ejercicios de participación social y de los pueblos y comunidades indígenas interesados;
 
-IV.- Asegurar la congruencia de los programas sectoriales con el Plan y los programas regionales y especiales que determine el Presidente de la República.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-V.- Elaborar los programas anuales para la ejecución de los programas sectoriales correspondientes;
+IV.- Asegurar la congruencia de los programas sectoriales con el Plan, así como con los programas especiales en los términos que establezca éste;
 
-VI.- Considerar el ámbito territorial de las acciones previstas en su programa, procurando su congruencia con los objetivos y prioridades de los planes y programas de los gobiernos de los estados;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-VII.- Vigilar que las entidades del sector que coordinen conduzcan sus actividades conforme al Plan Nacional de Desarrollo y al programa sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 17, fracción II; y
+V.- Considerar el ámbito territorial de las acciones previstas en sus programas sectoriales, promoviendo que los planes y programas de los gobiernos de las entidades federativas guarden congruencia con éstos;
 
-VIII.- Verificar periódicamente la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, los programas respectivos.
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+VI.- Vigilar que las entidades del sector que coordinen, conduzcan sus actividades conforme al Plan Nacional de Desarrollo y al programa sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 17, fracción II;
+
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+VII.- Verificar periódicamente la relación que guarden los presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de promover las adecuaciones que consideren necesarias para el logro de sus objetivos, y
+
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+VIII.- Coordinar la elaboración y ejecución de los programas especiales y regionales que correspondan conforme a su ámbito de atribuciones.
 
 ###### Artículo 17.
 
@@ -258,23 +278,27 @@ Las entidades paraestatales deberán:
 
 I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan con relación a sus funciones y objeto observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de éstos;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-II.- Cuando expresamente lo determine el Ejecutivo Federal, elaborar su respectivo programa institucional, atendiendo a las previsiones contenidas en el programa sectorial correspondiente observando siempre las variables ambientales, económicas, sociales y culturales respectivas;
+II.- Elaborar sus respectivos programas institucionales, en los términos previstos en esta Ley, la Ley Federal de las Entidades Paraestatales o, en su caso, por las disposiciones que regulen su organización y funcionamiento, atendiendo a las previsiones contenidas en el programa sectorial correspondiente observando en lo conducente las variables ambientales, económicas, sociales y culturales respectivas;
 
-III.- Elaborar los programas anuales para la ejecución de los programas sectoriales y, en su caso, institucionales;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-IV.- Considerar el ámbito territorial de sus acciones, atendiendo las propuestas de los gobiernos de los estados, a través de la dependencia coordinadora de sector, conforme a los lineamientos que al efecto señale esta última;
+III.- Elaborar sus anteproyectos de presupuesto considerando los objetivos de sus respectivos programas institucionales;
+
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IV.- Considerar el ámbito territorial de sus acciones, atendiendo las propuestas de los gobiernos de las entidades federativas, a través de la dependencia coordinadora de sector, conforme a los lineamientos que al efecto señale esta última;
 
 V.- Asegurar la congruencia del programa institucional con el programa sectorial respectivo; y
 
 VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 18.
 
-La Secretaría de la Función Pública deberá aportar elementos de juicio para el control y seguimiento de los objetivos y prioridades del Plan y los programas.
+La Secretaría de la Función Pública realizará, en los términos de las disposiciones aplicables, el control interno y la evaluación de la gestión gubernamental, respecto de las acciones que lleven a cabo las dependencias y entidades de la Administración Pública Federal en el cumplimiento del Plan y los programas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -300,7 +324,9 @@ Las organizaciones representativas de los obreros, campesinos, pueblos y grupos 
 
 Las comunidades indígenas deberán ser consultadas y podrán participar en la definición de los programas federales que afecten directamente el desarrollo de sus pueblos y comunidades.
 
-Para tal efecto, y conforme a la legislación aplicable, en el Sistema deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación nacional del desarrollo.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+Para tal efecto, y conforme a la legislación aplicable, en las disposiciones reglamentarias deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación nacional del desarrollo.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -310,13 +336,21 @@ En los asuntos relacionados con el ámbito indígena, el Ejecutivo Federal consu
 
 ### CAPITULO CUARTO. Plan y Programas
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 21.
 
-El Plan Nacional de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses contados a partir de la fecha en que toma posesión el Presidente de la República, y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+El Presidente de la República enviará el Plan Nacional de Desarrollo a la Cámara de Diputados del Congreso de la Unión para su aprobación, a más tardar el último día hábil de febrero del año siguiente a su toma de posesión.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+La Cámara de Diputados del Congreso de la Unión aprobará el Plan Nacional de Desarrollo dentro del plazo de dos meses contado a partir de su recepción. En caso de que no se pronuncie en dicho plazo, el Plan se entenderá aprobado en los términos presentados por el Presidente de la República.
 
-El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y prioridades del desarrollo integral y sustentable del país, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica, social y cultural, tomando siempre en cuenta las variables ambientales que se relacionen a éstas y regirá el contenido de los programas que se generen en el sistema nacional de planeación democrática.
+La aprobación del Plan por parte de la Cámara de Diputados del Congreso de la Unión, consistirá en verificar que dicho instrumento incluye los fines del proyecto nacional contenidos en la Constitución Política de los Estados Unidos Mexicanos. En caso de que el Plan Nacional de Desarrollo no los incluya, la Cámara de Diputados devolverá el mismo al Presidente de la República, a efecto de que dicho instrumento sea adecuado y remitido nuevamente a aquélla para su aprobación en un plazo máximo de treinta días naturales.
+
+La vigencia del Plan no excederá del periodo constitucional del Presidente de la República. Sin perjuicio de lo anterior, deberá contener consideraciones y proyecciones de por lo menos veinte años, para lo cual tomará en consideración los objetivos generales de largo plazo que, en su caso, se establezcan conforme a los tratados internacionales y las leyes federales.
+
+El Plan Nacional de Desarrollo precisará los objetivos nacionales, la estrategia y las prioridades del desarrollo integral, equitativo, incluyente, sustentable y sostenible del país, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica, social, ambiental y cultural, y regirá el contenido de los programas que se generen en el sistema nacional de planeación democrática.
+
+El Plan se publicará en el Diario Oficial de la Federación, en un plazo no mayor a 20 días naturales contado a partir de la fecha de su aprobación.
 
 La categoría de Plan queda reservada al Plan Nacional de Desarrollo.
 
@@ -332,9 +366,29 @@ La política nacional de fomento económico de largo plazo podrá ajustarse dura
 
 Los programas derivados del Plan Nacional de Desarrollo deberán guardar congruencia, en lo que corresponda, con el horizonte de veinte años y la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
 
+> <small>(ADICIONADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 21 Ter.
+
+El Plan deberá contener por lo menos lo siguiente:
+
+I.- Un diagnóstico general sobre la situación actual de los temas prioritarios que permitan impulsar el desarrollo nacional así como la perspectiva de largo plazo respecto de dichos temas;
+
+II.- Los ejes generales que agrupen los temas prioritarios referidos en la fracción anterior, cuya atención impulsen el desarrollo nacional;
+
+III.- Los objetivos específicos que hagan referencia clara al impacto positivo que se pretenda alcanzar para atender los temas prioritarios identificados en el diagnóstico;
+
+IV.- Las estrategias para ejecutar las acciones que permitan lograr los objetivos específicos señalados en el Plan;
+
+V.- Los indicadores de desempeño y sus metas que permitan dar seguimiento al logro de los objetivos definidos en el Plan, y
+
+VI.- Los demás elementos que se establezcan en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 22.
 
-El Plan indicará los programas sectoriales, institucionales, regionales y especiales que deban ser elaborados conforme a este capítulo.
+El Plan indicará los programas sectoriales, institucionales, regionales y especiales que deberán ser elaborados conforme a este capítulo, sin perjuicio de aquellos cuya elaboración se encuentre prevista en las leyes o que determine el Presidente de la República posteriormente.
 
 Estos programas observarán congruencia con el Plan, y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
 
@@ -342,31 +396,59 @@ Estos programas observarán congruencia con el Plan, y su vigencia no excederá 
 
 Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 24.
 
-Los programas institucionales que deban elaborar las entidades paraestatales, se sujetarán a las previsiones contenidas en el Plan y en el programa sectorial correspondiente. Las entidades, al elaborar sus programas institucionales, se ajustarán, en lo conducente, a la ley que regule su organización y funcionamiento.
+Los programas institucionales se sujetarán a las previsiones contenidas en el Plan y en el programa sectorial correspondiente. Las entidades, al elaborar sus programas institucionales, se ajustarán a lo previsto en esta Ley, sin perjuicio de lo dispuesto, en lo conducente, por la Ley Federal de las Entidades Paraestatales y, en su caso, por las disposiciones que regulen su organización y funcionamiento.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 25.
 
-Los programas regionales se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos nacionales fijados en el Plan, y cuya extensión territorial rebase el ámbito jurisdiccional de una entidad federativa.
+Los programas regionales se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos nacionales fijados en el Plan, y cuya extensión territorial rebase el ámbito jurisdiccional de una entidad federativa. El Ejecutivo Federal señalará la dependencia responsable de coordinar la elaboración y ejecución de cada uno de estos programas.
 
-Artículos 26.- Los programas especiales se referirán a las prioridades del desarrollo integral del país fijados en el plan o a las actividades relacionadas con dos o más dependencias coordinadoras de sector.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+###### Artículo 26.
+
+Los programas especiales se referirán a las prioridades del desarrollo integral del país, fijados en el Plan o a las actividades relacionadas con dos o más dependencias coordinadoras de sector. El Ejecutivo Federal señalará la dependencia responsable de coordinar la elaboración y ejecución de cada uno de estos programas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+###### Artículo 26 Bis.
+
+Los programas derivados del Plan deberán contener al menos, los siguientes elementos:
+
+I.- Un diagnóstico general sobre la problemática a atender por el programa así como la perspectiva de largo plazo en congruencia con el Plan;
+
+II.- Los objetivos específicos del programa alineados a las estrategias del Plan;
+
+III.- Las estrategias para ejecutar las acciones que permitan lograr los objetivos específicos del programa;
+
+IV.- Las líneas de acción que apoyen la implementación de las estrategias planteadas en cada programa indicando la dependencia o entidad responsable de su ejecución;
+
+V.- Los indicadores estratégicos que permitan dar seguimiento al logro de los objetivos del programa, y
+
+VI.- Los demás que se establezcan en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 27.
 
-Para la ejecución del plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica, social, ambiental y cultural correspondientes. Estos programas anuales, que deberán ser congruentes entre sí, regirán, durante el año de que se trate, las actividades de la administración pública federal en su conjunto y servirán de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
+Para la ejecución del Plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán sus anteproyectos de presupuestos, considerando los aspectos administrativos y de política económica, social, ambiental y cultural correspondientes.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 28.
 
-El Plan y los programas a que se refieren los artículos anteriores especificarán las acciones que serán objeto de coordinación con los gobiernos de los estados y de inducción o concertación con los grupos sociales interesados.
+El Plan y los programas a que se refieren los artículos anteriores especificarán las acciones que serán objeto de coordinación con los gobiernos de las entidades federativas y de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 29.
 
-El Plan y los programas regionales especiales, deberán ser sometidos por la Secretaría de Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
+Los programas regionales y especiales deberán ser sometidos por la Secretaría de Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -378,13 +460,19 @@ Los programas institucionales deberán ser sometidos por el órgano de gobierno 
 
 Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 30.
 
-El Plan Nacional de Desarrollo y los programas sectoriales, se publicarán en el Diario Oficial de la Federación.
+Los programas sectoriales, regionales, especiales e institucionales deberán ser publicados en el Diario Oficial de la Federación, en los plazos previstos por las disposiciones que al efecto emita el Ejecutivo Federal. En el caso de los programas sectoriales y los especiales que determine el Ejecutivo Federal, deberán publicarse dentro de los seis meses posteriores a la publicación del Plan.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 31.
 
-El Plan y los programas sectoriales serán revisados con la periodicidad que determinen las disposiciones reglamentarias. Los resultados de las revisiones y, en su caso, las adecuaciones consecuentes al Plan y los programas, previa su aprobación por parte del titular del Ejecutivo, se publicarán igualmente en el Diario Oficial de la Federación.
+Los programas serán revisados por el Ejecutivo Federal en los términos que determinen las disposiciones reglamentarias, considerando la participación social, incluyendo la de los pueblos y comunidades indígenas, las cuales establecerán el procedimiento para, en su caso, realizar las adecuaciones correspondientes a éstos.
+
+Para el caso de los programas institucionales, la revisión y, en su caso, adecuación, se realizará en los términos de esta Ley y sus disposiciones reglamentarias, sin perjuicio de lo que establezca la Ley Federal de las Entidades Paraestatales, así como aquellas disposiciones que regulen su organización y funcionamiento.
 
 ###### Artículo 32.
 
@@ -396,25 +484,35 @@ La ejecución del Plan y los programas podrán concertarse, conforme a esta ley,
 
 Mediante el ejercicio de las atribuciones que le confiere la ley, el Ejecutivo Federal inducirá las acciones de los particulares y, en general, del conjunto de la población, a fin de propiciar la consecución de los objetivos y prioridades del Plan y los programas.
 
-La coordinación en la ejecución del Plan y los programas deberá proponerse a los gobiernos de los estados, a través de los convenios respectivos.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+La coordinación en la ejecución del Plan y los programas deberá proponerse a los gobiernos de las entidades federativas o a los órganos constitucionales autónomos, a través de los convenios respectivos.
 
 ### CAPITULO QUINTO. Coordinación
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 33.
 
-El Ejecutivo Federal podrá convenir con los gobiernos de las entidades federativas, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que dichos gobiernos participen en la planeación nacional del desarrollo; coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación nacional, y para que las acciones a realizarse por la Federación y los Estados se planeen de manera conjunta. En todos los casos se deberá considerar la participación que corresponda a los municipios.
+El Ejecutivo Federal podrá convenir con los órganos constitucionales autónomos y los gobiernos de las entidades federativas, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que éstos participen en la planeación nacional del desarrollo; coadyuven, en el ámbito de sus respectivas competencias, a la consecución de los objetivos de la planeación nacional, y para que las acciones a realizarse por dichas instancias se planeen de manera conjunta. En los casos de coordinación con los gobiernos de las entidades federativas se deberá considerar la participación que corresponda a los municipios y demarcaciones territoriales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 34.
 
-Para los efectos del artículo anterior, el Ejecutivo Federal podrá convenir con los gobiernos de las entidades federativas.
+Para los efectos del artículo anterior, el Ejecutivo Federal podrá convenir con los gobiernos de las entidades federativas:
 
 I. Su participación en la planeación nacional a través de la presentación de las propuestas que estimen pertinentes;
 
-II. Los procedimientos de coordinación entre las autoridades federales, estatales y municipales para propiciar la planeación del desarrollo integral de cada entidad federativa y de los municipios, y su congruencia con la planeación nacional, así como para promover la participación de los diversos sectores de la sociedad en las actividades de planeación;
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+II. Los procedimientos de coordinación entre las autoridades de todos los órdenes de gobierno para propiciar la planeación del desarrollo integral de cada entidad federativa y de los municipios, y su congruencia con la planeación nacional, así como para promover la participación de los diversos sectores de la sociedad en las actividades de planeación;
 
 III. Los lineamientos metodológicos para la realización de las actividades de planeación, en el ámbito de su jurisdicción;
 
-IV. La elaboración de los programas regionales a que se refiere la fracción III del Artículo 14 de este ordenamiento; y
+> <small>(REFORMADA, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
+IV. La elaboración de los programas regionales a que se refiere el artículo 25, de conformidad con los criterios establecidos en la fracción III del artículo 14 de este ordenamiento, y
 
 V. La ejecución de las acciones que deban realizarse en cada entidad federativa, y que competen a ambos órdenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
@@ -450,15 +548,13 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltos por los tribunales federales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 40.
 
-Los proyectos de Presupuesto de Egresos de la Federación y del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social y ambiental, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
+Los proyectos de Presupuesto de Egresos de la Federación; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social y ambiental, deberán ser congruentes con los objetivos y prioridades del Plan y sus programas.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
-
-El propio Ejecutivo federal y las entidades paraestatales observarán dichos objetivos y prioridades en la concertación de acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
+El propio Ejecutivo Federal y las entidades paraestatales observarán dichos objetivos y prioridades en la concertación de acciones previstas en el Plan y sus programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
 
@@ -468,21 +564,21 @@ Las políticas que normen el ejercicio de las atribuciones que las leyes confier
 
 ### CAPITULO SEPTIMO. Responsabilidades
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 42.
 
-A los funcionarios de la Administración Pública Federal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven a los objetivos y prioridades del Plan y los programas, se les impondrán las medidas disciplinarias de apercibimiento o amonestación, y si la gravedad de la infracción lo amerita, el titular de la dependencia o entidad podrá suspender o remover de su cargo al funcionario responsable.
+A los servidores públicos de la Administración Pública Federal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, se les sancionará en términos de la Ley General de Responsabilidades Administrativas.
 
-Los propios titulares de las dependencias y entidades promoverán ante las autoridades que resulten competentes, la aplicación de las medidas disciplinarias a que se refiere esta disposición.
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 43.
 
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal u oficial que se puedan derivar de los mismos hechos.
+Las responsabilidades a que se refiere el artículo anterior, son independientes de las de orden penal o político que se puedan derivar de los mismos hechos.
 
 ###### Artículo 44.
 
-El Ejecutivo Federal, en los convenios de coordinación que suscriba con los gobiernos de las entidades federativas, propondrá la inclusión de una cláusula en la que se prevean medidas que sancionen el incumplimiento del propio convenio y de los acuerdos que del mismo se deriven.
-
-De las controversias que surjan con motivo de los mencionados convenios, conocerá la Suprema Corte de Justicia de la Nación, en los términos del Artículo 105 de la Constitución General de la República.
+(DEROGADO, D.O.F. 16 DE FEBRERO DE 2018)
 
 ## TRANSITORIOS
 
@@ -607,3 +703,25 @@ DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigo
 DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
 
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente Decreto.
+
+D.O.F. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La reforma al artículo 6o. entrará en vigor el 1o. de abril de 2018.
+
+Asimismo, la reforma al primer párrafo del artículo 21 entrará en vigor el 1o. de octubre de 2024, por lo que el Presidente de la República que comience su mandato el 1o. de diciembre de 2018 enviará el Plan Nacional de Desarrollo a la Cámara de Diputados del Congreso de la Unión para su aprobación, a más tardar el último día hábil de abril del año siguiente a su toma de posesión.
+
+Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del Congreso de la Unión convocará, en caso de ser necesario, a un periodo extraordinario de sesiones de la Cámara de Diputados para que ésta apruebe dicho Plan, en un plazo máximo de dos meses, contado a partir de que haya recibido el referido Plan por parte del Ejecutivo Federal.
+
+Tercero.- El Ejecutivo Federal deberá expedir el Reglamento de esta Ley en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- La Secretaría de Hacienda y Crédito Público deberá implementar un sistema informático para dar seguimiento a los avances de las dependencias y entidades de la Administración Pública Federal, en el logro de los objetivos y metas del Plan Nacional de Desarrollo y sus programas, conforme lo previsto en el artículo 9o. de la Ley y en el reglamento de la misma.
+
+Quinto.- Las Administraciones Públicas Federales correspondientes a los períodos 2018-2024 y 2024-2030 podrán considerar en su contenido las estrategias para el logro de los Objetivos de Desarrollo Sostenible y sus metas, contenidos en la Agenda 2030 para el Desarrollo Sostenible.
+
+Para efectos de lo anterior, en los procesos de elaboración de los proyectos de dichos planes se considerarán las propuestas que, en su caso, elabore el Consejo Nacional de la Agenda 2030 para el Desarrollo Sostenible.
+
+Sexto.- Se derogan las disposiciones que sean contrarias a lo previsto en el presente Decreto.
