@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2017-12-26"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4541,9 +4541,11 @@ TITULO DECIMOQUINTO.
 
 Delitos contra la paz y la seguridad de las personas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBRERO DE 2018)</small>
+
 ### CAPITULO I.
 
-Amenazas.
+Amenazas y cobranza extrajudicial ilegal.
 
 264.- Se aplicarán de tres meses a tres años de prisión y multa de trescientos a mil pesos:
 
@@ -4578,6 +4580,18 @@ Al que no otorgue la caución de no ofender, dentro de un mes, contado desde que
 266.- Si el amenazador cumple su amenaza, se acumularán la sanción de ésta y la del delito que resulte.
 
 Si el amenazador consigue que el amenazado cometa un delito, se acumulará a la sanción de la amenaza, la que le corresponda por su participación en el delito que resulte.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+266 Bis.- Se sancionará de uno a cuatro años de prisión y multa de cincuenta mil a trescientos mil pesos a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+
+Si utiliza además documentos o sellos falsos, la pena y la sanción económicamente aumentarán una mitad.
+
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalados en el Código Penal Federal.
+
+Se entiende por cobranza extrajudicial ilegal el uso de violencia o intimidación, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza.
+
+No se considerará como intimidación ilícita informare (sic) aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a estos cuando estas sean jurídicamente posibles.
 
 ### CAPITULO II.
 
@@ -6440,3 +6454,9 @@ P.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 711.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 772.- MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DECIMOQUINTO, DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS; Y SE ADICIONA EL ARTÍCULO 266 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
