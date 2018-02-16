@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-del-83798"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2015-08-28"
+last_updated: "2018-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2011.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIÓN XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 10, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 DÉCIMO TERCERO.- Que de acuerdo a lo dispuesto en los artículos 49 fracción XVI, de la Constitución Política del Estado Libre y Soberano de Baja California, y 3 de la Ley Orgánica de la Administración Pública del Estado de Baja California y, en atención a lo dispuesto en los considerandos anteriores, el Gobernador del Estado está facultado para formular y expedir el Reglamento Interno de la Oficialía Mayor de Gobierno, para el buen despacho de la Administración Pública Estatal, en materia de administración del personal, los recursos materiales, los bienes muebles e inmuebles, la contratación de los servicios generales, así como los procesos de transparencia y rendición de cuentas del Gobierno del Estado, en el ámbito que corresponde al Poder Ejecutivo del Estado; por lo que se expide el siguiente:
 
@@ -187,6 +189,8 @@ Al frente de la Oficialía Mayor de Gobierno habrá un titular denominado Oficia
 
 El Oficial Mayor podrá, para la mejor distribución y despacho de los asuntos de su competencia, conferir sus facultades delegables a funcionarios públicos subalternos, sin perjuicio de su ejercicio directo, expidiendo los acuerdos correspondientes que deberán ser publicados en el Periódico Oficial del Estado, en caso que las facultades delegadas no sean compatibles con las funciones inherentes al cargo que desempeña.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
 El Oficial Mayor tendrá las siguientes facultades y obligaciones:
@@ -273,11 +277,23 @@ XXXVIII. Dictaminar los reglamentos internos y manuales administrativos, de las 
 
 XXXIX. Revisar y resolver en definitiva sobre las solicitudes de pensión y jubilación.
 
-XL. Las que con el carácter de no delegables le atribuya el Gobernador del Estado, y las demás que le confieran los diversos ordenamientos y disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XL. Designar a los integrantes del Comité y de la Unidad de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XLI. Ejercer las atribuciones y cumplir las obligaciones que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XLII. Las que con el carácter de no delegables le atribuya el Gobernador del Estado, y las demás que le confieran los diversos ordenamientos y disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 10.
 
-Son facultades no delegables del Oficial Mayor las establecidas en las fracciones I, II, III, IV, VII, VIII, IX, XI, XIII, XIV, XV, XVI, XIX, XXVII, XXVIII, XXIX, XXXIV y XXXVII del artículo inmediato anterior.
+Son facultades no delegables del Oficial Mayor las establecidas en las fracciones I, II, III, IV, VII, VIII, IX, XI, XIII, XIV, XV, XVI, XIX, XXVII, XXVIII, XXIX, XXXIV, XXXVII y XL.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
 
@@ -285,9 +301,47 @@ Son facultades no delegables del Oficial Mayor las establecidas en las fraccione
 
 Se encuentra directamente adscrito a la oficina del titular de Oficialía el Centro de Profesionalización y Desarrollo del Capital Humano.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-(DEROGADO, P.O. 13 DE FEBRERO DE 2015)
+Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Oficialía, contará con un Comité de Transparencia y una unidad de transparencia, las cuales ejercerán las atribuciones y se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 12 BIS.- La Oficialía contará con un Órgano Interno de Control para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Oficialía y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Oficialía;
+
+III. Revisar que las operaciones presupuestares que realice la Oficialía se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las instancias que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al Oficial Mayor sobre los resultados de las revisiones, auditorías y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Comité de Adquisiciones de la Oficialía, en términos de la legislación y normatividad aplicable, y vigilar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la Dependencia se realicen con apego a las Leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Oficialía la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades paraestatales de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Oficialía cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la Oficialía información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de la Oficialía en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen; y
+
+XIV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### ARTÍCULO 13.
 
@@ -401,7 +455,13 @@ XX. Proponer los principios normativos y metodológicos para la operación y fun
 
 XXI. Propiciar la integración, unidad, participación, comunicación y cooperación entre las diferentes áreas de la Oficialía, y
 
-XXII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función y las que le sean conferidas por circulares, manuales, acuerdos y órdenes emitidas por el Oficial Mayor y aquellas que le otorguen las leyes, reglamentos y demás disposiciones aplicables, así como las que correspondan a las unidades administrativas que le sean adscritas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XXII. Fungir como responsable de la Unidad de Transparencia, ejerciendo las atribuciones y cumpliendo las obligaciones que para dicho cargo establecen la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XXIII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función y las que le sean conferidas por circulares, manuales, acuerdos y órdenes emitidas por el Oficial Mayor y aquellas que le otorguen las leyes, reglamentos y demás disposiciones aplicables, así como las que correspondan a las unidades administrativas que le sean adscritas.
 
 ###### ARTÍCULO 15.
 
@@ -455,13 +515,25 @@ XII. Vigilar y procurar el óptimo aprovechamiento de los recursos de que dispon
 
 XIII. Administrar los bienes muebles, equipos de oficina y de transporte asignados, así como vigilar el buen uso de los mismos;
 
-XIV. Proporcionar la información, asesoría y cooperación que les sean requeridas por las unidades administrativas de la Oficialía, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XV. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios, así como del catálogo de puestos correspondientes a las unidades administrativas adscritas;
+XIV. Proporcionar la información, asesoría y cooperación que les sean requeridas por quien realice las funciones de la Unidad de Transparencia, el Comité de Transparencia, las demás unidades administrativas de la Oficialía, dependencias entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
 
-XVI. Coordinarse con directores y delegados para el mejor cumplimiento de los programas de la Oficialía, conforme a las políticas establecidas, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XVII. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y la normatividad aplicable.
+XV. Clasificar la información de su área de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en su artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XVI. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios, así como del catálogo de puestos correspondientes a las unidades administrativas adscritas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XVII. Coordinarse con directores y delegados para el mejor cumplimiento de los programas de la Oficialía, conforme a las políticas establecidas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XVIII. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y la normatividad aplicable.
 
 ### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES GENÉRICAS DE LOS SUBDIRECTORES
 
@@ -1605,13 +1677,17 @@ XVIII. Coadyuvar en la elaboración y actualización de reglamentos, normas y po
 
 XIX. Coordinarse con la Subsecretaría de Administración, las Direcciones y demás Delegaciones, para apoyar la ejecución de programas de la Oficialía, de conformidad con las políticas establecidas;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-XX. Proporcionar la información, asesoría y cooperación que les sean requeridas, de acuerdo con las políticas establecidas por el Oficial Mayor, y
+XX. Proporcionar la información, asesoría y cooperación que les sean requeridas, por la Unidad de Transparencia, el Comité de Transparencia y las demás unidades administrativas de la Oficialía Mayor de acuerdo con las políticas establecidas por el Oficial Mayor;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
 
-XXI. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y las disposiciones aplicables.
+XXI. Clasificar la información de su área y de las áreas que la integran de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en su artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XXII. Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y las disposiciones aplicables.
 
 ###### ARTÍCULO 59.
 
@@ -1723,6 +1799,10 @@ Las ausencias de los directores, serán suplidas por el subdirector o jefe de de
 
 Durante las ausencias de los delegados, el despacho de los asuntos de su competencia quedará a cargo del servidor público que para tal efecto designe cada uno de ellos, informando de lo anterior al Oficial Mayor.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE FEBRERO DE 2018)</small>
+
+Las ausencias temporales del titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquél, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1768,3 +1848,19 @@ SEGUNDO.- En un plazo que no exceda de 90 días naturales, contados a partir de 
 TERCERO.- En tanto se da cumplimiento a lo previsto en el artículo anterior, continuaran aplicándose las disposiciones normativas vigentes y aplicables a los diversos procedimientos, procesos o servicios de la Oficialía Mayor de Gobierno.
 
 CUARTO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente Decreto, serán resueltos por la unidad administrativa que corresponda, de conformidad con la normatividad a que se refiere el artículo anterior.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 9, 10, 12, 14, 16, 58 Y 73 Y SE ADICIONA EL ARTÍCULO 12 BIS; TODOS DEL REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autorice los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 12 Bis de la presente reforma, lo cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el primero de enero de 2019.
+
+De conformidad con lo dispuesto por la fracción I del artículo 49 de la Constitución Política del Estado Libre y Soberano de Baja California, imprímase y publíquese en el Periódico Oficial del Estado el presente Reglamento Interno para su debido cumplimiento y observancia.
