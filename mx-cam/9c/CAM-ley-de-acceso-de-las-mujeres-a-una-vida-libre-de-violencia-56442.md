@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2015-07-21"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, ENTRA EN VIGOR QUINCE DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -225,11 +225,9 @@ f) Respeto a sus opiniones, imagen, posturas y posicionamientos;
 
 g) Erradicar el acoso, violencia y agresiones por razones políticas; (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
-
-ARTÍCULO 16 TER.- El gobierno estatal y los municipales, deberán garantizar e impulsar la defensa del pleno ejercicio de los derechos políticos de las mujeres. Con tal fin, los dos órdenes de gobierno y sus respectivos poderes, en el ámbito de sus competencias, deberán:
+ARTÍCULO 16 TER. El gobierno estatal y los municipales, así como los organismos autónomos, deberán garantizar e impulsar la defensa del pleno ejercicio de los derechos políticos de las mujeres. Para tal fin, los dos órdenes de gobierno y sus respectivos poderes, en el ámbito de sus competencias, deberán:
 
 I. Realizar las reformas necesarias a sus ordenamientos jurídicos a fin de garantizar a las mujeres una vida libre de violencia en el ámbito político, con disposiciones que garanticen la protección de las mujeres que incursionan en las actividades políticas y sancionen las acciones u omisiones que impidan o dificulten su participación.
 
@@ -240,6 +238,8 @@ III. Establecer acciones a fin de que las mujeres conozcan y hagan uso de las in
 IV. Documentar los casos de violencia contra las mujeres en la actividad política.
 
 V. Impulsar la investigación en el tema.
+
+VI. Procurar que en la designación de integrantes de los órganos colegiados de autoridad se encuentren representados de manera paritaria ambos géneros.
 
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
@@ -423,17 +423,17 @@ VIII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 Corresponde a la Secretaría de Salud:
 
-I. Diseñar con perspectiva de género, la política de salud, considerando acciones de prevención y atención de la violencia en contra de las mujeres;
+I.- Diseñar con perspectiva de género, la política de salud, considerando acciones de prevención y atención de la violencia en contra de las mujeres;
 
-II. Ejecutar con perspectiva de genero la política de salud;
+II.- Ejecutar con perspectiva de genero la política de salud;
 
-III. Capacitar al personal del sector salud para la detección de actos de violencia contra las mujeres, así como para la atención de las victimas;
+III.- Capacitar al personal del sector salud para la detección de actos de violencia contra las mujeres, así como para la atención de las victimas;
 
-IV. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+IV.- Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
 
-V. Canalizar a las víctimas a las instituciones que prestan atención y protección especializada a las mujeres, en su caso;
+V.- Canalizar a las víctimas a las instituciones que prestan atención y protección especializada a las mujeres, en su caso;
 
-VI. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
+VI.- Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
 
 a) El número de víctimas que se atiendan en los centros y servicios hospitalarios;
 
@@ -445,7 +445,29 @@ d) Los efectos causados por la violencia en las mujeres; y
 
 e) Los recursos erogados en la atención de las víctimas.
 
-VII. Las demás previstas en esta ley y en otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+VII.- Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+VIII.- Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+IX.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+X.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+XI.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE FEBRERO DE 2018)</small>
+
+XII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -644,3 +666,11 @@ P.O. 21 DE JULIO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 254 POR EL QUE "SE REFORMA EL ARTÍCULO 16 TER; LA FRACCIÓN VII Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI Y XII AL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
