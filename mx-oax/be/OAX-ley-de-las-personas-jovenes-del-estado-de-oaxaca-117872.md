@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2016-11-12"
+last_updated: "2018-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -159,7 +159,9 @@ XV. Ser respetados en el libre ejercicio de su identidad cultural, al acceso a l
 
 ## TÍTULO TERCERO. POLÍTICAS PÚBLICAS
 
-### CAPÍTULO ÚNICO. DE LAS POLÍTICAS PÚBLICAS CON PERSPECTIVA JUVENIL
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO I. DE LAS POLÍTICAS PÚBLICAS CON PERSPECTIVA JUVENIL
 
 ###### ARTÍCULO 10.
 
@@ -195,9 +197,287 @@ El Titular del Poder Ejecutivo establecerá políticas y programas de salud inte
 
 El Gobierno del Estado de Oaxaca promoverá la participación efectiva de las personas jóvenes en el diseño, planeación, ejecución y seguimiento de las políticas públicas dirigidas a las personas jóvenes. Las personas jóvenes tienen el derecho a la participación social y política como forma de mejorar las condiciones de vida de la población joven en el Estado de Oaxaca a través de los mecanismos señalados en esta Ley.
 
-### CAPÍTULO ÚNICO. DE LA DISCRIMINACIÓN HACIA LAS PERSONAS JÓVENES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO II. DEL ACCESO A LA SALUD Y PREVENCIÓN DE ADICCIONES
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 11.
+
+El Gobierno del Estado a través de la Secretaría de Salud de Oaxaca, el Instituto y los municipios en el ámbito de sus competencias participarán en el acceso, fomento de la salud y prevención de adicciones en la juventud oaxaqueña bajo las siguientes acciones:
+
+I. Promover condiciones para el acceso efectivo a favor de las personas jóvenes a los servicios de salud de Oaxaca;
+
+II. Proponer el diseño de lineamientos y programas para la atención de las personas jóvenes en las clínicas, centros de atención y hospitales de los servicios de salud;
+
+III. Incluir, reconocer y fomentar la medicina tradicional como servicio alternativo disponible para la juventud;
+
+IV. Fomentar a través de acciones concretas el cuidado de la salud mental en la juventud, así como sus consecuencias;
+
+V. Diseñar estrategias que promuevan una adecuada alimentación de las personas jóvenes;
+
+VI. Generar campañas para la prevención, detección y atención de trastornos alimenticios;
+
+VII. Impulsar acciones en los entornos escolares para la prevención oportuna de sobrepeso y obesidad;
+
+VIII. Establecer acciones que disminuyan la presencia de ambientes obesogénicos en los espacios donde se desarrolla la población juvenil;
+
+IX. Impulsar acciones y crear campañas de información dirigidas a las personas jóvenes, con el fin de concientizarlos sobre las consecuencias a las adicciones de sustancias u otras conductas;
+
+X. Garantizar el respeto y ejercicio pleno de los derechos sexuales y reproductivos de las personas jóvenes, impulsando campañas de educación sexual así como la utilización de métodos anticonceptivos;
+
+XI. Colaborar en la implementación de estrategias integrales para prevenir el embarazo temprano;
+
+XII. Promover la atención oportuna y de calidad en los centros de salud hacia las personas jóvenes que viven con VIH/Sida;
+
+XIII. Promover campañas que incentiven el autocuidado en la población juvenil como herramienta de protección;
+
+XIV. Contribuir en las estrategias para la prevención de accidentes de tránsito en la población juvenil;
+
+XV. Fomentar campañas sobre las consecuencias del consumo del alcohol a temprana edad;
+
+XVI. Promover habilidades en solución de conflictos de manera pacífica para la prevención de la violencia en coordinación con la Secretaría de Seguridad Pública en el Estado;
+
+XVII. Contribuir en la detección oportuna de infecciones de transmisión sexual en población joven;
+
+XVIII. Impulsar acciones de coordinación intersectorial para el fomento de entornos comunitarios saludables con la participación de la juventud; y,
+
+XIX. Las demás que en el ámbito de su competencia garanticen la salud a favor de las personas jóvenes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO III. DEL DERECHO A LA ASOCIACIÓN Y A LA PARTICIPACIÓN CIUDADANA Y POLÍTICA
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### ARTÍCULO 12.
+
+Corresponde a la Consejería Jurídica del Gobierno del Estado, al Instituto, al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, a los Partidos Políticos y a los municipios dentro del ámbito de sus competencias y atribuciones; reconocer, fomentar e impulsar las siguientes acciones a efecto de garantizar y empoderar la participación de las personas jóvenes en la toma de decisiones ciudadanas, políticas y sociales:
+
+I. Promover campañas públicas para garantizar el respeto y promoción de las múltiples formas de participación y organización juvenil;
+
+II. Realizar acciones específicas de fomento a la participación organizada de las personas jóvenes;
+
+III. Fortalecer a través de la participación juvenil, como mecanismo para el empoderamiento de la juventud;
+
+IV. Promover la realización de cursos y talleres dirigidos a la ciudadanía juvenil;
+
+V. Incentivar mecanismos y espacios de diálogo entre los diferentes órdenes de gobierno y las diversas organizaciones juveniles;
+
+VI. Promover la participación de las personas jóvenes mediante el uso de las tecnologías de información y comunicación;
+
+VII. Promover dentro del Instituto de la Función Registral del Estado de Oaxaca la identificación de aquellas asociaciones y sociedades que trabajan temas de juventud;
+
+VIII. Apoyar la creación de organizaciones juveniles para promover proyectos de interés público en beneficio de las comunidades;
+
+IX. Promover intervenciones para el rescate de espacios públicos por parte de jóvenes para habilitar espacios de participación;
+
+X. Apoyar la sustentabilidad de los espacios creados por la dinámica juvenil, reconociendo su origen y organización interna;
+
+XI. Consolidar los espacios de participación juvenil en el ámbito educativo que fomenten el interés hacia los asuntos de carácter público;
+
+XII. Impulsar mecanismos para la participación juvenil dentro de las dependencias de la administración pública estatal y en su caso la municipal;
+
+XIII. Fomentar la creación de mecanismos para la participación de los jóvenes en consejos ciudadanos municipales y estatales;
+
+XIV. Incentivar la realización de foros y espacios de discusión permanentes que sirvan como canal de comunicación estable con las instancias de gobierno y órganos autónomos;
+
+XV. Contribuir a la generación de espacios de consultas públicas estatales y municipales sobre los asuntos vinculados con jóvenes;
+
+XVI. Fomentar la creación de foros y espacios a través de los cuales las organizaciones y colectivos intercambien conocimiento;
+
+XVII. Coordinar cursos y talleres que capaciten a las organizaciones y colectivos sobre mecanismos para la obtención de fondos monetarios;
+
+XVIII. Reconocer, sistematizar y difundir las mejores prácticas de participación política juvenil;
+
+XIX. Impulsar la creación de consultas hacia las personas jóvenes sobre las principales problemáticas que enfrentan en su entorno;
+
+XX. Contribuir en la difusión de los espacios de consulta existentes a través de plataformas digitales de información y comunicación;
+
+XXI. Promover los espacios digitales como forma de participación social del gobierno hacia la juventud;
+
+XXII. Ejecutar los mecanismos de consulta hacia población joven para diseño de programas y políticas de juventud a nivel estatal y municipal;
+
+XXIII. Fomentar la creación de Consejos de Seguimiento Juvenil de Políticas Públicas a nivel estatal y municipal;
+
+XXIV. Proponer espacios para vincular a jóvenes con el Poder Legislativo y apoyar las iniciativas que sean generadas por ellos mismos;
+
+XXV. Dar seguimiento oportuno y transparente a los mecanismos de consulta y participación juvenil;
+
+XXVI. Fomentar la instrumentación de presupuestos participativos tanto con jóvenes como con organizaciones y sectores sociales diversos;
+
+XXVII. Impulsar mecanismos de diálogo entre jóvenes y gobierno para una rendición de cuentas oportuna en temas de interés juvenil;
+
+XXVIII. Fortalecer los espacios de participación y la toma de decisiones con jóvenes en el Instituto;
+
+XXIX. Fortalecer la coordinación interinstitucional en las acciones, programas y proyectos de fomento a la participación juvenil;
+
+XXX. Promover el acercamiento de organizaciones sociales con temáticas particulares para el seguimiento de programas hacia las personas jóvenes;
+
+XXXI. Fomentar una comunicación con enfoque intergeneracional que permitan (sic) mayor participación de las personas jóvenes en los procesos electorales;
+
+XXXII. Promover la ampliación de los espacios de toma de decisión en los partidos políticos para personas jóvenes;
+
+XXXIII. Reconocer y apoyar la construcción de espacios de encuentro para el fortalecimiento de sus identidades colectivas;
+
+XXXIV. Fomentar la inclusión de representantes de organizaciones sociales juveniles dentro de los consejos consultivos de las dependencias gubernamentales;
+
+XXXV. Contribuir a una mayor difusión de los ámbitos donde las personas jóvenes tienen capacidad de decisión en los programas de gobierno;
+
+XXXVI. Promover la participación de organizaciones sociales en los ámbitos escolares juveniles que mejoren el entorno y la convivencia;
+
+XXXVII. Incentivar que organizaciones sociales intervengan en la instrumentación de programas y acciones para jóvenes;
+
+XXXVIII. Contribuir en la formación y capacitación de competencias y habilidades para la conformación de organizaciones juveniles;
+
+XXXIX. Proporcionar asesoría para los colectivos que busquen constituirse legalmente dentro del Instituto de la Función Registral del Estado de Oaxaca;
+
+XL. Capacitar a los colectivos que trabajan con población juvenil en el tema de formulación de proyectos sociales;
+
+XLI. Canalizar apoyos económicos a través de convocatorias para organizaciones sociales que realicen trabajo con y hacia las personas jóvenes;
+
+XLII. Celebrar convenios de colaboración y apoyo hacia los colectivos juveniles para la implementación de programas de acción;
+
+XLIII. Desarrollar programas de formación de competencias y construcción de ciudadanía en los entornos de convivencia juvenil;
+
+XLIV. Fomentar mecanismos para la coinversión social que incentive el trabajo de las organizaciones sociales de jóvenes;
+
+XLV. Promover esquemas de reconocimiento para la auto organización juvenil como mecanismos de ciudadanización social;
+
+XLVI. Promover la celebración de convenios interinstitucionales que apoyen iniciativas juveniles de intervención comunitaria;
+
+XLVII. Diseñar políticas públicas de juventud bajo un enfoque de participación juvenil, derechos y con perspectiva generacional;
+
+XLVIII. Destacar a las personas jóvenes como sujetos activos y de derechos, asumiendo la vigencia de los mismos a través de la implementación de políticas públicas;
+
+XLIX. Gestionar recursos presupuestales para satisfacer las necesidades específicas de las personas jóvenes;
+
+L. Impulsar acciones de vinculación entre la población joven y el sector público para incidir en el diseño de políticas de juventud;
+
+LI. Promover la creación de consejos consultivos de jóvenes al interior de las instancias municipales y estales (sic) de gobierno para el diseño de políticas de juventud; y,
+
+LII. Fomentar esquemas de participación juvenil que los vinculen con otros sectores.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO IV. DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIA
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### ARTÍCULO 13.
+
+El Gobierno del Estado, a través de la Secretaría de Seguridad Pública, del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Instituto, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Fiscalía General del Estado y los municipios, en el ámbito de sus competencias, vigilarán que las personas jóvenes en el Estado tengan acceso a una vida libre de violencia, por lo que deberán:
+
+I. Garantizar el ejercicio pleno de los derechos humanos de las personas jóvenes ante situaciones de violencia;
+
+II. Impulsar estrategias en materia de seguridad ciudadana y prevención del delito;
+
+III. Fomentar mecanismos de coordinación interinstitucional que faciliten la prevención del delito;
+
+IV. Promover la certificación y capacitación de los elementos de las instituciones policiales con perspectiva generacional, así como transparencia en su proceso de evaluación;
+
+V. Promover proyectos para la reinserción social de las personas jóvenes en conflicto con la ley penal;
+
+VI. Procurar la implementación de mecanismos de justicia alternativa y restaurativa;
+
+VII. Diseñar e implementar acciones para la prevención y la atención de la violencia en el noviazgo;
+
+VIII. Promover campañas para la prevención de la violencia social y familiar así como el fomento de actividades que la disminuyan;
+
+IX. Generar mecanismos que promuevan el respeto al ejercicio de la diversidad sexual;
+
+X. Impulsar la operación multisectorial sobre la prevención de datos en conductas de riesgo en jóvenes;
+
+XI. Diseñar e implementar códigos de conducta en los centros educativos para eliminar todas las modalidades de violencia escolar;
+
+XII. Promover campañas y acciones para erradicar la violencia escolar;
+
+XIII. Apoyar mecanismos que proporcionen información a las personas jóvenes sobre prevención de la trata de personas;
+
+XIV. Promover la interacción entre las personas jóvenes y los órdenes de gobierno para sostener una interlocución respecto a la seguridad;; (sic) y,
+
+XV. Las demás que dentro del ámbito de su competencia ejerzan a favor de las personas jóvenes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO V. DEL DERECHO AL TRABAJO Y LA SEGURIDAD SOCIAL
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+###### ARTÍCULO 14.
+
+El Gobierno del Estado, a través de la Secretaría de Economía, el Instituto de Capacitación y Productividad para el Estado de Oaxaca, en coordinación con las instituciones de educación media superior, las instituciones de educación superior y la iniciativa privada dentro del territorio oaxaqueño, deberán:
+
+I. Diseñar programas que vinculen a las personas jóvenes en el mercado laboral;
+
+II. Promover la calidad y pertinencia de la educación media superior, superior y de formación para el trabajo.
+
+III. Difundir la oferta educativa en el Estado, las capacidades, conocimientos y habilidades y su vinculación con el ámbito laboral;
+
+IV. Impulsar mecanismos de apoyo a las y los trabajadores jóvenes para continuar y concluir sus estudios;
+
+V. Impulsar el diseño y ejecución de programas de orientación vocacional;
+
+VI. Fomentar la incorporación de las personas jóvenes a la práctica científica, de investigación y tecnología como espacios de empleo;
+
+VII. Promover mecanismos de vinculación entre el sector educativo y productivo para la incorporación de la población joven al mercado laboral;
+
+VIII. Fomentar procesos de educación permanente, certificación de conocimientos y competencias;
+
+IX. Impulsar espacios de diálogo entre actores claves del sector educativo y productivo;
+
+X. Impulsar acciones de inserción laboral con esquemas de servicio social, voluntariado, fomento al emprendimiento, actividades sociales y sustentables;
+
+XI. Promover la creación de empleos formales para las personas jóvenes;
+
+XII. Promover la creación de observatorios de empleo juvenil mediante la generación de conocimiento e información actualizada que permita implementar acciones de manera focalizada;
+
+XIII. Diseñar acciones que apoyen y asesoren a las personas jóvenes para su primera experiencia laboral;
+
+XIV. Diseñar y aplicar mecanismos de protección social para reducir los efectos del desempleo juvenil;
+
+XV. Ejecutar proyectos de beneficio comunitario que permitan otorgar subsidios temporales a las personas jóvenes que pierden su ingreso;
+
+XVI. Impulsar la capacitación y la formación para promover la empleabilidad juvenil;
+
+XVII. Diseñar e implementar acciones para la inserción de las personas jóvenes con discapacidad al ámbito laboral;
+
+XVIII. Promover las capacidades, el conocimiento y la organización de los actores sociales para la elaboración de proyectos que generen empleo;
+
+XIX. Promover el financiamiento y capacitación para el desarrollo de proyectos productivos de las personas jóvenes;
+
+XX. Impulsar proyectos de cooperativas juveniles para la obtención de empleo formal, que fomente el desarrollo productivo comunitario;
+
+XXI. Fortalecer y ampliar acciones dirigidas a la prevención del trabajo infantil y de los derechos de la niñez;
+
+XXII. Promover el mejoramiento de las condiciones laborales, garantizando que no exista discriminación debido a la poca experiencia laboral de edad o por razón de género;
+
+XXIII. Implementar acciones para reducir la informalidad del empleo juvenil;
+
+XXIV. Fortalecer acciones para la protección y mejora del salario de las personas jóvenes trabajadores;
+
+XXV. Conservar y promover la paz laboral y el desarrollo humano, la procuración e impartición de justicia laboral con perspectiva de juventud;
+
+XXVI. Facilitar y promover el acceso a la seguridad social de las y los jóvenes trabajadores;
+
+XXVII. Garantizar y promover el acceso a la vivienda, propia o rentada, para la plena autonomía de las personas jóvenes;
+
+XXVIII. Promover la diversificación de la oferta de adquisición o mejora de la vivienda juvenil en coordinación con la Comisión Estatal de la Vivienda en el estado;
+
+XXIX. Coadyuvar en los procesos para la adquisición de viviendas;
+
+XXX. Fomentar la inclusión financiera de las personas jóvenes, mediante mecanismos de financiamiento flexibles;
+
+XXXI. Promover acciones colectivas, sociales o comunitarias que generen la autogestión y autoconstrucción de vivienda para jóvenes; e
+
+XXXII. Incentivar la cultura del ahorro de las personas jóvenes mediante acciones de educación financiera.
+
+## TITULO CUARTO. DE LA DISCRIMINACIÓN
+
+### CAPÍTULO ÚNICO. DE LA DISCRIMINACIÓN HACIA LAS PERSONAS JÓVENES
+
+###### ARTÍCULO 15.
 
 Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades entre la juventud del Estado.
 
@@ -233,9 +513,7 @@ XIV. Realizar o promover el maltrato físico o psicológico por la apariencia f�
 
 XV. Cualquier otra acción que atente contra los derechos establecidos en el artículo 9 del presente ordenamiento.
 
-### CAPÍTULO I. DE LAS AUTORIDADES EN MATERIA DE JUVENTUD
-
-###### ARTÍCULO 12.
+###### ARTÍCULO 16.
 
 No se considerarán conductas discriminatorias contra las personas jóvenes las siguientes:
 
@@ -247,9 +525,11 @@ III. Las disposiciones legislativas y políticas públicas positivas que sin afe
 
 IV. Las acciones de los organismos públicos para dar cumplimiento a los derechos establecidos en el presente ordenamiento.
 
-### CAPÍTULO II. DEL EJECUTIVO
+## TÍTULO QUINTO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
-###### ARTÍCULO 13.
+### CAPÍTULO I. DE LAS AUTORIDADES EN MATERIA DE JUVENTUD
+
+###### ARTÍCULO 17.
 
 Son autoridades ejecutoras en materia de la presente Ley las siguientes:
 
@@ -259,9 +539,9 @@ II. El Instituto; y
 
 III. Los Ayuntamientos.
 
-### CAPÍTULO III. DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
+### CAPÍTULO II. DEL EJECUTIVO
 
-###### ARTÍCULO 14.
+###### ARTÍCULO 18.
 
 El Titular del Poder Ejecutivo tiene las siguientes atribuciones:
 
@@ -281,15 +561,13 @@ VII.- Facilitar los medios y los recursos necesarios para el cumplimiento de pro
 
 VIII.- Las demás que determine la Ley y disposiciones aplicables.
 
-## TITULO CUARTO. DE LA DISCRIMINACIÓN
+### CAPÍTULO III. DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
 
-### CAPÍTULO IV. DE LOS AYUNTAMIENTOS
-
-###### ARTÍCULO 15.
+###### ARTÍCULO 19.
 
 El Instituto es el organismo responsable de la planeación, diseño, desarrollo, implementación y evaluación de políticas públicas en materia de juventud.
 
-###### ARTÍCULO 16.
+###### ARTÍCULO 20.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
@@ -333,11 +611,7 @@ XIX. Proporcionar orientación a las jóvenes madres con demandas de acceso a vi
 
 XX. Las demás que le otorgue la presente Ley y otros ordenamientos legales que le permitan cumplir con su objetivo fundamental.
 
-## TÍTULO QUINTO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
-
-### CAPÍTULO ÚNICO. DE LAS DENUNCIAS Y SANCIONES
-
-###### ARTÍCULO 17.
+###### ARTÍCULO 21.
 
 La Directora o Director General del Instituto tendrá las siguientes facultades y atribuciones:
 
@@ -363,23 +637,29 @@ X. Nombrar y remover en su caso, a los trabajadores que presten sus servicios en
 
 XI. Las demás que establezca la presente Ley, la Ley de Entidades Paraestatales y la demás normatividad aplicable.
 
-###### ARTÍCULO 18.
+### CAPÍTULO IV. DE LOS AYUNTAMIENTOS
+
+###### ARTÍCULO 22.
 
 Los Ayuntamientos además de formular políticas públicas y desarrollar acciones de atención a las personas jóvenes en su ámbito territorial, deberán coordinarse con el Instituto en la planeación, diseño, implementación y evaluación de las políticas públicas con el objeto de atender a las principales demandas de las personas jóvenes dentro de su esfera competencial.
 
-###### ARTÍCULO 19.
+###### ARTÍCULO 23.
 
 Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal programas, líneas de acción y objetivos para efecto de proyectar e impulsar el progreso de las personas jóvenes en su esfera competencial.
 
-###### ARTÍCULO 20.
+## TÍTULO SEXTO. DENUNCIAS Y SANCIONES
+
+### CAPÍTULO ÚNICO. DE LAS DENUNCIAS Y SANCIONES
+
+###### ARTÍCULO 24.
 
 Cualquier persona podrá formular denuncia ante los órganos competentes sobre todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos de las personas jóvenes que establece la presente Ley.
 
-###### ARTÍCULO 21.
+###### ARTÍCULO 25.
 
 Cuando los responsables del daño o afectación a las personas jóvenes, sean servidores públicos en ejercicio de sus funciones, para la imposición de sanciones, se sujetarán al procedimiento administrativo disciplinario que contempla la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca.
 
-###### ARTÍCULO 22.
+###### ARTÍCULO 26.
 
 La infracción a las disposiciones de la presente Ley tratándose de sujetos no contemplados en el artículo anterior, será sancionada en términos de las disposiciones aplicables, ya sea de carácter civil, penal, o laboral.
 
@@ -437,4 +717,12 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
 
-## TÍTULO SEXTO. DENUNCIAS Y SANCIONES
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 787.- MEDIANTE EL CUAL SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Dentro del plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, las dependencias, instituciones, órganos autónomos y los ayuntamientos; deberán expedir los lineamientos que coadyuven a hacer efectivo lo estipulado en el presente Decreto.
