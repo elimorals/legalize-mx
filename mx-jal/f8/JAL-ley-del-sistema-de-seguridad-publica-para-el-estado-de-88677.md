@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2018-01-25"
+last_updated: "2018-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -869,7 +869,9 @@ Los integrantes de las instituciones policiales deberán portar su identificaci�
 
 Asimismo, deberán portar su correspondiente identificación de tipo médico para agilizar su atención en caso necesario.
 
-El titular del Poder Ejecutivo y los ayuntamientos del estado, a través de los reglamentos respectivos, establecerán los lineamientos a que se sujetarán los integrantes de las instituciones de seguridad pública en el uso de identificaciones oficiales, las cuales únicamente contendrán como datos personales los siguientes: el nombre, foto, adscripción, cargo, tipo de sangre y alergias.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+El titular del Poder Ejecutivo y los ayuntamientos del estado, a través de los reglamentos respectivos, establecerán los lineamientos a que se sujetarán los integrantes de las instituciones de seguridad pública en el uso de identificaciones oficiales, las cuales únicamente contendrán como datos personales los siguientes: el nombre, foto, adscripción, cargo, huella digital, Clave de Inscripción en el Registro Nacional de Personal de Seguridad Pública, tipo de sangre, alergias y las medidas de seguridad que garanticen su autenticidad.
 
 Además de lo anterior, también establecerán los lineamientos sobre uniformes, insignias, divisas, equipo reglamentario y vehículos para el servicio oficial, que posibiliten la plena identificación por parte de la ciudadanía de las instituciones de seguridad pública, a excepción de las áreas de investigación e inteligencia.
 
@@ -2449,7 +2451,7 @@ SEPTIMO. Se autoriza al titular del Poder Ejecutivo del Estado y a los municipio
 
 OCTAVO. A partir de la entrada en vigor de la presente ley, en las leyes, reglamentos, decretos, circulares, acuerdos, oficios, juicios, procedimientos administrativos, tratados, contratos, convenios, donde sea mencionada la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se trata de la Secretaría de Seguridad Pública, Prevención y Reinserción Social, sin menoscabo a lo anterior el Poder Ejecutivo deberá adecuar los respectivos reglamentos de conformidad a lo dispuesto por el presente decreto.
 
-NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la Ley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
+NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la Lley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
 
 DÉCIMO. Se otorga entera validez y reconocimiento a los certificados y evaluación emitidos con anterioridad a la vigencia de esta ley, por el Centro Estatal de Evaluación y Control de Confianza, los centros federales y los de los estados de conformidad con la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -2648,3 +2650,9 @@ P.O. 25 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26736/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25826/LXI/16 QUE MODIFICA EL ARTÍCULO 62 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
