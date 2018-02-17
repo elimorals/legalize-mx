@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-la-tortura-en-el-estado-de-san-luis-potosi-80
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2010-12-28"
+last_updated: "2018-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSI
+LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 28 de diciembre de 2010.
 
@@ -33,7 +33,9 @@ DECRETO 414
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Como consecuencia de la expedición de la Ley para Prevenir la Tortura, se hace necesario ajustar el artículo 233 del Código de Procedimientos Penales para el Estado, con el propósito de adicionar un párrafo en el que se atienda que carece de valor cualquier confesión rendida sin la presencia del defensor y, en su caso, del traductor.
 
@@ -57,7 +59,9 @@ Para los efectos de la presente Ley, el delito de tortura se tipifica y sanciona
 
 La autoridad ministerial al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura, en la obtención de información, en la declaración de cualquier persona, o confesión de la persona indiciada, iniciará de oficio la averiguación correspondiente.
 
-La autoridad jurisdiccional al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura en la confesión de la persona indiciada, o en la declaración de las personas que deponen en su contra, dará vista inmediatamente a la autoridad ministerial.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+La autoridad jurisdiccional al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura en la confesión de la persona indiciada, o en la declaración de las personas que deponen en su contra, dará vista inmediatamente a la autoridad ministerial, aun cuando se produzca el fallecimiento de la víctima en alguna de las etapas del procedimiento.
 
 ###### ARTICULO 4°.
 
@@ -148,3 +152,13 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 885.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3° DE LA LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSI".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
