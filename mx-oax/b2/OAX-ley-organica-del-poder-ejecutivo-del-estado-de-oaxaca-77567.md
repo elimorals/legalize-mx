@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-12-20"
+last_updated: "2018-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -387,9 +387,7 @@ IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tec
 
 V. Coordinación General de Enlace Federal y Relaciones Internacionales.
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2017)</small>
-
-VI. Coordinación General de Delegaciones de Gobierno.
+VI. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -501,13 +499,25 @@ XXXIX. Aplicar políticas públicas para combatir la explotación del trabajo in
 
 XL. Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
-XLI. Coordinar y organizar el Órgano Desconcentrado denominado Secretariado Ejecutivo del Sistema Estatal de Segundad Pública, y
+XLI. Coordinar y Organizar el Órgano Desconcentrado denominado Secretariado del Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2018)</small>
 
-XLII. Las que en el ámbito de su competencia le confiera directamente el gobernador del estado, su reglamento interno y demás disposiciones normativas aplicables.
+XLII. Proponer proyectos y políticas gubernamentales en la operación regional, mediante mecanismos de coordinación;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2018)</small>
+
+XLIII. En coordinación con COPLADE procurar el desarrollo y gobernabilidad regional en el estado;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2018)</small>
+
+XLIV. A solicitud de las autoridades municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de la administración pública federal y estatal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE FEBRERO DE 2018)</small>
+
+XLV. las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicadas.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -919,9 +929,7 @@ XXV. Llevar a cabo la planeación e instrumentación de los programas de viviend
 
 XXVI. Instrumentar y coordinar en colaboración con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como los Organismos de la Administración Pública Estatal respectivos, los programas de infraestructura social básica, vivienda, servicios de salud y educación necesarios para impulsar el desarrollo social y humano del Estado, así como el combate de la pobreza en regiones con mayor desigualdad.
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXVII. Operar los módulos de desarrollo social y humano, los cuales se constituyen como un mecanismo de interlocución con la sociedad para conocer el seguimiento, la evaluación y el impacto de la política estatal en materia de combate a la pobreza;
+XXVII. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
 
 XXVIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
 
@@ -2275,33 +2283,7 @@ XXVI. Promover y desarrollar acciones y programas a favor de los oaxaqueños en 
 
 XXVII. Las demás que señalen las leyes, reglamentos y decretos, así como las que le encomiende el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 54 BIS. A la Coordinación General de Delegaciones de Gobierno le corresponde el despacho de los siguientes asuntos:
-
-I. Representar al Poder Ejecutivo en las regiones del Estado y auxiliarlo en las actividades que le encomiende;
-
-II. En representación del Gobernador del Estado, atender regionalmente las peticiones de la ciudadanía y canalizarlas para su atención a las Dependencias y Entidades de la Administración Pública Estatal y en su caso solicitar la colaboración de las autoridades municipales, estatales y federales;
-
-III. Elaborar un diagnóstico de las situaciones prevalecientes en el interior del Estado en el contexto administrativo, económico, político, social y presentar alternativas de solución al Gobernador;
-
-> <small>(F. DE E., P.O. 29 DE JULIO DE 2017)</small>
-
-IV. Atender los conflictos que se susciten en las regiones del Estado, determinar las acciones legales y políticas a entablar para el seguimiento y solución de los mismos, en el ejercicio de sus atribuciones;
-
-V. A solicitud de las autoridades Municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de las Administraciones Públicas Federal y Estatal;
-
-VI. Coordinar mediante el apoyo de Protección Civil Estatal y Federal las acciones en materia de prevención y atención a desastres naturales;
-
-VII. Proponer proyectos y políticas públicas en la operación regional, mediante mecanismos de coordinación;
-
-VIII. En coordinación con COPLADE procurar el desarrollo y gobernabilidad regional en el Estado;
-
-IX. Coadyuvar en las tareas de organización, dirección, ejecución, supervisión y evaluación de acciones que realice la Administración Pública Estatal;
-
-X. Coadyuvar en el cumplimiento de las funciones que están a cargo de las Dependencias y Entidades de la Administración Pública Estatal; y
-
-XI. Los demás que le señalen las Leyes, Decretos y Reglamentos.
+ARTÍCULO 54 BIS. (DEROGADO, P.O. 17 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2992,3 +2974,17 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 780.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1396.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto aun cuando no estén expresamente derogadas.
+
+TERCERO. Los servidores públicos de base de las áreas administrativas que con motivo del presente Decreto se transfieran a la Secretaría General de Gobierno, no se verán afectados sus derechos laborales.
+
+CUARTO. La Coordinación General de Delegaciones de Gobierno, pasará a formar parte de la Estructura administrativa de la Secretaría General de Gobierno, dentro de la Subsecretaría de Gobierno.
+
+QUINTO. El Gobernador del Estado a través de las Secretarías de Finanzas, de Administración y de la Contraloria y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
