@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2017-02-22"
+last_updated: "2018-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 17 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -1982,3 +1984,45 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0462/2017 I P.O LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2018.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua, publicada en el Periódico Oficial del Estado número 74, de fecha 13 de septiembre de 1997.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a ciento veinte días naturales, contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los entes públicos contarán con un plazo de ciento veinte días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Comités de Adquisiciones, Arrendamientos y Servicios a los que se hace referencia en esta Ley, deberán constituirse y celebrar su primera sesión en un plazo no mayor de cuarenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El diseño del Sistema Electrónico de Compras que permita la aplicación de los procedimientos de licitación, en sus modalidades mixta o electrónica, deberá estar concluido en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de la Función Pública y la Auditoría Superior, ambas del Estado de Chihuahua, según corresponda, deberán fungir como órganos internos de control en aquellos entes públicos que aún no cuenten con un órgano de esta naturaleza, además vigilarán y comprobarán que se apliquen las disposiciones de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos de contratación y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+###### ARTÍCULO NOVENO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
