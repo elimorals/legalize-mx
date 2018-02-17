@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-12-31"
+last_updated: "2018-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1753,6 +1755,10 @@ Este delito se sancionará con una pena de tres meses a un año de prisión y sa
 
 ### CAPÍTULO IV. Desaparición Forzada de Personas
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 156.
 
 Se impondrá de seis meses a tres años de prisión y de sesenta a trescientos días de sanción pecuniaria, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro.
@@ -1769,19 +1775,81 @@ III. Por cualquier circunstancia, la víctima esté en situación de inferiorida
 
 ###### ARTÍCULO 157.
 
-Comete el delito de desaparición forzada de personas, el servidor público que en ejercicio de sus atribuciones, o con motivo de ellas, detenga, prive de la libertad y mantenga oculta a una o más personas, o bien autorice, apoye o consienta que otros lo hagan, cualesquiera que sea el método y motivación utilizados, sin reconocer la existencia de tal privación o niegue información fidedigna sobre el paradero de la o de las víctimas, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes.
+Comete el delito de desaparición forzada de personas, y se sancionará con pena de cuarenta a sesenta años de prisión, y de diez mil a veinte mil días del valor de la unidad de la medida de actualización, a:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+I. El servidor público, o el particular que con la autorización, el apoyo, o la aquiescencia de un servidor público, prive de la libertad en cualquier forma a una persona, seguida de la abstención o negativa a reconocer dicha privación de la libertad, o a proporcionar la información de la misma, o su suerte, destino o paradero, y
 
-Este delito se sancionará con una pena de quince a cuarenta años de prisión, y sanción pecuniaria de mil quinientos a cuatro mil días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años.
+II. El servidor público, o el particular que con la autorización, el apoyo, o la aquiescencia de un servidor público, oculte o se niegue a proporcionar información sobre la privación de la libertad de una persona o sobre el paradero de una persona detenida en cualquier forma.
 
-La misma sanción privativa de libertad y pecuniaria que señala el párrafo anterior, se aplicará al particular que por orden, el apoyo o la aquiescencia de un servidor público, participe en la comisión del delito de desaparición forzada de personas.
+Cuando el responsable tenga el carácter de servidor público, se impondrá la destitución e inhabilitación, según corresponda, para el desempeño de cualquier cargo, empleo, o comisión pública, hasta dos veces el mismo lapso de la privación de la libertad impuesta, a partir de que se cumpla la pena de prisión.
 
-El delito al que se refiere este capítulo es de consumación permanente en tanto no se tenga conocimiento del paradero de la víctima, por lo que no prescribe ni la acción penal, ni las penas que deriven de su comisión.
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 157 BIS. Se impondrá pena de veinte a treinta años de prisión y de quinientos a ochocientos días del valor de la unidad de la medida y actualización, a quien omita entregar a la autoridad, o a los familiares, al nacido de una víctima del delito de desaparición forzada de personas durante el ocultamiento, a sabiendas de tal circunstancia.
+
+Asimismo, se impondrá de veinticinco a treinta y cinco años de prisión a quien, sin haber participado en la comisión del delito de desaparición forzada de persona, retenga o mantenga oculto a la niña o niño que nazca durante el periodo de desaparición de la madre, a sabiendas de tal circunstancia.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 157 TER. Las sanciones para el delito de desaparición forzada de personas previstas en los artículos, 157, y 157 BIS, de este Código, aumentarán hasta en una mitad cuando:
+
+I. Durante o después de la desaparición la persona desaparecida muera debido a cualquier alteración de su salud sea consecuencia de dicha desaparición, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito;
+
+II. La persona desaparecida sea niña, niño o adolescente, mujer, mujer embarazada, persona con discapacidad, o adulta mayor;
+
+III. La condición de persona migrante o afrodescendiente, la pertenencia a un pueblo o comunidad indígena o cualquier otro equiparable, sea la motivación para cometer el delito;
+
+IV. La identidad de género, o la orientación sexual de la víctima sea la motivación para cometer el delito;
+
+V. La persona haya sido desaparecida por su actividad como defensora de los derechos humanos;
+
+VI. La persona haya sido desaparecida en razón de su labor como periodista;
+
+VII. La persona desaparecida sea integrante de alguna institución de seguridad pública;
+
+VII. El o los autores tengan vínculos de parentesco, amistad, relación laboral, o de confianza con la víctima, o
+
+VIII. Los delitos se realicen con el propósito de impedir que las autoridades competentes conozcan de la comisión de otros delitos.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 157 QUÁTER. Las sanciones por el delito de desaparición forzada de personas podrán disminuir cuando:
+
+I. Los autores o partícipes liberan a la víctima espontáneamente dentro de los diez días siguientes a la desaparición, disminuirán hasta en una mitad;
+
+II. Si los autores o partícipes proporcionan información efectiva que conduzca a la localización con vida de la persona desaparecida, disminuirán hasta en una tercera parte;
+
+III. Si los autores o partícipes proporcionan información efectiva que conduzca a la localización del cadáver o los restos humanos de la persona desaparecida, disminuirán hasta en una cuarta parte, y
+
+IV. Si los autores o partícipes proporcionan información efectiva que permita esclarecer los hechos a identificar a los responsables, disminuirán hasta en una quinta parte.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 158.
 
-Las sanciones previstas en el artículo precedente se disminuirán en una tercera parte, cuando el agente suministre información que permita esclarecer los hechos; y en una mitad cuando contribuya a lograr la aparición con vida de la víctima.
+Comete el delito de desaparición cometida por particulares quien prive de la libertad a una persona con la finalidad de ocular (sic) a la víctima o su suerte o su paradero, este delito será sancionado con pena de veintiocho a cincuenta años de prisión, y de cuatro mil a ocho mil días del valor de la unidad de medida y actualización.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 158 BIS. Se impondrá pena de diez a veinte años de prisión, y de quinientos a ochocientos días del valor de la unidad de la medida de actualización, a quien omita entregar a la autoridad o a los familiares, al nacido de una víctima del delito de desaparición cometida por particulares durante el periodo de ocultamiento a sabiendas de tal circunstancia.
+
+Asimismo, se impondrá pena de diez a veinte años de prisión a quien, sin haber participado directamente en la comisión del delito de desaparición cometida por particulares, retenga o mantenga oculto a la niña o niño que nazca durante el periodo d (sic) desaparición de la madre, a sabiendas de tal circunstancia.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 158 TER. La penas previstas en los artículos, 158, y 158 BIS, pueden ser determinadas y modificadas conforme a las reglas previstas en los artículos, 157 TER, y 157 QUÁTER, de este Código.
 
 ### CAPÍTULO VI. Tráfico de Menores
 
@@ -1907,6 +1975,10 @@ Cuando el activo del delito tenga parentesco por consanguinidad o afinidad con e
 
 El delito de amenazas se perseguirá por querella necesaria.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 168 BIS. Comete el delito de cobranza ilegítima quien con la intención de requerir el pago de una deuda ya sea propia del deudor, o de quien funja como referencia o aval, utilice cualquier medio ilícito, o efectúe actos de hostigamiento, o intimidación, o amenazas de cualquier índole, o actos de molestia al deudor, sin mediar orden emanada de autoridad competente, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientas unidades de medida y actualización, además de las sanciones que correspondan si para tal efecto se emplearon documentos, sellos falsos o se usurparon funciones públicas o de profesión.
+
 ### CAPÍTULO XI
 
 Uso Ilícito de equipos de Radiocomunicación.
@@ -2022,6 +2094,10 @@ Cuando el delito fuere cometido en el desempeño de un cargo o empleo público, 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 178 BIS. Comete el delito de abuso sexual equiparado, quien mediante el uso de medios electrónicos o de cualquier tecnología, contacte, obligue, induzca o facilite a una persona menor de dieciocho años, o de una persona que por su condición no tenga la capacidad de comprender el significado del hecho, o que no tiene capacidad para resistirlo, a realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+
+Este delito se sancionará conforme a lo prescrito por el artículo 178 de este Código.
 
 ### CAPÍTULO III. Discriminación
 
@@ -3013,7 +3089,7 @@ A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las m
 
 ### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
 
-(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL (NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
@@ -4864,6 +4940,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 862.- SE REFORMAN ARTÍCULO (SIC), 191, 197, 295, 298, 301, Y 295, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 881.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 178 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 882.- SE REFORMA LOS ARTÍCULOS, 157, Y 158; Y ADICIONA LOS ARTÍCULOS, 157 BIS, 157 TER, 157 QUÁTER, 158 BIS, Y 158 TER, DE Y AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 883.- SE ADICIONA EL ARTÍCULO 168 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
