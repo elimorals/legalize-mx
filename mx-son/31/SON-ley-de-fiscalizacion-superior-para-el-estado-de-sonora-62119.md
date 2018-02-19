@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fiscalizacion-superior-para-el-estado-de-sonora-62119"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2018-02-15"
+last_updated: "2018-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2018 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL19 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -761,9 +761,9 @@ VI.- El personal del Instituto, tendrá la obligación de excusarse de conocer a
 
 Los prestadores de servicios profesionales o despachos externos que participen en los procesos de fiscalización del Instituto, tendrán la obligación de excusarse de conocer asuntos referidos a los sujetos de fiscalización, en los que se encuentren prestando sus servicios de cualquier índole o naturaleza, o con los que mantenga cualquier clase de relación contractual, exista relación de parentesco en línea recta o hasta el cuarto grado en línea colateral con los sujetos de fiscalización o sus titulares.
 
-> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2018)</small>
+(ADICIONADO, B.O. 15 DE FEBRERO DE 2018) (F. DE E., B.O. 19 DE FEBRERO DE 2018)
 
-El Instituto y los sujetos de fiscalización podrán llevar a cabo las contrataciones a que se refiere el párrafo anterior, siendo exigible únicamente el contrato y que los reportes o informes denominados entregables, sean acordes al objeto y periodo previsto de entrega en el mismo, debiéndose regular dichas contrataciones por el Código Civil.
+El Instituto y los sujetos de fiscalización podrán llevar a cabo contrataciones de servicios profesionales o despachos externos para el cumplimiento de sus atribuciones, siendo exigible únicamente el contrato y que los reportes o informes denominados entregables, sean acordes al objeto y periodo previsto de entrega en el mismo, debiéndose regular dichas contrataciones por el Código Civil.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
