@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2018-01-04"
+last_updated: "2018-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -6622,5 +6622,79 @@ SEXTO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta d
 SÉPTIMO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-3/.
+
+D.O.F. 19 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LAS MODIFICACIONES DEL "ACUERDO INE/CTSPEL001/2017 DE LA COMISIÓN TEMPORAL DE SEGUIMIENTO DE LOS PROCESOS ELECTORALES LOCALES 2016-2017 POR EL QUE SE MODIFICAN LOS ANEXOS 9.2-F1, 9.2-F2 Y 9.3 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, RELATIVOS A LOS FORMATOS PARA EL REGISTRO DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES, GENERALES Y ANTE MESAS DIRECTIVAS DE CASILLA".]</small>
+
+No. TÍTULO ADICIÓN
+
+/MODIFICACIÓN/
+
+SUSTITUCIÓN
+
+ANEXO Formatos de nombramientos de Acuerdo
+
+9.2 representantes generales y ante MDC
+
+y ratificaciones correspondientes INE/CTSPEL001/
+
+2017
+
+Ruta de consulta en Norma INE, (Anexo): (modifica para
+
+escindir
+
+Página principal del INE: www.ine.mx el 9.2-F-1,
+
+en 9.2-f-1-A,
+
+9.2-F-1-B y
+
+Menú: Servicios INE / Opción: Norma INE / 9.2-F-1-C;
+
+Menú: Normatividad del Instituto / Opción: modifica el
+
+Reglamentos / Buscador: Consultar: 9.2-F-2)
+
+Elecciones / Ficha Reglamento de
+
+Elecciones: Anexos (compilado)
+
+ANEXO ANEXO 9.3-F-2 Relación de las y los Acuerdo
+
+9.3 representantes de los Partidos
+
+Políticos/Candidaturas Independientes INE/CTSPEL001/
+
+ante las mesas directivas de casilla con 2017
+
+(sin), derecho a votar en esta casilla para (modifica para
+
+las elecciones de escindir el 9.3 en
+
+9.3-F-2
+
+y 9.3-F-3)
+
+ANEXO 9.3-F-3 Relación de las y los
+
+representantes generales de los Partidos
+
+Políticos/Candidaturas Independientes
+
+Ruta de consulta en Norma INE, (Anexo):
+
+Página principal del INE: www.ine.mx
+
+Menú: Servicios INE / Opción: Norma INE /
+
+Menú: Normatividad del Instituto / Opción:
+
+Reglamentos / Buscador: Consultar:
+
+Elecciones / Ficha Reglamento de
+
+Elecciones: Anexos (compilado)
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
