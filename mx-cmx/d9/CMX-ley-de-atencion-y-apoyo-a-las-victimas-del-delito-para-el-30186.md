@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-y-apoyo-a-las-victimas-del-delito-para-el-30186
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2011-05-24"
+last_updated: "2018-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30186&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-04-08"
 ---
 # LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 19 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MAYO DE 2011.
+LEY DE ATENCIÓN Y APOYO A LAS VÍCTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -429,3 +431,33 @@ G.O. 24 DE MAYO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal para su mayor difusión.
+
+G.O. 19 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE ATENCIÓN Y APOYO A LAS VÍCTIMAS DEL DELITO PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- La presente Ley entrará en vigor al día siguiente de su publicación.
+
+CUARTO.- Se abroga la Ley de Atención y Apoyo a Víctimas de Delito para el Distrito Federal y se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+QUINTO.- La Asamblea Legislativa o el Congreso de la Ciudad de México realizará las adecuaciones y modificaciones normativas a las leyes que correspondan para ser armónicas con la presente Ley.
+
+SEXTO.- El Jefe de Gobierno de la Ciudad de México, emitirá el Reglamento de la presente Ley.
+
+SÉPTIMO.- La persona Titular de la Comisión de Víctimas deberá elegirse dentro en un plazo no mayor a ciento veinte días naturales posteriores a la entrada en vigor de la presente Ley. La Comisión de Víctimas se instalará con la designación de su titular. Hasta en tanto se instala la Comisión de Víctimas, las obligaciones que le están fijadas por esta Ley y la Ley General serán coordinadas por la Secretaría de Gobierno.
+
+OCTAVO.- Por lo que refiere a los artículos 85 y 109 así como los demás referentes a las alcaldías, dichas facultades y atribuciones se entenderán para las delegaciones hasta en tanto no entre en vigor la Constitución Política de la Ciudad de México.
+
+NOVENO.- Las alcaldías, las dependencias e instituciones de la Ciudad de México, deberán adecuar la normatividad que les resulte aplicable, así como emitir los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia respectiva, que se deriven de la presente Ley, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la Ley. Asimismo, deberán regular sobre la capacitación de las personas servidoras públicas a su cargo, respecto al contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley.
+
+DÉCIMO.- El Jefe de Gobierno de la Ciudad de México deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley.
+
+DÉCIMO PRIMERO.- Las autoridades de la Ciudad de México promoverán de manera conjunta con la Asamblea Legislativa o el Congreso de la Ciudad de México, la armonización del marco legislativo local cuyas materias estén relacionadas a lo previsto en la Ley General y en esta Ley, tanto para la adecuación de procedimientos judiciales o administrativos que tengan por objeto el cumplimiento de lo previsto en esta Ley.
+
+DÉCIMO SEGUNDO.- Los recursos que integran el Fondo de Atención y Apoyo a Víctimas de Delito que contempla la Ley de Atención y Apoyo a Víctimas del Delito para el Distrito Federal, al momento de entrar en vigor la presente Ley, pasarán a formar parte del Fondo de la Ciudad de México; las solicitudes de apoyo económico tramitadas, antes de la vigencia de esta Ley, serán atendidas de acuerdo a lo establecido en su Título Quinto, conforme al Principio de No victimización secundaria.
+
+DÉCIMO TERCERO.- Por lo que refiere a la Fiscalía General de Justicia de la Ciudad de México, dichas facultades se entenderán para la Procuraduría General de Justicia de la Ciudad de México, hasta en tanto no entre en vigor la Constitución Política de la Ciudad de México.
