@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-02-05"
+last_updated: "2018-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3053,29 +3053,25 @@ II. Dictamen de viabilidad financiera y administrativa, emitido por la Comisión
 
 III. Dictamen de estimación del impacto presupuestario y administrativo, así como también una corrida financiera de las nuevas plazas, emitido por la Secretaría de Finanzas Públicas y la Secretaría de Administración.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
 
 Secretaría Particular;
 
 Oficina Ejecutiva del Presidente Municipal;
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
-
-Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano;
+Secretariado de Enlace Ciudadano;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
 Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
-
 Secretaría de Comunicación Social;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Coordinación General de Delegaciones Urbanas y Rurales;
 
-Contraloría Municipal;
+Órgano Interno de Control;
 
 Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
@@ -3085,27 +3081,17 @@ Secretaría de Obras Públicas;
 
 Secretaría de Administración;
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
-
 Secretaría de Desarrollo Social;
 
 Secretaría de Desarrollo Urbano;
 
 Secretaría de Servicios Públicos;
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
-
 Secretaría de Seguridad Pública;
-
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
-
 Secretaría de Economía Social y Turismo Municipal; y
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
 
 Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes.
 
@@ -3179,9 +3165,9 @@ Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
 
 Departamento de Enlace Internacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2018)</small>
 
-IV.- SECRETARIADO TECNICO DEL CONSEJO DE LA CIUDAD Y ENLACE CIUDADANO;
+IV.- SECRETARIADO DE ENLACE CIUDADANO.
 
 (REPUBLICADO, P.O. 20 DE MARZO DE 2017)
 
@@ -4373,17 +4359,17 @@ X. Cubrir las actividades y eventos de la Presidencia Municipal mediante materia
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2018)</small>
 
 APARTADO CUARTO
 
-Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano
+Secretariado de Enlace Ciudadano
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 102.
 
-El Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano es el órgano auxiliar del Consejo de la Ciudad y promotor de la participación y empoderamiento ciudadano, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
+El Secretariado de Enlace Ciudadano es el órgano auxiliar del Consejo de la Ciudad y promotor de la participación y empoderamiento ciudadano, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -27520,6 +27506,14 @@ TERCERO.- Se faculta al Titular del Órgano Interno de Control del Municipio de 
 CUARTO.- Al momento de la aprobación de la presente reforma por parte del Honorable Cabildo del Municipio de Aguascalientes, se deberá iniciar el procedimiento de la entrega-recepción de la Contraloría Municipal, debiéndose designar a un encargado de despacho para tal efecto, el cual durará en dicho encargo hasta el momento que la Presidenta Municipal de Aguascalientes designe y nombre al Titular del Órgano Interno de Control del Municipio de Aguascalientes, lo que se deberá realizar dentro de los siguientes treinta días hábiles.
 
 QUINTO.- Las referencias a la Contraloría Municipal o a su titular contenidas en este Código, así como en otras disposiciones reglamentarias, administrativas o contractuales, se entenderán hechas al órgano interno de control y a su titular, según corresponda.
+
+P.O. 19 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 15 Y 102 DEL CÓDIGO MUNICIPAL Y REFORMA DE LOS ARTÍCULOS 15 Y 19 DEL REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las referencias al Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano o a su titular, contenidas en disposiciones reglamentarias, administrativas o contractuales, se entenderán hechas al Secretariado de Enlace Ciudadano y a su titular, según corresponda.
 
 ###### ARTICULO UNICO.
 
