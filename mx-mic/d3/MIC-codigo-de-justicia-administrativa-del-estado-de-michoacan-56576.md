@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2017-07-18"
+last_updated: "2018-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -1275,87 +1275,29 @@ IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar e
 
 En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio administrativo ante el Tribunal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)</small>
 
 ### Capítulo Décimo Segundo. Del Registro Estatal de Trámites y Servicios y del Registro Único de Personas acreditadas en Michoacán
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 138.
 
-La Secretaría de Finanzas y Administración integrará, administrará y actualizará permanentemente el Registro Estatal de Trámites y Servicios de la Administración Pública Estatal, mismo que contendrá todos los trámites y servicios vigentes y los publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Lo estipulado en el Registro será de cumplimiento obligatorio para los servidores públicos de las dependencias o entidades ante quienes se lleven a cabo los trámites y servicios, en la forma establecida en él, y no podrá aplicarse de otra forma, emplear plazos distintos, ni solicitar requisitos, documentación o información adicional a la establecida.
-
-Las personas que lleven a cabo trámites y servicios tendrán derecho a que se realicen de la forma estipulada en el Registro.
-
-Las dependencias y entidades deberán proporcionar para su inscripción, por cada trámite y servicio que presten, la siguiente información, que será publicada en el propio registro:
-
-I. Nombre e identificación del trámite;
-
-II. Fundamento jurídico;
-
-III. Casos en los que debe o puede realizarse el trámite o servicio;
-
-IV. Si el trámite o servicio debe solicitarse por escrito o puede realizarse de otra manera;
-
-V. El formato correspondiente;
-
-VI. Los datos y documentos específicos que debe contener o deben adjuntarse al trámite o servicio;
-
-VII. El plazo máximo que tiene la autoridad administrativa correspondiente para resolver el trámite o servicio y la procedencia de la afirmativa o negativa ficta;
-
-VIII. El monto de los derechos o aprovechamientos aplicables, en su caso, la forma de determinar el monto y los lugares en los que podrán ser liquidados;
-
-IX. Vigencia de los permisos, licencias, autorizaciones, registros y demás resoluciones que se emitan;
-
-X. Documento a obtener como resultado del trámite;
-
-XI. Unidades administrativas ante las que se puede solicitar el trámite o servicio;
-
-XII. Horario de atención al público; y,
-
-XIII. Los números de teléfono y fax, correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas.
-
-La información deberá entregarse a la Secretaría de Finanzas y Administración y ésta deberá analizarla y, en su caso, proponer mejoras a la autoridad administrativa operadora del proceso antes de inscribirla en el Registro.
-
-La Secretaría de Finanzas y Administración se coordinará con la Secretaría de Desarrollo Económico para el cumplimiento de esta disposición.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
 ###### Artículo 139.
 
-Las dependencias y entidades deberán notificar a la Secretaría de Finanzas y Administración las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
-
-Una vez analizada la modificación, la Secretaría verificará que ésta mejore el trámite o servicio, y procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
-
-Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público la información que al respecto esté inscrita en el Registro.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
 ###### Artículo 140.
 
-Se establece el Registro Único de Personas Acreditadas en Michoacán con el objeto de documentar por una sola vez la información sobre la constitución y funcionamiento de las personas morales y la correspondiente a las personas físicas que así lo deseen, para realizar trámites y servicios ante las dependencias y entidades. Para el efecto se emitirá una clave de identificación particularizada, la cual será válida para toda la Administración Pública Estatal, independientemente de la entidad o dependencia a través de la cual se inscriba en el registro.
-
-La Secretaría de Finanzas y Administración organizará y actualizará permanentemente el Registro Único de Personas Acreditadas en una base de datos única. Asimismo, emitirá los lineamientos correspondientes y proveerá lo necesario para integrar los expedientes de usuarios y las claves de identificación particularizada, para lo cual se coordinará con la Secretaría de Desarrollo Económico.
-
-Una vez inscrito el usuario en el Registro Único de Personas Acreditadas, las dependencias o entidades estarán obligadas a no solicitar de nuevo la documentación integrada en el expediente correspondiente, salvo que el trámite o servicio de que se trate, requiera documentación adicional.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
 ###### Artículo 141.
 
-Las dependencias o entidades, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas y Administración, integrarán los expedientes e inscribirán a los usuarios que realicen trámites en el ámbito de su competencia. Para ello, generarán una clave de identificación particularizada basada en los elementos de la Clave Única del Registro de Población para las personas físicas y para las personas morales basado en la Cédula de Identificación Fiscal.
-
-Los usuarios podrán presentar su información ante la Secretaría de Finanzas y Administración a efecto de inscribirse directamente en el Registro Único de Personas Acreditadas y, en su caso, para solicitar la modificación de datos en su expediente ya inscrito.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
+(DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
 ###### Artículo 142.
 
-Los ayuntamientos deberán crear, mediante acuerdo, el registro de trámites municipales y de personas acreditadas, aplicando en lo conducente las disposiciones de este Código. La inobservancia de este precepto será la no publicidad del trámite.
-
-Los ayuntamientos podrán coordinarse con la Secretaría de Finanzas y Administración a efecto de armonizar u homogenizar los lineamientos y requisitos para la integración de dichos registros.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
 # Libro Cuarto. Tribunal de Justicia Administrativa
 
@@ -3354,3 +3296,17 @@ En el proyecto de presupuesto de egresos para el Ejercicio Fiscal 2018, deberá 
 CUARTO. El Congreso del Estado, a través de las Comisiones de Justicia y de Gobernación, emitirán convocatoria pública para el procedimiento de elección de los Magistrados Especializados en un término no mayor a 90 días naturales siguientes a la entrada en vigor del presente decreto.
 
 QUINTO. A partir de la entrada en vigor del presente Decreto el Tribunal de Justicia Administrativa tendrá un año para la implementación técnica del Juicio en Línea.
+
+P.O. 19 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 422 POR EL QUE “SE EXPIDE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Una vez que entre en vigor el presente Decreto, se deroga el Capítulo Décimo Segundo, artículos 138, 139, 140, 141 y 142, del Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. El Gobernador del Estado cuenta con noventa días, contados a partir de la entrada (sic) del presente Decreto para que emita el Reglamento respectivo.
+
+Artículo Cuarto. Los Sujetos Obligados, tendrán noventa días, contados a partir de la entrada (sic) del presente Decreto para que emitan el Reglamento respectivo.
+
+Artículo Quinto. En los noventa días a la entrada en vigor del presente decreto, por esta única ocasión, los funcionarios que integran el Consejo Estatal de Mejora Regulatoria, convocarán dentro de treinta días para la elección de los consejeros ciudadanos que señala esta Ley.
