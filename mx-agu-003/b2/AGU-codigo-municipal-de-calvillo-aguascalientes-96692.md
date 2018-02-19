@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2017-12-18"
+last_updated: "2018-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -3023,6 +3023,14 @@ XLIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H.
 
 XLIV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
 ###### Artículo 327.
@@ -3080,6 +3088,14 @@ XXIV.- Las demás que el Presidente Municipal le encomiende.
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
 XXV.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXVI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXVII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Finanzas y Administración
 
@@ -3193,6 +3209,14 @@ XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H.
 
 XL.- Hacer y entregar informes en temas transversales en colaboración con las dependencias y en correlación con el IMPLAN.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 #### SECCIÓN TERCERA. De la Secretaría de Contraloría Interna
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
@@ -3256,6 +3280,14 @@ XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Preside
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
 XXII.- Entregar la información requerida por el IMPLAN.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXIV.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN CUARTA. De la Secretaría de Seguridad Pública y Vialidad
 
@@ -3335,6 +3367,14 @@ XXXIII.- Las demás que le otorguen las leyes, el presente Código o le encomien
 
 XXXIV.- Entregar la información requerida por el IMPLAN.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXXV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 #### SECCIÓN QUINTA. De la Secretaría de Planeación y Desarrollo Municipal
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
@@ -3411,6 +3451,14 @@ XXXII.- Promover campañas de reciclaje ecológico y de limpieza de ríos y aflu
 
 XXXIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXXV (SIC).- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 #### SECCIÓN SEXTA. De la Secretaría de Obras Públicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
@@ -3436,6 +3484,14 @@ VII.- Las demás que señale la Ley, el presente Código o le encomiende el H. A
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
 VIII.- Entregar la información requerida por el IMPLAN
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XI (SIC).- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+X (SIC).- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN SÉPTIMA. De la Secretaría de Servicios Públicos
 
@@ -3561,6 +3617,14 @@ XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H.
 
 XL.- Entregar la información requerida por el IMPLAN
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del. Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XLII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 #### SECCIÓN OCTAVA. De la Secretaría de Desarrollo Social
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
@@ -3598,6 +3662,14 @@ XIII.- Lo demás que señalen las leyes, el presente Código o le encomiende el 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
 XIV.- Entregar la información requerida por el IMPLAN
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ENERO DE 2015)</small>
 
@@ -3671,6 +3743,14 @@ XIV. Las demás que este Reglamento y otras disposiciones legales determinen.
 
 XV. Entregar la información requerida por el IMPLAN
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XVI. Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XVII. Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA
@@ -3733,6 +3813,14 @@ XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Preside
 
 XXII.- Entregar la información requerida por el IMPLAN
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XXIV.- Entregar la información requerida por el IMPLAN para reali.tar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
 #### SECCIÓN DÉCIMA SEGUNDA. De la Secretaría Particular
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
@@ -3766,6 +3854,14 @@ XI.- Las demás que el Presidente Municipal le encomiende.
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
 
 XII.- Entregar la información requerida por el IMPLAN
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+XIV.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 ###### ARTÍCULO 339.
 
@@ -21237,7 +21333,7 @@ d).- Tapancos, una carga de 10,000 watts;
 
 II.- Por ningún motivo los expositores deberán conectarse a los circuitos de alumbrado, en caso de requerir más carga deberán solicitarla a la Comisión Federal de Electricidad para su análisis;
 
-III.- Las instalaciones internas que cada expositor efectúe por su cuenta, deberán ser supervisadas y aprobadas por los técnicos de la Comisión Federal de Electricidad , para constatar que se encuentren en condiciones normales de funcionamiento, en caso contrario se deberán hacer las correcciones necesarias, de no hacerlo serán canceladas; y
+III.- Las instalaciones internas que cada expositor efectúe por su cuenta, deberán ser supervisadas y aprobadas por los técnicos de la Comisión Federal de Electricidad, para constatar que se encuentren en condiciones normales de funcionamiento, en caso contrario se deberán hacer las correcciones necesarias, de no hacerlo serán canceladas; y
 
 IV.- Con el propósito de evitar fallas en el suministro de energía eléctrica, se restringe el uso de aparatos, tales como: Planchas eléctricas, televisores, hornos, parrillas y toda clase de aparatos similares, que no hayan sido manifestados en su solicitud inicial, los cuales se encontrarían fuera de los límites de carga.
 
@@ -24137,6 +24233,120 @@ En caso de no recogerlas dentro del término señalado en el artículo anterior,
 
 Cuando el valor de los objetos exceda de dicho valor, se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Calvillo. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+
+# LIBRO OCTAVO
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTRGRA, P.O. 19 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2546.
+
+Las disposiciones de este Libro son de orden e interés público, y se aplicarán a las evaluaciones de los fondos, programas y recursos de la administración pública del Municipio de Calvillo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO II. Del Sistema de Evaluación del Desempeño
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2547.
+
+En materia de programación y presupuestación, el IMPLAN y la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+
+I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
+
+II.- Formular y emitir lineamientos para definir los Programas Presupuestarios de conformidad con lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaría del Estado de Aguascalientes y sus municipios;
+
+III.- Dar seguimiento al ejercicio de los programas presupuestarios;
+
+IV.- Asesorar, capacitar y dar apoyo técnico en materia de programación y presupuestación; y
+
+V.- Emitir el conjunto de políticas, normas y lineamientos para la presupuestación con base en resultados, observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2548.
+
+En materia de presupuestación, la Secretaría de Finanzas y Administración municipal, en el ámbito de su respectiva competencia, y sin perjuicio de lo que establecen otras disposiciones legales, deberá:
+
+I.- Formular y emitir lineamientos para definir la Estructura Presupuestal;
+
+II.- Asignar y distribuir los ingresos que forman parte de la Hacienda Pública, en los términos previstos en los ordenamientos aplicables; y
+
+III.- Asesorar, en materia de presupuestación y contabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2549.
+
+La Secretaría de Finanzas realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias de la Cámara de Diputados.
+
+La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño (IMPLAN) se sujetarán a lo siguiente:
+
+I. Efectuarán las evaluaciones por sí mismas o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
+
+II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
+
+a) Los datos generales del evaluador externo, destacando al coordinador de la evaluación y a su principal equipo colaborador;
+
+b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
+
+c) La forma de contratación del evaluador externo, de acuerdo con las disposiciones aplicables;
+
+d) El tipo de evaluación contratada, así como sus principales objetivos;
+
+e) La base de datos generada con la información de gabinete y/o de campo para el análisis de la evaluación;
+
+f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros;
+
+g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
+
+h) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador externo;
+
+i) El costo total de la evaluación externa, especificando la fuente de financiamiento;
+
+III. Las evaluaciones podrán efectuarse respecto de las políticas públicas, los programas correspondientes y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los métodos de evaluación que sean necesarios, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas;
+
+IV. Establecerán programas anuales de evaluaciones;
+
+V. Las evaluaciones deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres, y
+
+VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2550.
+
+La Secretaría de Finanzas y Administración en conjunto con el IMPLAN verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el Sistema de Evaluación del Desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+
+El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores del gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el artículo 1 de la Ley Federal de Presupuesto y Responsabilidad Hacendaría. La Secretaría de Finanzas y Administración en conjunto con el IMPLAN emitirán las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+
+En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaría, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+
+El sistema de evaluación del desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género.
+
+Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2551.
+
+El IMPLAN evaluará los fondos y recursos que crea necesarios, en conjunto con la Secretaría de Finanzas y Administración y las dependencias ejecutoras de los programas.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2552.
+
+El IMPLAN en conjunto de la Secretaría de Finanzas y administración gestionarán la realización de evaluaciones a los fondos, recursos y programas que se considere necesarios y cursos de capacitación en materia de Presupuesto Basado en Resultados y Sistemas de Evaluación del Desempeño (PBR - SED).
+
 T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
@@ -24302,6 +24512,16 @@ Artículo Cuarto.- Cúmplase.
 P.O. 18 DE DICIEMBRE DE 2017.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
+
+P.O. 19 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CLAVILLO, AGS.]</small>
 
 Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
