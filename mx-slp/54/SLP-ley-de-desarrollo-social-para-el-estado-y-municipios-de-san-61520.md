@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2016-09-17"
+last_updated: "2018-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -35,7 +35,7 @@ LA QUINCUAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO 
 
 EXPOSICION DE MOTIVOS
 
-.
+[...]
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
@@ -385,9 +385,15 @@ VIII. Impulsar el desarrollo local privilegiando la superación de los rezagos s
 
 IX. Cumplir la responsabilidad de ejercer los recursos públicos destinados al desarrollo social, con honradez, transparencia y equidad;
 
-X. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
 
-XI. Las demás que señalen las disposiciones legales aplicables.
+X. Informar a la sociedad sobre las acciones en torno al desarrollo social;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+XI. Promocionar y difundir programas de acopio y canje de residuos sólidos urbanos reciclables por productos de la canasta básica, con el propósito fundamental de promover la cultura del cuidado del medio ambiente, y el fortalecimiento de la economía familiar en el municipio, y
+
+XII. Las demás que señalen las disposiciones legales aplicables.
 
 ## TITULO TERCERO. DE LOS BENEFICIARIOS
 
@@ -848,3 +854,11 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 891.- SE REFORMA EL ARTÍCULO 16 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 113 Y 132 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
