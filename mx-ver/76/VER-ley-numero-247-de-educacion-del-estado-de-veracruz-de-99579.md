@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2017-08-15"
+last_updated: "2018-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -144,6 +144,14 @@ El Estado otorgará un salario profesional digno, que: permita al profesorado de
 ###### Artículo 13.
 
 La Autoridad Educativa Estatal incorporará en el proyecto de presupuesto de egresos del Estado que someta a la consideración y aprobación de la Legislatura local, con base en los ingresos autorizados, recursos para garantizar, fortalecer y elevar la calidad del sistema educativo en el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2018)</small>
+
+De igual modo, se incluirá en aquél un monto específico a efecto de dotar anualmente de un juego de uniforme escolar gratuito a los alumnos inscritos en escuelas públicas de nivel primaria de los municipios que se encuentren dentro de la Declaratoria de las Zonas de Atención Prioritaria, con base en los Criterios Generales para la Determinación de las Zonas de Atención Prioritaria, emitidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+> <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2018)</small>
+
+Para su adquisición, además de observarse los procedimientos establecidos en la ley de la materia, se promoverá la participación preferentemente de fabricantes y comerciantes de la entidad.
 
 ###### Artículo 14.
 
@@ -2003,8 +2011,18 @@ TERCERO. La Secretaría de Educación y la Secretaría de Desarrollo Social del 
 
 G.O. 15 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 339 QUE REFORMA EL ARTÍCULO 141 FRACCIÓN I DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 339 QUE REFORMA EL ARTÍCULO 141 FRACCIÓN I DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 617 QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 13 LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La autoridad educativa estatal deberá actualizar, en un plazo que no excederá de noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, el padrón estatal de alumnos establecido en la fracción XII del artículo 18 de esta misma Ley, con base en los datos de alumnos inscritos para el ciclo escolar 2017-2018, más un porcentaje adicional que la propia Secretaría considere, para poder establecer el monto de inversión que deberá proponerse al Ejecutivo del Estado para la modificación del Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2018.
