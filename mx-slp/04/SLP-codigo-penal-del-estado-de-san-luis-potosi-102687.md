@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-02-19"
+last_updated: "2018-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE FEBRERO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 0883 PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3715,9 +3713,21 @@ III. Destruya, retire, altere, oculte o viole los sellos de clausura colocados p
 
 IV. Lleve a cabo la apertura y aprovechamiento de bancos de material geológico, sin contar con la autorización correspondiente de la Secretaría de Ecología y Gestión Ambiental, ni con los criterios establecidos en la Norma Técnica Ecológica Estatal NTE-SLP-BMG-002/2002 para la localización de bancos de materiales, y sin la autorización de impacto ambiental correspondiente;
 
-V. Omita realizar o incumpla las medidas técnicas, correctivas o de seguridad, necesarias, para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
 
-VI. Omita acatar las medidas de suspensión de actividades, parcial, total, temporal o definitiva, impuesta por la Secretaria de Ecología y Gestión Ambiental, derivado de un procedimiento administrativo.
+V. Omita realizar o incumpla las medidas técnicas, correctivas o de seguridad, necesarias, para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+VI. Omita acatar las medidas de suspensión de actividades, parcial, total, temporal o definitiva, impuesta por la Secretaria de Ecología y Gestión Ambiental, derivado de un procedimiento administrativo;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+VII. Autorice transportar cualquier residuo considerado como peligroso por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, biológico infecciosas o radioactivas, a un destino para el que no se tenga autorización para recibirlo, almacenarlo, desecharlo o abandonarlo, y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+VIII. Preste sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, y falte a la verdad provocando con ello que se cause un daño a los recursos naturales; a la flora; la fauna; los ecosistemas; la calidad del agua; o al ambiente.
 
 Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaria de Ecología y Gestión Ambiental.
 
@@ -4968,3 +4978,11 @@ P.O. 17 DE FEBRERO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 893.- SE REFORMA EL ARTÍCULO 305 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente a este Decreto.
