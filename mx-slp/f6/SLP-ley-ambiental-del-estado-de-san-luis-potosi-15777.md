@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-12-31"
+last_updated: "2018-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1809,9 +1809,17 @@ V. De protección de flora y fauna silvestres;
 
 VI. De campañas de información y orientación sobre la prohibición de descargar residuos peligrosos al drenaje, provenientes de casas habitación;
 
-VII. De formulación, aplicación y actualización periódica de la reglamentación municipal de la materia, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
 
-VIII. De instalación de centros de acopio de residuos sólidos reciclables, tales como papel, cartón, vidrio, metal y plásticos.
+VII. De formulación, aplicación y actualización periódica de la reglamentación municipal de la materia;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+VIII. De instalación de centros de acopio de residuos sólidos reciclables, tales como papel, cartón, vidrio, metal y plásticos; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2018)</small>
+
+IX. De instalación de centros de acopio y canje de residuos sólidos reciclables por productos de la canasta básica.
 
 ## TITULO OCTAVO. DE LAS CONTINGENCIAS AMBIENTALES
 
@@ -2247,9 +2255,17 @@ V. Coadyuvar en la evaluación de las acciones y programas que, en la materia, s
 
 VI. Recomendar a la autoridad estatal en materia ambiental, líneas estratégicas en los temas relacionados con el objeto de esta Ley en el ámbito territorial del municipio;
 
-VII. Dar aviso al ayuntamiento o a las autoridades competentes en la materia, sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
 
-VIII. Las demás que determine esta Ley, los demás ordenamientos legales aplicables en la materia o el ayuntamiento.
+VII. Dar aviso al ayuntamiento o a las autoridades competentes en la materia, sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2018)</small>
+
+VIII. Promover la constitución y ubicación estratégica, así como vigilar el debido funcionamiento de los centros promotores del acopio y canje de los residuos sólidos urbanos reciclables, como: papel, cartón, vidrio, plástico y aluminio, por alimentos de la canasta básica a la población en general, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE FEBRERO DE 2018)</small>
+
+IX. Las demás que determine esta Ley, y los ordenamientos legales aplicables en la materia.
 
 ###### ARTICULO 133.
 
@@ -3065,7 +3081,7 @@ TERCERO. Se derogan todas aquellas disposiciones legales y administrativas que s
 
 P.O. 20 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0635.- SE REFORMA EL ARTÍCULO 136, DE LA LEY AMBIENTAL DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0635.- SE REFORMA EL ARTÍCULO 136, DE LA LEY AMBIENTAL DEL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3138,6 +3154,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 31 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 864.- SE REFORMAN ARTÍCULOS, 5°, 100 Y 101, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 891.- SE REFORMA EL ARTÍCULO 16 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 113 Y 132 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
