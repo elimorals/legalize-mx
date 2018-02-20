@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2017-08-01"
+last_updated: "2018-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2867,7 +2867,9 @@ IV. Areas de donación: las que deben cederse gratuitamente por el fraccionador 
 
 Estos bienes son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se hallen destinados.
 
-El área de donación es el porcentaje que al efecto se establece para los fraccionamientos y las subdivisiones en éste ordenamiento, el que será sobre la base del quince por ciento del área vendible del terreno, debidamente urbanizada, tratándose de fraccionamientos, y el diez por ciento del área total del predio cuando se trate de subdivisiones, ésta área se ubicará en conformidad con el Ayuntamiento, para poder cumplir estrictamente con el destino que ésta Ley establece para las áreas de donación;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2018)</small>
+
+El área de donación es el porcentaje que al efecto se establece para los fraccionamientos en este Ordenamiento, el que será sobre la base del quince por ciento del área vendible del terreno debidamente urbanizada, tratándose de fraccionamientos; esta área se ubicará de conformidad con el Ayuntamiento para poder cumplir estrictamente con el destino que esta Ley establece para las áreas de donación;
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -2899,11 +2901,13 @@ g) Sistemas de nomenclatura;
 
 h) Señalamiento vial, trabajos de forestación y jardinería. Asimismo cuando corresponda, a las obras de infraestructura primaria, que se requieran para incorporar el fraccionamiento al área urbana y a sus servicios;
 
-i) Cuando se tratare de subdivisión, únicamente las que pudieren ser necesarias para complementar las obras existentes, y
+i) (DEROGADO, P.O. 20 DE FEBRERO DE 2018)
 
 j) Otras que sean necesarias para el adecuado funcionamiento;
 
-VI. Obras de equipamiento urbano: aquéllas que, complementando las obras de urbanización, tienen por objeto proporcionar a los habitantes del fraccionamiento o de la subdivisión cuando corresponda, los servicios relativos a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE FEBRERO DE 2018)</small>
+
+VI. Obras de equipamiento urbano: aquéllas que, complementando las obras de urbanización, tienen por objeto proporcionar a los habitantes del fraccionamiento, los servicios relativos a:
 
 a) Educación;
 
@@ -3511,11 +3515,7 @@ c) Partición en lotes de un inmueble baldío o edificación constituido en copr
 
 II. La subdivisión de un predio situado en áreas no urbanizables, se autorizará siempre que los lotes resultantes queden con acceso a una vía pública existente y se utilicen en los usos que restrictivamente fija el artículo 91 de ésta Ley;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
-
-III. Las subdivisiones de predios de cinco mil metros cuadrados o más de superficie, estarán afectas a la obligación de ceder áreas de donación para obras de equipamiento urbano y ejecutar en su caso las obras de urbanización faltantes. El área de donación será equivalente al diez por ciento de la superficie total del predio. En los casos de predios menores a cinco mil metros cuadrados, se podrá aplicar el procedimiento de transferencia de áreas de donación que establezca el Reglamento de esta Ley.
-
-Estos bienes inmuebles son inalienables, imprescriptibles e inembargables, mientras no se les desafecte del servicio público al que se hallen destinados;
+III. (DEROGADA, P.O. 20 DE FEBRERO DE 2018)
 
 IV. Los lotes resultantes de la subdivisión de terrenos con frente a carreteras federales o estatales, no podrán tener acceso directo por éstas;
 
@@ -3529,11 +3529,9 @@ VII. Los predios suburbanos, para uso agropecuario podrán subdividirse siempre 
 
 VIII. Tratándose de lotes para usos comerciales o de servicios sus dimensiones podrán ser menores atendiendo a las especificaciones que al efecto establezcan los respectivos Planes de Desarrollo Urbano en las zonas de su ubicación, y al giro que pretenda dedicarse el predio, en cualquier caso deberán contar con espacio suficiente para las instalaciones sanitarias y de ventilación o iluminación natural, y los requerimientos mínimos de estacionamiento, conforme a las disposiciones de ésta Ley y los reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 203.
 
-Las subdivisiones de predios provenientes de otra subdivisión autorizada, en la cual se haya establecido y cumplido la obligación de pagar al ayuntamiento los derechos correspondientes, están exentas de hacer nuevamente el pago establecido en el artículo 202 fracción III de esta Ley.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2018)
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -3555,7 +3553,7 @@ III. Ubicación del predio en areofoto (sic) o cartografía reciente;
 
 IV. Copia certificada del documento que acredite la propiedad del inmueble, debidamente inscrito en el Registro Público de la Propiedad, y comprobante de pago del impuesto predial al corriente.
 
-En caso de ser un predio procedente de una subdivisión autorizada, en el documento que acredite la propiedad deberá constar la donación correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2018)</small>
 
 V. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
@@ -3571,7 +3569,7 @@ X. Usos y destino actual y el propuesto del inmueble, y
 
 XI. Característica de la urbanización del terreno o terrenos.
 
-No será necesario cumplir con el requisito de la fracción IV, cuando se trate de la subdivisión de lotes provenientes de fraccionamientos autorizados.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 20 DE FEBRERO DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -4218,6 +4216,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 1 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0687.- SE REFORMAN LOS ARTÍCULOS 82 Y 93 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San, Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 892.- SE REFORMAN LOS ARTÍCULOS 157, 202, 203, Y 205 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
