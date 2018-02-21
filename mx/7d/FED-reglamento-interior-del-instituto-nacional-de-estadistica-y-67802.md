@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2017-09-29"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-03-25"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -101,21 +103,17 @@ XVII. Vicepresidentes.- Los Vicepresidentes del Instituto Nacional de Estadísti
 
 Para el desahogo de las atribuciones que la Ley le confiere, el Presidente del Instituto, contará con el apoyo de las Unidades Administrativas y de las Direcciones Generales Adjuntas que a continuación se indican:
 
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
 I. Dirección General de Estadísticas Sociodemográficas:
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+a) Dirección General Adjunta del Censo de Población y Vivienda;
 
-a) Dirección General Adjunta del Censo de Población y Vivienda
-
-b) Dirección General Adjunta de Encuestas Sociodemográficas y Registros Administrativos;
+b) Dirección General Adjunta de Encuestas Sociodemográficas;
 
 c) Dirección General Adjunta de Infraestructura Estadística, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-d) (DEROGADO, D.O.F. 27 DE MARZO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+d) Dirección General Adjunta de Registros Administrativos Sociodemográficos
 
 > <small>(ADICIONADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
@@ -133,27 +131,29 @@ b) Dirección General Adjunta de Modelos de Información Gubernamental y Encuest
 
 c) Dirección General Adjunta de Desarrollo de Información Gubernamental, Índices e Indicadores.
 
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
 II. Dirección General de Estadísticas Económicas:
 
 a) Dirección General Adjunta de Censos Económicos y Agropecuarios;
 
-b) Dirección General Adjunta de Encuestas Económicas y Registros Administrativos;
+b) Dirección General Adjunta de Encuestas Económicas;
 
-c) Dirección General Adjunta de Cuentas Nacionales, y
+c) Dirección General Adjunta de Cuentas Nacionales;
 
-d) Dirección General Adjunta de Indices de Precios;
+d) Dirección General Adjunta de Índices de Precios, y
+
+e) Dirección General Adjunta de Registros Administrativos Económicos.
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 III. Dirección General de Geografía y Medio Ambiente:
 
 a) Dirección General Adjunta de Información Geográfica Básica;
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
-
 b) Dirección General Adjunta de Recursos Naturales y Medio Ambiente;
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2010)</small>
-
-c) Dirección General Adjunta de Información Catastral y Registral, y
+c) Dirección General Adjunta de Información Geográfica para la Administración del Territorio, y
 
 d) Dirección General Adjunta de Integración de Información Geoespacial;
 
@@ -179,15 +179,15 @@ c) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 d) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 VI. Dirección General de Vinculación y Servicio Público de Información:
 
-a) Dirección General Adjunta de Comunicación, y
+a) Dirección General Adjunta de Comunicación;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+b) Dirección General Adjunta de Vinculación, y
 
-b) Dirección General Adjunta de Vinculación con el Poder Legislativo;
+c) Dirección General Adjunta del Servicio Público de Información.
 
 VII. Dirección General de Administración:
 
@@ -667,9 +667,9 @@ XI. Aplicar los ordenamientos que integran el marco jurídico del Instituto, con
 
 XII. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las Unidades del Estado, o por las Unidades Administrativas del propio Instituto, rindiendo el informe correspondiente al Director General de su adscripción;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XIII. Planear y operar los sistemas informáticos requeridos para el sustento de las funciones asignadas, en coordinación con la Dirección General Adjunta de Informática;
+XIII. Planear y operar los sistemas informáticos requeridos para el sustento de las funciones asignadas, en colaboración con la Coordinación General de Informática;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -867,9 +867,9 @@ XII. Emitir recomendaciones que permitan elevar la calidad de la Información es
 
 XIII. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura.
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XIV. Administrar el Inventario Nacional de Viviendas, conforme a las disposiciones normativas que al efecto apruebe la Junta de Gobierno, diseñando, coordinando y supervisando, la elaboración, actualización y utilización del mismo, mediante la aplicación de técnicas estadísticas, geográficas y administrativas, así como de informática y de tecnologías de la información, y
+XIV. Administrar el Inventario Nacional de Viviendas, conforme a las disposiciones normativas que al efecto apruebe la Junta de Gobierno, diseñando, coordinando y supervisando, la elaboración, actualización y utilización del mismo;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -879,95 +879,51 @@ XV. Proponer e implementar en los levantamientos de información de los censos, 
 
 XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 16.
 
-Son atribuciones específicas de la Dirección General Adjunta de Encuestas Sociodemográficas y Registros Administrativos, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Encuestas Sociodemográficas, las siguientes:
 
-I. Generar e integrar estadísticas básicas y derivadas con base en encuestas en hogares, en encuestas especiales, y en la explotación de registros administrativos, que aporten Información sociodemográfica;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+I. Generar e integrar estadísticas básicas y derivadas con base en encuestas en hogares u otras unidades de observación de su competencia, que aporten información sociodemográfica;
 
 II. Coordinar el desarrollo de técnicas y metodologías, para la generación de estadísticas e indicadores clave en el ámbito de su competencia, que tengan por objeto mejorar la eficiencia, eficacia y congruencia de los diseños estadísticos, así como sobre la ejecución de operativos de campo en procesos de generación de información en materia estadística;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+III. Desarrollar el diseño estadístico de proyectos de encuestas sobre estadística básica en temas sociodemográficos;
 
-III. Desarrollar el diseño estadístico de proyectos de encuestas sobre estadística básica de población, hogares y vivienda;
+IV. Coordinar la construcción y actualización de Marcos de Muestreo como infraestructura básica para la selección de las muestras de las encuestas en hogares u otras unidades de observación que levanta el Instituto y elaborar marcos especiales a petición de usuarios externos que lo soliciten;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+V. Emitir su opinión sobre los costos asociados a la ejecución de proyectos estadísticos de encuestas en hogares u otras unidades de observación de su competencia, que sean sometidos a su consideración por las Unidades Administrativas del Instituto;
 
-IV. Coordinar la construcción y actualización del Marco Nacional de Viviendas como infraestructura básica para la selección de las muestras de las encuestas en hogares que levanta el Instituto y elaborar marcos de unidades primarias de muestreo para los usuarios externos que lo soliciten;
+VI. Desarrollar y operar un sistema integrado de encuestas nacionales en hogares u otras unidades de observación, en colaboración con las Unidades Administrativas del Instituto y demás Unidades del Estado;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+VII. Revisar la estimación de totales poblacionales de las diversas encuestas generadas por el Instituto, a partir de series históricas y proyecciones de población, para la obtención de parámetros en el diseño de las encuestas nacionales de los hogares u otras unidades de observación de su competencia;
 
-V. Emitir su opinión sobre los costos asociados a la ejecución de proyectos estadísticos de encuestas en hogares y sobre registros administrativos de su competencia, que sean sometidos a su consideración por las Unidades Administrativas del Instituto;
+VIII. Evaluar la información de las encuestas en hogares u otras unidades de observación de su competencia conforme a las características del correspondiente diseño estadístico y facilitar el uso adecuado de las bases de datos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+IX. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
 
-VI. Desarrollar y operar un sistema integrado de encuestas nacionales en hogares, en colaboración con las Unidades Administrativas del Instituto y demás Unidades del Estado;
+X. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo a su ámbito de competencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XI. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de Información Estadística de su competencia integrada al Sistema;
 
-VII. Revisar la estimación de totales poblacionales de las diversas encuestas generadas por el Instituto, a partir de series históricas y proyecciones de población, para la obtención de parámetros en el diseño de las encuestas nacionales de los hogares;
+XII. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIII. Dirigir las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad, de las encuestas en hogares u otras unidades de observación de su competencia;
 
-VIII. Evaluar la información de las encuestas en hogares conforme a las características del correspondiente diseño estadístico y facilitar el uso adecuado de las bases de datos;
+XIV. Proponer el anteproyecto del presupuesto anual para la realización de las encuestas en hogares u otras unidades de observación, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XV. Desarrollar la metodología a implementar en las encuestas en hogares u otras unidades de observación de su competencia, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal de campo a cargo de los levantamientos correspondientes, incluyendo las actividades que se realizan en las Direcciones Regionales y Coordinaciones Estatales;
 
-IX. Evaluar los procesos estadísticos para garantizar la calidad y oportunidad de los resultados e información obtenidos en los registros administrativos sociodemográficos incorporados al Sistema y facilitar el uso adecuado de las bases de datos;
+XVI. Diseñar, normar, implementar y evaluar la capacitación para el personal incorporado en las encuestas a que hace referencia la fracción I de este artículo, en oficinas centrales, regionales y estatales considerando para ello las características operativas y conceptuales de cada proyecto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XVII. Coadyuvar con las Unidades del Estado en el desarrollo de la infraestructura conceptual y metodológica que permita la armonización de las estadísticas sociodemográficas, en el ámbito de su competencia, tomando en cuenta los estándares nacionales e internacionales y las mejores prácticas en la materia, con el objeto de consolidar el uso y confiabilidad del Sistema entre sus usuarios;
 
-X. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+XVIII. Diseñar criterios y establecer medidas para el tratamiento, validación primaria y automática de la información, así como establecer herramientas de control y análisis para cada etapa del procesamiento de las encuestas nacionales en hogares u otras unidades de observación de su competencia, así como implementar, en su caso, pruebas de campo y definir lugares de ejecución de las mismas, previo al levantamiento formal de los referidos proyectos, con el objeto de asegurar la calidad de la información que de los mismos se obtenga;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIX. Proponer e implementar en los levantamientos de información de encuestas en hogares u otras unidades de observación de su competencia, las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
 
-XI. Elaborar y actualizar esquemas operativos y metodológicos, sobre la explotación estadística, evaluación y mejoramiento de los registros administrativos en el ámbito de su competencia;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XII. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo a su ámbito de competencia;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIII. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de Información estadística de su competencia integrada al Sistema;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XIV. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XV. Dirigir las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad, de las encuestas en hogares, tanto periódicas como especiales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Proponer el anteproyecto del presupuesto anual para la realización de las encuestas en hogares, tanto periódicas como especiales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Desarrollar la metodología a implementar en las encuestas en hogares, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal de campo a cargo de los levantamientos correspondientes, incluyendo las actividades que se realizan en las Direcciones Regionales y Coordinaciones Estatales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Diseñar, normar, implementar y evaluar la capacitación para el personal incorporado en las encuestas que hace referencia la fracción I de este artículo, en oficinas centrales, regionales y estatales considerando para ello las características operativas y conceptuales de cada proyecto;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIX. Coadyuvar con las Unidades del Estado en el desarrollo de la infraestructura conceptual y metodológica que permita la armonización de las estadísticas sociodemográficas, en el ámbito de su competencia, tomando en cuenta los estándares nacionales e internacionales y las mejores prácticas en la materia, con el objeto de consolidar el uso y confiabilidad del Sistema entre sus usuarios;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XX. Diseñar criterios y establecer medidas para el tratamiento, validación primaria y automática de la información, así como establecer herramientas de control y análisis para cada etapa del procesamiento de las encuestas nacionales en hogares y los registros administrativos en la materia, en su ámbito de competencia, así como implementar, en su caso, pruebas de campo y definir lugares de ejecución de las mismas, previo al levantamiento formal de los referidos proyectos, con el objeto de asegurar la calidad de la información que de los mismos se obtenga, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXI. Proponer e implementar en los levantamientos de información de encuestas en hogares y de encuestas especiales las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite.
-
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECISÉIS A ONCE FRACCIONES.</small>
 
@@ -1020,6 +976,48 @@ X. Elaborar, actualizar y conservar los metadatos o especificaciones concretas d
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 XI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+ARTICULO 17 BIS.- Son atribuciones específicas de la Dirección General Adjunta de Registros Administrativos Sociodemográficos, las siguientes:
+
+I. Generar e integrar estadísticas básicas y derivadas con base en la explotación de registros administrativos, que aporten información sociodemográfica;
+
+II. Desarrollar el diseño de proyectos estadísticos basados en registros administrativos, sobre temas sociodemográficos referidos a la población y las viviendas;
+
+III. Coordinar el desarrollo de técnicas y metodologías para la generación de estadísticas e indicadores sobre temas sociodemográficos, que tengan por objeto mejorar la eficiencia, eficacia y congruencia de los procesos de aprovechamiento de registros administrativos;
+
+IV. Desarrollar un acervo de registros administrativos, en la temática sociodemográfica, que permita la integración de registros básicos sobre categorías estadísticas relevantes, en colaboración con las Unidades Administrativas del Instituto y demás Unidades del Estado;
+
+V. Coadyuvar con las Unidades del Estado en el desarrollo de la infraestructura conceptual y metodológica que permita la armonización de las estadísticas sociodemográficas, tomando en cuenta los estándares nacionales e internacionales y las mejores prácticas en la materia, con el objeto de consolidar el uso y confiabilidad del Sistema entre sus usuarios;
+
+VI. Gestionar con las Unidades del Estado la transferencia de información de registros administrativos básicos que aporten información sociodemográfica para su incorporación a un acervo de registros administrativos del Instituto;
+
+VII. Evaluar los procedimientos con los que se aprovechan los registros administrativos sociodemográficos para mejorar la calidad de la información estadística generada;
+
+VIII. Formular recomendaciones que permitan elevar la calidad de los procesos de generación, con base en registros administrativos de Información estadística sobre temas sociodemográficos referentes al Sistema;
+
+IX. Diseñar y coordinar los procesos de planeación, recopilación, integración, armonización, validación, evaluación y análisis de registros administrativos de carácter sociodemográfico que las Unidades del Estado proporcionen al INEGI para su incorporación a un acervo de registros administrativos y su uso para el fortalecimiento de otros proyectos estadísticos;
+
+X. Diseñar criterios y establecer medidas para el tratamiento de la información, así como establecer herramientas de control y análisis para cada etapa del procesamiento de registros administrativos, con el objeto de asegurar la calidad de la información que de los mismos se obtenga;
+
+XI. Elaborar y actualizar esquemas operativos y metodológicos, sobre la explotación estadística, evaluación y mejoramiento de los proyectos de aprovechamiento de registros administrativos sociodemográficos;
+
+XII. Desarrollar la metodología a implementar en los proyectos de aprovechamiento de registros administrativos, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal responsable de los procesos, incluyendo las actividades que se realizan en las Direcciones Regionales y Coordinaciones Estatales;
+
+XIII. Diseñar, normar, implementar y evaluar la capacitación para el personal incorporado en los proyectos de aprovechamiento de registros administrativos a que hace referencia la fracción I de este artículo, en oficinas centrales, regionales y estatales, considerando para ello las características operativas y conceptuales de cada proyecto;
+
+XIV. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+
+XV. Proponer disposiciones normativas y metodologías relativas a la recopilación e integración de registros administrativos de carácter sociodemográfico por parte de las Unidades del Estado y asesorarlos en su ejecución;
+
+XVI. Proponer el anteproyecto del presupuesto anual para la realización de proyectos estadísticos basados en registros administrativos de carácter sociodemográfico y para la implementación y mantenimiento de un acervo de registros administrativos;
+
+XVII. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+
+XVIII. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo con su ámbito de competencia, y
+
+XIX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1241,8 +1239,6 @@ I. Coordinar la generación de información estadística con base en el levantam
 
 II. Coordinar la generación del Indice Nacional de Precios al Consumidor y el Indice Nacional de Precios Productor, conforme a las disposiciones normativas que al efecto apruebe la Junta de Gobierno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
 
 II Bis. Coordinar la generación de la Unidad de Medida y Actualización, conforme a las disposiciones legales vigentes;
@@ -1259,9 +1255,9 @@ IV. Dirigir con el apoyo de las Unidades Administrativas del Instituto, la reali
 
 V. Coordinar la programación, y los procesos de diseño, captación, actualización, organización, procesamiento, integración y compilación de la información señalada en las fracciones anteriores, así como su articulación, y coadyuvar en la publicación y difusión de dicha información con la Dirección General de Vinculación y Servicio Público de Información y conservarla en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-VI. Proponer disposiciones normativas tendientes a establecer el Directorio Nacional de Unidades Económicas a que hace referencia el artículo 23 de la Ley, así como coordinar la integración y actualización del mismo;
+VI. Proponer disposiciones normativas tendientes a establecer la infraestructura de información a la que hace referencia el artículo 23 de la Ley, coordinando además su integración y actualización;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1339,35 +1335,33 @@ XXIII. Coordinarse con la Dirección General Adjunta de Infraestructura Estadís
 
 XXIV. Promover y difundir en colaboración con las Direcciones Generales de Coordinación del Sistema Nacional de Información Estadística y Geográfica, y de Vinculación y Servicio Público de Información, entre las Unidades del Estado responsables de generar e integrar información estadística, las disposiciones normativas y los documentos rectores aplicables, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XXV. Coordinar en los levantamientos de información, considerando las características del censo o encuesta de que se trate, las acciones tendientes a lograr que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite;
+XXV. Coordinar en los levantamientos de información, considerando las características del censo, el operativo de actualización de datos de las unidades económicas o encuesta de que se trate, las acciones tendientes a lograr que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 XXVI. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECIOCHO A DIECISIETE FRACCIONES.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECIOCHO A DIECISIETE FRACCIONES.]</small>
 
 ###### ARTICULO 20.
 
 Son atribuciones específicas de la Dirección General Adjunta de Censos Económicos y Agropecuarios, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-I. Dirigir las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad, de los censos nacionales económicos y agropecuarios, los censos ejidales y de las encuestas en el sector primario; así como dirigir las actividades de diseño, actualización y documentación del Directorio Estadístico Nacional de Unidades Económicas;
+I. Dirigir las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad de los censos económicos y agropecuarios, los censos ejidales y de las encuestas del sector primario;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-II. Proponer el anteproyecto anual del presupuesto requerido para la realización de los censos y encuestas a que hace referencia la fracción anterior, así como para la actualización del Directorio Estadístico Nacional de Unidades Económicas, debiendo desarrollar la metodología a implementar en los mismos, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal de campo a cargo de los levantamientos correspondientes, incluyendo las actividades que se realizan en las Direcciones Regionales y Coordinaciones Estatales;
+II. Proponer el anteproyecto anual del presupuesto requerido para la realización de los censos y encuestas a que hace referencia la fracción anterior, debiendo desarrollar la metodología a implementar en los mismos, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal de campo a cargo de los levantamientos correspondientes, incluyendo las actividades que se realizan en las Direcciones Regionales y Coordinaciones Estatales;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 III. Diseñar, normar, implementar y evaluar, la capacitación para el personal incorporado en los operativos a que hace referencia la fracción I de este artículo, en oficinas centrales regionales y estatales, considerando para ello las características operativas y conceptuales de cada proyecto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-IV. Administrar el Directorio Nacional de Unidades Económicas conforme a las disposiciones normativas que al efecto apruebe la Junta de Gobierno, diseñando, coordinando, y supervisando la elaboración, actualización y utilización del mismo, mediante la aplicación de técnicas estadísticas, administrativas y geográficas, así como de informática y tecnologías de la información;
+IV. (DEROGADA, D.O.F. 21 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1378,6 +1372,10 @@ VI. Diseñar criterios y establecer medidas para el tratamiento, validación pri
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 VII. Desarrollar conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información económica desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VII. Bis. Utilizar la infraestructura de información que se genere en términos del artículo 23 de la Ley, y proporcionar la información de su competencia para mantener actualizada dicha infraestructura;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1391,9 +1389,9 @@ X. Analizar y explotar los resultados obtenidos en censos, de carácter económi
 
 XI. Llevar a cabo actividades relacionadas con la conciliación de estadísticas económicas de su competencia, considerando información nacional y extranjera, proporcionada por instituciones públicas y privadas, con el objeto de detectar y cuantificar las diferencias, así como explicar las causas de las discrepancias entre los datos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XII. Proporcionar de manera periódica información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales y aquella necesaria para ser utilizada en la actualización de los marcos de las Encuestas Económicas que realiza el Instituto;
+XII. Proporcionar de manera periódica información, generada dentro de su ámbito de competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales;
 
 XIII. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
 
@@ -1415,21 +1413,23 @@ XVII. Proponer e implementar en los levantamientos de información de censos nac
 
 XVIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 21.
 
-Son atribuciones específicas de la Dirección General Adjunta de Encuestas Económicas y Registros Administrativos, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Encuestas Económicas, las siguientes:
 
-I. Generar e integrar estadísticas básicas y derivadas con base en encuestas en los sectores secundario y terciario, así como en la explotación de registros administrativos que aporten información económica;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+I. Generar e integrar estadísticas básicas y derivadas con base en encuestas en los sectores secundario y terciario, así como las relacionadas con las tecnologías de la información;
 
-II. Proponer disposiciones normativas de capacitación y metodologías relativas a conceptualización, levantamiento, aprovechamiento, procesamiento y explotación de encuestas y registros administrativos que aporten información económica y en materia de ciencia y tecnología; procurar e impulsar el uso de metodologías alternas para el levantamiento de la información;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+II. Proponer disposiciones normativas de capacitación y metodologías relativas a la conceptualización, levantamiento y procesamiento de encuestas que aporten información económica y en materia de ciencia y tecnología; procurar e impulsar el uso de metodologías alternas para el levantamiento de la información;
 
 III. Diseñar y elaborar instrumentos e indicadores complementarios para evaluar el proceso de generación de estadísticas de las Unidades del Estado;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-IV. Elaborar y actualizar esquemas operativos y metodológicos, sobre la explotación estadística, evaluación y mejoramiento de los registros administrativos en el ámbito de su competencia;
+IV. (DEROGADA, D.O.F. 21 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1439,17 +1439,21 @@ V. Desarrollar y operar un sistema integrado de encuestas en unidades económica
 
 VI. Desarrollar la infraestructura conceptual referente a los sectores económicos, en su ámbito de competencia, de manera que sirva para armonizar la generación de información por parte de las Unidades del Estado;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-VII. Analizar y explotar los resultados obtenidos en encuestas y registros administrativos, de carácter económico, y promover su uso como medio para dar sustento a la toma de decisiones de los usuarios del Sistema;
+VII. Analizar y explotar los resultados obtenidos en encuestas económicas, y promover su uso como medio para dar sustento a la toma de decisiones de los usuarios del Sistema;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VII Bis. Utilizar en todos los proyectos que realice con unidades económicas, la infraestructura de información que se genere, a la que se refiere el artículo 23 de la Ley, y retroalimentando a dicha infraestructura para mantenerla actualizada;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 VIII. Llevar a cabo actividades relacionadas con la conciliación de estadísticas económicas de su competencia, considerando información nacional y extranjera, proporcionada por instituciones públicas y privadas, con el objeto de detectar, explicar y cuantificar las causas de las discrepancias entre los datos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-IX. Evaluar la cobertura y calidad de la información económica y promover la mejora continua de las estadísticas económicas, y en particular las generadas por el Instituto, a través del desarrollo de clasificaciones, esquemas conceptuales y estudios de diversos sectores económicos, coyunturales, estructurales y sobre temas emergentes relacionados; así como promover el uso de los métodos de documentación de los microdatos de las encuestas y registros administrativos, basados en estándares internacionales;
+IX. Evaluar la cobertura y calidad de la información económica y promover la mejora continua de las estadísticas económicas, y en particular las generadas por el Instituto, a través del desarrollo de clasificaciones, esquemas conceptuales y estudios de diversos sectores económicos, coyunturales, estructurales y sobre temas emergentes relacionados; así como promover el uso de los métodos de documentación de los microdatos de las encuestas, basados en estándares internacionales;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1479,7 +1483,7 @@ XV. Proponer e implementar en los levantamientos de información de encuestas en
 
 XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTIÚN A CATORCE FRACCIONES.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTIÚN A CATORCE FRACCIONES.]</small>
 
 ###### ARTICULO 22.
 
@@ -1496,6 +1500,10 @@ II. Realizar los proyectos que integran el Sistema de Cuentas Nacionales para la
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 III. Propiciar la homologación conceptual entre la estadística básica con los principios de contabilidad nacional acordes al marco conceptual del Sistema de Cuentas Nacionales y demás lineamientos internacionales vigentes para su sustento y mejoramiento continuo;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+III Bis. Utilizar la información contenida en la infraestructura de información que se genere, a la que se refiere el artículo 23 de la Ley, en los proyectos del Sistema de Cuentas Nacionales de México que requieren caracterizar a las unidades económicas, y retroalimentar a dicha infraestructura para mantenerla actualizada;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1559,7 +1567,9 @@ IV. Definir los productos o servicios específicos que integrarán al Indice Nac
 
 V. Determinar los bienes finales y los bienes intermedios que intervienen en el cálculo del Indice Nacional de Precios Productor;
 
-VI. Determinar los puntos de venta para captar la información que permita calcular los Indices Nacionales de Precios al Consumidor y Productor, garantizando la calidad de los resultados estadísticos;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VI. Determinar los puntos de venta para captar la información que permita calcular los Índices Nacionales de Precios al Consumidor y Productor, garantizando la calidad de los resultados estadísticos; utilizar, en la definición de puntos de venta cuando se trate de establecimientos, la información contenida en infraestructura de información que se genere, a la que se refiere el artículo 23 de la Ley, y retroalimentar a dicha infraestructura para mantenerla actualizada;
 
 VII. Utilizar la información disponible en el Sistema para la determinación de los Indices Nacionales de Precios al Consumidor y Productor;
 
@@ -1601,8 +1611,6 @@ XIX. Diseñar, implementar y evaluar el proceso metodológico para el cambio de 
 
 XX. Proponer e implementar en los levantamientos de información de Índices Nacionales de Precios al Consumidor y Productor (sic) las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
 
 XX Bis. Determinar y publicar en el Diario Oficial de la Federación el valor de la Unidad de Medida y Actualización, y difundirlo a través del portal institucional en Internet, conforme al procedimiento y periodicidad que establezca la legislación aplicable;
@@ -1610,6 +1618,48 @@ XX Bis. Determinar y publicar en el Diario Oficial de la Federación el valor de
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 XXI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+ARTICULO 23 BIS.- Son atribuciones específicas de la Dirección General Adjunta de Registros Administrativos Económicos, las siguientes:
+
+I. Dirigir las actividades de diseño, construcción y actualización de la infraestructura de información a la que se refiere el artículo 23 de la Ley, que permita generar estadísticas básicas y derivadas a partir de la vinculación, análisis y explotación de los registros administrativos que aporten Información económica, y manteniendo también la vinculación con los censos, encuestas económicas y cuentas nacionales;
+
+II. Aprovechar la infraestructura desarrollada para generar productos estadísticos basados en registros administrativos sobre temas económicos referidos a unidades económicas;
+
+III. Coadyuvar con las Unidades del Estado en el desarrollo de la infraestructura conceptual y metodológica que permita la armonización de las estadísticas económicas, en el ámbito de su competencia, tomando en cuenta los estándares nacionales e internacionales y las mejores prácticas en la materia, con el objeto de consolidar el uso y confiabilidad del Sistema entre sus usuarios;
+
+IV. Coordinar el desarrollo de técnicas y metodologías para la generación de estadísticas e indicadores en el ámbito de su competencia, que tengan por objeto mejorar la eficiencia, eficacia y congruencia de los procesos de aprovechamiento de registros administrativos;
+
+V. Diseñar y desarrollar un acervo de registros administrativos, en la temática económica, factible de aprovecharse y vincularse estadísticamente en colaboración con las Unidades Administrativas del Instituto y demás Unidades del Estado;
+
+VI. Concertar y coordinar los trabajos con las Unidades del Estado y con los representantes de los sectores público, privado y social que poseen registros administrativos de carácter económico, encaminados a implementar acciones que posibiliten y faciliten el intercambio de información para fines estadísticos, guardando los principios de confidencialidad y reserva que la Ley establece;
+
+VII. Evaluar los procedimientos con los que se aprovechan los registros administrativos económicos para mejorar la calidad de la información estadística generada;
+
+VIII. Formular recomendaciones a las Unidades del Estado, que permitan elevar la calidad de la información de los registros administrativos de su competencia, que se integren al Sistema;
+
+IX. Diseñar y coordinar los procesos de planeación, recopilación, integración, armonización, validación, evaluación y análisis de registros administrativos de carácter económico que las Unidades del Estado proporcionen al INEGI para su incorporación a un acervo de registros administrativos y su uso para el fortalecimiento de otros proyectos estadísticos;
+
+X. Diseñar criterios y establecer medidas para el tratamiento de la información, así como establecer herramientas de control y análisis para cada etapa del procesamiento de registros administrativos, en su ámbito de competencia con el objeto de asegurar la calidad de la información que de los mismos se obtenga;
+
+XI. Elaborar y actualizar esquemas operativos y metodológicos, sobre la explotación estadística, evaluación y mejoramiento de los proyectos de aprovechamiento de registros administrativos económicos en el ámbito de su competencia;
+
+XII. Desarrollar la metodología a implementar en los proyectos de aprovechamiento de registros administrativos, delimitando en cada caso las áreas de responsabilidad, tramos de control, estrategias y procedimientos del personal responsable de los procesos, incluyendo las actividades operativas de actualización de los Registros Administrativos disponibles, así como de concertación que realizan las Direcciones Regionales y Coordinaciones Estatales;
+
+XIII. Diseñar, normar, implementar y evaluar la capacitación para el personal incorporado en los proyectos de aprovechamiento de registros administrativos a que hace referencia la fracción I de este artículo, en oficinas centrales, regionales y estatales, considerando para ello las características operativas y conceptuales de cada proyecto;
+
+XIV. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+
+XV. Proponer disposiciones normativas y metodologías relativas a la recopilación e integración de registros administrativos de carácter económico, así como el uso de los métodos de documentación de los microdatos siguiendo estándares internacionales, por parte de las Unidades del Estado y asesorarlos en su ejecución;
+
+XVI. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+
+XVII. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo con su ámbito de competencia;
+
+XVIII. Proponer el anteproyecto de presupuesto anual requerido para la realización de las atribuciones asignadas, y
+
+XIX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 ### Capítulo X,
 
@@ -1683,7 +1733,9 @@ XX. Expedir criterios para la divulgación de normas vigentes dentro del ámbito
 
 XXI. Coordinar la conformación de un sistema integrado de inventarios y encuestas sobre recursos naturales y medio ambiente;
 
-XXII. Definir con el apoyo técnico de la Dirección General Adjunta de Informática, las metodologías que habrán de utilizarse a través de Internet para coadyuvar en la realización de las Actividades Geográficas y del Medio Ambiente, previo a su implantación, así como emitir, recibir y, en su caso, atender las observaciones que se formulen sobre las mismas;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+XXII. Definir en colaboración con la Coordinación General de Informática, las metodologías que habrán de utilizarse a través de Internet para coadyuvar en la realización de las Actividades Geográficas y del Medio Ambiente, previo a su implantación, así como emitir, recibir y, en su caso, atender las observaciones que se formulen sobre las mismas;
 
 XXIII. Coadyuvar en la celebración de convenciones nacionales convocadas en el marco del Subsistema Nacional de Información Geográfica y del Medio Ambiente con el objeto de establecer los acuerdos que permitan la identificación de los requerimientos de información sobre el territorio nacional en materia de geografía y medio ambiente, que tienen los sectores gubernamental, empresarial y social;
 
@@ -1709,8 +1761,6 @@ XXX. Coordinar la elaboración, actualización y conservación de los metadatos 
 
 XXXI. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, delimitaciones geográficas y demás elementos que permitan garantizar la homogeneidad y comparación de la información geográfica desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
 XXXII. Generar e integrar estadísticas básicas y derivadas con base en encuestas en hogares y en establecimientos económicos, en encuestas especiales, en los censos nacionales de gobierno, y en la explotación de registros administrativos que aporten información sobre el estado de los recursos naturales y el medio ambiente;
@@ -1731,117 +1781,75 @@ XXXV. Coordinar en los levantamientos de información, considerando las caracter
 
 XXVI (SIC). Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 25.
 
 Son atribuciones específicas de la Dirección General Adjunta de Información Geográfica Básica, las siguientes:
 
-(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
-
 I. Desarrollar los proyectos de disposiciones normativas y de propuestas de Información de Interés Nacional para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información geográfica básica, producida por las Unidades del Estado, conforme a lo dispuesto en la Ley;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+II. Promover, en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial, el desarrollo de aplicaciones informáticas para la actualización y validación de los datos geográficos básicos digitales;
 
-II. Promover el desarrollo de aplicaciones informáticas para la actualización y validación de los datos geográficos básicos digitales;
+III. Supervisar la aplicación de la normatividad vigente para la generación y actualización de información geográfica básica a partir del uso de imágenes;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+IV. Realizar con el apoyo de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, la coordinación y concertación con las Unidades del Estado generadoras de información, las acciones necesarias para la producción e intercambio de información geográfica básica;
 
-III. Supervisar la aplicación de la normatividad vigente respecto al uso de las imágenes para la actualización de información geográfica básica;
+V. Estandarizar y normalizar la información geográfica básica para su integración en bases de datos y su explotación en sistemas de información geográfica, en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+VI. Actualizar y mantener, en colaboración con la Coordinación General de Operación Regional, los conjuntos de datos relativos al marco de referencia geodésico; de datos de relieve continental, submarino e insular; de datos topográficos, y nombres geográficos;
 
-IV. Coordinar y concertar con las Unidades del Estado generadoras de información, las acciones necesarias para la producción de información geográfica básica;
+VII. Planificar, coordinar y supervisar las estrategias de adquisiciones y procesamiento de datos de percepción remota en apego a la normatividad aplicable, para satisfacer los requerimientos de los programas del Sistema, a fin de atender las actividades de las distintas Direcciones Generales Adjuntas de la Dirección General de Geografía y Medio Ambiente, las Direcciones Generales del INEGI, las Unidades del Estado, así como de los usuarios del Sistema;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+VIII. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
 
-V. Estandarizar y normalizar la información geográfica básica para su integración en bases de datos y su explotación en sistemas de información geográfica;
+IX. Instalar, operar, integrar, validar y normar la Red Geodésica Nacional, así como, supervisar los trabajos y el mantenimiento de la misma en el ámbito nacional. La Red Geodésica Nacional comprende las redes horizontal, vertical y gravimétrica;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+X. Validar e integrar la información geodésica producida por el Instituto y otras Unidades del Estado, que cumplan la normatividad técnica, a la base de datos establecida por la Dirección General de Geografía y Medio Ambiente, así como, aquella que se genere derivada de la ejecución de proyectos especiales;
 
-VI. Actualizar y mantener, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, los conjuntos de datos relativos a: marco de referencia geodésico; límites costeros, límites internacionales, límites estatales y municipales; datos de relieve continental, submarino e insular; datos topográficos, y nombres geográficos;
+XI. Coordinar los programas de generación de modelos digitales de elevación y ortoimágenes;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XII. Planificar y coordinar la producción de ortoimágenes digitales a diferentes resoluciones, modelos digitales de elevación y mantener actualizados los productos derivados, intermedios y finales, de acuerdo con los procedimientos previstos por la normatividad aplicable;
 
-VII. Actualizar y mantener el marco geoestadístico nacional, urbano y rural, a través de la planeación de programas nacionales que permitan mantener vigente la información geográfica que garantice su intercambio e interoperabilidad;
+XIII. Planificar y coordinar la validación y procesamiento de las imágenes de sensores remotos para la generación de ortoimágenes y modelos digitales de elevación, y su entrega a la Dirección General Adjunta de Integración de Información Geoespacial para su integración a la base de datos geográfica, con la finalidad de que sean aprovechados en diferentes proyectos de los usuarios, internos y externos del Sistema;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XIV. Asesorar y coadyuvar en la capacitación del personal de las Unidades Administrativas del Instituto, así como a las Unidades del Estado, respecto de la aplicación y observación de la normatividad sobre información geográfica básica en el ámbito de su competencia;
 
-VIII. Supervisar y coordinar las estrategias de adquisición y procesamiento de datos de percepción remota en apego a la normatividad aplicable, para satisfacer los requerimientos de los proyectos nacionales, a fin de atender las actividades de las distintas Direcciones Generales Adjuntas de la Dirección General de Geografía y Medio Ambiente, así como de los usuarios del Sistema.
+XV. Promover el uso de la información geográfica básica, para garantizar su aprovechamiento por los usuarios del Sistema en la toma de decisiones, en los ámbitos público y social;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XVI. Dirigir los programas de trabajo descentralizados de actualización de información geográfica básica, para atender los objetivos del Sistema;
 
-IX. Efectuar inspecciones para verificar la autenticidad de la Información del Sistema, a petición expresa del Titular de la Dirección General de su adscripción. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+XVII. Elaborar y actualizar los archivos vectoriales topográficos, en el ámbito rural a nivel nacional, así como la integración de la correspondiente al ámbito urbano, con la colaboración de la Dirección General Adjunta de Información Geográfica para la Administración Geográfica del Territorio y las Direcciones Regionales y Coordinaciones Estatales del Instituto;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XVIII. Planificar y coordinar la generación de la información topográfica en las escalas 1:20 000, 1:50 0000 y 1:250 0000, así como cualquier otra definida por las necesidades del Sistema;
 
-X. Instalar, operar, integrar, supervisar, validar y normar la Red Geodésica Nacional, así como, supervisar los trabajos y el mantenimiento de la misma en el ámbito central, regional y estatal. La Red Geodésica Nacional comprende las redes horizontal, vertical y gravimétrica;
+XIX. Colaborar en los servicios de mantenimiento de las estaciones terrenas de percepción remota en las que participe el INEGI, así como de las estaciones de la Red Geodésica Nacional Activa y del equipo de medición y radiocomunicación destinado al ejercicio de las atribuciones de su competencia, de acuerdo con información técnica proporcionada para tal efecto por los fabricantes, con el objeto de mantener el mismo en condiciones óptimas de operación y funcionamiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XX. Coordinar con las instancias competentes de los gobiernos del ámbito federal y estatal la realización de trabajos geográficos y cartográficos, necesarios para el cumplimiento de tratados o convenios internacionales;
 
-XI. Validar e integrar la información geodésica producida por el Instituto y otras Unidades del Estado, que cumplan la normatividad técnica, a la base de datos establecida por la Dirección General de Geografía y Medio Ambiente, así como, aquella que se genere derivada de la ejecución de proyectos especiales
+XXI. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de información geográfica básica integrada al Sistema;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXII. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-XII. Coordinar los programas de generación de modelos digitales de elevación, orto imágenes y conversión de la cartografía analógica;
+XXIII. Coordinar la participación del INEGI con organismos nacionales e internacionales, para la administración, operación y mantenimiento de estaciones de recepción de datos satelitales, así como el control en los levantamientos de datos geográficos mediante aeronaves tripuladas y no tripuladas, que contribuyan a la obtención de información geográfica; Coordinar y concertar con las Unidades del Estado acciones para la producción y actualización de información geográfica básica;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXIV. Coordinar y concertar con las Unidades del Estado acciones para la producción y actualización de información geográfica básica;
 
-XIII. Producir ortoimágenes digitales a diferentes resoluciones y mantener actualizados los productos derivados, intermedios y finales, de acuerdo a los procedimientos previstos por la normatividad aplicable
+XXV. Proponer e implementar en los levantamientos de información geográfica básica las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXVI. Dar seguimiento a las solicitudes presentadas por terceros, para levantamientos aéreos y exploraciones geográficas en el territorio nacional, a solicitud del Titular de la Dirección General de Geografía y Medio Ambiente;
 
-XIV. Validar e integrar a la base de datos geográfica la información derivada de los procesos de ortorrectificación (sic) y de generación de modelos digitales de elevación, con la finalidad de que sean aprovechados en diferentes proyectos de usuarios, internos y externos del Sistema.
+XXVII. Implementar mecanismos para el control, conservación y resguardo de los negativos del Acervo Aerofotográfico Histórico Institucional, así como coordinar las actividades de la digitalización e integración a la base de datos geográfica, para permitir el aprovechamiento del acervo en diferentes proyectos de usuarios del Sistema;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXVIII. Supervisar la actualización del software y hardware especializado para la captación y procesamiento de imágenes derivadas de sensores remotos en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial;
 
-XV. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como a las Unidades del Estado, respecto de la aplicación y observación de la normatividad sobre información geográfica básica;
+XXIX. Coordinar con las Unidades del Estado la obtención y distribución de imágenes de sensores remotos para su integración y explotación de las mismas por los usuarios del Sistema;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XXX. Establecer y promover estrategias para la normalización de nombres geográficos para su incorporación al Registro Nacional de Nombres Geográficos;
 
-XVI. Promover el uso de la información geográfica básica, para garantizar su aprovechamiento por los usuarios del Sistema en la toma de decisiones, en los ámbitos público y social;
+XXXI. Dirigir la integración de la información geográfica básica generada por la (sic) Unidades del Estado integrantes del Sistema para su fortalecimiento, y
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XVII. Dirigir los programas de trabajo descentralizados de actualización de información geográfica básica y en específico del marco geoestadístico nacional, con motivo de programas censales y encuestas que realice el Instituto;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XVIII. Elaborar y actualizar la cartografía digital, en los ámbitos urbano y rural a nivel nacional, con la colaboración de las Direcciones Regionales y Coordinaciones Estatales del Instituto;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XIX. Coordinar la generación de la información topográfica en las diferentes escalas definidas por las necesidades del Sistema;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XX. Dirigir la prestación de los servicios de mantenimiento de las estaciones terrenas en las que participe el INEGI, equipo de medición y radiocomunicación destinado al ejercicio de las atribuciones de su competencia, de acuerdo a información técnica proporcionada para tal efecto por los fabricantes, con el objeto de mantener el mismo en condiciones óptimas de operación y funcionamiento;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXI. Coordinar con las instancias competentes de los gobiernos del ámbito federal y estatal la realización de trabajos geográficos y cartográficos, necesarios para el cumplimiento de tratados o convenios internacionales;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXII. Formular recomendaciones que permitan elevar la calidad de los procesos de generación de información del medio ambiente integrada al Sistema;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXIII. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
-
-(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
-
-XXIV. Coordinar la participación del INEGI con organismos nacionales e internacionales, para la administración, operación y mantenimiento de estaciones de recepción de datos satelitales, así como el control en los levantamientos de datos geográficos mediante aeronaves tripuladas y no tripuladas, que contribuyan a la obtención de información geográfica;
-
-(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
-
-XXV. Coordinar y concertar con las Unidades del Estado acciones para la producción y actualización de información geográfica;
-
-(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014) (F. DE E. D.O.F. 30 DE DICIEMBRE DE 2014)
-
-XXVI. Proponer e implementar en los levantamientos de información geográfica básica las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXVI (SIC). Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XXXII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 (REFORMADO, D.O.F. 31 DE AGOSTO DE 2010) (F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)
 
@@ -1851,9 +1859,9 @@ Son atribuciones específicas de la Dirección General Adjunta de Recursos Natur
 
 I. Desarrollar proyectos de disposiciones normativas para someterlas a consideración del Director General de su adscripción, sobre los procesos de generación, integración, validación y explotación de información sobre recursos naturales y medio ambiente, producida por las Unidades Administrativas del Instituto y demás Unidades del Estado conforme a lo dispuesto en la Ley;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-II. Coordinar las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad de las encuestas o módulos de encuestas, y levantamientos muestrales, sobre el estado de los recursos naturales y el medio ambiente;
+II. Coordinar las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, la documentación, evaluación y control de calidad de las encuestas o módulos de encuestas, y levantamientos muestrales, sobre el estado de los recursos naturales y el medio ambiente para su integración al Sistema y el programa de planeación territorial;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1871,29 +1879,33 @@ V. Proporcionar información, generada dentro de su ámbito de competencia, con 
 
 VI. Coordinar y concertar con las Unidades del Estado generadoras de información las acciones necesarias para el diseño de la infraestructura conceptual y la producción de información estadística básica e indicadores del medio ambiente para unificar la generación de información por parte de las Unidades del Estado;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-VII. Dirigir la producción y actualización de información geográfica digital de recursos naturales a través del cumplimiento de la normatividad establecida, para conformar el inventario de recursos naturales y garantizar su integración al Sistema, en coordinación con las Direcciones Regionales y Coordinaciones Estatales y promover su uso y explotación;
+VII. Dirigir la producción y actualización de información geográfica digital de recursos naturales, para conformar el inventario de recursos naturales y garantizar su integración al componente de ordenamiento territorial;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-VIII. Coordinar la producción y actualización de información geográfica del medio ambiente para apoyar las actividades de mitigación y adaptación al cambio climático, conforme lo establece el marco legal y normativo correspondiente;
+VII Bis. Coordinar la producción y actualización de información geográfica digital de recursos naturales a través de la interpretación de imágenes de satélite en cumplimiento de la normatividad establecida, para conformar el inventario de recursos naturales, así como su integración al Sistema, en coordinación con las Direcciones Regionales y Coordinaciones Estatales y promover su uso y explotación;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-IX. Producir y actualizar la información de los usos a los que se destina el territorio nacional y garantizar su integración al Sistema;
+VIII. Coordinar la producción y actualización de información geográfica del medio ambiente para apoyar las actividades de mitigación y adaptación al cambio climático y Ordenamiento Territorial, conforme lo establece el marco legal y normativo correspondiente;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-X. Promover el uso de técnicas de modelaje para construir escenarios de simulación del cambio y distribución de los recursos naturales sobre el territorio nacional;
+IX. Producir y actualizar la información de los usos a los que se destina el territorio nacional y garantizar su integración al Subsistema Nacional de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XI. Desarrollar propuestas de regionalización territorial, apoyadas en la información estadística y geográfica contenidas en el Sistema;
+X. Promover el uso de técnicas de modelaje para construir escenarios de simulación del cambio y distribución de los recursos naturales sobre el territorio nacional, para su integración al componente de ordenamiento territorial;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XII. Realizar análisis físicos y químicos de suelos y aguas, de rocas, fósiles y minerales, taxonómicos de plantas, para la correcta clasificación de los recursos naturales, mediante el uso de técnicas y procedimientos establecidos;
+XI. Desarrollar propuestas de regionalización territorial, apoyadas en la información estadística y geográfica contenidas en el Sistema, para su incorporación al componente de ordenamiento territorial;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+XII. Realizar análisis físicos y químicos de suelos y aguas, de rocas, fósiles y minerales, taxonómicos de plantas, para la correcta clasificación de los recursos naturales apoyada en la interpretación de imágenes de satélite y otros procedimientos establecidos;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1915,9 +1927,9 @@ XVI. Asesorar a las Unidades del Estado, en la explotación de los resultados de
 
 XVII. Desarrollar y proponer metodologías, relativas a conceptualización, levantamiento, aprovechamiento, procesamiento y explotación de encuestas y registros administrativos del medio ambiente, por parte de las Unidades del Estado y asesorarlos en su implementación para garantizar su aprovechamiento por los usuarios del Sistema en la toma de decisiones, en los ámbitos público y social;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XVIII. Desarrollar en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial la base de datos de su competencia, incluyendo los archivos digitales resultantes de la generación e integración de información de recursos naturales, con la finalidad de que sean aprovechados en diferentes proyectos de usuarios, internos y externos del Sistema;
+XVIII. Desarrollar en coordinación con la Dirección General Adjunta de Integración de Información Geoespacial la base de datos de su competencia, incluyendo los archivos digitales resultantes de la generación e integración de información de recursos naturales, con la finalidad de que sean aprovechados por usuarios, internos y externos del Sistema para homogenizar su integración a diversos proyectos del componente de Ordenamiento Territorial;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1943,45 +1955,59 @@ XXIII. Proponer e implementar en los levantamientos de información de encuestas
 
 XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 27.
 
-Son atribuciones específicas de la Dirección General Adjunta de Información Catastral y Registral, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Información Geográfica para la Administración del Territorio, las siguientes:
 
-I. Elaborar y proponer proyectos con de (sic) las disposiciones normativas y técnicas para su aplicación por parte de las Unidades del Estado, en los procesos de generación, validación, homologación, armonización, integración y explotación de información catastral y registral, utilizando para ello estándares y referencias nacionales e internacionales sobre dicha materia;
+I. Elaborar y proponer proyectos con las disposiciones normativas y técnicas, para su aplicación por parte de las Unidades del Estado, en los procesos de generación, validación, homologación, armonización, integración y explotación de información relativa a catastro y registro público de la propiedad, asentamientos humanos, ordenamiento territorial y desarrollo urbano, utilizando para ello estándares y referencias nacionales e internacionales sobre dicha materia;
 
-II. Coadyuvar con las Unidades del Estado en la capacitación y el desarrollo del diseño conceptual y metodológico que permita la homologación y armonización de la información catastral y registral, con base en la normatividad que para tal fin establezca el Instituto, a efecto de lograr su comparabilidad en el tiempo y en el espacio;
+II. Coordinar el desarrollo de disposiciones que establezcan los criterios para el acceso, uso, consulta y distribución de la información del Marco Geoestadístico por parte de las Unidades del Estado;
 
-III. Coordinar y concertar con las Unidades del Estado, acciones de organización, modernización y vinculación de los catastros y registros públicos de la propiedad para la generación, higiene, estandarización, cruce, integración y publicación de información catastral y registral de los bienes inmuebles, en bases de datos compartidas, considerando los protocolos de resguardo, principios de confidencialidad y seguridad informática para su integración en el Subsistema de Información Geográfica y del Medio Ambiente;
+III. Coadyuvar con las Unidades del Estado en la capacitación y el desarrollo del diseño conceptual y metodológico, que permita la homologación y armonización de la información catastral y registral, de asentamientos humanos, ordenamiento territorial y desarrollo urbano, con base en la normatividad que para tal fin establezca el Instituto, a efecto de lograr su comparabilidad en el tiempo y en el espacio;
 
-IV. Concertar trabajos de medición y generación de productos cartográficos en los diferentes catastros, así como, brindar asesoría y apoyo técnico en la materia, con el objeto de incorporar información al Subsistema de Información Geográfica y del Medio Ambiente; y realizar la inscripción que sobre los catastros de los municipios y de las Entidades Federativas deba hacerse en el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+IV. Coordinar y concertar con las Unidades del Estado acciones de organización, modernización y vinculación de los registros administrativos, que permitan el establecimiento del proceso para su aprovechamiento en la generación de información estadística y geográfica, relativa a los temas de catastro y registro de la propiedad, asentamientos humanos, ordenamiento territorial y desarrollo urbano, en bases de datos compartidas, considerando los protocolos de resguardo, principios de confidencialidad y seguridad informática, para su integración en el Subsistema Nacional de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano;
 
-V. Participar en las tareas de aplicación e implementación de tecnologías para la generación, integración, resguardo, mantenimiento y publicación de datos catastrales y registrales de los bienes inmuebles, así como brindar soporte técnico a las Unidades del Estado que lo soliciten, en el aprovechamiento de la información estadística y geográfica en la materia, y en el desarrollo de sistemas de información geográfica catastral y registral;
+V. Planificar, coordinar y administrar los procesos de diseño, implementación y aplicación de tecnologías, para la producción, validación, integración, resguardo, mantenimiento y publicación del Marco Geoestadístico y de los datos relativos a los límites costeros, internacionales, estatales y municipales, en coordinación con la Dirección General Adjunta de Información Geográfica Básica, para el fortalecimiento del Sistema;
 
-VI. Convenir la integración y actualización de la información geográfica en materia catastral y registral de bienes inmuebles, que proporcionen las Unidades del Estado, como insumo para el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+VI. Concertar trabajos de medición y generación de productos cartográficos en los diferentes catastros, así como brindar asesoría y apoyo técnico en la materia, con el objeto de incorporar información al Subsistema Nacional de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano; y realizar la inscripción que sobre los catastros de los municipios y de las entidades federativas deba hacerse en el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-VII. Elaborar informes relativos a la integración de la documentación derivada de los levantamientos catastrales, su concertación, soporte técnico, edición cartográfica y gestión;
+VII. Participar en las tareas de diseño, aplicación e implementación de tecnologías para la generación, validación, integración, resguardo, mantenimiento y publicación de datos catastrales y registrales de los bienes inmuebles, de asentamientos humanos, ordenamiento territorial y desarrollo urbano, así como brindar soporte técnico a las Unidades del Estado que lo soliciten, en el aprovechamiento de la información estadística y geográfica para la administración del territorio y en la implementación de sistemas de información relativa a la materia catastral y registral;
 
-VIII. Elaborar, actualizar y conservar los metadatos y especificaciones concretas de la aplicación de las metodologías y catálogos que se hubieren utilizado para la generación, procesamiento e integración de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, que permita conformar un archivo histórico para su análisis espacial y temporal, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+VIII. Convenir el desarrollo de proyectos que mediante la especificación de necesidades, se diseñe, construya, recolecte, procese, analice, difunda y evalúe la información proveniente de registros administrativos relativos a la materia catastral y registral, de asentamientos humanos, ordenamiento territorial y desarrollo urbano, que proporcionen las Unidades del Estado, como insumo para el Registro Nacional de Información Geográfica, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-IX. Proporcionar información, generada dentro del ámbito de su competencia, con el objeto de alimentar el Sistema de Cuentas Nacionales, así como promover la generación y difusión de productos que contengan la temática catastral y registral, y sus respectivas metodologías, que coadyuven a la caracterización de las condiciones del territorio en la materia y al fortalecimiento de los procesos catastrales y registrales que llevan a cabo las Unidades del Estado, para su difusión por parte de la Dirección General de Vinculación y Servicio Público de Información;
+IX. Elaborar informes relativos a la integración de la documentación derivada de los levantamientos catastrales, su concertación, soporte técnico, edición cartográfica y gestión;
 
-X. Formular recomendaciones que permitan elevar la calidad de los procesos y su mejora continua sobre la integración de información catastral y registral de la propiedad inmobiliaria al Sistema;
+X. Elaborar, actualizar y conservar los metadatos y especificaciones concretas de la aplicación de las metodologías y catálogos que se hubieren utilizado para la generación, procesamiento e integración de información en el ámbito de su competencia, así como implementar mecanismos para el control, conservación y resguardo de la información a su cargo, que permita conformar un archivo histórico para su análisis espacial y temporal, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-XI. Proponer y promover lineamientos para la conservación y resguardo de la información catastral y registral de la propiedad inmobiliaria, de las bases de datos y productos cartográficos en las Unidades del Estado;
+XI. Proporcionar información generada dentro del ámbito de su competencia, con el objeto de alimentar al Sistema de Cuentas Nacionales, así como promover la generación y difusión de productos que contengan la temática catastral, registral, asentamientos humanos, ordenamiento territorial, desarrollo urbano y del Marco Geoestadístico, y sus respectivas metodologías, que coadyuven a la caracterización de las condiciones del territorio que llevan a cabo las Unidades del Estado;
 
-XII. Coordinar y realizar los procesos de recopilación, integración, homologación, armonización, análisis, y presentación de resultados de los datos catastrales y registrales de bienes inmuebles, que realicen las Direcciones Regionales y Coordinaciones Estatales del Instituto;
+XII. Formular recomendaciones que permitan elevar la calidad de los procesos y su mejora continua sobre la integración de información catastral y registral de la propiedad inmobiliaria, asentamientos humanos, ordenamiento territorial y desarrollo urbano, al Sistema;
 
-XIII. Promover el cumplimiento y la debida aplicación de la normatividad técnica vigente en materia catastral desarrollada por el INEGI en el marco del SNIEG, que realicen las Unidades del Estado, mediante el seguimiento y supervisión continuos;
+XIII. Proponer y promover lineamientos para la conservación y resguardo de la información de las bases de datos y de los productos cartográficos de las Unidades del Estado en los temas de catastro, registro público de la propiedad, asentamientos humanos, ordenamiento territorial y desarrollo urbano;
 
-XIV. Conformar, actualizar y administrar la base cartográfica catastral nacional que se integre con la información catastral y registral estandarizada, proveniente de las Unidades del Estado, para el fortalecimiento del Sistema Nacional de Información Estadística y Geográfica;
+XIV. Coordinar y realizar los procesos de recopilación, validación, integración, homologación, armonización, análisis, y presentación de datos catastrales y registrales de bienes inmuebles, asentamientos humanos, de límites costeros, internacionales, estatales y municipales, y de ordenamiento territorial y desarrollo urbano, que realicen las Direcciones Regionales y Coordinaciones Estatales del Instituto, conjuntamente con la Coordinación General de Operación Regional;
 
-XV. Proponer e implementar en los levantamientos de información catastral y registral las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite, y
+XV. Promover el cumplimiento y la debida aplicación, por parte de las Unidades del Estado, de la normatividad técnica vigente, desarrollada por el INEGI en el marco del Sistema, en materia catastral, asentamientos humanos, ordenamiento territorial y desarrollo urbano, límites costeros internacionales, estatales y municipales y del Marco Geoestadístico, mediante asesorías, capacitación, seguimiento y supervisión continuos;
 
-XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XVI. Proponer e implementar en los levantamientos de información catastral, registral, asentamientos humanos, ordenamiento territorial y desarrollo urbano y del Marco Geoestadístico, las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+XVII. Participar en proyectos nacionales e internacionales en los que se asesore y fortalezca el uso, interpretación, acceso, consulta, intercambio y publicación del Marco Geoestadístico;
+
+XVIII. Efectuar inspecciones para verificar la autenticidad de la información catastral y registral del Sistema Nacional de Información Estadística y Geográfica, a petición expresa del Titular de la Dirección General de Geografía y Medio Ambiente. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones normativas aplicables;
+
+XIX. Planear y dirigir en coordinación con la Dirección General Adjunta de Información Geográfica Básica, la actualización y mantenimiento de la base cartográfica única y el Marco Geoestadístico, a través de programas nacionales, que permitan mantener vigente la información geográfica y sus catálogos, que garanticen su intercambio e interoperabilidad, incluyendo su publicación periódica;
+
+XX. Coadyuvar a la integración de información para la administración del territorio, a través del desarrollo de investigaciones en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, para el fortalecimiento del Subsistema de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano;
+
+XXI. Coordinar y concertar con las Unidades del Estado productoras de información, las acciones necesarias que permitan la generación de indicadores para la administración del territorio;
+
+XXII. Coordinar las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información, documentación, evaluación y control de calidad de las secciones o módulos catastrales y territoriales, sobre la gestión y desempeño de las Unidades del Estado responsables de estas materias, en coordinación con la Dirección General Adjunta de Políticas de Información Gubernamental y Censos Nacionales de Gobierno, y
+
+XXIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 28.
 
@@ -1995,29 +2021,35 @@ III. Generar lineamientos y manuales de procedimientos técnicos para la integra
 
 IV. Coordinar la recepción, integración y evaluación de la información geográfica de Interés Nacional, y establecer la concertación de acuerdos y convenios con diversas organizaciones para el Registro Nacional de Información Geográfica en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
 
-V. Dirigir en coordinación con la Dirección General Adjunta de Informática, las tareas de desarrollo, explotación y aplicación de tecnologías para la integración, respaldo y mantenimiento de datos, así como, brindar soporte para el desarrollo y uso de aplicaciones informáticas de los sistemas de información geográfica, visualización de información geográfica y del medio ambiente, producción de cartografía básica y temática y los servicios de información geográfica en Web;
+V. Dirigir de forma coordinada con la Coordinación General de Informática, las tareas de desarrollo, explotación y aplicación de tecnologías para la integración, respaldo y mantenimiento de datos geoespaciales, así como, brindar soporte para el desarrollo y uso de aplicaciones informáticas de los sistemas de información geográfica, visualización de información geográfica y del medio ambiente, producción de cartografía básica y temática y los servicios de información geográfica en Web;
 
-VI. Planear y operar en coordinación con la Dirección General Adjunta de Informática la prestación de servicios y aplicaciones en materia de tecnologías de la información, de acuerdo a los requerimientos planteados por la Dirección General de su adscripción y sus Direcciones Generales Adjuntas a fin de facilitar la generación, conservación, diseminación y explotación de información geográfica y del medio ambiente, y permitir el aprovechamiento del acervo contenido en las bases de datos para proporcionar soluciones cliente, servidor web, para usuarios internos y externos del Sistema;
+VI. Coordinar los requerimientos planteados por la Dirección General de su adscripción y sus Direcciones Generales Adjuntas en materia de prestación de servicios y aplicaciones en materia de tecnologías de la información y comunicación para la generación, conservación, diseminación y explotación de información geográfica y del medio ambiente, a efecto de dar seguimiento y canalizar lo referente a dichos servicios a la Coordinación General de Informática para su atención;
 
 VII. Desarrollar e implantar soluciones geomáticas, basadas en sistemas de información geográfica para el apoyo a la gestión de las Unidades Administrativas del Instituto y las Unidades del Estado que soliciten el apoyo Institucional;
 
-VIII. Coordinar tareas de inscripción de información geográfica, a cargo de las Direcciones Regionales, Coordinaciones Estatales del Instituto y las Unidades del Estado integradas al Subsistema de Información Geográfica y del Medio Ambiente;
+VIII. Coordinar tareas de inscripción de información geográfica, a cargo de las Direcciones Regionales, Coordinaciones Estatales del Instituto y las Unidades del Estado integradas al Subsistema Nacional de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano;
 
 IX. Proponer, en colaboración con la Dirección General del Vinculación y Servicio Público de Información, mecanismos para publicar la información inscrita en los diferentes registros de información geográfica operados por las Unidades del Estado;
 
-X. Generar productos geográficos y cartográficos, en medios analógicos y digitales, a través del análisis, diseño, integración, validación, edición, digitalización e impresión para su divulgación en coordinación con la Dirección General Adjunta de Comunicación, de la Dirección General de Vinculación y Servicio Público de Información;
+X. Generar productos geográficos y cartográficos, en medios digitales, analógicos y de relieve, a través del análisis, diseño, integración, validación, edición, digitalización e impresión para su divulgación en coordinación con la Dirección General Adjunta de Comunicación, de la Dirección General de Vinculación y Servicio Público de Información;
 
-XI. Supervisar la cobertura de los conjuntos de datos y componentes de integridad de la información geográfica y del medio ambiente que se distribuye para su comercialización;
+XI. Planear y operar la prestación del servicio de graficación de cartografía, de acuerdo con los requerimientos planteados por la Dirección General de su adscripción y sus Direcciones Generales Adjuntas a fin de atender las necesidades en las diferentes etapas de la generación de los productos cartográficos e información geográfica;
 
-XII. Integrar y actualizar de manera permanente el acervo de información geográfica, al cual se incorporará la generada por las Unidades del Estado en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
+XII. Supervisar la cobertura de los conjuntos de datos y componentes de integridad de la información geográfica y del medio ambiente que se distribuye para su comercialización;
 
-XIII. Formular recomendaciones que permitan elevar la calidad de los procesos de integración de información geográfica al Sistema;
+XIII. Integrar y actualizar de manera permanente el acervo de información geográfica, al cual se incorporará la generada por las Unidades del Estado en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
 
-XIV. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+XIV. Formular recomendaciones que permitan elevar la calidad de los procesos de integración de información geográfica al Sistema;
 
-XV. Integrar y editar información geográfica para la publicación de estudios temáticos estatales, sectoriales y regionales, y
+XV. Establecer directrices y procedimientos para la higiene y cruces de información proveniente de registros administrativos que tengan relación con el ámbito geográfico y del medio ambiente;
 
-XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XVI. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Planeación e Infraestructura;
+
+XVII. Integrar y editar información geográfica para la publicación de estudios temáticos estatales, sectoriales y regionales;
+
+XVIII. Realizar análisis sobre las tendencias en materia geográfica y del medio ambiente que tengan por objeto la actualización de procesos para la generación de información geoespacial de acuerdo con las buenas prácticas internacionales, y
+
+XIX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2051,13 +2083,19 @@ VI. Coordinar el análisis estadístico de series de tiempo económicas, así co
 
 VII. Entregar notas técnicas para la elaboración de boletines de prensa sobre los indicadores económicos de coyuntura, en coordinación con la Dirección General de Vinculación y Servicio Público de Información;
 
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VII Bis. Dirigir, en coordinación con las Unidades Administrativas del Instituto, el acceso por parte de usuarios especializados a los microdatos de las encuestas y censos que realice el Instituto, de acuerdo con los procedimientos y condiciones que establezca la Junta de Gobierno;
+
 VIII. (DEROGADA, D.O.F. 23 DE MAYO DE 2013)
 
 IX. Coordinar las actividades necesarias para cumplir los compromisos de entrega de información generada por el Instituto para su incorporación a los Informes de Ejecución y de Gobierno de la Presidencia de la República;
 
 X. Investigar los estándares y las mejores prácticas internacionales en las materias competencia del Instituto, con el objeto de que sea tomado en cuenta para las actividades relacionadas con la producción, integración, conservación y difusión de información;
 
-XI. Coordinar la vinculación del Instituto con el sector académico en temas relacionados a la investigación, la capacitación y el intercambio de información estadística y geográfica;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+XI. Coordinar la vinculación del Instituto con los centros de investigación y en la formación de recursos humanos;
 
 XII. Dirigir la realización de investigaciones y estudios temáticos, sectoriales y regionales;
 
@@ -2151,13 +2189,23 @@ III. Integrar el Programa Anual de Investigación del Instituto y someterlo por 
 
 IV. Dirigir, editar e integrar la revista internacional técnico-científica de información estadística y geográfica oficial del Instituto;
 
-V. Dirigir la estrategia, coordinar y programar los temas de vinculación y cooperación entre el Instituto y el sector académico;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-VI. Dirigir la estrategia, coordinar y programar los temas de vinculación y cooperación entre el Instituto y las unidades u oficinas dedicadas a la generación o apoyo a la investigación técnica y científica, dentro y fuera del sector académico;
+V. Dirigir la estrategia, coordinar y programar la cooperación en materia de investigación entre el Instituto y los centros de investigación;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VI. Dirigir la estrategia, coordinar y programar los temas de formación y especialización de alto nivel de recursos humanos entre el Instituto y los centros de docencia e investigación, dentro y fuera del sector académico;
 
 VII. Coordinar la organización y logística de eventos nacionales o internacionales tipo seminario, coloquio, taller y similares, destinados al debate o presentación de trabajos de investigación, mejores prácticas o alternativas metodológicas de interés para el Sistema;
 
-VIII. Coordinar las actividades del Consejo Consultivo Académico, y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VIII. Coordinar las actividades de investigación que se deriven de los acuerdos del Consejo Consultivo de Usuarios y del Consejo Consultivo Académico, en coordinación con las Unidades Administrativas del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VIII Bis. Diseñar e implementar los mecanismos para el acceso por parte de usuarios especializados a los microdatos de las encuestas y censos que realice el Instituto, de acuerdo con los procedimientos y condiciones que establezca la Junta de Gobierno, y
 
 IX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
@@ -2181,9 +2229,9 @@ III. Coordinar la elaboración de los informes anuales, sexenales y otros que el
 
 IV. Normar y coordinar el Registro Nacional de Información Geográfica y el Registro Estadístico Nacional, en los que deberán registrarse al menos las Instituciones y Unidades Generadoras de Información Geográfica, las Instituciones y Unidades Administrativas con funciones Estadísticas del Sector Público, así como la referencia básica de la información estadística y geográfica que se genera, en el inventario correspondiente;
 
-> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-V. Conducir y concertar el diseño conceptual y arquitectura informática de la Red Nacional de Información, para coordinar los procesos de Intercambio de información del Sistema, y Resguardo de la Información de Interés Nacional del Sistema, así como del apoyo al Servicio Público de Información;
+V. Conducir y concertar el diseño conceptual de la Red Nacional de Información, para coordinar los procesos de intercambio de información del Sistema, y resguardo de la Información de Interés Nacional del Sistema, así como del apoyo al Servicio Público de Información, en colaboración con la Coordinación General de Informática;
 
 > <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
@@ -2234,6 +2282,14 @@ XIX. Bis Coordinar, con el apoyo de las Unidades Administrativas del Instituto, 
 > <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 XX. Coordinar la integración de las acciones de capacitación y actualización de los servidores públicos de las Unidades del Estado, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+XX Bis. Promover entre las Unidades Administrativas del Instituto y demás Unidades del Estado, a través de los Órganos Colegiados del Sistema que refiere el artículo 8 de la Ley, la adopción de acciones tendientes a lograr que la información incorporada al Sistema se sujete a los principios rectores del mismo, que para tal efecto establece el artículo 3 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+XX Ter. Coordinar la integración y análisis de las necesidades de información requeridas por las Unidades del Estado que participan en los órganos colegiados del Sistema, con el propósito de contribuir a identificar y priorizar la información estadística y geográfica que debe ser producida e integrada al Sistema para que con ello se cumpla con lo establecido en el artículo 3 de la Ley, de suministrar a la sociedad y al Estado información de calidad, pertinente, veraz y oportuna a efecto de coadyuvar al desarrollo nacional, y
 
 XXI. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
@@ -2299,7 +2355,13 @@ IV. Desarrollar e implementar acciones de coordinación entre los órganos coleg
 
 V. Elaborar propuestas de políticas y lineamientos para el desarrollo de proyectos sobre normatividad, su conocimiento, aplicación y seguimiento, para contribuir a ordenar y normar la producción, integración, difusión y aprovechamiento de la Información estadística y geográfica, incorporada al Sistema;
 
-VI. Promover entre las Unidades Administrativas del Instituto y demás Unidades del Estado, a través de los Organos Colegiados del Sistema que refiere el artículo 8 de la Ley, la adopción de acciones tendientes a lograr que la información incorporada al Sistema se sujete a los principios rectores del mismo, que para tal efecto establece el artículo 3 de la Ley;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VI. Llevar a cabo las acciones de integración y análisis de las necesidades de información planteadas en el seno de los órganos colegiados del Sistema;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+VI Bis. Llevar a cabo las acciones de coordinación con las Unidades Administrativas del Instituto para realizar el análisis de temas relacionados con el Sistema, para proponer mejoras al funcionamiento del mismo;
 
 VII. Elaborar el informe con los resultados de las actividades de los Comités Ejecutivos de los Subsistemas, correspondiente al año inmediato anterior y someterlos a consideración del Director General de su adscripción;
 
@@ -2413,167 +2475,137 @@ XV. Las facultades que expresamente le otorga a su Titular el artículo 13 de es
 
 De la Dirección General de Vinculación y Servicio Público de Información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 38.
 
 Son atribuciones específicas de la Dirección General de Vinculación y Servicio Público de Información, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+I. Dirigir y coordinar la estrategia de vinculación entre el Instituto y los poderes ejecutivo y legislativo; organismos autónomos; medios de comunicación; sector privado, sector académico y organismos no gubernamentales; a nivel federal, estatal y municipal, así como con organismos internacionales, para fomentar el desarrollo del Sistema y promover el aprovechamiento y uso de la información estadística y geográfica;
 
-I. Coordinar, programar, gestionar y dar seguimiento a los temas estratégicos de vinculación entre el Instituto y los Poderes Ejecutivo y Legislativo; organismos autónomos; agencias internacionales; medios de comunicación; sector privado, y organismos no gubernamentales;
+II. Dirigir y coordinar la estrategia de vinculación internacional, en sus cuatro vertientes de participación en foros gubernamentales y asociaciones de alto nivel; la representación en grupos de expertos; asistencia técnica a las instituciones homólogas en los países; así como la participación en acciones de formación de capacidades;
 
-II. Promover, desarrollar y consolidar vínculos con las organizaciones listadas en la fracción anterior, para obtener y proporcionar información estadística y geográfica de acuerdo con las necesidades del Instituto, de los usuarios y de los informantes del Sistema;
+III. Programar y dar seguimiento a las actividades internacionales del Instituto, estableciendo comunicación con los institutos de estadística y geografía de otros países, organismos de cooperación multilateral, para impulsar las relaciones de intercambio de información sobre normas, estándares y recomendaciones utilizadas en los diversos países y organismos en materia de estadística y geográfica;
 
-III. Orientar y coordinar las acciones de comunicación social del Instituto, así como, apoyar y asesorar a las Unidades Administrativas en dicha materia;
+IV. Supervisar y dar seguimiento a las acciones internacionales tendientes a la suscripción de convenios, acuerdos, proyectos y programas de cooperación técnica y científica de carácter internacional en que participe el Instituto;
 
-IV. Coordinar y dirigir las acciones de comunicación social para promover entre los representantes de los medios de comunicación el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
+V. Fungir como vínculo entre el Instituto y la Secretaría de Relaciones Exteriores en temas relacionados con la cooperación internacional;
 
-V. Dirigir y coordinar la estrategia de vinculación internacional, programar, y dar seguimiento a las actividades internacionales del Instituto, estableciendo comunicación con los institutos de estadística y geografía de otros países, organismos de cooperación multilateral, sus representaciones en el país, así como con las representaciones diplomáticas en el territorio nacional;
+VI. Coordinar y dar seguimiento al Programa Anual de Viajes al Extranjero de las diversas Unidades Administrativas del Instituto para cumplir con sus programas de trabajo;
 
-VI. Dirigir, coordinar y dar seguimiento a las acciones de cooperación bilateral y multilateral del Instituto para impulsar las relaciones de intercambio de información sobre normas, estándares y recomendaciones utilizadas en los diversos países y organismos en materia de estadística y geografía;
+VII. Registrar la atención que en términos de las disposiciones aplicables se dé a las solicitudes de Información de Interés Nacional, que formulen gobiernos extranjeros u organismos y/o agencias internacionales; atendidas por dependencias y/o entidades de la administración pública federal; los poderes Ejecutivo, Legislativo y Judicial; organismos autónomos; sector privado, sector académico y organismos no gubernamentales;
 
-VII. Coordinar, cuando así se requiera, la capacitación en el extranjero de los recursos humanos del Instituto, a través de las instancias conducentes y foros internacionales, así como la capacitación de recursos humanos del extranjero en el Instituto;
+VIII. Coordinar los eventos internacionales que organiza el Instituto, que tengan por objeto dar seguimiento a actividades y compromisos a cargo del mismo;
 
-VIII. Fungir como enlace ante la Secretaría de Relaciones Exteriores en temas relacionados con la cooperación internacional;
+IX. Dirigir y coordinar la estrategia de evaluación de la satisfacción de los usuarios con respecto a la información estadística y geográfica que genera e integra el Instituto;
 
-IX. Supervisar y dar seguimiento a las acciones internacionales tendientes a la suscripción de convenios, acuerdos, proyectos y programas de cooperación técnica y científica de carácter bilateral y multilateral en que participe el Instituto;
+X. Dirigir y coordinar la estrategia para promover el conocimiento y uso de la información estadística y geográfica que genera e integra el Instituto;
 
-X. Coordinar y dar seguimiento al programa anual de viajes al extranjero de las diversas Unidades Administrativas del Instituto para cumplir con sus programas de trabajo;
+XI. Dirigir la ejecución del Programa Anual de Productos que realiza el Instituto, estableciendo los mecanismos que permitan controlar la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
 
-XI. Coordinar y dar seguimiento a la atención de solicitudes de información estadística y geográfica derivada de los compromisos internacionales del Instituto;
+XII. Dirigir y coordinar la estrategia de comunicación externa del Instituto, incluida la relativa a los medios de comunicación y redes sociales;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2013)</small>
+XIII. Dirigir y coordinar la estrategia de comunicación interna del Instituto, así como la comunicación e imagen de los eventos internos del Instituto;
 
-XI Bis. Tomar conocimiento y llevar un registro de la atención que en términos de las disposiciones aplicables se dé a las solicitudes de Información de Interés Nacional, que formulen gobiernos extranjeros u organismos y agencias internacionales, a las dependencias y entidades de la Administración Pública Federal, al Poder Judicial de la Federación, al Poder Legislativo Federal, a organismos constitucionales autónomos, a los poderes Ejecutivo, Legislativo y Judicial de las entidades federativas, a organizaciones o agrupaciones de los sectores social o privado o a particulares;
+XIV. Dirigir y coordinar la prestación del Servicio Público de la Información, así como la difusión de la información estadística y geográfica que genera e integra el Instituto;
 
-XII. Coordinar la organización y logística de eventos internacionales en los que participe el Instituto, que tengan por objeto dar seguimiento a actividades y compromisos a cargo del mismo, incluidos aquéllos que se lleven a cabo en las instalaciones del INEGI;
+XV. Dirigir y coordinar la estrategia de difusión de la información estadística y geográfica a través de Internet, con base a las mejores prácticas internacionales y a la estrategia de comunicación del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XVI. Proponer las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información, difusión, identidad institucional y de promoción de la información estadística y geográfica que genera e integra el Instituto y supervisar su aplicación;
 
-XIII. Dirigir la prestación del Servicio Público de Información Estadística y Geográfica en apego a las normas que al efecto dicte la Junta de Gobierno;
+XVII. Hacer del conocimiento de la Junta de Gobierno, las propuestas del Calendario de difusión de información estadística y geográfica y de Interés Nacional del INEGI y del Calendario de publicación de Información de Interés Nacional del Sistema, y sus revisiones, para su aprobación y difusión;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XVIII. Dirigir y coordinar la estrategia de datos abiertos de la información estadística y geográfica generada por el Instituto;
 
-XIV. Proponer, aplicar y dirigir las políticas, normas y procedimientos para la promoción y difusión de la información estadística y geográfica que producen las Unidades del Estado e integra el Instituto;
+XIX. Coordinar el mecanismo de detección de las necesidades de información estadística y geográfica del Sistema, en colaboración con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, y
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+XX. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
-XIV Bis. Presentar a la Junta de Gobierno la propuesta de calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, para su aprobación;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XV. Proponer y aplicar estrategias, políticas y las disposiciones normativas en materia de atención a usuarios y comercialización de productos y servicios respecto a la información generada por el Instituto;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Proponer y aplicar la normatividad relativa a la Identidad Institucional;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Coordinar la operación y el registro de salida de la información del Instituto a los usuarios del Sistema;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Dirigir, en coordinación con las Unidades Administrativas del Instituto, el acceso a los microdatos de las encuestas nacionales y muestras representativas de los operativos censales que realice el Instituto, de acuerdo a los procedimientos y condiciones que establezca la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XIX. Coordinar la ejecución del Programa Anual de Productos que realiza el Instituto, estableciendo los mecanismos que permitan controlar y mantener la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XX. Evaluar la satisfacción de los usuarios de la información y llevar a cabo la detección de necesidades de información estadística y geográfica que genera e integra el Instituto;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXI. Dirigir y coordinar las acciones de comunicación para promover el conocimiento y uso de la información estadística y geográfica que genera e integra el Instituto, y
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XXII. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
-
-XXIII. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2014)
-
-XXIV. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2014)
-
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 39.
 
-Son atribuciones específicas de la Dirección General Adjunta de Comunicación las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Comunicación, las siguientes:
 
-I. Administrar la prestación del Servicio Público de Información;
+I. Planear en coordinación con las Unidades Administrativas del Instituto, la evaluación de la satisfacción de los usuarios de la información estadística y geográfica que genera e integra el Instituto;
 
-II. Diseñar e implementar los mecanismos para el acceso a los microdatos de las encuestas nacionales y muestras representativas de los operativos censales que realice el Instituto, de acuerdo a los procedimientos y condiciones que establezca la Junta de Gobierno;
+II. Diseñar y producir contenidos y materiales gráficos y audiovisuales, para promover el conocimiento y uso de la información estadística y geográfica;
 
-III. Operar el Programa Anual de Productos, así como, diseñar y supervisar la aplicación de los mecanismos que permitan controlar y mantener la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
+III. Proponer las disposiciones normativas en materia de identidad institucional, edición y desarrollo de productos;
 
-IV. Administrar la Imprenta del Instituto;
+IV. Coordinar el Programa Anual de Productos, así como, diseñar y supervisar la aplicación de los mecanismos que permitan controlar la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
 
-> <small>(F. DE E., D.O.F. 30 DE DICIEMBRE DE 2014)</small>
+V. Diseñar la estrategia de difusión de la información estadística y geográfica que genera e integra el Instituto;
 
-V. Diseñar e Implementar la estrategia de promoción del conocimiento y uso de la información estadística y geográfica que genera e integra el Instituto;
+VI. Diseñar campañas de comunicación en medios tradicionales y digitales para promover el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
 
-VI. Diseñar, coordinar y administrar el Sitio del INEGI en Internet y administrar la difusión de información que genere el Instituto por medios electrónicos, de acuerdo a las mejores prácticas internacionales;
+VII. Dirigir las acciones de comunicación social del Instituto, así como promover y capacitar a los medios de comunicación en el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+VIII. Dirigir la estrategia de comunicación del Instituto a través de las redes sociales, así como administrar las cuentas institucionales de estos medios;
 
-VII. Integrar y presentar a la Dirección General el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, previa consulta a las Unidades Administrativas del Instituto;
+IX. Asesorar a las Unidades Administrativas en temas de comunicación;
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+X. Coordinar la comunicación organizacional para fortalecer la identidad y cultura institucional;
 
-VII Bis. Difundir el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, una vez autorizado por la Junta de Gobierno;
+XI. Coordinar las acciones de comunicación de los eventos internos del Instituto;
 
-VIII. Proponer e implementar las disposiciones normativas en materia de atención a usuarios, edición y difusión de información estadística y geográfica, así como de productos y servicios que genera el Instituto;
+XII. Fomentar y coordinar la estrategia de comunicación del uso y aprovechamiento de la información estadística y geográfica que genera e integra el Instituto, a través de los productos y servicios educativos de la Secretaría de Educación Pública, y
 
-VIII (SIC). Coordinar la estrategia de promoción y difusión de la información estadística y geográfica en los Centros de Información del Instituto;
+XIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-IX. Implementar en coordinación con las Unidades Administrativas del Instituto, la evaluación de la satisfacción de los usuarios y detección de necesidades de información estadística y geográfica que genera e integra el Instituto;
-
-X. Proponer disposiciones tendientes a normar la Identidad Institucional;
-
-XI. Dirigir la generación y conservación de videos para promover el conocimiento y uso de información estadística y geográfica así como la integración del banco de imágenes;
-
-> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
-
-XI Bis. Proponer y aplicar las políticas de comunicación organizacional e instrumentar los mecanismos para la difusión de contenidos que fortalezcan la identidad y cultura institucional;
-
-XII. Implementar las acciones de comunicación social del Instituto, así como, apoyar y asesorar a las Unidades Administrativas en dicha materia;
-
-XIII. Diseñar e implementar las campañas masivas de comunicación para promover el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
-
-XIV. Diseñar e implementar la estrategia de difusión de la información estadística y geográfica que genera e integra el Instituto;
-
-XV. Diseñar e implementar la estrategia de datos abiertos de la información estadística y geográfica generada e integrada por el Instituto;
-
-XVI. Operar el servicio de atención a usuarios a través del Centro de Atención de Llamadas, y
-
-XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 40.
 
-Son atribuciones de la Dirección General Adjunta de Vinculación con el Poder Legislativo las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Vinculación, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+I. Coordinar la vinculación entre el Instituto y los Poderes Ejecutivo y Legislativo; organismos autónomos; sector privado; sector académico y organismos no gubernamentales; a nivel federal, para fomentar el desarrollo del Sistema y promover el aprovechamiento y uso de la información estadística y geográfica;
 
-I. Fungir como enlace del Instituto ante las Cámaras del Congreso de la Unión;
+II. Fungir como enlace del Instituto ante los Poderes Ejecutivo y Legislativo; organismos autónomos; sector privado; sector académico y organismos no gubernamentales; a nivel federal, para promover el aprovechamiento y uso de la información estadística y geográfica;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+III. Coordinar la atención de las solicitudes y requerimientos de información de los Poderes Ejecutivo y Legislativo Federal, así como del sector privado, sector académico y organismos no gubernamentales;
 
-II. Atender las solicitudes y requerimientos de información de las Cámaras del Congreso de la Unión;
+IV. Coordinar las acciones ante las instancias competentes de los Poderes Ejecutivo y Legislativo Federal sobre iniciativas de ley y decretos que guarden relación con la materia competencia del Instituto;
 
-III. Llevar a cabo trámites ante las instancias competentes del Gobierno Federal sobre iniciativas de leyes y decretos que guarden relación con las materias competencia del Instituto;
+V. Coordinar las comparecencias y presentaciones de la Junta de Gobierno y otros servidores públicos del Instituto ante las diversas instancias del Poder Legislativo Federal;
 
-IV. Coordinar las comparecencias y presentaciones del Presidente y, en su caso, de los Vicepresidentes y otros servidores públicos del Instituto ante las diversas instancias del Congreso de la Unión;
+VI. Proponer ante las instancias competentes, previa opinión de la Coordinación General de Asuntos Jurídicos, proyectos de iniciativas y reformas a la Ley relacionadas con las materias competencia del Instituto;
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+VII. Coordinar las actividades del Consejo Consultivo Académico y del Consejo Consultivo de Usuarios, y
 
-V. Proponer ante las instancias competentes, con la opinión de la Coordinación General de Asuntos Jurídicos, proyectos de iniciativas y reformas de leyes relacionadas con las materias competencia del Instituto, y
+VIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-VI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+###### ARTICULO 40 Bis.
+
+Son atribuciones específicas de la Dirección General Adjunta del Servicio Público de Información, las siguientes:
+
+I. Coordinar el diseño de las disposiciones normativas en materia del Servicio Público de Información, datos abiertos, atención a usuarios, detección de necesidades de información y promoción de la información estadística y geográfica que genera e integra el Instituto, a través de los canales establecidos, incluido Internet;
+
+II. Integrar las propuestas del Calendario de difusión de información estadística y geográfica y de Interés Nacional del INEGI y del Calendario de publicación de Información de Interés Nacional del Sistema y sus revisiones, previa consulta a las Unidades Administrativas del Instituto y de las Unidades del Estado, para su aprobación y difusión;
+
+III. Coordinar la prestación del Servicio Público de Información Estadística y Geográfica;
+
+IV. Establecer en conjunto con la Coordinación General de Operación Regional los criterios y el programa de trabajo para operar la estrategia de promoción de la información estadística y geográfica;
+
+V. Coordinar el servicio de atención a usuarios a través del Centro de Atención de Llamadas;
+
+VI. Coordinar la entrega de información estadística y geográfica generada e integrada por el Instituto, a través de los canales establecidos;
+
+VII. Diseñar y coordinar la estrategia de datos abiertos de la información estadística y geográfica;
+
+VIII. Diseñar la arquitectura de información del Sitio del INEGI en Internet considerando las mejores prácticas internacionales en materia de organización de la información, usabilidad y accesibilidad, así como la estrategia de comunicación del Instituto;
+
+IX. Coordinar la publicación de la información estadística y geográfica que genera e integra el Instituto en el Sitio del INEGI en Internet;
+
+X. Diseñar, desarrollar y mantener el Sitio del INEGI en Internet, en colaboración con la Coordinación General de Informática;
+
+XI. Proponer soluciones de información para el Sitio del INEGI en Internet que conlleven a mejorar el acceso a la información estadística y geográfica;
+
+XII. Implementar y dar seguimiento al mecanismo de detección de necesidades de información estadística y geográfica del Sistema, en coordinación con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
+
+XIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 ### Capítulo XIV,
 
@@ -2807,9 +2839,9 @@ XXV. Las facultades que expresamente le otorga a su Titular el artículo 13 de e
 
 Son atribuciones específicas de la Dirección General Adjunta de Recursos Materiales y Servicios Generales, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-I. Coordinar con las Unidades Administrativas del Instituto, la revisión, depuración, actualización o formulación de disposiciones normativas en materia de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, de organización y conservación de archivos, así como de administración de bienes muebles e inmuebles, servicios generales, protección civil y sistemas de manejo ambiental, conforme a la normatividad aplicable;
+I. Coordinar la revisión, depuración, actualización o formulación de disposiciones normativas en materia de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, de organización y conservación de archivos, así como de administración de bienes muebles e inmuebles, servicios generales, protección civil y sistemas de manejo ambiental, conforme a la normatividad aplicable;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2833,17 +2865,17 @@ VII. Coordinar la administración de los bienes muebles e inmuebles propiedad de
 
 VIII. Administrar los inmuebles del Instituto; asignar, distribuir y redistribuir áreas o espacios a las Unidades Administrativas, así como determinar y supervisar el uso y destino de los mismos, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-IX. Coordinar las acciones en materia de archivos, conforme a la normatividad aplicable;
+IX. Coordinar las acciones en materia de organización y conservación de archivos, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-X. Establecer y supervisar el cumplimiento de los programas Interno de Protección Civil y los que integran el Sistema de Manejo Ambiental, a través de sus respectivos comités;
+X. Coordinar los sistemas Institucional de Protección Civil y de Manejo Ambiental, observando la legislación y normatividad aplicable en las materias;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-XI. Coordinar la actuación de los Comités de Adquisiciones, Arrendamientos y Servicios; de Bienes Muebles; de Obras Públicas y Servicios Relacionados con las Mismas; de Valoración Documental; del Sistema de Manejo Ambiental; y de la Unidad Central de Protección Civil del Instituto; en términos de la normatividad aplicable;
+XI. Coordinar la actuación de los Comités de Adquisiciones, Arrendamientos y Servicios; de Bienes Muebles; de Obras Públicas y Servicios Relacionados con las Mismas; de Valoración Documental; del Sistema de Manejo Ambiental; y de Protección Civil del Instituto; en términos de la normatividad aplicable;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2949,9 +2981,9 @@ VII. Autorizar, mediante oficio, a los servidores públicos del Instituto que fu
 
 VIII. Interponer los juicios de amparo o comparecer como terceros perjudicados; así como instrumentar en representación del Instituto, de los miembros de la Junta de Gobierno, de su Presidente, de los Titulares de las Unidades Administrativas, así como de sus servidores públicos, los informes previos y justificados en los juicios de amparo en que sean requeridos como autoridades responsables e interponer toda clase de recursos o medios impugnativos, así como, intervenir en el cumplimiento de las resoluciones respectivas;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-IX. Presentar denuncias de hechos y querellas ante el Ministerio Público u otras autoridades competentes en representación del Instituto; coadyuvar en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Instituto o en los que éste tenga interés jurídico, otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes del Instituto relacionados con averiguaciones previas, procedimientos judiciales o administrativos de cualquier naturaleza; así como, denunciar o formular querella ante el Ministerio Público por los hechos que puedan constituir delitos de los servidores públicos del Instituto, allegarse de los elementos probatorios del caso y darle la intervención correspondiente al Órgano Interno de Control;
+IX. Presentar denuncias de hechos y querellas ante el Ministerio Público u otras autoridades competentes en representación del Instituto; coadyuvar en la integración de las carpetas de investigación y en el trámite de los procesos que afecten al Instituto o en los que éste tenga interés jurídico, otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes del Instituto relacionados con carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza; así como, denunciar o formular querella ante el Ministerio Público por los hechos que puedan constituir delitos de los servidores públicos del Instituto, allegarse de los elementos probatorios del caso y darle la intervención correspondiente al Órgano Interno de Control;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3007,9 +3039,9 @@ XXIV. Expedir copias certificadas de los documentos que obren en los archivos de
 
 XXV. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-Para el desahogo de las atribuciones que este numeral confiere a la Coordinación General de Asuntos Jurídicos, el Titular de la misma contará con el auxilio del Director de Consultoría Jurídica, el Director de Asuntos Contenciosos y el Director de Seguimiento de Acuerdos de la Junta de Gobierno, en quienes podrá delegar aquellas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Coordinación General de Asuntos Jurídicos.
+Para el desahogo de las atribuciones que este numeral confiere a la Coordinación General de Asuntos Jurídicos, el Titular de la misma contará con el auxilio de la Dirección de Consultoría Jurídica, la Dirección de Asuntos Contenciosos y la Dirección de Análisis Normativo y Seguimiento a Junta de Gobierno, en quienes podrá delegar aquellas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Coordinación General de Asuntos Jurídicos.
 
 > <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3544,3 +3576,15 @@ D.O.F. 29 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
 
 SEGUNDO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Contraloría Interna, se entenderán hechas al Órgano Interno de Control, así como a las áreas administrativas establecidas en el presente Acuerdo de conformidad con las competencias que a cada una corresponda.
+
+D.O.F. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
+
+SEGUNDO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de (sic) presente publicación, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+TERCERO.- A la entrada en vigor del presente Acuerdo de reforma, los asuntos en trámite se atenderán por las Unidades Administrativas a que hace referencia este Acuerdo de reforma y de conformidad con las atribuciones conferidas.
+
+CUARTO.- Para las Direcciones Generales Adjuntas referidas en los artículos 16, 21, 27 y 40 del Reglamento, que cambian de denominación, los servidores públicos que venían ocupando la titularidad del cargo, continuarán ocupándolo con la nueva denominación. La Dirección General de Administración emitirá los respectivos nombramientos una vez que entre en vigor el presente Acuerdo de reforma.
