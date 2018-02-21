@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cambio-climatico-para-el-estado-y-municipios-de-110125"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-23"
-last_updated: "2015-09-23"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2015.
 
@@ -351,11 +351,15 @@ Facultades del Consejo Zacatecano de Ciencia, Tecnología e Innovación
 
 Corresponde al Consejo Zacatecano de Ciencia, Tecnología e Innovación, promover e incentivar la creación de programas de investigación científica y tecnológica, el desarrollo, transferencia de tecnologías, equipos y procesos para la mitigación y adaptación al Cambio Climático, así como la captación de fondos concurrentes para financiar la realización de proyectos en esta materia y las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
 
-Facultades de la Secretaría de Infraestructura.
+> <small>(REFORMADO SU PROEMIO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Facultades de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Infraestructura:
+Corresponde a la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial:
 
 I. Promover a través de la Subsecretaría de Vivienda, el desarrollo de vivienda sustentable que contemple el uso de energías renovables, arquitectura bioclimática, aprovechamiento de agua de lluvia y el manejo sustentable de los residuos sólidos y aditamentos o mecanismos que impulsen el ahorro y cuidado del agua así como fomentar e implementar aditamentos que coadyuven al ahorro de energía al interior y exterior de las viviendas;
 
@@ -765,9 +769,13 @@ VIII. El Secretario del Campo;
 
 IX. El Secretario de Infraestructura;
 
-X. El Director General de los Servicios de Salud del Estado, y
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-XI. El Director General del Consejo Zacatecano de Ciencia, Tecnología e Innovación.
+X. El Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
+
+XI. El Director General de los Servicios de Salud del Estado, y
+
+XII. El Director General del Consejo Zacatecano de Ciencia, Tecnología e Innovación.
 
 Cada dependencia y entidad participante deberá designar a una de sus unidades administrativas, por lo menos a nivel de dirección, como la encargada de coordinar y dar seguimiento permanente a los trabajos de la Comisión Intersecretarial.
 
@@ -937,7 +945,7 @@ II. La estrategia definirá la orientación de la Política Estatal, identifican
 
 III. La estrategia, será parte del Sistema Estatal de Planeación Democrática, por lo que deberá ser considerado en la integración de los planes estatal y municipal de desarrollo, y
 
-IV. La estrategia, será elaborada por la Secretaría, con la participación activa de la sociedad en los términos previstos por el presente ordenamiento. La Secretaría, emitirá una norma técnica que establezca el contenido mínimo y metodología requerida pará su integración.
+IV. La estrategia, será elaborada por la Secretaría, con la participación activa de la sociedad en los términos previstos por el presente ordenamiento. La Secretaría, emitirá una norma técnica que establezca el contenido mínimo y metodología requerida para su integración.
 
 Procedimiento para su elaboración
 
@@ -2044,3 +2052,13 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
