@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-metropolitano-del-estado-de-zacatecas-77749"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-04"
-last_updated: "2013-03-23"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de diciembre de 2010.
 
@@ -107,25 +107,31 @@ V. El titular de la Unidad de Planeación del Poder Ejecutivo;
 
 VI. El Secretario de Infraestructura;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VII. El Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
+
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII. El Secretario del Agua y Medio Ambiente;
+VIII. El Secretario del Agua y Medio Ambiente;
 
-VIII. El Presidente de la Comisión de Fortalecimiento Municipal de la Legislatura del Estado;
+IX. El Presidente de la Comisión de Fortalecimiento Municipal de la Legislatura del Estado;
 
-IX. El Presidente de la Comisión de Desarrollo Económico y Turismo de la Legislatura del Estado;
+X. El Presidente de la Comisión de Desarrollo Económico y Turismo de la Legislatura del Estado;
 
-X. El Presidente de la Comisión de Obras Públicas y Desarrollo Urbano de la Legislatura del Estado;
+XI. El Presidente de la Comisión de Obras Públicas y Desarrollo Urbano de la Legislatura del Estado;
 
-XI. El Presidente de la Comisión de Desarrollo Metropolitano de la Cámara de Diputados del Honorable Congreso de la Unión;
+XII. El Presidente de la Comisión de Desarrollo Metropolitano de la Cámara de Diputados del Honorable Congreso de la Unión;
 
-XII. Presidente de la Comisión de Desarrollo Urbano y Ordenación Territorial de la Cámara de Senadores del Honorable Congreso de la Unión;
+XIII. Presidente de la Comisión de Desarrollo Urbano y Ordenación Territorial de la Cámara de Senadores del Honorable Congreso de la Unión;
 
-XIII. El Delegado en el Estado de la Secretaría de Desarrollo Social, y
+XIV. El Delegado en el Estado de la Secretaría de Desarrollo Social, y
 
-XIV. El Delegado en el Estado de la Secretaría de Medio Ambiente y Recursos Naturales.
+XV. El Delegado en el Estado de la Secretaría de Medio Ambiente y Recursos Naturales.
 
-Los servidores públicos señalados en las fracciones VIII, IX, X, XI, XII, XIII Y XIV de este artículo, tendrán el carácter de invitados especiales permanentes, con derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Los servidores públicos señalados en las fracciones IX, X, XI, XII, XIII, XIV y XV de este artículo, tendrán el carácter de invitados especiales permanentes, con derecho a voz pero no a voto.
 
 ###### Artículo 8.
 
@@ -209,11 +215,11 @@ XVII. Las demás que establezca la presente Ley, su reglamento y demás disposic
 
 ### CAPÍTULO IV. DEL NOMBRAMIENTO Y FACULTADES DEL SECRETARIO TÉCNICO DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 13.
 
-El Consejo contará con un Secretario Técnico, que será un servidor público de la Secretaría de Infraestructura del Estado de Zacatecas, quien deberá tener rango de subsecretario.
+El Consejo contará con un Secretario Técnico, que será un servidor público de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Estado de Zacatecas, quien deberá tener rango de Subsecretario.
 
 ###### Artículo 14.
 
@@ -322,3 +328,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 218.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
