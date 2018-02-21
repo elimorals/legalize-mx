@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-prioritaria-para-las-personas-con-95849"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2018-02-12"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95849&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2013-09-12"
 ---
 # LEY DE ATENCION PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACION DE VULNERABILIDAD EN LA CIUDAD DE MEXICO -- ANTES LEY DE ATENCION PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACION DE VULNERABILIDAD EN EL DISTRITO FEDERAL --
 
-LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL
+LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de septiembre de 2013.
 
@@ -44,131 +44,197 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS C
 
 Se expide la Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en el Distrito Federal, para quedar como sigue:
 
-LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE FEBRERO DE 2018)</small>
+
+LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente ley son de orden público, interés social y observancia general en el Distrito Federal, y tienen por objeto normar las medidas y acciones que garanticen a las personas con discapacidad y en situación de vulnerabilidad, la atención prioritaria en los trámites y servicios que presta la Administración Pública del Distrito Federal.
+Las disposiciones contenidas en la presente ley son de orden público, interés social y observancia general en la Ciudad de México, y tienen por objeto normar las medidas y acciones que garanticen a las personas con discapacidad y en situación de vulnerabilidad, la atención preferencial en los trámites y servicios que presta la Administración Pública de la Ciudad de México y de carácter privado, en las modalidades que este orden normativo estipule.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2.
 
+Son principios rectores de la presente Ley, los siguientes:
+
+I. La progresividad.
+
+II. La equidad;
+
+III. La justicia social;
+
+IV. La igualdad de oportunidades;
+
+V. La participación e inclusión plenas y efectivas en la sociedad;
+
+VI. El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas;
+
+VII. La accesibilidad;
+
+VIII. La no discriminación;
+
+IX. La igualdad entre mujeres y hombres con discapacidad; y
+
+X. Los demás que resulten aplicables, conforme a los Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos haya firmado y ratificado.
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 3.
+
 Para los efectos de esta ley, se entiende por:
 
-I.- Ley.- Ley de Atención Prioritaria para las Personas con Discapacidad y en situación de Vulnerabilidad en el Distrito Federal;
+I. Ley.- Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en la Ciudad de México;
 
-II.- Reglamento.- El Reglamento de la Ley de Atención Prioritaria para las Personas con Discapacidad y en situación de Vulnerabilidad en el Distrito Federal;
+II. Reglamento.- El Reglamento de la Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en la Ciudad de México;
 
-III.- Personas con discapacidad.- Todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que le impide realizar una actividad normal.
+III. Persona con Discapacidad.- Todo ser humano que presenta, temporal o permanentemente, alguna o varias deficiencias parciales o totales en sus facultades físicas, intelectuales o sensoriales, que le limiten la capacidad de realizar una o más actividades de la vida diaria, y que puede ser agravada por el entorno económico o social;
 
-III (SIC).- Personas en situación de vulnerabilidad.-
+IV. Personas en situación de vulnerabilidad.-
 
 a) Adultos Mayores de 60 años;
 
 b) Madres con hijas e hijos menores de 5 años;
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+c) Mujeres embarazadas; y
 
-c) Mujeres embarazadas;
+d) Mujeres jefas de familia.
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+V. Secretaría.- Secretaría de Desarrollo Social de la Ciudad de México;
 
-d) Mujeres jefas de familia; y
+VI. Trámites y servicios públicos.- Los realizados o prestados por Dependencias, Órganos Desconcentrados, Entidades y Órganos Político Administrativos de la Administración Pública de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2017)</small>
+VII. Trámites y servicios privados.- Los realizados o prestados por los particulares, ya sea en su calidad de personas físicas o morales.
 
-e) Personas pertenecientes a las comunidades indígenas.
+VIII. Catálogo Único de Servicios.- Listado de los servicios y trámites que se realizan en cada una de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, relacionados con materia de esta Ley; y
 
-IV.- Secretaría.- Secretaría de Desarrollo Social del Distrito Federal;
+IX. Diseño Universal.- Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten.
 
-V.- Trámites y Servicios Públicos.- Los realizados o prestados por Dependencias, Órganos Desconcentrados, Entidades y Órganos Político Administrativos de la Administración Pública del Distrito Federal;
-
-VI.- Trámites y Servicios Privados.- Los realizados o prestados por los particulares sean personas físicas o morales;
-
-VII.- Catalogo Único de Servicios: Listado de los servicios y trámites que se realizan en cada una de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, relacionados con la materia de esta Ley.
-
-###### Artículo 3.
-
-Para el acceso a la atención prioritaria en la realización de trámites y la prestación de servicios, la Secretaría expedirá una credencial en los módulos que se instalen para tal efecto, siempre y cuando los solicitantes cumplan con los requisitos que se señalen en la presente Ley y en su Reglamento.
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 4.
 
-La Secretaría realizará campañas de difusión y hará del conocimiento público la ubicación de los módulos, así como los días y horarios de atención.
+Para el acceso a la atención prioritaria en la realización de trámites y la prestación de servicios, la Secretaría expedirá una credencial en los módulos que se instalen para tal efecto, siempre y cuando los solicitantes cumplan con los requisitos que se señalen en la presente Ley y en su Reglamento.
 
-Las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal, deberán colocar en un lugar visible el aviso de atención prioritaria.
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 5.
 
-Las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal, se encuentran obligadas a brindar atención prioritaria y de acceso inmediato, con trato digno, respetuoso y no discriminatorio, contando con espacios de fácil acceso y confortables, así como con personal específico y capacitado para su atención, para la realización de trámites y la prestación de servicios a personas con discapacidad y en situación de vulnerabilidad.
+La Secretaría realizará campañas de difusión y hará del conocimiento público la ubicación de los módulos, así como los días y horarios de atención.
 
-## TITULO SEGUNDO
+Las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública de la Ciudad de México, deberán colocar en un lugar visible el aviso de atención preferencial.
 
-### CAPÍTULO I. DE LA ATENCIÓN EN LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2018)</small>
+## TÍTULO SEGUNDO
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO I. DE LA ATENCIÓN EN LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 6.
 
-La atención prioritaria se otorgará en los trámites y servicios que de manera enunciativa más no limitativa se señalen en el Catálogo Único de Servicios, que será publicado anualmente por la Secretaría, en la Gaceta Oficial del Distrito Federal.
+Las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública de la Ciudad de México, se encuentran obligadas a brindar atención preferencial en la realización de trámites y la prestación de servicios a personas con discapacidad y en situación de vulnerabilidad.
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 7.
 
-A fin de que las personas con discapacidad y en situación de vulnerabilidad tengan la seguridad de la atención prioritaria al realizar trámites y solicitud de servicios, se instalará una línea telefónica y una página de internet en cada Dependencia, Órgano Desconcentrado y Entidades de la Administración Pública del Distrito Federal, a través de la cual de manera inmediata podrán reportar cualquier incumplimiento al presente ordenamiento.
+La atención preferencial se otorgará en los trámites y servicios que de manera enunciativa más no limitativa se señalen en el Catálogo Único de Servicios, que será publicado anualmente por la Secretaría, en la Gaceta Oficial de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 8.
 
-Los servidores públicos están obligados a dar cumplimiento a lo establecido en la presente Ley, quedando sujetos al procedimiento que derive de la Ley Federal de Responsabilidades de Servidores Públicos, en caso de incumplimiento.
+A fin de que las personas con discapacidad y en situación de vulnerabilidad tengan la seguridad de la atención preferencial al realizar trámites y solicitud de servicios, se instalará una línea telefónica y una página de internet en cada Dependencia, Órgano Desconcentrado y Entidades de la Administración Pública de la Ciudad de México, a través de la cual de manera inmediata podrán reportar cualquier incumplimiento al presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 9.
 
-Las personas físicas o morales que presten servicios de carácter privado en el Distrito Federal, podrán sumarse a las disposiciones establecidas en la presente Ley, a través de convenios celebrados con el Gobierno del Distrito Federal por conducto de la Secretaría, en el que se establezcan los servicios y trámites brindados a personas con discapacidad y en situación de vulnerabilidad.
+Los servicios públicos están obligados a dar cumplimiento a lo establecido en la presente Ley, quedando sujetos al procedimiento que derive de la Ley Federal de Responsabilidades de Servidores Públicos, en caso de incumplimiento.
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ### CAPÍTULO II. DE LA ATENCIÓN POR PERSONAS FÍSICAS O MORALES DE CARÁCTER PRIVADO
 
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 10.
 
-En los convenios que se celebren entre las personas físicas o morales y la Secretaría, para el otorgamiento de atención prioritaria en los trámites y servicios, de carácter privado, se describirán los compromisos de los particulares a favor de las personas con discapacidad y en situación de vulnerabilidad, que a continuación se indican:
+Las personas físicas o morales que presten servicios de carácter privado en la Ciudad de México, podrán sumarse a las disposiciones establecidas en la presente Ley, a través de convenios celebrados con el Gobierno de la Ciudad de México por conducto de la Secretaría, en el que se establezcan los servicios y trámites brindados a personas con discapacidad y en situación de vulnerabilidad.
 
-I.- Dar atención y acceso inmediato, con trato digno, respetuoso y no discriminatorio;
-
-II.- Contar con espacios de fácil acceso y confortables;
-
-III.- Designar personal específico para su atención; y
-
-IV.- Otorgar precios y tarifas preferentes.
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11.
 
-Para el cumplimiento de la presente Ley y con el objetivo de garantizar a las personas con discapacidad y en situación de vulnerabilidad una atención prioritaria en la realización de todos los trámites y la prestación de los servicios públicos, la Secretaría expedirá y entregará a los interesados, una credencial que contará con fotografía y nombre completo del interesado, situación de vulnerabilidad o discapacidad en el que se encuentre, así como la vigencia de la misma.
+En los convenios que se celebren entre las personas físicas o morales y la Secretaría, para el otorgamiento de atención preferencial en los trámites y servicios, de carácter privado, se describirán los compromisos de los particulares a favor de las personas con discapacidad y en situación de vulnerabilidad, que a continuación se indican:
 
-Artículo 13 (SIC).- La credencial será intransferible y se entregará el mismo día que se solicite en los módulos que al efecto se instalen. Para su otorgamiento se deberá cumplir con los requisitos siguientes:
+I. Dar atención y acceso inmediato, con trato digno, respetuoso y no discriminatorio;
 
-I.- Las mujeres jefas de familia, embarazadas y/o con hijos menores de 5 años, deberán presentar:
+II. Contar con espacios apegados al diseño universal, mismos que deberán ser confortables y de fácil acceso;
 
-a).- Identificación Oficial; y en su caso,
+III. Designar personal capacitado para su atención; y
 
-b).- Copia certificada del acta de nacimiento de sus hijas o hijos; ó
+IV. Otorgar precios y tarifas preferenciales.
 
-c).- Certificado médico de gravidez.
-
-II.- Los adultos mayores de 60 años, deberán presentar:
-
-a).- Identificación Oficial;
-
-b).- Copia certificada del acta de nacimiento.
-
-III.- Las personas con discapacidad, deberán presentar:
-
-a).- Identificación Oficial;
-
-b).- Constancia médica o Dictamen que dé cuenta de su discapacidad.
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ## TÍTULO TERCERO
 
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
 ### CAPÍTULO ÚNICO. DE LA CREDENCIAL
+
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 12.
+
+Para el cumplimiento de la presente Ley y con el objetivo de garantizar a las personas con discapacidad y en situación de vulnerabilidad una atención preferencial en la realización de todos los trámites y la prestación de los servicios públicos, la Secretaría expedirá y entregará a los interesados, una credencial que contará con fotografía y nombre completo del interesado, situación de vulnerabilidad o discapacidad en que se encuentre, así como la vigencia de la misma.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 13.
+
+La Secretaría promoverá la credencialización de las personas con discapacidad y en situación de vulnerabilidad, informando de los beneficios de la misma, con la finalidad de contar con una base de datos confiable para la elaboración de estadísticas.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 14.
+
+La credencial será intransferible y se entregará el mismo día que se solicite en los módulos que al efecto se instalen. Para su otorgamiento se deberá cumplir con los requisitos siguientes:
+
+I. Las mujeres jefas de familia y mujeres con hijos menores de 5 años deberán presentar:
+
+a) Identificación Oficial; y en su caso
+
+b) Copia certificada no mayor a 3 meses de vigencia, del acta de nacimiento de sus hijas o hijos;
+
+II. Las mujeres embarazadas deberán presentar:
+
+a) Identificación Oficial; y
+
+b) Certificado de gravidez, expedido por Institución de Salud Pública;
+
+III. Los adultos mayores de 60 años, deberán presentar;
+
+a) Identificación Oficial; y
+
+b) Copia certificada del acta de nacimiento;
+
+IV. Las personas con discapacidad, deberán presentar:
+
+a) Identificación Oficial; y
+
+b) Acreditar su discapacidad con documento expedido por alguna institución pública de salud de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -201,3 +267,13 @@ G.O. 12 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 21 DE FEBRERO DE 2018.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN PRIORITARIA PARA LAS PERSONAS CON DISCAPACIDAD Y EN SITUACIÓN DE VULNERABILIDAD EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
