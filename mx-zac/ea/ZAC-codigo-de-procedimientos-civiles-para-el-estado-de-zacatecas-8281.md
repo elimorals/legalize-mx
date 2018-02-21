@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2017-03-29"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -4667,6 +4667,12 @@ Para que se suspenda la tramitación de la inscripción así como para que se ha
 
 La oposición se tramitará en la vía ordinaria y si el poseedor deja transcurrir seis meses sin promover en el juicio, quedará sin efecto su oposición, haciéndose en su caso la cancelación que proceda.
 
+(NOTA: EL 12 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+662 Bis. Cuando se trate de bienes inmuebles destinados a la prestación de servicios públicos, así como a la infraestructura de los Entes Públicos estatales o municipales no inscritos en el registro en favor de persona alguna, no será necesario registrar la posesión como apta para producir la prescripción, bastará con la información testimonial y la inspección judicial para que se tenga por acreditada la prescripción positiva.
+
 ### CAPITULO III. Juicios declarativos de propiedad y reivindicatorios
 
 663.- El que hubiere poseído bienes inmuebles por el tiempo y en las condiciones exigidas por el Código Civil para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de ellos en el Registro Público de la Propiedad, a fin de que se declare que se ha consumado y que ha adquirido la propiedad por virtud de la prescripción.
@@ -6346,3 +6352,11 @@ P.O. 29 DE MARZO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan las disposiciones del presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS EN MATERIA DE ORDENAMIENTO TERRITORIAL Y SE ADICIONA EL ARTÍCULO 662 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
