@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-26083"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-10-15"
-last_updated: "2017-07-07"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26083&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2002-07-11"
 
 ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018 (ABROGADO)
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 15 de octubre de 2002.
 
@@ -1006,3 +1006,15 @@ D.O.F. 7 DE JULIO DE 2017.
 PRIMERO. Las presentes modificaciones entrarán en vigor al día siguiente de su aprobación por su Junta Directiva debiéndose publicar en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones estatutarias o administrativas que se opongan a las presentes.
+
+D.O.F. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de la aprobación y registro de la Estructura Básica por parte de la Secretaría de la Función Pública, la cual fue autorizada por la Junta Directiva del Fondo de Cultura Económica en su segunda sesión ordinaria, celebrada el día 16 de junio de 2017, mediante acuerdo No. SO/II-17/10,R.
+
+SEGUNDO.- Una vez que el Estatuto Orgánico entre en vigor, deberá ser publicado en el Diario Oficial de la Federación.
+
+TERCERO.- A la entrada en vigor del presente Estatuto Orgánico, se abroga el Estatuto Orgánico del Fondo de Cultura Económica, publicado en el Diario Oficial de la Federación el 15 de octubre de 2002, así como sus modificaciones y todas aquellas disposiciones internas de carácter administrativo que se opongan al presente ordenamiento.
+
+CUARTO.- Se instruye al Director General para que, dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Estatuto, realice las modificaciones correspondientes a su normativa interna conforme a lo previsto en el mismo.
