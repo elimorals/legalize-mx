@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2017-12-30"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3961,7 +3961,7 @@ Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado s
 
 ### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 329.
 
@@ -4185,33 +4185,43 @@ La pena se aumentará en una mitad para quienes dirijan, organicen, inciten, com
 
 ###### Artículo 350.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesaria la denuncia correspondiente, misma que podrá ser formulada por cualquier persona.
+Los delitos previstos en este Capítulo se perseguirán de oficio.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 351.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que, sin contar con las autorizaciones respectivas a que se refiere la Ley de Equilibrio Ecológico y Protección al Ambiente, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que, sin contar con las autorizaciones respectivas a que se refiere la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+En el caso de que las conductas a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del Gobierno Estatal o municipal, las penas previstas en este artículo se incrementarán en un cincuenta por ciento.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 352.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que, con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas. Lo anterior, sin perjuicio de las multas y sanciones que ocurran en las citadas disposiciones y normas.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que, con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas. Lo anterior, sin perjuicio de las multas y sanciones que ocurran en las citadas disposiciones y normas.
 
 ###### Artículo 353.
 
-Se impondrá pena de seis meses a diez años de prisión y multa por el equivalente de quinientas a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar graves daños a los ecosistemas, a la salud pública, a la flora o a la fauna. Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+Se impondrá pena de seis meses a diez años de prisión y multa por el equivalente de quinientas a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, sistemas de drenaje o alcantarillado, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar daños a los ecosistemas, a la salud pública, a la flora o a la fauna. Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+En el caso de que las conductas a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del Gobierno Estatal o municipal, las penas previstas en este artículo se incrementarán en un cincuenta por ciento.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 354.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen daños a la salud pública, la flora, la fauna o los ecosistemas.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
@@ -5068,3 +5078,9 @@ P.O. 30 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0706/2018 IX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
