@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2013-03-23"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -35,7 +35,9 @@ DECRETO # 265
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA:
 
-RESULTANDO PRIMERO .
+RESULTANDO PRIMERO
+
+[...]
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 14, fracción I de la Ley Orgánica del Poder Legislativo, 86, párrafo I, 87, 90 y demás relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -137,9 +139,17 @@ XIV. Gereontología: El estudio científico sobre el envejecimiento y las cualid
 
 XV. Perspectiva de Género: Las políticas, programas y acciones cuyo propósito es la promoción y generación de condiciones de igualdad y equidad de oportunidades entre las personas;
 
-XVI. Proceso de envejecimiento: Proceso continuo, heterogéneo, universal e irreversible que determina una pérdida progresiva de la capacidad de adaptación en el ámbito intelectual, social, individual, comunitario y laboral; y
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-XVII. Tanatología: Los estudios encaminados a procurar una muerte digna con cuidados paliativos médicos, atención psicológica y social.
+XVI. Perspectiva de Envejecimiento Activo: el proceso dirigido a optimizar las oportunidades de salud, participación y seguridad, con objeto de mejorar la calidad de vida de las personas a medida que envejecen -entendido como un ciclo más de crecimiento personal-, mediante la prevención de las enfermedades y la discapacidad para aprovechar su potencial de bienestar físico, mental y social. El envejecimiento activo integra la perspectiva de género y la intergeneracionalidad, favoreciendo la igualdad de oportunidades y la autonomía personal;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XVII. Perspectiva del Ciclo Vital: Un enfoque centrado en el análisis de los riesgos sociales, físicos y biológicos presentes durante la gestación, la niñez, la adolescencia, la edad adulta joven y la edad madura que inciden en el riesgo de contraer enfermedades crónicas o alterar el estado de salud en fases posteriores de la vida;
+
+XVIII. Proceso de envejecimiento: Proceso continuo, heterogéneo, universal e irreversible que determina una pérdida progresiva de la capacidad de adaptación en el ámbito intelectual, social, individual, comunitario y laboral; y
+
+XIX. Tanatología: Los estudios encaminados a procurar una muerte digna con cuidados paliativos médicos, atención psicológica y social.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -177,13 +187,29 @@ c) La protección contra toda forma de explotación;
 
 d) Recibir protección por parte de la comunidad, las familias y la sociedad, así como de las instituciones estatales y municipales;
 
-e) Gozar, en igualdad de circunstancias, de oportunidades para mejorar sus capacidades con el propósito de que ello facilite el ejercicio de sus derechos, respetando su heterogeneidad;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+e) Gozar, en igualdad de circunstancias, de oportunidades para mejorar sus capacidades con el propósito de que ello facilite el ejercicio de sus derechos, respetando su heterogeneidad y capacidad para tomar decisiones a fin de realizar contribuciones continuas a la sociedad;
 
 f) Obtener la información gereontológica disponible en los ámbitos médico, jurídico, social, cultural, económico y demás relativos, con el objeto de incrementar su cultura, analizar y accionar programas para contribuir a la prevención y autocuidado para el proceso de envejecimiento;
 
-g) Participar, en reciprocidad con el Estado y la sociedad en general, en el aprovechamiento de las habilidades que sean acordes a su estado físico y mental; y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+g) Participar, en reciprocidad con el Estado y la sociedad en general, en el aprovechamiento de las habilidades que sean acordes a su estado físico y mental;
 
 h) Gozar de espacios de expresión y culturales, en los medios de comunicación y publicaciones del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+i) Ser sujetos de políticas públicas y medidas afirmativas bajo un enfoque de atención diferenciada para promover su desarrollo, teniendo en consideración las causas de la discriminación multifactorial que padecen, a fin de erradicarlas;
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+j) Tener acceso al conjunto de servicios necesarios para elevar su calidad de vida y ampliar su ciclo de vida productiva y biológica; y
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+k) Incorporar un diagnóstico de los problemas y desafíos de las personas mayores en el Plan Estatal de Desarrollo y en la Agenda de Innovación de Zacatecas, para lograr su plena inclusión en la sociedad, el ejercicio efectivo de sus derechos y su progreso.
 
 II. A la certeza jurídica, teniendo derecho a:
 
@@ -191,9 +217,15 @@ a) El disfrute pleno de sus derechos, con perspectiva de género y sin discrimin
 
 b) Recibir un trato digno y apropiado en cualquier procedimiento judicial en que intervengan en calidad de partes, agraviados, indiciados, sentenciados o víctimas del delito;
 
-c) Recibir la asesoría jurídica de manera gratuita por parte de las instituciones del Estado y de los municipios y contar con un representante legal cuando sea necesario; y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-d) A la denuncia popular, por lo que toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley.
+c) Recibir la asesoría jurídica de manera gratuita por parte de las instituciones del Estado y de los municipios y contar con un representante legal cuando sea necesario;
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+d) Una defensa legal adecuada e integral en todos los casos en que sean víctimas de cualquier forma de violencia: maltrato físico, psicológico, emocional, verbal o sexual, negligencia y abandono, despojo patrimonial, falta de respeto, manipulación, ultrajes, estructural o social, legal, económica o patrimonialmente, a fin de garantizar su seguridad y proteger su propiedad personal y familiar; y
+
+e) A la denuncia popular, por lo que toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley.
 
 III. A la salud, alimentación y a la familia, por tanto, se reconoce que tienen derecho a:
 
@@ -219,9 +251,13 @@ IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
 a) Recibir educación de conformidad con lo establecido en (sic) artículo 3º de la Constitución Política de los Estados Unidos Mexicanos; y
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-b) Que las instituciones educativas públicas, privadas estatales y municipales, promuevan por medio de la Secretaría de Educación, que se incluyan en los planes y programas de estudios de los conocimientos relacionados con las personas adultas mayores.
+b) Que las instituciones educativas públicas, privadas estatales y municipales, promuevan por medio de la Secretaría de Educación, que se incluyan en los planes y programas de estudios de los conocimientos relacionados con las personas adultas mayores; y
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+c) Tener acceso a programas de educación incluyente con un enfoque intergeneracional y con perspectiva de género, a fin de coadyuvar a la erradicación de paradigmas excluyentes que propician la discriminación, violencia, maltrato, abandono, aislamiento y abuso de las personas adultas mayores.
 
 V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 
@@ -229,7 +265,13 @@ a) Gozar de igualdad de oportunidades en el acceso al trabajo o en otras opcione
 
 b) Participar en las bolsas de trabajo de las instituciones oficiales y particulares; y
 
-c) Decidir libremente sobre su actividad laboral, salvo que medie incapacidad física o mental declarada por autoridad competente.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+c) Decidir libremente sobre su actividad laboral, salvo que medie incapacidad física o mental declarada por autoridad competente; y
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+d) Contar con mecanismos institucionales y figuras de protección jurídica contra cualquier forma de trabajo forzoso, explotación y acoso en su lugar de trabajo.
 
 VI. A la asistencia social, por tanto, se reconoce que tienen derecho a:
 
@@ -237,7 +279,9 @@ a) Ser beneficiarios de los programas de asistencia social, cuando se encuentren
 
 b) Ser sujetos de los programas asistenciales para contar con una vivienda digna y adaptada a sus necesidades, así como de aquellos otros apoyos que les permitan el libre desplazamiento en espacios laborales, comerciales, oficiales, recreativos y de transporte;
 
-c) Tener acceso a una casa hogar o albergue, así como a otras alternativas de atención integral, si están en situación de riesgo o desamparo;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+c) Tener acceso a una casa hogar o albergue diurno o las 24 horas, como la o el adulto mayor lo prefieran, así como a otras alternativas de atención integral, si están en situación de riesgo o desamparo;
 
 d) Disfrutar de los servicios públicos con perspectiva de género y con calidad y calidez, en igualdad de circunstancias que cualquier otro ciudadano;
 
@@ -327,9 +371,15 @@ I. Que las personas adultas mayores accedan con facilidad y seguridad a los serv
 
 II. Que los concesionarios y permisionarios de servicios públicos de transporte, cuenten en sus unidades con el equipamiento adecuado para que las personas adultas mayores hagan uso del servicio con seguridad y comodidad;
 
-III. Descuentos o exenciones de pago en su caso, a las personas adultas mayores cuando hagan uso del servicio público de transporte, en términos de lo que disponga el Reglamento de la presente Ley; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-IV. Las demás que le confiera esta Ley u otras disposiciones aplicables.
+III. Descuentos o exenciones de pago en su caso, a las personas adultas mayores cuando hagan uso del servicio público de transporte, en términos de lo que disponga el Reglamento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IV. La elaboración de un Plan Estatal de Accesibilidad para los Adultos Mayores, aplicable al entorno físico, al transporte, a la información y a las comunicaciones, incluidos los sistemas y las nuevas tecnologías de la información; y
+
+V. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -375,7 +425,9 @@ II. La celebración de convenios con agencias de viajes y empresas del ramo, con
 
 Corresponderá a la Coordinación General Jurídica:
 
-I. Brindar de manera gratuita la asesoría jurídica que requieran;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+I. Brindar de manera gratuita la asesoría jurídica que requieran, incluidos los familiares de personas adultas mayores cuando realicen trámites de defunción de éstas, a fin de garantizarles sepultura;
 
 II. Gestionar ante los Notarios Públicos del Estado, el otorgamiento de descuentos y facilidades en los trámites que realicen;
 
@@ -389,7 +441,9 @@ Corresponderá a los Servicios de Salud del Estado:
 
 I. La prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de acuerdo con el grado de vulnerabilidad de la persona y de conformidad con las disposiciones jurídicas aplicables;
 
-II. El acceso a la atención médica en clínicas y hospitales con una orientación especializada, así como la obtención de la cartilla médica y de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. El acceso a la atención médica en clínicas, hospitales o en su domicilio particular, con una orientación especializada en geriatría, así como la obtención de la cartilla médica y de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas;
 
 III. La promoción de programas educativos de licenciatura y postgrado en geriatría y gereontología, dirigidos al personal técnico profesional;
 
@@ -407,9 +461,15 @@ IX. La suscripción de convenios con universidades públicas y privadas para rec
 
 X. La práctica de exámenes de chequeo y monitoreo preventivo de la salud, cuando menos una vez al año, para recibir los tratamientos que requieran en caso de enfermedad;
 
-XI. Garantizar que las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-XII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+XI. Garantizar que las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XII. Desarrollar una metodología clínica para sistematizar el proceso de evaluación y seguimiento del adulto mayor que incluya una revisión médica completa del estado mental, afectivo y funcional, así como del potencial de rehabilitación permanente; y
+
+XIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -453,9 +513,31 @@ III. Las demás que determinen esta Ley y otras disposiciones legales aplicables
 
 El Sistema DIF Estatal garantizará a las personas adultas mayores:
 
-I. La prestación de servicios de asistencia social en forma gratuita, conforme al grado de vulnerabilidad y a los lineamientos específicos de cada programa, en especial en las áreas de seguridad de su patrimonio y asistencia alimentaria;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE FEBRERO DE 2018)</small>
 
-II. La implementación de programas de prevención y protección a quienes se encuentren en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+I. La prestación de servicios de asistencia social en forma gratuita, conforme al grado de vulnerabilidad y a los lineamientos específicos de cada programa, en especial en las áreas de seguridad de su patrimonio y asistencia alimentaria, los que se llevarán a cabo de acuerdo a los siguientes ejes de acción y con base en la disponibilidad presupuestal existente:
+
+a) Implementar y coordinar acciones para promover la integración social de los adultos mayores para brindarles los servicios de asistencia social y atención integral a los que se refiere la presente Ley;
+
+b) Vigilar que las instituciones y dependencias respectivas, proporcionen la atención y los cuidados óptimos a los adultos mayores, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Salud, la Secretaría de Desarrollo Social y demás dependencias y entidades de la Administración Pública Estatal y Municipal competentes;
+
+c) Supervisar la calidad del servicio y el estado que guardan las instalaciones que prestan los albergues, asilos, estancias y comedores comunitarios para los adultos mayores;
+
+d) Implementar acciones pertinentes para garantizar la cobertura en materia alimentaria, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para los adultos mayores;
+
+e) Ampliar los mecanismos de información a la población a través de la difusión de campañas de orientación nutricional para los adultos mayores, a fin de que tengan conocimiento de las diversas alternativas alimentarias;
+
+f) Promover, de acuerdo con el Programa Estatal de Atención a las Personas Adultas Mayores, la coordinación de las instituciones federales y locales de salud y educación para la implementación de programas de sensibilización y capacitación, a fin de promover la convivencia familiar armónica con los adultos mayores;
+
+g) Impulsar la coordinación con las instituciones educativas, tanto públicas como privadas, para la implementación de políticas y programas de educación y capacitación para los adultos mayores;
+
+h) Implementar, en coordinación con la Secretaría de Educación, los Municipios y las autoridades competentes, un programa de estímulos e incentivos a los adultos mayores que estudien y concluyan los niveles de educación básica, media superior y superior; e
+
+i) Informar al Consejo de Coordinación Interinstitucional, mediante un reporte trimestral de los resultados y conclusiones del desempeño intergubernamental, respecto a la aplicación de políticas transversales en materia de asistencia social dirigidas a los adultos mayores.
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. La implementación de programas de prevención y protección a quienes se encuentren en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en una casa hogar diurna o asilo, según sea el caso;
 
 III. La atención y el apoyo jurídico de quienes resultaren víctimas de cualquier delito, mediante la suscripción de convenios de colaboración con la Procuraduría General de Justicia del Estado;
 
@@ -515,23 +597,37 @@ La planeación, diseño y formulación de los programas estatales dirigidos a la
 
 I. Propiciar las condiciones para su mayor bienestar físico, emocional y mental, a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
-II. Garantizar el pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. Garantizar el pleno ejercicio de sus derechos, mediante el establecimiento de diversos mecanismos para su promoción, protección e implementación, así como la permanente supervisión del marco jurídico a favor de las personas adultas mayores;
 
 III. Establecer las bases para la planeación y concertación de acciones entre las instituciones públicas y privadas, para lograr un funcionamiento coordinado en los programas y servicios que presten;
 
-IV. Impulsar la atención integral e interinstitucional en los sectores público y privado, y vigilar el funcionamiento de los programas y servicios, de acuerdo con las características de este grupo social;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-V. Promover la solidaridad y la participación ciudadana para consensar (sic) programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
+IV. Impulsar la atención integral e interinstitucional en los sectores público y privado, mediante la implementación de acciones proactivas que involucren a todos los actores sociales que inciden en el desarrollo integral de los adultos mayores, así como vigilar permanentemente los programas y servicios en favor de éstos;
 
-VI. Fomentar en las familias y la sociedad en general, una cultura de respeto, dignificación y aprecio a las personas adultas mayores para lograr un trato digno, y favorecer su revalorización y su plena integración social;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-VII. Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades, su revalorización en la vida social, económica, política, cultural y familiar, así como la no discriminación individual y colectiva;
+V. Promover la solidaridad y la participación ciudadana para diseñar y establecer programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VI. Fomentar en las familias y la sociedad en general, un cambio cultural que otorgue visibilidad a los adultos mayores a partir del cual se les reconozcan sus contribuciones a la sociedad y se fortalezcan sus posibilidades de autonomía, revalorización, autorrealización y su plena integración social;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VII. Impulsar su desarrollo humano integral, observando la Perspectiva de Equidad de Género dentro de los programas, proyectos y acciones gubernamentales, así como la no discriminación individual y colectiva;
 
 VIII. Fomentar su permanencia en el núcleo familiar y comunitario;
 
-IX. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las personas adultas mayores y garantizar la asistencia social para todas aquellas que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-X. Establecer las bases para asignar beneficios sociales, premios, estímulos y subsidios fiscales para este sector de la población y propiciar su incorporación a los procesos productivos;
+IX. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+X. Establecer las bases para asignar beneficios sociales, premios, estímulos y subsidios fiscales a los adultos mayores, especialmente quienes se encuentran en condición de pobreza, discapacidad, aislamiento y ruralidad, con objeto de facilitar su incorporación en los procesos productivos;
 
 XI. Fomentar que las instituciones educativas y de seguridad social, establezcan las disciplinas para la formación en geriatría y gereontología, con el fin de garantizar la cobertura de los servicios de salud que requieran;
 
@@ -539,11 +635,37 @@ XII. Fomentar la realización de estudios e investigaciones sociales de la probl
 
 XIII. Promover la difusión de sus derechos y valores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este grupo social;
 
-XIV. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance servicios sociales, asistenciales y la información sobre los mismos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-XV. Fomentar la creación de espacios de expresión y de infraestructura a su servicio; y
+XIV. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y garantizarles el acceso a programas gubernamentales en materia de alojamiento, salud, seguridad social integral, alimentación y otros;
 
-XVI. Operación de un programa preventivo integral de salud.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XV. Garantizarles el goce de los servicios públicos de salud, movilidad, educación, recreación y cultura, así como una atención preferente, prioritaria y especializada en dichos servicios;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XVI. Consolidar en las instituciones de salud del Estado y los Municipios, la Perspectiva del Ciclo Vital en el proceso de envejecimiento, orientada a la promoción de la salud, la prevención de la enfermedad, el acceso equitativo a la atención primaria y un enfoque equilibrado de cuidados de larga duración;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XVII. Fomentar la apropiación de espacios públicos y abrir lugares de encuentro que les permitan fortalecer su identidad como grupo social y realizar actividades para desarrollarse de manera acorde a sus propias capacidades, aspiraciones y propuestas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XVIII. Fomentar la Perspectiva de Envejecimiento Activo en la configuración de los servicios sociales, sanitarios, culturales y recreativos dirigidos a los adultos mayores;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XIX. Garantizar la asistencia social a quienes se encuentran en estado de vulnerabilidad, dependencia o requieran de protección especial por cualquier circunstancia, a fin de mejorar su calidad de vida y procurar su integración en la vida comunitaria;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XX. Propiciar que el sector público y privado generen un número mayor de empleos para adultos mayores y contribuir a su sustento, estabilidad económica y autonomía, al mismo tiempo de aprovechar su experiencia a favor de las nuevas generaciones;
+
+XXI. Fomentar la creación de espacios de expresión y de infraestructura a su servicio; y
+
+XXII. Operación de un programa preventivo integral de salud.
 
 ### CAPÍTULO II. De las Medidas de Protección
 
@@ -621,9 +743,13 @@ I. La integración de clubes de personas adultas mayores;
 
 II. Bolsas de trabajo;
 
-III. Asistencia legal;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-IV. Fomento y apoyo a albergues permanentes y provisionales;
+III. Asistencia legal, y con base en la disponibilidad presupuestal, apoyo con gastos funerarios para familiares, previo examen socioeconómico, cuando realicen diligencias de defunción de personas adultas mayores a fin de garantizarles sepultura;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IV. Fomento y apoyo de casas hogar o albergues permanentes y provisionales;
 
 V. Asistencia médica integral y un paquete preventivo integral de salud, según el grado de vulnerabilidad y de acuerdo a los lineamientos específicos de cada programa;
 
@@ -639,9 +765,11 @@ X. Servicios culturales y educativos; y
 
 XI. Descuentos en bienes, servicios y cargas hacendarias.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 39.
 
-A través del Programa, se impulsará la creación de asilos, estancias o centros de rehabilitación, públicos o privados, que procuren el mejoramiento de la salud física, emocional y psicológica de las personas adultas mayores, así como su integración social a través de una cultura de integración, dignidad y respeto.
+A través del Programa, se impulsará la creación de asilos, estancias, casas hogar o centros de rehabilitación, públicos o privados, de estancia diurna o permanente, según sea el caso, que procuren el mejoramiento de la salud física, emocional y psicológica de las personas adultas mayores, así como su integración social a través de una cultura de integración, dignidad y respeto.
 
 Dichas instituciones promoverán y velarán que las personas adultas mayores reciban capacitación para desarrollar sus aptitudes intelectuales, afectivas, sociales y físicas.
 
@@ -1019,9 +1147,11 @@ Los establecimientos que presten servicios a las personas adultas mayores, deber
 
 ### CAPÍTULO II. De los Deberes y de la Participación de las Familias
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 68.
 
-La familia como célula fundamental de la sociedad e integrada conforme a la legislación familiar del Estado, tiene el deber ineludible de ser la primera institución en reconocer que el lugar ideal para que las personas adultas mayores permanezcan, es su hogar. Sólo por causas de fuerza mayor, enfermedad o abandono se le situará en otro lugar que sea apto y digno, bien sea en alguna institución de asistencial (sic) pública o privada dedicada al cuidado de personas adultas mayores o en alguno otro que reúna tales condiciones.
+La familia como célula fundamental de la sociedad e integrada conforme a la legislación familiar del Estado, tiene el deber ineludible de ser la primera institución en reconocer que el lugar ideal para que las personas adultas mayores permanezcan, en su hogar. Sólo por causas de fuerza mayor, enfermedad o abandono se le situará en otro lugar que sea apto y digno, privilegiando y respetando su voluntad propia, bien sea en alguna institución de asistencia pública o privada dedicada al cuidado de personas adultas mayores o en alguno otro que reúna tales condiciones.
 
 ###### Artículo 69.
 
@@ -1049,7 +1179,11 @@ VIII. Conocer sus derechos previstos en la Constitución Política de los Estado
 
 IX. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos; y
 
-X. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+X. Informar oportunamente a las autoridades competentes sobre el fallecimiento de la persona adulta mayor para realizar los trámites correspondientes; y
+
+XI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 71.
 
@@ -1258,3 +1392,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 213.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
