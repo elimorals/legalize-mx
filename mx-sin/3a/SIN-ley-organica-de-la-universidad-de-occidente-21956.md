@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-de-occidente-21956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-08-10"
-last_updated: "2003-08-15"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE OCCIDENTE
 
-LEY ORGANICA DE LA UNIVERSIDAD DE OCCIDENTE
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE OCCIDENTE, PUBLICADA EN EL P.O. DE 21 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2003.
+LEY ORGÁNICA DE LA UNIVERSIDAD DE OCCIDENTE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 10 de agosto de 2001.
 
@@ -562,3 +564,23 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. A partir de la vigencia de las reformas a la presente Ley se crean: la Vicerrectoría de Administración y Finanzas, la Vicerrectoría Académica y la Vicerrectoría de Operación institucional; las Coordinaciones Generales de las Unidades se convierten en Direcciones de Unidad y el Abogado General se convierte en Director de Asuntos Jurídicos. Sus facultades y obligaciones se establecerán en el Estatuto Orgánico.
 
 Artículo Tercero. En cuanto no se opongan a las reformas aprobadas a la presente Ley, continuarán vigentes los reglamentos expedidos por el Consejo Académico Universitario.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 376 DEL H. CONGRESO DEL ESTADO.- LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE OCCIDENTE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. Se abroga la Ley Orgánica de la Universidad de Occidente publicada mediante Decreto No. 662, en el Periódico Oficial "El Estado de Sinaloa" No. 96, de fecha 10 de agosto de 2001. Asimismo, se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. El Rector, los actuales Directores de las Unidades y los Directores de Instituto permanecerán en sus cargos hasta la conclusión del periodo para el cual fueron designados, conforme a las anteriores disposiciones.
+
+Cuarto. Los representantes del personal académico y de los alumnos ante el Consejo Académico Universitario y los Consejos Técnicos, permanecerán en sus cargos como integrantes del Consejo Universitario, hasta la conclusión del periodo para el cual fueron electos, conforme a las anteriores disposiciones.
+
+Quinto. En cuanto no se opongan a esta Ley, continuarán rigiendo los reglamentos expedidos por el Consejo Académico Universitario.
+
+Sexto. Los trabajadores de base del Sindicato de Trabajadores al Servicio del Estado que se encuentran prestando servicios en la Universidad de Occidente a la fecha de entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición a la nueva institución de educación pública descentralizada denominada Universidad Autónoma de Occidente, la misma calidad, sus derechos y preservando su antigüedad.
+
+Séptimo. El Consejo Universitario, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente Ley, integrará la primera Junta de Gobierno. Para efectos del artículo 15 de esta Ley, los propios miembros de la Junta, en su primera sesión, fijarán el orden de antigüedad mediante insaculación, que es una forma aleatoria para determinar quién será remplazado cada año, siguiendo el orden en el que hayan quedado.
+
+Octavo. El Consejo Universitario, dentro de los cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor de la presente Ley, procederá a expedir el Estatuto Orgánico e iniciará las reformas necesarias a los reglamentos vigentes.
