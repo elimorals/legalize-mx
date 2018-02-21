@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-general-de-la-comision-estatal-para-la-25684"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-03"
-last_updated: "2002-07-03"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "SIN"
 ---
 # REGLAMENTO GENERAL DE LA COMISION ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR
 
-REGLAMENTO GENERAL DE LA COMISION ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO GENERAL DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN DE LA EDUCACIÓN SUPERIOR DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DEL 21 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO GENERAL DE LA COMISION ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR DEL ESTADO DE SINALOA
+
+ÚLTIMA REFORMA PÚBLICADA EN EL BOLETÍN OFICIAL: 21 DE FEBRERO DE 2018 (ABROGADO)
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 3 de julio de 2002.
 
 JUAN S. MILLÁN LIZÁRRAGA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, en ejercicio de las facultades que me confieren los artículos 65, fracciones, I, XIV y XXVI, 66, párrafo primero, y 72 de la Constitución Política Local, y con fundamento en lo dispuesto por los artículos 9º y 14 de la Ley Orgánica de la Administración Pública del Estado; 1°, 2°, 11, 14, fracción XIII, 62, 63, 64, 107, fracción III y 108 de la ley de Educación para el Estado de Sinaloa; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que, con fundamento en las estipulaciones legales expresadas, y en mérito de las consideraciones precedentes, he tenido a bien expedir el siguiente:
 
@@ -204,3 +208,17 @@ Gonzalo M. Armienta Calderón
 El Secretario de Educación Pública y Cultura
 
 J. Antonio Malacón Díaz
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO GENERAL DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN DE LA EDUCACIÓN SUPERIOR".]
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- El número de Rectores y Directores referidos en la fracción V del artículo 4 precedente, será acordado en la primera sesión ordinaria del Pleno de la Comisión.
+
+Artículo Tercero.- Las comisiones prioritarias, a que se refiere el artículo 8, de este ordenamiento, se integrarán dentro de los treinta días siguientes a la fecha de publicación de este Reglamento.
+
+Artículo Cuarto.- Se abroga el Reglamento General de la Comisión Estatal para la Planeación de la Educación Superior (COEPES), publicado en el Periódico Oficial “El Estado de Sinaloa" con fecha 03 de julio de 2002.
