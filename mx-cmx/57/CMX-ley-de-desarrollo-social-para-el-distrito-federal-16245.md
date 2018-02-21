@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2017-10-30"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -379,6 +379,14 @@ IX. Realizar el control y la evaluación de los programas y proyectos de Desarro
 X. Operar las instalaciones e infraestructura social a su cargo, de conformidad con los lineamientos, normatividad y modelos de atención básicos que establezca la Secretaría dentro del ámbito de su competencia; y
 
 XI. Instalar y coordinar el funcionamiento del Consejo Delegacional de Desarrollo Social.
+
+> <small>(ADICIONADA, G.O. 21 DE FEBRERO DE 2018)</small>
+
+XII. Celebrar convenios con instituciones públicas y privadas para llevar a cabo proyectos de asesoría gratuita a grupos vulnerables;
+
+> <small>(ADICIONADA, G.O. 21 DE FEBRERO DE 2018)</small>
+
+XIII. Organizar y coordinar la formulación y elaboración de los proyectos de preparación profesional enfocados en atender necesidades sociales con instituciones académicas.
 
 Para la realización de acciones y proyectos que se relacionen con otras delegaciones o con el Distrito Federal en general, las delegaciones se coordinarán entre sí a través de la Secretaría.
 
@@ -888,6 +896,56 @@ Las organizaciones civiles y sociales, las instituciones académicas, las organi
 
 La Administración, para ampliar la satisfacción de las necesidades de la población en materia de Desarrollo Social, podrá firmar convenios de colaboración con organizaciones civiles o grupos de ciudadanos organizados para la ejecución de proyectos y programas. Dichos instrumentos deberán establecer los tiempos de cumplimiento y las medidas técnicas y organizativas para garantizar la confidencialidad de los datos personales.
 
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 40 Bis.
+
+Con independencia de lo previsto por los artículos 39 y 40 de la Ley, las instituciones académicas y las Delegaciones deberán elaborar proyectos de preparación profesional enfocados en atender necesidades sociales, en donde los alumnos de las diferentes instituciones participarán con la ejecución de trabajos como auxiliares en diferentes áreas de las Delegaciones, la implementación de proyectos de asesoría gratuita itinerantes e incentivar el uso de espacios públicos cuando las actividades así lo permitan.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 40 Ter.
+
+Los proyectos que se organicen y coordinen entre las instituciones académicas y las Delegaciones servirán para que los alumnos de las instituciones académicas desarrollen conocimiento en trabajo de campo y a su vez puedan acreditar el servicio social y/o prácticas profesionales que les correspondan. En términos de lo establecido por la Ley de Educación para el Distrito Federal, así como de la Ley General de Educación.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 40 Quater.
+
+Todos los proyectos a que se hace referencia en el artículo anterior, deberán estar plenamente registrados ante los Órganos Político-Administrativo de cada demarcación territorial y ante la institución académica. De conformidad con lo establecido en la Ley de Educación para el Distrito Federal y en la Ley General de Educación.
+
+Para que un alumno sea considerado para formar parte de un proyecto debe cumplir a cabalidad con todos los requisitos que establezca la institución académica a la que pertenece.
+
+Las Delegaciones por conducto de la Dirección General de Desarrollo Social deberán llevar registro exhaustivo conforme lo siguiente:
+
+I. Los alumnos que se encuentren registrados en los proyectos,
+
+II. El área en que se encuentran asignados,
+
+III. Las horas efectivas en que se han desempeñado en el proyecto,
+
+IV. Informes mensuales de actividades, los cuales deberán ir firmados por el titular de área en donde se desarrolla el proyecto, así como por el Director General de Desarrollo Social, con los vistos buenos del jefe inmediato del alumno en la Delegación.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 40 Quinquies.
+
+Los proyectos a los que refiere el artículo 40 TER deberán considerar al menos los siguientes aspectos, en términos de lo establecido por la Ley de Educación para el Distrito Federal, así como de la Ley General de Educación:
+
+I. Atender a las necesidades sociales del contexto en el que se desarrollará;
+
+II. Garantizar el ejercicio efectivo de los derechos sociales entre los grupos vulnerables;
+
+III. Conciliar la preparación profesional con las necesidades sociales
+
+IV. Proporcionar los puntos de información para la población que lo solicite;
+
+V. Dar a conocer los mecanismos para llevar a cabo dichos proyectos;
+
+VI. La forma en la que se darán a conocer a la ciudadanía;
+
+VII. El calendario de actividades conforme al área que corresponda, mismo que será elaborado en coordinación entre Delegaciones y las Instituciones participantes.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
@@ -1283,3 +1341,19 @@ G.O. 30 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el momento en que entren en funciones las Alcaldías, las atribuciones, facultades y obligaciones atribuidas a las Delegaciones se entenderán atribuidas a las Alcaldías.
