@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2017-09-13"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -500,6 +500,14 @@ El derecho que este artículo concede deberá ejercitarse precisamente dentro de
 86.- El que tuviere noticia de la existencia de bienes vacantes en el Estado de Zacatecas y quisiere adquirir la parte que la ley le da al descubridor hará la denuncia de ellos al Ministerio Público del lugar de la ubicación de tales bienes.
 
 87.- El Ministerio Público, si estima que procede, deducirá ante el Juez competente, según el valor de los bienes, la acción que corresponda a fin de que, declarados vacantes los bienes, se adjudiquen al Fisco del Estado. Se tendrá al que hizo la denuncia como tercero coadyuvante.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Tratándose de bienes inmuebles destinados a la prestación de servicios públicos, así como a la infraestructura de los Entes Públicos estatales o municipales, éstos serán los únicos legitimados para solicitar la declaratoria judicial a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Declarada la vacancia de tales bienes, el Juez ordenará la adjudicación en favor del Ente Público de que se trate y mandará remitir el expediente para su protocolización correspondiente ante la autoridad que corresponda.
 
 88.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie, pudiendo recibirla en especie, observándose lo dispuesto en la parte final del artículo 81 de este Ordenamiento.
 
@@ -5031,9 +5039,9 @@ III.- Que si se trata de una casa su precio no exceda de cinco mil cuatrocientos
 
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, por el Consejo Promotor de la Vivienda Popular en liquidación, por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o por la Secretaría de Administración, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el artículo 2475, fracción III de este Código.
+Cuando se trate de operaciones o contratos otorgados por la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Gobierno del Estado, independientemente del valor del inmueble, se hará constar en escritura pública, en ejercicio de sus atribuciones legales y reglamentarias.
 
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 
@@ -7861,7 +7869,9 @@ I.- Certificado del Registro Público que demuestre que los bienes no están ins
 
 II.- Certificados del estado actual del inmueble en los registros fiscales de las oficinas rentísticas del Estado;
 
-III.- Dictamen de la oficina competente de la Secretaría de Obras Públicas del Gobierno del Estado, declarando procedente la solicitud en lo que a ella corresponda;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+III.- Dictamen de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial del Gobierno del Estado, declarando procedente la solicitud en lo que a ésta le corresponda;
 
 IV.- Un plano de ubicación y localización del bien expedido y aprobado por las autoridades catastrales estatales y municipales;
 
@@ -7886,6 +7896,10 @@ Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobr
 El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
 
 Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado, el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+2517 Bis. Cuando se trate de bienes inmuebles destinados a la prestación de servicios públicos, así como a la infraestructura de los Entes Públicos estatales o municipales no inscritos en el registro en favor de persona alguna, no será necesario registrar la posesión como apta para producir la prescripción.
 
 2518.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
 
@@ -8172,3 +8186,11 @@ P.O. 13 DE SEPTIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS EN MATERIA DE ORDENAMIENTO TERRITORIAL Y SE ADICIONA EL ARTÍCULO 662 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
