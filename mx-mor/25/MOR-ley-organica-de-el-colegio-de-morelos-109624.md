@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-el-colegio-de-morelos-109624"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-08-26"
-last_updated: "2015-08-26"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE “EL COLEGIO DE MORELOS”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2015.
 
@@ -655,25 +655,31 @@ Los investigadores de “El Colegio de Morelos” que se encuentren contratados 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 51.
 
-El patrimonio de “El Colegio de Morelos” está destinado al cumplimiento de su objeto y fines, sin otra limitante que lo previsto en esta Ley.
+El patrimonio de "El Colegio de Morelos” está destinado al cumplimiento de su objeto y fines, sin otra limitante que lo previsto en esta Ley.
 
 Corresponde tanto a las autoridades como a la comunidad institucional su preservación, administración e incremento, sin otra limitante que la naturaleza de los bienes, el régimen jurídico que les es aplicable y la observancia de la reglamentación expedida para tal efecto.
 
-El patrimonio de “El Colegio de Morelos” comprende el conjunto de bienes, ingresos, derechos y obligaciones con los que inicialmente se le dote o le sean otorgados y los que se integren bajo cualquier título.
+El patrimonio de "El Colegio de Morelos" comprende el conjunto de bienes, ingresos, derechos y obligaciones con los que inicialmente se le dote o le sean otorgados y los que se integren bajo cualquier título.
 
-El Poder Legislativo del estado de Morelos asignará anualmente el presupuesto necesario y suficiente para el cumplimiento pleno de los fines y atribuciones de “El Colegio de Morelos”.
+Para su sostenimiento, "El Colegio de Morelos" podrá recibir anualmente por parte del Poder Ejecutivo Estatal la asignación presupuestal que sea autorizada por el Legislativo; así también, podrá recibir un subsidio, participación o apoyo federal de acuerdo con el Presupuesto de Egresos de la Federación y en lo conducente conforme a la Ley para la Coordinación de la Educación Superior, dentro de las posibilidades presupuestarias de la Federación y en vista de las necesidades que representa la docencia, investigación y difusión de la cultura, para una institución pública de educación superior como lo es “El Colegio de Morelos".
 
-###### Artículo 52.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-El patrimonio de “El Colegio de Morelos”, conforme al destino que se le asigne, se integra por:
+Artículo. 52. El patrimonio de "El Colegio de Morelos" se integra por:
 
-I. Recursos financieros, que son los ingresos que percibe en forma ordinaria o extraordinaria mediante la asignación presupuestal que defina el Poder Legislativo del estado de Morelos, así como subsidios, inversiones y participaciones, derechos, rentas, productos, aprovechamientos, créditos, valores, empréstitos, donaciones, cuotas, recursos provenientes de fuentes alternas de financiamiento y demás medios que se determinen;
+I. Los ingresos que percibe en forma ordinaria o extraordinaria mediante la asignación presupuestal que defina el Poder Legislativo del Estado de Morelos, que garanticen una partida para el logro de sus fines institucionales, conforme a lo dispuesto por el artículo 121 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-II. Bienes destinados al uso o servicio de “El Colegio de Morelos”, que son aquellos directamente relacionados con la realización de la investigación, así como de los programas académicos y las políticas de difusión científica que la complementen, además de los que, por su naturaleza o destino, coadyuven a la realización del objeto y fines institucionales, y
+II. Los subsidios anuales que, en su caso, le otorguen los Gobiernos Federal, Estatal y Municipal, así como inversiones y participaciones, derechos, rentas, productos, aprovechamientos, valores, donaciones, cuotas, recursos provenientes de instituciones, sean nacionales o internacionales, organismos descentralizados o paraestatales de participación federal, estatal o municipal o de cualquier otra fuente alterna de ingresos del orden federal, estatal o municipal y demás medios que se determinen, conforme a la normativa aplicable;
 
-III. Patrimonio cultural, que incluye el acervo de bienes relativos al conocimiento y valores de carácter humanístico, científico, histórico, artístico y otras expresiones de la cultura, que sean producto de la sociedad y sus comunidades, así como por aquellos cuyas características lo preserven y enriquezcan.
+III. Los ingresos propios que, en su caso, perciba por las cuotas recaudadas por bienes o servicios que preste el Colegio; así como otros ingresos por proyectos de investigación, servicios de capacitación y consultoría, patentes, derechos, productos y aprovechamientos que establezcan las disposiciones legales aplicables;
+
+IV. Los legados, donaciones y fideicomisos que en su caso, le hagan o se constituyan en su favor, así como las aportaciones de las fundaciones, su patronato y demás organizaciones civiles que coadyuven en el cumplimiento de sus fines, y
+
+V. Los bienes muebles e inmuebles de su propiedad o donados por los Gobiernos Estatal, Federal y Municipal, así como por parte de otras instituciones públicas o privadas, nacionales o extranjeras, mismos que únicamente deberán usarse y destinarse a objeto y fines institucionales de "El Colegio de Morelos".
 
 ###### Artículo 53.
 
@@ -861,11 +867,13 @@ DÉCIMA SEXTA. Con independencia de la continuidad de los programas de estudio r
 
 DÉCIMA SÉPTIMA. Los documentos escolares que deban de emitirse, expedirse y/o autorizarse relativos al Centro de Investigación y Docencia en Humanidades del Estado de Morelos, serán autorizados por el Rector de El Colegio de Morelos.
 
-DÉCIMA OCTAVA. Quedan a salvo los derechos de los estudiantes para optar en la expedición de sus certificados de acreditación de estudios y emisión de los títulos respectivos, con la mención del Centro de Investigación y Docencia en Humanidades del Estado de Morelos o la de El Colegio de Morelos.
+DÉCIMA OCTAVA. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
 DÉCIMA NOVENA. La vigencia de los programas de estudio del Centro de Investigación y Docencia en Humanidades del Estado de Morelos será de 6 y hasta 7 años, contados a partir de la vigencia de la presente Ley, quedando autorizada en su caso la revalidación que corresponda con la oferta académica de El Colegio de Morelos.
 
-VIGÉSIMA. Se faculta al Rector de El Colegio de Morelos, para que en conjunción con la Secretaría de Educación y las demás secretarias del Poder Ejecutivo, se realice la liquidación del Centro de Investigación y Docencia en Humanidades del Estado de Morelos, dadas las obligaciones plasmadas en las presentes disposiciones transitorias.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VIGÉSIMA. El Rector de "El Colegio de Morelos" prestará el auxilio correspondiente a la Secretaría de Educación y las demás Secretarías, Dependencias o Entidades del Poder Ejecutivo Estatal. para que se realice la liquidación del Centro de Investigación y Docencia en Humanidades del Estado de Morelos, de acuerdo a lo señalado en el respectivo Decreto de extinción de éste último, dadas las obligaciones plasmadas en las presentes disposiciones transitorias.
 
 VIGÉSIMA PRIMERA. Se reconocen los derechos de los trabajadores del Centro de Investigación y Docencia en Humanidades del Estado de Morelos, los cuales deberán ser debidamente garantizados por el Titular del Poder Ejecutivo del Estado, o bien por El Colegio de Morelos, previa revisión de los perfiles y méritos académicos que se realicen para el cumplimiento de los fines de El Colegio de Morelos.
 
@@ -896,3 +904,13 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y SEIS.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE 'EL COLEGIO DE MORELOS'".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política de! Estado libre y Soberano de Morelos.
+
+SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
