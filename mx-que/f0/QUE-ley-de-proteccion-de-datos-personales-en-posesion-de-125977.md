@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-de-datos-personales-en-posesion-de-125977"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-26"
-last_updated: "2018-01-26"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE FEBRERO DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de enero de 2018.
 
@@ -843,7 +843,9 @@ Las autoridades que accedan y almacenen los datos personales que se recaben por 
 
 En el tratamiento de datos personales, así como en el uso de las bases de datos para su almacenamiento que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley.
 
-Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicial estatal, a petición de la autoridad que faculte la Ley o del titular de la Fiscalía General del Estado, podrá autorizar la intervención de cualquier comunicación privada.
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicial competente, a petición de la autoridad que faculte la Ley o del titular de la Fiscalía General del Estado, podrá autorizar la intervención de cualquier comunicación privada.
 
 ###### Artículo 75.
 
