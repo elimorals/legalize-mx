@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2014-12-03"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -191,9 +191,9 @@ Para los efectos de este Código, se entenderá por:
 
 I.- El Código: al Código Urbano para el Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-II. La Secretaría: a la Secretaría de Infraestructura;
+II.- La Secretaría: a la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 III.- El Ayuntamiento: al Ayuntamiento del Municipio en cuyo territorio se ejecute la correspondiente acción, obra o servicio en materia de desarrollo urbano y vivienda;
 
@@ -507,17 +507,17 @@ XXVIII.- Celebrar los convenios y contratos necesarios para la ejecución de los
 
 XXIX.- Impedir el establecimiento de asentamientos humanos irregulares o de fraccionamientos y condominios al margen de la Ley;
 
-XXX.- Realizar los trámites necesarios para la adquisición y asignación de inmuebles para la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los programas de desarrollo urbano;
+XXX.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-XXXI.- Proyectar, programar, presupuestar, ejecutar, mantener, conservar y operar, directamente o a través de terceros, las obras y servicios públicos que realice la administración pública estatal;
+XXXI.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-XXXII.- Realizar directamente o a través de terceros, las obras o servicios públicos estatales que se requieran en la entidad;
+XXXII.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-XXXIII.- Registrar y clasificar los proyectos de inversión que se formulen, y el catálogo de las obras y servicios públicos que se ejecuten, con objeto de contar con el material idóneo que permita su adecuada programación, presupuestación, control y evaluación;
+XXXIII.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-XXXIV.- Participar en la gestión y promoción de financiamientos para la realización de las obras y servicios públicos;
+XXXIV.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-XXXV.- Asesorar en la elaboración de los convenios que celebre el Gobierno del Estado, en materia de obras y servicios públicos;
+XXXV.- (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
 XXXVI.- Promover y gestionar las acciones judiciales o administrativas que procedan en contra de quienes valiéndose de la ignorancia o estado de necesidad de las personas, se aprovechen de su situación, las induzcan a la comisión de delitos o impidan la solución legal, en cuanto al establecimiento de colonias y núcleos de habitación, así como en contra de aquellas que promuevan la ocupación ilícita de predios, u otras conductas análogas;
 
@@ -534,6 +534,20 @@ XLI.- Diseñar y coordinar la ejecución del Sistema Estatal de Suelo y Reservas
 XLII.- Aplicar en el ámbito de su competencia, las normas técnicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable; y
 
 XLIII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+ARTICULO 21 BIS. A la Secretaría de Infraestructura del Gobierno del Estado le corresponderá:
+
+I. Realizar los trámites necesarios para la adquisición y asignación de inmuebles para la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los programas de desarrollo urbano;
+
+II. Proyectar, programar, presupuestar, ejecutar, mantener, conservar y operar directamente a través de terceros, las obras y servicios públicos que realice la administración estatal que se requieran en la Entidad;
+
+III. Registrar y clasificar los proyectos de inversión que se formulen y el catálogo de obras y servicios públicos que se ejecuten, con el objeto de contar con el material idóneo que permita su adecuada programación, presupuestación, control y evaluación;
+
+IV. Participar en la gestión y promoción de financiamientos para la realización de obras y servicios públicos, y
+
+V. Asesorar en la elaboración de los convenios que celebre el Gobierno del Estado, en materia de obras y servicios públicos.
 
 ###### ARTICULO 22.
 
@@ -661,11 +675,13 @@ La Comisión Estatal se integra por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-II. Un Vocal Ejecutivo, que será el Secretario de Infraestructura;
+II. Un Vocal Ejecutivo, que será el Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
-III.- Un Secretario Técnico, que será el Delegado de la Secretaría de Desarrollo Social en el Estado;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+III. Un Secretario Técnico, que será el Delegado de la Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
 IV.- Vocales permanentes:
 
@@ -727,7 +743,9 @@ a) Los Presidentes Municipales cuando se traten asuntos relacionados con el resp
 
 b) El Director de Minas de Gobierno del Estado;
 
-c) El Director de Turismo de Gobierno del Estado; y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+c) El Secretario de Turismo del Gobierno del Estado;
 
 d) Los responsables de los organismos municipales de agua potable y alcantarillado.
 
@@ -787,9 +805,9 @@ La Comisión del Patrimonio Cultural se integrará por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-II.- Un Vocal Ejecutivo, que será el Secretario de Infraestructura;
+II. Un Vocal Ejecutivo, que será el Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 III.- Un Secretario Técnico, que será el Presidente de la Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas;
 
@@ -799,11 +817,13 @@ IV.- Los siguientes vocales permanentes:
 
 a) El Secretario de Educación;
 
-b) El Director General de Desarrollo Urbano y Ecología;
+b) (DEROGADO, P.O. 21 DE FEBRERO DE 2018)
 
 c) El Director de Catastro y Registro Público de la Propiedad;
 
-d) El Director de Turismo;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+d) El Secretario de Turismo del Gobierno del Estado;
 
 e) El Presidente del Colegio de Arquitectos de Zacatecas A. C.;
 
@@ -1357,9 +1377,9 @@ Las comisiones de conurbación intraestatales se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-II.- Un Secretario Técnico, que será el Secretario de Infraestructura; y
+II. Un Secretario Técnico, que será el Secretario de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 III.- Los presidentes de los ayuntamientos de los municipios del Estado, en donde se localice la zona conurbada.
 
@@ -3985,11 +4005,13 @@ V.- La promoción y fomento a las sociedades cooperativas de vivienda y de otras
 
 VI.- Las bases de coordinación de las dependencias y entidades de la Administración Pública Estatal, con los gobiernos federal y municipales, con los sectores social y privado, para el establecimiento del Sistema Estatal de Vivienda, acorde con el Sistema Nacional.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### ARTICULO 384.
 
-Para los efectos de este Código se entiende por vivienda de interés social, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general vigente en el Estado elevado al año.
+Para los efectos de este Código se entiende por vivienda de interés social, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar hasta por veinticinco el valor de la Unidad de Medida y Actualización diaria elevada al año.
 
-La vivienda popular es aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año vigente en el Estado.
+La vivienda popular es aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar hasta por quince el valor de la Unidad de Medida y Actualización diaria elevada al año.
 
 ###### ARTICULO 385.
 
@@ -4451,9 +4473,9 @@ En el caso de que el asentamiento humano irregular se encuentre en terrenos ejid
 
 Para los efectos de este Código se entiende por regularización de la tenencia de la tierra, la legitimación de la posesión y la propiedad del suelo a las personas asentadas irregularmente, así como la incorporación de tal asentamiento a los programas de desarrollo urbano, como una acción de mejoramiento de los centros de población.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-La instancia encargada de ejecutar programas de regularización de la tenencia de la tierra será el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas o aquél que el titular del Poder Ejecutivo del Estado faculte para ello.
+La instancia encargada de ejecutar programas de regularización de la tenencia de la tierra será la Secretaría.
 
 ###### ARTICULO 444.
 
@@ -4964,3 +4986,11 @@ Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente D
 Tercero.- Se abroga el Decreto 605, por el que se reforman diversos ordenamientos legales para dar vigencia al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 2 al No. 40 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de mayo de 2013. Y se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Los procedimientos de regularización que hayan sido instaurados previo a la publicación de la presente reforma, se desahogarán y resolverán de conformidad con la Ley de Fraccionamientos Rurales, sin ordenarse la expedición del título, por lo que al momento de certificar la zona a la que pertenezca el inmueble e inicie el proceso de obtención del dominio pleno, el acuerdo de adjudicación servirá para acreditar el derecho que le asiste al interesado. Por tanto se remitirá el acuerdo al Organismo Regularizador de la Tenencia de la Tierra para que expida la escritura privada correspondiente.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 218.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
