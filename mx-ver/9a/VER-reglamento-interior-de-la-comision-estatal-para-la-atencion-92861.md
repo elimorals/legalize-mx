@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2018-01-19"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -51,7 +51,7 @@ Las disposiciones contenidas en este Reglamento, deberán ser interpretadas de l
 
 Lo no previsto por este Reglamento se normará por los acuerdos aprobados por el Pleno de la Comisión, máximo órgano de toma de decisiones.
 
-> <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2.
 
@@ -61,25 +61,27 @@ I. Comisión: La Comisión Estatal para la Atención y Protección de los Period
 
 II. Ley: La Ley 586 de la Comisión Estatal para la Atención y Protección de los Periodistas;
 
-III. Medidas preventivas y de protección: Son todas aquellas acciones que se implementan cuando existe o es razonablemente posible inferir la existencia de una situación de riesgo, con la finalidad de evitar la consecución de un daño irreparable;
+III. Medidas de Prevención: Conjunto de acciones y medios encaminados a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones contra periodistas, así como para combatir las causas que las producen y generar garantías de no repetición.
 
-IV. Medidas de atención: Son todas aquellas implementadas para contrarrestar circunstancias extraordinarias que amenacen la integridad de los periodistas y/o el libre y pleno ejercicio de la libertad de expresión, desde el periodismo;
+IV. Medidas preventivas y de protección: Son todas aquellas acciones que se implementan cuando existe o es razonablemente posible inferir la existencia de una situación de riesgo, con la finalidad de evitar la consecución de un daño irreparable;
 
-V. Gestiones: Acciones emprendidas ante distintas dependencias, instituciones u organismos, así como particulares, con la finalidad de impulsar, agilizar, conseguir o resolver peticiones de periodistas o sus familiares;
+V. Medidas de atención: Son todas aquellas implementadas para contrarrestar circunstancias extraordinarias que amenacen la integridad de los periodistas y/o el libre y pleno ejercicio de la libertad de expresión, desde el periodismo;
 
-VI. Asesoría jurídica y acompañamiento legal: Acciones mediante las cuales se proporciona información, orientación y apoyo en materia de procedimientos ante instancias jurisdiccionales y cuasi jurisdiccionales, con la finalidad de brindar a las y los periodistas, las herramientas necesarias para tutelar sus derechos;
+VI. Gestiones: Acciones emprendidas ante distintas dependencias, instituciones u organismos, así como particulares, con la finalidad de impulsar, agilizar, conseguir o resolver peticiones de periodistas o sus familiares;
 
-VII. Derechos humanos: Todas aquellas prerrogativas inherentes al ser humano que gozan de supremacía jurídica, de exigencia vertical u horizontal y que se encuentran reconocidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por México, las declaraciones internacionales firmadas por el Estado Mexicano, leyes federales, Jurisprudencia Nacional e Internacional, la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, leyes del estado de Veracruz de Ignacio de la Llave, y en las interpretaciones que haga el Tribunal Superior de Justicia del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
+VII. Asesoría jurídica y acompañamiento legal: Acciones mediante las cuales se proporciona información, orientación y apoyo en materia de procedimientos ante instancias jurisdiccionales y cuasi jurisdiccionales, con la finalidad de brindar a las y los periodistas, las herramientas necesarias para tutelar sus derechos;
 
-VIII. Recurso: Medio de impugnación de las actuaciones de la Comisión.
+VIII. Derechos humanos: Todas aquellas prerrogativas inherentes al ser humano que gozan de supremacía jurídica, de exigencia vertical u horizontal y que se encuentran reconocidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por México, las declaraciones internacionales firmadas por el Estado Mexicano, leyes federales, Jurisprudencia Nacional e Internacional, la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, leyes del estado de Veracruz de Ignacio de la Llave, y en las interpretaciones que haga el Tribunal Superior de Justicia del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
 
-IX. Amenaza: Riesgo o peligro de posible consecución.
+IX. Recurso: Medio de impugnación de las actuaciones de la Comisión.
 
-X. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole, cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen.
+X. Amenaza: Riesgo o peligro de posible consecución.
 
-XI. Días: Los términos y los plazos que se señalan en la Ley y en este Reglamento se entenderán como días hábiles, salvo que expresamente se señale que deban ser considerados como naturales.
+XI. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole, cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen.
 
-XII. Presidente: Al Comisionado Presidente del Pleno de la Comisión.
+XII. Días: Los términos y los plazos que se señalan en la Ley y en este Reglamento se entenderán como días hábiles, salvo que expresamente se señale que deban ser considerados como naturales.
+
+XIII. Presidente: Al Comisionado Presidente del Pleno de la Comisión.
 
 > <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
 
@@ -259,7 +261,7 @@ II. El Órgano de Control Interno, que dependerá directamente del Pleno de la C
 
 III. Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, que de acuerdo con el presupuesto y programas de la Comisión, autorice el Pleno.
 
-> <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11.
 
@@ -269,33 +271,41 @@ I. Inscribir en el orden del día de las sesiones del Pleno, los asuntos de su c
 
 II. Remitir al Titular del Poder Ejecutivo, previa aprobación del Pleno de la Comisión, el proyecto de presupuesto de Egresos de la Comisión;
 
-III. Elaborar, con auxilio de la Dirección de la Unidad Administrativa, el proyecto de calendario de labores de la Comisión, para someterlo a la aprobación del Pleno.
+III. Someter a la aprobación del Pleno la enajenación y baja de bienes muebles, sujetándose a lo dispuesto en las leyes de la materia; así como gestionar la incorporación, destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos al servicio de la Comisión;
 
-IV. Dar fe del ejercicio y/o desarrollo de las atribuciones del Pleno, para lo cual firmará las actas, acuerdos y/o resoluciones del Pleno motivo de sesiones ordinarias y extraordinarias. Asimismo, supervisará la elaboración e integración de las actas de las sesiones;
+IV. Elaborar, con auxilio de la Unidad Administrativa, el proyecto de calendario de labores de la Comisión, para someterlo a la aprobación del Pleno.
 
-V. Levantar las actas administrativas al personal y/o servidores públicos de la Comisión relacionadas con el desempeño de sus deberes y/o actividades;
+V. Dar fe del ejercicio y/o desarrollo de las atribuciones del Pleno, para lo cual firmará las actas, acuerdos y/o resoluciones del Pleno motivo de sesiones ordinarias y extraordinarias.
 
-VI. Informar al Pleno sobre la integración y el funcionamiento de los órganos y unidades administrativas a su cargo, mediante los informes que le rindan sobre el desempeño de los mismos las instancias subordinadas;
+VI. Supervisar la elaboración e integración de las actas de las sesiones;
 
-VII. Elaborar y proponer al Pleno, los proyectos de actualización de los catálogos de funciones y de perfiles de puestos, así como los lineamientos relativos a la gestión y administración de los recursos humanos de la Comisión;
+VII. Levantar las actas administrativas al personal y/o servidores públicos de la Comisión relacionadas con el desempeño de sus deberes y/o actividades;
 
-VIII. Revisar y en su caso proponer modificaciones a la estructura básica de la organización de la Comisión;
+VIII. Aprobar el proyecto de política de comunicación social de la Comisión, para someterla a aprobación del Pleno, y ejecutarla;
 
-IX. Representar a la Comisión en los asuntos que dicte el Pleno;
+IX. Informar al Pleno sobre la integración y el funcionamiento de los órganos y unidades administrativas a su cargo, mediante los informes que le rindan sobre el desempeño de los mismos las instancias subordinadas;
 
-X. Firmar las identificaciones de los Comisionados y demás servidores públicos de la Comisión;
+X. Elaborar y proponer al Pleno, los proyectos de actualización de los catálogos de funciones y de perfiles de puestos, así como los lineamientos relativos a la gestión y administración de los recursos humanos de la Comisión;
 
-XI. Aprobar el otorgamiento de licencias hasta por tres días a los servidores públicos adscritos a su cargo;
+XI. Revisar y en su caso proponer modificaciones a la estructura básica de la organización de la Comisión;
 
-XII. Remitir a la Editora de Gobierno del Estado, los acuerdos del Pleno que deban ser publicados para surtir efectos, así como los demás que instruya el Pleno;
+XII. Representar a la Comisión en los asuntos que dicte el Pleno;
 
-XIII. Tener bajo su resguardo, control y responsabilidad los libros de registro correspondientes;
+XIII. Firmar las identificaciones de los Comisionados y demás servidores públicos de la Comisión;
 
-XIV. Rendir al Pleno un informe semestral de las actividades realizadas en el ejercicio de sus atribuciones; y
+XIV. Aprobar el otorgamiento de licencias hasta por cinco días a los servidores públicos adscritos a su cargo;
 
-XV. Certificar las constancias que obren y deriven de los archivos del Organismo para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o investigación;
+XV. Remitir a la Editora de Gobierno del Estado, los acuerdos del Pleno o de otras áreas, que deban ser publicados para surtir efectos, así como los demás que instruya el Pleno;
 
-XVI. Las demás que disponga la Ley, el presente Reglamento, el Pleno, así como las demás disposiciones legales y administrativas correspondientes.
+XVI. Tener bajo su resguardo, control y responsabilidad los libros de registro correspondientes;
+
+XVII. Rendir al Pleno un informe semestral de las actividades realizadas en el ejercicio de sus atribuciones;
+
+XVIII. Sustanciar el procedimiento de las solicitudes de incorporación al Programa Preventivo y de Seguridad, y determinar las medidas y/o acciones a implementarse;
+
+XIX. Certificar las constancias que obren y deriven de los archivos del Organismo para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o investigación;
+
+XX. Las demás que disponga la Ley, el presente Reglamento, el Pleno, así como las demás disposiciones legales y administrativas correspondientes.
 
 > <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
 
@@ -1341,31 +1351,71 @@ Procede el recurso de inconformidad en contra de la negativa de prórroga por pa
 
 Procede el recurso de queja contra aquellas acciones u omisiones cometidas por los funcionarios que integran las Direcciones de Procesos y Jurídica, así como las Unidades Administrativas y de Acceso a la Información, el cual será sustanciado por el titular de la Contraloría Interna y será resuelto y aprobado por el Pleno de la Comisión en un plazo no mayor a quince días hábiles.
 
-### CAPÍTULO VI. DE LOS RECURSOS
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
+## TÍTULO TERCERO. DEL PROGRAMA PREVENTIVO Y DE SEGURIDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO I. DE LA IMPLEMENTACIÓN DEL PROGRAMA
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 100.
 
-Para la interposición de c ualquiera (sic) de l os (sic) recursos que prevé el Reglamento, el peticionario contará con 10 días hábiles, contados a part ir (sic) del siguiente día en que se ejecutó el acto o en que se haya emitido la resolución impugnada.
+El programa Preventivo y de Seguridad tiene como finalidad reducir vulnerabilidades, aumentar capacidades y disminuir riesgos productos de una amenaza a periodistas, a través de la vertiente de equipamiento y reforzamiento de instalaciones otorgados en especie y económico, así como la implementación y articulación del sistema de alerta temprana y reacción inmediata ante situaciones de riesgo para los periodistas.
 
-> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 101.
 
-Procede el recurso de reconsideración para las resoluciones que sobresean el procedimiento, y será resuelto en un plazo no mayor a 5 días hábiles por parte de quien emitió la resolución.
+El Programa Preventivo y de Seguridad se aplicará bajo la vertiente de equipamiento y reforzamiento de instalaciones otorgados en especie y económico para periodistas; su implementación correrá a cargo de la Secretaría Ejecutiva de la Comisión con auxilio de la Dirección de Procesos, por lo que el diseño y aplicación de las medidas preventivas y de seguridad corresponde única y exclusivamente al Titular de la Secretaría Ejecutiva.
 
-> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 102.
 
-Procede el recurso de inconformidad en contra de la negativa de prórroga por parte del Departamento de Seguimiento y Análisis. El recurso será resuelto por dicho Departamento en un plazo no mayor a 7 días hábiles.
+El procedimiento para la realización del diagnóstico en el Programa Preventivo y de Seguridad, se realizará de la siguiente manera:
 
-> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
+I. La incorporación al programa se realizará a petición de parte, las solicitudes deberán ser presentadas a la Comisión por la persona física o moral mediante escrito libre donde realice una reseña que motive la solicitud, conteniendo su firma autógrafa;
+
+II. Las solicitudes de incorporación pueden realizarse de manera personal, a través del sistema electrónico de Recepción de solicitudes, por teléfono, por escrito o por cualquier otro medio que efectivamente acredite la presentación de la misma, y debiendo remitir con posterioridad el escrito señalado en la fracción anterior. A su vez, los periodistas podrán presentar su petición a través de los Comisionados, quienes deberán dar aviso inmediato a la Secretaría Ejecutiva;
+
+III. Una vez recibida la solicitud de incorporación, la Secretaría Ejecutiva deberá registrarla en el Libro de Gobierno que al efecto lleve esta Comisión Estatal y determinará si aplica su incorporación acorde a las hipótesis previstas por esta Comisión Estatal;
+
+IV. Admitida la solicitud de incorporación, la sustanciación del procedimiento correrá a cargo de la Secretaría Ejecutiva de la Comisión Estatal con auxilio de la Dirección de Procesos, conforme a lo establecido en los Lineamientos Generales del Programa, siendo el Titular de la Secretaría Ejecutiva el responsable de determinar las medidas y acciones correspondientes al caso en concreto mediante acuerdo;
+
+V. Determinadas las acciones y/o medidas a realizar, éstas se les notificarán a los solicitantes;
+
+VI. Previo a la implementación de las medidas, los peticionarios deberán firmar una carta compromiso, donde se obliguen a realizar su implementación así como a utilizar de manera responsable los recursos económicos, materiales y humanos de la Comisión;
+
+VII. Al Implementar las medidas referentes a donaciones en especie, el beneficiario deberá suscribir contrato o recibo que ampare la donación del equipo que reciba, asentando su nombre, RFC, CURP y firma autógrafa;
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO III. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 103.
 
-Procede el recurso de queja contra aquellas acciones u omisiones cometidas por los funcionarios que integran las Direcciones de Procesos y Jurídica, y será resuelto por el Pleno de la Comisión en un plazo no mayor a 15 días hábiles.
+Los procedimientos, disposiciones generales y las medidas y/o acciones a implementar que contempla el Programa Preventivo y de Seguridad, se encuentran instituidos en los Lineamientos Generales del Programa Preventivo y de Seguridad de esta Comisión.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 104.
+
+Cuando el análisis realizado en el diagnóstico arroje datos que determinen la necesidad de implementar medidas duras en razón del riesgo al que se encuentra expuesto el peticionario, se realizará una valoración integral del caso en concreto y se iniciará un procedimiento ordinario de medidas de protección, con la finalidad de determinar el esquema de seguridad idóneo y eficaz para resguardar la integridad física del periodista.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 105.
+
+Para la ejecución de las medidas preventivas, se atenderá a la disponibilidad presupuestal con que cuente la Comisión, así como la suficiencia de recursos materiales, tecnológicos y humanos para su implementación.
 
 ## TRANSITORIOS
 
@@ -1434,3 +1484,11 @@ Primero. Se aprueba el proyecto de reforma y adhesión al Reglamento Interior de
 Segundo. Se instruye al Secretario Ejecutivo, para que se publique en la Gaceta Oficial del Estado y el Portal de Transparencia del sitio de Internet de la Comisión Estatal para la Atención y Protección de los Periodistas.
 
 Tercero. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación.
+
+G.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO CEAPP/PLENO/SO-02/01-02-2018 DEL PLENO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, POR EL CUAL SE APRUEBA EL PROYECTO DE REFORMA Y ADHESIÓN AL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2 Y 11; Y SE ADICIONA EL TÍTULO TERCERO, REFERENTE AL PROGRAMA PREVENTIVO Y DE SEGURIDAD, ASÍ COMO LOS NUMERALES 100, 101, 102, 103, 104 Y 105".]
+
+Único. Las reformas al Reglamento Interior de la Comisión Estatal para la Atención y Protección de los Periodistas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+> <small>[N. DE E. VÉASE PROYECTO DE LINEAMIENTOS GENERALES PARA LA IMPLEMENTACIÓN DEL PROGRAMA PREVENTIVO Y DE SEGURIDAD DE LA CEAPP, EN LA G.O. DE 21 DE FEBRERO DE 2018, PÁGINAS DE LA 6 A LA 11.]</small>
