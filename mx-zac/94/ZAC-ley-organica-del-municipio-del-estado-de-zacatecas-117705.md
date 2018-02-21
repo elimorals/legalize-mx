@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2017-09-13"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -414,6 +414,10 @@ IV. Por declaración judicial.
 La residencia en un Municipio no se perderá cuando la persona se traslade a residir en otro lugar, en función del desempeño de un cargo de elección popular, de un empleo público, comisión de carácter oficial o por razones académicas o de salud, siempre que no sea en forma permanente.
 
 Las constancias de residencia, en sentido afirmativo o negativo, y la pérdida de la misma, las expedirá el titular de la Secretaría de Gobierno Municipal. El interesado deberá acreditar su situación de residencia, mediante documento público.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+De la misma forma, la Secretaría de Gobierno Municipal podrá emitir, a solicitud del interesado, constancias de vecindad, última residencia o de origen, en un plazo que no deberá exceder de 48 horas.
 
 ### Capítulo V. Colaboración entre el Estado y el Municipio
 
@@ -4060,3 +4064,9 @@ P.O. 13 DE SEPTIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 214.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL INCISO B, DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS, EN MATERIA DE EMISIÓN DE CARTAS DE RESIDENCIA, DE ÚLTIMA RESIDENCIA Y DE CARTAS DE ORIGEN”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
