@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-para-el-estado-de-zacatecas-82646"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-20"
-last_updated: "2016-01-09"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 20 de agosto de 2011.
 
@@ -37,7 +37,9 @@ RESULTANDO SEGUNDO.- Mediante memorándum número 0266 de fecha 15 de Marzo de 2
 
 RESULTANDO TERCERO.- La Iniciativa de Decreto se sustentó en la siguiente:
 
-"EXPOSICIÓN DE MOTIVOS.
+"EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -311,21 +313,25 @@ b) Secretaría de Seguridad Pública;
 
 c) Secretaría de Infraestructura;
 
-d) Secretaría de Finanzas;
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-e) Servicios de Salud;
+d) La Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+e) Secretaría de Finanzas;
 
-f) Secretaria de la Administración;
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
-
-g) Secretaría de Educación; y
+f) Servicios de Salud;
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-h) Secretaria del Agua y Medio Ambiente;
+g) Secretaria de la Administración;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+h) Secretaría de Educación; y
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+i) Secretaria del Agua y Medio Ambiente;
 
 V. Un representante de las dependencias del Poder Ejecutivo Federal, a través de sus delegaciones en la Entidad:
 
@@ -1358,3 +1364,11 @@ P.O. 9 DE ENERO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Las dependencias y entidades de los Poderes Públicos del Estado, los Ayuntamientos y los órganos autónomos deberán prever en su proyecto de presupuesto para el siguiente ejercicio fiscal, los recursos necesarios para comenzar con las adecuaciones que derivan del presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
