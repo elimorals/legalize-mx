@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2015-08-19"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -765,33 +765,37 @@ IV. El titular de la Secretaría de Educación;
 
 V. El titular de la Secretaría de Infraestructura;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-VI. El titular de la Secretaría del Campo;
-
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
-
-VII. El titular de la Secretaría de Economía;
+VI. El Titular de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VIII. El titular de la Secretaría de Turismo;
+VII. El titular de la Secretaría del Campo;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IX. La titular de la Secretaría de las Mujeres;
+VIII. El titular de la Secretaría de Economía;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-X. El Director General del Instituto Zacatecano de Cultura "Ramón López Velarde";
+IX. El titular de la Secretaría de Turismo;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XI. El Director General de los Servicios de Salud del Estado, y
+X. La titular de la Secretaría de las Mujeres;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XII. El Subsecretario de la Juventud.
+XI. El Director General del Instituto Zacatecano de Cultura "Ramón López Velarde";
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. El Director General de los Servicios de Salud del Estado, y
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XIII. El Director General del Instituto de la Juventud del Estado.
 
 Podrán ser invitados a participar, con derecho a voz, los titulares de otras dependencias y entidades de la administración pública estatal y federal. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 
@@ -1126,3 +1130,11 @@ P.O. 19 DE AGOSTO DE 2015.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 218 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE ZACATECAS, LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS Y LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, EN MATERIA DE DESARROLLO URBANO, RESPECTO DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
