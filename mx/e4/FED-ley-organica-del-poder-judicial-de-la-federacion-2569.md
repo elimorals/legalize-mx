@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2018-01-26"
+last_updated: "2018-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -740,9 +740,13 @@ k) Los señalados en el artículo 389 del Código Penal cuando se prometa o se p
 
 l) Los cometidos por o en contra de funcionarios electorales federales o de funcionarios partidistas en los términos de la fracción II del artículo 401 del Código Penal, y
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-m) Los previstos en los artículos 366, fracción III; 366 ter y 366 quáter del Código Penal Federal, cuando el delito sea con el propósito de trasladar o entregar al menor fuera del territorio nacional.
+m) Los previstos en los artículos 366, fracción III; 366 Ter y 366 Quáter del Código Penal Federal, cuando el delito sea con el propósito de trasladar o entregar al menor fuera del territorio nacional, y
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+n) El previsto en los artículo (sic) 376 Ter y 376 Quáter del Código Penal Federal.
 
 II. De los procedimientos de extradición, salvo lo que se disponga en los tratados internacionales.
 
@@ -4025,3 +4029,9 @@ Sexto. Las Casas de la Cultura de la Suprema Corte de Justicia de la Nación apo
 Séptimo. A la entrada en vigor del presente Decreto se suspenderán las transferencias a la Suprema Corte de Justicia de la Nación de los expedientes de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, aun cuando ya se encuentren programadas.
 
 Octavo. El Centro de Documentación y Análisis conservará bajo su resguardo los expedientes históricos de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, depositados en las Casas de la Cultura Jurídica, conforme a lo establecido en las normas administrativas generales que para tal efecto expida el Pleno de la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal.
+
+D.O.F. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, EN MATERIA DE DELITOS CARRETEROS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
