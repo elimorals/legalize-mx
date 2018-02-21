@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-11-17"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -5653,6 +5653,26 @@ ARTICULO 376 bis.- Cuando el objeto robado sea un vehículo automotor terrestre 
 
 La pena prevista en el párrafo anterior se aumentará en una mitad, cuando en el robo participe algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o ejecución de penas y, además se le aplicará destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
 
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+###### ARTICULO 376 Ter.
+
+A quien cometa el delito de robo en contra de personas que presten o utilicen por sí o por un tercero los servicios de autotransporte federal de carga, pasajeros, turismo o transporte privado, se le impondrá una pena de 6 a 12 años de prisión, cuando el objeto del robo sea (sic) las mercancías y de 2 a 7 años de prisión, cuando se trate únicamente de equipaje o valores de turistas o pasajeros, en cualquier lugar durante el trayecto del viaje, con independencia del valor de lo robado.
+
+Cuando el objeto del robo sea el vehículo automotor se aplicará lo dispuesto en los artículos 376 Bis y 377 de este Código, sin perjuicio de que se acumulen las penas que correspondan por otras conductas ilícitas que concurran en la realización del delito, incluidas las previstas en el párrafo primero del presente artículo.
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
+
+###### ARTICULO 376 Quáter.
+
+Además de la pena que le corresponda conforme al primer párrafo del artículo anterior, se aplicarán las previstas en este artículo en los casos siguientes:
+
+I.- La pena de prisión se aumentará en un tercio cuando exista apoderamiento del remolque o semirremolque y sea utilizado para cometer otro ilícito, y
+
+II.- La pena de prisión se aumentará en una mitad cuando, a sabiendas de sus funciones el servidor público, cometa o participe en el robo y este tenga o desempeñe funciones de prevención, investigación, persecución del delito o ejecución de penas, con independencia de la sanción penal, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión pública por un tiempo igual al de la pena de prisión impuesta.
+
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 377.
@@ -5693,11 +5713,11 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodera una
 
 Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión o de 30 a 90 días multa, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO N. DE E. ESTE PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 381.
 
-Además de la pena que le corresponda conforme a los artículos 370 y 371, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
+Además de la pena que le corresponda conforme a los artículos 370, 371 y el primer párrafo del artículo 376 Ter, se aplicarán al delincuente las penas previstas en este artículo, en los casos siguientes:
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -5739,9 +5759,7 @@ XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o 
 
 XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
 
-(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
-
-XIII.- Cuandos (sic) se comete sobre equipaje o valores de viajeros en cualquier lugar durante el transcurso del viaje;
+XIII.- (DEROGADA, D.O.F. 21 DE FEBRERO DE 2018)
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
@@ -5759,9 +5777,9 @@ XVI.- Cuando se cometa en caminos o carreteras, y
 
 XVII.- Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2018)</small>
 
-En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIII, XIV y XV, hasta cinco años de prisión.
+En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIV y XV, hasta cinco años de prisión.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
@@ -8144,3 +8162,9 @@ Vigésimo. En tanto las Entidades Federativas se encuentren en la integración d
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
 
 Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
+
+D.O.F. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, EN MATERIA DE DELITOS CARRETEROS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
