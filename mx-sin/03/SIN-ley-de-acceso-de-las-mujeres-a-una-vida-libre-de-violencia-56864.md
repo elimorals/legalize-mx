@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2017-12-11"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -115,7 +115,9 @@ II. DIF Estatal: el organismo público descentralizado denominado Sistema para e
 
 III. DIF Municipal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
 
-IV. CEPAVI: Consejo Estatal para la Prevención y Atención de Violencia Intrafamiliar;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IV. CEPAVIF: Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
 
 V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
@@ -207,7 +209,9 @@ X. A que se respete la dignidad inherente a su persona y se proteja a su familia
 
 Las mujeres que son víctimas de cualquier tipo y modalidad de violencia tendrán los siguientes derechos:
 
-I. Protección inmediata y efectiva por parte de las autoridades;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+I. Protección inmediata y efectiva por parte de las autoridades, especialmente si se encuentra embarazada o es persona con discapacidad, indígena o migrante;
 
 II. Trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
 
@@ -221,6 +225,10 @@ VI. Atención en un refugio temporal; y,
 
 VII. Los demás que establezca esta Ley, su reglamento y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
@@ -229,7 +237,23 @@ VII. Los demás que establezca esta Ley, su reglamento y demás disposiciones le
 
 La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, cuyo agresor tenga o haya tenido relación de parentesco, matrimonio, concubinato o mantenga o haya mantenido una relación de hecho.
 
-Contra la violencia familiar se aplicarán las disposiciones de la Ley para Prevenir y Atender la Violencia Intrafamiliar, así como lo dispuesto en la legislación civil y penal del estado de Sinaloa.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Contra la violencia familiar se aplicarán las disposiciones de la Ley para la Prevención y Atención de la Violencia Familiar del Estado, así como lo dispuesto en la legislación civil, familiar y penal del Estado de Sinaloa, en tanto no contradiga lo estipulado en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 14 Bis.
+
+Los modelos de prevención, atención y sanción que establezcan el Estado y los municipios, deben garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+
+II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+
+III. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia; y
+
+IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -251,9 +275,23 @@ Constituyen violencia docente las conductas que dañen la autoestima de las alum
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 18.
 
-La violencia en la comunidad son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
+La violencia en la comunidad son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 18 Bis.
+
+El Estado debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y
+
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
@@ -353,17 +391,21 @@ El Sistema Estatal se conformará por las y los titulares de:
 
 I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
 
-II. La Secretaría de Desarrollo Social y Sustentable;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. Secretaría de Desarrollo Social;
 
 III. La Secretaría de Seguridad Pública;
 
-IV. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IV. La Fiscalía General del Estado;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
 
 V. La Subprocuraduría de Derechos Humanos y Atención a Víctimas;
 
-VI. La Secretaría de Educación Pública y Cultura;
+VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
 VII. La Secretaría de Salud;
 
@@ -388,6 +430,8 @@ XII. Los organismos y dependencias instituidos en el ámbito municipal para la p
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 28.
 
@@ -485,9 +529,11 @@ VIII. Difundir a través de diversos medios de comunicación, los resultados del
 
 IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Desarrollo Social y Sustentable será la encargada de:
+La Secretaría de Desarrollo Social será la encargada de:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -581,11 +627,11 @@ e) Los recursos erogados en la atención de las víctimas; y,
 
 Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 37.
 
-Corresponde a la Subprocuraduría de Derechos Humanos y Atención a Víctimas, en materia de violencia en contra de las mujeres:
+Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres:
 
 I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
@@ -609,7 +655,17 @@ VII. Crear un sistema de registro sistemático de los delitos cometidos en contr
 
 VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, así como en la investigación de feminicidios y violencia sexual; y
 
-IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IX. Suministrar en tiempo y forma la información que se requiera para el Banco de Datos e Información sobre Casos de Violencia contra las Mujeres correspondiente sobre las carpetas de investigación iniciadas por delitos cometidos contra las mujeres, así como de las órdenes de protección emitidas por el Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+X. Desde una perspectiva de género, deberá implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, acatando el deber de diligencia, aplicar con prontitud y eficacia las medidas u órdenes de protección de emergencia y preventivas, así como las demás procedentes conforme al artículo 137 del Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 38.
 
@@ -617,7 +673,13 @@ Sin menoscabo de las responsabilidades que le otorga el decreto de su creación,
 
 I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
 
-II. Organizar y mantener actualizado el Banco Estatal de Datos e información sobre los casos de violencia contra las mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de la (sic) mismas, así como la información que generen las instituciones encargadas de promover en el Estado los derechos humanos;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los Casos de Violencia Contra las Mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado, los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Asimismo, en dicho Banco se deberán registrar las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias. Para tales efectos, la Fiscalía General del Estado deberá coadyuvar con el Instituto con el objeto de compartir el número de solicitudes de órdenes de protección ante los órganos jurisdiccionales, su viabilidad y seguimiento;
 
 III. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -669,7 +731,9 @@ I. Realizar las actividades en el ámbito de su respectiva competencia, el fomen
 
 II. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información y datos estadísticos que requieran para el debido cumplimiento;
 
-III. Coadyuvar con la Procuraduría en la atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+III. Coadyuvar con la Fiscalía General del Estado en la atención, sanción y erradicación de la violencia contra las mujeres;
 
 IV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
 
@@ -677,9 +741,11 @@ V. Canalizar a las víctimas de violencia a las instituciones que les presten as
 
 VI. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 41.
 
-Corresponde al Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar:
+Corresponde al CEPAVIF:
 
 I. Coadyuvar en la promoción de los derechos humanos de las mujeres;
 
@@ -699,7 +765,7 @@ VI. Las demás previstas para el cumplimiento de esta Ley y otras disposiciones 
 
 ###### Artículo 42.
 
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán solicitarse por el Ministerio Público a las autoridades jurisdiccionales, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
 
 ###### Artículo 43.
 
@@ -711,9 +777,17 @@ II. Preventivas; y,
 
 III. De naturaleza civil y familiar.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-Las órdenes de protección de emergencia y preventivas solicitadas por el Ministerio Público, en su calidad de autoridad administrativa, emitidas por la autoridad jurisdiccional, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
+Las órdenes de protección podrán ser solicitadas por la víctima o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de aquélla y de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+En la emisión de medidas u órdenes de protección, las autoridades acatarán el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
 
@@ -807,13 +881,37 @@ V. Obligación alimentaria provisional e inmediata.
 
 La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
+
+Serán consideradas de extrema emergencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
+
+I. Mujeres embarazadas;
+
+II. Mujeres que tengan alguna discapacidad;
+
+III. Mujeres menores de edad;
+
+IV. Mujeres que tengan calidad de migrantes;
+
+V. Mujeres que pertenezcan a un grupo indígena; y
+
+VI. Mujeres con cualquier factor especial de vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 49.
 
-Corresponde a las autoridades jurisdiccionales dictar órdenes de protección y la determinación de medidas similares a las que se refiere este capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+Corresponde a las autoridades jurisdiccionales dictar, incluso de oficio, órdenes de protección y la determinación de medidas similares a las que se refiere este Capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
 
 ###### Artículo 50.
 
 Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 50 Bis.
+
+La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
 
 ### Capítulo Segundo. De las promociones
 
@@ -1234,3 +1332,13 @@ P.O. 11 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción de lo dispuesto en el artículo siguiente.
 
 SEGUNDO. La reforma a la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa entrará en vigor el día siguiente a aquel en que el Tribunal Estatal Electoral emita la última declaratoria de validez de las elecciones que se llevarán a cabo el primer domingo de julio de 2018.
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 378 DEL H. CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO FAMILIAR AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Para efecto de materializar la coadyuvancia que se señala en el artículo 38, fracción II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, el Instituto Sinaloense de las Mujeres, la Fiscalía General del Estado y el Poder Judicial del Estado deberán celebrar convenio de coordinación dentro de los treinta días siguientes al inicio de vigencia del presente Decreto.
+
+TERCERO. Dentro del término de ciento veinte días naturales posteriores al inicio del Presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
