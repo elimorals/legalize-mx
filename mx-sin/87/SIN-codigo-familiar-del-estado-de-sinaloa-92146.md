@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2017-05-24"
+last_updated: "2018-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -525,7 +525,9 @@ IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
 V. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VI. La fuerza o miedo graves. En caso de rapto, subsiste el impedimento, en tanto no se pueda manifestar la voluntad libremente;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+VI. La fuerza o miedo graves;
 
 VII. Tener alguno de los padecimientos señalados en la fracción II del artículo 395 de este Código;
 
@@ -1257,9 +1259,11 @@ La cesación de la cohabitación decretada por el juez, suspende la obligación 
 
 ### CAPITULO II. Del Divorcio
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 181.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
 Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
@@ -1285,11 +1289,11 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 184.
 
-Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común, o teniéndolos, sean mayores de edad, y estos no requieran alimentos o alguno de los cónyuges. El oficial del registro civil, previa identificación de los cónyuges, levantará un acta en que hará constar la solicitud de divorcio y citará a estos para que la ratifiquen a los quince días. Si los cónyuges lo hacen, el oficial del registro civil los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando después de la celebración del matrimonio ambos cónyuges convengan en divorciarse, hayan liquidado la sociedad conyugal de bienes; si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos, sean mayores de edad y estos no requieran alimentos o alguno de los cónyuges. El oficial del registro civil, previa identificación de los cónyuges, levantará un acta en que hará constar la solicitud de divorcio y citará a estos para que la ratifiquen a los quince días. Si los cónyuges lo hacen, el oficial del registro civil los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
@@ -1349,9 +1353,9 @@ III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus
 
 IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 187 de este Código, el juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley para Prevenir y Atender la Violencia Intrafamiliar del Estado de Sinaloa y Ley de Acceso de las Mujeres a una vida libre de violencia para el Estado de Sinaloa. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el Código de Procedimientos Familiares para el Estado de Sinaloa;
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley para la Prevención y Atención de la Violencia Familiar, y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, ambas del Estado. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el Código de Procedimientos Familiares del Estado;
 
 VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
 
@@ -1637,23 +1641,35 @@ El acreedor alimentista, puede exigir el cumplimiento o la indemnización, de ha
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 231.
 
-Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica y sexual, y tienen la obligación de evitar conductas que generen violencia familiar.
+Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica, patrimonial y sexual, y tienen la obligación de evitar conductas que generen violencia familiar.
 
 A tal efecto, contarán con la asistencia y protección de las instituciones públicas, de acuerdo a las leyes para combatir y prevenir conductas de violencia familiar, mismas que garantizarán el cumplimiento de una vida libre de violencia.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 232.
 
-La violencia familiar, es aquel acto u omisión intencional, dirigida a dominar, someter, controlar o agredir física, verbal, psicoemocional, económica o sexualmente, a cualquier integrante de la familia dentro o fuera del domicilio familiar. Puede manifestarse de la siguiente manera:
+La violencia familiar es un acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica o patrimonial a cualquier integrante de la familia, dentro o fuera del domicilio familiar, por quien tenga o haya tenido algún parentesco por afinidad, civil, matrimonio, concubinato o a partir de una relación de hecho y que tenga por efecto causar un daño o sufrimiento. Puede manifestarse de la siguiente manera:
 
-I. Violencia física, es todo acto intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
+I. Violencia física, es todo acto intencional en que se utilice alguna parte del cuerpo, objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otra persona;
 
-II. Violencia psicoemocional, es todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, abandono, humillaciones o actitudes devaluatorias, que provoquen en quien las recibe alteración auto cognitiva y auto valorativa que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica de esa persona, para el control, manipulación o dominio de la misma;
+II. Violencia psicoemocional, es todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, insultos, amenazas, celotipia, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actividades devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa que integran su autoestima;
 
-III. Violencia económica, son los actos que implican control de los ingresos, el apoderamiento de los bienes propiedad de la otra parte, la retención, menoscabo, destrucción o desaparición de objetos, documentos personales, bienes, valores, derechos o recursos económicos de la pareja o de un integrante de la familia. Así como el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas; y,
+III. Violencia económica, es toda acción u omisión que afecta la economía de la persona receptora, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas y puede consistir en la restricción o limitación de los recursos económicos;
 
-IV. Violencia sexual, que son los actos u omisiones y cuyas formas de expresión pueden ser, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+IV. Violencia sexual, es toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la persona; y
+
+V. Violencia patrimonial, es todo acto u omisión que ocasionen daño directo o indirecto, a bienes muebles o inmuebles, tales como perturbación en la propiedad o posesión, sustracción, destrucción, menoscabo, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores, derechos patrimoniales o recursos económicos.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 232 Bis.
+
+Ante cualquier indicio de violencia, cualquier integrante de la familia podrá solicitar al Estado las medidas de protección que se mencionan en el Título Cuarto de la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado, y/o en el Capítulo VIII de la Ley para la Prevención y Atención de la Violencia Familiar del Estado.
 
 ### Capítulo II. De la Reparación del Daño
 
@@ -1667,11 +1683,11 @@ Independientemente de las responsabilidades derivadas de la obligación alimenta
 
 Estos gastos efectuados por las instituciones públicas, tendrán el carácter de créditos fiscales que podrán hacerse efectivos por la Secretaría de Administración y Finanzas del Estado, a través del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 235.
 
-Las personas que sean víctimas de este tipo de violencia, podrán acogerse en el Programa para la Protección de la Familia y Prevención de la Violencia Familiar que apruebe el Ejecutivo Estatal, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa, que para estos propósitos sea presentado por el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar.
+Las personas que sean víctimas de este tipo de violencia, podrán acogerse en el Programa para Prevenir y Atender la Violencia Familiar, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa, que para estos propósitos sea presentado por el Consejo Estatal para la Prevención y Atención de la Violencia Familiar.
 
 ### Capítulo III. Del Tratamiento Institucional
 
@@ -6615,6 +6631,38 @@ Los oficiales del registro civil, que celebren algún acto del estado familiar d
 
 En los casos de la celebración del matrimonio, deberá de exigir a los solicitantes, el certificado de orientación prematrimonial señalado en la fracción III del artículo 49 de este Código, expedido por el propio oficial del registro civil o la Procuraduría de Protección de Niñas, Niños y Adolescentes, o por los organismos públicos y privados autorizados para estos fines.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
+
+Para la expedición de dicho certificado será necesaria la asistencia previa de los interesados a los talleres de orientación prematrimonial. En dichos talleres se informará cuando menos sobre:
+
+I. Los requisitos para contraer matrimonio;
+
+II. Los efectos del matrimonio con relación a los cónyuges y a sus hijas o hijos;
+
+III. Los regímenes patrimoniales del matrimonio;
+
+IV. La forma, términos, implicaciones, derechos y obligaciones de la patria potestad;
+
+V. El patrimonio de familia;
+
+VI. El manejo de conflictos interpersonales, entendiéndose como la divergencia de ideas, creencias, motivaciones u objetivos;
+
+VII. La paternidad responsable;
+
+VIII. La responsabilidad financiera;
+
+IX. La violencia familiar y sus modalidades; y
+
+X. La corresponsabilidad en el desempeño de las tareas del hogar.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Al término del taller, la autoridad encargada de su implementación, deberá recabar la opinión de los asistentes respecto a la calidad de la información recibida y al grado de conocimiento del tema de los facilitadores.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Dicho taller será de naturaleza obligatoria y deberá tener una duración de tres horas o tres sesiones de una hora cada una.
+
 ###### Artículo 1120.
 
 Las parejas que decidan unirse en matrimonio deberán de solicitarlo en la forma y términos que establece el artículo 1155 de este Código.
@@ -6965,7 +7013,9 @@ II. El estado familiar de éste, y si era casado, concubino o viudo, el nombre y
 
 III. Los nombres, apellidos, nacionalidad, edad, ocupación y domicilio de los testigos, y si fueran parientes, el grado en que lo sean;
 
-IV. La causa que determinó la muerte y específicamente el lugar en que se sepulte el cadáver, o se depositen las cenizas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IV. La causa que determinó la muerte y, en su caso, si se dio por violencia familiar o de género; así como el lugar en que se sepulte el cadáver o se depositen las cenizas;
 
 V. Los nombres y nacionalidad de los padres del difunto, si se supieren;
 
@@ -7358,3 +7408,13 @@ P.O. 24 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 124 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 344 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 378 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO FAMILIAR; AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Para efecto de materializar la coadyuvancia que se señala en el artículo 38, fracción II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, el Instituto Sinaloense de las Mujeres, la Fiscalía General del Estado y el Poder Judicial del Estado deberán celebrar convenio de coordinación dentro de los treinta días siguientes al inicio de vigencia del presente Decreto.
+
+TERCERO. Dentro del término de ciento veinte días naturales posteriores al inicio del Presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
