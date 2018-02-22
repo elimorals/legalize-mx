@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2017-08-15"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -67,11 +67,13 @@ Los Poderes Legislativo y Judicial, los Órganos Autónomos, las dependencias y 
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, la Secretaría, a través del Sistema Estatal, establecerá vínculos de coordinación con las dependencias y entidades del sector público y realizará campañas de difusión de la Ley, informativas y de orientación, y pondrá a disposición de la ciudadanía los medios de comunicación expedita que sean necesarios para el reporte de emergencias y situaciones de riesgo.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 3.
 
-El Gobernador del Estado, en la iniciativa de Ley de Ingresos y en el Proyecto de Presupuesto de Egresos, incluirá lo concerniente a la protección civil y la reducción del riesgo de desastres.
+El Gobernador del Estado, en la iniciativa de Ley de Ingresos y en el Proyecto de Presupuesto de Egresos, incluirá lo concerniente a la protección civil y la reducción del riesgo de desastres; así mismo podrá considerar una partida específica que garantice, en el marco del Sistema Estatal de Protección Civil, la mejor operatividad de los Cuerpos de Bomberos.
 
-Será responsabilidad de cada Presidente Municipal incluir en el respectivo Proyecto de Presupuesto de Egresos los recursos destinados a ese propósito.
+Será responsabilidad de cada presidente municipal incluir en el respectivo Proyecto de Presupuesto de Egresos los recursos destinados a estos propósitos.
 
 ###### Artículo 4.
 
@@ -519,7 +521,13 @@ XXXI. Difundir, entre las autoridades correspondientes y la población en genera
 
 XXXII. Desarrollar mecanismos para que la instancia rectora de la comunicación social en el Gobierno del Estado promueva que los medios de comunicación, públicos y privados, transmitan campañas de orientación y difusión de los objetivos y prioridades de la protección civil y la reducción del riesgo de desastres, así como de medidas preventivas y de los sistemas de alertamiento; y
 
-XXXIII. Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXXIII. Definir la regionalización de los Cuerpos de Bomberos de la entidad, además de otorgar un visto bueno a la creación de los mismos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXXIV. Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
 
 ###### Artículo 30.
 
@@ -1471,8 +1479,18 @@ Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 G.O. 15 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 337 QUE REFORMA LOS ARTÍULOS 29, PRIMER PÁRRAFO, Y 92; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 337 QUE REFORMA LOS ARTÍCULOS 29, PRIMER PÁRRAFO, Y 92; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 616 POR EL QUE SE REFORMAN EL ARTÍCULO 3 Y LA FRACCIÓN XXXIII DEL ARTÍCULO 29, Y SE ADICIONA UNA FRACCIÓN XXXIV AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN XLIV DEL ARTÍCULO 35, LA FRACCIÓN XXV DEL ARTÍCULO 72 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 74 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+Tercero. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos ya establecidos en las diferentes modalidades que prevalecen en el Estado, serán respetados por sus respectivos contratantes a partir de la entrada en vigor del presente Decreto.
