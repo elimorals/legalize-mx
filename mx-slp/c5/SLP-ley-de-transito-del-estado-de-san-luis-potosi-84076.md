@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2017-10-07"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -153,7 +153,7 @@ XXXII. Placa: plancha de metal en que figura el número de matrícula, que permi
 
 > <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-XXXII Bis. Póliza de Seguro: documento expedido por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, al propietario o concesionario del vehículo; que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo;
+XXXII Bis. Póliza de Seguro: documento expedido por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, al propietario o concesionario del vehículo, que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo;
 
 XXXIII. Prueba de alcoholimetría: Procedimiento llevado a cabo por la autoridad con el fin de determinar si una persona presenta aliento alcohólico ó estado de ebriedad;
 
@@ -409,9 +409,17 @@ IX. Parabrisas y limpiaparabrisas;
 
 X. Llanta de refacción y herramienta indispensable para efectuar el cambio;
 
-XI. Equipo de señalización para casos de emergencia, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2018)</small>
 
-XII. Sillas porta-infante, en su caso.
+XI. Equipo de señalización para casos de emergencia;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2018)</small>
+
+XII. Sillas porta-infante, en su caso, y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2018)</small>
+
+XIII. Para el caso de los vehículos a que se refiere el inciso a), numerales 1 y 2, del artículo 17 de la presente Ley, éstos deberán contar con cascos de protección para sus ocupantes.
 
 ## TITULO CUARTO. DE LOS REQUISITOS ADMINISTRATIVOS PARA LA CIRCULACION
 
@@ -1608,6 +1616,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 7 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0714.- SE REFORMA EL ARTÍCULO 29 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 6º LA FRACCIÓN XXXII BIS, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 894.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
