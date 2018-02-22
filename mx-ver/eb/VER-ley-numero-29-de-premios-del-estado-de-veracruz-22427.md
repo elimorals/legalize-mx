@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2017-02-17"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -227,21 +227,31 @@ Artículo 18 Quinter. Exclusivamente para el otorgamiento de la Medalla Veracruz
 
 ### Capítulo Tercero. De la Medalla Adolfo Ruíz Cortines
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 19.
 
-Esta Medalla la concederá el Congreso del Estado anualmente, a los veracruzanos que se distingan por sus acciones en la participación ciudadana de la sociedad.
+Esta medalla la concederá el Congreso del Estado anualmente, a los veracruzanos que se distingan por sus acciones en la participación ciudadana de la sociedad y aquellas instituciones públicas o sociales que con sus acciones hayan contribuido a mejorar las condiciones de vida de los veracruzanos.
 
 ###### Artículo 20.
 
 Para el otorgamiento de la Medalla Adolfo Ruíz Cortines, se seguirá el procedimiento siguiente:
 
-I. El Congreso del Estado, en el mes de noviembre de cada año, nombrará una comisión de cinco diputados, que tendrán la obligación de formular la convocatoria para que se proponga a los ciudadanos que se consideren merecedores de la distinción;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+I. El Congreso del Estado en el mes de noviembre de cada año, nombrará una comisión de cinco diputados, que tendrán la obligación de formular la convocatoria para que se proponga a los ciudadanos o instituciones públicas o sociales que se consideren merecedores de la distinción;
 
 II. Las propuestas que se hagan con motivo de la convocatoria, deberán acompañarse de una semblanza y exposición de motivos;
 
-III. Concluido el término de la convocatoria, la comisión seleccionará de entre los ciudadanos propuestos, a tres que a su juicio sean los de mayor mérito a recibir la distinción, razonando y motivando su decisión; y
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+III. Concluido el término de la convocatoria, la comisión seleccionará de entre los ciudadanos e instituciones públicas o sociales propuestos, a tres que a su juicio sean los de mayor mérito a recibir la distinción, razonando y motivando su decisión; y
 
 IV. El Dictamen de la Comisión se someterá a la consideración del Pleno del Congreso, que decidirá a quien se le otorga la Medalla.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
+Para efectos de complementariedad, los conceptos previstos en este artículo, se tendrán por referidos en lo dispuesto en el artículo 1, de la Ley de Premios del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 21.
 
@@ -457,6 +467,14 @@ Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
 
 G.O. 17 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 239 QUE REFORMA LOS ARTÍCULOS 23 OCTIES, 23 NONIES Y 23 DECIES, DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 239 QUE REFORMA LOS ARTÍCULOS 23 OCTIES, 23 NONIES Y 23 DECIES, DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 619 QUE REFORMA EL ARTÍCULO 19 Y LAS FRACCIONES I Y III DEL ARTÍCULO 20 DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
