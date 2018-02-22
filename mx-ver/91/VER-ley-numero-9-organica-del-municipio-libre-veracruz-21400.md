@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-12-26"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1825,9 +1825,9 @@ XXIII. Expedir copias certificadas de los documentos que obren en sus archivos; 
 
 XXIV. Cumplir con los indicadores de desempeño del ámbito de su competencia y turnarlos a los órganos de control y autoridad competente; y
 
-> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
 
-XXV. Etiquetar en el presupuesto Municipal recursos para la operación y/o ejecución del Instituto Municipal de las Mujeres, así como para el Plan Municipal para la Igualdad;
+XXV. Etiquetar en el presupuesto municipal recursos para la operación o ejecución del Instituto Municipal de las Mujeres, para el Plan Municipal para la Igualdad; así como para contribuir, en su caso, al sostenimiento de los Cuerpos de Bomberos que corresponda según su regionalización y de acuerdo a su capacidad presupuestal; y
 
 > <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
 
@@ -2098,6 +2098,10 @@ XI. Las demás que le otorguen esta Ley y demás leyes aplicables del Estado.
 ###### Artículo 74.
 
 Los Ayuntamientos podrán crear, previa autorización del Congreso del Estado, las entidades paramunicipales necesarias para el correcto desempeño de sus atribuciones. Las entidades paramunicipales gozarán de autonomía de gestión para el debido cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto, los órganos de gobierno o equivalentes en las entidades paramunicipales, según sea el caso, expedirán su correspondiente normatividad interior la que deberá establecer las bases específicas de organización, funcionamiento y atribuciones de sus respectivos directores generales o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en los términos que señale esta ley y registrarse ante el Congreso del Estado.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
+En el caso de los Cuerpos de Bomberos, los Ayuntamientos podrán crear organismos públicos intermunicipales de conformidad con lo establecido en el presente artículo.
 
 ###### Artículo 75.
 
@@ -4146,3 +4150,13 @@ G.O. 26 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 616 POR EL QUE SE REFORMAN EL ARTÍCULO 3 Y LA FRACCIÓN XXXIII DEL ARTÍCULO 29, Y SE ADICIONA UNA FRACCIÓN XXXIV AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN XLIV DEL ARTÍCULO 35, LA FRACCIÓN XXV DEL ARTÍCULO 72 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 74 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+Tercero. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos ya establecidos en las diferentes modalidades que prevalecen en el Estado, serán respetados por sus respectivos contratantes a partir de la entrada en vigor del presente Decreto.
