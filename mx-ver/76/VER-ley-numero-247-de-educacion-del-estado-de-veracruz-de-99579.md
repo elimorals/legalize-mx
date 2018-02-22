@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-02-20"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1593,7 +1593,9 @@ I. Todos los elementos y procesos contribuyan al desarrollo integral del educand
 
 II. La base científica de la operación educativa se integre con las ciencias de los aprendizajes y el conocimiento de los educandos; y
 
-III. La orientación del conjunto programado se derive de los valores de la sociedad.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+III. La orientación del conjunto programado se derive de los valores de la sociedad, para lo cual todas las instituciones de nivel medio superior deberán establecer en sus programas de estudio una cátedra para la paz, con la finalidad de fomentar la cultura de paz como un conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida basados en los principios de libertad, justicia, democracia, solidaridad, pluralismo, diversidad cultural, diálogo y entendimiento, establecidos por la Organización de las Naciones Unidas.
 
 ### CAPÍTULO XVIII. DE LA COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS
 
@@ -2026,3 +2028,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. La autoridad educativa estatal deberá actualizar, en un plazo que no excederá de noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, el padrón estatal de alumnos establecido en la fracción XII del artículo 18 de esta misma Ley, con base en los datos de alumnos inscritos para el ciclo escolar 2017-2018, más un porcentaje adicional que la propia Secretaría considere, para poder establecer el monto de inversión que deberá proponerse al Ejecutivo del Estado para la modificación del Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2018.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 618 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 154 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
