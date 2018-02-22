@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2017-11-23"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -451,7 +451,9 @@ La Comisión tendrá el personal técnico y administrativo que requiera para su 
 
 El Consejo de Administración se integrará por los siguientes miembros;
 
-I. El Gobernador del Estado y los Secretarios de: Finanzas y Planeación; de Desarrollo Agropecuario, Forestal y Pesca; de Salud y de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+I. El Gobernador del Estado y los titulares de las Secretarías de Finanzas y Planeación; Desarrollo Agropecuario, Forestal y Pesca; Salud; Desarrollo Social y Medio Ambiente y de la Procuraduría Estatal de Protección al Medio Ambiente.
 
 II. Un representante de los usuarios; y
 
@@ -611,7 +613,13 @@ c) Río Papaloapan: Córdoba y San Andrés Tuxtla.
 
 d) Coatzacoalcos: Minatitlán y Coatzacoalcos.
 
-II. El Secretario de Desarrollo Social y Medio Ambiente.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+II. El Secretario de Desarrollo Social;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+II BIS. El Secretario de Medio Ambiente;
 
 III. El Secretario de Finanzas y Planeación.
 
@@ -623,7 +631,13 @@ VI. El Secretario de Desarrollo Agropecuario, Forestal y Pesca.
 
 VII. El Secretario de Educación;
 
-VIII. Dos diputados, representantes del H. Congreso del Estado; y
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+VII BIS. El procurador Estatal de Protección al Medio Ambiente;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+VIII. Dos diputados del Congreso del Estado, que serán los Presidentes de las Comisiones Permanentes de Agua Potable y Saneamiento y de Medio Ambiente, Recursos Naturales y de Cambio Climático;
 
 IX. Un Secretario Técnico del Consejo, que será el Director General de la Comisión y estará encargado de ejecutar los acuerdos del Consejo.
 
@@ -2064,3 +2078,11 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 626 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
