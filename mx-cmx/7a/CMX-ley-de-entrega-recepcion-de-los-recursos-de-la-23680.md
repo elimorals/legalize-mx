@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-entrega-recepcion-de-los-recursos-de-la-23680"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-13"
-last_updated: "2002-03-13"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23680&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-02-28"
 ---
 # LEY DE ENTREGA RECEPCION DE LOS RECURSOS DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE ENTREGA-RECEPCION DE LOS RECURSOS DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL --
 
-LEY DE ENTREGA-RECEPCION DE LOS RECURSOS DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
+LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el miércoles 13 de marzo de 2002.
 
@@ -48,63 +48,79 @@ II LEGISLATURA
 
 D E C R E T A:
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE FEBRERO DE 2018)</small>
+
+LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y establece las disposiciones conforme a los cuales los servidores públicos de la Administración Pública del Distrito Federal, al separarse de su empleo, cargo o comisión, deberán rendir por escrito el estado de los asuntos de su competencia y entregar los recursos humanos, materiales y financieros, que les hayan sido asignados para el ejercicio de sus funciones.
+La presente Ley es de orden público y establece las disposiciones conforme a los cuales los servidores públicos de la Administración Pública de la Ciudad de México, al separarse de su empleo, cargo o comisión, deberán rendir por escrito el estado de los asuntos de su competencia y entregar los recursos humanos, materiales y financieros, que les hayan sido asignados para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2.
 
-Para los efectos de la presente ley, se entenderá por:
+Para los efectos de la presente Ley, se entenderá por:
 
-I.- Contraloría General.- La Contraloría General del Distrito Federal.
+I. Contraloría General.- La Contraloría General de la Ciudad de México.
 
-II.- Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en la Administración Pública del Distrito Federal.
+II. Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en la Administración Pública de la Ciudad de México.
 
-III.- Dependencias.- Las señaladas en el artículo 3°, fracción VII de la Ley Orgánica de la Administración Pública del Distrito Federal.
+III. Dependencias.- Las Secretarías, la Fiscalía General de Justicia de la Ciudad de México, la Oficialía Mayor, la Secretaría de la Contraloría General y la Consejería Jurídica y de Servicios Legales.
 
-IV. - Entidades.- Las señaladas en el artículo 3° fracción VIII de la Ley Orgánica de la Administración Pública del Distrito Federal
+IV. Entidades.- Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos.
 
-V.- Entrega – Recepción.- El acto de entrega de los recursos humanos, materiales y financieros de un servidor público a su sustituto, el cual puede ser:
+V. Entrega - Recepción.- El acto de entrega de los recursos humanos, materiales y financieros de un servidor público a su sustituto, el cual puede ser:
 
-a) Intermedia.- Aquélla cuya causa no es la conclusión de un periodo de gestión en la Administración Pública del Distrito Federal.
+a) Intermedia.- Aquélla cuya causa no es la conclusión de un periodo de gestión en la Administración Pública de la Ciudad de México.
 
-b) Final.- Aquélla cuyo motivo es la conclusión de un periodo de gestión en la Administración Pública del Distrito Federal.
+b) Final.- Aquélla cuyo motivo es la conclusión de un periodo de gestión en la Administración Pública de la Ciudad de México.
 
-c) (sic) VI.- Órganos Político Administrativos.- Las Delegaciones del Gobierno del Distrito Federal en las demarcaciones territoriales.
+VI. Órganos Político Administrativos.- Las Alcaldías de la Ciudad de México en las demarcaciones territoriales.
 
-VII.- Ente.- Las entidades, dependencias y órganos político administrativos de la Administración Pública Local.
+VII. Ente.- Las entidades, dependencias y órganos político administrativos de la Administración Pública Local.
 
 ### CAPITULO SEGUNDO. SUJETOS Y ÓRGANOS
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 3.
 
-Los servidores públicos obligados por la presente Ley son, el Jefe de Gobierno del Distrito Federal, los titulares de las dependencias, unidades administrativas, órganos político administrativos, órganos desconcentrados y entidades; así como sus subordinados con nivel de Subsecretario. Director General, Director de Área, Subdirector. Jefe de Unidad departamental y los servidores públicos que ostenten un empleo, cargo o comisión, con niveles homólogos o equivalentes a los referidos.
+Los servidores públicos obligados por la presente Ley son, el Jefe de Gobierno de la Ciudad de México, los titulares de las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades; así como sus subordinados con nivel de subsecretario, Director General, Director de Área, Subdirector, Jefe de Unidad Departamental y los servidores públicos que ostenten un empleo, cargo o comisión, con niveles homólogos o equivalentes a los referidos.
+
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 4.
 
-La entrega-recepción de los recursos de las dependencias, entidades u órganos político administrativos del Gobierno del Distrito Federal a quienes sea aplicable en términos del artículo 3° de esta ley, deberá efectuarse por escrito, mediante acta administrativa que describa el estado que guarda la dependencia, entidad u órgano político administrativo correspondiente y que cumpla con los requisitos establecidos en la presente ley.
+La entrega-recepción de los recursos de las Dependencias, Entidades u Órganos Político Administrativos del Gobierno de la Ciudad de México a quienes sea aplicable en términos del artículo 3° de esta Ley, deberá efectuarse por escrito, mediante acta administrativa que describa el estado que guarda la Dependencia, Entidad u Órgano Político Administrativo correspondiente y que cumpla con los requisitos establecidos en la presente Ley.
+
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 5.
 
 En la entrega-recepción final intervendrán:
 
-I.- El Servidor Público titular saliente;
+I. El servidor público titular saliente;
 
-II.- El Servidor Público titular entrante;
+II. El servidor público titular entrante;
 
-III.- El representante de la Contraloría General del Distrito Federal o la contraloría interna, según sea el caso.
+III. El representante de la Secretaría de la Contraloría General de la Ciudad de México o la Contraloría Interna, según sea el caso.
+
+IV. A solicitud expresa, representantes de organismos de la Sociedad Civil o ciudadanos habitantes de la demarcación territorial que corresponde a la jurisdicción del gobierno que participa en el acto de entrega-recepción
 
 ###### Artículo 6.
 
 Los servidores públicos obligados a realizar la entrega de la entidad, dependencia u órgano político administrativos, deberán anexar mediante acta administrativa, un informe de su gestión que cumpla con la normatividad y procedimientos que prescriba la Contraloría General o la contraloría interna respectiva, según sea el caso.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 7.
 
-Los servidores públicos que en los términos de esta ley, se encuentren obligados a realizar la entrega- recepción y que al término de su ejercicio sean ratificados en su cargo, deberán efectuar el proceso de entrega-recepción ante el órgano de control interno que corresponda.
+Los servidores públicos que en los términos de esta Ley, se encuentren obligados a realizar la entrega-recepción y que al término de su ejercicio sean ratificados en su cargo, deberán efectuar el proceso de entrega-recepción ante el órgano de control interno que corresponda, en un plazo que no exceda los quince días hábiles o conforme lo establezca el mismo órgano de control interno.
 
 ###### Artículo 8.
 
@@ -116,11 +132,13 @@ Las titulares de las dependencias, entidades y órganos político administrativo
 
 ### CAPÍTULO TERCERO. DEL PROCESO DE ENTREGA RECEPCIÓN
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 10.
 
-En caso de que el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de quince días hábiles, contados a partir de la fecha de entrega-recepción de la oficina, deberá hacerlas del conocimiento del órgano de control interno de la dependencia, entidad u órgano político administrativo de que se trate, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
+En caso de que el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de máximo 40 días hábiles, contados a partir de la fecha de entrega-recepción de la oficina, deberá hacerlas del conocimiento del Órgano de Control Interno de la Dependencia, Entidad u Órgano Político Administrativo de que se trate, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
 
-El órgano de control interno de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de entrega-recepción, citará dentro de los quince días hábiles a que se refiere el párrafo anterior, a los servidores públicos entrante y salientes, a efecto de solicitarles las aclaraciones pertinentes y se proporcione la documentación que, en su caso, resultare faltante, levantando un acta administrativa en presencia del representante del órgano de control, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas; de considerarse por parte del servidor público entrante que no se aclaran dichas inconsistencias, el órgano de control procederá a realizar las investigaciones a que haya lugar y de resultar que se constituye probable responsabilidad administrativa, se procederá conforme al régimen de responsabilidad de los servidores públicos.
+El Órgano de Control Interno de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de entrega-recepción, citará dentro de los quince días hábiles a que se refiere el párrafo anterior, a los servidores públicos entrante (sic) y salientes, a efecto de solicitarles las aclaraciones pertinentes y se proporcione la documentación que, en su caso, resultare faltante, levantando un acta administrativa en presencia del representante del órgano de control, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas; de considerarse por parte del servidor público entrante que no se aclaran dichas inconsistencias, el órgano de control procederá a realizar las investigaciones a que haya lugar y de resultar que se constituye probable responsabilidad administrativa, se procederá conforme al régimen de responsabilidades de los servidores públicos. En caso de responsabilidad penal, se procederá conforme a la ley lo indique.
 
 ###### Artículo 11.
 
@@ -128,51 +146,67 @@ Cuando el servidor público saliente no proceda a la entrega en los términos de
 
 Si el servidor público saliente dejare de cumplir esta obligación, será responsable en los términos de la Ley Federal de Responsabilidad de los Servidores Públicos.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 12.
 
-Con el propósito de dar cumplimiento al contenido de este ordenamiento y hacer posible la entrega oportuna y debida de los asuntos y recursos a su cargo, los servidores públicos sujetos a esta ley deberán mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su gestión.
+Con el propósito de dar cumplimiento al contenido de este ordenamiento y hacer posible la entrega oportuna y debida de los asuntos y recursos a su cargo, los servidores públicos sujetos a esta Ley deberán mantener permanentemente actualizados sus registros. Controles y demás documentación relativa a su gestión.
+
+Asimismo, por un periodo de cuarenta días hábiles deberán de conservar su domicilio registrado y sus números telefónicos disponibles para ser localizados en caso de dudas o aclaraciones respecto a sus resultados del acto de entrega-recepción.
 
 ###### Artículo 13.
 
 La entrega de asuntos inconclusos y de recursos encomendados al servidor público saliente no lo excluye de responsabilidad administrativa o de cualquier otra índole, por actos u omisiones que con motivo de sus (sic) empleo, cargo o comisión, constituyan inobservancia a los diversos ordenamientos jurídicos
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 14.
 
 El servidor público saliente deberá preparar la entrega de los asuntos y recursos, mediante acta administrativa, la cual incluirá:
 
-I.- El informe del estado de los asuntos a su cargo;
+I. El informe del estado de los asuntos a su cargo;
 
-II.- Informe exacto sobre la situación de los recursos financieros y humanos, y sobre los bienes muebles e inmuebles a su cargo;
+II. Informe exacto sobre la situación de los recursos financieros y humanos, y sobre los bienes muebles e inmuebles a su cargo;
 
-III.- Informe sobre los presupuestos, programas, estudios y proyectos;
+III. Informe sobre los presupuestos, programas, estudios y proyectos;
 
-IV.- Obras públicas en proceso;
+IV. Obras Públicas en proceso;
 
-V.- Manuales de organización y de procedimientos;
+V. Manuales de organización y de procedimientos;
 
-VI. - Situación administrativa, desarrollo, cumplimiento o en su caso desviación de programas; y
+VI. Situación administrativa, desarrollo, cumplimiento o en su caso desviación de programas;
 
-VII. - La demás información y documentación relativa que señale el manual de normatividad;
+VII. La demás información y documentación relativa que señale el manual de normatividad, y
 
-VIII.- El informe de los asunto (sic) en trámite o pendientes.
+VIII. El informe de los asuntos en trámite o pendientes.
+
+IX. Los datos de acceso en general y contraseñas a los portales electrónicos, suscripciones o servicios a través de internet de los cuales la institución, órgano o dependencia forme parte.
 
 ###### Artículo 15.
 
 El informe escrito sobre los asuntos a cargo del servidor público saliente deberá contener una descripción de la situación de su oficina a la fecha de inicio de su gestión; de las actividades emprendidas y resultados obtenidos durante la misma, así como de las actividades que no se han concluido y por último la situación de la oficina en la fecha de retiro o término de su gestión.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 16.
 
-Una vez que haya sido reconocido legalmente el servidor público designado, deberá designar una comisión integrada por cuatro personas para que en coordinación con el servidor público saliente, puedan iniciar la transferencia de los documentos e informes que contengan los estados de los asuntos relacionados con los recursos financieros, humanos y materiales.
+Una vez que haya sido reconocido legalmente el servidor público designado, deberá designar una Comisión integrada por cuatro personas para que en coordinación con el servidor público saliente y dos personas igualmente designadas, puedan iniciar la transferencia de los documentos e informes que contengan los estados de los asuntos relacionados con los recursos financieros, humanos y materiales.
 
-La comisión receptora deberá conocer la situación de la administración y desarrollo de los programas, proyectos y en su caso obras públicas en proceso, de tal forma que al momento de relevarse la titularidad de los cargos pueda continuar la actividad gubernamental.
+La Comisión receptora deberá conocer la situación de la administración y desarrollo de los programas, proyectos y en su caso obras públicas en proceso, de tal forma que al momento de relevarse la titularidad de los cargos pueda continuar la actividad gubernamental.
+
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 17.
 
-El proceso de entrega recepción deberá principiar desde que la autoridad entrante del órgano de la Administración Pública respectiva del Distrito Federal haya sido legalmente reconocida.
+El proceso de entrega recepción deberá principiar desde que la autoridad entrante del órgano de la administración pública respectiva de la Ciudad de México haya sido legalmente reconocida.
 
 ###### Artículo 18.
 
 Para llevar a cabo la entrega-recepción de los recursos públicos de la Administración Pública del Distrito Federal los titulares salientes deberán llevar a cabo un acto formal, por el cual entreguen el informe a los titulares entrantes de su gestión realizada y el acta administrativa en el que conste el estado que guarda la administración, contenidas en un sólo documento.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. ADICIONADO], G.O. 22 DE FEBRERO DE 2018)</small>
+
+Este deberá ser publicado para efecto de análisis de terceros.
 
 Los titulares salientes de los entes deberán preparar la información relativa al acta administrativa en forma específica, anexando pormenorizadamente la información y documentación relativa al estado que guarda la dependencia, entidades u órganos político administrativos correspondiente. Esta información formará parte de la entrega-recepción de los recursos públicos del Estado y deberá incluir en lo que sea aplicable:
 
@@ -228,15 +262,21 @@ B).- Relación de anticipos de obras pendientes de amortizar que contenga: núme
 
 C).- Relación de inventario de desarrollo social por tipo de inversión que contenga: programa/proyecto y nombre del mismo, así como su ubicación, especificando: localidad, metas, unidad de medida correspondiente, inversión autorizada, ejercida y por ejercer y la condición en que se encuentra.
 
-VII. - Derechos y Obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE FEBRERO DE 2018)</small>
+
+VII. Derechos y obligaciones:
 
 A) Relación de contratos y convenios. Lo anterior deberá contener: el número de contrato o convenio, fecha, el nombre de la persona física o moral con quien se celebra el contrato y descripción del contrato o convenio.
 
-B) Relación de acuerdos de coordinación y anexos de ejecución derivados de convenios firmados, especificando: nombre del documento, dependencias participantes, el total de los recursos comprometidos en el acuerdo y la inversión convenida, ya sea federal, local o delegacional.
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
+B) Relación de acuerdos de coordinación y anexos de ejecución derivados de convenios firmados, especificando: nombre del documento, dependencias participantes, el total de los recursos comprometidos en el acuerdo y la inversión convenida, ya sea federal, local o en las demarcaciones territoriales.
 
 D) (sic) Relación de contratos de fideicomiso, con la información clara del número de fideicomiso, nombre del programa, fideicomitente, fiduciario, fecha del contrato, objetivo, patrimonio inicial y situación actual.
 
-VIII.- Relación de Archivos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE FEBRERO DE 2018)</small>
+
+VIII.- Relación de archivos:
 
 A) Relación de archivos por unidad administrativa, especificando sus títulos, expedientes que contiene, la ubicación y el número correspondiente de inventario del archivo; si el archivo se capturó en computadora, deberá especificarse el formato, el tamaño y el nombre del archivo informático donde se haya instalado.
 
@@ -248,7 +288,9 @@ D) Relación de Archivo General de Notarías. La información deberá contener: 
 
 E) Relación de protocolos en poder de notarios. Se deberá informar: número de notaría, titular, número de volúmenes, así como la fecha de autorización del primer y último libro.
 
-F) Relación de archivos históricos del Distrito Federal que contenga aquellos documentos que representen un valor e integren la memoria colectiva de la Ciudad de México.
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
+F) Relación de archivos históricos de la Ciudad de México que contenga aquellos documentos que representen un valor e integren la memoria colectiva de la Ciudad de México.
 
 IX.- Otros:
 
@@ -257,6 +299,10 @@ A) Relación de asuntos pendientes de resolver, con la descripción de: número 
 B) Relación de formas oficiales, con la descripción clara de: nombre de la forma, numeración, cantidad, precio unitario, total y responsable.
 
 C) Relación de procesos, especificando tipo de juicio, autoridad que conoce del procedimiento y el estado procesal en que se encuentra el mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE FEBRERO DE 2018)</small>
+
+D) Relación de toda clase de suscripciones, identidades o accesos a portales electrónicos por medio de usuarios y contraseñas.
 
 ###### Artículo 19.
 
@@ -276,9 +322,11 @@ d) Un ejemplar para el representante del órgano de control respectivo.
 
 La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de quince días hábiles contados a partir de la fecha de entrega-recepción de la dependencia, entidad u órgano político administrativo del gobierno del Distrito Federal. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que se le solicite.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 21.
 
-La Contraloría General del Distrito Federal o la contraloría interna, vigilarán, de conformidad con su competencia, el cumplimiento de las disposiciones y procedimientos a que se refiere esta Ley.
+La Secretaría de la Contraloría General de la Ciudad de México o la Contraloría Interna, vigilarán, de conformidad con su competencia, el cumplimiento de las disposiciones y procedimientos a que se refiere esta Ley.
 
 ###### Artículo 22.
 
@@ -288,17 +336,21 @@ Los servidores públicos deberán proporcionar la información y documentación 
 
 El servidor público saliente 30 días antes de que concluya su empleo, cargo o comisión deberá solicitar la intervención del órgano de control que corresponda para la debida intervención que le compete conforme a esta ley.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 24.
 
-La Contraloría General del Distrito Federal tiene facultad para dictar las medidas complementarias para la observancia de esta Ley, así como para solicitar, desde un año antes, la documentación que considere necesaria para preparar la entrega final del Órgano Ejecutivo Local del Distrito Federal.
+La Secretaría de la Contraloría General de la Ciudad de México tiene facultad para dictar las medidas complementarias para la observancia de esta Ley, así como para solicitar, desde un año antes, la documentación que considere necesaria para preparar la entrega final del Órgano Ejecutivo Local de la Ciudad de México.
 
 ###### Artículo 25.
 
 El incumplimiento de las disposiciones de la presente Ley será sancionado por la respectiva contraloría de acuerdo con la legislación en materia de responsabilidades de los servidores públicos.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 26.
 
-Ningún servidor público, señalado en el artículo 3 de la presente ley, podrá dejar el puesto sin llevar a cabo el acto de entrega-recepción correspondiente; para este efecto el superior jerárquico respectivo deberá designar el sustituto definitivo o provisional, en el caso de entrega-recepción intermedia, dentro de un plazo no mayor de 15 días naturales a partir de la fecha en que sea aceptada la renuncia, se notifique baja o se lleve a cabo el cambio de puesto. En caso de incumplimiento de la anterior obligación, el superior jerárquico correspondiente será responsable en términos de la Ley Federal de Responsabilidad de los Servidores Públicos. En caso de urgencia para la entrega-recepción se podrán habilitar horas o días para hacer la entrega correspondiente, dicha habilitación la hará el titular del órgano de gobierno correspondiente o por el por el (sic) órgano de control interno correspondiente, según sea el caso.
+Ningún servidor público, señalado en el artículo 3 de la presente Ley, podrá dejar el puesto sin llevar a cabo el acto de entrega-recepción correspondiente; para este efecto el superior jerárquico respectivo deberá designar el sustituto definitivo o provisional, en el caso de entrega-recepción inmediata, dentro de un plazo no mayor de 15 días naturales a partir de la fecha en que sea aceptada la renuncia, se notifique baja o se lleve a cabo el cambio de puesto. En caso de incumplimiento de la anterior obligación, el superior jerárquico correspondiente será responsable en términos de la Ley Federal de Responsabilidad de los servidores públicos y demás legislación aplicable. En caso de urgencia para la entrega-recepción se podrán habilitar horas o días para hacer la entrega correspondiente, dicha habilitación la hará el Titular del Órgano de Gobierno correspondiente o por el por el (sic) Órgano de Control Interno correspondiente, según sea el caso.
 
 ## TRANSITORIOS
 
@@ -321,3 +373,21 @@ La Asamblea Legislativa del Distrito Federal, deberá realizar las reformas nece
 Recinto Legislativo, a 27 de diciembre de 2001.- POR LA MESA DIRECTIVA.- DIP. WALTER ALBERTO WIDMER LÓPEZ, PRESIDENTE.- SECRETARIA, DIP. LORENA RÍOS MARTÍNEZ.- SECRETARIO, DIP. HÉCTOR GUTIÉRREZ DE ALBA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de febrero del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINANZAS, CARLOS MANUEL URZÚA MACÍAS- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
+
+TERCERO.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
+
+CUARTO.- Se otorga un plazo de 180 días naturales para que la Contraloría General u Órgano Interno correspondiente de los entes de la Administración Pública de la Ciudad de México, apliquen la normatividad a que se contrae esta Ley.
+
+QUINTO.- Dentro (sic) lo establecido en el artículo 2, fracciones II y VI de esta Ley, se encuentran incluidos los concejales, derivado de la reforma política de la Ciudad de México y atendiendo a la reforma del artículo 122 constitucional y a la expedición de la Constitución Política de la Ciudad de México.
+
+Estos nuevos sujetos tienen la obligación de apegarse a lo establecido en la presente Ley y seguir el procedimiento de entrega recepción, el cual deberán realizar ante la Contraloría de la Alcaldía o ante la comisión u órgano interno que para tal efecto designen en el Bando correspondiente de cada Alcaldía.
