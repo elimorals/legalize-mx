@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2017-12-26"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -3047,13 +3047,13 @@ Es objeto de los derechos a que se refiere este Capítulo, la prestación de los
 
 Son sujetos de estos derechos el propietario o poseedor del predio donde se presten o se soliciten los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 247 Quinquies.
 
 Los derechos a que se refiere este Capítulo, por los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos se causarán de conformidad con lo siguiente:
 
-> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2017, PÁGINAS DE LA 30 A LA 38.]</small>
+> <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 22 DE FEBRERO DE 2018, PÁGINAS DE LA 7 A LA 13.]</small>
 
 > <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -5212,3 +5212,11 @@ G.O. 26 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 622 QUE SE REFORMA EL ARTÍCULO 247 QUINQUIES DEL CAPÍTULO XV DEL TÍTULO SEGUNDO DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
