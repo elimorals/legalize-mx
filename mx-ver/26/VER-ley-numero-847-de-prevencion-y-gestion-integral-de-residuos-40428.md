@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-847-de-prevencion-y-gestion-integral-de-residuos-404
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-28"
-last_updated: "2004-06-28"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 847 DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 28 de junio de 2004.
 
@@ -143,7 +143,9 @@ XXX. Residuos sólidos urbanos: Los generados en las casas habitación, que resu
 
 XXXI. Reutilización: El empleo de un material o residuo previamente empleado, sin que medie un proceso de transformación;
 
-XXXII. Secretaría: La Secretaría de Desarrollo Regional;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXXII. Secretaría: La Secretaría de Medio Ambiente;
 
 XXXIII. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal;
 
@@ -205,7 +207,21 @@ XX. Coadyuvar a promover la prevención de la contaminación de sitios con mater
 
 XXI. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales; y
 
-XXII. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXII. Promover y aplicar en colaboración con las autoridades municipales instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezcan la reducción, la reutilización y reciclaje de residuos, en particular a quien promueva y desarrolle programas de reutilización y reciclaje de residuos de poliestireno expandido;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXIII. Suscribir convenios o acuerdos de coordinación y asesoría con la Federación y los gobiernos municipales para la creación de centros de acopio y la implementación de sistemas de reciclaje de residuos de poliestireno expandido;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXIV. Elaborar y publicar en el Portal Oficial de la Secretaría, guías de separación de residuos, específicas a cada material, que incluyan las empresas autorizadas para su manejo y la dirección de los centros de acopio; y
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+XXV. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -685,9 +701,11 @@ La Secretaría y los municipios, conforme lo dispongan los ordenamientos aplicab
 
 La Secretaría determinará, junto con las partes interesadas, otros residuos sólidos urbanos y de manejo especial que serán sujetos a planes de manejo, siguiendo procedimientos establecidos para tal fin y hechos del conocimiento público a través de la Gaceta Oficial del Estado y de medios periodísticos de cobertura estatal.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 50.
 
-Las autoridades estatales y de los municipios correspondientes publicarán periódicamente, en su órgano de difusión oficial y en los diarios de circulación local, una relación de los residuos clasificados como sujetos a planes de manejo para los efectos de esta Ley.
+Las autoridades estatales y de los municipios correspondientes publicarán periódicamente, en su órgano de difusión oficial, en su portal oficial y en los diarios de circulación local, una relación de los residuos clasificados como sujetos a planes de manejo para los efectos de esta Ley.
 
 #### SECCIÓN SEGUNDA. FORMULACIÓN E INSTRUMENTACIÓN DE LOS PLANES DE MANEJO
 
@@ -903,7 +921,9 @@ Las violaciones a esta Ley, su reglamentación, las Normas Oficiales Mexicanas, 
 
 I. Amonestación por escrito;
 
-II. Multa de veinte a sesenta mil días de salario mínimo general vigente en la capital del Estado en el momento de cometerse la infracción;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+II. Multa de mil a ochenta mil veces el valor de la Unidad de Medida y Actualización vigente en el momento de cometerse la infracción;
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -978,3 +998,13 @@ LICENCIADO MIGUEL ALEMÁN VELAZCO
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 620 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
