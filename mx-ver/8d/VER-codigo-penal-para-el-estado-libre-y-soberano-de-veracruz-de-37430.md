@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-12-21"
+last_updated: "2018-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -4027,7 +4027,9 @@ Si la víctima estuviere embarazada o en período de puerperio, la sanción se i
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII TER. VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 362.
 
@@ -4037,9 +4039,7 @@ En caso de que los actos señalados en el párrafo anterior estuvieren dirigidos
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
-
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 363.
 
@@ -4063,9 +4063,9 @@ Si el sujeto activo del delito fuere servidor público, además de las penas se�
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 364.
 
@@ -4085,15 +4085,19 @@ VI. Limite, prohíba o condicione el acceso y uso de métodos de salud sexual y 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
 
-> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 365.
 
 A quien en el ejercicio de la función pública dilate, obstaculice, niegue la debida atención o impida el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a programas, acciones, recursos públicos y al disfrute de políticas públicas, se le impondrán de seis meses a dos años de prisión, multa de hasta trescientos días de salario y destitución e inhabilitación para ejercer otro empleo, cargo o comisión públicos hasta por dos años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 366.
 
@@ -4142,6 +4146,12 @@ A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
 En la configuración del delito, no es necesario que se acredite la personalidad misógina del inculpado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 22 DE FEBRERO DE 2018)</small>
+
+###### Artículo 367 Ter.
+
+A quien realice por sí o a través de terceros cualquier acción u omisión que causen daño físico, psicológico, sexual, económico o de otra índole, resultado de discriminación por razón de género en contra de una o más mujeres para restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad o de la ley, se le impondrá prisión de dos a seis años y multa de 9.87 a 197.33 Unidades de Medida de Actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -4823,15 +4833,13 @@ Cuarto. En la aplicación del presente Decreto se tendrá presente el principio 
 
 Quinto. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, se entenderán referidas a la Unidad de Medida y Actualización.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADOS LOS ARTÍCULOS 4o. Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUVENTUD”.]
+G.O. 22 DE FEBRERO DE 2018.
 
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 614 QUE ADICIONA UN CAPÍTULO Y UN ARTÍCULO AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Segundo. El Congreso de la Unión deberá expedir la Ley General en materia de Personas Jóvenes, en el plazo de un año, a partir de la publicación del presente Decreto.
+Primero. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Tercero. Las Legislaturas de las entidades federativas, realizarán las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto, dentro de los 180 días siguientes a la expedición de la Ley General en materia de Personas Jóvenes.
-
-D.O.F. 19 DE FEBRERO DE 2021.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADOS LOS ARTÍCULOS 108 Y 111 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE FUERO".]
 
