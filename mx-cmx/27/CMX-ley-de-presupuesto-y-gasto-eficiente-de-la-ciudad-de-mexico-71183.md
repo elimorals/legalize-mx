@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2017-10-30"
+last_updated: "2018-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-12-28"
 ---
 # LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -81,8 +83,6 @@ Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 La Contraloría General de la Ciudad de México, la Auditoría Superior y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo, fiscalizarán y vigilarán en el ámbito de sus respectivas competencias, el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las disposiciones legales que las facultan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REPUBLICADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)
 
@@ -706,25 +706,17 @@ a) Población;
 
 b) Marginación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 c) Infraestructura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 d) Equipamiento urbano, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 e) Las zonificaciones del suelo de conservación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -824,8 +816,6 @@ La Asamblea Legislativa deberá aprobar dichas iniciativas a más tardar el 20 d
 
 Cuando por alguna situación extraordinaria, al iniciar el ejercicio fiscal del año siguiente no exista una Ley de Ingresos y/o Decreto aprobado, con el propósito de no interrumpir la prestación de los servicios públicos, en tanto no se aprueben, la Secretaría procederá a actualizar, conforme a las disposiciones del artículo 18 del Código, del ejercicio fiscal del año anterior, en cuanto al gasto mínimo de operación y la ejecución de obras en proceso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 39.
@@ -848,8 +838,6 @@ IV. Los Ingresos Propios previstos por las Entidades;
 
 V. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2014)
 
 VII. Los ingresos relativos a los adeudos de ejercicios anteriores;
@@ -860,8 +848,6 @@ IX. Los demás ingresos a recaudar.
 
 No se tomarán en cuenta los ingresos extraordinarios, ni tampoco se considerará cualquier otro ingreso clasificado como no recurrente, ni el monto estimado de reducciones en el pago de contribuciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 Los recursos que generen las Delegaciones, Dependencias y Órganos Desconcentrados por ingresos de aplicación automática se considerarán parte integrante de su presupuesto.
@@ -869,8 +855,6 @@ Los recursos que generen las Delegaciones, Dependencias y Órganos Desconcentrad
 A la base de estimación de cierre a que se refiere la fracción I de este artículo, se le aplicará, para el caso de actualización de cuotas o tarifas, el factor que para tal efecto se estime de conformidad con el Código. Asimismo, con base en las variables económicas se calculará el comportamiento de aquellas contribuciones en las que por su naturaleza así proceda.
 
 La Iniciativa de Ley de Ingresos deberá contener, invariablemente, la estimación de cierre del ejercicio a que se refiere el párrafo anterior, a fin de que en la valoración de la Asamblea respecto de los montos de la Ley de Ingresos, disponga de los elementos de juicio necesarios para formular el dictamen correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -893,8 +877,6 @@ III. Descripción clara de las funciones y subfunciones que sean base del proyec
 IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
 
 V. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el presupuesto de las Unidades Responsables del Gasto, precisando los recursos involucrados para su obtención;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -928,8 +910,6 @@ XV. En general, toda la información presupuestal que se considere útil para su
 
 La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 41 BIS.- Los Órganos Autónomos y de Gobierno presentarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo. Su proyecto de presupuesto deberá incorporar perspectiva de derechos humanos.
@@ -947,8 +927,6 @@ En el año en que termina su encargo, el Jefe de Gobierno saliente deberá elabo
 ###### ARTÍCULO 43.
 
 El Presupuesto de Egresos será el que contenga el Decreto que apruebe la Asamblea a iniciativa del Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1ro de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, clasificación funcional y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -983,8 +961,6 @@ Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno de la Ci
 ###### ARTÍCULO 46.
 
 En casos excepcionales y debidamente justificados, la Secretaría podrá autorizar que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades establezcan compromisos presupuestales en los contratos de obras públicas, de adquisiciones o de otra índole que celebren, cuya ejecución comprenda más de un ejercicio. En estos casos, el cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1122,8 +1098,6 @@ Las Dependencias, Órganos Desconcentrados y Delegaciones deberán llevar un reg
 
 Las Unidades Responsables del Gasto que realicen erogaciones financiadas con endeudamiento deberán apegarse a la normatividad vigente en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 60.
@@ -1151,8 +1125,6 @@ II. Analizar el estado presupuestal para determinar los niveles de disponibilida
 El manejo financiero de los recursos recibidos por concepto de transferencias y aportaciones deberá ser congruente con los objetivos y metas de los programas a cargo de las Entidades, debiendo éstas destinar dichos recursos para cubrir precisamente las obligaciones para las cuales fueron autorizados.
 
 ### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1260,22 +1232,6 @@ b) Proyectos ambientales, hasta por un veinticinco por ciento.
 
 c) Proyectos de infraestructura de las Delegaciones, hasta por un treinta y cinco por ciento. Los proyectos deberán ser presentados para la aprobación de la Secretaría de Finanzas y se ejecutarán bajo un esquema de coinversión por medio del cual las Delegaciones aportarán un peso por cada uno que se obtenga del fondo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(DEROGADO OCTAVO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(DEROGADO NOVENO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno de la Ciudad de México y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
@@ -1291,6 +1247,10 @@ De los movimientos que se efectúen en los términos de este artículo, el Jefe 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Los recursos Remanentes a que se refiere este artículo no podrán destinarse a la creación de nuevas Unidades Responsables del Gasto, salvo en aquellos casos previstos en las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE FEBRERO DE 2018)</small>
+
+La Secretaría deberá de prever como parte de los recursos de dicho Fondo, las previsiones para constituir e incrementar un fondo para proveer de seguros a la vivienda de los contribuyentes del impuesto predial de la Ciudad de México, en los términos de las disposiciones que emita el Jefe de Gobierno.
 
 ###### ARTÍCULO 72.
 
@@ -1311,8 +1271,6 @@ Los interesados reintegrarán en todo caso las cantidades anticipadas que no hub
 ###### ARTÍCULO 73.
 
 Para cada ejercicio fiscal, la Asamblea deberá aprobar en el Decreto una partida presupuestal específica que será destinada a cumplimentar las resoluciones definitivas pronunciadas por los órganos jurisdiccionales competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1356,8 +1314,6 @@ II. Los calendarios presupuestales autorizados, y
 
 III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 77.
@@ -1367,8 +1323,6 @@ Las adecuaciones presupuestarias, se realizarán siempre que permitan un mejor c
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 I. El resultado de la evaluación que realicen respecto del cumplimiento de los objetivos y metas que lleven a cabo mensualmente, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1380,21 +1334,15 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que para el
 
 Las adecuaciones que presenten las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a través del sistema electrónico o de manera impresa, deberán cumplir con los requisitos que establezca el Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 La Secretaría autorizará las adecuaciones, en un máximo de diez días naturales, a partir de que sean solicitadas en el sistema electrónico, o bien informará de manera oficial en este mismo plazo, los motivos por los que no proceda la adecuación, conforme a la normatividad vigente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 Tanto las autorizaciones que emita la Secretaría como los trámites de adecuaciones que realicen las Unidades Responsables del Gasto, utilizando los medios de identificación electrónica que se establezcan conforme a este precepto, producirán los mismos efectos que las leyes otorgan a dichas gestiones cuando se realizan con firma autógrafa.
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que utilicen el sistema electrónico aceptarán en la forma que se prevea en las disposiciones que emita la Secretaría las consecuencias y alcance probatorio de los medios de identificación electrónica y deberán conservar los archivos electrónicos que se generen en los plazos que establezcan las disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1408,8 +1356,6 @@ De igual forma actuará la Secretaría para el caso que por disposición legal s
 
 Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Delegación y Entidad, el Jefe de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión de la Asamblea para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajustes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 80.
@@ -1419,8 +1365,6 @@ Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de 
 Dichas adecuaciones, deberán ser informadas al Jefe de Gobierno, por conducto de la Secretaría, para efectos de la integración de los Informes Trimestrales y de la Cuenta Pública.
 
 ### CAPÍTULO IV. De la Disciplina Presupuestaria
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1463,8 +1407,6 @@ a) Si tienen, al menos, seis años de uso;
 b) En caso de robo o pérdida total, una vez que sea reintegrado su valor por el seguro correspondiente, y
 
 c) Cuando el costo de mantenimiento acumulado sea igual o mayor a su valor de enajenación presente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1677,8 +1619,6 @@ Podrán otorgarse subsidios, apoyos o ayudas a personas físicas o morales indiv
 Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que ejerzan recursos por los conceptos a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
 
 Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades en las que se justifique la procedencia del otorgamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1908,8 +1848,6 @@ La evaluación se realizará a través de la revisión del avance del cumplimien
 
 El Jefe de Gobierno, por conducto de la Secretaría, esta obligado a proporcionar, dentro del informe trimestral, la información siguiente a la Asamblea:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 I. Ingresos de aplicación automática generados por las Dependencias, Órganos Desconcentrados y Delegaciones, y
@@ -1951,8 +1889,6 @@ El desarrollo y operación del sistema contable para las Dependencias, Órganos 
 El desarrollo y operación de los sistemas de contabilidad de las Entidades, estará a cargo de las mismas y se requerirá la autorización del plan de cuentas por parte de la Secretaría.
 
 El desarrollo y operación de los sistemas de contabilidad de los Órganos de Gobierno y Autónomos, estarán a cargo de su órgano competente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -2118,8 +2054,6 @@ III. Mensualmente, dentro de los primeros siete días del mes siguiente, el repo
 
 IV. Trimestralmente
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 a) Información sobre el avance de metas por función. En caso de desviaciones a las metas se deberán especificar las causas que las originen;
@@ -2192,8 +2126,6 @@ II. Trimestralmente:
 
 a) Estado de endeudamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
 b) Información sobre el avance de metas, por funciones en especial prioritarias, estratégicas y multisectoriales. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
@@ -2207,8 +2139,6 @@ III. Otra información complementaria que les solicite la Secretaría, en la for
 La información a que se refiere este artículo deberá contar con la aprobación de la respectiva Dependencia coordinadora de sector.
 
 En caso de que la Secretaría no reciba la información o la que reciba no cumpla con la forma y plazos establecidos por ésta, la podrá solicitar directamente a las Entidades coordinadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -2317,8 +2247,6 @@ La Secretaría agrupará, cuando sea necesario, la información armonizada conta
 ###### ARTÍCULO 146.
 
 Los servidores públicos que no cumplan con alguna de las disposiciones previstas en esta Ley y en su Reglamento, serán sancionados en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, con independencia de las responsabilidades de carácter civil, penal, laboral y/o resarcitoria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -2529,3 +2457,11 @@ G.O. 30 DE OCTUBRE DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL Y DEL DECRETO DE PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2018”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
