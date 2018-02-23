@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2017-07-03"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -51,17 +51,25 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 2.
 
-En el Estado de Querétaro, toda persona gozará de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los derechos humanos se interpretarán de conformidad con los ordenamientos antes citados.
+En el Estado de Querétaro, toda persona gozará de los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los Derechos Humanos se interpretarán de conformidad con los ordenamientos antes citados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
 La mujer y el hombre son iguales ante la Ley y gozan de los mismos derechos. En consecuencia, queda prohibida todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social, discapacidad, religión, opiniones, preferencias políticas o sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado promoverá normas, políticas y acciones para alcanzar equidad entre hombre y mujer, en todos los ámbitos; además incorporará la perspectiva de género y derechos humanos en planes y programas y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+
 El Estado garantizará el respeto y protección a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos y generar acciones afirmativas a favor de las personas en situación de vulnerabilidad, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 Toda persona tiene derecho a estar informada y a manifestar libremente sus ideas, sin más límites que los señalados por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
@@ -93,6 +101,8 @@ Para favorecer la profesionalización de los agentes del Ministerio Público, pe
 
 El sistema penitenciario se organizará sobre la base del respeto a los Derechos Humanos, del trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios previstos en las leyes. Los Poderes Judicial y Ejecutivo se organizarán, en el ámbito de sus respectivas competencias, garantizando la cooperación con las autoridades penitenciarias e instituciones que intervienen en la ejecución de la prisión preventiva, de las sanciones penales y de las medidas de seguridad impuestas.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+
 El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
@@ -105,7 +115,13 @@ Las autoridades del Estado salvaguardarán el régimen de los derechos y liberta
 
 Las autoridades estatales y las municipales promoverán la integración, el desarrollo y el fortalecimiento de la familia; sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad. La ley impondrá derechos y obligaciones recíprocos entre sus integrantes.
 
-El Estado adoptará medidas que garanticen la no discriminación del individuo y propicien el desarrollo físico, emocional y mental de los menores, de los jóvenes y de todos aquellos que por circunstancias particulares lo requieran. Establecerá un sistema permanente de tutela, apoyo e integración social de los adultos mayores y de las personas discapacitadas que se encuentren en condiciones de desventaja física, mental, social o económica, para facilitarles una vida de mayor calidad, digna, decorosa y su pleno desarrollo.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+El Estado adoptará medidas que garanticen la no discriminación del individuo y propicien el desarrollo físico, emocional y mental de las niñas, niños y adolescentes y de todos aquellos que por circunstancias particulares lo requieran. Establecerá un sistema permanente de tutela, apoyo e integración social de los adultos mayores y de las personas discapacitadas que se encuentren en condiciones de desventaja física, mental, social o económica, para facilitarles una vida de mayor calidad, digna, decorosa y su pleno desarrollo.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
@@ -1826,3 +1842,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Constitución.
 
 Artículo Tercero. Para efectos de lo dispuesto por los artículos 22, fracción X y 37 de esta Constitución, los informes del Gobernador del Estado y los Presidentes Municipales correspondientes al año en curso serán rendidos en el mes de septiembre de este mismo ejercicio.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
