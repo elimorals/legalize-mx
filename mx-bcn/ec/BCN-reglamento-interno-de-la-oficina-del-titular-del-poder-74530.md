@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficina-del-titular-del-poder-74530"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-26"
-last_updated: "2012-06-29"
+last_updated: "2018-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICINA DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 26 de marzo de 2010.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN EL ARTÍCULO 3, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 DÉCIMO TERCERO.- Que de acuerdo a lo dispuesto en el articulo 3, de la Ley Orgánica de la Administración Pública del Estado de Baja California, y en atención a los considerandos anteriores, el Gobernador del Estado está facultado para proveer en la esfera administrativa todo lo que estime conveniente para el más exacto y eficaz cumplimiento de sus atribuciones; motivo por el cual se realizan las acciones que por este medio se implementan a fin de contar con una instancia que coordine, justifique y dictamine las propuestas de estructura funcional de la Administración Pública Estatal y sus modificaciones, verificando que se apeguen a los criterios de racionalización y optimización de recursos públicos previstos, procurando continuar con un gobierno innovador, con calidad en su desempeño, eficaz y eficiente en el logro de sus objetivos, transparente, apegado a derecho, y que procure una correcta y equilibrada distribución de misiones y funciones; por lo que se expide el siguiente:
 
@@ -65,15 +67,25 @@ e) Representación del Gobierno del Estado de Baja California en la Ciudad de M�
 
 Las unidades administrativas de la Oficina del Titular Poder Ejecutivo contarán con los servidores públicos que se consideren necesarios para el cabal desempeño de sus atribuciones y que se autoricen en el presupuesto de egresos, los cuales tendrán a su cargo la atención y despacho de los asuntos que les instruya el titular de la unidad administrativa.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 ###### Artículo 4.
 
 La Oficina del Titular del Poder Ejecutivo, como órgano de apoyo programará y dirigirá sus actividades en apego a los objetivos y políticas del Plan Estatal de Desarrollo y de los programas a cargo de cada una de las oficinas, que establezca el Gobernador del Estado.
 
 ### Capítulo II. De la Secretaría Particular del Ejecutivo
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 5.
 
-Corresponde al Secretario Particular del Ejecutivo, el ejercicio de las siguientes atribuciones:
+Corresponde al Secretario Particular del Ejecutivo el ejercicio de las siguientes atribuciones:
 
 I. Coordinar las diferentes actividades del Gobernador del Estado, con las dependencias y entidades de la Administración Pública Estatal, Federal y autoridades municipales;
 
@@ -105,7 +117,13 @@ XIII. Resolver las controversias que se interpongan en asuntos de su competencia
 
 XIV. Nombrar y remover libremente a los servidores públicos de las unidades administrativas a su cargo; y,
 
-XV, Las demás que le sean encomendadas por el Gobernador del Estado, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XV. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XVI. Las demás que le sean encomendadas por el Gobernador del Estado, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -207,9 +225,11 @@ VI. Girar instrucciones al personal que se encuentre a su cargo; y,
 
 VII. Las demás que le sean encomendadas por el Gobernador del Estado, el Secretario Particular del Ejecutivo, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Dirección Administrativa, el ejercicio de las siguientes Atribuciones
+Corresponde a la Dirección Administrativa, el ejercicio de las siguientes atribuciones:
 
 I. Acordar permanentemente con el Secretario Particular los asuntos que considere deban ser de su conocimiento, en materia de recursos humanos, materiales y financieros;
 
@@ -255,9 +275,17 @@ XXI. Coordinarse con el Jefe de Pilotos del Ejecutivo, a efecto de realizar un p
 
 XXII. Proporcionar oportunamente a la Unidad Concentradora de Transparencia, la información relativa a las solicitudes de información que se reciban en materia de transparencia;
 
-XXIII. Girar instrucciones al personal que se encuentre a su cargo; y,
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXIV. Las demás que le sean encomendadas por el Gobernador del Estado, el Secretario Particular del Ejecutivo, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+XXIII.- Girar las instrucciones al personal que se encuentre a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXIV.- Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXV.- Las demás que le sean encomendadas por el Gobernador del Estado, el Secretario Particular del Ejecutivo, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -726,3 +754,9 @@ JOSÉ FRANCISCO BLAKE MORA
 P.O. 29 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS Y SE REFORMAN LOS ARTÍCULOS 5 Y 11 DEL REGLAMENTO INTERNO DE LA OFICINA DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas y adiciones al Reglamento Interno de la Oficina del Titular del Poder Ejecutivo del Estado de Baja California entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
