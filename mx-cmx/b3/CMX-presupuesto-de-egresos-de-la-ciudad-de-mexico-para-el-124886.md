@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-124886"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124886&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-29"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2018.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2018.
 
 Presupuesto publicado en el Número 230 de la Gaceta Oficial de la Ciudad de México, el domingo 31 de Diciembre de 2017.
 
@@ -612,9 +612,11 @@ IV. Órganos Autónomos y $28,000,000.50
 
 Total 7,028,000,000.50
 
-Previo al establecimiento de los compromisos para llevar a cabo las acciones con cargo a los recursos establecidos en las fracciones I, II y III del presente artículo, las Unidades Responsables del Gasto deberán contar con la aprobación del detalle de dichas acciones de la Presidencia y la Secretaría de la Comisión de Gobierno y del Presidente de la Comisión de Presupuesto y Cuenta Pública de la Asamblea Legislativa del Distrito Federal; asimismo, deberán remitir copia de dicha aprobación a la Secretaría.
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 2018)</small>
 
-Las Unidades Responsables del Gasto deberán informar a la Asamblea, a más tardar el 15 de enero de 2018, el detalle de las acciones a realizar con los recursos establecidos en el presente artículo.
+Previo al establecimiento de los compromisos para llevar a cabo las acciones con cargo a los recursos establecidos, en las fracciones I, II y III del presente artículo, las Unidades Responsables del Gasto deberán contar con la aprobación del detalle de dichas acciones de la Secretaría de Finanzas, en términos de la legislación aplicable.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 14.
 
@@ -632,7 +634,25 @@ III. Se prevé una asignación de 1,018,000,000 pesos del Fondo de Aportaciones 
 
 IV. Dentro de las erogaciones previstas en el artículo 13 del Decreto, se deberán destinar preferentemente 898,074,939 pesos, mismos que se encuentran contemplados dentro de la fracción I del presente artículo, para las acciones de reconstrucción por los efectos causados por el sismo del 19 de septiembre de 2017.
 
-El Órgano Legislativo a través del Presidente y Secretario de la Comisión de Gobierno y del Presidente de la Comisión de Presupuesto y Cuenta Pública autorizará; supervisará; vigilará y propondrá el ejercicio de los recursos asignados en las fracciones I, II y IV del presente artículo.
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 2018)</small>
+
+Los recursos disponibles propuestos en las fracciones I, II y IV del presente artículo, deberán aplicarse, considerando los principios de transparencia, rendición de cuentas y de la buena administración de los recursos públicos, apegándose a las disposiciones normativas, federales y locales aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2018)</small>
+
+Para la correcta aplicación de los recursos públicos referidos en el párrafo anterior, la Secretaría de Finanzas los asignará, conforme a los planes de acción aprobados por la Comisión para la Reconstrucción, Recuperación y Transformación de la Ciudad de México en una cada vez más resiliente, así como a los fines previstos en la Ley para la Reconstrucción, Recuperación y Transformación de la Ciudad de México y lo previsto en el presente decreto.
+
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2018)</small>
+
+Para el debido seguimiento y vigilancia en la aplicación de los recursos, la Comisión para la Reconstrucción, Recuperación y Transformación de la Ciudad de México se apoyará de un órgano de control social, integrado por académicos, representantes de la sociedad civil y de damnificados, designado por la propia comisión, conformado por 5 integrantes con cargo honorífico quienes tendrán la obligación de informar trimestralmente al órgano legislativo de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2018)</small>
+
+La persona Titular de la Jefatura de Gobierno, a través de la Secretaría de Finanzas, informará sobre las acciones, ingresos y gastos del Programa de Reconstrucción de la Ciudad de México, en un capítulo especial contenido en los reportes trimestrales de avance de las finanzas públicas.
+
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 2018)</small>
+
+El Comisionado presidente de la Comisión para la Reconstrucción, Recuperación y Transformación de la Ciudad de México en una cada vez más resiliente, informará mensualmente al Órgano Legislativo por escrito los avances de los recursos disponibles; así como su aplicación o egreso en programas y acciones de reconstrucción, recuperación y transformación de la Ciudad, para su debido análisis, seguimiento control y fiscalización.
 
 ###### Artículo 15.
 
@@ -1223,3 +1243,13 @@ Dicha previsión resulta de los recursos aprobados por la H. Cámara de Diputado
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los veintinueve días del mes de diciembre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL Y DEL DECRETO DE PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2018”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
