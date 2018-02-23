@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2018-01-19"
+last_updated: "2018-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -125,35 +125,41 @@ VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobe
 
 VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con discapacidad, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
+VIII.- Fortalecerá la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-IX.- Establecerá los criterios para recomendar y autorizar a través de la Secretaría de Educación y Bienestar Social, el color y las características de los uniformes escolares en escuelas públicas y particulares de los niveles de educación básica y media superior, tomando en consideración:
+IX.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+X.- Establecerá los criterios para recomendar y autorizar a través de la Secretaría de Educación y Bienestar Social, el color y las características de los uniformes escolares en escuelas públicas y particulares de los niveles de educación básica y media superior, tomando en consideración:
 
 a).- Las autoridades escolares no condicionarán el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes con distintivos especiales y demás objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos comerciales específicos.
 
 b).- Los padres de familia o tutores adquirirán los materiales educativos y uniformes en donde más les convenga, sin que se les pueda obligar a comprarlos en establecimientos o marcas determinados.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 El Estado también promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 Así mismo fomentará la coordinación entre las autoridades estatales de educación y salud pública a efecto de que se establezcan acciones conjuntas para la vigilancia y detección oportuna de enfermedades transmisibles y no transmisibles en los planteles educativos con el objeto de su prevención y control oportuna por medio de los Consejos de Participación Social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 Las previsiones descritas en este artículo se harán en los presupuestos respectivos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 6.
 
-Todos los habitantes del Estado tienen derecho a recibir educación de calidad que garantice el máximo logro de aprendizaje de los educandos. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria, secundaria y media superior.
+Todo individuo tiene derecho a recibir educación de calidad, con acceso y permanencia al Sistema Educativo Estatal, cumpliendo con los requisitos que señala esta Ley.
+
+Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria, secundaria y media superior.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -212,6 +218,8 @@ Son de interés social las actividades e inversiones de cualquier tipo que en ma
 ###### ARTICULO 13.
 
 El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplicación de esta Ley, respetando los derechos adquiridos por los trabajadores de la educación.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 61 DE REFORMAS PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2018, SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONSTABA DE VEINTISÉIS FRACCIONES, ACTUALIZÁNDOSE EN VEINTICINCO FRACCIONES.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -303,21 +311,17 @@ XXII.- Informar a los padres de familia o tutores de los educandos que presenten
 
 XXIII.- Fomentar una cultura de respeto, solidaridad y reconocimiento de los derechos de las personas adultas mayores; y
 
-> <small>[N. DE E. LA PRESENTE FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XXVI.]</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXIV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXIV.- Desarrollará programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 34 de esta Ley; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXV.- Establecer el combate al bajo rendimiento escolar como una prioridad, y en base a la disponibilidad presupuestal se diseñen estrategias e implementen programas de refuerzo escolar, apoyos y demás políticas acorde con las necesidades y los perfiles de los estudiantes, familias y escuelas.
-
-> <small>[N. DE E. LA PRESENTE FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XXIV.]</small>
-
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2018)</small>
-
-XXVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 15.
 
@@ -425,9 +429,13 @@ XXIX.- Garantizar y fomentar en las escuelas públicas de educación básica, el
 
 XXX.- Establecer mecanismos de orientación vocacional, tendientes a orientar a los estudiantes de educación media superior. Así como, a difundir información sobre la oferta de puestos de trabajo y el nivel de ingreso para los graduados de las distintas carreras.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXXI.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXXI.- Coordinar y promover el establecimiento (sic) lineamientos de atención para el ingreso en educación media superior y superior de alumnos en condición de discapacidad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -859,27 +867,49 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con inclusión y equidad social.
+La educación especial tiene como objetivo identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
-La educación especial tendrá como objetivo proporcionar la integración de niños, niñas y jóvenes a los planteles de educación inicial, preescolar, primaria, secundaria en sus distintas modalidades y a las instituciones de educación media-superior, aplicando métodos, técnicas y materiales específicos, así como dando orientación a padres de familia y a personal docente de las escuelas regulares, que atiendan a alumnos con necesidades educativas especiales.
+Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo de igualdad.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
-Esta educación incluye capacitación a los padres y madres así como también a maestros y personal de educación básica regular que integren alumnas y alumnos con necesidades especiales de educación.
+Facilitará la inclusión de niños, niñas y jóvenes a los planteles de educación inicial, preescolar, primaria, secundaria en sus distintas modalidades y a las instituciones de educación media-superior.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
-Con el objeto de detectar, estimular y proporcionar educación oportuna y de calidad a los alumnos con capacidades sobresalientes, la Secretaría de Educación y Bienestar Social, atenderá y dará cumplimiento a los lineamientos y criterios establecidos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
-La autoridad educativa responsable, proporcionará a los alumnos los apoyos educativos indispensables dentro de un marco de equidad, pertenencia y calidad, que les permita desarrollar sus capacidades al máximo e integrarse educativa, social y laboralmente.
+Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
+
+Las instituciones educativas del estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
+
+La formación y capacitación de maestros desarrollará las competencias necesarias para su adecuada atención de las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+Esta educación incluye capacitación a los padres y madres de alumnos con necesidades especiales de educación.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+Con el objeto de detectar, estimular y proporcionar educación oportuna y de calidad a los alumnos con capacidades sobresalientes, la Secretaría de Educación y Bienestar Social, atenderá y dará cumplimiento a los lineamientos y criterios establecidos para la evaluación diagnostica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, así como media superior y superior en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
+
+La educación especial abarcará la capacitación y orientación a los padres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior regular que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
 
 La educación especial tendrá las siguientes finalidades:
 
@@ -894,6 +924,10 @@ III.- Brindar mayores oportunidades de desarrollo educativo y laboral a niños, 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
 IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumnos con necesidades educativas especiales, desarrollar al máximo sus capacidades.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTICULO 34 BIS.- La educación especial también abarcará dentro de la educación regular la educación bilingüe, que comprenda el idioma español y la Lengua de Señas Mexicanas, para garantizar la inclusión de las personas con discapacidad auditiva y visual.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1379,9 +1413,9 @@ En cada Municipio operará un Consejo Municipal de Participación Social en la E
 
 Este consejo gestionará ante los Ayuntamientos y las Autoridades Educativas:
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad y demás proyectos de desarrollo educativo en el municipio;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -1529,9 +1563,9 @@ I.- Desarrollar sus actividades conforme lo establecido por la presente Ley y de
 
 II.- Contar con personal que acredite la preparación establecida en esta Ley para impartir la educación que pretenda prestar.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas adecuadas al servicio que prestan. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o reconocimiento.
+III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas y de accesibilidad que la autoridad determine, conforme los términos que señalen las disposiciones aplicables. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o reconocimiento.
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -1583,9 +1617,9 @@ VI.- No realizar prácticas nocivas de carácter económicas administrativas que
 
 Las personas físicas o morales particulares que presten servicios por los que impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
-ARTICULO 79 BIS.- En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 21 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes, y tomar las medidas a que se refiere el artículo 35 de esta Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
+ARTICULO 79 BIS.- En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 21 de esta Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes, y tomar las medidas a que se refiere el artículo 35 de esta Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ###### ARTICULO 80.
 
@@ -1671,9 +1705,13 @@ XIV.- Contravenir las disposiciones contempladas en el artículo 14, así como e
 
 XV.- Incumplir con las medidas correctivas derivadas de las visitas de inspección a que se refiere el artículo 80 de esta Ley, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XVI.- Incumplir cualesquiera de los demás preceptos de la Ley General de Educación, de esta Ley, así como de las disposiciones expedidas con fundamento en ellas.
+XVI.- Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XVII.- Incumplir cualesquiera de los demás preceptos de la Ley General de Educación, de esta Ley, así como de las disposiciones expedidas con fundamento en ellas.
 
 ###### ARTICULO 88.
 
@@ -2148,3 +2186,9 @@ P.O. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 645 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XII DEL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 6, 14, 15, 34, 71, 76, 79 BIS Y 87, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 34 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
