@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2017-del-pleno-del-consejo-de-la-122317"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-06-29"
-last_updated: "2017-09-25"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-06-21"
 
 ACUERDO GENERAL 5/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
 
 Acuerdo publicado en la Sexta Sección del Diario Oficial de la Federación, el jueves 29 de junio de 2017.
 
@@ -81,9 +81,11 @@ VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especial
 
 El Centro iniciará funciones a partir de las cero horas del uno de julio de dos mil diecisiete.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4.
 
-El Centro se integrará por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
 Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
 
@@ -298,3 +300,23 @@ Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el ar
 OCTAVO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
 
 NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Segundo Circuito.
+
+D.O.F. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se reforma el numeral QUINTO BIS, fracciones XXIV y XXV del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO BIS. …
+
+I. a XXIII. …
+
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec.
+
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+
+XXVI. a XXXVIII. …”
+
+TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
