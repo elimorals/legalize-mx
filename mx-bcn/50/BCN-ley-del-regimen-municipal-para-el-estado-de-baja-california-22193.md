@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2017-11-10"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -451,17 +451,21 @@ Sin perjuicio de las prerrogativas y obligaciones ciudadanas que deriven de otra
 
 ### CAPÍTULO PRIMERO. DE LA INSTALACIÓN DEL AYUNTAMIENTO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 34.
 
-De la Fecha de Instalación de los Ayuntamientos.- Los Ayuntamientos de la entidad se instalarán en cada Municipio, el día primero del mes de diciembre del año en que se verifique la elección ordinaria de Munícipes.
+De la Fecha de Instalación de los Ayuntamientos.- Los Ayuntamientos de la entidad se instalarán en cada Municipio, el día treinta del mes de septiembre del año en que se verifique la elección ordinaria de Munícipes.
 
 En caso de elecciones extraordinarias, el Ayuntamiento correspondiente se instalará en la fecha que se determine en la declaración de Munícipes electos que se emita conforme a la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
-El día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, Síndico Social en los casos que así corresponda y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta protesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
+El día treinta del mes de septiembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, se reunirán y comparecerán, en sesión solemne en el recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, y Regidores, con el fin de protestar el fiel ejercicio de sus cargos ante la comunidad e instalar el Ayuntamiento. Esta protesta surtirá sus efectos a partir del día uno de octubre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
@@ -475,7 +479,7 @@ II.- La rendición de la protesta legal de los miembros del Ayuntamiento entrant
 
 III.- La declaratoria de instalación del Ayuntamiento que hará el nuevo Presidente Municipal, en los siguientes términos:
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar durante el período que comprende del uno de diciembre del año de... al treinta de noviembre del año..."
+"Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar durante el período que comprende del uno de octubre del año de... al treinta de septiembre del año..."
 
 Cumplidas las formalidades anteriores, se procederá conforme lo determine el reglamento interior del Ayuntamiento.
 
@@ -627,7 +631,7 @@ En caso de que el Congreso del Estado no resuelva la petición del Ayuntamiento 
 
 Del Registro de Actuaciones Municipales.- Los Municipios deberán comunicar al Ejecutivo del Estado para su registro, los nombramientos de los diferentes funcionarios y comisionados que realicen, incluyendo las facultades y atribuciones que deban ejercer.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -944,3 +948,11 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 Artículo Segundo.- Los Ayuntamientos dentro un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, deberán crear o en su caso adecuar la reglamentación municipal, así como las normas técnicas que correspondan.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 195 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 34, 35 Y 36 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California y se aplicará a partir del día 30 de septiembre de 2019.
+
+SEGUNDO. Los Ayuntamientos deberán adecuar sus reglamentos internos, en un plazo no mayor a 120 días, después de la entrada en vigor del presente Decreto.
