@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-familia-para-el-estado-de-baja-california-84489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-30"
-last_updated: "2011-12-30"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2011.
 
@@ -64,6 +64,10 @@ La familia se caracteriza por la relación íntima, duradera y solidaria de sus 
 Los padres o quienes legalmente encabecen y constituyan la familia, son responsables de que en ésta prevalezca un ambiente de respeto recíproco, de armonía y cooperación subsidiaria, que permita a los hijos y a los integrantes del núcleo familiar desarrollarse en condiciones propicias para el desenvolvimiento de sus aptitudes, vocaciones y capacidades.
 
 Asimismo, es su deber fomentar en los hijos o menores que se encuentren bajo su custodia y el respeto a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones regionales.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+Para efectos de esta ley se entenderá por hijos y menores de edad, las Niñas, Niños y Adolescentes.
 
 ###### ARTÍCULO 4.
 
@@ -165,9 +169,11 @@ Corresponde al Estado apoyar subsidiariamente a los padres a través de la ayuda
 
 Los padres decidirán de común acuerdo todo lo concerniente al manejo del hogar, a la formación, educación y desarrollo de los hijos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
-Para respetar el derecho de la niñez, y adolescentes a un proceso de maduración psicológica equilibrada, los Municipios ejercerán una eficiente vigilancia y control de todos aquellos entornos o lugares en donde se desenvuelvan.
+Para respetar el derecho de los hijos a un proceso de maduración psicológica equilibrada, los Municipios ejercerán una eficiente vigilancia y control de todos aquellos entornos o lugares en donde se desenvuelvan.
 
 ### CAPÍTULO IV
 
@@ -177,9 +183,11 @@ DE LOS MEDIOS DE COMUNICACIÓN.
 
 El Estado promoverá que los medios de comunicación social sean instrumentos positivos para la construcción de la sociedad, el fortalecimiento de la familia y la perspectiva de familia; conforme a las disposiciones de la materia y mediante acuerdos con los responsables de los medios de comunicación, se impulsará que estos promuevan conductas, valores, pensamientos, principios, modelos y acciones que dignifiquen a la persona y fomenten la integración familiar.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-Los integrantes de la familia, en particular los más jóvenes, tienen derecho a ser protegidos adecuadamente contra los efectos negativos y los abusos de los anuncios, la publicidad, los medios de comunicación y electrónicos.
+Los integrantes de la familia tienen derecho a ser protegidos adecuadamente contra los efectos negativos y los abusos de los anuncios, la publicidad, los medios de comunicación y electrónicos.
 
 Los Gobiernos Municipales y Estatal, en el ámbito de sus respectivas competencias, deberán promover e incidir en la reglamentación de los espectaculares y anuncios, la publicidad y los medios de comunicación, con el fin de preservar el interés público, solicitando en su caso la intervención de la autoridad federal y guardando relaciones de coordinación con las mismas.
 
@@ -249,9 +257,13 @@ VII.- Proponer a las dependencias de la Administración Pública Estatal y Munic
 
 VIII.- Fomentar la realización de eventos académicos y programas educativos como instrumentos que faciliten la discusión, reflexión, análisis y propuestas sobre temas vinculados con el diseño de políticas públicas a favor de la familia;
 
-IX.- Diseñar, proponer y promover a la sociedad, a los Municipios y a las dependencias de la Administración Pública Estatal, programas que desde una perspectiva de familia, contribuyan a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2018)</small>
 
-a) La Educación y la formación integral para los niños y adolescentes que promuevan y fomenten los valores y principios fundamentales de la familia;
+IX.- Diseñar, proponer y promover a la sociedad, a los Municipios y a las dependencias de (sic) Administración Pública Estatal, programas que, desde una perspectiva de familia, contribuyan a:
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+a) La Educación y la formación integral de los hijos para que se promuevan y fomenten los valores y principios fundamentales de la familia;
 
 b) La formación de los padres de familia para la educación de sus hijos;
 
@@ -360,3 +372,11 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2018.
+
+[N DE E. TRANSITORIO DEL “DECRETO No. 159 MEDIANTE EL CUAL APRUEBA LA ADICIÓN DEL TERCER PÁRRAFO AL ARTÍCULO 3 Y LAS FORMAS (SIC) A LOS ARTÍCULOS 26, 28 Y 35 FRACCIÓN IX INCISO A DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
