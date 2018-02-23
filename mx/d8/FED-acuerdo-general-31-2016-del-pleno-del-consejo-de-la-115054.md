@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2016-del-pleno-del-consejo-de-la-115054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2016-06-17"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 31/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN REYNOSA Y CIUDAD VICTORIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -89,9 +89,11 @@ VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especial
 
 Los Centros iniciarán funciones a partir de las cero horas del catorce de junio de dos mil dieciséis.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4.
 
-Los Centros se integrarán por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+Los Centros se integrarán por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
 Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
 
@@ -318,3 +320,23 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …”.
+
+D.O.F. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se reforma el numeral QUINTO BIS, fracciones XXIV y XXV del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO BIS. …
+
+I. a XXIII. …
+
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec.
+
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+
+XXVI. a XXXVIII. …”
+
+TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
