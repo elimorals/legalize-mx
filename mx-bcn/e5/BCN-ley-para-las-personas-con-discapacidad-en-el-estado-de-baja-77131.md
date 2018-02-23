@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2016-10-21"
+last_updated: "2018-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -41,9 +41,13 @@ LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO I. DEL OBJETO, PRINCIPIOS Y DEFINICIONES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden Público y de observancia general y tiene por objeto el respeto, protección y cumplimiento de las medidas y acciones que contribuyan al desarrollo integral de las personas con discapacidad, procurando su bienestar físico y mental, así como la igualdad de oportunidades en sus actividades, fortaleciendo el entorno donde se desenvuelven.
+La presente Ley es de orden Público, de interés social y de observancia general en todo el territorio de Baja California. Es reglamentaria del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos y de la Convención sobre los Derechos de las Personas con Discapacidad, teniendo por objeto el respeto, protección y cumplimiento de las medidas y acciones que contribuyan al desarrollo integral de las personas con discapacidad, procurando su bienestar físico y mental, así como la igualdad de oportunidades en sus actividades, fortaleciendo el entorno donde se desenvuelven.
+
+De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas necesarias para su ejercicio.
 
 ###### ARTÍCULO 2.
 
@@ -79,117 +83,161 @@ X.- El respeto a la evolución de las facultades de los niños y las niñas con 
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-I.- Ayudas técnicas: Aquellos dispositivos tecnológicos que contribuyen a la movilidad y comunicación de las personas con discapacidad;
+I.- Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-II.- Barreras físicas: A los obstáculos que dificultan, entorpecen, impiden o que ponen en riesgo la integridad de las personas con discapacidad en su desplazamiento o comunicación, en espacios interiores o exteriores, sean públicos o privados, así como en el uso de herramientas, dispositivos y servicios comunitarios;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-III.- Consejo Consultivo: Al Consejo Consultivo Para Personas Con Discapacidad Del Estado;
+II.- Ajustes Razonables: Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-IV.- Discapacidad.- es toda restricción o ausencia (debido a una deficiencia) de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales;
+III.- Ayudas técnicas: Aquellos dispositivos tecnológicos que contribuyen a la movilidad y comunicación de las personas con discapacidad;
 
-V.- Discapacidad Auditiva: A la Originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+IV.- Barreras físicas: A los obstáculos que dificultan, entorpecen, impiden, o que ponen en riesgo la integridad de las personas con discapacidad en su desplazamiento o comunicación, en espacios interiores o exteriores, sean públicos o privados, así como en el uso de herramientas, dispositivos y servicios comunitarios;
 
-VI.- Discapacidad Mental: A la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las del lenguaje, las motrices y la socialización, incluidos los trastornos del neurodesarrollo;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-VII.- Discapacidad Motriz: Al Conjunto de alteraciones y deficiencias congénitas o adquiridas, que en distintos grados, afectan la ejecución y control de movimientos, la postura del cuerpo y la motricidad en general de la persona, independientemente de la causa o hecho desencadenante;
+V.- Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
 
-VIII.- Discapacidad Múltiple: A la presencia de dos o más discapacidades en una persona;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-IX.- Discapacidad Visual: A la derivada de una deficiencia sensorial del sentido de la vista, que se caracteriza por la carencia o disminución de la agudeza o campo visual, cuando esto represente una barrera insuperable, la cual impacte o restrinja la capacidad para realizar una actividad o función necesaria dentro del rol normal de la persona;
+VI.- Consejo Consultivo: Al Consejo Consultivo Para Personas Con Discapacidad Del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-X.- Discriminación por motivo de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas la denegación de ajustes razonables;
+VII.- Discapacidad: es toda restricción o ausencia (debido a una deficiencia) de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XI.- Diseño Universal: Al diseño de espacios, herramientas, programas, dispositivos y servicios comunitarios que puedan utilizar las personas con o sin discapacidad en la mayor medida posible, sin necesidad de adaptación ni diseño especializado y teniendo en cuenta el empleo de los elementos de asistencia particulares de cada discapacidad;
+VIII.- Discapacidad Auditiva: A la Originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XII.- Educación Escolar o Formal: Al sistema educativo institucionalizado, cronológicamente graduado y jerárquicamente estructurado que se inicia desde la escuela pre-escolar y continúa hasta la universidad;
+IX.- Discapacidad Mental: A la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las del lenguaje, las motrices y la socialización, incluidos los trastornos del neurodesarrollo;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XIII.- Educación Especial: Al conjunto de servicios programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
+X.- Discapacidad Motriz: Al Conjunto de alteraciones y deficiencias congénitas o adquiridas, que en distintos grados, afectan la ejecución y control de movimientos, la postura del cuerpo y la motricidad en general de la persona, independientemente de la causa o hecho desencadenante;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XIV.- Educación No Escolar o Informal: Aquella que permite adquirir y acumular conocimientos y habilidades mediante las experiencias diarias y la relación con el medio ambiente;
+XI.- Discapacidad Múltiple: A la presencia de dos o más discapacidades en una persona;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XV.- Educación Mixta: Toda actividad educativa, organizada y sistemática realizada fuera del marco del ámbito oficial, para facilitar determinadas clases de aprendizaje a subgrupos particulares de la población;
+XII.- Discapacidad Visual: A la derivada de una deficiencia sensorial del sentido de la vista, que se caracteriza por la carencia o disminución de la agudeza o campo visual, cuando esto represente una barrera insuperable, la cual impacte o restrinja la capacidad para realizar una actividad o función necesaria dentro del rol normal de la persona;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XVI.- Equiparación de Oportunidades: Al proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+XIII.- Discriminación por motivo de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas la denegación de ajustes razonables;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XVII.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
+XIV.- Diseño Universal: Al diseño de espacios, herramientas, programas, dispositivos y servicios comunitarios que puedan utilizar las personas con o sin discapacidad en la mayor medida posible, sin necesidad de adaptación ni diseño especializado y teniendo en cuenta el empleo de los elementos de asistencia particulares de cada discapacidad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XVIII.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XV.- Educación Escolar o Formal: Al sistema educativo institucionalizado, cronológicamente graduado y jerárquicamente estructurado que se inicia desde la escuela pre-escolar y continúa hasta la universidad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XIX.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
+XVI.- Educación Especial: Al conjunto de servicios programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XX.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
+XVII.- Educación No Escolar o Informal: Aquella que permite adquirir y acumular conocimientos y habilidades mediante las experiencias diarias y la relación con el medio ambiente;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXI.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística; XXIII (SIC).- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
+XVIII.- Educación Mixta: Toda actividad educativa, organizada y sistemática realizada fuera del marco del ámbito oficial, para facilitar determinadas clases de aprendizaje a subgrupos particulares de la población;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXII.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
+XIX.- Equiparación de Oportunidades: Al proceso de adecuaciones, mejoras y ajustes necesarios en el entorno jurídico, social, cultural, de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXIII.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+XX.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o dialogo oral de manera simultánea a su desenvolvimiento y, así como proyectar el texto resultante por medios electrónicos visuales;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXIV.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXI.- Estimulación Temprana: Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXV.- Persona cuidadora: Son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
+XXII.- Familia cuidadora: Al conjunto de personas, que dedican una importante actividad diaria al cuidado de sujetos con dependencias o discapacidades;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXVI.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
+XXIII.- Habilitación: Al proceso mediante el cual se dota por primera vez a la persona, de una capacidad o habilidad que le otorgue una mejor calidad de vida, y consiste en brindar asistencia multidisciplinaria y especializada, a la persona que sufre deficiencia congénita o desde temprana edad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXVII.- Perro de asistencia: Los perros educados y adiestrados en centros especializados y oficialmente reconocidos, para prestar asistencia y auxilio a personas con alguna discapacidad;
+XXIV.- Lengua de Señas: A la Lengua que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXVIII.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXV.- Lengua de Señas Mexicanas: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXIX.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+XXVI.- Ley: A la Ley para las Personas con Discapacidad en el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXX.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
+XXVII.- Ley General: La Ley General para la Inclusión de las Personas con Discapacidad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-XXXI.- Terapia conductual: Consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado.
+XXVIII.- Maestra sombra: Es una extensión del profesor, proporcionando atención a aquellos que lo necesitan más;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXIX.- Organizaciones: A las organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXX.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXI.- Persona cuidadora: Son las personas o instituciones que se hacen cargo de las personas con algún nivel de dependencia. Son por tanto padres, madres, hijos/as, familiares, personal contratado o voluntario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXII.- Persona dependiente: un estado en que se encuentran las personas que, por razones ligadas a la falta o a la pérdida de autonomía física, psíquica o intelectual tienen necesidad de asistencia o de ayudas importantes para realizar actos corrientes de la vida ordinaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXIII.- Perro de asistencia: Los perros educados y adiestrados en centros especializados y oficialmente reconocidos, para prestar asistencia y auxilio a personas con alguna discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXIV.- Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXV.- Rehabilitación: Al proceso de duración limitada y con un objetivo definido, de orden médico, neuropsicológico, social. y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental o sensorial óptimo, permitiendo compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXVI.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXVII.- Subcomité Especial: Subcomité Especial de Asistencia Social a Personas con Discapacidad, órgano integrante del Comité de Planeación para el Desarrollo del Estado creado mediante acuerdo publicado en el Periódico Oficial del Estado de fecha 25 de agosto de 1995;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXVIII.- Terapia conductual: Consiste en enseñar al paciente a emitir respuestas adaptativas ante los estímulos que les provocan respuestas inadaptadas, bien sea con un desaprendizaje o extinción de la conducta inadecuada, bien sea aprendiendo un comportamiento más adecuado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XXXIX.- Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ### CAPÍTULO II. DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -263,13 +311,33 @@ ARTÍCULO 6 BIS.- Las personas con discapacidad tendrán derecho a recibir un tr
 
 Procurando con la disponibilidad de los recursos para la comunicación, ayudas técnicas y humanas necesarias para la atención de las personas con discapacidad en sus respectivas jurisdicciones apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en Sistema de Escritura Braille, bajo los términos que establezcan las leyes respectivas.
 
-### CAPÍTULO I. DE LAS AUTORIDADES Y SUS FUNCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
+### CAPÍTULO III. DE LA PERSONALIDAD JURÍDICA
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 6 TER.- Las personas con discapacidad tienen capacidad jurídica en igualdad de condiciones que las demás en todos los aspectos de la vida y, en su caso, aquéllas que no puedan ejercerla por sí mismas, se estarán a lo dispuesto en la legislación de la materia, en lo que respecta a la representación de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 6 QUARTER.- Las autoridades estatales y municipales competentes, proporcionarán a las personas con discapacidad el apoyo que puedan necesitar en el ejercicio de su capacidad jurídica.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 6 QUINQUIES.- La Procuraduría y la Defensoría Pública del Estado en ejercicio de sus competencias, apoyarán jurídicamente a las niñas, niños y adolescentes y en general a las personas con discapacidad que así lo requieran, a efecto de que puedan ejercer su capacidad jurídica a través de sus representantes, en términos de la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 6 SEXIES.- En todas las medidas y apoyos para el ejercicio de la capacidad jurídica de las personas con discapacidad, se establecerán salvaguardas para impedir abusos, conflictos de intereses o influencias, y conseguir que se respeten los derechos, la voluntad y las preferencias de las personas con discapacidad.
+
+Estas salvaguardas deberán ser proporcionales y adecuadas a las circunstancias de la persona y durarán el menor tiempo posible.
+
+### CAPÍTULO I. DE LAS AUTORIDADES Y SUS FUNCIONES
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
+### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 7.
 
@@ -297,15 +365,37 @@ i) Instituto del Deporte y la Cultura Física;
 
 j) El Instituto Estatal de Planeación;
 
-k) El Comité de Planeación del Estado; Y
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
-I) Procuraduría de Justicia del Estado.
+k) El Comité de Planeación del Estado;
 
-II.- Los Ayuntamientos.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+l) Procuraduría de Justicia del Estado; y
 
-III.- La Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
+
+m) Defensoría Pública del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+II.- El Poder Legislativo del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+III.- El Poder Judicial del Estado de Baja California.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+IV.- Los Ayuntamientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+V.- La Comisión Estatal de los Derechos Humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2018)</small>
+
+Además de las autoridades señaladas en las fracciones del presente artículo, de igual forma corresponde la observancia y cumplimiento de esta Ley a las Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal, Organismos Constitucionales Autónomos, en el ámbito de sus respectivas competencias, así como a las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -391,7 +481,7 @@ VI. Promover que en las políticas, programas o acciones, se impulse la toma de 
 
 VII. Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley.
 
-### CAPÍTULO IV. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 ###### ARTÍCULO 9.
 
@@ -453,9 +543,7 @@ XIII. Las demás que sean necesarias para el cumplimiento de la presente ley.
 
 Los procesos de prevención, habilitación y rehabilitación de las personas con discapacidad serán en los términos previstos por la Ley de Salud Pública para el Estado de Baja California del y los programas que sean creados para tal efecto.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
+### CAPÍTULO IV. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 11.
 
@@ -505,33 +593,71 @@ I.- Elaborar, establecer y fortalecer las evaluaciones psicopedagógicas para la
 
 II.- Realizar los ajustes razonables para la incorporación y oportuna canalización de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal; así como verificar el cumplimiento de las normas para su integración educativa en apego a lo establecido a la Ley General de Inclusión para las Personas con Discapacidad;
 
-III.- Formar, actualizar, capacitar y profesionalizar a los docentes y al personal que intervenga directamente en la integración educativa de personas con discapacidad; así mismo se Incorporará a los docentes y personal asignado que intervengan directamente en la integración e inclusión educativa de personas con discapacidad, al Sistema Nacional de Formación, Actualización, Capacitación y Superación Profesional para Maestros de Educación Básica;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-IV.- Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en Sistema Braille, maestras sombra, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+III.- Garantizar en todo momento el acceso de las personas con discapacidad a una educación inclusiva y especial, diseñando para ello los métodos, técnicas o programas necesarios, en razón de los diversos tipos de discapacidad, brindando de esta forma la posibilidad de desarrollo integral de manera igualitaria, sin ningún tipo de distinción, ni discriminación.
 
-V.- Implementar el reconocimiento oficial de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, en la educación pública y privada, fomentando la producción y distribución de libros de texto gratuitos en Sistema de Escritura Braille, macrotipos y textos audibles que complementen los conocimientos de los alumnos con discapacidad; así como programas de capacitación e investigación, para su utilización en el Sistema Educativo Estatal;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-VI.- Asegurar el acceso de la población con discapacidad auditiva a la educación bilingüe, que comprenda además del idioma español, la Lengua de Señas Mexicana; promover que los programas educativos que se transmiten por televisión pública o privada local, incluyan tecnologías para texto, audio descripciones, estenografía proyectada o intérpretes de Lengua de Señas Mexicana;
+IV.- Fomentar, actualizar, capacitar y profesionalizar a los docentes y al personal que intervenga directamente en la integración educativa de personas con discapacidad; así mismo se incorporará a los docentes y personal asignado que intervengan directamente en la integración e inclusión educativa de personas con discapacidad, al Sistema Nacional de Formación, Actualización, Capacitación y Superación Profesional para Maestros de Educación Básica;
 
-VII.- Establecer un programa estatal de becas educativas y becas de capacitación para personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-VIII.- Diseñar e implementar programas de formación y certificación de intérpretes estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas; así como de las formas de comunicación de las personas con discapacidad visual entre ellas el sistema de escritura Braille y otras tecnologías;
+V.- Proporcionar a los estudiantes con discapacidad materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en Sistema Braille, maestras sombra, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
 
-IX.- Impulsar programas de investigación, preservación y desarrollo de la lengua de Señas Mexicana promoviendo la Educación Bilingüe para Sordos, que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-X.- Establecer mecanismos a fin de que las niñas y los niños con discapacidad gocen del derecho a la admisión gratuita y obligatoria así como a la atención especializada, en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios. Las niñas y niños con discapacidad no podrán ser condicionados en su integración a la educación inicial o preescolar;
+VI.- Implementar el reconocimiento oficial de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, en la educación pública y privada, fomentando la producción y distribución de libros de texto gratuitos en Sistema de Escritura Braille, macrotipos y textos audibles que complementen los conocimientos de los alumnos con discapacidad; así como programas de capacitación e investigación, para su utilización en el Sistema Educativo Estatal.
 
-XI.- Impulsar con los Centros de Enseñanza de Educación Superior, convenios y lineamientos que permitan la investigación y el desarrollo de bienes, servicios, equipo, tecnología e instalaciones de diseño universal;
+De igual forma, diseñar, formular, promover, organizar e impartir capacitaciones y certificaciones en la Lengua de Señas Mexicanas;
 
-XII.- Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XIII.- Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios educativos y científicos;
+VII.- Asegurar el acceso de la población con discapacidad auditiva a la educación bilingüe, que comprenda además del idioma español, la Lengua de Señas Mexicana; promover que los programas educativos que se transmiten por televisión pública o privada local, incluyan tecnologías para texto, audio descripciones, estenografía proyectada o intérpretes de Lengua de Señas Mexicana;
 
-XIV.- El Estado promoverá con los Ayuntamientos los Convenios de Colaboración a fin de que en las Bibliotecas y salas de lectura, entre otros, se incorporen equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
 
-XV.- El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
+VIII.- Establecer un programa estatal de becas educativas y becas de capacitación para personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
 
-XVI.- Las demás que sean necesarias para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+IX.- Diseñar e implementar programas de formación y certificación de intérpretes estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas; así como de las formas de comunicación de las personas con discapacidad visual entre ellas el sistema de escritura Braille y otras tecnologías;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+X.- Impulsar programas de investigación, preservación y desarrollo de la Lengua de Señas Mexicana promoviendo la Educación Bilingüe para Sordos, que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XI.- Establecer mecanismos a fin de que las niñas y los niños con discapacidad gocen del derecho a la admisión gratuita y obligatoria así como a la atención especializada, en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios. Las niñas y niños con discapacidad no podrán ser condicionados en su integración a la educación inicial o preescolar;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XII.- Impulsar con los Centros de Enseñanza de Educación Superior, convenios y lineamientos que permitan la investigación y el desarrollo de bienes, servicios, equipo, tecnología e instalaciones de diseño universal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XIII.- Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XIV.- Establecer condiciones de inclusión de personas con discapacidad para lograr equidad en la promoción, el disfrute y la producción de servicios educativos y científicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XV.- El Estado promoverá con los Ayuntamientos los Convenios de Colaboración a fin de que en las Bibliotecas y salas de lectura, entre otros, se incorporen equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XVI.- El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XVII.- Coordinar y promover el establecimiento y lineamientos de atención para el ingreso y continuidad de los estudiantes en condición de discapacidad en los niveles de educación media superior y superior.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+
+XVIII.- Las demás que sean necesarias para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -565,9 +691,9 @@ La educación especial deberá contar con personal técnicamente capacitado y ca
 
 Se garantizará que quienes participen en la elaboración de los programas de educación especial para la atención de las personas con discapacidad cuenten con título profesional, especialización, experiencia y aptitudes en la materia.
 
-### CAPÍTULO VI. DE LOS SISTEMAS ESTATAL Y MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 19.
 
@@ -595,9 +721,9 @@ VII.- Impulso en coordinación con las autoridades educativas estatales y federa
 
 VIII.- Las demás que sean necesarias para el cumplimiento de esta Ley.
 
-### CAPÍTULO VII. DE LOS INSTITUTOS DEL DEPORTE Y LA CULTURA FÍSICA, Y DE CULTURA DE BAJA CALIFORNIA
+### CAPÍTULO VI. DE LOS SISTEMAS ESTATAL Y MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
@@ -641,7 +767,9 @@ III.- Que la adecuación de las instalaciones públicas sea progresiva con metas
 
 Las autoridades a que se refiere este capítulo impulsaran la inclusión de proyectos arquitectónicos que consideren las necesidades de Diseño Universal de las personas con discapacidad en los programas de vivienda.
 
-### CAPÍTULO VIII. DEL INSTITUTO ESTATAL DE PLANEACIÓN Y COMITÉ DE PLANEACIÓN PARA EL ESTADO
+### CAPÍTULO VII. DE LOS INSTITUTOS DEL DEPORTE Y LA CULTURA FÍSICA, Y DE CULTURA DE BAJA CALIFORNIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
@@ -683,7 +811,7 @@ V.- El Sistema Estatal para el Desarrollo Integral de la Familia, deberá incorp
 
 VI.- Y las demás que prevengan las disposiciones aplicables.
 
-### CAPÍTULO IX. DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
+### CAPÍTULO VIII. DEL INSTITUTO ESTATAL DE PLANEACIÓN Y COMITÉ DE PLANEACIÓN PARA EL ESTADO
 
 ###### ARTÍCULO 27.
 
@@ -727,23 +855,7 @@ IX.- Fomentar la elaboración de materiales de lectura, inclusive en sistema Bra
 
 X.- Las demás necesarias para el cumplimiento de la presente Ley.
 
-### CAPÍTULO X
-
-FUNCIONES Y ATRIBUCIONES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
-
-ARTÍCULO 35 BIS.- La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia (sic) derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
-
-I.- Coordinar las actividades relacionadas con los derechos humanos y la discapacidad a nivel estatal y municipal;
-
-II.- Observar la acción gubernamental a fin de que respeten los derechos de las personas con discapacidad;
-
-III.- Sensibilizar al público sobre las cuestiones relacionadas con la discapacidad y los derechos de las personas con discapacidad;
-
-IV.- Velar por que las personas con discapacidad que deseen participar en la formulación de las políticas y leyes que les afecten, no les sea vulnerado su derecho; y
-
-V.- Recomendar a las personas con discapacidad que participen en organizaciones y la sociedad civil, así como promover la creación de organizaciones de personas con discapacidad.
+### CAPÍTULO IX. DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 28.
 
@@ -785,7 +897,23 @@ Los ayuntamientos deberán procurar la concordancia de las estrategias, las acci
 
 La ejecución de los acuerdos tomados en el Subcomité Especial quedará a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal en sus respectivos ámbitos de competencias.
 
-### CAPÍTULO I. DE SU OBJETO Y ATRIBUCIONES
+### CAPÍTULO X
+
+FUNCIONES Y ATRIBUCIONES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS.- La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia (sic) derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
+
+I.- Coordinar las actividades relacionadas con los derechos humanos y la discapacidad a nivel estatal y municipal;
+
+II.- Observar la acción gubernamental a fin de que respeten los derechos de las personas con discapacidad;
+
+III.- Sensibilizar al público sobre las cuestiones relacionadas con la discapacidad y los derechos de las personas con discapacidad;
+
+IV.- Velar por que las personas con discapacidad que deseen participar en la formulación de las políticas y leyes que les afecten, no les sea vulnerado su derecho; y
+
+V.- Recomendar a las personas con discapacidad que participen en organizaciones y la sociedad civil, así como promover la creación de organizaciones de personas con discapacidad.
 
 ###### ARTÍCULO 34.
 
@@ -843,13 +971,11 @@ h) Las demás que le confieran esta Ley y otros ordenamientos legales y reglamen
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO I. DE SU OBJETO Y ATRIBUCIONES
 
 ## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD DEL ESTADO
 
-### CAPÍTULO III. DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
+### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### ARTÍCULO 36.
 
@@ -907,9 +1033,9 @@ XV. Rendir un informe público anual sobre el cumplimiento de sus objetivos, y
 
 XVI. Expedir en tiempo y forma su Reglamento Interno.
 
-### CAPÍTULO ÚNICO. DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA
 
-> <small>[N. DE E. ANTES ARTÍCULO 54, P.O. 15 DE JULIO DE 2016.]</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
@@ -1041,6 +1167,12 @@ ARTÍCULO 53 BIS.- El Consejo se apoyará del Subcomité Especial de Asistencia 
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
 
+### CAPÍTULO IV. GOBIERNO INCLUYENTE
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 62 BIS.- Las autoridades señaladas en las fracciones I, II, III y IV del artículo 7 de esta Ley, contarán con al menos un módulo de atención y orientación para personas con discapacidad, en aquellas ciudades donde tengan presencia de servicios y que corresponda a su jurisdicción. Dicho módulo contará con el personal humano debidamente capacitado en Lengua de Señas Mexicanas y en el contenido de la presente Ley.
+
 ###### ARTÍCULO 54.
 
 Toda persona con discapacidad tiene derecho al acceso, recorridos y permanencia junto a su perro de asistencia, en los espacios públicos, incluido el transporte público. El acceso del perro de asistencia a los espacios públicos que implique un pago de entrada o peaje, no implicará pago adicional para la persona con discapacidad, salvo que su movilización constituya la prestación de un servicio agregado.
@@ -1128,6 +1260,12 @@ IV.- Tratándose de vehículos de alquiler, mantener al perro de asistencia, pre
 ###### ARTÍCULO 62.
 
 El incumplimiento de lo dispuesto con relación al libre acceso de personas con discapacidad y sus perros de asistencia a los espacios públicos mencionados, será sancionado en los términos de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. DE LOS SERVIDORES PÚBLICOS
+
+> <small>[N. DE E. ANTES ARTÍCULO 54, P.O. 15 DE JULIO DE 2016.]</small>
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
@@ -1231,6 +1369,22 @@ SEGUNDO.- El Ejecutivo del Estado contará con 90 días naturales posteriores a 
 
 P.O. 21 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 672 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 672 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 190 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 7 Y 15; ASÍ COMO LA ADICIÓN DEL CAPÍTULO III DENOMINADO "DE LA PERSONALIDAD JURÍDICA" AL TÍTULO PRIMERO, ADICIONÁNDOSE LOS ARTÍCULOS 6 TER, 6 QUÁTER, 6 QUINQUIES Y 6 SEXIES; SE ADICIONA EL CAPÍTULO IV DENOMINADO "GOBIERNO INCLUYENTE" AL TÍTULO TERCERO, ADICIONÁNDOSE EL ARTÍCULO 62 BIS A LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos, deberá realizar las modificaciones necesarias a sus reglamentos a más tardar setenta días naturales contados a partir de la publicación de la presente reforma.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días contados a partir de la publicación de la presente reforma, los sujetos obligados darán cumplimiento a lo establecido en el artículo 62 BIS.
