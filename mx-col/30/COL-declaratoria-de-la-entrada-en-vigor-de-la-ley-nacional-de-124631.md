@@ -4,7 +4,7 @@ identifier: "COL-declaratoria-de-la-entrada-en-vigor-de-la-ley-nacional-de-12463
 country: "mx"
 rank: "otro"
 publication_date: "2017-11-25"
-last_updated: "2017-11-25"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Declaratoria publicada en el Periódico Oficial del Gobierno del Estado de Colima, el sábado 25 de noviembre de 2017.
 
@@ -98,3 +98,15 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 ARNOLDO OCHOA GONZÁLEZ.
 
 Rúbrica.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO Y TRANSITORIOS DEL "DECRETO NO. 453 POR EL QUE SE DECLARA LA VIGENCIA EN EL TERRITORIO DEL ESTADO DE COLIMA, DEL ARTÍCULO 136 DE LA LEY NACIONAL DE EJECUCIÓN PENAL".]</small>
+
+ÚNICO.- Se declara la vigencia en el territorio del Estado Libre y Soberano de Colima del artículo 136 de la Ley Nacional de Ejecución Penal.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo del Estado deberá realizar las adecuaciones presupuestales correspondientes para que a más tardar en el mes de noviembre del presente año se cuente con el equipo necesario para la realización del monitoreo electrónico a que refiere el artículo 136 de la Ley Nacional de Ejecución Penal.
