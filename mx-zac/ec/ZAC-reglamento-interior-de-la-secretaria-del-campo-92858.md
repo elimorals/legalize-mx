@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-del-campo-92858"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-13"
-last_updated: "2013-02-13"
+last_updated: "2018-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL CAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL CAMPO, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL CAMPO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de febrero de 2013.
 
 MIGUEL ALEJANDRO ALONSO REYES, GOBERNADOR DEL ESTADO DE ZACATECAS, EN EJERCICIO DE LA FACULTAD QUE ME CONFIEREN LOS ARTÍCULOS 82 FRACCIONES II Y VI, 84 Y 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 5, 6 Y 22 FRACCIÓN VI DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DE LA ENTIDAD; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, tengo a bien expedir el siguiente:
 
@@ -369,7 +373,7 @@ IX. Proponer y promover el desarrollo de infraestructura agrícola e hidráulica
 
 X. Impulsar e intervenir, en coordinación con las autoridades federales, municipales, organismos auxiliares y organizaciones de productores, en campañas permanentes para el manejo integrado, prevención y combate de plagas y enfermedades que repercuten en las especies vegetales del Estado;
 
-XI. Promover y observar la aplicación de los procedimientos para la internación y movilización de productos y subproductos vegetales. en los términos de la legislación aplicable;
+XI. Promover y observar la aplicación de los procedimientos para la internación y movilización de productos y subproductos vegetales, en los términos de la legislación aplicable;
 
 XII. Fomentar y apoyar los programas de investigación y enseñanza agrícola, así como promover la adopción de tecnologías que permitan mejorar la producción y productividad de las unidades de producción;
 
@@ -928,3 +932,19 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DEL CAMPO
 
 ENRIQUE GUADALUPE FLORES MENDOZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL CAMPO”.]
+
+Artículo Primero. El presente Reglamento Interior de la Secretaría del Campo, entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría del Campo, publicado en el suplemento número 2 al No. 13 del Periódico Oficial, órgano de Gobierno del Estado, de fecha 13 de febrero del 2013.
+
+Artículo Tercero. Se derogan las disposiciones administrativas que contravengan al presente Reglamento.
+
+Artículo Cuarto. Los asuntos que se encuentran en trámite a cargo de Unidades Administrativas que se modifican o cambian de adscripción, los continuará y resolverá la unidad administrativa que el presente ordenamiento señala como competente.
+
+Artículo Quinto. Dentro del término de 90 días naturales siguientes a la Publicación del presente Reglamento, se deberán expedir los Manuales de Organización y de Procedimientos para sus publicaciones en el Periódico Oficial, Órgano de Gobierno del Estado
