@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2018-02-21"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -761,9 +761,17 @@ VIII. Investigación geriátrica, gereontológica y tanatológica;
 
 IX. Orientación familiar;
 
-X. Servicios culturales y educativos; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2018)</small>
 
-XI. Descuentos en bienes, servicios y cargas hacendarias.
+X. Servicios culturales y educativos;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2018)</small>
+
+XI. Descuentos en bienes, servicios y cargas hacendarias, y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2018)</small>
+
+XII. Garantizar su derecho a una alimentación nutritiva, suficiente y de calidad, cuando carezcan de medios propios para ello, de acuerdo a la legislación aplicable.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -815,13 +823,13 @@ a) Por el sector público:
 
 7. La o el Presidente del Patronato del Sistema DIF Estatal;
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2018)</small>
 
-8. La o el titular de la Subsecretaría de las Personas con Discapacidad;
+8. La o el titular de la entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas;
 
 9. La o el titular de la Coordinación General Jurídica;
 
-10. La o el titular del Instituto Zacatecano de Cultura “Ramón López Velarde”;
+10. La o el titular del Instituto Zacatecano de Cultura "Ramón López Velarde";
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -849,7 +857,9 @@ b) Por el sector ciudadano, cinco personas adultas mayores, representantes de or
 
 V. Serán invitados permanentes del Consejo, con derecho a voz:
 
-a. La o el Presidente de la Comisión Legislativa de Discapacitados y Tercera Edad de la Legislatura del Estado o de la comisión encargada de los asuntos de las personas adultas mayores;
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2018)</small>
+
+a. La o el Presidente de la Comisión Legislativa de Atención a Grupos Vulnerables de la Legislatura del Estado o de la comisión encargada de los asuntos de las personas adultas mayores;
 
 b. La o el Presidente del Tribunal Superior de Justicia del Estado;
 
@@ -1373,7 +1383,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 23 DE MARZO DE 2013.
 
@@ -1396,5 +1406,17 @@ Los Ayuntamientos, en el término de ciento veinte días naturales a partir de l
 P.O. 21 DE FEBRERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 213.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 286.- SE REFORMA Y ADICIONA EL ARTÍCULO 38 DE LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
