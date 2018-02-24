@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2018-02-21"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -1441,7 +1441,7 @@ Para los efectos de este artículo la indemnización comprende el pago de los da
 
 416.- El propietario o poseedor que reúna el requisito del artículo 458, puede establecer en el inmueble cuantas servidumbres tenga por conveniente y en el modo y forma que mejor le parezca, siempre que no contravenga las leyes ni perjudique derecho de terceros.
 
-417.- Sólo pueden constituir servidumbres las personas que tienen derecho de enajenar; las que no pueden enajenar inmuebles sino con ciertos requisitos, no pueden, sin ellos, imponer servidumbre sobre los mismos .
+417.- Sólo pueden constituir servidumbres las personas que tienen derecho de enajenar; las que no pueden enajenar inmuebles sino con ciertos requisitos, no pueden, sin ellos, imponer servidumbre sobre los mismos.
 
 418.- Si fueren varios los propietarios o poseedores de un predio, no se podrá imponer servidumbres sino con consentimiento de todos.
 
@@ -1697,7 +1697,7 @@ Cuando el último día sea feriado no se tendrá por completo el término para l
 
 486.- Sucesión es la trasmisión de todos los bienes, derechos y obligaciones de una persona por causa de su muerte.
 
-La herencia es el conjunto de bienes, derechos y obligaciones que no se extinguen con la muerte de su titular; constituye una universalidad jurídica y una copropiedad en favor de todos los herederos a partir del día y la hora de la muerte del autor de la sucesión, hasta la partición y adjudicación .
+La herencia es el conjunto de bienes, derechos y obligaciones que no se extinguen con la muerte de su titular; constituye una universalidad jurídica y una copropiedad en favor de todos los herederos a partir del día y la hora de la muerte del autor de la sucesión, hasta la partición y adjudicación.
 
 Legado es la trasmisión de uno o varios bienes determinados o determinables que hace en su testamento el testador en favor de una o varias personas.
 
@@ -2569,7 +2569,9 @@ III.- El Estado, por conducto de su Secretaría de Educación Pública y Servici
 
 ### CAPITULO SEXTO. DE LA SUCESION DE LOS CONCUBINOS
 
-810.- La persona con quien el autor de la herencia vivió como si fuera su cónyuge dentro de los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas establecidas en el Capítulo IV de este Título.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+
+810.- La persona con quien el autor de la herencia vivió como si fuera su cónyuge dentro de los dos años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas establecidas en el Capítulo IV de este Título.
 
 Si al morir el autor de la herencia hacía vida marital con varias personas en las condiciones mencionadas en el artículo precedente, ninguna de ellas heredará.
 
@@ -3301,7 +3303,7 @@ Los derechos personalísimos no son transmisibles ni por contrato ni por sucesi�
 
 1074.- Son contratos consensuales aquéllos que se perfeccionan por el mero consentimiento de las partes y la ley no exige que se prueben por escrito ni que se entregue el bien objeto del contrato para la constitución de éste.
 
-Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental , sea pública o privada, según determine la ley.
+Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental, sea pública o privada, según determine la ley.
 
 El contrato será real cuando la ley exija, para su constitución, que al celebrarse se entregue el bien o bienes que sean objeto de las obligaciones creadas por el contrato.
 
@@ -8194,3 +8196,11 @@ P.O. 21 DE FEBRERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 236.- POR EL QUE SE REFORMA EL ARTÍCULO 810 DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.COMUNÍQUESE (SIC) AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
