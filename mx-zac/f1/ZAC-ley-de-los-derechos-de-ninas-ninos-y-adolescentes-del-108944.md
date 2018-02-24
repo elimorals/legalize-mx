@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2015-07-01"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -1015,6 +1013,8 @@ En ningún caso una situación migratoria irregular de niñas, niños o adolesce
 
 ### CAPÍTULO V. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 67.
 
 La Visitaduría, en coordinación con la Universidad Autónoma de Zacatecas "Francisco García Salinas", deberá garantizar intérpretes suficientes para atender las necesidades de las comunidades indígenas, en atención a la obligación de asistir a cualquier niño, niña o adolescente que no hable español con dominio suficiente para tener acceso a todo servicio público existente destinado a la niñez y adolescencia.
@@ -1027,15 +1027,17 @@ Se entiende por niñas, niños y adolescentes indígenas, a los pertenecientes a
 
 ###### Artículo 68.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho a desarrollar plenamente sus aptitudes, a gozar de una vida digna que les permita integrarse a la sociedad, participando en la medida de sus posibilidades, en los ámbitos escolar, laboral, cultural, recreativo y económico y a disfrutar, en igualdad de condiciones con las demás niñas, niños y adolescentes, plenamente de todos los derechos humanos contenidos en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Estatal, los tratados internacionales, la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad y demás disposiciones jurídicas aplicables
+Niñas, niños y adolescentes con discapacidad tienen derecho a desarrollar plenamente sus aptitudes, a gozar de una vida digna que les permita integrarse a la sociedad, participando en la medida de sus posibilidades, en los ámbitos escolar, laboral, cultural, recreativo y económico y a disfrutar, en igualdad de condiciones con las demás niñas, niños y adolescentes, plenamente de todos los derechos humanos contenidos en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Estatal, los tratados internacionales, la Ley para la Inclusión de las Personas con Discapacidad del Estado de Zacatecas y demás disposiciones jurídicas aplicables.
 
 Se consideran niñas, niños o adolescentes con discapacidad quienes presenten alguna alteración funcional física, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, les impide realizar una actividad propia de su edad, medio social y que impliquen desventajas para su inclusión plena y efectiva en igualdad de condiciones en los ámbitos familiar, social, educativo o laboral.
 
 Las autoridades estatales y municipales deben garantizar que niñas, niños y adolescentes con discapacidad tengan derecho a expresar su opinión libremente sobre todas las cuestiones que les afecten, la cual debe ser tomada en cuenta, acorde a su edad y madurez, en igualdad de condiciones con los demás, y a recibir asistencia apropiada con arreglo a su discapacidad y edad para poder ejercer ese derecho.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 69.
 
-Las autoridades estatales a través de la Subsecretaría de las Personas con Discapacidad en coordinación con los municipios, en el ámbito de sus respectivas competencias, establecerán normas pertinentes para:
+Las autoridades estatales, a través de la entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas, en coordinación con los municipios, en el ámbito de sus respectivas competencias, establecerán normas pertinentes para:
 
 I. Realizar ajustes razonables para fomentar la inclusión social y establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
 
@@ -2051,7 +2053,7 @@ s) Ley de Transparencia y Acceso a la Información Pública del Estado de Zacate
 
 t) Ley de la Comisión de los Derechos Humanos del Estado de Zacatecas.
 
-Artículo Séptimo. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo ,no mayor a ciento veinte días naturales siguientes a su entrada en vigor, para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
+Artículo Séptimo. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo, no mayor a ciento veinte días naturales siguientes a su entrada en vigor, para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
 
 Artículo Octavo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, con el objetivo de dar cumplimiento a lo previsto en esta Ley, deberán implementar las políticas y acciones correspondientes conforme los programas aplicables y los que se deriven de la misma.
 
@@ -2074,3 +2076,11 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
