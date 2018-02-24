@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2017-09-16"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -435,9 +435,9 @@ VI. La o el Secretario de la Función Pública del Gobierno del Estado;
 
 VII. El Procurador o Procuradora General de Justicia, y
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2018)</small>
 
-VIII. Subsecretaría de las Personas con Discapacidad.
+VIII. La entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas.
 
 A propuesta de su Presidente, la Junta designará un Secretario, entre personas ajenas a la entidad, pudiendo recaer el nombramiento en un integrante del propio órgano de gobierno.
 
@@ -1440,3 +1440,9 @@ P.O. 16 DE SEPTIEMBRE DE 2017.
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
