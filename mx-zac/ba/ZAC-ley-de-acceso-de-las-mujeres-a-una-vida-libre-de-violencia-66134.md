@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2017-10-07"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -347,9 +347,9 @@ VIII. Los Servicios de Salud del Estado;
 
 IX. El DIF Estatal;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2018)</small>
 
-X. La Subsecretaría de las Personas con Discapacidad;
+X. La entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -873,11 +873,11 @@ VII. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones del sector de desarrollo social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 43.
 
-Son atribuciones de la Secretaría de Desarrollo Social a través de la Subsecretaría de las Personas con Discapacidad, de la Subsecretaría de la Juventud y del Consejo Consultivo de las Personas Adultas Mayores:
+Son atribuciones de la entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas, del Instituto de la Juventud del Estado de Zacatecas y del Consejo Consultivo de las Personas Adultas Mayores:
 
 I. Incorporar la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres en sus políticas, programas, modelos, acciones y campañas;
 
@@ -1702,3 +1702,9 @@ P.O. 7 DE OCTUBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
