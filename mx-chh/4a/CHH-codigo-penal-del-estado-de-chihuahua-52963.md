@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-02-21"
+last_updated: "2018-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -381,9 +381,11 @@ Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se exce
 
 ### CAPÍTULO I. CATÁLOGO DE PENAS Y MEDIDAS DE SEGURIDAD Y DE CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS JURÍDICAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 29.
 
-Catálogo de penas
+Catálogo de Penas
 
 Las penas que se pueden imponer por los delitos son:
 
@@ -414,6 +416,10 @@ XI. Trabajo en favor de la comunidad;
 XII. Trabajo obligatorio para la reparación del daño; y
 
 XIII. Suspensión de derechos para conducir vehículos de motor.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2018)</small>
+
+XIV. Suspensión o pérdida de la patria potestad o tutela.
 
 ###### Artículo 30.
 
@@ -1883,7 +1889,17 @@ XI. Cuando se cometa por razones de género contra una persona con identidad de 
 
 ###### Artículo 137.
 
-No se impondrá pena alguna a quien por imprudencia ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo, afines o civiles, hermanos por consanguinidad o civiles, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, salvo que el agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes, psicotrópicos, sustancias inhalantes u otros que produzcan efectos similares, sin que medie prescripción médica.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+
+No se impondrá pena alguna a quien por imprudencia ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo, afines o civiles, hermanos por consanguinidad o civiles, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, salvo que:
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2018)</small>
+
+I. El agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes, psicotrópicos, sustancias inhalantes u otros que produzcan efectos similares, sin que medie prescripción médica, o
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2018)</small>
+
+II. Se produzcan por una omisión de auxilio o de cuidado.
 
 ###### Artículo 138.
 
@@ -2025,6 +2041,10 @@ A quien abandone a una persona incapaz de valerse por sí misma teniendo la obli
 
 Las mismas penas se aplicarán a quien, estando a cargo de un establecimiento asistencial público o privado, realice la conducta descrita.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2018)</small>
+
+Si el sujeto activo fuese quien ejerce la patria potestad o tutela del pasivo, se le sancionará además con la suspensión o pérdida de los derechos derivados de la patria potestad o de la tutela, en los términos del Código Civil del Estado de Chihuahua.
+
 ###### Artículo 155.
 
 A quien después de lesionar a una persona, imprudencial o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le impondrán de quince a sesenta días multa, independientemente de la pena que proceda por el o los delitos cometidos.
@@ -2032,6 +2052,10 @@ A quien después de lesionar a una persona, imprudencial o fortuitamente, no le 
 ###### Artículo 156.
 
 A quien exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrán de seis meses a un año de prisión.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2018)</small>
+
+No se impondrá pena alguna a quien ejerciendo la patria potestad o tutela de una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, la entregue a organismos de Asistencia Social Pública en el Estado, instituciones de Asistencia Social Privada o al cuidado de otra persona, ya sea por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, siempre y cuando prevean su subsistencia, y la persona no muestre signos de violencia o estado de salud precario que pudiera representar la comisión de un delito.
 
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
@@ -5081,6 +5105,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 21 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0706/2018 IX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFCOD/0706/2018 IX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1243/2015 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0725/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 29 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor hasta en tanto lo haga el Decreto No. 1243/2015 I P.O., por medio del cual se reforman y adicionan diversos artículos del Código Penal del Estado, en relación con el delito de omisión de cuidado.
