@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-animales-para-el-estado-de-puebla-73025
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-27"
-last_updated: "2016-12-30"
+last_updated: "2018-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018 (ABROGADO).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de enero de 2010.
 
@@ -988,3 +990,17 @@ P.O. 30 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Protección a los Animales para el Estado de Puebla, publicada con fecha veintisiete de enero de dos mil diez.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Reglamento a que se refiere la Ley, se expedirá en un plazo no mayor a dos meses a partir de la publicación de la misma en el Periódico Oficial del Estado.
+
+QUINTO. En un plazo que no excederá dos meses a partir de la publicación de la presente Ley, se expedirá el Reglamento Interior del Instituto de Bienestar Animal.
