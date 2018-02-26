@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2017-10-16"
+last_updated: "2018-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 26 DE FEBRERO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -2092,3 +2094,49 @@ P.O. 16 DE OCTUBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez entrado en vigor el presente Decreto, se abroga la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 29 de enero de 2001.
+
+###### ARTÍCULO TERCERO.
+
+Para los Servidores Públicos y Trabajadores que hayan ingresado a laborar en alguna de las Entidades Públicas Patronales, previamente a la entrada en vigor de la Ley que se abroga, continuarán vigentes sus prestaciones de Pensión por Antigüedad, Vejez, Invalidez, Causa de Muerte y el Seguro de Retiro, por lo que las aportaciones que se enteren en términos del Artículo 70, fracción I de la presente Ley, servirán para el financiamiento de dichas prestaciones. Los Servidores Públicos antes señalados, así como sus beneficiarios, al momento de actualizarse los supuestos legales para el disfrute de cualquiera de las prestaciones anteriormente señaladas, podrán optar por acogerse al beneficio de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado en fecha 11 de Agosto de 1991 y sus reformas publicadas en el periódico Oficial del Estado los días 2 de enero de 1994 y 31 de diciembre de 1995 abrogada o al esquema de pensiones establecido en el presente ordenamiento legal.
+
+###### ARTÍCULO CUARTO.
+
+Los trámites, juicios y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto cubrirá el porcentaje de las pensiones acordadas antes de esta Ley y hasta su vencimiento.
+
+###### ARTÍCULO SEXTO.
+
+Las solicitudes de pensión que al entrar en vigor esta Ley se encuentren en trámite, se sujetarán a los términos de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes vigente al momento de iniciar el trámite.
+
+###### ARTÍCULO SÉPTIMO.
+
+A los técnicos profesionales con categoría "A" y "B", que hayan venido laborando bajo el régimen de base hasta el 31 de diciembre de 1995, les serán respetados todos los derechos que señala el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, Municipios y Organismos Descentralizados.
+
+###### ARTÍCULO OCTAVO.
+
+Para efecto de la aplicación del Artículo 221 de la presente Ley, aquellos Trabajadores de Confianza cuyo Sueldo Base de Cotización sea inferior a un 50% respecto al Sueldo Bruto, deberá actualizarse cuando menos a este porcentaje; Asimismo, aquellos Trabajadores de Base cuyo Sueldo Base de Cotización sea inferior a un 60% respecto al Sueldo Bruto, deberá actualizarse cuando menos a este porcentaje, ambos casos a partir del ejercicio fiscal 2019.
+
+Asimismo, para efecto de la aplicación del Artículo 221 de la presente Ley, aquellos Trabajadores de Confianza cuyo Sueldo Base de Cotización sea inferior a un 60% respecto al Sueldo Bruto, deberá actualizarse cuando menos a este porcentaje. De igual forma, aquellos Trabajadores de Base cuyo Sueldo Base de Cotización sea inferior a un 70% respecto al Sueldo Bruto, deberá actualizarse cuando menos a este porcentaje; ambos casos a partir del ejercicio fiscal 2020.
+
+###### ARTÍCULO NOVENO.
+
+Quedan derogadas todas aquellas disposiciones de carácter general que se opongan a la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+El Instituto deberá expedir el Reglamento Interior del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, dentro de los ciento ochenta días siguientes a la publicación del presente.
