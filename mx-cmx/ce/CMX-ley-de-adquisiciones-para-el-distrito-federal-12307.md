@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2017-09-05"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -278,9 +278,9 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades que requier
 
 La Oficialía dictará las disposiciones administrativas generales de observancia obligatoria que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, y su Reglamento, debiendo publicarlas en la Gaceta Oficial del Distrito Federal, basándose en criterios que promuevan la simplificación administrativa, la descentralización de funciones, la efectiva delegación de facultades, los principios de legalidad, transparencia, eficiencia, honradez y de la utilización óptima de los recursos de la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-En materia de medio ambiente, la Oficialía Mayor, conjuntamente con la Secretaría del Medio Ambiente, dictarán las disposiciones administrativas generales de carácter obligatorio para las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en las que se determinen las características y especificaciones que deben cumplir los bienes y servicios, en cuanto al menor grado de impacto ambiental.
+En materia de medio ambiente, la Oficialía Mayor, conjuntamente con la Secretaría del Medio Ambiente, dictarán las disposiciones administrativas generales de carácter obligatorio para las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en las que se determina el porcentaje mínimo de adquisiciones sustentables, así como las características y especificaciones que deben cumplir los bienes y servicios, en cuanto al menor grado de impacto ambiental.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1250,6 +1250,10 @@ IV BIS.- Se trate de adquisiciones, arrendamientos o prestación de servicios cu
 
 V.- Existan razones justificadas para la Adquisición y Arrendamiento o Prestación de Servicios de una marca determinada;
 
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+V Bis.- Se trate de adquisiciones sustentables;
+
 > <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2017)</small>
 
 VI.- Se trate de Adquisiciones de bienes perecederos, alimentos preparados, granos y productos alimenticios básicos o semiprocesados, para uso o consumo inmediato, priorizando a aquellos que son producidos en el Distrito Federal;
@@ -1448,6 +1452,10 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades, podrán ce
 
 I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento. En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o bien, el presupuesto mínimo y máximo que podrá ejercerse;
 
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Cuando se trate de la subrogación de un servicio a favor de un particular, en ningún caso se podrá establecer un mínimo y un máximo presupuestal cuando este servicio derive de una sanción pecuniaria hacia el ciudadano.
+
 II. Se hará una descripción completa de los bienes o servicios relacionada con sus correspondientes precios unitarios;
 
 III. Su vigencia no excederá del ejercicio fiscal correspondiente a aquel en que se suscriban, salvo que se obtenga previamente autorización de la Secretaría para afectar recursos presupuestales de ejercicios posteriores, en los términos del Código Financiero del Distrito Federal;
@@ -1455,6 +1463,10 @@ III. Su vigencia no excederá del ejercicio fiscal correspondiente a aquel en qu
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
 IV. Su vigencia no excederá de tres ejercicios fiscales, salvo que se trate de proyectos de largo plazo que autorice expresamente el Jefe de Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Cuando se trate de la subrogación de un servicio a favor de un particular, en ningún caso se podrá establecer un mínimo y un máximo presupuestal cuando este servicio derive de una sanción pecuniaria hacia el ciudadano.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1849,3 +1861,21 @@ G.O. 5 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Gobierno de la Ciudad de México, a través de la Oficialía Mayor y la Secretaría del Medio Ambiente, contarán con un plazo de ciento veinte días naturales a partir de la publicación del presente Decreto para modificar o emitir las disposiciones generales a que se refiere el artículo 7 de la Ley de adquisiciones para el Distrito Federal.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- se derogan todas las disposiciones que se opongan al presente decreto.
