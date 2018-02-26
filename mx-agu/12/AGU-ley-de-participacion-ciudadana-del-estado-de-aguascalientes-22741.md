@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2017-07-03"
+last_updated: "2018-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "AGU"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 26 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2001.
 
@@ -820,3 +824,27 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, con excepción de las disposiciones contenidas en el Capítulo V del Título Segundo, las cuales entrarán en vigencia, para el caso de los Municipios, el 15 de octubre de 2019; para el Poder Ejecutivo Estatal, el 1º de octubre de 2022; y para el Poder Legislativo, el 15 de septiembre de 2018.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigencia de la presente Ley, quedará Abrogada la Ley de Participación Ciudadana del Estado de Aguascalientes, publicada el 26 de noviembre de 2001, en el Periódico Oficial del Estado de Aguascalientes, a través del Decreto Número 207 de la LVII Legislatura del H. Congreso del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de Plebiscito y de Referéndum a que se refiere esta Ley, sólo podrán ser solicitados y, en su caso, convocados con relación a actos o normas que se dicten a partir del día siguiente al que entre en vigor esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos del Estado deberán tomar en cuenta las bases generales previstas en esta Ley, y reglamentarán lo que resulte conducente.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Estatal Electoral de Aguascalientes deberá hacer las reformas de modificaciones y adiciones a su reglamento correspondiente en materia de participación ciudadana, en un término no mayor a noventa días hábiles a partir de la entrada en vigor de la presente ley.
