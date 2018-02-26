@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-del-distrito-federal-como-ciudad-86402"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-29"
-last_updated: "2014-08-07"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86402&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-26"
 
 LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de febrero de 2012.
 
@@ -156,9 +156,11 @@ Usabilidad.- Es la característica de facilidad de uso de las herramientas, en e
 
 En el marco de esta Ley, la utilización y puesta en práctica de las Tecnologías de la Información y Comunicación y del Conocimiento en el Distrito Federal estarán orientadas a la generación de beneficios en todos los ámbitos de la vida de sus habitantes.
 
-###### Artículo 7º.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-En el ámbito público, las aplicaciones basadas en las Tecnologías de la Información y Comunicación deberán facilitar el desarrollo de las actividades y servicios gubernamentales, la atención y la información sanitaria, la educación, la capacitación, el empleo, la actividad económica, el transporte, la protección del medio ambiente, la seguridad pública, la gestión de los recursos naturales, la protección civil y la vida cultural, así como para procurar la erradicación de la pobreza extrema y otros objetivos de desarrollo social y económico de la ciudad.
+###### Artículo 7°.
+
+En el ámbito público, las aplicaciones basadas en las Tecnologías de la Información y Comunicación deberán facilitar el desarrollo de las actividades y servicios gubernamentales, la atención y la información sanitaria, la educación, la capacitación, el empleo, la actividad económica, el transporte, la protección del medio ambiente, la seguridad pública, la gestión de los recursos naturales, la protección civil, la vida cultural y la gestión de los servicios urbanos, así como para procurar la erradicación de la pobreza extrema y otros objetivos de desarrollo social y económico de la ciudad.
 
 ###### Artículo 8º.
 
@@ -205,6 +207,22 @@ Además de lo establecido en el párrafo anterior, los sectores empresarial y ac
 ###### Artículo 17.
 
 Para brindar condiciones que propicien dinámicas de transformación urbana hacia modelos más eficientes y de interacción con los habitantes, la Administración Pública dará especial apoyo e impulso a proyectos que promuevan la integración de la infraestructura de comunicaciones a la infraestructura urbana así como el acceso público a información georreferenciada de infraestructura pública.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+La infraestructura para telecomunicaciones y monopostes que soportan células de recepción y hospedaje neutral para instalación de tecnologías para redes inalámbricas de Telecomunicaciones que se pretendan instalar en el espacio público de la Ciudad de México y que forman parte del equipamiento de la ciudad, no se considerarán como mobiliario urbano.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 17 Bis.
+
+Para cumplir con los objetivos de la presente ley, la Administración Pública fomentará el desarrollo e implementación de plataformas de dispositivos sensoriales conectados a redes inalámbricas de comunicaciones, que como herramienta tecnológica y a través de la georreferenciación sirvan para almacenar, procesar y generar contenidos de información útiles para implantar modelos de gestión eficientes, asequibles y rentables para la correcta atención de los servicios urbanos de la ciudad.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 17 Ter.
+
+Para efectos del artículo anterior, la Administración Pública buscará el apoyo de la industria nacional, el sector académico y los organismos profesionales de tecnología e innovación.
 
 ### CAPÍTULO III. DE LA CULTURA Y LA INCLUSIÓN DIGITAL ASI COMO LA GENERACIÓN DE CAPACIDADES TECNOLÓGICAS EN LA POBLACIÓN
 
@@ -549,3 +567,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicaci
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
 
 TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Publíquese en la Gaceta Oficial de la Ciudad de México.
