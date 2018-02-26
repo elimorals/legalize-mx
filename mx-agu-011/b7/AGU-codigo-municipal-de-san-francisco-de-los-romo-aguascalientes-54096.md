@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2017-11-13"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -383,7 +383,7 @@ I. El Secretario del H. Ayuntamiento saliente, dará lectura a la lista de los i
 
 II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos: "Yo protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patriótica mente el cargo de Presidente Municipal del Municipio de San Francisco de los Romo, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande";
 
-III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de San Francisco de los Romo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio "…" Sí Protesto". Contestan los Regidores y Síndicos;
+III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de San Francisco de los Romo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio "....." Sí Protesto". Contestan los Regidores y Síndicos;
 
 IV. Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el Municipio se los demande";
 
@@ -391,7 +391,7 @@ V. Los Regidores y Síndico que no hubieren asistido a esta Sesión deberán ren
 
 VI. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-a) El H. Ayuntamiento del Municipio de San Francisco de los Romo, se declara constituido para el Período Constitucional del 10 de enero de… al 31 de diciembre de...; y
+a) El H. Ayuntamiento del Municipio de San Francisco de los Romo, se declara constituido para el Período Constitucional del 10 de enero de..... al 31 de diciembre de...; y
 
 VII. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
 
@@ -3065,13 +3065,13 @@ Los días en que el trabajador incurra en faltas de inasistencias injustificadas
 
 En caso que el trabajador se ausente tres días hábiles en un mismo mes sin justificación válida, salvo con permiso escrito de su superior, será considerado como abandono de trabajo y en su caso, la suspensión será definitiva.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 163.
 
-En ningún caso el salario que pague el Municipio podrá se (sic) inferior al mínimo legal, procediendo en caso de modificación de éstos, a realizar los ajustes correspondientes a los tabuladores.
+En ningún caso el salario que pague el Municipio podrá ser inferior al mínimo legal, procediendo en caso de modificación de éstos.
 
-Por cada cinco años de servicio afectivo prestados, los trabajadores tanto sindicalizados como basificados, excepto los de confianza, tendrán derecho a una prima pagadera en efectivo, como complemento a su salario, POR EL EQUIVALENTE A 1 SALARIO MINIMO GENERAL DE LA ZONA ECONOMICA, denominada Quinquenio.
+Por cada cinco años de servicio efectivo prestados, los trabajadores tanto sindicalizados como basificados, excepto los de confianza, tendrán derecho a una prima pagadera en efectivo, como complemento a su salario, POR EL EQUIVALENTE A 1 unidad de medida y actualización (UMA), denominada Quinquenio.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
@@ -21346,3 +21346,7 @@ P.O. 13 DE NOVIEMBRE DE 2017.
 > <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]</small>
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+
+P.O. 26 DE FEBRERO DE 2018.
+
+> <small>[N. DE E. LA "MODIFICACIÓN AL ARTÍCULO 163 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, EN EL CAPÍTULO V DEL SALARIO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
