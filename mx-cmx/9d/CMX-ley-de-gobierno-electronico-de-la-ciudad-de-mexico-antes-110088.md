@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gobierno-electronico-de-la-ciudad-de-mexico-antes-110088
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-07"
-last_updated: "2016-09-15"
+last_updated: "2018-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2015-08-14"
 ---
 # LEY DE GOBIERNO ELECTRONICO DE LA CIUDAD DE MEXICO -- ANTES LEY DE GOBIERNO ELECTRONICO DEL DISTRITO FEDERAL --
 
-LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL
+LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 7 de octubre de 2015.
 
@@ -48,47 +48,79 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERA
 
 Se expide la Ley de Gobierno Electrónico del Distrito Federal, para quedar como sigue:
 
-LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE FEBRERO DE 2018)</small>
+
+LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto establecer los principios que regirán las comunicaciones entre los ciudadanos y las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal, a través del uso y aprovechamiento de las tecnologías de la información y comunicaciones; no sólo para determinar las bases y componentes que sirvan para el diseño, regulación, implementación, desarrollo, mejora y consolidación del Gobierno Electrónico en el Distrito Federal, sino también para limitar el uso del papel y sus derivados en beneficio del medio ambiente.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto garantizar el derecho a la buena administración a través de un gobierno abierto, así como establecer los principios que regirán las comunicaciones entre los ciudadanos y las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, a través del uso y aprovechamiento de las tecnologías de la información y comunicaciones; y, determinar las bases y componentes que sirvan para el diseño, regulación, implementación, desarrollo, mejora y consolidación del Gobierno Electrónico en la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2.
 
-Se reconoce el derecho de los ciudadanos para relacionarse y comunicarse con las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal, mediante el uso de medios electrónicos y tecnologías de la información y comunicaciones de uso generalizado.
+Se reconoce el derecho de los ciudadanos para relacionarse y comunicarse con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, mediante el uso de medios electrónicos y tecnologías de la información y comunicaciones de uso generalizado. Además, se reconoce y garantiza el establecimiento de los medios de comunicación indígena, y el acceso a las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+La Ciudad de México contará con la infraestructura de tecnologías de la información y comunicaciones que garantice la transferencia, almacenamiento, procesamiento de información, la comunicación entre dependencias de la administración pública, así como la provisión de trámites y servicios de calidad a la población.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 3.
 
-Los principios rectores a los que se sujetará el Gobierno Electrónico en el Distrito Federal, serán los siguientes:
+Los principios rectores a los que se sujetará el Gobierno Electrónico en la Ciudad de México, serán los siguientes:
 
-Principio de accesibilidad: Facilitar la información de las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal y la difusión de los trámites, servicios y demás actos de gobierno por medios electrónicos, en un lenguaje claro y comprensible.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Principio de adecuación tecnológica: Promover el uso estandarizado de las tecnologías de la información y comunicaciones, compatibles con cualquier medio o dispositivo electrónico, para satisfacer las necesidades de las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal y de la ciudadanía.
+Principio de accesibilidad: Facilitar la información de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México y la difusión de los trámites, servicios y demás actos de gobierno por medios electrónicos, en un lenguaje claro y comprensible.
 
-Principio de legalidad: La información, substanciación y resolución de trámites, servicios y demás actos de que se realicen por medios electrónicos por las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal, serán acordes a las formalidades establecidas en las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Principio de privacidad: Comprende el respeto a la información personal de los usuarios o ciudadanos en el uso de comunicaciones electrónicas por parte de las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal, siempre en apego a las normas y disposiciones en materia de protección de datos personales.
+Principio de adecuación tecnológica: Promover el uso estandarizado de las tecnologías de la información y comunicaciones, compatibles con cualquier medio o dispositivo electrónico, para satisfacer las necesidades de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México y de la ciudadanía.
 
-Principio de responsabilidad: Las comunicaciones o actos emitidos por las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal que se ubican en medios electrónicos, encontrarán su validez mediante el uso de la firma electrónica avanzada u otros mecanismos de validación de firma digital legalmente reconocidos.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Principio de legalidad: La información, substanciación y resolución de trámites, servicios y demás actos de que se realicen por medios electrónicos por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, serán acordes a las formalidades establecidas en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Principio de privacidad: Comprende el respeto a la información personal de los usuarios o ciudadanos en el uso de comunicaciones electrónicas por parte de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, siempre en apego a las normas y disposiciones en materia de protección de datos personales.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Principio de responsabilidad: Las comunicaciones o actos emitidos por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México que se ubican en medios electrónicos, encontrarán su validez mediante el uso de la firma electrónica avanzada u otros mecanismos de validación de firma digital legalmente reconocidos.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Principio de gobierno abierto y democrático: El gobierno de la Ciudad de México implementará un sistema que obligue a los entes públicos a informar a través de una plataforma de accesibilidad universal, de datos abiertos y apoyada en nuevas tecnologías que garanticen de forma completa y actualizada la transparencia, la rendición de cuentas y el acceso a la información, a fin de impulsar también el desarrollo de la ciencia, la tecnología, la innovación y la democracia digital abierta basada en los avances tecnológicos de comunicación e información.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 26 DE FEBRERO DE 2018, SE ADVIERTE LA ACTUALIZACIÓN DEL TÉRMINO "DISTRITO FEDERAL" POR EL DE "CIUDAD DE MÉXICO" ASÍ COMO LA INCORPORACIÓN DE LA INSTITUCIÓN DE "ALCALDÍA"; POR LO QUE SE MODIFICAN LOS PÁRRAFOS RESPECTIVOS.]</small>
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley, se entenderá por:
 
-Administración Pública: Las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades, en términos de la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Administración Pública: Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, en términos de la Ley Orgánica de la Administración Pública de la Ciudad de México.
 
 Archivo: Conjunto orgánico de documentos organizados y reunidos por una persona o institución pública o privada, en el desarrollo de sus competencias, el cual sirve de testimonio y fuente de información a las personas o instituciones que los produjeron, a los ciudadanos o para servir de fuente de estudio de la historia e investigación.
 
-Comisión: La Comisión de Gobierno Electrónico del Distrito Federal.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Comisión: La Comisión de Gobierno Electrónico de la Ciudad de México.
 
 Documento electrónico: Aquella información cuyo soporte durante todo su ciclo de vida se mantiene en formato electrónico y su tratamiento es automatizado, requiere de una herramienta específica para leerse o recuperarse.
 
-Dominio(s): Es el nombre por el cual se identifica de manera única a un sitio Web del Gobierno del Distrito Federal, es una dirección fácil de recordar y a través de ella los usuarios acceden al sitio Web.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Dominio(s): Es el nombre por el cual se identifica de manera única a un sitio Web del Gobierno de la Ciudad de México, es una dirección fácil de recordar y a través de ella los usuarios acceden al sitio Web.
 
 Firma electrónica avanzada: A la firma electrónica que permite la identificación del signatario y ha sido creada por medios que éste mantiene bajo su exclusivo control, de manera que está vinculada al mismo. Es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa.
 
@@ -96,9 +128,13 @@ Gobierno Electrónico: El uso estratégico de las tecnologías de la informació
 
 Interoperabilidad: Capacidad estandarizada de los sistemas informáticos utilizados por los Órganos de la Administración Pública para intercambiar, utilizar y compartir la información generada, atendiendo las políticas, mecanismos de seguridad y salvaguarda de privacidad de información conforme a las disposiciones jurídicas aplicables.
 
-Oficialía Mayor: A la Oficialía Mayor del Distrito Federal.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
-Órganos de la Administración Pública: La Jefatura de Gobierno, Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, empresas de participación estatal, fidecomisos públicos y demás Entidades que conforman la administración pública central, desconcentrada y paraestatal del Distrito Federal, en términos de la Ley Orgánica de la Administración Pública del Distrito Federal.
+Oficialía Mayor: A la Oficialía Mayor de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Órganos de la Administración Pública: La Jefatura de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías, empresas de participación estatal, fidecomisos (sic) públicos y demás Entidades que conforman la administración pública central, desconcentrada y paraestatal de la Ciudad de México, en términos de la Ley Orgánica de la Administración Pública de la Ciudad de México.
 
 Padrón de Usuarios Acreditados: Sistema informático estandarizado integrado por la información y documentación de los ciudadanos usuarios, con el objeto de simplificar la gestión de trámites y servicios y demás actos de los Órganos de la Administración Pública.
 
@@ -112,9 +148,11 @@ Tecnologías de la información y comunicaciones: Conjunto de dispositivos y sis
 
 Usabilidad: Es la característica de facilidad de uso de las herramientas, en este caso informáticas, presupone claridad y sencillez en las interfaces de acción entre el usuario y el sistema informático.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 5.
 
-En todo lo no previsto en esta Ley, se aplicarán de manera supletoria la Ley de Procedimiento Administrativo del Distrito Federal, la Ley para el Desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento y la Ley de Firma Electrónica del Distrito Federal.
+En todo lo no previsto en esta Ley, se aplicarán de manera supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley para el Desarrollo de la Ciudad de México como Ciudad Digital y del Conocimiento y la Ley de Firma Electrónica de la Ciudad de México.
 
 ###### Artículo 6.
 
@@ -124,11 +162,15 @@ La Oficialía Mayor es la dependencia encargada y facultada para interpretar par
 
 #### Sección I. De las Atribuciones de los Órganos de la Administración Pública
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 7.
 
-Corresponde al Jefe de Gobierno del Distrito Federal las siguientes atribuciones:
+Corresponde al Jefe de Gobierno de la Ciudad de México las siguientes atribuciones:
 
-I. Planear el uso y desarrollo de las tecnologías de la información y comunicaciones para impulsar el Gobierno Electrónico en el Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+I. Planear el uso y desarrollo de las tecnologías de la información y comunicaciones para impulsar el Gobierno Electrónico en la Ciudad de México;
 
 II. Promover y facilitar la participación ciudadana en la elaboración, ejecución, seguimiento, evaluación y modificación de los proyectos o programas que en materia de Gobierno Electrónico, a través del uso de tecnologías de la información y comunicaciones;
 
@@ -142,7 +184,11 @@ V. Las demás que le otorguen otros ordenamientos aplicables.
 
 Corresponden a la Oficialía Mayor las siguientes atribuciones:
 
-I. Formular la normatividad y políticas, y conducir las estrategias, proyectos y acciones para regular e impulsar el Gobierno Electrónico en la Administración Pública del Distrito Federal, a través de mecanismos como la estandarización de la información, la homologación de datos, la interoperabilidad y la realización de proyectos estratégicos transversales, entre otras herramientas, acorde a lo establecido en el Programa General de Desarrollo del Distrito Federal y los programas que deriven de éste;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+I. Formular la normatividad y políticas, y conducir las estrategias, proyectos y acciones para regular e impulsar el Gobierno Electrónico en la Administración Pública de la Ciudad de México, a través de mecanismos como la estandarización de la información, la homologación de datos, la interoperabilidad y la realización de proyectos estratégicos transversales, entre otras herramientas, acorde a lo establecido en el Programa General de Desarrollo de la Ciudad de México y los programas que deriven de éste;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE FEBRERO DE 2018)</small>
 
 II. Desarrollar el Programa Digital y de Innovación de la Ciudad de México, así como las herramientas y mecanismos de participación digital de los ciudadanos, sociedad civil, empresas, academia, centros de investigación y otros gobiernos, que propicien la generación de conocimiento colectivo, la mejora de la gestión gubernamental y la participación activa y efectiva de la sociedad;
 
@@ -156,7 +202,9 @@ VI. Gestionar, desarrollar e impulsar, la plataforma integral de trámites y ser
 
 VII. Normar los dominios que los Órganos de la Administración Pública deberán utilizar en sus sitios; y regular el uso de redes sociales, aplicaciones móviles y sistemas electrónicos de comunicación de la Administración Pública;
 
-VIII. Celebrar convenios entre los tres órdenes de gobierno, sector social, privado, académico y especialistas nacionales e internacionales, en el uso de las tecnologías de información y comunicaciones para impulsar el Gobierno Electrónico en el Distrito Federal, y
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VIII. Celebrar convenios entre los tres órdenes de gobierno, sector social, privado, académico y especialistas nacionales e internacionales, en el uso de las tecnologías de información y comunicaciones para impulsar el Gobierno Electrónico en la Ciudad de México, y
 
 IX. Las demás que le otorguen la presente Ley y otros ordenamientos.
 
@@ -165,6 +213,8 @@ IX. Las demás que le otorguen la presente Ley y otros ordenamientos.
 Los Órganos de la Administración Pública deberán observar lo siguiente:
 
 I. Fomentar e incentivar el uso de las herramientas y mecanismos de participación digital de los ciudadanos, sociedad civil, empresas, academia y centros de investigación, que propicien la generación de conocimiento colectivo, conforme a las normas, políticas y estrategias que establezca la Oficialía Mayor;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE FEBRERO DE 2018)</small>
 
 II. Dar cumplimiento al Programa Digital y de Innovación de la Ciudad de México, así como a las normas, y políticas establecidas por la Oficialía Mayor en materias de Gobierno Electrónico y de tecnologías de la información y comunicaciones;
 
@@ -178,13 +228,29 @@ VI. Proporcionar la información que requiera la Oficialía Mayor, en ejercicio 
 
 VII. Las demás disposiciones de la presente Ley y otros ordenamientos en la materia.
 
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+###### Artículo 9 Bis.
+
+Las Alcaldías en materia de gobierno electrónico deberá (sic) observar lo siguiente:
+
+I.- Adoptar instrumentos de gobierno electrónico y abierto con el fin de garantizar los principios de buena administración, buen gobierno y gobierno abierto con plena accesibilidad;
+
+II.- Impulsar la innovación social y modernización en los términos que señala esta ley y demás ordenamientos aplicables;
+
+II (SIC).- Proponer, formular y ejecutar los mecanismos de gobierno electrónico que permitan atender de manera efectiva las demandas de la ciudadanía.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 10.
 
-La Administración Pública contará con un órgano colegiado denominado Comisión de Gobierno Electrónico del Distrito Federal, para el diseño e implementación de las estrategias de tecnologías de la información y comunicaciones, la generación y difusión de conocimiento en la materia y asesoría en proyectos transversales de modernización e innovación a los Órganos de la Administración Pública.
+La Administración Pública contará con un órgano colegiado denominado Comisión de Gobierno Electrónico de la Ciudad de México, para el diseño e implementación de las estrategias de tecnologías de la información y comunicaciones, la generación y difusión de conocimiento en la materia y asesoría en proyectos transversales de modernización e innovación a los Órganos de la Administración Pública.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11.
 
-La Comisión de Gobierno Electrónico del Distrito Federal estará integrada de la siguiente forma:
+La Comisión de Gobierno Electrónico de la Ciudad de México estará integrada de la siguiente forma:
 
 I. Un Presidente que será el titular de la Oficialía Mayor;
 
@@ -204,7 +270,9 @@ I. Difundir las normas y criterios que en materia de tecnologías de la informac
 
 II. Emitir recomendaciones, a los planes estratégicos de tecnologías de la información y comunicaciones de los Órganos de la Administración Pública, a solicitud del Presidente de la Comisión, su Presidente Suplente o el Secretario Técnico;
 
-III. Proponer mejores prácticas en materia de tecnologías de la información y comunicaciones que atiendan las necesidades de los Órganos de la Administración Pública, observando lo establecido en la materia en el Programa General de Desarrollo del Distrito Federal y los programas que deriven de éste;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+III. Proponer mejores prácticas en materia de tecnologías de la información y comunicaciones que atiendan las necesidades de los Órganos de la Administración Pública, observando lo establecido en la materia en el Programa General de Desarrollo de la Ciudad de México y los programas que deriven de éste;
 
 IV. Proponer modificaciones a los estándares técnicos de bienes y servicios de tecnologías de la información y comunicaciones;
 
@@ -220,9 +288,13 @@ VII. Impulsar proyectos transversales en materia de tecnologías de la informaci
 
 La Oficialía Mayor desarrollará los mecanismos que permitan el funcionamiento del Gobierno Electrónico y establecerá los lineamientos y directrices tendientes a asegurar y regular los siguientes aspectos:
 
-I. Impulsar el uso de la firma electrónica avanzada y otros mecanismos de validación de firma digital legalmente reconocidos, en procesos internos, así como en trámites, servicios y procedimientos que requieran los ciudadanos a la Administración Pública, en términos de la Ley de Firma Electrónica del Distrito Federal y demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-II. Regular e impulsar el desarrollo de sistemas electrónicos de comunicación con los habitantes del Distrito Federal para que éstos puedan dirigir sus solicitudes, peticiones, opiniones, comentarios, entre otros, que promuevan y faciliten la interacción del ciudadano con los Órganos de la Administración Pública;
+I. Impulsar el uso de la firma electrónica avanzada y otros mecanismos de validación de firma digital legalmente reconocidos, en procesos internos, así como en trámites, servicios y procedimientos que requieran los ciudadanos a la Administración Pública, en términos de la Ley de Firma Electrónica de la Ciudad de México y demás ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+II. Regular e impulsar el desarrollo de sistemas electrónicos de comunicación con los habitantes de la Ciudad de México para que éstos puedan dirigir sus solicitudes, peticiones, opiniones, comentarios, entre otros, que promuevan y faciliten la interacción del ciudadano con los Órganos de la Administración Pública;
 
 III. Operar y administrar un Registro Electrónico de Trámites y Servicios, así como su sitio y canales de comunicación en medios electrónicos para la atención y difusión de trámites y servicios que brindan los Órganos de la Administración Pública.
 
@@ -263,6 +335,10 @@ Para efectos de evaluar el grado de madurez de Gobierno Electrónico, la Oficial
 ###### Artículo 19.
 
 Cada uno de los Órganos de la Administración Pública, en el ámbito de sus respectivas competencias, propiciará la capacitación de los servidores públicos a su cargo en materia de tecnologías de la información y comunicaciones.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Artículo 19 bis. La administración pública de la Ciudad de México, deberá contar con la infraestructura necesaria de tecnologías de la información y comunicación que garantice la transferencia, almacenamiento, procesamiento de información, la comunicación entre dependencias así como la provisión de trámites y servicios de calidad a la población.
 
 #### Sección III. De los Medios Electrónicos y la Relación de la Administración Pública con la Ciudadanía
 
@@ -312,15 +388,19 @@ II. Promover los esquemas de pago de derechos de trámites y servicios por medio
 
 III. Privilegiar el uso de la firma electrónica avanzada y otros mecanismos de validación de firma digital legalmente reconocidos, para dar certeza y seguridad en los trámites y servicios digitales, de acuerdo con la legislación aplicable en la materia, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE FEBRERO DE 2018)</small>
+
 IV. Facilitar a los ciudadanos la solicitud de trámites y servicios que tengan bajo su responsabilidad, conocer, substanciar o resolver, con la información que se encuentre registrada y actualizada en un Padrón de Usuarios Acreditados de la Ciudad de México.
 
 ###### Artículo 24.
 
 La Administración Pública contará con un Registro Electrónico de Trámites y Servicios de la Ciudad de México, como un sistema institucional electrónico en el que se inscriben, validan y difunden los trámites y servicios que norman, aplican, operan o resuelven los Órganos de la Administración Pública.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 25.
 
-El Registro Electrónico de Trámites y Servicios será operado y administrado por la Oficialía Mayor, a través de la Coordinación General de Modernización Administrativa que, en su carácter de Unidad de Mejora Regulatoria del Distrito Federal, será la encargada de verificar que los trámites y servicios, y sus formatos correspondientes, cumplan con los principios de legalidad, juridicidad, simplificación, información, transparencia e imparcialidad para su inscripción.
+El Registro Electrónico de Trámites y Servicios será operado y administrado por la Oficialía Mayor, a través de la Coordinación General de Modernización Administrativa que, en su carácter de Unidad de Mejora Regulatoria de la Ciudad de México, será la encargada de verificar que los trámites y servicios, y sus formatos correspondientes, cumplan con los principios de legalidad, juridicidad, simplificación, información, transparencia e imparcialidad para su inscripción.
 
 La Unidad de Mejora Regulatoria tiene la facultad de normar, promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las acciones en materia de simplificación administrativa, mejora regulatoria y mejora de la gestión de trámites y servicios de la Administración Pública.
 
@@ -336,9 +416,11 @@ III. Unificar criterios en los Órganos de la Administración Pública, que norm
 
 IV. Implementar herramientas de actualización permanente, mejora regulatoria y simplificación administrativa.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 27.
 
-Los Órganos de la Administración Pública que normen, apliquen u operen trámites y servicios deberán inscribirlos en el Registro Electrónico de Trámites y Servicios de la Ciudad México por lo que el contenido y legalidad de la información así como de sus formatos de solicitud será de exclusiva responsabilidad de los mismos.
+Los Órganos de la Administración Pública que normen, apliquen u operen trámites y servicios deberán inscribirlos en el Registro Electrónico de Trámites y Servicios de la Ciudad (sic) México por lo que el contenido y legalidad de la información así como de sus formatos de solicitud será de exclusiva responsabilidad de los mismos.
 
 Únicamente podrán registrarse aquellos trámites y servicios que se encuentren considerados en las disposiciones jurídicas, reglamentarias o administrativas vigentes.
 
@@ -352,9 +434,11 @@ La Oficialía Mayor operará el Padrón de Usuarios Acreditados de la Ciudad de 
 
 ### CAPÍTULO III. DE LA TRANSICIÓN AL GOBIERNO ELECTRÓNICO
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 30.
 
-Los Órganos de la Administración Pública atenderán las directrices, políticas y normatividad en materia de homologación de datos, estandarización de la información y la operación de plataformas tecnológicas comunes, lo que permitirá facilitar la interoperabilidad de sistemas en la gestión gubernamental en el Distrito Federal.
+Los Órganos de la Administración Pública atenderán las directrices, políticas y normatividad en materia de homologación de datos, estandarización de la información y la operación de plataformas tecnológicas comunes, lo que permitirá facilitar la interoperabilidad de sistemas en la gestión gubernamental en la Ciudad de México.
 
 ###### Artículo 31.
 
@@ -445,3 +529,13 @@ G.O. 15 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
+
+Tercero. Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión publíquese en el Diario Oficial de la Federación
