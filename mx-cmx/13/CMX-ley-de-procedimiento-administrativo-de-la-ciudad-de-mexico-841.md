@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2017-11-17"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -128,19 +128,23 @@ XIX. Negativa ficta: Figura jurídica por virtud de la cual, ante la omisión de
 
 XX. Normas: Leyes, Reglamentos, Decretos, Acuerdos u otras disposiciones de carácter general, que rijan en la Ciudad de México;
 
-XXI. Nulidad: Declaración emanada del órgano competente, en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en esta Ley y que por lo tanto no genera efectos jurídicos;
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-XXII. Procedimiento Administrativo: Conjunto de trámites y formalidades jurídicas que preceden a todo acto administrativo, como su antecedente y fundamento, los cuales son necesarios para su perfeccionamiento, condicionan su validez y persiguen un interés general;
+XXI. Notificación electrónica.- Acto administrativo mediante el cual y contando con las formalidades, la Administración Pública da a conocer a los interesados, a través de medios telemáticos o electrónicos que las partes hayan designado para tales efectos, los documentos administrativos que forman parte del procedimiento.
 
-XXIII. Procedimiento de Lesividad: Al procedimiento incoado por las autoridades administrativas, ante el Tribunal, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, por considerar que lesionan a la Administración Pública o el interés público;
+XXII. Nulidad: Declaración emanada del órgano competente, en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en esta Ley y que por lo tanto no genera efectos jurídicos;
 
-XXIV. Resolución Administrativa: Acto administrativo que pone fin a un procedimiento, de manera expresa o presunta en caso del silencio de la autoridad competente, que decide todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas;
+XXIII. Procedimiento Administrativo: Conjunto de trámites y formalidades jurídicas que preceden a todo acto administrativo, como su antecedente y fundamento, los cuales son necesarios para su perfeccionamiento, condicionan su validez y persiguen un interés general;
 
-XXV. Revocación: Acto administrativo emitido por autoridad competente por virtud del cual se retira y extingue a otro que nació válido y eficaz, que tendrá efectos sólo para el futuro, el cual es emitido por causas supervenientes de oportunidad e interés público previstos en los ordenamientos jurídicos que modifican las condiciones iniciales en que fue expedido el original; y
+XXIV. Procedimiento de Lesividad: Al procedimiento incoado por las autoridades administrativas, ante el Tribunal, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, por considerar que lesionan a la Administración Pública o el interés público;
+
+XXV. Resolución Administrativa: Acto administrativo que pone fin a un procedimiento, de manera expresa o presunta en caso del silencio de la autoridad competente, que decide todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas;
+
+XXVI. Revocación: Acto administrativo emitido por autoridad competente por virtud del cual se retira y extingue a otro que nació válido y eficaz, que tendrá efectos sólo para el futuro, el cual es emitido por causas supervenientes de oportunidad e interés público previstos en los ordenamientos jurídicos que modifican las condiciones iniciales en que fue expedido el original; y
 
 > <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
-XXVI. Tribunal: Tribunal de Justicia Administrativa de la Ciudad de México.
+XXVII. Tribunal: Tribunal de Justicia Administrativa de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -672,7 +676,13 @@ V. La descripción clara y sucinta de los hechos y razones en los que se apoye l
 
 VI. Los requisitos que señalen los ordenamientos jurídicos aplicables, o el Manual, ofreciendo, en su caso, las pruebas cuando sean necesarias, para acreditar los hechos argumentados y la naturaleza del asunto así lo exija; y
 
-VII. El lugar, la fecha y la firma del interesado o, en su caso, la de su representante legal.
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VII. La autorización o negativa del interesado para recibir notificaciones electrónicas.
+
+En caso de que el interesado desee recibir notificaciones electrónicas deberá proporcionar un correo electrónico.
+
+VIII. El lugar, la fecha y la firma del interesado o, en su caso, la de su representante legal.
 
 ###### Artículo 45.
 
@@ -934,7 +944,7 @@ I. Personalmente a los interesados;
 
 a) Cuando se trate de la primera notificación en el asunto;
 
-b) Cuando se deje de actuar durante más de dos meses;
+b) (DEROGADO, G.O. 26 DE FEBRERO DE 2018)
 
 c) La resolución que se dicte en el procedimiento; o
 
@@ -942,11 +952,25 @@ d) Mediante comparecencia del interesado a la oficina administrativa de que se t
 
 II. Por correo certificado con acuse de recibo, o personalmente en los casos en que la dependencia o entidad cuente con un término perentorio para resolver sobre cuestiones relativas a licencias, permisos, autorizaciones, concesiones o cualquier otra resolución que implique un beneficio para el interesado, o cuando se trate de actuaciones de trámite;
 
-III. Por edictos, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, previo informe de la Policía Preventiva; se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+III. Por notificación electrónica, a los ciudadanos que expresamente lo soliciten.
 
-Las notificaciones por edictos se efectuarán mediante publicaciones que contendrán el resumen de las actuaciones por notificar. Dichas publicaciones deberán efectuarse por tres veces, de tres en tres días en la Gaceta Oficial de la Ciudad de México y en uno de los periódicos de mayor circulación en la Ciudad de México, que para tal efecto señale la autoridad competente.
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. Por Estrado electrónico a las personas a quien deba notificarse hayan desaparecido, se ignore su nuevo domicilio o se encuentre en el extranjero sin haber dejado representante legal.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, G.O. 26 DE FEBRERO DE 2018]</small>
+
+También serán aplicables las notificaciones por estrado electrónico a las personas que hayan solicitado su notificación vía electrónica y no hayan realizado la contestación correspondiente.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, G.O. 26 DE FEBRERO DE 2018]</small>
+
+Las notificaciones por estrado electrónico se realizarán en la página electrónica que al efecto establezcan las autoridades por un plazo de quince días contados a partir del día siguiente a aquél en que el documento fue publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, G.O. 26 DE FEBRERO DE 2018]</small>
+
+En estos casos, se tendrá como fecha de notificación la del décimo sexto día contando a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -984,9 +1008,13 @@ I. Las notificaciones personales, a partir del día hábil siguiente al en que s
 
 II. Tratándose de las notificaciones hechas por correo certificado con acuse de recibo, a partir del día hábil siguiente de la fecha que se consigne en el acuse de recibo respectivo;
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 26 DE FEBRERO DE 2018)</small>
 
-III. En el caso de las notificaciones por edictos, a partir del día hábil siguiente de la fecha de la última publicación en la Gaceta Oficial de la Ciudad de México y en el periódico respectivo.
+III. En el caso de las notificaciones por vía electrónica surtirá sus efectos a partir de que se conteste la recepción de la notificación, teniendo un plazo máximo de tres días hábiles para hacerlo.
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. En el caso de las notificaciones por estrado electrónico, surtirán sus efectos al décimo sexto día, a partir del día hábil siguiente de la fecha de publicación.
 
 ###### Artículo 83.
 
@@ -1557,3 +1585,15 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
 
 TERCERO.- Las reformas contenidas en el presente decreto derogan y dejan sin efecto cualquier disposición legal, reglamentaria y normativa que se les oponga.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Las autoridades administrativas tendrán un plazo de 180 días para adecuar sus procedimientos a la aplicación de la notificación electrónica y estrado electrónico.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal emitirá las disposiciones reglamentarias para el uso de la notificación electrónica y el estrado electrónico.
+
+TERCERO.- El presente Decreto entrará en vigor una vez que se cumpla el plazo establecido para que las autoridades administrativas adecuen sus procedimientos a la aplicación de la notificación electrónica y estrado electrónico.
+
+CUARTO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal para su mayor difusión.
