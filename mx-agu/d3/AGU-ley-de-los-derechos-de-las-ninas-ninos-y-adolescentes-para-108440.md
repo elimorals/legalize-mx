@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-07-03"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -139,7 +139,9 @@ XXV. Representación Originaria: La representación de niñas, niños y adolesce
 
 XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las (sic) Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVII. Sistema de Protección Local: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+XXVII. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
 
 XXVIII. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
 
@@ -1363,6 +1365,8 @@ Las políticas públicas emprendidas por dichas autoridades garantizarán el eje
 
 ### CAPÍTULO IV. De la Secretaría Ejecutiva
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 108.
 
 Las autoridades estatales y municipales coadyuvarán para el cumplimiento de los objetivos de la Ley General y esta Ley, de conformidad con las competencias previstas en ambas Leyes y demás disposiciones legales aplicables.
@@ -1495,13 +1499,19 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Presidente del Sistema DIF Estatal.
 
-III. El Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
 
-IV. El Secretario de Gobierno;
+III. El Coordinador General de Gabinete;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. El Secretario General de Gobierno;
 
 V. El Secretario de Finanzas;
 
-VI. El Secretario de Bienestar y Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+VI. El Secretario de Desarrollo Social;
 
 VII. El Secretario de Seguridad Pública;
 
@@ -1529,7 +1539,9 @@ E. Representantes de la sociedad civil que serán nombrados por el Sistema Local
 
 Serán invitados permanentes a las sesiones del Sistema Local de Protección Integral, el Presidente de la Mesa Directiva del Congreso del Estado y un representante del Poder Judicial del Estado, quienes intervendrán con voz pero sin voto.
 
-El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Jefe de Gabinete, en términos de lo previsto en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2018)</small>
+
+El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Secretario General de Gobierno, de conformidad con las atribuciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
 
 Cada uno de los integrantes del Sistema Nacional de Protección Integral nombrará un suplente que deberá tener el nivel inmediato de aquel a quien suple.
 
@@ -1551,7 +1563,7 @@ Para el mejor cumplimiento de sus funciones, el Sistema Local de Protección con
 
 ###### Artículo 116.
 
-La coordinación operativa del Sistema Local de Protección recaerá en una Secretaría Ejecutiva.
+La coordinación operativa del Sistema Local de Protección recaerá en una Secretaría Ejecutiva, que dependerá de la Secretaría General de Gobierno.
 
 La Secretaría Ejecutiva tendrá las atribuciones siguientes:
 
@@ -1567,7 +1579,9 @@ V. Coadyuvar con el Sistema Nacional de Protección Integral en la ejecución y 
 
 VI. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
 
-VII. Coadyuvar con el Sistema Nacional de Protección, para la Administrar (sic) el sistema de información a nivel nacional a que se refiere la Ley General.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+VII. Coadyuvar con el Sistema Nacional de Protección, para Administrar el sistema de información a nivel nacional a que se refiere la Ley General;
 
 VIII. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
 
@@ -1911,7 +1925,7 @@ SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 1° de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 23 DE NOVIEMBRE DE 2015.
 
@@ -1942,3 +1956,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto se deberán realizar las adecuaciones presupuestales a fin de asignar a la Secretaría General de Gobierno los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente ley en relación a la Secretaría Ejecutiva.
+
+###### ARTÍCULO TERCERO.
+
+A partir del día siguiente de la entrada en vigor del presente Decreto, el Ejecutivo deberá establecer en el Reglamento Interior de la Secretaría General de Gobierno, las adecuaciones necesarias para el cumplimiento del presente Decreto, así como de otras disposiciones normativas para tal fin.
