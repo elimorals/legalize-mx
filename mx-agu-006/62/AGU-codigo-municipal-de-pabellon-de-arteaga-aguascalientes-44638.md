@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-10-30"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -35,41 +35,7 @@ Que el H. Ayuntamiento en sesión celebrada el día de hoy, en uso de las facult
 
 CONSIDERANDO
 
-Que según lo establece el artículo 115 Constitucional, fracción II, párrafo segundo, los ayuntamientos tienen facultades para aprobar, de acuerdo con las leyes en materia municipal que deberán expedir las legislaturas de los Estados, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
-
-A su vez la Ley Municipal del Estado, en su Título Sexto, Capítulo Único, "Reglamentación Municipal", artículos del 89 al 94, se establece que los Ayuntamientos expedirán de acuerdo con las bases normativas que establece la presente Ley, sin alterar, contravenir o ir más allá de lo que ésta señala, los reglamentos gubernativos, bandos de policía, acuerdos, circulares y demás disposiciones administrativas de observancia general.
-
-Igualmente se establece que las disposiciones normativas de la administración pública municipal deberán contener las reglas que determine su estructura orgánica y funcional.
-
-Por su parte el Artículo 104 prevé que el conjunto de normas jurídicas municipales pueden tener la categoría de códigos. Lo anterior al señalar que "las disposiciones contenidas en el presente y en los subsecuentes títulos serán aplicables en aquellos Municipios que no cuenten con los códigos, con los bandos o reglamentos correspondientes, hasta en tanto expidan sus reglamentos sobre estas materias."
-
-El presente Código Municipal constituye un esfuerzo por modernizar la normatividad municipal, que significa una de las principales funciones de los Ayuntamientos.
-
-Pabellón de Arteaga presenta una dinámica ejemplar a nivel estatal, lo cual requiere que las autoridades den respuestas capaces, eficientes y adecuadas, para satisfacer plenamente las necesidades de una sociedad que aspira al logro de su bienestar y superación.
-
-El presente Código se integra por siete libros. En el primero se asientan aquellas disposiciones que se relacionan con la esencia misma del Municipio y con su órgano de gobierno, el Ayuntamiento. Se regula de una manera puntual el funcionamiento de este órgano colegiado, a través de sesiones plenarias y de comisiones. Por lo tanto se establecen normas claras para el desarrollo de las sesiones de cabildo, garantizando la fluidez y eficacia de las mismas y sobre todo la posibilidad de la participación plural y democrática de sus miembros. Además, por primera vez se especifican las facultades que corresponden a cada una de las comisiones, y se establece la integración plural de las mismas.
-
-En el libro segundo se reorganiza la administración pública municipal para que exista una mayor funcionalidad en la actuación de cada uno de los órganos de la Presidencia, a efecto de evitar la duplicidad de funciones y el despilfarro de recursos, personales y materiales.
-
-Se establecen normas de funcionamiento que parten de una estructuración jerárquica, de manera que se cubran las diversas funciones y servicios públicos que corresponden a la presidencia municipal, dentro de los parámetros de una sana estructura presupuestal.
-
-Además se añaden normas relativas a las condiciones de trabajo del personal, al control patrimonial, a la planeación y presupuestación de las acciones, obras y recursos, al archivo municipal, que actualmente no existe y a la entrega recepción, tanto por el retiro de unos funcionarios, como en el caso de la conclusión del término constitucional del Ayuntamiento.
-
-Consideramos que mediante reglas claras, precisas y adecuadas se crean condiciones favorables para que exista una sana administración y un eficiente ejercicio de los recursos de la ciudadanía.
-
-En el libro tercero se establece una regulación amplia de los servicios públicos, cuya prestación constituye la razón de ser del Ayuntamiento, que por tradición ha sido considerado como el órgano del poder más cercano al pueblo.
-
-El libro cuarto contempla lo relativo a la seguridad pública y la vialidad, dentro de su contenido se asientan normas relativas a la coordinación con el gobierno federal y estatal, y se incluyen los reglamentos: Interior de la Dirección de Seguridad Pública y Vialidad, de la Comisión de Honor y Justicia y de la Vialidad en el Municipio.
-
-El libro quinto se denomina "Del Desarrollo Urbano" e incluye básicamente las disposiciones relativas a las construcciones. Este libro resulta sumamente importante, en virtud de que el crecimiento de Pabellón de Arteaga, requiere tomar medidas a efecto de que éste sea ordenado y propicie mejores condiciones de vida para los habitantes. Se incluyen por lo tanto, normas relativas a la planeación del desarrollo urbano y a la regulación de la propiedad en los centros de población.
-
-El libro sexto se refiere a la regulación de las actividades comerciales, industriales y de prestación de servicios, se pone especial énfasis en los giros reglamentados, como la venta y consumo de bebidas alcohólicas, la prostitución, los billares y negocios de juegos de video y renta de películas.
-
-En el libro séptimo se regula lo relativo a los actos administrativos municipales, se establecen normas rigurosas, a efecto de que la actuación de las autoridades municipales esté estrictamente apegada a Derecho, señalando los requisitos y procedimientos que deben observarse para tal efecto.
-
-Destaca en este libro lo relativo a las faltas cívicas, así como a las infracciones a las diversas disposiciones del Código. En este sentido se establecen normas que garanticen la legalidad y seguridad jurídica de estos procesos, regulando entre otras materias la actuación de los jueces calificadores y asignando con toda propiedad las diversas funciones que en la materia corresponden a cada uno de los servidores públicos.
-
-Consideramos que ha llegado el momento de que la Administración Pública de Pabellón de Arteaga se modernice, la ciudadanía reclama autoridades más eficientes, honestas y comprometidas con el servicio público. Con el Código Municipal que hoy se autoriza, se da un paso importante en este proceso y mediante reglas claras, que establece una sana relación entre autoridad y ciudadanía.
+[...]
 
 Por lo que se tiene a bien expedir el siguiente
 
@@ -23481,9 +23447,17 @@ IX.- Obstruir lugares destinados para estacionamiento público con objetos, así
 
 X.- Trepar bardas, enrejados o cualquier elemento constructivo semejante, para observar el interior de un inmueble ajeno;
 
-XI.- Colocar en la acera o en el arroyo vehicular enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente; y
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
 
-XII.- Molestar a las personas mediante el mal uso del teléfono.
+XI.- Colocar en la acera o en el arroyo vehicular enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+XII.- Molestar a las personas mediante el mal uso del teléfono, y
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2018)</small>
+
+XIII.- Hostigar a una persona en la vía pública mediante acecho, actos de exhibicionismo, comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos, independientemente de que haya o no contacto físico.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23951,11 +23925,11 @@ Las faltas cívicas contempladas en el capítulo segundo del título segundo del
 
 Se sancionará con amonestación verbal o escrita por parte del juez calificador las infracciones previstas en los siguientes Artículos: 1931, fracciones III, V, VIII, y XIX; 1932, fracciones II, III, IX y X; 1933, fracciones VI y X y 1934 fracción IV.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 1987.
 
-Se sancionará con multa de cinco a diez unidades de medida y actualización, las faltas cívicas previstas en los siguientes artículos: 1931 fracciones I, II, IV, VI, VII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXII, XXIII, y XV; 1932, fracciones I, IV, V, VI, VII, VIII, XI y XII; 1933, fracciones I, II, III, IV, V, VII, VIII y IX; 1934, fracciones I, II, III, V, VI, VIII, IX, X, XI y XII.
+Se sancionará con multa de cinco a diez unidades de medida y actualización las faltas cívicas previstas en los siguientes Artículos: 1931 fracciones I, II, IV, VI, VII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXII, XXIII, y XV; 1932, fracciones I, IV, V, VI, VII, VIII, XI, XII y XIII; 1933, fracciones I, II, III, IV, V, VII, VIII y IX; 1934, fracciones I, II, III, V, VI, VIII, IX, X, XI y XII.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24156,6 +24130,10 @@ En el supuesto de que el infractor no realice las actividades de apoyo a la comu
 ###### ARTICULO 2010.
 
 En el caso de reincidentes adictos al alcohol y a las drogas, el Juez Calificador podrá turnarlos al DIF Municipal, a efecto de que reciban orientación y/o tratamiento médico y/o psicológico.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2018)</small>
+
+En caso de que la falta cívica sea la prevista en la fracción XIII del artículo 1932 del presente código, el infractor deberá asistir a los cursos de concientización en materia de equidad de género y prevención de la violencia contra las mujeres que imparta o coordine el Instituto Pabellonense de las Mujeres.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -25352,5 +25330,17 @@ P.O. 30 DE OCTUBRE DE 2017.
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA. AGS.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
