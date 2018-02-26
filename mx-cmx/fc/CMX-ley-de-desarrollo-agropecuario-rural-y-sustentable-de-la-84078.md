@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2017-06-09"
+last_updated: "2018-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-12-07"
 ---
 # LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MEXICO -- ANTES LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL --
 
-LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2017.
+LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -46,13 +48,17 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTA
 
 Se expide la Ley de Desarrollo Agropecuario, Rural y Sustentable del Distrito Federal.
 
-LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE FEBRERO DE 2018)</small>
+
+LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MEXICO
 
 ### Capítulo I. De las disposiciones generales
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público e interés general y tiene por objeto propiciar la integralidad y sustentabilidad del desarrollo agropecuario y rural en el Distrito Federal.
+La presente Ley es de orden público e interés general y tiene por objeto propiciar la integralidad y sustentabilidad del desarrollo agropecuario y rural de la Ciudad de México.
 
 ###### Artículo 2º.
 
@@ -62,31 +68,47 @@ I. Campesinas y campesinos: Las personas, hombres y mujeres de la tierra que tie
 
 II. Consejo Rural: El Consejo Rural de la Ciudad de México;
 
-III. Delegaciones: Los órgano político administrativos en las demarcaciones territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+III. Alcaldías: Los órgano (sic) político administrativos en las demarcaciones territoriales de la Ciudad de México;
 
 IV. Desarrollo Agropecuario y rural: El derecho de realizar actividades agropecuarias, forestales, acuícolas, artesanales, turísticas y demás de corte rural, con base en procesos productivos, comerciales, distribución y autoabasto, de manera individual y colectiva, que conduce al mejoramiento integral del bienestar social, educación, salud, vivienda y alimentación, y que promueve la equidad con justicia social, distribuye justamente el ingreso, propicia la participación plena de la sociedad en la toma de decisiones, implicando cambios del paradigma económico y asegurando la conservación de los recursos de los cuales depende la sociedad rural;
 
-V. Ley: La Ley de Desarrollo Agropecuario, Rural y Sustentable del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-VI. Programa Rural: El Programa de Desarrollo Agropecuario y Rural en la Ciudad de México;
+V. Ley: La Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
-VII. Reglamento: El Reglamento de la Ley de Desarrollo Agropecuario y Rural en la Ciudad de México;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VI. Programa Rural: El Programa de Desarrollo Agropecuario y Rural de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VII. Reglamento: El Reglamento de la Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
 VIII. Secretaría: La Secretaría de Desarrollo Rural y Equidad para las Comunidades.
 
-IX. Pueblo originario: Los descendientes de las poblaciones que habitaban originariamente el territorio de la Ciudad de México, quienes se autodeterminan pueblos originarios, son aquellos que se constituyen, según el artículo segundo constitucional, como comunidades con una unidad social, económica y cultural, y que conservan sus propias instituciones o parte de ellas, manteniendo una continuidad histórica con los pueblos indígenas existentes al iniciarse la colonialización y que afirman libre y voluntariamente su identidad colectiva como descendientes de los mismos.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IX. Pueblo originario: Los descendientes de las poblaciones asentadas en el territorio actual de la Ciudad de México desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad o cosmovisión, o parte de ellas, y que afirman libre y voluntariamente su identidad colectiva como descendientes de las mismas.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 3º.
 
-En el ámbito de competencia del Distrito Federal, son sujetos de esta Ley los ejidos, las comunidades y sus integrantes; los pequeños propietarios; las organizaciones o asociaciones de carácter nacional, regional, local, delegacional, o comunitario de productores, comerciantes, agroindustriales y prestadores de servicios que inciden o se relacionan con el medio rural, incluso aquellas de carácter tradicional que se deriven de los sistemas normativos internos de los pueblos originarios y comunidades indígenas o que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, las y los campesinos y toda persona física o moral que de manera individual o colectiva, realicen actividades relacionadas con el medio rural del Distrito Federal.
+En el ámbito de competencia de la Ciudad de México, son sujetos de esta Ley los ejidos, las comunidades y sus integrantes; los pequeños propietarios; las organizaciones o asociaciones de carácter nacional, regional, local o comunitario de productores, comerciantes, agroindustriales y prestadores de servicios que inciden o se relacionan con el medio rural, incluso aquellas de carácter tradicional que se deriven de los sistemas normativos internos de los pueblos originarios y comunidades indígenas o que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, las y los campesinos y toda persona física o moral que de manera individual o colectiva, realicen actividades relacionadas con el medio rural de la Ciudad de México.
 
 ### Capítulo II. De los derechos alimentarios y campesinos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 4º.
 
-La implantación y aplicación de la presente Ley se hará respetando las garantías constitucionales, el Estatuto de Gobierno del Distrito Federal y las leyes que emanen de ella.
+La implantación y aplicación de la presente Ley se hará respetando las garantías constitucionales, la Constitución Política de la Ciudad de México y las leyes que emanen de ella.
 
-A. En el Distrito Federal se reconocen los siguientes derechos, ejercidos de manera individual o colectiva:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+A. En la Ciudad de México se reconocen los siguientes derechos, ejercidos de manera individual o colectiva:
 
 I. Derecho a la alimentación: Toda persona humana tiene derecho a disfrutar de una alimentación suficiente en calidad y cantidad, que promueva una adecuada nutrición;
 
@@ -96,7 +118,9 @@ III. Derecho a la seguridad alimentaria: El derecho de toda persona humana a que
 
 IV. Derecho a la educación alimentaria: El derecho de toda persona a recibir una educación alimentaria y nutricional adecuada que les permita tener mayor conocimiento sobre el adecuado consumo de alimentos en la prevención de enfermedades, así como en la generación de una cultura alimentaria, la preservación de la riqueza alimentaria y de las cocinas tradicionales, como parte de su patrimonio.
 
-B. Las y los campesinos tienen derechos iguales; a disfrutar totalmente, como colectivo e individualmente, de todos los derechos humanos y libertades fundamentales, libres de cualquier tipo de discriminación y a participar en el diseño de políticas, en la toma de decisiones, la aplicación y monitoreo de cualquier proyecto, programa o política que afecte sus espacios rurales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
+B. Las y los campesinos tienen derechos iguales; a disfrutar totalmente, como colectivo e individualmente, de todos los derechos humanos y libertades fundamentales, libres de cualquier tipo de discriminación y a participar en el diseño de políticas, en la toma de decisiones, la aplicación y monitoreo de cualquier proyecto, programa o política que afecte sus espacios rurales. El Gobierno de la Ciudad de México garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
 
 El Gobierno del Distrito Federal garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
 
@@ -104,7 +128,9 @@ I. Para garantizar el derecho a la vida y a un nivel de vida digno para las y lo
 
 a) Salvaguardar su integridad física y a no ser acosados, desalojados, perseguidos, arrestados arbitrariamente y asesinados por defender sus derechos;
 
-b) Defender a las mujeres campesinas contra la violencia doméstica física, sexual, verbal y psicológica. Las mujeres tienen derecho a controlar su propio cuerpo y a rechazar el uso de su cuerpo con fines mercantiles. Cualquier forma de tráfico de personas es inhumana y debe ser condenada, así como a decidir el número de descendientes que desean tener y elegir los métodos anticonceptivos que decidan;
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+b) Defender a las mujeres campesinas contra la violencia doméstica física, sexual, verbal y psicológica. Las mujeres tienen derecho a controlar su propio cuerpo y a rechazar el uso de su cuerpo con fines mercantiles, así como a decidir el número de descendientes que desean tener y elegir los métodos anticonceptivos que decidan;
 
 c) Acceder a una alimentación adecuada, saludable, nutritiva y accesible y a mantener sus culturas tradicionales alimentarias;
 
@@ -180,7 +206,9 @@ c) Obtener asistencia técnica, herramientas de producción y otras tecnologías
 
 d) Información completa e imparcial sobre bienes y servicios, para decidir qué y cómo quieren producir y consumir; y
 
-e) Obtener información adecuada a (sic) sobre la preservación de recursos fitogenéticos.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+e) Obtener información adecuada sobre la preservación de recursos fitogenéticos.
 
 VI. En el ejercicio de sus libertades para determinar el precio y el mercado para la producción agrícola, las y los campesinos tienen derechos a:
 
@@ -248,15 +276,17 @@ e) Resistir contra la opresión y a recurrir a la acción pacífica directa para
 
 ### Capítulo III. De la competencia
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 5º.
 
-El Gobierno del Distrito Federal, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas al Jefe de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública del Distrito Federal.
+El Gobierno de la Ciudad de México, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas al Jefe de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública de la Ciudad de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 6º.
 
-Son atribuciones de la Secretaría el despacho de las materias relativas al desarrollo rural sustentable y la regulación de las actividades y prácticas agroecológicas en materia agropecuaria, piscícola y forestal del sector primario establecidas en la Ley Orgánica de la Administración Pública del Distrito Federal, además de las siguientes:
+Son atribuciones de la Secretaría el despacho de las materias relativas al desarrollo y regulación de las actividades agrícolas, forestales y del sector agropecuario establecidas en la ley aplicable, además de las siguientes:
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
 
@@ -288,7 +318,9 @@ XII. Recuperar espacios rurales ociosos para el desarrollo sustentable de las ac
 
 XIII. Fomentar y apoyar proyectos productivos para la mujer rural y coordinarse con la Secretaría de Gobierno para el impulso de la parcela de la mujer;
 
-XIV. Garantizar los derechos colectivos de los pueblos indígenas y originarios establecidos en el artículo Segundo de la Constitución Política de los Estados Unidos Mexicanos, en el ámbito de competencia del Distrito Federal, relacionados con el desarrollo agropecuario y rural;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+XIV. Garantizar los derechos colectivos de los pueblos indígenas y originarios establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México, en el ámbito de competencia de la Ciudad de México, relacionados con el desarrollo agropecuario y rural;
 
 XV. Conservar y aprovechar sustentablemente los cultivos nativos y la herbolaria, particularmente el maíz, amaranto, nopal y plantas medicinales y aromáticas;
 
@@ -302,11 +334,15 @@ XIX. Conducir la política concurrente en materia agropecuaria y rural, así com
 
 XX. Conservar el conocimiento tradicional y los recursos fitogenéticos para la agricultura y la alimentación;
 
-XXI. Prevenir sobre la utilización de semillas transgénicas en la agricultura de la Ciudad de México;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+XXI. Impedir el uso de todo producto genéticamente modificado que pueda causar daño a los ecosistemas, a la salud y a la sociedad; se favorecerá el desarrollo de la agricultura orgánica;
 
 XXII. Crear espacios y módulos para las buenas prácticas agrícolas y su desarrollo;
 
-XXIII. Coordinar las acciones que las delegaciones implanten en materia de desarrollo agropecuario y rural; y
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+XXIII. Coordinar las acciones que las alcaldías implanten en materia de desarrollo agropecuario y rural; y
 
 > <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2017)</small>
 
@@ -326,35 +362,45 @@ El Reglamento establecerá las especificidades para el cumplimiento de estas atr
 
 ### Capítulo IV. De la Coordinación y Consulta
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 7.
 
-La Secretaría podrá suscribir acuerdos de coordinación con otras dependencias y delegaciones para el mejor ejercicio de sus funciones, en los términos que establezca el Reglamento.
+La Secretaría podrá suscribir acuerdos de coordinación con otras dependencias y alcaldías para el mejor ejercicio de sus funciones, en los términos que establezca el Reglamento.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 8.
 
-En el ámbito de la concurrencia con el gobierno federal la Secretaría se coordinará mediante acuerdos para la adecuada administración de los recursos presupuestales definidos por el Presupuesto de Egresos de la Federación, velando siempre por la consideración de las particularidades del Distrito Federal en el desarrollo agropecuario y rural, en los término (sic) del Reglamento y demás disposiciones jurídicas aplicables.
+En el ámbito de la concurrencia con el gobierno federal la Secretaría se coordinará mediante acuerdos para la adecuada administración de los recursos presupuestales definidos por el Presupuesto de Egresos de la Federación, velando siempre por la consideración de las particularidades de la Ciudad de México en el desarrollo agropecuario y rural, en los término (sic) del Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 9.
 
-El Jefe de Gobierno del Distrito Federal, en los términos establecidos en la Ley de la Administración Pública del Distrito Federal, creará el Gabinete de Desarrollo Rural en el que participarán las Secretarías de Desarrollo Rural y Equidad para las Comunidades, quien lo coordinará; de Gobierno; del Medio Ambiente; de Desarrollo Económico; de Desarrollo Social; la Procuraduría Ambiental y del Ordenamiento Territorial y el Instituto de Ciencia y Tecnología.
+El Jefe de Gobierno de la Ciudad de México, en los términos establecidos en la ley aplicable, creará el Gabinete de Desarrollo Rural en el que participarán las Secretarías de Desarrollo Rural y Equidad para las Comunidades, quien lo coordinará; de Gobierno; del Medio Ambiente; de Desarrollo Económico; de Desarrollo Social; de Ciencia, Tecnología e Innovación y la Procuraduría Ambiental y del Ordenamiento Territorial.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 10.
 
 La Secretaría contará con un Consejo Rural de la Ciudad de México como órgano consultivo que tendrá funciones de asesoría, evaluación y seguimiento en materia de política de desarrollo agropecuario y rural y podrá emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a lo que establezca el Reglamento.
 
-Cuando las dependencias, entidades y delegaciones deban resolver un asunto sobre el cual este Consejo hubiese emitido una opinión, las mismas deberá expresar las causas de aceptación o rechazo de dicha opinión.
+Cuando las dependencias, entidades y alcaldías deban resolver un asunto sobre el cual este Consejo hubiese emitido una opinión, las mismas deberá (sic) expresar las causas de aceptación o rechazo de dicha opinión.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 11.
 
-El Consejo Rural será presidido por el Jefe de Gobierno del Distrito Federal, por conducto del Titular de la Secretaría y serán miembros permanentes del Consejo:
+El Consejo Rural será presidido por el Jefe de Gobierno de la Ciudad de México, por conducto del Titular de la Secretaría y serán miembros permanentes del Consejo:
 
-I. Las y los representantes de núcleos agrarios en el Distrito Federal que el Reglamento señale;
+I. Las y los representantes de núcleos agrarios en de (sic) la Ciudad de México que el Reglamento señale;
 
-II. Las y los representantes de las jefaturas delegacionales con ámbito rural;
+II. Las y los representantes de las alcaldías con ámbito rural;
 
-III. Las y los representantes debidamente acreditados de las organizaciones de productores, comercializadores, prestadores de servicio y demás organizaciones y agentes que se desenvuelvan o incidan en actividades, servicios y procesos del medio rural en el Distrito Federal, instituciones de educación e investigación y organismos no gubernamentales, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que el Reglamento señale.
+III. Las y los representantes debidamente acreditados de las organizaciones de productores, comercializadores, prestadores de servicio y demás organizaciones y agentes que se desenvuelvan o incidan en actividades, servicios y procesos del medio rural de la Ciudad de México, instituciones de educación e investigación y organismos no gubernamentales, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que el Reglamento señale.
 
-El Consejo Rural deberá ser representativo de la composición económica y social del Distrito Federal.
+El Consejo Rural deberá ser representativo de la composición económica y social de la Ciudad de México.
 
 ###### Artículo 12.
 
@@ -384,15 +430,21 @@ I. La promoción del bienestar social y económico de los sujetos de la ley, med
 
 II. La corrección de disparidades del desarrollo rural a través de la atención diferenciada de las zonas de mayor rezago, mediante una acción integral que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo;
 
-III. El impulso prioritario del desarrollo productivo-económico y social de las comunidades rurales de mayor marginación, enfatizando la reconversión productiva sustentable, para avanzar en el abatimiento del rezago que presentan algunas regiones del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-IV. La contribución a la soberanía y seguridad alimentarias, mediante el impulso de la producción agropecuaria del Distrito Federal;
+III. El impulso prioritario del desarrollo productivo-económico y social de las comunidades rurales de mayor marginación, enfatizando la reconversión productiva sustentable, para avanzar en el abatimiento del rezago que presentan algunas regiones de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. La contribución a la soberanía y seguridad alimentarias, mediante el impulso de la producción agropecuaria de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2017)</small>
 
 V. El fomento de la conservación del suelo, del agua, de la biodiversidad, los recursos filogenéticos para la agricultura y la alimentación, y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
 
-VI. La valoración de las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en el Distrito Federal.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+VI. La valoración de las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en la Ciudad de México.
 
 VII. La garantía del ejercicio de los derechos de las y los campesinos establecidos en la presente Ley;
 
@@ -402,7 +454,9 @@ IX. El impulso del desarrollo de las zonas más atrasadas y marginadas económic
 
 X. Garantizar la participación de la (sic) mujeres del medio rural e indígena en la toma de decisiones en la comunidad entorno al control, protección y aprovechamiento sustentable de los recursos naturales;
 
-XI. La conservación de los cultivos nativos, la herbolaria y las principales actividades de producción agropecuaria, así como la explotación de materiales de construcción y ornato del Distrito Federal, de acuerdo con las disposiciones en la presente ley y demás Leyes aplicables.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+XI. La conservación de los cultivos nativos, la herbolaria y las principales actividades de producción agropecuaria, así como la explotación de materiales de construcción y ornato de la Ciudad de México, de acuerdo con las disposiciones en la presente ley y demás Leyes aplicables.
 
 XII. La transformación para el logro de la sustentabilidad del desarrollo rural deberá considerar la diversificación de las actividades productivas, propiciar el uso óptimo, la conservación y el mejoramiento de los recursos rurales;
 
@@ -424,11 +478,13 @@ XIX. La expansión, modernización y tecnificación de la infraestructura Hidrol
 
 #### SECCIÓN I. De la Planificación
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 16.
 
-En la planificación del desarrollo del Distrito Federal se deberá incorporar la política agropecuaria y rural que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
+En la planificación del desarrollo de la Ciudad de México se deberá incorporar la política agropecuaria y rural que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
 
-En la planificación y realización de las acciones a cargo de las dependencias y entidades de la administración pública, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran a la Secretaría para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política agropecuaria y rural que establezca el Programa General de Desarrollo del Distrito Federal y los programas correspondientes.
+En la planificación y realización de las acciones a cargo de las dependencias y entidades de la administración pública, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran a la Secretaría para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política agropecuaria y rural que establezca el Plan General de Desarrollo de la Ciudad de México y los programas correspondientes.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
 
@@ -436,57 +492,61 @@ En la planificación y realización de las acciones a cargo de las dependencias 
 
 La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 18.
 
-Para la planificación del desarrollo rural sustentable del sector agropecuario, piscícola y forestal la Secretaría formulará, ejecutará y evaluará el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México, mismo que cumplirá con los requisitos establecidos en la Ley de Planeación del Distrito Federal en materia de programas institucionales, así como la normativa establecida en el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano;
+Para la planificación del desarrollo agropecuario y rural la Secretaría formulará, ejecutará y evaluará el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México, mismo que cumplirá con los requisitos establecidos en la ley aplicable en materia de programas institucionales.
 
-Este programa se integrará y publicará en la Gaceta Oficial en un período máximo de seis meses después de la expedición del Programa General de Desarrollo del Distrito Federal, para lo cual el Ejecutivo establecerá las previsiones presupuestarias necesarias para su instrumentación.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Este programa se integrará y publicará en la Gaceta Oficial en un período máximo de seis meses después de la expedición del Plan General de Desarrollo de la Ciudad de México, para lo cual el Ejecutivo establecerá las previsiones presupuestarias necesarias para su instrumentación.
 
 Dicho programa deberá incluir las acciones relacionadas con la concurrencia que el gobierno estatal haya concertado con el gobierno federal y otras entidades federativas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 19.
 
-Las delegaciones con actividad rural formularán sus programas rurales considerando las líneas de política y actividades programáticas que el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México establezca, así como las particularidades dentro de su demarcación territorial. También podrán elaborar programas parciales para orientar la política delegacional sobre una materia en específico que por su naturaleza lo amerite.
+Las alcaldías con actividad rural formularán sus programas rurales considerando las líneas de política y actividades programáticas que el Programa de Desarrollo Agropecuario y Rural de la Ciudad de México establezca, así como las particularidades dentro de su demarcación territorial. También podrán elaborar programas parciales para orientar la política de las alcaldías sobre una materia en específico que por su naturaleza lo amerite.
 
 El Consejo Rural emitirá las opiniones que considere para que puedan tomarse en cuenta en la formulación de los programas a que se refiere este artículo.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 20.
 
-La Secretaría podrá establecer programas de apoyos, ayudas y subsidios para atender a la población rural, en los términos que para tal efecto establezca el Reglamento de la presente Ley, derivados de las disposiciones que este ordenamiento regula, sin menoscabo de aquellos que se establezcan en cumplimiento de la Ley de Desarrollo Social del Distrito Federal, o en su caso en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+La Secretaría podrá establecer programas de apoyos, ayudas y subsidios para atender a la población rural, en los términos que para tal efecto establezca el Reglamento de la presente Ley, derivados de las disposiciones que este ordenamiento regula, sin menoscabo de aquellos que se establezcan en cumplimiento de la legislación en materia presupuestal y de desarrollo social aplicable en la Ciudad de México.
 
 ###### Artículo 21.
 
 La Secretaría podrá formular programas emergentes cuando ocurran contingencias que afecten al desarrollo agropecuario y rural en las materias que esta ley señala que los justifiquen, en los términos establecidos en el reglamento de esta Ley.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 22.
 
-La Secretaría, con la participación que corresponda del Consejo Rural, deberá elaborar y publicar un informe bianual sobre la situación que guarda el desarrollo agropecuario y rural de la Ciudad de México, que integre tanto la información interdependencial sobre la materia de la administración central como el de las delegaciones, para lo cual las dependencias, entidades y los órganos político administrativos deberán entregar a la Secretaría la información que le solicite.
+La Secretaría, con la participación que corresponda del Consejo Rural, deberá elaborar y publicar un informe bianual sobre la situación que guarda el desarrollo agropecuario y rural de la Ciudad de México, que integre tanto la información interdependencial sobre la materia de la administración central como el de las alcaldías, para lo cual las dependencias, entidades y los órganos político administrativos deberán entregar a la Secretaría la información que le solicite.
 
 #### Sección II. Del suelo rural
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 23.
 
-El suelo rural es el espacio dentro del territorio del Distrito Federal, destinado a la producción agropecuaria, forestal, acuacultura y agroindustrial tales como las señaladas en la fracción XI del artículo 15 de esta ley. La categoría de suelo rural deberá incorporarse progresivamente en los programas de desarrollo urbano y ecológico, en los casos que sea procedente.
+El suelo rural es el espacio dentro del territorio de la Ciudad de México, destinado a la producción agropecuaria, forestal, acuacultura y agroindustrial tales como las señaladas en la fracción XI del artículo 15 de esta ley. La categoría de suelo rural deberá incorporarse progresivamente en los programas de desarrollo urbano y ecológico, en los casos que sea procedente.
 
-REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2017)
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 24.
 
-La Secretaría enviará a las Secretarías de Desarrollo Urbano y Vivienda y del Medio Ambiente su opinión y la de las delegaciones políticas sobre la planificación, formulación, evaluación y seguimiento de los programas de ordenamiento ecológico y territorial en las materias relacionadas a la agricultura en suelo conservación y urbano, así como con su participación en los consejos, comités e instrumentos análogos que se conformen para tal fin.
+Las Secretarías de Desarrollo Urbano y Vivienda y del Medio Ambiente podrán solicitar la colaboración de la Secretaría, con opinión de las alcaldías, en la planificación, formulación, evaluación y seguimiento de los programas de ordenación territorial en materias relacionadas al suelo rural, así como con su participación en los consejos, comités e instrumentos análogos que se conformen para tal fin.
 
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2017)</small>
-
-Dicha opinión será valorada e incluida en los Programas de ordenamiento ecológico y territorial, con el fin de preservar y conservar las tradiciones, las culturas, el conocimiento productivo tradicional, la diversidad y calidad del suelo.
-
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2017)</small>
-
-Asimismo, la Secretaría recibirá opiniones de la Secretaría del Medio Ambiente, de la Secretaría de Desarrollo Urbano y Vivienda, y de la Procuraduría Ambiental y del Ordenamiento Territorial, para asegurar la armonía con el Programa General de Ordenamiento Ecológico y el Programa General de Desarrollo Urbano.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 25.
 
-Las y los Jefes Delegacionales del Distrito Federal podrán consultar a la Secretaría cuando se trate del suelo rural, en la elaboración de sus proyectos delegacionales de ordenación territorial.
+Las y los alcaldes de la Ciudad de México podrán consultar a la Secretaría cuando se trate del suelo rural, en la elaboración de sus proyectos de Programa General de Ordenamiento Territorial de cada demarcación.
 
 #### Sección III. De la educación, investigación y capacitación
 
@@ -496,7 +556,9 @@ Las autoridades competentes promoverán la incorporación de contenidos de desar
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia rural y la socialización de proyectos de desarrollo agropecuario y rural.
 
-El Instituto de Ciencia y Tecnología del Distrito Federal, en coordinación con la Secretaría, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen la formación de especialistas en la materia de desarrollo agropecuario y rural.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+La Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México, en coordinación con la Secretaría, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen la formación de especialistas en la materia de desarrollo agropecuario y rural.
 
 ###### Artículo 27.
 
@@ -512,21 +574,25 @@ La Secretaría, en coordinación con las autoridades competentes, fomentará inv
 
 La Secretaría propondrá la asignación de estímulos fiscales a las acciones de producción, reconversión, industrialización e inversión que se realicen en el medio rural en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 30.
 
-Para el fomento de la agricultura ecológica y la certificación de la producción orgánica y la agricultura sustentable de la Ciudad de México, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, certificación, comercialización e industrialización.
+Para el fomento de las actividades agropecuarias y económicas del medio rural de la Ciudad de México, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, comercialización e industrialización.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 31.
 
-Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productores y demás agentes más desfavorecidos económica y socialmente, así como para reducir las desigualdades que puedan existir al interior y entre cada uno de ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural en el Distrito Federal.
+Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productores y demás agentes más desfavorecidos económica y socialmente, así como para reducir las desigualdades que puedan existir al interior y entre cada uno de ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural de la Ciudad de México.
 
 #### Sección V. De la Información Estadística y Geográfica
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 32.
 
-La Secretaría establecerá una estrategia de información estadística y geográfica para el desarrollo agropecuario y rural del Distrito Federal, mediante el cual integrará información internacional, nacional, local y delegacional, relativa a los aspectos económicos, sociales y culturales relevantes de la actividad agropecuaria y el desarrollo rural, el desarrollo sociocultural en pueblos originarios, y el fomento de la interculturalidad; información de mercados en términos de oferta y demanda, disponibilidad de productos y calidades, expectativas de producción, precios, mercados de insumos y condiciones climatológicas prevalecientes y esperadas.
+La Secretaría establecerá una estrategia de información estadística y geográfica para el desarrollo agropecuario y rural de la Ciudad de México, mediante el cual integrará información internacional, nacional, local y por demarcación territorial, relativa a los aspectos económicos, sociales y culturales relevantes de la actividad agropecuaria y el desarrollo rural, el desarrollo sociocultural en pueblos originarios, y el fomento de la interculturalidad; información de mercados en términos de oferta y demanda, disponibilidad de productos y calidades, expectativas de producción, precios, mercados de insumos y condiciones climatológicas prevalecientes y esperadas.
 
 ###### Artículo 33.
 
@@ -542,9 +608,11 @@ IV. Las que se (sic) desarrollen la interculturalidad de la Ciudad de México; y
 
 V. Los demás que considere necesarios para cumplir con sus propósitos.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 34.
 
-La información que se integre se considera de interés público y general, por lo que es responsabilidad y obligación del Distrito Federal el difundirla a través de la Secretaría. Para ello integrará un paquete básico de información a los productores y demás agentes del sector rural, que les permita fortalecer su autonomía en la toma de decisiones. Copia de toda la información estará siempre a disposición de los Organismos de Acceso a la Información Pública.
+La información que se integre se considera de interés público y general, por lo que es responsabilidad y obligación de la Ciudad de México el difundirla a través de la Secretaría. Para ello integrará un paquete básico de información a los productores y demás agentes del sector rural, que les permita fortalecer su autonomía en la toma de decisiones. Copia de toda la información estará siempre a disposición de los Organismos de Acceso a la Información Pública.
 
 ### Capítulo VII. De la Conservación Rural
 
@@ -560,9 +628,11 @@ II. Vías pecuarias; y
 
 III. Geoparques rurales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 36.
 
-Los espacios permanentes de producción agropecuaria y rural son aquellos que por decisión del propietario de terrenos agropecuarios, o por inducción de la Secretaría, decida incluirlos en un régimen de conservación el (sic) espacio rural con la finalidad de mantener y, en su caso incrementar, las superficies destinadas a la producción, privilegiando los cultivos nativos y de mayor importancia en el Distrito Federal. Las vías pecuarias son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero; asimismo podrán ser destinadas a otros usos compatibles y complementarios en términos acordes con su naturaleza y sus fines, dando prioridad al tránsito ganadero y otros usos rurales, e inspirándose en el desarrollo sustentable, el respeto al ambiente, al paisaje y al patrimonio.
+Los espacios permanentes de producción agropecuaria y rural son aquellos que por decisión del propietario de terrenos agropecuarios, o por inducción de la Secretaría, decida incluirlos en un régimen de conservación el (sic) espacio rural con la finalidad de mantener y, en su caso incrementar, las superficies destinadas a la producción, privilegiando los cultivos nativos y de mayor importancia de la Ciudad de México. Las vías pecuarias son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero; asimismo podrán ser destinadas a otros usos compatibles y complementarios en términos acordes con su naturaleza y sus fines, dando prioridad al tránsito ganadero y otros usos rurales, e inspirándose en el desarrollo sustentable, el respeto al ambiente, al paisaje y al patrimonio.
 
 Los geoparques rurales son los espacios que incluyen un patrimonio geológico particular y una estrategia de desarrollo territorial sustentable apoyada por un programa para promover el desarrollo. Debe tener unos límites bien definidos y una superficie suficiente para un verdadero desarrollo económico del territorio, contener un cierto número de sitios geológicos de importancia particular en términos de calidad científica, rareza o valor estético o educativo y tiene un impacto directo sobre el territorio influyendo en las condiciones de vida de sus habitantes y actuando como una plataforma de cooperación de los actores locales y regionales de su territorio.
 
@@ -610,9 +680,11 @@ V. Fomento, cuando proceda, de un mayor uso de cultivos, variedades y especies i
 
 VI. Apoyo, cuando proceda, a una utilización más amplia de la diversidad de las variedades y especies en la ordenación, conservación y utilización sustentable de los cultivos y creación de vínculos estrechos entre el fitomejoramiento y el desarrollo agrícola, con el fin de reducir la vulnerabilidad de los cultivos y la erosión genética y promover un aumento de la productividad de alimentos compatibles con el desarrollo sustentable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 40.
 
-La Secretaría podrá declarar Espacios de Origen y/o Diversidad Genética de cultivos nativos el (sic) Distrito Federal, con el objetivo de proteger la soberanía alimentaria, con base en las especificaciones que el Reglamento establezca.
+La Secretaría podrá declarar Espacios de Origen y/o Diversidad Genética de cultivos nativos de la Ciudad de México, con el objetivo de proteger la soberanía alimentaria, con base en las especificaciones que el Reglamento establezca.
 
 Estos centros deberán ser protegidos de amenazas que surjan de la presión urbana y otros factores que pongan en peligro su viabilidad.
 
@@ -642,13 +714,17 @@ Los proyectos que la Secretaría apoye en este sentido serán de carácter prior
 
 ### Capítulo X. De la Reconversión Productiva
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 43.
 
-El Gobierno del Distrito Federal en el ámbito de su competencia, a través de la Secretaría, estimulará la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias, para aprovechar eficientemente los recursos naturales, tecnológicos y humanos, para lograr mayor productividad, competitividad y rentabilidad.
+El Gobierno de la Ciudad de México en el ámbito de su competencia, a través de la Secretaría, estimulará la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias, para aprovechar eficientemente los recursos naturales, tecnológicos y humanos, para lograr mayor productividad, competitividad y rentabilidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 44.
 
-El Gobierno del Distrito Federal en el ámbito de su competencia y a través de la Secretaría, creará los instrumentos de política pública que planteen alternativas para las unidades de producción a las ramas del campo que vayan quedando rezagadas o excluidas del desarrollo.
+El Gobierno de la Ciudad de México en el ámbito de su competencia y a través de la Secretaría, creará los instrumentos de política pública que planteen alternativas para las unidades de producción a las ramas del campo que vayan quedando rezagadas o excluidas del desarrollo.
 
 Para ello tendrán preferencia las actividades económicas que conserven las prácticas rurales sustentablemente.
 
@@ -660,9 +736,11 @@ Además, se incentivará la reconversión productiva en esquemas de agricultura 
 
 ### Capítulo XI. De la Vinculación Comercial y Ferias Agropecuarias
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 46.
 
-El Gobierno del Distrito Federal, promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las zonas rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas Dependencias y Entidades Públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
+El Gobierno de la Ciudad de México, promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las zonas rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas Dependencias y Entidades Públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
 
 ###### Artículo 47.
 
@@ -674,7 +752,9 @@ II. Procurar una mayor articulación de la producción primaria con los procesos
 
 III. Favorecer la relación de intercambio de los agentes de la sociedad rural;
 
-IV. Inducir la conformación de la estructura productiva y el sistema de comercialización que se requiere para garantizar el abasto alimentario, así como el suministro de materia prima a la industria del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. Inducir la conformación de la estructura productiva y el sistema de comercialización que se requiere para garantizar el abasto alimentario, así como el suministro de materia prima a la industria de la Ciudad de México;
 
 V. Propiciar un mejor abasto de alimentos;
 
@@ -690,21 +770,27 @@ IX. Fortalecer el mercado interno y la competitividad de la producción local.
 
 Para los efectos del artículo anterior, la Secretaría, con la opinión del Consejo Rural, elaborará programas orientados a la producción y comercialización de productos ofertados por los agentes de la sociedad rural.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 49.
 
-El Gobierno del Distrito Federal, promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de los productores y la canalización de apoyos.
+El Gobierno de la Ciudad de México, promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de los productores y la canalización de apoyos.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 50.
 
-El Gobierno del Distrito Federal, a través de la Secretaría, determinará el monto y forma de asignar a los productores los apoyos directos, que previamente hayan sido considerados en el programa y el presupuesto de Egresos del Distrito Federal para el sector rural; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de los productores.
+El Gobierno de la Ciudad de México, a través de la Secretaría, determinará el monto y forma de asignar a los productores los apoyos directos, que previamente hayan sido considerados en el programa y el presupuesto de Egresos de la Ciudad de México para el sector rural; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de los productores.
 
 ###### Artículo 51.
 
 La Secretaría en coordinación con el Gobierno Federal y la opinión del Consejo Rural, fomentará las exportaciones de los productos mediante la acreditación de la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable y la implementación de programas que estimulen y apoyen la producción y transformación de productos ofertados por los agentes de la sociedad rural para aprovechar las oportunidades regionales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 52.
 
-La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública del Distrito Federal y las organizaciones de productores, realizarán las gestiones conducentes para el desarrollo agroindustrial, a través de las siguientes acciones:
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública de la Ciudad de México y las organizaciones de productores, realizarán las gestiones conducentes para el desarrollo agroindustrial, a través de las siguientes acciones:
 
 I. Impulso a la rehabilitación de la agroindustria inactiva o con operación deficiente, cuando estas comprueben su viabilidad;
 
@@ -716,11 +802,15 @@ IV. Promover la modernización, incorporando tecnologías a fin de que las empre
 
 V. Impulsar activamente al sector productivo, a fin de aprovechar las ventajas comparativas y los nichos de mercado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 53.
 
-El Gobierno del Distrito Federal, promoverá la constitución, integración, consolidación y capitalización de las empresas comercializadoras de los sectores social y privado dedicadas al acopio y venta de productos ofertados por los agentes de la sociedad rural y en especial los procesos de acondicionamiento y transformación industrial que las mismas realicen.
+El Gobierno de la Ciudad de México, promoverá la constitución, integración, consolidación y capitalización de las empresas comercializadoras de los sectores social y privado dedicadas al acopio y venta de productos ofertados por los agentes de la sociedad rural y en especial los procesos de acondicionamiento y transformación industrial que las mismas realicen.
 
-Además, el Gobierno del Distrito Federal apoyará la realización de estudios de mercado y la promoción de productos en los mercados nacional y extranjero.
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
+Además, el Gobierno de la Ciudad de México apoyará la realización de estudios de mercado y la promoción de productos en los mercados nacional y extranjero.
 
 Asimismo, brindará a los productores rurales asistencia de asesoría y capacitación en operaciones de exportación, contratación, transportes y cobranza, entre otros aspectos.
 
@@ -730,9 +820,11 @@ La Secretaría promoverá la participación de productores rurales en ferias y e
 
 ### Capítulo XII. De la Organización Productiva
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 55.
 
-El Gobierno del Distrito Federal fomentará la integración de asociaciones y, organizaciones, agroindustrias y empresas rurales, y fortalecerá las existentes, a fin de impulsar el mejoramiento de los procesos de producción, industrialización y comercialización de los productos agropecuarios, acuícola y forestales. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de las siguientes acciones:
+El Gobierno de la Ciudad de México fomentará la integración de asociaciones y, organizaciones, agroindustrias y empresas rurales, y fortalecerá las existentes, a fin de impulsar el mejoramiento de los procesos de producción, industrialización y comercialización de los productos agropecuarios, acuícola y forestales. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de las siguientes acciones:
 
 I. Habilitación de las organizaciones de la sociedad rural para la capacitación y difusión de los programas oficiales y otros instrumentos de política para el campo;
 
@@ -766,9 +858,11 @@ La Secretaría integrará un registro de organizaciones y beneficiarios apoyados
 
 ### Capítulo XIII. Del Bienestar Social
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 60.
 
-El Gobierno del Distrito Federal, difundirá los programas, para coadyuvar a superar la pobreza, estimular la solidaridad social y el cooperativismo.
+El Gobierno de la Ciudad de México, difundirá los programas, para coadyuvar a superar la pobreza, estimular la solidaridad social y el cooperativismo.
 
 Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
 
@@ -776,25 +870,37 @@ I. Las Autoridades locales elaborarán con la periodicidad del caso, su catálog
 
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Jefe de Gobierno tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios;
 
-III. El Jefe de Gobierno a través del Instituto de Vivienda del Distrito Federal, contribuirá en el fomento y financiamiento de acciones para reducir el déficit habitacional en el medio rural de la Ciudad de México, siempre y cuando se trate de personas pertenecientes al núcleo rural beneficiado;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
-IV. Sin menoscabo de la libertad individual, el Consejo Rural coadyuvará con las acciones de fomento de las políticas de población en el medio rural, que instrumenten las autoridades de salud y educativas del Distrito Federal; y
+III. El Jefe de Gobierno a través del Instituto de Vivienda de la Ciudad de México, contribuirá en el fomento y financiamiento de acciones para reducir el déficit habitacional en el medio rural de la Ciudad de México, siempre y cuando se trate de personas pertenecientes al núcleo rural beneficiado;
 
-V. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, podrán participar en las Unidades Delegacionales de Protección Civil para impulsar los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+IV. Sin menoscabo de la libertad individual, el Consejo Rural coadyuvará con las acciones de fomento de las políticas de población en el medio rural, que instrumenten las autoridades de salud y educativas de la Ciudad de México; y
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
+V. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, podrán participar en las Unidades de Protección Civil adscritas a las Alcaldías para impulsar los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 61.
 
-En el marco del Programa Rural, el Gobierno del Distrito Federal promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema, en el medio rural; el ser sujeto de estos apoyos, no limita a los productores y demás agentes, al acceso a otros programas.
+En el marco del Programa Rural, el Gobierno de la Ciudad de México promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema, en el medio rural; el ser sujeto de estos apoyos, no limita a los productores y demás agentes, al acceso a otros programas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 62.
 
-En cumplimiento a esta Ley, la atención prioritaria a los productores y comunidades de las Delegaciones de más alta marginación, tendrá un enfoque productivo orientado a la justicia social y equidad, y respetuoso de los valores culturales, usos y costumbres de los habitantes de dichas zonas.
+En cumplimiento a esta Ley, la atención prioritaria a los productores y comunidades de las Alcaldías de más alta marginación, tendrá un enfoque productivo orientado a la justicia social y equidad, y respetuoso de los valores culturales, usos y costumbres de los habitantes de dichas zonas.
 
 El Programa Rural, en el marco de las disposiciones de esta Ley, tomará en cuenta la pluriactividad distintiva, la economía campesina y de la composición de su ingreso, a fin de impulsar la diversificación de sus actividades, del empleo y la reducción de los costos de transacción que median entre los productores de dichas regiones y los mercados.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+
 ###### Artículo 63.
 
-La Secretaría, con base en indicadores y criterios que establezca para tal efecto, con la opinión del Consejo Rural, definirá las regiones de atención prioritaria para el desarrollo rural, que como tales serán objeto de consideración preferente de los programas de la administración pública del Distrito Federal.
+La Secretaría, con base en indicadores y criterios que establezca para tal efecto, con la opinión del Consejo Rural, definirá las regiones de atención prioritaria para el desarrollo rural, que como tales serán objeto de consideración preferente de los programas de la administración pública de la Ciudad de México.
 
 ###### Artículo 64.
 
@@ -840,19 +946,19 @@ La Secretaría impulsará programas para fomentar la cultura alimentaria encamin
 
 ### CAPÍTULO XIV. DE LA ADMINISTRACIÓN DE RIESGOS Y DAÑOS
 
-> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 67.
 
-El Gobierno del Distrito Federal, a través de la Secretaría, impulsará, promoverá y garantizará entre los productores la contratación del seguro agrícola por contigencias (sic) climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
+El Gobierno de la Ciudad de México, a través de la Secretaría, impulsará, promoverá y garantizará entre los productores la contratación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
 
 Adicionalmente, la Secretaría fomentará la elaboración de esquemas de fondos de autoaseguro que permitan el uso del servicio de aseguramiento a los productores, en el marco de las leyes vigentes en la materia, para la cobertura de este tipo de contingencias.
 
-> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 68.
 
-El Gobierno del Distrito Federal, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
+El Gobierno de la Ciudad de México, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -895,3 +1001,11 @@ G.O. 9 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a través de sus áreas correspondientes, a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 26 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el 17 de septiembre de 2018, en términos del Artículo Primero Transitorio del Decreto por el que se expide la Constitución Política de la Ciudad de México, publicado en el Diario Oficial de la Federación y en la Gaceta Oficial de la Ciudad de México el 05 de febrero de 2017.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
