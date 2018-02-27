@@ -4,7 +4,7 @@ identifier: "FED-manual-de-percepciones-para-los-servidores-publicos-de-118701"
 country: "mx"
 rank: "manual"
 publication_date: "2017-02-01"
-last_updated: "2017-02-01"
+last_updated: "2018-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-01-25"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2018 (DEROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 1 de febrero de 2017.
 
@@ -64,3 +64,13 @@ Directores Ejecutivos, Titulares de Unidades Técnicas y Coordinador de Asesores
 El Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.- El Director Ejecutivo de Prerrogativas y Partidos Políticos, Patricio Ballados Villagómez.- Rúbrica.- El Director Ejecutivo de Organización Electoral, Miguel Ángel Solís Rivas.- Rúbrica.- El Director Ejecutivo del Servicio Profesional Electoral Nacional, Rafael Martínez Puón.- Rúbrica.- El Director Ejecutivo de Capacitación Electoral y Educación Cívica, Roberto Heycher Cardiel Soto.- Rúbrica.- El Director Ejecutivo de Administración, Bogart Cristóbal Montiel Reyna.- Rúbrica.- El Director de la Unidad Técnica de Fiscalización, Eduardo Gurza Curiel.- Rúbrica.- El Director de la Unidad Técnica de lo Contencioso Electoral, Carlos Alberto Ferrer Silva.- Rúbrica.- El Director de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, Miguel Ángel Patiño Arroyo.- Rúbrica.- El Coordinador Nacional de Comunicación Social, Rubén Álvarez Mendiola.- Rúbrica.- El Coordinador de Asuntos Internacionales, Manuel Carrillo Poblano.- Rúbrica.- El Director del Jurídico, Gabriel Mendoza Elvira.- Rúbrica.- El Coordinador General de la Unidad Técnica de Servicios de Informática, Jorge Humberto Torres Antuñano.- Rúbrica.- El Titular de la Unidad Técnica de Transparencia y Protección de Datos Personales, Cecilia del Carmen Azuara Arai.- Rúbrica.- El Titular de la Unidad Técnica de Planeación, Ana de Gortari Pedroza.- Rúbrica.- La Directora de la Unidad Técnica de Igualdad de Género y No Discriminación, Mónica Maccise Duayhe.- Rúbrica.- El Director del Secretariado, Jorge Eduardo Lavoignet Vásquez.- Rúbrica.- El Coordinador de Asesores de la Presidencia del Consejo, Luis Emilio Giménez Cacho.- Rúbrica.
 
 [N DE E. VÉASE MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2017 EN LA SEGUNDA SECCIÓN DEL D.O.F. 1 DE FEBRERO DE 2017, PÁGINAS 95 A 106.]
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 27 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2018”.]
+
+Primero.- Las disposiciones del presente Manual entrarán en vigor al día siguiente de su aprobación y serán aplicables durante el ejercicio fiscal 2018.
+
+Segundo.- Se derogan las disposiciones del Manual de Percepciones para los Servidores Públicos de Mando del Instituto Nacional Electoral para el ejercicio fiscal 2017.
