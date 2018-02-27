@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-125474"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-26"
-last_updated: "2018-01-20"
+last_updated: "2018-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2018
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN IV DEL PERIÓDICO OFICIAL DEL 27 DE FEBRERO DE 2018.]</small>
 
 Ley publicada en la Sección IV al Número 27 del Periódico Oficial de Jalisco, el martes 26 de diciembre de 2017.
 
@@ -267,9 +269,9 @@ e) Contratos de crédito refaccionario y de habilitación o avío que se otorgan
 
 2. Otorgados a personas físicas: Exento
 
-Registro de escrituras constitutivas de sociedades mercantiles, sociedades y asociaciones civiles y fundaciones, el:
+> <small>(F. DE E., P.O. 27 DE FEBRERO DE 2018)</small>
 
-f) aumento y disminución de capital social, fusión, escisión de sociedades: $2,300.00
+f) Registro de escrituras constitutivas de sociedadesmercantiles (sic), sociedades y asociaciones civiles y fundacionesel (sic) aumento y disminución de capital social, fusión, escisión desociedades (sic): $2,300.00
 
 g) Por cada inscripción, incluyendo registro de sentencias judiciales, que no represente interés pecuniario: $200.00
 
