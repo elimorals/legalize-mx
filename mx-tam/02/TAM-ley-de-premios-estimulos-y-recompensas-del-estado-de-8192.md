@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2016-12-13"
+last_updated: "2018-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -705,11 +705,11 @@ Los Estímulos y Recompensas se entregarán a los servidores públicos del Estad
 
 Para el otorgamiento de los estímulos, los superiores jerárquicos evaluaran trimestralmente el desempeño en el trabajo de los servidores públicos adscritos a su área administrativa, conforme al procedimiento autorizado por el Titular del Ejecutivo Estatal.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2018)</small>
 
 ###### ARTICULO 92.
 
-Los estímulos consistirán en un incentivo económico denominado "Bono de Productividad y Calidad", cuya equivalencia variará de 3 a 9 días de salario que perciba el servidor público, de acuerdo a la valorización que se le otorgue por su desempeño en el trabajo durante el período a calificar.
+Los estímulos consistirán en un incentivo económico denominado “Bono de Productividad y Calidad”, cuya equivalencia variará de 3 a 9 días de salario que perciba el servidor público, salvo que otras leyes, reglamentos, disposiciones legales o administrativas previamente publicadas, señalen expresamente la posibilidad de determinar un monto diverso, de acuerdo a la valorización que se otorgue al desempeño en el servicio.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -818,3 +818,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-383 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
