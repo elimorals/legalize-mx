@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2018-02-24"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -143,7 +143,9 @@ XXI. Visitaduría: la Visitaduría de los Derechos de Niñas, Niños y Adolescen
 
 La aplicación y observancia de la presente Ley corresponde a las siguientes autoridades:
 
-I. Poder Legislativo, a través de las comisiones legislativas de Derechos Humanos, de la Niñez, la Juventud y la Familia, de Educación, de Salud y de Desarrollo Social y Participación Ciudadana;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2018)</small>
+
+I. Poder Legislativo, a través de las comisiones legislativas de Derechos Humanos, de la Niñez, la Juventud y la Familia, de Educación, de Salud, de Desarrollo Social y Participación Ciudadana, de Atención a Grupos Vulnerables, y de Seguridad Pública y Justicia;
 
 II. Poder Ejecutivo a través del Sistema Estatal DIF, por conducto de la Procuraduría de Protección, y en general, toda dependencia u organismo paraestatal que brinde servicios públicos relativos a los derechos que protege esta Ley;
 
@@ -696,6 +698,12 @@ V. Impulsar la creación de comedores en escuelas públicas para proporcionarles
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable y en condiciones adecuadas que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural, social y a contar con servicios que lo garanticen.
 
 Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes proporcionar dentro de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+La edad mínima para contraer matrimonio es de 18 años.
 
 ### CAPÍTULO VIII. DERECHOS A LA LIBERTAD DE OPINIÓN, EXPRESIÓN, PENSAMIENTO, RELIGIÓN, ASOCIACIÓN, REUNIÓN, PARTICIPACIÓN E INFORMACIÓN
 
@@ -2081,6 +2089,14 @@ LIC. JAIME SANTOYO CASTRO.
 
 P.O. 24 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 260.- REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
