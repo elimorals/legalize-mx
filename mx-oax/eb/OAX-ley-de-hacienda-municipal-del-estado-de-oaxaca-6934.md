@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2016-12-31"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -1345,6 +1345,10 @@ Son sujetos de estos productos, las personas físicas o morales, propietarias o 
 
 El pago de los productos a que se refiere esta sección se realizará de acuerdo con las cuotas que establezcan las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado y previamente al retiro del vehículo correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+En ningún caso los cobros por corralón y arrastre de vehículos excederán las cuotas establecidas para el mismo concepto en el artículo 36 de la Ley Estatal de Derechos. Los corralones concesionados por el Estado y Municipios no excederán las cuotas anteriores, lo que se establecerá en los convenios correspondientes y en las leyes de ingresos respectivas.
+
 ### CAPITULO II. DERIVADOS DE BIENES MUEBLES
 
 ###### ARTICULO 125.
@@ -1704,3 +1708,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 736.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ESTATAL DE DERECHOS”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
