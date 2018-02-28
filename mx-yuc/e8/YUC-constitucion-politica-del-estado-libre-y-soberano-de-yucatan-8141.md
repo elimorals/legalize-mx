@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2017-07-18"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -653,9 +653,9 @@ IV Bis.- Someter a referéndum las leyes, decretos, y las reformas a esta Consti
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
-VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las leyes de ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año. Asimismo, deberá incluir en el Presupuesto de Egresos mencionado, las erogaciones plurianuales, aprobadas conforme a la Ley de la materia.
+VI.- Aprobar, a más tardar, el 15 de diciembre de cada año, la ley de ingresos y el presupuesto de egresos del Gobierno del estado de Yucatán y las leyes de ingresos de los municipios, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable;
 
 > <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -687,13 +687,13 @@ VII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 VII Ter.- Coordinar y evaluar, sin perjuicio de su autonomía técnica, presupuestal y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
 
-> <small>(REFORMADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los municipios puedan contraer obligaciones o empréstitos, con las limitaciones impuestas en el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar dichas obligaciones y empréstitos, así como reconocer y mandar pagar la deuda del Estado;
+VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los municipios puedan contraer obligaciones o empréstitos, con las limitaciones impuestas por las leyes que establezcan las bases generales para incurrir en endeudamiento a que se refiere el numeral 3º de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en su artículo 117, fracción VIII;
 
-> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-VIII Bis.- Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda pública y afectar como garantía, fuente de pago o de cualquier otra forma, los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
+VIII Bis.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para que, en las mejores condiciones del mercado, el Poder Ejecutivo y los ayuntamientos contraten empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, con las excepciones previstas en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
@@ -702,6 +702,10 @@ VIII Ter.- Aprobar los proyectos para la prestación de servicios conforme a la 
 > <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
 VIII Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, D.O. 28 DE FEBRERO DE 2018)</small>
+
+VIII Quinquies.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, al Poder Ejecutivo y a los ayuntamientos la celebración de convenios con la federación para la contratación de deuda estatal garantizada, en los términos de las leyes que expida el Congreso de la Unión en esta materia;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -791,9 +795,9 @@ XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial
 
 XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso;
 
-> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-XXVII Bis.- Presentar la cuenta pública, en los términos y formas que fije la Ley en la materia;
+XXVII Bis.- Presentar la cuenta pública en los términos y las formas que fijen las leyes en la materia;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -1317,9 +1321,9 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 XIII.- expedir la convocatoria para las elecciones ordinarias;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
-XIV.- presentar ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, que hubieren de regir durante el año inmediato siguiente;
+XIV.- Presentar ante el Congreso del Estado, a más tardar el 25 de noviembre de cada año, las iniciativas relativas a la ley de ingresos y al presupuesto de egresos del Gobierno del Estado de Yucatán, que regirán durante el año inmediato siguiente, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
 
 > <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -1371,9 +1375,9 @@ XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para ga
 
 XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción XXII de este Artículo, así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales;
 
-> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-XXIV.- presentar la cuenta pública con la documentación respectiva, en los términos establecidos en la Ley de la materia, y
+XXIV.- Presentar la cuenta pública con la documentación respectiva, en los términos y las formas que fijen las leyes en la materia, y
 
 > <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
 
@@ -2113,13 +2117,15 @@ a) Para la realización de cualquier acto que implique la enajenación de bienes
 
 b) La desincorporación de algún bien de dominio público y su conversión al dominio privado.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-II.- Para la aprobación de las Leyes de Ingresos de los Municipios, éstos enviarán su proyecto a la legislatura local, a más tardar el día 25 de noviembre de cada año;
+II.- La presentación para su aprobación ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a las leyes de ingresos que regirán en sus municipios durante el año inmediato siguiente, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
 
-> <small>(REFORMADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
-III.- Los presupuestos de egresos serán aprobados por cada Ayuntamiento con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, de conformidad con las disposiciones aplicables.
+III.- Los presupuestos de egresos serán aprobados por cada Ayuntamiento de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 6 DE DICIEMBRE DE 2010)</small>
 
 El Ayuntamiento deberá aprobar en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
 
@@ -2139,9 +2145,9 @@ VIII.- Las leyes no establecerán exenciones o subsidios en favor de persona alg
 
 IX.- Para el cobro de sus percepciones fiscales, los ayuntamientos tendrán la facultad económico-coactiva, aplicando el procedimiento administrativo de ejecución, en los términos que establezca el Código Fiscal del Estado;
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
 
-X.- Los Ayuntamientos deberán rendir su cuenta pública a la Auditoría Superior del Estado, con la documentación respectiva y en los términos establecidos en la Ley de la materia;
+X.- Los Ayuntamientos deberán rendir su cuenta pública a la Auditoría Superior del Estado, con la documentación respectiva y términos y las formas que fijen las leyes en la materia;
 
 XI.- Celebrar actos, convenios o empréstitos que comprometan al municipio por un plazo mayor al período de su gestión gubernamental, siempre que éstos fueren aprobados por las dos terceras partes de los integrantes del Ayuntamiento respectivo, sujetándose a las modalidades que establezcan las leyes, y
 
@@ -2717,11 +2723,11 @@ Todo servidor público del Estado y de los municipios, sin excepción alguna, an
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 107.
 
-Los órganos públicos del Estado y de los municipios deberán de administrar y ejercer los recursos públicos a su cargo con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+Los órganos públicos del Estado y de los municipios deberán administrar y ejercer los recursos públicos a su cargo con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
 
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
@@ -2748,6 +2754,14 @@ Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 El Estado y los Municipios podrán asumir, mediante los convenios respectivos la responsabilidad, de la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la ley de la materia. De conformidad a lo establecido en el Título Séptimo, y en el artículo 104 del Título Décimo, de esta Constitución.
+
+> <small>(ADICIONADO, D.O. 28 DE FEBRERO DE 2018)</small>
+
+El estado y los municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, las cuales deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior, conforme a las bases que se establezca (sic) en la ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que el Congreso apruebe. El Poder Ejecutivo informará de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(ADICIONADO, D.O. 28 DE FEBRERO DE 2018)</small>
+
+El estado y los municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 (REUBICADO [N. DE E. ANTES TÍTULO UNDÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -4212,3 +4226,15 @@ D.O. 18 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 504/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN".]
 
 Artículo único.- Este decreto entrará en vigor el 19 de julio del año 2017.
+
+D.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 592/2018 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El Congreso deberá armonizar las leyes secundarias relacionadas con la disciplina financiera, en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
