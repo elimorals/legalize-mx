@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-organizacion-y-procedimientos-administrativos-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-08"
-last_updated: "2017-02-15"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de octubre de 2014.
 
@@ -127,9 +127,13 @@ En cada Sede Regional de Justicia Penal habrá el número de Juzgados de Primera
 
 El Pleno también determinará el número de Jueces que integrarán los Juzgados de Control y de Enjuiciamiento Penal de cada Circuito Judicial y su adscripción.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
 
-Cuando las necesidades del servicio lo requieran, se podrá disponer que las audiencias se efectúen por los Jueces de Control y Enjuiciamiento Penal en Extensión de la Sede Regional.
+Los Jueces de Control y Enjuiciamiento Penal podrán actuar en cualquiera de los Circuitos Judiciales, en cumplimiento de lo dispuesto por los artículos 20, inciso A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y 350 del Código Nacional de Procedimientos Penales, de conformidad con las necesidades del servicio.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+Igualmente, cuando las necesidades del servicio lo requieran, se podrá disponer que las audiencias se efectúen por los Jueces de Control y Enjuiciamiento Penal en Extensión de la Sede Regional correspondiente.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2016)</small>
 
@@ -269,9 +273,13 @@ IX. Firmar los oficios administrativos relativos a los servicios materiales y pe
 
 X. Recibir los reportes de mantenimiento;
 
-XI. Coordinarse con las dependencias del Supremo Tribunal de Justicia para el cumplimiento de sus funciones; y,
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2018)</small>
 
-XII. Las demás actividades que el superior jerárquico determine.
+XI. Firmar las copias certificadas de las constancias procesales que acuerden los Jueces o las que se requieran expedir en el órgano jurisdiccional correspondiente;
+
+XII. Coordinarse con las dependencias del Supremo Tribunal de Justicia para el cumplimiento de sus funciones; y,
+
+XIII. Las demás actividades que el superior jerárquico determine.
 
 #### Sección II
 
@@ -669,7 +677,7 @@ Programación de audiencia
 
 El procedimiento para programar las audiencias de la Sede Judicial a través de la agenda en la plataforma electrónica, se desarrollará en los términos siguientes:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 25.</small>
+> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 25.]</small>
 
 ###### Artículo 38.
 
@@ -677,7 +685,7 @@ Celebración de audiencia
 
 Las audiencias se celebrarán conforme al procedimiento para gestionar el buen funcionamiento antes, durante y después de las audiencias, desde el aviso de la audiencia programada hasta alimentar al sistema de gestión, atentos a lo señalado en el cuadro siguiente:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 26.</small>
+> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 26.]</small>
 
 ###### Artículo 39.
 
@@ -685,7 +693,7 @@ Notificaciones
 
 El procedimiento para comunicar a las partes e intervinientes de las determinaciones de la Sede para el adecuado desarrollo del proceso, se sujetará a los siguientes lineamientos:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.</small>
+> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
 
 ###### Artículo 40.
 
@@ -693,7 +701,7 @@ Apelaciones
 
 El procedimiento para cumplir con las disposiciones legales para el trámite de las apelaciones interpuestas por los interesados para su remisión al Tribunal de Alzada para su substanciación, se realizará conforme se señala en este cuadro:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.</small>
+> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 27.]</small>
 
 Este procedimiento se utilizará, en lo conducente, en la tramitación de los otros recursos establecidos en el Código Nacional.
 
@@ -703,7 +711,7 @@ Amparos
 
 El procedimiento para realizar el trámite inicial de amparo, de forma tal que permita que la Sede Judicial cumpla en los plazos establecidos de acuerdo a como se solicita e indica en la ley, se realizará acorde al siguiente esquema:
 
-> <small>N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 28.</small>
+> <small>[N. DE E. VÉASE CUADRO EN EL P.O. DE 8 DE OCTUBRE DE 2014, PÁGINA 28.]</small>
 
 De igual forma, se deberán atender diligentemente todos los trámites relacionados con este medio de control.
 
@@ -739,9 +747,9 @@ Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 26 DE FEBRERO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA".]
 
-PRIMERO. Este acuerdo entrará en vigor el de su Aprobación. (sic)
+PRIMERO. Este acuerdo entrará en vigor el (sic) de su Aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa" y comuníquese a los Jueces de Primera Instancia y Magistrados de Circuito del Poder Judicial del Estado, para su conocimiento.
 
@@ -750,5 +758,13 @@ P.O. 15 DE FEBRERO DE 2017.
 [N. DE EN TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; FRACCIONES IX, X Y XI DEL ARTÍCULO 16; LA DENOMINACIÓN DE LA SECCIÓN IV; LOS ARTÍCULOS 21 Y 23; FRACCIONES III Y IV DEL ARTÍCULO 24; Y, FRACCIÓN II DEL ARTÍCULO 27; TODOS DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
 
 PRIMERO. Este acuerdo entrará en vigor el día veinte de febrero del año en curso.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5 DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. Este acuerdo entrará en vigor el (sic) de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
