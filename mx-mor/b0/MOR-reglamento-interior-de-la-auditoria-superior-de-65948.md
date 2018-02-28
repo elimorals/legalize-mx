@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-auditoria-superior-de-65948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-07"
-last_updated: "2009-01-07"
+last_updated: "2018-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE FISCALIZACION
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE FISCALIZACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de enero de 2009.
 
@@ -1005,3 +1007,13 @@ EL PRESIDENTE DEL CONGRESO
 DIP. JAIME TOVAR ENRÍQUEZ
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS".]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+Artículo Segundo. A la entrada en vigor del presente Reglamento, se abroga el Reglamento Interior de la Auditoría Superior de Fiscalización, publicado en el Periódico "Tierra y Libertad", número 4672, de fecha 7 de enero de 2009.
