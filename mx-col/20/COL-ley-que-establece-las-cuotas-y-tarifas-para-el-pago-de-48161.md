@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2017-01-24"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -731,11 +731,11 @@ T R A N S I T O R I O S:
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2014, el beneficio a que se refiere el artículo 26 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Para el ejercicio fiscal 2018, el beneficio a que se refiere el artículo 26 de esta Ley, se amplía hasta el 31 de marzo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
@@ -848,6 +848,12 @@ P.O. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 452 POR EL QUE SE REFORMA EL TRANSITORIO SEGUNDO DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
