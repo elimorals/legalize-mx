@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2017-12-20"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -355,6 +355,8 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3.]</small>
+
 ###### Artículo 37.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia archivística, de conformidad con las siguientes cuotas:
@@ -554,3 +556,11 @@ SEGUNDO. Se abroga la Ley Estatal de Derechos publicada en la Segunda Sección d
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 9 de Diciembre de 2017.- Dip. José de Jesús Romero López, Presidente.- Dip. Felicitas Hernández Montaño, Secretaria.- Dip. Silvia Flores Peña, Secretaria.- Dip. María de Jesús Melgar Vásquez, Secretaria.-Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax. a 13 de Diciembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica. El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 736.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ESTATAL DE DERECHOS".]
+
+P.O. 28 DE FEBRERO DE 2018.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
