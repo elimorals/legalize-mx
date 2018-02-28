@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-09-01"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -14965,7 +14965,9 @@ La hipoteca prorrogada segunda o más veces, sólo conservará la preferencia de
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague su crédito.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV BIS.. De la hipoteca a la inversa
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 2813.
 
@@ -15021,7 +15023,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2817 no tuviera inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2876, fracción I, salvo lo dispuesto en el capítulo IX del título IX del Libro Primero.
 
-### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2822.
 
@@ -15053,11 +15055,81 @@ La hipoteca extinguida por dación en pago, revivirá si el pago queda sin efect
 
 En los casos del artículo anterior si el registro hubiere sido cancelado, revivirá solamente desde la fecha de la nueva inscripción; quedando siempre a salvo al acreedor el derecho para ser indemnizado por el deudor, de los daños y perjuicios que se le hayan seguido.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE FEBRERO DE 2018)</small>
+
+### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
+
+###### Artículo 2825 Bis.
+
+Se entenderá por hipoteca a la inversa como aquella que se constituye sobre un bien inmueble que es la vivienda habitual y propia del pensionista para garantizar el capital que concede al pensionario para cubrir las necesidades económicas de vida en términos de este capítulo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Ter.
+
+El contrato de hipoteca a la inversa, es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca a la inversa, en los términos de este capítulo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Quater.
+
+Están autorizadas para otorgar la hipoteca inversa las instituciones privadas, sociales, las personas físicas y las instituciones públicas, siempre que cuenten con facultades para ello.
+
+El costo del avaluó, será cubierto por el pensionario y deberá actualizarse periódicamente para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Quinquies.
+
+La determinación de la hipoteca a la inversa se realizará previo avaluó de la institución debidamente facultada, en la que se considere el valor comercial del mercado del inmueble, el cual deberá actualizarse cada dos años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+El contrato de hipoteca a la inversa, además de lo pactado, estará sujeto a lo siguiente:
+
+I.- Que la cantidad pactada entre pensionario y pensionista sea suficiente para que esté último cubra sus necesidades básicas;
+
+II.- Que el pensionista disponga del importe del préstamo conforme a los plazos que correspondan a las disposiciones periódicas mediante las cuales el pensionista accederá al importe objeto de la hipoteca a la inversa;
+
+III.- Que la deuda sólo sea exigible por el pensionario y la garantía ejecutable cuando fallezca el pensionista o en caso de que se estipule en el contrato cuando fallezca el último de los beneficiarios;
+
+IV.- El pensionista podrá realizar el pago total o parcial anticipado sin penalización alguna;
+
+V.- El pensionista habitará vitaliciamente el inmueble hipotecado, no obstante, el pensionista podrá arrendar de manera parcial o total el inmueble hipotecado, siempre y cuando cuente con la autorización del pensionario y los términos y condiciones del arrendamiento se establezcan en el contrato correspondiente, sin afectar la naturaleza propia de la hipoteca a la inversa;
+
+VI.- Los intereses que se generen por el capital serán solamente por las cantidades dispuestas por el pensionista;
+
+VII.- Que, en el contrato de hipoteca a la inversa, se incluyan las especificaciones del incremento anual que tendrá la pensión, de acuerdo a las condiciones del mercado y el valor del inmueble.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Sexies.
+
+La amortización del capital se sujetará a las siguientes disposiciones:
+
+I.- Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo;
+
+II.- En atención a la fracción anterior y en caso de que los herederos del pensionista opten por no pagar el adeudo existente y vencido y una vez transcurridos seis meses después del fallecimiento del pensionista sin que se efectúe el pago, el pensionario cobrará el adeudo hasta donde alcance el bien hipotecado, pudiendo solicitar su adjudicación o su venta.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Septies.
+
+El Inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el previo consentimiento del pensionario. El incumplimiento de esta obligación le confiere el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se substituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Octies.
+
+En caso de incumplimiento del pensionario en la ministración pactada, el pensionista estará en condiciones de solicitar la recisión del contrato de hipoteca a la inversa y exigir el pago de los daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquida y no generará más intereses; debiendo el pensionado liberar a su costa el gravamen correspondiente, para el caso de que se constituya una hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)</small>
+
+###### Artículo 2825 Nonies.
+
+En lo no previsto en esta disposición, la hipoteca a la inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
 TITULO DECIMOSEXTO
 
 De las transacciones
-
-### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ###### Artículo 2826.
 
@@ -15151,7 +15223,7 @@ TERCERA PARTE
 
 ## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
-### CAPITULO IV. Acreedores de primera clase
+### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ###### Artículo 2845.
 
@@ -15233,7 +15305,7 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO V. Acreedores de segunda clase
+### CAPITULO IV. Acreedores de primera clase
 
 ###### Artículo 2861.
 
@@ -15299,7 +15371,7 @@ II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro m
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO VI. Acreedores de tercera clase
+### CAPITULO V. Acreedores de segunda clase
 
 ###### Artículo 2874.
 
@@ -15329,7 +15401,7 @@ IX. Los créditos anotados en el Registro Público, en virtud de mandamiento jud
 
 X. Los créditos a que se refiere el artículo 28 de la Ley del Régimen de Propiedad en Condominio de Inmuebles para el Estado de Oaxaca.
 
-### CAPITULO VII. Acreedores de cuarta clase
+### CAPITULO VI. Acreedores de tercera clase
 
 ###### Artículo 2875.
 
@@ -15347,9 +15419,7 @@ V. El crédito por alimentos fiados al deudor para su subsistencia y la de su fa
 
 VI. La responsabilidad civil y la reparación del daño en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO I. De las oficinas del Registro
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+### CAPITULO VII. Acreedores de cuarta clase
 
 ###### Artículo 2876.
 
@@ -15361,13 +15431,15 @@ II. Los créditos del erario que no estén comprendidos en el artículo 2861, y 
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
+### CAPITULO I. De las oficinas del Registro
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 2877.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
+### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
 ###### Artículo 2878.
 
@@ -15379,7 +15451,7 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ## TITULO SEGUNDO. Del Registro Público
 
-### CAPITULO IV. Del registro de las informaciones de dominio
+### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
 ###### Artículo 2880.
 
@@ -15415,7 +15487,7 @@ Cualquier anotación, cancelación o modificación de una inscripción correspon
 
 El Registro será público. Los Registradores deben permitir a las personas que lo soliciten, cubiertos los requisitos del Reglamento, que se enteren de las inscripciones que constan en los libros del Registro, mediante la consulta electrónica de las bases de datos del Registro Público de la Propiedad, de la consulta de imágenes contenidas en el Sistema Informático Registral, así como de los documentos relacionados con las inscripciones que estén archivados. También deben expedir copias certificadas de las inscripciones, o constancias que figuren en los Libros del Registro y de las imágenes contenidas en el Sistema Informático Registral, así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
-### CAPITULO V. De las inscripciones de posesión
+### CAPITULO IV. Del registro de las informaciones de dominio
 
 ###### Artículo 2883.
 
@@ -15483,7 +15555,7 @@ Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a a
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
-### CAPITULO VI. De la extinción de las inscripciones
+### CAPITULO V. De las inscripciones de posesión
 
 ###### Artículo 2889.
 
@@ -15611,9 +15683,7 @@ Hecho el registro, serán devueltos los documentos al que los presentó, con not
 
 El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
-### CAPITULO VII. De la inmatriculación
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+### CAPITULO VI. De la extinción de las inscripciones
 
 ###### Artículo 2902.
 
@@ -15626,6 +15696,10 @@ Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ub
 No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
 Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+
+### CAPITULO VII. De la inmatriculación
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 2903.
 
@@ -16170,3 +16244,11 @@ P.O. 1 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 665.- MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 735.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO IV BIS, "DE LA HIPOTECA A LA INVERSA" AL TÍTULO DECIMOQUINTO "DE LA HIPOTECA" DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
