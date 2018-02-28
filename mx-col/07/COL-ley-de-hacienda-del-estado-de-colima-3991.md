@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2017-12-02"
+last_updated: "2018-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -5899,11 +5899,11 @@ TERCERO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 41 Z B
 
 CUARTO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 30 de abril del mismo año.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2018)</small>
 
-QUINTO.- Los sujetos obligados al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público previstos en el artículo 55 B, fracción IV, incisos de la a) a la j), correspondiente al ejercicio fiscal 2017, deberán efectuarlo a más tardar el 31 de mayo de 2017, gozando de la condonación al 100% de los recargos y multas que se hayan generado.
+QUINTO.- Los sujetos obligados al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público previstos en el artículo 55 B, fracción IV, incisos de la a) a la j), correspondiente al ejercicio fiscal 2018, deberán efectuarlo a más tardar el 31 de mayo de 2018, gozando de la condonación al 100% de los recargos y multas que se hayan generado.
 
-Por lo que respecta al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público, correspondiente a los ejercicios fiscales 2016 y anteriores, que sea cubierto por los contribuyentes a más tardar el 31 de mayo de 2017, éstos gozarán de la condonación al 100% de los recargos y multas que se hayan generado.
+Por lo que respecta al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público, correspondiente a los ejercicios fiscales 2017 y anteriores, que sea cubierto por los contribuyentes a más tardar el 31 de mayo de 2018, éstos gozarán de la condonación al 100% de los recargos y multas que se hayan generado.
 
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
@@ -6612,3 +6612,9 @@ P.O. 2 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 391 POR EL QUE SE APRUEBA REFORMAR DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día 1o. de enero del año 2018, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE FEBRERO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 461 POR EL QUE SE APRUEBA REFORMAR EL TRANSITORIO QUINTO DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA, EN RELACIÓN CON EL PAGO DE DERECHO POR LAS REVALIDACIONES ANUALES DE CONCESIONES Y PERMISOS DEL SERVICIO DEL TRANSPORTE PÚBLICO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima"
