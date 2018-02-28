@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2017-06-26"
+last_updated: "2018-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -2922,3 +2924,29 @@ Asimismo, con el fin de asegurar la continuidad de las acciones de planeación, 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2018.
+
+[N. DE. TRANSITORIOS DEL "DECRETO NÚMERO 365 DEL H. CONGRESO DEL ESTADO.- LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley de Desarrollo Urbano del Estado de Sinaloa, publicada el 1o de septiembre de 2004, en el Periódico Oficial "El Estado de Sinaloa", No. 105 y se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. En un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto, se deberán de realizar las reformas derivadas de la expedición del presente Decreto a la Ley de Hacienda Municipal del Estado.
+
+CUARTO. El titular del Ejecutivo Estatal formulará dentro de los siguientes 180 días contados a partir de su entrada en vigor del presente Decreto, el Reglamento de la Ley para la ejecución y su debida observancia. Hasta en tanto se expida el Reglamento de la presente Ley. Serán aplicables en lo conducente, las disposiciones legales vigentes en la materia, en todo lo que no contravenga lo dispuesto en la presente Ley.
+
+QUINTO. Los Ayuntamientos contarán con un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto para homologar el Decreto de Creación y Reglamento Interior de los Institutos Municipales de Planeación Urbana ya conformados a la entrada en vigor del presente Decreto, y en aquellos de nueva creación contarán con un plazo de 365 días parar elaborar su Decreto de Creación y Reglamento Interior.
+
+SEXTO. Las autorizaciones de acciones urbanísticas así como los demás asuntos derivados de estos que se encuentren en trámite, o pendientes de resolución, se tramitaran y resolverán, conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+SÉPTIMO. La creación del Instituto Estatal de Planeación del Ordenamiento Territorial y Desarrollo Urbano de Sinaloa quedará sujeta a la decisión y los tiempos que la Secretaría considere convenientes para su operación, en virtud de las necesidades en materia de planeación urbana y territorial que requiera el Estado.
+
+OCTAVO. Los ayuntamientos de los municipios del Estado, deberán homologar con la presente Ley y actualizar sus reglamentos en la materia en un periodo máximo de ciento ochenta días posteriores a la publicación del Reglamento de la presente Ley de Ordenamiento Territorial de Desarrollo Urbano del Estado de Sinaloa, las autorizaciones de acciones urbanísticas otorgadas con anterioridad, serán vigentes en los términos en que fueron concedidas.
+
+NOVENO. Las inconformidades, los procedimientos de aplicación de sanciones, los procedimientos y demás asuntos y obras que se encuentren en trámite o pendientes de ejecución o resolución se tramitarán o resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+DÉCIMO. El Gobierno del Estado y el de los Municipios contarán con un plazo de 365 días contados a partir de la entrada en vigor del presente Decreto, para aprobar los programas de desarrollo urbano, o en su caso, realizar su actualización conforme a lo dispuesto en el presente ordenamiento.
+
+DÉCIMO PRIMERO. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, se actualizará los procedimientos y nombramientos otorgados a las comisiones de conurbación existentes, de conformidad con este ordenamiento.
