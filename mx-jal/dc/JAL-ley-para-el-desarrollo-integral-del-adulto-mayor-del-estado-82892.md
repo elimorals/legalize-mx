@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2017-01-28"
+last_updated: "2018-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -745,6 +745,10 @@ III. Elaborar programas especiales para que los adultos mayores puedan formar el
 
 Para el debido cumplimiento de esta ley se crea el Instituto Jalisciense del Adulto Mayor, el cual está constituido como un organismo público descentralizado que depende de la Secretaría de Desarrollo e Integración Social, con personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2018)</small>
+
+El Ejecutivo del Estado, a través del Instituto, será el responsable de la política estatal a favor de las personas adultas mayores, teniendo por objeto general coordinar, promover, apoyar, fomentar, vigilar y evaluar las acciones públicas, estrategias y programas que se deriven de ella, de conformidad con los principios, objetivos y disposiciones contenidas en la presente ley.
+
 ###### Artículo 38.
 
 El Instituto tendrá por objeto:
@@ -1388,3 +1392,9 @@ P.O. 28 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26218/LXI/16 QUE REFORMA EL ARTÍCULO 6°-TER DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE MARZO DE 2018.
+
+[N. DE. E. TRANSITORIO DEL "DECRETO 26743/LXI/18 QUE REFORMA EL ARTÍCULO 37 DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
