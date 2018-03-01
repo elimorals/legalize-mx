@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2016-10-11"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -231,7 +229,9 @@ VII. Proceder al sacrificio humanitario de los animales en los términos de la p
 
 VIII. Autorizar e inspeccionar lo relativo a la cría, venta de animales y sus productos, atención médica, albergues, adiestramiento, así como cualquier otra actividad o establecimiento relacionados con el apoyo, uso o aprovechamiento de los animales;
 
-IX. Aplicar, en su caso, la normatividad técnica mexicana relativa al sacrificio y transporte de animales y aquella que tenga relación con los objetivos de esta ley;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2018)</small>
+
+IX. Aplicar, en su caso, las normas oficiales mexicanas relativas a la recolección, sacrificio, transporte y disponer de manera adecuada de los cadáveres de animales y aquella que tenga relación con los objetivos de esta ley;
 
 X. Promover la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales, las instituciones académicas y de investigación en las acciones relacionadas con la protección y cuidado de los animales;
 
@@ -649,15 +649,27 @@ El sacrificio de ganado, aves y demás animales de consumo, se realizará en loc
 
 En cualquier caso las autoridades del rastro serán responsables por el maltrato o crueldad que se infiera en contra de los animales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE MARZO DE 2018)</small>
+
+### Capítulo XI. De la Disposición Final de los Animales
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2018)</small>
+
+###### Artículo 62 Bis.
+
+Los animales muertos en la vía pública serán recolectados y trasladados por la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2018)</small>
+
+###### Artículo 62 Ter.
+
+Las personas que necesiten desprenderse del cadáver de algún animal doméstico, podrán hacerlo a través del servicio de la autoridad municipal, el cual procederá a su recolección y traslado, previo pago de los derechos señalados en la Ley de Ingresos municipal que corresponda.
+
 ### Capítulo I. Disposiciones generales
-
-### Capítulo I. De la denuncia
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ## TÍTULO CUARTO. De la fauna silvestre
 
-### Capítulo II. Del procedimiento de inspección y vigilancia
+### Capítulo I. De la denuncia
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -683,7 +695,9 @@ Las autoridades estatales y municipales auxiliarán a las autoridades competente
 
 ## TÍTULO QUINTO. De la denuncia, el procedimiento y las sanciones
 
-### Capítulo III. De las sanciones
+### Capítulo II. Del procedimiento de inspección y vigilancia
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 68.
 
@@ -729,7 +743,7 @@ Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en est
 
 Si el rescate no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad competente pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas o de los animales, en cuyo caso, si el dictamen revela que efectivamente existe peligro para la salud, la autoridad correspondiente realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
 
-### Capítulo IV. De los medios de defensa
+### Capítulo III. De las sanciones
 
 ###### Artículo 75.
 
@@ -738,6 +752,8 @@ Los gobiernos municipales y las autoridades estatales en el ámbito de sus respe
 ###### Artículo 76.
 
 El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. Los gobiernos municipales no podrán exigir más formalidades que las expresamente previstas en la ley.
+
+### Capítulo IV. De los medios de defensa
 
 ###### Artículo 77.
 
@@ -862,3 +878,13 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 26742/LXI/18 QUE REFORMA EL ARTÍCULO 8 Y ADICIONA EL CAPÍTULO XI AL TÍTULO TERCERO Y LOS ARTÍCULOS 62 BIS Y 62 TER, TODOS DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A la publicación del presente decreto, los ayuntamientos del Estado de Jalisco, contarán con un periodo de ciento veinte días naturales para emitir el reglamento o disposiciones administrativas correspondientes sobre la disposición final de los animales.
+
+TERCERO. Para efectos del cumplimiento de este decreto, los ayuntamientos considerarán en su Ley de Ingresos de cada año, el cobro sobre la disposición final del cadáver animal.
