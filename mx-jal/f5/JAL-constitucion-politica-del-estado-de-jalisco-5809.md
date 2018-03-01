@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-07-18"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1667,7 +1667,9 @@ I. Promulgar, ejecutar, hacer que se ejecuten las leyes y ejercer en su caso, la
 
 II. Presentar cada año al Congreso, a más tardar el día 1º. de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente, en términos de lo que establezcan las disposiciones legales;
 
-III. Rendir por escrito al Congreso, el día primero de febrero de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2018)</small>
+
+III. Rendir por escrito al Congreso, el día seis del mes de noviembre de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
 
 IV. Pedir y dar informes al Congreso sobre cualquier ramo de la administración, y a los tribunales del Poder Judicial, sobre el de justicia;
 
@@ -3892,3 +3894,9 @@ e) Un integrante que durará en su encargo cinco años.
 NOVENO. El Poder Ejecutivo del Estado, deberá presentar ante el Congreso del Estado la iniciativa de decreto que contenga las adecuaciones presupuestales y administrativas del ejercicio fiscal en curso que resulten necesarias para la implementación de este Decreto y del Sistema Estatal Anticorrupción en términos de las disposiciones aplicables, en un plazo menor a ciento veinte días posteriores a su entrada en vigor; sin perjuicio de incluir en la iniciativa de Presupuesto de Egresos del Estado para el ejercicio fiscal del año 2018 las previsiones presupuestales necesarias para la implementación completa de esta reforma.
 
 DÉCIMO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas continuarán desahogándose y serán concluidos conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+P.O. 1 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26486/LXI/17 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día 2 de febrero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
