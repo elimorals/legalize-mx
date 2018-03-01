@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-07-18"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1667,7 +1667,9 @@ I. Promulgar, ejecutar, hacer que se ejecuten las leyes y ejercer en su caso, la
 
 II. Presentar cada año al Congreso, a más tardar el día 1º. de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente, en términos de lo que establezcan las disposiciones legales;
 
-III. Rendir por escrito al Congreso, el día primero de febrero de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2018)</small>
+
+III. Rendir por escrito al Congreso, el día seis del mes de noviembre de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
 
 IV. Pedir y dar informes al Congreso sobre cualquier ramo de la administración, y a los tribunales del Poder Judicial, sobre el de justicia;
 
@@ -3893,11 +3895,11 @@ NOVENO. El Poder Ejecutivo del Estado, deberá presentar ante el Congreso del Es
 
 DÉCIMO. Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas continuarán desahogándose y serán concluidos conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 77 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+P.O. 1 DE MARZO DE 2018.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO 26486/LXI/17 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
 
-P.O. 3 DE OCTUBRE DE 2025.
+ÚNICO. El presente decreto entrará en vigor el día 2 de febrero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 140 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 49, 62 Y 63 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
