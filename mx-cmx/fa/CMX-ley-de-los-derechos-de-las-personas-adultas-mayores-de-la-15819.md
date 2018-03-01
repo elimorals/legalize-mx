@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2018-02-27"
+last_updated: "2018-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -52,11 +52,11 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DE LA CIUDAD DE MÉXICO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
 
 ###### Artículo 1.
 
-Esta Ley es de orden público, de interés social y de observancia general en la Ciudad de México. Tiene por objeto proteger y reconocer los derechos de las personas de sesenta años de edad en adelante, sin distinción alguna, para propiciarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural.
+Esta Ley es de orden público, de interés social y de observancia general en la Ciudad de México. Tiene por objeto proteger, promover y asegurar el reconocimiento y ejercicio de todos los derechos humanos y libertades fundamentales de las personas de sesenta años de edad en adelante, sin distinción alguna, para propiciarles una mejor calidad de vida y su plena integración, inclusión y participación en la sociedad y en el desarrollo social, económico, político y cultural.
 
 ###### Artículo 2.
 
@@ -134,35 +134,45 @@ Son principios rectores en la observación y aplicación de esta ley:
 
 I.- Autonomía y autorrealización: Todas las acciones que se realicen en beneficio de las personas adultas mayores tendientes a fortalecer su independencia personal, su capacidad de decisión y su desarrollo personal;
 
-II.- Participación: En todos los casos de la vida pública, y en especial en lo relativo a los aspectos que les atañen directamente deberán ser consultados y tomados en cuenta y se promoverá su presencia e intervención;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+
+II.- Participación, integración e inclusión plena y efectiva: En la sociedad, en todos los casos de la vida pública, y en especial en lo relativo a los aspectos que les atañen directamente, deberán ser consultados y tomados en cuenta y se promoverá su presencia e intervención;
 
 III.- Equidad: Consistente en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
 
-IV.- Corresponsabilidad: Para la consecución del objeto de esta Ley, se promoverá la concurrencia de los sectores público y social y en especial de las familias con una actitud de responsabilidad compartida; y
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2018)</small>
+IV.- Corresponsabilidad: Para la consecución del objeto de esta Ley, se promoverá la concurrencia de los sectores público y social y en especial de las familias con una actitud de responsabilidad compartida;
 
-V.- Atención diferenciada: Es aquel que obliga a los órganos locales de Gobierno de la Ciudad de México a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+
+V.- Atención diferenciada: Es aquel que obliga a los órganos locales de Gobierno del Distrito Federal a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2018)</small>
+
+VI.- Solidaridad y fortalecimiento de la protección familiar y comunitaria: Busca promover y proteger el bienestar y cuidado de los adultos mayores desde la familia y la comunidad.
 
 ### CAPITULO II. DE LOS DERECHOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
 
 ###### Artículo 5.
 
-De manera enunciativa esta Ley reconoce a las personas adultas mayores lossiguientes (sic) derechos:
+De manera enunciativa esta Ley reconoce a las personas adultas mayores los siguientes derechos:
 
 A). De la integridad y dignidad:
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-I. A la vida, con calidad, siendo obligación de la familia, de los órganos locales de Gobierno de la Ciudad de México y de la sociedad, garantizar a las personas adultas mayores, su sobrevivencia así como el acceso a los mecanismos necesarios para ello.
+I. A la vida, con dignidad y calidad en la vejez hasta el fin de sus días, procurando igualdad de condiciones con otros sectores de la población, siendo obligación de la familia, de los órganos locales de Gobierno de la Ciudad de México y de la sociedad, garantizar a las personas adultas mayores, su sobrevivencia así como el acceso a los mecanismos necesarios para ello;
 
 II. A la no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna;
 
 III. A una vida libre de violencia;
 
-IV. A ser respetados en su persona, en su integridad física, psicoemocional y sexual;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+
+IV. A recibir un trato digno y a ser valorados y respetados en su persona, en su integridad física, psicoemocional y sexual;
 
 V. A ser protegidos contra toda forma de explotación;
 
@@ -180,23 +190,39 @@ II. A expresar su opinión libremente, conocer sus derechos y a participar en el
 
 III. A recibir un trato digno y apropiado cuando sean víctimas, o ellos mismos cometan cualquier tipo de ilícito o infracción;
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-IV. A recibir el apoyo de los órganos locales de Gobierno en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia en la Ciudad de México, del Tribunal Superior de Justicia del Distrito Federal, de las Procuradurías competentes y de la Comisión de Derechos Humanos de la Ciudad de México y
+IV. A recibir el apoyo de los órganos locales de Gobierno en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, del Tribunal Superior de Justicia del Distrito Federal, de las Procuradurías competentes y de la Comisión de Derechos Humanos del Distrito Federal;
 
-V. A contar con asesoría jurídica gratuita y contar con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar.
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2018)</small>
+V. A contar con asesoría jurídica gratuita y contar con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar; y
 
-VI. A demandar alimentos a sus descendientes conforme a lo establecido en el Código Civil para el Distrito Federal.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE MARZO DE 2018)</small>
+
+VI. Apoyarlas para desarrollar una vida autónoma e independiente, y que se respeten sus decisiones, cuando estas no sean contrarias a su bienestar y salud física, mental, psicoemocional, derechos humanos y pervivencia.
 
 C). De la salud y alimentación:
 
 I. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales, para su atención integral;
 
-II. A tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo cuarto constitucional, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual; para obtener mejoramiento en su calidad de vida y la prolongación de ésta; y
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-III. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
+II. A tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo cuarto constitucional, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual; para obtener mejoramiento en su calidad de vida y la prolongación de ésta;
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+
+III. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2018)</small>
+
+IV. A que las instituciones públicas y privadas ofrezcan a la persona mayor, acceso no discriminatorio a cuidados integrales, incluidos los cuidados paliativos, se evite el aislamiento, el dolor y sufrimiento innecesario. Así como las intervenciones médicas fútiles e inútiles, de conformidad con el derecho de las personas mayores a expresar su consentimiento informado.
+
+Y a recibir información que sea adecuada, clara, oportuna y accesible, para que puedan comprender plenamente las opciones de tratamiento existentes, sus riesgos y beneficios; y
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2018)</small>
+
+V. A manifestar su consentimiento libre e informado en el ámbito de su salud, así como ejercer su derecho de modificarlo o revocarlo, en relación a cualquier decisión, tratamiento, intervención o investigación. Y a que no se les administre ningún tratamiento, intervención o investigación de carácter médico o quirúrgico sin el consentimiento consciente de la persona mayor.
 
 D). De la educación, recreación, información y participación:
 
@@ -204,15 +230,27 @@ I. De asociarse y reunirse;
 
 II. A recibir información sobre las instituciones que prestan servicios para su atención integral;
 
-III. A recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-IV. A participar en la vida cultural, deportiva y recreativa de su comunidad.
+III. A recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+
+IV. A participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2018)</small>
+
+V. A compartir sus conocimientos y experiencias con todas las generaciones; y
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2018)</small>
+
+VI. A su identidad cultural y a participar en la vida cultural y artística de la comunidad.
 
 E). Del trabajo:
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
-I. A gozar, en igualdad de oportunidades, de acceso al trabajo o de otras posibilidades de obtener un ingreso propio;
+I. A gozar de un trato digno y a la igualdad de oportunidades, de acceso al trabajo o de otras posibilidades de obtener un ingreso propio;
 
 > <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
 
@@ -278,7 +316,13 @@ La Secretaría de Desarrollo Social, a través del Sistema para el Desarrollo In
 
 Corresponde al Jefe de Gobierno en relación a las personas adultas mayores:
 
-I. Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+
+I. Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención y sensibilizar a la población sobre el proceso de envejecimiento.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2018)</small>
+
+Fomentar una actitud positiva hacia la vejez y un trato digno y respetuoso, con el objetivo de reconocer la experiencia, sabiduría, productividad y contribución que la persona mayor brinda a la sociedad en su conjunto. Así como promover los derechos y empoderamiento de la persona mayor.
 
 II. Concertar con la Federación, Estados y Municipios, los convenios que se requieran, para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
 
@@ -823,3 +867,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+G.O. 1 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
