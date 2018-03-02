@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-02-23"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -143,9 +145,13 @@ IX. Ejecutar los planes y programas municipales, implementando los controles pre
 
 X. Garantizar y cumplir con el principio de interés superior de la niñez, así como impulsar e implementar conforme a las normas y las bases competenciales concurrentes en materia federal y estatal, el Sistema de Protección a Menores; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2018)</small>
+
+XI.- Rendir anualmente durante la primera semana del mes de octubre un informe público sobre el estado que guarda la Administración Pública Municipal; el informe correspondiente al último año de gestión municipal deberá rendirse dentro de la primera semana del mes de agosto.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XI. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+XII.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -241,6 +247,12 @@ IV.- Las demás relativas a su función, que el propio Ayuntamiento establezca e
 
 En el ejercicio de sus funciones, los regidores deberán de abstenerse a dar órdenes e instrucciones a los funcionarios, comisionados y demás servidores públicos, comunicando al presidente municipal cualquier asunto relativo a las dependencias del órgano ejecutivo.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+ARTÍCULO 9 BIS.- De la Glosa Municipal.- Dentro de los veintiocho días naturales posteriores a la rendición del informe al que alude la fracción XI del artículo 7 de esta Ley, los titulares de las dependencias municipales y entes públicos paramunicipales, previa citación por escrito, deberán comparecer ante las comisiones de regidores correspondientes para el desahogo de la glosa; dichas comparecencias se desarrollaran en sesiones públicas a las que podrán asistir los ciudadanos interesados, bajo los términos que se establezcan en los reglamentos que para tal efecto expidan los ayuntamientos; tales sesiones se transmitirán por el portal de internet del ayuntamiento, bajo el principio de máxima publicidad.
+
+La calendarización, formato y lineamientos bajo los cuales se desarrollará la glosa, deberán ser propuestos y aprobados por acuerdo de los plenos de los cabildos municipales.
+
 ### CAPÍTULO SEGUNDO. DEL PATRIMONIO MUNICIPAL
 
 ###### ARTÍCULO 10.
@@ -257,9 +269,11 @@ Con base en la proyección de los ingresos disponibles para cada ejercicio fisca
 
 La deuda pública de los Ayuntamientos se sujetará a lo dispuesto por la Ley de Deuda Pública del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-De la inspección de la Hacienda Pública Municipal.- La inspección de la hacienda pública municipal compete al Ayuntamiento por conducto del Síndico Procurador, en los términos de la reglamentación municipal, y al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda. Cuando el Gobierno del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, el Ejecutivo del Estado podrá nombrar un representante en las visitas de inspección que se realicen.
+De la inspección de la Hacienda Pública Municipal.- La inspección de la hacienda pública municipal compete al Ayuntamiento por conducto del Síndico Procurador, en los términos de la reglamentación municipal, y al Congreso del Estado por conducto de la Auditoría Superior del Estado. Cuando el Gobierno del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, el Ejecutivo del Estado podrá nombrar un representante en las visitas de inspección que se realicen.
 
 ###### ARTÍCULO 13.
 
@@ -956,3 +970,19 @@ P.O. 23 DE FEBRERO DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California y se aplicará a partir del día 30 de septiembre de 2019.
 
 SEGUNDO. Los Ayuntamientos deberán adecuar sus reglamentos internos, en un plazo no mayor a 120 días, después de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NO. 194 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 9 BIS A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, y se aplicará a partir del día primero de octubre del año dos mil dieciocho.
+
+Artículo Segundo.- Los Ayuntamientos deberán realizar las adecuaciones necesarias a sus reglamentos internos correspondientes, en un plazo no mayor a 120 días después de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NO. 196 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Los Ayuntamientos deberán realizar las adecuaciones necesarias a sus reglamentos internos correspondientes, en un plazo no mayor a 90 días después de la entrada en vigor del presente Decreto.
