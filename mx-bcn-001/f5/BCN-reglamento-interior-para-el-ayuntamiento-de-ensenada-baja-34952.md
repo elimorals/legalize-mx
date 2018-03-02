@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-02-16"
+last_updated: "2018-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1419,25 +1419,21 @@ Las comisiones son reuniones de trabajo donde se deliberan, analizan, discuten y
 
 COMISIONES PERMANENTES.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 114.
 
-Son comisiones permanentes las siguientes:
+Son comisiones permanentes los siguientes:
 
 I.- Gobernación y Legislación;
 
-II.- Hacienda y Patrimonio Municipal;
+II. - Hacienda y Patrimonio Municipal;
 
 III.- Administración Pública y Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+IV.- Derechos Humanos y Equidad de Genero
 
-IV.- Equidad Social e Igualdad de Género;
-
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
-
-V.- Servicios Públicos e Infraestructura;
+V.- Obras y Servicios Públicos e infraestructura;
 
 VI.- Desarrollo Urbano;
 
@@ -1453,13 +1449,11 @@ XI.- Educación, Cultura, Ciencia y Tecnología;
 
 XII.- Comercio y Espectáculos;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2017)</small>
-
 XIII.- Desarrollo Regional Sustentable y Delegaciones;
 
 XIV.- Asuntos Indígenas;
 
-XV.- Pesca y Acuacultura Sustentables.
+XV.- Pesca y Acuacultura Sustentables;
 
 XVI.- Comisión del Agua;
 
@@ -1515,61 +1509,39 @@ VI.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesar
 
 VII.- Revisar mensualmente los informes de la Tesorería Municipal respecto del estado de origen y aplicación de recursos, incluyendo un extracto de los movimientos de cada sub-cuenta, así como de los movimientos de ingresos y egresos.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
-COMISIÓN DE EQUIDAD SOCIAL E IGUALDAD DE GÉNERO
+COMISIÓN DERECHOS HUMANOS Y EQUIDAD DE GÉNERO
 
 ###### ARTÍCULO 117.
 
-Atribuciones:
+Atribuciones
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+Proponer, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I.- Dictaminar sobre cuestiones y asuntos tendientes a garantizar la igualdad y equidad en todas las esferas de la vida social, educativa, cultural, laboral, económica y política, entre hombre y mujer;
+I.- Los relativos a la promoción, defensa y preservación de los derechos humanos dentro de la competencia municipal;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+II.- Dictaminar sobre cuestiones y asuntos tendientes a garantizar la igualdad y equidad en todas las esferas de la vida social, educativa, cultural, laboral, económica, política y religiosa entre mujeres y hombres;
 
-II.- Proponer al Ayuntamiento políticas públicas, así como promover y realizar investigaciones y estudios normativos tendientes a garantizar relaciones equitativas e igualitarias entre hombre y mujer;
+III.- Dar seguimiento a las recomendaciones emitidas por órganos autónomos defensores de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+IV.- Proponer las Homologaciones de la normatividad municipal, aplicable para la protección, defensa y conservación, de los derechos humanos de los individuos y grupos sociales, apegándose a la Constitución Política de los Estados Unidos Mexicanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad; así como los contenidos en la Declaración Universal de los Derechos Humanos, los plasmados en la convención americana de los derechos humanos y en general en los tratados, convenciones o acuerdos internacionales de los que el estado mexicano sea parte;
 
-III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones generales en materia de igualdad entre el hombre y la mujer;
+V.- Revisar y proponer los reglamentos municipales, para reformar, adicionar o derogar todas las normas que impliquen cualquier forma de discriminación y que tengan por objeto anular o menoscabar los derechos y garantías individuales de los personas;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+VI.- Los que se relacionen con el tutelaje y protección de los derechos humanos de cualquier grupo social o persona, en situación de vulnerabilidad dentro del municipio de ensenada;
 
-IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer.
+VII.- Fomentar el desarrollo de políticas públicas, planes y programas para el fortalecimiento de los Derechos Humanos en la municipalidad; y,
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+VIII.- Emitir recomendaciones a los diferentes órganos de gobierno municipal, tanto centralizados como paramunicipales en materia de derechos humanos, y en caso de incumplimiento a la recomendación, el funcionario podrá ser sancionado conforme a la ley estatal de servidores públicos por la autoridad competente.
 
-V.- Evaluar la reglamentación municipal en materia de género y sobre derechos humanos de las mujeres y de los hombres, promoviendo su armonización con las disposiciones aplicables.
+IX.- Proponer al Ayuntamiento lo adopción de programas y medidas que tiendan o incentivar la promoción del empleo y desarrollo integral de sus habitantes procurando la equidad social e igualdad de oportunidades entre mujeres y hombres.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
+X.- Supervisar el correcto funcionamiento de los servicios que preste el Instituto Municipal de lo Mujer de Ensenada (INMUJER) y recibir de este los informes relativos al gasto público de acciones y programas que se lleven a cabo por el mismo.
 
-VI.- Impulsar las propuestas de la sociedad para alcanzar la equidad social e igualdad de género en el ámbito político, social, cultural y económico.
+XI.- Impulsar ante el pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de los individuos como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia Social y del Género humano.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-VII.- Coadyuvar ante las autoridades de los tres niveles de gobierno acciones encaminadas al ejercicio pleno de los derechos de las mujeres y de los hombres.
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-VIII.- Colaborar con organismos de la sociedad civil para establecer estrategias y programas en relación a la equidad social e igualdad de género y propiciar su difusión y beneficios de la comunidad.
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-IX.- Promover el reconocimiento público de hombres y mujeres sobresalientes en los ámbitos, políticos, social, cultural, deportivo y demás actividades que resalten la oportunidad de equidad social e igualdad de género.
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-X.- Proponer al Ayuntamiento la adopción de programas y medidas que tiendan a incentivar la promoción del empleo y desarrollo integral de sus habitantes procurando la equidad social e igualdad de género.
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-XI.- Supervisar el correcto funcionamiento de los servicios que preste el Instituto Municipal de la Mujer de Ensenada (INMUJER) y recibir de este los informes relativos al gasto público de acciones y programas que se lleven a cabo por el mismo.
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-XII.- Impulsar ante el pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de la mujer como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia de (sic) Social y de Género.
+XII.- Los análogos a los anteriores que, por mayoría del cabildo, sean materia del análisis de esta Comisión ya sea en coordinación o conjuntamente con otra u otras.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -2348,3 +2320,9 @@ P.O. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 114 FRACCIÓN V Y 118 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DE DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente Modificación entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
