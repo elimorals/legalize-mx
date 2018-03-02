@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-tratamiento-y-control-de-las-adicciones-11788
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-28"
-last_updated: "2016-10-28"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2016.
 
@@ -325,7 +325,13 @@ II. Las condiciones del establecimiento, verificando que sus instalaciones cumpl
 
 III. Las condiciones en que se encuentren los usuarios, verificando que estas sean adecuadas para garantizar un servicio eficiente, basado en un trato respetuoso, en beneficio de su bienestar físico y psicológico y
 
-IV. La revisión de las áreas encargadas de servicios médicos, terapéuticos y de alimentación de los usuarios, para verificar que esta cumplas (sic) con los requerimientos de la presente ley y su reglamento.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2018)</small>
+
+IV. La revision de las áreas encargadas de servicios médicos, terapéuticos y de alimentación de los usuarios, para verificar que esta cumplan (sic) con los requerimientos de la presente ley y su reglamento y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2018)</small>
+
+V. La vigilancia de los establecimientos también comprenderá el cumplimiento de lo establecido en los artículos 38 y 40 de esta ley.
 
 ###### ARTÍCULO 32.
 
@@ -339,13 +345,97 @@ La Secretaría deberá realizar un mínimo de una visita por mes, asimismo, llev
 
 En todo lo no previsto por esta ley en materia de inspeccion y vigilancia a los establecimientos, se aplicará de forma supletoria las disposiciones previstas en la Ley de Salud.
 
-### CAPÍTULO QUINTO. SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2018)</small>
+
+### CAPÍTULO QUINTO. DEL TRATAMIENTO DE LAS ADICCIONES
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
-Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por la Secretaría.
+La prestación de los servicios de tratamiento a las adicciones se consideran de interés público y social, por lo que se deberán implementar y prestar dichos servicios, contra la farmacodependencia, el alcoholismo y el tabaquismo en los términos de la Ley General de Salud, la Ley General para el Control del Tabaco y la demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 36.
+
+Los servicios de tratamiento a las adicciones se proporcionarán a las personas que por voluntad propia o por mandato judicial requieran de dichos servicios. Para el caso de menores de edad o incapaces legales, se requerirá el consentimiento de los padres, tutor o representante legal.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 37.
+
+La duración de los tratamientos proporcionados será supervisada por la Secretaría, la que deberá constatar que se alcance (sic) los objetivos del tratamiento y de acuerdo con el grado de adicción que tenga cada persona.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 38.
+
+Las personas que estén bajo un tratamiento de adicciones tendrán los siguientes derechos:
+
+I. A recibir información sobre los servicios a los que pueden acceder;
+
+II. A recibir un tratamiento adecuado según la adicción o adicciones que padezca;
+
+III. A ser respetado y no ser discriminado en su tratamiento por ningún motivo;
+
+IV. A la confidencialidad de la información relacionada con su proceso de tratamiento;
+
+V. A recibir por escrito el medicamento que se le prescriba para su tratamiento;
+
+VI. A que se le extienda constancia gratuita sobre el tratamiento que haya seguido o esté siguiendo;
+
+VII. A que se integre un expediente sobre todo su tratamiento, y
+
+VIII. Los demás que establezca la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 39.
+
+Además de lo dispuesto en los programas contra las adicciones previstos en la Ley General de Salud y demás normatividad aplicable, la Secretaría podrá promover los siguientes servicios para el tratamiento de las adicciones:
+
+I. Atención Médica;
+
+II. Terapias grupales e individuales;
+
+III. Terapias conductuales específicas para evitar la recaída;
+
+IV. Farmacoterapia para reducir la necesidad imperiosa de consumir sustancias psicoactivas con potencial adictivo, y
+
+V. Orientación a la familia de la persona que sufre problemas de adicción.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 40.
+
+Los Establecimientos que reciban subsidios o recursos públicos deberán incorporar en sus programas de trabajo la capacitación en oficios.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 41.
+
+No se proporcionarán subsidios o recursos públicos a los Establecimientos que no cumplan con lo previsto en los artículos 31, 38 y 40 de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 42.
+
+Cualquier persona podrá denunciar ante la Secretaría las irregularidades que se den en los Establecimientos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2018)</small>
+
+### CAPÍTULO SEXTO. SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 43.
+
+Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 44.
 
 Las sanciones administrativas podrán ser:
 
@@ -357,7 +447,9 @@ III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
 IV. Arresto hasta por treinta y seis horas.
 
-###### ARTÍCULO 37.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 45.
 
 Al imponer una sanción la Secretaría fundará y motivará la resolución, tomando en cuenta:
 
@@ -369,11 +461,17 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. La calidad de reincidente del infractor.
 
-###### ARTÍCULO 38.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
 
-Se sancionará con multa de veinte y hasta mil veces el salario mínimo general diario vigente en el Estado, por violación a las disposiciones contenidas en esta Ley. En caso de reincidencia se duplicará el monto de la multa. Para los efectos de este Capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta Ley o sus Reglamentos dos o más veces dentro del período de un año natural.
+###### ARTÍCULO 46.
 
-###### ARTÍCULO 39.
+Se sancionará con multa de veinte y hasta mil veces el salario mínimo general diario vigente en el Estado, por violación a las disposiciones contenidas en esta Ley.
+
+En caso de reincidencia se duplicará el monto de la multa. Para los efectos de este Capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta Ley o sus Reglamentos dos o más veces dentro del período de un año natural.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 47.
 
 La aplicación de las sanciones será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, en términos de la Ley de Salud, hasta en tanto se subsanen las irregularidades.
 
@@ -381,15 +479,21 @@ Impuesta una multa, se comunicará a la Autoridad Fiscal correspondiente, para q
 
 Cuando la Autoridad Fiscal haga efectiva la multa, deberá dar aviso a la Secretaría.
 
-###### ARTÍCULO 40.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 48.
 
 Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción, en los casos previstos en el artículo 185 de la Ley de Salud.
 
-###### ARTÍCULO 41.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 49.
 
 En los casos de clausura definitiva, quedarán sin efecto las autorizaciones que en su caso se hubieren otorgado para el funcionamiento de un establecimiento.
 
-###### ARTÍCULO 42.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 50.
 
 Se sancionará con arresto hasta por treinta y seis horas:
 
@@ -399,7 +503,9 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo.
 
-###### ARTÍCULO 43.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 51.
 
 El procedimiento para aplicar las sanciones establecidas en esta ley será el previsto en la Ley de Salud.
 
@@ -436,3 +542,13 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 31 FRACCIÓN IV Y V, LA DENOMINACIÓN DEL CAPÍTULO QUINTO, ASÍ COMO LOS ARTÍCULOS 35, 36, 37, 38, 39, 40, 41 Y 42, Y SE ADICIONA UN CAPÍTULO SEXTO DENOMINADO "SANCIONES" Y LOS ARTÍCULOS 43, 44, 45, 46, 47, 48, 49, 50 Y 51 A LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor dentro de los noventas (sic) días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Establecimientos que reciban subsidios o recursos públicos, en un plazo no mayor al de noventa días contados a partir de la publicación de las presentes reformas, deberán adecuar sus programas conforme a lo establecido en el presente Decreto.
