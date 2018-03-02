@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-lectura-y-el-libro-del-estado-de-baja-90002
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-19"
-last_updated: "2012-10-19"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2012.
 
@@ -148,6 +148,14 @@ Con el fin de garantizar que las políticas, programas y acciones que el Ejecuti
 ###### Artículo 8.
 
 Será responsabilidad del Ejecutivo del Estado y de los gobiernos de los municipios, en el ámbito de sus respectivas competencias y jurisdicciones, garantizar a la población el ejercicio real del derecho de acceso y participación en las actividades de fomento a la lectura y la producción, edición, distribución y difusión de cualquier obra literaria.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+Además, y de acuerdo a su capacidad presupuestaria deberá fomentar y facilitar el acceso a libros, revistas, artículos y todas las variedades de textos en dialectos indígenas de la región, de igual forma la producción de publicaciones en sistema braille, audio libros o cualquier otro mecanismo que facilite el acceso a la lectura para personas con alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+Las autoridades encargadas del fomento a la lectura y el libro, también deberán garantizar que en los Centros Penitenciarios del Estado se establezcan acervos bibliográficos o bibliotecas, que comprendan material instructivo y recreativo, así como las leyes y textos jurídicos a los que puedan tener acceso quienes ahí se encuentran recluidos.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES
 
@@ -392,3 +400,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 189 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
