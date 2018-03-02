@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-en-materia-de-administracion-de-la-107813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-15"
-last_updated: "2016-11-30"
+last_updated: "2018-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-05-11"
 
 REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2018.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -69,9 +69,9 @@ II. Comités: aquellos Comités de la Suprema Corte previstos en la normativa in
 
 III. Órganos: la Secretaría General de Acuerdos; la Secretaría General de la Presidencia; la Oficialía Mayor, la Contraloría, la Secretaría Jurídica de la Presidencia; y
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
 
-IV. Áreas: la Subsecretaría General de Acuerdos, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial, la Unidad General de Enlace con los Poderes Federales, la Unidad General de Igualdad de Género; las direcciones generales de Comunicación y Vinculación Social, del Canal Judicial, de Atención y Servicios, de Servicios Médicos, de Casas de la Cultura Jurídica, de Estudios, Promoción y Desarrollo de los Derechos Humanos, de Recursos Humanos e Innovación Administrativa, de la Tesorería, de Infraestructura Física, de Seguridad, de Presupuesto y Contabilidad, de Recursos Materiales, de Tecnologías de la Información, de Auditoría, de Responsabilidades Administrativas y de Registro Patrimonial, y de Relaciones Institucionales.
+IV. Áreas: la Subsecretaría General de Acuerdos, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial, la Unidad General de Enlace con los Poderes Federales, la Unidad General de Igualdad de Género y la Unidad General de Investigación de Responsabilidades Administrativas; las direcciones generales de Comunicación y Vinculación Social, del Canal Judicial, de Atención y Servicios, de Servicios Médicos, de Casas de la Cultura Jurídica, de Estudios, Promoción y Desarrollo de los Derechos Humanos, de Recursos Humanos e Innovación Administrativa, de la Tesorería, de Infraestructura Física, de Seguridad, de Presupuesto y Contabilidad, de Recursos Materiales, de Tecnologías de la Información, de Auditoría, de Responsabilidades Administrativas y de Registro Patrimonial, y de Relaciones Institucionales.
 
 V. Pleno: el Tribunal Pleno de la Suprema Corte;
 
@@ -149,6 +149,10 @@ G. Unidad General de Enlace con los Poderes Federales.
 
 H. Unidad General de Igualdad de Género.
 
+> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2018)</small>
+
+I. Unidad General de Investigación de Responsabilidades Administrativas.
+
 ### CAPÍTULO SEGUNDO. DE LA PRESIDENCIA
 
 ###### Artículo 4o.
@@ -159,7 +163,9 @@ I. Representar a la Suprema Corte y llevar su administración;
 
 II. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas de la Suprema Corte;
 
-III. Recibir, tramitar y, en su caso, resolver las quejas y denuncias administrativas que se presenten con motivo de las faltas que ocurran en el despacho de la competencia de los órganos administrativos de la Suprema Corte, en términos del Título Octavo de la Ley Orgánica del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+III. Resolver los procedimientos de responsabilidad administrativa, en términos de la Ley Orgánica del Poder Judicial de la Federación, de la Ley General de Responsabilidades Administrativas, así como de la normatividad interna aplicable;
 
 IV. Conceder licencias a los servidores públicos de la Suprema Corte en los términos previstos en la Ley Orgánica del Poder Judicial de la Federación;
 
@@ -967,9 +973,13 @@ IX. Someter a la autorización del Comité de Gobierno y Administración los for
 
 X. Rendir al Comité de Gobierno y Administración, dentro de la primera quincena del mes de julio de cada año, un informe respecto al cumplimiento en la presentación de la declaración de situación patrimonial;
 
-XI. Proponer al Comité de Gobierno y Administración el destino final de los bienes o donaciones a los que se refiere la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
 
-XII. Recibir o formular quejas y denuncias por el probable incumplimiento de las obligaciones o por inobservancia de la ley por parte de los servidores públicos de la Suprema Corte; coordinar la práctica de investigaciones; acordar el inicio de procedimientos administrativos disciplinarios; acordar el cierre de instrucción, y emitir los dictámenes que correspondan, en términos de las disposiciones aplicables en la materia;
+XI. Poner a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos, los bienes recibidos de forma gratuita por los servidores públicos de este Alto Tribunal con motivo del ejercicio de sus funciones, de conformidad con el artículo 40 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XII. Recibir y tramitar quejas o denuncias por el probable incumplimiento de las obligaciones o por inobservancia de la ley por parte de los servidores públicos de la Suprema Corte; acordar el inicio de procedimientos administrativos disciplinarios; acordar el cierre de instrucción, y emitir los dictámenes que correspondan, en términos de las disposiciones aplicables en la materia;
 
 XIII. Informar al Presidente, y, cuando éste lo instruya, al Pleno o al Comité de Gobierno y Administración, las conductas probablemente delictuosas de los servidores públicos de la Suprema Corte, derivado de la práctica de auditorías o procedimiento de responsabilidades administrativas, coadyuvando con la representación legal de la Corte para la presentación de la denuncia o querella, según corresponda;
 
@@ -989,7 +999,17 @@ XX. Emitir opinión en aquellos asuntos que instruya el Presidente, el Pleno, o 
 
 XXI. Revisar, en cualquier momento, los procedimientos de adquisición de bienes, contratación de servicios, administración y desincorporación de bienes, contratación de obra pública y servicios relacionados con esta, con el objeto de verificar el cumplimiento de las disposiciones legales y normativas, con independencia de las auditorías internas o externas que se practiquen, y
 
-XXII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno, o los Comités de Ministros.
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXII. Realizar recomendaciones generales, cuando en ejercicio de sus funciones se adviertan hechos que puedan poner en riesgo el servicio público, el sano desarrollo de las funciones o el ambiente laboral.
+
+> <small>(ADICIONADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXIII. Hacer del conocimiento de la Unidad de Investigación de Responsabilidades Administrativas los hechos o irregularidades detectadas en el ejercicio de sus atribuciones, que pudieran constituir la comisión de una falta administrativa.
+
+> <small>(ADICIONADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXIV. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno, o los Comités de Ministros.
 
 ###### Artículo 31.
 
@@ -1039,7 +1059,9 @@ XVII. Proponer al Contralor la adopción de normas, lineamientos y programas de 
 
 XVIII. Verificar que los sistemas de control interno establecidos, permitan promover la eficiencia operativa, la observancia de los lineamientos legales, y asegurar la confiabilidad de la información financiera y operativa de la Suprema Corte;
 
-XIX. Auxiliar a la Dirección General de Responsabilidades Administrativas y de Registro Patrimonial, cuando así se requiera, para la integración de investigaciones o procedimientos de responsabilidad administrativa;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XIX. Llevar a cabo las investigaciones de faltas administrativas, así como la substanciación de procedimientos de responsabilidad administrativa, en los casos previstos en las fracciones XXI y XXII del artículo 35 del presente Reglamento, y en su caso solicitar apoyo para tal efecto a la Secretaría Jurídica de la Presidencia;
 
 XX. Colaborar y participar en la elaboración de programas de formación y capacitación para el personal de auditoría;
 
@@ -1065,11 +1087,17 @@ V. Llevar a cabo el análisis y seguimiento de la evolución de la situación pa
 
 VI. Llevar el registro de la recepción de bienes y donaciones a los que se refiere la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y proponer al Contralor el destino que deba dárseles;
 
-VII. Proponer al titular de la Contraloría lineamientos para llevar a cabo investigaciones sobre hechos que pudieran implicar el incumplimiento por parte de los servidores públicos de la Suprema Corte de las disposiciones legales aplicables, así como para la recepción y tramitación de quejas o denuncias en contra de dichos servidores públicos en materia de responsabilidad administrativa; atendiendo a las particularidades cuando se trate de acoso laboral o sexual;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
 
-VIII. Proponer y, en su caso, acordar en forma conjunta con el titular de la Contraloría el desechamiento de quejas o denuncias por no acreditarse la existencia de una conducta infractora o la probable responsabilidad del servidor público; el inicio de investigaciones, o el procedimiento de responsabilidad administrativa, así como los diversos acuerdos de trámite y los proyectos de dictamen en términos de las normas aplicables a la materia;
+VII. Fungir como autoridad substanciadora en los procedimientos de responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas y de la normatividad interna aplicable;
 
-IX. Dirigir la Unidad Especial de Atención a Quejas o Denuncias por Acoso Laboral y/o Sexual en el Alto Tribunal, y dar seguimiento a la integración de investigaciones y procedimientos de responsabilidades administrativas que deriven de las mismas, así como proponer al Contralor, en su caso, los medios de solución alternos o medidas cautelares cuando así se justifique;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+VIII. Proponer y, en su caso, acordar en forma conjunta con el titular de la Contraloría el desechamiento de quejas o denuncias por no acreditarse la existencia de una conducta infractora o la probable responsabilidad del servidor público, o bien el inicio del procedimiento de responsabilidad administrativa, así como los diversos acuerdos de trámite y los proyectos de dictamen en términos de las normas aplicables a la materia;
+
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+IX. Recibir quejas o denuncias y substanciar los procedimientos por acoso laboral o sexual en atención a la normativa interna aplicable;
 
 X. Mantener actualizado el sistema de registro de servidores públicos sancionados y proponer al titular de la Contraloría la celebración de convenios con otras autoridades, con el fin de evitar la contratación de personas inhabilitadas para desempeñar un cargo público;
 
@@ -1077,9 +1105,11 @@ XI. Proponer al titular de la Contraloría, los lineamientos para la instrumenta
 
 XII. Proponer al titular de la Contraloría el dictamen sobre la responsabilidad que, en su caso, surja con motivo de los siniestros por robo, extravío o daño de los bienes de la Suprema Corte en términos de las normas aplicables y, en su caso, sobre el pago del deducible;
 
-XIII. Determinar las irregularidades detectadas durante la participación en las actas administrativas, con el fin de establecer las medidas preventivas necesarias para lograr una eficaz administración de recursos humanos y materiales y, en su caso, se programe el seguimiento correspondiente en el programa de auditoría, o se turne al área de responsabilidades;
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
 
-XIV. Coordinar y dirigir la ejecución (sic) investigaciones especiales que se encomienden a la Contraloría;
+XIII. Determinar las irregularidades detectadas durante la participación en las actas administrativas, con el fin de establecer las medidas preventivas necesarias para lograr una eficaz administración de recursos humanos y materiales y, en su caso, se programe el seguimiento correspondiente en el programa de auditoría o, en su caso, se proponga hacerlo del conocimiento de la Unidad General de Investigación de Responsabilidades Administrativas;
+
+XIV. (DEROGADA, D.O.F. 2 DE MARZO DE 2018)
 
 XV. Coadyuvar en las auditorías especiales que le sean instruidas por el titular de la Contraloría; y,
 
@@ -1135,7 +1165,17 @@ XIX. Autorizar los nombramientos y movimientos de personal de las áreas a su ca
 
 XX. Certificar los documentos que contengan los acuerdos y disposiciones emitidos por el Ministro Presidente;
 
-XXI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités de Ministros.
+> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXI. En su caso, coadyuvar con la Dirección General de Auditoría tratándose de investigaciones relacionadas con faltas administrativas atribuibles a servidores públicos adscritos a la Unidad de Investigación de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXII. En su caso, coadyuvar con la Dirección General de Auditoría tratándose de la substanciación del procedimiento de responsabilidad administrativa relacionado con faltas cometidas por servidores públicos adscritos a la Dirección General de Responsabilidades Administrativas y de Registro Patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+XXIII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités de Ministros.
 
 ###### Artículo 36.
 
@@ -1333,6 +1373,40 @@ V. Promover y coadyuvar en la instrumentación de políticas intercambios acadé
 
 VI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 2 DE MARZO DE 2018)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LA UNIDAD GENERAL DE INVESTIGACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2018)</small>
+
+###### Artículo 45.
+
+La Unidad General de Investigación de Responsabilidades Administrativas tendrá las siguientes atribuciones:
+
+I. Proponer al Presidente la realización de investigaciones administrativas, previa queja, denuncia o informe que la Contraloría haga de su conocimiento;
+
+II. Llevar a cabo las investigaciones que sean autorizadas por el Presidente o instruidas por el Pleno o el Comité de Gobierno y Administración, en los términos establecidos en la normatividad interna aplicable;
+
+III. Solicitar a los promoventes, en los casos en que sea necesario, aclaraciones o mayores datos de los escritos en los que se haga del conocimiento alguna infracción administrativa;
+
+IV. Requerir información necesaria para la integración de las investigaciones de presuntas responsabilidades, en los términos establecidos en la normatividad interna aplicable;
+
+V. Requerir a las instituciones competentes, la información contable o financiera necesaria para integrar las investigaciones;
+
+VI. Imponer medidas de apremio, de conformidad con lo previsto en el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+VII. Realizar las diligencias y trámites necesarios para impedir que los elementos materia de la investigación se pierdan, oculten, destruyan o alteren;
+
+VIII. Determinar la existencia o inexistencia de actos u omisiones que constituyan faltas administrativas y, en su caso, proponer la calificación de graves o no graves, a partir de la información recabada durante la investigación;
+
+IX. Elaborar y someter a la consideración del Presidente, el dictamen de cierre de investigación o el Informe de Presunta Responsabilidad Administrativa;
+
+X. Realizar las investigaciones por acoso laboral o sexual en los términos establecidos por la normativa interna aplicable;
+
+XI. Coadyuvar con el Ministerio Público en el procedimiento penal respectivo en los casos en que sea presentada una denuncia o querella, conforme al artículo 42 de la Ley General de Responsabilidades Administrativas;
+
+XII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente Reglamento Orgánico en Materia de Administración entrará en vigor el quince de mayo de dos mil quince.
@@ -1397,6 +1471,10 @@ Unidad General de Enlace con los Poderes Federales.
 
 Unidad General de Igualdad de Género.
 
+> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2018)</small>
+
+Unidad General de Investigación de Responsabilidades Administrativas.
+
 Direcciones Generales.
 
 ADSCRIPCIÓN
@@ -1428,6 +1506,10 @@ j) La Unidad General de Enlace con los Poderes Federales.
 k) La Unidad General de Igualdad de Género.
 
 l) La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2018)</small>
+
+m) La Unidad General de Investigación de Responsabilidades Administrativas.
 
 II. A la Secretaría General de Acuerdos queda adscrita:
 
@@ -1504,3 +1586,21 @@ Artículo Tercero. La Oficialía Mayor llevará a cabo las acciones administrati
 Artículo Cuarto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
 
 Artículo Quinto. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado, dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+D.O.F. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 1/2018, DEL VEINTE DE FEBRERO DE DOS MIL DIECIOCHO, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su aprobación.
+
+Artículo Segundo. Se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. La Unidad General de Investigación de Responsabilidades Administrativas tendrá el nivel de Dirección General.
+
+Artículo Cuarto. La Oficialía Mayor, en acuerdo con la Secretaría Jurídica de la Presidencia y con la Contraloría, llevará a cabo las acciones administrativas conducentes para la instrumentación del presente Acuerdo General.
+
+Artículo Quinto. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo se continuarán hasta su conclusión con las disposiciones jurídicas con las que dieron inicio.
+
+Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
