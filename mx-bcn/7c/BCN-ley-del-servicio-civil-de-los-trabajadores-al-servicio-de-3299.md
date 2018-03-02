@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2015-05-29"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -362,6 +362,10 @@ En caso de adopción de un infante disfrutarán de un descanso de siete semanas 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 Los hombres disfrutarán de un permiso de cinco días laborables, con goce de sueldo íntegro, por el nacimiento de sus hijos y de igual manera en el caso de adopción de un infante. El trabajador deberá comprobar conforme a la legislación aplicable que estos hechos ocurrieron y además deberá acreditar que cohabita con la madre del menor.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+ARTICULO 29 BIS.- Las mujeres y hombres trabajadores tendrán permiso de un día al año, con goce de sueldo íntegro, para someterse a la realización de exámenes médicos de prevención de cáncer de mama, cervicouterino o de próstata, según sea el caso; para lo cual deberán presentar el certificado médico correspondiente expedido por una institución de salud pública o privada.
 
 ###### ARTICULO 30.
 
@@ -2444,3 +2448,9 @@ P.O. 4 DE JULIO DE 2014.
 P.O. 29 DE MAYO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA QUE ADICIONA UN ARTÍCULO 29 BIS A LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
