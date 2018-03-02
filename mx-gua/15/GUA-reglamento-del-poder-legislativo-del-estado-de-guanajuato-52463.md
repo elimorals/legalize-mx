@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-poder-legislativo-del-estado-de-guanajuato-52463
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-01"
-last_updated: "2006-12-01"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO PARA EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Reglamento publicado en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 1 de diciembre de 2006.
 
@@ -91,13 +91,15 @@ X. Las demás que de forma expresa o implícita, le señale la Ley y el presente
 
 ### CAPÍTULO III. De la Utilización de la Firma Electrónica Certificada
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
 ###### Artículo 7.
 
-La firma electrónica certificada podrá ser utilizada en cualquier actuación electrónica, salvo lo dispuesto por la Ley y el presente Reglamento.
+La firma electrónica certificada podrá ser utilizada en cualquier actuación electrónica, así como en los procedimientos que se den en forma de juicio, salvo lo dispuesto por la Ley y el presente Reglamento.
 
 ###### Artículo 8.
 
-No podrá utilizarse la firma electrónica certificada en los procedimientos que se den en forma de juicio.
+(DEROGADO, P.O. 2 DE MARZO DE 2018)
 
 ### CAPÍTULO IV. De las Actuaciones Electrónicas
 
@@ -246,3 +248,13 @@ Diputado Secretario.
 MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 Diputada Secretaria.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 292 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 Y SE DEROGA EL ARTÍCULO 8 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO PARA EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado.
