@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2018-01-31"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1047,17 +1047,19 @@ XXXVI. Ratificar los nombramientos que el Gobernador haga de los funcionarios qu
 
 XXXVII. Aprobar, por mayoría de sus miembros presentes, el convenio y el programa que regularán al gobierno de coalición.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2018)</small>
+
+XXXVIII. Nombrar al Titular del Centro de Conciliación Laboral de la terna que someta a su consideración el C. Gobernador del Estado.
+
 Estas facultades serán ejercidas por el pleno del congreso en los términos de la ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ###### Artículo 46.
 
-Dentro de los 155 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 185 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal, pudiendo presentar dicho informe de manera personal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-El Congreso del Estado podrá acordar que el informe se lleve a cabo en diversas sesiones, en las que el Ejecutivo del Estado deberá informar en cada Región, lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Gobernador del Estado propondrá al Congreso las sedes y sesiones que sean necesarias llevarse a cabo, así como de ser necesario, designará al Servidor Público que deberá exponer el citado informe, de conformidad a la importancia de los asuntos a analizar.
+El Congreso del Estado podrá acordar que el informe se dé a conocer en cada Región, en las que el Ejecutivo del Estado deberá informar lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Gobernador del Estado propondrá al Congreso las sedes y las sesiones que sean necesarias llevarse a cabo, así como el servidor público que deberá exponer el citado informe, de conformidad a la importancia de los asuntos a analizar.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1343,9 +1345,9 @@ XVI. Iniciar ante el Congreso del Estado, las leyes y decretos que juzgue conven
 
 XVII. Solicitar a la Comisión Permanente que convoque al Congreso del Estado a Sesiones Extraordinarias.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE MARZO DE 2018)</small>
 
-XVIII. Presentar al Congreso del Estado, dentro de los 155 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
+XVIII. Presentar al Congreso del Estado, dentro de los 185 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
 
 El Gobernador del Estado, en relación a los informes que se llevarán a cabo en cada región, podrá presentarlos por sí o a través de los servidores públicos que el designe, antes de los ocho días previos o cinco días posteriores a la réplica de los mismos.
 
@@ -1391,7 +1393,13 @@ El convenio establecerá las causas de la disolución del gobierno de coalición
 
 XXXVI. Formular, conducir y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional; deberá incorporar en los instrumentos de política ambiental, criterios de mitigación y adaptación al cambio climático.
 
-XXVII. (SIC) Las demás que le confiera esta Constitución y las leyes que de ella emanen, para elevar el índice de desarrollo humano y calidad de vida de la población del Estado y de los Municipios que lo integran.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2018)</small>
+
+XXXVII. Presentar a consideración del Congreso del Estado, la terna para la designación del Titular del Organismo Público Descentralizado denominado Centro de Conciliación Laboral.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2018)</small>
+
+XXXVIII. Las demás que le confiera esta Constitución y las leyes que de ella emanen, para elevar el índice de desarrollo humano y calidad de vida de la población del Estado y de los Municipios que lo integran.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1580,6 +1588,10 @@ I. El Tribunal Superior de Justicia.
 II. El Consejo de la Judicatura.
 
 III. El Tribunal del Trabajo Burocrático.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2018)</small>
+
+IV. El Tribunal Laboral.
 
 La organización y funcionamiento de éstos serán regulados en el Código de Organización del Poder Judicial y en el reglamento interior que al efecto emita cada uno de ellos.
 
@@ -1809,9 +1821,9 @@ VII. Las demás atribuciones que les confieran esta Constitución y la ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo I. De la Institución del Ministerio Público
+### Capítulo VII. Del Tribunal Laboral
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
 
 ###### Artículo 79.
 
@@ -1858,6 +1870,14 @@ d) Cuando menos el 5% de los ciudadanos inscritos en el padrón electoral.
 La resolución que emita el Tribunal de Justicia Constitucional que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial; en dicha resolución se determinará como plazo un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el mismo Congreso del Estado, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Local, si el Congreso del Estado no lo hiciere en el plazo fijado, el Tribunal de Justicia Constitucional lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso del Estado subsane la omisión legislativa.
 
 IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por magistrados o jueces cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Bis.
+
+El Tribunal Laboral, será la máxima autoridad jurisdiccional en la materia, sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos. El Código determinará sus respectivas competencias y la forma de su organización y funcionamiento.
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo del Tribunal Laboral del Poder Judicial del Estado de Chiapas, a que se refiere el artículo 123 Apartado “A” fracción XX de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2013,7 +2033,7 @@ En los ayuntamientos podrán establecerse gobiernos de coalición de acuerdo con
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo II. De la Comisión Estatal de los Derechos Humanos
+### Capítulo I. De la Institución del Ministerio Público
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2095,9 +2115,9 @@ La Fiscalía General del Estado, contará con los órganos de control y vigilanc
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo III. De las Autoridades Electorales
+### Capítulo II. De la Comisión Estatal de los Derechos Humanos
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 98.
 
@@ -2165,9 +2185,9 @@ El Congreso del Estado asignará anualmente a la Comisión Estatal de los Derech
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo IV. Del Órgano Garante del Acceso a la Información y Protección de Datos Personales
+### Capítulo III. De las Autoridades Electorales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 99.
 
@@ -2235,7 +2255,7 @@ La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputado
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo V. De la Universidad
+### Capítulo IV. Del Órgano Garante del Acceso a la Información y Protección de Datos Personales
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2253,9 +2273,9 @@ La Ley de la materia y sus reglamentos contendrán lo concerniente a los requisi
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo VI. Del Tribunal de Justicia Administrativa
+### Capítulo V. De la Universidad
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 103.
 
@@ -2269,9 +2289,9 @@ La Universidad Autónoma de Chiapas, desde su fundación está orientada a la fo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo I. De las responsabilidades de los servidores públicos
+### Capítulo VI. Del Tribunal de Justicia Administrativa
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
 ###### Artículo 105.
 
@@ -2329,7 +2349,7 @@ De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo II. Del Sistema Anticorrupción del Estado de Chiapas
+### Capítulo I. De las responsabilidades de los servidores públicos
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2435,7 +2455,7 @@ La Ley señalará los casos de prescripción de la responsabilidad administrativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo Único. De las Leyes de Desarrollo Constitucional
+### Capítulo II. Del Sistema Anticorrupción del Estado de Chiapas
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2517,7 +2537,7 @@ Cuando no se fije la fecha en que deba comenzar su vigencia, las disposiciones s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo I. De las Reformas a la Constitución
+### Capítulo Único. De las Leyes de Desarrollo Constitucional
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2539,7 +2559,7 @@ Antes de su publicación, el Presidente del Congreso consultará al Tribunal de 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo II. De la Inviolabilidad de la Constitución
+### Capítulo I. De las Reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2556,6 +2576,10 @@ III. Que la mayoría de los Ayuntamientos den su aprobación dentro de los 30 d�
 IV. El Congreso del Estado o la Comisión Permanente en su caso, harán el computo de los votos de los Ayuntamientos que aprueben la Minuta Proyecto de Decreto de reformas y adiciones y realice la declaratoria correspondiente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo II. De la Inviolabilidad de la Constitución
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 125.
 
@@ -4420,6 +4444,26 @@ En un plazo no mayor a 180 días contados a partir de la entrada en vigor del pr
 P.O. 31 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 147 POR EL QUE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 169 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE JUSTICIA LABORAL".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las funciones del Centro de Conciliación Laboral y el Tribunal Laboral, iniciarán una vez que lo establezca la Ley Federal del Trabajo.
+
+Artículo Tercero.- El Congreso del Estado deberá legislar dentro de los 180 días posteriores a la entrada en vigencia de la legislación que al efecto emita el Congreso de la Unión, a que se refiere el Artículo Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos en materia de Justicia Laboral.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 170 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO SE (SIC) CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
