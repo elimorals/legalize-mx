@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2017-11-10"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2259,6 +2259,10 @@ V. Las modificaciones o adiciones a las proposiciones de acuerdo económico, que
 
 Las resoluciones del Congreso del Estado se tomarán por mayoría de votos de los Diputados.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
+
+Para la aprobación de las minutas de reformas a la Constitución Federal, se requerirá de mayoría calificada.
+
 ###### ARTICULO 147.
 
 La mayoría de votos puede ser simple, absoluta o calificada, entendiéndose por:
@@ -2995,6 +2999,12 @@ Tercero.- La Dirección de Administración del Congreso del Estado deberá prese
 
 P.O. 10 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 Y 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 Y 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 199 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 146 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
