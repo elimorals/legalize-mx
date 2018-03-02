@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-125
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-28"
-last_updated: "2017-12-28"
+last_updated: "2018-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección Primera al No. 128 del Periódico Oficial del Estado de Nayarit, el jueves 28 de diciembre de 2017.
 
@@ -4115,7 +4115,9 @@ IV.- Reproducción de documentos en medios
 
 Magnéticos.
 
-a) Si el solicitante aporta el medio $20.00
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+a) Si el solicitante aporta el medio Exento
 
 magnético en el que se realice la
 
@@ -4416,3 +4418,11 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 > <small>[N. DE E. VÉASE ANEXO 1 EN EL P.O. DEL 28 DE DICIEMBRE DE 2017, PAGINAS 72 A 74]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DEL 28 DE DICIEMBRE DE 2017, PAGINAS 75 A 79]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 38 FRACCIÓN IV INCISO A) DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2018”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
