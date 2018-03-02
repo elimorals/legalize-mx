@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2017-11-10"
+last_updated: "2018-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1975,7 +1975,7 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION III. DE LAS FUNERARIAS, PANTEONES Y CADAVERES
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1996,6 +1996,8 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 ###### ARTÍCULO 113.
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2018)</small>
 
 #### SECCION IV. DE LA LIMPIEZA PUBLICA
 
@@ -2039,7 +2041,13 @@ La inhumación o incineración de cadáveres sólo podrá realizarse con la auto
 
 Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial.
 
-Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en éste no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2018)</small>
+
+Tratándose de cadáveres que no son reclamados por familiares o personas autorizadas, la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial, una vez establecida y registrada la causa determinante de la muerte dispondrá de cinco días, para liberar el cadáver que corresponda e iniciar los procedimientos jurídicos administrativos y técnicos que permitan la ficha de identificación registrada en el banco de datos para su utilización posterior, procediendo a la inhumación con el apoyo de bolsas herméticas capaces de mantener los restos humanos.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+
+Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en este no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -3392,3 +3400,9 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 131 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 191 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 116; ASÍ COMO LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO DÉCIMO DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
