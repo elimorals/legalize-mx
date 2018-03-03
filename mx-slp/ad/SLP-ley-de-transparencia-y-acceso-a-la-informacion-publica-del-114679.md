@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2017-04-29"
+last_updated: "2018-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -121,7 +121,7 @@ III. CEGAIP: la Comisión Estatal de Garantía de Acceso a la Información Públ
 
 IV. Comisionado Numerario: la persona integrante del Pleno de la Comisión;
 
-V. Comisionado Supernumerario. las personas elegidas por el Congreso del Estado que suplirán en el orden de su nombramiento las ausencias y excusas de los comisionados numerarios;
+V. Comisionado Supernumerario: las personas elegidas por el Congreso del Estado que suplirán en el orden de su nombramiento las ausencias y excusas de los comisionados numerarios;
 
 VI. Comité de Transparencia: la instancia a la que hace referencia el artículo 43 de la Ley General de Transparencia y Acceso a la Información Pública;
 
@@ -129,7 +129,7 @@ VII. Consejo: el Consejo Consultivo de la CEGAIP;
 
 VIII. Consejero: La persona integrante del Consejo de la CEGAIP;
 
-IX. Cultura de Transparencia. al conjunto de acciones de los sujetos obligados y de la sociedad, encaminadas a enriquecer el conocimiento, la experiencia, la práctica y los hábitos de las personas en el servicio público y de las personas en general, para que mediante la gestión de aquéllos y el ejercicio de los derechos de éstas, compartan la convicción de fomentar la transparencia y la rendición de cuentas gubernamental; el derecho de acceso a la información pública; y el derecho a la protección de datos personales;
+IX. Cultura de Transparencia: al conjunto de acciones de los sujetos obligados y de la sociedad, encaminadas a enriquecer el conocimiento, la experiencia, la práctica y los hábitos de las personas en el servicio público y de las personas en general, para que mediante la gestión de aquéllos y el ejercicio de los derechos de éstas, compartan la convicción de fomentar la transparencia y la rendición de cuentas gubernamental; el derecho de acceso a la información pública; y el derecho a la protección de datos personales;
 
 X. Datos abiertos: los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier persona y que tienen las siguientes características:
 
@@ -167,7 +167,7 @@ XV. Formatos abiertos: conjunto de características técnicas y de presentación
 
 XVI. Formatos accesibles: cualquier manera o forma alternativa que dé acceso a las personas solicitantes de información, en forma tan viable y cómoda como la de las personas sin discapacidad ni otras dificultades para acceder a cualquier texto impreso y/o cualquier otro formato convencional en el que la información pueda encontrarse;
 
-XVII. Información confidencial. la información en posesión de los sujetos obligados que refiera a datos personales; la que se refiere a los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos; así como aquella que presenten los particulares a los sujetos obligados siempre que tengan el derecho a entregarla con ese carácter; y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
+XVII. Información confidencial: la información en posesión de los sujetos obligados que refiera a datos personales; la que se refiere a los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos; así como aquella que presenten los particulares a los sujetos obligados siempre que tengan el derecho a entregarla con ese carácter; y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
 
 XVIII. Información de interés público: aquella que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
 
@@ -795,15 +795,13 @@ En caso de falta absoluta de cualquier persona que integre el Consejo, la Presid
 
 El Consejo funcionará conforme a las disposiciones del Reglamento Interno, en sesiones ordinarias y extraordinarias, y tomará sus decisiones por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 49.
 
-Las sesiones ordinarias se verificarán, cuando menos, una cada dos meses.
+Las sesiones ordinarias se verificarán, cuando menos, una cada dos meses. Las sesiones extraordinarias podrán convocarse cuando existan asuntos de importancia, o que deban resolverse de inmediato.
 
-Las sesiones extraordinarias podrán convocarse cuando existan asuntos de importancia o que deban resolverse de inmediato:
-
-I. Por a través de una convocatoria pública dirigida a instituciones académicas, de investigación, asociaciones, colegios de profesionales y la sociedad en general el presidente del Consejo, y
-
-II. Mediante convocatoria que formulen por lo menos tres de los consejeros.
+Para las sesiones extraordinarias bastará a que el Presidente del Consejo o por lo menos tres de los consejeros emitan convocatoria respectiva.
 
 #### Sección Quinta. Del Sistema Estatal de Documentación y Archivos
 
@@ -1155,7 +1153,9 @@ V. Su estructura orgánica completa, en un formato que permita vincular cada par
 
 VI. Las facultades de cada área;
 
-VII. Los manuales de organización, servicios que se ofrecen, trámites, requisitos y formatos, así como los documentos que contengan las políticas de cada dependencia y unidad administrativa, que incluya metas, objetivos y responsables de los programas operativos a desarrollar;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2018)</small>
+
+VII. Los manuales de organización; así como los documentos que contengan las políticas de cada dependencia y unidad administrativa, que incluya metas, objetivos y responsables de los programas operativos a desarrollar;
 
 VIII. Los indicadores relacionados con temas de interés público o trascendencia social que conforme a sus funciones, deban establecer;
 
@@ -1557,13 +1557,15 @@ XIV. El número y la denominación de los grupos parlamentarios, y de las repres
 
 XV. Los indicadores de gestión que debe publicar de oficio el Poder Legislativo deberán incluir numeralia general e individual de iniciativas y puntos de acuerdo que hayan promovido sus integrantes; dichos registros deberán clasificarse en rubros tales como: aprobados; improcedentes; pendientes; sin materia; archivados; y caducados;
 
-XVI. La información sobre el ejercicio del presupuesto aprobado a los sujetos obligados previstos en esta Ley. Asimismo, el que le corresponde, detallando el uso y destino de los recursos financieros asignados a los órganos de gobierno, grupos parlamentarios, a las comisiones legislativas, comités, el Instituto de Investigaciones Legislativas y a cada uno de los diputados que integran la Legislatura correspondiente, así como, los criterios de asignación, el tiempo de ejecución, los mecanismos de evaluación y los responsables de su recepción y ejecución final, mismo que deberá ser actualizado trimestralmente;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2018)</small>
+
+XVI. La información sobre el ejercicio del presupuesto aprobado al Congreso del Estado detallando el uso y destino de los recursos financieros asignados a los órganos de gobierno, grupos parlamentarios, y representaciones parlamentarias, en caso, a las comisiones legislativas, comités, el Instituto de Investigaciones Legislativas, y a cada uno de los diputados que integran la Legislatura correspondiente; así como, los criterios de asignación, el tiempo de ejecución, los mecanismos de evaluación y los responsables de su recepción y ejecución final, mismo que deberá ser actualizado trimestralmente;
 
 XVII. Los informes y cuentas públicas que por disposición legal deben entregar los sujetos obligados al Poder Legislativo, que los difundirá a más tardar quince días hábiles después de que hubiesen concluido los procedimientos de evaluación, dictamen y aprobación por el Pleno del Congreso del Estado;
 
 XVIII. Las declaraciones, de situación patrimonial, fiscal, y de intereses de los diputados;
 
-XIX. El directorio de servidores públicos, así como currículum vitae de diputados, oficial mayor, coordinadores, directores, asesores y secretarios técnicos del Congreso y de los grupos parlamentarios;
+XIX. (DEROGADA, P.O. 3 DE MARZO DE 2018)
 
 XX. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa;
 
@@ -2980,6 +2982,22 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 29 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0615.- SE REFORMAN LOS ARTÍCULOS 34 Y 54; Y ADICIONA FRACCIÓN AL ARTÍCULO 54 DE Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 3 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 896.- SE REFORMA EL ARTÍCULO 49, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 3 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 897.- SE REFORMAN LOS ARTÍCULOS 84 Y 86 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
