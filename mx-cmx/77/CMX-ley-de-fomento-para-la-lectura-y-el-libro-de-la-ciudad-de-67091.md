@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2011-07-20"
+last_updated: "2018-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-02-25"
 ---
 # LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MEXICO -- ANTES LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL DISTRITO FEDERAL --
 
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL DISTRITO FEDERAL
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -46,19 +46,27 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL DI
 
 ÚNICO. Se expide la Ley de Fomento a la Lectura y el Libro del Distrito Federal para quedar como sigue:
 
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE MARZO DE 2018)</small>
+
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social para los habitantes del Distrito Federal.
+Las disposiciones de esta Ley son de orden público e interés social para los habitantes de la Ciudad de México.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 2.
 
 La presente ley tiene por objeto:
 
-I. Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales de la ciudad de México.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+I. Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales de la Ciudad de México.
 
 II. Fomentar la lectura como medio de igualación social.
 
@@ -68,17 +76,25 @@ IV. Apoyar a los habitantes con vocación de escribir.
 
 V. Generar lectores a través de políticas, programas, proyectos y acciones dirigidas a generar el interés por el libro, periódicos, revistas y publicaciones digitalizadas.
 
-VI. Garantizar el acceso democrático, en igualdad de condiciones, al libro en todo el Distrito Federal para aumentar su disponibilidad y acercarlo al lector. Para ello se debe proveer en toda la red de transporte publicaciones periódicas y el acceso a libros.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+VI. Garantizar el acceso democrático, en igualdad de condiciones, al libro en toda la Ciudad de México para aumentar su disponibilidad y acercarlo al lector. Para ello se debe proveer en toda la red de transporte publicaciones periódicas y el acceso a libros.
 
 VII. La protección y fomento de la industria editorial, incentivando la edición, distribución y comercialización del libro y las publicaciones periódicas.
 
-VIII. Promover el trabajo intelectual de los autores, particularmente aquellos residentes en el Distrito Federal, y la edición de sus obras.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-IX. Modernizar y actualizar permanentemente el acervo literario y periodístico de las bibliotecas públicas del Distrito Federal.
+VIII.Promovereltrabajointelectualdelosautores,particularmenteaquellosresidentesenla (sic) Ciudad de México, y la edición de sus obras;
+
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+IX. Modernizar y actualizar permanentemente el acervo literario y periodístico de las bibliotecas públicas de la Ciudad de México.
 
 X. Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes poseen capacidades diferentes.
 
-XI. Elaborar campañas permanentes de fomento a la lectura en las 16 delegaciones políticas así como el establecimiento de librerías, y otros espacios públicos y/o privados para la lectura y difusión del libro en el Distrito Federal.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+XI. Elaborar campañas permanentes de fomento a la lectura en las Alcaldías así como el establecimiento de librerías, y otros espacios públicos y/o privados para la lectura y difusión del libro en la Ciudad de México
 
 XII. Infundir a los estudiantes desde la educación básica el hábito por la lectura de periódicos y revistas a fin de despertar su interés por los temas de trascendencia pública.
 
@@ -86,13 +102,15 @@ XII. Infundir a los estudiantes desde la educación básica el hábito por la le
 
 XIII. Coordinar las instancias públicas en los tres órdenes de gobierno y la vinculación de éstos con el sector social y privado, a efecto de impulsar la lectura.
 
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 3.
 
 El fomento a la lectura y el libro se establece en el marco de las garantías constitucionales de educación, libre manifestación de ideas, la inviolable libertad de escribir, editar y publicar libros sobre cualquier materia, propiciando el acceso a la lectura y al libro a toda la población.
 
-Ninguna autoridad en el Distrito Federal podrá prohibir, restringir ni obstaculizar la creación, edición, producción, distribución, promoción o difusión de libros y de las publicaciones periódicas.
+Ninguna autoridad en la Ciudad de México podrá prohibir, restringir ni obstaculizar la creación, edición, producción, distribución, promoción o difusión de libros y de las publicaciones periódicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 4.
 
@@ -118,9 +136,11 @@ V. ISBN: Número Internacional Normalizado del Libro, identificador que llevan i
 
 VI. ISSN: Número Internacional Normalizado para Publicaciones Periódicas o seriadas, identificador que deben llevar las publicaciones que se editan con una numeración o periodos de tiempo, como revistas, anuarios, directorios y periódicos, entre otros, en sus versiones impresa y digital, uno por cada versión.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-VII. Secretaría: Secretaría de Cultura del Gobierno del Distrito Federal
+VII. Secretaría: Secretaría de Cultura de la Ciudad de México.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -132,7 +152,9 @@ I. Autor: Persona física que realiza o crea una obra literaria, científica o a
 
 II. Editor: Persona física o moral que realiza o se encarga del proceso industrial para la producción y edición de las obras creadas por los autores en libros.
 
-III. Distribuidor: persona física o moral con domicilio fiscal en el Distrito Federal que debidamente autorizada se dedica a la venta de libros al mayoreo o menudeo.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+III. Distribuidor: persona física o moral con domicilio fiscal en la Ciudad de México que debidamente autorizada se dedica a la venta de libros al mayoreo o menudeo.
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -150,6 +172,8 @@ VIII. Agente literario: persona física o moral que representa los derechos de a
 
 ### CAPITULO II. DE LA ORGANIZACION
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 6.
 
 Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus competencias:
@@ -162,23 +186,31 @@ II. La Secretaría de Cultura
 
 III. La Dirección General de Fomento a la Lectura
 
-IV. Las Delegaciones
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+IV. Las Alcaldías.
 
 ###### Artículo 7.
 
 La secretaría de Cultura, a través de la Dirección General de Fomento a la Lectura, elaborará planes y programas de actuación, global y anual, acompañados de la dotación presupuestaria adecuada, con el fin de coordinar las medidas de promoción y fomento previstas en la presente ley y en sus disposiciones reglamentarias.
 
-La Dirección General de Fomento a la lectura es el órgano desconcentrado dependiente de la Secretaría de Cultura del gobierno del Distrito Federal, responsable de la aplicación de las políticas públicas destinadas a garantizar el fomento a la lectura entre los lectores de la ciudad.
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+
+La Dirección General de Fomento a la lectura es el órgano desconcentrado dependiente de la Secretaría de Cultura del Gobierno de la Ciudad de México, responsable de la aplicación de las políticas públicas destinadas a garantizar el fomento a la lectura entre los lectores de la ciudad.
+
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Dirección General de Fomento a la lectura, del Distrito Federal:
+Corresponde a la Dirección General de Fomento a la lectura de la Ciudad de México:
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-I. Implementar programas de lectura orientados a erradicar los niveles de analfabetismo en el Distrito Federal.
+I. Implementar programas de lectura orientados a erradicar los niveles de analfabetismo en la Ciudad de México.
 
-II. Elaborar el plan global de fomento a la lectura del gobierno del Distrito Federal, en el que se actualicen todos los planes y programas periódicos, debiendo contener el programa de fomento para la lectura y el libro, en el que se conciba a la lectura como la herramienta idónea para la igualdad social y el efectivo ejercicio de los derechos a la educación y la libre transmisión de ideas.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+II. Elaborar el plan global de fomento a la lectura del gobierno de la Ciudad de México, en el que se actualicen todos los planes y programas periódicos, debiendo contener el programa de fomento para la lectura y el libro, en el que se conciba a la lectura como la herramienta idónea para la igualdad social y el efectivo ejercicio de los derechos a la educación y la libre transmisión de ideas.
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -188,7 +220,9 @@ III. Fomentar el hábito de la lectura, formando lectores con base en los progra
 
 IV. Establecer programas de apoyo e incentivos para quienes tengan el interés y/o vocación por escribir.
 
-V. Promover la obra de autores radicados en el Distrito Federal.
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+V. Promover la obra de autores radicados en la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -196,13 +230,15 @@ VI. Incentivar el desarrollo de distintos géneros literarios en donde se retrat
 
 VII. Organizar todo tipo de actividades y eventos que promuevan el libro y estimulen el hábito de la lectura, en apoyo a los objetivos de esta ley.
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-VIII. Ser responsable de la organización de la Feria Internacional del Libro en el Zócalo de la Ciudad de México, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos del Distrito Federal. Tendrá como sede el Zócalo, y se podrá extender hacia otros puntos de la ciudad.
+VIII. Ser responsable de la organización de la Feria Internacional del Libro en el Zócalo de la Ciudad de México, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos de la Ciudad de México. Tendrá como sede el propio Zócalo, y se podrá extender hacia otros puntos de la ciudad.
+
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 9.
 
-La Dirección General de Fomento a la Lectura elaborará el programa de fomento para la lectura y el libro del Distrito Federal, a través de los siguientes medios:
+La Dirección General de Fomento a la Lectura elaborará el programa de fomento para la lectura y el libro de la Ciudad de México, a través de los siguientes medios:
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -232,11 +268,11 @@ IX. Impulso a la incorporación de asignaturas obligatorias de comprensión y fo
 
 X. Talleres, círculos literarios, libro clubes y cualesquiera otras medidas conducentes al fomento de la lectura y del libro.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 10.
 
-Corresponde al ejecutivo del Distrito Federal garantizar las políticas y estrategias que se establezcan en el plan global y programa de fomento a la lectura y el libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano y de las coediciones mexicanas que satisfagan los requerimientos culturales y educativos en la ciudad en condiciones adecuadas de calidad, cantidad, precio único y variedad, procurando su presencia en todas las bibliotecas del Distrito Federal, del país y en el exterior.
+Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y estrategias que se establezcan en el plan global y programa de fomento a la lectura y el libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano y de las coediciones mexicanas que satisfagan los requerimientos culturales y educativos en la ciudad en condiciones adecuadas de calidad, cantidad, precio único y variedad, procurando su presencia en todas las bibliotecas de la Ciudad de México, del país y en el exterior.
 
 > <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -244,73 +280,83 @@ Corresponde al ejecutivo del Distrito Federal garantizar las políticas y estrat
 
 La Dirección General de Fomento a la Lectura deberá generar espacios de promoción institucional para la difusión del hábito de la lectura, y de aquellos libros impresos y editados en México que por su valor cultural o interés científico o técnico que (sic) enriquezcan la cultura de la ciudad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 12.
 
-Con el fin de promover la lectura y el libro, el Gobierno del Distrito Federal otorgará incentivos fiscales a empresas editoras y a toda aquella medida encaminada a la renovación tecnológica y modernización del sector editorial, de artes graficas y de distribución y venta del libro, incluidas a las que se refieren a la utilización de medios informáticos, audiovisuales y redes de telecomunicación.
-
-La finalidad y cuantía de las ayudas y subvenciones, los requisitos y procedimientos para obtenerlas y las obligaciones y condiciones que conlleven su otorgamiento se establecerán por el ejecutivo local a través del reglamento correspondiente para esta ley.
+Con el fin de promover la lectura y el libro, el Gobierno de la Ciudad de México otorgará incentivos fiscales a empresas editoras y a toda aquella medida encaminada a la renovación tecnológica y modernización del sector editorial, de artes gráficas y de distribución y venta del libro, incluidas a las que se refieren a la utilización de medios informáticos, audiovisuales y redes de telecomunicación.
 
 ### CAPITULO III. DE LAS MEDIDAS DE FOMENTO EDITORIAL Y A LA LECTURA
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 13.
 
-El Gobierno del Distrito Federal a través de la a (sic) Dirección General de Fomento a la lectura y las Universidades públicas y privadas, propondrá programas de fomento a la lectura, ya sea para el conjunto de la población o dirigidos a sectores específicos de la misma.
+El Gobierno de la Ciudad de México (sic) través de la Dirección General de Fomento a la lectura y las Universidades públicas y privadas, propondrá programas de fomento a la lectura, ya sea para el conjunto de la población o dirigidos a sectores específicos de la misma.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 14.
 
-El Gobierno del Distrito Federal a través de la Dirección General de Fomento a la Lectura y el Consejo de Fomento a la Lectura y el Libro del Distrito Federal, realizará campañas de difusión acerca de las bibliotecas de la Ciudad de México, para sensibilizar e incrementar los hábitos de lectura y fomentar la visita a las mismas.
+El Gobierno de la Ciudad de México a través de la Dirección General de Fomento a la Lectura y el Consejo de Fomento a la Lectura y el Libro de la Ciudad de México, realizará campañas de difusión acerca de las bibliotecas de la Ciudad de México, para sensibilizar e incrementar los hábitos de lectura y fomentar la visita a las mismas.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 15.
 
-La Dirección General de Fomento a la Lectura, en coordinación con la Secretaria de Transporte y Vialidad del Distrito Federal, establecerá las medidas necesarias, mediante la suscripción de los acuerdos correspondientes, para que en el transporte público de la Ciudad de México, concesionado y no concesionado, se privilegie la lectura y se distribuya material de lectura durante el trayecto.
+La Dirección General de Fomento a la Lectura, en coordinación con la Secretaria de Movilidad de la Ciudad de México, establecerá las medidas necesarias, mediante suscripción de los acuerdos correspondientes, para que en el transporte público de la Ciudad de México, concesionado y no concesionado, se privilegie la lectura y se distribuya material de lectura durante el trayecto.
 
 ###### Artículo 16.
 
 El Consejo gestionará espacios de tiempo oficial en los medios de comunicación para fomentar la lectura.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Gobierno del Distrito Federal por medio de la Dirección General de Fomento a la Lectura previa consulta al Consejo de la Lectura y el Libro del Distrito Federal, adquirirá un porcentaje mínimo razonable de la primera edición de cada título impreso y editado en el país, que por su valor cultural o interés científico o técnico enriquezca el acervo de las bibliotecas del Distrito Federal.
+El Gobierno de la Ciudad de México por medio de la Dirección General de Fomento a la Lectura previa consulta al Consejo de la Lectura y el Libro de la Ciudad de México, adquirirá un porcentaje mínimo razonable de la primera edición de cada título impreso y editado en el país, que por su valor cultural o interés científico o técnico enriquezca el acervo de las bibliotecas de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 5 DE MARZO DE 2018)</small>
+
+El porcentaje al que hace alusión el párrafo anterior, deberá contemplar de manera obligatoria publicaciones escritas en las lenguas indígenas de mayor presencia en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 18.
 
-El presupuesto de egresos anual incluirá la partida correspondiente para que esta política de libros de publicación nacional para la provisión de bibliotecas públicas del Distrito Federal se ejecute regularmente y en tal forma que los recursos presupuestarios se incrementen cada a (sic) año en razón de las necesidades proyectadas.
+El presupuesto de egresos anual incluirá la partida correspondiente para que esta política de libros de publicación nacional para la provisión de bibliotecas públicas de la Ciudad de México se ejecute regularmente y en tal forma que los recursos presupuestarios se incrementen cada a (sic) año en razón de las necesidades proyectadas.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 19.
 
-La Dirección General de Fomento a la Lectura dotará a las Bibliotecas públicas del Distrito Federal, con volúmenes de audio libros y en braille, a fin de dar adecuada atención a la población con alguna discapacidad.
+La Dirección General de Fomento a la Lectura dotará a las Bibliotecas públicas de la Ciudad de México, con volúmenes de audio libros y en braille, a fin de dar adecuada atención a la población con alguna discapacidad.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 20.
 
-Las personas físicas o morales que realicen donaciones de libros, revistas, fascículos, catálogos o folletos a establecimientos educativos, culturales y bibliotecas del ámbito público, de conformidad con el procedimiento establecido para el efecto en el Reglamento de esta Ley, gozaran de la exención al impuesto predial que establezca el Código Fiscal del Distrito Federal.
+Las personas físicas o morales que realicen donaciones de libros, revistas, fascículos, catálogos o folletos a establecimientos educativos, culturales y bibliotecas del ámbito público, de conformidad con el procedimiento establecido para el efecto en el Reglamento de esta Ley, gozaran de la exención al impuesto predial que establezca el Código Fiscal de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 21.
 
-El Gobierno del Distrito Federal, a través de la Dirección General de Fomento a la Lectura, procurará impulsar ante las entidades bancarias y financieras con domicilios fiscales en el Distrito Federal, el ofrecimiento de líneas de crédito especiales en condiciones preferenciales de cuantía, garantías, intereses y plazos, destinadas a incrementar y mejorar la producción y difusión de libros y publicaciones en el Distrito Federal.
+El Gobierno de la Ciudad de México, a través de la Dirección General de Fomento a la Lectura, procurará impulsar ante las entidades bancarias y financieras con domicilios fiscales en la Ciudad de México, el ofrecimiento de líneas de crédito especiales en condiciones preferenciales de cuantía, garantías, intereses y plazos, destinadas a incrementar y mejorar la producción y difusión de libros y publicaciones en la Ciudad de México.
 
-### CAPITULO IV. DEL CONSEJO DE FOMENTO A LA LECTURA Y EL LIBRO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+### CAPITULO IV
+
+DEL CONSEJO DE FOMENTO A LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO.
+
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 22.
 
-Se crea el Consejo de Fomento a la Lectura y el Libro, con carácter de órgano consultivo de la Secretaria de Cultura del Distrito Federal, cuyo objeto es fomentar las actividades y trabajos que contribuyan al perfeccionamiento de las políticas públicas, en pro de una cultura de fomento a la lectura y el libro, y que faciliten el acceso al libro para la población en general.
+Se crea el Consejo de Fomento a la Lectura y el Libro, con carácter de órgano consultivo de la Secretaria de Cultura de la Ciudad de México, cuyo objeto es fomentar las actividades y trabajos que contribuyan al perfeccionamiento de las políticas públicas, en pro de una cultura de fomento a la lectura y el libro, y que faciliten el acceso al libro para la población en general.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
 
 ###### Artículo 23.
 
@@ -320,11 +366,15 @@ El Consejo de Fomento a la Lectura y el Libro estará integrado por:
 
 I. Su presidente que será el titular de la Dirección General de Fomento a la Lectura;
 
-II. Un secretario ejecutivo, que será nombrado por el Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+II. Un secretario ejecutivo, que será nombrado por el Jefe de Gobierno de la Ciudad de México;
 
 III. Hasta 10 vocales invitados a participar por su presidente;
 
-IV. Los presidentes de las Comisiones de Cultura y de Educación de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+IV. Los presidentes de las Comisiones de Cultura y de Educación del Congreso de la Ciudad de México;
 
 V. Un representante de la Cámara Nacional de la Industria Editorial;
 
@@ -342,13 +392,19 @@ VIII. Dos personas del ámbito académico de reconocido prestigio y experiencia 
 
 IX. El Rector de la Universidad Autónoma de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 24.
 
-El Consejo de Fomento a la Lectura y el Libro del Distrito Federal para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+El Consejo de Fomento a la Lectura y el Libro de la Ciudad de México para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
 
-I. Contribuir a la elaboración, seguimiento, evaluación y actualización del programa de fomento a la lectura y al libro del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-II. Apoyar todo tipo de actividades y eventos que promuevan y estimulen el libro y el fomento a la lectura que establezca el programa al fomento a la lectura y al libro del Distrito Federal;
+I. Contribuir a la elaboración, seguimiento, evaluación y actualización del programa de fomento a la lectura y al libro de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+II. Apoyar todo tipo de actividades y eventos que promuevan y estimulen el libro y el fomento a la lectura que establezca el programa al fomento a la lectura y al libro de la Ciudad de México;
 
 III. Promover la formación y actualización de profesionales en el fomento y promoción a la lectura;
 
@@ -358,25 +414,39 @@ V. Promover el desarrollo de sistemas integrales de información sobre el libro,
 
 VI. Apoyar las actividades en defensa de los derechos del autor, el traductor y del editor dentro y fuera del territorio nacional;
 
-VII. Impulsar el incremento y mejora de la producción editorial que de respuesta a los requerimiento (sic) culturales y educativos al Distrito Federal en condiciones adecuadas de cantidad, calidad, precio y variedad;
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
-VIII. Apoyar acciones que favorezcan el acceso a los discapacitados a las bibliotecas y a las técnicas de audición de texto y braille;
+VII. Impulsar el incremento y mejora de la producción editorial que dé respuesta a los requerimientos culturales y educativos de la Ciudad de México en condiciones adecuadas de cantidad, calidad, precio y variedad;
+
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+VIII. Apoyar acciones que favorezcan el acceso a las personas con discapacidad a las bibliotecas y a las técnicas de audición de texto y braille;
 
 IX. Intervenir como instancia de consulta y conciliación en todos los asuntos concernientes al seguimiento, evaluación y actualización de la política integral de la lectura y el libro;
 
-X. Sugerir a los editores la traducción y publicación de textos editados en lengua extranjera que contribuyan al conocimiento y a la cultura universal; y
+> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+
+X. Sugerir a los editores la traducción y publicación de textos editados en lengua extranjera que contribuyan al conocimiento y a la cultura universal;
 
 XI. Apoyar a los escritores locales.
 
+> <small>(ADICIONADA, G.O. 5 DE MARZO DE 2018)</small>
+
+XII. Sugerir a los editores la traducción y publicación de textos editados en las lenguas indígenas de mayor presencia en la Ciudad de México fortaleciendo con ello su naturaleza intercultural.
+
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 25.
 
-El Consejo de Fomento a la Lectura y el Libro del Distrito Federal sesionará como mínimo tres veces al año y sobre los asuntos que el mismo establezca.
+El Consejo de Fomento a la Lectura y el Libro de la Ciudad de México sesionará como mínimo tres veces al año y sobre los asuntos que el mismo establezca.
 
 El quórum mínimo será del 50% más uno de sus miembros y para que sus decisiones sean validas, deberán ser aprobadas por la Mayoría de los miembros presentes, salvo aquellos casos en que se requiera mayoría calificada según su reglamento.
 
+> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+
 ###### Artículo 26.
 
-El Consejo de Fomento a la Lectura y el Libro del Distrito Federal se regirá, además de las disposiciones contenidas en esta ley, por las que establezca su reglamento.
+El Consejo de Fomento a la Lectura y el Libro de la Ciudad de México se regirá, además de las disposiciones contenidas en esta ley, por las que establezca su reglamento.
 
 ### CAPITULO V. DE LAS SANCIONES
 
@@ -415,3 +485,11 @@ G.O. 20 DE JULIO DE 2011.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 5 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
