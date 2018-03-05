@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2017-11-13"
+last_updated: "2018-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -39,7 +39,9 @@ C. CANDIDO LOZA LOZA, Presidente Municipal Constitucional de Tepezalá, Ags., A 
 
 Que en el Ayuntamiento de Tepezalá en Sesión Ordinaria celebrada el día diez de Noviembre del año 2009, con fundamento en lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, artículo 68, primer párrafo de la Constitución Política del Estado de Aguascalientes, artículo 4°, 16, 36, fracción I de la Ley Municipal del Estado de Aguascalientes; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que el municipio es la entidad administrativa, política y social, con personalidad jurídica y con capacidad para conducir las actividades, hacia el logro de los objetivos del desarrollo integral en lo económico, educativo, político y social.
 
@@ -12959,6 +12961,8 @@ En el caso de que los verificadores detecten actividades contrarias y violatoria
 
 En caso de clausura provisional como medida de seguridad, ésta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
 
+(REPUBLICADO, P.O. 5 DE MARZO DE 2018)
+
 ### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
 
 ###### ARTÍCULO 1424.
@@ -13093,7 +13097,11 @@ XIII. Arrojar basura o escombro en terrenos baldíos, en la vía pública o luga
 
 Además de las prevenciones contenidas en este artículo se aplicará lo conducente de conformidad al reglamento del servicio público de limpia.
 
+(REPUBLICADA, P.O. 5 DE MARZO DE 2018)
+
 #### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+(REPUBLICADO, P.O. 5 DE MARZO DE 2018)
 
 ###### ARTÍCULO 1429.
 
@@ -13120,6 +13128,10 @@ IX. Difundir, poner a la vista o vender cualquier tipo de material con sexo expl
 X. Permitir, inducir u obligar a menores de edad para que cometan faltas al presente código; y
 
 XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2018)</small>
+
+ARTÍCULO 1429 BIS.- Son faltas sobre la violencia callejera, todo acto que se realice en contra de una persona en la vía pública que ya sea usando la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones, ya sean internas, externas o ambas; o cualquiera que implique o pretenda dañar la estabilidad psicológica de la persona, insultos, humillaciones, devaluaciones, marginación, comparaciones destructivas, rechazo, y amenazas, las cuales lleven a la víctima a la depreciación de su persona de manera particular o ante su entorno social; así como cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres. Se sancionarán con multa de 3 a 10 días de Salario Mínimo General Vigente en el Estado o arresto hasta por treinta y seis horas; así mismo se obligará al infractor a acreditar al menos tres horas de cursos de concientización en materia de erradicación de violencia de género impartidos por la o las dependencias que para el efecto se encuentren facultadas.
 
 ### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
 
@@ -13934,3 +13946,7 @@ TERCERO.- Todos los asuntos que se encuentren en trámite al inicio de la vigenc
 CUARTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que se opongan a lo dispuesto en el presente Reglamento Municipal de Tepezalá
 
 QUINTO.- Los reglamentos municipales expedidos con anterioridad continuarán vigentes en cuanto su aplicación sea compatible con el presente ordenamiento.
+
+P.O. 5 DE MARZO DE 2018.
+
+> <small>[N. DE E. LAS "MODIFICACIONES Y ADICIONES AL CÓDIGO MUNICIPAL DE TEPEZALÁ, AGS.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.]</small>
