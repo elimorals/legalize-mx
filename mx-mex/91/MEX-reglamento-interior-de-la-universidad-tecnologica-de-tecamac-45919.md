@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-de-tecamac-45
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2018-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE TECAMAC
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE TECAMAC
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE TECÁMAC, PUBLICADO EN LA G.G. DE 6 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE TECAMAC
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 15 de agosto de 2005.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD TECNOLOGICA DE TECAMAC, EN EJERCICIO DE LA ATRIBUCION QUE LE CONFIERE EL ARTICULO 13 FRACCION V DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECAMAC; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Que en mérito de lo expuesto, ha tenido a bien expedir el siguiente:
 
@@ -460,3 +464,19 @@ DR. VICTOR MANUEL MAYORAL GUZMAN
 RECTOR DE LA UNIVERSIDAD TECNOLOGICA DE TECAMAC Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 6 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE TECÁMAC”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Tecnológica de Tecámac, publicado en el Periódico Oficial “Gaceta del Gobierno” de fecha 15 de agosto de 2005.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO.- Las autoridades administrativas procederán a hacer explicita la igualdad de género cuando se refiere a personas y a Órganos de la Institución.
