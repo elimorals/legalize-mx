@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-turistico-del-estado-de-zacatecas-41476"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-25"
-last_updated: "2016-01-20"
+last_updated: "2018-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA EL DESARROLLO TURISTICO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de agosto de 2004.
 
@@ -886,3 +888,21 @@ P.O. 20 DE ENERO DE 2016.
 Artículo primero. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TURISMO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas.
+
+Artículo segundo. Se abroga la Ley para el Desarrollo Turístico del Estado de Zacatecas, publicada en Suplemento al número 68 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 25 de agosto de 2004 y sus reformas.
+
+Asimismo, se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo tercero. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento de la presente Ley, el Reglamento Interior de la Secretaría de Turismo del Estado de Zacatecas y el Estatuto Orgánico de la Agencia para la Industria de Reuniones del Estado de Zacatecas.
+
+Los manuales o, en su caso, las reformas a los mismos, deberán publicarse dentro de los noventa días siguientes a la entrada en vigor de los citados ordenamientos, según corresponda.
+
+Artículo cuarto. De acuerdo con lo establecido en la fracción XI del artículo 82 de la Constitución Política del Estado Libre y Soberano de Zacatecas, el titular del Ejecutivo nombrará al Director General de la Agencia para la Industria de Reuniones del Estado de Zacatecas.
+
+Artículo quinto. Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, deberá quedar conformada la Junta de Gobierno de la Agencia referida.
