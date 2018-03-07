@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2017-11-18"
+last_updated: "2018-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -201,9 +201,9 @@ Corresponde a los titulares de las Dependencias de la Administración Pública l
 
 I. Regular, instrumentar, coordinar, supervisar, difundir y evaluar las políticas, programas y presupuestos de la dependencia y el sector a su cargo, asegurando su participación en el Sistema Estatal de Planeación Democrática. Asimismo establecer, de conformidad con la normatividad aplicable, los indicadores de desempeño en cada uno de los programas señalados;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-II. Administrar y coordinar los sistemas de programación, información y evaluación en el sector de su responsabilidad ó aquellos que se realicen con otras dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que en términos de las leyes establezca el Ejecutivo para el logro de los objetivos y metas de los planes y programas de desarrollo. Lo anterior conforme a la normatividad y autorizaciones que emitan, en forma individual o de común acuerdo, la Secretaría de Planeación y Finanzas, la Secretaría de Administración, la Secretaría de Contraloría, la Coordinación General de Asuntos Jurídicos o la Coordinación General de Desarrollo Regional y Proyectos Estratégicos, en lo que corresponde a sus funciones como dependencias globalizadoras;
+II. Administrar y coordinar los sistemas de programación, información y evaluación en el sector de su responsabilidad ó aquellos que se realicen con otras dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que en términos de las leyes establezca el Ejecutivo para el logro de los objetivos y metas de los planes y programas de desarrollo. Lo anterior conforme a la normatividad y autorizaciones que emitan, en forma individual o de común acuerdo, la Secretaría de Planeación y Finanzas, la Secretaría de Administración e Innovación Gubernamental, la Secretaría de Contraloría, la Coordinación General de Asuntos Jurídicos o la Coordinación General de Desarrollo Regional y Proyectos Estratégicos, en lo que corresponde a sus funciones como dependencias globalizadoras;
 
 III. Proponer al Ejecutivo, proyectos de iniciativas y decretos de reforma y actualización de las leyes, reglamentos y demás disposiciones jurídicas, cuya materia corresponda a sus atribuciones;
 
@@ -271,7 +271,7 @@ XX.- Las demás que le encomiende el Gobernador, las leyes y reglamentación vig
 
 La Gubernatura del Estado, como dependencia auxiliar directa del titular del Poder Ejecutivo, se conformará con las unidades siguientes: la Representación del Gobierno del Estado en la Ciudad de México, la Secretaría Técnica, la Secretaría Particular y la Coordinación General de Comunicación Social y Relaciones Públicas, además de las que determine el Gobernador en ejercicio de sus facultades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] , P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
@@ -435,11 +435,11 @@ El Titular del Poder Ejecutivo designará al Coordinador General de Asuntos Jur�
 
 Los Titulares de las unidades, dependencias, entidades y órganos a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia y aquellos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 25.
 
-Al tomar posesión del cargo o separarse de éste, los Titulares de las dependencias y entidades mencionadas en esta Ley, con la participación de las Secretarías de la Contraloría, de Planeación y Finanzas y de Administración, o de sus Órganos Internos de Control, deberán realizar el proceso de entrega-recepción, conforme a la normatividad aplicable.
+Al tomar posesión del cargo o separarse de éste, los Titulares de las dependencias y entidades mencionadas en esta Ley, con la participación de las Secretarías de la Contraloría, de Planeación y Finanzas y de Administración e Innovación Gubernamental, o de sus Órganos Internos de Control, deberán realizar el proceso de entrega recepción, conforme a la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -453,7 +453,9 @@ II.- Secretaría de Seguridad Pública;
 
 III.- Secretaría de Planeación y Finanzas;
 
-IV.- Secretaría de Administración;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+IV.- Secretaría de Administración e Innovación Gubernamental;
 
 V.- Secretaría de Educación;
 
@@ -501,9 +503,9 @@ III. Procurar la adecuada colaboración con las Comisiones Estatal y Nacional de
 
 IV. Participar en la formulación y conducción de las políticas públicas y programas relativos a: desarrollo político, protección civil, trabajo y previsión social, así como velar la fiel observancia de las disposiciones legales;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-V. Proponer al Ejecutivo en coordinación con el Titular de la dependencia del ramo y el Coordinador General de Asuntos Jurídicos, la disolución de los organismos públicos descentralizados u órganos desconcentrados, en razón de haber cumplido su cometido o derivado de la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado; al efecto, la Secretaría de Gobierno deberá coordinarse con las Secretarías de Planeación y Finanzas, de Contraloría, de Ordenamiento Territorial y Obras Públicas y de Administración, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que en su caso, se les hubiere asignado para el desarrollo de sus objetivos;
+V. Proponer al Ejecutivo en coordinación con el Titular de la dependencia del ramo y el Coordinador General de Asuntos Jurídicos, la disolución de los organismos públicos descentralizados u órganos desconcentrados, en razón de haber cumplido su cometido o derivado de la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado; al efecto, la Secretaría de Gobierno deberá coordinarse con las Secretarías de Planeación y Finanzas, de Contraloría, de Ordenamiento Territorial y Obras Públicas y de Administración e Innovación Gubernamental, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que en su caso, se les hubiere asignado para el desarrollo de sus objetivos;
 
 VI. Vigilar en el ámbito de su competencia, el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, la del Estado, y las leyes que de ellas emanen, así como las disposiciones del Ejecutivo y proponer las medidas administrativas que se requieran para su cumplimiento;
 
@@ -805,19 +807,27 @@ LXV. Instrumentar y ejecutar los trabajos que en materia de información y estad
 
 LXVI. Las demás que se prevean en otras disposiciones o le sean encomendadas por el Gobernador.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2018)</small>
 
-ARTÍCULO 29 BIS. A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
+ARTÍCULO 29 BIS.- A la Secretaría de Administración e Innovación Gubernamental le corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 I. Instrumentar, regular, coordinar, supervisar y difundir las normas, políticas, sistemas, funciones, programas y procedimientos, relativos a la administración de los recursos humanos, materiales, tecnológicos y de los servicios generales e informáticos que deberán aplicar las dependencias, entidades y órganos de la Administración Pública, para el manejo de sus recursos y servicios, de acuerdo con los programas y presupuestos a cargo de la misma y en congruencia con las políticas de desconcentración y descentralización que se determinen;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-II. Coordinar la ejecución de reformas a la Administración Pública Estatal, a cargo del Ejecutivo, que considere en la prestación de los servicios los elementos de racionalidad, economía, oportunidad, calidad, institucionalidad y adecuada atención de las demandas de la sociedad. Al efecto, podrá realizar las investigaciones, estudios y análisis necesarios para el cumplimiento de dicho objetivo; en su caso, podrá apoyarse en las instituciones académicas y de investigación en el Estado, especializadas en Administración Pública, a fin de asegurar que en la organización y funcionamiento de la misma se supriman o eviten los casos de duplicidad, omisión o interferencia entre sus políticas, normas, estructuras, funciones, sistemas, procesos, recursos y procedimientos;
+II. Coordinar la ejecución de reformas a la Administración Pública Estatal, a cargo del Ejecutivo, que considere en la prestación de los servicios los elementos de racionalidad, economía, oportunidad, calidad, institucionalidad, innovación y adecuada atención de las demandas de la sociedad. Al efecto, podrá realizar las investigaciones, estudios y análisis necesarios para el cumplimiento de dicho objetivo; en su caso, podrá apoyarse en las instituciones académicas y de investigación en el Estado, especializadas en Administración Pública, a fin de asegurar que en la organización y funcionamiento de la misma se supriman o eviten los casos de duplicidad, omisión o interferencia entre sus políticas, normas, estructuras, funciones, sistemas, procesos, recursos y procedimientos;
 
-III. Vincular la ejecución y desarrollo de las reformas a la Administración Pública Estatal, a cargo del Ejecutivo, con las políticas y directrices emitidas por el Gobernador, así como asegurar su interrelación con el Plan Estatal de Desarrollo, los Presupuestos de Ingresos y Egresos y el programa financiero del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+III. Vincular la ejecución y desarrollo de las reformas a la Administración Pública Estatal, a cargo del Ejecutivo, con las políticas y directrices emitidas por el Gobernador, así como asegurar su interrelación con el Plan Estatal de Desarrollo, la Agenda Digital, los Presupuestos de Ingresos y Egresos y el programa financiero del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 IV. Correlacionar el desarrollo de las reformas a la Administración Pública Estatal con las políticas y prioridades establecidas para el ejercicio del Gasto Público por la Secretaría de Planeación y Finanzas y la Coordinación General de Desarrollo Regional y Proyectos Estratégicos. De igual forma, asegurar que el desarrollo de los mismos se vincule con el adecuado comportamiento de los indicadores de desempeño de las distintas dependencias, entidades y órganos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 V. Dictaminar respecto de la creación, modificación, fusión o supresión de las dependencias, entidades y órganos de la Administración Pública Estatal, a cargo del Ejecutivo, considerando la normatividad aplicable y la disponibilidad presupuestal, así como las políticas y directrices emitidas por el Gobernador al respecto. Una vez obtenida la aprobación del Ejecutivo, formular junto con la Coordinación General de Asuntos Jurídicos, el instrumento legal requerido para tal efecto.
 
@@ -825,25 +835,43 @@ V. Dictaminar respecto de la creación, modificación, fusión o supresión de l
 
 VI. Coordinar el diseño y la ejecución de los proyectos de reordenamiento institucional con la Secretaría de Planeación y Finanzas y la Secretaría de Contraloría, considerando sus respectivas atribuciones y las directrices del Gobernador, para la adecuada reorganización y readscripción de los recursos humanos y materiales, así como del patrimonio público involucrados;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 VII. Establecer, supervisar y difundir entre las dependencias, entidades, órganos y servidores públicos de la Administración Pública del Estado, la normatividad que regule la ejecución, aplicación y actualización de las políticas, reglas, estructuras, funciones, sistemas, procesos, recursos y procedimientos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 VIII. Emitir y supervisar normas y lineamientos que en las relaciones de trabajo deban aplicar las dependencias, entidades y órganos de la Administración Pública, así como conducir y vigilar su cumplimiento en las relaciones con los trabajadores. De igual forma concertar los acuerdos e instrumentos respectivos, procurando la protección del patrimonio e intereses del Estado, en congruencia con la adecuada operación de los servicios públicos, el ejercicio racional del presupuesto y el cumplimiento de los programas respectivos y de la legislación aplicable;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 IX. Establecer, operar y vigilar los procedimientos relacionados con el adecuado cumplimiento de las obligaciones de los servidores públicos de la Administración Publica en materia fiscal, laboral y de seguridad social, en lo que corresponde a las retenciones y pagos respectivos a las instancias competentes. Igualmente, verificar el cumplimiento de las disposiciones fiscales y de otra naturaleza que corresponda aplicar a la Administración Pública en su relación contractual con los proveedores de bienes y servicios;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 X. Emitir los criterios y lineamientos sobre el reclutamiento selección, contratación, inducción, remuneraciones, seguridad social, prestaciones y antigüedad de los servidores públicos, así como tramitar y registrar los nombramientos, remociones, licencias, suspensiones o inhabilitaciones, jubilaciones y pensiones de los servidores públicos, en su ámbito de competencia;
 
-XI. Coordinar y supervisar los programas de capacitación directiva, técnica y administrativa, para la formación y desarrollo de los servidores públicos, atendiendo a los requerimientos de las dependencias, entidades y órganos de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+XI. Coordinar y supervisar los programas de capacitación directiva, técnica, administrativa y en habilidades digitales, para la formación y desarrollo de los servidores públicos, atendiendo a los requerimientos de las dependencias, entidades y órganos de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XII. Constituir, revisar y actualizar el Tabulador General de Remuneraciones de la Administración Pública, y construir programas de estímulos y recompensas para los Servidores Públicos, regularizando y homologando categorías, salarios y prestaciones;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 XIII. Emitir y supervisar normas y lineamientos relacionados con la suspensión, modificación o cancelación de los contratos que en materia de bienes y servicios generen derechos u obligaciones para la Administración Pública;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XIV. Crear, operar y supervisar el Sistema Estatal de Administración de Recursos y Servicios, procurando que en su instrumentación participen las Unidades Administrativas de cada una de las dependencias y entidades de la Administración Pública Estatal;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
 XV. Atender, controlar y mantener actualizado el registro o inventario de los bienes muebles e inmuebles propiedad del Gobierno del Estado; así como, en coordinación con las instancias competentes, administrar y asegurar la conservación y mantenimiento de los bienes que se encuentren a su cargo, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XVI. Supervisar la operación desconcentrada del proceso de adquisición de los bienes y servicios de la Administración Pública, conforme a la ley en la materia, así como, fijar, regular y emitir, en coordinación con la Secretaría de Contraloría, los criterios y lineamientos que fortalezcan la desconcentración en materia de adquisición, arrendamiento, suministro, registro, almacenamiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de las funciones de la Administración Pública;
 
@@ -855,7 +883,11 @@ XVII. Proponer al Ejecutivo, en coordinación con la dependencia involucrada y l
 
 XVIII. Emitir las normas, políticas y lineamientos relativos a la administración de los bienes inmuebles de propiedad Estatal así como destinar dichos bienes a otras dependencias y entidades de la Administración Publica, previa opinión técnica de la Secretaría de Ordenamiento Territorial y Obras Públicas, de conformidad con la legislación y normatividad aplicable. Además, celebrar convenios y demás instrumentos jurídicos necesarios con otras autoridades o particulares para otorgar la posesión, temporal, de inmuebles de propiedad Estatal, en términos de la ley aplicable;
 
-XIX. Conducir el proceso de modernización e innovación gubernamental, desde la elaboración de los respectivos proyectos de reglamentos interiores, estatutos, manuales administrativos o normas de administración interna, según corresponda, de las dependencias y entidades, con la colaboración de éstas y de la Coordinación General de Asuntos Jurídicos, hasta la instrumentación de acciones específicas de simplificación, transparencia y calidad en los servicios, sobre la base de las tecnologías de información y comunicaciones;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+XIX. Conducir el proceso de modernización e innovación gubernamental, desde la elaboración de los respectivos proyectos de reglamentos interiores, estatutos, manuales administrativos o normas de administración interna, según corresponda, de las dependencias y entidades, con la colaboración de éstas y de la Coordinación General de Asuntos Jurídicos, hasta la instrumentación de acciones específicas de simplificación, transparencia y calidad en los servicios, mediante el uso y aprovechamiento estratégico de las tecnologías de información y comunicaciones, con la finalidad de impulsar el desarrollo de un Gobierno Digital en la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XX. Regular, coordinar y supervisar, en el ámbito de sus atribuciones, la política de adquisición y administración de equipos informáticos y de comunicaciones de las dependencias y entidades de la Administración Pública, en los términos de la legislación y normatividad aplicable;
 
@@ -863,7 +895,9 @@ XX. Regular, coordinar y supervisar, en el ámbito de sus atribuciones, la polí
 
 XXI. Colaborar con las demás dependencias y entidades del Ejecutivo en el manejo de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, así como coordinar la administración de la red intergubernamental de Internet del Ejecutivo;
 
-XXII. Definir y conducir la política de modernización administrativa del gobierno estatal, con base en tecnologías de información y comunicaciones, a través de la formulación y ejecución de los programas de mejora regulatoria, calidad y mejora continua, diseño de procesos, simplificación de trámites, medición y evaluación de la gestión pública y fortalecimiento de los valores cívicos y éticos en el servicio público;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+XXII. Definir y conducir la política de modernización administrativa del gobierno estatal, con base en tecnologías de información y comunicaciones, a través de la formulación y ejecución de los programas de mejora regulatoria, calidad y mejora continua, diseño de procesos, simplificación de trámites, medición y evaluación de la gestión pública y fortalecimiento de los valores cívicos y éticos en el servicio público. Además, coordinar y ejecutar las acciones necesarias para garantizar la interoperabilidad e interconectividad de los sistemas, aplicaciones, plataformas y tecnologías desarrollados a partir de la estrategia de Gobierno Digital, en términos de la legislación de la materia.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -873,11 +907,19 @@ XXIII. Organizar y coordinar, con apego a las disposiciones de la materia, el pr
 
 XXIV. Regular, organizar y supervisar la operación de Talleres Gráficos del Estado, así como realizar las actividades referentes a la organización metódica del archivo del personal al servicio del Poder Ejecutivo del Estado;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 XXV. Coordinar y supervisar la edición de las publicaciones oficiales; al respecto, procurará que las dependencias y entidades solicitantes de estos servicios cuenten con su respectiva disponibilidad presupuestal para asegurar la correcta organización y funcionamiento de los mismos. Lo anterior independientemente de las facultades de la Secretaría de Gobierno;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XXVI. Dirigir los programas regulares de asistencia y supervisión informática, con el propósito de verificar el adecuado uso de los equipos tecnológicos y de comunicaciones, la existencia de los licenciamientos correspondientes, así como la pertinencia y adecuada asignación de las nuevas adquisiciones que realicen las dependencias y entidades de la Administración Pública Estatal;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 XXVII. Planear, coordinar, regular y supervisar el programa de descentralización de funciones y recursos de la Administración Pública Estatal a las administraciones públicas municipales del Estado. Así como conducir y supervisar las acciones de concertación e instrumentación que se realicen con la Federación para la descentralización al Estado de programas, recursos y funciones federales; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 XXVIII. Las demás que se prevean en otras disposiciones o le sean encomendadas por el Gobernador.
 
@@ -963,9 +1005,9 @@ XXXI. Impulsar y promover en los planteles educativos y áreas administrativas d
 
 XXXII.- Atender los criterios y orientaciones conducentes a la participación del sector en la integración del Padrón Único de Beneficiarios que administra y opera la Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XXXIII.- Colaborar con la Secretaría de Administración para el adecuado registro de los bienes inmuebles de la Secretaría para su integración al patrimonio del Estado;
+XXXIII. Colaborar con la Secretaría de Administración e Innovación Gubernamental para el adecuado registro de los bienes inmuebles de la Secretaría para su integración al patrimonio del Estado;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1027,7 +1069,9 @@ XIV. Incorporar en los programas de desarrollo social lo conducente a atender la
 
 XV. Fortalecer las actividades de desarrollo social en las zonas marginadas y la capacitación del personal responsable de este tipo de servicios, para atender y canalizar adecuadamente a la población vulnerable, como los adultos mayores y los discapacitados;
 
-XVI. Colaborar con la Secretaría de Administración en el adecuado registro de los bienes inmuebles, así como el inventario de los bienes muebles de la Secretaría para su integración al patrimonio del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+XVI. Colaborar con la Secretaría de Administración e Innovación Gubernamental en el adecuado registro de los bienes inmuebles, así como el inventario de los bienes muebles de la Secretaría para su integración al patrimonio del Estado;
 
 XVII. Definir y proponer la organización social como eje fundamental para la determinación, ejecución y vigilancia de las acciones, obras y recursos destinados a elevar los niveles de desarrollo social de la población, coadyuvando a la ampliación de los espacios democráticos para la toma de decisiones y la transparencia en el ejercicio de los recursos;
 
@@ -1137,9 +1181,9 @@ XXIII. Incorporar en los programas de salud lo conducente a atender las polític
 
 XXIV. Fortalecer las actividades de medicina preventiva en las zonas vulnerables y la capacitación del personal médico y paramédico responsable del primer nivel para atender y canalizar adecuadamente a la población vulnerable, tal como adultos mayores y discapacitados; y
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XXV. Colaborar con la Secretaría de Administración para el adecuado registro de los bienes inmuebles de la Secretaría para su integración al patrimonio del Estado.
+XXV. Colaborar con la Secretaría de Administración e Innovación Gubernamental para el adecuado registro de los bienes inmuebles de la Secretaría para su integración al patrimonio del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1335,9 +1379,13 @@ XII. Regular, construir, proyectar, conservar, reparar y supervisar las obras p�
 
 XIII. Colaborar con el Gobierno Federal en la planeación, desarrollo y supervisión de la infraestructura hidráulica de la Entidad, así como realizar, en coordinación con las dependencias involucradas, la proyección, estudios, construcción y conservación de obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y de irrigación, con la finalidad de adecuar el desarrollo urbano, la infraestructura y la vivienda;
 
-XIV. Administrar las reservas territoriales y demás tierras que no sean del dominio de la Federación o de otras entidades públicas, y en coordinación con las Secretarías de Planeación y Finanzas y de Administración, establecer los métodos para determinar el valor monetario más cercano al real de acuerdo a sus características;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XV. Contribuir con la Secretaría de Administración al adecuado registro del patrimonio inmobiliario del Estado;
+XIV. Administrar las reservas territoriales y demás tierras que no sean del dominio de la Federación o de otras entidades públicas, y en coordinación con las Secretarías de Planeación y Finanzas y de Administración e Innovación Gubernamental, establecer los métodos para determinar el valor monetario más cercano al real de acuerdo a sus características;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+XV. Contribuir con la Secretaría de Administración e Innovación Gubernamental al adecuado registro del patrimonio inmobiliario del Estado;
 
 XVI. Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades. Además, intervenir en los actos vinculados con la transferencia o enajenación de las reservas territoriales y demás tierras propiedad de la administración centralizada del Poder Ejecutivo, en los términos que señale la legislación de la materia;
 
@@ -1473,17 +1521,17 @@ XI. Expedir, actualizar, difundir, sistematizar y supervisar la normatividad adm
 
 XII. Coordinar y supervisar el Sistema de Control Interno, Evaluación y Auditoría Gubernamental; establecer, regular, emitir y coordinar las bases para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la administración pública estatal; así como realizar las auditorías que requieran dichos entes públicos en sustitución o apoyo de sus propios Órganos Internos de Control;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MARZO DE 2018)</small>
 
-XIII. Apoyar a la Secretaría de Administración y a la Coordinación General de Asuntos Jurídicos, según sus respectivas atribuciones, en la determinación y supervisión de las normas y procedimientos para regular:
+XIII. Apoyar a la Secretaría de Administración e Innovación Gubernamental y a la Coordinación General de Asuntos Jurídicos, según sus respectivas atribuciones, en la determinación y supervisión de las normas y procedimientos para regular:
 
 a) la organización interna, funcionamiento y desarrollo administrativo de las Dependencias y Entidades de la Administración Pública y,
 
 b) la instrumentación de los criterios y lineamientos para la elaboración, revisión y publicación de los reglamentos interiores, los estatutos y los manuales administrativos de las Dependencias y Entidades de la Administración Pública;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XIV. Colaborar con las Secretarías de Planeación y Finanzas y de Administración, según corresponda, en la promoción y evaluación de los programas y acciones destinados a asegurar la calidad en las funciones y servicios a cargo de las dependencias y entidades de la Administración Pública, a fin de que los recursos humanos, materiales y financieros, sean cabalmente aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia, simplificación administrativa, productividad, ahorro en el gasto público y transparencia, apoyando las acciones para la descentralización o desconcentración de los servicios de conformidad con la normatividad aplicable;
+XIV. Colaborar con las Secretarías de Planeación y Finanzas y de Administración e Innovación Gubernamental, según corresponda, en la promoción y evaluación de los programas y acciones destinados a asegurar la calidad en las funciones y servicios a cargo de las dependencias y entidades de la Administración Pública, a fin de que los recursos humanos, materiales y financieros, sean cabalmente aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia, simplificación administrativa, productividad, ahorro en el gasto público y transparencia, apoyando las acciones para la descentralización o desconcentración de los servicios de conformidad con la normatividad aplicable;
 
 XV. Establecer mecanismos que modernicen las normas, lineamientos y procedimientos de control y evaluación de la actividad gubernamental;
 
@@ -1567,9 +1615,9 @@ XXXVI. Vigilar el cumplimiento de las normas, lineamientos, políticas y procedi
 
 XXXVII. Participar en los actos de entrega - recepción de las Dependencias y Entidades de la Administración Pública, en los términos de la legislación y normatividad respectivas;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XXXVIII. Colaborar con la Secretaría de Administración, en la gestión de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto federales como estatales;
+XXXVIII. Colaborar con la Secretaría de Administración e Innovación Gubernamental, en la gestión de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto federales como estatales;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -1755,9 +1803,9 @@ XXIV. Opinar previamente sobre el nombramiento y, en su caso, plantear al Titula
 
 XXV. Tramitar las consultas que formulen las dependencias del Poder Ejecutivo, organismos públicos descentralizados, fideicomisos públicos, empresas de participación estatal y ayuntamientos, sobre interpretación de leyes, reglamentos, decretos, acuerdos y circulares de cualquier índole, sea cual fuere su forma de expedición;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XXVI.- Proponer al Ejecutivo, en coordinación con la dependencia involucrada, la disolución de los organismos públicos descentralizados u órganos desconcentrados, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado. En caso aprobatorio, deberá coordinarse con las Secretarías de Gobierno, de Planeación y Finanzas, de Administración, de Ordenamiento Territorial y Obras Públicas, y de Contraloría, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que, en su caso, se les hubiere asignado para el cumplimiento de sus objetivos;
+XXVI. Proponer al Ejecutivo, en coordinación con la dependencia involucrada, la disolución de los organismos públicos descentralizados u órganos desconcentrados, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado. En caso aprobatorio, deberá coordinarse con las Secretarías de Gobierno, de Planeación y Finanzas, de Administración e Innovación Gubernamental, de Ordenamiento Territorial y Obras Públicas, y de Contraloría, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que, en su caso, se les hubiere asignado para el cumplimiento de sus objetivos;
 
 XXVII. Someter a consideración y aprobación del Gobernador del Estado, el programa y el convenio de transferencia de los servicios públicos a los Ayuntamientos, apegándose a la normatividad aplicable;
 
@@ -2244,3 +2292,19 @@ QUINTO.- Las obligaciones derivadas de las reformas materia del presente Decreto
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SÉPTIMO.- Conforme a lo establecido en el Decreto por el que se expiden la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación y a lo dispuesto en el presente Decreto, los procedimientos de responsabilidades administrativas iniciados por autoridades del Estado de Tabasco y sus municipios con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables en la materia vigentes al momento de su inicio.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 12, FRACCIÓN II; 25; 26, FRACCIÓN IV; 27, FRACCIÓN V; 29 BIS, EN SU ENCABEZADO Y SUS FRACCIONES II, III, XI, XIX Y XXII; 30, FRACCIÓN XXXIII; 31, FRACCIÓN XVI; 32, FRACCIÓN XXV; 35, FRACCIONES XIV Y XV; 37, FRACCIONES XIII, EN SU ENCABEZADO, XIV Y XXXVIII; Y 39, FRACCIÓN XXVI, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Gobierno Digital y Firma Electrónica para el Estado de Tabasco y sus Municipios, dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor de este Decreto.
+
+Los lineamientos para la implementación y operación del SETyS, deberán emitirse en un plazo no mayor a noventa días naturales siguientes a la entrada en vigor de la Ley.
+
+CUARTO.- El Consejo Estatal deberá quedar instalado dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor del Reglamento.
+
+QUINTO.- Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto a la Secretaría de Administración, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas a la Secretaría de Administración e Innovación Gubernamental.
