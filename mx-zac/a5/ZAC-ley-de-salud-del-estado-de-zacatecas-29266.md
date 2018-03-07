@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2015-08-29"
+last_updated: "2018-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE SALUD DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018 (ABROGADO).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -2294,3 +2296,19 @@ Cuarto. El Estatuto Orgánico del organismo descentralizado Régimen Estatal de 
 Quinto. El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, dotará de los recursos financieros necesarios para la consecución de los fines de la Secretaría de Salud.
 
 Sexto. En tanto se realizan los ajustes en la normatividad respectiva, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE SALUD DEL ESTADO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Salud del Estado de Zacatecas, aprobada por Decreto número 290, expedido por la Quincuagésima Sexta Legislatura del Estado, publicada en el suplemento número 52 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 30 de junio de 2001.
+
+TERCERO. Dentro de los ciento ochenta días naturales siguientes, contados a partir de la entada en vigor de este Decreto, el Ejecutivo del Estado emitirá el Reglamento de la presente Ley, así como los demás reglamentos específicos.
+
+CUARTO. El Consejo deberá expedir el Estatuto Orgánico y demás reglamentos derivados de esta Ley, en un plazo que no excederá de ciento ochenta días naturales, siguientes a la entrada en vigor de la Ley.
+
+QUINTO. En tanto se expiden las disposiciones orgánicas y reglamentarias derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan, y su referencia a la Ley de Salud del Estado de Zacatecas que se abroga, se entiende hecha, en lo aplicable, a la presente Ley.
+
+SEXTO. Todas las actas, procedimientos y recursos administrativos relacionados con la materia de esta ley, que se hubieren iniciado bajo la vigencia de la que se abroga se tramitarán y resolverán conforme a las disposiciones de este ordenamiento.
