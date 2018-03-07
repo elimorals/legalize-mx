@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2018-02-14"
+last_updated: "2018-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1249,9 +1249,9 @@ X. Participar, en representación del Congreso del Estado, cuando así correspon
 
 XI. Igualdad de Género;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
-XI bis. Emitir convocatoria pública para el otorgamiento de la condecoración «Michoacanas por Michoacán».
+XI bis. Emitir Convocatoria Pública para el otorgamiento de la Condecoración «La Mujer Michoacana»;
 
 XII. Los que se refieran a iniciativas de leyes de seguridad social, de salud, civiles y penales, para regular derechos y responsabilidades familiares, particularmente con relación a la paternidad; y,
 
@@ -3936,3 +3936,9 @@ P.O. 14 DE FEBRERO DE 2018.
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Decreto Legislativo 425, por el que se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, de conformidad con lo previsto por el artículo 164 de la Constitución Estatal.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 552 POR EL QUE “SE REFORMA LA FRACCIÓN XI BIS DEL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
