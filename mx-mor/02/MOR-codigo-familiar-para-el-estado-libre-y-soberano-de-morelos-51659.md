@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2017-11-29"
+last_updated: "2018-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3941,7 +3941,7 @@ Las personas llamadas por la Ley para desempeñar la tutela legítima y que reh�
 
 ###### ARTÍCULO 518.
 
-TESTAMENTO EN FAVOR DE CLASES CON MIEMBROS INDETERMINADOS. Cuando el testador deje como herederos o legatarios a clases formadas por número indeterminado de individuos, tales como los pobres, los huérfanos, los ciegos, y otras personas de condiciones similares, se regirán por lo dispuesto en las Leyes de Asistencia Social. Los testamentos hechos en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en los artículos 27 y 130 de la Constitución Federal y sus leyes reglamentarias.
+TESTAMENTO A FAVOR DE CLASES CON MIEMBROS INDETERMINADOS. Cuando el testador deje como herederos o legatarios a clases formadas por número indeterminado de individuos, tales como los pobres, los huérfanos, los ciegos, y otras personas de condiciones similares, se regirán por lo dispuesto en las Leyes de Asistencia Social. Los testamentos hechos en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en los artículos 27 y 130 de la Constitución Federal y sus leyes reglamentarias.
 
 ###### ARTÍCULO 519.
 
@@ -4657,7 +4657,9 @@ IMPOSIBILIDAD PARA SER TESTIGO EN LOS TESTAMENTOS. No pueden ser testigos del te
 
 I.- Los amanuenses del Notario que lo autorice;
 
-II.- Los menores de dieciséis años;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
+
+II.- Los menores de dieciocho años;
 
 III.- Los que no estén en su sano juicio;
 
@@ -6502,3 +6504,13 @@ P.O. 29 DE NOVIEMBRE DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 641 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
