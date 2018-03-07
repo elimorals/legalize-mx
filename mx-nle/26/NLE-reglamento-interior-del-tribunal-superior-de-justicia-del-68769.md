@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2016-11-16"
+last_updated: "2018-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -471,19 +471,19 @@ De las Salas Colegiadas.
 
 Integración y competencia de las Salas Colegiadas.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2018)</small>
 
 ###### Artículo 37.
 
 Denominación e integración. Las salas se denominarán e integrarán de la siguiente manera:
 
-La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Cuarta y Décima Quinta.
+La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Tercera y Décima Quinta.
 
 La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Séptima, Octava y Novena.
 
 La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Décimo Tercera y Décimo Cuarta.
 
-La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
+La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Cuarta, Décima y Undécima.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
@@ -597,7 +597,7 @@ Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que es
 
 De las Salas Unitarias.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2018)</small>
 
 ###### Artículo 51.
 
@@ -607,13 +607,13 @@ Las Salas Primera, Séptima, Octava, Novena y Décimo Quinta conocerán de los a
 
 Las Salas Tercera y Quinta conocerán de los asuntos en materia familiar.
 
-Las Salas Segunda, Cuarta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Colegiadas Penales. Además de su competencia en materia penal, las salas unitarias Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
+Las Salas Segunda, Cuarta, Décima, Undécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Colegiadas Penales. Además de su competencia en materia penal, las salas unitarias Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2018)</small>
 
 ###### Artículo 52.
 
-Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
+Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
 
 ## TÍTULO SÉPTIMO.
 
@@ -876,5 +876,15 @@ P.O. 16 DE NOVIEMBRE DE 2016.
 PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Para efectos de la aplicación de la reforma a que se refiere el punto inmediato anterior, se tomará como base la fecha de interposición del recurso respectivo.
+
+TERCERO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO 3/2018, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE DETERMINA LA CONCLUSIÓN DE FUNCIONES DE LA DUODÉCIMA SALA UNITARIA PENAL, ASÍ COMO LA REORGANIZACIÓN DE LAS SALAS COLEGIADAS; Y, ADEMÁS, SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO: El presente Acuerdo General, incluyendo las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, entrarán en vigor a partir de su aprobación.
+
+SEGUNDO: Para efectos del turno de asuntos a la Tercera Sala Unitaria Familiar, deberá tomarse en cuenta la carga de trabajo que, de manera proporcional, le corresponda o le pudiera corresponder como integrante de la Primera Sala Colegiada Civil.
 
 TERCERO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
