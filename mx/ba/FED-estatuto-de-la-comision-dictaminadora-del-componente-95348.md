@@ -4,7 +4,7 @@ identifier: "FED-estatuto-de-la-comision-dictaminadora-del-componente-95348"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-08-12"
-last_updated: "2013-08-12"
+last_updated: "2018-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-07-26"
 ---
 # ESTATUTO DE LA COMISION DICTAMINADORA DEL COMPONENTE ATENCION A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCION Y MANEJO DE RIESGOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DE LA COMISIÓN DICTAMINADORA DEL COMPONENTE RELATIVO A LA ATENCIÓN DE PRODUCTORES AFECTADOS POR SINIESTROS AGROPECUARIOS, PUBLICADO EN EL D.O.F. DE 7 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DE LA COMISIÓN DICTAMINADORA DEL COMPONENTE ATENCIÓN A DESASTRES NATURALES EN EL SECTOR AGROPECUARIO Y PESQUERO DEL PROGRAMA DE PREVENCIÓN Y MANEJO DE RIESGOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2018 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de agosto de 2013.
 
@@ -184,3 +186,15 @@ PRIMERO.- El presente Estatuto entrará en vigor al día siguiente al de su publ
 SEGUNDO.- Al entrar en vigor el presente Estatuto, queda abrogado el Estatuto de la Comisión Dictaminadora del Componente de Atención a Desastres Naturales del Sector Agropecuario y Pesquero del Programa de Prevención y Manejo de Riesgos (CADENA), publicado en el Diario Oficial de la Federación el 25 de abril de 2011.
 
 México, D.F., a 26 de julio de 2013.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DE LA COMISIÓN DICTAMINADORA DEL COMPONENTE RELATIVO A LA ATENCIÓN DE PRODUCTORES AFECTADOS POR SINIESTROS AGROPECUARIOS".]
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto de la Comisión Dictaminadora del Componente Atención a Desastres Naturales en el Sector Agropecuario y Pesquero del Programa de Prevención y Manejo de Riesgos, publicado en el Diario Oficial de la Federación el 12 de agosto de 2013.
+
+TERCERO.- Todas las referencias a la Comisión Dictaminadora del Componente Atención a Desastres Naturales en el Sector Agropecuario y Pesquero del Programa de Prevención y Manejo de Riesgos, se entenderán hechas a la Comisión Dictaminadora del Componente relativo a la atención de productores afectados por siniestros agropecuarios.
