@@ -4,7 +4,7 @@ identifier: "SON-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-127224
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-15"
-last_updated: "2018-02-15"
+last_updated: "2018-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "SON"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MARZO DE 2018 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO SONORA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE MARZO DE 2018.]</small>
 
 Estatuto publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 15 de febrero de 2018.
 
@@ -600,7 +600,9 @@ PRIMERO. El presente Estatuto Orgánico entrara en vigor al día siguiente de su
 
 SEGUNDO. El Estatuto Orgánico de la Secretaría Ejecutiva deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública
+> <small>(F. DE E., B.O. 8 DE MARZO DE 2018)</small>
+
+TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante la Secretaría de Hacienda del Estado de Sonora.
 
 CUARTO. La atribución referida en el artículo 18, fracción VII del presente Estatuto, será ejercida por el Secretario Técnico a partir de la entrada en vigor del mismo.
 
