@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-sistema-integral-de-financiamiento-8618
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-09"
-last_updated: "2012-02-09"
+last_updated: "2018-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,15 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Novena Sección del Periódico Oficial del Estado de Michoacán, el jueves 9 de febrero de 2012.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 60 fracción VI y XXII, 62, 65 y 66 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, 2°, 3°, 4°, 5°, 9°, 11, 13, 14, 15, 16, 17, 18, 19, 46 fracción I y 47 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo expuesto, he tenido a bien emitir el siguiente:
 
@@ -442,3 +444,11 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 ISIDORO RUÍZ ARGÁIZ
 
 (Firmado)
+
+P.O. DE 8 DE MARZO DE 2018
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Sistema Integral de Financiamiento para el Desarrollo de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 9 de febrero de 2012, tomo CLIII, número 63, así como las demás disposiciones administrativas que se opongan al presente Reglamento.
