@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-la-igualdad-entre-117601"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-02"
-last_updated: "2016-12-02"
+last_updated: "2018-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MARZO DE 2018.
 
 Estatuto publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2016.
 
@@ -92,6 +92,10 @@ d) Dirección de Planeación e Investigación.
 1. Jefatura del Departamento de Institucionalización y Fortalecimiento a la Transversalidad de la Perspectiva de Género.
 
 e) Dirección de Vinculación Institucional
+
+> <small>(ADICIONADO, D.O. 8 DE MARZO DE 2018)</small>
+
+1. Subdirección de Vinculación Regional.
 
 f) Dirección de Administración y Finanzas.
 
@@ -331,7 +335,9 @@ I. Planear, dirigir, coordinar, supervisar y evaluar la organización y el funci
 
 II. Administrar los recursos humanos, financieros, materiales y tecnológicos que les sean asignados o transferidos a la unidad administrativa a su cargo.
 
-III. Acordar con la directora general del instituto el despacho de los asuntos de su competencia que requieran de su intervención y atender los demás que le encomiende, así como mantenerla informada sobre su cumplimiento.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+III. Dar seguimiento a las instrucciones de la directora general del instituto en asuntos que sean de su competencia y que requieran de su intervención, así como emitir un informe sobre su cumplimiento.
 
 IV. Elaborar y presentar a la directora general del instituto el anteproyecto de presupuesto de egresos, y los proyectos de programa presupuestario y de programa anual de trabajo que les corresponda.
 
@@ -361,7 +367,9 @@ Facultades y obligaciones de la persona titular de la Jefatura de Despacho de la
 
 La persona que tendrá el cargo de Jefe de Despacho de la Dirección General tendrá las siguientes facultades y obligaciones:
 
-I. Auxiliar a la directora general del instituto en la coordinación, evaluación y seguimiento de las acciones a cargo de las unidades administrativas.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+I. Auxiliar en la coordinación y el seguimiento de las acciones de la dirección general y elaborar los informes de las actividades realizadas en la ejecución de su cargo.
 
 II. Coordinar las reuniones de trabajo entre la directora general del instituto y las personas titulares de las unidades administrativas.
 
@@ -377,21 +385,27 @@ Facultades y obligaciones de la persona titular de la Dirección de Empoderamien
 
 La persona titular de la Dirección de Empoderamiento y Participación de la Mujer tendrá las siguientes facultades y obligaciones:
 
-I. Promover y dar seguimiento a las políticas públicas encaminadas al empoderamiento económico de las mujeres en el estado.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+I. Promover y dar seguimiento a los programas y políticas públicas encaminadas al empoderamiento económico de las mujeres en el estado.
 
 II. Promover y fortalecer la transversalización e institucionalización de la perspectiva de género a través de acciones enmarcadas en una agenda institucional en materia de empoderamiento y participación social de la mujer.
 
 III. Impulsar a las mujeres a participar en la toma de decisiones que contribuyan a alcanzar su desarrollo integral.
 
-IV. Promover la implementación y operación de programas sociales de apoyo para la mujer.
+IV. (DEROGADA, D.O. 8 DE MARZO DE 2018)
 
-V. Instrumentar acciones y mecanismos que permitan a las mujeres alcanzar su pleno desarrollo desde una perspectiva de igualdad de género.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+V. Instrumentar y orientar acciones y mecanismos que brinden a las mujeres herramientas para alcanzar su pleno desarrollo desde una perspectiva de igualdad de género.
 
 VI. Fortalecer la vinculación con los diversos sectores de la sociedad para promover el desarrollo humano y sustentable de las mujeres.
 
 VII. Promover el reconocimiento e impulso del empoderamiento de las mujeres para lograr un mejor posicionamiento social y una mayor capacidad de toma de decisiones.
 
-VIII. Diseñar y proponer las estrategias para la orientación de los recursos que contribuyan a mejorar las condiciones de vida de las mujeres, priorizando a los sectores con mayor índice de violencia.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+VIII. Diseñar y proponer las estrategias que contribuyan a mejorar las condiciones de vida de las mujeres, priorizando las regiones con mayor índice de violencia.
 
 IX. Impulsar el desarrollo de las capacidades y conocimientos técnicos-prácticos en los grupos de mujeres con mayor marginación, para la realización de actividades productivas.
 
@@ -409,19 +423,31 @@ Facultades y obligaciones de la persona titular de la Dirección de Prevención 
 
 La persona titular de la Dirección de Prevención y Atención de la Violencia contra las Mujeres tendrá las siguientes facultades y obligaciones:
 
-I. Participar en el diseño, operación y supervisión de los programas de consulta y vigilancia de las políticas de apoyo a la participación de las mujeres para fomentar la prevención y atención de la violencia contra estas.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+I. Participar en el diseño, operación y supervisión de los programas de apoyo a la participación de las mujeres para fomentar la prevención y atención de la violencia contra las mujeres.
 
 II. Promover y fortalecer la transversalidad e institucionalización de la perspectiva de género a través de las acciones enmarcadas en una agenda institucional en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-III. Brindar asesoría jurídica, canalización o acompañamiento, así como atención psicológica a mujeres víctimas de violencia.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
 
-IV. Coordinar y supervisar el funcionamiento de los Centros Municipales de Atención a la Violencia contra las Mujeres, de los Centros de Atención y Reeducación para Hombres que Ejercen Violencia de Género, del Centro de Atención Itinerante y de la Ventanilla Única de Gestión Social y Atención Ciudadana.
+III. Brindar servicios de asistencia, atención y seguimiento de casos en materia jurídica, psicológica y de trabajo social, a mujeres en situación de violencia, así como su canalización, el acompañamiento y la vinculación interinstitucional necesaria, según sea el caso.
 
-V. Sistematizar, supervisar y resguardar la información que se genera en los Centros Municipales de Atención a la Violencia contra las Mujeres, en los Centros de Atención y Reeducación para Hombres que Ejercen Violencia de Género, en el Centro de Atención Itinerante y la Ventanilla Única de Gestión Social y Atención Ciudadana.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
 
-VI. Capacitar y sensibilizar al sector público, en materia de género con base en la estrategia integral del instituto, a través de los Centros Municipales de Atención a la Violencia contra las Mujeres.
+IV. Coordinar y supervisar el funcionamiento y la aplicación de los modelos de atención en los centros municipales de atención a la violencia contra las mujeres, el Centro de Reeducación para Hombres que Ejercen Violencia de Género y la Unidad de Atención Itinerante.
 
-VII. Proporcionar atención psicológica a los hombres a través de los Centros de Atención y Reeducación para Hombres que Ejercen Violencia de Género.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+V. Supervisar y resguardar la información que se genere en cada uno de los centros municipales de atención a la violencia contra las mujeres, en el Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género y en la Unidad de Atención Itinerante.
+
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+VI. Priorizar la formación, capacitación, sensibilización y profesionalización de las acciones en materia de violencia contra las mujeres dirigidas al personal que presta los servicios de prevención y atención, como parte de la estrategia integral del instituto.
+
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+VII. Proporcionar atención psicológica individual o grupal a hombres a través del Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género.
 
 VIII. Coadyuvar en la realización de los trabajos emanados del Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
 
@@ -485,19 +511,53 @@ La persona titular de la Dirección de Vinculación Institucional tendrá las si
 
 I. Fortalecer las acciones de vinculación institucional encaminadas al cumplimiento del objeto del instituto.
 
-II. Promover y fortalecer la transversalización e institucionalización de la perspectiva de género a través de las acciones enmarcadas en una agenda institucional en materia de vinculación con la sociedad civil organizada e instituciones educativas.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
 
-III. Promover la vinculación académica del instituto en materia de igualdad de género y prevención de la violencia.
+II. Promover y fortalecer la transversalización e institucionalización de la perspectiva de género, a través de las acciones enmarcadas en una agenda institucional en materia de vinculación con la Administración Pública municipal, las instituciones educativas públicas o privadas y la sociedad civil organizada.
 
-IV. Fortalecer los mecanismos de vinculación con los organismos de la sociedad civil.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
 
-V. Capacitar y sensibilizar a la sociedad civil organizada e instituciones educativas en materia de género con base en la estrategia integral del instituto.
+III. Promover la vinculación académica del instituto en materia de igualdad de género y prevención de la violencia contra las mujeres
 
-VI. Coordinar y supervisar los trabajos de las representantes municipales y las promotoras comunitarias, para fortalecer la perspectiva de igualdad de género y la prevención de la violencia contra las mujeres, previo convenio de colaboración y coordinación celebrado con el ayuntamiento respectivo.
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
 
-VII. Impulsar propuestas de convenios de colaboración y mecanismos de vinculación con las diversas instituciones educativas del estado relacionadas con la prestación del servicio social y el desarrollo de prácticas profesionales.
+IV. Promover el fortalecimiento de los mecanismos de vinculación con los organismos de la sociedad civil organizada.
+
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+V. Capacitar y sensibilizar a las instituciones educativas en materia de género y derechos humanos con base en la estrategia integral del instituto.
+
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+VI. Coordinar los trabajos con las instancias municipales de la mujer, y las promotoras comunitarias, para fortalecer la perspectiva de género y la prevención de la violencia contra las mujeres, previo convenio de colaboración y coordinación celebrado con el ayuntamiento respectivo.
+
+> <small>(REFORMADA, D.O. 8 DE MARZO DE 2018)</small>
+
+VII. Impulsar propuestas de convenios de colaboración y de coordinación, y mecanismos de vinculación con las instituciones educativas del estado, relacionados con la investigación, la prestación del servicio social y el desarrollo de prácticas profesionales, encaminados (sic) al cumplimiento del objeto del instituto.
 
 VIII. Coordinar la operación y gestión del Centro de Información, Documentación y Estudios Especializados sobre la Mujer y Relaciones de Género ¨Felipa Poot¨.
+
+> <small>(ADICIONADA, D.O. 8 DE MARZO DE 2018)</small>
+
+IX. Impulsar la celebración de convenios de colaboración y coordinación con los ayuntamientos para promover la incorporación de la perspectiva de género, la prevención de violencia contra las mujeres, la implementación de las políticas públicas encaminadas al fortalecimiento de la no discriminación, la igualdad sustantiva y de género; así como el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social.
+
+> <small>(ADICIONADA, D.O. 8 DE MARZO DE 2018)</small>
+
+X. Promover la instalación de los consejos municipales para la igualdad en la Administración Pública municipal.
+
+> <small>(ADICIONADO, D.O. 8 DE MARZO DE 2018)</small>
+
+Artículo 32 bis. Facultades y obligaciones de la persona titular de la Subdirección de Vinculación Regional
+
+La persona titular de la Subdirección de Vinculación Regional tendrá las siguientes facultades y obligaciones:
+
+I. Capacitar y sensibilizar a las instancias municipales de la mujer en materia de género, previo convenio de colaboración y coordinación celebrado con el ayuntamiento respectivo.
+
+II. Promover la consolidación de los consejos municipales para la igualdad entre mujeres y hombres en el marco de la agenda pública estatal.
+
+III. Dar seguimiento a los acuerdos establecidos en los convenios de colaboración y coordinación celebrados con los ayuntamientos.
+
+IV. Elaborar y presentar a la persona titular de la Dirección de Vinculación Institucional del instituto los informes y reportes que permitan conocer los resultados obtenidos y el grado de cumplimiento de los objetivos y las metas de la unidad administrativa a su cargo.
 
 ###### Artículo 33.
 
@@ -662,3 +722,17 @@ Aprobado por la Junta de Gobierno del Instituto para la Igualdad entre Mujeres y
 Alaine Patricia López Briceño
 
 Directora General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 8 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IPIEMH 04/2017 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, previa aprobación por la Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La directora general del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
