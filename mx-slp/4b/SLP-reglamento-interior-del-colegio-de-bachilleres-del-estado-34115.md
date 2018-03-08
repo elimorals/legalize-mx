@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-colegio-de-bachilleres-del-estado-34115
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-16"
-last_updated: "2014-02-08"
+last_updated: "2018-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2018 (ABROGADA).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de septiembre de 2003.
 
@@ -570,3 +572,11 @@ LIC. ANA MARÍA ACEVES ESTRADA
 P.O. 8 DE FEBRERO DE 2014.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SAN LUIS POTOSÍ.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se abroga el Decreto por el cual se emite el Reglamento Interior del Colegio de Bachilleres de San Luis Potosí, publicado en el Periódico Oficial del Estado el 16 de septiembre de 2003.
