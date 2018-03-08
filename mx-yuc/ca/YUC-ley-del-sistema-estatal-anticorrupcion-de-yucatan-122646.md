@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-anticorrupcion-de-yucatan-122646"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-10-31"
+last_updated: "2018-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -719,15 +719,25 @@ Tercero. Integración del Comité de Participación Ciudadana
 
 Por única ocasión, para garantizar el nombramiento escalonado, la comisión de selección, en un plazo de hasta sesenta días naturales, contado a partir de la designación de sus integrantes, deberá seleccionar a los integrantes del Comité de Participación Ciudadana, de conformidad con lo siguiente:
 
-a) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2018, quien presidirá el Comité de Participación Ciudadana.
+> <small>(REFORMADO, D.O. 8 DE MARZO DE 2018)</small>
 
-b) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2019.
+a) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2019, quien presidirá el Comité de Participación Ciudadana.
 
-c) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2020.
+> <small>(REFORMADO, D.O. 8 DE MARZO DE 2018)</small>
 
-d) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2021.
+b) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2020.
 
-e) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2022.
+> <small>(REFORMADO, D.O. 8 DE MARZO DE 2018)</small>
+
+c) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2021.
+
+> <small>(REFORMADO, D.O. 8 DE MARZO DE 2018)</small>
+
+d) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2022.
+
+> <small>(REFORMADO, D.O. 8 DE MARZO DE 2018)</small>
+
+e) Elegirá a un integrante, que durará en su encargo hasta el 31 de marzo de 2023.
 
 Cuarto. Designación del representante del Consejo de la Judicatura
 
@@ -741,7 +751,13 @@ Sexto. Secretario técnico
 
 El Comité Coordinador del Sistema Estatal Anticorrupción deberá designar al secretario técnico del sistema, en un plazo de treinta días naturales, contado a partir de su instalación.
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS TRECE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DIECISIETE.- PRESIDENTA DIPUTADA VERÓNICA NOEMÍ CAMINO FARJAT.- SECRETARIA (SIC) DIPUTADO RAFAEL GERARDO MONTALVO MATA.- SECRETARIO (SIC) DIPUTADA MARÍA DEL ROSARIO DÍAZ GÓNGORA.- RÚBRICAS.”
+> <small>(ADICIONADO, D.O. 8 DE MARZO DE 2018)</small>
+
+Séptimo. Primer informe
+
+Por única ocasión, el primer informe que se debe rendir en términos de la Ley del Sistema Estatal Anticorrupción de Yucatán abarcará desde la instalación del comité coordinador hasta el 31 de diciembre de 2018.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS TRECE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DIECISIETE.- PRESIDENTA DIPUTADA VERÓNICA NOEMÍ CAMINO FARJAT.- SECRETARIA (SIC) DIPUTADO RAFAEL GERARDO MONTALVO MATA.- SECRETARIO (SIC) DIPUTADA MARÍA DEL ROSARIO DÍAZ GÓNGORA.- RÚBRICAS."
 
 Y, por tanto, mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
 
@@ -766,3 +782,19 @@ D.O. 31 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 539/2017 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN".]
 
 Artículo único. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 8 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 596/2018 POR EL QUE SE MODIFICA EL DECRETO 505/2017 POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Extensión de las designaciones
+
+Los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Yucatán, que fueron designados conforme al artículo tercero transitorio del Decreto 505/2017 por el que se expide la Ley del Sistema Estatal Anticorrupción de Yucatán, continuarán en sus cargos en los términos y plazos de este decreto.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
