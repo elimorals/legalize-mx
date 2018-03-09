@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LRSIC"
 ---
 # LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -50,8 +52,6 @@ La presente ley tiene por objeto regular la constitución y operación de las so
 
 Para los efectos de esta ley, se entenderá en singular o plural por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 I. Base Primaria de Datos, aquella que se integra con información de cartera vencida que proporcionen directamente los Usuarios a las Sociedades, en la forma y términos en que se reciba de aquéllos. Para efectos de esta ley las Sociedades considerarán como cartera vencida aquella definida como tal en las disposiciones aplicables a instituciones de crédito emitidas por la Comisión.
@@ -68,9 +68,9 @@ III. Comisión, la Comisión Nacional Bancaria y de Valores;
 
 IV. Empresa Comercial, la persona moral u organismo público distintos de las Entidades Financieras, que realice operaciones de crédito relacionadas con la venta de sus productos o prestación de servicios, u otras de naturaleza análoga; los fideicomisos de fomento económico constituidos por los Estados de la República y por el Distrito Federal, así como la persona moral y el fideicomiso que adquieran o administren cartera crediticia. Continuarán considerándose Empresa Comercial los fideicomisos mencionados, no obstante que se encuentren en proceso de extinción;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-V. Entidad Financiera, aquélla autorizada para operar en territorio nacional y que las leyes reconozcan como tal, incluyendo a aquellas a que se refiere el artículo 7o. de la Ley para Regular las Agrupaciones Financieras; la banca de desarrollo; los organismos públicos cuya actividad principal sea el otorgamiento de créditos; así como los fideicomisos de fomento económico constituidos por el Gobierno Federal; las uniones de crédito; las sociedades de ahorro y préstamo, y las entidades de ahorro y crédito popular, con excepción de las Sofomes E.N.R.. (sic) Continuarán considerándose Entidades Financieras las personas mencionadas, no obstante que se encuentren en proceso de disolución, liquidación o extinción, según corresponda;
+V. Entidad Financiera, aquella autorizada para operar en territorio nacional y que las leyes reconozcan como tal, incluyendo a aquellas a que se refiere el artículo 12 de la Ley para Regular las Agrupaciones Financieras; la banca de desarrollo; los organismos públicos cuya actividad principal sea el otorgamiento de créditos, así como los fideicomisos de fomento económico constituidos por el Gobierno Federal; las uniones de crédito; las sociedades cooperativas de ahorro y préstamo, las sociedades financieras comunitarias, las instituciones de tecnología financiera y, con excepción de las SOFOM E.N.R. continuarán considerándose Entidades Financieras las personas mencionadas, no obstante que se encuentren en proceso de disolución, liquidación o extinción, según corresponda;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -450,8 +450,6 @@ La orden de suspensión a que se refiere este artículo es sin perjuicio de las 
 
 La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; asimismo, estarán obligados a señalar expresamente la fecha de origen de los créditos que inscriban y la fecha del primer incumplimiento. Las Sociedades no deberán inscribir por ningún motivo, créditos cuya fecha de origen no sea especificado por los Usuarios, o cuando éste tenga una antigüedad en cartera vencida mayor a 72 meses. Lo anterior, de conformidad con lo establecido en los artículos 23 y 24 de esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En caso de que la información proporcionada por el Usuario sea relativa a una persona moral, el Usuario deberá incluir a los accionistas o titulares de las partes sociales, según corresponda, que sean propietarios del 10% o más del capital social.
@@ -463,8 +461,6 @@ Las Entidades Financieras deberán proporcionar, de conformidad con las disposic
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 Cuando el cliente realice el cumplimiento de una obligación, el Usuario deberá proporcionar a la Sociedad la información del pago correspondiente y la eliminación de la clave de prevención u observación correspondiente. El Usuario deberá enviar dicha información dentro de los cinco días hábiles posteriores al pago. En el caso a que se refiere el párrafo quinto del artículo 27 bis, los Usuarios contarán con un plazo de hasta diez días hábiles para enviar la información actualizada a la Sociedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -582,9 +578,11 @@ Cuando la venta o cesión haya sido efectuada a personas que no sean Usuarios o 
 
 La obligación de atender las reclamaciones que los Clientes presenten a las Sociedades, en términos de lo previsto en el artículo 42, será a cargo de la persona a quien le corresponda actualizar la información del crédito vendido o cedido.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 28.
 
-Las Sociedades sólo podrán proporcionar información a un Usuario, cuando éste cuente con la autorización expresa del Cliente, mediante su firma autógrafa, en donde conste de manera fehaciente que tiene pleno conocimiento de la naturaleza y alcance de la información que la Sociedad proporcionará al Usuario que así la solicite, del uso que dicho Usuario hará de tal información y del hecho de que éste podrá realizar consultas periódicas de su historial crediticio, durante el tiempo que mantenga relación jurídica con el Cliente.
+Las Sociedades solo podrán proporcionar información a un Usuario, cuando este cuente con la autorización expresa del Cliente, mediante su firma, en donde conste de manera fehaciente que tiene pleno conocimiento de la naturaleza y alcance de la información que la Sociedad proporcionará al Usuario que así la solicite, del uso que dicho Usuario hará de tal información y del hecho de que este podrá realizar consultas periódicas de su historial crediticio, durante el tiempo que mantenga relación jurídica con el Cliente. La firma a que se refiere este párrafo podrá ser recabada de manera autógrafa o por medios electrónicos, en este último caso, siempre que cumpla con los términos y condiciones establecidos por el Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -847,8 +845,6 @@ Si el Usuario acepta total o parcialmente lo señalado en la reclamación presen
 En caso de que el Usuario acepte parcialmente lo señalado en la reclamación o señale la improcedencia de ésta, deberá expresar en su respuesta los elementos que consideró respecto de la reclamación y adjuntará copia de la evidencia que sustente su respuesta. La Sociedad deberá remitir al Cliente dicha respuesta y copia de la mencionada evidencia, dentro de los cinco días hábiles siguientes a que reciba la respuesta del Usuario. El Cliente podrá manifestar en un texto de no más de doscientas palabras los argumentos por los que a su juicio la información proporcionada por el Usuario es incorrecta y solicitar a la Sociedad que incluya dicho texto en sus futuros Reportes de Crédito.
 
 En caso de que los errores objeto de la reclamación presentada por el Cliente sean imputables a la Sociedad, ésta deberá corregirlos de manera inmediata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1522,8 +1518,6 @@ Las multas a que se refiere el artículo anterior podrán ser impuestas tanto a 
 
 ### CAPITULO SEGUNDO (SIC). QUITAS Y REESTRUCTURAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 69.
@@ -1634,47 +1628,11 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+D.O.F. 9 DE MARZO DE 2018.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
-
-CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
-
-QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
-
-SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
-
-SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
-
-OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
-
-NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
-
-DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
-
-DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
-
-DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
-
-G.G. 14 DE MARZO DE 2016.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 68.- POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2.20, EL ARTÍCULO 3.27, EL PÁRRAFO TERCERO DEL ARTÍCULO 3.30, LA FRACCIÓN I DEL ARTÍCULO 4.7, LA FRACCIÓN II DEL ARTÍCULO 4.31, LOS ARTÍCULOS 4.56 Y 4.91, EL PÁRRAFO SEGUNDO Y LA FRACCIÓN III DEL ARTÍCULO 4.95, LOS ARTÍCULOS 4.104 Y 4.105, LAS FRACCIONES I Y II DEL ARTÍCULO 4.109, EL EPÍGRAFE Y EL ARTÍCULO 4.127, EL ARTÍCULO 4.128, EL EPÍGRAFE, EL PÁRRAFO PRIMERO, LA FRACCIÓN II, LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 4.129, LOS ARTÍCULOS 4.135 Y 4.136, EL EPÍGRAFE Y EL ARTÍCULO 4.138, EL ARTÍCULO 4.139, LA FRACCIÓN II DEL ARTÍCULO 4.144, EL ARTÍCULO 4.202, EL PÁRRAFO PRIMERO DEL ARTÍCULO 4.205, EL EPÍGRAFE Y EL ARTÍCULO 4.222, LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 4.228, EL ARTÍCULO 4.321, LA FRACCIÓN I DEL ARTÍCULO 4.383, SE ADICIONAN EL PÁRRAFO QUINTO AL ARTÍCULO 4.129, LOS ARTÍCULOS 4.397 BIS Y 4.397 TER, LA FRACCIÓN IV AL ARTÍCULO 7.156, LA FRACCIÓN IV AL ARTÍCULO 7.157 Y SE DEROGAN LA FRACCIÓN IV DEL ARTÍCULO 3.26, EL EPÍGRAFE Y EL ARTÍCULO 3.28, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4.4, LOS EPÍGRAFES Y LOS ARTÍCULOS 4.5 Y 4.6, LA FRACCIÓN II DEL ARTÍCULO 4.7, LOS EPÍGRAFES Y ARTÍCULOS 4.21, 4.28, 4.63, 4.64, 4.68, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 4.99, EL EPÍGRAFE Y EL ARTÍCULOS (SIC) 4.101, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4.129, LOS EPÍGRAFES Y LOS ARTÍCULOS 4.137, 4.140, LA FRACCIÓN III DEL ARTÍCULO 4.144 Y 4.148, LA FRACCIÓN II DEL ARTÍCULO 4.223, EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 4.228, LOS ARTÍCULOS 4.231, 4.265, EL CAPÍTULO I "DE LA EMANCIPACIÓN" DEL TÍTULO NOVENO "DE LA EMANCIPACIÓN Y DE LA MAYORÍA DE EDAD" DEL LIBRO CUARTO "DEL DERECHO FAMILIAR", EL ARTÍCULO 4.338 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
 
