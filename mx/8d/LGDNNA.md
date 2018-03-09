@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2018-01-26"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1652,6 +1652,16 @@ De conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radi
 
 Las autoridades competentes vigilarán que se clasifiquen las películas, programas de radio y televisión en términos de lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión, así como videos, videojuegos y los impresos.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+###### Artículo 69 Bis.
+
+La Secretaría de Gobernación expedirá los lineamientos que establezcan criterios de clasificación de los videojuegos que se distribuyan, comercialicen o arrienden, por cualquier medio, y vigilará su cumplimiento.
+
+Los distribuidores de videojuegos deberán imprimir o adherir en la portada de los videojuegos y en su publicidad la clasificación que corresponda, de acuerdo con los lineamientos a los que refiere el párrafo anterior. Los comercializadores de videojuegos deberán abstenerse de publicitar, exhibir, vender o arrendar videojuegos cuya clasificación no sea visible en los términos que señalen los lineamientos.
+
+Los comercializadores y arrendadores de videojuegos están obligados a exigir a las personas que pretendan adquirir o arrendar videojuegos clasificados como exclusivos para adultos, que acrediten su mayoría de edad, sin lo cual no podrá realizarse la venta o renta.
+
 ###### Artículo 70.
 
 Las Procuradurías de Protección y cualquier persona interesada, por conducto de éstas, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables.
@@ -1902,6 +1912,10 @@ VI. Respecto de los concesionarios de radio y televisión y de quien dirija medi
 
 VII. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la difusión de imágenes o voz de niñas, niños o adolescentes, en contravención a lo dispuesto en el artículo 80 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+VII Bis. Respecto de los distribuidores, comercializadores y arrendadores de videojuegos, la distribución, publicitación, exhibición, venta y arrendamiento de videojuegos, en contravención a lo dispuesto en el artículo 69 Bis de esta Ley;
+
 VIII. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema Nacional DIF a que se refiere el artículo 31 de esta Ley, en los casos competencia de dicho Sistema, y
 
 IX. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden federal.
@@ -1910,7 +1924,9 @@ IX. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden
 
 A quienes incurran en las infracciones previstas en las fracciones I, II y VIII del artículo anterior, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-Las infracciones previstas en las fracciones III, IV, V, VI y VII del artículo anterior, serán sancionadas con multa de tres mil y hasta treinta mil días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Las infracciones previstas en las fracciones III, IV, V, VI, VII y VII Bis del artículo anterior, serán sancionadas con multa de tres mil y hasta treinta mil días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta.
 
 En los casos de las infracciones previstas en las fracciones III, V, VI y VII del artículo anterior, se impondrá una multa adicional de mil quinientos y hasta siete mil días de salario mínimo general vigente en el Distrito Federal, por cada día que se difunda o se encuentren disponibles en medios electrónicos de los que tenga control el concesionario o medio impreso que se trate, la información, datos, imágenes o audios.
 
@@ -1944,7 +1960,9 @@ I. La dependencia o entidad de la Administración Pública Federal que resulte c
 
 II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial de la Federación; las Cámaras de Diputados o de Senadores del Congreso de la Unión; órganos con autonomía constitucional, o del Tribunal Federal de Justicia Fiscal y Administrativa o de tribunales del trabajo o agrarios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales;
 
-III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones III, IV, V, VI y VII, del artículo 148 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones III, IV, V, VI, VII y VII Bis, del artículo 148 de esta Ley, y
 
 IV. El Sistema Nacional DIF, en los casos de la fracción VIII del artículo 148 de esta Ley.
 
@@ -2015,6 +2033,18 @@ D.O.F. 26 DE ENERO DE 2018.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los instrumentos normativos que derivan del presente Decreto, así como los que integran el Sistema Nacional de Protección Integral deberán adecuarse a la presente reforma.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+
+Tercero. La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Cuarto. Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
