@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
@@ -68,7 +68,9 @@ III.- Presidente, al Presidente de la Comisión, y (sic)
 
 IV.- Entidades o entidades financieras integrantes del Sistema Financiero Mexicano:
 
-a) A las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, especialistas bursátiles, bolsas de valores, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple reguladas, sociedades financieras populares, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, sociedades de información crediticia, sociedades financieras comunitarias, sujetas a la supervisión de la Comisión y los organismos de integración financiera rural, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión, todas ellas constituidas conforme a las Leyes mercantiles y financieras.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+a) A las sociedades controladoras y subcontroladoras de grupos financieros, instituciones de crédito, casas de bolsa, bolsas de valores, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, sociedades financieras de objeto múltiple reguladas, sociedades financieras populares, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, instituciones de tecnología financiera, sociedades de información crediticia, sociedades financieras comunitarias, sujetas a la supervisión de la Comisión y los organismos de integración financiera rural, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión, todas ellas constituidas conforme a las leyes mercantiles y financieras.
 
 b) A las sociedades cooperativas de ahorro y préstamo, sujetas a la supervisión de la Comisión, a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, integrantes del sector social;
 
@@ -803,3 +805,9 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
