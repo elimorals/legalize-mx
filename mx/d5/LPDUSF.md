@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -60,9 +60,9 @@ II. Comisión Nacional, a la Comisión Nacional para la Protección y Defensa de
 
 III. Comisiones Nacionales, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas, y a la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto múltiple, sociedades de información crediticia, casas de bolsa, especialistas bursátiles, fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, PENSIONISSSTE, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, Instituto del Fondo Nacional para el Consumo de los Trabajadores, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios.
+IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto múltiple, sociedades de información crediticia, casas de bolsa, fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, PENSIONISSSTE, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, Instituto del Fondo Nacional para el Consumo de los Trabajadores, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, las instituciones de tecnología financiera, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios;
 
 V. Junta, a la Junta de Gobierno de la Comisión Nacional;
 
@@ -811,6 +811,10 @@ V. El titular de la Unidad Especializada deberá presentar dentro de los diez d�
 La presentación de reclamaciones ante la Unidad Especializada suspenderá la prescripción de las acciones a que pudieren dar lugar.
 
 Las Instituciones Financieras deberán informar mediante avisos colocados en lugares visibles en todas sus sucursales la ubicación, horario de atención y responsable o responsables de la Unidad Especializada. Los Usuarios podrán a su elección presentar su consulta o reclamación ante la Unidad Especializada de la Institución Financiera de que se trate o ante la Comisión Nacional.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+En el caso de que las Instituciones Financieras no tengan sucursales u oficinas de atención al público no les serán aplicables las obligaciones previstas en la fracción II del párrafo primero y el párrafo tercero de este artículo. Dichas Instituciones Financieras solamente deberán señalar los datos de contacto de su Unidad Especializada en un lugar visible y de fácil acceso al público general en el medio electrónico que utilicen para ofrecer sus servicios.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -1945,3 +1949,9 @@ IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
