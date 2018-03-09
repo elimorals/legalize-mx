@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2017-11-17"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1379,13 +1379,13 @@ La inspección y verificación en las vías federales ubicadas dentro del territ
 
 ### CAPITULO XV. DE LAS INFRACCIONES Y MULTAS Y DEL REGIMEN SANCIONADOR MUNICIPAL
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### Artículo 93.
 
 La responsabilidad administrativa por las infracciones a las normas reguladoras de los transportes y actividades auxiliares de los mismos regulados en este reglamento corresponderá:
 
-En las infracciones cometidas con ocasión de la realización de transportes o actividades sujetos a permiso o concesión; a la persona física o moral titular del permiso o concesión.
+En las infracciones cometidas con ocasión de la realización de transportes o actividades sujetos a permiso o concesión, al sujeto activo que realizo la conducta, y solidariamente al titular o a la persona física o moral titular del permiso o concesión.
 
 En las infracciones cometidas con ocasión de transportes o actividades realizados sin la cobertura o fuera del perímetro de explotación del correspondiente permiso o concesión; a la persona física o moral titular de la actividad y/o propietario del vehículo.
 
@@ -1493,7 +1493,7 @@ VII.- La reincidencia en las infracciones que se hayan calificado como graves de
 
 VIII.- El abandono de la concesión o paralización de los servicios, sin que haya tenido lugar la finalización del plazo de la concesión, sin el consentimiento de la Administración y su puesta en conocimiento, esta falta no invalida por modo alguno el ejercicio de otras disposiciones que señale le (sic) ley y el presente reglamento.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### Artículo 98.
 
@@ -1503,13 +1503,7 @@ La cuantía de la sanción que se imponga, dentro de los límites establecidos e
 
 La comisión de las infracciones previstas en los fracciones I) y II) del artículo 97, podrá implicar independientemente de la sanción pecuniaria que corresponda, el retiro del correspondiente permiso, así como la clausura del local en el que, en su caso, vengan ejercitando las actividades, en ambos supuestos durante el plazo máximo de un año, sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.
 
-La infracción prevista en la fracción VI del artículo 97, además de la sanción pecuniaria que corresponda, llevará a la revocación del correspondiente permiso.
-
 Cuando los responsables de las infracciones previstas en el artículo 97 hayan sido sancionados mediante resolución definitiva por infracción tipificada en el mismo apartado de dicho artículo, en los doce meses anteriores a la comisión de la misma, la infracción llevará a la suspensión temporal del correspondiente permiso, al amparo del cual se realizaba la actividad o se prestaba el servicio, por el plazo máximo de un año. La tercera y sucesivas infracciones en el citado plazo de doce meses, llevarán a la suspensión temporal o definitiva de la autorización. En el cómputo del referido plazo no se tendrán en cuenta los períodos en que no haya sido posible realizar la actividad o prestar el servicio por haber sido temporalmente retirada la autorización.
-
-Cuando sean detectadas infracciones que deban ser denunciadas de acuerdo con lo previsto en las fracciones I), II) y III) del artículo 97 y del artículo 96 en sus apartados VI), y XII), podrá ordenarse la inmediata paralización del vehículo hasta que se supriman los motivos determinantes de la infracción, pudiendo la Unidad Municipal de Transporte adoptar las medidas necesarias a fin de que los usuarios sufran la menor perturbación posible.
-
-Independientemente de las sanciones que correspondan de conformidad con este reglamento el incumplimiento reiterado o de manifiesta gravedad de las condiciones esenciales del permiso, podrá dar lugar a la revocación del permiso, en ambos casos con pérdida de la respectiva fianza.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -1525,7 +1519,7 @@ El pago de las sanciones pecuniarias, impuestas por resolución definitiva, ser�
 
 Asimismo, la realización de dicho pago de sanciones será requisito exigible para que proceda la autorización administrativa a la transferencia de los vehículos con los que se hayan cometido las infracciones a las que las referidas sanciones correspondan.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO] P.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### Artículo 100.
 
@@ -1533,19 +1527,27 @@ Independientemente de las sanciones previstas en los numerales que anteceden, la
 
 I.- No contar con el permiso o concesión para realizar el servicio público (sic) transporte, según corresponda;
 
-II.- Por falta de una o ambas placas, excepto que cuenten con el comprobante vigente de reposición o con el acta levantada ante el Agente del Ministerio Público, cuya fecha no sea mayor a cinco días de antelación;
+II.- La prestación de servicios en condiciones que puedan afectar a la seguridad de las personas por entrañar peligro grave y directo para las mismas.
 
-III.- No haber acreditado la revista vehicular en el término fijado por la Unidad, o no portar la póliza de seguro vigente;
+III.- Por falta de una o ambas placas, excepto que cuenten con el comprobante vigente de reposición o con el acta levantada ante el Agente del Ministerio Público, cuya fecha no sea mayor a cinco días de antelación;
 
-IV.- Prestar el servicio público fuera de la ruta autorizada en su caso, o hacer base en lugar no autorizado;
+IV.- No haber acreditado la revista vehicular en el término fijado por la Unidad, o no portar la póliza de seguro vigente;
 
-V.- Alterar las tarifas vigentes;
+V.- Prestar el servicio público fuera de la ruta autorizada en su caso, o hacer base en lugar no autorizado;
 
-VI.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo modalidad o prestación del servicio;
+VI.- Alterar las tarifas vigentes; Por no acatar las disposiciones relativas al aumento de capacidad, modificación de ruta, especificaciones, sistema de operación y demás condiciones en que deba prestarse el servicio público de que se trate, o cualquier otra irregularidad cometida en la prestación del servicio, conforme a la reglamentación Municipal correspondiente;
 
-VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Unidad; y
+VII.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo modalidad o prestación del servicio;
 
-VIII.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica.
+VIII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Unidad;
+
+IX.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica.
+
+X.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o datos falsos a la Autoridad, o se duplique o sobrepongan placas y números económicos a vehículos que no correspondan al permiso o concesión de conformidad con el registro público de transporte;
+
+XI.- El exceso en el peso máximo autorizado de los vehículos que señalen las normas oficiales o las del fabricante del vehículo, superior a los porcentajes que reglamentariamente se determinen en relación con los distintos tipos de vehículos, mercancías transportadas y con las instalaciones de carga utilizadas; y
+
+XII.- Por así exigirlo el interés social y el orden publico
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -1944,3 +1946,9 @@ P.O. 17 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, ASIMISMO LA REFORMA AL ARTÍCULO 164 FRACCIÓN XVII DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 93, 98 Y 100 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- LA REFORMA DE LOS ARTÍCULOS 93, 98 Y 100 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
