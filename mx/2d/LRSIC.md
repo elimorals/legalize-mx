@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LRSIC"
 ---
 # LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -50,8 +52,6 @@ La presente ley tiene por objeto regular la constitución y operación de las so
 
 Para los efectos de esta ley, se entenderá en singular o plural por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 I. Base Primaria de Datos, aquella que se integra con información de cartera vencida que proporcionen directamente los Usuarios a las Sociedades, en la forma y términos en que se reciba de aquéllos. Para efectos de esta ley las Sociedades considerarán como cartera vencida aquella definida como tal en las disposiciones aplicables a instituciones de crédito emitidas por la Comisión.
@@ -68,9 +68,9 @@ III. Comisión, la Comisión Nacional Bancaria y de Valores;
 
 IV. Empresa Comercial, la persona moral u organismo público distintos de las Entidades Financieras, que realice operaciones de crédito relacionadas con la venta de sus productos o prestación de servicios, u otras de naturaleza análoga; los fideicomisos de fomento económico constituidos por los Estados de la República y por el Distrito Federal, así como la persona moral y el fideicomiso que adquieran o administren cartera crediticia. Continuarán considerándose Empresa Comercial los fideicomisos mencionados, no obstante que se encuentren en proceso de extinción;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-V. Entidad Financiera, aquélla autorizada para operar en territorio nacional y que las leyes reconozcan como tal, incluyendo a aquellas a que se refiere el artículo 7o. de la Ley para Regular las Agrupaciones Financieras; la banca de desarrollo; los organismos públicos cuya actividad principal sea el otorgamiento de créditos; así como los fideicomisos de fomento económico constituidos por el Gobierno Federal; las uniones de crédito; las sociedades de ahorro y préstamo, y las entidades de ahorro y crédito popular, con excepción de las Sofomes E.N.R.. (sic) Continuarán considerándose Entidades Financieras las personas mencionadas, no obstante que se encuentren en proceso de disolución, liquidación o extinción, según corresponda;
+V. Entidad Financiera, aquella autorizada para operar en territorio nacional y que las leyes reconozcan como tal, incluyendo a aquellas a que se refiere el artículo 12 de la Ley para Regular las Agrupaciones Financieras; la banca de desarrollo; los organismos públicos cuya actividad principal sea el otorgamiento de créditos, así como los fideicomisos de fomento económico constituidos por el Gobierno Federal; las uniones de crédito; las sociedades cooperativas de ahorro y préstamo, las sociedades financieras comunitarias, las instituciones de tecnología financiera y, con excepción de las SOFOM E.N.R. continuarán considerándose Entidades Financieras las personas mencionadas, no obstante que se encuentren en proceso de disolución, liquidación o extinción, según corresponda;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -450,8 +450,6 @@ La orden de suspensión a que se refiere este artículo es sin perjuicio de las 
 
 La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; asimismo, estarán obligados a señalar expresamente la fecha de origen de los créditos que inscriban y la fecha del primer incumplimiento. Las Sociedades no deberán inscribir por ningún motivo, créditos cuya fecha de origen no sea especificado por los Usuarios, o cuando éste tenga una antigüedad en cartera vencida mayor a 72 meses. Lo anterior, de conformidad con lo establecido en los artículos 23 y 24 de esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En caso de que la información proporcionada por el Usuario sea relativa a una persona moral, el Usuario deberá incluir a los accionistas o titulares de las partes sociales, según corresponda, que sean propietarios del 10% o más del capital social.
@@ -463,8 +461,6 @@ Las Entidades Financieras deberán proporcionar, de conformidad con las disposic
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 Cuando el cliente realice el cumplimiento de una obligación, el Usuario deberá proporcionar a la Sociedad la información del pago correspondiente y la eliminación de la clave de prevención u observación correspondiente. El Usuario deberá enviar dicha información dentro de los cinco días hábiles posteriores al pago. En el caso a que se refiere el párrafo quinto del artículo 27 bis, los Usuarios contarán con un plazo de hasta diez días hábiles para enviar la información actualizada a la Sociedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -582,9 +578,11 @@ Cuando la venta o cesión haya sido efectuada a personas que no sean Usuarios o 
 
 La obligación de atender las reclamaciones que los Clientes presenten a las Sociedades, en términos de lo previsto en el artículo 42, será a cargo de la persona a quien le corresponda actualizar la información del crédito vendido o cedido.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 28.
 
-Las Sociedades sólo podrán proporcionar información a un Usuario, cuando éste cuente con la autorización expresa del Cliente, mediante su firma autógrafa, en donde conste de manera fehaciente que tiene pleno conocimiento de la naturaleza y alcance de la información que la Sociedad proporcionará al Usuario que así la solicite, del uso que dicho Usuario hará de tal información y del hecho de que éste podrá realizar consultas periódicas de su historial crediticio, durante el tiempo que mantenga relación jurídica con el Cliente.
+Las Sociedades solo podrán proporcionar información a un Usuario, cuando este cuente con la autorización expresa del Cliente, mediante su firma, en donde conste de manera fehaciente que tiene pleno conocimiento de la naturaleza y alcance de la información que la Sociedad proporcionará al Usuario que así la solicite, del uso que dicho Usuario hará de tal información y del hecho de que este podrá realizar consultas periódicas de su historial crediticio, durante el tiempo que mantenga relación jurídica con el Cliente. La firma a que se refiere este párrafo podrá ser recabada de manera autógrafa o por medios electrónicos, en este último caso, siempre que cumpla con los términos y condiciones establecidos por el Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -847,8 +845,6 @@ Si el Usuario acepta total o parcialmente lo señalado en la reclamación presen
 En caso de que el Usuario acepte parcialmente lo señalado en la reclamación o señale la improcedencia de ésta, deberá expresar en su respuesta los elementos que consideró respecto de la reclamación y adjuntará copia de la evidencia que sustente su respuesta. La Sociedad deberá remitir al Cliente dicha respuesta y copia de la mencionada evidencia, dentro de los cinco días hábiles siguientes a que reciba la respuesta del Usuario. El Cliente podrá manifestar en un texto de no más de doscientas palabras los argumentos por los que a su juicio la información proporcionada por el Usuario es incorrecta y solicitar a la Sociedad que incluya dicho texto en sus futuros Reportes de Crédito.
 
 En caso de que los errores objeto de la reclamación presentada por el Cliente sean imputables a la Sociedad, ésta deberá corregirlos de manera inmediata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1522,8 +1518,6 @@ Las multas a que se refiere el artículo anterior podrán ser impuestas tanto a 
 
 ### CAPITULO SEGUNDO (SIC). QUITAS Y REESTRUCTURAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 69.
@@ -1633,3 +1627,9 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
