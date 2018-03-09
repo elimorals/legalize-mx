@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-03-02"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 18 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -237,7 +239,9 @@ ARTÍCULO 8 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
 Los Regidores, en conjunto con el Presidente Municipal y el Síndico Procurador, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
 
-I.- Participar en las sesiones de Cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, de conformidad con lo que al efecto establezca la reglamentación interna del Ayuntamiento;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
+I.- Participar en las sesiones de cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, así como tener a su cargo, la atención de la gestión comunitaria, de conformidad con lo que al efecto establezca la reglamentación interna de cada Ayuntamiento;
 
 II.- Integrarse y formar parte de las comisiones ordinarias y extraordinarias que establezca el Ayuntamiento, ejerciendo las facultades de inspección y vigilancia de los ramos de la administración pública a su cargo;
 
@@ -986,3 +990,11 @@ P.O. 2 DE MARZO DE 2018.
 Artículo Primero.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 Artículo Segundo.- Los Ayuntamientos deberán realizar las adecuaciones necesarias a sus reglamentos internos correspondientes, en un plazo no mayor a 90 días después de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 201 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DEL RÉGIMEN MUNICIPAL PAR EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los ayuntamientos del estado dispondrán de setenta días para modificar los reglamentos interiores.
