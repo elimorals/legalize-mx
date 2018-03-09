@@ -4,7 +4,7 @@ identifier: "LMV"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2005.
 
@@ -46,7 +46,9 @@ La presente Ley es de orden público y observancia general en los Estados Unidos
 
 I. La inscripción y la actualización, suspensión y cancelación de la inscripción de valores en el Registro Nacional de Valores y la organización de éste.
 
-II. La oferta e intermediación de valores.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+II. La oferta e intermediación de valores, salvo tratándose de títulos ofrecidos a través de las instituciones de tecnología financiera.
 
 III. Las sociedades anónimas que coloquen acciones en el mercado de valores bursátil y extrabursátil a que esta Ley se refiere; así como el régimen especial que deberán observar en relación con las personas morales que las citadas sociedades controlen o en las que tengan una influencia significativa o con aquéllas que las controlen.
 
@@ -54,7 +56,9 @@ IV. Las obligaciones de las personas morales que emitan valores, así como de la
 
 V. La organización y funcionamiento de las casas de bolsa, bolsas de valores, instituciones para el depósito de valores, contrapartes centrales de valores, proveedores de precios, instituciones calificadoras de valores y sociedades que administran sistemas para facilitar operaciones con valores.
 
-VI. El desarrollo de sistemas de negociación de valores que permitan la realización de operaciones con éstos.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+VI. El desarrollo de sistemas de negociación de valores que permitan la realización de operaciones con estos, salvo tratándose de los sistemas ofrecidos a través de las instituciones de tecnología financiera.
 
 VII. La responsabilidad en que incurrirán las personas que realicen u omitan realizar los actos o hechos que esta Ley sanciona.
 
@@ -3686,6 +3690,14 @@ La Comisión promoverá ante la autoridad judicial para que designe al liquidado
 
 Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+###### Artículo 227 Bis 1.
+
+La Comisión podrá incluir en las disposiciones generales aplicables a los asesores en inversiones, reglas especiales para los servicios automatizados de asesoría y gestión de inversión.
+
+Los asesores en inversiones, además de las obligaciones a que estén sujetos, deberán cumplir, en lo conducente, con lo dispuesto en los artículos 130, 190 Bis y 190 Bis 1 de esta Ley, conforme a lo previsto en dichos artículos.
+
 ## Título VIII. De los organismos autorregulatorios
 
 ###### Artículo 228.
@@ -6587,3 +6599,9 @@ VIII. La Comisión Nacional Bancaria y de Valores en un plazo no mayor a 180 dí
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
