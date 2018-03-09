@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2014-08-01"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2018 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -339,9 +341,29 @@ V. Un representante del sector social, designado en los términos del Reglamento
 
 VI. Un representante del sector académico, designado en los términos del Reglamento; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
 VII. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+VIII. Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+IX. Un representante de la Comisión Nacional Forestal;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+X. Un representante de la Comisión Nacional de Áreas Naturales Protegidas;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+XI. Un representante de la Procuraduría Federal de Protección al Ambiente
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+Los representantes del gobierno federal deberán abstenerse de votar cuando por la naturaleza de las sesiones y/o los asuntos representen conflicto de interés con sus funciones de gobierno.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -351,23 +373,31 @@ El Consejo contará con un Secretario Técnico designado por el Presidente, de e
 
 Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con las facultades que a éste corresponda. Los miembros propietarios y suplentes del Consejo serán a título honorífico.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
 El Consejo, por conducto de su Presidente, podrá invitar a participar en sus sesiones a:
 
-I.- Representantes de la Secretaría de Medio Ambiente y Recursos Naturales;
+I. Titulares de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector forestal;
 
-II.- Representantes de la Comisión Nacional Forestal;
+II. Centros de enseñanzas e instituciones de investigación, y tecnológicos;
 
-III.- Representantes de la Comisión Nacional de Áreas Naturales Protegidas;
+III. Representantes del sector organizaciones de la sociedad civil que realice actividades en materia de conservación y restauración forestal;
 
-IV.- Titulares de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector forestal;
+IV. Representantes del sector empresarial en materia de producción forestal o de silvicultura;
 
-V.- Centros de enseñanzas e instituciones de investigación, y tecnológicos, o
+V. Representantes del sector profesional, prestadores de servicios profesionales a productores;
 
-VI.- Cualquier otro que considere el Consejo.
+VI. Un representante de la Secretaría de Agricultura, Desarrollo Rural, Pesca y Alimentación;
 
-Los invitados a las sesiones, en términos del presente artículo participaran en las mismas con voz pero sin voto.
+VII. Cualquier otro que considere el Consejo.
+
+Los invitados a las sesiones, en términos del presente artículo participarán en las mismas con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+ARTÍCULO 19 BIS.- La Secretaría, promoverá la interacción de este Consejo con los demás Consejos Estatales Forestales.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -703,8 +733,14 @@ DIP. JUAN MANUEL MOLINA GARCIA
 
 SECRETARIO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA (SIC) LAS REFORMAS AL ARTÍCULO 19 DE LA LEY DE DESARROLLO FORESTAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
