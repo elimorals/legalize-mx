@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2017-12-06"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2018 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL NÚMERO DEL 9 DE MARZO DE 2018.]
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -1229,7 +1229,9 @@ Octavo.- Dentro del plazo de 30 días siguientes a su nombramiento, el Fiscal Ge
 
 Noveno.- Todos los asuntos relacionados con el objeto de la Procuraduría General de Justicia del Estado que se encuentre (sic) en trámite, las controversias y juicios en los que la misma sea parte, pasarán a la competencia de la Fiscalía General de Justicia de Estado de Nuevo León; los de la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado, pasarán a la Fiscalía Especializada en Combate a la Corrupción, quienes deberán desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables, con excepción a lo dispuesto en los siguientes párrafos.
 
-Todos los asuntos de la Subprocuraduría Especializada en Combate que, a la fecha de aprobación del presente Decreto, se encuentren vinculados a proceso, en etapa intermedia, en etapa de juicio oral o en segunda instancia, quedarán a cargo de una Unidad de Transición de Combate a la Corrupción.
+> <small>(F. DE E., P.O. 9 DE MARZO DE 2018)</small>
+
+Todos los asuntos de la Subprocuraduría Especializada en Combate a la Corrupción que, a la fecha de aprobación del presente Decreto, se encuentren vinculados a proceso, en etapa intermedia, en etapa de juicio oral o en segunda instancia, quedarán a cargo de una Unidad de Transición de Combate a la Corrupción.
 
 Dicha Unidad de Transición de Combate a la Corrupción estará a cargo del funcionario que a la toma de protesta de ley del Fiscal General de Justicia del Estado se encuentre como Titular de la Subprocuraduría Especializada en Combate a la Corrupción, la cual será dotada de los recursos materiales, humanos y financieros necesarios para el cumplimiento de su encargo conforme al Plan Estratégico de Transición a que se refiere el Artículo Transitorio Quinto de este Decreto. En caso de ausencia definitiva, remoción, destitución o renuncia de dicho funcionario, la Unidad quedará a cargo del servidor público que aprueben por mayoría calificada los integrantes del Congreso del Estado de Nuevo León a propuesta del titular del Ejecutivo del Estado.
 
@@ -1243,7 +1245,7 @@ Décimo Primero.- Las funciones, facultades, derechos y obligaciones establecido
 
 Décimo Segundo.- El Ejecutivo del Estado, a través de la Secretaria de Finanzas y Tesorería General del Estado, deberá destinar a la Fiscalía General de Justicia del estado, a la Fiscalía Especializada en Combate a la Corrupción y a la Fiscalía Especializada en Delitos Electorales, durante el presente ejercicio fiscal, los recursos presupuestales aprobados en la Ley de Egresos del estado de Nuevo León para el ejercicio 2018, para la Procuraduría General de Justicia del Estado y la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado.
 
-Décimo Tercero.- Al día siguiente a aquel en que rinda la protesta de ley ante el Congreso del Estado el Fiscal General de Justicia del Estado, se abroga la “Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León” publicada en el Periódico Oficial del Estado No. 159, mediante el Decreto 005, en fecha 21 de diciembre de 2012, con sus reformas y adiciones.
+Décimo Tercero.- Al día siguiente a aquel en que rinda la protesta de ley ante el Congreso del Estado el Fiscal General de Justicia del Estado, se abroga la "Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León" publicada en el Periódico Oficial del Estado No. 159, mediante el Decreto 005, en fecha 21 de diciembre de 2012, con sus reformas y adiciones.
 
 Décimo Cuarto.- Se derogan todas las disposiciones normativas que se opongan a la presente Ley.
 
