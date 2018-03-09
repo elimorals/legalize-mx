@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2017-07-14"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -531,9 +531,15 @@ VII. La incitación o coacción para que participen en la comisión de delitos o
 
 VIII. La pornografía impresa que se publicita de manera abierta y sin la cubierta necesaria, dejándola a la vista y alcance sin restricción alguna de niñas, niños y adolescentes, en lugares dedicados a la comercialización, venta y distribución de este tipo de producciones.
 
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+IX. La violencia extrema contra animales, prohibiendo su asistencia o participación activa a menores de edad en eventos o espectáculos en los que esta se genera.
+
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
-Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, atender, erradicar y sancionar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
+Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, atender, erradicar y sancionar las conductas previstas en este artículo para niñas, niños y adolescentes.
 
 ###### Artículo 46.
 
@@ -1768,3 +1774,11 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 279, 281 Y 419 DEL CÓDIGO CIVIL, ARTÍCULO 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 197 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN IX AL ARTÍCULO 45 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Deberán emitirse las disposiciones normativas correspondientes en un término no mayor al de 180 días naturales, contados a partir de la fecha en que entre en vigor el presente Decreto.
