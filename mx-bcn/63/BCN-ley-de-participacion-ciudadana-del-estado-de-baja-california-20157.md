@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2018-01-19"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -62,6 +62,10 @@ III.- Iniciativa Ciudadana, y
 > <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 IV.- Consulta Popular.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+V.- Presupuesto Participativo.
 
 Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
 
@@ -989,6 +993,12 @@ Al referéndum municipal le serán aplicables en lo conducente los artículos 25
 
 La Iniciativa Ciudadana en el ámbito municipal es el instrumento mediante el cual los ciudadanos del municipio de que se trate, podrán presentar a los ayuntamientos, proyectos de creación, modificación, reforma, adición, derogación o abrogación de los reglamentos municipales.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+###### Artículo 81.
+
+El presupuesto participativo es el instrumento de participación ciudadana a través del cual se reconoce a los ciudadanos de los municipios, la potestad de presentar propuestas para la realización de obras públicas para que sean valoradas y en su caso aprobadas por sus cabildos en el Presupuesto de Egresos Municipal de cada año, conforme a las disposiciones contenidas en el reglamento municipal de la materia.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1044,3 +1054,9 @@ P.O. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 160 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DE LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO SEGUNDO Y LA ADICIÓN DE LOS ARTÍCULOS 72 BIS Y 72 TER; ASÍ COMO LA REFORMA DEL ARTÍCULO 73, DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 165 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 2, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 81 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
