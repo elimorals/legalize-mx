@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-02-28"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -719,11 +719,9 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 ### CAPITULO VI. De las actas de emancipación
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
-
 ###### Artículo 95.
 
-En los casos de emancipación por efecto de matrimonio, no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que se celebró, así como el número y la fecha del acta relativa.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1387,7 +1385,7 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 ###### Artículo 172.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede; pero necesitarán autorización judicial para enajenarlos, gravarlos e hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1435,11 +1433,11 @@ La sociedad voluntaria y la legal se regirán por las disposiciones relativas a 
 
 La sociedad conyugal legal, nace desde el momento en que se celebra el matrimonio; la voluntaria puede nacer desde la celebración del matrimonio o durante éste, según que las capitulaciones matrimoniales respectivas se pacten al celebrase el matrimonio o durante el mismo.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 182.
 
-La sociedad conyugal, voluntaria o legal, terminará por la muerte de cualquiera de los cónyuges, por divorcio declarado, o por voluntad de los consortes; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad por el último motivo, prestando su consentimiento, las personas a que se refieren los artículos 148, 149 y 150 de este Código, o con autorización judicial cuando falten estas personas.
-
-Esta última regla se observará también cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+La sociedad conyugal, voluntaria o legal, terminará por la muerte de cualquiera de los cónyuges, por divorcio declarado, o por voluntad de los consortes.
 
 ###### Artículo 183.
 
@@ -1473,7 +1471,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### Artículo 188.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas, si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 ###### Artículo 189.
 
@@ -1675,9 +1673,11 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos de acuerdo con las estipulaciones consignadas en el presente código.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 221.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituída por la sociedad conyugal; pero si los consortes son menores de edad se observará lo dispuesto en el artículo 188. Lo mismo se observará cuando la capitulación de separación se modifique durante la menor edad de los cónyuges.
+Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
 ###### Artículo 222.
 
@@ -1801,29 +1801,19 @@ II. Que se haya celebrado en contravención con lo dispuesto en los artículos 9
 
 ###### Artículo 249.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I. Cuando haya habido hijos;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
-
-II. Cuando aunque no los haya habido el menor hubiere llegado a los dieciocho años y él ni el otro cónyuge hubieren intentado la nulidad.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 ###### Artículo 250.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicho consentimiento, dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 ###### Artículo 251.
 
-Cesa esta causa de nulidad:
-
-I. Si han pasado los treinta días sin que se haya intentado;
-
-II. Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio; o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicado otros actos que, a juicio del juez, sean tan conducentes al efecto como los expresados.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 ###### Artículo 252.
 
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 ###### Artículo 253.
 
@@ -4401,7 +4391,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ###### Artículo 655.
 
-El matrimonio del menor produce de derecho la emancipación del mismo. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+(DEROGADO, P.O. 9 DE MARZO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 1971)</small>
 
@@ -4415,7 +4405,7 @@ Los que ejerzan la patria potestad o la tutela pueden emancipar a los que están
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I. Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad y para reconocer a los hijos naturales; así como de su concurso para las capitulaciones matrimoniales. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto o está incapacitado legalmente al tiempo en que el emancipado intente verificar cualquiera de aquellos actos, necesita del consentimiento del ascendiente a quien corresponda darlo;
+I. (DEROGADA, P.O. 9 DE MARZO DE 2018)
 
 II. De la autorización del que lo emancipó, y a falta de éste de la del juez, para la enajenación, gravamen o hipoteca de bienes raíces;
 
@@ -4425,9 +4415,11 @@ III. De un tutor para los negocios judiciales.
 
 Hecha la emancipación, no puede ser revocada.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 659.
 
-(DEROGADO, P.O. 12 DE MAYO DE 2017)
+La emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
 
 ### CAPITULO II. De la declaración de ausencia
 
@@ -16252,3 +16244,9 @@ P.O. 28 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1344.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 929 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
