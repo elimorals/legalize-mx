@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -1572,9 +1572,9 @@ La Comisión Nacional Bancaria y de Valores no está obligada a llevar a cabo vi
 
 La inspección a las organizaciones auxiliares del crédito y casas de cambio se efectuará a través de visitas, que tendrán por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pueda afectar la posición financiera y legal que conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de lo previsto en esta Ley, las disposiciones de carácter general que de ella deriven y a las sanas prácticas de la materia.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
 
-Por su parte, en las visitas de inspección y en el ejercicio de facultades de vigilancia que realice la Comisión Nacional Bancaria y de Valores a los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, podrá revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, y, en general, todo lo que deba constar en los libros, registros, sistemas y documentos para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven.
+La Comisión Nacional Bancaria y de Valores, en las visitas de inspección y en el ejercicio de facultades de vigilancia que realice a los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, podrá revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, y en general, todo lo que deba constar en los libros, registros, sistemas y documentos para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de este deriven. Para el ejercicio de las funciones de vigilancia, la Comisión Nacional Bancaria y de Valores podrá emitir disposiciones de carácter general para determinar la información que periódicamente deban remitir los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas.
 
 Las visitas a que se refiere este artículo podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual de la Comisión Nacional Bancaria y de Valores. Las segundas se practicarán siempre que sea necesario a juicio del Presidente de la citada Comisión, para examinar y, en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
 
@@ -1908,16 +1908,28 @@ En ningún caso, los centros cambiarios podrán llevar a cabo operaciones de com
 
 Lo dispuesto en este artículo no resultará aplicable a las casas de cambio y entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones de compra, venta y cambio de divisas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
 
-###### ARTICULO 81
+###### ARTICULO 81-A Bis.
 
-A BIS.- Para efectos de lo previsto en la presente Ley y en las disposiciones que de ésta emanen, se entenderá por transmisor de dinero, exclusivamente a las sociedades anónimas y sociedades de responsabilidad limitada organizadas de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles que, entre otras actividades, y de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas o por cable, facsímil, servicios de mensajería, medios electrónicos, transferencia electrónica de fondos o por cualquier vía, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que sean recibidos, al beneficiario designado. Adicionalmente, podrán actuar como Transmisores de Dinero, las dependencias y entidades de la Administración Pública Federal que conforme a las disposiciones que las regulan, lleven a cabo las operaciones de transmisión de derechos o recursos en moneda nacional o divisas.
+Para efectos de lo previsto en la presente Ley y en las disposiciones que de ella emanen, se entenderá por transmisor de dinero exclusivamente a la sociedad anónima y sociedad de responsabilidad limitada organizada de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles que, entre otras actividades, y de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o extranjera, directamente en sus oficinas o por cable, facsímil, servicios de mensajería, medios electrónicos, transferencia electrónica de fondos o por cualquier vía, con el único objeto de que, de acuerdo con las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos, en una sola exhibición, en el lugar en el que sean recibidos, al beneficiario designado. Asimismo, podrán actuar como transmisores de dinero, las dependencias y entidades de la Administración Pública Federal que conforme a las disposiciones que las regulan, lleven a cabo las operaciones de transmisión de derechos o recursos en moneda nacional o extranjera.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Al efecto, únicamente las sociedades anónimas y las sociedades de responsabilidad limitada que cuenten con un registro vigente como transmisor de dinero ante la Comisión Nacional Bancaria y de Valores podrán realizar las operaciones señaladas en el párrafo anterior, las cuales se considerarán como transmisión de fondos.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Las operaciones a que se refiere este artículo no podrán ser realizadas por agentes relacionados ni por terceros contratados por estos, sin la intervención de los transmisores de dinero. Se entenderá por agente relacionado la persona física que, en términos de las disposiciones a que se refiere este artículo, por virtud de una relación contractual con un transmisor de dinero, recibe de este derechos o recursos en moneda nacional o divisas para entregarlos al beneficiario.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Los transmisores de dinero serán responsables del cumplimiento a las obligaciones establecidas en el artículo 95 Bis de esta Ley, así como de aquellas que deriven de las disposiciones de carácter general a que se refiere dicho artículo, respecto de aquellas operaciones que se celebren a través de los agentes relacionados y respecto de los terceros que este contrate.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+En el caso de que los transmisores de dinero pretendan emitir fondos de pago electrónico o instrumentos de pago que almacenen fondos de pago electrónico, deberán constituirse como una institución de fondos de pago electrónico, en términos de las disposiciones establecidas en la Ley para Regular las Instituciones de Tecnología Financiera.
+
 > <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 Lo dispuesto en este artículo no resultará aplicable a las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo del presente artículo.
@@ -1927,18 +1939,6 @@ Lo dispuesto en este artículo no resultará aplicable a las entidades financier
 En ningún caso, los transmisores de dinero podrán llevar a cabo las operaciones a que se refiere el artículo 81-A de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
-
-###### ARTICULO 81-A Bis.
-
-Para efectos de lo previsto en la presente Ley y en las disposiciones que de esta emanen, se entenderá por transmisor de dinero, exclusivamente a la sociedad anónima organizada de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles que, entre otras actividades, y de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas o por cable, facsímil, servicios de mensajería, medios electrónicos, transferencia electrónica de fondos o por cualquier vía, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que sean recibidos, al beneficiario designado.
-
-Al efecto, únicamente las sociedades anónimas que cuenten con un registro vigente como transmisor de dinero ante la Comisión Nacional Bancaria y de Valores podrán realizar las operaciones señaladas en el párrafo anterior, las cuales se considerarán como transmisión de fondos.
-
-Lo dispuesto en este artículo no resultará aplicable a las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo del presente artículo.
-
-En ningún caso, los transmisores de dinero podrán llevar a cabo las operaciones a que se refiere el artículo 81-A de la presente Ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 81- B.
 
@@ -3232,7 +3232,7 @@ Se impondrá pena de prisión de cinco a diez años a:
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-I. Las personas que habiendo sido designadas como bodegueros habilitados en los términos de esta Ley, dispongan o permitan disponer indebidamente de las mercancías depositadas o proporcionen datos falsos al almacén respecto de los movimientos y existencias de las mismas; y (sic)
+I. Las personas que habiendo sido designadas como bodegueros habilitados en los términos de esta Ley, dispongan o permitan disponer indebidamente de las mercancías depositadas o proporcionen datos falsos al almacén respecto de los movimientos y existencias de las mismas; y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3914,11 +3914,11 @@ XIV. Las disposiciones de carácter general a que se refieren los artículos 86 
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+D.O.F. 9 DE MARZO DE 2018.
 
-Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
-P.O. 24 DE ENERO DE 2018.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 790.- MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA".]
 
