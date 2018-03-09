@@ -4,7 +4,7 @@ identifier: "LFPIORPI"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-10-17"
-last_updated: "2012-10-17"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFPIORPI"
 ---
 # LEY FEDERAL PARA LA PREVENCION E IDENTIFICACION DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de octubre de 2012.
 
@@ -78,7 +80,9 @@ IV. Delitos de Operaciones con Recursos de Procedencia Ilícita, a los tipificad
 
 V. Entidades Colegiadas, a las personas morales reconocidas por la legislación mexicana, que cumplan con los requisitos del artículo 27 de esta Ley;
 
-VI. Entidades Financieras, aquellas reguladas por los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Sociedades de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 140 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 112 de la Ley Federal de Instituciones de Fianzas;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+VI. Entidades Financieras, aquellas reguladas en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
 
 VII. Fedatarios Públicos, a los notarios o corredores públicos, así como a los servidores públicos a quienes las Leyes les confieran la facultad de dar fe pública en el ejercicio de sus atribuciones establecidas en las disposiciones jurídicas correspondientes, que intervengan en la realización de Actividades Vulnerables;
 
@@ -228,7 +232,9 @@ Para los efectos de esta Sección, los actos, operaciones y servicios que realiz
 
 Las Entidades Financieras, respecto de las Actividades Vulnerables en las que participan, tienen de conformidad con esta Ley y con las leyes que especialmente las regulan, las siguientes obligaciones:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en el Capítulo II del Título Vigésimo Tercero del Código Penal Federal, así como para identificar a sus clientes y usuarios; de conformidad con lo establecido por los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Sociedades de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 140 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 112 de la Ley Federal de Instituciones de Fianzas;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en el Capítulo II del Título Vigésimo Tercero del Código Penal Federal, así como para identificar a sus clientes y usuarios; de conformidad con lo establecido en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
 
 II. Presentar ante la Secretaría los reportes sobre actos, operaciones y servicios que realicen con sus clientes y lleven a cabo miembros del consejo administrativo, apoderados, directivos y empleados de la propia entidad que pudieren ubicarse en lo previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas;
 
@@ -363,6 +369,18 @@ Las actividades anteriores serán objeto de Aviso en todos los casos antes seña
 XV. La constitución de derechos personales de uso o goce de bienes inmuebles por un valor mensual superior al equivalente a un mil seiscientas cinco veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación.
 
 Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación mensual sea igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal.
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+XVI. El ofrecimiento habitual y profesional de intercambio de activos virtuales por parte de sujetos distintos a las Entidades Financieras, que se lleven a cabo a través de plataformas electrónicas, digitales o similares, que administren u operen, facilitando o realizando operaciones de compra o venta de dichos activos propiedad de sus clientes o bien, provean medios para custodiar, almacenar, o transferir activos virtuales distintos a los reconocidos por el Banco de México en términos de la Ley para Regular las Instituciones de Tecnología Financiera. Se entenderá como activo virtual toda representación de valor registrada electrónicamente y utilizada entre el público como medio de pago para todo tipo de actos jurídicos y cuya transferencia únicamente puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo denominado en moneda de curso legal o divisas.
+
+[N. DE E. PERTENECE A LA FRACCIÓN XVI, D.O.F. 9 DE MARZO DE 2018)
+
+Serán objeto de Aviso ante la Secretaría cuando el monto de la operación de compra o venta que realice cada cliente de quien realice la actividad vulnerable a que se refiere esta fracción sea por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco Unidades de Medida y Actualización.
+
+[N. DE E. PERTENECE A LA FRACCIÓN XVI, D.O.F. 9 DE MARZO DE 2018)
+
+En el evento de que el Banco de México reconozca en términos de la Ley para Regular las Instituciones de Tecnología Financiera activos virtuales, las personas que provean los medios a que se refiere esta fracción, deberán obtener las autorizaciones correspondientes en los plazos que señale dicho Banco de México en las disposiciones respectivas.
 
 Los actos u operaciones que se realicen por montos inferiores a los señalados en las fracciones anteriores no darán lugar a obligación alguna. No obstante, si una persona realiza actos u operaciones por una suma acumulada en un periodo de seis meses que supere los montos establecidos en cada supuesto para la formulación de Avisos, podrá ser considerada como operación sujeta a la obligación de presentar los mismos para los efectos de esta Ley.
 
@@ -765,3 +783,17 @@ Séptimo. Se derogan todos los preceptos legales que se opongan a la presente Le
 México, D.F., a 11 de octubre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE MARZO DE 2018.
+
+> <small>[N. DE E. DISPOSICIÓN TRANSITORIA Y TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]</small>
+
+DISPOSICIÓN TRANSITORIA
+
+ÚNICO.- La adición de la fracción XVI del artículo 17 de esta Ley, entrará en vigor a los dieciocho meses siguientes a la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
