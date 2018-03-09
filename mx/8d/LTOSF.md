@@ -4,7 +4,7 @@ identifier: "LTOSF"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55887&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTOSF"
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2007.
 
@@ -59,6 +59,10 @@ I. La Ley de Instituciones de Crédito;
 II. La Ley de Ahorro y Crédito Popular;
 
 III. La Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+III Bis. La Ley para Regular las Instituciones de Tecnología Financiera;
 
 IV. La Ley del Banco de México;
 
@@ -98,13 +102,21 @@ III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de 
 
 IV. Comisión: a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un Cliente. Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición;
 
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+IV Bis. Consorcio: al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras;
+
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 V. Contrato de Adhesión: al documento elaborado unilateralmente por las Entidades para establecer en formatos uniformes los términos y condiciones aplicables a la celebración de las operaciones que lleven a cabo con sus Clientes. Tratándose de Entidades Financieras, se considerarán las operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales, se considerarán las operaciones de crédito, préstamos o financiamientos;
 
-> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-V Bis. Crédito al Consumo: a las siguientes operaciones celebradas por las Entidades: créditos directos, denominados en moneda nacional, extranjera o en UDIs, así como los intereses que generen, otorgados a personas físicas, derivados de operaciones de crédito, préstamo o financiamiento revolvente asociado a una tarjeta, de créditos personales cuyo monto no exceda el equivalente a tres millones de unidades de inversión, de créditos para la adquisición de bienes de consumo duradero y las operaciones de arrendamiento financiero que sean celebradas con personas físicas;
+V Bis. Control: a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la sociedad; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la sociedad, y dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la sociedad, ya sea a través de la propiedad de valores o por cualquier otro acto jurídico;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+V Ter. Crédito al Consumo: a las siguientes operaciones celebradas por las Entidades: créditos directos, denominados en moneda nacional, extranjera o en UDIs, así como los intereses que generen, otorgados a personas físicas, derivados de operaciones de crédito, préstamo o financiamiento revolvente asociado a una tarjeta, de créditos personales cuyo monto no exceda el equivalente a tres millones de unidades de inversión, de créditos para la adquisición de bienes de consumo duradero y las operaciones de arrendamiento financiero que sean celebradas con personas físicas;
 
 VI. CAT: al costo anual total de financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos, préstamos o financiamientos que otorgan las Entidades;
 
@@ -116,9 +128,9 @@ VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan
 
 VIII. Entidades: a las Entidades Financieras y a las Entidades Comerciales;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-IX. Entidad Financiera: a las instituciones de crédito, a las sociedades financieras de objeto múltiple reguladas y no reguladas, a las sociedades financieras populares, a las sociedades financieras comunitarias, a las sociedades cooperativas de ahorro y préstamo, a las entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público y a las uniones de crédito;
+IX. Entidad Financiera: a las instituciones de crédito, a las sociedades financieras de objeto múltiple reguladas y no reguladas, a las sociedades financieras populares, a las sociedades financieras comunitarias, a las sociedades cooperativas de ahorro y préstamo, a las entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, las uniones de crédito y las instituciones de tecnología financiera;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -128,23 +140,41 @@ X. Entidad Comercial: a las sociedades que de manera habitual otorguen créditos
 
 XI. GAT: a la Ganancia Anual Total Neta expresada en términos porcentuales anuales, que, para fines informativos y de comparación, incorpora los intereses que generen las operaciones pasivas de ahorro, inversión y otras análogas, que celebren las instituciones de crédito, las entidades de ahorro y crédito popular y las uniones de crédito con sus Clientes, menos todos los costos relacionados con la operación, incluidos los de apertura, será expresado tanto en términos reales como nominales, conforme a las disposiciones que emita el Banco de México para su cálculo;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE MARZO DE 2018)</small>
 
-XII. Medio de Disposición: a las tarjetas de débito asociadas a depósitos bancarios de dinero a la vista, a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito, a los cheques, a las órdenes de transferencia de fondos incluyendo el servicio conocido como domiciliación, cualquier dispositivo o interfase que permita la realización de pagos o transferencias de recursos, así como aquellos otros que la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, reconozcan como tales mediante disposiciones de carácter general.
+XI Bis. Grupo de Personas: a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas:
+
+a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario, y
+
+b) Las personas que formen parte de un mismo Consorcio o Grupo Empresarial y las personas o conjunto de personas que tengan el Control de dichas sociedades.
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+XI Ter. Grupo Empresarial: al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el Control de dichas personas morales, incluyendo a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
+XII. Medio de Disposición: a las tarjetas de débito asociadas a depósitos de dinero a la vista; a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito; a los cheques; a las órdenes de transferencia de fondos, incluyendo el servicio conocido como domiciliación; cualquier dispositivo, tarjeta, o interfaz que permita la realización de pagos, transferencias de recursos o disposición de efectivo cuyas operaciones se procesen por medio de las Redes de Medios de Disposición, así como aquellos otros que la Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, reconozcan como tales mediante disposiciones de carácter general.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Para efectos de lo dispuesto en este artículo, toda persona que emita o coloque Medios de Disposición estará sujeta a lo dispuesto por los artículos 2 y 103 de la Ley de Instituciones de Crédito y demás legislación que resulte aplicable;
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+No quedarán comprendidos en esta definición aquellos medios emitidos al amparo de programas de lealtad o recompensa ofrecidos por personas morales a sus clientes, que solo puedan ser aceptados por dichas personas morales o por sociedades afiliadas a dichos programas a cambio de bienes, servicios o beneficios, siempre y cuando no puedan ser convertidos a moneda de curso legal en territorio nacional o en cualquier otra jurisdicción y que las personas morales que los ofrezcan cuenten con un listado de las sociedades afiliadas a dichos programas que, en su conjunto, no podrán ser superiores al veinte por ciento del total de los establecimientos mercantiles habilitados para recibirlos, así como los montos por pago anticipado, que solo puedan ser aceptados por el emisor o cualquiera de las sociedades que pertenezcan a un mismo Consorcio o Grupo Empresarial del emisor, a cambio de bienes, servicios o beneficios, siempre y cuando no puedan ser convertidas a moneda de curso legal en territorio nacional o en cualquier otra jurisdicción;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 XII Bis. Participante en Redes: a toda persona que de manera habitual preste servicios relacionados con las Redes de Medios de Disposición de conformidad con las disposiciones de carácter general que al efecto emitan la Comisión Nacional Bancaria y de Valores y el Banco de México;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-XIII. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos, y
+XIII. Redes de Medios de Disposición: a la serie de acuerdos, protocolos, instrumentos, interfaces, procedimientos, reglas, programas, sistemas, infraestructura y demás elementos relacionados con el uso de Medios de Disposición, y que, conforme al artículo 4 Bis 3 corresponde regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
 
-XIV. Redes de Medios de Disposición: a la serie de acuerdos, protocolos, instrumentos, interfaces, procedimientos, reglas, programas, sistemas, infraestructura y demás elementos relacionados con el uso de Medios de Disposición, y que, conforme al artículo 4 Bis 3 corresponde regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México.
+XIV. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos.
 
 ### Capítulo II.- De las Comisiones y Cuotas de Intercambio
 
@@ -282,9 +312,11 @@ Adicionalmente cualquier otra facultad prevista en este u otro ordenamiento, la 
 
 Las Entidades que operen cajeros automáticos deberán informar en las pantallas de éstos las Comisiones que cobran por su uso, así como obtener el previo consentimiento de los Clientes para el cobro de tales Comisiones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 6.
 
-Las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas, deberán registrar ante el Banco de México las Comisiones que cobran por los servicios de pago y créditos que ofrecen al público, así como sus respectivas modificaciones. Dicho registro se realizará con al menos treinta días naturales de anticipación a su entrada en vigor para nuevas Comisiones o cuando impliquen un incremento.
+Las instituciones de crédito y las sociedades financieras de objeto múltiple reguladas, así como las instituciones de tecnología financiera, deberán registrar ante el Banco de México las Comisiones que pretendan cobrar por los servicios de pago y créditos que ofrecen al público, así como sus respectivas modificaciones. Dicho registro se realizará con al menos treinta días naturales de anticipación a la entrada en vigor de las nuevas Comisiones o de las modificaciones a las previamente registradas cuando impliquen un incremento.
 
 Para el caso de reducción del monto de dichas Comisiones, el registro deberá realizarse con al menos dos días naturales de anticipación a su entrada en vigor.
 
@@ -636,7 +668,9 @@ I. En los citados formularios conste que fue hecho del conocimiento del Cliente 
 
 II. En los respectivos formularios se señalen los datos de inscripción del Contrato de Adhesión en el registro a que se refiere el quinto párrafo del artículo 11 de la Ley.
 
-Tanto para la contratación como en caso de alguna controversia respecto de créditos, préstamos o financiamientos revolventes asociados a una tarjeta, se entenderá que el contrato de adhesión válido en la operación de que se trate, es el registrado ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Tanto para la contratación como en caso de alguna controversia respecto de créditos, préstamos o financiamientos revolventes, se entenderá que el contrato de adhesión válido en la operación de que se trate, es el registrado ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
 III. Se envíe el respectivo Contrato de Adhesión y su carátula adjunto con el Medio de Disposición o de identificación, tratándose de aperturas de crédito en cuenta corriente o créditos personales de liquidez sin garantía real, o se mantengan a disposición de sus Clientes modelos de contratos relativos a las operaciones en sus oficinas, sucursales e Internet, cuando así se pacte con dichos Clientes.
 
@@ -974,11 +1008,11 @@ VIII. Contravengan lo dispuesto por el artículo 18 Bis 4 de la presente Ley, y
 
 IX. Aplique tasas de interés en contravención a lo señalado por el artículo 18 Bis 6.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
 
 ###### Artículo 43.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras que:
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las Entidades Financieras que:
 
 I. Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo 7 de esta Ley.
 
@@ -1064,7 +1098,9 @@ g) Contravengan a lo dispuesto por el artículo 18 Bis 4 de la presente Ley, y
 
 h) Aplique tasas de interés en contravención a lo señalado por el artículo 18 Bis 6.
 
-II. Cuatro mil a veinte mil días de salario, a las Entidades Comerciales que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
+II. Cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las Entidades Comerciales que:
 
 a) Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo 7 de esta Ley.
 
@@ -1114,7 +1150,9 @@ En los casos a que se refiere el inciso e) de la fracción II de este artículo,
 
 (DEROGADO, D.O.F. 25 DE JUNIO DE 2009)
 
-#### Sección VIII. Sanciones que corresponde imponer al Banco de México
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE MARZO DE 2018)</small>
+
+#### Sección VIII. Sanciones que corresponde imponer al Banco de México o a la Comisión Nacional Bancaria y de Valores
 
 ###### Artículo 47.
 
@@ -1186,13 +1224,19 @@ IV. Clausura temporal, parcial o total; y
 
 V. Auxilio de la fuerza pública.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
 
 ###### Artículo 49 Bis 2.
 
-La Comisión Nacional Bancaria y de Valores sancionará con multa de 5,000 a 20,000 días de salario, a las Entidades que infrinjan cualquier disposición de esta Ley o las disposiciones de carácter general que expidan la propia Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, en términos de esta Ley en relación con las Redes de Medios de Disposición a que se refiere el Artículo 4 Bis 3. En caso de reincidencia, la Comisión Nacional Bancaria y de Valores podrá imponer sanciones equivalentes hasta por el doble de la prevista.
+La Comisión Nacional Bancaria y de Valores sancionará con multa de 5,000 a 20,000 veces la Unidad de Medida y Actualización, a las Entidades y Participantes en Redes que infrinjan cualquier disposición de esta Ley o las disposiciones de carácter general que expidan, de manera conjunta la Comisión Nacional Bancaria y de Valores y el Banco de México, en términos de esta Ley en relación con las Redes de Medios de Disposición a que se refiere el artículo 4 Bis 3. En caso de reincidencia, la Comisión Nacional Bancaria y de Valores podrá imponer sanciones equivalentes hasta por el doble de la prevista en este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Con independencia de las demás sanciones que pueda imponer, la Comisión Nacional Bancaria y de Valores, podrá formular observaciones y, en su caso, ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que haya detectado en ejercicio de las funciones que lleve a cabo conforme a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+En caso de que la Comisión Nacional Bancaria y de Valores o el Banco de México, en ejercicio de sus respectivas facultades, detecte actos u omisiones de las Entidades o Participantes en Redes que pudieran implicar infracciones a las disposiciones que les resulten aplicables en términos de la presente Ley, lo hará del conocimiento de la otra autoridad. Para efectos de lo anterior, la Comisión Nacional Bancaria y de Valores y el Banco de México celebrarán un convenio de colaboración por el que establezcan la forma y términos para darse a conocer lo previsto en el presente párrafo, así como las medidas que adopten en el ejercicio de sus atribuciones.
 
 ### Capítulo VI. Del recurso de revisión (sic)
 
@@ -1331,3 +1375,9 @@ IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
