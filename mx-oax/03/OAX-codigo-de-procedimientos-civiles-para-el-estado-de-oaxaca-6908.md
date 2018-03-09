@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2017-09-01"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -369,6 +369,10 @@ Los documentos redactados en idioma extranjero deberán acompañarse con la corr
 
 Asimismo, las promociones deberán señalar el número del expediente y los datos que permitan identificar el juicio al que se dirigen, sin cuyo requisito no se les dará el trámite correspondiente.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+Las promociones de personas que hablen una lengua materna, podrán hacerlas en su lengua nativa, debiendo solicitar la autoridad jurisdiccional la traducción de dichos escritos a una institución pública estatal o federal. En caso de que el promovente no hable el español o no lo comprenda en su totalidad, la autoridad jurisdiccional deberá solicitar la intervención de un defensor público que conozca su lengua; en todo caso el promovente podrá designar un traductor o defensor particular que conozca su lengua, debiendo estar acreditada esta circunstancia.
+
 ###### Artículo 55.
 
 En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin (sic) con toda precisión el error cometido.
@@ -600,6 +604,10 @@ Las sentencias deben expresar el lugar, fecha en que se dicten y el juez o tribu
 ###### Artículo 88.
 
 Las sentencias, que contendrán una sucinta relación de los hechos, deben ser claras, precisas y congruentes con las demandas y las contestaciones y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado y resolviendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios se hará el pronunciamiento correspondiente a cada uno de ellos. Las sentencias deberán estar apoyadas, en cuanto a sus puntos resolutivos, en preceptos legales o principios jurídicos, a falta de aquéllos. Cuando el actor no probare su acción será absuelto el demandado.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+En los juicios en donde intervenga una persona que hable una lengua materna, a solicitud de esta, la sentencia que se dicte en el juicio será traducida en dicha lengua, a fin de que conozca el alcance legal de la misma.
 
 ###### Artículo 89.
 
@@ -3411,7 +3419,7 @@ IV. Si las dos partes exhibiesen los avalúos en el plazo a que se refiere la fr
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-V. La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un plazo mayor de seis meses se deberá (sic) actualizar los valores;
+V. La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un plazo mayor de seis meses se deberá actualizar los valores;
 
 VI. Obteniendo el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la Sección Tercera del capitulo V del título Séptimo de este ordenamiento, y
 
@@ -6479,9 +6487,9 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
-I. La habilitación para comparecer en juicio que solicite el menor de más de dieciséis años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nigue (sic) a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobarse buena conducta y aptitud para el manejo de sus negocios;
+I. La habilitación para comparecer en juicio que solicite el menor de más de dieciséis años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobarse buena conducta y aptitud para el manejo de sus negocios;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
 
@@ -7114,3 +7122,15 @@ P.O. 1 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 665.- MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA Y ADICIONA EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1344.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 929 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1345.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 54 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 88 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
