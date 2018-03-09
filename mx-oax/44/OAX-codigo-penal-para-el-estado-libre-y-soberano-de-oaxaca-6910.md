@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-02-16"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1511,25 +1511,25 @@ Las dependencias y entidades deberán informar a la Secretaría previamente a la
 
 Reparación del daño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
 
-a).- La restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma;
+II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+III. El resarcimiento de los perjuicios ocasionados;
 
-b).- La Indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
+IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
 
-En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
+VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
 
-c).- El resarcimiento de los perjuicios causados.
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
@@ -6460,3 +6460,9 @@ P.O. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 772.- MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DECIMOQUINTO, DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS; Y SE ADICIONA EL ARTÍCULO 266 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 789.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
