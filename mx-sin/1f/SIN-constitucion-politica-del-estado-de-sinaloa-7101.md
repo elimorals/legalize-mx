@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-09-08"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1118,6 +1118,10 @@ VI. Nombrar Gobernador Provisional en los casos que esta Constitución determine
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2012)</small>
 
 VII. Recibir la protesta del Gobernador del Estado.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+
+VII Bis. Recibir protesta de los Diputados suplentes que hayan sido llamados para entrar en funciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -2705,7 +2709,9 @@ I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
 II. La protesta se pide y se dá por interpelación entre los siguientes servidores públicos:
 
-(1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente de la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara les tomará la protesta en la sesión pública que corresponda.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
+(1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente a la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara o el Presidente de la Diputación Permanente les tomará la protesta en la sesión pública que corresponda.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
@@ -4271,7 +4277,13 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. El Congreso del Estado en un plazo de 30 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 391 QUE REFORMA LA FRACCIÓN II, NUMERAL 1, DEL ARTÍCULO 144 Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Comuníquese el presente Decreto a los Ayuntamientos del Estado, para los efectos estipulados en el artículo 159 de la Constitución Política del Estado de Sinaloa.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- POR EL QUE SE EXPIDE LA LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO, CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, CÓDIGO PARA LA BIODIVERSIDAD, CÓDIGO PENAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL, LEY DE FOMENTO ECONÓMICO, LEY DE EVENTOS PÚBLICOS, LEY ORGÁNICA MUNICIPAL, LEY DEL AGUA Y LEY DE MOVILIDAD, TODAS DEL ESTADO DE MÉXICO”.]
 
