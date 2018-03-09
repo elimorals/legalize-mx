@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2017-07-07"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -171,9 +171,13 @@ ARTESANÍA: Arte u obra de los artesanos.
 
 ARTESANO: Persona que a diferencia del obrero febril; ejercita un arte u oficio meramente mecánico, referente a quien hace o elabora objetos de uso doméstico, imprimiéndoles un sello personal, manifestación de la actividad humana, mediante la cual se expresa una visión personal que interpreta lo real o lo imaginativo.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
-GIRO COMERCIAL: ARTÍCULO(s) o tipo de alimento autorizado para su venta, de acuerdo a este Reglamento.
+GIRO COMERCIAL: Artículo o artículos o tipo de alimento autorizado para su venta, de acuerdo a este Reglamento.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+
+FOOD TRUCK: Vehículo acondicionado para elaborar y vender comida, golosinas, bebidas refrescantes sin graduación alcohólica u otros productos, debidamente autorizado, mismo que deberá estacionarse en un lugar específico de la vía pública, debiendo cumplir con las regulaciones que establece el presente ordenamiento.
 
 ###### ARTÍCULO 8.
 
@@ -343,9 +347,11 @@ k).- Pensionados y Jubilados deberán presentar comprobante que los avale como t
 
 El C. Presidente Municipal está facultado para exentar del pago cuando se trate de personas con disminución en sus capacidades físicas, mayores de 60 años de edad, personas con discapacidad y/o aquellos que por obligatoriedad legal sean responsables de las atenciones y/o cuidados de persona con discapacidad de acuerdo a la Ley de Ingresos vigente en el Municipio de Ensenada.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-Para el otorgamiento de permiso de las actividades comprendidas en el artículo 7 del presente Reglamento, el Presidente Municipal a través de si mismo o de la Dirección de Comercio Municipal tomará en cuenta las opiniones ó dictámenes que para tal efecto emitan las direcciones de Obras y Servicios Públicos Municipales, la Dirección de Desarrollo Urbano, Ecología, Dirección de Seguridad Pública Municipal, Dirección de Bomberos y Protección Civil y Servicios Médicos Municipales, en su caso.
+Para el otorgamiento de permiso de las actividades comprendidas en el ARTÍCULO 7 del presente Reglamento, el Presidente Municipal a través de sí mismo o del Departamento de Comercio, Alcoholes y Espectáculos Públicos tomará en cuenta las opiniones o dictámenes que para tal efecto emitan la Dirección de Servicios Públicos e Infraestructura, la Dirección de Desarrollo Urbano, Ecología y Medio Ambiente, Dirección de Seguridad Pública Municipal, Dirección de Bomberos, la Unidad de Protección Civil y la Dirección de Servicios Médicos, en su caso.
 
 ###### ARTÍCULO 29.
 
@@ -399,13 +405,17 @@ El DIF Municipal debe extender recibo comprobatorio de la entrada a su almacén 
 
 Invariablemente, cuando se realice un decomiso de mercancía por cualquiera de las causas enunciadas en este Reglamento, se elaborará un inventario detallado en el acta correspondiente y será firmado de conformidad por el afectado.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 32.
 
-El Ejecutivo Municipal a través de la Dirección de Comercio Municipal contará con un almacén propio y seguro para el resguardo de las mercancías decomisadas teniendo un horario fijo para la entrega de las mismas siendo éste de las 14:00 a las 15:00 horas de lunes a sábado en la ubicación que con antelación indique la Dirección.
+El Ejecutivo Municipal a través del Departamento de Comercio, Alcoholes y Espectáculos Públicos contará con un almacén propio y seguro para el resguardo de las mercancías decomisadas teniendo un horario fijo para la entrega de las mismas siendo éste de las 14:00 a las 15:00 horas de lunes a sábado en la ubicación que con antelación indique el Departamento de Comercio, Alcoholes y Espectáculos Públicos.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 33.
 
-El Ejecutivo Municipal a través de la Dirección de Comercio Municipal tendrá la obligación de promover acciones tendientes a mejorar la imagen urbana de la Ciudad, así como el reordenamiento del comercio que se ejerza sobre la vía pública que estime necesario, por mutuo propio o por petición de ciudadano (s) afectado (s) por el establecimiento de algún permisionario, además vigilará y promoverá que los carros y carretas sean funcionales e higiénicos y que ayuden a preservar la buena imagen de la Ciudad.
+El Ejecutivo Municipal a través del Departamento de Comercio, Alcoholes y Espectáculos Públicos tendrá la obligación de promover acciones tendientes a mejorar la imagen urbana de la Ciudad, así como el reordenamiento del comercio que se ejerza sobre la vía pública que estime necesario, por muto propio o por petición de ciudadano (s) afectado (s) por el establecimiento de algún permisionario, además vigilará y promoverá que los carros y carretas sean funcionales e higiénicos y que ayuden a preservar la buena imagen de la Ciudad.
 
 ###### ARTÍCULO 34.
 
@@ -501,21 +511,27 @@ n).- El horario para el funcionamiento de los mercados comunes es de las 8:00 a 
 
 ### CAPITULO VI. DE LA REUBICACION
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 46.
 
-El Departamento de Comercio, Alcoholes y Espectáculos Públicos, otorgará un plazo de hasta 45 días naturales, a los propietarios de los puestos fijos y semifijos que sean necesarios reubicarlos por las siguientes causas:
+En caso de que sea necesaria la reubicación de un puesto fijo o semi fijo por cualquiera de las causas previstas en el presente ordenamiento, el Departamento de Comercio, Alcoholes y Espectáculos Públicos, otorgará al propietario del permiso un plazo de 45 días naturales, contados a partir de la notificación de reubicación.
 
-a).- Por necesidad de remodelación en fachadas de negocios establecidos y en la construcción de casas habitación, frente a donde se fije o semifijo (sic) el comercio o puesto. El quejoso deberá fundamentar y comprobar dicha solicitud, mediante la presentación de permisos de construcción, planos arquitectónicos y demás documentos que acrediten dicha situación;
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
 
-b).- Por dictamen de la Dirección Servicios Públicos Municipales e Infraestructura, Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección de Seguridad Pública Municipal, Unidad Municipal de Protección Civil y la Dirección de Servicios Médicos Municipales, donde se determine técnicamente la no factibilidad del ejercicio del comercio sobre la vía pública;
+ARTICULO 46 BIS.- La reubicación será procedente por las siguientes causas:
 
-c).- Por disposiciones de Autoridades Sanitarias a efecto de evitar el detrimento de la salud pública;
+a) Por necesidad de remodelación en fachadas de negocios establecidos y en la construcción de casas habitación, frente a donde se fije o semifijo el comercio o puesto. El quejoso deberá Fundamentar y comprobar dicha solicitud, mediante la presentación de permisos de construcción, planos arquitectónicos y demás documentos que acrediten dicha situación;
 
-d).- Cuando dichos puestos vayan en contra de la buena imagen urbana de la Ciudad, las buenas costumbres, y afectación del medio ambiente. La dependencia encargada de auxiliar en la remoción de los puestos es la Dirección de Servicios Públicos Municipales e Infraestructura, previa solicitud por escrito del Departamento de Comercio, Alcoholes y Espectáculos Públicos;
+b) Por dictamen de la Dirección (sic) Servicios Públicos Municipales e Infraestructura, Dirección de Administración Urbana, Ecología y Medio Ambiente, Dirección de Seguridad Pública Municipal, Unidad de Protección Civil, Dirección de Servicios Médicos Municipales, donde se determine técnicamente que no es factible el ejercicio del comercio sobre la vía pública;
 
-e).- Por otras disposiciones que a juicio del Ayuntamiento considere necesaria la reubicación.
+c) Por disposiciones de Autoridades Sanitarias a efecto de evitar el detrimento de la salud pública;
+
+d) Cuando dichos puestos vayan en contra de la buena imagen urbana de la Ciudad, las buenas costumbres, y afectación del medio ambiente.,
+
+e) Por otras disposiciones que a juicio del Ayuntamiento considere necesaria la reubicación;
+
+f) A solicitud del propietario de un local comercial o casa habitación, cuando este le cause un perjuicio.
 
 ###### ARTÍCULO 47.
 
@@ -545,7 +561,7 @@ V.- Queda estrictamente prohibido que las personas que manejen alimentos cobren 
 
 VI.- Los vendedores de las delegaciones que desarrollen esta actividad, se sujetarán al mismo precepto.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ARTÍCULO 49 BIS.- Los vendedores ambulantes, vendedores en puesto fijo, o semifijo, se sujetarán a las disposiciones siguientes:
 
@@ -553,7 +569,7 @@ I.- Acatarán la ubicación y horarios establecidos en su permiso;
 
 II.- Sólo llevarán a cabo las disposiciones consignadas en su permiso;
 
-III.- Y solo para el caso de vendedores ambulantes, llevar puesto un chaleco, mismo que será proporcionado por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, el cual contendrá número de control y nombre del titular del permiso;
+III.- para el caso de vendedores ambulantes, puesto fijo y semi fijo de la zona turística, llevaran puesto un chaleco, mismo que deberá ser proporcionado por el Departamento de Comercio, Alcoholes y Espectáculos Públicos cumpliendo con las especificaciones de material y colores que indique el Departamento de Comercio, Alcoholes y Espectáculos Públicos, el cual contendrá el número de permiso y modalidad (ambulante, fijo o semi fijo), así también podrá ser modificado cada año en su color;
 
 IV.- Los vendedores de las delegaciones que desarrollen esta actividad, se sujetarán al mismo precepto.
 
@@ -615,11 +631,13 @@ III.- Para el caso de que la persona infraccionada no cumpla con lo dispuesto en
 
 No podrán colocarse dos o más puestos que tengan un mismo giro comercial a una distancia mínima de 100 metros lineales, a excepción de los mercados comunes.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 54.
 
-Si se encuentra abandonado un puesto fijo o semifijo en la vía pública los inspectores darán aviso a la Dirección de Servicios Públicos Municipales e Infraestructura para que procedan a levantarlo y el interesado tendrá un plazo de 30 días para recogerlo, pagando una multa conforme lo estipula el artículo 63 del presente Reglamento.
+Si se encuentra abandonado un puesto fijo o semifijo en la vía pública los inspectores darán aviso al Departamento de Servicios Públicos Municipales e Infraestructura para que procedan a levantarlo, previa autorización del Departamento de Comercio, Alcoholes y Espectáculos Públicos y el interesado tendrá un plazo de 30 días para recogerlo, pagando una multa conforme lo estipula el artículo 63 del presente Reglamento.
+
+Así mismo, la Dependencia encargada de auxiliar en la remoción de los puestos es la Dirección de Servicios Públicos Municipales e Infraestructura, previa solicitud por escrito del Departamento de Comercio, Alcoholes y Espectáculos Públicos.
 
 ### CAPITULO IX. DE LAS DELEGACIONES MUNICIPALES
 
@@ -651,91 +669,99 @@ III.- Las establecidas en los artículos 59, 60, 61 y 62 de este Reglamento.
 
 ### CAPITULO X. DE LOS INSPECTORES
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
-Los inspectores de comercio municipal, tendrán a su cargo la vigilancia, regulación del cumplimiento de las disposiciones del presente Reglamento y la que les sea asignada por el C. Presidente Municipal y el Jefe del el Departamento de Comercio, Alcoholes y Espectáculos Públicos para lo cual deberán identificarse en el ejercicio de sus funciones.
+Los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, tendrán a su cargo la vigilancia, regulación del cumplimiento de las disposiciones del presente Reglamento y la que les sea asignada por el C. Presidente Municipal y el Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos para lo cual deberán identificarse en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 60.
 
-Las facultades de los Inspectores de Comercio Municipal para los efectos de este Reglamento serán las 24 horas del día, extendiéndose éstas a las Delegaciones del Municipio de Ensenada así como las contempladas en los artículos 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California.
+Las facultades de los Inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos para los efectos de este Reglamento serán las 24 horas del día, extendiéndose éstas a las Delegaciones del Municipio de Ensenada así como las contempladas en los artículos 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 61.
 
-Los elementos de Seguridad Pública Municipal, serán auxiliares de los inspectores de Comercio Municipal y por lo tanto tendrán la obligación de apoyarlos cuantas veces sea necesario y de vigilar el cumplimiento de las disposiciones de este Reglamento.
+Los elementos de Seguridad Pública Municipal, serán auxiliares de los inspectores del Departamento de Comercio, Alcoholes y Espectáculos Públicos y por lo tanto tendrán la obligación de apoyarlos cuantas veces sea necesario y de vigilar el cumplimiento de las disposiciones de este Reglamento.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
-Las infracciones que se levanten por los inspectores de Comercio Municipal, serán entregadas al Director de Comercio Municipal para su calificación, conforme a la tarifa aplicable establecida en el Artículo 63 del presente Reglamento y únicamente el Presidente Municipal podrá disminuir el monto o cancelarlas en su caso.
+Las infracciones que se levanten por los inspectores del Departamento de Comercio, Alcoholes y Espectáculos Públicos, serán entregadas al Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos para su calificación, conforme a la tarifa aplicable establecida en el ARTÍCULO 63 del presente Reglamento y únicamente el Presidente Municipal podrá disminuir el monto o cancelarlas en su caso.
 
 ### CAPITULO XI. DE LA IMPOSICIÓN DE MULTAS
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 63.
 
-Las multas o infracciones que se levanten por violaciones al presente Reglamento se regirán conforme a las siguientes tarifas, aplicadas en salarios mínimos diarios de la región (SMDR), en la Zona Urbana y en las Delegaciones Municipales:
+Las multas o infracciones que se levanten por violaciones al presente Reglamento se regirán conforme a las siguientes tarifas, aplicadas en Unidad de Medida de Actualización vigente (UMA), en la Zona Urbana y en las Delegaciones Municipales:
 
 I.- Por vender artículos no comprendidos en su permiso:
 
-Zona Urbana: multa de 3 a 5 SMDR. Delegaciones: multa de 1 a 3 SMDR.
+Zona Urbana: multa de 3 a 5 UMA. Delegaciones: multa de 1 a 3 UMA.
 
-II.- Por vender bebidas con graduación alcohólica:
+II. - Por vender bebidas con graduación alcohólica:
 
-Zona Urbana: multa de 20 a 30 SMDR, además de la cancelación de su permiso
-
-Delegaciones: multa de 15 a 25 SMDR, además da la cancelación de su permiso.
+Zona Urbana: multa de 20 a 30 UMA, además de la cancelación de su permiso, Delegaciones: Multa de 15 a 25 UMA, además da la cancelación de su permiso.
 
 III.- Por permitir consumir bebidas con graduación alcohólica:
 
-Zona Urbana multa de 10 a 20 SMDR. Delegaciones: multa de 5 a 15 SMDR.
+Zona Urbana multa de 10 a 20 UMA, Delegaciones: multa de 5 a 15 UMA.
 
 IV.- Por vender artículos pirotécnicos:
 
-Zona Urbana: multa de 10 a 20 SMDR. Delegaciones: multa de 5 a 15 SMDR.
+Zona Urbana: multa de 10 a 20 UMA. Delegaciones: multa de 5 a 15 UMA.
 
-V.- Para vendedores semifijos que abandonen su carreta-puesto o mercancía en la vía pública; Zona Urbana: multa de 10 a 20 SMDR. Delegaciones: multa de 5 a 15 SMDR.
+V.- Para vendedores semifijos que abandonen su carreta- puesto o mercancía en la vía pública;
+
+Zona Urbana: multa de 10 a 20 UMA. Delegaciones: multa de 5 a 15 UMA.
 
 VI.- Por ejercer el comercio sobre la vía pública en lugares prohibidos:
 
-Zona Urbana: multa de 5 a 10 SMDR. Delegaciones: multa de 3 a 5 SMDR.
+Zona Urbana: multa de 5 a 10 UMA.
+
+Delegaciones: multa de 3 a 5 UMA.
 
 VII.- Por arrendar su permiso:
 
-Zona Urbana: multa de 15 a 30 SMDR y cancelación del permiso.
+Zona Urbana: multa de 15 a 30 UMA y cancelación del permiso. Delegaciones: multa de 10 a 25 UMA y cancelación del permiso.
 
-Delegaciones: multa de 10 a 25 SMDR y cancelación del permiso.
+VIII.- Por no respetar el horario indicado en su permiso.
 
-VIII.- Por no respetar el horario indicado en su permiso:
-
-Zona Urbana: multa de 5 a 10 SMDR. Delegaciones: multa de 3 a 5 SMDR.
+Zona Urbana: multa de 5 a 10 UMA. Delegaciones: multa de 3 a 5 UMA.
 
 IX.- Por no mantener limpia el área de trabajo en la vía pública: los vendedores ambulantes, puestos fijos, semifijos y mercados comunes:
 
-Zona Urbana: multa de 5 a 10 SMDR. Delegaciones: multa de 3 a 5 SMDR.
+Zona Urbana: multa de 5 a 10 UMA. Delegaciones: multa de 3 a 5 UMA.
 
 X.- Por ejercer el comercio ambulante sin permiso:
 
-Zona Urbana: multa de 5 a 30 SMDR. Delegaciones: multa de 3 a 25 SMDR.
+Zona Urbana: multa de 5 a 30 UMA. Delegaciones: multa de 3 a 25 UMA.
 
 XI.- Por tener más empleados de los autorizados:
 
-Zona Urbana: multa de 5 a 30 SMDR. Delegaciones: multa de 3 a 25 SMDR.
+Zona Urbana: multa de 5 a 30 UMA. Delegaciones: multa de 3 a 25 UMA.
 
-XII.- Por estacionarse en un lugar por más tiempo del permitido (vendedores ambulantes):
-
-Zona Urbana: multa de 3 a 5 SMDR. Delegaciones: multa de 1 a 3 SMDR.
+XII.- Por estacionarse en un lugar por más tiempo del permitido (vendedores ambulantes): Zona Urbana: multa de 3 a 5 UMA. Delegaciones: multa de 1 a 3 UMA.
 
 XIII.- Por cambiar de giro sin autorización de la Autoridad Municipal:
 
-Zona Urbana: multa de 5 a 10 SMDR. Delegaciones: multa de 3 a 5 SMDR.
+Zona Urbana: multa de 5 a 10 UMA. Delegaciones: multa de 3 a 5 UMA.
 
 XIV.- Por invadir vía pública no autorizada:
 
-Zona Urbana: multa de 5 a 10 SMDR. Delegaciones: multa de 3 a 5 SMDR.
+Zona Urbana: multa de 5 a 10 UMA.
+
+Delegaciones: multa de 3 a 5 UMA.
 
 XV.- Por trabajar bajo el influjo de bebidas con graduación alcohólica o sustancias prohibidas:
 
-Zona Urbana: multa de 10 a 30 SMDR. Delegaciones: multa de 5 a 25 SMDR.
+Zona Urbana: multa de 10 a 30 UMA. Delegaciones: multa de 5 a 25 UMA.
 
 ###### ARTÍCULO 64.
 
@@ -844,3 +870,9 @@ P.O. 7 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 008/2017, RELATIVO A LA REFORMA AL ARTÍCULO 15 DEL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/ o la Gaceta Municipal.
+
+P.O. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
