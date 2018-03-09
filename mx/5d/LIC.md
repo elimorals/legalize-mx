@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2016-06-17"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2154,7 +2154,9 @@ Será responsabilidad de la institución que solicite la transferencia de recurs
 
 Si el titular de la operación pasiva cuya terminación se solicite objeta dicha terminación o la transferencia de recursos efectuada por no haber otorgado la autorización respectiva, la institución solicitante estará obligada a entregar los recursos de que se trate a la institución original, en los términos y plazos que establezca la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, mediante disposiciones de carácter general. Lo anterior con independencia del pago de los daños y perjuicios que le haya ocasionado al cliente y de las sanciones aplicables en términos de esta y, en su caso, otras leyes.
 
-Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología que previamente convengan las partes, siempre y cuando pueda comprobarse fehacientemente el acto jurídico de que se trate.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología, siempre y cuando pueda comprobarse fehacientemente el acto jurídico de que se trate. Lo dispuesto en éste párrafo será sin perjuicio de que las Entidades cumplan con la normatividad en la materia a que estén sujetas conforme a sus leyes especiales.
 
 Lo dispuesto por este artículo se sujetará a las disposiciones de carácter general que emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
@@ -2222,31 +2224,53 @@ Para efectos de este artículo, se entenderá por control, consorcio y grupo emp
 
 ARTICULO 51 BIS.- La Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general que al efecto emita con acuerdo de su Junta de Gobierno establecerá el monto máximo de las operaciones activas de las instituciones de crédito, el cual se determinará en relación con la parte básica de su capital neto.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 52.
 
-Las instituciones de crédito podrán pactar la celebración de sus operaciones y la prestación de servicios con el público mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, y establecerán en los contratos respectivos las bases para determinar lo siguiente:
+Las instituciones de crédito podrán permitir el uso de la firma electrónica avanzada o cualquier otra forma de autenticación para pactar la celebración de sus operaciones y la prestación de servicios con el público mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, y establecerán en los contratos respectivos las bases para determinar lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 I. Las operaciones y servicios cuya prestación se pacte;
 
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 III. Los medios por los que se hagan constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 Cuando así lo acuerden con su clientela, las instituciones podrán suspender o cancelar el trámite de operaciones que aquélla pretenda realizar mediante el uso de equipos o medios a que se refiere el primer párrafo de este artículo, siempre que cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida. Lo anterior también resultará aplicable cuando las instituciones detecten algún error en la instrucción respectiva.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Asimismo, las instituciones podrán acordar con su clientela que, cuando ésta haya recibido recursos mediante alguno de los equipos o medios señalados en el párrafo anterior y aquéllas cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida, podrán restringir hasta por quince días hábiles la disposición de tales recursos, a fin de llevar a cabo las investigaciones y las consultas que sean necesarias con otras instituciones de crédito relacionadas con la operación de que se trate. La institución de crédito podrá prorrogar el plazo antes referido hasta por diez días hábiles más, siempre que se haya dado vista a la autoridad competente sobre probables hechos ilícitos cometidos en virtud de la operación respectiva.
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 No obstante lo dispuesto en el párrafo anterior, cuando las instituciones así lo hayan acordado con su clientela, en los casos en que, por motivo de las investigaciones antes referidas, tengan evidencia de que la cuenta respectiva fue abierta con información o documentación falsa, o bien, que los medios de identificación pactados para la realización de la operación de que se trate fueron utilizados en forma indebida, podrán, bajo su responsabilidad, cargar el importe respectivo con el propósito de que se abone en la cuenta de la que procedieron los recursos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Las instituciones que por error hayan abonado recursos en alguna de las cuentas que lleven a su clientela, podrán cargar el importe respectivo a la cuenta de que se trate con el propósito de corregir el error, siempre que así lo hayan pactado con ella.
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+
 En los casos señalados en los cuatro párrafos anteriores, las instituciones deberán notificar al cliente respectivo la realización de cualquiera de las acciones que hayan llevado a cabo de conformidad con lo previsto en los mismos.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 El uso de los medios de identificación que se establezcan conforme a lo previsto por este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
-La instalación y el uso de los equipos y medios señalados en el primer párrafo de este artículo se sujetarán a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores, sin perjuicio de las facultades con que cuenta el Banco de México para regular las operaciones que efectúen las instituciones de crédito relacionadas con los sistemas de pagos y las de transferencias de fondos en términos de su ley.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+La instalación y el uso de los equipos, medios y formas de autenticación señalados en el primer párrafo de este artículo se sujetarán a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores, sin perjuicio de las facultades con que cuenta el Banco de México para regular las operaciones que efectúen las instituciones de crédito relacionadas con los sistemas de pagos y las de transferencias de fondos en términos de su ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 Las instituciones de crédito podrán intercambiar información en términos de las disposiciones de carácter general a que se refiere el artículo 115 de esta Ley, con el fin de fortalecer las medidas para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en contra de su clientela o de la propia institución.
 
@@ -2396,9 +2420,9 @@ Previo a la prestación de los servicios de domiciliación a que se refiere este
 
 En cualquier momento, el depositante podrá solicitar la cancelación de la domiciliación a la institución de crédito que le lleve la cuenta, sin importar quién conserve la autorización de los cargos correspondientes. La citada cancelación surtirá efectos en el plazo que establezca el Banco de México en las disposiciones de carácter general a que se refiere el presente artículo, el cual no podrá exceder de los diez días hábiles bancarios siguientes a aquél en que la institución de crédito la reciba, por lo que a partir de dicha fecha deberá rechazar cualquier nuevo cargo en favor del proveedor.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
 
-Las autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología que previamente convengan las partes.
+Las autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología, de conformidad con lo que, al efecto, establezca la Comisión Nacional Bancaria y de Valores en disposiciones de carácter general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -2652,7 +2676,9 @@ El titular de la cuenta que desee objetar algún pago deberá seguir el procedim
 
 En cualquier momento el cliente podrá solicitar a la institución de crédito la cancelación de la autorización a que se refiere el presente artículo, independientemente de quién la conserve. La citada cancelación surtirá efectos en el plazo que establezca el Banco de México en las disposiciones de carácter general a que se refiere el párrafo anterior, el cual no podrá exceder de los diez días hábiles bancarios siguientes a aquél en que la institución de crédito la reciba, por lo que, a partir de dicha fecha, deberá rechazar cualquier nuevo cargo a favor del proveedor.
 
-Las autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología que previamente convengan las partes.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+Las autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología, de conformidad con lo que, al efecto, establezca el Banco de México en disposiciones de carácter general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -3355,6 +3381,10 @@ a) La colocación y entrega de los recursos captados por las asociaciones y soci
 b) Sus activos no podrán ser superiores a 350,000 UDIS, y
 
 c) Se abstendrán de promover la captación de recursos a persona indeterminada o mediante medios masivos de comunicación.
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+
+VII. Las instituciones de tecnología financiera, así como los usuarios de las instituciones de financiamiento colectivo en las operaciones que realicen en dichas instituciones a que se refiere la Ley para Regular las Instituciones de Tecnología Financiera.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -4135,6 +4165,16 @@ II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios el
 > <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2008)</small>
 
 ARTICULO 112 QUINTUS.- La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 112 Bis, 112 Ter y 112 Quáter tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier institución de crédito, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 112 Bis.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+ARTICULO 112 SEXTUS.- Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientas mil Unidades de Medida y Actualización, a quien valiéndose de cualquier medio físico, documental, electrónico, óptico, magnético, sonoro, audiovisual o de cualquier otra clase de tecnología, suplante la identidad, representación o personalidad de una autoridad financiera o de alguna de sus áreas o de alguno de los sujetos a que se refiere el artículo 3 de esta Ley, o de un servidor público, directivo, consejero, empleado, funcionario, o dependiente de éstas, en los términos establecidos por el artículo 116 Bis 1 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+
+ARTÍCULO 112 SÉPTIMUS.- Se sancionará con prisión de tres a nueve años y multa de treinta mil a trescientas mil Unidades de Medida y Actualización, a quien utilice u obtenga, por sí o a través de interpósita persona, cualquier servicio o producto financiero proporcionado por alguno de los sujetos a que se refiere el artículo 3 de esta Ley o por una autoridad financiera o alguna de sus áreas, bajo una identidad falsa o suplantada.
+
+Las mismas penas se impondrán a quién para realizar alguna de las conductas a que se refiere el párrafo anterior, otorgue su consentimiento para llevar a cabo la suplantación de identidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -7851,3 +7891,9 @@ Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal,
 Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
 
 Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
