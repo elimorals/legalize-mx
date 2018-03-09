@@ -4,7 +4,7 @@ identifier: "LRAF"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-10"
-last_updated: "2014-01-10"
+last_updated: "2018-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
 
 Ley publicada en la Quinta Sección del Diario Oficial de la Federación, el viernes 10 de enero de 2014.
 
@@ -52,9 +52,11 @@ La presente Ley es de orden público y de observancia general en los Estados Uni
 
 Las autoridades financieras, cada una en la esfera de su respectiva competencia, ejercerán sus atribuciones procurando: el desarrollo equilibrado del sistema financiero del país, con una apropiada cobertura regional; una adecuada competencia entre los participantes en dicho sistema; la prestación de los servicios integrados conforme a sanas prácticas y usos financieros; el fomento del ahorro interno y su adecuada canalización hacia actividades productivas; así como, en general, que el sistema citado contribuya al sano crecimiento de la economía nacional.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 3o.
 
-Las entidades financieras no deberán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, actuar de manera conjunta, ofrecer servicios complementarios ni, en general, ostentarse en forma alguna como integrantes de Grupos Financieros, salvo cuando se trate de integrantes de Grupos Financieros que se encuentren organizados y funcionen conforme a las disposiciones de la presente Ley.
+Las entidades financieras no deberán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, actuar de manera conjunta, ofrecer servicios complementarios ni, en general, ostentarse en forma alguna como integrantes de Grupos Financieros, salvo cuando se trate de integrantes de Grupos Financieros que se encuentren organizados y funcionen conforme a las disposiciones de la presente Ley. Las instituciones reguladas en la Ley para Regular las Instituciones de Tecnología Financiera no podrán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, aún y cuando sean integrantes de Grupos Financieros.
 
 Sin perjuicio de lo dispuesto en el primer párrafo, las entidades financieras y sus subsidiarias podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, sólo cuando así lo prevean las leyes especiales que las rijan y con sujeción a las disposiciones contenidas en dichos ordenamientos.
 
@@ -190,9 +192,11 @@ Estas autorizaciones así como sus modificaciones, se publicarán, a costa del i
 
 La autorización a que se refiere el presente artículo se otorgará sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE MARZO DE 2018)</small>
+
 ###### Artículo 12.
 
-Los Grupos Financieros a que se refiere la presente Ley estarán compuestos por una Sociedad Controladora y por algunas de las entidades financieras siguientes que sean consideradas integrantes del Grupo Financiero: almacenes generales de depósito, casas de cambio, instituciones de fianzas, instituciones de seguros, casas de bolsa, instituciones de banca múltiple, sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades financieras de objeto múltiple y sociedades financieras populares.
+Los Grupos Financieros a que se refiere la presente Ley estarán compuestos por una Sociedad Controladora y por algunas de las entidades financieras siguientes que sean consideradas integrantes del Grupo Financiero: almacenes generales de depósito, casas de cambio, instituciones de fianzas, instituciones de seguros, casas de bolsa, instituciones de banca múltiple, sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades financieras de objeto múltiple, sociedades financieras populares, instituciones de tecnología financiera y las demás entidades financieras susceptibles de ser integrantes de Grupos Financieros en términos de las reglas que emita la Secretaría.
 
 El Grupo Financiero deberá formarse con cuando menos dos de las entidades financieras señaladas en el párrafo anterior, que podrán ser del mismo tipo. Como excepción a lo anterior, un Grupo Financiero no podrá formarse solamente con dos sociedades financieras de objeto múltiple.
 
@@ -2577,3 +2581,11 @@ VII. Las infracciones y delitos cometidos antes de la entrada en vigor de esta L
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
