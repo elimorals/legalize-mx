@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-02-20"
+last_updated: "2018-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -37,7 +37,7 @@ DECRETO 392
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
@@ -2377,6 +2377,10 @@ El Gobierno del Estado, a través de las dependencias competentes, propondrá y 
 
 Asimismo, promoverá la difusión de programas de cultura y educación ambiental, así como el desarrollo de proyectos de educación ambiental en español, y en las principales lenguas indígenas de la Entidad.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+
+ARTICULO 143 BIS. El Gobierno del Estado, a través de la SEGAM, y la SEGE, elaborará, instaurará y difundirá el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable; el cual deberá establecer una educación ambiental desde el nivel básico hasta el nivel medio superior, instaurando en cada una de las escuelas el respeto al medio ambiente como uno de los valores máximos. Además, de incluir en las asignaturas relacionadas, temas de importancia que fomenten la preservación del medio ambiente.
+
 (REUBICADO, P.O. 19 DE JUNIO DE 2012)
 
 ###### ARTICULO 144.
@@ -2416,6 +2420,10 @@ La SEGAM desarrollará programas dirigidos a obtener un reporte propio de las em
 I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales, o de la forma y términos como se efectuará el propio reporte;
 
 II. Establecerá un sistema de aprobación y acreditamiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema, siendo de aplicación supletoria a la presente Ley la observancia de lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+
+También implementará un padrón de peritos y auditores ambientales capacitados y autorizados, el cual deberá estar disponible en la página de internet de la SEGAM.
 
 Para tal efecto, integrará un Comité Técnico Consultivo constituido por representantes de instituciones de educación superior, de investigación, colegios y asociaciones profesionales, así como organizaciones del sector industrial;
 
@@ -3081,7 +3089,7 @@ TERCERO. Se derogan todas aquellas disposiciones legales y administrativas que s
 
 P.O. 20 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0635.- SE REFORMA EL ARTÍCULO 136, DE LA LEY AMBIENTAL DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0635.- SE REFORMA EL ARTÍCULO 136, DE LA LEY AMBIENTAL DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3105,9 +3113,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3161,7 +3169,23 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 20 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 891.- SE REFORMA EL ARTÍCULO 16 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 113 Y 132 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 891.- SE REFORMA EL ARTÍCULO 16 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 113 Y 132 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 901.- SE ADICIONA EL ARTÍCULO 143 BIS A LA LEY DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 902.- SE ADICIONA AL ARTÍCULO 146 EN SU FRACCIÓN II UN PÁRRAFO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
