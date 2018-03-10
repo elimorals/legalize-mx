@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-91902"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-21"
-last_updated: "2017-12-06"
+last_updated: "2018-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL DÍA SIGUIENTE A AQUEL EN QUE RINDA LA PROTESTA DE LEY ANTE EL CONGRESO DEL ESTADO EL FISCAL GENERAL DE JUSTICIA DEL ESTADO.]</small>
+[NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL DÍA SIGUIENTE A AQUEL EN QUE RINDA LA PROTESTA DE LEY ANTE EL CONGRESO DEL ESTADO EL FISCAL GENERAL DE JUSTICIA DEL ESTADO.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 362, PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2018, SE APRUEBA LA DESIGNACIÓN DEL FISCAL GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN.]
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
@@ -820,3 +822,13 @@ Décimo Tercero.- Al día siguiente a aquel en que rinda la protesta de ley ante
 Décimo Cuarto.- Se derogan todas las disposiciones normativas que se opongan a la presente Ley.
 
 Décimo Quinto.- Mientras existan asuntos que deban tramitarse bajo las reglas del Código de Procedimientos Penales del Estado de Nuevo León, publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas, la Fiscalía General de Justicia del Estado de Nuevo León podrá contar con Secretarios, Delegados y Escribientes, con las facultades y atribuciones previstas en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 30 de julio de 2004 y sus reformas.
+
+P.O. 10 DE MARZO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO DEL “DECRETO NÚM. 362 SE APRUEBA DESIGNAR AL C. GUSTAVO ADOLFO GUERRERO GUTIÉRREZ, COMO FISCAL GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL TÉRMINO DE 6 AÑOS A PARTIR DEL DÍA 9 DE MARZO DE 2018 Y HASTA EL DÍA 8 DE MARZO DE 2024", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+Artículo Único.- La LXXIV Legislatura al H. Congreso del Estado de Nuevo León, de conformidad con lo señalado en el Artículo 87, séptimo párrafo fracción III de la Constitución Política del Estado Libre y Soberano de Nuevo León y el artículo 35 inciso A), fracción IV de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León, aprueba Designar al C. Gustavo Adolfo Guerrero Gutiérrez, como Fiscal General de Justicia del Estado de Nuevo León, por el término de 6-seis años a partir del día 9 de marzo de 2018 y hasta el día 8 de marzo de 2024.
+
+## TRANSITORIO
+
+Único.- El presente Decreto entrará en vigor al momento de su aprobación.
