@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2018-02-10"
+last_updated: "2018-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -33,9 +33,7 @@ DECRETO 176
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS
-
-[...]
+EXPOSICIÓN DE MOTIVOS.
 
 Para expedir esta nueva Ley, se tomó en cuenta además de las disposiciones de la Ley General de Protección Civil, que son obligatorias, las aportaciones contenidas en iniciativas anteriores; de las autoridades, funcionarios y expertos en la materia, que se incorporan a sus disposiciones que resultan en beneficio de la protección de la vida de los potosinos y de sus bienes.
 
@@ -104,6 +102,10 @@ En los presupuestos de egresos tanto del Ejecutivo del Estado, como de los ayunt
 Para los efectos de esta Ley se entiende por:
 
 I. Agente afectable: asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2018)</small>
+
+I. Bis. Agente Consultor Capacitador: persona o empresa que ofrece, provee u otorga capacitación, asesoría, pláticas, orientación o consultoría en temas de protección civil y la gestión integral del riesgo, de forma privada o comercial y en el ámbito gubernamental;
 
 II. Agente perturbador: fenómenos naturales, o de origen humano; respecto del primero se mencionan, los geológicos e hidro-meteorológicos; y en el segundo, los químicos, sanitarios, y socio-organizativos;
 
@@ -223,9 +225,17 @@ V. Los Planes Internos;
 
 VI. El Directorio Estatal de Integrantes del Consejo;
 
-VII. El Inventario de recursos humanos y materiales del Consejo, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2018)</small>
 
-VIII. El Registro de grupos voluntarios.
+VII. El Inventario de recursos humanos y materiales del Consejo;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2018)</small>
+
+VIII. El Registro de grupos voluntarios, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2018)</small>
+
+IX. El registro de agentes consultores capacitadores.
 
 ###### ARTÍCULO 11.
 
@@ -649,11 +659,25 @@ VIII. Integrarse a través de su representante al Centro Estatal de Comando de O
 
 IX. Las demás que las autoridades competentes u otras disposiciones legales les impongan.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-Para que los particulares o dependencias públicas puedan ejercer la actividad de, asesoría; capacitación; evaluación; elaboración de programas internos de protección civil; de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil deberán contar con el registro expedido por la Coordinación Estatal, de acuerdo con los lineamientos establecidos en el Reglamento de esta Ley.
+Para que las personas, dependencias públicas o empresas, denominadas agentes consultores capacitadores, puedan ejercer la actividad de asesoría; capacitación; evaluación; elaboración de programas internos de protección civil; continuidad de operaciones; y estudios de vulnerabilidad y riesgos en materia de protección civil, deberán contar con el registro expedido por la Coordinación Estatal, de acuerdo con los lineamientos establecidos en el Reglamento de esta Ley.
 
-El registro será obligatorio y permitirá a los particulares o dependencias públicas referidas en el párrafo anterior, emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas internos y especiales de protección civil.
+El registro será obligatorio y permitirá a los agentes consultores capacitadores referidos en el párrafo anterior; emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas internos y especiales de protección civil.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 52 Bis.
+
+A fin de evitar conflicto de interés real o potencial, así como tráfico de influencias; ningún servidor público o persona que forme de los consejos de protección civil nacional, estatal y municipal, así como los familiares directos de los empleados de los gobiernos referidos, no podrán obtener el registro como agentes consultores capacitadores.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 52 Ter.
+
+La Coordinación Estatal de Protección Civil publicará en el Periódico Oficial del Estado "Plan de San Luis", la lista de agentes consultores capacitadores que haya registrado para ejercer actividades de asesoría y capacitación en la materia; y además informará a las unidades municipales de protección civil los datos de los agentes con domicilio en su territorio. Por cada registro se cobrará el derecho previsto en la Ley de Hacienda del Estado.
 
 ## TÍTULO SEXTO. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL
 
@@ -915,7 +939,7 @@ Lic. Cándido Ochoa Rojas
 
 P.O. 15 DE OCTUBRE DE 2016.
 
-> <small>[N. DE E. TRANSITORIOS “DECRETO 0403.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XXI Y XXII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XXIII, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X Y XI; Y ADICIONA EL ARTÍCULO 63 BIS, Y AL ARTÍCULO 72 LA FRACCIÓN XII, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]</small>
+> <small>[N. DE E. TRANSITORIOS "DECRETO 0403.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XXI Y XXII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XXIII, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X Y XI; Y ADICIONA EL ARTÍCULO 63 BIS, Y AL ARTÍCULO 72 LA FRACCIÓN XII, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]</small>
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -946,3 +970,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Una vez vigente el presente Decreto, el Estado y los ayuntamientos tendrán noventa días para realizar las modificaciones a sus reglamentos de protección civil, a fin de incluir las medidas de seguridad para el uso y manejo de juegos inflables, brincolines y saltarines.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 900.- SE REFORMAN LOS ARTÍCULOS 6°, 10 Y 52 DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periodo (sic) Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
