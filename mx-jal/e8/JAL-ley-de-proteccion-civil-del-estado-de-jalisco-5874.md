@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2017-10-21"
+last_updated: "2018-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -215,17 +215,25 @@ El Programa Específico de Protección Civil deberá ser dictaminado de forma fa
 
 En todos los inmuebles, excepto en casas habitación unifamiliares, los arrendatarios, propietarios y poseedores estarán obligados a colocar señalización e instructivos para casos de emergencia, conforme a lo que señale el Reglamento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MARZO DE 2018)</small>
 
 ###### Artículo 7.
 
-En toda negociación o centro laboral, conforme a lo señalado en el Reglamento, se deberá:
+En todo establecimiento de prestación de servicios, comercial, industrial o centro laboral, conforme a lo señalado en el Reglamento, se deberá:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 I. Capacitar en materia de protección civil cada año a las personas que ahí laboren;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+
 II. Crear y registrar ante la Unidad Estatal o Municipal una unidad interna de protección civil. Tanto la Unidad Estatal como las municipales se informarán entre sí respecto de dichos registros;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+
 III. Tramitar y obtener la autorización y registro ante la Unidad Estatal con cuando menos cinco días naturales antes de iniciar operaciones que involucren el manejar, almacenar, transportar y utilizar materiales tipificados como peligrosos y/o explosivos en la Entidad; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 IV. Cumplir las disposiciones que se dicten en las suspensiones o restricciones de actividades públicas y privadas que se recomienden, especificando su tiempo de duración y conclusión.
 
@@ -1585,13 +1593,13 @@ El Consejo Estatal promoverá ante las autoridades educativas, que se proporcion
 
 El Sistema Educativo Estatal implementará en todas las escuelas de la entidad, el Programa Nacional de Seguridad de Emergencia Escolar, coordinado por las Secretarías de Educación y de Innovación, Ciencia y Tecnología, en su respectivo ámbito de atribuciones.
 
-> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2018)</small>
 
-De acuerdo a las condiciones de alto riesgo que se presenten en la localidad realizarán simulacros para capacitar operativamente a los educandos, apropiados a los diferentes niveles escolares.
+Con apoyo en el Atlas de Riesgo del Estado de Jalisco, los planteles escolares que integran el Sistema Educativo Estatal realizarán simulacros para capacitar operativamente a la comunidad escolar y promoverán la capacitación de las personas que integren el Comité de Protección Civil y Seguridad Escolar.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2018)</small>
 
-Las instituciones de educación media superior y superior organizarán Unidades Internas y elaborarán Programas Específicos, además de que deberán realizar dos simulacros generales por año, de acuerdo a lo referido en el párrafo anterior.
+Todos los planteles sin importar el nivel educativo, elaborarán su programa específico y organizarán unidades internas de protección civil, las cuales realizarán cuando menos dos simulacros por calendario escolar, de acuerdo con lo referido en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -2122,3 +2130,15 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26438/LXI/17 QUE REFORMA LOS ARTÍCULOS 5, 12 Y 24 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26740/LXI/18 QUE REFORMA EL ARTÍCULO 73 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26741/LXI/18 QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
