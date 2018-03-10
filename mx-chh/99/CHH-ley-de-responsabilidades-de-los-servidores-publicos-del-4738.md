@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2017-02-22"
+last_updated: "2018-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -97,91 +97,67 @@ No podrán imponerse dos veces por una sola conducta, sanciones de la misma natu
 
 ### CAPITULO I. DE LOS SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
 ###### ARTICULO 5o.
 
-Son sujetos de Juicio Político los servidores públicos siguientes: Los Diputados del Congreso del Estado; los Magistrados del Supremo Tribunal de Justicia, los jueces de Primera Instancia, Menores y de Paz; el Gobernador del Estado, el Secretario General de Gobierno, el Fiscal General del Estado, los Directores Generales y los Coordinadores.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 6o.
 
-Es procedente el Juicio Político, cuando los actos u omisiones de los servidores públicos a que se refiere el Artículo anterior, redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
-
-No procede el Juicio Político por la mera expresión de ideas.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 7o.
 
-Redundan en perjuicio de los intereses públicos fundamentales o de su buen despacho:
-
-I.- El ataque a las instituciones democráticas;
-
-II.- El ataque a la forma de gobierno republicano, representativo y popular, a la división de poderes, así como a la libertad, organización política y administrativa de los Municipios;
-
-III.- Las violaciones graves o sistemáticas a las garantías individuales o sociales;
-
-IV.- El ataque a la libertad del sufragio;
-
-V.- La usurpación de atribuciones;
-
-VI.- Cualquier infracción a la Constitución local o las Leyes Estatales o Municipales, que cause daños o perjuicios graves al Estado, Municipio o Sociedad, o motive algún trastorno en el funcionamiento normal de sus instituciones, y
-
-VII.- Las omisiones de carácter grave, en los términos de la fracción anterior.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 8o.
 
-El Juicio Político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 9o.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y aportando los suficientes elementos de prueba, puede denunciar por escrito y en forma personal, ante el Congreso del Estado, las conductas que se consignan en el Artículo 7o. de esta Ley.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 10.
 
-El Congreso del Estado valorará la existencia y gravedad de las infracciones a que se refiere este capítulo, mediante las pruebas que se aporten y resolverá lo procedente, observando en todo momento el procedimiento previsto en su propia Ley Orgánica.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 11.
 
-Si la resolución que se dicte en el Juicio Político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público, de uno a diez años.
-
-Dichas sanciones se aplicarán en un período no mayor de un año, contado a partir de la fecha en que se inició el procedimiento.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ### CAPITULO II. DE LA DECLARACION DE PROCEDENCIA
 
 ###### ARTICULO 12.
 
-Para proceder penalmente contra los servidores públicos que se mencionan en el Artículo 5o. de esta Ley, será necesario que el Congreso del Estado declare que ha lugar a proceder contra el inculpado, siguiendo el procedimiento establecido para tales efectos en la propia Ley Orgánica del citado Congreso.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 13.
 
-No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el Artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su cargo.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 14.
 
-El Ministerio Público hará la solicitud correspondiente ante el Congreso del Estado, para obtener la declaración de procedencia.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 15.
 
-Cuando se siga proceso penal a alguno de los servidores públicos señalados en el Artículo 5o. de esta Ley, sin haberse satisfecho el procedimiento correspondiente, la Secretaría del Congreso o de la Diputación Permanente, en su caso, librarán oficio al Tribunal que conozca de la causa, a efecto de que suspenda el procedimiento, en tanto se resuelva si ha lugar a proceder contra el inculpado.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 16.
 
-Para declarar que ha lugar a proceder, es necesario que esté comprobado el cuerpo del delito y que existan datos suficientes que hagan probable la responsabilidad del servidor público.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 17.
 
-Si el Congreso del Estado declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de las autoridades judiciales competentes, remitiéndoles de inmediato copia certificada del expediente y de las Actas de las sesiones del Congreso.
-
-En caso negativo, no habrá lugar a procedimiento ulterior y el servidor público continuará en el desempeño de sus funciones, sin que ello constituya obstáculo para que dicha imputación continúe su curso, una vez concluido el ejercicio de su cargo. La prescripción de la acción penal se interrumpe, en tanto el servidor público se encuentre en funciones.
-
-La declaratoria del Congreso del Estado de ninguna manera prejuzga sobre los fundamentos de la imputación.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 18.
 
-Si una vez procesado el servidor público resultase absuelto, se le repondrá en su empleo, cargo o comisión, enterándole los sueldos y prestaciones que hubiese dejado de percibir.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ###### ARTICULO 19.
 
-Las declaraciones y resoluciones definitivas del Congreso del Estado son inatacables; éstas se comunicarán al Presidente del Supremo Tribunal de Justicia si se tratase de alguno de los integrantes del Poder Judicial del Estado a que alude esta Ley. En todos los casos, al Gobernador del Estado para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial.
+(DEROGADO, P.O. 10 DE MARZO DE 2018)
 
 ### CAPITULO III. DE LAS RESPONSABILIDADES FEDERALES
 
@@ -842,3 +818,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXV/EXLEY/0733/2018 LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
