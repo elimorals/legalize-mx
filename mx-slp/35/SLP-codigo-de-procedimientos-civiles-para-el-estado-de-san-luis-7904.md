@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-10-21"
+last_updated: "2018-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -307,7 +307,13 @@ La reposición se sustanciará incidentalmente y, sin necesidad de acuerdo judic
 
 Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
-ART. 69.- Para sacar copia o testimonio de cualquier documento de los archivos o protocolos, se requiere decreto judicial que no se dictará sino con conocimiento de causa y audiencia de parte; y si no la hay, con la del Ministerio Público, procediéndose incidentalmente en caso de oposición.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2018)</small>
+
+ART. 69.- Para sacar copia o testimonio, con certificación del secretario del tribunal, de cualquier documento de los archivos o protocolos, se requiere decreto judicial que no se dictará sino con conocimiento de causa y audiencia de parte; y si no la hay, con la del Ministerio Público, procediéndose incidentalmente en caso de oposición.
+
+Para la obtención de copia simple de cualquier documento que obre en el juicio, únicamente bastará que la parte interesada en este trámite, tenga reconocida su personalidad en los términos de los artículos, 107, y 118, del presente Ordenamiento, comparezca, y lo solicite de forma verbal, sin que tenga que existir decreto judicial respectivo.
+
+En ambos casos, se expedirán las copias a costa del solicitante, y así mismo, se dejará constancia en autos de su recepción.
 
 ART. 70.- Los tribunales no admitirán nunca promociones de incidentes o recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de substanciación alguna; y, en su caso, consignarán el hecho al Ministerio Público para lo que fuere procedente.
 
@@ -5712,5 +5718,13 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 729.- SE REFORMA EL ARTÍCULO 1140, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 899.- SE REFORMA EL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
