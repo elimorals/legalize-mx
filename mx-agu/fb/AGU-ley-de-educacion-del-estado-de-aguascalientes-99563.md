@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2017-11-27"
+last_updated: "2018-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -165,7 +165,9 @@ VII. La formación para el trabajo.
 
 La educación que imparta, promueva o atienda el Estado, sus Organismos Descentralizados y los particulares, con Autorización o con Reconocimiento de Validez Oficial de Estudios dentro del Estado de Aguascalientes tendrá como fines:
 
-I. Favorecer el desarrollo de facultades para adquirir y desarrollar valores, habilidades, conocimientos científicos, humanísticos y tecnológicos, así como la capacidad de observación, análisis y reflexión críticos; fomentando aptitudes que estimulen la investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+I. Favorecer el desarrollo de facultades para adquirir y desarrollar valores, virtudes, habilidades, conocimientos científicos, humanísticos y tecnológicos, así como la capacidad de observación, análisis y reflexión críticos; fomentando aptitudes que estimulen la investigación científica y tecnológica;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -179,9 +181,11 @@ IV. Infundir el conocimiento y la práctica de la democracia como la forma de Go
 
 V. Instruir en la observancia de la ley, la justicia y los derechos humanos; así como promover el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
-VI. Fomentar la protección del medio ambiente y el equilibrio ecológico, haciendo conciencia de la necesidad de un aprovechamiento racional de los recursos naturales. Con tal propósito, el Instituto de Educación de Aguascalientes, en coordinación con la Secretaría del Medio Ambiente, ejercerá las atribuciones siguientes:
+VI. Fomentar el desarrollo sustentable, la protección del medio ambiente y el equilibrio ecológico, haciendo conciencia de la necesidad de un aprovechamiento racional de los recursos naturales. Con tal propósito, el Instituto de Educación de Aguascalientes, en coordinación con la Secretaría de Sustentabilidad, Medio Ambiente y Agua, ejercerá las atribuciones siguientes:
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 a) Promover el establecimiento de centros de educación y cultura ambiental;
 
@@ -189,13 +193,23 @@ a) Promover el establecimiento de centros de educación y cultura ambiental;
 
 b) Editar libros y producir otros materiales didácticos que aborden temas y problemáticas ambientales como el cuidado del agua, el aire, los suelos, la biodiversidad del Estado, el cambio climático y los demás temas y problemáticas ambientales que se presenten en el Estado;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 c) Coadyuvar en la construcción y mantenimiento de áreas verdes en las escuelas y centros educativos;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 d) Promover la creación de espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la Ley Ambiental Local aplicable;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 e) Promover y realizar acciones relacionadas con la protección, preservación y restauración del ambiente, involucrando a las diferentes personas del Sistema Estatal de Educación, a fin de desarrollar en ellos una mayor educación ambiental, y la difusión de las leyes ambientales del Estado, de la Federación y los Tratados Internacionales;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 f) Incentivar el uso de tecnología ambiental en las instalaciones educativas para un desarrollo sustentable; y
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 g) Establecer programas de contingencia ambiental.
 
@@ -217,15 +231,21 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 XIII. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
-XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-XV. Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud física, mental y afectiva, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y las conductas de riesgo;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XV. Fomentar la vida comunitaria y las actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
 
 XVI. Contribuir a que se formen personas autónomas, responsables, equilibradas, respetuosas de la ley y los derechos humanos, con actitudes favorables a la participación, la cooperación y la convivencia civilizada, al desarrollar en los educandos la capacidad de juicio y de toma de decisiones para propiciar la justicia, la libertad y la democracia; así como el aprecio a la ética, la rectitud, la verdad, la solidaridad, la disciplina y el trabajo responsable en lo individual y en lo colectivo;
 
 XVII. Promover en los educandos el conocimiento y aprecio de las instituciones federales, estatales y municipales, de modo que se forme su sentido de lealtad y pertenencia a una comunidad, al conocer, aceptar y poner en práctica sus deberes y derechos, dando especial prioridad a la cultura cívica y parlamentaria;
 
-XVIII. Promover el respeto a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre los individuos y los grupos sociales; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XVIII. Promover el respeto y la tolerancia a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre los individuos y los grupos sociales; y
 
 XIX. Resaltar y fomentar la responsabilidad de todos para hacer de los espacios urbanos y rurales lugares aptos para la convivencia y el desarrollo humano y propiciar el conocimiento de las relaciones entre el campo y la ciudad para que se basen en la justicia y el respeto a la especificidad cultural.
 
@@ -239,9 +259,15 @@ En el Sistema Educativo Estatal deberá asegurarse la participación activa de t
 
 Por consiguiente, los padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto a la autoridad del maestro o personal docente de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
+
 ###### Artículo 10.
 
-El Estado está obligado a prestar servicios de calidad que garanticen el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior.
+El Estado está obligado a prestar servicios de calidad que garanticen el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar tanto la educación básica, que comprende preescolar, primaria y secundaria, como la media superior.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+
+El Gobierno del Estado garantizará que en las instituciones de educación básica los grupos no excedan de treinta y cinco alumnos.
 
 La educación que se imparta en la Entidad tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria y la conciencia de la solidaridad nacional e internacional, en la independencia y en la justicia, en tal virtud:
 
@@ -317,87 +343,103 @@ IV. Promover convenios de colaboración internacional en materia de educación, 
 
 V. Atender las necesidades de crecimiento y mejora de la infraestructura educativa de las instituciones públicas establecidas en el Estado;
 
-VI. Promover la creación de programas escolares sobre educación artística, actividades deportivas y fomento a la ciencia y tecnología, que promuevan un sentido de pertenencia e identidad regional y nacional de la población aguascalentense;
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
 
-VII. Prestar los servicios de formación, actualización y superación profesional para maestros de educación básica, media y superior, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine y de acuerdo al Artículo 20 de la Ley General de Educación y los artículos 59 y 60 de la Ley General del Servicio Profesional Docente;
+VI. Procurar que la infraestructura en las instituciones de educación básica sea adecuada a la capacidad máxima de educandos por grupo;
+
+VII. Promover la creación de programas escolares sobre educación artística, actividades deportivas y fomento a la ciencia y tecnología, que promuevan un sentido de pertenencia e identidad regional y nacional de la población aguascalentense;
+
+VIII. Prestar los servicios de formación, actualización y superación profesional para maestros de educación básica, media y superior, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine y de acuerdo al Artículo 20 de la Ley General de Educación y los Artículos 59 y 60 de la Ley General del Servicio Profesional Docente;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
-VIII. Organizar, impartir y promover los servicios de educación básica, de educación media superior y superior, escuelas normales, de educación inicial, educación especial, y educación de jóvenes y adultos de formación para el trabajo;
+IX. Organizar, impartir y promover los servicios de educación básica, de educación media superior y superior, escuelas normales, de educación inicial, educación especial, y educación de jóvenes y adultos de formación para el trabajo;
 
-IX. Proponer a la Secretaría de Educación Pública contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria y demás para la formación de maestros de educación básica;
+X. Proponer a la Secretaría de Educación Pública contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria y demás para la formación de maestros de educación básica;
 
-X. Ajustar el calendario para cada ciclo lectivo de los tipos, niveles y modalidades a que se refiere la fracción anterior, respetando los doscientos días de clase para los educandos, fijados en el Artículo 51 de la Ley General de Educación, según los requerimientos y necesidades del Estado de Aguascalientes;
+XI. Ajustar el calendario para cada ciclo lectivo de los tipos, niveles y modalidades a que se refiere la fracción anterior, respetando los doscientos días de clase para los educandos, fijados en el Artículo 51 de la Ley General de Educación, según los requerimientos y necesidades del Estado de Aguascalientes;
 
-XI. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, y demás para la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
+XII. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, y demás para la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
 
-XII. Otorgar, negar o revocar autorización a los particulares para prestar la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+XIII. Otorgar, negar o revocar autorización a los particulares para prestar la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
-XIII. Promover, mediante convenios, la participación directa del Ayuntamiento de cada Municipio para dar mantenimiento, seguridad y ampliación de la infraestructura física, así como proveer de equipamiento básico y secundario a las escuelas y bibliotecas públicas;
+XIV. Promover, mediante convenios, la participación directa del Ayuntamiento de cada Municipio para dar mantenimiento, seguridad y ampliación de la infraestructura física, así como proveer de equipamiento básico y secundario a las escuelas y bibliotecas públicas;
 
-XIV. Celebrar con el Ayuntamiento de cada Municipio, convenios para coordinar o unificar sus actividades educativas y cumplir con las responsabilidades a su cargo;
+XV. Celebrar con el Ayuntamiento de cada Municipio, convenios para coordinar o unificar sus actividades educativas y cumplir con las responsabilidades a su cargo;
 
-XV. Lograr la distribución oportuna, completa y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes proporcionen;
+XVI. Lograr la distribución oportuna, completa y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes proporcionen;
 
-XVI. Coordinar para que todos los organismos públicos del sector educativo cumplan con el programa estatal de educación;
+XVII. Coordinar para que todos los organismos públicos del sector educativo cumplan con el programa estatal de educación;
 
-XVII. Velar por la preservación de la salud de los educandos, fomentando entre los padres de familia la adopción de hábitos de alimentación saludables con base a los programas de nutrición formulados por el Instituto de Servicios de Salud del Estado de Aguascalientes;
+XVIII. Velar por la preservación de la salud de los educandos, fomentando entre los padres de familia la adopción de hábitos de alimentación saludables con base a los programas de nutrición formulados por el Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-XVIII. Vigilar que se cumplan los lineamientos expedidos por la Secretaría de Educación Pública, a los que deben sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud;
+XIX. Vigilar que se cumplan los lineamientos expedidos por la Secretaría de Educación Pública, a los que deben sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud;
 
-XIX. Promover la creación de programas educativos de prevención, desarrollando estilos de vida sanos, de conciencia de las repercusiones perjudiciales de las drogas, el alcohol y el tabaco, reforzando la actitud contra su uso en toda la población;
+XX. Promover la creación de programas educativos de prevención, desarrollando estilos de vida sanos, de conciencia de las repercusiones perjudiciales de las drogas, el alcohol y el tabaco, reforzando la actitud contra su uso en toda la población;
 
-XX. Proteger a los educandos de los riesgos asociados con la exposición a la radiación ultravioleta emitida por el sol, en cualquier actividad que se desarrolle al aire libre, tomando como referencia para ello el índice ultravioleta difundido por el Instituto de Servicios de Salud del Estado de Aguascalientes;
+XXI. Proteger a los educandos de los riesgos asociados con la exposición a la radiación ultravioleta emitida por el sol, en cualquier actividad que se desarrolle al aire libre, tomando como referencia para ello el índice ultravioleta difundido por el Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-XXI. Dentro del marco del Sistema de Información y Gestión Educativa, coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa, de conformidad con los lineamientos que al efecto expida la Secretaría de Educación pública y demás disposiciones aplicables;
+XXII. Dentro del marco del Sistema de Información y Gestión Educativa, coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa, de conformidad con los lineamientos que al efecto expida la Secretaría de Educación pública y demás disposiciones aplicables;
 
-XXII. Participar en la actualización e integración permanente del Sistema De Información y Gestión Educativa, y proporcionar información a la Secretaría de Educación Pública para satisfacer las necesidades de operación del Sistema Educativo Estatal;
+XXIII. Participar en la actualización e integración permanente del Sistema De Información y Gestión Educativa, y proporcionar información a la Secretaría de Educación Pública para satisfacer las necesidades de operación del Sistema Educativo Estatal;
 
-XXIII. Participar con la Autoridad Educativa Federal en la operación de los mecanismos de administración escolar;
+XXIV. Participar con la Autoridad Educativa Federal en la operación de los mecanismos de administración escolar;
 
-XXIV. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y diversidad educativa; y
-
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
-
-XXV. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado;
+XXV. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y diversidad educativa; y
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
 
-XXVI. Impulsar políticas públicas a fin de garantizar la entrega de útiles escolares a los niños, niñas y adolescentes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
+XXVI. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
+
+XXVII. Impulsar políticas públicas a fin de garantizar la entrega de útiles escolares a los niños, niñas y adolescentes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
 
-XXVII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
+XXVIII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado;
+XXIX. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXIX. Implementar un programa gradualmente para la incorporación de ecotecnologías que contribuyan a propiciar una relación armónica y el cuidado de los recursos naturales en las instituciones de educación básica y media superior, de acuerdo a la disponibilidad presupuestal; y
+XXX. Implementar un programa gradualmente para la incorporación de ecotecnologías que contribuyan a propiciar una relación armónica y el cuidado de los recursos naturales en las instituciones de educación básica y media superior, de acuerdo a la disponibilidad presupuestal; y
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXX. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+XXXI. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
 El Instituto de Educación de Aguascalientes con el fin de dar mejor cumplimiento a la obligación que le confiere el Artículo anterior en su fracción III, llevará a efecto las siguientes acciones:
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
-a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, las costumbres, las tradiciones y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
+a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, el manejo de emociones y sentimientos en las distintas etapas de la persona, las costumbres, las tradiciones y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 I. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 II. El cuidado del medio ambiente y manejo sustentable de los recursos naturales como una práctica educativa integral, continua y permanente en los diferentes niveles educativos;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 III. Mejorar las medidas y estrategias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno y hábitos de consumo responsable;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 IV. Divulgar las problemáticas ambientales que se generen en el entorno de los educandos a fin de crear conciencia sobre el cuidado al medio ambiente y proporcionar los conocimientos para enfrentarlas;
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 V. Promover y difundir la riqueza natural del Estado y fomentar su cuidado y preservación; y
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 VI. Las demás que determine la Autoridad Educativa federal.
 
@@ -489,13 +531,19 @@ VII. Operar y, en su caso, diseñar programas de Reconocimiento para docentes y 
 
 VIII. Ofrecer programas y cursos gratuitos, idóneos, pertinentes y congruentes con los niveles de desempeño que se desea alcanzar, para la formación continua, actualización de conocimientos y desarrollo profesional del Personal Docente y del Personal con Funciones de Dirección o de Supervisión que se encuentren en servicio;
 
-IX. Ofrecer al Personal Docente y al Personal con Funciones de Dirección y de Supervisión programas de desarrollo de capacidades para la evaluación interna a que se refiere la Ley General del Servicio Profesional Docente;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+IX. Ofrecer al Personal Docente y al Personal con funciones de Dirección y de Supervisión, programas de calidad, idóneos y pertinentes para el desarrollo de capacidades para la evaluación interna a que se refiere la Ley General del Servicio Profesional Docente;
 
 X. Organizar y operar el Servicio de Asistencia Técnica a la Escuela de conformidad con los lineamientos generales que la Secretaría determine;
 
-XI. Ofrecer los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-XII. Ofrecer los programas de desarrollo de liderazgo y gestión pertinentes;
+XI. Ofrecer los programas de calidad, idóneos y pertinentes para la regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XII. Ofrecer los programas idóneos y pertinentes para el desarrollo de liderazgo y gestión.
 
 XIII. Emitir los lineamientos a los que se sujetará la elección de personal que refiere el Artículo 47 de la Ley General del Servicio Profesional Docente;
 
@@ -537,13 +585,19 @@ X. Calificar, conforme a los lineamientos que el Instituto Nacional para la Eval
 
 XI. Diseñar y operar programas de Reconocimiento para el Personal Docente y para el Personal con Funciones de Dirección y de Supervisión que se encuentren en servicio;
 
-XII. Ofrecer programas y cursos para la formación continua del Personal Docente y del Personal con Funciones de Dirección y de Supervisión que se encuentren en servicio;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-XIII. Ofrecer al Personal Docente y con Funciones de Dirección y de Supervisión programas de desarrollo de capacidades para la evaluación;
+XII. Ofrecer programas y cursos gratuitos, idóneos y pertinentes para la formación continua del Personal Docente y del Personal con funciones de Dirección y de Supervisión que se encuentren en servicio;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XIII. Ofrecer a Personal Docente y con funciones de Dirección y de Supervisión programas de calidad, idóneos y pertinentes para el desarrollo de capacidades para la evaluación.
 
 XIV. Organizar y operar el Servicio de Asistencia Técnica a la Escuela;
 
-XV. Ofrecer los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XV. Ofrecer los programas de calidad, idóneos y pertinentes para la regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente;
 
 XVI. Administrar la asignación de plazas con estricto apego al orden establecido con base en los puntajes obtenidos de mayor a menor, de los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de éste cuando se generen vacantes que la autoridad determine que deban ser ocupadas;
 
@@ -713,15 +767,19 @@ XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas 
 
 XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran; y
+XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apoyo económico mensual equivalente a 15 días de Unidad de Medida y Actualización, a niñas, niños y adolescentes en situación vulnerable que cursen de manera regular un nivel educativo de educación básica o media superior en una institución educativa pública, cuando alguno de los padres, tutores, o quienes ejerzan la patria potestad hayan sufrido algún accidente que ocasione incapacidad o invalidez permanente, o cuando haya acontecido la muerte de uno o de ambos y que derivado de tal situación el estudiante no cuente con los recursos económicos que le permitan continuar con sus estudios. Este apoyo será garantizado al beneficiario durante el tiempo que permanezca estudiando en un nivel de educación básica o media superior hasta su conclusión.
+XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apoyo económico mensual equivalente a 15 días de Unidad de Medida y Actualización, a niñas, niños y adolescentes en situación vulnerable que cursen de manera regular un nivel educativo de educación básica o media superior en una institución educativa pública, cuando alguno de los padres, tutores, o quienes ejerzan la patria potestad hayan sufrido algún accidente que ocasione incapacidad o invalidez permanente, o cuando haya acontecido la muerte de uno o de ambos y que derivado de tal situación el estudiante no cuente con los recursos económicos que le permitan continuar con sus estudios. Este apoyo será garantizado al beneficiario durante el tiempo que permanezca estudiando en un nivel de educación básica o media superior hasta su conclusión;
 
-El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+
+XXVII. Proporcionar programas complementarios en materia de educación afectiva desde la primera infancia y hasta la adolescencia en los niveles de educación básica y media superior.
 
 ###### Artículo 30.
 
@@ -1063,17 +1121,25 @@ V. Conocimientos básicos y actitudes éticas idóneas para participar libre y d
 
 VI. Conocimientos básicos, valores y hábitos para la conservación de la salud individual y colectiva;
 
-VII. Capacidad de relacionarse, comunicarse y colaborar en el trabajo con los demás para llevar a buen término una responsabilidad; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+VII. Capacidad de relacionarse, comunicarse y colaborar en el trabajo con los demás para llevar a buen término una responsabilidad;
 
-VIII. La capacidad para conocer su Entidad, su cultura, sus costumbres y sus recursos naturales.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+VIII. La capacidad para conocer su Entidad, su cultura, sus costumbres y sus recursos naturales; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+
+IX. La formación en valores humanos, así como el manejo de emociones y sentimientos de acuerdo a su etapa de desarrollo.
 
 ###### Artículo 70.
 
 Toda la educación básica y sus modalidades se guiarán por los planes y programas de estudio que determine la Secretaría de Educación Pública.
 
-La Autoridad Educativa del Estado podrá proponer a la Secretaría de Educación Pública para consideración y aprobación, en su caso, contenidos regionales de índole artístico, deportivo, científico y demás que enriquezcan los planes y programas de la educación básica.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
+
+La Autoridad Educativa del Estado podrá proponer a la Secretaría de Educación Pública para consideración y aprobación, en su caso, contenidos regionales de índole artístico, deportivo, científico, afectivo y demás que enriquezcan los planes y programas de la educación básica.
 
 Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia, expresadas a través del Consejo Nacional de Participación Social en la Educación a que se refiere el Artículo 72 de la Ley General de Educación, así como aquéllas que en su caso, formule el Instituto Nacional para la Evaluación de la Educación.
 
@@ -1109,9 +1175,17 @@ IV. El desarrollo de una concepción humanística, científica y tecnológica y 
 
 V. La obtención de conocimientos y actitudes positivos para el cuidado de la naturaleza, la salud, la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto de la dignidad de la persona, así como propiciar el rechazo a los vicios;
 
-VI. El desarrollo de la capacidad de relacionarse en el trabajo con los demás, para llevar a buen término una responsabilidad; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
-VII. El fomento de una orientación vocacional y profesional adecuada.
+VI. El desarrollo de la capacidad de relacionarse en el trabajo con los demás, para llevar a buen término una responsabilidad;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+VII. El fomento de una orientación vocacional y profesional adecuada; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+
+VIII. La formación en valores humanos, así como el manejo de los sentimientos, emociones estados de ánimo; de acuerdo a su etapa de desarrollo.
 
 ###### Artículo 75.
 
@@ -1927,7 +2001,9 @@ I.- Representar ante las autoridades escolares los intereses que en materia educ
 
 II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles y del medio ambiente;
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el Artículo 6° de esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el Artículo 11 de esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
 
 IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, e
 
@@ -1953,7 +2029,13 @@ I. Un consejo escolar de participación social en cada institución de educació
 
 II. Un Consejo Municipal de participación social en la educación, en cada municipio, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, y un representante de la organización sindical de maestros quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil cuyo objeto sea la educación y demás interesados en el mejoramiento de la educación. Este consejo operará conforme al Artículo 70 de la Ley General de Educación;
 
-III. Un Consejo Estatal de participación social que como órgano de consulta, orientación y apoyo, contribuya a elevar la calidad de la educación mediante la participación de padres de familia y representantes de sus asociaciones, maestros y un representante de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como de sectores sociales en la Entidad especialmente interesados en la educación. Este consejo operará conforme al Artículo 71 de la Ley General de Educación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
+
+III. Un Consejo Estatal de participación social que como órgano de consulta, orientación y apoyo, contribuya a elevar la calidad de la educación mediante la participación de padres de familia y representantes de sus asociaciones, maestros y un representante de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como de sectores sociales en la Entidad especialmente interesados en la educación.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+
+El Consejo Estatal operará conforme al Artículo 71 de la Ley General de Educación y en tal sentido, podrá proponer a la autoridad educativa competente la inclusión de contenidos estatales en los planes y programas de estudio.
 
 Las autoridades educativas asumen el deber de asesorar a los consejos de participación social en el desempeño de sus tareas que señala esta ley.
 
@@ -1993,11 +2075,15 @@ IV. Promover la contribución de los medios de comunicación privados a los fine
 
 Los particulares podrán ofrecer educación en todos sus tipos, niveles y modalidades; por lo que concierne a la educación preescolar, primaria, secundaria, y normal y demás para la formación de maestros, deberán obtener previamente, en cada caso, la autorización de la Autoridad Educativa estatal. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de la validez oficial de estudios, previo estudio de la calidad del proyecto y de las necesidades sociales y el campo laboral de los egresados.
 
-Tanto la autorización como el reconocimiento de validez oficial de estudios se otorgan en favor de un particular, para impartir planes y programas de estudios específicos, en un domicilio determinado. Para ofrecer nuevos planes y programas (sic) estudios, para cambio de domicilio o apertura de nuevos centro (sic) educativos de una Institución que cuente previamente con un (sic) Autorización o Reconocimiento para un domicilio de origen, se requerirá nueva autorización o nuevo reconocimiento de validez oficial de estudios, según el nuevo tipo, nivel o modalidad que se pretenda impartir.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
+
+Tanto la autorización como el reconocimiento de validez oficial de estudios se otorgan en favor de un particular, para impartir planes y programas de estudios específicos, en un domicilio determinado. Para ofrecer nuevos planes y programas de estudios, para cambio de domicilio o apertura de nuevos centros educativos de una Institución que cuente previamente con una Autorización o Reconocimiento para un domicilio de origen, se requerirá nueva autorización o nuevo reconocimiento de validez oficial de estudios, según el nuevo tipo, nivel o modalidad que se pretenda impartir.
 
 La autorización y el reconocimiento incorporan a las instituciones que los obtengan al Sistema Educativo nacional, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieran.
 
-Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como del cumplimiento de lo establecido en los Artículos 84, 87 y 165 de esta ley.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
+
+Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como del cumplimiento de lo establecido en los Artículos 78, 84 y 165 de esta ley.
 
 ###### Artículo 165.
 
@@ -2035,7 +2121,9 @@ I. Cumplir con lo dispuesto en el Artículo 30 de la Constitución Política de 
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan aprobado;
 
-III. Otorgar descuentos y becas del 25 al 50% de cuotas de inscripción y colegiaturas a por lo menos el 10% del total de su matrícula. Estas becas serán otorgadas de conformidad con el reglamento que acuerde el Instituto de Educación de Aguascalientes y los particulares;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+
+III. Otorgar descuentos y becas del 25 al 50% de cuotas de inscripción y colegiaturas a por lo menos el 10% del total de su matrícula. Estas becas serán otorgadas de conformidad con el reglamento que acuerde el Instituto de Educación de Aguascalientes;
 
 IV. Cumplir con los requisitos establecidos en el Artículo 165 y 169 de esta ley;
 
@@ -2496,3 +2584,15 @@ P.O. 27 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- REFORMAS Y ADICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir de la fecha de inicio del Ciclo Escolar 2018-2019.
+
+###### ARTÍCULO SEGUNDO.
+
+La conformación de grupos de treinta y cinco alumnos, será de forma gradual, iniciando progresivamente desde el primero de primaria a partir del ciclo escolar 2018-2019, hasta lograr la concreción en el tercer grado de la educación de nivel medio superior en ciclo escolar 2030-2031.
