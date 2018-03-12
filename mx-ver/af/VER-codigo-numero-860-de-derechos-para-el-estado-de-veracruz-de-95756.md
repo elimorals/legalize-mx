@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2018-01-19"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 19 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MARZO DE 2018.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1286,6 +1284,16 @@ de empresas: 212.0545 UMA
 b) Rural mixto: 159.0409 UMA
 
 No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
+
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2018)</small>
+
+E. En materia de Prevención y Reinserción Social:
+
+I. Por la expedición de
+
+constancia de antecedentes 2 Unidades de Medida y
+
+penales: Actualización
 
 ### Capítulo Tercero. De los Derechos Prestados por La Secretaría de Finanzas y Planeación
 
@@ -5910,3 +5918,13 @@ G.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 600 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 62 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 628 QUE ADICIONA EL APARTADO E Y LA FRACCIÓN I AL ARTÍCULO 15 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación deberán realizar las acciones necesarias en un plazo máximo de 60 días naturales para cumplimentar lo ordenado en el presente Decreto.
