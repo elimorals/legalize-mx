@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-auditoria-superior-del-estado-de-8360
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-10"
-last_updated: "2014-03-31"
+last_updated: "2018-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de octubre de 2011.
 
@@ -1109,10 +1111,26 @@ C.P. JOSÉ RODOLFO PICAZO MOLINA
 
 AUDITOR SUPERIOR DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE MARZO DE 2014.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Hidalgo publicado en el Periódico Oficial del Estado el 10 de octubre de 2011, sin perjuicio de lo señalado en los transitorios subsecuentes.
+
+TERCERO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que, a la entrada en vigor del presente Reglamento, se encuentren en trámite ante la Auditoría Superior, o en los que ésta sea parte, continuarán sustanciándose hasta su conclusión, conforme a las disposiciones que se encontraban vigentes al momento de su inicio, que también serán aplicables para los asuntos que deriven o sean consecuencia de los mismos, así como los que resulten de las funciones de fiscalización superior hasta la Cuenta Pública correspondiente al ejercicio fiscal 2016.”
+
+CUARTO.- El Órgano Interno de Control, continuara, hasta su total conclusión, con la tramitación de aquellos procedimientos en materia de responsabilidades de los Servidores Públicos de la Auditoría Superior del Estado de Hidalgo, recibidos y/o tramitados por la Unidad de Vigilancia Control y Evaluación, en términos de la legislación aplicable.
+
+QUINTO.- Los asuntos relacionados con las denuncias presentadas ante esta Auditoría Superior, se tramitarán en términos de ley, debiendo remitirse a la unidad correspondiente conforme al presente Reglamento.
+
+SEXTO.- Se deberá armonizar la normativa interna de la Auditoría Superior del Estado de Hidalgo, con la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo, el presente Reglamento y demás disposiciones legales en materia de fiscalización y responsabilidades administrativas.
