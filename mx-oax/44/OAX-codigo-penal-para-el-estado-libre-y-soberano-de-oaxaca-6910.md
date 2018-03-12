@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-03-09"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2408,6 +2408,14 @@ b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna dro
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
 
 c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión culposa de homicidio o lesiones graves.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+
+d) Al conductor de un vehículo de motor, quien por hacer uso de un teléfono celular o cualquier dispositivo electrónico de entretenimiento o comunicación, con el que hable, envíe mensajes de texto o utilice sus aplicaciones de comunicación o entretenimiento al conducir, causare homicidio o lesiones de las previstas por los artículos 275 o 276, o las que se llegasen a tipificar.
+
+> <small>(ADICIONADO, [N. DE E. PERTENECE AL INCISO D], P.O. 12 DE MARZO DE 2018)</small>
+
+Se excluye lo anterior cuando con el dispositivo electrónico de comunicación se empleen funciones u otros dispositivos electrónicos adicionales, de modo que al ser utilizados, el conductor no distraiga su atención al circular o no le impida utilizar debidamente las partes de su cuerpo para conducir.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
@@ -6466,3 +6474,9 @@ P.O. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 789.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1332.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
