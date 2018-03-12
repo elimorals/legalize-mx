@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2017-07-14"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -393,11 +393,21 @@ VI. Promover el desarrollo clínico y técnico del personal de la subdirección 
 
 VII. Mantener estrecha comunicación con la Dirección de Enfermería y con el Departamento de Trabajo Social para afinar los mecanismos que agilicen y favorezcan la atención médica y el apoyo asistencial a los pacientes.
 
-VIII. Coordinar y supervisar las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
-IX. Participar en los Comités que le sean designados por las autoridades del Instituto.
+VIII. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
-X. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+IX. Coordinar y supervisar las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+X. Participar en los Comités que le sean designados por las autoridades del Instituto.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XI. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
 
 ###### ARTICULO 31o.
 
@@ -421,11 +431,21 @@ VIII. Promover el desarrollo clínico y técnico del personal de la Subdirecció
 
 IX. Mantener estrecha comunicación con la Dirección de Enfermería y con el Departamento de Trabajo Social para afinar los mecanismos que agilicen y favorezcan la atención médica y el apoyo asistencial a los pacientes.
 
-X. Coordinar y supervisar las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
-XI. Participar en los Comités que le sean designados por las autoridades del Instituto.
+X. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
-XII. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XI. Coordinar y supervisar las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XII. Participar en los Comités que le sean designados por las autoridades del Instituto.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XIII. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
 
 ###### ARTICULO 32o.
 
@@ -453,7 +473,13 @@ IX. Representar al Instituto en los foros que le sean propios; así como organiz
 
 X. Organizar conforme a la norma respectiva, el archivo y la custodia de la documentación relacionada con sus funciones, para preparar y proporcionar en tiempo y forma, la información que institucionalmente le sea requerida.
 
-XI. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XI. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XII. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
 ###### ARTICULO 33o.
 
@@ -545,6 +571,16 @@ X. Organizar conforme a la norma respectiva, el archivo y la custodia de la docu
 
 XI. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XI. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
+
+> <small>[N. DE E. DEL ANÁLISIS DE LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ, PUBLICADO EN EL D.O.F. DE 12 DE MARZO DE 2018, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XI DEL PRESENTE ARTÍCULO]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XII. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
+
 ###### ARTICULO 36o.
 
 La Subdirección de Coordinación de la Enseñanza tendrá las siguientes funciones:
@@ -613,9 +649,13 @@ XII. Participar en los comités que le sean designados por las autoridades del I
 
 XIII. Administrar el funcionamiento de albergues de pacientes y familiares del Instituto.
 
-> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 XIV. Conducir el programa del voluntariado, sigamos aprendiendo y de apoyo espiritual a pacientes y sus familiares.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
+XIV (SIC). Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
 ###### ARTICULO 38o.
 
@@ -967,41 +1007,169 @@ Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mism
 
 (Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 3 de mayo de 2016)
 
-### CAPITULO IX. DE LOS ORGANOS DE VIGILANCIA, CONTROL Y EVALUACION
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 12 DE MARZO DE 2018)</small>
+
+### CAPITULO IX. DE LAS CLINICAS DE ATENCION ESPECIALIZADA EN LA CONSULTA EXTERNA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 46o.
 
-El órgano de vigilancia se integra por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
+Con el propósito de brindar atención especializada de una determinada patología cardiovascular, el Instituto podrá crear e instaurar clínicas de atención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 47o.
 
-El Comisario Público tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables. El Comisario asistirá a la Junta de Gobierno, con voz, pero sin voto.
+La misión de las clínicas es mantener el liderazgo en el campo de la cardiología, con respeto y presencia nacional e internacional en la enseñanza, investigación y docencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 48o.
 
-El Instituto cuenta con un Organo Interno de Control, al frente del cual el Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los Titulares de las Areas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública designados en los mismos términos.
+Dichas clínicas proporcionarán atención cardiovascular de alta especialidad, con criterios uniformes consensados en medicina basada en la evidencia, para mejor atención de los enfermos, formación de profesionales y desarrollo de investigación.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 fracciones I, II incisos a y b y III del Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 49o.
 
-El Organo Interno de Control forma parte de la estructura del Instituto y tiene por objeto apoyar la función directiva, así como promover el mejoramiento de la gestión del Instituto.
+El objetivo de las clínicas es identificar pacientes con patologías específicas para generar bases de datos y protocolos de investigación, que resuelvan problemas específicos de la población, que permitan brindar atención especializada y contribuir a la formación de profesionales especializados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 50o.
 
-Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+El Instituto cuenta (sic) las clínicas que a continuación se mencionan:
+
+I. Clínica de Complejo Aórtico
+
+II. Clínica de Cardiopatías Congénitos
+
+III. Clínica de Insuficiencia Cardiaca
+
+IV. Clínica de Trasplante Cardiaco
+
+V. Clínica de Anticoagulante
+
+VI. Clínica de Cirugía Electiva
+
+VII. Clínica de Cardiopatía y Embarazo
+
+VIII. Clínica de Cardiología Geriátrica
+
+IX. Clínica de Cardiopatía Isquémica Crónica
+
+X. Clínica de Miocardiopatías
+
+XI. Clínica de Cardio Oncología
+
+XII. Clínica de Cardiopatías Valvulares
+
+XIII. Clínica de Hipertensión Arterial
+
+XIV. Clínica de Prevención y Factores de Riesgo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 51o.
 
-Las ausencias de los titulares de las Direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Los pacientes son evaluados por medio de examen físico, estudios de laboratorio y gabinete, sustancias o elementos presentes en su organismo, a fin de establecer un diagnóstico especializado y para el ingreso a las clínicas.
 
-Suplirán las funciones de los Subdirectores de Area los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos; éstas deberán ser notificadas por escrito al Director de Area y al Director General.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 52o.
 
-Las ausencias del Titular del Organo Interno de Control, así como las de los Titulares de las Areas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
+Las funciones de las clínicas son:
+
+I. Identificar a los pacientes que por su patología son de interés, de acuerdo a las líneas de investigación del Instituto;
+
+II. Brindar atención médica cardiológica uniforme y de calidad;
+
+III. Formar profesionales de alta especialidad; y
+
+IV. Contribuir al desarrollo de investigación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 53o.
+
+Para la operación de las clínicas:
+
+I. Todas las clínicas se coordinarán con la Consulta Externa;
+
+II. Contarán con un encargado y un equipo multidisciplinario de profesionales, que podrá comprender médicos, enfermeras y personal administrativo, entre otros.
+
+III. El encargado de cada clínica será designado por el Titular de la Consulta Externa.
+
+IV. Elaborarán los criterios de inclusión de pacientes.
+
+V. A los pacientes que ingresen por primera vez al Instituto, para la atención en alguna clínica, se les deberá realizar estudio socioeconómico para la apertura del expediente clínico.
+
+VI. Toda información derivada por la atención de las clínicas, debe ser concentrará (sic) en el expediente clínico de cada paciente, conforme a la normatividad vigente.
+
+VII. Es obligación de Trabajo Social y Admisión verificar que todos los pacientes de las clínicas cuenten con expediente clínico.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO IX], D.O.F. 12 DE MARZO DE 2018)</small>
+
+### CAPITULO X. DE LOS ORGANOS DE VIGILANCIA, CONTROL Y EVALUACION
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 46], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 54o.
+
+El órgano de vigilancia se integra por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 47], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 55o.
+
+El Comisario Público tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables. El Comisario asistirá a la Junta de Gobierno, con voz, pero sin voto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 48], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 56o.
+
+El Instituto cuenta con un Órgano Interno de Control, al frente del cual el Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los Titulares de las Áreas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública designados en los mismos términos.
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 fracciones I, II incisos a y b y III del Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 49], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 57o.
+
+El Órgano Interno de Control forma parte de la estructura del Instituto y tiene por objeto apoyar la función directiva, así como promover el mejoramiento de la gestión del Instituto.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO X], D.O.F. 12 DE MARZO DE 2018)</small>
+
+### CAPITULO XI. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 50], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 58o.
+
+Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 51], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 59o.
+
+Las ausencias de los titulares de las Direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+Suplirán las funciones de los Subdirectores de Área los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos; éstas deberán ser notificadas por escrito al Director de Área y al Director General.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 52], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 60o.
+
+Las ausencias del Titular del Órgano Interno de Control, así como las de los Titulares de las Áreas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XI], D.O.F. 12 DE MARZO DE 2018)</small>
+
+### CAPITULO XII. INSCRIPCIONES EN EL REGISTRO PUBLICO DE ORGANISMOS DESCENTRALIZADOS
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 53], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 61o.
 
 Se deberán inscribir en el Registro Público de Organismos Descentralizados:
 
@@ -1019,19 +1187,21 @@ VI. El acuerdo de la Secretaría de Hacienda y Crédito Público o de la depende
 
 VII. Los demás documentos o actos que determine el Reglamento de la Ley Federal de las Entidades Paraestatales.
 
-### CAPITULO X. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XII], D.O.F. 12 DE MARZO DE 2018)</small>
 
-###### ARTICULO 54o.
+### CAPITULO XIII. DE LAS MODIFICACIONES AL ESTATUTO
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 54], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 62o.
 
 Será facultad exclusiva de la Junta de Gobierno aprobar las modificaciones al presente Estatuto.
 
-###### ARTICULO 55o.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 55], D.O.F. 12 DE MARZO DE 2018)</small>
+
+###### ARTICULO 63o.
 
 Podrán presentar propuestas de modificaciones al Estatuto para su aprobación por la Junta de Gobierno el Presidente de ésta, el Director General del Instituto y cuando menos dos miembros de la Junta de Gobierno en propuesta conjunta.
-
-### CAPITULO XI. INSCRIPCIONES EN EL REGISTRO PUBLICO DE ORGANISMOS DESCENTRALIZADOS
-
-### CAPITULO XII. DE LAS MODIFICACIONES AL ESTATUTO
 
 ## TRANSITORIOS
 
@@ -1060,3 +1230,13 @@ D.O.F. 14 DE JULIO DE 2017.
 PRIMERO. Las presentes modificaciones al Estatuto Orgánico entran en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. Las modificaciones en comento deberán inscribirse en el Registro Público de Organismos Descentralizados con fundamento en el artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. Se modifica el Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez aprobado en la Primera Reunión Ordinaria 2017, celebrada el 25 de abril de 2017.
+
+TERCERO. El Director General del Instituto deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
