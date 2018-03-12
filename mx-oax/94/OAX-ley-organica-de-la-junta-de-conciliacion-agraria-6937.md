@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-junta-de-conciliacion-agraria-6937"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-06-29"
-last_updated: "1994-06-21"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DE LA JUNTA DE CONCILIACION AGRARIA
 
-LEY ORGANICA DE LA JUNTA DE CONCILIACION AGRARIA
+LEY ORGÁNICA DE LA JUNTA DE CONCILIACIÓN AGRARIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 29 de junio de 1991.
 
@@ -128,6 +128,26 @@ Concertados los convenios conciliatorios, hará el seguimiento del trámite ante
 ###### ARTICULO 18º.
 
 Las acciones de conciliación y actos que realice la junta, serán total y absolutamente gratuitos y se impartirán sin distinción alguna de carácter político o ideológico.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+
+ARTICULO 18° BIS.- La Junta de Conciliación Agraria tendrá las siguientes atribuciones:
+
+I. Promover y procurar la solución a los conflictos agrarios;
+
+II. Llevar a cabo el procedimiento a que se refiere el artículo 22° de esta Ley;
+
+III. Recibir testimonios, informaciones y documentos necesarios para procurar la conciliación;
+
+IV. Vigilar el cumplimiento de los convenios;
+
+V. Informar al Ejecutivo del Estado, a través de la Secretaría General de Gobierno, sobre los procedimientos conciliatorios;
+
+VI. Elaborar programas preventivos y acciones en conciliación agraria;
+
+VII. Proponer al Gobernador del Estado iniciativas de ley en materia de conciliación agraria, a efecto de que se presenten ante el Congreso del Estado; y
+
+VIII. Elaborar informes generales y específicos sobre la situación de los procedimientos, a la autoridad jurisdiccional que lo solicite.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 1994)</small>
 
@@ -272,3 +292,9 @@ Al C................
 P.O. 21 DE JUNIO DE 1994.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1331.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 18° BIS A LA LEY ORGÁNICA DE LA JUNTA DE CONCILIACIÓN AGRARIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
