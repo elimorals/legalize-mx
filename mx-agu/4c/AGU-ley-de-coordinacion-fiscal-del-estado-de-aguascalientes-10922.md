@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2014-12-31"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -105,45 +105,47 @@ Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que
 
 A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
 
-Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VIII del presente Artículo, se constituirá el Fondo Resarcitorio, el cual se destinará a obra pública y equipamiento y se distribuirá a los Municipios de acuerdo a la siguiente fórmula:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64.</small>
+Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VIII del presente Artículo, se constituirá el Fondo Resarcitorio y se distribuirá a los Municipios de acuerdo a la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64.]</small>
 
 El 95.7% restante de las fracciones I, IV, V y VIII, así como con las participaciones a que se refieren las Fracciones II, III, VI, VII, IX y X del presente Artículo, se distribuirán conforme a lo siguiente:
 
 I.- El Fondo General de Participaciones se distribuirá de acuerdo a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64 Y 65.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINAS 64 Y 65.]</small>
 
 II.- El Fondo de Fomento Municipal de acuerdo a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 65, 66 Y 67.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINAS DE LA 65 A LA 67.]</small>
 
 La coordinación fiscal en el impuesto predial se realizará mediante convenio con el municipio correspondiente, mismo que deberá ser publicado en el Periódico Oficial del Estado, en el entendido de que la inexistencia o extinción de dicho convenio hará que el municipio deje de ser elegible para la distribución de FFMMC.
 
 III.- La recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos; el Impuesto sobre Tenencia o Uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, de acuerdo a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 67 y 68.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINAS 67 Y 68.]</small>
 
 IV.- La recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del Artículo 3-A de la Ley de Coordinación Fiscal de acuerdo a la siguiente fórmula
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 68.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 68.]</small>
 
 V.- La recaudación en el Estado del Impuesto sobre Automóviles Nuevos; de acuerdo a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69.]</small>
 
 VI.- La recaudación que obtenga el Estado por el Impuesto a la venta final de bebidas con contenido alcohólico, de acuerdo a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69 y 70.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINAS 69 Y 70.]</small>
 
 VII.- La recaudación del Impuesto a la Gasolina y Diesel, se distribuirá conforme a la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 70.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 70.]</small>
 
 VIII.- El Fondo de Fiscalización y Recaudación será distribuido de acuerdo con la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 71 y 72.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINAS 71 Y 72.]</small>
 
 IX.- El Fondo de Compensación que otorgue la Federación al Estado derivado de la colaboración administrativa entre ambos órdenes de gobierno en el Régimen de Incorporación Fiscal que prevé la Ley del Impuesto Sobre la Renta.
 
@@ -153,11 +155,13 @@ El convenio entre el municipio y el estado a que hace referencia el párrafo ant
 
 Los recursos a que se refiere esta fracción se distribuirán a los municipios coordinados, dentro de los 5 días siguientes a la fecha en que hayan sido recibidos por el estado, de conformidad con la siguiente fórmula:
 
-> <small>N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 72.</small>
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 72.]</small>
 
 X.- El 100% del Impuesto Sobre la Renta Participable enterado por cada municipio una vez descontadas las devoluciones por dicho concepto, de conformidad con lo establecido en el Artículo 3-B de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
 
-La fórmula de las fracciones I, II, IV, VIII y IX no será aplicable en el evento de que en el año que se calcula, el monto de alguno de estos fondos sea inferior al obtenido en 2014. En dicho supuesto la distribución se realizará, en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada municipio haya recibido en 2014 en los fondos mencionados donde se verifique el supuesto.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
+
+La fórmula de las fracciones I, II, IV, V, VIII y IX no será aplicable en el evento de que en el año que se calcula, el monto de alguno de estos fondos sea inferior al obtenido en 2014. En dicho supuesto la distribución se realizará, en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada municipio haya recibido en 2014 en los fondos mencionados donde se verifique el supuesto.
 
 ###### ARTICULO 4o.
 
@@ -219,7 +223,7 @@ No estarán sujetas a lo dispuesto en el primer párrafo de este Artículo, las 
 
 ###### ARTICULO 13.
 
-El Estado cubrirá el importe a cada Municipio de las Participaciones correspondientes a los Fondos señalados en las fracciones I, II, IV y VIII del Artículo 3° dentro de los cinco días siguientes a aquel en el que los reciba de la Federación, en el caso de la fracción I contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación. Los recursos derivados de las fracciones III, V, VI y VII, el Estado cubrirá el importe a cada Municipio dentro de los 30 días siguientes al mes en que éste·sea recaudado.
+El Estado cubrirá el importe a cada Municipio de las Participaciones correspondientes a los Fondos señalados en las fracciones I, II, IV y VIII del Artículo 3° dentro de los cinco días siguientes a aquel en el que los reciba de la Federación, en el caso de la fracción I contados a partir de la fecha de vigencia que señale la Constancia respectiva que el Estado reciba de la Federación, efectuando las compensaciones aplicables a los municipios como consecuencia de ajustes realizados por la Federación. Los recursos derivados de las fracciones III, V, VI y VII, el Estado cubrirá el importe a cada Municipio dentro de los 30 días siguientes al mes en que éste sea recaudado.
 
 El retraso en la entrega a los municipios de cualesquiera de sus participaciones o incentivos dará lugar al pago de intereses por parte del Estado, a la tasa de recargos que establece el Congreso de la Unión para el pago a plazos de las contribuciones federales.
 
@@ -514,3 +518,11 @@ Para lo dispuesto en la fracción VIII del artículo 3o, a falta de la recaudaci
 ###### ARTÍCULO QUINTO.
 
 El IGRIF a que se refiere la fracción VIII del artículo 3o, para 2015 se fijará en 220 mil pesos y anualmente se incrementará por inflación en razón del Índice Nacional de Precios al Consumidor del mes de diciembre del último año contra el correspondiente del penúltimo año.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243.- REFORMA AL ARTÍCULO 3° DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
