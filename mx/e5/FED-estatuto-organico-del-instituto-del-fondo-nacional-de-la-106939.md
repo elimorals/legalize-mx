@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-106939
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-03-30"
-last_updated: "2017-06-27"
+last_updated: "2018-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106939&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2015-03-10"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-> <small>[N. DE E. EL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 27 DE JUNIO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: EL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 12 DE MARZO DE 2018, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 22 DE MAYO DE 2020, SE ABROGA AL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO APROBADO MEDIANTE ACUERDO NÚMERO 2053 EN LA SESIÓN ORDINARIA 115 DE LA ASAMBLEA GENERAL, CELEBRADA EL DÍA 5 DE DICIEMBRE DE 2017 Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN 12 DE MARZO DE 2018.]
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2015.
 
@@ -43,17 +45,15 @@ CONSIDERANDO:
 
 Atento a lo anterior, la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores expide el siguiente: ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, para quedar como sigue:
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO EXPEDIDO POR LA ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 9 DE JUNIO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
 Es el ordenamiento jurídico que establece, de manera general, las responsabilidades y funciones de la Dirección General, de las Direcciones Sectoriales y del personal directivo del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit).
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ## Título I. De la Dirección General
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 1.
 
@@ -111,25 +111,25 @@ XXIII. Constituir a través de la figura jurídica correspondiente, centros de i
 
 XXIV. Las demás que le señalen la Ley del Infonavit y sus disposiciones reglamentarias o que le sean encomendadas por la Asamblea General o el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 2.
 
-La Dirección General dispondrá de asesoría y del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados.
+La Dirección General dispondrá de asesoría y del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 3.
 
-El personal directivo del Infonavit serán los titulares de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales: de Planeación y Finanzas, de Crédito, de Administración de Cartera, de Atención y Servicios, de Administración y Recursos Humanos, de Comunicación, de Tecnologías de Información, de las Coordinaciones Generales Jurídica, de Recaudación Fiscal, de Riesgos, de Recursos Humanos, de Delegaciones, y del Centro de Investigación para el Desarrollo Sostenible.
+El personal directivo del Infonavit serán los titulares de la Secretaría General y Jurídica, de la Contraloría General, de las Subdirecciones Generales: de Planeación y Finanzas, de Crédito, de Administración de Cartera, de Atención y Servicios, de Administración y Recursos Humanos, de Comunicación, de Tecnologías de Información, de las Coordinaciones Generales: Jurídica, de Recaudación Fiscal, de Riesgos, de Recursos Humanos, de Delegaciones, de Movilidad y del Centro de Investigación para el Desarrollo Sostenible.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 4.
 
 Con el fin de dar cumplimiento a los objetivos del Infonavit, el Director General podrá hacer ajustes temporales a las funciones y responsabilidades del personal directivo, informando al Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 5.
 
@@ -137,11 +137,11 @@ En las ausencias temporales del Director General, ejercerá las facultades que l
 
 En las ausencias definitivas del Director General, ejercerá las facultades que le corresponden a éste, el Secretario General y Jurídico.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ## Título II. De las Direcciones Sectoriales
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 6.
 
@@ -165,23 +165,23 @@ VIII. Ser órgano de enlace de las organizaciones respectivas y la Dirección Ge
 
 IX. En general, todas aquellas cuestiones necesarias y relativas al debido cumplimiento de los fines del Infonavit, relacionadas con su competencia.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 7.
 
 Las Direcciones Sectoriales dispondrán de autonomía de gestión, contratación de asesoría y del personal técnico y administrativo, conforme a los presupuestos y tabuladores aprobados para el Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ## Título III
 
 De la Secretaría General y Jurídica, la Contraloría General, las Subdirecciones Generales, las Coordinaciones Generales y el Centro de Investigación para el Desarrollo Sostenible
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 8.
 
@@ -213,29 +213,29 @@ XI. Conservar el catálogo de sanciones procedentes a funcionarios, empleados, p
 
 XII. Ejecutar las sanciones procedentes, cuando se deban imponer a sus proveedores y prestadores de servicios;
 
-XIII. Ser responsables de la información generada en la operación de los procesos del área, con apego a la normativa emitida para esta materia;
+XIII. Ser responsables de la información generada en la operación de los procesos del área, con apego a la normativa emitida para esta materia y de los mecanismos de custodia y tenencia temporal de los expedientes de crédito requeridos en físico y en original al custodio;
 
 XIV. Atender las resoluciones y solicitudes de información que en la materia formule la Comisión de Inconformidades y cualquier otro órgano del Infonavit, y
 
 XV. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquéllas relativas al cumplimiento de los objetivos del Infonavit, que sean afines con las fracciones que anteceden y que les encomiende el Director General.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 9.
 
 La Secretaría General y Jurídica, la Contraloría General, las Subdirecciones Generales, las Coordinaciones Generales, y el Centro de Investigación para el Desarrollo Sostenible contarán con las unidades administrativas necesarias para la realización de las funciones encomendadas en este Estatuto, cumpliendo con los presupuestos y tabuladores aprobados.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 10.
 
 En las ausencias temporales del Secretario General y Jurídico, del Contralor General, de los Subdirectores Generales y los Coordinadores Generales, ejercerán las facultades y funciones que les corresponden los funcionarios que de ellos dependan, en los asuntos de su respectiva competencia.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo II. De la Secretaría General y Jurídica
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 11.
 
@@ -263,7 +263,7 @@ X. Realizar el envío, conforme a las Reglas de Operación de cada Órgano Coleg
 
 XI. Llevar conjuntamente con la Coordinación General de Delegaciones, las acciones de seguimiento y vinculación con las Delegaciones a fin de propiciar su mejor desempeño.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 12.
 
@@ -275,13 +275,13 @@ II. Establecer los mecanismos para la administración y control de los poderes q
 
 III. Coordinar las relaciones institucionales con la Comisión Nacional de los Derechos Humanos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 13.
 
 En cuanto al Código de Ética y sus actualizaciones, la Secretaría General y Jurídica deberá establecer los mecanismos para difundirlo a los integrantes de los Órganos Colegiados, funcionarios y empleados del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 14.
 
@@ -301,7 +301,7 @@ VI. Autorizar la aceptación y liberación de fianzas que garanticen obligacione
 
 VII. Establecer medidas que conlleven a las Mejores Prácticas Institucionales en materia legal.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 15.
 
@@ -315,7 +315,7 @@ III. Coordinar las actividades jurídicas de los abogados pertenecientes al áre
 
 IV. Emitir opiniones, estrategias o criterios legales respecto de asuntos que le sean sometidos a su consideración, a fin de coadyuvar en el mejor cumplimiento de los fines institucionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 16.
 
@@ -335,7 +335,7 @@ VI. Diseñar y administrar el sistema de recepción de denuncias a nivel naciona
 
 Se entenderá por denuncia a la manifestación de hechos en los que se presume la existencia de irregularidades que infrinjan las disposiciones del Código de Ética y/o a la normativa institucional, cuando sean atribuidos a proveedores, prestadores de servicios o cualquier persona que tenga vinculación con el objeto del Instituto, así como aquellos tipificados como delitos o que trasgredan lo establecido en la normatividad aplicable.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 17.
 
@@ -345,7 +345,7 @@ I. Investigar desviaciones o indicios de manejos inadecuados en las operaciones 
 
 II. Promover mejoras en procesos, sistemas y normatividad que permitan evitar recurrencia de operaciones irregulares.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 18.
 
@@ -355,23 +355,23 @@ I. Tener a su cargo la Secretaría del Comité de Cumplimiento Legal, y
 
 II. Detectar, identificar y alertar sobre los riesgos de que el Infonavit incumpla con leyes, reglamentos y circulares, y divulgar las mejores prácticas.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 19.
 
 Para efectos de lo establecido en este capítulo, el Secretario General y Jurídico se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el Coordinador General Jurídico, y él a su vez por los Gerentes Senior Jurídico Consultivo y por el Jurídico Contencioso, y quienes podrán ejercer indistintamente las facultades de manera individual a que se refieren los artículos 12 a 18 de este Estatuto.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 20.
 
 Para efectos de lo establecido en el artículo 11, el Secretario General y Jurídico se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el Prosecretario quien podrá ejercer las facultades a que se refiere este capítulo, así como la representación legal de los Órganos Colegiados.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo III. De la Contraloría General
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 21.
 
@@ -395,7 +395,7 @@ VIII. Participar en calidad de testigo en los eventos de entrega-recepción de o
 
 IX. Gestionar ante la Subdirección General de Administración y Recursos Humanos, en el ámbito de su competencia, la contratación de asesores externos para el mejor cumplimiento de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 22.
 
@@ -409,13 +409,13 @@ III. Dar seguimiento a la atención de hallazgos, planes de mitigación e implan
 
 IV. Evaluar y verificar que los procesos de conciliación entre los sistemas de operación y contables sean adecuados.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 23.
 
-Respecto a las declaraciones patrimoniales de los funcionarios del Infonavit, deberá establecer y administrar un sistema integral de información, asegurando el resguardo de la misma, y, previa autorización del Comité de Auditoría, podrá consultar los expedientes o información contenida en el sistema que administra las declaraciones patrimoniales, a fin de continuar con las investigaciones que esté llevando a cabo.
+Respecto a las declaraciones patrimoniales de los funcionarios del Infonavit, deberá establecer y administrar un sistema integral de información, asegurando el resguardo de la misma, y, previa autorización del Comité de Auditoría podrá consultar los expedientes o información contenida en el sistema que administra las declaraciones patrimoniales, a fin de continuar con las investigaciones que esté llevando a cabo.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
@@ -429,7 +429,7 @@ En cuanto a las quejas, deberá vigilar su atención oportuna por parte de las �
 
 Para tal efecto, las áreas que conforman el Instituto deberán presentar un informe periódico a la Contraloría General sobre la atención de las quejas.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 25.
 
@@ -439,7 +439,7 @@ I. Investigar desviaciones o incumplimientos a la normativa institucional, así 
 
 II. Promover mejoras en procesos, sistemas y normas con el fin de evitar la recurrencia de operaciones irregulares, conductas indeseables o malas prácticas.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 26.
 
@@ -449,11 +449,11 @@ I. Atender consultas para la aplicación del Código de Ética, y
 
 II. Previa autorización de la Dirección General, proponer conjuntamente con la Secretaría General y Jurídica, a la consideración de la Comisión de Vigilancia para aprobación de la Asamblea General, las actualizaciones del Código de Ética que el Infonavit requiera para su adecuado funcionamiento.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo IV. De la Subdirección General de Planeación y Finanzas
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 27.
 
@@ -475,7 +475,7 @@ VII. Normar, formular, dar seguimiento y evaluar los criterios financieros para 
 
 VIII. Normar, formular, dar seguimiento y evaluar los criterios financieros para los Recursos del Fondo revolvente de Recaudación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 28.
 
@@ -493,7 +493,7 @@ V. Desarrollar las iniciativas, alianzas, convenios y estudios internacionales, 
 
 VI. Llevar a cabo análisis, diagnósticos y estudios económicos relacionados con su quehacer institucional.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 29.
 
@@ -503,7 +503,7 @@ I. Vigilar la conciliación y el reflejo adecuado de las cifras e informes conta
 
 II. Dar seguimiento al cumplimiento de las disposiciones establecidas por la Comisión Nacional Bancaria y de Valores.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 30.
 
@@ -515,7 +515,7 @@ II. Evaluar el impacto de las iniciativas y proyectos estratégicos instituciona
 
 III. Llevar a cabo el adecuado seguimiento del desempeño financiero de las Delegaciones, así como de su cumplimiento respecto a las metas del Tablero de Gestión Estratégica, a través de las gerencias de planeación financiera que se conformen en todas las entidades.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 31.
 
@@ -529,25 +529,25 @@ III. Asegurar la obtención de los recursos financieros provenientes de fuentes 
 
 IV. Administrar las relaciones del Infonavit con inversionistas, agencias calificadoras y participantes en el sistema financiero.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 32.
 
 Con relación a la identificación de necesidades de los usuarios, deberá incorporar los resultados de servicio de cada canal y los indicadores de satisfacción de los usuarios a los mecanismos de seguimiento, evaluación y consecuencias del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 33.
 
 Con relación a la administración de proyectos, deberá establecer y operar los mecanismos y herramientas para la administración y seguimiento de iniciativas y proyectos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
 Respecto a la recaudación de los recursos, deberá administrar la base de datos de patrones y trabajadores sobre el pago de aportaciones y entero de descuentos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
@@ -573,7 +573,7 @@ IX. Diseñar e instrumentar programas de facilidades de pago a los patrones que 
 
 X. Supervisar, monitorear y apoyar las actividades que realizan las gerencias de las Delegaciones que competen a su área, a fin de dar atención a empresas aportantes, así como soporte y seguimiento a la ejecución y desarrollo de los programas sustantivos de la Institución en beneficio de los derechohabientes, acreditados y empresas aportantes del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
@@ -583,7 +583,7 @@ I. Administrar el Fondo de Ahorro y la Subcuenta de Vivienda de cada trabajador,
 
 II. Coordinar con las autoridades reguladoras y con los participantes de los Sistemas de Ahorro para el Retiro, la elaboración, autorización y ejecución de los lineamientos y procedimientos de operación de recaudación y afectación a la Subcuenta de Vivienda de los trabajadores, siendo responsable de gestionar y determinar los límites inferiores de ingresos anuales por aportaciones y recuperaciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 37.
 
@@ -603,17 +603,17 @@ VI. Asegurar la implantación correcta de todos los procesos de atención en tod
 
 VII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 38.
 
 Para efectos de lo establecido en este capítulo, el Subdirector General de Planeación y Finanzas se auxiliará o será asistido para el trámite y resolución de los asuntos de su competencia por el Coordinador General de Recaudación Fiscal quien podrá ejercer de manera individual las facultades a que se refieren los artículos 34 a 37 de este Estatuto.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo V. De la Subdirección General de Crédito
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 39.
 
@@ -633,9 +633,9 @@ VI. Gestionar la participación de las entidades financieras en los programas cr
 
 VII. Normar y ejecutar el proceso de originación de crédito, y
 
-VIII. Supervisar, monitorear y apoyar las actividades que realizan las gerencias de las Delegaciones Regionales que competen a su área, a fin de dar atención, soporte y seguimiento a la ejecución y desarrollo de los programas sustantivos de la Institución en beneficio de los derechohabientes y acreditados del Infonavit.
+VIII. Supervisar, monitorear y apoyar las actividades que realizan las gerencias de las Delegaciones Regionales que competen a su área, a fin de dar atención, soporte y seguimiento a la ejecución y desarrollo de los programas sustantivos de la Institución en beneficio de los derechohabientes y acreditados del Infonavit
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 40.
 
@@ -653,31 +653,33 @@ V. Asegurar el correcto registro de los créditos en los sistemas, y
 
 VI. Normar, ejecutar y administrar el proceso de avalúos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 41.
 
 La Subdirección General de Crédito realizará las funciones de análisis, evaluación e interpretación de información, para la toma de decisiones estratégicas en el diseño de productos de financiamiento y canales de difusión, con base en las plataformas institucionales que permitan el fortalecimiento de la originación.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 42.
 
-Respecto a la administración del proceso de originación de crédito, deberá dirigir, coordinar y controlar los procedimientos y actividades inherentes al mismo, incluyendo el registro de oferta, recepción y registro de solicitudes de crédito, cobertura de calidad, verificación de Línea IV, titulación, inscripción ante los registros públicos de propiedad e incorporación al Archivo Nacional de Expedientes de Crédito, así como todos aquellos relacionados con esta función.
+Respecto a la administración del proceso de originación de crédito, deberá dirigir, coordinar y controlar los procedimientos y actividades inherentes al mismo, incluyendo el registro de oferta,
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+recepción y registro de solicitudes de crédito, proceso operativo del seguro de calidad, verificación de Línea IV, titulación, inscripción ante los registros públicos de propiedad e incorporación al Archivo Nacional de Expedientes de Crédito, así como todos aquellos relacionados con esta función.
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 43.
 
 Respecto a la operación hipotecaria, conducir los procesos y sistemas de registro, y originación de créditos conforme a lo establecido en la normatividad correspondiente.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 44.
 
 Con respecto a la calidad y el valor patrimonial de las viviendas y a la mejora del nivel de vida de los acreditados, deberá promover que las viviendas adquiridas por derechohabientes reúnan las mejores condiciones de calidad, ubicación y precio acorde a las necesidades de pago.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 45.
 
@@ -697,11 +699,11 @@ VI. Asegurar la implantación correcta de todos los procesos de atención en tod
 
 VII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo VI. De la Subdirección General de Administración de Cartera
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 46.
 
@@ -723,7 +725,7 @@ VII. Instrumentar mecanismos de control por los diferentes esquemas de recuperac
 
 VIII. Emitir periódicamente estados de cuenta, impresos o de forma electrónica para el cobro de los créditos, así como información a los acreditados sobre la situación de su crédito;
 
-IX. Establecer los mecanismos de custodia de los expedientes de crédito;
+IX. Establecer los mecanismos de custodia y tenencia temporal de los expedientes de crédito requeridos en físico y en original al custodio;
 
 X. Normar la liberación de los gravámenes constituidos por el otorgamiento de los créditos;
 
@@ -733,7 +735,7 @@ XII. Supervisar, monitorear y apoyar las actividades que realizan las gerencias 
 
 XIII. Gestionar ante la Subdirección General de Administración y Recursos Humanos, en el ámbito de su competencia, la contratación de asesores externos y proveedores de servicios para el mejor cumplimiento de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 47.
 
@@ -747,7 +749,7 @@ III. Someter a la autorización del Consejo de Administración, a través del Co
 
 IV. Someter, en coordinación con la Secretaría General y Jurídica, a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de comodato o donaciones a favor de entidades gubernamentales, instituciones de asistencia pública o asociaciones civiles, siempre y cuando se sujeten a la condición de que dichos inmuebles serán utilizados, exclusivamente, para fines sociales que favorezcan a la comunidad en la que se ubican o sirvan para brindar seguridad, rehabilitar o mejorar el entorno habitacional.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 48.
 
@@ -759,7 +761,7 @@ II. Fomentar, de acuerdo a los procedimientos que se establezcan, el mantenimien
 
 III. Instrumentar, de acuerdo a los procedimientos que se establezcan, las acciones de rehabilitación de las viviendas con crédito vigente que sean afectadas por desastres naturales, en coordinación con la Subdirección General de Planeación y Finanzas.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 49.
 
@@ -779,11 +781,11 @@ VI. Asegurar la implementación correcta de todos los procesos de atención en t
 
 VII. Recibir, procesar y analizar los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implementar correcciones inmediatas y soluciones permanentes.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo VII. De la Subdirección General de Atención y Servicios
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 50.
 
@@ -811,7 +813,7 @@ X. Asegurar la correcta implantación de las iniciativas de orientación que se 
 
 XI. Garantizar la emisión oportuna de informes y estadísticas que permitan medir la eficiencia de la operación de los canales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 51.
 
@@ -831,11 +833,11 @@ VI. Contar con un Gerente de Servicio en cada Delegación Regional, que tendrá 
 
 El Gerente de Servicio deberá de contar con todo el apoyo administrativo para la operación de los canales y el cumplimiento de las metas de servicio; éste deberá formar parte del presupuesto e infraestructura de la Delegación correspondiente. El personal de la Delegación y de los Cesis deberán entregar en tiempo y forma la información solicitada por el Gerente de Servicio de la Delegación y por el titular de la Subdirección General.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo VIII. De la Subdirección General de Administración y Recursos Humanos
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 52.
 
@@ -863,13 +865,13 @@ X. Participar en calidad de testigo en los eventos de entrega-recepción de ofic
 
 XI. Fomentar la aplicación de prácticas que garanticen la equidad de género, prevengan el hostigamiento sexual y promuevan la no discriminación en el acceso al empleo, el desarrollo profesional, las oportunidades de capacitación y promoción.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 53.
 
 Respecto a la situación patrimonial de los funcionarios del Infonavit, deberá asegurar que éstos cumplan adecuadamente con su presentación y actualización, de manera coordinada con la Contraloría General.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 54.
 
@@ -877,7 +879,7 @@ Respecto a la administración de los recursos materiales y servicios, sus facult
 
 I. Administrar los bienes muebles e inmuebles del Infonavit destinados a oficinas administrativas, conforme al esquema de sustentabilidad y protección civil;
 
-II. Administrar con el apoyo de la Subdirección de Tecnologías de Información, los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de Crédito y de Recaudación Fiscal;
+II. Establecer los mecanismos de custodia de los expedientes de crédito y su administración, así como la forma para ser consultados y/o su entrega temporal ante requerimientos de originales por área o entidad facultada para ello, asimismo, administrar con el apoyo de la Subdirección de Tecnologías de Información, los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de Crédito y de Recaudación Fiscal;
 
 III. Normar y controlar los procesos de adquisiciones y arrendamientos de bienes y servicios;
 
@@ -887,7 +889,7 @@ V. Ejecutar y administrar los procesos para la contratación de asesores y/o des
 
 VI. Administrar y coordinar las acciones necesarias para proporcionar los bienes y servicios requeridos por las diversas áreas del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 55.
 
@@ -901,7 +903,7 @@ III. Administrar y controlar los recursos destinados para gastos judiciales o ex
 
 IV. Dar el adecuado seguimiento del desempeño presupuestario del Gasto de Administración, Operación y Vigilancia y de las inversiones propias en las Delegaciones Regionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 56.
 
@@ -913,13 +915,13 @@ II. Apoyar y proporcionar asesoría a las distintas áreas que operan los contra
 
 III. Resguardar las pólizas de seguros, y
 
-IV. Administrar la cobertura de calidad de la vivienda.
+IV. Administrar la cobertura de calidad de la vivienda y propiciar la instrumentación del seguro de calidad de la vivienda.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo IX. De la Subdirección General de Comunicación
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
@@ -933,11 +935,11 @@ III. Coordinar los eventos institucionales nacionales e internacionales que sean
 
 IV. Establecer la normatividad en materia de comunicación interna, así como validar la difusión y/o publicación que propongan las unidades administrativas en la materia.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo X. De la Subdirección General de Tecnologías de Información
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 58.
 
@@ -953,7 +955,7 @@ IV. Monitorear y dar soporte a la infraestructura y sistemas informáticos, y
 
 V. Monitorear y dar soporte a los procesos operativos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
@@ -965,7 +967,7 @@ II. Difundir los modelos de operación, políticas y procedimientos emitidos par
 
 III. Establecer los mecanismos para la administración y publicación de la normatividad institucional.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 60.
 
@@ -985,17 +987,17 @@ VI. Impulsar la adopción de roles y responsabilidades que permitan evolucionar 
 
 VII. Establecer los mecanismos para determinar las cargas de trabajo a partir de la arquitectura de procesos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 61.
 
 En cuanto a la gestión de la seguridad de la información, deberá definir, establecer, mantener y monitorear una estrategia de seguridad de la información alineada a los objetivos del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo XI. De la Coordinación General de Riesgos
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
@@ -1013,29 +1015,29 @@ V. Informar periódicamente al Consejo de Administración, a través del Comité
 
 VI. Evaluar los riesgos y emitir opinión sobre los nuevos productos que son propuestos por las áreas del Infonavit.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 63.
 
 Con relación al cálculo de reservas y al cómputo del Índice de Capitalización deberá realizar dichos cálculos en apego a la normativa aplicable y reportar los resultados de manera periódica.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 64.
 
 Respecto al riesgo operativo y tecnológico deberá identificar y documentar los riesgos implícitos a los procesos de la Institución, así como establecer los Niveles de Tolerancia al Riesgo para cada tipo de riesgo identificado.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 65.
 
 Utilizar las plataformas institucionales para calibrar los parámetros de los modelos de cálculo de los riesgos del Instituto.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo XII. De la Coordinación General de Delegaciones
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 66.
 
@@ -1047,29 +1049,29 @@ II. Supervisar e integrar las actividades de las Delegaciones con el objetivo de
 
 III. Impulsar acciones al nivel local de las Delegaciones, que contribuyan al logro de los objetivos institucionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 67.
 
 Las Delegaciones son unidades administrativas con facultades delegadas por la Dirección General, las cuales se ejercerán en representación del Infonavit en la circunscripción territorial que se les asigne.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 68.
 
 Para el mejor cumplimiento de los objetivos del Infonavit, las funciones operativas se desconcentrarán a las Delegaciones, conforme a lo establecido en los Lineamientos de Operación de las Delegaciones Regionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 69.
 
 Las Delegaciones se apoyarán en las Comisiones Consultivas Regionales para impulsar acciones locales que contribuyan al logro de los objetivos institucionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### Capítulo XIII. Del Centro de Investigación para el Desarrollo Sostenible
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1087,7 +1089,7 @@ V. Proponer esquemas para asegurar el buen mantenimiento de los conjuntos habita
 
 VI. Recomendar iniciativas para la construcción de vivienda que cumpla con criterios de sostenibilidad y de accesibilidad universal.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 71.
 
@@ -1107,7 +1109,7 @@ VI. Investigar y proponer tecnologías que mejoren la calidad de vida de los tra
 
 VII. Con respecto a los indicadores que en materia de sostenibilidad se desarrollen, mantener la actualización y promover su difusión entre los derechohabientes y participantes interesados de la industria.
 
-> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 72.
 
@@ -1117,15 +1119,29 @@ I. Establecer y fortalecer relaciones eficaces con los distintos actores que int
 
 II. Colaborar y fomentar la creación de grupos y redes con instituciones académicas y sociales en materia de sostenibilidad de los centros urbanos.
 
-### Capítulo XIV. De la Subdirección General de Tecnologías
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 12 DE MARZO DE 2018)</small>
+
+### Capítulo XIV. De la Coordinación General de Movilidad
+
+> <small>(ADICIONADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 73.
 
-Respecto a la colaboración interinstitucional para el desarrollo de estrategias de mejoramiento de la calidad de vida de los trabajadores y la sostenibilidad de su hábitat y su patrimonio habitacional.
+La Coordinación General de Movilidad tendrá las facultades y funciones siguientes:
 
-I. Establecer y fortalecer relaciones eficaces con los distintos actores que intervienen en el desarrollo de vivienda,
+I. Coordinar la planeación y puesta en marcha de los procesos de movilidad, así como el diseño conceptual de sus políticas y procedimientos.
 
-II. Colaborar y fomentar la creación de grupos y redes con instituciones académicas y sociales en materia de sostenibilidad de los centros urbanos.
+II. Facilitar que los acreditados tengan acceso a diversas opciones acordes con sus necesidades de ubicación y espacio.
+
+III. Coordinar la operación del sistema de análisis de datos de la demanda para facilitar la comunicación entre los derechohabientes y el Instituto, y la adecuada atención a las necesidades habitacionales de los derechohabientes.
+
+IV. Coordinar la operación de la plataforma tecnológica de oferta inmobiliaria disponible para su fácil consulta por los derechohabientes que lo requieran.
+
+V. Coordinar la operación de un sistema de asistencia mediante Asesores de Movilidad para que el derechohabiente cuente con mayor información para la toma de decisiones relativas a su solución habitacional.
+
+VI. Desarrollar presupuestos y proyecciones de colocación de productos del Instituto vía los procesos de Movilidad.
+
+VII. Las demás que le señalen las disposiciones normativas institucionales y, en general todas aquellas relativas al cumplimiento de los objetivos del INFONAVIT, que sean afines con las fracciones que anteceden y que le encomiende el Director General.
 
 ## TRANSITORIOS
 
@@ -1172,3 +1188,13 @@ SEGUNDO.- Las Modificaciones de este Estatuto Orgánico entrarán en vigor a par
 TERCERO.- La Coordinación General de Recaudación Fiscal mencionada en este Estatuto Orgánico continuará ejerciendo las funciones y facultades establecidas para la Subdirección General de Recaudación Fiscal en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en materia de facultades como organismo fiscal autónomo, hasta en tanto entre en vigor la reforma al Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en materia de facultades como organismo fiscal autónomo.
 
 CUARTO.- Se ordena su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".
+
+PRIMERO.- El presente Estatuto Orgánico modifica las adecuaciones aprobadas mediante Acuerdos número 1952 y 2001 en las sesiones ordinarias 113 y 114 de la Asamblea General, celebradas los días 9 de diciembre de 2016 y 28 de abril de 2017 respectivamente.
+
+SEGUNDO.- Las Modificaciones de este Estatuto Orgánico entrarán en vigor a partir de su aprobación en la sesión ordinaria número 115 de la Asamblea General del Infonavit, celebrada el día 5 de diciembre de 2017.
+
+TERCERO.- Se ordena su publicación en el Diario Oficial de la Federación.
