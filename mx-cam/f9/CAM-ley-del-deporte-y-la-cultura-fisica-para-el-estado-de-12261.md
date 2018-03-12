@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2016-07-07"
+last_updated: "2018-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche el miércoles 24 de junio de 1998.
 
@@ -91,9 +91,11 @@ XI.- Deporte de la Tercera Edad.- Actividad deportiva que practican individuos d
 
 Son sujetos a la presente Ley, los habitantes, deportistas, los organismos deportivos de los sectores públicos social y privado en el Estado de Campeche, que por su naturaleza y funciones sean susceptibles de integrarse al Sistema Estatal del Deporte.
 
-###### Artículo 5.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
 
-Se reconoce el derecho de todo individuo al conocimiento y postura del deporte. El Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias deberán incluir dentro de sus planes, programas, presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas.
+###### ARTÍCULO 5.
+
+Se reconoce el derecho de todo individuo al conocimiento y postura del deporte. El Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias deberán incluir dentro de sus planes, programas, presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas, garantizando a todas las personas sin distinción de origen étnico, género, edad, discapacidad, condición social, religión, opiniones, preferencias sexuales, o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
 
 ###### Artículo 6.
 
@@ -750,3 +752,11 @@ P.O. 7 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 63 POR EL QUE “SE ADICIONA UNA FRACCIÓN VI Y UNA FRACCIÓN VII AL ARTÍCULO 41, Y UNA FRACCIÓN V AL ARTÍCULO 42 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
 
 ÚNICO.- El presente decreto entrará en vigor a los diez días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 257 POR EL QUE "SE REFORMA EL ARTÍCULO 5 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
