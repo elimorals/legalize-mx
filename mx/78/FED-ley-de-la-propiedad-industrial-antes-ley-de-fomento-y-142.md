@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2016-06-01"
+last_updated: "2018-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1991-06-26"
 ---
 # LEY DE LA PROPIEDAD INDUSTRIAL -ANTES LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -61,9 +63,9 @@ III.- Propiciar e impulsar el mejoramiento de la calidad de los bienes y servici
 
 IV.- Favorecer la creatividad para el diseño y la presentación de productos nuevos y útiles;
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-V.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen, y regulación de secretos industriales;
+V.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, marcas y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen e indicaciones geográficas, y regulación de secretos industriales;
 
 > <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2006)</small>
 
@@ -111,9 +113,9 @@ I.- Coordinarse con las unidades administrativas de la Secretaría de Economía,
 
 II.- Propiciar la participación del sector industrial en el desarrollo y aplicación de tecnologías que incrementen la calidad, competitividad y productividad del mismo, así como realizar investigaciones sobre el avance y aplicación de la tecnología industrial nacional e internacional y su incidencia en el cumplimiento de tales objetivos, y proponer políticas para fomentar su desarrollo;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-III.- Tramitar y, en su caso, otorgar patentes de invención, y registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales, emitir declaratorias de notoriedad o fama de marcas, emitir declaratorias de protección a denominaciones de origen, autorizar el uso de las mismas; la publicación de nombres comerciales, así como la inscripción de sus renovaciones, transmisiones o licencias de uso y explotación, y las demás que le otorga esta Ley y su reglamento, para el reconocimiento y conservación de los derechos de propiedad industrial;
+III.- Tramitar y, en su caso, otorgar patentes de invención, y registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, marcas y avisos comerciales, emitir declaratorias de notoriedad o fama de marcas, emitir declaraciones de protección a denominaciones de origen e indicaciones geográficas, autorizar el uso de las mismas; la publicación de nombres comerciales, así como la inscripción de sus renovaciones, transmisiones o licencias de uso y explotación, y las demás que le otorga esta Ley y su reglamento, para el reconocimiento y conservación de los derechos de propiedad industrial;
 
 IV.- Sustanciar los procedimientos de nulidad, caducidad y cancelación de los derechos de propiedad industrial, formular las resoluciones y emitir las declaraciones administrativas correspondientes, conforme lo dispone esta Ley y su reglamento y, en general, resolver las solicitudes que se susciten con motivo de la aplicación de la misma;
 
@@ -130,8 +132,6 @@ IX.- Fungir como árbitro en la resolución de controversias relacionadas con el
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2010)</small>
 
 X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley, así como establecer las reglas generales para la gestión de trámites a través de medios de comunicación electrónica y su puesta en operación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
@@ -213,9 +213,9 @@ El Director General, o su equivalente, es el representante legal del Instituto y
 
 Artículo 7o BIS 2.- Corresponde al Director General del Instituto el ejercicio de las facultades a que se refiere el artículo 6 de esta Ley, quien, sin perjuicio de su ejercicio directo, únicamente podrá delegarlas en los términos que se establezcan en los acuerdos respectivos, que deberán ser aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
-El Director General del Instituto expedirá, mediante Acuerdo publicado en el Diario Oficial, las reglas y especificaciones de las solicitudes, así como los procedimientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
+El Director General del Instituto expedirá, mediante Acuerdos publicados en el Diario Oficial, las reglas y especificaciones para la presentación de las solicitudes, así como los procedimientos, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -273,9 +273,15 @@ V.- Reivindicación, a la característica esencial de un producto o proceso cuya
 
 VI.- Fecha de presentación, a la fecha en que se presente la solicitud en el Instituto, o en las delegaciones de la Secretaría de Economía en el interior del país, siempre y cuando cumpla con los requisitos que señala esta Ley y su reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2018)</small>
+
 ###### Artículo 13.
 
-Se presume inventor a la persona o personas físicas que se ostenten como tales en la solicitud de patente o de registro. El inventor o inventores tienen derecho a ser mencionados en el título correspondiente o a oponerse a esta mención.
+Se presume inventor o diseñador a la persona o personas físicas que se señalen como tales en la solicitud de patente o de registro. El inventor o diseñador tiene el derecho a ser mencionado con tal carácter en la publicación de la solicitud y, en su caso, en el título correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+El derecho a que se refiere el párrafo anterior es irrenunciable. En su caso, la renuncia efectuada al mismo se tendrá por no hecha.
 
 ###### Artículo 14.
 
@@ -415,11 +421,15 @@ El registro de los modelos de utilidad tendrá una vigencia de diez años impror
 
 La explotación del modelo de utilidad y las limitaciones del derecho que confiere su registro al titular se regirán, en lo conducente, por lo dispuesto en los artículos 22 y 25 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 30.
 
-Para la tramitación del registro de un modelo de utilidad se aplicarán, en lo conducente, las reglas contenidas en el Capítulo V del presente Título, a excepción de los artículos 45 y 52.
+Para la tramitación y otorgamiento del registro de un modelo de utilidad se llevará a cabo, en lo conducente, conforme a las disposiciones contenidas en los Capítulos II y V del presente Título, a excepción de los artículos 23, 45, 52 y 52 BIS.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 30 BIS.- La publicación de la solicitud de registro de modelo de utilidad en trámite tendrá lugar lo más pronto posible después de que haya aprobado el examen de forma, sin que pueda solicitarse su publicación anticipada.
 
 ### Capítulo IV. De los Diseños Industriales
 
@@ -447,13 +457,25 @@ I.- Los dibujos industriales, que son toda combinación de figuras, líneas o co
 
 II.- Los modelos industriales, constituidos por toda forma tridimensional que sirva de tipo o patrón para la fabricación de un producto industrial, que le dé apariencia especial en cuanto no implique efectos técnicos.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 32 BIS.- Para efectos del presente Capítulo se entenderá por:
+
+I.- Creación independiente, cuando ningún otro diseño industrial idéntico haya sido hecho público antes de la fecha de presentación de la solicitud de registro, o antes de la fecha de la prioridad reconocida. Se considerarán idénticos los diseños industriales cuyas características difieran sólo en detalles irrelevantes, y
+
+II.- Grado significativo, la impresión general que el diseño industrial produce en un experto en la materia y que difiera de la impresión general producida por cualquier otro diseño industrial, que se haya hecho público antes de la fecha de presentación de la solicitud de registro o antes de la fecha de prioridad reconocida, considerando el grado de libertad del diseñador para la creación del diseño industrial.
+
 ###### Artículo 33.
 
 A las solicitudes de registro de diseños industriales se anexarán:
 
-I.- Una reproducción gráfica o fotográfica del diseño correspondiente, y
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-II.- La indicación del género del producto para el cual se utilizará el diseño.
+I.- Las reproducciones gráficas o fotográficas del diseño correspondiente, suficientemente claras, para la comprensión del diseño y su publicación, y
+
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+II.- La indicación del producto para el cual se utilizará el diseño.
 
 ###### Artículo 34.
 
@@ -463,19 +485,31 @@ La descripción que se realice en la solicitud deberá referirse brevemente a la
 
 En la solicitud deberá expresarse como reivindicación la denominación del diseño industrial seguido de las palabras "Tal como se ha referido e ilustrado".
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 36.
 
-El registro de los diseños industriales tendrá una vigencia de quince años improrrogables a partir de la fecha de presentación de la solicitud y estará sujeto al pago de la tarifa correspondiente.
+El registro de los diseños industriales tendrá una vigencia de cinco años, a partir de la fecha de presentación de la solicitud, renovable por períodos sucesivos de la misma duración hasta un máximo de veinticinco años, sujeto al pago de las tarifas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Los registros de diseños industriales y sus renovaciones serán publicados en la Gaceta.
 
 La explotación de los diseños industriales y la limitación de los derechos que confiere su registro al titular se regirán, en lo conducente, por lo dispuesto en los artículos 22 y 25 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 36 BIS.- La renovación del registro de un diseño industrial deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo 80 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 37.
 
-La tramitación del registro de los diseños industriales se llevará a cabo, en lo conducente, conforme a las reglas contenidas en el Capítulo V del presente Título, a excepción de los artículos 45 y 52.
+La tramitación y otorgamiento del registro de los diseños industriales se llevará a cabo, en lo conducente, conforme a las disposiciones contenidas en los Capítulos II y V del presente Título, a excepción de los artículos 23, 45, 52 y 52 BIS.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 37 BIS.- La publicación de la solicitud de registro de diseño industrial en trámite tendrá lugar lo más pronto posible después de que haya aprobado el examen de forma, sin que pueda solicitarse su publicación anticipada.
 
 ### Capítulo V. De la Tramitación de Patentes
 
@@ -539,13 +573,11 @@ Cuando varios inventores hayan realizado la misma invención independientemente 
 
 La solicitud de patente deberá referirse a una sola invención, o a un grupo de invenciones relacionadas de tal manera entre sí que conformen un único concepto inventivo.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 44.
 
 Si la solicitud no cumple con lo establecido en el artículo anterior, el Instituto lo comunicará por escrito al solicitante para que, dentro del plazo de dos meses, la divida en varias solicitudes, conservando como fecha de cada una la de la solicitud inicial y, en su caso, la de prioridad reconocida. Si vencido el plazo el solicitante no ha realizado la división, se tendrá por abandonada la solicitud.
-
-Si el solicitante cumple con lo previsto en el párrafo anterior, las solicitudes divisionales no serán objeto de la publicación a que se refiere el artículo 52 de esta Ley.
 
 ###### Artículo 45.
 
@@ -611,13 +643,15 @@ Presentada la solicitud, el Instituto realizará un examen de forma de la docume
 
 La publicación de la solicitud de patente en trámite tendrá lugar lo más pronto posible después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentacióno (sic), en su caso, de prioridad reconocida. A petición del solicitante, la solicitud será publicada antes del vencimiento del plazo señalado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 52 BIS.- Dentro de un plazo de dos meses, contados a partir de la fecha de publicación en la Gaceta prevista en el artículo anterior, el Instituto podrá recibir información de cualquier persona, relativa a si la solicitud cumple con lo dispuesto en los artículos 16 y 19 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
-Artículo 52 BIS.- Dentro de un plazo de seis meses, contados a partir de la fecha de publicación en la Gaceta, el Instituto podrá recibir información de cualquier persona, relativa a si la solicitud cumple con lo dispuesto en los artículos 16 y 19 de esta Ley.
-
 El Instituto podrá, cuando así lo estime conveniente, considerar dicha información como documentos de apoyo técnico para el examen de fondo que sobre la solicitud realice, sin estar obligado a resolver sobre el alcance de la misma. El Instituto dará vista al solicitante de los datos y documentos aportados para que, de considerarlo procedente, exponga por escrito los argumentos que a su derecho convengan.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
 La presentación de información no suspenderá el trámite, ni atribuirá a la persona que la hubiera presentado el carácter de interesado, tercero o parte, y, en su caso, procederá el ejercicio de las acciones previstas en el artículo 78 de esta Ley.
 
@@ -885,11 +919,17 @@ I.- Al vencimiento de su vigencia;
 
 II.- Por no cubrir el pago de la tarifa previsto para mantener vigentes sus derechos, o dentro del plazo de gracia de seis meses siguientes a éste;
 
-III.- En el caso del artículo 73 de esta Ley.
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+III.- En el caso del artículo 73 de esta Ley, y
 
-La caducidad que opere por el solo transcurso del tiempo, no requerirá de declaración administrativa por parte del Instituto.
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+IV.- Cuando no se renueve en los términos de esta Ley, tratándose del registro de un diseño industrial.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+La caducidad a la que se refieren las fracciones I, II y IV del presente artículo, no requerirá de declaración administrativa por parte del Instituto.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -969,7 +1009,7 @@ III.- Los nombres comerciales y denominaciones o razones sociales, siempre que n
 
 IV.- El nombre propio de una persona física, siempre que no se confunda con una marca registrada o un nombre comercial publicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 90.
 
@@ -999,7 +1039,9 @@ VIII.- Las que reproduzcan o imiten signos o sellos oficiales de control y garan
 
 IX.- Las que reproduzcan o imiten los nombres o la representación gráfica de condecoraciones, medallas u otros premios obtenidos en exposiciones, ferias, congresos, eventos culturales o deportivos, reconocidos oficialmente;
 
-X.- Las denominaciones geográficas, propias o comunes, y los mapas, así como los gentilicios, nombres y adjetivos, cuando indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+X.- Las zonas geográficas, propias o comunes, y los mapas, así como las denominaciones de poblaciones, los gentilicios, nombres y adjetivos, cuando indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia. Quedan incluidas las que se acompañen de expresiones tales como "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otras similares que creen confusión en el consumidor o impliquen competencia desleal relacionada con la misma.
 
 XI.- Las denominaciones de poblaciones o lugares que se caractericen por la fabricación de ciertos productos, para amparar éstos, excepto los nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y se tenga el consentimiento del propietario;
 
@@ -1669,7 +1711,9 @@ Cuando se solicite la inscripción de alguna transmisión de marca registrada o 
 
 El Instituto negará la inscripción de una licencia o transmisión de derechos cuando el registro de la marca no se encuentre vigente.
 
-### Capítulo I. De la Protección a la Denominación de Origen
+### Capítulo I. Disposiciones Comunes
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 151.
 
@@ -1715,201 +1759,455 @@ El titular de una marca registrada podrá solicitar por escrito, en cualquier ti
 
 La declaración de nulidad, caducidad o cancelación del registro de una marca, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación. La caducidad a la que se refiere la fracción I del artículo 152 de esta Ley, no requerirá de declaración administrativa por parte del Instituto.
 
-## TITULO QUINTO. De la Denominación de Origen
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
 
-### Capítulo II. De la autorización para su Uso
+## TÍTULO QUINTO. De las Denominaciones de Origen e Indicaciones Geográficas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
+
+### Capítulo II. Del Trámite de la Declaración de Protección
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 156.
 
-Se entiende por denominación de origen, el nombre de una región geográfica del país que sirva para designar un producto originario de la misma, y cuya calidad o característica se deban exclusivamente al medio geográfico, comprendido en éste los factores naturales y los humanos.
+Se entiende por denominación de origen, el nombre de una zona geográfica o que contenga dicho nombre, u otra denominación conocida por hacer referencia a la citada zona, que sirva para designar un producto como originario de la misma, cuando la calidad o las características del producto se deban exclusiva o esencialmente al medio geográfico, comprendidos los factores naturales y humanos, y que haya dado al producto su reputación.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 157.
 
-La protección que esta Ley concede a las denominaciones de origen se inicia con la declaración que al efecto emita el Instituto. El uso ilegal de la misma será sancionado, incluyendo los casos en que venga acompañada de indicaciones tales como "género", "tipo", "manera", "imitación", u otras similares que creen confusión en el consumidor o impliquen competencia desleal.
+Se entiende por indicación geográfica, el nombre de una zona geográfica o que contenga dicho nombre, u otra indicación conocida por hacer referencia a la citada zona, que identifique un producto como originario de la misma, cuando determinada calidad, reputación u otra característica del producto sea imputable fundamentalmente a su origen geográfico.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 158.
 
-La declaración de protección de una denominación de origen, se hará de oficio o a petición de quien demuestre tener interés jurídico. Para los efectos de este artículo se considera que tienen interés jurídico:
+Se entiende por zona geográfica, aquella que consista en la totalidad del territorio o en una región, localidad o lugar de un país.
 
-I.- Las personas físicas o morales que directamente se dediquen a la extracción, producción o elaboración del producto o los productos que se pretendan amparar con la denominación de origen;
-
-II.- Las cámaras o asociaciones de fabricantes o productores, y
-
-III.- Las dependencias o entidades del gobierno federal y de los gobiernos de las entidades de la Federación.
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 159.
 
-La solicitud de declaración de protección a una denominación de origen se hará por escrito, a la que se acompañarán los comprobantes que funden la petición y en la que se expresará lo siguiente:
+La protección que esta Ley concede a la denominación de origen e indicación geográfica se inicia con la declaración que al efecto emita el Instituto.
 
-I.- Nombre, domicilio y nacionalidad del solicitante. Si es persona moral deberá señalar, además, su naturaleza y las actividades a que se dedica;
-
-II.- Interés Jurídico del solicitante;
-
-III.- Señalamiento de la denominación de origen;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-IV.- Descripción detallada del producto o los productos terminados que abarcará la denominación, incluyendo sus características, componentes, forma de extracción y procesos de producción o elaboración. Cuando sea determinante para establecer la relación entre la denominación y el producto, se señalarán las normas oficiales establecidas por la Secretaría de Economía a que deberán sujetarse el producto, su forma de extracción, sus procesos de elaboración o producción y sus modos de empaque, embalaje o envasamiento;
-
-V.- Lugar o lugares de extracción, producción o elaboración del producto que se trate de proteger con la denominación de origen y la delimitación del territorio de origen, atendiendo a los caracteres geográficos y a las divisiones políticas;
-
-VI.- Señalamiento detallado de los vínculos entre denominación, producto y territorio, y
-
-VII.- Los demás que considere necesarios o pertinentes el solicitante.
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 160.
 
-Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados.
+La denominación de origen e indicación geográfica son bienes de dominio del poder público de la Federación y sólo podrán usarse mediante la autorización que expida el Instituto.
 
-Si a juicio del Instituto, los documentos presentados no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de dos meses.
-
-Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud se considerará abandonada, pero el Instituto podrá continuar de oficio su tramitación en los términos del presente capítulo si lo considera pertinente.
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 161.
 
-Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial un extracto de la solicitud.
+La vigencia de la declaración de protección de una denominación de origen o indicación geográfica estará determinada por la subsistencia de las condiciones que la motivaron.
 
-Si el procedimiento se inicia de oficio, el Instituto publicará en el Diario Oficial un extracto de las menciones y requisitos establecidos en las fracciones III a la VII del artículo 159 de esta Ley.
-
-En ambos casos el Instituto otorgará un plazo de dos meses, contados a partir de la fecha de publicación para que cualquier tercero que justifique su interés jurídico, formule observaciones u objeciones y aporte las pruebas que estime pertinentes.
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 162.
 
-Para los efectos de este capítulo se admitirá toda clase de pruebas con excepción de la confesional y testimonial. La pericial corresponderá al Instituto o a quien éste designe. El Instituto podrá realizar en cualquier tiempo, antes de la declaración, las investigaciones que estime pertinentes y allegarse los elementos que considere necesarios.
+El nombre común o genérico de un producto podrá incluirse como elemento de la denominación de origen o indicación geográfica.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+No obstante lo anterior, el nombre común o genérico se considerará en todos los casos de libre utilización.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 163.
 
-Transcurrido el plazo a que se refiere el artículo 161 de esta Ley, efectuados los estudios y desahogadas las pruebas, el Instituto dictará la resolución que corresponda.
+No podrá protegerse como denominación de origen o indicación geográfica lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+I.- El nombre que sea idéntico o semejante en grado de confusión a una denominación de origen o indicación geográfica protegida o al señalado en una solicitud de declaración en trámite presentada con anterioridad, aplicados a los mismos o similares productos, salvo resolución emitida por el Instituto que permita la coexistencia de dichos nombres;
+
+II.- El nombre técnico, genérico o de uso común de los productos que pretendan ampararse, así como aquella denominación que, en el lenguaje corriente o en las prácticas comerciales, se haya convertido en un elemento usual o genérico de los mismos;
+
+III.- La denominación que, considerando el conjunto de sus características, sean descriptivas de los productos que traten de protegerse. Quedan incluidas en el supuesto anterior las palabras descriptivas o indicativas que en el comercio sirvan para designar la especie, calidad, cantidad, composición, destino o valor;
+
+IV.- La que sea idéntica o semejante en grado de confusión a una solicitud de registro de marca o aviso comercial en trámite, presentada con anterioridad o a una marca o aviso comercial registrado y vigente, aplicado a los mismos o similares productos o servicios;
+
+V.- La que sea idéntica o semejante en grado de confusión a una solicitud de publicación de nombre comercial en trámite, presentada con anterioridad o a un nombre comercial publicado y vigente, aplicado al mismo o similar giro comercial;
+
+VI.- La traducción o transliteración de una denominación de origen o indicación geográfica no protegible, y
+
+VII.- La que constituya o contenga la designación de una variedad vegetal protegida o de una raza animal.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 164.
 
-Si la resolución a que se refiere el artículo anterior otorga la protección de la denominación de origen, el Instituto hará la declaratoria y procederá a su publicación en el Diario Oficial. La declaración del Instituto que otorgue la protección a una denominación de origen, determinará en definitiva los elementos y requisitos previstos en el artículo 159 de esta Ley.
+Además de las publicaciones previstas en este Título, se publicarán en la Gaceta las declaraciones y autorizaciones que otorgue el Instituto, así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominaciones de origen o indicaciones geográficas.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
+
+### Capítulo III. De la Autorización para su Uso
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 14.- La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que cumpla con los siguientes requisitos:
+
+I.- Que directamente se dedique a la extracción, producción o elaboración, de los productos protegidos por la denominación de origen o indicación geográfica;
+
+II.- Que realice tal actividad dentro del territorio o zona geográfica determinado en la declaración;
+
+III.- Que, en su caso, cumpla con las Normas Oficiales Mexicanas establecidas conforme a las leyes aplicables, respecto de los productos de que se trate, y
+
+IV.- Los demás que señale la declaración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 15.- La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 16.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales procederá su otorgamiento.
+
+Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo improrrogable de dos meses.
+
+Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud se considerará abandonada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 17.- Los efectos de la autorización para usar una denominación de origen o indicación geográfica durarán diez años, contados a partir de la fecha de presentación de la solicitud en el Instituto y podrán renovarse por períodos de la misma duración.
+
+La renovación deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia de la autorización. Vencido este plazo sin que se presente la solicitud de renovación, la autorización caducará.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 18.- El usuario autorizado estará obligado a usar la denominación de origen o indicación geográfica protegida, tal y como aparezca en la declaración correspondiente, así como a aplicar la leyenda "Denominación de Origen Protegida" o "Indicación Geográfica Protegida" o las siglas "D.O.P" o "I.G.P.", según corresponda, a los productos amparados por éstas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 19.- La denominación de origen o indicación geográfica podrá usarse en publicidad, documentación comercial, empaques, embalajes, envases o sobre los propios productos en que sea aplicada o de cualquier otra manera con propósitos comerciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 20.- El uso ilegal de la denominación de origen o indicación geográfica protegida será sancionado, incluyendo los casos en que venga acompañada de expresiones tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares que creen confusión en el consumidor o impliquen competencia desleal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 21.- Se entenderá que una denominación de origen o indicación geográfica protegida se encuentra en uso, cuando los productos que ésta distingue lleven incorporada, aplicada, reproducida o grabada por cualquier medio, la denominación o indicación protegida; cuando los productos sean destinados para la exportación, o cuando los productos hayan sido puestos en el comercio o se encuentran disponibles en el mercado en el país en la cantidad y del modo que corresponde a los usos y costumbres en el comercio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 22.- En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 23.- El derecho a usar una denominación de origen o indicación geográfica protegida podrá ser transmitido por el usuario autorizado en los términos de la legislación común. Dicha transmisión deberá ser inscrita en el Instituto para que pueda producir efectos en perjuicio de terceros, previa comprobación de que el nuevo usuario cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usarlas. La transmisión surtirá efectos a partir de su inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 24.- El usuario autorizado de una denominación de origen o indicación geográfica protegida podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá inscribirse en el Instituto para que produzca efectos en perjuicio de terceros, a partir de dicha inscripción.
+
+El convenio deberá contener una cláusula en la que se establezca la obligación del distribuidor o comercializador de cumplir con los requisitos establecidos en las fracciones III y IV del artículo 165 BIS 14 y los previstos en el reglamento de esta Ley. En caso de que el distribuidor o comercializador no cumpliere con esta obligación, procederá la cancelación de la inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 25.- El usuario autorizado por el Instituto deberá inscribir ante el mismo, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 13 DE MARZO DE 2018)</small>
+
+###### Artículo 165.
+
+La declaración de protección de una denominación de origen o indicación geográfica, se hará de oficio o a petición de:
+
+I.- Las personas físicas o morales que directamente se dediquen a la extracción, producción o elaboración del producto que se pretenda amparar;
+
+II.- Las cámaras o asociaciones de fabricantes o productores vinculados con el producto que se pretenda amparar;
+
+III.- Las dependencias o entidades del Gobierno Federal, y
+
+IV.- Los gobiernos de las Entidades de la Federación en cuyo territorio o zona geográfica se extraiga, produzca o elabore el producto que se pretenda amparar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS.- La solicitud de declaración de protección a una denominación de origen o indicación geográfica deberá presentarse por escrito ante el Instituto con los siguientes datos, acompañada de los documentos que funden la petición:
+
+I.- El nombre y domicilio del solicitante;
+
+II.- El carácter del solicitante, debiendo señalar su naturaleza jurídica y acreditar las actividades a las que se dedica, en términos a los que se refiere el artículo anterior;
+
+III.- El señalamiento de la denominación de origen o indicación geográfica;
+
+IV.- La descripción detallada del producto o los productos terminados, incluyendo sus características, componentes, forma de extracción, procesos de producción o elaboración y su uso en el comercio;
+
+V.- Las Normas Oficiales Mexicanas a las que deberá sujetarse el producto, su forma de extracción, sus procesos de elaboración o producción y sus modos de empaque, embalaje o envasamiento, en su caso;
+
+VI.- Los criterios que establezcan las características y especificaciones que deberá cumplir el producto para su producción, envasado y comercialización, en el caso de una indicación geográfica;
+
+VII.- El lugar o lugares de extracción, producción o elaboración del producto que se trate de proteger y la delimitación del territorio o zona geográfica, atendiendo a la geografía y a las divisiones políticas;
+
+VIII.- El señalamiento detallado de los vínculos entre denominación, producto, territorio o zona geográfica y los factores naturales o humanos, cuando la solicitud se refiera a una denominación de origen;
+
+IX.- El estudio técnico emitido por una autoridad o institución pública o privada que sustente la información a la que se refieren las fracciones IV, VII y VIII del presente artículo;
+
+X.- El comprobante del pago de la tarifa correspondiente, y
+
+XI.- Los demás que considere necesarios o pertinentes el solicitante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 1.- Recibida la solicitud, el Instituto efectuará un examen a los datos y documentos aportados.
+
+Si los documentos presentados no satisfacen los requisitos legales, resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, o la denominación de origen o indicación geográfica señalada cae en alguno de los impedimentos a que se refiere el artículo 163, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de dos meses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 2.- El solicitante tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
+
+El plazo adicional, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en el artículo anterior.
+
+La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
+
+Si lo considera pertinente, el Instituto podrá continuar de oficio la tramitación de la declaración en los términos del presente Capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 3.- El solicitante podrá transformar la solicitud de denominación de origen en una de indicación geográfica y viceversa, cuando del contenido de la solicitud se infiera que ésta no concuerda con lo solicitado.
+
+El solicitante sólo podrá efectuar la transformación de la solicitud dentro del plazo improrrogable de dos meses siguientes a la fecha de su presentación o de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme.
+
+En este supuesto, se considerará como fecha de presentación aquella en la que se solicite la transformación de la solicitud.
+
+En caso de que el solicitante no transforme la solicitud dentro del plazo concedido por el Instituto se tendrá por abandonada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 4.- Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial:
+
+I.- El nombre del solicitante;
+
+II.- El señalamiento de la denominación de origen o indicación geográfica;
+
+III.- La descripción del producto o productos que ésta abarcará;
+
+IV.- El lugar o lugares de extracción, producción o elaboración del producto a proteger, y
+
+V.- El domicilio en el que se encontrará abierto para consulta pública el expediente de la solicitud de declaración y en el que se recibirán los documentos relacionados con la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 5.- El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercero que justifique su interés presente su oposición a la solicitud de declaración de protección y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 163 y 165 BIS de la presente Ley.
+
+La oposición deberá presentarse por escrito, acompañada de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 6.- El Instituto notificará al solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar por escrito lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 7.- Para los efectos de este Capítulo se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
+
+El Instituto podrá realizar en cualquier tiempo, antes de la declaración, las investigaciones que estime pertinentes y allegarse los elementos que considere necesarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 8.- El Instituto suspenderá el trámite de una solicitud de declaración de protección de denominación de origen o indicación geográfica, en los siguientes casos:
+
+I.- Cuando la solicitud se encuentre en alguno de los impedimentos a los que se refieren las fracciones IV y V del artículo 163 y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca registrada o de cesación de los efectos de un nombre comercial publicado. La suspensión procederá de oficio o a petición de cualquiera de las partes en el procedimiento de declaración administrativa y se levantará cuando éste sea resuelto por el Instituto, y
+
+II.- Por orden de autoridad jurisdiccional o administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 9.- Transcurrido el plazo a que se refiere el artículo 165 BIS 6 de esta Ley, previo análisis de los antecedentes, efectuados los estudios, desahogadas las pruebas y, antes de dictar resolución, las actuaciones se pondrán a disposición del solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen por escrito alegatos en un plazo de diez días, los cuales serán tomados en cuenta por el Instituto. Concluido dicho plazo se dictará la resolución que corresponda, la cual se notificará a las partes involucradas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 10.- Si la resolución a que se refiere el artículo anterior, otorga la protección de la denominación de origen o indicación geográfica solicitada, el Instituto ordenará la publicación de la declaración de protección en el Diario Oficial.
+
+La declaración determinará en definitiva los elementos de la denominación de origen o indicación geográfica protegida detallando:
+
+I.- La descripción del producto o los productos terminados, incluyendo sus características, componentes, forma de extracción y procesos de producción o elaboración;
+
+II.- Las Normas Oficiales Mexicanas o los criterios a los que deberá sujetarse el producto, su forma de extracción, sus procesos de elaboración o producción y sus modos de empaque, embalaje o envasamiento, en su caso, y
+
+III.- La delimitación del territorio o zona geográfica protegido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 11.- En caso de que el Instituto niegue la protección a la denominación de origen o indicación geográfica solicitada, lo comunicará por escrito al solicitante y, en su caso, a los oponentes, expresando los motivos y fundamentos legales de su resolución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 12.- Para obtener el reconocimiento en el extranjero de las denominaciones de origen o indicaciones geográficas nacionales, protegidas en términos de esta Ley, el Instituto de manera directa o por conducto de la autoridad competente, realizará las gestiones necesarias de conformidad con los Tratados Internacionales, acuerdos comerciales o legislación del país que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 13.- Los términos de la declaración de protección de una denominación de origen o indicación geográfica podrán ser modificados en cualquier tiempo, de oficio o a petición de parte interesada, siguiendo el procedimiento establecido en este Capítulo.
+
+Si la solicitud se presenta a petición de parte interesada, ésta deberá contener lo previsto por el artículo 165 BIS de esta Ley, así como un señalamiento detallado de las modificaciones que se solicitan y las causas que las motivan. El Instituto resolverá lo conducente conforme a lo establecido en este Capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 13 DE MARZO DE 2018)</small>
+
+### Capítulo IV. De la Cesación de los Efectos de las Declaraciones y de las Autorizaciones de Uso
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 26.- La declaración de protección de una denominación de origen o indicación geográfica protegida dejará de surtir efectos por otra declaración del Instituto, publicada en el Diario Oficial, aplicándose para tal efecto, en lo que resulte conducente, el procedimiento previsto en el Capítulo II de este Título.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 27.- La autorización de uso de una denominación de origen o indicación geográfica protegida será nula cuando se otorgue:
+
+I.- En contravención a las disposiciones de esta Ley, o
+
+II.- Con base en datos o documentos falsos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 28.- Procederá la cancelación de la autorización de uso de una denominación de origen o indicación geográfica protegida cuando:
+
+I.- El usuario autorizado la use en forma diferente a la establecida en la declaración de protección o esta Ley, o
+
+II.- El usuario autorizado omita aplicar las leyendas o siglas a las que se refiere el artículo 165 BIS 18.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 29.- La autorización de uso caducará:
+
+I.- Cuando deje de usarse durante los tres años inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto, o
+
+II.- Por terminación de su vigencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 30.- Las declaraciones administrativas de nulidad, cancelación y caducidad se harán por el Instituto, de oficio, a petición de parte o del Ministerio Público Federal.
+
+La caducidad a que se refiere la fracción II del artículo anterior, no requerirá de declaración administrativa por parte del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+### Capítulo V. Del Reconocimiento a las Denominaciones de Origen e Indicaciones Geográficas Protegidas en el Extranjero
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ### Capítulo I. Reglas Generales de los Procedimientos
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
-###### Artículo 165.
-
-La vigencia de la declaración de protección de una denominación de origen estará determinada por la subsistencia de las condiciones que la motivaron y sólo dejará de surtir efectos por otra declaración del Instituto.
-
-### Capítulo II. Del Procedimiento de Declaración Administrativa
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
-### Capítulo III. Del Recurso de Reconsideración
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
-### Capítulo I. De la Inspección
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
 ###### Artículo 166.
 
-Los términos de la declaración de protección a una denominación de origen podrán ser modificados en cualquier tiempo, de oficio o a petición de parte interesada, siguiendo el procedimiento establecido en este capítulo. La solicitud relativa, deberá expresar lo exigido por las fracciones I a III del artículo 159 de esta Ley, y un señalamiento detallado de las modificaciones que se piden y las causas que las motivan.
+El Instituto reconocerá a las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en términos de los Tratados Internacionales y conforme a lo previsto en el presente Capítulo.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 167.
 
-El Estado Mexicano será el titular de la denominación de origen. Esta sólo podrá usarse mediante autorización que expida el Instituto.
+El Instituto inscribirá las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en el registro creado para tal efecto. La solicitud de inscripción deberá presentarse por el titular de las mismas y cumplir con los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+I.- Señalar el nombre, nacionalidad y domicilio del solicitante;
+
+II.- Presentar el documento mediante el cual se haya otorgado protección a la denominación de origen o indicación geográfica, conforme a la legislación aplicable del país de origen o de acuerdo a los Tratados Internacionales;
+
+III.- Indicar el producto o productos protegidos y el territorio o zona geográfica de su extracción, producción o elaboración;
+
+IV.- Señalar la traducción al idioma español o la transliteración al alfabeto latino internacional moderno de la denominación de origen o indicación geográfica protegida, en su caso;
+
+V.- Acompañar el comprobante de pago de la tarifa correspondiente, y
+
+VI.- Los demás que establezca el reglamento de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 168.
 
-El Instituto, por conducto de la (sic) de Relaciones Exteriores, tramitará el registro de las denominaciones de origen que hayan sido materia de una declaración de protección en los términos de esta Ley, para obtener su reconocimiento en el extranjero conforme a los Tratados Internacionales.
+No se inscribirá en el registro de denominaciones de origen o indicaciones geográficas protegidas en el extranjero, la denominación o indicación que se encuentre en alguno de los impedimentos a los que hace referencia el artículo 163 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 169.
 
-La autorización para usar una denominación de origen deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que cumpla los siguientes requisitos:
+Recibida la solicitud, el Instituto procederá a realizar un examen, a fin de verificar si ésta cumple con los requisitos a que se refiere el artículo 167.
 
-I.- Que directamente se dedique a la extracción, producción o elaboración, de los productos protegidos por la denominación de origen;
+Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento, el Instituto lo comunicará por escrito al solicitante otorgándole un plazo de dos meses para que subsane los errores u omisiones en los que hubiese incurrido y manifieste lo que a su derecho convenga, siendo aplicable el plazo adicional regulado en el artículo 165 BIS 2 de la presente Ley.
 
-II.- Que realice tal actividad dentro del territorio determinado en la declaración;
+Si el interesado no contesta dentro del plazo inicial o en el adicional, se considerará abandonada su solicitud.
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-III.- Que cumpla con las normas oficiales establecidas por la Secretaría de Economía conforme a las leyes aplicables, respecto de los productos de que se trate, y
-
-IV.- Los demás que señale la declaración.
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 170.
 
-La solicitud para obtener una autorización de uso de denominación de origen deberá contener los datos y estar acompañada de los documentos que se señalen en el reglamento de esta Ley.
+Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial:
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+I.- El nombre, nacionalidad y domicilio del solicitante;
+
+II.- El señalamiento de la denominación de origen o indicación geográfica, el producto o productos protegidos y el territorio o zona geográfica de su extracción, producción o elaboración, conforme al documento mediante el cual se acreditó la protección en el país de origen;
+
+III.- La traducción al idioma español o la transliteración al alfabeto latino internacional moderno de la denominación de origen o indicación geográfica protegida, en su caso, y
+
+IV.- El domicilio en el que se encontrará abierto para consulta pública el expediente de la solicitud de declaración y en el que se recibirán los documentos relacionados con la misma.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 171.
 
-Al recibir la solicitud de autorización de uso de una denominación de origen, el Instituto procederá en los términos previstos por el artículo 160 de esta Ley y en caso de que se satisfagan los requisitos legales procederá a su otorgamiento.
+El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercero que justifique su interés presente su oposición a la solicitud de reconocimiento y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 163 y 167 de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+La oposición deberá presentarse por escrito, acompañada de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 172.
 
-Los efectos de la autorización para usar una denominación de origen durarán diez años, contados a partir de la fecha de presentación de la solicitud en el Instituto, y podrán renovarse por períodos iguales.
+El Instituto notificará al solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar por escrito lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 173.
 
-El usuario de una denominación de origen esta obligado a usarla tal y como aparezca protegida en la declaración. De no usarla en la forma establecida, procederá la cancelación de la autorización.
+Al trámite de inscripción del reconocimiento previsto en el presente Capítulo resultan aplicables, en lo que no se oponga, las disposiciones establecidas en los artículos 165 BIS 7, 165 BIS 8 y 165 BIS 9 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 174.
 
-El derecho a usar una denominación de origen podrá ser transmitido por el usuario autorizado en los términos de la legislación común. Dicha transmisión sólo surtirá efectos a partir de su inscripción en el Instituto, previa comprobación de que el nuevo usuario cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usar la denominación de origen.
+En caso de que el Instituto niegue la inscripción, lo comunicará por escrito al solicitante y, en su caso, a los oponentes, expresando los motivos y fundamentos legales de su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 175.
 
-El usuario autorizado de una denominación de origen podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá ser sancionado por el Instituto y surtirá efectos a partir de su inscripción de esta.
+En caso de que la resolución sea favorable, el Instituto procederá a la inscripción del reconocimiento de la denominación de origen o indicación geográfica protegida en el extranjero y ordenará la publicación en el Diario Oficial de lo siguiente:
 
-El convenio deberá contener una cláusula en la que se establezca la obligación del distribuidor o comercializador de cumplir con los requisitos establecidos en las fracciones III y IV del artículo 169 y los previstos en el reglamento. En caso de que el distribuidor o comercializador no cumpliere con esta obligación, procederá la cancelación de la inscripción.
+I.- El nombre, nacionalidad y domicilio del titular del registro;
+
+II.- La denominación de origen o indicación geográfica, el producto o productos protegidos, el territorio o zona geográfica de su extracción, producción o elaboración y, en su caso, la vigencia de la protección, conforme al documento mediante el cual se acreditó la protección en el país de origen, y
+
+III.- La traducción al idioma español o la transliteración al alfabeto latino internacional moderno de la denominación de origen o indicación geográfica protegida, en su caso.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 176.
 
-La autorización de usuario de una denominación de origen dejará de surtir efectos por:
+El titular de la inscripción de reconocimiento a una denominación de origen o indicación geográfica protegida en el extranjero tendrá la facultad de ejercer las acciones legales de protección de los derechos sobre el mismo.
 
-I.- Nulidad, en cualquiera de los siguientes casos:
-
-a) Cuando se otorgue en contravención a las disposiciones de esta Ley;
-
-b) Cuando se otorgue atendiendo a datos y documentos falsos;
-
-II.- Cancelación, cuando el usuario autorizado use la denominación de origen en forma diferente a la establecida en la declaración de protección;
-
-III.- Por terminación de su vigencia.
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 177.
 
-Las declaraciones administrativas de nulidad y cancelación se harán por el Instituto, de oficio, a petición de parte o del Ministerio Público Federal.
+El reconocimiento de una denominación de origen o indicación geográfica protegida en el extranjero no producirá efecto contra cualquier persona que comercialice, distribuya, adquiera o use el producto al cual se aplique dicha denominación o indicación, luego que el producto hubiera sido introducido lícitamente en el comercio por su titular o por la persona a quien le haya concedido licencia.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+Queda comprendida en este supuesto, la importación de los productos legítimos a los que se aplique la denominación de origen o indicación geográfica protegida en el extranjero, que realice cualquier persona para su uso, distribución o comercialización en México.
+
+La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 178.
 
-Además de las publicaciones previstas en este capítulo, se publicarán en la Gaceta las declaraciones que emita y autorizaciones que otorgue el Instituto, así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominación de origen.
+La inscripción del reconocimiento de una denominación de origen o indicación geográfica protegida en el extranjero dejará de surtir efectos por:
+
+I.- Nulidad, en cualquiera de los siguientes casos:
+
+a) Cuando se otorgue en contravención a las disposiciones de esta Ley, y
+
+b) Cuando se otorgue atendiendo a datos y documentos falsos.
+
+II.- Cancelación, cuando el documento al que se refiere la fracción II del artículo 167, deje de surtir efectos en el país de origen.
+
+La declaración de nulidad o cancelación de la inscripción, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -2019,7 +2317,9 @@ El titular del registro de un esquema de trazado podrá demandar daños y perjui
 
 ## TITULO SEXTO. De los Procedimientos Administrativos
 
-### Capítulo II. De las Infracciones y Sanciones Administrativas
+### Capítulo II. Del Procedimiento de Declaración Administrativa
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 179.
 
@@ -2087,21 +2387,21 @@ Los plazos empezarán a correr al día siguiente de la notificación respectiva.
 
 Los expedientes de patentes y registros en vigor, así como los relativos a nombres comerciales y denominaciones de origen publicados, estarán siempre abiertos para todo tipo de consultas y promociones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 186.
 
-Los expediente (sic) de patentes, modelos de utilidad y diseños industriales en trámite sólo podrán ser consultados por el solicitante o su representante, o personas autorizadas por el mismo, excepto cuando dichos expedientes sean citados como anterioridad a otro solicitante o cuando se ofrezcan como prueba en un procedimiento de declaración administrativa, debiendo observarse las medidas necesarias para preservar la confidencialidad.
+Los expedientes de las solicitudes de patente, de registro de modelo de utilidad y de registro de diseño industrial no publicadas en la Gaceta sólo podrán ser consultados por el solicitante o su representante, o personas autorizadas por el mismo, excepto cuando dichos expedientes sean citados a otro solicitante o cuando se ofrezcan como prueba en un procedimiento de declaración administrativa, debiendo observarse las medidas necesarias para preservar la confidencialidad.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
-El personal del Instituto que intervenga en los diversos trámites que procedan conforme a esta Ley y su reglamento, estará obligado a guardar absoluta reserva respecto del contenido de los expedientes en trámite, de lo contrario se le sancionará conforme a la Ley Federal de Responsabilidades de los Servidores Públicos, independientemente de las penas que correspondan en su caso. Igual obligación tendrá el personal de organismos públicos o privados que pudieran conocer dicho contenido en apoyo al Instituto en el ejercicio de sus funciones.
+El personal del Instituto que intervenga en los diversos trámites que procedan conforme a esta Ley y su reglamento, estará obligado a guardar absoluta reserva respecto del contenido de los expedientes en trámite, de lo contrario se le sancionará conforme a la normatividad aplicable en materia de responsabilidades administrativas de los servidores públicos, independientemente de las penas que correspondan en su caso. Igual obligación tendrá el personal de organismos públicos o privados que pudieran conocer dicho contenido en apoyo al Instituto en el ejercicio de sus funciones.
 
 Se exceptúa de lo anterior a la información que sea de carácter oficial o la requerida por la autoridad judicial.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
-### Capítulo III. De los Delitos
+### Capítulo III. Del Recurso de Reconsideración
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2329,6 +2629,10 @@ Artículo 199 BIS 7.- El solicitante sólo podrá utilizar la documentación rel
 
 Artículo 199 BIS 8.- En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de los involucrados.
 
+### Capítulo I. De la Inspección
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 200.
 
 Procede el recurso de reconsideración contra la resolución que niegue una patente, registro de modelo de utilidad y diseño industrial, el cual se presentará por escrito ante el propio Instituto en un plazo de treinta días, contado a partir de la fecha de notificación de la resolución respectiva. Al recurso se acompañará la documentación que acredite su procedencia.
@@ -2346,6 +2650,8 @@ Analizados los argumentos que se exponen en el recurso y los documentos aportado
 Sí la resolución que emita el Instituto niega la procedencia del recurso se comunicará por escrito al recurrente y se publicará en la Gaceta. Cuando la resolución sea favorable al recurrente se procederá en los términos del artículo 57 de esta Ley.
 
 ## TITULO SEPTIMO. De la Inspección, de las Infracciones y Sanciones Administrativas y de los Delitos
+
+### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 203.
 
@@ -2477,6 +2783,10 @@ a) La donación de los bienes a dependencias y entidades de la Administración P
 
 b) La destrucción de los mismos.
 
+### Capítulo III. De los Delitos
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 213.
 
 Son infracciones administrativas:
@@ -2563,9 +2873,9 @@ XX.- Ofrecer en venta o poner en circulación productos a los que se aplica una 
 
 XXI.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-XXII.- Usar sin autorización o licencia correspondiente una denominación de origen;
+XXII.- Usar sin la autorización de uso correspondiente una denominación de origen o indicación geográfica protegida;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -2587,8 +2897,6 @@ c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema
 
 XXV.- No proporcionar al franquiciatario la información, a que se refiere el artículo 142 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2010)</small>
 
 XXVI.- Usar la combinación de signos distintivos, elementos operativos y de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer la existencia de una relación entre el titular de los derechos protegidos y el usuario no autorizado. El uso de tales elementos operativos y de imagen en la forma indicada constituye competencia desleal en los términos de la fracción I de este mismo artículo;
@@ -2601,21 +2909,37 @@ XXVII.- Cuando el titular de una patente o su licenciatario, usuario o distribui
 
 XXVIII.- Impedir el acceso al personal comisionado para practicar visitas de inspección, en términos de lo establecido en el artículo 206 de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-XXIX.- No proporcionar información, sin causa justificada, y datos al Instituto cuando los requiera en ejercicio de la atribución prevista en la fracción I del artículo 203, y
+XXIX.- No proporcionar, sin causa justificada, informes y datos al Instituto cuando los requiera en ejercicio de la atribución prevista en la fracción I del artículo 203;
 
-XXX.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+XXX.- Usar una denominación o indicación idéntica o semejante en grado de confusión a una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+XXXI.- Usar la traducción o transliteración de una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+XXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en el consumidor sobre su origen o calidad, tales como "género", "tipo", "manera", "imitación”, “producido en”, “con fabricación en” u otras similares, y
+
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+XXXIII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
 
 ###### Artículo 214.
 
 Las infracciones administrativas a esta Ley o demás disposiciones derivadas de ella, serán sancionadas con:
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-I.- Multa hasta por el importe de veinte mil días de salario mínimo general vigente en el Distrito Federal;
+I.- Multa hasta por el importe de veinte mil Unidades de Medida y Actualización;
 
-II.- Multa adicional hasta por el importe de quinientos días de salario mínimo general vigente en el Distrito Federal, por cada día que persista la infracción;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+II.- Multa adicional hasta por el importe de quinientas Unidades de Medida y Actualización, por cada día que persista la infracción;
 
 III.- Clausura temporal hasta por noventa días;
 
@@ -2703,21 +3027,37 @@ III.- Producir, almacenar, transportar, introducir al país, distribuir o vender
 
 IV.- Revelar a un tercero un secreto industrial, que se conozca con motivo de su trabajo, puesto, cargo, desempeño de su profesión, relación de negocios o en virtud del otorgamiento de una licencia para su uso, sin consentimiento de la persona que guarde el secreto industrial, habiendo sido prevenido de su confidencialidad, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto;
 
-V.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que lo guarde o de su usuario autorizado, para usarlo o revelarlo a un tercero, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o a su usuario autorizado, y
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-VI.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo o puesto, ejercicio de su profesión o relación de negocios, sin consentimiento de quien lo guarde o de su usuario autorizado, o que le haya sido revelado por un tercero, a sabiendas que éste no contaba para ello con el consentimiento de la persona que guarde el secreto industrial o su usuario autorizado, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o su usuario autorizado.
+V.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que lo guarde o de su usuario autorizado, para usarlo o revelarlo a un tercero, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o a su usuario autorizado;
+
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+VI.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo o puesto, ejercicio de su profesión o relación de negocios, sin consentimiento de quien lo guarde o de su usuario autorizado, o que le haya sido revelado por un tercero, a sabiendas que éste no contaba para ello con el consentimiento de la persona que guarde el secreto industrial o su usuario autorizado, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o su usuario autorizado, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
+
+VII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que no cuenten con la certificación correspondiente conforme a la denominación de origen o indicación geográfica y la Norma Oficial Mexicana correspondiente, con el propósito de obtener un beneficio económico para sí o para un tercero.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+Queda incluido en el supuesto anterior, realizar cualquier acto de despacho aduanero ante las autoridades competentes, para la introducción al país o salida del mismo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable.
 
 Los delitos previstos en este artículo se perseguirán por querella de parte ofendida.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
-Artículo 223 BIS.- Se impondrá de dos a seis años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se estará a lo dispuesto en los artículos 223 y 224 de esta Ley. Este delito se perseguirá de oficio.
+Artículo 223 BIS.- Se impondrá de dos a seis años de prisión y multa de cien a diez mil Unidades de Medida y Actualización, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se impondrán de tres a diez años de prisión y multa de dos mil a veinte mil Unidades de Medida y Actualización. Este delito se perseguirá de oficio.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 224.
 
-Se impondrán de dos a seis años de prisión y multa por el importe de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, a quien cometa alguno de los delitos que se señalan en las fracciones I, IV, V o VI del artículo 223 de esta Ley. En el caso de los delitos previstos en las fracciones II o III del mismo artículo 223, se impondrán de tres a diez años de prisión y multa de dos mil a veinte mil días de salario mínimo general vigente en el Distrito Federal.
+Se impondrán de dos a seis años de prisión y multa por el importe de cien a diez mil Unidades de Medida y Actualización, a quien cometa alguno de los delitos que se señalan en las fracciones I, IV, V o VI del artículo 223 de esta Ley. En el caso de los delitos previstos en las fracciones II, III o VII del mismo artículo 223, se impondrán de tres a diez años de prisión y multa de dos mil a veinte mil Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2745,11 +3085,13 @@ Cuando dichas controversias afecten sólo intereses particulares, podrán conoce
 
 En los procedimientos judiciales a que se refiere el artículo anterior, la autoridad judicial podrá adoptar las medidas previstas en esta Ley y en los tratados internacionales de los que México sea parte.
 
-> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 229.
 
-Para el ejercicio de las acciones civiles y penales derivadas de la violación de un derecho de propiedad industrial así como para la adopción de las medidas previstas en el artículo 199 Bis de esta Ley, será necesario que el titular del derecho haya aplicado a los productos, envases o embalajes de productos amparados por un derecho de propiedad industrial las indicaciones y leyendas a que se refieren los artículos 26 y 131 de esta Ley, o por algún otro medio haber manifestado o hecho del conocimiento público que los productos o servicios se encuentran protegidos por un derecho de propiedad industrial.
+Para el ejercicio de las acciones civiles y penales derivadas de la violación de un derecho de propiedad industrial así como para la adopción de las medidas previstas en el artículo 199 Bis de esta Ley, será necesario que el titular del derecho haya aplicado a los productos, envases o embalajes de productos amparados por un derecho de propiedad industrial las indicaciones y leyendas a que se refieren los artículos 26, 131, 165 BIS 18 y 178 BIS 9 de esta Ley, o por algún otro medio haber manifestado o hecho del conocimiento público que los productos o servicios se encuentran protegidos por un derecho de propiedad industrial.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 Este requisito no será exigible en los casos de infracciones administrativas que no impliquen una violación a un derecho de propiedad industrial.
 
@@ -2956,3 +3298,25 @@ D.O.F. 1 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA PROPIEDAD INDUSTRIAL”.]
 
 Único.- El presente Decreto entrará en vigor a los 90 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA PROPIEDAD INDUSTRIAL".]
+
+Primero.- El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Respecto de las solicitudes de diseños industriales en trámite, los interesados que opten por la aplicación de las disposiciones contenidas en el presente Decreto, deberán hacerlo saber por escrito, al Instituto dentro de los treinta días hábiles siguientes a su entrada en vigor.
+
+En su caso, el Instituto podrá requerir por una sola vez al solicitante, en los términos de la Ley de la Propiedad Industrial, la reposición de documentación, complementación de información faltante, aclaración o subsanación de omisiones, que sea necesaria para continuar el trámite de su solicitud original de diseño industrial conforme al presente Decreto.
+
+Tercero.- Los registros de diseños industriales otorgados con anterioridad a la entrada en vigor del presente Decreto, conservarán la vigencia concedida hasta su vencimiento y continuarán enterando el pago por concepto de quinquenios o anualidades, según corresponda, en los términos que establece el Acuerdo por el que se da a conocer la Tarifa por los servicios que presta el Instituto Mexicano de la Propiedad Industrial.
+
+Cuarto.- Los registros de diseños industriales, a los que hace referencia el artículo anterior, podrán renovarse hasta por dos períodos sucesivos de cinco años, sin que su vigencia pueda exceder un máximo de veinticinco años, contados a partir de la fecha de presentación de la solicitud de registro.
+
+La primera solicitud de renovación deberá presentarse dentro de los seis meses previos al término de la vigencia original de quince años, en los términos previstos en los artículos 36 y 36 BIS del presente Decreto.
+
+Quinto.- Las solicitudes de denominaciones de origen que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+Sexto.- Una solicitud de una denominación de origen en trámite podrá transformarse en una de indicación geográfica, si cumple con los requisitos que se establecen en el presente Decreto y presenta la solicitud de transformación, a la que se refiere su artículo 165 BIS 3, en el plazo de 2 meses contados a partir de la entrada en vigor.
+
+Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Mexicano de la Propiedad Industrial para el presente ejercicio fiscal y los subsecuentes que correspondan.
