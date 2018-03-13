@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bibliotecas-del-estado-y-municipios-de-san-luis-89500"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2014-12-27"
+last_updated: "2018-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre de 2012.
 
@@ -33,7 +33,9 @@ DECRETO 1143
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Por ello, el Honorable Congreso del Estado de San Luis Potosí emite esta nueva norma que regula el funcionamiento de las bibliotecas públicas; que rescata la función social preservando el objetivo cultural de las bibliotecas.
 
@@ -329,15 +331,25 @@ La señalización para la identificación de espacios en las bibliotecas, se har
 
 Las bibliotecas públicas contarán con estantería destinada exclusivamente a la exhibición del acervo, cultural e histórico del Estado; de la cultura indígena y sus lenguas con presencia en la Entidad; y de autores potosinos.
 
-###### Artículo 21.
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
 
-La Dirección de Catastro Urbano y Rural, tiene la facultad de normar y regular los estudios de valores unitarios de suelo y construcción en el territorio del Estado, para garantizar la homogeneidad y proporcionalidad en su determinación.
+###### ARTICULO 21.
 
-###### Artículo 22.
+La Coordinación elaborará el Programa Permanente de las Bibliotecas Públicas, con el propósito de incorporar a niños, jóvenes y adultos en la lectura recreativa y fortalecer su vida cultural.
 
-La valuación y actualización de valores catastrales tienen por objeto la determinación técnica del valor de los bienes inmuebles, ubicados dentro del territorio del Estado, de conformidad con la presente Ley, su Reglamento y el manual que para tal efecto expida la Dirección de Catastro Urbano y Rural.
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+###### ARTICULO 22.
+
+El Programa deberá contener, entre otros, los siguientes aspectos:
+
+I. Instrumentar los mecanismos indispensables para dotar a las bibliotecas de las obras necesarias para la lectura y la investigación de la niñez, los jóvenes y adultos, como mínimo en las materias de educación básica, media y superior, que se prevén en los planes de estudio, así como en obras de literatura e historia;
+
+II. Implementar un sistema eficiente de donación de obras, para enriquecer el acervo de las bibliotecas, promoviendo la participación de los sectores público y privado;
+
+III. Calendarizar el programa de operación de la Biblioteca Móvil a las zonas rurales, donde no haya Bibliotecas Públicas, y
+
+IV. Fijar las acciones tendientes a lograr la existencia de una Biblioteca Pública en las zonas rurales.
 
 ## TRANSITORIOS
 
@@ -371,7 +383,7 @@ Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 15 DE ABRIL DE 2014.
 
@@ -384,3 +396,11 @@ P.O. 27 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 905.- SE ADICIONAN LOS ARTÍCULOS, 21 Y 22, DE LA LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
