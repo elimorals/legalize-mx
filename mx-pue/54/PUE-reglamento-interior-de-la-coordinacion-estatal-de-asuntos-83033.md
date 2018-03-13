@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-estatal-de-asuntos-83033
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-27"
-last_updated: "2017-04-25"
+last_updated: "2018-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS, PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE ASISTENCIA AL MIGRANTE, PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL DE ASUNTOS INTERNACIONALES Y DE APOYO A MIGRANTES POBLANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Décima Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de junio de 2011.
 
@@ -916,3 +916,19 @@ CUARTO. Cuando las funciones de alguna unidad administrativa establecida con ant
 QUINTO. En tanto se expidan o modifiquen los manuales administrativos, el Coordinador General está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE ASISTENCIA AL MIGRANTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Coordinación Estatal de Asuntos Internacionales y de Apoyo a Migrantes Poblanos, de fecha veintisiete de junio de dos mil once.
+
+TERCERO. Los decretos, acuerdos, circulares y demás disposiciones pronunciadas bajo la vigencia del Reglamento que se abroga, tendrán plena validez en todo lo que no se opongan al presente Reglamento.
+
+CUARTO. Cuando las atribuciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Decreto, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, pasarán a la unidad que se determine, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
+
+QUINTO. Las unidades administrativas del Instituto, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta agotar su existencia.
+
+SEXTO. Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
