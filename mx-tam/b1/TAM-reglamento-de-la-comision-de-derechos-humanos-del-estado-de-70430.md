@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-la-comision-de-derechos-humanos-del-estado-de-704
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-29"
-last_updated: "2014-06-19"
+last_updated: "2018-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 29 de septiembre de 2009.
 
@@ -107,7 +107,7 @@ II. Los procedimientos serán breves y sencillos, evitándose, en lo posible, fo
 
 III. Las actuaciones que realice el personal del Organismo, así como la información y documentación proporcionada por los servidores públicos y los quejosos, se manejará en forma reservada, sin perjuicio de las consideraciones que en los casos concretos se formulen en las resoluciones o informes;
 
-IV. La Comisión no estará obligada a entregar constancias, pruebas o actuaciones que obren en los expedientes, a persona o autoridad alguna; de la misma manera, su personal no podrá ser obligado a rendir testimonio cuando esta prueba haya sido ofrecida en cualquier procedimiento jurisdiccional o administrativo, y se encuentre relacionada con su intervención en el trámite de quejas;
+IV. (DEROGADA, P.O. 13 DE MARZO DE 2018)
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
@@ -119,7 +119,7 @@ VI. El personal de la Comisión deberá prestar sus servicios y ajustar su condu
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-VII. La Comisión contará con un órgano oficial de difusión que se denominará “Boletín de la Comisión de Derechos Humanos del Estado de Tamaulipas”, su periodicidad será cuatrimestral y en él se publicarán, íntegramente o en forma sintetizada, las recomendaciones; igualmente, se podrán publicar otras resoluciones trascendentes, así como informes especiales, estudios, artículos científicos y demás materiales que se consideren importantes para su divulgación. Asimismo, se editará una revista denominada “El Defensor Tamaulipeco”, cuya periodicidad será trimestral y su objetivo primordial será informar a la sociedad sobre las actividades realizadas por el Organismo en materia de la defensa y promoción de los derechos humanos; para tal fin se privilegiarán contenidos de fácil comprensión. El Presidente del Organismo podrá ordenar la publicación de ediciones extraordinarias de los medios de difusión antes señalados. Para los efectos de la publicidad de sus actuaciones y resoluciones, la Comisión contará también con una página de internet.
+VII. La Comisión contará con un órgano oficial de difusión que se denominará "Boletín de la Comisión de Derechos Humanos del Estado de Tamaulipas", su periodicidad será cuatrimestral y en él se publicarán, íntegramente o en forma sintetizada, las recomendaciones; igualmente, se podrán publicar otras resoluciones trascendentes, así como informes especiales, estudios, artículos científicos y demás materiales que se consideren importantes para su divulgación. Asimismo, se editará una revista denominada "El Defensor Tamaulipeco", cuya periodicidad será trimestral y su objetivo primordial será informar a la sociedad sobre las actividades realizadas por el Organismo en materia de la defensa y promoción de los derechos humanos; para tal fin se privilegiarán contenidos de fácil comprensión. El Presidente del Organismo podrá ordenar la publicación de ediciones extraordinarias de los medios de difusión antes señalados. Para los efectos de la publicidad de sus actuaciones y resoluciones, la Comisión contará también con una página de internet.
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
 
@@ -191,11 +191,11 @@ Para los efectos de la Ley y este Reglamento se entiende por resoluciones de car
 
 ### CAPITULO II. ORGANOS Y ESTRUCTURA DE LA COMISION
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2018)</small>
 
-###### ARTICULO 15.
+###### ARTÍCULO 15.
 
-La Comisión se integrará con el titular de la Presidencia, un Consejo Consultivo, un Secretario Técnico, un Subsecretario Técnico, tres Visitadores Generales, una Contraloría Interna, así como del número de Delegados Regionales y Especiales, Directores, Coordinadores, Jefes de Área, Visitadores Adjuntos, Auxiliares y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones que determine el Presidente.
+La Comisión se integrará con el titular de la Presidencia, un Consejo Consultivo, un Secretario Técnico, un Subsecretario Técnico, tres Visitadores Generales, un Órgano interno de Control, así como del número de Delegados Regionales y Especiales, Directores, Coordinadores, Jefes de Área, Visitadores Adjuntos, Auxiliares y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones que determine el Presidente.
 
 ###### ARTICULO 16.
 
@@ -259,7 +259,9 @@ II. Establecer, ejecutar y vigilar las aplicaciones de los lineamientos y progra
 
 III. Designar, dirigir y coordinar al personal de la Comisión, así como reasignar, reubicar, comisionar y removerlo si así lo estima conveniente. El o la titular de la Presidencia, firmará los nombramientos del Secretario Técnico, el Subsecretario Técnico, los Visitadores Generales, visitadores especiales y adjuntos, Delegados Especiales y Regionales, Directores, Coordinadores y demás personal de la Comisión;
 
-IV. Designar y remover al encargado del despacho, en caso de ausencia temporal de los titulares de la Contraloría Interna, Visitadurías, Delegaciones, Direcciones, Coordinaciones y unidades o áreas de apoyo;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
+
+IV. Designar y remover al encargado del despacho, en caso de ausencia temporal de los titulares de las Visitadurías, Delegaciones, Direcciones, Coordinaciones y unidades o áreas de apoyo;
 
 V. Conocer, supervisar, vigilar y en su caso aprobar el desarrollo de las actividades de los órganos y las áreas de la Comisión, mediante la revisión de los informes que presenten sus titulares;
 
@@ -347,7 +349,7 @@ IX. Las demás que les confiera la Ley y el Reglamento, el o la titular de la Pr
 
 Para auxiliar a los órganos mencionados en el artículo 16 de este Reglamento, la Comisión contará con las siguientes unidades administrativas:
 
-I. Contraloría Interna;
+I. (DEROGADA, P.O. 13 DE MARZO DE 2018)
 
 II. Dirección General de Administración;
 
@@ -367,35 +369,29 @@ IX. Coordinación de Asuntos Penitenciarios;
 
 X. Coordinación de Seguimiento de Recomendaciones;
 
-XI. Coordinación de Informática; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+XI. Coordinación de Informática;
 
-XII. Las demás que sean creadas por acuerdo de la Presidencia de la Comisión.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
 
-###### ARTICULO 31.
+XII. Coordinación para la atención a niñas, niños y adolescentes;
 
-La Contraloría Interna tendrá las funciones siguientes:
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
 
-I. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento;
+XIII. Dirección de recursos materiales y servicios generales;
 
-II. Registrar y vigilar el cumplimiento de los manuales de organización y procedimientos, de las normas de control, fiscalización y evaluación, de los lineamientos generales y específicos, así como de los sistemas y procedimientos administrativos, por parte de las áreas de la Comisión;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
 
-III. Planear, realizar y supervisar todo tipo de auditorías que se requieran a las áreas de la Comisión, para lo cual emitirá las observaciones y recomendaciones administrativas que deriven de dichas auditorias, las cuales deberá poner a consideración inmediatamente del Presidente;
+XIV. Coordinación de archivo y correspondencia; y
 
-IV. Vigilar que las erogaciones de la Comisión se ajusten al presupuesto autorizado y se ejerza en términos de la normatividad aplicable;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
 
-V. Dar seguimiento a las observaciones y recomendaciones que formule el Organo de Fiscalización Superior del Estado, así como las de la propia Contraloría Interna;
+XV. Las demás que sean creadas por acuerdo de la Presidencia de la Comisión.
 
-VI. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra, a fin de vigilar que se cumpla con la normatividad aplicable; resolver las inconformidades que presenten los proveedores;
+###### ARTÍCULO 31.
 
-VII. Asistir a los actos de entrega-recepción de los servidores públicos de la Comisión, con motivo de la separación del cargo, empleo o comisión, a fin de verificar que se cumpla con las disposiciones normativas aplicables;
-
-VIII. Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de servidores públicos de la Comisión y aplicar las sanciones que procedan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas; y
-
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
-
-IX. Los (sic) demás que le sean conferidas en otros ordenamientos y por el o la titular de la Presidencia de la Comisión.
+(DEROGADO, P.O. 13 DE MARZO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
@@ -426,6 +422,54 @@ VIII. Elaborar la cuenta pública que, en su caso, se presentará a las distinta
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
 IX. Las demás que le sean conferidas por el o la titular de la Presidencia del Organismo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 32 Bis.
+
+Dirección de recursos materiales y servicios generales, dependerá de la Dirección General de Administración y tendrá las siguientes funciones:
+
+I. Participar y supervisar la elaboración de (sic) Programa Anual de Adquisiciones, y Contratación de Servicios para la Comisión;
+
+II. Participar en la integración de (sic) Anteproyecto de Presupuesto Anual de la Comisión, considerando criterios de eficiencia en el gasto y en la elaboración de (sic) Programa Operativo Anual de la Comisión, en coordinación con los órganos y áreas de apoyo que la integran, aplicando los lineamientos establecidos al respecto;
+
+III. Proponer el establecimiento de políticas, procedimientos y sistemas para la administración de los recursos materiales y de los servicios generales de la Comisión;
+
+IV. Coordinar los trabajos de (sic) Comité de Adquisiciones, Arrendamientos y Contratación de Servicios y del comité de Enajenaciones de bienes;
+
+V. Supervisar el buen desarrollo de los eventos que le sean solicitados por las Visitadurias, Delegaciones y diversas áreas de apoyo de la Comisión;
+
+VI. Coordinar los trabajos de (sic) en materia de seguridad al interior de las instalaciones de la Comisión.
+
+VII. Controlar a través del Manual de Organización y diversos Lineamientos que se formalicen todas las actividades de adquisiciones a través de pedido y/o contrato según sea el caso de los montos estipulados, cumpliendo con la normatividad vigente;
+
+VIII. Supervisar los trámites derivados de los diversos arrendamientos y de la contratación de servicios, ante entidades gubernamentales y particulares;
+
+IX. Asesorar y apoyar a las Visitadurías, Delegaciones y diversas áreas de apoyo en sus adquisiciones o contratación de servicios;
+
+X. Supervisar que el almacén realice los aprovisionamientos oportunamente de los recursos requeridos por las Visitadurías, Delegaciones y diversas áreas de apoyo de la Comisión;
+
+XI. Participar y supervisar la correcta operación de los Comités de compras;
+
+XII. Coordinar al área competente para el desarrollo adecuado de los eventos que le soliciten a la Dirección General de Administración;
+
+XIII. Supervisar las medidas que adopte el área competente de brindar la seguridad interna de la Comisión;
+
+XIV. Vigilar que se otorguen en tiempo y forma los servicios generales que sean solicitados;
+
+XV. Vigilar que se cumpla con los programas de mantenimiento a instalaciones, mobiliario y equipo de la Comisión;
+
+XVI. Revisar las políticas y procedimientos de las áreas que la (sic) integran la Dirección, para realizar propuestas de simplificación y de acuerdo a la normatividad vigente;
+
+XVII. Supervisar la actualización de los manuales de procedimientos del área de Compras y Servicios Generales;
+
+XVIII. Elaborar en coordinación con las áreas de la Dirección General el Programa Operativo anual, aplicando las políticas y la normatividad vigente y verificar el seguimiento;
+
+XIX. Elaborar los informes, Bitácoras y Reportes que le sean requeridos;
+
+XX. Llevar a cabo el levantamiento físico del inventario de bienes en los meses de enero y julio de cada año; y
+
+XXI. Elaborar las actas de baja de los bienes en desuso.
 
 ###### ARTICULO 33.
 
@@ -587,6 +631,72 @@ IX. Sistematizar la información que sea recibida o se genere dentro de la Comis
 
 X. Proporcionar a la Presidencia información basada en estadísticas para su evaluación.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 41 Bis.
+
+La Coordinación para la atención a niñas, niños y adolescentes, dependerá de la Presidencia de la Comisión y tendrá las siguientes funciones:
+
+I. Coordinar las acciones para prevenir la violación a los derechos humanos de las niñas, niños y adolescentes.
+
+II. Realizar un programa para garantizar la protección de los derechos humanos de las niñas, niños y adolescentes que hayan sido vulnerados.
+
+III. Inculcar el respeto de los derechos de las niñas, niños y adolescentes.
+
+IV. Organizar y realizar visitas a hospitales, albergues policía, escuelas, instituciones públicas y privadas, para verificar que los derechos de las niñas, niños y adolescentes no sean vulnerados.
+
+V. Difundir material informativo relacionado con los derechos de las niñas, niños y adolescentes.
+
+VI. Considerar de manera primordial el interés de las niñas, niños y adolescentes en la toma de decisiones.
+
+VII. Proponer Convenios de Colaboración relacionados con el bienestar de las niñas, niños y adolescentes.
+
+VIII. Organizar talleres para promover el respeto de los derechos humanos de las niñas, niños y adolescentes.
+
+IX. Informar mensualmente por escrito las acciones que realice la Coordinación.
+
+X. Así como las demás previstas en la ley y en otras disposiciones en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 41 Ter.
+
+Coordinación de archivo y correspondencia, dependerá de la Secretaria Técnica y tendrá las siguientes funciones:
+
+I. Administrar y resguardar la documentación oficial a través de mecanismos que garanticen el manejo expedito y controlado de la correspondencia tanto su entrada como su salida, para mantener actualizado el archivo.
+
+II. Organizar, registrar, despachar y controlar debida y diligentemente la recepción y el envío de la correspondencia;
+
+III. Recibir y registrar la correspondencia, documentación o información que se reciba;
+
+IV. Revisar y clasificar la documentación recibida; que contenga los requisitos suficientes para su notificación (folio, expediente, nombre de la persona a notificar, domicilio, sello de despachado, etc);
+
+V. Supervisar que los documentos que ingresen al área de archivo se contesten y turnen de manera inmediata a través de los trámites que les correspondan con la debida discreción y eficiencia, para asegurar su cumplimiento;
+
+VI. Dirigir una organización del archivo que permita conservar permanentemente localizables los documentos gestionados, a través del orden lógico de los antecedentes para garantizar su fácil localización y consulta.
+
+VII. Asegurar la conservación de los documentos oficiales a través de la organización e integración sistemática de las fuentes de información documentaria para su control, consulta y seguimiento de los documentos en trámite hasta su integración final al archivo.
+
+VIII. Custodiar y resguardar la documentación e información que por sus funciones conserve bajo su cuidado, vigilando el uso e impidiendo la sustracción, alteración, destrucción y ocultamiento, así como la utilización indebida de los mismos;
+
+IX. Planificar, coordinar, supervisar y controlar las actividades del personal a su cargo.
+
+X. Atender y resolver los problemas que se presenten en el archivo.
+
+XI. Elaborar informes periódicos de las actividades realizadas.
+
+XII. Elaborar un reporte mensual para llevar un control de toda la documentación recibida y turnada.
+
+XIII. Realizar inventarios de archivos, para la evacuación de expedientes inactivos y documentos que han caducado.
+
+XIV. Gestionar los recursos necesarios para el buen funcionamiento del archivo.
+
+XV. En el caso de notificaciones con el carácter de urgentes, el titular del archivo deberá coordinarse con el superior del área correspondiente para su debido trámite.
+
+XVI. Devolver en el menor tiempo posible a su área de origen, los documentos debidamente notificados, con el acuse de recibido.
+
+XVII. Las demás que le sean asignadas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 42.
@@ -627,7 +737,9 @@ VI. Para facilitar la presentación de quejas, la Comisión pondrá formularios 
 
 En los supuestos en que las quejas se reciban en forma oral, directamente o por vía telefónica, el personal de la Comisión, levantará acta circunstanciada, señalando los datos mencionados en el artículo anterior. Se dará prioridad a esta forma de recepción en los siguientes supuestos:
 
-I. Cuando el compareciente sea menor de edad o minusválido, o esté privado de su libertad, o no pueda escribir; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
+
+I. Cuando el compareciente sea menor de edad, esté privado de su libertad, no pueda escribir, o cualquier otra circunstancia que le impida acudir;
 
 II. En casos urgentes.
 
@@ -889,7 +1001,9 @@ El Presidente determinará sobre el ingreso, adscripción, cambios de ésta, pro
 
 Los cambios de adscripción del personal se efectuarán únicamente por el o la titular de la Presidencia de la Comisión y podrán ser en los siguientes casos:
 
-I. Por voluntad expresa del trabajador, siempre y cuando las condiciones del Organismo así lo permitan, en este caso el servidor público deberá presentar propuesta por escrito. Se entiende que existen condiciones para tal efecto cuando estructural y presupuesta mente es conveniente para el adecuado funcionamiento de la Comisión;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
+
+I. Por voluntad expresa del trabajador, siempre y cuando las condiciones del Organismo así lo permitan, en este caso el servidor público deberá presentar propuesta por escrito. Se entiende que existen condiciones para tal efecto cuando estructural y presupuestalmente es conveniente para el adecuado funcionamiento de la Comisión;
 
 II. Permuta, únicamente será procedente previa autorización del titular de la Institución, requiriendo que el personal sea de la misma categoría y no afecte a tercero o al adecuado funcionamiento del servicio.
 
@@ -925,7 +1039,13 @@ II. Inventariar su patrimonio, así como registrar todo acto o hecho jurídico q
 
 III. Elaborar y aplicar las normas, sistemas y procedimientos para la administración, contabilidad y control de los recursos financieros y materiales del Organismo; y
 
-IV. Gestionar y obtener, en los términos de los ordenamientos jurídicos aplicables, autorización para enajenar o gravar los bienes del Organismo; Realizar las demás acciones necesarias para los efectos señalados.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
+
+IV. Gestionar y obtener, en los términos de los ordenamientos jurídicos aplicables, autorización para enajenar o gravar los bienes del Organismo; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
+
+V. Realizar las demás acciones necesarias para los efectos señalados.
 
 ###### ARTICULO 86.
 
@@ -934,6 +1054,82 @@ Para los efectos del artículo 58 Fracciones II y VI de la Constitución Políti
 I. Formular sus proyectos de presupuesto de egresos y de ampliaciones, en su caso, y remitirlos al titular del Ejecutivo Estatal para el trámite correspondiente; y
 
 II. Enviar al Congreso del Estado las cuentas relativas al ejercicio presupuestal para su revisión y calificación.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2018)</small>
+
+## TÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 87.
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 88.
+
+El o la Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 89.
+
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en (sic) Ley de la Comisión de Derechos Humanos del Estado y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política de del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+###### ARTICULO 90.
+
+Las atribuciones del Órgano Interno de Control serán las siguientes:
+
+I. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento;
+
+II. Registrar y vigilar el cumplimiento de los manuales de organización y procedimientos, de las normas de control, fiscalización y evaluación, de los lineamientos generales y específicos, así como de los sistemas y procedimientos administrativos, por parte de las áreas de la Comisión;
+
+III. Planear, realizar y supervisar todo tipo de auditorías que se requieran a las áreas de la Comisión, para lo cual presentara un Plan de Trabajo Anual y emitirá las observaciones y recomendaciones administrativas que deriven de dichas auditorias.
+
+IV. Dar seguimiento a las observaciones y recomendaciones que formule el Órgano de Fiscalización Superior del Estado, así como las propias;
+
+V. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra, a fin de vigilar que se cumpla con la normatividad aplicable; resolver las inconformidades que presenten los proveedores;
+
+VI. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión, con motivo de la separación del cargo, empleo o comisión, a fin de verificar que se cumpla con las disposiciones normativas aplicables;
+
+VII. Tendrán a su cargo la investigación, substanciación y calificación de las faltas administrativas. Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves se tendrá competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en Ley de Responsabilidades Administrativas del Estado de Tamaulipas. En el supuesto de que las autoridades investigadoras determinen en su calificación la existencia de faltas administrativas, así como la presunta responsabilidad del infractor, deberán elaborar el informe de presunta responsabilidad administrativa y presentarlo a la autoridad substanciadora para que proceda en los términos de la mencionada Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+VIII. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Estatal Anticorrupción;
+
+IX. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales y participaciones federales, así como de recursos públicos locales, según corresponda en el ámbito de su competencia; y
+
+X. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Tamaulipas.
+
+XI. Las demás que señalen este y otras disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -952,3 +1148,9 @@ P.O. 19 DE JUNIO DE 2014.
 PRIMERO. El presente acuerdo iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
 SEGUNDO. Publíquese además en los órganos de comunicación de la Comisión de Derechos Humanos del Estado de Tamaulipas, para efectos de su mayor divulgación y conocimiento.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
+
+P.O. 13 DE MARZO DE 2018.
+
+PRIMERO. El presente Reglamento iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
