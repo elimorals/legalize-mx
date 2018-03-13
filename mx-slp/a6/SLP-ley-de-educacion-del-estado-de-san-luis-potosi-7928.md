@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2017-11-30"
+last_updated: "2018-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -365,6 +365,10 @@ ARTICULO 19 BIS. (DEROGADO, P.O. 14 DE ENERO DE 2014)
 
 Las instituciones del sistema educativo estatal, impartirán este servicio de manera que permita al educando incorporarse a la vida social y, en su oportunidad, desarrollar una actividad productiva, proporcionando con ello que el trabajador continúe estudiando.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+ARTICULO 20 BIS.- En las instituciones educativas de nivel básico pertenecientes al Sistema Educativo Estatal, se promoverá gradualmente la existencia de un especialista en psicología, que brinde apoyo a los alumnos que así lo requieran a fin de que alcancen un desarrollo integral.
+
 ###### ARTICULO 21.
 
 La educación que imparta el Gobierno del Estado y los municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, es un servicio público.
@@ -441,79 +445,83 @@ XVIII.- Promover la participación de los educandos de la Entidad en los encuent
 
 XIX.- Planear, ejecutar y evaluar programas para prevenir y atacar la farmacodependencia, el alcoholismo y el pandillerismo;
 
-XX.- Promover y vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
 
-XXI.- Promover la participación de los padres de familia y de la sociedad en general, en el quehacer educativo, a través de las asociaciones correspondientes y de los consejos de participación social, de conformidad con la normatividad general establecida;
+XX. Promover que, gradualmente, en escuelas del nivel básico, exista un especialista en psicología que brinde apoyo a los alumnos que así lo requieran a fin de que alcancen un desarrollo integral;
+
+XXI.- Promover y vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
+
+XXII.- Promover la participación de los padres de familia y de la sociedad en general, en el quehacer educativo, a través de las asociaciones correspondientes y de los consejos de participación social, de conformidad con la normatividad general establecida;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-XXII.- Establecer en las escuelas públicas y particulares, Talleres para Padres de Familia, en los que se brinde información, orientación, comentarios a las evaluaciones escolares, así como sobre aspectos que impactan en la vida escolar y familiar;
+XXIII.- Establecer en las escuelas públicas y particulares, Talleres para Padres de Familia, en los que se brinde información, orientación, comentarios a las evaluaciones escolares, así como sobre aspectos que impactan en la vida escolar y familiar;
 
-XXIII.- Fomentar las relaciones de orden educativo y cultural con otras entidades;
+XXIV.- Fomentar las relaciones de orden educativo y cultural con otras entidades;
 
-XXIV.- Celebrar, con acuerdo del Gobernador, los convenios y coadyuvar con el Ejecutivo Federal para coordinar, unificar, apoyar y mejorar las actividades educativas de la Entidad;
+XXV.- Celebrar, con acuerdo del Gobernador, los convenios y coadyuvar con el Ejecutivo Federal para coordinar, unificar, apoyar y mejorar las actividades educativas de la Entidad;
 
-XXV.- Administrar los recursos humanos, técnicos, financieros y materiales que requieran las unidades que integran la Secretaría de Educación del Gobierno del Estado;
+XXVI.- Administrar los recursos humanos, técnicos, financieros y materiales que requieran las unidades que integran la Secretaría de Educación del Gobierno del Estado;
 
-XXVI.- Administrar los planteles educativos que se establezcan en la Entidad conforme a la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+XXVII.- Administrar los planteles educativos que se establezcan en la Entidad conforme a la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-XXVII.- Establecer y vigilar los planteles educativos que se instituyan en cumplimiento del artículo 2° Inciso B) fracción II de la Constitución Política de los Estados Unidos Mexicanos;
+XXVIII.- Establecer y vigilar los planteles educativos que se instituyan en cumplimiento del artículo 2° Inciso B) fracción II de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVIII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de la legislación reglamentaria federal y estatal vigentes;
+XXIX.- Vigilar en los planteles educativos de la Entidad, el cumplimiento del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de la legislación reglamentaria federal y estatal vigentes;
 
-XXIX.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposiciones aplicables;
+XXX.- Vigilar el cumplimiento de esta Ley, de su reglamento y demás disposiciones aplicables;
 
-XXX.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
+XXXI.- Supervisar los servicios educativos que imparta el Gobierno del Estado, los organismos descentralizados, órganos desconcentrados y particulares con autorización o con reconocimiento de validez oficial de estudios;
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
 
-XXX BIS.- Proporcionar en todos los niveles del Sistema Educativo Estatal conocimientos para contribuir a la formación de hábitos, tendientes a evitar o minimizar la generación de residuos, con la finalidad de aprovechar su valor y otorgarles un manejo integral;
+XXXI BIS.- Proporcionar en todos los niveles del Sistema Educativo Estatal conocimientos para contribuir a la formación de hábitos, tendientes a evitar o minimizar la generación de residuos, con la finalidad de aprovechar su valor y otorgarles un manejo integral;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
 
-XXXI.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa;
+XXXII.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales, en materia educativa;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
 
-XXXII.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
+XXXIII.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XXXIII.- Vigilar el cumplimiento de los lineamientos y las disposiciones de carácter general que emita la Autoridad Educativa Federal, y las demás que resulten aplicables, en lo relativo al expendio y distribución de los alimentos y bebidas preparadas y procesadas, dentro de toda escuela, en cuya elaboración se cumplan los criterios nutrimentales que para tal efecto determine la Secretaría de Salud; disposiciones las anteriores que contemplan las regulaciones que prohíban la venta o consumo de alimentos que no favorezcan la salud de los educandos y fomenten aquéllos de carácter nutrimental;
+XXXIV.- Vigilar el cumplimiento de los lineamientos y las disposiciones de carácter general que emita la Autoridad Educativa Federal, y las demás que resulten aplicables, en lo relativo al expendio y distribución de los alimentos y bebidas preparadas y procesadas, dentro de toda escuela, en cuya elaboración se cumplan los criterios nutrimentales que para tal efecto determine la Secretaría de Salud; disposiciones las anteriores que contemplan las regulaciones que prohíban la venta o consumo de alimentos que no favorezcan la salud de los educandos y fomenten aquéllos de carácter nutrimental;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XXXIV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordinación Estatal de Bibliotecas, dependiente de la Secretaría asimismo, dotar a las bibliotecas de acervos propios, y fortalecer la infraestructura de aquéllas que dependan directamente de la propia Secretaría, con ampliación, mantenimiento, mejoras físicas, y tecnológicas, en la medida de las factibilidades presupuestales;
+XXXV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordinación Estatal de Bibliotecas, dependiente de la Secretaría asimismo, dotar a las bibliotecas de acervos propios, y fortalecer la infraestructura de aquéllas que dependan directamente de la propia Secretaría, con ampliación, mantenimiento, mejoras físicas, y tecnológicas, en la medida de las factibilidades presupuestales;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XXXV.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y
+XXXVI.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XXXVI.- Establecer los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias;
+XXXVII.- Establecer los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XXXVII.- Cumplir en el ejercicio de la autonomía de gestión escolar, los lineamientos generales que emita la autoridad educativa federal;
+XXXVIII.- Cumplir en el ejercicio de la autonomía de gestión escolar, los lineamientos generales que emita la autoridad educativa federal;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XXXVIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
+XXXIX.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XXXIX.- Incluir en el proyecto de Ley de Presupuesto de Egresos que se someterá a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar;
+XL.- Incluir en el proyecto de Ley de Presupuesto de Egresos que se someterá a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XL.- Emitir la normativa correspondiente para realizar las tareas de inspección y vigilancia de los servicios educativos que prestan los particulares con autorización o reconocimiento de validez oficial de estudios, y
+XLI.- Emitir la normativa correspondiente para realizar las tareas de inspección y vigilancia de los servicios educativos que prestan los particulares con autorización o reconocimiento de validez oficial de estudios, y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XLI.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XLII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 23.
 
@@ -1639,6 +1647,10 @@ VII.- Atender el interés familiar y comunitario por el desempeño del educando,
 
 VIII.- Opinar en asuntos pedagógicos, y contribuir a reducir las condiciones sociales adversas que influyan en la educación.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2018)</small>
+
+Asimismo, y de estimarse necesario al interior del plantel, tendrán la facultad de acordar las medidas de limitar o restringir el uso de dispositivos móviles dentro del aula para uso diferente a las actividades académicas, que consideren interfieran en el pleno aprendizaje del alumno.
+
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 Están facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; realizar los simulacros necesarios que permitan el desalojo ordenado ante una eventualidad o siniestro, de acuerdo con los planes y programas que establece el párrafo último del artículo 43 de la presente Ley; asimismo, atendiendo lo dispuesto en el artículo 44 de la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, respaldar las labores cotidianas de la escuela y, en general, realizar actividades para beneficio de la propia escuela, sin menoscabo de las acciones que instrumenten otras organizaciones.
@@ -2368,3 +2380,19 @@ P.O. 30 DE NOVIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 903.- SE ADICIONA EL ARTÍCULO 20 BIS, Y AL ARTÍCULO 22 UNA FRACCIÓN, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 904.- SE ADICIONA PÁRRAFO AL ARTÍCULO 91 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
