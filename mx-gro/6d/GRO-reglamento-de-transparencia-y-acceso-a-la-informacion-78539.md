@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-transparencia-y-acceso-a-la-informacion-78539"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-31"
-last_updated: "2014-01-17"
+last_updated: "2018-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "GRO"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO -- ANTES REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO --
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 31 de diciembre de 2010.
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 201)</small>
+
+Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -83,7 +85,9 @@ XVIII. Órganos Desconcentrados: Los Consejos Distritales Electorales, así como
 
 XIX. Dirección de Informática: Dirección Ejecutiva de Informática, Sistemas y Estadísticas;
 
-XX. Reglamento: El Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2018)</small>
+
+XX. Reglamento: El Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral y Participación Ciudadana del Estado de Guerrero;
 
 XXI. Área Administrativa: Cada una de las Direcciones y Unidades Técnicas del Instituto, Contraloría Interna, así como la Unidad de Fiscalización y Comité de Adquisiciones y las diferentes Comisiones Permanentes que establece la Ley de Instituciones;
 
@@ -189,25 +193,25 @@ Del Comité.
 
 Como órgano encargado de la política del Instituto, en materia de transparencia y acceso a la información, el Comité de Transparencia y Acceso a la Información Pública, será el órgano intermedio entre la Junta y la Unidad de Transparencia.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-El Comité, estará conformado por ocho miembros con derecho a voz y sólo los Consejeros tendrán derecho al voto:
+El Comité, estará conformado por siete miembros con derecho a voz y voto, quienes serán:
 
-I. Tres Consejeros Electorales, uno de los cuales lo presidirá;
+I. Tres Consejeras o Consejeros Electorales, una o uno de los cuales lo presidirá;
 
-II. El Secretario General del Instituto;
+II. La o el Secretario Ejecutivo del Instituto Electoral;
 
-III. El Contralor Interno;
+III. La o el Contralor Interno del Instituto Electoral;
 
-IV. El Director Ejecutivo Jurídico;
+IV. La o el Director General Jurídico y de Consultoría; y
 
-V. El Director Ejecutivo de Informática, Sistemas, y Estadística; y
+V. La o el Jefe de la Unidad Técnica de Transparencia y Acceso a la Información, quien fungirá como Secretaria o Secretario Técnico del mismo.
 
-VI. El Titular de la Unidad de Transparencia, quien fungirá como Secretario Técnico del mismo.
+El Comité adoptará sus resoluciones por mayoría de votos. En los casos de empate, el Presidente tendrá voto de calidad.
 
-Los integrantes del Consejo General y de la Junta, podrán concurrir como invitados a las sesiones del Comité.
-
-El Comité, aprobará sus decisiones por mayoría de votos, turnando la resolución a la Junta Estatal para su conocimiento.
+Las y los integrantes del Consejo General y de la Junta, podrán concurrir a las sesiones como invitados, así como aquellas personas que sus integrantes consideren necesarios, quienes tendrán voz, pero no voto.
 
 ###### ARTÍCULO 12.
 
@@ -953,12 +957,20 @@ Las Áreas Administrativas contarán con treinta días a partir de la aprobació
 
 El presente Reglamento fue aprobado mediante acuerdo número 085/SE/27-11-2010, del Pleno del Consejo General del Instituto Electoral del Estado de Guerrero, en la Novena Sesión Extraordinaria, de fecha 27 de noviembre del 2010.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 17 DE ENERO DE 2014.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 SEGUNDO. La modificación antes mencionada, entrará en vigor al día siguiente de su aprobación por el Pleno por el (sic) Consejo General, para quedar en los términos del punto que antecede para los efectos legales a que haya lugar.
 
 TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
+
+P.O. 13 DE MARZO DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO 027/SO/26-02-2018, POR EL QUE SE REFORMA LA DENOMINACIÓN Y LOS ARTÍCULOS 3 EN SU FRACCIÓN XX Y 11 DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO” QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+SEGUNDO. El presente Acuerdo entrará en vigor y surtirá efectos a partir de su aprobación por el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+TERCERO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado, así como en la página web del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
