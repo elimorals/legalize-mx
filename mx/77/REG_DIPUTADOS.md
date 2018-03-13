@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2018-02-15"
+last_updated: "2018-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2290,7 +2290,7 @@ V. Decidir la constitución e integración de subcomisiones y grupos de trabajo;
 
 VI. Realizar el análisis del informe con el que los secretarios de despacho den cuenta a la Cámara del estado que guardan sus respectivos ramos, previsto en el primer párrafo del artículo 93 de la Constitución;
 
-(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2013) [N. DE E. EN SU CONTENIDO, D.O.F. 23 DE DICIEMBRE DE 2013]
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2013)</small>
 
 VII. Realizar el análisis del informe que el Ejecutivo remite a la Comisión Permanente sobre las acciones y resultados de la ejecución del Plan Nacional de Desarrollo, previsto en el apartado A del artículo 26 de la Constitución, con base en indicadores de desempeño;
 
@@ -2301,8 +2301,6 @@ IX. Formular las solicitudes de información a los titulares de las dependencias
 X. Emitir la aprobación de las opiniones fundadas que tengan que elaborar en términos de la normatividad aplicable, o cuando la Mesa Directiva u otras comisiones soliciten su opinión respecto de los asuntos de su competencia;
 
 XI. Realizar la evaluación periódica de las políticas públicas y los programas respectivos, en lo concerniente al área de su competencia, y
-
-> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA EN EL TEXTO ANTERIOR EN LA FRACCIÓN XI, PERO, DE LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL D.O.F. DE 23 DE DICIEMBRE DE 2013, SE RECORRIÓ EN SU NUMERACIÓN PARA SER XII.</small>
 
 XII. Resolver los acuerdos o resoluciones que considere la propia comisión, relacionados con las actividades que le corresponden en los términos de la Ley, este Reglamento y los acuerdos de la Cámara, relacionados con su competencia.
 
@@ -3542,6 +3540,10 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 
 3. La Cámara otorgará anualmente la medalla de reconocimiento al mérito deportivo a ciudadanos nacionales, destacados por su actuación y trayectoria en el deporte mexicano, o a aquellos destacados por el fomento, la protección o el impulso del deporte social, de conformidad con lo que establece el decreto de su creación, así como el Reglamento que regula su entrega.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+4. La Cámara otorgará anualmente la medalla "Sor Juana Inés de la Cruz", para reconocer y premiar a las mujeres que hayan incidido y destacado en la lucha social, cultural, política, científica y económica a favor de los derechos humanos de las mujeres y de la igualdad de género, de conformidad con lo que establece el Decreto de su creación, así como el Reglamento que regule su entrega.
+
 ###### Artículo 262.
 
 1. La Cámara podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme a los Criterios para las Inscripciones de Honor en el Recinto de la Cámara de Diputados que emita la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias. Para ello, deberá presentarse iniciativa en los términos de este Reglamento.
@@ -4023,3 +4025,11 @@ D.O.F. 15 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 104 Y LA FRACCIÓN III DEL ARTÍCULO 105 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 4 AL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Cámara de Diputados contará con un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto para expedir el Reglamento respectivo.
