@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-distribucion-124937"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-04"
-last_updated: "2018-01-04"
+last_updated: "2018-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124937&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-12-04"
 
 ESTATUTO ORGÁNICO DE CFE DISTRIBUCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 4 de enero de 2018.
 
@@ -75,17 +75,19 @@ Estatuto Orgánico de CFE Distribución
 
 ## TÍTULO IV. Del Enlace y Comité de Transparencia
 
-## TÍTULO V. De la Representación y de las Suplencias
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+## TÍTULO IV BIS. De la instancia en materia de Responsabilidades
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO I. De la Organización
+## TÍTULO V. De la Representación y de las Suplencias
 
 ### CAPÍTULO ÚNICO
 
 ## TRANSITORIOS
 
-## TÍTULO II. Del Consejo de Administración y Áreas de CFE Distribución
+## TÍTULO I. De la Organización
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -271,7 +273,7 @@ XVI. Gerencia Divisional de Distribución Valle de México Norte.
 
 E. Enlace de Transparencia.
 
-## TÍTULO III. De la Auditoría Interna
+## TÍTULO II. Del Consejo de Administración y Áreas de CFE Distribución
 
 ### CAPÍTULO I. Del Consejo de Administración
 
@@ -1413,7 +1415,7 @@ III. La Superintendencia de la Zona Oaxaca tiene jurisdicción dentro del Estado
 
 IV. La Superintendencia de la Zona Huatulco tiene jurisdicción dentro del Estado de Oaxaca en los municipios de Candelaria Loxicha, La Reforma, Mártires de Tacubaya, Mesones Hidalgo, Pinotepa de Don Luis, Pluma Hidalgo, Putla Villa de Guerrero, San Agustín Chayuco, San Agustín Loxicha, San Andrés Huaxpaltepec, San Antonio Tepetlapa, San Baltazar Loxicha, San Bartolomé Loxicha, San Carlos Yautepec, San Gabriel Mixtepec, San Jerónimo Coatlán, San José Estancia Grande, San Juan Bautista Lo de Soto, San Juan Cacahuatepec, San Juan Colorado, San Juan Lachao, San Juan Ozolotepec, San Juan Quiahije, San Lorenzo, San Mateo Piñas, San Miguel del Puerto, San Miguel Panixtlahuaca, San Miguel Tlacamama, San Pedro Amuzgos, San Pedro Atoyac, San Pedro el Alto, San Pedro Huamelula, San Pedro Jicayán, San Pedro Juchatengo, San Pedro Mixtepec, San Pedro Pochutla, San Sebastián Ixcapa, Santa Catarina Juquila, Santa Catarina Mechoacán, Santa Cruz Zenzontepec, Santa María Colotepec, Santa María Cortijo, Santa María Huatulco, Santa María Huazolotitlán, Santa María Ipalapa, Santa María Temaxcaltepec, Santa María Tonameca, Santa María Zacatepec, Santiago Astata, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Llano Grande, Santiago Pinotepa Nacional, Santiago Tapextla, Santiago Tetepec, Santiago Xanica, Santiago Yaitepec, Santo Domingo Armenta, Santo Domingo de Morelos, Santos Reyes Nopala, Tataltepec de Valdés, Villa de Tututepec de Melchor Ocampo y Villa Sola de Vega.
 
-V. La Superintendencia de la Zona Huajuapan tiene jurisdicción dentro del Estado de Oaxaca en los municipios de Asunción Cuyotepeji, Asunción Nochixtlán, Calihualá, Chalcatongo de Hidalgo, Chiquihuitlán de Benito Juárez, Coicoyán de las Flores, Concepción Buenavista, Concepción Pápalo, Constancia del Rosario, Cosoltepec, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Fresnillo de Trujano, Guadalupe de Ramírez, Heroica Ciudad de Huajuapan de León, Heroica Ciudad de Tlaxiaco, Huautepec, Huautla de Jiménez, Ixpantepec Nieves, La Reforma, La Trinidad Vista Hermosa, Magdalena Jaltepec, Magdalena Peñasco, Magdalena Yodocono de Porfirio Díaz, Magdalena Zahuatlán, Mariscala de Juárez, Mazatlán Villa de Flores, Mesones Hidalgo, Putla Villa de Guerrero, San Agustín Atenango, San Agustín Tlacotepec, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Lagunas, San Andrés Nuxiño, San Andrés Sinaxtla, San Andrés Teotilálpan, San Andrés Tepetlapa, San Antonino Monte Verde, San Antonio Acutla, San Antonio Nanahuatipam, San Antonio Sinicahua, San Bartolo Soyaltepec, San Bartolomé Ayautla, San Bartolomé Yucuañe, San Cristóbal Amgoltepec, San Cristóbal Suchixtlahuaca, San Esteban Atatlahuca, San Francisco Chapulapa, San Francisco Chindúa, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Nuxaño, San Francisco Telixtlahuaca, San Francisco Teopan, San Francisco Tlapancingo, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Tecoatal, San Jorge Nuchita, San José Ayuquila, San José Tenango, San Juan Achiutla, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Suchitepec, San Juan Bautista Tlachichilco, San Juan Cieneguilla, San Juan Coatzóspam, San Juan de los Cués, San Juan Diuxi, San Juan Ñumí, San Juan Ihualtepec, San Juan Mixtepec, San Juan Sayultepec, San Juan Tamazola, San Juan Teita, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yucuita, San Lorenzo Cuaunecuiltitla, San Lorenzo Victoria, San Lucas Zoquiapam, San Marcos Arteaga, San Martín Huamelúlpam, San Martín Itunyoso, San Martín Peras, San Martín Toxpalan, San Martín Zacatepec, San Mateo Etlatongo, San Mateo Nejápam, San Mateo Peñasco, San Mateo Sindihui, San Mateo Tlapiltepec, San Mateo Yoloxochitlán, San Miguel Achiutla, San Miguel Ahuehuetitlán, San Miguel Amatitlán, San Miguel Chicahua, San Miguel el Grande, San Miguel Huautla, San Miguel Piedras, San Miguel Santa Flor, San Miguel Tecomatlán, San Miguel Tequixtepec, San Miguel Tlacotepec, San Miguel Tulancingo, San Nicolás Hidalgo, San Pablo Tijaltepec, San Pedro Coxcaltepec Cántaros, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Nopala, San Pedro Ocopetatillo, San Pedro Sochiápam, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Tidaá, San Pedro Topiltepec, San Pedro y San Pablo Ayutla ,San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yucunama, San Sebastián Nicananduta, San Sebastián Tecomaxtlahuaca, San Simón Zahuatlán, San Vicente Nuñú, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Catarina Tayata, Santa Catarina Ticuá, Santa Catarina Yosonotú, Santa Catarina Zapoquila, Santa Cruz Acatepec, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Nundaco, Santa Cruz Tacache de Mina, Santa Cruz Tacaghua, Santa Cruz Tayata, Santa Inés de Zaragoza, Santa Lucía Monteverde, Santa Magdalena Jicotlán, Santa María Apazco, Santa María Camotlán, Santa María Chachoápam, Santa María Chilchotla, Santa María del Rosario, Santa María Ixcatlán, Santa María la Asunción, Santa María Nativitas, Santa María Nduayaco, Santa María Pápalo, Santa María Tataltepec, Santa María Tecomavaca, Santa María Teopoxco, Santa María Texcatitlán, Santa María Tlalixtac, Santa María Yolotepec, Santa María Yosoyúa, Santa María Yucuhiti, Santa María Zacatepec, Santiago Amoltepec, Santiago Apoala, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Chazumba, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Juxtlahuaca, Santiago Miltepec, Santiago Nejapilla, Santiago Nundiche, Santiago Nuyoó, Santiago Tamazola, Santiago Tepetlapa, Santiago Texcalcingo, Santiago Tilantongo, Santiago Tillo, Santiago Yolomécatl, Santiago Yosondúa, Santiago Yucuyachi, Santo Domingo Ixcatlán, Santo Domingo Nuxaá, Santo Domingo Tlatayápam, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santo Tomás Ocotepec, Santos Reyes Pápalo, Santos Reyes Tepejillo, Santos Reyes Yucuná, Silacayoápam, Teotitlán de Flores Magón, Teotongo, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacotepec Plumas, Valerio Trujano, Villa de Chilapa de Díaz, Villa de Tamazulápam del Progreso, Villa Tejúpam de la Unión, Yutanduchi de Guerrero, Zapotitlán Lagunas y Zapotitlán Palmas. Dentro del Estado de Puebla en los municipios de Chila y Coxcatlán.
+V. La Superintendencia de la Zona Huajuapan tiene jurisdicción dentro del Estado de Oaxaca en los municipios de Asunción Cuyotepeji, Asunción Nochixtlán, Calihualá, Chalcatongo de Hidalgo, Chiquihuitlán de Benito Juárez, Coicoyán de las Flores, Concepción Buenavista, Concepción Pápalo, Constancia del Rosario, Cosoltepec, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Fresnillo de Trujano, Guadalupe de Ramírez, Heroica Ciudad de Huajuapan de León, Heroica Ciudad de Tlaxiaco, Huautepec, Huautla de Jiménez, Ixpantepec Nieves, La Reforma, La Trinidad Vista Hermosa, Magdalena Jaltepec, Magdalena Peñasco, Magdalena Yodocono de Porfirio Díaz, Magdalena Zahuatlán, Mariscala de Juárez, Mazatlán Villa de Flores, Mesones Hidalgo, Putla Villa de Guerrero, San Agustín Atenango, San Agustín Tlacotepec, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Lagunas, San Andrés Nuxiño, San Andrés Sinaxtla, San Andrés Teotilálpan, San Andrés Tepetlapa, San Antonino Monte Verde, San Antonio Acutla, San Antonio Nanahuatipam, San Antonio Sinicahua, San Bartolo Soyaltepec, San Bartolomé Ayautla, San Bartolomé Yucuañe, San Cristóbal Amgoltepec, San Cristóbal Suchixtlahuaca, San Esteban Atatlahuca, San Francisco Chapulapa, San Francisco Chindúa, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Nuxaño, San Francisco Telixtlahuaca, San Francisco Teopan, San Francisco Tlapancingo, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Tecoatal, San Jorge Nuchita, San José Ayuquila, San José Tenango, San Juan Achiutla, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Suchitepec, San Juan Bautista Tlachichilco, San Juan Cieneguilla, San Juan Coatzóspam, San Juan de los Cués, San Juan Diuxi, San Juan Ñumí, San Juan Ihualtepec, San Juan Mixtepec, San Juan Sayultepec, San Juan Tamazola, San Juan Teita, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yucuita, San Lorenzo Cuaunecuiltitla, San Lorenzo Victoria, San Lucas Zoquiapam, San Marcos Arteaga, San Martín Huamelúlpam, San Martín Itunyoso, San Martín Peras, San Martín Toxpalan, San Martín Zacatepec, San Mateo Etlatongo, San Mateo Nejápam, San Mateo Peñasco, San Mateo Sindihui, San Mateo Tlapiltepec, San Mateo Yoloxochitlán, San Miguel Achiutla, San Miguel Ahuehuetitlán, San Miguel Amatitlán, San Miguel Chicahua, San Miguel el Grande, San Miguel Huautla, San Miguel Piedras, San Miguel Santa Flor, San Miguel Tecomatlán, San Miguel Tequixtepec, San Miguel Tlacotepec, San Miguel Tulancingo, San Nicolás Hidalgo, San Pablo Tijaltepec, San Pedro Coxcaltepec Cántaros, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Nopala, San Pedro Ocopetatillo, San Pedro Sochiápam, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Tidaá, San Pedro Topiltepec, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yucunama, San Sebastián Nicananduta, San Sebastián Tecomaxtlahuaca, San Simón Zahuatlán, San Vicente Nuñú, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Catarina Tayata, Santa Catarina Ticuá, Santa Catarina Yosonotú, Santa Catarina Zapoquila, Santa Cruz Acatepec, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Nundaco, Santa Cruz Tacache de Mina, Santa Cruz Tacaghua, Santa Cruz Tayata, Santa Inés de Zaragoza, Santa Lucía Monteverde, Santa Magdalena Jicotlán, Santa María Apazco, Santa María Camotlán, Santa María Chachoápam, Santa María Chilchotla, Santa María del Rosario, Santa María Ixcatlán, Santa María la Asunción, Santa María Nativitas, Santa María Nduayaco, Santa María Pápalo, Santa María Tataltepec, Santa María Tecomavaca, Santa María Teopoxco, Santa María Texcatitlán, Santa María Tlalixtac, Santa María Yolotepec, Santa María Yosoyúa, Santa María Yucuhiti, Santa María Zacatepec, Santiago Amoltepec, Santiago Apoala, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Chazumba, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Juxtlahuaca, Santiago Miltepec, Santiago Nejapilla, Santiago Nundiche, Santiago Nuyoó, Santiago Tamazola, Santiago Tepetlapa, Santiago Texcalcingo, Santiago Tilantongo, Santiago Tillo, Santiago Yolomécatl, Santiago Yosondúa, Santiago Yucuyachi, Santo Domingo Ixcatlán, Santo Domingo Nuxaá, Santo Domingo Tlatayápam, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santo Tomás Ocotepec, Santos Reyes Pápalo, Santos Reyes Tepejillo, Santos Reyes Yucuná, Silacayoápam, Teotitlán de Flores Magón, Teotongo, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacotepec Plumas, Valerio Trujano, Villa de Chilapa de Díaz, Villa de Tamazulápam del Progreso, Villa Tejúpam de la Unión, Yutanduchi de Guerrero, Zapotitlán Lagunas y Zapotitlán Palmas. Dentro del Estado de Puebla en los municipios de Chila y Coxcatlán.
 
 VI. La Superintendencia Zona Tapachula tiene jurisdicción dentro del Estado de Chiapas, en los municipios de Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tila, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
 
@@ -1545,7 +1547,7 @@ Las funciones referidas en este precepto, también podrán ser ejercidas por los
 
 Los Departamentos de Asuntos Jurídicos de las Gerencias Divisionales de Distribución están facultados para defender los intereses jurídicos de CFE Distribución y representarla en los juicios, incluido el de amparo, procedimientos y recursos administrativos, judiciales o arbitrales laborales en que sea parte o tenga interés jurídico y ante cualquier autoridad, los cuales tienen a su cargo la defensa jurídica de CFE Distribución.
 
-## TÍTULO IV. Del Enlace y Comité de Transparencia
+## TÍTULO III. De la Auditoría Interna
 
 ### CAPÍTULO ÚNICO
 
@@ -1553,7 +1555,7 @@ Los Departamentos de Asuntos Jurídicos de las Gerencias Divisionales de Distrib
 
 CFE Distribución contará con una Auditoría Interna, cuyo Titular será el Auditor Interno, quien dependerá jerárquica y funcionalmente del Auditor Interno de la Comisión y tendrá la estructura y funciones establecidas en los lineamientos emitidos por el Consejo de Administración, y las previstas en la normatividad que resulte aplicable.
 
-## TÍTULO V. De la Representación y de las Suplencias
+## TÍTULO IV. Del Enlace y Comité de Transparencia
 
 ### CAPÍTULO ÚNICO
 
@@ -1564,6 +1566,24 @@ El Enlace y el Comité de Transparencia de CFE Distribución, tendrán las funci
 ###### ARTÍCULO 31.
 
 El Comité de Transparencia de CFE Distribución estará integrado por tres miembros designados por el Director General, entre los que se encontrará el Enlace de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE MARZO DE 2018)</small>
+
+## TÍTULO IV BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE MARZO DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+ARTÍCULO 31 BIS. La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Distribución las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2018)</small>
+
+ARTÍCULO 31 TER. La Unidad de Responsabilidades en CFE Distribución contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
+## TÍTULO V. De la Representación y de las Suplencias
 
 ### CAPÍTULO ÚNICO
 
@@ -1596,3 +1616,11 @@ TERCERO. Los asuntos que se encuentren en trámite en las unidades y áreas que 
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Distribución, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Distribución, en sesión ordinaria celebrada el trece de marzo de dos mil diecisiete, mediante el Acuerdo CA-Dist-015/2017.
 
 En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Distribución, Roberto Vidal León, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Distribución, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DE “ADICIONES AL ESTATUTO ORGÁNICO DE CFE DISTRIBUCIÓN PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 4 DE ENERO DE 2018”.]
+
+ÚNICO. Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
