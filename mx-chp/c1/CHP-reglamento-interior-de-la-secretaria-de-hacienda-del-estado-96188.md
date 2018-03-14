@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2017-12-13"
+last_updated: "2018-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2018 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MARZO DE 2018.]</small>
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -239,7 +239,7 @@ a) Dirección General de Presupuesto y Cuenta Pública.
 
 > <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-b) Dirección General de Inversiones
+b) Dirección General de Inversiones.
 
 1. Dirección de Programación del Gasto de Inversión.
 
@@ -351,9 +351,9 @@ b) Dirección de Organismos y Empresas Públicas.
 
 c) Dirección Operativa de la Torre Chiapas.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2017)</small>
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2017) (F. DE E., P.O. 14 DE MARZO DE 2018)
 
-II (SIC). Subsecretaría de Planeación.
+VIII. Subsecretaría de Planeación.
 
 a) Dirección de Información Geográfica y Estadística.
 
