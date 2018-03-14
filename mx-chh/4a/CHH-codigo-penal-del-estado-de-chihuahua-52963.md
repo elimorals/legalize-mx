@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-02-24"
+last_updated: "2018-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1819,7 +1819,7 @@ A quien infiera a otro lesiones en riña, se le impondrá dos terceras partes de
 
 Cuando las lesiones sean calificadas o se infieran a una mujer embarazada con conocimiento de su estado, la pena correspondiente a las lesiones simples se incrementará en una mitad.
 
-### CAPÍTULO IV. AYUDA O INDUCCIÓN AL SUICIDIO
+### CAPÍTULO IV. AYUDA O INDUCCIÓN AL SUICIDIO O A LESIONARSE
 
 ###### Artículo 134.
 
@@ -1933,6 +1933,8 @@ Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese come
 
 Cuando por imprudencia se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de cuatro a doce años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta.
 
+(REFORMA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2018)
+
 ### CAPÍTULO V. ABORTO
 
 ###### Artículo 141.
@@ -1946,6 +1948,14 @@ Si el suicidio no se consuma, por causas ajenas a la voluntad del que induce o a
 ###### Artículo 142.
 
 Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o determinarse de acuerdo con esa comprensión, se impondrán al homicida o inductor las sanciones señaladas al homicidio o lesiones calificadas, según corresponda.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2018)</small>
+
+###### Artículo 142 Bis.
+
+A quien induzca o ayude a otra persona para que se produzca autolesiones, se le impondrá prisión de seis meses a tres años.
+
+Si a quien se induce o ayuda para que se produzca autolesiones, fuere persona menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o determinarse de acuerdo con esa comprensión, se impondrán al inductor o ayudante las sanciones señaladas a las lesiones calificadas, según corresponda.
 
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
@@ -2531,7 +2541,9 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilac
 
 A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de seis meses a cinco años de prisión y de noventa a trescientos sesenta días multa.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2018)</small>
+
+Si las amenazas son dirigidas a personas menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho, las penas se incrementarán en dos terceras partes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
@@ -5124,3 +5136,11 @@ P.O. 24 DE FEBRERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor hasta en tanto lo haga el Decreto No. 1243/2015 I P.O., por medio del cual se reforman y adicionan diversos artículos del Código Penal del Estado, en relación con el delito de omisión de cuidado.
+
+P.O. 14 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0723/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
