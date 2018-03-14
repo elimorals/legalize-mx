@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-impulso-al-conocimiento-competitividad-e-innovacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-15"
-last_updated: "2016-10-03"
+last_updated: "2018-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACION TECNOLOGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 14 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE IMPULSO AL CONOCIMIENTO, COMPETITIVIDAD E INNOVACIÓN TECNOLÓGICA PARA EL DESARROLLO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial, el sábado 15 de noviembre de 2014.
 
@@ -1414,3 +1416,21 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Decreto No. 464/2014 II P.O., publicado en el Periódico Oficial del Estado No. 92 de fecha 15 de noviembre de 2014.
+
+TERCERO.- Todas las instancias u organismos, así como todos los actos jurídicos, administrativos, presupuestales, financieros y/o de cualquier índole preexistentes a la entrada en vigor de la Ley emitida mediante el presente Decreto, que tengan como base, fundamento o motivo la abrogada "Ley de Impulso al Conocimiento, Competitividad e Innovación Tecnológica para el Desarrollo del Estado de Chihuahua", quedan vigentes y válidos y en todos sus términos y alcances, siempre y cuando sean lícitos y se hayan emitido, creado, pactado o programado de manera legal por instancias o personas bajo su esfera de competencia y en el ejercicio de sus atribuciones. Igualmente quedan válidas y vigentes, en su caso, las relaciones laborales que pudieran existir con motivo de la vigencia de la ley abrogada, y vigentes las acciones y derechos también preexistentes en su caso, siempre y cuando sean lícitos y hayan sido creadas siguiendo las formalidades aplicables. En todo caso, las hipótesis previstas en el presente artículo, serán relativas, referidas y aplicables en lo que resulte respecto a la Ley de Ciencia, Tecnología e Innovación del Estado hacia las instancias, personas o instituciones análogas.
+
+CUARTO.- Para los efectos de la integración de todas las instancias o figuras previstas en la Ley emitida mediante el presente Decreto, la Secretaría de Innovación y Desarrollo Económico del Poder Ejecutivo del Estado, contará con un periodo de noventa días naturales contados a partir de su publicación en el Periódico Oficial del Estado, y para ello se harán las gestiones por conducto de su Titular, siguiendo las formalidades a que hubiera lugar.
+
+QUINTO.- El Reglamento de la Ley será emitido siguiendo las formalidades necesarias dentro de un lapso de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- Para los fines previstos en el artículo 40 de la Ley emitida mediante el presente Decreto, el Ejecutivo del Estado hará las asignaciones graduales hasta lograr el objetivo previsto en dicho numeral, con las gestiones y previsiones a que haya lugar.
+
+SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
