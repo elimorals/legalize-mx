@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-para-el-estado-de-zacatecas-82646"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-20"
-last_updated: "2018-02-21"
+last_updated: "2018-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE ZACATECAS
 
+[N. DE E DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 14 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018 (ABROGADA).
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 20 de agosto de 2011.
 
@@ -1372,3 +1374,15 @@ P.O. 21 DE FEBRERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS.”]
+
+Artículo primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se abroga la Ley de Protección Civil para el Estado de Zacatecas, publicada en Suplemento al número 67 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 20 de agosto de 2011.
+
+Artículo tercero. El titular del Ejecutivo del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas el Reglamento de esta Ley, así como las modificaciones al Reglamento Interior de la Secretaría General de Gobierno.
+
+Artículo cuarto. El titular del Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, deberá llevar a cabo los procesos administrativos necesarios para la conversión de la Dirección Estatal de Protección Civil a Coordinación de Protección Civil del Estado de Zacatecas, con la naturaleza de órgano desconcentrado de dicha dependencia.
