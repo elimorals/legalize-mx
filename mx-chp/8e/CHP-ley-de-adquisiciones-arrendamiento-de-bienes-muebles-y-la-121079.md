@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-la-12107
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2017-12-27"
+last_updated: "2018-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de diciembre de 2016.
 
@@ -629,25 +629,31 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 
 El fallo que emita el Comité, se dará a conocer a cada uno de los participantes al concluir el procedimiento correspondiente, salvo que esto no fuere factible, deberá hacerlo dentro de un término que no podrá exceder de veinte días hábiles.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2018)</small>
+
 ###### Artículo 35.
 
-Quienes participen en las licitaciones o celebren los contratos a que se refiere esta Ley, deberán garantizar a favor del Órgano Requirente:
+Quienes participen en las licitaciones o celebren los contratos o pedidos a que se refiere esta Ley, deberán garantizar:
 
-I. Los anticipos que en su caso reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo más el Impuesto al Valor Agregado, y en ningún caso excederá del 50%; deberá ser asegurado mediante póliza de fianza otorgada por institución autorizada, la cual permanecerá vigente hasta la amortización total del mismo, debiendo contener la indicación expresa de la aceptación de la afianzadora para continuar garantizando el monto cubierto, en caso de que se otorgue prórroga o espera al proveedor.
+I. Cuando se trate del Poder Ejecutivo del Estado en su administración centralizada y paraestatal, a favor de la Secretaría de Hacienda.
 
-El cumplimiento de los pedidos o contratos mediante cheque certificado con cargo a institución bancaria legalmente constituida conforme a la legislación mexicana, o bien, mediante póliza de fianza otorgada por institución afianzadora debidamente autorizada, con un importe mínimo del 10% sobre el total de los contratos sin considerar el impuesto al valor agregado.
+II. Cuando se trate de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos a favor del Órgano Requirente.
 
-II. En adquisiciones de bienes que así lo ameriten y se especifiquen en las bases, el proveedor deberá garantizar los bienes adquiridos contra defectos o vicios ocultos mediante la presentación de una póliza de fianza, cheque de caja o cheque certificado, en todos los casos deberán garantizar el 10% del monto total pagado sobre los bienes de que se trate, debiendo hacer válidas tales garantías por un lapso que no podrá ser menor al ofertado, el plazo de dicha garantía se contará a partir de la fecha de recepción de los bienes antes referidos.
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos emitirán a través de las disposiciones normativas correspondientes, la forma o procedimientos en que se constituirán las garantías de anticipo, cumplimiento y de defectos o vicios ocultos, que deban otorgarse conforme a esta Ley.
 
-Dicha garantía deberá presentarse en la recepción formal de los bienes sustituyendo la presentada para garantizar el cumplimiento de las obligaciones establecidas en el pedido o contrato.
-
-De no haber surgido responsabilidad a cargo del proveedor al término del año, se ordenará la cancelación de la fianza en un plazo no mayor a cinco días hábiles.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2018)</small>
 
 ###### Artículo 36.
 
-En caso de presentarse vicios ocultos o responsabilidades a cargo del proveedor, se le comunicará por escrito, otorgándole un plazo de dieciséis días hábiles contados a partir de la recepción del mismo para que los subsane; en caso contrario, se hará efectiva la garantía sin perjuicio de otras acciones legales que pudieran emprenderse en su contra.
+Quienes participen en las licitaciones o celebren los contratos o pedidos a que se refiere esta Ley, deberán garantizar lo siguiente:
 
-Cuando se hagan efectivas las garantías de anticipo, cumplimiento y defectos o vicios ocultos, el Órgano Requirente lo notificará al Comité.
+I. Los anticipos que en su caso reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo más el Impuesto al Valor Agregado, y en ningún caso excederá del 50%; deberá ser asegurado mediante póliza de fianza otorgada por institución autorizada, la cual permanecerá vigente hasta la amortización total del mismo, debiendo contener la indicación expresa de la aceptación de la afianzadora para continuar garantizando el monto cubierto, en caso de que se otorgue prórroga o espera al proveedor.
+
+II. El cumplimiento de los pedidos o contratos mediante cheque certificado con cargo a institución bancaria legalmente constituida conforme a la legislación mexicana, o bien, mediante póliza de fianza otorgada por institución afianzadora debidamente autorizada, con un importe mínimo del 10% sobre el total de los contratos sin considerar el Impuesto al Valor Agregado.
+
+III. En adquisiciones de bienes que así lo ameriten y se especifiquen en las bases, el proveedor deberá garantizar los bienes adquiridos contra defectos o vicios ocultos mediante la presentación de una póliza de fianza, cheque de caja o cheque certificado, en todos los casos deberán garantizar el 10% del monto total pagado sobre los bienes de que se trate, debiendo hacer válidas tales garantías por un lapso que no podrá ser menor a doce meses, el plazo de dicha garantía se contará a partir de la fecha de recepción de los bienes antes referidos. Dicha garantía deberá presentarse en la recepción formal de los bienes, sustituyendo a la presentada para garantizar el cumplimiento de las obligaciones establecidas en el pedido o contrato.
+
+De no haber surgido responsabilidad a cargo del proveedor al término del año, se ordenará la cancelación de la fianza en un plazo no mayor a cinco días hábiles.
 
 ###### Artículo 37.
 
@@ -1329,8 +1335,16 @@ Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Ara
 
 P.O. 27 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 039 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 039 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto, entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
