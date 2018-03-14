@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-del-estado-de-zacatecas-108775"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2017-03-11"
+last_updated: "2018-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2015.
 
@@ -109,7 +109,7 @@ X. Consejo: Consejo Estatal de Vigilancia Electoral Deportiva;
 
 XI. Cultura Física: Componente de la cultura conformado por los bienes materiales y espirituales creados para hacer del ejercicio físico elemento esencial del perfeccionamiento del hombre;
 
-XII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional; por su finalidad es la realización e hitos o hazañas deportivas, como: batir marcas, conseguir triunfos que sean considerados como "récords". Este tipo de deporte es exclusivo y lo que cuenta es el resultado, el rendimiento. La vía y expresión es la "competición”;
+XII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional; por su finalidad es la realización e hitos o hazañas deportivas, como: batir marcas, conseguir triunfos que sean considerados como "récords". Este tipo de deporte es exclusivo y lo que cuenta es el resultado, el rendimiento. La vía y expresión es la "competición";
 
 XIII. Deporte de las Personas Adultas Mayores: Actividad deportiva practicada por personas de 60 años en adelante;
 
@@ -121,37 +121,41 @@ XVI. Deporte: Actividad física, organizada y reglamentada, que tiene por finali
 
 XVII. Diseño Universal: Estrategia que tiene como objetivo diseñar instalaciones y edificios para que puedan ser utilizados por el mayor número posible de personas considerando la amplia diversidad de habilidades humanas, sin necesidad de llevar a cabo una adaptación o diseño especializado, simplificando el uso de las instalaciones para las personas con independencia plena, con independencia de su edad, talla o discapacidad. Sin considerar en el diseño un conjunto de habilidades estándar en las personas
 
-XVIII. Educación Física: Es una disciplina científico-pedagógica, que se centra en el movimiento corporal para alcanzar el desarrollo integral de las capacidades físicas, afectivas y cognoscitivas del sujeto;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
 
-XIX. El Deporte para Personas con Discapacidad: Dirigido a las personas con discapacidad que practican algún deporte;
+XVIII. Escuelas de Iniciación y Formación Deportiva: Programa educativo extracurricular, implementado como estrategia para la enseñanza del deporte a niños y jóvenes, buscando su desarrollo motriz, intelectual, afectivo y social mediante programas sistematizados que les permitan la incorporación al deporte de rendimiento y social en forma progresiva;
 
-XX. INCUFIDEZ: Instituto de Cultura Física y Deporte del Estado de Zacatecas;
+XIX. Educación Física: Es una disciplina científico-pedagógica, que se centra en el movimiento corporal para alcanzar el desarrollo integral de las capacidades físicas, afectivas y cognoscitivas del sujeto;
 
-XXI. Junta de Gobierno: Junta de Gobierno del Instituto de Cultura Física y Deporte del Estado de Zacatecas;
+XX. El Deporte para Personas con Discapacidad: Dirigido a las personas con discapacidad que practican algún deporte;
 
-XXII. Ley General: Ley General de Cultura Física y Deporte;
+XXI. INCUFIDEZ: Instituto de Cultura Física y Deporte del Estado de Zacatecas;
 
-XXIII. Ley: Ley de Cultura Física y Deporte del Estado de Zacatecas;
+XXII. Junta de Gobierno: Junta de Gobierno del Instituto de Cultura Física y Deporte del Estado de Zacatecas;
 
-XXIV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+XXIII. Ley General: Ley General de Cultura Física y Deporte;
 
-XXV. Reglamento: Reglamento de la Ley de Cultura Física y Deporte del Estado de Zacatecas;
+XXIV. Ley: Ley de Cultura Física y Deporte del Estado de Zacatecas;
 
-XXVI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+XXV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-XXVII. RENADE: El Registro Nacional de Cultura Física y Deporte;
+XXVI. Reglamento: Reglamento de la Ley de Cultura Física y Deporte del Estado de Zacatecas;
 
-XXVIII. RESDE: Registro Estatal del Deporte;
+XXVII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
 
-XXIX. SEDESOL: Secretaría de Desarrollo Social de Gobierno del Estado;
+XXVIII. RENADE: El Registro Nacional de Cultura Física y Deporte;
 
-XXX. SEDUZAC: Secretaría de Educación del Estado de Zacatecas;
+XXIX. RESDE: Registro Estatal del Deporte;
 
-XXXI. SIEDE: Sistema Estatal de Cultura Física y Deporte;
+XXX. SEDESOL: Secretaría de Desarrollo Social de Gobierno del Estado;
 
-XXXII. SIMUDE: Sistema Municipal de Cultura Física y Deporte; y
+XXXI. SEDUZAC: Secretaría de Educación del Estado de Zacatecas;
 
-XXXIII. UPLA: Unidad de Planeación del Gobierno del Estado.
+XXXII. SIEDE: Sistema Estatal de Cultura Física y Deporte;
+
+XXXIII. SIMUDE: Sistema Municipal de Cultura Física y Deporte; y
+
+XXXIV. UPLA: Unidad de Planeación del Gobierno del Estado.
 
 ###### Artículo 4.
 
@@ -219,11 +223,15 @@ III. La formulación de estrategias, tomando en cuenta criterios de coordinació
 
 IV. El diseño de políticas que faciliten e impulsen la participación de los sectores social y privado en las actividades deportivas del Estado y los municipios, propiciando la participación de las mujeres y las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2018)</small>
 
 V. El plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; los cuales incluirán partidas presupuestales específicas para el desarrollo de actividades deportivas de mujeres y personas con discapacidad; así como, su rendición de cuentas;
 
-VI. Procedimientos de evaluación y seguimiento.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
+
+VI. La proyección, diseño y acondicionamiento de espacios deportivos que permitan la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva en los municipios del Estado que así lo determinen; y
+
+VII. Procedimientos de evaluación y seguimiento.
 
 Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
@@ -271,9 +279,15 @@ II. Establecer compromisos para fomentar la cultura física y el deporte desde s
 
 III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad y las mujeres;
 
-IV. Promover mecanismos de integración institucional para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2018)</small>
 
-V. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+IV. Promover mecanismos de integración institucional para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
+
+V. Promover la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva, a fin de garantizar la promoción y estímulo al desarrollo de la cultura física y el deporte en los municipios del Estado que así lo determinen; y
+
+VI. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ###### Artículo 13.
 
@@ -349,9 +363,15 @@ XXVII. Fomentar la cultura física, la recreación, la rehabilitación y el depo
 
 XXVIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad y las mujeres;
 
-XXIX. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2018)</small>
 
-XXX. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+XXIX. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
+
+XXX. Promover la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva, como un método de fomento, promoción y estímulo al desarrollo de la cultura física y el deporte en los municipios del Estado que así lo determinen; y
+
+XXXI. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
 
 ###### Artículo 16.
 
@@ -433,35 +453,39 @@ IX. Realizar los actos que sean necesarios para el cumplimiento de los objetivos
 
 X. Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo o bien, respecto de los asuntos que se consideren relevantes;
 
-XI. Aprobar y evaluar el Programa Operativo Anual y los planes específicos para la ejecución de los programas institucionales, previa opinión de la UPLA. El cumplimiento y ejecución de éste programa son responsabilidad del INCUFIDEZ;
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
 
-XII. Evaluar el presupuesto del INCUFIDEZ, contemplando todas las fuentes de ingreso; en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras Dependencias y Entidades de la Administración Pública Estatal;
+XI. Promover e impulsar el diseño y acondicionamiento de los espacios deportivos para la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva en los municipios del Estado que así lo determinen;
 
-XIII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas del INCUFIDEZ;
+XII. Aprobar y evaluar el Programa Operativo Anual y los planes específicos para la ejecución de los programas institucionales, previa opinión de la UPLA. El cumplimiento y ejecución de éste programa son responsabilidad del INCUFIDEZ;
 
-XIV. Vigilar que el INCUFIDEZ conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Estatal de Planeación, conforme a los (sic) dispuesto en la Ley que regula la planeación en el Estado de Zacatecas;
+XIII. Evaluar el presupuesto del INCUFIDEZ, contemplando todas las fuentes de ingreso; en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras Dependencias y Entidades de la Administración Pública Estatal;
 
-XV. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
+XIV. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas del INCUFIDEZ;
 
-XVI. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el INCUFIDEZ;
+XV. Vigilar que el INCUFIDEZ conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Estatal de Planeación, conforme a los (sic) dispuesto en la Ley que regula la planeación en el Estado de Zacatecas;
 
-XVII. Aprobar el Estatuto Orgánico del INCUFIDEZ, así como los manuales de organización y de procedimientos que regulen su funcionamiento, así como las reformas o adiciones a dichos ordenamientos;
+XVI. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
 
-XVIII. Aprobar el contenido de las actas que se levanten de las sesiones de la propia Junta Directiva que se celebren, ya sean ordinarias o extraordinarias;
+XVII. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el INCUFIDEZ;
 
-XIX. Aprobar el calendario anual de sesiones;
+XVIII. Aprobar el Estatuto Orgánico del INCUFIDEZ, así como los manuales de organización y de procedimientos que regulen su funcionamiento, así como las reformas o adiciones a dichos ordenamientos;
 
-XX. Analizar y considerar el informe que rinda el Comisario para la programación de actividades del INCUFIDEZ, en sus aspectos preventivos y correctivos;
+XIX. Aprobar el contenido de las actas que se levanten de las sesiones de la propia Junta Directiva que se celebren, ya sean ordinarias o extraordinarias;
 
-XXI. Aprobar las medidas que proponga el Director General para atender los informes que presente el Secretario de la Función Pública, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
+XX. Aprobar el calendario anual de sesiones;
 
-XXII. Delegar facultades a favor del Director General;
+XXI. Analizar y considerar el informe que rinda el Comisario para la programación de actividades del INCUFIDEZ, en sus aspectos preventivos y correctivos;
 
-XXIII. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre del INCUFIDEZ;
+XXII. Aprobar las medidas que proponga el Director General para atender los informes que presente el Secretario de la Función Pública, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
 
-XXIV. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del INCUFIDEZ y bajo su responsabilidad; y
+XXIII. Delegar facultades a favor del Director General;
 
-XXV. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre del INCUFIDEZ.
+XXIV. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre del INCUFIDEZ;
+
+XXV. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del INCUFIDEZ y bajo su responsabilidad; y
+
+XXVI. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre del INCUFIDEZ.
 
 ###### Artículo 21.
 
@@ -579,11 +603,15 @@ IX. Elaborar programas de adecuación física y deportiva para personas de la te
 
 X. Destinar, planificar y construir instalaciones para la práctica deportiva, especialmente personas con discapacidad y mujeres;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2018)</small>
 
-XI. Asignar anualmente, conforme a su presupuesto, partidas orientadas a sus órganos responsables de fomentar la cultura física y el deporte, en las que se incluirán las relativas a las políticas en materia de perspectiva de género y personas con discapacidad; y
+XI. Asignar anualmente, conforme a su presupuesto, partidas orientadas a sus órganos responsables de fomentar la cultura física y el deporte, en las que se incluirán las relativas a las políticas en materia de perspectiva de género y personas con discapacidad;
 
-XII. Las demás que señale esta Ley, su Reglamento y los demás ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2018)</small>
+
+XII. Impulsar con el apoyo de las autoridades estatales, instituciones deportivas y educativas públicas y privadas, que desarrollan programas y acciones de cultura física y deporte, la gestión y asignación del presupuesto necesario para el diseño, y acondicionamiento de espacios deportivos que permitan la creación y puesta en marcha de Escuelas de Iniciación y Formación Deportiva; y
+
+XIII. Las demás que señale esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
 ###### Artículo 29.
 
@@ -617,7 +645,9 @@ Las autoridades competentes del Estado y los Municipios, se coordinarán entre s
 
 I. Establecer en sus respectivos ámbitos de competencia los sistemas estatal y municipal de cultura física y deporte;
 
-II. Promover la iniciación y garantizar el acceso a la práctica de las actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte a la población en general, en todas sus manifestaciones y expresiones;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2018)</small>
+
+II. Promover la iniciación y garantizar el acceso a la práctica de las actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte a la población en general, en todas sus manifestaciones y expresiones, priorizando para este fin la creación de Escuelas de Iniciación y Formación Deportiva.
 
 III. Ejecutar y dar seguimiento a los Programas Estatal y municipales de Cultura Física y Deporte;
 
@@ -813,6 +843,14 @@ El INCUFIDEZ coordinará y promoverá la constitución de comisiones de deporte 
 
 La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 219 PUBLICADO EN EL P.O. 14 DE MARZO DE 2018, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL DE LA FRACCIÓN I DEL PRESENTE ARTÍCULO]</small>
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MARZO DE 2018)</small>
+
+El Estado y los municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 219 PUBLICADO EN EL P.O. 14 DE MARZO DE 2018, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DEL PÁRRAFO IMEDIATO ANTERIOR DEL PRESENTE ARTÍCULO]</small>
+
 I. El Estado y los municipios, se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes;
 
 II. Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y deportiva;
@@ -825,19 +863,23 @@ V. Promover, fomentar y estimular el desarrollo de una cultura deportiva estatal
 
 VI. Difundir el patrimonio cultural deportivo;
 
-VII. Promover certámenes, concursos o competiciones de naturaleza cultural deportiva; y
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 14 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2017)</small>
+VII. Se impulsarán políticas públicas y presupuestos en materia de cultura física y deporte con perspectiva de género;
 
-VIII. Se impulsarán políticas públicas y presupuestos en materia de cultura física y deporte con perspectiva de género; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2018)</small>
+
+VIII. Promover y fomentar los espacios deportivos necesarios para crear y poner en marcha Escuelas de Iniciación y Formación Deportiva como un método de promoción y estímulo al desarrollo de la cultura física y el deporte; y
 
 IX. Las demás que dispongan otras leyes u ordenamientos aplicables.
 
 Los juegos tradicionales y autóctonos y la charrería serán considerados como parte del patrimonio cultural deportivo. El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las asociaciones deportivas estatales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MARZO DE 2018)</small>
+
 ###### Artículo 60.
 
-El INCUFIDEZ en coordinación con los Municipios planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+El INCUFIDEZ en coordinación con los Municipios planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas, priorizando para este fin la creación de Escuelas de Iniciación y Formación Deportiva.
 
 Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
 
@@ -1300,3 +1342,9 @@ P.O. 11 DE MARZO DE 2017.
 Artículo primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Las modificaciones normativas correspondientes, deberán hacerse dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 14 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 219.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍDICA Y DEPORTE DEL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
