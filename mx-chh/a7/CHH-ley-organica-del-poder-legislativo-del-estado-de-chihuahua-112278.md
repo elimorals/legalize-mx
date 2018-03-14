@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-11-22"
+last_updated: "2018-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -266,6 +266,10 @@ La Comisión Especial, dentro de los cuarenta y cinco días hábiles posteriores
 ###### ARTÍCULO 28.
 
 La Legislatura tendrá dos períodos ordinarios de sesiones cada año. El primero, iniciará el primer día del mes de septiembre y concluirá, a más tardar, el treinta y uno de diciembre; y, el segundo, iniciará el día primero de marzo y concluirá a más tardar el treinta y uno de mayo.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2018)</small>
+
+En el año que se celebren elecciones ordinarias, el segundo periodo de sesiones dará inicio el día primero de febrero y concluirá a más tardar el treinta de abril.
 
 ###### ARTÍCULO 29.
 
@@ -2428,3 +2432,11 @@ P.O. 22 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los artículos 87, segundo párrafo, y 106, primer párrafo, ambos de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua; así como el numeral 49 del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo, en lo relativo a emisión y citación de las convocatorias por medio electrónico o telemático de las reuniones de comisión, serán aplicables 60 días después de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE MARZO DE 2018.
+
+[N. DE. E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0727/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
