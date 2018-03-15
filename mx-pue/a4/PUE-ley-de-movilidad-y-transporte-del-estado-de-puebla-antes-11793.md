@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2017-11-06"
+last_updated: "2018-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -1121,6 +1121,16 @@ Para efectos del párrafo anterior, la Secretaría podrá, en todo momento, veri
 
 Por razones de interés público podrá decretarse la cancelación del registro a que se refiere la fracción V de este artículo, con prescindencia de que el titular de los derechos derivados, incumpla o no obligaciones legales, reglamentarias o generales.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2018)</small>
+
+ARTICULO 55 QUÁTER.- En los casos en que los concesionarios o permisionarios omitan el pago anual de refrendo y/o programa de actualización de documentos y/o el pago de derechos por los servicios de control vehicular del servicio de transporte en cualquiera de las modalidades comprendidas en el artículo 17 de la presente Ley, por un periodo de un año, contado a partir del día siguiente de la fecha en que debió realizarlos, se actualizará el abandono de la concesión o permiso.
+
+En el caso de abandono a los que se refiere el párrafo anterior, el Estado recuperará los derechos de la concesión o permiso y podrá sustituir al sujeto a través de la reasignación del título correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2018)</small>
+
+ARTICULO 55 QUÍNQUIES.- Para los casos terminación de la vigencia, renuncia, rescate, revocación, cancelación y/o abandono de concesiones y permisos, la autoridad competente podrá realizar su reordenamiento y la reasignación según corresponda, previo análisis u opinión técnica que así lo determine; debiendo verificar que las personas físicas o jurídicas a las que se les asignen estas concesiones o permisos, cumplan con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones legales aplicables.
+
 ###### ARTICULO 56.
 
 Las personas morales cuyo objeto social sea la prestación del Servicio Público de Transporte y del Servicio Mercantil, podrán adoptar la forma de cualquiera de las sociedades reconocidas por las leyes mexicanas.
@@ -1545,11 +1555,11 @@ Carreteras de Cuota-Puebla llevará un registro, que contendrá la información 
 
 La Secretaría y Carreteras de Cuota-Puebla llevarán además, un registro de las sociedades que presten algún Servicio Público de Transporte o Servicio Mercantil, o en su caso, de los servicios auxiliares, así como de las Empresas de Redes de Transporte y las que se basan en el uso de las plataformas complementarias a que se refiere esta Ley y sus Reglamentos, según corresponda a su respectiva competencia.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 84.
 
-Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio del Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la autoridad competente, así como realizar el pago correspondiente ante la Secretaría de Finanzas y Administración. En seguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Por ningún motivo se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley.
+Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio del Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la autoridad competente, así como realizar el pago correspondiente ante la Secretaría de Finanzas y Administración. En seguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley y previo estudio técnico correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -2662,3 +2672,13 @@ P.O. 6 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los concesionarios o permisionarios que a la entrada en vigor del presente Decreto, se encuentren en la hipótesis de abandono, por haber ya transcurrido el término para que ésta se actualice, tendrán 30 días hábiles contados a partir del día siguiente de su publicación, para acudir ante la autoridad competente y hacer efectivos sus derechos, de lo contrario se tendrá por confirmado el abandono correspondiente.
