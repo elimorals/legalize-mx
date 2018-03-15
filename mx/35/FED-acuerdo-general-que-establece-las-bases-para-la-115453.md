@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-las-bases-para-la-115453"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-07-04"
-last_updated: "2017-05-17"
+last_updated: "2018-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115453&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-06-20"
 ---
 # ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA LA IMPLEMENTACION, INGRESO, PROMOCION Y DESARROLLO DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA CON PARIDAD DE GENERO EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL QUE ESTABLECE LAS BASES DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 15 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL QUE ESTABLECE LAS BASES PARA LA IMPLEMENTACIÓN, INGRESO, PROMOCIÓN Y DESARROLLO DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA CON PARIDAD DE GÉNERO EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2018 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 4 de julio de 2016.
 
@@ -634,3 +636,17 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas.
 
 TERCERO. Para su mayor difusión, publíquese en las páginas de intranet e internet del Tribunal Electoral del Poder Judicial de la Federación; adicionalmente, hágase del conocimiento a todas las áreas del Tribunal Electoral a partir de su entrada en vigor.
+
+D.O.F. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL QUE ESTABLECE LAS BASES DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+Primero. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las servidoras y servidores públicos en funciones que a la entrada en vigor del presente Acuerdo ocupen plazas de las consideradas como parte del Servicio Civil, no se estimarán como integrantes del mismo, sino hasta que se evalúe su desempeño de conformidad con las reglas establecidas en este acuerdo.
+
+Tercero. Se abroga el Acuerdo General que Establece las Bases para la Implementación, Ingreso, Promoción y Desarrollo del Servicio Civil de Carrera Administrativa con Paridad de Género en el Tribunal Electoral del Poder Judicial de la Federación, aprobado por el pleno de la Comisión de Administración mediante Acuerdo 179/S6(14-VI-2016), emitido en su Sexta Sesión Ordinaria celebrada el catorce de junio de dos mil dieciséis.
+
+Cuarto. Se abrogan los Lineamientos que regulan la organización y el funcionamiento del Comité del Servicio Civil de Carrera del Tribunal Electoral del Poder Judicial de la Federación, aprobados por el pleno de la Comisión de Administración mediante Acuerdo 298/S9(13-IX-2016), emitido en su Novena Sesión Ordinaria celebrada el trece de septiembre de dos mil dieciséis.
+
+Quinto. Se derogan todas aquéllas disposiciones que contravengan a lo establecido en el presente Acuerdo.
