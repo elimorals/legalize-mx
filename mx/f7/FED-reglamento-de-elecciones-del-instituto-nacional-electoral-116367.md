@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2018-03-12"
+last_updated: "2018-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2018.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7664,5 +7664,99 @@ SÉPTIMO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicia
 OCTAVO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación.
 
 NOVENO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta Electoral del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MARZO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS ANEXOS 13 Y 18.5 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL".]</small>
+
+Primero. Se aprueba modificar el Anexo 13 del Reglamento de Elecciones relativo a los Lineamientos del Programa de Resultados Electorales Preliminares, en sus numerales 29 y 33, en los siguientes términos:
+
+LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES
+
+## Título III. De la Publicación
+
+### Capítulo II. De los Datos a Publicar Derivado de su Captura y Cálculo
+
+[…]
+
+29. Los datos a calcular, en cada nivel de agregación serán los siguientes:
+
+I. Total numérico de actas esperadas;
+
+II. Total numérico de actas capturadas y su correspondiente porcentaje respecto al total de actas esperadas;
+
+III. Total numérico de actas contabilizadas y su correspondiente porcentaje respecto al total de actas esperadas;
+
+IV. Total de actas fuera de catálogo;
+
+V. El porcentaje calculado de participación ciudadana;
+
+VI. Total de votos por AEC,
+
+VII. Agregado del total de votos, por un lado, incluyendo los votos en casillas especiales y, por el otro lado, sin incluir los votos en casillas especiales, y
+
+VIII. Agregados a nivel nacional, circunscripción, entidad federativa, municipio o Alcaldía, Distrito electoral, sección y acta, según corresponda.
+
+El cálculo de la participación ciudadana deberá contemplar las actas de casillas especiales hasta el último corte de información que se publique, previo al cierre del PREP.
+
+Las actas de casillas especiales serán consideradas para el cálculo del porcentaje de participación ciudadana, únicamente, en los siguientes niveles de agregación, con base en el tipo de elección de que se trate:
+
+Tratándose de elecciones federales:
+
+a) Elección de Presidencia de la República, a nivel nacional.
+
+b) Elección de senadurías:
+
+Por el principio de mayoría relativa y primera minoría, a nivel entidad.
+
+Por el principio de representación proporcional, a nivel nacional.
+
+c) Elección de diputaciones:
+
+Por el principio de mayoría relativa, a nivel Distrito, entidad y nacional.
+
+Por el principio de representación proporcional, a nivel nacional.
+
+Tratándose de elecciones locales:
+
+a) Elección de Gubernaturas o Jefatura de Gobierno, a nivel entidad.
+
+b) Elección de diputaciones locales:
+
+Por el principio de mayoría relativa, a nivel Distrito y entidad.
+
+Por el principio de representación proporcional, a nivel entidad.
+
+c) Elección de ayuntamientos, a nivel municipio y entidad.
+
+d) Otros cargos de elección, a nivel del cargo que se elige y entidad.
+
+[…]
+
+## Título IV. Del Seguimiento a la Implementación y Operación del PREP de las Elecciones Locales
+
+### Capítulo Único. Consideraciones Generales
+
+[…]
+
+33. Para fines de seguimiento, los OPL deberán remitir al Instituto, en los plazos especificados y por el medio establecido en el Reglamento, los siguientes documentos:
+
+> <small>[N. DE E. VÉASE TABLA, EN LA TERCERA SECCIÓN DEL D.O.F. DE 15 DE MARZO DE 2018, PÁGINA 82.]</small>
+
+Segundo. Se aprueba modificar el Anexo 18.5 del Reglamento de Elecciones referente a la Estructura de los archivos CSV para el tratamiento de la base de datos relativa al Programa de Resultados Electorales Preliminares, en lo que refiere a la adición de tres campos en el encabezado de cada una de las bases de datos, en los siguientes términos:
+
+> <small>[N. DE E. VÉASE TABLA, EN LA TERCERA SECCIÓN DEL D.O.F. DE 15 DE MARZO DE 2018, PÁGINAS 83 Y 84.]</small>
+
+Tercero. El presente Acuerdo y las modificaciones a los Anexos 13 y 18.5 del Reglamento de Elecciones relativos a los Lineamientos del Programa de Resultados Electorales Preliminares y a la Estructura de los archivos CSV para el tratamiento de la base de datos del Programa de Resultados Electorales Preliminares, que forman parte integral del Reglamento de Elecciones, y que se anexan al presente Acuerdo, entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+Cuarto. El Instituto Nacional Electoral desarrollará una estrategia de difusión del Programa de Resultados Electorales Preliminares 2018 para que los medios de comunicación y la ciudadanía en general conozcan el diseño y contenido de las pantallas de información que lo conforman. La Unidad Técnica de Servicios de Informática en coordinación con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica y la Coordinación Nacional de Comunicación Social serán las responsables de desarrollar esta estrategia de difusión.
+
+Quinto. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales a efecto de que, de forma inmediata, haga del conocimiento de los Organismos Públicos Locales, el contenido del presente Acuerdo, así como los Anexos 13 y 18.5 del Reglamento de Elecciones, en los que se incluyan de manera integral las modificaciones aprobadas.
+
+Sexto. Una vez aprobado, publíquese el presente Acuerdo y los Anexos 13 y 18.5 del Reglamento de Elecciones en el portal y la Gaceta Electoral del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), EN LA TERCERA SECCIÓN DEL D.O.F. DE 15 DE MARZO DE 2018, PÁGINAS DE LA 85 A LA 97.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 18.5 ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, EN LA TERCERA SECCIÓN DEL D.O.F. DE 15 DE MARZO DE 2018, PÁGINAS DE LA 98 A LA 128.]</small>
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
