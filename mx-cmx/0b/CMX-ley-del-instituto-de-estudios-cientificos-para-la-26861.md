@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-estudios-cientificos-para-la-26861"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-10"
-last_updated: "2014-12-18"
+last_updated: "2018-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-11-11"
 ---
 # LEY DEL INSTITUTO DE ESTUDIOS CIENTIFICOS PARA LA PREVENCION DEL DELITO EN LA CIUDAD DE MEXICO -- ANTES LEY DEL INSTITUTO DE ESTUDIOS CIENTIFICOS PARA LA PREVENCION DEL DELITO EN EL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE ESTUDIOS CIENTÍFICOS PARA LA PREVENCIÓN DEL DELITO EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el martes 10 de diciembre de 2002.
 
@@ -48,19 +50,31 @@ L E Y D E L I N S T I T U T O D E E S T U D I O S C I E N T Í F I C O S P A R A
 
 ### CAPÍTULO ÚNICO.
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en todo el Distrito Federal y tienen por objeto regular el Instituto de Estudios Científicos para la Prevención del Delito en el Distrito Federal.
+Las disposiciones de esta Ley son de orden público y de observancia general en toda la Ciudad de México y tienen por objeto regular el Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México.
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley: a la Ley del Instituto de Estudios Científicos para la Prevención del Delito en el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
 
-II. Estatuto: al Estatuto Orgánico del Instituto de Estudios Científicos para la Prevención del Delito en el Distrito Federal;
+I. Ley: a la Ley del Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México;
 
-III. Instituto: al Instituto de Estudios Científicos para la Prevención del Delito en el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+II. Estatuto: al Estatuto Orgánico del Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+III. Instituto: al Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MARZO DE 2018)</small>
+
+a) (SIC) Congreso: al Congreso de la Ciudad de México;
 
 IV. Asamblea Legislativa: a la Asamblea Legislativa del Distrito Federal;
 
@@ -88,11 +102,13 @@ DE LA NATURALEZA, INTEGRACION Y ATRIBUCIONES DEL INSTITUTO.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 4.
 
 El Instituto se crea como un organismo público descentralizado de la Administración Pública, con autonomía, personalidad jurídica y patrimonio propios para el cumplimiento de sus atribuciones y fines.
 
-El Instituto, en cuanto a su régimen interior, se regirá por lo previsto en esta Ley, y en lo que no se oponga se aplicará la Ley Orgánica de la Administración Pública del Distrito Federal.
+El Instituto, en cuanto a su régimen interior, se regirá por lo previsto en esta Ley, y en lo que no se oponga se aplicará la Ley Orgánica de la Administración Pública de la Ciudad de México.
 
 ###### Artículo 5.
 
@@ -108,6 +124,8 @@ IV. Órganos de Vigilancia y de Control Interno.
 
 La Dirección General y las Coordinaciones del Instituto contarán con las estructuras administrativas que requieran para su eficaz funcionamiento, conforme al Estatuto.
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 6.
 
 El Instituto desarrollará sus actividades conforme a los siguientes fines:
@@ -118,7 +136,7 @@ II. Analizar científicamente las causas y consecuencias de los factores crimin�
 
 III. Proveer de elementos científicos a las instituciones públicas y privadas en materia criminológica y de seguridad pública, para garantizar el ejercicio de los derechos del individuo, y
 
-IV. Fomentar el desarrollo de una cultura de prevención del delito y de la legalidad entre los habitantes del Distrito Federal.
+IV. Fomentar el desarrollo de una cultura de prevención del delito y de la legalidad entre los habitantes de la Ciudad de México.
 
 ###### Artículo 7.
 
@@ -152,17 +170,29 @@ X. Las demás que le sean señaladas por esta Ley, el Estatuto y otros ordenamie
 
 El Órgano de Gobierno estará integrado por:
 
-I. Los Titulares de las siguientes dependencias de la Administración Pública, quienes se integrarán como representantes del Gobierno del Distrito Federal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MARZO DE 2018)</small>
 
-a) Secretaría de Gobierno del Distrito Federal,
+I. Los Titulares de las siguientes dependencias de la Administración Pública, quienes se integrarán como representantes del Gobierno de la Ciudad de México:
 
-b) Secretaría de Seguridad Pública del Distrito Federal,
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
 
-c) Procuraduría General de Justicia del Distrito Federal,
+a) Secretaría de Gobierno de la Ciudad de México
 
-d) Secretaría de Finanzas del Distrito Federal, y
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
 
-e) Contraloría General del Distrito Federal.
+b) Secretaría de Seguridad Ciudadana de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+c) Fiscalía General de Justicia de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+d) Secretaría de Finanzas de la Ciudad de México, y
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+e) Secretaría de la Contraloría General de la Ciudad de México
 
 II. Cuatro miembros de universidades o escuelas de estudios superiores y de la sociedad civil organizada, cuya labor sea afín a los objetivos del Instituto, con la siguiente distribución:
 
@@ -170,19 +200,29 @@ a) Dos miembros de Universidades y Escuelas de Estudios Superiores, y
 
 b) Dos representantes de la sociedad civil organizada vinculada directamente con los fines del Instituto.
 
-El Órgano de Gobierno será presidido por el titular de la coordinadora de sector correspondiente, de conformidad con lo que establece la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+El Órgano de Gobierno será presidido por el titular de la coordinadora de sector correspondiente, de conformidad con lo que establece la Ley Orgánica de la Administración Pública de la Ciudad de México.
 
 Los integrantes del Órgano de Gobierno tendrán voz y voto, así como la facultad para designar a un suplente. El cargo de integrante del Órgano de Gobierno es de carácter honorífico.
 
-Los integrantes del Órgano de Gobierno a los que se refiere la fracción I, únicamente podrán ser suplidos por un Subsecretario o Subprocurador, según sea el caso, o el auxiliar inmediato para el despacho de los asuntos de las dependencias, quien no podrá tener un nombramiento menor a Director General. Durarán en su encargo, el tiempo en que se encuentren en funciones gubernamentales, conforme a los ordenamientos jurídicos aplicables
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
 
-Los integrantes del Órgano de Gobierno a los que se refiere la fracción II del presente artículo durarán en su encargo cuatro años, y podrán ser propuestos o, en su caso, reelectos por un período más, por los propios organismos interesados, quienes someterán las propuestas a consideración de la Asamblea Legislativa, previo dictamen de la Comisión de Seguridad Pública.
+Los integrantes del Órgano de Gobierno a los que se refiere la fracción I, únicamente podrán ser suplidos por un Subsecretario o por la persona designada por la o el Fiscal General según sea el caso, o el auxiliar inmediato para el despacho de los asuntos de las dependencias, quien no podrá tener un nombramiento menor a Director General. Durarán en su encargo, el tiempo en que se encuentren en funciones gubernamentales, conforme a los ordenamientos jurídicos aplicables.
 
-La Asamblea Legislativa propondrá el nombramiento al Jefe de Gobierno de los integrantes del Órgano de Gobierno a los que se refiere la fracción II, con el voto de la mayoría de sus miembros en la sesión respectiva. De no aprobarse la propuesta, se deberá realizar una nueva. La propuesta por parte de la Asamblea Legislativa deberá hacerse en un plazo no mayor a sesenta días, contados a partir de que el Jefe de Gobierno le informe de la vacante. Durante los recesos de la Asamblea Legislativa será la Comisión de Gobierno de la misma, la que aprobará y remitirá la propuesta que le formule la Comisión de Seguridad Pública.
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+Los integrantes del Órgano de Gobierno a los que se refiere la fracción II del presente artículo durarán en su encargo cuatro años, y podrán ser propuestos o, en su caso, reelectos por un período más, por los propios organismos interesados, quienes someterán las propuestas a consideración del Congreso de la Ciudad de México, previo dictamen de la Comisión encargada.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
+El Congreso de la Ciudad de México propondrá el nombramiento al Jefe de Gobierno de los integrantes del Órgano de Gobierno a los que se refiere la fracción II, con el voto de la mayoría de sus integrantes en la sesión respectiva. De no aprobarse la propuesta, se deberá realizar una nueva. La propuesta por parte del Congreso de la Ciudad de México deberá hacerse en un plazo no mayor a sesenta días, contados a partir de que el Jefe de Gobierno le informe de la vacante. Durante los recesos del Congreso se hará el nombramiento de conformidad con lo que (sic) establecido por la Ley Orgánica del Congreso de la Ciudad de México, previa aprobación de la Comisión encargada.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
 
 ###### Artículo 9.
 
-A las sesiones del Órgano de Gobierno podrán asistir los Presidentes de las Comisiones de Seguridad Pública, de Administración y Procuración de Justicia y de Derechos Humanos de la Asamblea Legislativa, con derecho a voz, pero sin voto, quienes tendrán como función principal, conforme a los ordenamientos jurídicos aplicables, coadyuvar en la realización de los fines del Instituto.
+A las sesiones del Órgano de Gobierno podrán asistir los Presidentes de las Comisiones en materia (sic) Seguridad Procuración de Justicia y de Derechos Humanos del Congreso de la Ciudad de México, con derecho a voz, pero sin voto, quienes tendrán como función principal, conforme a los ordenamientos jurídicos aplicables, coadyuvar en la realización de los fines del Instituto.
 
 ###### Artículo 10.
 
@@ -200,6 +240,8 @@ IV. Las demás que le sean señaladas por esta Ley, el Estatuto y otros ordenami
 
 ### CAPÍTULO SEGUNDO.. DE LAS SESIONES
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 11.
 
 El Órgano de Gobierno deberá sesionar de forma ordinaria, por lo menos, una vez cada dos meses, mediante convocatoria realizada por el Presidente del mismo o de forma extraordinaria cuando las dos terceras partes de los integrantes del Órgano de Gobierno, lo estimen necesario.
@@ -208,7 +250,7 @@ La convocatoria y los asuntos a tratar con la debida documentación deberán ser
 
 Las sesiones deberán ser públicas y para efectuarse requerirán de la asistencia de la mitad más uno de sus integrantes.
 
-Los integrantes del Órgano de Gobierno, señalados en la fracción II, del artículo 8, dejarán de ser miembros de éste cuando no acudan, sin causa justificada, a cuatro reuniones consecutivas. Por lo que, el Presidente del Órgano de Gobierno, previa notificación a dicho integrante, lo informará a la Asamblea Legislativa, a efecto, de llevar a cabo el procedimiento de proponer a un nuevo miembro. También se informará de las inasistencias del resto de los miembros.
+Los integrantes del Órgano de Gobierno, señalados en la fracción II, del artículo 8, dejarán de ser miembros de éste cuando no acudan, sin causa justificada, a cuatro reuniones consecutivas. Por lo que, el Presidente del Órgano de Gobierno, previa notificación a dicho integrante, lo informará al Congreso de la Ciudad de México a efecto, de llevar a cabo el procedimiento de proponer a un nuevo miembro. También se informará de las inasistencias del resto de los miembros.
 
 ###### Artículo 12.
 
@@ -254,7 +296,9 @@ La Dirección General estará a cargo de un Director General que deberá reunir 
 
 I. Ser ciudadano mexicano en el ejercicio de sus derechos;
 
-II. Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de su designación;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+II. Ser originario de la Ciudad de México o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de su designación;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -266,11 +310,13 @@ V. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera de
 
 VI. Estar inscrito en el sistema nacional de investigadores o tener reconocido prestigio en áreas de investigación o docencia de materias vinculadas con los fines del Instituto, a nivel nacional o local, con experiencia de al menos cinco años.
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 16.
 
-El Director General será nombrado por el Jefe de Gobierno del Distrito Federal, de entre la terna que para el efecto proponga la Asamblea Legislativa.
+El Director General será nombrado por el Jefe de Gobierno de la Ciudad de México, de entre la terna que para el efecto proponga el Congreso.
 
-Para formular la propuesta, la Asamblea Legislativa, por conducto de la Comisión de Seguridad Pública, convocará a los sectores especializados, asociaciones, colegios, entidades o personalidades, que en el desempeño de sus actividades se hayan distinguido por interesarse en la realización de acciones afines a las materias que conoce el Instituto, con la finalidad de que propongan candidatos para ocupar la Dirección General.
+Para formular la propuesta, el Congreso, de la Ciudad de México, por conducto de la Comisión encargada, convocará a los sectores especializados, asociaciones, colegios, entidades o personalidades, que en el desempeño de sus actividades se hayan distinguido por interesarse en la realización de acciones afines a las materias que conoce el Instituto, con la finalidad de que propongan candidatos para ocupar la Dirección General.
 
 ###### Artículo 17.
 
@@ -318,9 +364,13 @@ V. Formular y remitir el proyecto anual de presupuesto del Instituto al Órgano 
 
 VI. Ejercer el Presupuesto anual asignado con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VII. Presentar anualmente ante la Asamblea Legislativa un informe pormenorizado respecto a las actividades del Instituto;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
 
-VIII. Realizar los proyectos de investigación coyunturales y estratégicos, propuestos por la Asamblea Legislativa y las instituciones del sistema de seguridad pública del Distrito Federal;
+VII. Presentar anualmente ante el Congreso de la Ciudad de México un informe pormenorizado respecto a las actividades del Instituto;
+
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+VIII. Realizar los proyectos de investigación coyunturales y estratégicos, propuestos por el Congreso y las instituciones del Sistema de Seguridad de la Ciudad de México;
 
 IX. Realizar una evaluación de la gestión sobre el cumplimiento de las funciones del Instituto ante el Órgano de Gobierno, y
 
@@ -364,7 +414,9 @@ I. Planear, organizar y coordinar las acciones que se realicen por el Instituto 
 
 II. Fomentar y fortalecer la investigación científica, tecnológica y aplicada a nivel nacional e internacional;
 
-III. Elaborar análisis coyunturales y estratégicos para coadyuvar en la toma de decisiones de los órganos de gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+III. Elaborar análisis coyunturales y estratégicos para coadyuvar en la toma de decisiones de los órganos de gobierno de la Ciudad de México;
 
 IV. Comprobar y verificar el diseño, método y análisis de los resultados de los proyectos de investigación; así como, realizar seguimiento a los avances de los mismos;
 
@@ -396,15 +448,19 @@ V. Las demás que le sean señaladas por esta Ley, el Estatuto y otros ordenamie
 
 ### CAPÍTULO ÚNICO.
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 24.
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados conforme a la normatividad jurídica aplicable, por la Contraloría General del Distrito Federal.
+El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados conforme a la normatividad jurídica aplicable, por la Secretaría de la Contraloría de la Ciudad de México.
 
-El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Distrito Federal le asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General del Instituto deberán proporcionar la información que solicite el Comisario Público.
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría de la Ciudad de México le asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General del Instituto deberán proporcionar la información que solicite el Comisario Público.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
 
 ###### Artículo 25.
 
-El Instituto contará con un órgano de control interno adscrito jerárquica, técnica y funcionalmente a la Contraloría General, y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme a la legislación correspondiente y a los lineamientos que emita la Contraloría General del Distrito Federal.
+El Instituto contará con un órgano de control interno adscrito jerárquica, técnica y funcionalmente a la Secretaría de la Contraloría y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme a la legislación correspondiente y a los lineamientos que emita la Secretaría de la Contraloría de la Ciudad de México.
 
 ###### Artículo 26.
 
@@ -414,7 +470,9 @@ I. Tramitar las quejas y denuncias por incumplimiento de las obligaciones de los
 
 II. Examinar y evaluar los sistemas mecanismos y procedimientos de control; efectuar revisiones y auditorias, así como vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones legales aplicables;
 
-III. Presentar a la Contraloría General del Distrito Federal, los informes resultantes de las auditorias, exámenes y evaluaciones realizados;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+III. Presentar a la Secretaría de la Contraloría General de la Ciudad de México, los informes resultantes de las auditorias, exámenes y evaluaciones realizados;
 
 IV. Actualizar conjuntamente con el área competente el padrón de servidores públicos del Instituto. Administrar, con sistemas de seguridad, la información relativa a los antecedentes de responsabilidad administrativa, y
 
@@ -428,7 +486,9 @@ V. Las demás que le sean señaladas por esta Ley, el Estatuto y otros ordenamie
 
 El Instituto contará con patrimonio propio y se integrará por:
 
-I. La partida presupuestal que se apruebe por la Asamblea Legislativa en el Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+I. La partida presupuestal que se apruebe por el Congreso de la Ciudad de México en el Presupuesto de Egresos de la Ciudad de México;
 
 II. Derechos y bienes muebles e inmuebles que le sean asignados por el sector público;
 
@@ -440,9 +500,11 @@ V. Los fondos que obtenga por financiamiento especifico, y
 
 VI. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales.
 
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2018)</small>
+
 ###### Artículo 28.
 
-El Presupuesto de Egresos del Distrito Federal deberá contener las partidas y previsiones necesarias para el ejercicio de las atribuciones del Instituto.
+El Presupuesto de Egresos de la Ciudad de México deberá contener las partidas y previsiones necesarias para el ejercicio de las atribuciones del Instituto.
 
 ###### Artículo 29.
 
@@ -456,7 +518,9 @@ I. El Instituto vigilará la aplicación y aprovechamiento de los fondos que rec
 
 II. Los beneficiarios rendirán al Instituto informes periódicos convenidos sobre el desarrollo y resultado de sus trabajos;
 
-III. Los derechos de propiedad industrial respecto de los resultados obtenidos por los beneficiarios del apoyo económico del Instituto, se regularán específicamente en los convenios que se hubiesen celebrado, en los que se protegerá los intereses de la Nación, los del Distrito Federal, del Instituto y de los investigadores.
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2018)</small>
+
+III. Los derechos de propiedad industrial respecto de los resultados obtenidos por los beneficiarios del apoyo económico del Instituto, se regularán específicamente en los convenios que se hubiesen celebrado, en los que se protegerán los intereses de la Nación, los de la Ciudad de México, del Instituto y de los investigadores.
 
 ###### Artículo 31.
 
@@ -547,3 +611,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE ESTUDIOS CIENTÍFICOS PARA LA PREVENCIÓN DEL DELITO EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 5 de diciembre de 2018, de conformidad con lo establecido en el párrafo segundo del artículo transitorio décimo primero de la Constitución Política de la Ciudad de México.
+
+TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+CUARTO.- Todas las referencias hechas a la Fiscalía General de Justicia de la Ciudad de México, se entenderán como facultades concedidas a la Procuraduría General de Justicia del Distrito Federal, en tanto no se hagan las adecuaciones normativas a la institución referida.
+
+QUINTO.- En cuanto a lo que se refiere a Seguridad Pública, es facultad del Congreso de la Ciudad de México hacer las adecuaciones a la presente ley una vez que se hayan expedido los ordenamientos jurídicos en materia de Seguridad Ciudadana.
