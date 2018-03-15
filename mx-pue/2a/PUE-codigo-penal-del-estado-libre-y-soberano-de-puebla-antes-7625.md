@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2017-12-29"
+last_updated: "2018-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1105,15 +1105,23 @@ La sanción prevista en el artículo 83 del presente Código, se incrementará d
 
 La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis y 86 del presente Código.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
 
 ###### Artículo 85 Bis.
 
-Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumeradas en los artículos 307 y 308 fracciones IV y V de este ordenamiento legal, se sancionará de dos a nueve años de prisión, si el acusado, al cometer el delito, se hallaba en estado de embriaguez, superior al primer grado o bajo el efecto de enervantes, estupefacientes o psicotrópicos o cualquier sustancia que produzca un efecto similar, o si el conductor se da a la fuga o abandona el lugar del accidente.
+Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumeradas en los artículos 307 y 308 fracciones IV y V de este Ordenamiento Legal, se sancionarán de dos a nueve años de prisión al que:
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
+I.- Al cometer el delito se hallaba en estado de embriaguez superior al primer grado o bajo el efecto de enervantes, estupefacientes o psicotrópicos o cualquier sustancia que produzca un efecto similar;
 
-Además se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos automotores expedida por cualquier instancia. La duración de la suspensión podrá ser de uno a diez años.
+II.- Lo cometa al invadir con un vehículo, el carril exclusivo para la circulación del Sistema de Transporte Público Masivo, alguna ciclovía o zona asignada al peatón;
+
+III.- Lo cometa al conducir un vehículo mientras utiliza un teléfono celular u otro dispositivo electrónico móvil que lo distraiga o le dificulte la conducción; y
+
+IV.- Se dé a la fuga o abandone el lugar del accidente.
+
+Quedan exceptuados de lo dispuesto por la fracción II del presente artículo, en lo que respecta al uso del carril exclusivo para la circulación del Sistema de Transporte Público Masivo, los conductores de vehículos de emergencia.
+
+Además se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos expedida por cualquier instancia. La duración de la suspensión podrá ser de uno a diez años.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -6632,3 +6640,11 @@ CUARTO. En términos del artículo 142 Bis del Código Penal del Estado Libre y 
 El delito de evasión de presos referido en los artículos 167, 168, 169, 170, 171, 173, 174, 175, 176 y 177, derogados por este Decreto, no se extinguen, por permanecer la descripción de la conducta sancionada penalmente en los artículos 436 Sexies, 436 Septies, 436 Octies, 436 Nonies, 436 Decies, 436 Undecies, 436 Duodecies y 436 Terdecies, en el mismo ordenamiento legal.
 
 Por lo que hace los delitos de Tortura y otros tratos o penas crueles, inhumanos o degradantes y sus sanciones, se aplicarán las disposiciones que establece la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+P.O. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 85 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
