@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-36853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2016-01-14"
+last_updated: "2018-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36853&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2004-01-26"
 ---
 # REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -560,7 +560,7 @@ VII. Garantice por cualquier medio previsto por el Código Civil vigente en el D
 
 ###### Artículo 46.
 
-Los Programas de Desarrollo Urbano determinan las áreas susceptibles de aplicación e la transferencia de potencialidad de desarrollo urbano, con base en las características establecidas por los coeficientes de utilización y ocupación del suelo, de conformidad con lo que establezcan los Lineamientos Técnicos correspondientes.
+Los Programas de Desarrollo Urbano determinan las áreas susceptibles de aplicación de la transferencia de potencialidad de desarrollo urbano, con base en las características establecidas por los coeficientes de utilización y ocupación del suelo, de conformidad con lo que establezcan los Lineamientos Técnicos correspondientes.
 
 ###### Artículo 47.
 
@@ -1761,3 +1761,21 @@ G.O. 14 DE ENERO DE 2016.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación y abroga al Reglamento de la Ley de Desarrollo Urbano publicado en la Gaceta Oficial del Distrito Federal el 29 de enero de 2004.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en este ordenamiento.
+
+CUARTO.- Los trámites y procedimientos iniciados con anterioridad a la publicación del presente Reglamento, continuarán su trámite de conformidad con la normativa bajo la cual se iniciaron, salvo los casos en materia de Asentamientos Humanos Irregulares, los cuales deberán sujetarse a lo establecido en el presente ordenamiento.
+
+QUINTO.- La Secretaría iniciará ante la Coordinación General de Modernización Administrativa la actualización del contenido del Manual de Trámites y Servicios al Público, de conformidad con lo establecido en el presente Reglamento, en un plazo no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente ordenamiento.
+
+SEXTO.- Hasta en tanto se instale el Consejo Consultivo a que se refiere el artículo 25 de la Ley, lo dispuesto en el artículo 39 del presente Reglamento será atendido por la Secretaría a través de la Dirección General de Desarrollo Urbano.
+
+SÉPTIMO.- Las Comisiones de Regulación Especial que a solicitud de su presidente, no hayan remitido a la Comisión de Evaluación de Asentamientos Humanos Irregulares, la totalidad de los expedientes que hayan sido de su conocimiento, tanto los concluidos como los que sigan abiertos a la fecha de la solicitud, contarán con un término de 30 días naturales computable a partir de la entrada en vigor del presente Decreto, para hacerlo. La omisión de atender la solicitud señalada, será causa de responsabilidad administrativa. Las Comisiones de Evaluación de Asentamientos Irregulares competentes por territorio instaladas antes de la publicación del presente Decreto deberán sujetarse a lo establecido en este ordenamiento.
