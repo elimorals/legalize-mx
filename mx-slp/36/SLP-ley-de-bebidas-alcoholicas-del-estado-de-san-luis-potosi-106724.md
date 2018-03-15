@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2016-10-06"
+last_updated: "2018-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -339,13 +339,15 @@ X. Carta de no antecedentes penales, expedida por autoridad competente, en relac
 
 En lo que respecta a las fracciones IV, VII y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la cual tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Así mismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir el dictamen respectivo. En caso de que las autoridades correspondientes no emitan los dictámenes en los plazos señalados, serán sujetos de las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-Una vez reunidos los requisitos, las autoridades competentes tendrán un plazo de dos meses, para resolver respecto de la solicitud de otorgamiento de licencia; en caso contrario se considerará como negativa ficta.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
+
+Una vez reunidos los requisitos, las autoridades competentes tendrán un plazo de dos meses para resolver respecto de la solicitud de otorgamiento de licencia; en caso de que la respuesta sea negativa, se otorgará al solicitante un plazo de dos meses para solventar las inconsistencias que la motivaron. Una vez solventada la solicitud la autoridad tendrá el plazo de un mes para resolver de manera definitiva. En todo caso, la autoridad estará obligada a resolver por escrito al solicitante sobre su petición.
 
 Tratándose de licencias temporales, el solicitante deberá cubrir los requisitos señalados en las fracciones I, II, IV y VII de este artículo, especificando la fecha y duración del evento o espectáculo a realizar; en los casos de licencia de degustación, el solicitante deberá cubrir los requisitos señalados en las fracciones I y II de este artículo.
 
 ###### ARTÍCULO 18.
 
-Presentada la solicitud y documentos señalados en el artículo anterior, la autoridad estatal o municipal, según sea el caso, dentro del término de treinta días hábiles, llevará a cabo una visita al establecimiento para verificar los datos proporcionados, notificándole con (sic) por lo menos cuarenta y ocho horas de anticipación al solicitante, para que se encuentre presente durante la verificación y firme de conformidad el acta respectiva. Las visitas de verificación deberán cumplir el procedimiento que establece la Ley de Procedimientos Administrativos del Estado.
+Presentada la solicitud y documentos señalados en el artículo anterior, la autoridad estatal o municipal, según sea el caso, dentro del término de treinta días hábiles, llevará a cabo una visita al establecimiento para verificar los datos proporcionados, notificándole con por lo menos cuarenta y ocho horas de anticipación al solicitante, para que se encuentre presente durante la verificación y firme de conformidad el acta respectiva. Las visitas de verificación deberán cumplir el procedimiento que establece la Ley de Procedimientos Administrativos del Estado.
 
 ###### ARTÍCULO 19.
 
@@ -789,7 +791,7 @@ Lic. José Eduardo González Sierra
 
 P.O. 21 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0257.- SE REFORMA EL ARTÍCULO 2° EN SUS FRACCIONES, XXXVII, Y XXXVIII; Y ADICIONA AL MISMO ARTÍCULO 2° LA FRACCIÓN XXXIX, DE Y A (SIC) LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0257.- SE REFORMA EL ARTÍCULO 2° EN SUS FRACCIONES, XXXVII, Y XXXVIII; Y ADICIONA AL MISMO ARTÍCULO 2° LA FRACCIÓN XXXIX, DE Y A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -802,3 +804,11 @@ P.O. 6 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 15 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 908.- SE REFORMA EL ARTÍCULO 17 EN SU PÁRRAFO PENÚLTIMO, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
