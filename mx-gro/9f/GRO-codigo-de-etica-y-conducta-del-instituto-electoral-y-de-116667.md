@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-y-conducta-del-instituto-electoral-y-de-116667"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-03-08"
-last_updated: "2016-03-08"
+last_updated: "2018-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO DE ETICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO 035/SO/26-02-2018, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018 (ABROGADO).
 
 Código publicado en el Alcance I al Número 20 del Periódico Oficial del Estado de Guerrero, el martes 8 de marzo de 2016.
 
@@ -328,3 +330,17 @@ Una visión ecológica y sustentable favorece la calidad de vida de todos los se
 - - - QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTA (SIC) DE SESENTA Y UNO FOJAS ÚTILES, DEBIDAMENTE FOLIADAS, SELLADAS Y RUBRICADAS, SON REPRODUCIDAS FIELMENTE CON SU ORIGINAL, RELATIVAS AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 20 ALCANCE I, AÑO XCVII DE FECHA NUEVE DE MARZO DEL DOS MIL DIECISÉIS, MISMO QUE TUVE A LA VISTA, EL CUAL OBRA EN LOS ARCHIVOS DE LA SECRETARÍA GENERAL DE GOBIERNO.- - - - - - - - - - - - - - -
 
 - - - SE EXTIENDE LA PRESENTE, PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A DIEZ DE OCTUBRE DEL DOS MIL DIECISÉIS.- CONSTE. - - - -
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO 035/SO/26-02-2018 POR EL QUE SE APRUEBA EL CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO" QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Código de Ética y Conducta del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, mismo que corre agregado y forma parte del presente acuerdo.
+
+Segundo. Se abroga el Código de Ética y Conducta del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, aprobado mediante acuerdo 012/SO/24/02/2016 del veinticuatro de febrero del dos mil dieciséis.
+
+TERCERO. El presente acuerdo entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+CUARTO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado, así como en la página web del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
