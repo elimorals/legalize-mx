@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-83803"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-16"
-last_updated: "2011-11-16"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE FUSIONES, DIVISIONES, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 16 de noviembre de 2011.
 
@@ -31,7 +31,9 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI Y 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y 6, FRACCIÓN I, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -191,7 +193,9 @@ I. Solicitud en el formato expedido por la Dirección. En caso de no ser propiet
 
 II. Escritura pública o título de propiedad;
 
-III. Licencia de uso del suelo con plano autorizado vigente conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+III. Licencia de uso de suelo con plano autorizado vigente conforme a la normativa aplicable. En el caso de la fusión de inmuebles en los que se desarrollen proyectos que revistan un fin público, interés general o sean de uso común, las autoridades competentes del gobierno federal, estatal o municipal, podrán acceder a las compatibilidades que resulten aplicables, para cuyo efecto deberán presentar la licencia del uso de suelo que pretenda que prevalezca por ser la más acorde con el proyecto respectivo;
 
 IV. Factibilidad de agua potable emitida por la autoridad competente para cada una de las fracciones;
 
@@ -219,7 +223,7 @@ c. Plano general de instalaciones hidráulicas, sanitarias y eléctricas de la c
 
 Además de satisfacerse los requisitos previstos en el presente Reglamento, antes de otorgarse una autorización de fusión, división o modificación de alguna de estas acciones; la Dirección deberá tomar en consideración lo siguiente:
 
-l. Si cuenta con antecedente de división anterior, a efecto de que no se incurra en la figura de un fraccionamiento;
+I. Si cuenta con antecedente de división anterior, a efecto de que no se incurra en la figura de un fraccionamiento;
 
 II. Se deberá garantizar conforme a este Reglamento, la reparación o reposición de los pavimentos, banquetas, guarniciones o cualquier parte de edificaciones contiguas que puedan resultar afectadas, y
 
@@ -597,7 +601,7 @@ C. Moderna.- Una vivienda equipada para el acceso a la red de Internet y con efi
 
 D. En una comunidad solidaria y responsable.- Que incluya:
 
-l. Un mecanismo para facilitar el correcto pago del predial en los Municipios con grado básico de sustentabilidad y del mantenimiento controlado por organizaciones vecinales;
+I. Un mecanismo para facilitar el correcto pago del predial en los Municipios con grado básico de sustentabilidad y del mantenimiento controlado por organizaciones vecinales;
 
 II. Equipada con un centro comunitario, en fraccionamientos de más de 5,000 habitantes, o una cancha deportiva mayor a 1400 habitantes, y
 
@@ -605,7 +609,7 @@ III. Conformada por derechohabientes que, al momento de adquirir su vivienda, lo
 
 E. Construida por desarrolladores socialmente responsables en un marco de planeación urbana integral sustentable.- Es decir una vivienda construida:
 
-l. Por los desarrolladores con mejor índice de satisfacción de los acreditados (ISA) mayor a 75, o a falta de ello un índice de calidad de la vivienda (ICAVI) mayor a 72;
+I. Por los desarrolladores con mejor índice de satisfacción de los acreditados (ISA) mayor a 75, o a falta de ello un índice de calidad de la vivienda (ICAVI) mayor a 72;
 
 II. Que cumplan con los compromisos adoptados ante el esquema de incentivo de la vivienda sustentable;
 
@@ -659,7 +663,7 @@ Para efecto del cómputo de la vigencia de las autorizaciones a que refiere el a
 
 Para la renovación de cualquiera de las autorizaciones otorgadas por la Comisión o la Dirección, deberán actualizarse los siguientes documentos:
 
-l. Certificado de libertad de gravamen expedido con una antelación no mayor a seis meses;
+I. Certificado de libertad de gravamen expedido con una antelación no mayor a seis meses;
 
 II. Plano catastral verificado en campo vigente conforme a la normatividad aplicable;
 
@@ -720,3 +724,27 @@ EL SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 ARQ. DEMETRIO ROMÁN ISIDORO.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS; DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE FUSIONES, DIVISIONES, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS Y DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+TERCERA. Los estudios de impacto urbano que se encuentren en proceso de evaluación a la entrada en vigor del presente Decreto, se sujetarán a lo previsto en éste último.
+
+CUARTA. Por única ocasión y de manera extraordinaria y emergente, a fin de coadyuvar en la estrategia de reconstrucción tanto física como productiva y social, desplegada ante el desastre natural que afectó al estado de Morelos con motivo del sismo del 19 de septiembre de 2017, se establece el siguiente régimen de excepción al procedimiento y requisitos a que aluden los reformados artículos 37 Bis y 37 Ter, así como el adicionado 37 Octavus, todos del Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, en Materia de Ordenamiento Territorial:
+
+I. Los interesados en solicitar el cambio de destino de suelo para realizar en él los proyectos públicos a que se refiere la fracción IV del citado artículo 37 Bis, contarán con un plazo de diez días hábiles, contados a partir del día siguiente a la entrada en vigor del presente instrumento, para presentar formal solicitud ante la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acompañada del respectivo proyecto de modificación que contendrá los requisitos reglamentarios respectivos. Transcurrido el plazo a que se refiere la presente fracción, no se recibirán más solicitudes;
+
+II. Integrado el expediente, la Secretaría emitirá dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, dentro del plazo de veinte días hábiles, contados a partir de la integración del expediente completo por parte del interesado;
+
+III. Cumplidas y documentadas las formalidades, el interesado remitirá a la Secretaría el proyecto de modificación, posteriormente ésta los remitirá junto con el respectivo dictamen de congruencia al Ayuntamiento de que se trate para su aprobación en la sesión de Cabildo correspondiente, quien ordenará la publicación del proyecto de modificación completo en el Periódico Oficial “Tierra y Libertad” y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, a la brevedad posible dada la emergencia, el fin público y el interés general que prevalece, y
+
+IV. La Secretaría editará la modificación al Programa para su difusión y el municipio lo mantendrá a consulta permanente.
+
+QUINTA. Con independencia de lo previsto en las Disposiciones Transitorias Tercera y Cuarta, a los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
