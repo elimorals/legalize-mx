@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2017-10-26"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -87,7 +87,9 @@ III.- La atención materno-infantil;
 
 IV.- La prestación de servicios de planificación familiar;
 
-V.- La salud mental;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+V.- La salud mental, visual, auditiva y bucodental;
 
 VI.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
@@ -232,6 +234,18 @@ VII.- Coadyuvar en la modificación de los patrones culturales que determinen h�
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 VIII.- Promover un sistema de fomento sanitario en actividades, establecimientos, productos y servicios, sujetos a vigilancia sanitaria.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+X.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+XI.- Promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -517,7 +531,11 @@ IX.- La promoción del mejoramiento de la nutrición;
 
 X.- La asistencia social a los grupos más vulnerables; y
 
-XI.- Las demás que establezca esta ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+XI.- La atención médica a las personas adultas mayores en áreas de salud geriátrica; y
+
+XII.- Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 29.
 
@@ -3474,3 +3492,9 @@ Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de noventa días, contados a partir del inicio de vigencia del presente Decreto.
 
 Artículo Tercero. El Consejo Estatal de Trasplantes deberá celebrar su primera sesión ordinaria dentro de los treinta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 294, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
