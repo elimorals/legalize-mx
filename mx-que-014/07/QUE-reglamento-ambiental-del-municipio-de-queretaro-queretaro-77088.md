@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-ambiental-del-municipio-de-queretaro-queretaro-77088
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-15"
-last_updated: "2010-10-15"
+last_updated: "2018-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 ---
 # REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE PROTECCIÓN AMBIENTAL Y CAMBIO CLIMÁTICO DEL MUNICIPIO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 15 de octubre de 2010.
 
@@ -458,3 +460,19 @@ LIC. J. APOLINAR CASILLAS GUTIÉRREZ
 SECRETARIO DEL AYUNTAMIENTO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN AMBIENTAL Y CAMBIO CLIMÁTICO DEL MUNICIPIO DE QUERÉTARO”.]
+
+PRIMERO. Publíquese el presente reglamento en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor a partir del día 1 de abril de 2018.
+
+TERCERO. Se abroga el Reglamento Ambiental del Municipio de Querétaro publicado en fecha 21 de septiembre de 2010 en la Gaceta Municipal y en fecha 15 de octubre de 2010 en el Periódico Oficial del Poder Ejecutivo del Gobierno del Estado "La Sombra de Arteaga".
+
+CUARTO. Se derogan todas aquellas disposiciones del Código Municipal de Querétaro y todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO. Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo al titular de la Secretaría de Desarrollo Sostenible del Municipio de Querétaro.
