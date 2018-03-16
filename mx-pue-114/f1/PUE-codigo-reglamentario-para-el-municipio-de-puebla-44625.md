@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-12-07"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -12543,7 +12543,7 @@ Tabla sanciones.
 
 > <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS 55 A LA 59.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 18.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 18; 16 DE MARZO DE 2018, PÁGINA 6.]</small>
 
 Nota 1: En el caso de aplicación de sanciones para DRO y Corresponsables, cuando se acumulen dos amonestaciones en el periodo de un año, procede la inhabilitación para ejercer por dos años.
 
@@ -14261,11 +14261,13 @@ Los fraccionamientos de urbanización progresiva deberán contar, cuando menos, 
 
 Las obras de urbanización pueden realizarse por etapas, pero se aprobará un solo plan maestro que considere la manera en que se realizarán los trabajos, considerando que cada etapa debe concluirse íntegramente, es decir, contar con los servicios necesarios para que sea autosuficiente.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 840.
 
-Las dependencias, organismos y empresas públicas y privadas que pretendan realizar trabajos de adecuación de la infraestructura para la distribución, conexión, suministro, mejora, ampliaciones, cancelación y demás actividades para la prestación de servicios urbanos de agua, energía eléctrica, telecomunicaciones, combustibles, manejo y disposición de residuos sólidos, debajo o sobre, a cualquier altura de la vía o espacio público del territorio municipal, deberán obtener la licencia de la Dirección antes de iniciar dichos trabajos.
+Las dependencias, organismos y empresas públicas y privadas que pretendan realizar trabajos de adecuación de la infraestructura para la distribución, conexión, suministro, mejora, ampliaciones, cancelación y demás actividades para la prestación de servicios urbanos de gas L.P, gas natural, fibra óptica, telefonía, de agua, drenaje sanitario, pluvial, energía eléctrica, telecomunicaciones, combustibles, manejo y disposición de residuos sólidos, debajo o sobre, de la vía o espacio público a cualquier altura del territorio municipal, deberán obtener el Dictamen vial por Obra en vía pública, así como la licencia en la Dirección de Desarrollo Urbano antes de iniciar dichos trabajos, así como también la Factibilidad de Obra en vía pública en la Dirección de Obras Públicas perteneciente a la Secretaría de Infraestructura y Servicios Públicos.
+
+Las dependencias y entidades públicas, así como las personas físicas o morales cuyas actividades de planeación, diseño, construcción, operación y mantenimiento de instalaciones y de estructuras que tengan algún efecto en la vía pública, deberán presentar a la Secretaría de Infraestructura y Servicios Públicos al inicio de cada ejercicio anual sus programas de obras para su revisión y aprobación.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -14307,11 +14309,13 @@ La ocupación del espacio público con mobiliario urbano utilizado con fines pub
 
 Las licencias o concesiones que la Dirección otorgue para el uso de la vía pública no crean ningún derecho real o posesorio. Tales permisos o concesiones serán siempre revocables y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito de los accesos a los predios colindantes, de los servicios públicos instalados o en general, de cualquiera de los fines a que esté destinada la vía pública.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 844.
 
-Toda persona que ocupe, con obras o instalaciones, el espacio público estará obligada a retirarlas o a cambiarlas de lugar por su exclusiva cuenta cuando la autoridad municipal correspondiente se lo requiera, así como mantener las señales necesarias y evitar cualquier clase de accidente.
+Toda persona que ocupe, con obras o instalaciones, el espacio público estará obligada a exhibir en un lugar visible los siguientes datos: Tipo de obra, Número de permiso, Responsable de la Obra, Duración de los trabajos así como retirarlas o a cambiarlas de lugar por su exclusiva cuenta cuando la autoridad municipal correspondiente se lo requiera, así como mantener las señales necesarias y evitar cualquier clase de accidente.
+
+En caso que el permiso incluya varias calles, el Responsable de la obra estará obligado a colocar un anuncio con los datos señalados en el párrafo anterior, por cada calle a intervenir durante el tiempo que se lleven a cabo los trabajos.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -14321,11 +14325,11 @@ En las licencias que la Dirección expida para la ocupación o uso del espacio p
 
 Cuando las obras o instalaciones ocupen el arroyo de tránsito vehicular, se deberá hacer estar (sic) conforme a lo establecido en el Capítulo 10 del COREMUN.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 846.
 
-En caso de fuerza mayor, las empresas de servicios públicos podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligadas a dar aviso y solicitar la autorización correspondiente en un plazo de veinticuatro horas posteriores a aquel en que se inicien dichas obras.
+En caso de fuerza mayor, las empresas de servicios públicos podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligadas a dar aviso por escrito, justificando el motivo de la urgencia, para solicitar la autorización y factibilidad ante las autoridades correspondientes en un plazo de veinticuatro horas posteriores en que se inicien dichas obras.
 
 Cuando la autoridad municipal tenga necesidad de remover o retirar dichas obras no estará obligada a pagar cantidad alguna y el costo del retiro será a cargo de la empresa correspondiente.
 
@@ -14353,19 +14357,21 @@ Los vehículos que carguen o descarguen materiales para una obra podrán estacio
 
 El que ocupe sin autorización la vía pública con construcciones o instalaciones superficiales, aéreas o subterráneas, estará obligado a retirarlas o a demolerlas, independientemente de la sanción administrativa a que se haga acreedor.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 851.
 
-Cuando por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquier otra causa se produzcan daños a cualquier servicio público, obra o instalación perteneciente al H. Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público, y con el objetivo de garantizar que sea de la misma calidad y materiales que aquellos que se hayan deteriorado o perdido, la Secretaría de manera inmediata llevará a cabo las gestiones necesarias para reparar los daños ocasionados, y el costo que resulte será a cargo del dueño de la obra, del vehículo, del objeto o de la sustancia peligrosa, independientemente de la responsabilidad legal en que incurra.
+Cuando por la ejecución de una obra, por el uso de vehículos, objetos o substancias peligrosas, o por cualquier otra causa se produzcan daños a cualquier servicio público, obra o instalación perteneciente al H. Ayuntamiento, que exista en una vía pública o en otro inmueble de uso común o destinado al servicio público, y con el objetivo de garantizar que sea de la misma calidad y materiales que aquellos que se hayan deteriorado o perdido, la Secretaría de Infraestructura y Servicios Públicos de manera inmediata llevará a cabo las reparaciones de los daños ocasionados, y el costo que resulte será a cargo del dueño de la obra, del vehículo, del objeto o de la sustancia peligrosa, independientemente de la responsabilidad legal en que incurra.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 852.
 
-Cuando para la ejecución de alguna obra pública o privada sea necesaria la ruptura de los pavimentos en el arroyo vehicular y la modificación de las banquetas y guarniciones en la vía públicas (sic), será requisito indispensable contar previamente al inicio de los trabajos con la autorización de la Dirección, misma que señalará las condiciones bajo las cuales se deberá llevar a cabo, el monto de las reparaciones y la obligatoriedad para que sean realizadas en el plazo establecido, de conformidad con las disposiciones de la NTDeIU.
+Cuando para la ejecución de alguna obra pública o privada sea necesaria la ruptura de los pavimentos en el arroyo vehicular y la modificación de las banquetas y guarniciones en la vía pública, será requisito indispensable contar previamente al inicio de los trabajos con la autorización de la Dirección y Factibilidad de la Secretaría de Infraestructura y Servicios Públicos, mismas que señalará las condiciones bajo las cuales se deberá llevar a cabo, el monto de las reparaciones y la obligatoriedad para que sean realizadas en el plazo establecido, de conformidad con las disposiciones de la NTDeIU.
 
-La ruptura de los pavimentos deberá ser reparada con materiales de igual o mejor calidad que los existentes, pero nunca con uno (sic) materiales de menor calidad.
+La ruptura de los pavimentos deberá ser reparada con materiales de igual o mejor calidad que los existentes, pero nunca con materiales de menor calidad y siempre a entera satisfacción de la Secretaría de Infraestructura y Servicios Públicos.
+
+Para la verificación de los trabajos, la Secretaría de Infraestructura y Servicios Públicos nombrará un supervisor responsable de obra, quien actuará hasta la conclusión de los trabajos efectuados, siguiendo las disposiciones de la NTDeIU y con el apoyo de la Bitácora electrónica.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -31511,7 +31517,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -34731,7 +34737,7 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -37388,3 +37394,11 @@ P.O. 7 DE DICIEMBRE DE 2017.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado de Puebla.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE FEBRERO DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LAS COMISIONES DE INFRAESTRUCTURA Y OBRA PÚBLICA Y DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL LIBRO TERCERO, CAPÍTULO 17 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La presente reforma y adición de diversas disposiciones del Libro Tercero Capítulo 17 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se concede un plazo de noventa días para que la Secretaría de Desarrollo Urbano y Sustentabilidad y a (sic) la Secretaría de Infraestructura y Servicios Públicos realice (sic) las propuestas de modificaciones y actualizaciones necesarias a sus Manuales de Procedimientos respectivos y los presenten ante el H. Ayuntamiento para su aprobación.
