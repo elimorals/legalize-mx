@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2017-10-17"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO 249 PUBLICADO EN EL G.G. DE 12 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MARZO DE 2018.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -555,9 +553,9 @@ Las autoridades promoverán el bienestar de estos grupos mediante las acciones n
 
 Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas.
 
-> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 16 DE MARZO DE 2018)</small>
 
-Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de equidad, de conformidad con esta Constitución y la ley respectiva.
+Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía estatal. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
@@ -4574,3 +4572,11 @@ G.G. 12 DE OCTUBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 296.- POR EL QUE SE REFORMA EL PÁRRAFO QUINTO AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
