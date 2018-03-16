@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2016-05-27"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE LA AGENCIA DE MOVILIDAD Y MODALIDADES DE TRANSPORTE PUBLICO PARA EL ESTADO DE QUERETARO -- ANTES LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERETARO --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -131,25 +133,29 @@ XVIII. Sitio. Espacio físico ubicado en propiedad privada, o en la vía públic
 
 XIX. Sujeto económico. Las personas físicas o morales que prestan el servicio de transporte público en sus diversas modalidades;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
 
-XX. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
-
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
-
-XXI. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente Ley;
+XX. Taxímetro. Instrumento de medición que, acoplado a un vehículo del servicio de taxi, computa los factores distancia y/o tiempo, traduciéndolos en un importe a pagar en moneda nacional, de acuerdo a una tarifa oficial vigente autorizada previamente, la misma que debe indicarse de manera visual y auditiva;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio;
+XXI. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXIII. Empresas especializadas por medio de aplicaciones tecnológicas, o empresas especializadas o empresas de redes de transporte: Son aquellas que medien un acuerdo o contrato entre los Prestadores del Servicio Especializado de Transporte Privado de Pasajeros y sus usuarios, a través de aplicaciones tecnológicas en teléfonos inteligentes. La empresa presta sus servicios por sí misma o por alguna de sus empresas filiales o subsidiarias; estas son propietarias o licenciatarios de conformidad a las leyes de la materia. Estas empresas son solidarias y mancomunadas entre los Prestadores del Servicio de Transporte Privado de Pasajeros -socios o asociados de las empresas- y sus usuarios; y
+XXII. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIV. Empresas especializadas por medio de aplicaciones tecnológicas, o empresas especializadas o empresas de redes de transporte: Son aquellas que medien un acuerdo o contrato entre los Prestadores del Servicio Especializado de Transporte Privado de Pasajeros y sus usuarios, a través de aplicaciones tecnológicas en teléfonos inteligentes. La empresa presta sus servicios por sí misma o por alguna de sus empresas filiales o subsidiarias; estas son propietarias o licenciatarios de conformidad a las leyes de la materia. Estas empresas son solidarias y mancomunadas entre los Prestadores del Servicio de Transporte Privado de Pasajeros -socios o asociados de las empresas- y sus usuarios; y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXIV. Socios o Asociados de las Empresas Especializadas por medio de aplicaciones tecnológicas. Son aquellas personas que tienen una relación con las empresas especializadas, a través del uso de la plataforma y en su calidad de Prestadores del Servicio de Transporte Privado de Pasajeros.
+XXV. Socios o Asociados de las Empresas Especializadas por medio de aplicaciones tecnológicas. Son aquellas personas que tienen una relación con las empresas especializadas, a través del uso de la plataforma y en su calidad de Prestadores del Servicio de Transporte Privado de Pasajeros.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2321,13 +2327,11 @@ La revisión de la tarifa de un sistema de rutas integradas podrá ser revisada 
 
 La tarifa en el servicio de transporte suburbano e intermunicipal se autorizará para cada destino y sus principales puntos intermedios del recorrido de la ruta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 173.
 
-El Instituto podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi.
-
-Los concesionarios que no cuenten con este sistema deberán colocar en un lugar visible del vehículo las tarifas autorizadas para el servicio.
+La tarifa en el servicio de transporte público de taxi, será recaudada en base a los taxímetros que deberán portar los vehículos del servicio de taxi, sin distingo alguno.
 
 ###### Artículo 174.
 
@@ -2717,6 +2721,10 @@ XIII. Mantener en funcionamiento los equipos y sistemas de recaudo de la tarifar
 
 XIV. Las demás que establezca la presente ley y las normas reglamentarias que de esta se deriven.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2018)</small>
+
+Tratándose del servicio público de transporte en su modalidad de taxi, el vehículo que presta el servicio debe contar con taxímetro, el cual indicará la tarifa a cobrar; de no contar con dicho instrumento, deberá de abstenerse de prestar el servicio.
+
 ###### Artículo 197.
 
 Los conductores del servicio público de transporte deberán hacer entrega a los usuarios del comprobante que ampare el pago de la tarifa e incluya el seguro, en los términos de la Reglamentación correspondiente.
@@ -2917,19 +2925,21 @@ Los conductores de vehículos de transporte público o especializado que excedan
 
 Si la infracción se registra con detectores de velocidad o medios tecnológicos similares, la multa se aumentará en una VSMGZ por cada tres kilómetros o fracción por la que se haya excedido el límite permitido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 212.
 
-Se impondrá multa de cincuenta a doscientas VFC al titular de una concesión o permiso que:
+Se impondrá multa de cincuenta a doscientas UMA al titular de una concesión o permiso que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Incumpla los planes de operación del servicio, itinerarios, horarios, frecuencias o intervalos establecidos, y demás condiciones del servicio que establezca el Instituto, esta Ley y las normas reglamentarias aplicables;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
-II. No tenga en operación o en correcto funcionamiento el sistema de recaudo o el sistema de monitoreo y demás equipos que para la prestación del servicio establezca el Instituto, esta Ley y las normas reglamentarias aplicables;
+II. Tratándose de servicio público de transporte colectivo, no tenga en operación o en correcto funcionamiento el sistema de recaudo o el sistema de monitoreo y demás equipos que para la prestación del servicio establezca el Instituto, esta ley y las normas reglamentarias aplicables.
+
+Si se trata de servicio público de transporte en su modalidad de taxi, que el vehículo con que se preste el servicio no cuente con taxímetro en operación o en correcto funcionamiento;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2951,7 +2961,9 @@ VII. Preste el servicio con vehículos que no cumplan con las especificaciones t
 
 VIII. No atienda, en el plazo señalado al efecto, los requerimientos que el Instituto establezca en relación con la prestación del servicio;
 
-IX. No respete la aplicación de las tarifas autorizadas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+IX. Tratándose de servicio público de transporte colectivo, no respete la aplicación de las tarifas autorizadas; o bien, tratándose de servicio público de transporte en su modalidad de taxi, no respete la tarifa señalada en el taxímetro;
 
 X. Permita que un conductor maneje sin licencia vigente y del tipo que corresponda a la modalidad de servicio que se presta, o sin la identificación de conductor correspondiente;
 
@@ -2977,11 +2989,11 @@ XVI. Realice la prestación del servicio en una jurisdicción territorial distin
 
 XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado, conforme a lo dispuesto en la normatividad legal aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 213.
 
-Se impondrá multa de veinte a treinta VFC al conductor de un vehículo de transporte público o especializado que:
+Se impondrá multa de veinte a treinta UMA al conductor de un vehículo de transporte público o especializado que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2995,9 +3007,9 @@ II. Circule el vehículo con las puertas abiertas;
 
 III. Altere los sistemas de recaudo o de monitoreo;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
-IV. No respete la tarifa autorizada o su forma de pago;
+IV. No respete la tarifa autorizada, su forma de pago o, tratándose de servicio público de transporte en la modalidad de taxi, no respete la tarifa señalada en el taxímetro;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -3448,3 +3460,13 @@ Artículo Noveno. A partir del inicio de la vigencia de la presente Ley, el Inst
 Artículo Décimo. Todos los acuerdos, circulares, lineamientos, tarifas y demás disposiciones que emita el Instituto Queretano del Transporte, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en el portal de internet y en los medios electrónicos que para tal efecto se determinen.
 
 Artículo Decimoprimero. Para el caso de los permisos que se otorguen durante el año 2016, para la modalidad de Servicio de Transporte Privado de Pasajeros, la vigencia de éstos fenecerá el 31 de diciembre de 2016.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, EN MATERIA DE TAXÍMETROS”.]
+
+Artículo Primero. Para los municipios de Querétaro, Corregidora, El Marqués, Huimilpan, San Juan del Río y Tequisquiapan, la presente Ley iniciará su vigencia a partir del 1 de abril de 2018; para los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobado, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2018.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro expedirá las disposiciones reglamentarias para la aplicación de la presente Ley, dentro de los siguientes 160 días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
