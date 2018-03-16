@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-general-de-bienes-del-estado-de-morelos-83
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Morelos, el miércoles 28 de septiembre de 2011.
 
@@ -157,13 +157,23 @@ IV.- El avalúo autorizado por la Comisión de Avalúos de Bienes Estatales, pro
 
 ### CAPÍTULO CUARTO. DESTINO DE LOS BIENES INMUEBLES
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### Artículo 13.
 
-Para destinar los inmuebles estatales al servicio de las distintas Secretarías y Dependencias de la Administración Pública Central del Estado, además de cubrir los extremos previstos en la Ley, se deberá tomar en consideración lo siguiente:
+Para destinar los inmuebles estatales al servicio público o uso común, se deberá tomar en consideración lo siguiente:
 
 I.- Que exista la disponibilidad de un inmueble que reúna las características solicitadas, y
 
-II.- Que la compatibilidad de uso de suelo sea acorde al uso para el cual requieren el bien inmueble.
+II.- Que la compatibilidad del uso de suelo sea acorde al destino o uso para el cual requieren el bien inmueble.
+
+La compatibilidad del uso de suelo a que se refiere la fracción II, se determinará por la Secretaría de Obras Públicas, para cuyo efecto tomará en consideración:
+
+I. El uso o destino del suelo que corresponda, cuando se trate de un solo inmueble, y
+
+II. En el caso de que se desarrolle, por parte de las Secretarías, Dependencias o Entidades, por sí o a través de tercero, un proyecto público que revista un fin público, de interés general o de uso común, de cualquiera de los tres órdenes de gobierno, en un polígono comprendido por varios predios que cuenten con diferentes usos o destinos de suelo, se tomará en consideración el uso o destino del suelo que resulte más acorde con el proyecto de que se trate, dado que en este caso se podrá acceder a las compatibilidades que resulten aplicables.
+
+Para efectos de realizar esta dictaminación, la citada Secretaría podrá solicitar la opinión de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal.
 
 ###### Artículo 14.
 
@@ -352,3 +362,27 @@ EL SECRETARIO DE GESTIÓN E INNOVACIÓN GUBERNAMENTAL
 ING. REY DAVID OLGUÍN ROSAS.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+[N. DE E TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS; DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE FUSIONES, DIVISIONES, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS Y DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+TERCERA. Los estudios de impacto urbano que se encuentren en proceso de evaluación a la entrada en vigor del presente Decreto, se sujetarán a lo previsto en éste último.
+
+CUARTA. Por única ocasión y de manera extraordinaria y emergente, a fin de coadyuvar en la estrategia de reconstrucción tanto física como productiva y social, desplegada ante el desastre natural que afectó al estado de Morelos con motivo del sismo del 19 de septiembre de 2017, se establece el siguiente régimen de excepción al procedimiento y requisitos a que aluden los reformados artículos 37 Bis y 37 Ter, así como el adicionado 37 Octavus, todos del Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, en Materia de Ordenamiento Territorial:
+
+I. Los interesados en solicitar el cambio de destino de suelo para realizar en él los proyectos públicos a que se refiere la fracción IV del citado artículo 37 Bis, contarán con un plazo de diez días hábiles, contados a partir del día siguiente a la entrada en vigor del presente instrumento, para presentar formal solicitud ante la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acompañada del respectivo proyecto de modificación que contendrá los requisitos reglamentarios respectivos. Transcurrido el plazo a que se refiere la presente fracción, no se recibirán más solicitudes;
+
+II. Integrado el expediente, la Secretaría emitirá dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, dentro del plazo de veinte días hábiles, contados a partir de la integración del expediente completo por parte del interesado;
+
+III. Cumplidas y documentadas las formalidades, el interesado remitirá a la Secretaría el proyecto de modificación, posteriormente ésta los remitirá junto con el respectivo dictamen de congruencia al Ayuntamiento de que se trate para su aprobación en la sesión de Cabildo correspondiente, quien ordenará la publicación del proyecto de modificación completo en el Periódico Oficial “Tierra y Libertad” y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, a la brevedad posible dada la emergencia, el fin público y el interés general que prevalece, y
+
+IV. La Secretaría editará la modificación al Programa para su difusión y el municipio lo mantendrá a consulta permanente.
+
+QUINTA. Con independencia de lo previsto en las Disposiciones Transitorias Tercera y Cuarta, a los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
