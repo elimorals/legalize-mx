@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-administracion-publica-municipal-del-46562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2013-09-04"
+last_updated: "2018-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "CAM"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL MUNICIPIO DE CALKINI, CAMPECHE
 
-REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL MUNICIPIO DE CALKINÍ, CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 5 de octubre de 2005.
 
@@ -440,7 +442,7 @@ XIV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, est
 
 La Dirección de Cultura y Deporte es la dependencia encargada de promover y apoyar los programas de cultura y deporte aprobados por el Ayuntamiento, contando para ello con las siguientes atribuciones:
 
-l. Coordinar, fomentar y ejercer acciones en eventos tendientes a elevar la educación, cultura, recreación y deporte de los habitantes del municipio;
+I. Coordinar, fomentar y ejercer acciones en eventos tendientes a elevar la educación, cultura, recreación y deporte de los habitantes del municipio;
 
 II. Formular y coordinar la información necesaria conjuntamente con las coordinaciones Técnica, Administrativa, de Tradiciones y Verbenas Populares y de Promoción Cultural para el efecto de rescatar tradiciones autóctonas y difundir nuestras costumbres dentro y fuera del Estado;
 
@@ -733,3 +735,15 @@ P.O. 4 DE SEPTIEMBRE DE 2013
 ACUERDO PRIMERO POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL".]
+
+P.O. 16 DE MARZO DE 2018.
+
+PRIMERO.- El presente acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Administración Pública del Municipio de Calkiní, Campeche, publicado en el Periódico Oficial del Estado el 05 de Octubre de 2005.
+
+TERCERO.- Hágase el correspondiente registro en el Libro de Reglamentos del Municipio de Calkiní.
+
+CUARTO.- Cúmplase.
