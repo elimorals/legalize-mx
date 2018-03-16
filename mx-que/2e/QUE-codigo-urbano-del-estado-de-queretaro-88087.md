@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2017-09-01"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -2221,155 +2223,133 @@ A partir de la fecha de entrega, la autoridad municipal se hará cargo de la ope
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### Artículo 211.
 
-Se considera de interés público la constitución del régimen de propiedad en condominio.
+Las disposiciones de este Capítulo tienen por objeto regular la constitución, modificación, modalidades, administración y extinción del régimen de propiedad en condominio.
 
-El titular del Poder Ejecutivo del Estado y los Municipios, en el ámbito de su competencia, podrán adoptar las medidas administrativas que faciliten y estimulen la construcción de condominios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 212.
 
-Se considera régimen de propiedad en condominio, para los efectos del presente Código, aquel en que los departamentos, viviendas, casas, locales, naves industriales, bodegas, cajones de estacionamiento, áreas que se construyan o constituyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independiente, ya sea que pertenezcan a uno o varios propietarios y que tengan salida propia a un elemento de circulación común o a la vía pública.
+Se considera de interés público la constitución del régimen de propiedad en condominio.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-Los propietarios o condóminos tendrán un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, local, casa, nave industrial, bodega, cajón de estacionamiento o áreas; además de un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute, por lo que dichos elementos se consideran inseparables y no susceptibles de división.
-
-Al derecho singular y exclusivo de propiedad que tiene el condómino, se le denominará unidad privativa. Al derecho de copropiedad sobre los elementos y partes comunes, se le denominará áreas de uso común.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 213.
 
-La superficie mínima de la unidad privativa en un condominio, deberá reunir las características de una vivienda digna y decorosa, en los términos de la Ley de Vivienda, así como cumplir con los parámetros y lineamientos establecidos en los programas, instrumentos y políticas emitidos por las autoridades federales y estatales en materia de vivienda, desarrollo urbano y protección al medio ambiente.
+Para los efectos de este Capítulo, se entiende por:
+
+I. Áreas y bienes de uso común: Aquéllos que pertenecen en forma proindiviso a los condóminos y su uso está regulado por este Código, la escritura constitutiva del régimen y el reglamento interno del condominio;
+
+II. Asamblea General: El órgano máximo del condominio integrado por todos los condóminos, donde se discuten los temas propios del régimen de propiedad en condominio. Sus resoluciones serán de carácter obligatorio para todos los condóminos;
+
+III. Comités: Son los grupos integrados por condóminos o poseedores de unidades de propiedad privativa que se organizan para realizar actividades que atiendan algunos servicios complementarios ambientales, de protección civil y de promoción de la cultura condominal en beneficio de la comunidad;
+
+IV. Condominio: El conjunto de edificios, departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno, así como terrenos delimitados en los que haya servicios de infraestructura urbana, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública y que pertenecen a distintos propietarios, los que tendrán un derecho singular y exclusivo de propiedad sobre una unidad privativa, y además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para un adecuado uso, goce y disfrute;
+
+V. Condómino: La persona física o moral, propietaria de una o más unidades de propiedad privativa y, para los efectos de este Código, a la que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario bajo el régimen de propiedad en condominio;
+
+VI. Condominio vertical. Se establece en un inmueble edificado en varios niveles en un terreno común, con unidades de propiedad privativa y derechos de copropiedad;
+
+VII. Condominio horizontal. Se constituye en inmuebles con construcción horizontal donde el condómino tiene derecho de uso exclusivo de parte de un terreno y es propietario de la edificación establecida en el mismo, pudiendo compartir o no su estructura y medianería, siendo titular de un derecho de copropiedad para el uso y disfrute de las áreas del terreno, construcciones e instalaciones destinadas al uso común;
+
+VIII. Condominio mixto. Es aquel formado por condominios verticales y horizontales;
+
+IX. Unidad Condominal: Toda aquella agrupación de 2 o más condominios construidos en un solo polígono, siempre que cada uno de dichos condominios conserve para sí áreas de uso exclusivo y, a su vez, existan áreas y bienes de uso común para todos los condóminos que integran el conjunto de referencia;
+
+X. Cuota extraordinaria: La cantidad monetaria acordada por la Asamblea General para sufragar gastos imprevistos o extraordinarios;
+
+XI. Cuota ordinaria: La cantidad monetaria acordada por la Asamblea General para sufragar los gastos de administración, mantenimiento, de reserva, operación y servicios no individualizados de uso común;
+
+XII. Indiviso: El derecho de los condóminos sobre los bienes comunes, proporcional al valor que representa su unidad de propiedad privativa o fracción en relación al valor total inicial del inmueble, expresado en una cifra porcentual;
+
+XIII. Moroso: El condómino o poseedor que no ha cumplido con su obligación de pagar dos o más cuotas ordinarias o una extraordinaria en el plazo establecido por la Asamblea General, o que ha incumplido la resolución judicial firme pronunciada en su contra sobre el pago de daños y perjuicios en favor del condominio;
+
+XIV. Mayoría simple: El cincuenta por ciento más uno del total de votos, según sea el caso;
+
+XV. Mayoría calificada: Corresponde por lo menos el setenta y cinco por ciento de votos de la totalidad de los condóminos;
+
+XVI. Poseedor: La persona que tiene el uso y goce de una unidad de propiedad privativa, a través de un contrato o convenio, y que no tiene la calidad de condómino;
+
+XVII. Reglamento interno del condominio: El instrumento normativo que establece las bases de la sana convivencia al interior del condominio y que complementa y especifica las disposiciones de este Código y de la escritura constitutiva del régimen, de acuerdo a las características de cada condominio; y
+
+XVIII. Unidad de propiedad privativa: El edificio, departamento, piso, vivienda, casa, local, nave de un inmueble, lote de terreno o terreno delimitado y los elementos anexos que le correspondan, tales como estacionamientos, cuarto de servicio, jaulas de tendido, lavaderos y cualquier otro elemento que no sean áreas y bienes de uso común sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivos, siempre que esté establecido en la escritura constitutiva del régimen e individual.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 214.
 
-Para efectos del presente Código, los condominios se clasifican en:
+A fin de autorizar un condominio o unidad condominal, las autoridades municipales deberán verificar que los mismos reúnan las condiciones y requisitos en materia de desarrollo urbano, ecología, salubridad y protección civil, previstos en las leyes correspondientes.
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-l. Condominio vertical. Cuando el inmueble se edifique en varios niveles, en el que cada uno de los propietarios tendrá derecho de propiedad sobre su área privativa, considerándose como unidad privativa con su correspondiente cajón de estacionamiento y accesorios, como pueden ser bodegas, tendederos o jardín en azoteas, terrazas, etc., que sean de uso exclusivo de la unidad privativa; además de un derecho de copropiedad sobre el suelo afectado en régimen de propiedad en condominio y sobre los elementos y partes comunes del edificio vertical, necesarios para su adecuado uso y disfrute.
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-II. Condominio horizontal. Cuando se establece en inmuebles con o sin construcción horizontal sobre su área privativa, teniendo el condómino derecho de propiedad sobre el suelo y la construcción edificada en el mismo, pudiendo compartir o no su estructura y medianería; siendo titular de un derecho de copropiedad para el uso y disfrute de las áreas del inmueble, si fuera el caso, construcciones e instalaciones destinadas al uso común; susceptibles de aprovechamiento independiente, por tener salida propia a un elemento común de aquél o a la vía pública, perteneciente a distintos propietarios.
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-III. Condominio mixto. Cuando el condominio está formado por edificaciones verticales y horizontales, que pueden estar conformados en grupos de unidades como edificios, cuerpos, torres, secciones o zonas. En este caso, le serán aplicables a cada una de las edificaciones o partes del condominio, las disposiciones relativas a los condominios verticales u horizontales, según sea la clasificación de cada uno de ellos.
-
-En todos los casos, el condominio podrá constituirse sobre las construcciones en proyecto, en proceso de construcción o terminadas.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-El número máximo de conformación, será de ciento veinte unidades privativas, más los cajones de estacionamiento y accesorios que le correspondan.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 215.
 
-Por unidad condominal se entiende la agrupación de hasta cinco condominios, constituidos en un solo polígono, sin importar su conformación, de la cual existirá un derecho de copropiedad de todos los condóminos, en proporción a su indiviso.
+Los municipios establecerán en sus respectivos reglamentos en materia de condominios, al menos lo siguiente:
 
-La unidad condominal deberá tener acceso cuando menos, hacia una vía pública primaria y las vialidades al interior serán a vías públicas secundarias.
+I. Las modalidades que podrán adoptar los condominios, de acuerdo con el uso de suelo, y que podrán ser:
 
-Las unidades condominales no cuentan con unidades privativas, pues éstas corresponden a cada uno de los condominios que la integran.
+a) Atendiendo a su estructura:
 
-La unidad condominal podrá desarrollarse en etapas, secciones o fases, las que deberán ser polígonos continuos y diferenciables entre ellas. En los condominios que la integran deberá garantizarse los servicios e infraestructura de los elementos y construcciones comunes a cada uno de ellos.
+1. Condominio vertical;
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+2. Condominio horizontal;
 
-#### Sección Segunda. Del Régimen de Propiedad en Condominio
+3. Condominio mixto; y
+
+4. Unidad Condominal.
+
+b) Atendiendo a su uso:
+
+1. Habitacional. Son aquellos inmuebles en los que la unidad de propiedad privativa está destinada a la vivienda;
+
+2. Comercial o de servicios. Son aquellos inmuebles en los que la unidad de propiedad privativa, es destinada a la actividad propia del comercio o servicio permitido;
+
+3. Turístico, recreativo-deportivo. Son aquéllos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativo-deportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
+
+4. Industrial. Son aquéllos en donde la unidad de propiedad privativa, se destina a actividades permitidas propias del ramo;
+
+5. Agropecuario. Son aquéllos que se destinan a las actividades agropecuarias y agroindustriales incluyendo las áreas destinadas a vivienda que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial; y
+
+6. Mixtos de usos compatibles. Son aquéllos en donde la unidad de propiedad privativa, se destina a dos o más usos de los señalados en los incisos anteriores.
+
+II. La obligatoriedad de que los desarrolladores presenten póliza de fianza o garantía, para responder de la ejecución y conclusión de la construcción y urbanización, la cual deberá ser clara en los montos y términos, mismos que serán determinados por la autoridad competente;
+
+III. La obligatoriedad de que se señalen en la Declaratoria los plazos para el cumplimiento de las obligaciones de la misma;
+
+IV. Prohibir que se pueda delimitar con cualquier tipo de material o pintar señalamientos de exclusividad, como techar o realizar construcciones que indiquen exclusividad en el área de estacionamiento de uso común o en cualquier otra área de destino común del condominio, excepto las áreas verdes las cuales sí podrán delimitarse para su protección y conservación preferentemente con vegetación arbórea o arbustiva, según acuerde la Asamblea General o quien éstos designen, salvo los destinados para personas con discapacidad;
+
+V. La obligación de los condóminos de aportar las cuotas que determine la Asamblea para el mantenimiento y administración del condominio, así como para la constitución del fondo de reserva correspondiente;
+
+VI. Los casos y condiciones en que puede ser modificado el régimen de propiedad en condominio;
+
+VII. Los mecanismos de dialogo, conciliación y solución de conflictos que surjan en el condominio, así como la forma en que dichos mecanismos deben hacerse del conocimiento de los habitantes del condominio; y
+
+VIII. La obligación para los desarrolladores de impartir el curso de inducción a la vida condominal y comunitaria, así como hacer entrega del manual de inducción y convivencia al condómino.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Segunda. De la constitución, modalidades, modificación y extinción del Régimen de propiedad en condominio
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 216.
 
-Se entiende por condómino a la persona que tenga la propiedad de una o más unidades privativas, ya sean áreas, departamentos, viviendas, bodegas, casas o locales a que se refiere este Capítulo.
+La constitución del régimen de propiedad en condominio es el acto jurídico formal que el propietario o propietarios de un inmueble, instrumentan ante notario público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento.
+
+El régimen de propiedad en condominio se constituirá de acuerdo a la reglamentación municipal correspondiente.
+
+La unidad condominal podrá constituirse con independencia del número de edificios, plantas de cada edificio o construcción, número de casas, departamentos, pisos, locales, naves, lotes de terreno delimitados o lotes de terreno que integren cada uno de los condominios que forman el conjunto, y del tipo de condominios integrados.
+
+Una vez constituido y autorizado por la autoridad municipal correspondiente, se inscribirá en el Registro Público de la Propiedad y del Comercio de la entidad.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 217.
 
-Cada propietario podrá enajenar, hipotecar o gravar en cualquier forma su unidad privativa, sin necesidad de consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de la unidad privativa, se entenderá que quedan comprendidos los derechos sobre las áreas de uso común.
-
-###### Artículo 218.
-
-Los derechos de los condóminos sobre las áreas comunes, sólo serán enajenables, gravables o embargables conjuntamente con la unidad privativa, respecto de la cual se consideran inseparables en términos de lo dispuesto por el artículo 212 de este Código.
-
-###### Artículo 219.
-
-A fin de autorizar un condominio o unidad condominal, las autoridades competentes, deberán verificar que los mismos reúnan las condiciones y requisitos en materia de desarrollo urbano, ecología, salubridad y protección civil, previstos en las leyes correspondientes.
-
-###### Artículo 220.
-
-Los Ayuntamientos emitirán un Reglamento General de Condominios, el que deberá contener los siguientes elementos:
-
-I. Descripción del uso y destino que pueden tener los condominios;
-
-II. Especificaciones técnicas para los tipos de condominio;
-
-III. Previsiones relativas a los órganos del condominio;
-
-IV. Previsiones relativas a la representación del condominio;
-
-V. Previsiones relativas a las asambleas del condominio y forma de convocarlas;
-
-VI. Previsiones relativas a los acuerdos tomados en la Asamblea y la votación requerida para su validez;
-
-VII. Previsiones relativas a las cuotas de mantenimiento, así como el fondo de reserva;
-
-VIII. Previsiones relativas a restricciones al uso de áreas privativas y comunes;
-
-IX. Especificaciones sobre el suministro de servicios públicos municipales; y
-
-X. Formas de extinción del condominio.
-
-El reglamento previsto en este artículo, será aplicable en lo conducente a los condominios, a falta de reglamento del condominio, así como de forma supletoria, en los aspectos no reglamentados en éstos.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 221.
-
-Los derechos y obligaciones de los condóminos se regirán por lo dispuesto en este Código, por el Código Civil del Estado de Querétaro, por el Reglamento del Condominio, por lo que se convenga en las escrituras en que conste la constitución del régimen de propiedad en condominio y por las escrituras mediante las que se adquiere la unidad privativa e indiviso correspondiente del condominio por concepto de área común y, en su caso, por las disposiciones reglamentarias aplicables.
-
-El Condominio tiene personalidad jurídica cuando se integra por dos o más condóminos; se identifica mediante el nombre con el cual se autoriza, constituye e inscribe el régimen de propiedad en condominio en el Registro Público de la Propiedad y del Comercio. La calidad de condómino se adquiere o pierde, respectivamente, a partir de la fecha en que se otorgue la escritura de adquisición o transmisión de la unidad privativa.
-
-La personalidad del condominio tiene por objeto representar los intereses de los condóminos respecto de los bienes de propiedad común, así como los intereses en general del condominio, además de administrar y contratar los servicios relacionados con dichos bienes, directamente o por conducto de cualquier persona física o moral.
-
-El patrimonio del Condominio se integra únicamente por las cuotas o aportaciones de los Condóminos.
-
-###### Artículo 222.
-
-El régimen de propiedad en condominio podrá constituirse cuando:
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-I. Las diferentes unidades privativas tales como pisos, departamentos, viviendas, bodegas, locales, áreas o naves industriales, cajones de estacionamiento de que conste un inmueble o que hubieran sido construidos dentro de un inmueble con partes de uso común, pertenezcan a distintos propietarios o siendo del mismo propietario, se les dé un uso diferente o privado a cada uno;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-II. Los diferentes pisos, departamentos, viviendas, bodegas, locales, áreas, naves industriales o cajones de estacionamiento, que se construyan dentro de un inmueble y que cuente éste con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos de la fracción anterior, se destinen a la enajenación de personas distintas;
-
-III. Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, locales, áreas o naves, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad privada indivisible;
-
-IV. Por disposición testamentaria, siempre que se ajuste a las normas de desarrollo urbano aplicables; y
-
-V. Derivado de la partición de una copropiedad, cuando de la misma se generen dos o más unidades de propiedad exclusiva, que compartan áreas e instalaciones de funcionamiento comunes.
-
-En edificaciones terminadas, sólo se autorizará el cambio a régimen condominal, cuando éstas cumplan con las normas relativas a la división del suelo, su uso, densidad, intensidad, aprovechamiento, imagen urbana y demás normatividad aplicable.
-
-###### Artículo 223.
-
-La escritura por la que se constituya el régimen de propiedad en condominio, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de los inmuebles que lo integran, además de cumplir con los requisitos y supuestos previstos por este apartado, deberán inscribirse en el Registro Público de la Propiedad y del Comercio.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-#### Sección Tercera. De los Bienes de Propiedad Exclusiva y los de Propiedad Común
-
-###### Artículo 224.
-
-En las escrituras en que conste la adquisición de la unidad privativa, se relacionará la escritura constitutiva que prevé este apartado agregándose al apéndice y se hará constar que se entrega al interesado una copia del reglamento del condominio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 225.
-
-Para el caso de constitución de régimen de propiedad en condominio, el promotor, deberá presentar ante la autoridad competente, solicitud que contenga:
+Para la constitución de régimen de propiedad en condominio, el desarrollador, deberá presentar ante la autoridad municipal correspondiente, solicitud que contenga:
 
 I. La determinación de la clase, tipo y magnitud del proyecto de condominio que se pretenda realizar;
 
@@ -2377,211 +2357,93 @@ II. Planos de localización y urbanización del predio o lote, señalándose las
 
 III. Deslinde catastral de la extensión máxima del predio o lote que puede comprender el régimen de condominio;
 
-IV. La ubicación, longitud y anchura de las vías de circulación interna del condominio, así como las área de uso común, superficies destinadas a andadores, estacionamientos, parques, jardines y demás áreas que se requieran según la dimensión del proyecto, incluyendo las áreas en donde se vayan a desarrollar funciones o usos distintos del predominante en el condominio;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+IV. La ubicación, longitud y anchura de las vías de circulación interna del condominio, así como las áreas de uso común, superficies destinadas a andadores, estacionamientos, parques, jardines y demás áreas que se requieran según la dimensión del proyecto, incluyendo las áreas en donde se vayan a desarrollar funciones o usos distintos del predominante en el condominio;
 
 V. Propuesta de la ubicación de las superficies que se transmitirán gratuitamente al Municipio, de acuerdo a lo señalado en el artículo 156;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+VI. La autorización, por parte de la autoridad municipal correspondiente, de la ubicación de las superficies a que se refiere la fracción que antecede;
 
-VI. La autoridad municipal autorizará la ubicación de las superficies a que se refiere la fracción que antecede;
+VII. Plazo de iniciación de las obras y plazo aproximado de terminación de las mismas;
 
-VII. Plazo de iniciación de las obras y plazo aproximado de terminación de las mismas; y
+VIII. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de gravamen y responsabilidad fiscal;
 
-VIII. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de gravamen y responsabilidad fiscal.
+IX. La documentación que acredite la autorización y transmisión de las áreas de donación a favor del Municipio; y
 
-Las áreas de transmisión gratuita, deberán ubicarse fuera del condominio
+X. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de responsabilidad fiscal.
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-IX. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de responsabilidad fiscal.
+###### Artículo 218.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya la totalidad de un fraccionamiento, el promotor, estará exento de presentar el Deslinde Catastral señalado en la fracción III, del artículo 217, y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento autorizado.
 
-Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya todo un fraccionamiento, el promotor, estará exento de presentar el Deslinde Catastral señalado en la fracción III, y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento, autorizados por los Municipios o el Estado.
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o se incluya en un fraccionamiento que haya dado cumplimiento al artículo 156, el desarrollador estará exento de dar cumplimiento a la fracción V, del artículo 217, del presente Código.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o se incluya en un fraccionamiento que haya dado cumplimiento al artículo 156, el promotor estará exento de dar cumplimiento a la fracción V del presente artículo.
+###### Artículo 219.
 
-###### Artículo 226.
+El régimen de propiedad en condominio podrá constituirse:
 
-En el régimen de propiedad en condominio, el condómino gozará en forma exclusiva del derecho de propiedad que tiene sobre su unidad privativa; respecto de las áreas de uso común, tendrá la calidad de copropietario, en términos de lo previsto en este Código y en el Código Civil del Estado de Querétaro, en lo conducente.
+I. Cuando las diferentes unidades privativas tales como pisos, departamentos, viviendas, bodegas, locales, áreas o naves industriales, cajones de estacionamiento de que conste un inmueble o que hubieran sido construidos dentro de un inmueble con partes de uso común, pertenezcan a distintos propietarios o siendo del mismo propietario se les dé un uso diferente o privado a cada uno;
 
-###### Artículo 227.
+II. Cuando los diferentes pisos, departamentos, viviendas, bodegas, locales, áreas o naves industriales, cajones de estacionamiento que se construyan dentro de un inmueble y que cuente este con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos de la fracción anterior, se destinen a la enajenación a personas distintas;
 
-Son objeto de propiedad común:
+III. Cuando el propietario o propietarios de un edificio, lo dividan en locales susceptibles de aprovechamiento independiente para enajenarlos o en su caso arrendarlos a distintas personas;
 
-I. En el condominio vertical:
+IV. Cuando el propietario de un terreno se proponga construir en él un edificio dividido en departamentos, pisos, viviendas, casas o locales;
 
-a) Todo el suelo afecto al régimen de propiedad en condominio.
+V. Cuando los distintos copropietarios de un edificio decidan dividirlo en partes susceptibles de aprovechamiento independiente, adjudicándoselas por separado, saliendo así de la indivisión;
 
-b) El sótano, pórticos, puertas de entrada, vestíbulos, galerías, corredores, escaleras, pasillos y patios, siempre que sean de uso general y los jardines y espacios que hayan señalado las autoridades urbanísticas competentes y las licencias de construcción, como superficies para estacionamiento de vehículos, siempre y cuando no formen parte de la unidad privativa en términos del reglamento del condominio y la escritura de compraventa correspondiente.
+VI. Cuando el propietario o propietarios de un lote de terreno decidan constituirlo como un condominio horizontal, ya sea con viviendas, casas o lotes de terrenos; y
 
-c) Los cimientos, estructuras, muros de carga y los techos de uso general.
+VII. En los demás casos que señale este Código.
 
-Se consideran de propiedad común sólo de los condóminos colindantes, los entrepisos, muros y demás divisiones que separen entre sí los departamentos, viviendas, casas o locales;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-II. En el condominio horizontal:
+###### Artículo 220.
 
-a) El suelo que no habiendo sido destinado a la edificación de los departamentos, viviendas, casas o locales, sea de uso general.
+Queda prohibido que una misma persona, adquiera más de un departamento, vivienda, casa o local en los condominios a través de financiamiento por programas gubernamentales, salvo lo dispuesto en la legislación especial aplicable. La contravención de esta disposición dará lugar a la nulidad del contrato.
 
-b) Los jardines, senderos, andadores, calles interiores y espacios, que hayan señalado las normas antes mencionadas como suficientes para el estacionamiento de vehículos, siempre y cuando no formen parte de la unidad privativa, en términos del reglamento del condominio y la escritura de compraventa correspondiente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-c) En lo conducente, lo previsto por las disposiciones anteriores que le sean aplicables;
+###### Artículo 221.
 
-III. En ambos condominios:
+Los actos traslativos de dominio que afecten la propiedad de los inmuebles sujetos al régimen de propiedad en condominio, deben cumplir con los requisitos y presupuestos de este Código.
 
-a) Los locales destinados a la administración, alojamiento de porteros y vigilantes, más los destinados a las instalaciones generales y servicios comunes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-b) Las obras, instalaciones, aparatos y demás objetos que sirvan al uso o disfrute común, tales como fosas, pozos, cisternas, tinacos, ascensores, montacargas, incineradores, estufas, hornos, bombas y motores, albañales, canales, conductos de distribución de agua, drenaje, calefacción, electricidad y gas; los locales y las obras de seguridad, deportivas de recreo, de ornato, de recepción o reunión social y otras semejantes, con excepción de los que sirvan exclusivamente a cada departamento, vivienda, casa o local.
+###### Artículo 222.
 
-c) Cualesquier otra parte del inmueble, locales, obras, aparatos o instalaciones que se establezcan con tal carácter en el reglamento del condominio o en la escritura pública en que consta la constitución del condominio o que determine en Asamblea la totalidad de condóminos.
+Cualquier modificación a la escritura constitutiva del régimen y al reglamento interno del condominio se aprobará por mayoría calificada. La modificación deberá constar en escritura pública e inscribirse en el Registro Público de la Propiedad y del Comercio de la entidad y ante la autoridad municipal correspondiente.
 
-###### Artículo 228.
+Si la modificación implica variación a lo autorizado por la autoridad municipal correspondiente al momento de la constitución del régimen, deberá contar con una nueva autorización de dicha autoridad.
 
-Cada condómino podrá usar los bienes comunes y gozar de los servicios e instalaciones generales, conforme a su destino ordinario, con las limitaciones que al efecto establezca el reglamento del condominio.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 229.
+###### Artículo 223.
 
-Los condóminos continuarán sujetos a las obligaciones que en materia de condominios se establecen en este Código, el Código Civil del Estado de Querétaro, el reglamento del condominio y la escritura por la que se constituye el régimen de propiedad en condominio, aún cuando abandonen sus derechos o renuncien a usar determinados bienes comunes.
+En todo contrato de adquisición de los derechos de una unidad de propiedad privativa, el notario público anexará al apéndice la constancia de no adeudo.
 
-###### Artículo 230.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
-Queda prohibida la celebración de cualquier acto traslativo de uso o dominio que implique la transmisión parcial de la unidad privativa, con excepción de los lugares destinados al estacionamiento de vehículos, que podrán ser arrendados a otro condómino, cuando éstos formen parte de la unidad privativa.
+#### Sección Tercera. Del Procedimiento de Autorización de un Condominio
 
-###### Artículo 231.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-El Administrador del condominio, en los casos de incumplimiento al artículo anterior, está legitimado para ejercer las acciones legales correspondientes.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-#### Sección Cuarta. Del Procedimiento de Autorización de un Condominio
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 232.
-
-El arrendatario de una unidad privativa, sujeta a régimen de propiedad en condominio, gozará del derecho de preferencia, en términos de lo establecido en el Código Civil del Estado de Querétaro, para el caso que el condómino lo pretenda enajenar; a cuyo efecto, éste deberá notificar al inquilino la venta pretendida por medio del Administrador del condominio, Notario Público o judicialmente, con expresión del precio propalado y demás condiciones de la operación, a efecto de que dentro de los diez días siguientes a la notificación, ejerza el derecho de preferencia.
-
-Por la falta de notificación o en caso de realizarse la venta en condiciones distintas a las notificadas, la venta será válida pero el vendedor responderá de los daños y perjuicios.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 233.
-
-Los Notarios consignarán en la escritura de compraventa, el cumplimiento de lo dispuesto en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-#### Sección Quinta. De la Licencia para Ejecución de Obras de Urbanización y Supervisión de Obras
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 234.
-
-Queda prohibido que una misma persona, adquiera más de un departamento, vivienda, casa o local en los condominios financiados o construidos por instituciones oficiales, salvo lo dispuesto en la legislación especial aplicable. La contravención de esta disposición dará lugar a la nulidad del contrato.
-
-###### Artículo 235.
-
-Cada condómino u ocupante hará uso de su departamento, vivienda, casa o local en forma ordenada y pacífica. No podrá, en consecuencia, destinarlo a usos que afecten derechos de los demás condóminos.
-
-###### Artículo 236.
-
-En el condominio vertical, los condóminos del departamento, vivienda, casa o local situados en la planta baja o en el último piso, no tendrán más derecho que los restantes condóminos, salvo lo que establezca el reglamento del condominio, los condóminos de la planta baja no podrán ocupar, para uso exclusivo o preferente sobre los demás condóminos, los vestíbulos, sótanos, jardines, patios u otros lugares de tal planta ni hacer obras en dichos lugares. Con igual salvedad, los condóminos del último piso no podrán ocupar la azotea o techo ni elevar nuevos pisos, ni realizar otras construcciones.
-
-#### Sección Sexta. De la Declaratoria de Régimen de Propiedad en Condominio
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 237.
-
-Cada propietario podrá realizar obras y reparaciones en el interior de su departamento, vivienda, casa o local, pero le estará prohibida toda innovación o modificación que afecte a la estructura, paredes maestras u otros elementos esenciales del edificio, que puedan perjudicar su estabilidad, seguridad, salubridad o comodidad.
-
-Tampoco podrá abrir claros o ventanas, ni pintar o decorar la fachada o las paredes exteriores en forma que reste armonía al conjunto o que perjudique a la estética general del inmueble.
-
-En cuanto a los servicios comunes e instalaciones generales, deberá abstenerse de todo acto, aún en el interior de su propiedad, que impida o haga menos eficaz su utilización o estorbe o dificulte el uso común, ponga en riesgo la seguridad de los condóminos, así como de las personas que transiten por los pasillos, andenes y escaleras y estará obligado a mantener en buen estado de uso, conservación y funcionamiento los servicios e instalaciones.
-
-###### Artículo 238.
-
-Los condóminos colindantes están obligados a realizar por su cuenta las obras necesarias que requieran los entrepisos, suelos, pavimentos, paredes u otras divisiones entre las unidades privativas colindantes.
-
-En los condominios de construcción vertical, las obras que requieran los techos en su parte exterior y los sótanos, serán por cuenta de todos los condóminos, así como la reparación de desperfectos ocasionados por caso fortuito o de fuerza mayor.
-
-Lo anterior es aplicable, en lo conducente, a los condominios horizontales o mixtos, tanto en lo que respecta a mantenimiento y cuidado de las propiedades de uso común, como a las obras de propiedad exclusiva de cada condómino, atendiendo a las limitaciones que señale el reglamento del condominio.
-
-###### Artículo 239.
-
-Las obras a realizar en los bienes comunes e instalaciones generales, se sujetarán a las siguientes reglas:
-
-I. Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación y para que los servicios funcionen normal y eficazmente, se efectuarán por el Administrador, bastando la conformidad del Comité de Vigilancia, sin necesidad de acuerdo de Asamblea de condóminos, con cargo al fondo de reserva. Cuando éste no baste o sea preciso efectuar obras no previstas, el Administrador convocará a Asamblea de condóminos, a fin que se tomen los acuerdos correspondientes;
-
-II. En caso de vicios de construcción del condominio, los condóminos podrán acordar proceder a la reparación de éstos, los que serán sufragados en proporción al indiviso de cada condómino, quedando a salvo sus derechos para repetir contra el desarrollador del condominio o hacer efectiva la fianza otorgada por éste para dicho efecto;
-
-III. Para la realización de obras voluntarias que se traduzcan en mejor aspecto o mayor comodidad, ya sea que aumenten o no el valor del condominio, requerirán el voto aprobatorio del setenta y cinco por ciento de los condóminos reunidos en Asamblea; y
-
-IV. Las reparaciones o reposiciones urgentes en los bienes comunes e instalaciones generales, podrán ser efectuadas por los condóminos, en caso de falta de Administrador.
-
-No podrán autorizarse obras que puedan poner en peligro la seguridad, estabilidad y conservación o afecten la comodidad del condómino; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño y las que demeriten cualquier departamento, vivienda, casa o local. En los dos últimos casos las obras podrán realizarse siempre y cuando exista acuerdo del cincuenta por ciento, más uno del indiviso de la Asamblea de condóminos, mediante indemnización a satisfacción del condómino o condóminos afectados.
-
-###### Artículo 240.
-
-Son derechos de los condóminos:
-
-I. Formar parte de la administración y de la mesa directiva del condominio;
-
-II. Participar con voz y voto en las Asambleas de condóminos;
-
-III. Usar y disfrutar en igualdad de circunstancias y en forma ordenada, las áreas de uso común del condominio;
-
-IV. Solicitar a la administración y a la mesa directiva, información respecto al estado que guardan los fondos de mantenimiento, administración y reserva; y
-
-V. Iniciar el procedimiento conciliatorio establecido en este Código, ante la instancia municipal competente y acudir ante la misma, con la finalidad de solicitar su intervención por infracciones al presente Título o al reglamento del condominio.
-
-#### Sección Séptima. De la Venta de Unidades Privativas
-
-###### Artículo 241.
-
-Queda prohibido a los condóminos:
-
-I. Realizar en el interior de su propiedad, todo acto que impida o haga menos eficaz la operación, obstaculice o dificulte el uso de las instalaciones comunes y servicios generales, estando obligados a mantener en buen estado de conservación y funcionamiento sus propios servicios e instalaciones;
-
-II. Delimitar las áreas de estacionamiento o de uso común, con edificaciones o con algún otro tipo de material;
-
-III. Tener animales, salvo los permitidos por el reglamento del condominio o acordado por la asamblea de condóminos;
-
-IV. Destinar las unidades privativas a un uso distinto al establecido en la escritura que constituye el régimen de propiedad en condominio;
-
-V. Hacer uso indebido de los bienes comunes, servicios e instalaciones generales;
-
-VI. Ocupar el área de estacionamiento de otro condómino;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-VII. Realizar actos que alteren la paz o que afecten a la seguridad de las personas o bienes de los demás ocupantes del condominio;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-VIII. Realizar cualquier actividad que cause molestia o no permita el descanso de los demás habitantes del condominio; y
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-IX. Obstaculizar, de la forma que sea, el acceso al condominio del personal de cualquier organismo operador de servicios públicos a efecto de realizar la toma de lectura, inspección, notificación, reconexión o limitación de los servicios, cuando así corresponda.
-
-Las prohibiciones establecidas en este artículo, son aplicables a todos los ocupantes del condominio, con independencia del acto del que derive su posesión.
-
-###### Artículo 242.
+###### Artículo 224.
 
 La autorización para la construcción de un condominio es el proceso mediante el cual el Municipio otorga los permisos correspondientes, de acuerdo a lo previsto en el artículo 12 de este Código.
 
-###### Artículo 243.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 225.
 
 La autorización a que se refiere el artículo anterior, podrá ser otorgada por el titular del Poder Ejecutivo del Estado, en los casos que exista convenio celebrado con el Municipio en que se pretende construir el condominio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 244.
+###### Artículo 226.
 
 El procedimiento del que trata la presente sección, se conforma de etapas, siendo las siguientes:
 
@@ -2589,75 +2451,89 @@ I. Dictamen de uso de suelo factible para condominio;
 
 II. Autorización de estudios técnicos;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
 III. Visto bueno del proyecto de distribución y denominación de condominio;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
 IV. Licencia de ejecución de obras de urbanización de condominio, en caso de aplicar;
 
 V. Declaratoria de régimen de propiedad en condominio;
 
-VI. Autorización para venta de las unidades privativas; y
+VI. Autorización para venta de las unidades privativas; el Desarrollador estará exento de obtener la misma cuando el predio forme parte o se incluya en un fraccionamiento que haya dado cumplimiento en los términos de la Sección Cuarta, del Capítulo anterior, teniéndose así por satisfecho; y
 
 VII. Dictamen técnico de entrega y recepción de las obras de urbanización del condominio.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya todo un fraccionamiento, el promotor estará exento de presentar la autorización de estudios técnicos señalada en la fracción II y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento autorizado.
 
-Para el caso en que el lote donde se desarrolle el condominio o unidad condominal, forme parte o incluya todo un fraccionamiento, el promotor estará exento de presentar la autorización de estudios técnicos señalada en la fracción II y que así se hayan contemplado en la licencia de ejecución de obras de urbanización y en el proyecto de lotificación del fraccionamiento, autorizados por los Municipios o el Estado.
+De acuerdo a las características de cada condominio o unidad condominal se podrán agrupar en etapas.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-De acuerdo a las características de cada condominio o unidad condominal se podrán agrupar en etapas, sin omitir alguna.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 245.
+###### Artículo 227.
 
 Cuando se trate de edificación de unidades en condominio de 2 a 10 unidades privativas que no contengan obras de urbanización, sólo se requerirá el visto bueno al proyecto de distribución y denominación, así como la emisión de la declaratoria de régimen de propiedad en condominio; debiéndose estar a lo dispuesto en el reglamento de construcción del municipio que corresponda.
 
-###### Artículo 246.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Los dictámenes de uso de suelo para la construcción de un condominio, se emitirán por la autoridad municipal o en su caso estatal, de conformidad con las disposiciones del Título Cuarto, Capítulo II, de este Código, así como en las normas reglamentarias que al efecto se expidan.
+###### Artículo 228.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+Los dictámenes de uso de suelo para la construcción de un condominio, se emitirán por la autoridad municipal o en su caso estatal, de conformidad con las disposiciones del Título Cuarto, Capítulo Segundo, de este Código, así como en las normas reglamentarias que al efecto se expidan.
 
-#### Sección Octava. De la Entrega y Recepción de Obras de Urbanización
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 247.
+###### Artículo 229.
 
-El dictamen a que se refiere la fracción VII del artículo 244, deberá publicarse, a costa del desarrollador, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en la Gaceta Municipal del Municipio en el que se encuentra el desarrollo inmobiliario, en su caso, por dos veces, mediando un plazo mínimo de seis días naturales entre cada una, sin contar en ellos los de la publicación. Asimismo, deberá protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
+El dictamen a que se refiere la fracción VII del artículo 226, deberá publicarse, a costa del desarrollador, en la Gaceta Municipal del Municipio, en el que se encuentra el desarrollo inmobiliario, por dos veces, mediando un plazo mínimo de seis días naturales entre cada una, sin contar en ellos los de la publicación. Cuando no sea posible publicarse por el medio antes referido, tendrá que ser publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, con las mismas condiciones señaladas. Asimismo, deberá protocolizarse ante Notario Público e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 No se requerirá la publicación de que habla este artículo, cuando el condominio carezca de obras de urbanización.
 
-El plazo para que el desarrollador realice la publicación, protocolización e inscripción en el Registro público de la propiedad y del Comercio del dictamen a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización.
+El plazo para que el desarrollador realice la publicación, protocolización e inscripción en el Registro Público de la propiedad y del Comercio del dictamen a que se refiere este artículo, será de sesenta días hábiles, contados a partir del siguiente al en que se le haya notificado la autorización, por lo que Desarrollador deberá solicitar la de renovación del Dictamen técnico de entrega y recepción de las obras de urbanización del condominio, otorgando plazo para su conclusión de 30 días.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+En la escritura deberán relacionarse los instrumentos que por separado hicieron constar la transmisión gratuita de las superficies respectivas.
 
-En la escritura deberán relacionarse los instrumentos que por separado hicieron constar la transmisión gratuita de las superficies respectivas
+En el testimonio de la escritura pública que se presente para inscripción, se relacionarán los documentos derivados de las etapas señaladas en el artículo 226 de este Código.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-En el testimonio de la escritura pública que se presente para inscripción, se relacionarán los documentos derivados de las etapas señaladas en el artículo 244 de este Código.
-
-###### Artículo 248.
+###### Artículo 230.
 
 En la autorización de estudios y proyectos técnicos, se estará en lo dispuesto en el artículo 190 de este Código.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 249.
+###### Artículo 231.
 
-Para la autorización que corresponde al visto bueno del proyecto de distribución y denominación, el desarrollador deberá presentar ante la autoridad competente, solicitud que incluya la denominación y describa las características y condiciones del predio, el tipo de condominio, el sembrado de áreas privativas y comunes, el trazo y secciones de vías internas, el plano del proyecto de urbanización, la descripción de áreas que se conforman por unidades privativas, así como las de uso común, las etapas de su conformación y cualquier otro que se derive de los estudios técnicos y proyectos presentados.
+Para la autorización que corresponde al visto bueno del proyecto de distribución y denominación, el desarrollador deberá presentar ante la autoridad competente:
 
-###### Artículo 250.
+I. Solicitud que incluya la denominación y describa las características y condiciones del predio;
+
+II. Tipo de condominio;
+
+III. Sembrado de áreas privativas y comunes;
+
+IV. Trazo y secciones de vías internas;
+
+V. Plano del proyecto de urbanización;
+
+VI. Descripción de áreas que se conforman por unidades privativas, así como las de uso común;
+
+VII. Etapas de su conformación; y
+
+VIII. Cualquier otro que se derive de los estudios técnicos y proyectos presentados.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Cuarta. De la Licencia para Ejecución de Obras de Urbanización
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 232.
 
 La licencia para ejecución de obras de urbanización de condominio describirá las etapas, secciones que lo conformarán, el plano de distribución, las unidades privativas, así como las de uso común que lo integrarán, el desglose de las mismas, las restricciones y afectaciones y aquellas condicionantes que se consideren necesarias para el adecuado funcionamiento del condominio.
 
-###### Artículo 251.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Para la autorización de la licencia para ejecución de obras de urbanización de condominio, el desarrollador deberá presentar ante la autoridad competente lo siguiente:
+###### Artículo 233.
+
+Para la autorización de la licencia para ejecución de obras de urbanización de condominio, el desarrollador deberá presentar ante la autoridad municipal correspondiente, lo siguiente:
 
 I. El plano que describa las unidades privativas, así como las de uso común, indicando pavimentos y detalles constructivos;
 
@@ -2667,115 +2543,113 @@ III. El costo de la ejecución de las obras de urbanización por partidas, indic
 
 IV. Los plazos de ejecución de las obras derivadas de los estudios técnicos presentados y planos autorizados por organismos operadores y otras autoridades.
 
-###### Artículo 252.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Quinta. De la Supervisión de Obras
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 234.
 
 Cuando las obras de urbanización hayan de ejecutarse por etapas, no se autorizará la siguiente, sino hasta la conclusión de la previamente aprobada, de tal manera que sean completas en todos sus servicios.
 
-Cuando el inmueble sujeto al régimen de propiedad en condominio o, en su caso, la primera etapa por urbanizar, no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la vialidad e de enlace y por la conexión de los servicios públicos necesarios para el debido funcionamiento del condominio.
+Cuando el inmueble sujeto al régimen de propiedad en condominio o, en su caso, la primera etapa por urbanizar, no colinde con zona urbanizada, los trabajos se iniciarán por la construcción de la vialidad de enlace y por la conexión de los servicios públicos necesarios para el debido funcionamiento del condominio.
 
-###### Artículo 253.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-La autoridad competente llevará el uso y manejo de la bitácora de las obras de urbanización para condominio en los términos previstos por los artículos 193 y 194 de éste Código.
+###### Artículo 235.
 
-#### Sección Novena. De la Asamblea de Condóminos
+La autoridad municipal correspondiente llevará el uso y manejo de la bitácora de las obras de urbanización para condominio en los términos previstos por los artículos 193 y 194 de este Código.
 
-###### Artículo 254.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 236.
 
 Cuando se construya un condominio en un predio urbanizado, cuyo proyecto no requiera la generación de vialidades internas y obras de urbanización de uso común a su interior, no será necesaria la licencia de ejecución de obras de urbanización; debiendo tramitarse al efecto la licencia de construcción de las áreas comunes y, en su caso la licencia de construcción de las unidades privativas, así como el aviso de terminación de obras correspondientes.
 
-###### Artículo 255.
+#### Sección Sexta. De la Declaratoria de Régimen de Propiedad en Condominio
 
-La Declaratoria del régimen de propiedad en condominio, es el documento jurídico administrativo que describe al condominio que se autoriza, así como las condiciones que deberá cumplir el desarrollador, entre las que se incluyen áreas de transmisión gratuita, pago de impuestos y derechos.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 237.
+
+La Declaratoria del régimen de propiedad en condominio, es el documento jurídico administrativo emitido por autoridad municipal correspondiente, que describe al condominio que se autoriza, así como las condiciones que deberá cumplir el desarrollador, entre las que se incluyen áreas de transmisión gratuita, pago de impuestos y derechos.
 
 Los requisitos para emitir la Declaratoria del régimen de propiedad en condominio estarán a lo dispuesto en el Reglamento Municipal correspondiente.
 
-###### Artículo 256.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 238.
 
 A fin de emitir la Declaratoria a que se refiere el artículo anterior, la autoridad competente verificará que se haya cumplido con lo previsto en el presente Capítulo, así como en las demás previsiones legales en materia de desarrollo urbano y de prestación de servicios públicos.
 
-###### Artículo 257.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Una vez emitida la Declaratoria a que se refiere artículo 255 de este Código, los interesados podrán constituir el régimen de propiedad en condominio.
+###### Artículo 239.
 
-###### Artículo 258.
+Una vez emitida la Declaratoria a que se refiere esta Sección, los interesados podrán constituir el régimen de propiedad en condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 240.
 
 Para constituir el régimen de propiedad en condominio, el propietario o propietarios deberán declarar su voluntad en escritura pública, en la cual se hará constar:
 
 I. La denominación;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
 II. La ubicación, dimensiones y lindero de terreno, así como el deslinde catastral que corresponda al condominio de que se trate, realizando la especificación precisa de todas las áreas, relacionando los antecedentes correspondientes si el condominio se encuentra ubicado dentro de una unidad condominal. En caso que se trate de grupos de construcciones, deberán señalarse los límites de los edificios o secciones que deban constituir condominios independientes;
 
-III. La licencia de ejecución de obras de urbanización de condominio y los datos de identificación de las licencias, planos, autorizaciones o permisos expedidos por las autoridades competentes, para la realización del condominio;
+III. La memoria descriptiva del condominio elaborada por valuador con nombramiento expedido en términos de la Ley de Valuación Inmobiliaria para el Estado de Querétaro, que incluirá:
 
-IV. La descripción y datos de identificación de cada unidad de propiedad exclusiva, sus medidas y colindancias, así como el o los cajones de estacionamiento de vehículos que le correspondan;
+a) La descripción, y datos de identificación de cada unidad de propiedad exclusiva, sus medidas y colindancias, así como el o los cajones de estacionamiento de vehículos que le correspondan;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+b) El indiviso que corresponda a cada unidad de propiedad privativa y el porcentaje que representa del condominio;
 
-V. El indiviso que corresponda a cada unidad privativa y el porcentaje que representa del condominio;
+c) El uso general del condominio y el particular de cada unidad de propiedad privativa;
 
-VI. El uso general del condominio y el particular de cada unidad privativa;
+d) Los bienes de propiedad común, sus medidas y colindancias, usos y datos que permitan su plena identificación;
 
-VII. Los bienes de propiedad común, sus medidas y colindancias, usos y datos que permitan su plena identificación;
+IV. Los datos de identificación de la póliza de fianza, para responder de la ejecución y conclusión de la construcción y urbanización. El monto de la fianza y los términos de la misma serán determinados por la autoridad competente;
 
-VIII. Los datos de identificación de la póliza de fianza, para responder de la ejecución y conclusión de la construcción y urbanización. El monto de la fianza y los términos de la misma serán determinados por la autoridad competente;
+V. La obligación de los condóminos de aportar las cuotas que determine la Asamblea para el mantenimiento y administración del condominio, así como para la constitución del fondo de reserva correspondiente;
 
-IX. La obligación de los condóminos de aportar las cuotas que determine la Asamblea para el mantenimiento y administración del condominio, así como para la constitución del fondo de reserva correspondiente;
+VI. Los casos y condiciones en que puede ser modificado el régimen de propiedad en condominio;
 
-X. Los casos y condiciones en que puede ser modificado el régimen de propiedad en condominio;
+VII. La documentación legal que acredite la autorización y transmisión de las áreas de transmisión gratuita a favor del Municipio;
 
-XI. La documentación legal que acredite la autorización y transmisión de las áreas de transmisión gratuita a favor del Municipio;
+VIII. El valor que, a través de avalúo elaborado por valuador con nombramiento en términos de la Ley de Valuación Inmobiliaria para el Estado de Querétaro, se asigne a cada unidad de propiedad privativa del derecho singular y exclusivo de propiedad que tiene el condómino y el porcentaje que le corresponda sobre el valor total de condominio;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+IX. La autorización de venta sujeta al avance de obra de urbanización, que deberá ser por lo menos de un treinta por ciento respecto del presupuesto autorizado;
 
-XII. El valor que se asigne a cada unidad privativa del derecho singular y exclusivo de propiedad que tiene el condómino y el porcentaje que le corresponda sobre el valor total de condominio;
+X. La acreditación de pago de impuestos y derechos de supervisión; y
 
-XIII. La autorización de venta sujeta al avance de obra de urbanización, que deberá ser por lo menos de un treinta por ciento respecto del presupuesto autorizado;
+XI. El alta del condominio en catastro, claves definitivas y valores catastrales.
 
-XIV. La acreditación de pago de impuestos y derechos de supervisión;
+Al apéndice de la escritura, se agregarán el plano general, los planos de cada una de las unidades de propiedad exclusiva y propiedad común detallando áreas destinadas a bodegas, medidores, amenidades, desecho de residuos; plantas, planos estructurales, sanitarios, eléctricos y de gas; documentos administrativos que dan origen a la autorización del condominio, así como el Reglamento interno del condominio.
 
-XV. El alta del condominio en catastro, claves definitivas y valores catastrales; y
+#### Sección Séptima. De la Venta de Unidades Privativas
 
-XVI. Plazos para el cumplimiento de las obligaciones de la Declaratoria.
+###### Artículo 241.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+Para que el desarrollador obtenga autorización para la venta de unidades privativas deberá presentar el avance de obra de urbanización, misma que deberá tener por lo menos un treinta por ciento de avance respecto del presupuesto autorizado.
 
-Al apéndice de la escritura se agregarán el plano general que incluya cada una de las unidades privativas y los documentos administrativos que dan origen a la autorización del condominio, así como el reglamento del condominio.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 259.
+###### Artículo 242.
 
-La autorización para venta de unidades privativas, se desarrollará conforme a lo previsto en los artículos siguientes.
+Dentro de los sesenta días siguientes a la emisión de la autorización para venta de unidades privativas del condominio, por parte de la autoridad municipal correspondiente, el desarrollador deberá constituir garantía ante dicha autoridad, la cual, a juicio de ésta podrá consistir en:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+I. Fianza emitida por compañía autorizada a favor de la autoridad municipal correspondiente, por el valor total de las obras de urbanización que falten por ejecutar, calculado al tiempo de su terminación en el condominio, etapa, sección o fase, más un treinta por ciento para garantizar la construcción de aquéllas en el plazo que se fije;
 
-###### Artículo 260.
-
-El desarrollador podrá obtener autorización para venta de unidades privativas, mediante solicitud dirigida a la autoridad competente, una vez satisfechos los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-l. Que la licencia para ejecución de obras de urbanización se encuentre vigente, en caso de aplicar;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-II. Tener un avance mínimo del treinta por ciento en las obras de urbanización del condominio, etapa, sección o fase, asentado en la bitácora de las obras de urbanización, en caso de aplicar; y
-
-III. Haber cubierto los impuestos y derechos que correspondan.
-
-###### Artículo 261.
-
-Dentro de los sesenta días siguientes a la emisión de la autorización para venta de unidades privativas del condominio, por parte de la autoridad competente, el desarrollador deberá constituir garantía ante dicha autoridad, la cual, a juicio de la ésta podrá consistir en:
-
-I. Fianza emitida por compañía autorizada a favor de la autoridad competente, por el valor total de las obras de urbanización que falten por ejecutar, calculado al tiempo de su terminación en el condominio, etapa, sección o fase, más un treinta por ciento para garantizar la construcción de aquéllas en el plazo que se fije;
-
-II. Hipoteca sobre inmuebles distintos de los que queden sujetos al régimen de propiedad en condominio, que basten a garantizar los montos o porcentajes previstos en este artículo; y
+II. Hipoteca sobre inmuebles distintos de los que queden sujetos al régimen de propiedad en condominio, que basten para garantizar los montos o porcentajes previstos en este artículo; y
 
 III. Depósito en efectivo por el diez por ciento del presupuesto total de las obras de urbanización.
 
-###### Artículo 262.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-La autoridad competente deberá hacer efectivas las garantías a que se refiere el artículo anterior, cuando el desarrollador:
+###### Artículo 243.
+
+La autoridad municipal correspondiente deberá hacer efectivas las garantías a que se refiere el artículo anterior, cuando el desarrollador:
 
 I. No cumpla con el calendario de obra autorizado;
 
@@ -2787,401 +2661,877 @@ IV. Deje de prestar suficiente y adecuadamente los servicios a que está obligad
 
 Al hacerse efectivas las garantías, la autoridad competente efectuará las obras por sí o a través de contratista, a quien le establecerá la forma y términos en que deban llevarse a cabo las obras faltantes o reparación de las defectuosas; sin perjuicio de la responsabilidad administrativa, civil o penal en que incurra el desarrollador.
 
-###### Artículo 263.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Concluida la totalidad de las obras establecidas en la licencia de construcción y ejecución de obras de urbanización, las garantías citadas en el artículo 261, podrán ser canceladas por la autoridad competente, previa solicitud del desarrollador.
+###### Artículo 244.
 
-#### Sección Décima. Del Administrador
+Concluida la totalidad de las obras establecidas en la licencia de construcción y ejecución de obras de urbanización, las garantías citadas en esta Sección, podrán ser canceladas por la autoridad municipal correspondiente, previa solicitud del desarrollador.
 
-###### Artículo 264.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 245.
 
 El desarrollador estará obligado a incluir en todo tipo de publicidad o promoción de ventas, la información relativa a la Declaratoria del régimen de propiedad en condominio y la autorización para venta de unidades privativas.
 
 La publicidad del condominio deberá contener las características básicas del régimen en que se encuentra y con la cuales fue autorizado, así como el tipo de material que utilizará, el cual deberá ser acorde a lo manifestando en su presupuesto de obras.
 
-###### Artículo 265.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-En la escritura del contrato de compraventa de una unidad privativa de condominio, se incluirán las cláusulas necesarias para asegurar que por parte de los compradores se conozcan las características de las unidades privativas, así como las áreas comunes que no serán susceptibles de subdivisión o fusión y que estarán destinadas a los fines y usos para los cuales hubieran sido aprobadas. Asimismo, se establecerá la obligación del adquirente a constituir, junto con las demás personas que adquieran una unidad privativa, la asociación de condóminos, para los efectos legales establecidos en el presente Código.
+###### Artículo 246.
 
-###### Artículo 266.
+En la escritura del contrato de compraventa de una unidad de propiedad privativa de condominio, se incluirán las cláusulas necesarias para asegurar que por parte de los compradores se conozcan las características de las unidades privativas, así como las áreas comunes que no serán susceptibles de subdivisión o fusión y que estarán destinadas a los fines y usos para los cuales hubieran sido aprobadas. Asimismo, se establecerá la obligación del adquirente a constituir, junto con las demás personas que adquieran una unidad de propiedad privativa, la asociación de condóminos, para los efectos legales establecidos en el presente Código.
 
-Una vez concluida la totalidad de las obras de construcción y urbanización del condominio, el desarrollador solicitará por escrito a la autoridad competente, el dictamen técnico aprobatorio de la ejecución de dichas obras, debiendo acreditar:
+#### Sección Octava. De la Entrega y Recepción de Obras de Urbanización
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-l. Que se realizó, mediante escritura pública, la transmisión a favor del Municipio, de las áreas que establece el artículo 156 de este Código, salvo las excepciones señaladas en el mismo; así como la superficie e infraestructura señaladas en el artículo 157 en favor de los organismos operadores o la autoridad competente;
+###### Artículo 247.
+
+Una vez concluida la totalidad de las obras de construcción y urbanización del condominio, el desarrollador solicitará por escrito a la autoridad municipal correspondiente, el dictamen técnico aprobatorio de la ejecución de dichas obras, debiendo acreditar:
+
+I. Que se realizó, mediante escritura pública, la transmisión a favor del Municipio, de las áreas que establece el artículo 156 de este Código, salvo las excepciones señaladas en el mismo; así como la superficie e infraestructura señaladas en el artículo 157 en favor de los organismos operadores de agua;
 
 II. Que los servicios y obras se encuentran funcionando en óptimas condiciones;
 
 III. Que tiene vendidos el cuarenta por ciento de la totalidad de las unidades privativas y tributando el impuesto predial;
 
-IV. Que el cuarenta por ciento de las unidades privativas, por lo menos, se encuentren habitados;
+IV. Que están individualizadas las tomas de agua de cada unidad de propiedad privativa;
 
-V. Que las redes de energía eléctrica, agua potable, drenaje sanitario y pluvial, jardines y mobiliario urbano y, en su caso, el alumbrado público, se hayan entregado por el desarrollador a satisfacción de la autoridad competente; y
+V. Que el cuarenta por ciento de las unidades privativas, por lo menos, se encuentren habitados;
 
-VI. Que las obras de urbanización ejecutadas se encuentren conforme a lo autorizado, para lo cual la autoridad podrá solicitar la documentación, pruebas de laboratorio o cualquier otro documento que acredite su correcta ejecución.
+VI. Que las redes de energía eléctrica, agua potable, drenaje sanitario y pluvial, jardines y mobiliario urbano y, en su caso, el alumbrado público, se hayan entregado por el desarrollador a satisfacción de la autoridad municipal correspondiente; y
 
-###### Artículo 267.
+VII. Que las obras de urbanización ejecutadas se encuentren conforme a lo autorizado, para lo cual la autoridad podrá solicitar la documentación, pruebas de laboratorio o cualquier otro documento que acredite su correcta ejecución.
 
-Recibida la solicitud, la autoridad competente procederá a verificar que con la documentación presentada por el desarrollador, se acreditan presuntamente los extremos requeridos en el artículo anterior; de ser procedente, señalará día y hora a fin de llevar a cabo inspección general de las obras, a la que citará al desarrollador para que comparezca a la misma, si así lo estima conveniente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 248.
+
+Recibida la solicitud, la autoridad municipal correspondiente procederá a verificar que, con la documentación presentada por el desarrollador, se acreditan presuntamente los extremos requeridos en el artículo anterior; de ser procedente, señalará día y hora a fin de llevar a cabo inspección general de las obras, a la que citará al desarrollador para que comparezca a la misma.
+
+La incomparecencia del desarrollador no afecta la validez de la inspección.
 
 La inspección a que se refiere el presente artículo, tiene por objeto determinar si se encuentran funcionando adecuadamente las obras de urbanización, así como que su ejecución fue conforme al proyecto autorizado.
 
-De la inspección se levantará acta circunstanciada, la que será firmada por el desarrollador, de haber asistido al acto, así como por la autoridad competente.
+De la inspección se levantará acta circunstanciada, la que será firmada por el desarrollador, de haber asistido al acto, así como por la autoridad municipal correspondiente.
 
-No será necesaria la inspección a que se refiere este artículo, cuando la solicitud sea recibida por la autoridad competente dentro de los cinco días hábiles siguientes a la conclusión de las obras, debiendo manifestar el desarrollador, bajo protesta de decir verdad, que dichas obras están funcionando correctamente y que a través de la bitácora de supervisión de obras de urbanización se acredite su óptimo funcionamiento; debiendo la autoridad, emitir resolución fundada y motivada.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 268.
+###### Artículo 249.
 
-Si de la inspección a que se refiere el artículo anterior, se advierten desperfectos en las obras que afecten el óptimo funcionamiento de las mismas, o bien, se encontraren diferencias conforme a las autorizaciones otorgadas, el desarrollador estará obligado a ejecutar las reparaciones necesarias que le señale la autoridad competente en un plazo no mayor a 60 días, contados a partir de que surta efectos la notificación que al efecto se le haga; debiendo realizar, en su caso, el procedimiento de regularización administrativa que corresponda, quedando en suspenso la entrega y recepción del condominio, hasta en tanto se cumpla con lo anterior.
+Si de la inspección a que se refiere el artículo anterior, se advierten desperfectos en las obras que afecten el óptimo funcionamiento de las mismas, o bien, se encontraren diferencias conforme a las autorizaciones otorgadas, el desarrollador estará obligado a ejecutar las reparaciones necesarias que le señale la autoridad municipal correspondiente en un plazo no mayor a 60 días, contados a partir de que surta efectos la notificación que al efecto se le haga; debiendo realizar, en su caso, el procedimiento de regularización administrativa que corresponda, quedando en suspenso la entrega y recepción del condominio, hasta en tanto se cumpla con lo anterior.
 
 Una vez efectuadas las reparaciones por el desarrollador y recibido aviso de ello, se procederá nuevamente a la inspección general, en términos de lo previsto en esta sección.
 
-###### Artículo 269.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Si de la inspección a que se refiere el artículo 267 de este Código, resulta que las obras y servicios del condominio se encuentran funcionando en forma óptima y fueron ejecutadas conforme a las autorizaciones respectivas, se procederá al cierre de la bitácora de las obras de urbanización, lo que se hará constar en el acta respectiva; procediendo la autoridad competente a emitir dictamen técnico aprobatorio de las obras de construcción y urbanización, en su caso, el cual establecerá la obligación del desarrollador de otorgar a favor de la Asamblea de condóminos, en un plazo de sesenta días naturales, fianza para garantizar los vicios ocultos de las obras de urbanización por el término de un año, contado a partir de la fecha de entrega y recepción del condominio.
+###### Artículo 250.
+
+Si de la inspección a que se refiere esta Sección, resulta que las obras y servicios del condominio se encuentran funcionando en forma óptima y fueron ejecutadas conforme a las autorizaciones respectivas, se procederá al cierre de la bitácora de las obras de urbanización, lo que se hará constar en el acta respectiva; procediendo la autoridad municipal correspondiente a emitir dictamen técnico aprobatorio de las obras de construcción y urbanización, en su caso, el cual establecerá la obligación del desarrollador de otorgar a favor de la Asamblea de condóminos, en un plazo de sesenta días naturales, fianza para garantizar los vicios ocultos de las obras de urbanización por el término de dos años, contados a partir de la fecha de entrega y recepción del condominio.
 
 La fianza será del diez por ciento del presupuesto total de las obras de urbanización del condominio, más su actualización. Cumplido el plazo de garantía sin que se hubieren presentado vicios ocultos, se procederá a la cancelación de ésta, previa solicitud hecha por el desarrollador.
 
-Emitido el dictamen técnico aprobatorio de la ejecución de obras de construcción y urbanización, en su caso, la autoridad competente notificará al desarrollador, así como a la Asamblea de condóminos el día y hora que tendrá verificativo la entrega y recepción de las obras de construcción y urbanización, la cual se hará constar ante la fe de Notario Público.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 251.
+
+Emitido el dictamen técnico aprobatorio de la ejecución de obras de construcción y urbanización, la autoridad municipal correspondiente notificará al desarrollador, el día y hora que tendrá verificativo la entrega y recepción de las obras de construcción y urbanización.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 252.
+
+La Asamblea general, a partir de la fecha de recepción de las obras de construcción y urbanización, se hará cargo de la operación y mantenimiento de las obras y servicios del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 253.
+
+En caso de existir vicios ocultos en las obras de urbanización, conforme al dictamen que emita la autoridad competente o perito autorizado en la materia, la Asamblea de condóminos podrá determinar las acciones legales que correspondan para hacer efectiva la fianza a que se refiere el artículo 250 de este Código.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Novena. De los Derechos, obligaciones y prohibiciones del condómino y del poseedor
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 254.
+
+Los derechos y obligaciones de los condóminos se regirán por las disposiciones que se señalan en el presente Código, en el Código Civil del Estado de Querétaro, el reglamento municipal correspondiente, la escritura constitutiva del condominio, el reglamento interno del condominio que se trate y otras leyes que sean aplicables.
+
+Los condóminos tendrán un derecho singular y exclusivo de propiedad sobre su inmueble, además de un derecho de copropiedad sobre los elementos y partes comunes del mismo, necesarios para su adecuado uso, goce y disfrute, por lo que dichos elementos se consideran inseparables y no susceptibles de división o gravamen independiente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 255.
+
+El derecho de copropiedad de cada condómino sobre las áreas y bienes de uso común será proporcional al indiviso de su unidad de propiedad privativa, fijada en la escritura constitutiva del régimen.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 256.
+
+El condómino puede usar, gozar y disponer de su unidad de propiedad privativa con las limitaciones y prohibiciones de este Código y con las demás que se establezcan en la escritura constitutiva del régimen y en el reglamento interno del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 257.
+
+Cualquier condómino o poseedor del condominio, podrá utilizar cualquier área o bien común, incluyendo las áreas verdes; igualmente podrán gozar de los servicios e instalaciones generales conforme a su naturaleza y destino, sin restringir o afectar el derecho de los demás y bajo las disposiciones que se establezcan en su reglamento interno del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 258.
+
+Son derechos de los condóminos:
+
+I. Contar con el respeto de los demás condóminos sobre su unidad de propiedad privativa;
+
+II. Participar con voz y voto en la Asamblea General, de conformidad con este ordenamiento;
+
+III. Conocer el estado que guardan los fondos de administración y mantenimiento, y el de reserva, en los términos de la fracción X del artículo 278 de este Código;
+
+IV. Realizar las obras y reparaciones necesarias al interior de su unidad de propiedad privativa, observando las limitaciones que en este Código se señalan, o las que se determinen en el reglamento municipal o del condominio respectivo; y
+
+V. Los demás que establezca este Código, la reglamentación municipal correspondiente, la escritura constitutiva del régimen y el reglamento interno del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 259.
+
+Son derechos de los poseedores:
+
+I. Contar con el respeto de los condóminos sobre la unidad de propiedad privativa que ocupen legalmente;
+
+II. Participar con voz en la Asamblea General, de conformidad con este Código o, con voz y voto, siempre y cuando así se haya estipulado en el contrato en el que se le trasmitió el uso y goce de la unidad de propiedad privativa, siendo el condómino obligado solidario en los acuerdos tomados, en los siguientes casos:
+
+a) Cuando se traten asuntos que afecten el uso y goce de las áreas y bienes de uso común en su calidad de poseedor; y
+
+b) Cuando se vayan a determinar los montos de las cuotas o que la decisión afecte su derecho de uso y goce de la unidad de propiedad privativa;
+
+III. Usar en igualdad de circunstancias y en forma ordenada, las áreas y bienes de uso común del condominio, sin restringir el derecho de los demás y en los términos que se establezcan en el reglamento interno del condominio;
+
+IV. Conocer el estado que guardan los fondos de administración y mantenimiento, y el de reserva, en los términos de la fracción X del artículo 278 de este Código; y
+
+V. Los demás que establezca este Código.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 260.
+
+Son obligaciones de los condóminos y poseedores:
+
+I. Cumplir con los acuerdos que apruebe la Asamblea General;
+
+II. Respetar los derechos de los demás condóminos o poseedores; y
+
+III. Cubrir puntualmente la cuota condominal que haya sido determinada.
+
+Esta obligación le es inherente y exigible desde el momento que se tome posesión de la unidad de propiedad privativa, por tanto, independientemente de las obligaciones del desarrollador para con las autoridades municipales, los organismos operadores de agua u otra instancia relacionada al proceso de ejecución del desarrollo inmobiliario de que se trate, el condómino deberá cubrir los gastos y consumos que le correspondan por el uso, goce y disfrute de su unidad de propiedad privativa.
+
+Los condóminos, podrán de forma individual o colectiva celebrar convenios con el desarrollador para cubrir los gastos y consumos a que se refiere el párrafo anterior.
+
+IV. Separar los residuos sólidos urbanos, para su disposición final.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 261.
+
+Queda prohibido a los condóminos, poseedores y, en general, a toda persona en el condominio:
+
+I. Destinar la unidad de propiedad privativa a usos distintos al fin establecido en la escritura constitutiva del régimen;
+
+II. Realizar actos que afecten la tranquilidad de los demás condóminos o poseedores, que comprometa la estabilidad, seguridad, salubridad o comodidad del condominio, o incurrir en omisiones que produzcan los mismos resultados;
+
+III. Efectuar todo acto en el exterior o en el interior de su unidad de propiedad privativa, que impida o haga ineficaz la operación de los servicios comunes e instalaciones generales, estorbe o dificulte el uso de las áreas y bienes de uso común incluyendo las áreas verdes o ponga en riesgo la seguridad o tranquilidad de los condóminos o poseedores, así como aquéllos que afecten la estructura, muros de carga u otros elementos esenciales del edificio o que puedan perjudicar su estabilidad, seguridad, salubridad o comodidad, todo daño causado será cubierto por el condómino o poseedor responsable.
+
+El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar las instalaciones o restablecer los servicios de que se trate y estará obligado a dejar las cosas en el estado en que se encontraban; asimismo responderá de los daños y perjuicios que resulten, sin perjuicio de las responsabilidades del orden civil o penal en que puedan incurrir y de las sanciones administrativas que correspondan de acuerdo a este Código.
+
+IV. Realizar obras y reparaciones en horario nocturno en condominios de uso habitacional, salvo los casos de fuerza mayor o cuando le haya sido expresamente autorizado por el administrador;
+
+Para el caso de usos distintos al habitacional, la Asamblea General acordará los horarios que mejor convengan al destino del condominio;
+
+V. Decorar, pintar o realizar obras que modifiquen la fachada o las paredes exteriores, afectando el patrón estético del conjunto arquitectónico con el condominio o que contravengan lo establecido y aprobado por la Asamblea General, el reglamento interno del condominio o este Código;
+
+VI. Derribar, plantar, trasplantar, talar u ocasionar la muerte de uno o más árboles, así como cambiar el uso o naturaleza de las áreas verdes determinadas en la escritura constitutiva del régimen;
+
+VII. Hacer uso de los estacionamientos y áreas de uso común, para fines distintos;
+
+VIII. Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. La Asamblea General determinará cuáles son los animales cuya posesión está permitida, correspondiendo a la Mesa Directiva o en su caso el Comité de Vigilancia, observar que se cumpla con esa determinación. Los animales no podrán transitar sin correa ni deambular libres por las áreas comunes. En todos los casos, los condóminos o poseedores, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio; y
+
+IX. Ocupar un cajón de estacionamiento distinto al asignado.
+
+Los reglamentos municipales, así como el reglamento interno del condominio podrá establecer tanto las conductas que constituyan una falta a la convivencia vecinal, así como las sanciones específicas aplicables a cada caso.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 262.
+
+Los titulares de una unidad de propiedad privativa ubicada en la planta baja o en el último piso, no tendrán más derecho que los restantes condóminos, por tanto, no podrán hacer excavaciones u otras obras en el subsuelo ni elevar nuevos pisos o realizar construcciones en la azotea. Salvo que lo establezca la escritura constitutiva del régimen o el reglamento interno del condominio, ningún condómino podrá ocupar los vestíbulos, jardines, patios y otros lugares especiales de la planta baja, ni los sótanos, ni el subsuelo, ni tampoco ocupar la azotea o techo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 263.
+
+Los condóminos deberán permitir la realización de las obras o reparaciones generales en el condominio, aún dentro de su propiedad, atendiendo siempre a las reglas de construcción del condominio y a lo que establezcan en su reglamento interno del condominio
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Décima. De la Asamblea General
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 264.
+
+La Asamblea General de condóminos es el órgano supremo del condominio. Para el desarrollo del proceso de toma de decisiones estas se clasifican en Ordinarias y Extraordinarias con las variantes específicas que se señalan en el presente artículo.
+
+Las asambleas generales serán:
+
+I. Ordinarias. Las que se celebrarán cuando menos cada seis meses teniendo como finalidad informar el estado que guarda la administración del condominio, así como tratar los asuntos concernientes al mismo.
+
+Además de los reportes financieros que expresen con claridad la posición financiera del condominio respecto del periodo, en estas el Administrador rendirá un reporte detallado de sus actividades, señalando los gastos, inversiones y demás acciones realizadas en el periodo para la manutención del condominio; dará cuenta de los riesgos o amenazas por cuanto ve al funcionamiento de los servicios y el estado de la infraestructura, señalará las inversiones que han de llevarse a cabo para mantener estas en funcionamiento y prestando el debido servicio o aquellas para mejorar, actualizar o transformar las áreas comunes; de la misma manera realizará una propuesta de presupuesto detallado y la sugerencia de la forma como deba integrarse la cuota condominal y su monto.
+
+II. Extraordinarias. Las que se celebrarán cuando se trate de acordar:
+
+a) Lo relativo a los asuntos de carácter urgente;
+
+b) El establecimiento de cuotas extraordinarias;
+
+c) La realización de obras nuevas;
+
+d) La modificación del reglamento interno del condominio; y
+
+e) Otros asuntos especificados para este tipo de Asambleas en el presente ordenamiento y los reglamentos respectivos y aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 265.
+
+Las asambleas generales se regirán por las siguientes disposiciones:
+
+I. Serán dirigidas por el presidente de la Mesa Directiva. El administrador desempeñará el cargo de secretario de actas y a falta de éste, por quien le corresponda por disposición del reglamento interno del condominio. A falta de disposición expresa, por quien designe la Asamblea General.
+
+Ésta designará además a los escrutadores necesarios.
+
+Para el caso de la primera asamblea donde se elija por primera vez la Mesa Directiva, ésta será presidida por quien designe el desarrollador;
+
+II. Serán celebradas en las instalaciones del condominio. Cuando esto no sea posible, en un lugar apropiado para ese efecto perteneciente al mismo municipio en donde esté ubicado el condominio, seleccionado por el administrador con opinión de la Mesa Directiva;
+
+III. Sesionarán válidamente con la asistencia de por lo menos el setenta y cinco por ciento del total de los condóminos, en primera convocatoria; con más del cincuenta por ciento de éstos, en segunda convocatoria; o con los que asistan, en tercera convocatoria, salvo los casos especiales señalados en este Código;
+
+IV. En los casos en los que sólo un condómino represente más del cincuenta por ciento del valor total inicial del inmueble y los condóminos restantes no asistan a la Asamblea General, previo anuncio de la convocatoria de acuerdo a este Código, la Asamblea podrá celebrarse en los términos de la fracción anterior;
+
+V. Los condóminos podrán ser representados en la Asamblea General por apoderados con carta poder otorgada ante dos testigos, pero en ningún caso una sola persona podrá representar a más del cincuenta por ciento de condóminos. El administrador no podrá representar a ningún condómino en la Asamblea General;
+
+VI. El poseedor sólo asistirá como representante del condómino, cuando así se hubiere estipulado expresamente en el contrato traslativo del uso y goce de la unidad de propiedad privativa y previamente lo haya hecho del conocimiento del administrador o de la Mesa Directiva;
+
+VII. Los condóminos o sus representantes deberán firmar en la lista de asistencia que se anexa en el libro de actas de la Asamblea General, para ser considerados como parte del quórum de la misma;
+
+VIII. Las votaciones serán personales y directas. Para tal efecto, cada condómino contará con un número de votos igual al porcentaje de indiviso que su unidad de propiedad privativa represente en el total del valor inicial del condominio.
+
+Cuando un solo condómino represente más del cincuenta por ciento del valor total inicial del inmueble, para adoptar una resolución será además necesario que el acuerdo se tome por mayoría de votos de los condóminos, computándose en este caso los votos por persona;
+
+IX. Las resoluciones de la Asamblea General se aprobarán por mayoría simple, excepto en los casos que este Código, la escritura constitutiva del régimen o el reglamento interno del condominio establezcan una situación distinta;
+
+X. El secretario de la Asamblea General levantará el acta de la sesión, en la que se asentará el lugar, fecha, hora de inicio y de terminación, el orden del día, su desarrollo, los acuerdos aprobados con el señalamiento de la votación recaída a cada asunto del orden del día y las firmas del presidente y del secretario de la Mesa Directiva, de los miembros del Comité de Vigilancia que asistieron y de los condóminos que así lo soliciten. El acta se integrará al libro de actas de la Asamblea General.
+
+Cuando se haya convocado legalmente a una Asamblea General y no se cuente con el libro de actas de la Asamblea General, por alguna circunstancia extraordinaria, el acta podrá levantarse en fojas por separado, haciendo constar en ella tal circunstancia; y
+
+XI. El secretario de la Asamblea General tendrá siempre a la vista de los asistentes el libro de actas de ésta e informará en un plazo de siete días hábiles por escrito a cada condómino o poseedor, las resoluciones que adopte la Asamblea General.
+
+El libro de actas deberá estar digitalizado y disponible en medios electrónicos.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 266.
+
+Las actas de la Asamblea General podrán protocolizarse por acuerdo de dicho órgano o, cuando por su contenido, se exija que deba constar en escritura pública.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 267.
+
+Las resoluciones de la Asamblea General se aprobarán por:
+
+I. Mayoría simple; o
+
+II. Mayoría calificada.
+
+Los acuerdos adoptados por la asamblea obligan a todos los condóminos, incluso a los ausentes y disidentes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 268.
+
+La Asamblea General tendrá las siguientes facultades:
+
+I. Modificar el Reglamento interno del condominio;
+
+II. Designar, ratificar, remover y fijar la remuneración del administrador condómino o del administrador profesional, según sea el caso, en los términos de este Código, del reglamento municipal correspondiente y del reglamento interno del condominio;
+
+III. Precisar las obligaciones y facultades a cargo de la Mesa Directiva, del Comité de Vigilancia y del administrador; así como las necesarias respecto de los condóminos o poseedores, así como las tareas encomendadas a los comités, de conformidad a lo establecido en el presente ordenamiento legal, el reglamento municipal respectivo y el reglamento interno del condominio;
+
+IV. Establecer las cuotas a cargo de los condóminos, determinando para ello el sistema o esquema de cobro que considere más adecuado y eficiente de acuerdo a las características del condominio;
+
+V. Designar y remover a la Mesa Directiva, al Comité de Vigilancia y a los comités a que se refiere el artículo 299 de este Código;
+
+VI. Resolver sobre el monto de la fianza que deba otorgar el administrador respecto al desempeño de su función y al manejo de los fondos a su cuidado;
+
+VII. Examinar y, en su caso, aprobar los estados de cuenta que someta el administrador a su consideración, a través del Comité de Vigilancia, así como el informe anual de actividades que rinda la Mesa Directiva;
+
+VIII. Discutir y, en su caso, aprobar el presupuesto de gastos para el año siguiente;
+
+IX. Instruir al Comité de Vigilancia o a quien se designe para proceder ante las autoridades competentes conforme a los procedimientos establecidos en este Código, cuando el administrador o administradores, infrinjan las disposiciones de este Código, la escritura constitutiva del régimen, el reglamento municipal correspondiente, el reglamento interno del condominio, o cualquier disposición legal aplicable;
+
+X. Resolver los conflictos que planteen los administradores o integrantes de la Mesa Directiva o del Comité de Vigilancia con motivo del ejercicio de los derechos o el incumplimiento de sus obligaciones derivados de este Código;
+
+XI. Acordar sobre la suspensión o restricción de las áreas de uso común, o los servicios, por omisión de pago de las cuotas a cargo de condóminos o poseedores, así como establecer las condiciones para el levantamiento de la suspensión o restricción;
+
+XII. Establecer los medios y las medidas para la protección civil, seguridad y vigilancia del condominio y de los condóminos o poseedores, así como la forma en que deberán participar éstos en dicha actividad, con apoyo eventual de la autoridad municipal correspondiente;
+
+XIII. Acordar en Asamblea General Extraordinaria, la limitación de los derechos del condómino o poseedor que asuma conductas que hagan imposible la convivencia armónica con los demás condóminos o poseedores;
+
+XIV. Aprobar o rechazar el estado de cuenta que se ejerza en torno a los proyectos específicos que se desarrollan en el condominio con recursos internos o externos y sean presentados por alguno de los comités mencionados en el artículo 299 de este Código;
+
+XV. Determinar las acciones más convenientes a realizar cuando exista un riesgo para las construcciones o para los condóminos o poseedores, de acuerdo al dictamen de la autoridad municipal correspondiente; y
+
+XVI. Las demás que le confieren la escritura constitutiva del régimen, el reglamento municipal correspondiente, el reglamento interno del condominio y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 269.
+
+Están facultados para convocar a Asamblea General:
+
+I. La Mesa Directiva;
+
+II. Cuando menos el veinte por ciento del total de los condóminos; y
+
+III. Cualquier condómino, en caso de que haya transcurrido un año sin que se hubiere convocado.
+
+Los condóminos que de acuerdo con el informe del administrador estén en condición de morosos, no tendrán derecho para convocar.
+
+El administrador será el responsable de las gestiones administrativas relativas a la emisión de la convocatoria.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 270.
 
-La Asamblea de condóminos, a partir de la fecha de recepción de las obras de construcción y urbanización, se hará cargo de la operación y mantenimiento de las obras y servicios del condominio.
+Las convocatorias para la celebración de asambleas generales se harán de acuerdo a las siguientes disposiciones:
+
+I. Deberán indicar:
+
+a) Quién convoca;
+
+b) Tipo de Asamblea de que se trate;
+
+c) Hora, fecha y lugar de celebración;
+
+d) El orden del día;
+
+Las convocatorias para Asamblea en la que se pretenda modificar el reglamento interno del condominio, además de todos los requisitos generales que deban satisfacer conforme a este artículo, deberán incluir las modificaciones que se propongan.
+
+II. Los condóminos o sus representantes serán convocados mediante la colocación de la convocatoria en lugar visible del condominio, la remisión de la misma por medios electrónicos y su fijación en la puerta del condominio;
+
+III. La celebración de la Asamblea será, cuando menos, cuatro días después de publicada la convocatoria respectiva.
+
+En los casos de suma urgencia, las convocatorias para Asamblea General Extraordinaria se realizarán con al menos 24 horas de anticipación.
+
+Entre la primera y la segunda convocatoria deberá mediar por lo menos un plazo de 15 minutos; el mismo plazo deberá transcurrir entre la segunda y la tercera convocatoria;
+
+IV. Las determinaciones adoptadas por las asambleas, obligan a todos los condóminos, incluyendo a los ausentes y disidentes; y
+
+V. Cuando por la importancia del o los asuntos a tratar en la Asamblea General se considere necesario, la Mesa Directiva, el administrador, el Comité de Vigilancia o los condóminos, podrán solicitar la presencia de la autoridad municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 271.
 
-En caso de existir vicios ocultos en las obras de urbanización, conforme al dictamen que emita la autoridad competente o perito autorizado en la materia, la Asamblea de condóminos podrá determinar las acciones legales que correspondan para hacer efectiva la fianza a que se refiere el artículo 269 de este Código.
+Con excepción de las asambleas generales convocadas para modificar el reglamento interno del condominio, extinguir el régimen de propiedad en condominio o afectar el dominio del inmueble, se suspenderá a los condóminos o poseedores morosos su derecho a voto en la Asamblea General.
 
-###### Artículo 272.
+En caso de que el carácter de moroso tenga su origen en el incumplimiento de una resolución judicial firme pronunciada en su contra sobre el pago de daños en favor del condominio, estos morosos no serán considerados para el quórum de instalación de la Asamblea General, estando impedidos para ser electos como administrador condómino, o como miembros del Comité de Vigilancia.
 
-La Asamblea de condóminos es el órgano supremo del condominio.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-Las asambleas deberán ser generales; sin embargo, en casos de suma urgencia, que puedan derivarse del carácter mixto del condominio o de lo vasto o complejo que pudiere ser el núcleo habitacional, podrá haber Asambleas especiales de grupo o Asambleas especiales de condominio, cuando forman parte de un conjunto o unidad condominal.
-
-###### Artículo 273.
-
-Las Asambleas generales, especiales de grupo o especiales de condominios se regirán por las siguientes prevenciones:
-
-I. Las generales deberán celebrarse, por lo menos una vez al año y las de grupo y especiales de condominios cuantas veces sea necesario, de acuerdo con lo dispuesto por este Título y el reglamento del condominio;
-
-II. Cada condómino gozará de un número de votos igual al porcentaje que represente su indiviso, conforme a lo establecido en la escritura mediante la que lo adquiere;
-
-III. La votación será personal, nominal y directa; pudiendo el condómino ser representado en la Asamblea, en los términos que para dicho efecto prevea el reglamento del condominio;
-
-IV. Las resoluciones de la Asamblea se tomarán por mayoría simple de votos, excepto en los casos en que el presente Código y el Reglamento del condominio prescriban una mayoría especial;
-
-V. Cuando un solo condómino represente más del cincuenta por ciento de los votos, se requerirá, además, el cincuenta por ciento de los votos restantes, para la validez de los acuerdos;
-
-VI. Las asambleas serán presididas por quien así lo prevea el Reglamento del condominio. El Administrador fungirá como Secretario si es persona física y en caso de ser persona moral, por un representante legal de ésta.
-
-El Presidente designará, de entre los concurrentes, a dos personas que actuarán como escrutadores, a fin de constatar la existencia del quórum legal; y
-
-VII. Las actas de la Asamblea deberán ser suscritas por quien la presida, por el Secretario y los escrutadores, pudiendo ser firmadas por los condóminos presentes; las que deberán protocolizarse ante Notario e inscribirse en el Registro Público de la Propiedad y del Comercio.
-
-###### Artículo 274.
-
-Los condóminos y acreedores registrados podrán convocar a asamblea, sin intervención del Administrador ni del Comité de Vigilancia, cuando acrediten ante Notario Público o Juez competente, que representan, como mínimo, la cuarta parte del proindiviso del condominio.
-
-###### Artículo 275.
-
-Las convocatorias para la celebración de Asamblea, deberán realizarse cuando menos con diez días de anticipación a la fecha en que pretenda celebrarse, indicando la hora en que deba verificarse, así como el lugar, el que deberá ser dentro del condominio, con inclusión del orden del día propuesto.
-
-Los condóminos y acreedores registrados o sus representantes, serán notificados en el lugar que para tal efecto hayan señalado mediante comunicado por escrito, por correo certificado, mensajería o por cualquier otro medio donde conste fehacientemente la fecha de la citación.
-
-Además del envío del comunicado anterior, el Administrador colocará la convocatoria en uno o más lugares visibles del condominio.
-
-En casos de suma urgencia, podrá convocarse a Asamblea con una anticipación de 72 horas.
-
-###### Artículo 276.
-
-Cuando la Asamblea se celebre a virtud de primera convocatoria, se requerirá un quórum del setenta y cinco por ciento del proindiviso representado por los condóminos asistentes.
-
-Cuando se realice por segunda convocatoria, el quórum será cuando menos, del cincuenta y uno por ciento del proindiviso representado por los condóminos asistentes.
-
-Si la Asamblea se efectuare en razón de tercera convocatoria, las resoluciones se adoptarán por el proindiviso representado por los condóminos que asistan.
-
-###### Artículo 277.
-
-Los acuerdos adoptados por la Asamblea, obligan a todos los condóminos, incluyendo a los ausentes o disidentes.
-
-###### Artículo 278.
-
-Son facultades de la Asamblea:
-
-I. Nombrar y remover libremente al Administrador del condominio, excepto a los que funjan por el primer año, que serán designados por quienes otorguen la escritura que constituya el régimen de propiedad en condominio;
-
-II. Nombrar un Comité de Vigilancia, que podrá constituirse con una o hasta tres personas;
-
-III. Establecer el monto de la fianza de fidelidad que deba otorgar el Administrador para garantiza su desempeño;
-
-IV. Examinar y aprobar, en su caso, el estado de cuenta anual que someta el Administrador a su consideración;
-
-V. Discutir y aprobar, en su caso, el presupuesto de gastos para el año siguiente;
-
-VI. Establecer las cuotas a cargo de los condóminos, para constituir un fondo destinado a los gastos de mantenimiento y administración, así como al de reserva.
-
-Las cuotas serán fijadas en forma mensual debiendo cubrirse por adelantado. El monto de estos fondos se integrará en proporción al proindiviso que represente cada departamento, vivienda, casa o local. Las primeras aportaciones para la constitución de ambos fondos, serán determinadas en el Reglamento del condominio. El fondo de reserva, mientras no se use, deberá invertirse en valores de renta fija, redimibles a la vista. El destinado a mantenimiento y administración será el bastante para contar anticipadamente con el numerario que cubra los gastos de tres meses;
-
-VII. Determinar la promoción de las acciones legales conducentes en contra del Administrador, por el ejercicio indebido de su responsabilidad;
-
-VIII. Adoptar las medidas que correspondan sobre los asuntos de interés común que no se encuentren comprendidos dentro de las funciones conferidas al Administrador;
-
-IX. Autorizar la modificación de la escritura que constituye el régimen de propiedad en condominio y el Reglamento del mismo; y
-
-X. Las demás que le confieran el presente Código, el Reglamento del condominio, la escritura que constituye el régimen de propiedad en condominio y demás disposiciones legales aplicables.
-
-###### Artículo 279.
-
-Los condominios serán administrados por la persona física o moral que designe la Asamblea, en los términos de este Código, el Reglamento del condominio o la escritura que constituye el régimen de propiedad en condominio.
-
-###### Artículo 280.
-
-La Asamblea fijará la remuneración del Administrador, la que podrá renunciarse, cuando el cargo sea desempeñado por alguno de los condóminos.
-
-###### Artículo 281.
-
-El Administrador del condominio tendrá las siguientes facultades y obligaciones:
-
-I. Llevar, debidamente autorizado por el Comité de Vigilancia del condominio, un libro de actas de asamblea, en el que se asentarán las levantadas por este motivo, debiendo conservar los documentos relativos a la Asamblea, entre ellos, la convocatoria, listas de asistencia, certificación de quórum por los escrutadores, cartas poder que hubiesen sido exhibidas y demás documentos pertinentes, los que constarán como apéndice del acta;
-
-II. Cuidar y vigilar los bienes del condominio y los servicios comunes;
-
-III. Llevar y conservar los libros y documentación relacionados con el condominio, los cuales, en todo tiempo, deberán estar a disposición para consulta de los condóminos;
-
-IV. Atender la operación y mantenimiento de las instalaciones y servicios generales;
-
-V. Realizar las obras de mantenimiento necesarias en términos de lo previsto por el artículo 239, fracción I, de este Código;
-
-VI. Ejecutar los acuerdos de la Asamblea;
-
-VII. Recaudar las cuotas de mantenimiento y administración, así como de reserva, debiendo otorgar a los condóminos el recibo correspondiente;
-
-VIII. Efectuar los gastos de mantenimiento y administración del condominio, con cargo al fondo correspondiente, en los términos del Reglamento del condominio;
-
-IX. Entregar mensualmente, a cada condómino, recabando constancia de quien lo reciba, un estado de cuenta, procurando mostrar:
-
-a) Relación pormenorizada de los gastos del mes, efectuados con cargo al fondo de mantenimiento y administración.
-
-b) Estado consolidado que demuestre los montos de las aportaciones y cuotas pendientes de cubrirse.
-
-c) Saldo del fondo de mantenimiento y administración, y fines a los que se destinará en el mes subsiguiente o, en su caso, monto y relación de adeudos por cubrirse;
-
-X. Convocar a Asamblea;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-XI. Ejercer facultades de apoderado general para pleitos y cobranzas y actos de administración con todas las facultades generales y especiales que requieran cláusula especial en los términos de los dos primeros párrafos del artículo 2450 y del artículo 2484 del Código Civil del Estado de Querétaro; representación legal en materia laboral conforme a los artículos 11, 692, 786, 876, 895 y demás relativos de la Ley Federal del Trabajo; y para contratar cuentas bancarias y de inversión y librar cheques, en representación del condominio; y
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
-
-XII. Adquirir los bienes que se requieran e incorporen a los bienes de uso común; contratar los servicios públicos y privados en las áreas comunes o en beneficio de los condóminos, y, en general, desempeñar las demás funciones y cumplir con las obligaciones inherentes a su cargo establecidas en el presente Código, las que le confieran la escritura que constituye el régimen de propiedad en condominio, el Reglamento General de Condominios, el Reglamento del condominio, los acuerdos de la Asamblea y demás disposiciones legales aplicables.
-
-###### Artículo 282.
-
-El Administrador tendrá a disposición de los condóminos, una relación de los mismos, en la que consten las cantidades que cada uno de ellos aportó para los fondos de mantenimiento, administración y el de reserva, con expresión de saldos de cuotas pendientes de cubrirse.
-
-###### Artículo 283.
-
-Recibido el estado de cuenta a que hace referencia la fracción IX del artículo 281 de este Código, el condómino contará con un plazo de cinco días hábiles, para formular las observaciones y objeciones que considere pertinentes; de no hacerlas, se presumirá su conformidad, a reserva de la aprobación que en su momento realice la Asamblea.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
-
-###### Artículo 284.
-
-En relación al condominio y a los bienes y servicios comunes, el Administrador tendrá las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para administrar bienes, así como para pleitos y cobranzas, incluyendo facultades como representante legal y apoderado en materia laboral. Para el otorgamiento de facultades relativas al desistimiento en juicio, otorgar el perdón en procedimientos penales, celebrar transacciones y convenios y cualquier otra que establezcan las leyes, el Administrador necesitará acuerdo de la Asamblea, con mayoría del cincuenta y uno por ciento del indiviso, salvo lo que establezca el reglamento del condominio respectivo.
-
-###### Artículo 285.
-
-En tanto no se realice formalmente la primera Asamblea de condóminos, en la que habrán de designarse los órganos del condominio, fungirá como Administrador el designado por el desarrollador, quien podrá ser ratificado por la Asamblea.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
 Sección Decimoprimera
 
-Del Comité de Vigilancia
+De la Mesa Directiva
 
-###### Artículo 286.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-El Comité de Vigilancia, tendrá las siguientes facultades y obligaciones:
+###### Artículo 272.
 
-I. Cerciorarse que el Administrador cumpla los acuerdos de la Asamblea;
+Los condominios deberán contar con una Mesa Directiva integrada por un Presidente y un Secretario electos por la mayoría calificada de la Asamblea General; ésta tendrá las siguientes facultades:
 
-II. Vigilar que el Administrador realice sus funciones con apego a la normatividad que regula su actuación;
+I. Convocar y presidir las Asambleas generales;
 
-III. Dar su conformidad para la realización de las obras a que se refiere el artículo 239, fracción I, de este Código;
+II. Proponer a la Asamblea General el nombramiento del Administrador;
 
-IV. Revisar los estados de cuenta que debe rendir el Administrador;
+III. Resolver, en el ámbito de su competencia, los conflictos que se generen entre los condóminos;
 
-V. Vigilar la inversión del fondo de reserva;
+IV. Decretar las sanciones por el incumplimiento a las disposiciones del presente Capítulo, del reglamento municipal correspondiente, de la escritura constitutiva del régimen y del reglamento interno del condominio;
 
-VI. Dar cuenta a la Asamblea de sus observaciones sobre la administración del condominio;
+V. Contratar y dar por terminados los servicios profesionales que se hubieren contratado de manera excepcional;
 
-VII. Coadyuvar con el Administrador, en observaciones a los condóminos sobre el cumplimiento de sus obligaciones;
+VI. Dar su conformidad, en su caso, para la realización de las obras para el mantenimiento del condominio;
 
-VIII. Convocar a Asamblea de condóminos, cuando a su requerimiento el Administrador no lo haga dentro de los tres días siguientes;
+VII. Solicitar, cuando sea convocante de la Asamblea General en cuyo orden del día se pretendan resolver conflictos, la presencia de la autoridad municipal correspondiente;
 
-IX. Convocar a Asamblea de condóminos, cuando a su juicio sea necesario informar de irregularidades en que haya incurrido el Administrador, con notificación a éste para que comparezca a la Asamblea relativa; y
+VIII. Recibir y resguardar la fianza del administrador; y
 
-X. Las demás que se deriven de este Código, así como de las disposiciones legales que regulen su actuación.
+IX. Las demás que se deriven de este Código, de la aplicación de otras que impongan deberes a su cargo, del reglamento municipal correspondiente, de la escritura constitutiva del régimen y del reglamento interno del condominio.
 
-Sección Decimasegunda
+En ausencia del Presidente de la Mesa Directiva, el Secretario o quien designe la Asamblea General, realizará las funciones de éste.
 
-Del Reglamento del Condominio
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 287.
+Sección Decimosegunda
 
-El Reglamento del condominio contendrá, por lo menos, lo siguiente:
+Del Administrador
 
-I. Los derechos y obligaciones de los condóminos en relación a los bienes de uso común, así como unidades privativas, estableciendo las limitaciones a que estén sujetos;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-II. La forma en que deberán integrarse los órganos del condominio;
+###### Artículo 273.
 
-III. Las disposiciones complementarias que propicien la mejor integración, administración, organización, mantenimiento, operación y desarrollo del condominio;
+El administrador será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio y tendrá las facultades que le señalen la escritura constitutiva, los reglamentos correspondientes y la Asamblea General.
 
-IV. Forma de convocar a Asamblea de condóminos y persona que la presidirá;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-V. Previsiones relativas a los acuerdos tomados en la Asamblea y la votación requerida para su validez;
+###### Artículo 274.
 
-VI. La forma en que debe designarse el administrador y el Comité de Vigilancia;
+Para desempeñar el cargo de administrador se requiere:
 
-VII. Las facultades que, en su caso, se otorguen de manera adicional a las establecidas en este Código al Administrador y al Comité de Vigilancia;
+I. En el caso del administrador condómino, éste deberá acreditar a la Asamblea General, que se encuentre al corriente en el cumplimiento de sus obligaciones de condómino; y
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+II. Otorgar fianza o garantía en la cuantía que señale la Asamblea General a la Mesa Directiva.
 
-VIII. Previsiones relativas a las cuotas de mantenimiento, así como a las del fondo de reserva;
+Para lo anterior tendrá un plazo máximo de diez días naturales posteriores a su designación.
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+La designación del administrador quedará asentada en el libro de actas de la Asamblea General. El administrador designado comunicará su nombramiento a la autoridad municipal correspondiente dentro de los quince días hábiles siguientes.
 
-IX. Formas de extinción del condominio; y
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2014)</small>
+###### Artículo 275.
 
-X. Las facilidades que deberán otorgarse al personal de los diversos organismos operadores para la adecuada inspección y prestación de los servicios públicos.
+En el caso de edificaciones nuevas, que se constituyan en régimen de propiedad en condominio, el primer administrador será designado por quien otorgue la escritura constitutiva del régimen. Éste durará en su encargo hasta un año, plazo dentro del cual se deberá convocar a Asamblea General para designar al administrador.
 
-###### Artículo 288.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-El Reglamento del condominio podrá prever los casos en que proceda la modificación de la escritura que constituye el régimen de propiedad en condominio.
+###### Artículo 276.
+
+Cuando exista un impedimento material o estructural que dificulte la organización condominal o los condóminos tengan una forma tradicional de organización, mediante acuerdo de la Asamblea General se podrá designar administrador por edificios, alas, secciones, zonas, manzanas, entradas y áreas, y en aquellos casos en que el condominio tenga más de una entrada, los condóminos podrán optar por la organización, por acceso o módulo, siempre y cuando se trate de asuntos de áreas internas en común que sólo dan servicio a quienes habitan esa sección del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 277.
+
+El administrador durará en su cargo hasta dos años, salvo lo que determine la escritura constitutiva del régimen o el reglamento interno del condominio y sin perjuicio de ser removido libremente por la Asamblea General. Asimismo, podrá ser ratificado por acuerdo de la Asamblea General.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 278.
+
+Son obligaciones del administrador:
+
+I. Representar los intereses de los condóminos respecto de los bienes de propiedad común;
+
+II. Representar los intereses en general del condominio;
+
+III. Administrar y contratar los servicios relacionados con dichos bienes, directamente o por conducto de cualquier persona física o moral, conformando su patrimonio con las cuotas o aportaciones de los condóminos;
+
+IV. Llevar un libro de actas de la Asamblea General y certificar las que, por su trascendencia, se requieran;
+
+V. Realizar todos los actos de administración y conservación que el condominio requiera en sus áreas y bienes de uso común;
+
+VI. Cuidar y vigilar los bienes del condominio y los servicios comunes mediante el inventario de todos los muebles, aparatos e instalaciones que existan en el condominio, así como de los que en lo sucesivo se adquieran o se den de baja, de acuerdo a la modalidad del condominio y en los términos que establezca el reglamento interno del condominio;
+
+VII. Promover la integración, organización y desarrollo de la comunidad;
+
+VIII. Representar y ejecutar las decisiones tomadas en la Asamblea General, en el Consejo de Administradores;
+
+IX. Recabar y conservar los libros de actas de la Asamblea General y la documentación relacionada con el condominio, los que podrán ser consultados por los condóminos que se encuentren al corriente del pago de cuotas ordinarias y extraordinarias, así como por cualquier autoridad que la solicite. Los condóminos morosos sólo podrán consultarlos durante el plazo de siete días naturales antes de la celebración de la Asamblea General y de siete días naturales después de ésta, o bien en el plazo que señale el reglamento interno del condominio;
+
+X. Dar información por escrito a los condóminos y poseedores que lo soliciten, respecto al estado que guardan los fondos de administración y mantenimiento, y el de reserva. A los condóminos morosos sólo se les proporcionará la información durante el plazo de siete días naturales antes de la celebración de la Asamblea General y de siete días naturales después de ésta, o en el plazo que señale el reglamento interno del condominio; así como rendir informes semestrales a la Asamblea General sobre el estado de cuenta de la administración;
+
+XI. Atender la operación adecuada y eficiente de las instalaciones y servicios generales;
+
+XII. Dar aviso a la autoridad municipal correspondiente, sobre la inobservancia de lo dispuesto en la fracción VI del artículo 261 de este Código y, en caso de que un área verde sufra modificación o daño;
+
+XIII. Contratar el suministro de agua, energía eléctrica, gas y otros bienes necesarios para los servicios, instalaciones y áreas y bienes de uso común, dividiendo el importe del consumo de acuerdo a lo establecido por la asamblea general, el reglamento interno del condominio y este Código;
+
+XIV. Realizar las obras para la conservación adecuada de las respectivas unidades;
+
+XV. Informar los acuerdos de la Asamblea General, salvo que ésta designe a otras personas para tal efecto;
+
+XVI. Recaudar de los condóminos o poseedores lo que a cada uno corresponda aportar para los fondos de administración y mantenimiento, y el de reserva, así como el de las cuotas extraordinarias de acuerdo a los procedimientos, periodicidad y montos establecidos por la Asamblea General o por el reglamento interno del condominio;
+
+XVII. Efectuar los gastos de administración y mantenimiento del condominio, con cargo al fondo correspondiente, en los términos del reglamento interno del condominio o de los acuerdos de la Asamblea General;
+
+XVIII. Otorgar recibo por cualquier pago;
+
+XIX. Entregar al Comité de Vigilancia bimestralmente o dentro del plazo que señale la Asamblea General, un estado de cuenta del condominio, el cual contendrá:
+
+a) La relación pormenorizada de ingresos y egresos del período anterior.
+
+b) El monto de las aportaciones y cuotas pendientes.
+
+c) El saldo de las cuentas bancarias.
+
+d) La relación detallada de las cuentas por pagar a los proveedores de bienes y servicios del condominio.
+
+e) La relación pormenorizada de los morosos y los montos de su deuda;
+
+XX. Representar a los condóminos o poseedores para la contratación de locales, espacios o instalaciones de propiedad común que sean objeto de arrendamiento, comodato o que se destinen al comercio, de acuerdo a lo establecido en la Asamblea General y en el reglamento interno del condominio;
+
+XXI. Cumplir con las disposiciones de seguridad, tránsito y protección civil dictadas por la legislación y los reglamentos en la materia;
+
+XXII. Iniciar los procedimientos correspondientes contra quienes incumplan las obligaciones o incurran en violaciones al presente ordenamiento, a la escritura constitutiva del régimen, al reglamento municipal correspondiente, al reglamento interno del condominio, en coordinación con la Mesa Directiva;
+
+XXIII. Difundir y fomentar entre los condóminos, poseedores y habitantes del condominio, el conocimiento de este Código, la escritura constitutiva del régimen y el reglamento interno del condominio;
+
+XXIV. Emitir bajo su responsabilidad y de acuerdo a la contabilidad del condominio, las constancias de no adeudo, por concepto de cuotas ordinarias y extraordinarias, y demás cuotas que la Asamblea General haya determinado, para cada unidad de propiedad privativa, cuando sea solicitada por el condómino, el poseedor, así como por las autoridades jurisdiccionales. Dicha constancia será emitida por el administrador en un término que no exceda de cinco días hábiles, a partir del día siguiente al en que se haya recibido la solicitud;
+
+XXV. Dirimir controversias derivadas de actos de molestia entre los condóminos, poseedores o habitantes y, en general, para mantener la paz y tranquilidad entre los mismos;
+
+XXVI. Solicitar a la autoridad municipal correspondiente, la presencia de un mediador o conciliador cuando así se requiera;
+
+XXVII. Dentro de los diez días naturales, posteriores a su designación, celebrar o ratificar convenio con la autoridad estatal o municipal a fin de que se permita el ingreso a las áreas comunes, de los cuerpos de seguridad, protección civil o emergencia;
+
+XXVIII. Capacitarse en mediación y solución de conflictos;
+
+XXIX. Capacitarse y realizar, por lo menos una vez al año, simulacros y actividades de prevención y actuación en materia de seguridad y protección civil; y
+
+XXX. Realizar las demás funciones y cumplir con las obligaciones que establezcan a su cargo este Código, la reglamentación municipal, la escritura constitutiva del régimen y el reglamento interno del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 279.
+
+El cargo de administrador terminará en los supuestos establecidos en el contrato de prestación de servicios profesionales o cuando así lo acuerde la Asamblea General.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 280.
+
+Cuando la Asamblea General designe un nuevo administrador, el saliente deberá, inmediatamente, entregar al administrador entrante, con la participación del Comité de Vigilancia o de quien designe la Asamblea General, toda la documentación que derivado de su función tenga a su cargo, incluyendo los estados de cuenta, libro de actas de la Asamblea General, valores, muebles, inmuebles y demás bienes que tuviera bajo su resguardo y responsabilidad.
+
+De lo establecido en el párrafo anterior se levantará un acta que firmarán quienes intervengan.
+
+El Comité de Vigilancia o el administrador entrante podrán iniciar las acciones administrativas, civiles o penales que correspondan.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 281.
+
+Las disposiciones que ejecute el administrador, dentro de sus facultades, serán obligatorias para todos los condóminos y poseedores, a menos que la Asamblea General disponga situación diversa.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
 Sección Decimotercera
 
-De los Gastos, Obligaciones Fiscales y Controversias
+Del Comité de Vigilancia
 
-###### Artículo 289.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-La contribución de los condóminos a la constitución de los fondos de administración y mantenimiento, así como de reserva, se efectuará en los términos previstos por el reglamento del condominio.
+###### Artículo 282.
 
-###### Artículo 290.
+Los condominios que cuenten con al menos diez unidades de propiedad privativa, deberán contar con un Comité de Vigilancia integrado por dos o hasta cinco condóminos, dependiendo del número de unidades de propiedad privativa, designándose de entre ellos un presidente y de uno a cuatro vocales, mismos que actuarán de manera colegiada, y sus decisiones se tomarán por mayoría simple. En caso de empate, el presidente tendrá voto de calidad.
 
-Cuando un condominio conste de diferentes partes y comprenda escaleras, patios, jardines, obras e instalaciones destinadas a servir únicamente a una parte del conjunto, los gastos especiales relativos, serán a cargo del grupo de condóminos beneficiados, así como en el caso de ascensores, montacargas y otros elementos, aparatos o instalaciones. En el Reglamento del condominio podrán establecerse reglas especiales para el reparto de los gastos.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 291.
+###### Artículo 283.
 
-Las cuotas de administración y mantenimiento, así como para fondo de reserva que no se cubran puntualmente, causarán intereses moratorios al tipo legal previsto en el Código Civil del Estado de Querétaro, durante el tiempo que dure insoluto el adeudo.
+La designación de los miembros del Comité de Vigilancia será hasta por dos años desempeñándose en forma honorífica, o bien, hasta en tanto no sean removidos de su cargo por la Asamblea General. Sus integrantes podrán ser ratificados por un período consecutivo.
 
-###### Artículo 292.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Trae aparejada ejecución en la vía ejecutiva civil, el estado de liquidación de adeudos e intereses moratorios, si va suscrita por el Administrador y el Presidente del Comité de Vigilancia y acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por Notario, de la parte relativa del Acta de Asamblea o del reglamento del condominio, en su caso, en que se hayan determinado las cuotas a cargo de los condóminos, para los fondos de mantenimiento, administración y de reserva. Esta acción sólo podrá ejercerse cuando existan tres recibos pendientes de pago y se seguirá la vía ejecutiva civil, sin necesidad de reconocimiento de firmas, bastando para su procedencia cumplir con los requisitos antes mencionados, y despachándose ejecución en contra del condómino moroso, sin que obste para ello el que terceros vinculados con éste por contrato o sin él, se encuentren poseyendo el inmueble, habiéndose de seguirse el juicio en contra de aquél en la vía antes mencionada, bajo lo previsto por el Código de Procedimientos Civiles del Estado de Querétaro.
+###### Artículo 284.
 
-El Reglamento del condominio podrá establecer que cuando algún condómino caiga en mora, el Administrador distribuirá el importe del adeudo causado y que se siga causando, entre los restantes condóminos proporcionalmente al valor de sus propiedades hasta la recuperación del adeudo. Al efectuarse la recuperación de dicho adeudo, el Administrador reembolsará a los afectados por dicho cargo, las cantidades que hubiesen aportado y los intereses en la parte que les corresponda.
+El Comité de Vigilancia tendrá las siguientes atribuciones:
 
-###### Artículo 293.
+I. Resolver, en el ámbito de su competencia, los conflictos que se generen entre los condóminos;
 
-El condómino que reiteradamente no cumpla con sus obligaciones, además de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado para que se le obligue a vender sus derechos, hasta en subasta pública, respetándose el derecho del tanto. El ejercicio de esta acción será resuelto en la Asamblea de condóminos, con un mínimo del setenta y cinco por ciento del indiviso representado por los condóminos; esta acción, se ejercerá en la vía sumaria, conforme a lo dispuesto por el Código de Procedimientos Civiles del Estado de Querétaro.
+II. Cerciorarse de que el administrador cumpla con los acuerdos de la Asamblea General;
 
-###### Artículo 294.
+III. Revisar bimestralmente o con la periodicidad señalada por la Asamblea General, todos los documentos, comprobantes, contabilidad, libros de actas, estados de cuenta y, en general, toda la documentación e información relacionada con el condominio;
 
-Si quien no cumpla sus obligaciones fuese un ocupante no propietario, el Administrador le demandará, previo consentimiento del condómino, la desocupación del departamento, vivienda, casa o local. Si el condómino se opusiere, se procederá contra éste y el ocupante en los términos del artículo anterior.
+IV. Supervisar que el administrador lleve a cabo el cumplimiento de sus funciones;
 
-El poseedor de la unidad privativa y el condómino propietario de la misma, serán solidariamente responsables, recíprocamente, del cumplimiento de todas las obligaciones.
+V. Verificar y emitir dictamen de los estados de cuenta que debe rendir el o los administradores ante la Asamblea General, señalando sus omisiones, errores o irregularidades;
 
-###### Artículo 295.
+VI. Dar cuenta a la Asamblea General de sus observaciones sobre la administración del condominio;
 
-Los condóminos cubrirán el impuesto predial sobre la unidad privativa y las áreas comunes, así como los demás tributos o gastos que se generen en el condominio.
+VII. Coadyuvar con el administrador en observaciones a los condóminos, poseedores o habitante en general, sobre el cumplimiento de sus obligaciones;
+
+VIII. Solicitar la presencia de un notario público en los casos previstos en este Código, o en los que considere necesario;
+
+IX. Formular demanda o denuncia en contra del administrador cuando incumpla sus obligaciones; salvo cuando la Asamblea General, por el voto de la mayoría calificada, acuerde situación distinta;
+
+X. Desempeñar las funciones de administrador en caso de muerte de éste, o ausencia de sus funciones durante un mes;
+
+XI. Auditar el inventario de todos los muebles, aparatos e instalaciones que existan en el condominio, así como de los que en lo sucesivo se adquieran o se den de baja, de acuerdo a la modalidad del condominio y en los términos que establezca el reglamento interno del condominio;
+
+XII. Hacer efectiva la garantía otorgada por el administrador, por acuerdo de la Asamblea General, cuando por el desempeño en el cargo produzca daños o perjuicios al condominio, sin perjuicio de las demás acciones civiles o penales que procedan; y
+
+XIII. Las demás que se deriven de este Código, de la aplicación de otras que impongan deberes a su cargo, del reglamento municipal correspondiente, de la escritura constitutiva del régimen y del reglamento interno del condominio.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
 Sección Decimocuarta
 
-De la Resolución de Controversias y del Procedimiento Conciliatorio
+De los daños al edificio
 
-###### Artículo 296.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Las controversias que se susciten con motivo de la interpretación y aplicación del presente Capítulo, del Reglamento del condominio, de la escritura que constituye el régimen de propiedad en condominio y de la traslativa de dominio, así como de las demás disposiciones aplicables, serán sometidas a un procedimiento de conciliación.
+###### Artículo 285.
 
-Los órganos designados por los Ayuntamientos de los Municipios en que estén ubicados los condominios, tendrán obligación de actuar como amigables componedores y conciliadores, en su caso, de las diferencias o controversias que surjan entre condóminos y propietarios contiguos o vecinos.
+En caso de que el condominio se dañe total o parcialmente se estará a lo que señalan las disposiciones generales sobre la copropiedad que establece el Código Civil para el Estado de Querétaro.
 
-En caso de controversia ante los Tribunales competentes, las partes deberán comprobar haber agotado el procedimiento conciliatorio antes mencionado.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
-###### Artículo 297.
+Sección Decimoquinta
 
-Los Ayuntamientos determinarán la instancia municipal competente, para conocer del procedimiento conciliatorio a que hace referencia el artículo anterior.
+Del Reglamento interno del condominio
 
-###### Artículo 298.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-El procedimiento conciliatorio iniciará a petición de los órganos del condominio, Administrador o condóminos mediante escrito en el que deberán exponer el asunto que se somete a conciliación, los hechos que lo motivan y las personas involucradas, señalando el domicilio en que éstas puedan ser notificadas.
+###### Artículo 286.
 
-###### Artículo 299.
+El reglamento interno del condominio contendrá, sin contravenir lo establecido por este Código, los reglamentos municipales respectivos y la escritura constitutiva del régimen, las disposiciones que por las características específicas del condominio se consideren necesarias, refiriéndose en forma enunciativa más no limitativa, lo siguiente:
 
-Quien promueva un procedimiento conciliatorio, deberá acreditar el carácter con que se ostenta.
+I. Los derechos, obligaciones, prohibiciones y limitaciones que especialmente se determinen para el condominio a que quedan sujetos los condóminos y poseedores;
 
-###### Artículo 300.
+II. El procedimiento para el cobro de las cuotas ordinarias y extraordinarias, así como las consecuencias jurídicas por el incumplimiento de las obligaciones de los condóminos y poseedores;
 
-Recibido el escrito a que se refiere el artículo 298 de este Código, la instancia municipal competente citará a los involucrados a una audiencia, la que deberá verificarse en un término no mayor a quince días hábiles, contados a partir del siguiente al de la recepción del escrito, ordenándose notificación personal a las partes, la que deberá efectuarse en los términos señalados por la Ley de Procedimientos Administrativos del Estado de Querétaro, por lo menos con tres días hábiles de anticipación a la fecha de celebración de la audiencia.
+III. Los criterios para fijar el monto y la periodicidad del cobro de las cuotas de los fondos de administración y mantenimiento, y el de reserva;
 
-###### Artículo 301.
+IV. Las medidas convenientes para la mejor administración, mantenimiento y operación del condominio;
 
-De no comparecer el promovente a la audiencia conciliatoria, sin causa justificada, se entenderá que se desiste de la misma, sin que pueda solicitar de nueva cuenta el procedimiento conciliatorio por los mismos hechos.
+V. Las disposiciones necesarias que propicien la integración, organización y desarrollo de la comunidad;
 
-###### Artículo 302.
+VI. Los criterios generales a los que se sujetará el administrador para la contratación a terceros de locales, espacios o instalaciones de propiedad común que sean objeto de arrendamiento o comodato, previo acuerdo de la Asamblea General;
 
-Si la persona en contra de quien se inicia el procedimiento conciliatorio no comparece a la audiencia, sin causa justificada, se entenderá por no aceptado el procedimiento conciliatorio; debiéndose levantar el acta correspondiente, la que tendrá el efecto establecido en el tercer párrafo del artículo 296 de este Código.
+VII. Las medidas del presidente para hacer guardar el orden en el desarrollo de la Asamblea General;
 
-###### Artículo 303.
+VIII. El tipo de administración;
 
-De concurrir las partes, el órgano correspondiente las exhortará a que lleguen a un acuerdo, actuando en todo tiempo como amigable componedor, preservando la igualdad de las partes.
+IX. Obligaciones y requisitos para la Mesa Directiva, el administrador y los miembros del Comité de Vigilancia, adicionales a las establecidas en este Código;
 
-###### Artículo 304.
+X. El establecimiento de medidas provisionales en los casos de ausencia temporal de la Mesa Directiva, el administrador o de los miembros de los Comités que se integren;
 
-De llegar las partes a un acuerdo, el órgano correspondiente levantará un acta en la que consten las obligaciones asumidas por las partes, ya sean de dar, hacer o no hacer, debiendo establecerse fecha para su cumplimiento.
+XI. La determinación de criterios para el uso de las áreas y bienes de uso común, especialmente para aquéllas que deban destinarse exclusivamente a personas con discapacidad;
 
-El acta que se refiere este artículo, tendrá el carácter de título ejecutivo civil, sin necesidad de homologación por parte de la autoridad jurisdiccional.
+XII. Determinar, en su caso, las medidas y limitaciones para poseer animales en las unidades de propiedad privativa o áreas comunes;
 
-###### Artículo 305.
+XIII. Las aportaciones para la constitución de los fondos de administración y mantenimiento, y el de reserva, así como cualquier otro que determine la Asamblea General;
 
-De no llegarse a convenio, se levantará el acta correspondiente, haciendo constar esta circunstancia, para los efectos establecidos en el tercer párrafo del artículo 296 de este Código.
+XIV. La determinación de criterios para asuntos que requieran una mayoría calificada en caso de votación y no estén previstos en este Código; y
 
-###### Artículo 306.
+XV. Las bases para la elaboración del programa interno de seguridad, tránsito y protección civil, así como la conformación, en su caso, de comités en esta materia.
 
-El procedimiento conciliatorio no es aplicable a la recuperación de los adeudos por cuotas de administración y mantenimiento, de fondo de reserva o cuotas extraordinarias fijadas por la Asamblea; por lo que no será necesario agotarlo, antes de iniciar el procedimiento ejecutivo civil correspondiente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-Sección Decimaquinta
+###### Artículo 287.
 
-Destrucción, Ruina, Reconstrucción y Extinción del Condominio
+El administrador deberá entregar, con acuse fehaciente, a todo arrendatario, comodatario, poseedor o nuevo adquirente, un ejemplar del reglamento interno del condominio, momento desde el que será exigible a este y sus dependientes su cumplimiento; además verificará que esta obligación sea cumplida.
 
-###### Artículo 307.
+Cualquier adquirente u ocupante de una unidad de propiedad privativa, está obligado a sujetarse al reglamento interno del condominio.
 
-Si el condominio se destruyere en su totalidad o en una proporción que represente por lo menos las tres cuartas partes de su valor, según peritaje practicado por las autoridades competentes o institución fiduciaria, una mayoría especial del cincuenta y uno por ciento del indiviso representado por los condóminos, podrá acordar la reconstrucción o la división del terreno y de los bienes comunes que queden o, en su caso, la venta con arreglo a las disposiciones legales sobre planeación, desarrollo o regeneración urbana y otras que fueren aplicables.
-
-Si la destrucción no alcanza la gravedad que se indica, los acuerdos a que se refiere el párrafo anterior, serán tomados por una mayoría especial del setenta y cinco por ciento del indiviso representado por los condóminos.
-
-En los casos a que se refieren los párrafos anteriores, si el acuerdo es por la reconstrucción, los condóminos en minoría estarán obligados a contribuir a ella en la proporción que les corresponda o a enajenar sus derechos. La enajenación podrá tener lugar desde luego a favor de la mayoría, si en ella convienen con los minoritarios, pero será forzosa a los seis meses, al precio del avalúo practicado por corredor público o por institución fiduciaria, si dentro de dicho término no la han logrado los minoritarios.
-
-###### Artículo 308.
-
-En caso de ruina o antigüedad del condominio, una mayoría especial del cincuenta y uno por ciento del indiviso representado por los condóminos, podrá resolver, previo dictamen de las autoridades competentes, la reconstrucción o la demolición y división de los bienes comunes o, en su caso, la venta siguiéndose, en adelante, las prevenciones del artículo anterior.
-
-###### Artículo 309.
-
-La extinción voluntaria del régimen de propiedad en condominio requerirá el acuerdo de un mínimo del setenta y cinco por ciento de los votos que en conjunto representen todos los condóminos, salvo que la escritura que constituye el régimen de propiedad en condominio prevea un porcentaje más alto.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
 
 Sección Decimosexta
 
-De la Autorización para la Urbanización y Prestación de Servicios
+Del pago y destino de cuotas y gastos a cargo de los condóminos
 
-#### Sección Primera. Del Informe y Dictamen de Uso de Suelo
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 288.
+
+Los condóminos y, en su caso, los poseedores, están obligados a cubrir puntualmente las cuotas que para tal efecto establezca la Asamblea General, las cuales serán destinadas para:
+
+I. Constituir el fondo de administración y mantenimiento, destinado a cubrir el gasto corriente que se genere en la administración, operación y servicios no individualizados de las áreas comunes y áreas verdes del condominio, así como la remuneración del administrador. El importe de las cuotas a cargo de cada condómino se establecerá distribuyendo los gastos en proporción al porcentaje de indiviso que represente cada unidad de propiedad privativa;
+
+II. Constituir el fondo de reserva, destinado a cubrir los gastos de adquisición de herramientas, materiales, implementos, maquinarias y pago de mano de obra que requiera el condominio para obras y mantenimiento. El importe de la cuota se establecerá en proporción al porcentaje de indiviso que represente cada unidad de propiedad privativa; y
+
+III. Gastos extraordinarios, cuando así lo determine la asamblea general.
+
+El condómino propietario siempre será responsable del pago de las cuotas condominales.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 289.
+
+Cuando en el condominio existan vicios ocultos que afecten a los bienes comunes y no sea posible obtener reparación o indemnización del que lo constituyó o del vendedor, las obras necesarias para la reparación del inmueble serán por cuenta de todos los condóminos, en la proporción que represente cada unidad de propiedad privativa del inmueble.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 290.
+
+Las cuotas no estarán sujetas a compensación, excepciones personales, ni a ningún otro supuesto que pueda excusar su pago.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 291.
+
+La Asamblea General determinará anualmente el porcentaje de los frutos o utilidades obtenidas por el arrendamiento de los bienes de uso común que deberán aplicarse a cada uno de los fondos del condominio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 292.
+
+Las cuotas que los condóminos y poseedores no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea General o en el reglamento interno del condominio, causarán intereses moratorios al tipo que se hayan fijado por la Asamblea General o en el reglamento interno del condominio. A falta de estipulación del tipo, se aplicará el interés legal.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 293.
+
+El administrador, ante el incumplimiento del pago de al menos seis cuotas, deberá ejercer las acciones necesarias ante los órganos jurisdiccionales competentes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 294.
+
+Cuando se celebre un contrato traslativo de dominio en relación con una unidad de propiedad privativa, el enajenante deberá entregar al adquirente una constancia de no adeudo, entre otros, del pago de cuotas ordinarias de administración y mantenimiento, y de reserva, así como de cuotas extraordinarias en su caso, expedida por el administrador.
+
+El adquirente de cualquier unidad de propiedad privativa se constituye en obligado solidario del pago de los adeudos existentes en relación con la misma, excepto en el caso de que el administrador hubiere expedido y entregado la constancia de no adeudos señalada anteriormente.
+
+El notario público asentará que el enajenante declaró, bajo protesta de decir verdad, que entregó al adquirente la constancia de no adeudo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 295.
+
+La autoridad municipal correspondiente podrá realizar convenios con el condominio, a efecto de que se presten servicios públicos.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+Sección Decimoséptima
+
+De la cultura condominal
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 296.
+
+La promoción de la cultura condominal se efectuará a través de actividades que contribuyan a generar las acciones y actitudes que permitan la sana convivencia, el respeto y la observancia recíproca de los derechos y obligaciones entre los condóminos, entre éstos y los poseedores y, en general, de cualquier habitante de un condominio.
+
+Son principios rectores de la cultura condominal el respeto, la tolerancia, la responsabilidad, el cumplimiento, la corresponsabilidad, la participación, la solidaridad y la aceptación mutua.
+
+La Mesa Directiva tiene la obligación de impulsar y promover los principios rectores que componen la cultura condominal.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 297.
+
+Las autoridades municipales coadyuvarán y asesorarán en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 298.
+
+Las autoridades municipales proporcionarán a los condóminos, poseedores y administradores, orientación y capacitación a través de diversos cursos y talleres en materia condominal, en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+
+Toda persona que sea administrador o integrante de los Comités, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por las autoridades de acuerdo a los reglamentos municipales.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 299.
+
+Los condóminos o poseedores podrán organizarse en comités para atender, con la colaboración de las autoridades, temas socioculturales y asuntos relacionados con el medio ambiente, seguridad y protección civil, deporte, obras e infraestructura y servicios públicos, entre otros. El reglamento interno del condominio establecerá su integración y funciones.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 300.
+
+Las autoridades municipales, la Asamblea General, el Administrador así como todos los integrantes del régimen condominal, deberán fomentar e impulsar la cultura condominal.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 301.
+
+El desarrollador, al momento de efectuar la operación de enajenación de la unidad de propiedad privativa deberá proporcionar la información relativa al condominio, entregando además un manual de inducción y convivencia al condómino.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+Sección Decimoctava
+
+De la Vigilancia
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 302.
+
+Compete al Comité de Vigilancia, verificar el cumplimiento de los derechos y obligaciones de condóminos y poseedores respecto de las áreas de uso común y de cultura condominal, así como la inobservancia por su incumplimiento.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 303.
+
+La autoridad municipal correspondiente tendrá las siguientes atribuciones:
+
+I. Llevar y actualizar un registro de los inmuebles constituidos bajo el régimen de propiedad en condominio y de los administradores designados o contratados;
+
+II. Recabar y llevar un archivo de los reglamentos internos de los condominios;
+
+III. Asesorar a los condóminos, poseedores y administradores en el cumplimiento de este Código; y
+
+IV. Recibir y atender las quejas y denuncias por el probable incumplimiento de este Código, del reglamento interno del condominio y del reglamento municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 304.
+
+Las prohibiciones que señala el Artículo 261 del presente ordenamiento tendrán los límites que determine el Reglamento municipal correspondiente y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 305.
+
+El reglamento interno del condominio señalará lo conducente a fin de evitar acciones arbitrarias, por parte de la Mesa Directiva, el Comité de Vigilancia y el administrador que afecten indebidamente al condómino infractor.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 306.
+
+El Comité de Vigilancia dará seguimiento a los acuerdos a los que lleguen las partes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 307.
+
+El cumplimiento de las obligaciones económicas pactadas por los condóminos, derivadas de acuerdos suscritos por ellos, se destinarán a donde acuerde la Asamblea General.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+Sección Decimonovena
+
+De los conflictos condominales y forma de resolverlos
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 308.
+
+El administrador resolverá los conflictos que surjan entre condóminos o poseedores, cuando por el ejercicio de sus derechos o el cumplimiento de sus obligaciones, den origen a conflictos por la inobservancia de las disposiciones de este Código, de la escritura constitutiva del régimen, el reglamento interno del condominio y de los ordenamientos aplicables.
+
+Las diferencias no resueltas por el administrador o bien cuando éste sea parte del conflicto, se resolverá por el Comité de Vigilancia, de no ser así, se tendrá que acudir a la autoridad municipal correspondiente.
+
+Los conflictos entre los administradores, Mesa Directiva o integrantes del Comité de Vigilancia, deberán acudir con la autoridad municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 309.
+
+La decisión que resuelva el conflicto, será formalizada por las partes en forma de convenio, que firmarán los que intervengan en él, y en caso de que así proceda, lo remitan al juez para su aprobación y otorgamiento de la calidad de cosa juzgada.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+
+#### Sección Vigésima. De la autorización para la urbanización y prestación de Servicios
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 310.
 
-En caso de que el desarrollador no pueda realizar las obras de urbanización en el plazo autorizado, podrá solicitar a la autoridad competente por escrito, la prórroga por el tiempo que considere necesario, exponiendo los motivos que le asistan; debiendo dictarse resolución en un término no mayor a treinta días hábiles, contados a partir del siguiente al en que fue recibida la solicitud.
+En caso de que el desarrollador no pueda realizar las obras de urbanización en el plazo autorizado, podrá solicitar a la autoridad municipal correspondiente por escrito, la prórroga por el tiempo que considere necesario, exponiendo los motivos que le asistan; debiendo dictarse resolución en un término no mayor a treinta días hábiles, contados a partir del siguiente al en que fue recibida la solicitud.
 
 ### Capítulo Primero. Disposiciones Generales
 
@@ -3245,7 +3595,7 @@ La autoridad competente podrá autorizar la poda y tala de árboles en áreas p�
 
 ### Capítulo Tercero. De los Anuncios
 
-#### Sección Segunda. De las Licencias de Construcción
+#### Sección Primera. Del Informe y Dictamen de Uso de Suelo
 
 ###### Artículo 323.
 
@@ -3281,7 +3631,7 @@ II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sea
 
 III. En caso de que no sea factible lo establecido en las fracciones anteriores, se ejecutarán las medidas de seguridad que establece el presente Código.
 
-#### Sección Tercera. Riesgos y Vulnerabilidad Urbana, Vía Pública y Contexto de Imagen Urbana
+#### Sección Segunda. De las Licencias de Construcción
 
 ###### Artículo 329.
 
@@ -3397,7 +3747,7 @@ Los proyectos de obras deberán tomar en consideración los aspectos de compatib
 
 Todos aquellos usos que por sus características típicas de funcionamiento, particularidad o frecuencia con que se presentan, no llegan a formar una zona o rango o no se ajusten a la tipificación enmarcada en los usos y destinos establecidos en los planes y programas de desarrollo urbano y, que además de esto, no sea posible determinar su compatibilidad, estarán sometidos a una licencia especial, en términos de lo establecido en el Reglamento del Municipio que corresponda.
 
-#### Sección Primera. De sus Atribuciones
+#### Sección Tercera. Riesgos y Vulnerabilidad Urbana, Vía Pública y Contexto de Imagen Urbana
 
 ###### Artículo 346.
 
@@ -3799,7 +4149,7 @@ La Comisión Estatal de Aguas podrá concesionar los servicios de agua potable, 
 
 ### Capítulo Tercero. De los Servicios
 
-#### Sección Segunda. De sus Órganos de Gobierno
+#### Sección Primera. De sus Atribuciones
 
 ###### Artículo 402.
 
@@ -3881,7 +4231,7 @@ III. Administraciones municipales o intermunicipales; y
 
 IV. Un Órgano Interno de Control.
 
-#### Sección Tercera. Del Patrimonio
+#### Sección Segunda. De sus Órganos de Gobierno
 
 ###### Artículo 404.
 
@@ -4011,7 +4361,7 @@ Los titulares de las administraciones municipales o intermunicipales, realizará
 
 El Órgano Interno de Control de la Comisión Estatal de Aguas, se conforma por titular designado por la Secretaría de la Contraloría del Poder Ejecutivo del Estado y tendrá las atribuciones que le confiere la Ley de la Administración Pública Paraestatal del Estado de Querétaro, este Código y demás disposiciones legales aplicables.
 
-#### Sección Primera. Del Servicio de Agua Potable
+#### Sección Tercera. Del Patrimonio
 
 ###### Artículo 414.
 
@@ -4039,7 +4389,7 @@ Los bienes inmuebles que integran el patrimonio de la Comisión Estatal de Aguas
 
 ### Capítulo Cuarto. De las Tarifas y Derechos
 
-#### Sección Segunda. Del Servicio de Alcantarillado
+#### Sección Primera. Del Servicio de Agua Potable
 
 ###### Artículo 417.
 
@@ -4307,7 +4657,7 @@ El costo del medidor y sus aditamentos será cargado en forma explícita en el r
 
 Los requisitos que deberán cumplir los solicitantes del servicio de agua potable, serán acreditar la propiedad del inmueble, copia de la identificación oficial del solicitante y, en su caso, aquellos que fije administrativamente la Comisión Estatal de Aguas, haciéndolo del conocimiento del usuario de manera fundada, motivada y justificada, incluyendo, pero no quedando limitado, a la existencia de buenas condiciones de la red interna de tuberías en el inmueble de que se trate, con el fin de evitar fugas y desperdicio de dicho líquido, así como que el servicio que se pretende contratar se ajuste a los usos descritos en la presente sección.
 
-#### Sección Tercera. Del Servicio de Saneamiento
+#### Sección Segunda. Del Servicio de Alcantarillado
 
 ###### Artículo 447.
 
@@ -4373,7 +4723,7 @@ Queda prohibido a los usuarios descargar al sistema de alcantarillado, aguas fue
 
 La contravención al presente artículo será sancionada conforme a lo dispuesto en el presente Código, la normatividad en materia de protección civil y las demás leyes en la materia, sin perjuicio de la determinación de las responsabilidades de derecho común en que pudiera incurrir el responsable.
 
-#### Sección Cuarta. De la Inspección y Verificación
+#### Sección Tercera. Del Servicio de Saneamiento
 
 ###### Artículo 454.
 
@@ -4403,7 +4753,7 @@ La Comisión Estatal de Aguas publicará anualmente en su portal de internet, el
 
 Asimismo, llevará el censo de las condiciones particulares de descarga fijadas, incluyendo sus modificaciones o actualizaciones.
 
-#### Sección Primera. De las Tarifas
+#### Sección Cuarta. De la Inspección y Verificación
 
 ###### Artículo 459.
 
@@ -4433,7 +4783,7 @@ La Comisión Estatal de Aguas aplicará a los usuarios de los servicios, las san
 
 ### Capítulo Quinto. De las Concesiones
 
-#### Sección Segunda. De los Derechos
+#### Sección Primera. De las Tarifas
 
 ###### Artículo 461.
 
@@ -4487,7 +4837,7 @@ En estos supuestos, la determinación del cobro correspondiente se realizará co
 
 La tarifa para el cobro de los derechos a los usuarios, por el uso o aprovechamiento de las aguas residuales que corren por los sistemas de drenaje y alcantarillado de la Comisión Estatal de Aguas será determinada por su Consejo Directivo y se aplicará de acuerdo al volumen que registre el sistema de medición que la propia Comisión Estatal de Aguas establezca o en su defecto con base a las determinaciones presuntivas establecidas en el presente Código.
 
-#### Sección Tercera. Del Cobro de los Derechos
+#### Sección Segunda. De los Derechos
 
 ###### Artículo 468.
 
@@ -4587,7 +4937,7 @@ Las tarifas correspondientes a la disposición de aguas residuales serán determ
 
 La verificación del consumo de agua suministrada en los predios, giros o establecimientos, se hará utilizando aparatos medidores y sus dispositivos complementarios, que serán instalados y retirados por personal de la Comisión Estatal de Aguas o por terceros que hubieren sido designados por ésta para tal propósito, previa comprobación de su correcto funcionamiento. La carencia de aparato medidor, genera la responsabilidad del usuario, por tal motivo, se instalará un medidor y se contabilizarán los siguientes tres meses para determinar el estimado que deberá pagar el usuario.
 
-#### Sección Cuarta. De la Determinación Presuntiva del Pago de los Derechos
+#### Sección Tercera. Del Cobro de los Derechos
 
 ###### Artículo 472.
 
@@ -4621,7 +4971,7 @@ El cobro de los derechos por la prestación de los servicios de agua potable, al
 
 Se exceptúan de lo dispuesto en el párrafo anterior las personas morales constituidas legalmente como instituciones de asistencia privada o asociaciones civiles, que operen programas de asistencia social en beneficio de los grupos vulnerables, que no persigan propósitos de lucro y sin designación individual de beneficiarios, quienes pagarán mensualmente un salario mínimo general, por concepto de derechos por suministro de agua potable, siempre y cuando los derechos que se cubran, correspondan al bien inmueble propiedad de dichas instituciones y que sea destinado directamente al cumplimiento de sus objetivos.
 
-#### Sección Quinta. De la Inversión de las Obras
+#### Sección Cuarta. De la Determinación Presuntiva del Pago de los Derechos
 
 ###### Artículo 476.
 
@@ -4657,7 +5007,7 @@ IV. Cuando se oponga a la verificación o lectura del aparato medidor o no aport
 
 Cuando no pueda determinarse el volumen de agua consumida o descargada y no se pueda cuantificar el monto del pago según lo dispuesto en los artículos anteriores, dichos montos se calcularán conforme al promedio de metros cúbicos usados o descargados en los tres meses inmediatos anteriores a los aforos realizados durante la inspección o, en su caso, conforme al promedio de consumo de la zona o colonia en donde se encuentre ubicado el predio o en donde se goce del servicio. Esta disposición es aplicable para los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
 
-#### Sección Primera. De las Infracciones
+#### Sección Quinta. De la Inversión de las Obras
 
 ###### Artículo 479.
 
@@ -5017,7 +5367,7 @@ El Poder Ejecutivo del Estado y los Municipios, propondrán a las dependencias d
 
 ### Capítulo Tercero. Del Procedimiento Administrativo
 
-#### Sección Segunda. De las Sanciones
+#### Sección Primera. De las Infracciones
 
 ###### Artículo 520.
 
@@ -5085,7 +5435,7 @@ Las infracciones cometidas por los Notarios Públicos, serán sancionadas en té
 
 Los servidores públicos que incurran en infracción a las disposiciones de este Código, serán sancionados, en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-#### Sección Primera. De las Notificaciones
+#### Sección Segunda. De las Sanciones
 
 ###### Artículo 527.
 
@@ -5133,11 +5483,13 @@ Independientemente de las sanciones administrativas que se impongan al infractor
 
 ### Capítulo Cuarto. De los Medios de Impugnación
 
-#### Sección Segunda. De las Verificaciones e Inspecciones
+#### Sección Primera. De las Notificaciones
 
 ###### Artículo 534.
 
 Las notificaciones y demás comunicaciones procesales previstas en este Código, de no existir una previsión especial, se realizarán en términos de lo previsto en la Ley de Procedimientos Administrativos del Estado de Querétaro.
+
+#### Sección Segunda. De las Verificaciones e Inspecciones
 
 ###### Artículo 535.
 
@@ -5402,3 +5754,13 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los Municipios, deberán adecuar o emitir sus disposiciones reglamentarias de conformidad con la presente Ley.
