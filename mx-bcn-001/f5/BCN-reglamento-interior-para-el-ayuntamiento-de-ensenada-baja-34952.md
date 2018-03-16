@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-03-02"
+last_updated: "2018-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1441,7 +1441,9 @@ VII.- Seguridad, Tránsito y Transporte;
 
 VIII.- Planeación y Desarrollo Económico;
 
-IX.- Salud y Asistencia Social;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2018)</small>
+
+IX.- Salud;
 
 X.- Turismo;
 
@@ -1665,21 +1667,21 @@ a).- Los mecanismos e instrumentos que resulten necesarios para promover, impuls
 
 b).- La ejecución de programas especiales para fomentar cultura integral para el desarrollo social, considerando: la educación, la ciencia, la tecnología; así como las siguientes culturas: emprendedora, cívica y de valores, participativa, laboral, de prevención, de la equidad y los derechos humanos, de la legalidad, del medio ambiente y de la felicidad.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-COMISIÓN DE SALUD Y ASISTENCIA SOCIAL.
+COMISIÓN DE SALUD.
 
-###### ARTICULO 124.
+###### Artículo 124.
 
 Atribuciones:
 
-I.- Dictaminar sobre proyectos de Reglamentos, iniciativas de ley o decreto, y disposiciones normativas de observancia general en materia de salud y asistencia social;
+I.- Dictaminar sobre proyectos de Reglamentos, iniciativas de ley o decreto, y disposiciones normativas de observancia general en materia de salud.
 
 II.- Proponer al Ayuntamiento:
 
-a).- políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
+a).- Políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes;
 
-b).- los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer, de acuerdo a los ordenamientos legales aplicables:
+b).- Los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones que como autoridad sanitaria le corresponde ejercer, de acuerdo a los ordenamientos legales aplicables; y
 
 III.- Vigilar y evaluar los trabajos de las dependencias municipales con funciones en la materia.
 
@@ -1841,25 +1843,25 @@ III.- Participar en los organismos relacionados al desarrollo y promoción del d
 
 IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes, y con base en sus resultados y a las necesidades operantes para orientar la política del gobierno municipal.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 COMISIÓN DE DESARROLLO SOCIAL
 
 ARTÍCULO 127 SEPTER.- Atribuciones:
 
-I.- Proponer, analizar, estudiar y dictaminar iniciativas en materia de Desarrollo Social:
+I.- Proponer, analizar, estudiar y dictaminar iniciativas en materia de Desarrollo Social.
 
 II.- Promover acciones tendientes a incentivar la participación y desarrollo integral de los habitantes del Municipio;
 
 III.- Promover la organización de los habitantes en uniones vecinales con el fin de incentivar la democracia participativa y el desarrollo comunitario;
 
-IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Social, del Sistema Municipal para el Desarrollo Integral de la Familia y de la Unidad de Atención a Grupos Vulnerables;
+IV.- Supervisar y apoyar los programas de la Dirección de Desarrollo Social y del Sistema Municipal para el Desarrollo Integral de la Familia;
 
 V.- Procurar que el Ayuntamiento establezca los vínculos con las demás autoridades y organismos del Estado encargados de la asistencia social y el desarrollo social y humano;
 
 VI.- Evaluar los trabajos de los organismos municipales y con base en sus resultados y necesidades operantes, proponer las medidas pertinentes para orientar las políticas de Desarrollo Social en el Municipio;
 
-VII.- Estudiar la conveniencia de la celebración de convenios y contratos con la Federación, el Estado, los Municipios y los particulares respecto de la actividad de asistencia social, desarrollo integral de la persona y la familia y el desarrollo social;
+VII.- Estudiar la conveniencia de la celebración de convenios y contratos con la Federación, el Estado, los Municipios y los particulares respecto de la actividad de asistencia social, desarrollo integral de la persona, la Familia y el desarrollo social;
 
 VIII.- Las demás que le confieran las diversas disposiciones normativas y el propio Ayuntamiento.
 
@@ -2326,3 +2328,9 @@ P.O. 2 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DE DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente Modificación entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 114 FRACCIÓN IX, 124 Y 127 SEPTER DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- LA REFORMA A LOS ARTÍCULOS 114 FRACCIÓN IX, 124 Y 127 SEPTER DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
