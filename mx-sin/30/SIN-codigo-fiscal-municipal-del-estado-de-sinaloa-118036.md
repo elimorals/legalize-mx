@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-municipal-del-estado-de-sinaloa-118036"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-14"
-last_updated: "2017-12-22"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2018 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MARZO DE 2018.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de diciembre de 2016.
 
@@ -587,7 +587,7 @@ c) A falta del anterior, el lugar en que se hubiese realizado el hecho generador
 
 Todo sujeto pasivo está obligado según corresponda a:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017) (F. DE E., P.O. 16 DE MARZO DE 2018)
 
 I. Pagar en las oficinas recaudadoras de la Tesorería Municipal, en las colecturías de rentas municipales, en las oficinas que designen dichas entidades públicas o ante los auxiliares de recaudación que ésta autorice, las contribuciones y créditos fiscales determinados a su cargo, dentro de los plazos legalmente señalados por las disposiciones fiscales, a menos que se impugnen total o parcialmente y se garantice el interés fiscal en la parte que corresponda a la impugnación;
 
