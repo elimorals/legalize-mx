@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2018-03-09"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -323,11 +323,11 @@ XXX.- Las demás que le confieran las leyes, o las disposiciones jurídicas y ad
 
 ### CAPITULO III. DEL CONSEJO MUNICIPAL DEL TRANSPORTE
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 10.
 
-El Ayuntamiento conformará un Consejo Técnico como órgano de consulta de carácter multisectorial e interinstitucional, para el estudio, análisis, discusión y evaluación de la problemática general en materia de transporte público, así como para la emisión de opiniones y recomendaciones que para su mejoramiento se estimen procedentes, mismas que se remitirán a las autoridades competentes.
+El Ayuntamiento conformará un Consejo Técnico como órgano de consulta de carácter multisectorial e interinstitucional, para el estudio, análisis, discusión y evaluación de la problemática general en materia de transporte público, así como para la emisión de opiniones y recomendaciones que para su mejoramiento se estimen procedentes, mismas que se remitirán acompañadas de la documentación de soporte; a las autoridades competentes en un término no mayor a 15 días, contados a partir de su notificación.
 
 Dicho Consejo Técnico tendrá las siguientes atribuciones:
 
@@ -353,9 +353,11 @@ X.- Promover y difundir programas para concienciar a los usuarios, respecto del 
 
 XI.- Promover los estudios de combustibles alternos para unidades del transporte;
 
-XII.- Fomentar e impulsar dentro de su cobertura geográfica, una cultura del transporte.
+XII.- Fomentar e impulsar dentro de su cobertura geográfica, una cultura del transporte;
 
-XIII.- Las demás que establezca este Reglamento y ordenamientos legales de la materia.
+XIII.- Crear un calendario anual de sesiones que deberá autorizar la Unidad Municipal de Transporte a más tardar el mes de febrero de cada año, en el cual se contemple el análisis del tema de transporte en las delegaciones de nuestro municipio;
+
+XIV.- Las demás que establezca este reglamento y ordenamientos legales de la materia.
 
 DE LA INTEGRACIÓN DEL CONSEJO
 
@@ -587,7 +589,7 @@ DE LA CONVOCATORIA A SESIONES
 
 El Consejo, por medio de su Presidente, convocará por escrito y con 72 horas de anticipación a las sesiones ordinarias y extraordinarias que se requieran, acompañando en su caso el orden del día y la documentación e información necesaria.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ### CAPITULO V. DE LA CAPACITACION Y EDUCACIÓN VIAL
 
@@ -1877,9 +1879,13 @@ P.O. 3 DE FEBRERO DE 2017.
 
 DEL QUÓRUM LEGAL.
 
-El quórum legal en las sesiones del Consejo se integrará con la asistencia de más de la mitad de sus miembros, debiendo sujetarse al orden del día previamente formulado. El Secretario Técnico comprobará que existe el quórum necesario para iniciar, dando cuenta de ello al Presidente.
+El quórum legal en las sesiones del Consejo se integrará con la asistencia de más de la mitad de sus miembros, debiendo sujetarse al orden del día previamente formulado.
+
+El Secretario Técnico comprobará que existe el quórum necesario para iniciar, dando cuenta de ello al Presidente.
 
 Cuando en la primera convocatoria no se integre el quórum, se convocará 30 minutos después a la segunda y se podrá sesionar con la presencia del Presidente, Secretario Técnico y los miembros presentes en la sesión.
+
+Si por causa de inasistencia injustificada del Presidente o Secretario Técnico del Consejo, no se cumple con la cuota mínima de sesiones señaladas en el artículo 20 del presente reglamento, la Unidad Municipal de Transporte, solicitara la remoción de los mismos, debiendo realizarse un nuevo nombramiento mediante el proceso determinado por el presente reglamento.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1909,15 +1915,13 @@ DE LOS INFORMES
 
 El Presidente del Consejo rendirá al Ayuntamiento por conducto del Secretario Técnico un informe trimestral sobre el estado y situación del servicio público de transporte en el Municipio, así como los informes que se estimen necesarios.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 26.
 
 DE LAS RESOLUCIONES.
 
-Las resoluciones que emita el Consejo, tendrán el carácter de opiniones o recomendaciones y cualquier incumplimiento a éstas, será presentado ante el Cabildo para que éste resuelva en definitiva.
-
-I.- Y las demás que el Reglamento Interior del Consejo Municipal del Transporte establezca con fundamento en la Ley General del Transporte y el presente Reglamento.
+Las resoluciones que emita el Consejo tendrán el carácter de opiniones o recomendaciones por lo que deberán de contener fundamentación y motivación. Cualquier incumplimiento a éstas, será presentado ante el Cabildo para que éste resuelva en definitiva.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 004/2016, RELATIVO AL PROYECTO QUE REFORMA LOS ARTÍCULOS 60 Y 61 DEL REGLAMENTO DEL TRANSPORTE PÚBLICO DE MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
@@ -1952,3 +1956,9 @@ P.O. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 93, 98 Y 100 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- LA REFORMA DE LOS ARTÍCULOS 93, 98 Y 100 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 10, 22 FRACCIÓN XIII Y XIV Y 26 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALFORNIA, RELATIVOS AL CONSEJO MUNICIPAL DE TRANSPORTE”.]
+
+ÚNICO.- LA REFORMA DE LOS ARTÍCULOS 10, 22 FRACCIÓN XIII Y XIV Y 26 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVOS AL CONSEJO MUNICIPAL DE TRANSPORTE, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
