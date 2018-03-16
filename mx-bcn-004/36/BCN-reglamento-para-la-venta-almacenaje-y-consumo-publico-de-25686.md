@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2017-01-06"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -77,7 +77,7 @@ VI.- CABILDO: El Ayuntamiento reunido en sesión, y como cuerpo colegiado de Gob
 
 VII.- CERVECERÍA: Son aquellos espacios en donde se producen y/o se almacenan y/o se venden productos fermentados de la malta, en envase cerrado, abierto o al copeo, como actividad principal;
 
-VIII.- CERVECERÍA ARTESANAL: Espacio donde se almacena para su venta en envase abierto o cerrado, cerveza de producción propia y/o de un diverso productor de cerveza artesanal, como actividad principal;
+VIII.- (DEROGADA, P.O. 16 DE MARZO DE 2018)
 
 IX.- CLASIFICACIÓN DE BEBIDAS ALCOHÓLICAS Y DEFINICIÓN DE ESTABLECIMIENTOS DE FABRICACIÓN, VENTA, ALMACENAJE Y CONSUMO PÚBLICO:
 
@@ -99,7 +99,9 @@ A).- BEBIDAS ALCOHÓLICAS FERMENTADAS: Las bebidas alcohólicas producto de la f
 
 B).- CERVEZAS: Bebidas fermentadas elaboradas con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de malta con adición de lúpulo o sucedáneos de éste y cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen;
 
-C).- CERVEZA ARTESANAL: Bebida fermentada elaborada con malta, lúpulo, levadura y agua potable, siempre que su contenido alcohólico esté entre 2 y 12 grados Gay Lussac, producida en centros independientes, ajena totalmente a cualquier consorcio, grupo o sociedad dedicada a la comercialización o producción de cerveza diversa a la artesanal, por lo que la producción de los cerveceros artesanales no deberá tener una producción que exceda los cinco millones de hectolitros anuales. Dicha cifra deberá ser el resultado de la suma de producción de todas las plantas, centros o establecimientos que se utilicen para la producción de cerveza y/o el cumplimiento de su objeto social o actividad mercantil;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+C).- CERVEZA ARTESANAL: Bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen
 
 D).- LICORES: Las bebidas alcohólicas producto de la destilación de hierbas, frutas, granos o esencias, cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor del veinte por ciento pero que no exceda del cincuenta y cinco por ciento;
 
@@ -125,7 +127,7 @@ XVII.- DISTRIBUCIÓN: Acto por el cual las empresas legalmente constituidas y pe
 
 XVIII.- ESTABLECIMIENTO: Lugar destinado, habilitado y acondicionado para la venta, distribución, almacenamiento o consumo público de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
-XIX.- ESTABLECIMIENTO DE CERVEZA ARTESANAL: Espacio en donde se almacena y/o se vende cerveza artesanal de producción propia en envase cerrado, abierto o al copeo como actividad principal;
+XIX.- (DEROGADA, P.O. 16 DE MARZO DE 2018)
 
 XX.- ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas una vez integrado debidamente el expediente donde se contienen los aspectos generales y estudio de cada uno de los requisitos exigidos por la Ley y el presente Reglamento;
 
@@ -165,7 +167,7 @@ XXXVI.- REGLAMENTO: El Reglamento para la Venta, Almacenaje y Consumo Público d
 
 XXXVII.- REVALIDACIÓN: Acto administrativo que realiza la Secretaria de Gobierno Municipal anualmente, a través de la Dirección de Bebidas Alcohólicas, por virtud del cual se autoriza la operación del permiso que haya sido otorgado por el Ayuntamiento, una vez que se ha verificado que se cumple con la reglamentación Municipal vigente y previo pago de los derechos correspondientes;
 
-XXXVIII.- SALA DE DEGUSTACION DE CERVEZA ARTESANAL: Espacio en el que se ofrece a los clientes la prueba de la cerveza artesanal de producción propia, en envase abierto o cerrado o al copeo como actividad accesoria al de una cervecería artesanal;
+XXXVIII.- (DEROGADA, P.O. 16 DE MARZO DE 2018)
 
 XXXIX.- REINCIDENCIA: Cuando un infractor comete la misma infracción en un período de treinta días naturales o incurre en dos o más infracciones en un período de sesenta días, y
 
@@ -489,11 +491,13 @@ En los permisos eventuales, podrán establecerse horarios especiales para el ser
 
 Los establecimientos a que se refiere este reglamento, deberán colocar en sus entradas y en el interior de los mismos los horarios respectivos de venta o consumo de bebidas alcohólicas.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 18.
 
 La venta, almacenaje y consumo público de bebidas alcohólicas en los diferentes giros se sujetará a los siguientes horarios:
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS] , P.O. 12 DE JUNIO DE 2015)</small>
 
 I.- De los giros:
 
@@ -543,9 +547,19 @@ U).- ESPECTÁCULOS PUBLICOS, BAILES PÚBLICOS, FERIAS, VARIEDADES O DIVERSIONES 
 
 Los establecimientos semejantes, cualquiera que sea su denominación o identificación, serán clasificados por la Comisión Reguladora de Bebidas Alcohólicas;
 
-V).- SALA DE DEGUSTACION DE CERVEZA ARTESANAL: Espacio en el que se ofrece a los clientes la prueba de la cerveza artesanal, exclusivamente de producción propia, considerando bajo dicho concepto la elaborada dentro del Estado de Baja California, en envase abierto o cerrado o al copeo como actividad accesoria al de una cervecería artesanal, cuyo horario será de lunes a domingo desde las 10:00 y hasta las 23:00 horas;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
-W).- ESTABLECIMIENTOS DE CERVEZA ARTESANAL: Espacios en donde se almacena y/o se vende cerveza artesanal de producción propia en envase cerrado o abierto, como actividad principal, cuyo horario será de lunes a domingo desde las 10:00 y hasta las 23:00 horas.
+V).- SALA DE DEGUSTACION PARA LA VENTA EXCLUSIVA DE CERVEZA ARTESANAL: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México, con o sin alimentos y que cuente con música grabada o en vivo cuyo horario será de lunes a domingo desde las 10:00 y hasta las 24:00
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
+W).- MICROCERVECERIA: Establecimiento independiente donde se produce y almacena para su distribución y venta en envase abierto o cerrado con o sin alimentos cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio cuyo horario será de lunes a domingo desde las 10:00 y hasta las 24:00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2018)</small>
+
+X).- BOUTIQUE DE CERVEZA ARTESANAL: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo cuyo horario será de lunes a domingo desde las 10:00 y hasta las 24:00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE JUNIO DE 2015)</small>
 
 II.- Podrán solicitar otros servicios adicionales los giros contemplados en las letras I), J), K), L). M), O), R), S), T) y V) del inciso anterior, siendo estos los siguientes:
 
@@ -1836,3 +1850,13 @@ CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno Est
 P.O. 6 DE ENERO DE 2017.
 
 > <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 18 DEL REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquese las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal, órgano oficial de difusión del H. Ayuntamiento de Tijuana Baja California.
+
+SEGUNDO.- La presente Reforma entra en vigor al día siguiente al de su publicación del Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas las disposiciones normativos (sic) que se opongan a las presentes reformas y adiciones.
