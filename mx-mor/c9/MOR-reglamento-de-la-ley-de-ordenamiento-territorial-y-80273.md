@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2017-10-11"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -31,7 +31,9 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI Y 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y 6, FRACCIONES I Y XIII DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -281,11 +283,11 @@ b. El riesgo a la población en su salud o sus bienes no pueda ser evitado por l
 
 c. Exista falsedad en la información o documentación presentada por los solicitantes o desarrolladores.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 16.
 
-La resolución definitiva para la formulación del Dictamen de Impacto Urbano que emitirá la Secretaría podrá ser otorgada en los siguientes sentidos:
+La evaluación del Estudio de Impacto Urbano concluirá con un oficio que podrá ser otorgado por la Secretaría o por quien designe el Ejecutivo Estatal en los siguientes sentidos:
 
 I. Aprobado: Deberá entenderse en este sentido cuando el expediente se encuentra debidamente integrado y no exista impedimento legal o técnico para llevarse a cabo el Proyecto presentado;
 
@@ -293,13 +295,29 @@ II. Aprobado-Condicionado: Cuando hace falta algún requisito por presentar, per
 
 III. Pendiente: Debe entenderse como tal, cuando por la falta de un requisito no se tenga la certeza de que se esté violentando la Ley o el presente Reglamento, o
 
-IV. Improcedente: Cuando aún estando el expediente debidamente integrado, de su análisis se derive alguna improcedencia de tipo técnico o legal.
+IV. Improcedente: Cuando aun estando el expediente debidamente integrado, de su análisis se derive alguna improcedencia de tipo técnico o legal.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+El oficio emitido en los casos de las fracciones I y II dará lugar a la expedición del Dictamen de Impacto Urbano.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 17.
 
 La Secretaría formulará el Dictamen de Impacto Urbano a favor del peticionario, en un término no mayor a treinta días hábiles, contados a partir de la recepción de los documentos que integrarán el expediente correspondiente.
+
+El Dictamen de Impacto Urbano que formule la Secretaría, se expedirá sin sujetarse a formulismo alguno y contendrá lo siguiente:
+
+I. El número de identificación del Dictamen;
+
+II. La mención del proyecto o actividad objeto del Dictamen, señalando, en su caso, las características y particularidades de la obra o actividad;
+
+III. La fundamentación y motivación legal;
+
+IV. Las condicionantes que debe cumplir la obra o actividad;
+
+V. Lugar y fecha de expedición, y
+
+VI. Firma del servidor público que lo emite.
 
 ###### Artículo 18.
 
@@ -821,7 +839,7 @@ Para efecto de dar continuidad del procedimiento de formulación de los Programa
 
 #### SECCIÓN QUINTA. DE LA MODIFICACIÓN A LOS PROGRAMAS
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 37 Bis.
 
@@ -829,11 +847,15 @@ La modificación a los Programas previstos en el artículo 32 de la Ley podrá e
 
 I. Un destino de suelo no se encuentre contemplado en el Programa de Desarrollo Urbano vigente;
 
-II. Un uso o destino de suelo esté indicado en la carta urbana o similar, pero no se encuentre previsto en la tabla o matriz de compatibilidad o imposibilite determinar que el proyecto pretendido es viable, y
+II. Un uso o destino de suelo esté indicado en la carta urbana o similar, pero no se encuentre previsto en la tabla o matriz de compatibilidad o imposibilite determinar que el proyecto pretendido es viable;
 
-III. Se pretenda modificar el uso o destino de suelo de un predio con el objetivo de adquirir otro uso o destino.
+III. Se pretenda modificar el uso de suelo de un predio con el objetivo de adquirir otro uso, y
 
-En las zonas residenciales de baja densidad, que son las H0.5, H1 y H1.5, no se permitirá modificar el uso de suelo.
+IV. Se pretenda modificar el uso o destino de suelo de predios o polígonos, con el fin de desarrollar proyectos que revistan un fin público, interés general o sean para uso común.
+
+Para efectos de los proyectos de la fracción IV, se entenderá a aquellos ejecutados por la Administración Pública Federal, Estatal o Municipal; o bien, por asociaciones civiles que tengan celebrado un convenio con el Gobierno Estatal o Municipal, en este último supuesto únicamente cuando sea con el objeto de coadyuvar con una estrategia de reconstrucción, como respuesta a las consecuencias de desastres de origen natural o antropogénico.
+
+En las zonas residenciales de baja densidad, que son las H0.5, H1 y H1.5, no se permitirá modificar el uso de suelo, a excepción de los supuestos previstos en la fracción IV del presente artículo.
 
 El uso de suelo industrial podrá modificarse por otro, pero no podrá modificarse el resto de usos de suelo para hacerlos compatibles con actividades industriales.
 
@@ -841,17 +863,19 @@ Similar tratamiento se dará a los usos o destinos con tratamiento especial conf
 
 La Coordinación Estatal de Protección Civil Morelos o la Dirección de Protección Civil municipal determinarán, a través del Dictamen correspondiente, el tratamiento especial que requieren dichas actividades.
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 37 Ter.
 
-La modificación de los Programas contemplados en el artículo 32, fracciones II, III, IV y V, de la Ley podrá efectuarse a instancia de:
+La modificación de los Programas contemplados en el artículo 32, fracciones II, III, IV y V de la Ley, podrá efectuarse a instancia de:
 
 I. El Presidente Municipal;
 
-II. El titular de la Secretaría, y
+II. El titular de la Secretaría;
 
-III. El interesado.
+III. El interesado, o
+
+IV. Las Secretarías, Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal que ejecuten proyectos de carácter público, esto cuando se trate del supuesto a que refiere el artículo 37 Bis, fracción IV, del Reglamento, o por las asociaciones civiles que coadyuven en la realización de los mismos, siempre y cuando sea para llevar a cabo una estrategia de reconstrucción como respuesta a las consecuencias de desastres de origen natural o antropogénico.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2017)</small>
 
@@ -1025,6 +1049,34 @@ Artículo 37 Septimus. La modificación a los Programas de Ordenación de Zonas 
 
 Por lo que una vez que el proyecto de modificación se encuentre dictaminado en su congruencia por la Secretaría, deberá remitirse por esta a la citada Comisión, a fin de que, en el plazo de diez días hábiles, apruebe la autorización correspondiente.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2018)</small>
+
+Artículo 37 Octavus. En el caso de la fracción IV del artículo 37 Bis del Reglamento, la solicitud para la modificación del uso o destino del suelo correspondiente, deberá realizarse por escrito al titular de la Secretaría, debiendo contener y anexar los siguientes requisitos:
+
+I. En su caso, el convenio vigente celebrado por asociaciones civiles con el Gobierno Estatal o Municipal en el que se describa el proyecto público que se pretende desarrollar;
+
+II. La carta de exposición de motivos que detalle la justificación técnica y jurídica de la modificación del uso o destino del suelo solicitado;
+
+III. Documento con el que se acredite la propiedad;
+
+IV. Localización geográfica del sitio, indicando las coordenadas geodésicas en proyección Universal Transversa de Mercator (UTM), de cada uno de los vértices del predio o polígono, superficie, medidas y colindancias, acompañado del plano respectivo;
+
+V. El documento que determine la vulnerabilidad y riesgo, emitido por la Coordinación Estatal de Protección Civil, y en el caso de proyectos que incluyan vivienda se dará cumplimiento a lo dispuesto por el artículo 9 bis de la Ley de Vivienda del Estado Libre y Soberano de Morelos;
+
+VI. Propuesta de modificación de destino de suelo, según sea el caso, conforme al proyecto, indicando coeficientes de uso de suelo, densidad de población, lote tipo, altura y niveles de construcción máximos permitidos, según sea el caso;
+
+VII. Carta urbana actual;
+
+VIII. Carta urbana propuesta;
+
+IX. Matriz de compatibilidades actuales;
+
+X. Matriz de compatibilidades propuestas;
+
+XI. Sistema de información geográfica, y
+
+XII. Anexo cartográfico, el cual deberá señalarse en la carta urbana del Programa de Desarrollo Urbano Sustentable que se encuentre en modificación.
+
 ### CAPÍTULO QUINTO. FUNDACIÓN Y CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
 
 ###### Artículo 38.
@@ -1094,6 +1146,14 @@ II. Se deberán respetar los plazos de ejecución establecido (sic) en los Progr
 III. La Secretaría en términos de la Ley deberá emitir el correspondiente Dictamen de Destino de Suelo para todos aquellos fines públicos a que se determine dedicar zonas o predios de un centro de población, y
 
 IV. Deberán observarse todos los trámites que sean necesarios ante otras instancias de Gobierno Estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2018)</small>
+
+###### Artículo 42 Bis.
+
+Los proyectos de carácter público que desarrollen los Gobiernos Estatal o Municipal, por sí o a través de terceros, en un polígono integrado por diversos predios colindantes entre sí, con distintos usos o destinos del suelo, cuyo propietario o poseedor sea el Estado o Municipio o las asociaciones civiles que coadyuven en la realización de los proyectos a que refiere el artículo 37 Bis, fracción IV, del Reglamento, podrán acceder a las compatibilidades del uso o destino del suelo que mejor convenga al proyecto destinado a un fin público, de interés general o de uso común, sin que sea necesaria la fusión de sus superficies.
+
+Para aquellos proyectos que incluyan acciones urbanas encaminadas a constituir un condominio, fraccionamiento o conjunto urbano, de acuerdo con lo señalado en el párrafo anterior, podrá considerarse, de ser el caso, la fusión de los predios que integran el polígono.
 
 ### CAPÍTULO SÉPTIMO. PARTICIPACIÓN SOCIAL
 
@@ -1442,3 +1502,25 @@ IV. El Municipio o la Secretaría editarán la modificación al Programa para su
 V. Cuando las modificaciones resulten aprobadas conforme a la presente disposición transitoria los interesados tendrán hasta el 31 de diciembre de 2017, para iniciar las obras o construcción de vivienda popular, económica y de interés social, materia de la autorización, en caso contrario se podrá dejar sin efectos la modificación al programa de que se trate, realizada por virtud de la presente disposición.
 
 CUARTA. A los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS; DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE FUSIONES, DIVISIONES, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS Y DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+TERCERA. Los estudios de impacto urbano que se encuentren en proceso de evaluación a la entrada en vigor del presente Decreto, se sujetarán a lo previsto en éste último.
+
+CUARTA. Por única ocasión y de manera extraordinaria y emergente, a fin de coadyuvar en la estrategia de reconstrucción tanto física como productiva y social, desplegada ante el desastre natural que afectó al estado de Morelos con motivo del sismo del 19 de septiembre de 2017, se establece el siguiente régimen de excepción al procedimiento y requisitos a que aluden los reformados artículos 37 Bis y 37 Ter, así como el adicionado 37 Octavus, todos del Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, en Materia de Ordenamiento Territorial:
+
+I. Los interesados en solicitar el cambio de destino de suelo para realizar en él los proyectos públicos a que se refiere la fracción IV del citado artículo 37 Bis, contarán con un plazo de diez días hábiles, contados a partir del día siguiente a la entrada en vigor del presente instrumento, para presentar formal solicitud ante la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, acompañada del respectivo proyecto de modificación que contendrá los requisitos reglamentarios respectivos. Transcurrido el plazo a que se refiere la presente fracción, no se recibirán más solicitudes;
+
+II. Integrado el expediente, la Secretaría emitirá dictamen de congruencia con la normativa aplicable y los instrumentos de planeación vigentes, dentro del plazo de veinte días hábiles, contados a partir de la integración del expediente completo por parte del interesado;
+
+III. Cumplidas y documentadas las formalidades, el interesado remitirá a la Secretaría el proyecto de modificación, posteriormente ésta los remitirá junto con el respectivo dictamen de congruencia al Ayuntamiento de que se trate para su aprobación en la sesión de Cabildo correspondiente, quien ordenará la publicación del proyecto de modificación completo en el Periódico Oficial "Tierra y Libertad" y su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos, a la brevedad posible dada la emergencia, el fin público y el interés general que prevalece, y
+
+IV. La Secretaría editará la modificación al Programa para su difusión y el municipio lo mantendrá a consulta permanente.
+
+QUINTA. Con independencia de lo previsto en las Disposiciones Transitorias Tercera y Cuarta, a los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
