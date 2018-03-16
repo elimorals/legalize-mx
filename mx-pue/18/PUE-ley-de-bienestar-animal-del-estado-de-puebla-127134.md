@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2018-02-26"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -51,13 +51,17 @@ LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente Ley son de observancia general, orden público e interés social, y tienen por objeto asegurar la protección y bienestar de los animales, así como establecer los principios generales que deberán ser observados por todos aquéllos que interactúen con los mismos, exceptuando aquéllos cuya reproducción sea con fines de consumo humano.
+Las disposiciones contenidas en la presente Ley son de observancia general, orden público e interés social, y tienen por objeto asegurar la protección y bienestar de los animales, así como establecer los principios generales que deberán ser observados por todos aquellos que interactúen con los mismos.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 2.
 
-Son objeto de tutela de esta Ley los animales correspondientes a la categoría de los vertebrados, salvo aquéllos considerados como fauna nociva.
+Son objeto de tutela de esta Ley los animales que se encuentren en forma transitoria o permanente en el territorio del Estado de Puebla, salvo aquellos considerados como fauna nociva.
 
 ###### ARTÍCULO 3.
 
@@ -988,3 +992,13 @@ QUINTO. En un plazo que no excederá dos meses a partir de la publicación de la
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de diciembre de dos mil diecisiete. Diputado Presidente. CUPERTlNO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Vicepresidenta. CAROLINA BEAUREGARD MARTÍNEZ. Rúbrica. Diputado Secretario. FRANCISCO JAVIER JIMÉNEZ HUERTA. Rúbrica. Diputado Secretario. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial. C. RODRIGO RIESTRA PIÑA. Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
