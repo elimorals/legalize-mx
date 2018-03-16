@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-justicia-administrativa-125
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2018 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERÍODICO OFICIAL DEL ESTADO DE GUANAJUATO EL 16 DE MARZO DE 2018.]</small>
 
 Reglamento publicado en la Vigésima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de diciembre de 2017.
 
@@ -105,7 +105,9 @@ I. La prestación del servicio al público en general es de las 09:00 a las 15:0
 
 II. El horario para la recepción de demandas y promociones de término es de las 09:00 a las 23:59 horas de los días hábiles;
 
-III. El horario de trabajo del personal auxiliar de servicio y mantenimiento es de las 08:00 a las 16:00 horas, de los días hábiles, pudiendo ampliarse según las necesidades laborales de todo el personal;
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2018)</small>
+
+III. El horario de trabajo del personal auxiliar de servicio y mantenimiento es de las 08:00 a las 15:00 horas, de los días hábiles, pudiendo ampliarse según las necesidades laborales de todo el personal;
 
 IV. El horario de trabajo del personal jurisdiccional es de las 09:00 a las 15:00 horas, de los días hábiles, pudiendo ampliarse según las necesidades del servicio; y
 
@@ -275,9 +277,11 @@ VII. Ordenar la publicación los criterios jurídicos aprobados por el Pleno y l
 
 VIII. Ejecutar los actos jurisdiccionales y administrativos que le encomienden el Pleno o el Consejo y los que sean necesarios para el buen funcionamiento del Tribunal.
 
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2018)</small>
+
 ###### Artículo 22.
 
-Para convocar a sesiones de Pleno o Consejo, el Presidente se auxiliará de la Secretaría y del Secretario Técnico, respectivamente, quienes se encargaran de entregar a los Magistrados o Consejeros el orden del día y los documentos relativos por lo menos con veinticuatro horas de anticipación a la celebración de la sesión correspondiente.
+Para convocar a sesiones de Pleno o Consejo, el Presidente se auxiliará de la Secretaría y del Secretario Ejecutivo, respectivamente, quienes se encargaran de entregar a los Magistrados o Consejeros el orden del día y los documentos relativos por lo menos con veinticuatro horas de anticipación a la celebración de la sesión correspondiente.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA TÉCNICA DE PRESIDENCIA
 
@@ -675,13 +679,17 @@ Las resoluciones del Consejo se tomarán por el voto de la mayoría de los Conse
 
 El Consejero que no esté de acuerdo con la mayoría, podrá pedir que conste su voto particular en el acta.
 
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2018)</small>
+
 ###### Artículo 48.
 
-Las resoluciones del Consejo constarán en acta autorizada por su secretario técnico, la que deberá firmarse por los que en ella intervinieron.
+Las resoluciones del Consejo constarán en acta autorizada por su Secretario Ejecutivo, la que deberá firmarse por los que en ella intervinieron.
+
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2018)</small>
 
 ###### Artículo 49.
 
-Las resoluciones del Consejo que deban notificarse, se harán personalmente a la parte interesada por conducto del Secretario Técnico.
+Las resoluciones del Consejo que deban notificarse, se harán personalmente a la parte interesada por conducto del Secretario Ejecutivo.
 
 ###### Artículo 50.
 
