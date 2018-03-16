@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-municipal-contra-las-33272"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-27"
-last_updated: "2009-11-20"
+last_updated: "2018-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL COMITE MUNICIPAL CONTRA LAS ADICCIONES -COMCA- DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL COMITE MUNICIPAL CONTRA LAS ADICCIONES (COMCA) DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
+REGLAMENTO INTERNO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES (COMCA) DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2003.
 
@@ -47,87 +47,109 @@ REGLAMENTO INTERNO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES (COMCA) DEL MUNIC
 
 ### CAPITULO I. De su naturaleza y objeto
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 1.
 
-Se crea el Comité Municipal contra las Adicciones del Municipio de Tijuana, Baja California, como órgano de carácter multisectorial e interinstitucional para la consulta, estudio, análisis, discusión y evaluación de la problemática de las adicciones en el Municipio de Tijuana, Baja California, y derivado de ellos la emisión de opiniones y recomendaciones a los órganos municipales de salud o que dentro de sus facultades tienen relación o trato con personas que requieren rehabilitación por el consumo inmoderado de drogas, alcohol u otros insumos que causan daño en la salud, buscando siempre la coordinación y representación del Gobierno Municipal en trabajos del tema con el Gobierno Federal a través del Consejo Nacional contra las Adicciones y con el Gobierno Estatal a través del Consejo Estatal contra las Adicciones.
+Se crea el Comité Municipal contra las Adicciones del Municipio de Tijuana, Baja California, como órgano de carácter multisectorial e interinstitucional para la consulta, estudio, análisis, discusión, seguimiento y evaluación de la problemática de las adicciones en el Municipio de Tijuana, Baja California, y derivado de ello la emisión de opiniones y recomendaciones al Instituto Municipal Contra las Adicciones, buscando siempre la coordinación y representación del Gobierno Municipal en trabajos del tema con el Gobierno Federal a través del Consejo Nacional contra las Adicciones y con el Gobierno Estatal a través del Consejo Estatal contra las Adicciones.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 2.
 
-Para efectos del presente Reglamento se entenderá por:
+Para efectos del presente Reglamento Interno del Comité Municipal Contra las Adicciones (COMCA) del municipio de Tijuana, Baja California se entenderá por: COMCA:
 
-COMCA: Al Comité Municipal contra las Adicciones.
+a) COMCA: Al Comité Municipal contra las Adicciones, órgano colegiado, que coordina y establece acuerdos consensuados para impulsar los esfuerzos dirigidos hacia la atención de las adicciones en el municipio.
 
-CECA: Al Consejo Estatal contra las Adicciones.
+b) CECA: Al Consejo Estatal contra las Adicciones, órgano que tiene por objeto concertar, coordinar, promover, implementar y evaluar los esfuerzos que se realizan en la lucha contra las adicciones al alcohol, tabaco y drogas diversas.
 
-CONADIC: Al Consejo Nacional contra las Adicciones.
+c) CONADIC: Al Consejo Nacional contra las Adicciones, organismo de la Secretaria de Salud, el cual tiene como principal objetivo el impulsar una red de centros de tratamiento de las adicciones, al igual que la divulgación de los diagnósticos sobre la situación del país en este tema.
+
+d) IMCAD: Instituto Municipal Contra las Adicciones.
+
+e) Mayoría Absoluta: Es aquella que se consigue con más de la mitad de los votos de los integrantes que componen la sesión.
+
+f) Reglamento Interno: Reglamento Interno del Comité Municipal Contra las Adicciones (COMCA) del municipio de Tijuana, Baja California.
 
 ### CAPITULO II. De su integración
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 3.
 
 El Comité Municipal contra las Adicciones, estará integrado por las siguientes:
 
-I.- Autoridades Municipales:
+I. Autoridades Municipales:
 
-a) El Presidente Municipal, quien fungirá como Presidente del Comité;
+a. Titular de la Presidencia Municipal, quien fungirá como Presidente del COMCA;
 
-b) El Titular de la dirección Municipal Contra las Adicciones (DIMCA), quien fungirá como Coordinador General del Comité.
+b. Titular del IMCAD, quien fungirá como Coordinador General del COMCA;
 
-c) Regidor Presidente de la Comisión de Asistencia, Salud, Desarrollo Social y Humano;
+c. Quien presida la Comisión de Desarrollo Social;
 
-d) El Secretario de Seguridad Pública;
+d. Quien presida la Comisión de Medio Ambiente, Desarrollo Sustentable y Salud;
 
-e) El titular de la Dirección Municipal de Salud;
+e. Quien presida la Comisión de la Familia;
 
-f) El Director del Sistema para el Desarrollo Integral de la Familia (DIF Municipal);
+f. Quien presida la Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas;
 
-g) El Director del Instituto Municipal del Deporte;
+g. Quien presida la Comisión de Equidad y Género;
 
-h) El Director del Instituto Municipal de la Juventud;
+h. Quien presida la Comisión de Seguridad Pública;
 
-i) El Director del Instituto Municipal de la Mujer.
+i. Titular de la Dirección Municipal de Salud;
 
-II.- Representantes de Instituciones de Salud:
+j. Titular del Sistema para el Desarrollo Integral de la Familia (DIF Municipal);
 
-a) El Jefe de la Jurisdicción de Servicios de Salud en Tijuana.
+k. Titular del Instituto Municipal del Deporte;
 
-b) El Representante del Instituto de Psiquiatría de Baja California.
+l. Titular del Instituto Municipal para la Juventud;
 
-III.- Un representante de la Universidad Autonóma de Baja California, Zona Costa;
+m. Titular del Instituto Municipal de la Mujer;
 
-IV.- Un representante del Colegio de Profesionistas;
+n. Titular de la Dirección de Prevención del Delito y Participación Ciudadana;
 
-V.- Un representante de los Centros de Integración Juvenil;
+o. Titular de la Dirección de Atención al Migrante.
 
-VI.- Un representante de Grupos Religiosos;
+II.- A las sesiones del Comité se podrá invitar, previo acuerdo de éste, en forma enunciativa mas no limitativa a los siguientes funcionarios y representantes de organismos y entes de la sociedad civil, los cuales únicamente podrán hacer posicionamientos y/o exposiciones respecto al tema de interés de que se trate, mismos que no tendrán derecho (sic) voto ni se tomará en cuenta para el quórum legal de las sesiones:
 
-VII.- Un representante de la Asociación de Periodistas de Tijuana (APT);
+a. Titular de la Jurisdicción Sanitaria en Tijuana;
 
-VIII.- Un representante de los Clubes Sociales;
+c (sic). Titular de la Comisión Estatal de Derechos Humanos;
 
-IX.- Los Presidentes de cada Red de Centros de Rehabilitación debidamente inscritos y registrados para integrar el COMCA.
+d. Titulares de las Universidades públicas y privadas del municipio de Tijuana, Baja California;
+
+e. Un representante de los Centros de Integración Juvenil;
+
+f. Titulares de cada Red de Centros de Rehabilitación debidamente inscritos y registrados para integrar el COMCA.
+
+g. Un representante por cada denominación religiosa que decida participar.
+
+h. Un representante del Colegio Médico de Psicólogos de Baja California; y
+
+i. Un representante del Colegio de Psiquiatras de Tijuana.
 
 ### CAPITULO III. De las funciones del COMCA
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 4.
 
 EL COMCA, tendrá las siguientes funciones:
 
-I.- Asesorar y emitir opiniones o recomendaciones para la prevención de adicciones y rehabilitación de personas a los organismos municipales competentes y a las instituciones públicas y privadas que así lo soliciten;
+I. Asesorar y emitir opiniones o recomendaciones a los organismos municipales competentes y a las instituciones públicas y privadas que así lo soliciten para la prevención en sus tres vertientes. Prevención primaria, que son los esfuerzos encaminados a evitar o retardar el primer consumo de sustancias psicoactivas en personas que no han consumido aún; la prevención secundaria, que son los esfuerzos encaminados a orientar a personas que están en etapa de experimentación de las drogas, pero que aún no cuentan con los criterios diagnósticos y la prevención terciaria que es el tratamiento para las personas enfermas de adicción.
 
-II.- Proponer al representante de los Centros de Rehabilitación que integra el COMCA, que forme parte del Comité Interdisciplinario a que se refiere el artículo 6 de la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California;
+II. Proponer al representante de los Centros de Rehabilitación que integra el COMCA, que forme parte del Comité Interdisciplinario a que se refiere el artículo 6 de la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California;
 
-III.- Unificar, coordinar y evaluar los esfuerzos Municipales, con los programas emanados del CONADIC y el CECA;
+III. Unificar, coordinar y evaluar los esfuerzos Municipales, con los programas emanados del CONADIC y el CECA;
 
-IV.- Promover la vinculación y coordinación a través de acuerdos, con instituciones nacionales o extranjeras (gubernamentales y no gubernamentales) en materia de prevención y control de las adicciones.
+IV. Promover la vinculación y coordinación a través de acuerdos, con Instituciones nacionales o extranjeras (gubernamentales y no gubernamentales) en materia de prevención y control de las adicciones.
 
-V.- Proponer al Ayuntamiento a través del Presidente Municipal, políticas, programas y estrategias de apoyo técnico y financiero para atender la rehabilitación de personas con problemas de adicciones;
+V. Proponer al Ayuntamiento a través del Titular de la Presidencia las políticas, programas y estrategias de apoyo técnico y financiero para atender la rehabilitación de personas con problemas de adicciones;
 
-VI.- Promover y difundir programas de concientización dirigida a la población para prevenir las adicciones, especialmente las de drogas y alcohol, fomentando con ello la partición ciudadana, y
+VI. Promover y difundir programas de concientización dirigida a la población para prevenir las adicciones, especialmente las de drogas y alcohol, fomentado con ello la partición ciudadana, y
 
-VII.- Las demás que les sean conferidas por otros ordenamientos, convenios y el propio Ayuntamiento.
+VII. Las demás que les sean conferidas por otros ordenamientos, convenios y el propio Ayuntamiento.
 
 ### CAPITULO IV. De los derechos y obligaciones de los miembros
 
@@ -193,35 +215,37 @@ IV.- Presentar informes semestrales al COMCA, de acuerdo a los asuntos tratados 
 
 V.- Las demás que le conceda el presente Reglamento y el COMCA.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 10.
 
-El COMCA designará de entre sus miembros, a propuesta del Presidente, a un Secretario Técnico, quien tendrá las siguientes atribuciones:
+El COMCA designará de entre sus miembros, a propuesta del Titular de la Presidencia, a un Secretario Técnico, quien tendrá las siguientes atribuciones:
 
-I.- Recibir la documentación en que consisten los nombramientos y substituciones de los miembros del COMCA, llevando para tal efecto un registro;
+I. Recibir la documentación en qué consisten los nombramientos y substituciones de los miembros del COMCA, llevando para tal efecto un registro;
 
-II.- Elaborar el orden del día conforme a las indicaciones del Presidente;
+II. Elaborar el orden del día conforme a las indicaciones del Presidente;
 
-III.- Remitir las convocatorias y la información correspondiente de las sesiones a los miembros del COMCA, cuando menos con tres días de anticipación a la fecha de la sesión;
+III. Remitir las convocatorias y la información correspondiente de las sesiones a los miembros del COMCA, cuando menos con tres días de anticipación a la fecha de la sesión;
 
-IV.- Computar y verificar el quórum, dando cuenta de ello el Presidente;
+IV. Computar y verificar el quórum, dando cuenta de ello el Presidente;
 
-V.- Levantar las acta (sic) y minutas correspondientes de las sesiones y firmar los acuerdos que sean tomados;
+V. Levantar las acta (sic) y minutas correspondientes de las sesiones y firmar los acuerdos que sean tomados;
 
-VI.- Dar lectura al acta de la sesión anterior y formular la correspondiente a la que se celebre, firmándolas y asentando en forma detallada los acuerdos tomados y sus fundamentos;
+VI. Dar lectura al acta de la sesión anterior y formular la correspondiente a la que se celebre, firmándolas y asentando en forma detallada los acuerdos tomados y sus fundamentos;
 
-VII.- Fungir como relator de proyectos, solicitudes y demás asuntos que se pretendan o le encomiende el Presidente;
+VII. Fungir como relator de proyectos, solicitudes y demás asuntos que se pretendan o le encomiende el Presidente;
 
-VIII.- Actuar como escrutador al momento de que el Presidente le solicite someter a votación los asuntos tratados en las sesiones, y
+VIII. Actuar como escrutador al momento de que el Presidente le solicite someter a votación los asuntos tratados en las sesiones, y
 
-IX.- Las demás que le conceda el presente Reglamento y el COMCA.
+IX. Las demás que le conceda el presente Reglamento y el COMCA.
 
 ### CAPITULO VI. Del funcionamiento del COMCA
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 11.
 
-El COMCA deberá sesionar cuando menos una vez cada tres meses, y en forma extraordinaria en cualquier tiempo, principalmente por circunstancias urgentes o graves, previa convocatoria de su Presidente.
-
-Se convocará por escrito a las sesiones ordinarias y extraordinarias que se requieran, por lo menos con tres días hábiles de anticipación para las primeras, y con cuarenta y ocho horas para la segunda, acompañado en su caso la documentación e información necesaria.
+El COMCA deberá sesionar cuando menos una vez cada tres meses, y en forma extraordinaria en cualquier tiempo, principalmente por circunstancias urgentes o graves, previa convocatoria de su Presidente. Se convocará por escrito y en su caso, por otros medios que previamente lo acuerden en sesión de trabajo del COMCA; a las sesiones ordinarias y extraordinarias que se requieran, por lo menos con tres días hábiles de anticipación para las primeras, y con cuarenta y ocho horas para la segunda, acompañado (sic) en su caso la documentación e información necesaria.
 
 ###### ARTICULO 12.
 
@@ -233,9 +257,11 @@ Si a la hora señalada para el inicio de la sesión no se encuentran presentes i
 
 Cuando por causas de fuerza mayor, alguno de los integrantes no pudiese asistir a sesión oportunamente convocada, podrá hacerse representar por el funcionario que para tal efecto designe como suplente ante el COMCA, quien podrá presentar informes a nombre del titular, ofrecer opiniones, proponer y votar acuerdos, o el que deba sustituirlo en los términos de la Ley o Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 14.
 
-El Presidente podrá invitar a participar en las sesiones del COMCA a los integrantes de otras dependencias, entidades, agrupaciones o miembros de la sociedad en general, cuya opinión consideren conveniente escuchar en virtud de los asuntos que se traten; los invitados a participar tendrán derecho al uso de la voz, pero no a voto.
+El Presidente podrá invitar a participar sin perjuicio de los titulares de los que establece el artículo 3 del presente Reglamento interno, en las sesiones del COMCA a los integrantes de otras dependencias, entidades, agrupaciones o miembros de la sociedad en general, cuya opinión consideren conveniente escuchar en virtud de los asuntos que se traten; los invitados a participar tendrán derecho al uso de la voz, pero no a voto.
 
 ### CAPITULO VII. De los acuerdos del COMCA
 
@@ -243,29 +269,35 @@ El Presidente podrá invitar a participar en las sesiones del COMCA a los integr
 
 Una vez que el Secretario Técnico ha expuesto los asuntos contenidos en el orden del día, y escuchados los planteamientos vertidos por los demás miembros presentes al respecto, el Presidente le solicitará poner a votación los acuerdos que resulten de los mismos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 16.
 
-Las resoluciones o acuerdos del COMCA se tomarán por consenso de la mayoría absoluta de los miembros presentes en las sesiones, en caso de empate, el Presidente podrá emitir su voto de calidad.
+Las resoluciones o acuerdos del COMCA se tomarán por mayoría de los miembros presentes en las sesiones, en caso de empate, el Titular de la Presidencia podrá emitir su voto de calidad.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 17.
 
-De no decretarse la mayoría absoluta, el Presidente solicitará al Secretario Técnico dar lectura nuevamente a la propuesta de acuerdo, en donde expondrá los motivos que la sustenten, y una vez concluido, volverá a someterla a votación; si no fuese posible lograr el acuerdo de la mayoría absoluta, el Presidente calificará la urgencia de la situación analizada a la que recae dicha omisión resolutiva y, de ser urgente, se decidirá su resolución por mayoría relativa de los miembros reunidos.
-
 En caso de no ser considerado urgente el asunto, se postergará su tratamiento y resolución para la próxima sesión ordinaria o extraordinaria si así lo determinan.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 18.
 
-Para el desarrollo de sus actividades y cumplimiento de sus atribuciones, el COMCA podrá contar con las aportaciones que a su favor le otorgue el Ayuntamiento, otros órdenes de gobierno, instituciones, organizaciones y particulares en general.
+Para el desarrollo de sus actividades y cumplimiento de sus atribuciones, el COMCA podrá contar con las aportaciones que a su favor le otorgue el Ayuntamiento, otros órdenes de gobierno, instituciones, organizaciones y particulares en general. En todo caso el apoyo técnico y administrativo será proporcionado por el IMCAD.
 
-En todo caso el apoyo técnico y administrativo será proporcionado por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 19.
 
-El Presidente del COMCA rendirá al Ayuntamiento, por conducto del Secretario Técnico, un informe periódico sobre el estado y situación de los trabajos realizados, el grado de la problemática de las adicciones en el municipio, así como los informes que se estimen necesarios.
+El Presidente del COMCA rendirá un informe anual, por conducto del Secretario Técnico sobre el estado y situación de los trabajos realizados, el grado de la problemática de las adicciones en el municipio, así como los informes que se estimen necesarios ante la Comisión de Medio Ambiente, Desarrollo Sustentable y Salud.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 20.
 
-Las resoluciones que emita el COMCA, tendrán el carácter de opiniones y recomendaciones, y cualquier incumplimiento a éstas, será presentado ante el Cabildo para que éste resuelva en definitiva.
+Las resoluciones que emita el COMCA, tendrán el carácter de opiniones y recomendaciones y serán presentados ante el Cabildo para que éste resuelva en definitiva.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -275,7 +307,7 @@ SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su public
 
 TERCERO. Se derogan todas aquellas disposiciones que sean contrarias al presente Reglamento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 20 DE NOVIEMBRE DE 2009.
 
@@ -286,3 +318,13 @@ PRIMERO.- Este H. Cabildo del XIX Ayuntamiento Constitucional de Tijuana, Baja C
 SEGUNDO.- Las presentes reformas entran en vigor al momento de su aprobación. Para conocimiento del público en general, deberán de publicarse en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+P.O. 16 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 4, 10, 11, 14, 16, 17, 18, 19 Y 20 DEL REGLAMENTO INTERNO DEL COMITÉ MUNICIPAL CONTRA LAS ADICCIONES DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquese las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
