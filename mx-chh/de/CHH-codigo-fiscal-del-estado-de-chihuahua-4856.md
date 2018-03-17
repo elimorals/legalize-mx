@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2017-12-30"
+last_updated: "2018-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1417,7 +1417,9 @@ También se consideran sujetos para efectos de este impuesto, las personas físi
 
 142.- La base para el cálculo del impuesto se integra con el valor total determinado o determinable del premio que se obtenga. Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
+
+No se aplicará el Impuesto Adicional del 4%, contemplado en el párrafo segundo del artículo 28 de este Código, al Impuesto a la obtención de premios en loterías, rifas, sorteos, juegos con apuestas y/o concursos de toda clase.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -4976,3 +4978,11 @@ A partir de la entrada en vigor del presente Decreto cuando se haga referencia e
 ###### ARTÍCULO OCTAVO.
 
 A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFCOD/0744/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO DEL ARTÍCULO 142 DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
