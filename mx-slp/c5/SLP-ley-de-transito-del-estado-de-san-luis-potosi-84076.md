@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2018-02-22"
+last_updated: "2018-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -33,7 +33,9 @@ DECRETO 759
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Finalmente, la presente Ley con un lenguaje sencillo y alejado de tecnicismos legales, establece los diferentes aspectos que debe encuadrar la normatividad vial, para cumplir con su propósito de ordenar este tipo de circulación en calles y avenidas de nuestro Estado, en el contexto referido de incremento sostenido e intenso de vehículos automotores. Esta situación guarda particular relevancia cuando se pone en la necesidad no sólo de adecuar las disposiciones legales para hacer más eficiente la gestión de servicio municipal de tránsito, sino, sensiblemente, cuando se garantizan los derechos de los peatones y especialmente los de las personas con discapacidad, cuya protección se encuentra debidamente establecida dentro del articulado de esta Norma, y en la cual se mantienen grandes expectativas de que sea el sedimento de una nueva cultura de respeto al peatón y a las personas con discapacidad.
 
@@ -799,6 +801,10 @@ El estacionamiento de vehículos en las vías públicas se permitirá en las zon
 
 Los ayuntamientos, a través de sus titulares de tránsito, señalarán lugares específicos de estacionamientos para personas con discapacidad, de conformidad con la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
+
+Los ayuntamientos, a través de sus titulares de tránsito, señalarán lugares específicos de estacionamientos para bicicletas y motocicletas, de conformidad con la ley de la materia.
+
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
 Asimismo, establecerán por medio del presidente municipal, convenios con empresas que cuenten dentro de sus instalaciones, con lugares exclusivos de estacionamiento y rampas destinadas a personas con discapacidad, para retirar los vehículos que las obstruyan, y sancionar a sus propietarios.
@@ -1188,6 +1194,10 @@ En el reglamento de esta Ley y en los reglamentos municipales se definirá el pr
 Las sanciones por infracciones a esta Ley, su reglamento, o reglamentos municipales correspondientes, serán impuestas por los elementos de seguridad pública, los agentes de tránsito municipal, o bien por los elementos operativos competentes, de conformidad con los conceptos y cuantías establecidas en las leyes respectivas.
 
 Las sanciones referidas en el párrafo anterior, se aplicarán sin perjuicio de poner a disposición al infractor ante el Ministerio Público del fuero común o federal, cuando éste realice conductas que generen o pueden provocar la probable comisión de un delito.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
+
+Si de un hecho de tránsito se desprende que uno de los participantes no es el responsable del evento, el elemento de tránsito o de seguridad correspondiente, no deberá de sancionarlo con multa por esa causa.
 
 ###### ARTICULO 90.
 
@@ -1623,7 +1633,23 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 22 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 894.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 894.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 920.- SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 89, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 921.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 56, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
