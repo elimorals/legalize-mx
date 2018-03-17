@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2018-03-03"
+last_updated: "2018-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -345,7 +345,9 @@ Para el cumplimiento de los objetivos de esta Ley, los sujetos obligados deberá
 
 I. Constituir el Comité de Transparencia, las unidades de transparencia y vigilar su correcto funcionamiento de acuerdo a su normatividad interna;
 
-II. Designar en las unidades de transparencia a los titulares que dependan directamente del titular del sujeto obligado y que preferentemente cuenten con experiencia o conocimiento en la materia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2018)</small>
+
+II. Designar en la (sic) unidades de transparencia que dependerán directamente del titular del sujeto obligado con nivel jerárquico no menor de subdirección y quienes, además de experiencia en la materia, deberán acreditar haber cursado estudios específicos en instituciones educativas de nivel superior o medio superior, o contar con una certificación de competencias expedida por una institución de las indicadas;
 
 III. Proporcionar capacitación continua y especializada al personal que forme parte de los comités y unidades de transparencia;
 
@@ -3000,5 +3002,13 @@ P.O. 3 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 897.- SE REFORMAN LOS ARTÍCULOS 84 Y 86 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 909.- SE REFORMA EL ARTÍCULO 24 EN SU FRACCIÓN II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
