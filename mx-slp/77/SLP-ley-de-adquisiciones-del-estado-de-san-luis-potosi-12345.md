@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2017-12-14"
+last_updated: "2018-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -171,9 +171,11 @@ Los órganos de gobierno de las entidades paraestatales del Poder Ejecutivo y de
 
 Los titulares de las mencionadas entidades, bajo su más estricta responsabilidad, aplicarán las sanciones que correspondan, previo acuerdo del órgano máximo de autoridad.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 13.
 
-En los casos no previstos por esta ley serán aplicables, en cuanto procedan, las disposiciones del Código Civil del Estado; y cuando se trate de ejecución de multas y reintegros, se entenderá aplicable la legislación fiscal y normas legales y acuerdos correspondientes sobre la materia.
+En los casos no previstos por esta Ley serán aplicables, en cuanto procedan, las disposiciones del Código Civil del Estado; la Ley Federal de Competencia Económica en materia de monopolios y concentraciones; y cuando se trate de ejecución de multas y reintegros, se entenderá aplicable la legislación fiscal, así como normas legales y acuerdos correspondientes sobre la materia.
 
 ## TITULO SEGUNDO. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION
 
@@ -203,15 +205,21 @@ III.- La calendarización financiera de los recursos;
 
 IV.- La existencia en cantidad suficiente de los bienes, los plazos estimados de suministros y los avances tecnológicos incorporados en los bienes;
 
-V.- Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2018)</small>
 
-VI.- Las demás previsiones que deban tomarse en cuenta, según la naturaleza y características de las adquisiciones, arrendamientos y servicios.
+V.- Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles;
 
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1997)</small>
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2018)</small>
+
+VI.- Los convocantes considerarán las normas aplicables conforme a la Ley Federal sobre Metrología y Normalización o, a falta de éstas, las normas internacionales, y
+
+VII.- Las demás previsiones que deban tomarse en cuenta, según la naturaleza y características de las adquisiciones, arrendamientos y servicios.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su caso, a las disposiciones específicas de los presupuestos de egresos de las instituciones y, en cuanto a la institución respectiva corresponda, a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, su reglamento y demás disposiciones aplicables.
+El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su caso, a las disposiciones específicas de los presupuestos de egresos de las instituciones y, en cuanto a la institución respectiva corresponda, a lo previsto en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, su reglamento y demás disposiciones aplicables.
 
 ## TITULO TERCERO. DE LOS PROVEEDORES
 
@@ -401,6 +409,10 @@ XVI.- La forma y porcentaje para garantizar el sostenimiento de ofertas, anticip
 
 XVII.- El Nombre de la institución en favor de quien se facturarán los bienes o servicios.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
+
+Las bases que expidan los comités para las licitaciones públicas, no podrán establecer requisitos o condiciones imposibles de cumplir, o que limiten el proceso de competencia y libre concurrencia. La institución convocante tomará en cuenta las recomendaciones que emita la Comisión Federal de Competencia Económica, en términos de la Ley Federal de Competencia Económica.
+
 Cualquier modificación a las bases de la licitación, derivada de la o las juntas de aclaraciones o modificaciones, será considerada como parte integrante de las propias bases de licitación.
 
 ###### ARTICULO 31.
@@ -489,7 +501,9 @@ II.- El acto de apertura de propuesta económica se llevará a cabo sin la prese
 
 III.- Recepcionadas las propuestas económicas, las áreas administrativas elaborarán cuadros comparativos de éstas, autorizados con la firma del titular y el representante del órgano de control;
 
-IV.- Para llevar a cabo la adjudicación se deberá contar con un mínimo de dos propuestas económicas. De no existir éstas, el procedimiento se declarará desierto, quedando obligada el área administrativa a iniciar un nuevo procedimiento;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2018)</small>
+
+IV.- Para llevar a cabo la adjudicación se deberá contar con un mínimo de dos propuestas económicas solventes. De no existir éstas, el procedimiento se declarará desierto, quedando obligada el área administrativa a iniciar un nuevo procedimiento;
 
 V.- En las solicitudes de cotización, se indicarán como mínimo la calidad y descripción de los bienes o servicios requeridos, plazo, lugar de entrega y condiciones de pago; y
 
@@ -544,6 +558,10 @@ II.- Los anticipos que en su caso reciban, en un cien porciento; y
 III.- El cumplimiento de los contratos, el cual no podrá ser garantizado en una proporción inferior de un treinta por ciento sobre su monto.
 
 El monto de lo garantizado deberá incluir el impuesto al valor agregado correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
+
+Las fianzas que sean presentadas por parte de los proveedores, deberán estar acompañadas por el comprobante de pago de la respectiva fianza.
 
 ###### ARTICULO 48.
 
@@ -784,6 +802,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 14 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 764.- SE ADICIONA AL ARTÍCULO 23, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 922.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
