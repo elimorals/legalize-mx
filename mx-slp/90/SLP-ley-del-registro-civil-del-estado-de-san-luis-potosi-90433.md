@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2017-12-31"
+last_updated: "2018-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -301,7 +301,7 @@ Los empleados administrativos de las oficialías, serán nombrados por los presi
 
 ###### ARTÍCULO 25.
 
-Queda prohibido a los empleados, intervenir como testigos en las actas de la Oficialía en que laboran, demorar el despacho de los asuntos o condicionarlos a la percepción de gratificaciones de cualquier especie, (sic) caso contrario estarán sujetos a lo previsto en la Ley de Responsabilidades para Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Queda prohibido a los empleados, intervenir como testigos en las actas de la Oficialía en que laboran, demorar el despacho de los asuntos o condicionarlos a la percepción de gratificaciones de cualquier especie, caso contrario estarán sujetos a lo previsto en la Ley de Responsabilidades para Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 26.
 
@@ -1019,13 +1019,13 @@ De la sentencia ejecutoria que decrete un divorcio judicial, se remitirá copia 
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO VI BIS. DEL PROCEDIMIENTO DEL DIVORCIO VOLUNTARIO POR VÍA ADMINISTRATIVA
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 110 BIS (SIC). En el caso de divorcio voluntario por la vía administrativa, se presentará solicitud por escrito, ante los oficiales que sean autorizados por la Dirección, y en los formatos que para el efecto determine el Reglamento de esta Ley. La solicitud será firmada por ambos cónyuges, en donde protestarán que cumplen con los requisitos que prevé el artículo 102 del Código Familiar para el Estado, y el Reglamento de esta Ley.
+ARTÍCULO 110 BIS. En el caso de divorcio voluntario por la vía administrativa, se presentará solicitud por escrito, ante los oficiales que sean autorizados por la Dirección, y en los formatos que para el efecto determine el Reglamento de esta Ley. La solicitud será firmada por ambos cónyuges, en donde protestarán que cumplen con los requisitos que prevé el artículo 102 del Código Familiar para el Estado, y el Reglamento de esta Ley.
 
 El Oficial autorizado que conozca de la solicitud citará a los interesados dentro de los cinco días hábiles siguientes, a fin de que ratifiquen la misma, apercibiéndoles que en caso de comprobarse que al momento de solicitar el divorcio por esta vía, no se actualizaba cualquiera de los requisitos exigidos por la ley, la resolución será nula de pleno derecho; lo anterior con independencia de las sanciones civiles o penales a las que sean acreedores.
 
@@ -1034,6 +1034,8 @@ En la citación a que se refiere el plazo anterior, los solicitantes presentará
 Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acuerdo administrativo correspondiente, asentándolo en el acta de divorcio, de la cual remitirá copia a la Dirección para que realice las anotaciones marginales que correspondan de acuerdo con lo dispuesto por esta Ley, y su Reglamento.
 
 ### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 111.
 
@@ -1048,8 +1050,6 @@ Extendida el acta por el Oficial, remitirá copia de la misma al del lugar en qu
 ###### ARTÍCULO 113.
 
 Cuando se trate de un acta de divorcio emitida por autoridad extranjera se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado, y las leyes federales de la materia.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### Sección Primera. De las Actas de Defunción
 
@@ -1081,7 +1081,9 @@ IV. Los nombres de la madre, o el padre del difunto si se supiese;
 
 V. La clase de enfermedad que determinó la muerte, y especificadamente el lugar en el cual se sepulta el cadáver;
 
-VI. La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2018)</small>
+
+VI. La hora de la muerte, si se supiere, y toda la información que se tenga en caso de muerte violenta. Cuando la causa probable de la muerte haya sido el feminicidio, se asentará tal circunstancia;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2017)</small>
 
@@ -1160,6 +1162,10 @@ Si por algún motivo fuese negado el permiso, los interesados lo comunicarán al
 ###### ARTÍCULO 130.
 
 El Oficial del Registro Civil que reciba un acta de defunción levantada en otra Entidad Federativa, la transcribirá en el libro correspondiente y expedirá la orden de inhumación o cremación.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2018)</small>
+
+ARTÍCULO 130 BIS. Los oficiales del Registro Civil reportarán al Banco Estatal de Información sobre la Violencia contra las Mujeres, a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, los casos en que se asiente en el acta de defunción el feminicidio como causa probable de la muerte violenta.
 
 ### CAPÍTULO VIII. De las Actas de Inscripción de Sentencias
 
@@ -1519,10 +1525,18 @@ SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opo
 
 P.O. 31 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 868.- SE ADICIONA EL CAPÍTULO VI BIS "DEL PROCEDIMIENTO DEL DIVORCIO VOLUNTARIO POR VÍA ADMINISTRATIVA" A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 868.- SE ADICIONA EL CAPÍTULO VI BIS “DEL PROCEDIMIENTO DEL DIVORCIO VOLUNTARIO POR VÍA ADMINISTRATIVA” A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos de divorcio voluntario en la vía administrativa iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+P.O. 17 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 919.- SE REFORMA EL ARTÍCULO 116 Y ADICIONA EL ARTÍCULO 130 BIS, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
