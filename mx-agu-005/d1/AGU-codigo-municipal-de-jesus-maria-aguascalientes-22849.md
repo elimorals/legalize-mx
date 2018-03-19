@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2017-02-13"
+last_updated: "2018-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -108,6 +108,8 @@ En el Municipio de Jesús María son símbolos obligatorios la Bandera, el Himno
 
 ### CAPITULO TERCERO. Finalidad del Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 9o.
 
 Es fin esencial del Ayuntamiento lograr el bienestar general de los habitantes del Municipio, por lo tanto las autoridades municipales sujetarán sus acciones a las siguientes disposiciones:
@@ -132,45 +134,53 @@ IX. Administrar justicia en el ámbito de su competencia;
 
 X. Salvaguardar y garantizar dentro de su territorio la seguridad, orden público y la protección civil;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE MARZO DE 2018)</small>
 
 XI. Promover el desarrollo de las actividades económicas, agrícolas, industriales, comerciales, artesanales, turísticas y demás que se señalan en la Ley Orgánica Municipal o que acuerde el Ayuntamiento, con participación de los sectores social y privado, en coordinación con entidades, dependencias y organismos municipales, estatales y federales.
 
-Para ello en la Cabecera Municipal de Jesús María, se llevara a cabo a través del mecanismo de Feria, la cual servirá de marco para mostrar a los visitantes los productos y servicios de nuestro Municipio, festejos cuya organización, fomento y comercialización eficientes se buscarán a través del COMITÉ DE LA FERIA DE LOS CHÍCAHUALES DE JESÚS MARÍA, actuando en apego a las directrices que a manera enunciativa más no limitativas se señalan a continuación:
+Para ello en la Cabecera Municipal de Jesús María, se llevara a cabo a través del mecanismo de Feria, la cual servirá de marco para mostrar a los visitantes los productos y servicios de nuestro Municipio, festejos cuya organización, fomento y comercialización eficientes se buscarán a través de la INSTANCIA DE LA FERIA DE LOS CHICAHUALES Y EVENTOS ESPECIALES, la cual estará integrada por un Director de dicha Instancia y demás personal administrativo los que serán designados por el Presidente Municipal; actuando en apego a las directrices que a manera enunciativa más no limitativas se señalan a continuación:
 
-a) El COMITÉ DE LA FERIA DE LOS CHÍCAHUALES DE JESÚS MARÍA, en lo subsecuente denominado "EL COMITÉ", iniciara sus actividades propias en el mes de abril de cada año, siendo integrado a manera honoraria por los siguientes:
+a).- Promover y organizar la Ferias (sic) de los Chicahuales y Eventos Especiales cada año en las fechas que tradicionalmente se realizan; con el fin de fomentar la cultura, la ciencia, las artes, la conservación ecológica, el deporte, la recreación, la industria, el comercio y las artesanías en el Municipio de Jesús María, Aguascalientes; en el periodo o los periodos que determine el Presidente Municipal con observancia de los ordenamientos correspondientes, en la zona previamente establecida para ello;
 
-Titular de la Comisión de Hacienda Presidente
+Teniendo como prioridad, organizar y conducir las ferias y eventos especiales en un marco de enaltecimiento de la imagen del Municipio; el respeto a la moral social y a las buenas costumbres; la difusión de las tradiciones y el Folklore del Municipio; el ambiente familiar, la prestación de servicios por parte de los particulares y entidades públicas, con respeto a las garantías constitucionales y a la seguridad e higiene mental y física de los feriantes.
 
-Titular de la Secretaría de
+b).- Promover la administración, conservación, ampliación y mejoramiento permanentemente (sic) de los terrenos, las instalaciones y construcciones de los inmuebles destinados, en el presente o en el futuro, a las Ferias;
 
-Administración Secretario
+c).- Promover y difundir entre la población local, nacional y extranjera, las diferentes actividades citadas en las fracciones a (sic) de este Artículo;
 
-Titular de la Secretaría de Finanzas Tesorero
+d).- Celebrar toda clase de actos jurídicos, necesarios para la realización de los fines de la Instancia de la Feria de los Chicahuales y Eventos Especiales; cumpliendo para ello con las formalidades que señale la legislación vigente;
 
-Titular de la Secretaria del
+e).- Realizar la adquisición, arrendamiento y subarrendamiento de toda clase de bienes muebles o inmuebles, derechos reales o personales; así como el registro y explotación de franquicias, patentes, marcas o derechos de autor, que se hagan necesarios para la realización de su objeto;
 
-H. Ayuntamiento y Dirección
+f).- Celebrar convenios de coordinación con cualquier otro ente jurídico Federal, Estatal o Municipal para el cumplimiento de su objeto;
 
-General de Gobierno 1er. Vocal
+g).- coordinar las actividades de las Secretarias, Áreas y demás Instancias del H. Ayuntamiento de Jesús María, en los asuntos en que estas puedan vincularse para la organización y actividades vinculadas con el desarrollo de las ferias y eventos especiales;
 
-Titular de la Secretaria de
+h).- Promover el uso de los espacios e instalaciones destinadas a las Ferias y eventos Especiales, conforme vayan formando parte del patrimonio;
 
-Desarrollo Económico 2do. Vocal
+i).- Obtener concesiones y autorizaciones para la explotación de bienes y derechos de las autoridades Federales, Estatales y Municipales;
 
-b) El periodo de feria será determinado por el COMITÉ, según lo que más convenga al óptimo desarrollo de los festejos.
+j).- Otorgar permisos y licencias durante el periodo ferial y eventos especiales, dentro del perímetro y en la temporada ferial, previa coordinación con la Secretaría del H. Ayuntamiento;
 
-c) El COMITÉ aprobará el perímetro ferial, pudiendo apoyarse en las áreas de Planeación y Desarrollo Urbano, así como las de Seguridad correspondientes.
+k).- Administrar, proteger, preservar y, en su caso, acrecentar el patrimonio destinado a las Ferias y Eventos Especiales;
 
-d) El COMITÉ en el desarrollo de las actividades inherentes, por instrucción del Presidente Municipal, será apoyado por todas y cada una de las Dependencias y Entidades Municipales relacionadas, siempre conforme a sus respectivas funciones, facultades y/o competencias legales.
+l).- Y demás necesarias para la consecución del fin;
 
-e) El COMITÉ en el desarrollo de las actividades inherentes, en su caso y momento, cumplirá y hará cumplir la normativa correspondiente.
+En el caso de que el nombramiento del Director de la Instancia de la Feria de los Chicahuales y Eventos Especiales recayera en un servidor Público, su desempeño será honorario.
 
-f) El COMITÉ, rendirá al Ayuntamiento en Sesión de Cabildo, un Informe acerca de las Actividades realizadas, dentro de los 30 días hábiles posteriores al término de la Feria, con lo cual terminará sus funciones propias.
+El periodo de feria será determinado por el H. Ayuntamiento, según lo que más convenga al óptimo desarrollo de los festejos.
 
-g) El COMITÉ, a través de su presidente, en aras de preservar el bien común, la tranquilidad y la seguridad de los festejos, en cualquier momento durante el periodo ferial, podrá emitir a manera fundada y motivada medidas que deberán observar las personas físicas o morales, los organismos públicos o privados que participen de la Feria.
+El Presidente Municipal del H. Ayuntamiento aprobará el perímetro ferial, pudiendo apoyarse en las áreas de Planeación y Desarrollo Urbano, así como las de Seguridad correspondientes.
 
-h) Las cuestiones no previstas respecto a la feria, así como la interpretación de las presentes directrices le asiste al Comité, previo dictamen emitido al efecto.
+La Instancia de la Feria de los Chicahuales y Eventos Especiales en el desarrollo de las actividades inherentes, por instrucción del Presidente Municipal, será apoyada por todas y cada una de las Dependencias y Entidades Municipales relacionadas, siempre conforme a sus respectivas funciones, facultades y/o competencias legales.
+
+La Instancia de la Feria de los Chicahuales y Eventos Especiales en el desarrollo de las actividades inherentes, en su caso y momento, cumplirá y hará cumplir la normativa correspondiente.
+
+La Instancia de la Feria de los Chicahuales y Eventos Especiales, rendirá al Ayuntamiento en Sesión de Cabildo, un Informe acerca de las actividades realizadas, dentro de los 30 días hábiles posteriores al término de la feria y eventos especiales correspondientes.
+
+La Instancia de la Feria de los Chicahuales y Eventos Especiales, a través de su Director, en aras de preservar el bien común, la tranquilidad y la seguridad de los festejos, en cualquier momento durante el periodo ferial o eventos especiales, podrá emitir a manera fundada y motivada medidas que deberán observar las personas físicas o morales, los organismos públicos o privados que participen de la Feria.
+
+Las cuestiones no previstas respecto a la feria y eventos especiales, así como la interpretación de las presentes directrices le asiste al Presidente Municipal, previo dictamen emitido al efecto.
 
 XII. Coadyuvar a la preservación, protección y mejoramiento del medio ambiente del Municipio;
 
@@ -178,7 +188,7 @@ XIII. Garantizar la salubridad e higiene pública, en el ámbito de su competenc
 
 XIV. Promover la inscripción de los habitantes del Municipio al padrón municipal;
 
-XV.- Preservar y fomentar los valores cívicos, culturales y artísticos del Municipio, para acrecentar la identidad municipal.
+XV. Preservar y fomentar los valores cívicos, culturales y artísticos del Municipio, para acrecentar la identidad municipal.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -958,45 +968,85 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2018)</small>
 
-###### Articulo 96.
+###### ARTICULO 96.
 
 Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+
 I. Corporación Municipal
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2018)</small>
 
 II. Presidencia Municipal
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Secretaría Privada
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Coordinación de Relaciones Públicas
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Departamento de Giras y Eventos
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Dirección de Comunicación y Difusión:
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Departamento de Información
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Departamento de Difusión Institucional
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Departamento de Medios Digitales
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Instancia de la Mujer
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Instancia de la Juventud
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Instancia del Deporte
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Instancia de la Cultura
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Departamento de Turismo
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Instancia de Salud Pública
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 Departamento de Servicios Médicos y Regulación Sanitaria
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 Departamento de Medicina Alternativa
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2018)</small>
+
+Instancia de la Feria de los Chicahuales y Eventos Especiales
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 III. Jefe de Gabinete
 
@@ -1008,11 +1058,15 @@ Coordinación de Mejores Prácticas de Gobierno y Calidad Regulatoria
 
 Centro de Información y Atención Ciudadana
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 IV. Secretario Particular:
 
 Departamento de Acción Cívica
 
 Departamento de Gestión Social
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 V. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -1038,6 +1092,8 @@ Coordinación de Delegados Municipales
 
 Coordinación de Jueces Calificadores
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 VI. Secretaría de Finanzas
 
 Departamento Jurídico
@@ -1052,6 +1108,8 @@ Departamento de Contabilidad
 
 Dirección de Compras y Licitaciones
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 VII. Secretaría de Seguridad Pública y Vialidad
 
 Departamento de Policía Vial e Ingeniería de Tránsito
@@ -1061,6 +1119,8 @@ Departamento de Policía Preventiva
 Departamento de Asuntos Internos
 
 Dirección Administrativa
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 VIII. Secretaría de Administración
 
@@ -1079,6 +1139,8 @@ Departamento de Enlaces Administrativos
 Coordinación de Innovación Tecnológica
 
 Dirección de Control Patrimonial
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 IX. Secretaría de Servicios Públicos
 
@@ -1102,6 +1164,8 @@ Departamento de Almacén y Enlace Administrativo
 
 Dirección de Estación de Transferencia
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 X. Secretaría de Desarrollo Social
 
 Departamento del Derecho a la Educación
@@ -1113,6 +1177,8 @@ Dirección de Programas Sociales
 Departamento de Centros de Desarrollo Comunitarios (CEDECOS)
 
 Departamento de Concertación Social
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 XI. Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal
 
@@ -1130,11 +1196,15 @@ Departamento de Fraccionamientos y Condominios
 
 Dirección Jurídica
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 XII. Secretaría de Medio Ambiente y Sustentabilidad
 
 Departamento de Gestión Ambiental, Recursos Naturales y Biodiversidad
 
 Departamento de Educación Ambiental
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 XIII. Secretaría de Obras Públicas
 
@@ -1156,6 +1226,8 @@ Departamento de Instalaciones
 
 Departamento de Expedientes Técnicos y Auditorías
 
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
+
 XIV. Secretaría de Auditoría Financiera y Fiscalización
 
 Departamento de Auditoría Financiera y Gubernamental
@@ -1165,6 +1237,8 @@ Departamento Jurídico
 Departamento de Auditoria de Obras Públicas
 
 Departamento de Transparencia
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 XV. Sistema para el Desarrollo Integral de la Familia
 
@@ -1183,6 +1257,8 @@ Departamento de Programas de Alimentos
 Departamento Administrativo
 
 Departamento de INAPAM
+
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], P.O. 13 DE FEBRERO DE 2017)</small>
 
 XVI. Secretaría de Desarrollo Económico
 
@@ -14769,3 +14845,9 @@ P.O. 13 DE FEBRERO DE 2017.
 Segundo.- En virtud a la presente reforma, cuando en el presente Código u otro ordenamiento jurídico se refieran a las funciones o atribuciones para la Dirección de Planeación, así como las relativas al Desarrollo Urbano, las mismas se entenderán conferidas a la Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal; las correspondientes a la Dirección de Obras Públicas, se entenderán conferidas a la Secretaría de Obras Públicas; las correspondientes a las Direcciones de Seguridad Pública y de Tránsito y Vialidad, se entenderán conferidas a la Secretaría de Seguridad Pública y Vialidad; las correspondientes a la Subdirección de Protección Ambiental y Departamento de Medio Ambiente, se entenderán conferidas a la Secretaría de Medio Ambiente y Sustentabilidad; las correspondientes a la Contraloría Municipal, se entenderán conferidas a la Secretaria de Auditoría Financiera y Fiscalización; las correspondientes a Comunicación Social, se entenderán conferidas a la Dirección de Comunicación y Difusión; las correspondientes a la Dirección de Salud, se entenderán conferidas a la Instancia de Salud Pública; las correspondientes al Comité municipal para el Desarrollo Integral de la Familia y Voluntariado, se entenderán conferidas al Sistema para el Desarrollo Integral de la Familia; cuando en este Código se denomine alguna área como Dirección, las atribuciones o funciones se entenderán conferidas a la Secretaria o Instancia que corresponda, según el ámbito de su competencia, ello hasta en tanto se reformen las disposiciones legales correspondientes.
 
 Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MARZO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DE ACUERDO DE LAS “REFORMAS A LOS ARTÍCULOS 9 Y 96 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES, PARA LA CREACIÓN DE LA INSTANCIA DE LA FERIA DE LOS CHICAHUALES Y EVENTOS ESPECIALES”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Quinto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
