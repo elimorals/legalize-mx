@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-02-19"
+last_updated: "2018-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -20289,9 +20289,69 @@ X. Se prohíbe la colocación de anuncios en las estructuras de las antenas de t
 
 XI. No se permitirá adicionar a este tipo de anuncios, ningún otro elemento publicitario con carácter permanente o provisional.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 1238.
 
-Los anuncios estructurales en pantallas electrónicas, deberán ubicarse en un sitio tal que no interfieran, ni reduzcan la visibilidad de los señalamientos de tránsito, principalmente los semáforos y a una distancia mínima de 50.00 metros de estos elementos. Las normas en cuanto a dimensiones y ubicación en el inmueble, son las mismas que las establecidas para los anuncios estructurales.
+Además de todos los requerimientos anteriores los anuncios de pantalla electrónica deberán sujetarse a las limitaciones señaladas a continuación:
+
+Los anuncios estructurales de pantalla electrónica de poste unipolar, cartelera de azotea, cartelera de piso, y adosadas deberán sujetarse a lo siguiente:
+
+I. Las dimensiones permitidas para anuncios estructurales de pantalla electrónica en poste y cartelera de azotea serán:
+
+a) De tipo poste unipolar cualquiera que sea el diámetro del poste y cartelera de azotea:
+
+1. Para pantallas de 4.00 metros de ancho por 2.00 de alto en su área publicitaria, deberán de tener mínimo del nivel de piso al bajo techo de la pantalla 5.00 metros de altura.
+
+2. Para pantallas de 5.50 metros de ancho por 3.50 metros de alto en su área publicitaria deberán tener un mínimo del nivel de piso al bajo techo de la pantalla de 7.50 metros de altura.
+
+3. Para pantallas en donde su área publicitaria sea de 8.00 metros de ancho por 5.00 metros de alto deberán tener mínimo del nivel de piso bajo el techo de la pantalla de 10.00 metros de altura.
+
+4. Para dimensiones diferentes a las antes mencionadas deberán ser sometidas ante el Subcomité de Imagen Urbana.
+
+b) Los anuncios estructurales de pantalla electrónica de tipo cartelera de piso y adosados a fachada:
+
+1. Para pantallas de 1.50 metros de ancho por 0.80 metros de alto en su área publicitaria, deberán tener mínimo de nivel de piso de 1.00 metro de altura y limitándose hasta 2.50 metros en la parte superior de la pantalla.
+
+2. Para pantallas de 2.50 metros de ancho por 1.50 metros de alto en su área publicitaria, deberán tener mínimo de piso a la base de la pantalla de 2.50 metros de altura y limitándose hasta 5.00 en la parte superior de la pantalla.
+
+3. Para dimensiones diferentes a las antes mencionadas deberán de ser sometidas ante el Subcomité de Imagen Urbana.
+
+II. Todas las pantalla (sic) electrónicas, ya sean publicitarias o denominativas, deberán de respetar un horario de 07:00 a. m. a 02:00
+
+a.m. dejando sin operación la misma de 02:01 a 06:59 a.m.
+
+III. Deberán controlar el entorno lumínico de las pantallas de 07:00 p.m. a 02:00 a.m. con una luminosidad no mayor a 5 luxes contados desde cualquier ángulo del entorno de la vía pública donde esté ubicada la pantalla. De 7:00 a.m. a 6:59 p.m. el funcionamiento lumínico lo establecerá la Secretaría de Desarrollo Urbano del Municipio de Aguascalientes.
+
+IV. Quedan prohibidas las emisiones dinámicas, de movimiento continuo y videos en general en la publicidad, permitiéndose solo imágenes estáticas a manera de diapositiva con el cambio entre una y otra por medio de disolución en un lapso mínimo de 20 segundos entre cada una.
+
+V. La distancia mínima entre las pantallas electrónicas y cualquier otro tipo de anuncio estructural mayor de 24.00 metros cuadrados en su área de exhibición será determinada por la Secretaría, pero nunca será menor de 250.00 metros, medidos de centro a centro de poste, y de centro de pantalla a centro de poste, en cualquier dirección y los cuales deberán ser de diferente carácter o clasificación.
+
+VI. La distancia mínima entre las pantallas electrónicas y cualquier otro tipo de anuncio semiestructural menor de 24.00 metros cuadrados en su área de exhibición será determinada por la Secretaría, pero nunca será menor de 150 metros, medidos de centro a centro de poste, y de centro de pantalla a centro de poste, en cualquier dirección y los cuales deberán ser de diferente carácter o clasificación.
+
+VII. La proyección vertical del saliente máximo del anuncio, no deberá rebasar el límite de propiedad privada, ni invadir la vía pública.
+
+VIII. Se ubicará en forma perpendicular a la vialidad o hasta 45 grados.
+
+IX. La distancia mínima del punto más próximo de cualquier elemento integrante del anuncio a la colindancia con construcciones, no deberá ser menor de 0.50 metros.
+
+X. Se permitirá únicamente una cara con pantalla electrónica y la otra podrá ser con estructura metálica para colocación de lonas publicitarias.
+
+XI. Cualquier anuncio tipo pantalla electrónica deberá ubicarse a una distancia mínima de 100 metros de semáforos o señales preventivas de transito que se pudieran ver afectadas por el brillo de la misma.
+
+XII. Para la conversión de anuncios existentes a pantallas electrónicas deberá cumplir con lo establecido en los puntos anteriores y presentar nuevamente una memoria de cálculo firmada por un perito responsable de obra y registrado ante la Secretaría de Desarrollo Urbano.
+
+XIII. Queda estrictamente prohibido (sic) la colocación de pantallas electrónicas dentro del polígono que delimita el centro histórico conforme a lo establecido por el INAH y el artículo 1262 de este Código.
+
+XIV. Queda estrictamente prohibido el uso de pantallas electrónicas móviles.
+
+XV. Queda prohibida la instalación de pantallas electrónicas a menos de 500 metros de zonas de reserva ecológica establecidas por la Secretaria del Medio Ambiente para lo cual deberá obtener un informe positivo emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable municipal.
+
+XVI. Cumplir con las limitaciones establecidas en el artículo 1237 de este Código.
+
+XVII. En donde exista un paso a desnivel vehicular superior deberá quedar la pantalla electrónica 200 metros antes de la parte cúspide del mismo, la ubicación de la pantalla luminosa no deberá competir con ningún dispositivo vial existente en la vía pública, además deberán ubicarse en un sitio tal que no interfieran, ni reduzcan la visibilidad de los señalamientos de tránsito. Las normas en cuanto a dimensiones y ubicación en el inmueble, son las mismas que las establecidas para los anuncios estructurales.
+
+Se deberá cumplir con todas aquellas disposiciones específicas aplicables a anuncios de pantalla electrónica señaladas en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes; así mismo se deberá de cumplir con las disposiciones de este Código, aquellas situaciones no contempladas en los ordenamientos señalados serán turnadas al Subcomité de Imagen Urbana quien emitirá dictamen resolutorio.
 
 ###### ARTÍCULO 1239.
 
@@ -27514,6 +27574,12 @@ P.O. 19 DE FEBRERO DE 2018.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las referencias al Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano o a su titular, contenidas en disposiciones reglamentarias, administrativas o contractuales, se entenderán hechas al Secretariado de Enlace Ciudadano y a su titular, según corresponda.
+
+P.O. 19 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 1238 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
