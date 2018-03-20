@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2017-12-15"
+last_updated: "2018-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2313,15 +2313,15 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 4. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas conforme a la variación del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de diciembre del año anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### Artículo 142.
 
 1. Las tarifas para calcular el cobro por el servicio de agua deberán considerar en su estructura niveles de consumo para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo a fin de promover el uso eficiente del agua.
 
-2. Asimismo, las tarifas deberán considerar los servicios ambientales proporcionados por los elementos del ciclo hidrológico, tomándose en cuenta la capacidad de captación, superficie involucrada, restauración que sea necesaria y otras medidas pertinentes para la preservación y mejora de dichos servicios. Al efecto, la autoridad u organismo operador a cargo de la prestación y cobro del servicio de agua, establecerá la coordinación necesaria con la Agencia Ambiental para el Desarrollo Sustentable, a fin de establecer el monto del cobro por los servicios ambientales y el destino que se dará a esos ingresos para compensar el deterioro de elementos del ciclo hidrológico.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Asimismo, las tarifas deberán considerar los servicios ambientales proporcionados por los elementos del ciclo hidrológico, tomándose en cuenta la capacidad de captación, superficie involucrada, restauración que sea necesaria y otras medidas pertinentes para la preservación y mejora de dichos servicios. Al efecto, la autoridad u organismo operador a cargo de la prestación y cobro del servicio de agua, establecerá la coordinación necesaria con la Secretaría de Desarrollo Urbano y Medio Ambiente, a fin de establecer el monto del cobro por los servicios ambientales y el destino que se dará a esos ingresos para compensar el deterioro de elementos del ciclo hidrológico.
 
 3. En todo caso, el acuerdo tarifario distinguirá el porcentaje del pago correspondiente a los servicios ambientales.
 
@@ -3120,6 +3120,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. LXIII-366 POR EL QUE “SE REFORMAN, EL PÁRRAFO 3, DEL ARTÍCULO 141; Y, EL PÁRRAFO 2, DEL ARTÍCULO 146, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
