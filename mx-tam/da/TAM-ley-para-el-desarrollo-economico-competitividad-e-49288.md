@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2017-06-01"
+last_updated: "2018-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -863,19 +863,43 @@ XXI. Promover la creación de políticas públicas para apoyar las Mipyme sinies
 
 XXII. Así como toda otra acción que sirva de apoyo de los emprendedores, micro, pequeñas y medianas empresas en términos del plan Estatal de Desarrollo, la Ley, suficiencia presupuestal y oportunidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 31.
 
-La Secretaría desarrollará estrategias tendientes a incrementar la participación de la mujer en el ámbito empresarial, las cuales consistirán en:
+La Secretaría desarrollará estrategias tendientes a incrementar la participación de la mujer en el ámbito laboral y empresarial, las cuales consistirán en:
 
 I. Organizar foros, conferencias y reuniones que les permitan adentrarse en el ambiente de negocios;
 
-II. Brindar asesoría en desarrollo de proyectos, administración, contabilidad, compromisos fiscales y comercialización;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Apoyo en la capacitación y adiestramiento del capital humano de las empresas, con enfoque de género;
 
 III. Otorgar apoyos en la realización de trámites necesarios para iniciar empresas;
 
-IV. Promover esquemas crediticios con tasas y plazos preferenciales; y,
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-V. Apoyo en la capacitación y adiestramiento del capital humano de las empresas.
+IV. Brindar asesoría en el desarrollo de proyectos, administración, contabilidad, compromisos fiscales y comercialización, dirigidas a mujeres para establecer pequeñas, medianas y grandes empresas, o para las que ya estén establecidas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Promover esquemas crediticios con tasas y plazos preferenciales;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Apoyo en promoción y comercialización de productos y empresas dirigidas por mujeres, tanto nacional como internacionalmente;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII. Construir indicadores semestrales de desempeño que reflejen el avance de nuevas empresas y empleos generados por mujeres;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VIII. Establecer reconocimientos a las mujeres emprendedoras; y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2018)</small>
+
+IX. Otorgar incentivos fiscales y administrativos a las mujeres emprendedoras, en los términos que para su efecto establece el Capítulo IV de la presente ley.
 
 ### CAPITULO VIII. DE LA PROMOCION DE INVERSIONES
 
@@ -1128,6 +1152,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 1 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-169 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX, ADICIONANDO LA FRACCIÓN XXI Y RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XXI, PARA PASAR A SER LA FRACCIÓN XXII DEL ARTÍCULO 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-387 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
