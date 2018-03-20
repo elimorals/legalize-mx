@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-55874"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2016-12-21"
+last_updated: "2018-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
 
 Ley publicada en el Anexo Número 67 del Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2007.
 
@@ -129,75 +131,99 @@ V. La protección y conservación de las zonas que sirvan de refugio a la flora 
 
 Los procedimientos establecidos por esta ley no alterarán el régimen de propiedad de los predios de los ejidos y las comunidades, de personas físicas o morales, de carácter público municipal, estatal o federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 6.
 
 1. En lo no previsto en esta ley, con carácter de normas supletorias, se aplicarán la Ley General de Desarrollo Forestal Sustentable, la Ley General de Equilibrio Ecológico y Protección al Ambiente y el Código para el Desarrollo Sustentable del Estado de Tamaulipas.
 
-2. La SEDER y la Agencia Ambiental podrán interpretar los preceptos de esta ley para efectos de su aplicación en la esfera administrativa, de acuerdo a sus respectivas competencias.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La SEDER y la SEDUMA podrán interpretar los preceptos de esta ley para efectos de su aplicación en la esfera administrativa, de acuerdo a sus respectivas competencias.
 
 ### CAPÍTULO II. De la Terminología
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. LXIII-388 PUBLICADO EN EL P.O. DE 20 DE MARZO DE 2018, SE ADVIERTE QUE EL PRESENTE ARTÍCULO SE INTEGRABA DE XX FRACCIONES PARA ACTUALMENTE CONFORMARSE POR XIX, REUBICÁNDOSE ÉSTAS EN SUS POSICIONES.]</small>
 
 ###### ARTÍCULO 7.
 
 Además de las definiciones contenidas en el artículo 7 de la Ley General de Desarrollo Forestal Sustentable, para los efectos de esta ley se entenderá por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+I. Acuerdo Secretarial: el acto jurídico mediante el cual el titular de la Secretaría dicta una instrucción dirigida al personal subordinado sobre determinada acción o política a seguir en materia forestal;
 
-I. Agencia Ambiental: la Agencia Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-II. Acuerdo Secretarial: el acto jurídico mediante el cual el titular de la Secretaría dicta una instrucción dirigida al personal subordinado sobre determinada acción o política a seguir en materia forestal;
+II. Actividad silvopastoril: la práctica de la ganadería coincidente con aprovechamientos forestales;
 
-III. Actividad silvopastoril: la práctica de la ganadería coincidente con aprovechamientos forestales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-IV. Agrosilvicultura: Las actividades forestales realizadas en coincidencia con las de carácter agrícola;
+III. Agrosilvicultura: Las actividades forestales realizadas en coincidencia con las de carácter agrícola;
 
-V. Cadena productiva: la integración complementaria de factores y procesos que intervienen en la creación e incorporación de valor agregado a las materias primas forestales para la obtención de bienes y servicios que llegan al consumidor final;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VI. Coeficiente de aprovechamiento: la capacidad de carga animal referida a una unidad de superficie forestal o preferentemente forestal;
+IV. Cadena productiva: la integración complementaria de factores y procesos que intervienen en la creación e incorporación de valor agregado a las materias primas forestales para la obtención de bienes y servicios que llegan al consumidor final;
 
-VII. Consejo Estatal: el Consejo Forestal del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VIII. Cuenca hidrológico-forestal: la unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
+V. Coeficiente de aprovechamiento: la capacidad de carga animal referida a una unidad de superficie forestal o preferentemente forestal;
 
-IX. Degradación del suelo: el proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI. Consejo Estatal: el Consejo Forestal del Estado de Tamaulipas;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-X. Desarrollo sustentable: el proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+VII. Cuenca hidrológico-forestal: la unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
 
-XI. Distrito de Desarrollo Rural: la estructura operativa regional de la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XII. Erosión del suelo: el proceso de desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua y el viento;
+VIII. Degradación del suelo: el proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
 
-XIII. Leña: la materia prima maderable proveniente de la vegetación forestal, en rollo o en raja que se utiliza como material combustible o carbónico, así como para hacer tableros y para obtener carbón;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XIV. Ley General: la Ley General de Desarrollo Forestal Sustentable;
+IX. Desarrollo sustentable: el proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+X. Distrito de Desarrollo Rural: la estructura operativa regional de la Secretaría;
 
-XV. Política forestal: el conjunto de normas y procedimientos a cargo del Gobierno del Estado y sus municipios, en la esfera de sus respectivas competencias, tendiente a regular y fomentar el aprovechamiento, conservación, protección, restauración, manejo, cultivo y producción de los recursos forestales del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVI. Prestadores de servicios técnicos forestales: el personal profesional responsable de las actividades realizadas para planear, programar y ejecutar científicamente las actividades silvícolas, el manejo forestal y la asesoría y capacitación de propietarios o poseedores de recursos forestales para la gestión de los mismos en términos de los ordenamientos y normas aplicables;
+XI. Erosión del suelo: el proceso de desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua y el viento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVII. (DEROGADA, P.O. 5 DE JUNIO DE 2008)
+XII. Leña: la materia prima maderable proveniente de la vegetación forestal, en rollo o en raja que se utiliza como material combustible o carbónico, así como para hacer tableros y para obtener carbón;
 
-XVIII. Registro Estatal: el Registro Estatal Forestal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XIX. SEDER: la Secretaría de Desarrollo Rural del Estado;
+XIII. Ley General: la Ley General de Desarrollo Forestal Sustentable;
 
-XX. Veda forestal: la restricción total o parcial, de carácter temporal, para el aprovechamiento de uno o varios recursos forestales en una superficie o para una especie determinada, establecida mediante decreto que expida el titular del Ejecutivo Federal.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIV. Política forestal: el conjunto de normas y procedimientos a cargo del Gobierno del Estado y sus municipios, en la esfera de sus respectivas competencias, tendiente a regular y fomentar el aprovechamiento, conservación, protección, restauración, manejo, cultivo y producción de los recursos forestales del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XV. Prestadores de servicios técnicos forestales: el personal profesional responsable de las actividades realizadas para planear, programar y ejecutar científicamente las actividades silvícolas, el manejo forestal y la asesoría y capacitación de propietarios o poseedores de recursos forestales para la gestión de los mismos en términos de los ordenamientos y normas aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XVI. Registro Estatal: el Registro Estatal Forestal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XVII. SEDER: la Secretaría de Desarrollo Rural del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2018)</small>
+
+XVIII. SEDUMA: la Secretaría de Desarrollo Urbano y Medio Ambiente; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIX. Veda forestal: la restricción total o parcial, de carácter temporal, para el aprovechamiento de uno o varios recursos forestales en una superficie o para una especie determinada, establecida mediante decreto que expida el titular del Ejecutivo Federal.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL SECTOR PÚBLICO FORESTAL
 
@@ -215,11 +241,9 @@ XX. Veda forestal: la restricción total o parcial, de carácter temporal, para 
 
 ###### ARTÍCULO 9.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. El Servicio Estatal Forestal estará conformado por los titulares de las Secretaría General de Gobierno, SEDER y Agencia Ambiental, y representantes de los municipios con vocación forestal.
+1. El Servicio Estatal Forestal estará conformado por los titulares de las Secretarías General de Gobierno, de Desarrollo Urbano y Medio Ambiente y de Desarrollo Rural, y representantes de los municipios con vocación forestal.
 
 2. En el mismo, participarán los titulares de dependencias o entidades estatales que procedan, en virtud de sus atribuciones y la naturaleza de los asuntos materia de la convocatoria. El Servicio Estatal Forestal será presidido por el titular de la SEDER.
 
@@ -261,11 +285,9 @@ I. El Gobernador del Estado;
 
 II. El Titular de la SEDER;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-III. El Titular de la Agencia Ambiental en el ámbito de su competencia; y
+III. El Titular de la SEDUMA en el ámbito de su competencia; y
 
 IV. Las autoridades municipales.
 
@@ -297,11 +319,9 @@ VIII. Integrar el Sistema Estatal de Información Forestal e incorporar su conte
 
 IX. Compilar y procesar la información sobre uso doméstico de los recursos y aprovechamientos forestales diversos, e incorporarla al Sistema Estatal de Información Forestal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-X. Impulsar, en coordinación con la Agencia Ambiental, la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
+X. Impulsar, en coordinación con la SEDUMA, la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
 XI. Promover, en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación, transferencia de tecnología y cultura forestal, acordes con el programa nacional respectivo;
 
@@ -311,31 +331,23 @@ XIII. Regular el uso del fuego en las actividades relacionadas con las actividad
 
 XIV. Llevar a cabo acciones de capacitación y prevención de incendios forestales en congruencia con el programa nacional respectivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XV. Promover y participar, en coordinación con la Agencia Ambiental, en la restauración de los ecosistemas forestales afectados por incendios, desastres naturales o actividades humanas;
+XV. Promover y participar, en coordinación con la SEDUMA, en la restauración de los ecosistemas forestales afectados por incendios, desastres naturales o actividades humanas;
 
 XVI. Impulsar programas de mejoramiento genético forestal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+XVII. Promover y participar, en coordinación con la SEDUMA, en labores de conservación, protección y restauración de los terrenos estatales forestales y preferentemente forestales;
 
-XVII. Promover y participar, en coordinación con la Agencia Ambiental, en labores de conservación, protección y restauración de los terrenos estatales forestales y preferentemente forestales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XVIII. Elaborar y aplicar de forma coordinada con la SEDUMA, los municipios del Estado y organizaciones de productores sociales y privadas, programas de forestación y reforestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas forestadas o reforestadas;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVIII. Elaborar y aplicar de forma coordinada con la Agencia Ambiental, los municipios del Estado y organizaciones de productores sociales y privadas, programas de forestación y reforestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas forestadas o reforestadas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XIX. Llevar a cabo, en coordinación con la Agencia Ambiental y la Federación, acciones de saneamiento de los ecosistemas forestales;
+XIX. Llevar a cabo, en coordinación con la SEDUMA y la Federación, acciones de saneamiento de los ecosistemas forestales;
 
 XX. Prestar asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable;
 
@@ -363,11 +375,9 @@ XXXI. Promover el desarrollo de plantaciones forestales comerciales; y
 
 XXXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le confiera esta ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios en norma expedida por autoridad competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-3. Corresponden al Ejecutivo del Estado, a través de la Agencia Ambiental, las siguientes atribuciones:
+3. Corresponden al Ejecutivo del Estado, a través de la SEDUMA, las siguientes atribuciones:
 
 I. Promover los bienes y servicios ambientales de los ecosistemas forestales;
 
@@ -384,8 +394,6 @@ VI. Ejercer las facultades de vigilancia y de coadyuvancia previstas en este ord
 VII. Celebrar, en el ámbito de su competencia, acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
 VIII. Ejercer en el ámbito de su competencia las facultades de regulación, autorización, inspección y vigilancia sobre las obras y actividades relacionadas con el sector forestal; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -603,11 +611,9 @@ En la planeación del desarrollo forestal estatal y municipal sustentable, deber
 
 ###### ARTÍCULO 24.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. La SEDER, establecerá el Sistema Estatal de Información Forestal teniendo por objeto, registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia e incorporará su contenido al Sistema Estatal de Información Ambiental que estará a cargo de la Agencia Ambiental y al Sistema Nacional de Información Forestal con base en las normas, procedimientos y metodologías nacionales, que estará disponible al público para su consulta.
+1. La SEDER, establecerá el Sistema Estatal de Información Forestal teniendo por objeto, registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia e incorporará su contenido al Sistema Estatal de Información Ambiental que estará a cargo de la SEDUMA y al Sistema Nacional de Información Forestal con base en las normas, procedimientos y metodologías nacionales, que estará disponible al público para su consulta.
 
 2. El Sistema Estatal de Información Forestal recopilará la información y fortalecerá una base estratégica para la planeación y evaluación del desarrollo forestal sustentable.
 
@@ -651,11 +657,9 @@ Los titulares de autorizaciones de aprovechamiento forestal maderable, no madera
 
 ###### ARTÍCULO 28.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. La SEDER con la participación de la Agencia Ambiental, integrará, organizará y actualizará el Inventario Estatal Forestal y de Suelos, el cual deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios forestales, bajo los principios, criterios y metodología que se establezcan para el Inventario Nacional Forestal y de Suelos.
+1. La SEDER con la participación de la SEDUMA, integrará, organizará y actualizará el Inventario Estatal Forestal y de Suelos, el cual deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios forestales, bajo los principios, criterios y metodología que se establezcan para el Inventario Nacional Forestal y de Suelos.
 
 2. La integración del Inventario Estatal Forestal y de Suelos se hará del conocimiento de las autoridades municipales para que participen de acuerdo al artículo 14 fracción V de esta ley.
 
@@ -705,13 +709,11 @@ IV. Los desequilibrios existentes en los ecosistemas por efecto de las actividad
 
 ### CAPÍTULO VI. De la Zonificación Forestal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 32.
 
-De conformidad con los datos que reporte el Inventario Estatal Forestal y de Suelos y los programas del ordenamiento ecológico del territorio, la SEDER, en coordinación con la Agencia Ambiental, coadyuvará a la realización de la zonificación forestal, instrumento mediante el cual se identifican, agrupan y ordenan los terrenos forestales y los preferentemente forestales, dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales.
+De conformidad con los datos que reporte el Inventario Estatal Forestal y de Suelos y los programas del ordenamiento ecológico del territorio, la SEDER, en coordinación con la SEDUMA, coadyuvará a la realización de la zonificación forestal, instrumento mediante el cual se identifican, agrupan y ordenan los terrenos forestales y los preferentemente forestales, dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales.
 
 ###### ARTÍCULO 33.
 
@@ -801,15 +803,11 @@ I. Establecimiento de plantaciones forestales comerciales en superficies mayores
 
 II. Aprovechamiento de recursos forestales maderables en terrenos forestales y preferentemente forestales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-2. La Agencia Ambiental, previa suscripción del convenio de coordinación de funciones con la dependencia federal mencionada, prevista en el artículo 58 de la Ley General, podrá otorgar las siguientes autorizaciones:
+2. La SEDUMA, previa suscripción del convenio de coordinación de funciones con la dependencia federal mencionada, prevista en el artículo 58 de la Ley General, podrá otorgar las siguientes autorizaciones:
 
 I. Cambio de uso de suelo en terrenos forestales, por excepción; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -847,13 +845,13 @@ III. En áreas naturales protegidas.
 
 #### Sección 2. De las Plantaciones Forestales Comerciales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 50.
 
-En la política de plantaciones forestales comerciales en terrenos temporalmente forestales y preferentemente forestales se promoverá de manera primordial la utilización de especies nativas que tecnológica y económicamente sean viables. La SEDER, con la opinión de la Agencia Ambiental, tendrá en todo momento la facultad de supervisar el manejo de la plantación, cuidando especialmente los posibles impactos ambientales adversos.
+En la política de plantaciones forestales comerciales en terrenos temporalmente forestales y preferentemente forestales se promoverá de manera primordial la utilización de especies nativas que tecnológica y económicamente sean viables.
+
+La SEDER, con la opinión de la SEDUMA, tendrá en todo momento la facultad de supervisar el manejo de la plantación, cuidando especialmente los posibles impactos ambientales adversos.
 
 ###### ARTÍCULO 51.
 
@@ -875,13 +873,11 @@ El contenido y requisitos de los dos niveles de programas de manejo de plantaci�
 
 El aprovechamiento de recursos no maderables únicamente requerirá de aviso por escrito a la SEDER. Sin perjuicio de lo que establezcan las normas oficiales mexicanas, en el reglamento de la presente ley y las leyes ambientales estatales vigentes, se establecerán los requisitos y casos en que se requerirá autorización o presentación de programas de manejo simplificado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 54.
 
-La SEDER sólo podrá autorizar el aprovechamiento de recursos no maderables en riesgo, o especies amenazadas, en peligro de extinción, raras o sujetas a protección especial, de acuerdo con la opinión de procedencia ambiental de la Agencia Ambiental, y acorde con las Normas Oficiales Mexicanas, cuando se dé prioridad para actividades de restauración, repoblamiento y reintroducción que demuestren que se contrarresta el riesgo citado.
+La SEDER sólo podrá autorizar el aprovechamiento de recursos no maderables en riesgo o especies amenazadas, en peligro de extinción, raras o sujetas a protección especial, de acuerdo con la opinión de procedencia ambiental de la SEDUMA, y acorde con las Normas Oficiales Mexicanas, cuando se dé prioridad para actividades de restauración, repoblamiento y reintroducción que demuestren que se contrarresta el riesgo citado.
 
 ###### ARTÍCULO 55.
 
@@ -893,13 +889,11 @@ No se otorgarán autorizaciones si el aprovechamiento pudiera poner en riesgo la
 
 #### Sección 4. De la Colecta y Uso de Recursos Forestales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
-La colecta y uso de recursos biológicos forestales con fines de utilización en investigación o biotecnología, o ambas, requiere de autorización por parte de la SEDER, quien contará con la opinión de la Agencia Ambiental, y los institutos y centros de investigación del Estado.
+La colecta y uso de recursos biológicos forestales con fines de utilización en investigación o biotecnología, o ambas, requiere de autorización por parte de la SEDER, quien contará con la opinión de la SEDUMA, y los institutos y centros de investigación del Estado.
 
 ###### ARTÍCULO 58.
 
@@ -947,39 +941,29 @@ Los servicios técnicos forestales comprenderán actividades de elaboración, di
 
 ###### ARTÍCULO 65.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+1. La SEDUMA, previo convenio con la Secretaría de Medio Ambiente y Recursos Naturales, sólo podrá autorizar el cambio de uso del suelo en terrenos forestales, por excepción, previa opinión de los miembros del Consejo Estatal y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, ni se provocará la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación, y que los usos alternativos del suelo que se propongan sean más productivos a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
 
-1. La Agencia Ambiental, previo convenio con la Secretaría de Medio Ambiente y Recursos Naturales, sólo podrá autorizar el cambio de uso del suelo en terrenos forestales, por excepción, previa opinión de los miembros del Consejo Estatal y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, ni se provocará la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación, y que los usos alternativos del suelo que se propongan sean más productivos a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2. En las autorizaciones de cambio de uso del suelo en terrenos forestales, la SEDUMA deberá dar respuesta debidamente fundada y motivada a las propuestas y observaciones planteadas por los miembros del Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. En las autorizaciones de cambio de uso del suelo en terrenos forestales, la Agencia Ambiental deberá dar respuesta debidamente fundada y motivada a las propuestas y observaciones planteadas por los miembros del Consejo Estatal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-3. No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado veinte años contados a partir del siniestro, a menos que se acredite fehacientemente a la Agencia Ambiental que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el reglamento correspondiente.
+3. No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado veinte años contados a partir del siniestro, a menos que se acredite fehacientemente a la SEDUMA que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el reglamento correspondiente.
 
 4. Las autorizaciones que se emitan deberán atender lo que, en su caso, dispongan los programas de ordenamiento ecológico correspondiente, las normas oficiales mexicanas y demás disposiciones legales y reglamentarias aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-5. La Agencia Ambiental, con la participación de la Comisión, coordinará con la SEDER, la política de uso de suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la producción agropecuaria crezca a costa de los terrenos forestales.
+5. La SEDUMA, con la participación de la Comisión, coordinará con la SEDER, la política de uso de suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la producción agropecuaria crezca a costa de los terrenos forestales.
 
 6. Las autorizaciones de cambio de uso de suelo deberán inscribirse en el Registro Forestal del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-7. La Agencia Ambiental con la participación de la Comisión, coordinará con las diversas entidades públicas competentes, acciones conjuntas para armonizarlas e impulsar la eficacia de los programas de construcción de los sectores eléctrico, hidráulico y de comunicaciones, con el cumplimiento de la normatividad correspondiente.
+7. La SEDUMA con la participación de la Comisión, coordinará con las diversas entidades públicas competentes, acciones conjuntas para armonizarlas e impulsar la eficacia de los programas de construcción de los sectores eléctrico, hidráulico y de comunicaciones, con el cumplimiento de la normatividad correspondiente.
 
 ###### ARTÍCULO 66.
 
@@ -1009,21 +993,17 @@ Sin perjuicio de la competencia del resto de las dependencias y entidades de la 
 
 ###### ARTÍCULO 70.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. La SEDER, celebrará convenios y acuerdos de colaboración con Municipios, ejidos y comunidades, así como con organizaciones y asociaciones en las regiones que se requiera, con la finalidad de constituir agrupaciones de defensa forestal, cuyo objeto será colaborar en la aplicación de programas y acciones permanentes para prevención y combate de incendios forestales. Salvo cuando se trate de áreas naturales protegidas o de áreas que tengan alguna especial relevancia ambiental, en estos casos, corresponderá a la Agencia Ambiental.
+1. La SEDER, celebrará convenios y acuerdos de colaboración con Municipios, ejidos y comunidades, así como con organizaciones y asociaciones en las regiones que se requiera, con la finalidad de constituir agrupaciones de defensa forestal, cuyo objeto será colaborar en la aplicación de programas y acciones permanentes para prevención y combate de incendios forestales. Salvo cuando se trate de áreas naturales protegidas o de áreas que tengan alguna especial relevancia ambiental, en estos casos, corresponderá a la SEDUMA.
 
 2. Esas agrupaciones de defensa forestal se organizarán conforme a lo previsto en esta ley y su reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 71.
 
-La SEDER, a través del Servicio Estatal Forestal, establecerá los lineamientos y mecanismos que deberán observarse en la prevención, combate y control de incendios forestales. La Agencia Ambiental, en su caso, los establecerá para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento que sean necesarios. Ambas dependencias trabajarán de manera coordinada en estos temas.
+La SEDER, a través del Servicio Estatal Forestal, establecerá los lineamientos y mecanismos que deberán observarse en la prevención, combate y control de incendios forestales. La SEDUMA, en su caso, los establecerá para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento que sean necesarios. Ambas dependencias trabajarán de manera coordinada en estos temas.
 
 ###### ARTÍCULO 72.
 
@@ -1061,11 +1041,9 @@ La SEDER fomentará la capacitación y formación permanente del personal del Es
 
 ###### ARTÍCULO 78.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. La SEDER, en coordinación con la Agencia Ambiental, conjuntamente con la Secretaría de Medio Ambiente y Recursos Naturales y la Comisión, así como con otras dependencias y entidades federales, estatales y municipales, promoverán la elaboración y aplicación de programas e instrumentos económicos para fomentar las labores de conservación y restauración de los recursos naturales y las cuencas hidrológico-forestales.
+1. La SEDER, en coordinación con la SEDUMA, conjuntamente con la Secretaría de Medio Ambiente y Recursos Naturales y la Comisión, así como con otras dependencias y entidades federales, estatales y municipales, promoverán la elaboración y aplicación de programas e instrumentos económicos para fomentar las labores de conservación y restauración de los recursos naturales y las cuencas hidrológico -forestales.
 
 2. Las acciones de dichos programas y los instrumentos económicos a que se refiere el párrafo anterior, serán incorporados al Programa Especial Concurrente para el Desarrollo Rural, incluyendo las previsiones presupuestarias de corto y mediano plazo, necesarias para su instrumentación dando preferencia a los propios dueños y poseedores de los recursos forestales para su ejecución.
 
@@ -1075,23 +1053,21 @@ La SEDER fomentará la capacitación y formación permanente del personal del Es
 
 2. La SEDER, en coordinación con las dependencias y entidades estatales y federales con competencia en esta actividad y de conformidad con las leyes en la materia y las normas oficiales mexicanas dictadas al efecto, determinarán las zonas forestales en donde sea factible efectuar el pastoreo de ganado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 80.
 
-Cuando se presenten procesos de degradación, desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Agencia Ambiental formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
+Cuando se presenten procesos de degradación, desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la SEDUMA formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
 
 ### CAPÍTULO V. De la Forestación y Reforestación
 
 ###### ARTÍCULO 81.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTÍCULO 81.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. La SEDER, en coordinación con la Agencia Ambiental, autoridades municipales, instancias federales, y propietarios y poseedores de terrenos forestales, promoverán el establecimiento y desarrollo de la vegetación forestal mediante la creación de viveros forestales de especies maderables y no maderables y bancos de germoplasma.
+1. La SEDER, en coordinación con la SEDUMA, autoridades municipales, instancias federales, y propietarios y poseedores de terrenos forestales, promoverán el establecimiento y desarrollo de la vegetación forestal mediante la creación de viveros forestales de especies maderables y no maderables y bancos de germoplasma.
 
 2. La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosilvicultura en terrenos degradados de vocación forestal no requerirán de autorización y solamente estarán sujetas a las normas oficiales mexicanas.
 
@@ -1105,11 +1081,9 @@ Cuando se presenten procesos de degradación, desertificación, o graves desequi
 
 ###### ARTÍCULO 82.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. El Ejecutivo del Estado, por conducto de la SEDER, con la opinión técnica de pertinencia ambiental de la Agencia Ambiental, y de manera conjunta con los municipios, promoverá programas tendentes a la forestación y reforestación de los terrenos idóneos en el Estado y los municipios.
+1. El Ejecutivo del Estado, por conducto de la SEDER, con la opinión técnica de pertinencia ambiental de la SEDUMA, y de manera conjunta con los municipios, promoverá programas tendentes a la forestación y reforestación de los terrenos idóneos en el Estado y los municipios.
 
 2. Para tal efecto, el Ejecutivo del Estado, a través de la SEDER, y los Municipios podrán celebrar convenios con instituciones públicas o privadas, ejidos y comunidades y organizaciones de productores.
 
@@ -1119,31 +1093,25 @@ Será obligatorio para las autoridades estatal y municipales, incluir en sus Pla
 
 ###### ARTÍCULO 84.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. Cuando por causa de utilidad pública sea necesario reforestar predios de propiedad particular, la Agencia Ambiental realizará los estudios justificativos y solicitará al Ejecutivo del Estado la declaratoria correspondiente, sin demérito de la coordinación que para su ejecución establezca con el propietario o poseedor.
+1. Cuando por causa de utilidad pública sea necesario reforestar predios de propiedad particular, la SEDUMA realizará los estudios justificativos y solicitará al Ejecutivo del Estado la declaratoria correspondiente, sin demérito de la coordinación que para su ejecución establezca con el propietario o poseedor.
 
 2. La SEDER adoptará las medidas necesarias para conseguir el objetivo previsto en el párrafo anterior, de acuerdo a lo establecido en esta ley y su reglamento.
 
 ### CAPÍTULO VI. De los Servicios Ambientales Forestales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 85.
 
-Con base en los tratados internacionales y disposiciones nacionales aplicables, el Ejecutivo del Estado, a través de la Agencia Ambiental, promoverá el desarrollo de un mercado de bienes y servicios ambientales que retribuya los beneficios prestados por los dueños y poseedores de recursos forestales a otros sectores de la sociedad.
+Con base en los tratados internacionales y disposiciones nacionales aplicables, el Ejecutivo del Estado, a través de la SEDUMA, promoverá el desarrollo de un mercado de bienes y servicios ambientales que retribuya los beneficios prestados por los dueños y poseedores de recursos forestales a otros sectores de la sociedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 86.
 
-La Agencia Ambiental promoverá la formación de profesionales o técnicos, así como de empresas para ese efecto, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes en el ámbito municipal, estatal, nacional e internacional.
+La SEDUMA promoverá la formación de profesionales o técnicos, así como de empresas para ese efecto, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes en el ámbito municipal, estatal, nacional e internacional.
 
 ## TÍTULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
@@ -1165,11 +1133,9 @@ La Secretaría de Finanzas diseñará, propondrá y aplicará medidas para asegu
 
 ###### ARTÍCULO 89.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. El Ejecutivo del Estado, con la participación de la SEDER y la Agencia Ambiental, con la intervención de la Secretaría de Finanzas, podrá establecer el Fondo Forestal Estatal con objeto de promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados, así como del desarrollo de plantaciones forestales comerciales, facilitando a los productores forestales el impulso de proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando mecanismos de administración de recursos por pago de compensaciones ambientales, así como de bienes y servicios ambientales.
+1. El Ejecutivo del Estado, con la participación de la SEDER y la SEDUMA, con la intervención de la Secretaría de Finanzas, podrá establecer el Fondo Forestal Estatal con objeto de promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados, así como del desarrollo de plantaciones forestales comerciales, facilitando a los productores forestales el impulso de proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando mecanismos de administración de recursos por pago de compensaciones ambientales, así como de bienes y servicios ambientales.
 
 2. La existencia del Fondo no limita la creación de otros fondos privados o sociales, o la constitución de fideicomisos que tengan una relación directa con el desarrollo forestal sustentable.
 
@@ -1275,15 +1241,13 @@ En la elaboración de sus programas de desarrollo forestal sustentable, las auto
 
 ###### ARTÍCULO 101.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 1. El Consejo Estatal estará integrado por los siguientes representantes:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-I. Del sector público estatal: Los titulares de la SEDER, quien fungirá como Presidente, de la Agencia Ambiental, quien fungirá como Secretario, de la Secretaría de Desarrollo Económico y de la Secretaría de Bienestar Social;
+I. Del sector público estatal: Los titulares de la SEDER, quien fungirá como Presidente, de la SEDUMA, quien fungirá como Secretario, de la Secretaría de Desarrollo Económico y de la Secretaría de Bienestar Social;
 
 II. Del sector público federal: Los delegados de la Secretaría de Medio Ambiente y Recursos Naturales y de la Comisión Nacional Forestal;
 
@@ -1311,47 +1275,35 @@ VI. Del sector académico: Dos representantes conforme lo disponga el reglamento
 
 ###### ARTÍCULO 103.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+1. La prevención y vigilancia forestal, la atención de denuncias, la instauración de procedimientos administrativos, las visitas y operativos de inspecciones forestales, la determinación de medidas de seguridad, la calificación y sanción de infracciones o, en su caso, las denuncias de delitos que afecten ecosistemas forestales, estarán a cargo del Estado, a través de la SEDUMA.
 
-1. La prevención y vigilancia forestal, la atención de denuncias, la instauración de procedimientos administrativos, las visitas y operativos de inspecciones forestales, la determinación de medidas de seguridad, la calificación y sanciones de infracciones, o en su caso, las denuncias de delitos que afecten ecosistemas forestales, estarán a cargo del Estado, a través de la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2. Cuando por ley se requiera, la SEDUMA, podrá celebrar acuerdos y convenios con la Secretaría de Medio Ambiente y Recursos Naturales y la Procuraduría Federal de Protección al Medio Ambiente, para coordinar la realización de las funciones antes mencionadas.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. Cuando por ley se requiera, la Agencia Ambiental, podrá celebrar acuerdos y convenios con la Secretaría de Medio Ambiente y Recursos Naturales y la Procuraduría Federal de Protección al Medio Ambiente, para coordinar la realización de las funciones antes mencionadas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-3. La Agencia Ambiental, con la participación de la SEDER, realizará la revisión de productos y subproductos forestales que se movilicen en la entidad de acuerdo a la normatividad federal correspondiente. La SEDER otorgará las facilidades para que la Agencia Ambiental utilice los puntos de verificación interna de productos agropecuarios cuando así lo consideren pertinente.
+3. La SEDUMA, con la participación de la SEDER, realizará la revisión de productos y subproductos forestales que se movilicen en la entidad de acuerdo a la normatividad federal correspondiente. La SEDER otorgará las facilidades para que la SEDUMA utilice los puntos de verificación interna de productos agropecuarios cuando así lo consideren pertinente.
 
 4. La concertación de acciones y recursos para cumplir con los objetivos de prevención, vigilancia e inspección forestal se dará en el seno del Servicio Estatal Forestal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+5. La vigilancia forestal será responsabilidad del Estado a través de la SEDUMA, y deberá desarrollarse de conformidad con los acuerdos y convenios que se celebren con la Federación y consistirá en una revisión e inspección permanente de todas las áreas forestales, así como de los establecimientos mercantiles o civiles que tengan relación con las actividades forestales.
 
-5. La vigilancia forestal será responsabilidad del Estado a través de la Agencia Ambiental, y deberá desarrollarse de conformidad con los acuerdos y convenios que se celebren con la Federación y consistirá en una revisión e inspección permanente de todas las áreas forestales, así como de los establecimientos mercantiles o civiles que tengan relación con las actividades forestales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-6. La Agencia Ambiental, en coordinación con la Federación y los municipios, y con la colaboración de los propietarios forestales organizados y las instituciones públicas competentes formulará, operará y evaluará programas integrales de prevención a la tala clandestina, especialmente en las zonas críticas previamente diagnosticadas, y la enfrentará con sus facultades y los recursos previstos anualmente para ello. A su vez, adoptará medidas preventivas y acciones en contra de actos indebidos de cambio de uso del suelo, tráfico de especies y recursos forestales, extracción del suelo forestal, y transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
+6. La SEDUMA, en coordinación con la Federación y los municipios, y con la colaboración de los propietarios forestales organizados y las instituciones públicas competentes formulará, operará y evaluará programas integrales de prevención a la tala clandestina, especialmente en las zonas críticas previamente diagnosticadas, y la enfrentará con sus facultades y los recursos previstos anualmente para ello. A su vez, adoptará medidas preventivas y acciones en contra de actos indebidos de cambio de uso del suelo, tráfico de especies y recursos forestales, extracción del suelo forestal, y transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
 
 ### CAPÍTULO II. De la Denuncia Popular
 
 ###### ARTÍCULO 104.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. Toda persona podrá denunciar ante la Agencia Ambiental, o el Municipio, todo hecho, acto u omisión que produzca o pueda producir la afectación del ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados con aquéllos.
+1. Toda persona podrá denunciar ante la SEDUMA, o el Municipio, todo hecho, acto u omisión que produzca o pueda producir la afectación del ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados con aquéllos.
 
 2. El denunciante deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia y se le encauzará conforme al procedimiento establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
@@ -1359,13 +1311,11 @@ VI. Del sector académico: Dos representantes conforme lo disponga el reglamento
 
 ### CAPÍTULO III. De las Visitas y Operativos de Inspección Forestal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 105.
 
-De acuerdo a lo previsto en la Ley General, previo convenio del Estado con la Federación o los municipios, la Agencia Ambiental, por conducto del personal autorizado, realizara visitas u operativos de inspección en materia forestal con objeto de verificar el cumplimiento de lo dispuesto en la propia Ley General, esta ley, sus reglamentos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones de la materia.
+De acuerdo a lo previsto en la Ley General, previo convenio del Estado con la Federación o los municipios, la SEDUMA, por conducto del personal autorizado, realizará visitas u operativos de inspección en materia forestal con objeto de verificar el cumplimiento de lo dispuesto en la propia Ley General, esta ley, sus reglamentos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones de la materia.
 
 ###### ARTÍCULO 106.
 
@@ -1377,11 +1327,9 @@ Si como resultado de la inspección se detecta una plaga o enfermedad forestal, 
 
 2. Los propietarios y poseedores de terrenos forestales o preferentemente forestales, los titulares de autorizaciones de aprovechamiento de recursos forestales maderables, quienes realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen o transformen materias primas forestales, darán facilidades al personal autorizado para la realización de visitas u operativos de inspección. En caso contrario, se aplicarán las medidas de seguridad y sanciones previstas en la presente ley y en las demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-3. En el desarrollo de los procedimientos de inspección, la Agencia Ambiental, observará las formalidades que para la materia señala la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código para el Desarrollo Sustentable del Estado de Tamaulipas.
+3. En el desarrollo de los procedimientos de inspección, la SEDUMA, observará las formalidades que para la materia señala la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código para el Desarrollo Sustentable del Estado de Tamaulipas.
 
 4. Cuando de las visitas u operativos de inspección se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o cuando los actos, hechos u omisiones pudieran dar lugar a la imposición del decomiso como sanción administrativa, se podrá tomar alguna de las medidas de seguridad previstas en esta ley.
 
@@ -1389,11 +1337,9 @@ Si como resultado de la inspección se detecta una plaga o enfermedad forestal, 
 
 ###### ARTÍCULO 108.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. Cuando de las visitas u operativos de inspección a que se refiere el capítulo anterior, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Agencia Ambiental podrá ordenar, conforme lo requiera, las siguientes medidas de seguridad:
+1. Cuando de las visitas u operativos de inspección a que se refiere el capítulo anterior, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la SEDUMA podrá ordenar, conforme lo requiera, las siguientes medidas de seguridad:
 
 I. El aseguramiento precautorio de los productos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
 
@@ -1403,11 +1349,9 @@ III. La suspensión temporal, parcial o total de los aprovechamientos autorizado
 
 2. A juicio de la autoridad, se podrá designar al inspeccionado como depositario de los bienes asegurados, siempre y cuando se cerciore de que a los bienes se les dará un cuidado adecuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-3. La Agencia Ambiental, podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán en cuenta especial hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y que la resolución cause efectos, estos recursos se entregarán a quien le asista el derecho.
+3. La SEDUMA, podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán en cuenta especial hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y que la resolución cause efectos, estos recursos se entregarán a quien le asista el derecho.
 
 ###### ARTÍCULO 109.
 
@@ -1471,11 +1415,9 @@ XXIV. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ###### ARTÍCULO 111.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la Agencia Ambiental, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
+1. Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la SEDUMA, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
 
 I. Amonestación;
 
@@ -1489,11 +1431,9 @@ V. Decomiso de las materias primas forestales obtenidas, así como de los instru
 
 VI. Clausura temporal o definitiva, parcial o total, de las instalaciones, maquinaria y equipos de los centros de almacenamiento y transformación de materias primas forestales, o de los sitios o instalaciones donde se desarrollen las actividades que den lugar a la infracción respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-2. En el caso de las fracciones III y IV de este artículo, la Agencia Ambiental ordenará se haga la inscripción de la suspensión o revocación correspondiente en el Registro Forestal del Estado, dándose aviso también al Registro Forestal Nacional.
+2. En el caso de las fracciones III y IV de este artículo, la SEDUMA ordenará se haga la inscripción de la suspensión o revocación correspondiente en el Registro Forestal del Estado, dándose aviso también al Registro Forestal Nacional.
 
 ###### ARTÍCULO 112.
 
@@ -1513,11 +1453,9 @@ II. Con el equivalente de cien a veinte mil veces el valor diario de la Unidad d
 
 3. A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-4. La Agencia Ambiental, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
+4. La SEDUMA, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
 
 ###### ARTÍCULO 113.
 
@@ -1525,11 +1463,9 @@ De acuerdo a los convenios que se celebren entre el Estado y los Municipios en m
 
 ###### ARTÍCULO 114.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-Las infracciones a esta ley serán sancionadas por la Agencia Ambiental, tomando en consideración la gravedad de la infracción cometida y:
+Las infracciones a esta ley serán sancionadas por la SEDUMA, tomando en consideración la gravedad de la infracción cometida y:
 
 I. Los daños que se hubieren producido o puedan producirse así como el tipo, localización y cantidad del recurso dañado;
 
@@ -1545,29 +1481,23 @@ VI. La reincidencia.
 
 ###### ARTÍCULO 115.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. Cuando la Agencia Ambiental, determine a través de visitas de inspección, que existen daños al ecosistema, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración correspondientes.
+1. Cuando la SEDUMA, determine a través de visitas de inspección, que existen daños al ecosistema, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración correspondientes.
 
 2. Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión esta circunstancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+3. La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la SEDUMA y servirá de apoyo para incrementar la sanción económica a los reincidentes.
 
-3. La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Agencia Ambiental y servirá de apoyo para incrementar la sanción económica a los reincidentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 116.
 
-1. Cuando la gravedad de la infracción lo amerite, la Agencia Ambiental, solicitará a las autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones. Esta atribución la ejercerá directamente la Agencia Ambiental, cuando le corresponda otorgar los instrumentos respectivos.
+1. Cuando la gravedad de la infracción lo amerite, la SEDUMA, solicitará a las autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones. Esta atribución la ejercerá directamente la SEDUMA, cuando le corresponda otorgar los instrumentos respectivos.
 
-2. De igual manera, la Agencia Ambiental, podrá promover ante las autoridades federales o locales competentes, con base en los estudios que elabore, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o de cualquier actividad que afecte o pueda afectar los recursos forestales.
+2. De igual manera, la SEDUMA, podrá promover ante las autoridades federales o locales competentes, con base en los estudios que elabore, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o de cualquier actividad que afecte o pueda afectar los recursos forestales.
 
 ###### ARTÍCULO 117.
 
@@ -1591,11 +1521,9 @@ Las resoluciones dictadas con motivo de la aplicación de esta ley y de sus disp
 
 ###### ARTÍCULO 121.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-El recurso de inconformidad se interpondrá por escrito directamente ante la Agencia Ambiental y deberá contener los siguientes requisitos:
+El recurso de inconformidad se interpondrá por escrito directamente ante la SEDUMA y deberá contener los siguientes requisitos:
 
 I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando la personalidad con que comparece;
 
@@ -1613,11 +1541,9 @@ VI. Los documentos que el recurrente ofrezca como pruebas y que tengan relación
 
 1. Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o desechándolo de pleno derecho, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-2. En caso de que se admita el recurso, y lo solicitare el promovente, podrá dictarse la suspensión del acto impugnado; en todo caso, la Agencia Ambiental establecerá la garantía correspondiente.
+2. En caso de que se admita el recurso, y lo solicitare el promovente, podrá dictarse la suspensión del acto impugnado; en todo caso, la SEDUMA establecerá la garantía correspondiente.
 
 3. Se desahogarán las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
 
@@ -1633,19 +1559,15 @@ III. No se trate de infractores reincidentes;
 
 IV. La resolución en caso de ejecutarse, pueda causar daños de difícil reparación para el recurrente; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-V. Los daños que origine el recurrente sean garantizados a criterio de la Agencia Ambiental.
+V. Los daños que origine el recurrente sean garantizados a criterio de la SEDUMA.
 
 ###### ARTÍCULO 124.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-1. La Agencia Ambiental, resolverá en definitiva lo conducente en un término de diez días hábiles contados a partir de la fecha en que quede integrado el expediente.
+1. La SEDUMA, resolverá en definitiva lo conducente en un término de diez días hábiles contados a partir de la fecha en que quede integrado el expediente.
 
 2. La resolución del recurso de inconformidad se notificará al interesado personalmente o por correo certificado, dentro de los siguientes diez días hábiles.
 
@@ -1704,3 +1626,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
