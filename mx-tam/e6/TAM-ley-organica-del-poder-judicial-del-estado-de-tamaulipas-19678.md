@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2017-09-14"
+last_updated: "2018-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -727,9 +727,9 @@ XXV.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le 
 
 Para el ejercicio de su función el Supremo Tribunal de Justicia actuará en Pleno, en Salas Colegiadas, Unitarias, Auxiliares y Regionales, mismas que también serán unitarias.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-Las Salas Colegiadas estarán integradas, por tres Magistrados de número, de los cuales uno de ellos, por elección de los demás, fungirá como su Presidente, durando en su encargo un año, pudiendo ser reelecto para el período inmediato por una sola vez.
+Las Salas Colegiadas estarán integradas, por tres Magistrados de número, de los cuales uno de ellos, por elección de los demás, fungirá como su Presidente, durando en su encargo un año, pudiendo ser reelecto para el período inmediato por una sola vez. Para que la colegiación pueda considerarse válida, bastará la presencia de dos de sus integrantes.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -831,8 +831,6 @@ e).- Asimismo, resolverán sobre las solicitudes de reconocimiento de inocencia 
 
 En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
-
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones relativas a dicha materia y resolverá los recursos a que se refiere la ley que regula el procedimiento para adolescentes a quienes se atribuya la realización de una conducta tipificada como delito conforme a las leyes del Estado.
@@ -849,7 +847,9 @@ Las Salas Regionales conocerán en segunda instancia del recurso de apelación e
 
 Las Salas Colegiadas funcionarán de la manera siguiente:
 
-I.- Sesionarán los días y horas que determinen sus integrantes en pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos. Ninguno de los Magistrados integrantes de la Sala podrá abstenerse de votar en las sesiones, a no ser que medie excusa o recusación;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I.- Sesionarán los días y horas que determinen sus integrantes en pleno y sus resoluciones se tomarán por unanimidad o por mayoría de votos. Ninguno de los Magistrados integrantes de la Sala podrá abstenerse de votar en las sesiones, a no ser que medie excusa o recusación; bastando la presencia de dos de sus integrantes para que puedan actuar válidamente;
 
 II.- Realizarán la distribución interna de los asuntos por sorteo, debiendo fungir como ponente el Magistrado al que le hubiera correspondido el asunto;
 
@@ -4282,3 +4282,15 @@ Todos los procesos y recursos iniciados con las disposiciones que mediante el pr
 ###### ARTÍCULO TERCERO.
 
 Para el Sistema de Justicia Penal Tradicional y el Sistema de Justicia Penal Acusatorio y Oral regido bajo el Código de Procedimientos Penales para el Estado de Tamaulipas expedido mediante Decreto No. LXI-475, del 27 de junio de 2012, publicado en el Periódico Oficial No. 80, del 4 de julio de 2012 y bajo el Código Nacional de Procedimientos Penales, pero antes de la presente reforma, sigue vigente el contenido de los incisos a), b), c) y d) del artículo 27 de la Ley Orgánica del Poder Judicial, anterior al presente Decreto.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-389 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, EN MATERIA DE INTEGRACIÓN DE LAS SALAS COLEGIADAS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que estuvieren en trámite de apelación al momento de la iniciación de la vigencia del presente Decreto se resolverán conforme al mismo.
