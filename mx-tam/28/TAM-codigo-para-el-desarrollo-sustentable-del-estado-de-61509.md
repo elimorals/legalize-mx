@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2016-12-21"
+last_updated: "2018-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -99,117 +101,207 @@ XII. Establecer medidas de control y seguridad, así como las sanciones administ
 
 Para efectos de este Código se entenderá por:
 
-I. Agencia Ambiental: La Agencia Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-II. Aprovechamiento sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos elementos y recursos por periodos indefinidos;
+I. Aprovechamiento sustentable: La utilización de los elementos y recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos elementos y recursos por periodos indefinidos;
 
-III. Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en el Código, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-IV. Área verde: La superficie de uso público destinada para la conservación ambiental ubicada en parques, jardines, plazas públicas u otros relativos al esparcimiento;
+II. Áreas naturales protegidas: Las zonas del territorio del Estado sujetas al régimen previsto en el Código, o en otros ordenamientos o decretos vigentes, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas;
 
-V. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VI. Código: El Código para el Desarrollo Sustentable del Estado de Tamaulipas;
+III. Área verde: La superficie de uso público destinada para la conservación ambiental ubicada en parques, jardines, plazas públicas u otros relativos al esparcimiento;
 
-VII. Consejo: El Consejo de Gobierno para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VIII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; protegiendo, cuidando, manejando, manteniendo y, en su caso, aprovechando los ecosistemas, los hábitat, las especies y las poblaciones de vida silvestre dentro o fuera de sus entornos naturales, de manera que salvaguarden las condiciones naturales para su permanencia a largo plazo;
+IV. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
-IX. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-X. Contaminación por ruido: Las emisiones sonoras que rebasan los límites máximos establecidos en las Normas Oficiales Mexicanas y Normas Ambientales Estatales, de acuerdo a los valores de concentración máxima permisibles para el ser humano;
+V. Código: El Código para el Desarrollo Sustentable del Estado de Tamaulipas;
 
-XI. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de estos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno, o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XII. Contaminantes: La materia o energía, en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+VI. Consejo: El Consejo de Gobierno para el Desarrollo Sustentable;
 
-XIII. Contingencia ambiental: La situación derivada de actividades humanas o fenómenos naturales que puede poner en riesgo o peligro la integridad de uno o varios ecosistemas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XIV. Criterios ecológicos: Los lineamientos de carácter obligatorio establecidos en el presente Código para orientar las acciones de conservación, preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los elementos y recursos naturales y la protección al medio ambiente que tendrán carácter de instrumentos de política ambiental;
+VII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; protegiendo, cuidando, manejando, manteniendo y, en su caso, aprovechando los ecosistemas, los hábitat, las especies y las poblaciones de vida silvestre dentro o fuera de sus entornos naturales, de manera que salvaguarden las condiciones naturales para su permanencia a largo plazo;
 
-XV. Daño ambiental: La alteración relevante que modifique negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVI. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+VIII. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XVII. Desastre: El evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XVIII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el medio ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+IX. Contaminación por ruido: Las emisiones sonoras que rebasan los límites máximos establecidos en las Normas Oficiales Mexicanas y Normas Ambientales Estatales, de acuerdo a los valores de concentración máxima permisibles para el ser humano;
 
-XIX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio ambiente, en un espacio y tiempo determinados;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XX. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el extraescolar, para facilitar la percepción integrada del medio ambiente a fin de lograr conductas más racionales a favor de éste y del desarrollo social. La educación ambiental comprende la asimilación de conocimientos, la formación de valores y el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+X. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de estos a las estructuras, anuncios, objetos o imágenes fijas o móviles, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno, o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
 
-XXI. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el medio ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXII. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
+XI. Contaminantes: La materia o energía, en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-XXIII. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus componentes pone en peligro a uno o varios ecosistemas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXIV. Estado: El Estado Libre y Soberano de Tamaulipas;
+XII. Contingencia ambiental: La situación derivada de actividades humanas o fenómenos naturales que puede poner en riesgo o peligro la integridad de uno o varios ecosistemas;
 
-XXV. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y prevén los efectos que una acción o proyectos específicos ejercerán sobre el medio ambiente, con objeto de determinar la procedencia ambiental de dicha acción o proyecto y las condiciones a las que se sujetarán los mismos, para la realización de las obras, actividades o aprovechamientos, a fin de evitar o reducir al mínimo sus consecuencias negativas en el equilibrio ecológico en el medio ambiente o la biodiversidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXVI. Explotación: El uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
+XIII. Criterios ecológicos: Los lineamientos de carácter obligatorio establecidos en el presente Código para orientar las acciones de conservación, preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los elementos y recursos naturales y la protección al medio ambiente que tendrán carácter de instrumentos de política ambiental;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXVII. Libro Primero: El Libro Primero de este Código, sobre las Disposiciones Generales;
+XIV. Daño ambiental: La alteración relevante que modifique negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXVIII. Libro Segundo: El Libro Segundo de este Código, sobre la Protección Ambiental;
+XV. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del medio ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXIX. Libro Tercero: El Libro Tercero de este Código, sobre la Prevención y Gestión Integral de los Residuos del Estado;
+XVI. Desastre: El evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad;
 
-XXX. Libro Cuarto: El Libro Cuarto de este Código, sobre las Áreas Naturales Protegidas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXI. Libro Quinto: El Libro Quinto de este Código, sobre la Vida Silvestre del Estado;
+XVII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el medio ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXII. Libro Sexto: El Libro Sexto de este Código, de los Procedimientos ante la Agencia Ambiental;
+XVIII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio ambiente, en un espacio y tiempo determinados;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXIII. Libro Séptimo: El Libro Séptimo de este Código, de los Procedimientos Especiales y las Sanciones;
+XIX. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el extraescolar, para facilitar la percepción integrada del medio ambiente a fin de lograr conductas más racionales a favor de éste y del desarrollo social. La educación ambiental comprende la asimilación de conocimientos, la formación de valores y el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXIV. Libro Octavo: El Libro Octavo de este Código, de los Medios de Impugnación;
+XX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el medio ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-XXXV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXVI. Ley General de Residuos: La Ley General para la Prevención y Gestión Integral de los Residuos;
+XXI. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
 
-XXXVII. Ley de Vida Silvestre: La Ley General de Vida Silvestre;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XXXVIII. Medio Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+XXII. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus componentes pone en peligro a uno o varios ecosistemas;
 
-XXXIX. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado, con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sustentable de los elementos y recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XL. Pago por servicios ambientales: La retribución directa a través de instrumentos financieros eficientes a quienes se ocupan de manejar, resguardar, conservar y mejorar los ecosistemas que brindan servicios ambientales para el bienestar de la sociedad;
+XXIII. Estado: El Estado Libre y Soberano de Tamaulipas;
 
-XLI. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del medio ambiente;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XLII. Protección al medio ambiente: El conjunto de políticas y medidas para preservar, recuperar, restaurar, remediar, rehabilitar, ordenar y conservar el medio ambiente, previniendo y controlando su deterioro;
+XXIV. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y prevén los efectos que una acción o proyectos específicos ejercerán sobre el medio ambiente, con objeto de determinar la procedencia ambiental de dicha acción o proyecto y las condiciones a las que se sujetarán los mismos, para la realización de las obras, actividades o aprovechamientos, a fin de evitar o reducir al mínimo sus consecuencias negativas en el equilibrio ecológico en el medio ambiente o la biodiversidad;
 
-XLIII. Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para los nuevos productos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XLIV. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano o de contribuir al equilibrio ecológico;
+XXV. Explotación: El uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
 
-XLV. Relleno sanitario: La instalación que cuenta con sitios y condiciones para el depósito permanente de los residuos sólidos urbanos y de manejo especial, con el propósito de prevenir o al menos, reducir la liberación de contaminantes al ambiente, la formación de lixiviados en suelos, la generación de procesos de combustión no controlada, la emisión de malos olores, la proliferación de fauna nociva y demás problemas sanitarios y ambientales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XLVI. Residuo: El material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento de bienes o cosas, cuya calidad no permita usarlo nuevamente en el proceso que lo generó y cuyo propietario o poseedor desecha. Puede encontrarse en estado sólido, semisólido, líquido o gaseoso, contenido en recipientes o depósitos, ser susceptible de valorización económica, al tiempo de sujetarse a tratamiento o disposición final conforme a lo dispuesto en este Código y demás ordenamientos aplicables;
+XXVI. Libro Primero: El Libro Primero de este Código, sobre las Disposiciones Generales;
 
-XLVII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-XLVIII. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a un material o residuo se ocasionen efectos adversos a la salud humana, en los demás organismos vivos, en el agua, en el aire, en el suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
+XXVII. Libro Segundo: El Libro Segundo de este Código, sobre la Protección Ambiental;
 
-XLIX. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario: y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXVIII. Libro Tercero: El Libro Tercero de este Código, sobre la Prevención y Gestión Integral de los Residuos del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXIX. Libro Cuarto: El Libro Cuarto de este Código, sobre las Áreas Naturales Protegidas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXX. Libro Quinto: El Libro Quinto de este Código, sobre la Vida Silvestre del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXI. Libro Sexto: El Libro Sexto de este Código, de los Procedimientos ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXII. Libro Séptimo: El Libro Séptimo de este Código, de los Procedimientos Especiales y las Sanciones;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIII. Libro Octavo: El Libro Octavo de este Código, de los Medios de Impugnación;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXV. Ley General de Residuos: La Ley General para la Prevención y Gestión Integral de los Residuos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVI. Ley de Vida Silvestre: La Ley General de Vida Silvestre;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVII. Medio Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXVIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado, con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sustentable de los elementos y recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XXXIX. Pago por servicios ambientales: La retribución directa a través de instrumentos financieros eficientes a quienes se ocupan de manejar, resguardar, conservar y mejorar los ecosistemas que brindan servicios ambientales para el bienestar de la sociedad;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XL. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del medio ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLI. Protección al medio ambiente: El conjunto de políticas y medidas para preservar, recuperar, restaurar, remediar, rehabilitar, ordenar y conservar el medio ambiente, previniendo y controlando su deterioro;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLII. Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para los nuevos productos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano o de contribuir al equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIV. Relleno sanitario: La instalación que cuenta con sitios y condiciones para el depósito permanente de los residuos sólidos urbanos y de manejo especial, con el propósito de prevenir o al menos, reducir la liberación de contaminantes al ambiente, la formación de lixiviados en suelos, la generación de procesos de combustión no controlada, la emisión de malos olores, la proliferación de fauna nociva y demás problemas sanitarios y ambientales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLV. Residuo: El material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento de bienes o cosas, cuya calidad no permita usarlo nuevamente en el proceso que lo generó y cuyo propietario o poseedor desecha. Puede encontrarse en estado sólido, semisólido, líquido o gaseoso, contenido en recipientes o depósitos, ser susceptible de valorización económica, al tiempo de sujetarse a tratamiento o disposición final conforme a lo dispuesto en este Código y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVI. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVII. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a un material o residuo se ocasionen efectos adversos a la salud humana, en los demás organismos vivos, en el agua, en el aire, en el suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XLIX. Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE MARZO DE 2018)</small>
 
 L. Secretaría Federal: La Secretaría de Medio Ambiente y Recursos Naturales; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE MARZO DE 2018)</small>
 
 LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros.
 
@@ -221,9 +313,11 @@ LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o p
 
 2. Asimismo, dichas autoridades buscarán coordinar y estimular la cooperación social para impulsar, de manera solidaria y subsidiaria, la satisfacción de las necesidades de la población del Estado y del Municipio.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 6.
 
-1. En todo lo no previsto en este Código se aplicará en lo conducente y de manera supletoria, la Ley General, la Ley General de Residuos, la Ley General de Vida Silvestre, la Ley Estatal de Planeación, la Ley Orgánica de la Administración Pública del Estado, la Ley de Transparencia y Acceso a la Información Pública del Estado, el Código Civil para el Estado y el Código de Procedimientos Civiles del Estado. A falta de disposiciones jurídicas se aplicarán los principios generales del derecho.
+En todo lo no previsto en este Código se aplicará en lo conducente y de manera supletoria, la Ley General, la Ley General de Residuos, la Ley General de Vida Silvestre, la Ley Estatal de Planeación, la Ley Orgánica de la Administración Pública del Estado, la Ley de Transparencia y Acceso a la Información Pública del Estado, el Código Civil para el Estado y el Código de Procedimientos Civiles del Estado. A falta de disposiciones jurídicas se aplicarán los principios generales del derecho.
 
 ### CAPITULO III. DE LA UTILIDAD PUBLICA Y EL INTERES SOCIAL EN EL DESARROLLO SUSTENTABLE
 
@@ -275,7 +369,9 @@ VI. Las acciones de emergencia para contener los riesgos a la salud derivados de
 
 Corresponde la aplicación del presente Código:
 
-I. Al Ejecutivo del Estado, por conducto de la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Al Ejecutivo del Estado, por conducto de la Secretaría;
 
 II. A los Municipios a través de los Ayuntamientos; y
 
@@ -317,7 +413,9 @@ XIV. Las demás que establezcan el presente ordenamiento y demás disposiciones 
 
 ###### ARTICULO 11.
 
-1. El Ejecutivo Estatal, por conducto de la Agencia Ambiental y, en su caso, con la intervención de otras dependencias y entidades de la administración estatal, podrá celebrar acuerdos de coordinación con el Ejecutivo Federal, con las demás entidades federativas y con los Ayuntamientos, a fin de concertar acciones o transferir facultades en materia de aprovechamiento sustentable, preservación y restauración del equilibrio ecológico y protección al medio ambiente, así como aquellos tendientes a la atención y resolución de problemáticas comunes, debiéndose ajustar a las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Ejecutivo Estatal, por conducto de la Secretaría y, en su caso, con la intervención de otras dependencias y entidades de la administración estatal, podrá celebrar acuerdos de coordinación con el Ejecutivo Federal, con las demás entidades federativas y con los Ayuntamientos, a fin de concertar acciones o transferir facultades en materia de aprovechamiento sustentable, preservación y restauración del equilibrio ecológico y protección al medio ambiente, así como aquellos tendientes a la atención y resolución de problemáticas comunes, debiéndose ajustar a las siguientes bases:
 
 I. Se celebrarán a iniciativa del Gobierno del Estado de Tamaulipas o a propuesta recibida;
 
@@ -349,7 +447,9 @@ III. Los Ayuntamientos de otros Municipios del Estado para la realización de ac
 
 ###### ARTICULO 13.
 
-El Estado, por conducto de la Agencia Ambiental, promoverá ante la Federación la celebración de convenios o acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir, según corresponda:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Estado, por conducto de la Secretaría, promoverá ante la Federación la celebración de convenios o acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir, según corresponda:
 
 I. La administración y vigilancia de las áreas naturales protegidas competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
@@ -383,7 +483,9 @@ XV. Las previstas en el artículo 15 de la Ley de Desarrollo Forestal Sustentabl
 
 ###### ARTICULO 14.
 
-1. Los Ayuntamientos podrán promover ante el Estado, por medio de la Agencia Ambiental, la celebración de convenios o acuerdos de coordinación que les permita asumir facultades específicas de las que se demande su participación, de conformidad a los principios previstos en el presente Código y en la Ley General.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los Ayuntamientos podrán promover ante el Estado, por medio de la Secretaría, la celebración de convenios o acuerdos de coordinación que les permita asumir facultades específicas de las que se demande su participación, de conformidad a los principios previstos en el presente Código y en la Ley General.
 
 2. En materia de regulación, control y evaluación del impacto ambiental, se promoverá la coordinación de funciones respecto a aquellas obras y actividades que, por sus características y dimensiones, la participación del Municipio facilite su atención.
 
@@ -445,7 +547,9 @@ El Estado promoverá la participación de los distintos grupos sociales en la el
 
 ###### ARTICULO 20.
 
-1. El Ejecutivo Estatal, en el seno del Consejo de Gobierno para el Desarrollo Sustentable, por conducto de la Agencia Ambiental, instituirá la política ambiental mediante el Programa Estatal de Desarrollo Sustentable, en el que se establecerán objetivos, metas y lineamientos estratégicos generales y particulares.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Ejecutivo Estatal, en el seno del Consejo de Gobierno para el Desarrollo Sustentable, por conducto de la Secretaría, instituirá la política ambiental mediante el Programa Estatal de Desarrollo Sustentable, en el que se establecerán objetivos, metas y lineamientos estratégicos generales y particulares.
 
 2. El Programa Estatal de Desarrollo Sustentable tomará en consideración los elementos que aporten el diagnóstico ambiental de la entidad, el ordenamiento y los criterios ecológicos del territorio.
 
@@ -455,7 +559,9 @@ El Estado promoverá la participación de los distintos grupos sociales en la el
 
 1. Son instrumentos económicos de este ordenamiento los supuestos y procedimientos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades, conduciéndolas a realizar acciones que favorezcan el medio ambiente.
 
-2. Son instrumentos económicos de carácter fiscal, los estímulos relacionados con el cumplimiento de obligaciones fiscales que incentiven la observancia de los objetivos de la política ambiental. La Agencia Ambiental asesorará a toda persona que realice actividades normadas por este Código, sobre la posibilidad de obtener estímulos fiscales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Son instrumentos económicos de carácter fiscal, los estímulos relacionados con el cumplimiento de obligaciones fiscales que incentiven la observancia de los objetivos de la política ambiental. La Secretaría asesorará a toda persona que realice actividades normadas por este Código, sobre la posibilidad de obtener estímulos fiscales.
 
 3. Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación de los recursos naturales y el medio ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y la protección del medio ambiente.
 
@@ -463,11 +569,15 @@ El Estado promoverá la participación de los distintos grupos sociales en la el
 
 5. Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
 
-6. La Agencia Ambiental, con la participación que corresponda a las demás dependencias y entidades estatales, y sin demérito de la creación de otros instrumentos, propiciará la creación y administrará los Fideicomisos para la administración, protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento a la normatividad ambiental y, en general de, toda actividad vinculada con el desarrollo sustentable del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría, con la participación que corresponda a las demás dependencias y entidades estatales, y sin demérito de la creación de otros instrumentos, propiciará la creación y administrará los Fideicomisos para la administración, protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento a la normatividad ambiental y, en general de, toda actividad vinculada con el desarrollo sustentable del Estado.
 
 ###### ARTICULO 22.
 
-La Agencia Ambiental promoverá el otorgamiento de estímulos fiscales, financieros y de mercado a quienes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+La Secretaría promoverá el otorgamiento de estímulos fiscales, financieros y de mercado a quienes:
 
 I. Adquieran, instalen u operen las tecnologías, sistemas, equipos y materiales o realicen las acciones que acrediten prevenir o reducir las emisiones contaminantes establecidas por las Normas Oficiales Mexicanas y las Normas Ambientales Estatales; o prevengan o reduzcan el consumo de agua o de energía; incorporen sistemas de recuperación y reciclamiento de las aguas de desecho, o que utilicen aguas tratadas o de reuso para sus funciones productivas, de conformidad con los programas que al efecto se establezcan;
 
@@ -477,7 +587,9 @@ III. Lleven a cabo actividades que garanticen la conservación sustentable de lo
 
 ###### ARTICULO 23.
 
-El Estado, en el ámbito de su competencia, a través de la Agencia Ambiental, diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de las políticas ambiental y de desarrollo sustentable, mediante los cuales se buscará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Estado, en el ámbito de su competencia, a través de la Secretaría, diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de las políticas ambiental y de desarrollo sustentable, mediante los cuales se buscará:
 
 I. Promover una cultura ambientalista en las personas que realicen actividades productivas, de tal manera que el interés colectivo de protección ambiental y de desarrollo sustentable forme parte de sus responsabilidades de planeación económica;
 
@@ -491,17 +603,15 @@ V. Impulsar la participación de los sectores social y privado en proyectos de p
 
 VI. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 24.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+1. La Secretaría con la participación, en su caso, de otras dependencias podrá diseñar, instrumentar y aplicar programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad, cuyo objeto será incentivar y promover entre los diversos sectores de la sociedad los beneficios de la certidumbre jurídica para sus obras o actividades, así como de la participación en el desarrollo sustentable.
 
-1. La Agencia Ambiental con la participación, en su caso, de otras dependencias podrá diseñar, instrumentar y aplicar programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad, cuyo objeto será incentivar y promover entre los diversos sectores de la sociedad los beneficios de la certidumbre jurídica para sus obras o actividades, así como de la participación en el desarrollo sustentable.
+2. La incorporación por parte de los particulares a estos programas no representará la exención del cumplimiento de la normatividad, sino el acceso a los beneficios que contengan, por lo que será atribución de la Secretaría aplicar en todo momento las disposiciones que correspondan, sujetándose a los procedimientos y acciones legales que establece este Código.
 
-2. La incorporación por parte de los particulares a estos programas no representará la exención del cumplimiento de la normatividad, sino el acceso a los beneficios que contengan, por lo que será atribución de la Agencia Ambiental aplicar en todo momento las disposiciones que correspondan, sujetándose a los procedimientos y acciones legales que establece este Código.
-
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
-
-3. Los programas de regularización se instrumentarán a través de las bases que para tal efecto establezca la Agencia Ambiental, para lo cual publicará sus especificaciones en el Periódico Oficial del Estado.
+3. Los programas de regularización se instrumentarán a través de las bases que para tal efecto establezca la Secretaría, para lo cual publicará sus especificaciones en el Periódico Oficial del Estado.
 
 ## TITULO QUINTO. DE LAS NORMAS AMBIENTALES ESTATALES
 
@@ -513,7 +623,9 @@ Las Normas Ambientales Estatales determinarán los parámetros dentro de los cua
 
 ###### ARTICULO 26.
 
-La Agencia Ambiental emitirá las Normas Ambientales Estatales que tendrán por objeto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+La Secretaría emitirá las Normas Ambientales Estatales que tendrán por objeto:
 
 I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
 
@@ -531,21 +643,31 @@ V. Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
 
 ###### ARTICULO 27.
 
-1. La Agencia Ambiental desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal, el cual estará disponible para su consulta.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. En dicho Sistema, la Agencia Ambiental deberá integrar, entre otros, los siguientes elementos:
+1. La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental estatal, el cual estará disponible para su consulta.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. En dicho Sistema, la Secretaría deberá integrar, entre otros, los siguientes elementos:
 
 I. La información relativa a los inventarios de recursos naturales existentes en el territorio estatal, a los mecanismos y resultados obtenidos del monitoreo de la calidad del agua, del suelo y del aire, así como del ordenamiento ecológico del territorio;
 
-II. Un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia y de aquellas sustancias que determine la autoridad correspondiente. La información de este registro incorporará datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Agencia, o en su caso ante la autoridad competente de los Municipios. Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del presente registro, el cual se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia y de aquellas sustancias que determine la autoridad correspondiente. La información de este registro incorporará datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o en su caso ante la autoridad competente de los Municipios. Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del presente registro, el cual se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro; y
 
 III. La información correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección al medio ambiente.
 
-3. La Agencia Ambiental reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el Estado por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y de Recursos Naturales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el Estado por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
 4. El Estado participará con la Secretaría Federal en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales, a través del acuerdo de coordinación que al efecto se celebre.
 
-5. Los Municipios deberán participar con la Agencia Ambiental en la integración del Sistema Estatal de Información Ambiental y de Recursos Naturales, a través de los acuerdos de coordinación que al efecto se celebren.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. Los Municipios deberán participar con la Secretaría en la integración del Sistema Estatal de Información Ambiental y de Recursos Naturales, a través de los acuerdos de coordinación que al efecto se celebren.
 
 ###### ARTICULO 28.
 
@@ -557,7 +679,9 @@ III. La información correspondiente a los registros, programas y acciones que s
 
 1. Están obligados a inscribirse en el Registro Estatal Ambiental, las personas físicas o morales que realicen actividades de competencia estatal, conforme a lo dispuesto por el presente Código.
 
-2. La Cédula de Operación Anual deberá ser presentada ante la Agencia Ambiental por el representante autorizado de quienes realicen actividades comprendidas por la competencia estatal.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Cédula de Operación Anual deberá ser presentada ante la Secretaría por el representante autorizado de quienes realicen actividades comprendidas por la competencia estatal.
 
 ###### ARTICULO 30.
 
@@ -587,7 +711,9 @@ Sección Quinta. Emisión y Transferencia Anual de los Contaminantes o grupos de
 
 Para obtener el Registro Estatal Ambiental, se seguirá el siguiente procedimiento:
 
-I. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Secretaría;
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -597,31 +723,43 @@ II. Llenado el formato, el establecimiento promovente entregará físicamente la
 
 1. En caso de que alguna persona física o moral tenga dos o más plantas en predios distintos, deberá obtener un Registro Estatal Ambiental por cada establecimiento.
 
-2. La Agencia Ambiental recibirá la información del reporte y verificará el llenado de los campos del formato.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. Llenado correctamente el formato de la Cédula de Operación Anual, la Agencia Ambiental emitirá un oficio de conformidad en el cual se incluye el número que corresponda al Registro Estatal Ambiental del establecimiento.
+2. La Secretaría recibirá la información del reporte y verificará el llenado de los campos del formato.
 
-4. En caso de que el llenado de los campos de la Cédula de Operación Anual esté incompleto o haya sido incorrectamente llenado, la Agencia Ambiental, enviará una notificación al establecimiento promovente indicando las razones de devolución y otorgándole un plazo de 5 días hábiles para que presente el formato debidamente corregido.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Llenado correctamente el formato de la Cédula de Operación Anual, la Secretaría emitirá un oficio de conformidad en el cual se incluye el número que corresponda al Registro Estatal Ambiental del establecimiento.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En caso de que el llenado de los campos de la Cédula de Operación Anual esté incompleto o haya sido incorrectamente llenado, la Secretaría, enviará una notificación al establecimiento promovente indicando las razones de devolución y otorgándole un plazo de 5 días hábiles para que presente el formato debidamente corregido.
 
 ###### ARTICULO 33.
 
-1. La Agencia Ambiental, evaluará la información contenida en la Cédula de Operación Anual, en un plazo no mayor de 60 días hábiles, y hará el asiento correspondiente en el Registro Estatal Ambiental. A su vez generará un reporte anual de la condición ambiental de la entidad.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría, evaluará la información contenida en la Cédula de Operación Anual, en un plazo no mayor de 60 días hábiles, y hará el asiento correspondiente en el Registro Estatal Ambiental. A su vez generará un reporte anual de la condición ambiental de la entidad.
 
 2. En caso que de los informes recibidos se desprenda el incumplimiento de leyes, reglamentos y normas de competencia estatal, el establecimiento deberá apegarse al proceso de regulación, a través del procedimiento administrativo correspondiente, sin demérito de las sanciones a que se haga acreedor.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 34.
 
-La Agencia Ambiental deberá elaborar y publicar un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al medio ambiente, por lo menos con una periodicidad de cada dos años.
+La Secretaría deberá elaborar y publicar un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al medio ambiente, por lo menos con una periodicidad de cada dos años.
 
 ### CAPITULO II. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION AMBIENTAL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 35.
 
-1. Toda persona tendrá derecho a que la Agencia Ambiental o, en su caso, los Municipios, pongan a su disposición la información ambiental que les soliciten, debiendo formular el requerimiento en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+1. Toda persona tendrá derecho a que la Secretaría o, en su caso, los Municipios, pongan a su disposición la información ambiental que les soliciten, debiendo formular el requerimiento en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
-2. La Agencia Ambiental y, en su caso, los Ayuntamientos, se abstendrán de entregar la información cuando el contenido de la misma se encuentre clasificada como información de acceso restringido, de acuerdo a lo previsto por la Ley de Transparencia y Acceso a la información Pública del Estado de Tamaulipas.
+2. La Secretaría y, en su caso, los Ayuntamientos, se abstendrán de entregar la información cuando el contenido de la misma se encuentre clasificada como información de acceso restringido, de acuerdo a lo previsto por la Ley de Transparencia y Acceso a la información Pública del Estado de Tamaulipas.
 
-3. Los promoventes, en la presentación de datos, manifestaciones, contestaciones, informes y, en general, toda documentación, podrán solicitar que se mantenga en reserva aquella información que, de hacerse pública pudiera afectar sus derechos de propiedad industrial y la confidencialidad de la información comercial que contengan. Dicha solicitud será resuelta por el titular de la Unidad de Información Pública de la Agencia Ambiental, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+3. Los promoventes, en la presentación de datos, manifestaciones, contestaciones, informes y, en general, toda documentación, podrán solicitar que se mantenga en reserva aquella información que, de hacerse pública pudiera afectar sus derechos de propiedad industrial y la confidencialidad de la información comercial que contengan. Dicha solicitud será resuelta por el titular de la Unidad de Información Pública de la Secretaría, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
 ## TITULO SEPTIMO. DE LA CONCIENTIZACIÓN SOCIAL
 
@@ -633,17 +771,23 @@ La Agencia Ambiental deberá elaborar y publicar un informe detallado de la situ
 
 2. Asimismo, propiciarán el fortalecimiento de la responsabilidad ambiental, a través de campañas de sensibilización y concientización.
 
-3. La Agencia Ambiental alentará la adopción de programas extracurriculares en el Sistema Educativo Estatal, para promover la importancia, protección y mejoramiento del medio ambiente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-4. La Agencia Ambiental, asimismo, promoverá la participación de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y las políticas para el desarrollo sustentable en el Estado.
+3. La Secretaría alentará la adopción de programas extracurriculares en el Sistema Educativo Estatal, para promover la importancia, protección y mejoramiento del medio ambiente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría, asimismo, promoverá la participación de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y las políticas para el desarrollo sustentable en el Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
 5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje, de las mismas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 37.
 
-La Agencia Ambiental promoverá ante las instituciones de educación superior incorporadas al Sistema Educativo Estatal y los organismos dedicados a la investigación científica y tecnológica del Estado, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el ámbito local; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los servicios ambientales, ecosistemas y recursos naturales de Tamaulipas.
+La Secretaría promoverá ante las instituciones de educación superior incorporadas al Sistema Educativo Estatal y los organismos dedicados a la investigación científica y tecnológica del Estado, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el ámbito local; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los servicios ambientales, ecosistemas y recursos naturales de Tamaulipas.
 
 ### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
@@ -659,7 +803,9 @@ III. La eficiencia administrativa por medio del consumo racional y sustentable d
 
 2. Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
 
-3. La Agencia Ambiental prestará su apoyo a los poderes Legislativo y Judicial del Estado, los Ayuntamientos y a los organismos autónomos en la formulación de los sistemas de manejo ambiental. A su vez, en el ámbito del poder Ejecutivo establecerá los criterios para la implementación de estos sistemas.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría prestará su apoyo a los poderes Legislativo y Judicial del Estado, los Ayuntamientos y a los organismos autónomos en la formulación de los sistemas de manejo ambiental. A su vez, en el ámbito del poder Ejecutivo establecerá los criterios para la implementación de estos sistemas.
 
 ## TITULO OCTAVO. DE LA PARTICIPACION SOCIAL
 
@@ -667,9 +813,9 @@ III. La eficiencia administrativa por medio del consumo racional y sustentable d
 
 ###### ARTICULO 39.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-El Estado, a través de la Agencia Ambiental, promoverá la participación de la sociedad en la formulación de la política ambiental y de desarrollo sustentable de la entidad federativa, en la aplicación de sus instrumentos, en las acciones de información, vigilancia y, en general, en los programas ambientales que emprenda, para lo cual podrá:
+El Estado, a través de la Secretaría, promoverá la participación de la sociedad en la formulación de la política ambiental y de desarrollo sustentable de la entidad federativa, en la aplicación de sus instrumentos, en las acciones de información, vigilancia y, en general, en los programas ambientales que emprenda, para lo cual podrá:
 
 I. Convocar a los particulares, a las organizaciones de los sectores social y privado y de carácter académico y cívico, para que manifiesten su opinión y propuestas;
 
@@ -679,13 +825,17 @@ III. Celebrar convenios con los medios de comunicación masiva para la difusión
 
 IV. Promover el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad en el Estado para preservar y restaurar el medio ambiente en el mismo;
 
-V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del medio ambiente y el correcto manejo de residuos en la entidad; al efecto, la Agencia Ambiental podrá, en forma coordinada con los Ayuntamientos, celebrar convenios de colaboración con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del medio ambiente y el correcto manejo de residuos en la entidad; al efecto, la Secretaría podrá, en forma coordinada con los Ayuntamientos, celebrar convenios de colaboración con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado; y
 
 VI. Concertar acciones e inversiones con los particulares y con organizaciones de los sectores social y privado y de carácter académico y cívico para la conservación y restauración del medio ambiente en la entidad.
 
 ###### ARTICULO 40.
 
-1. La Agencia Ambiental otorgará anualmente el Premio al Desarrollo Sustentable en coordinación con otras autoridades, a aquellas personas físicas o morales que hayan realizado acciones o creado programas relevantes y factibles para la protección, preservación o restauración del equilibrio ecológico y la sustentabilidad del desarrollo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría otorgará anualmente el Premio al Desarrollo Sustentable en coordinación con otras autoridades, a aquellas personas físicas o morales que hayan realizado acciones o creado programas relevantes y factibles para la protección, preservación o restauración del equilibrio ecológico y la sustentabilidad del desarrollo.
 
 2. El premio consistirá en un reconocimiento público y conllevará un incentivo económico que será previsto anualmente en el presupuesto de egresos de la dependencia.
 
@@ -753,13 +903,17 @@ XV. Tratamiento de aguas residuales: el proceso al cual se someten las aguas res
 
 ###### ARTICULO 43.
 
-1. La aplicación del presente Libro corresponde al Ejecutivo del Estado, por conducto de la Agencia Ambiental, y a los Municipios a través de sus Ayuntamientos y las dependencias de los mismos, dentro del ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La aplicación del presente Libro corresponde al Ejecutivo del Estado, por conducto de la Secretaría, y a los Municipios a través de sus Ayuntamientos y las dependencias de los mismos, dentro del ámbito de sus respectivas competencias.
 
 2. En el cumplimiento de sus funciones, el Estado y los Ayuntamientos deberán observar los principios, políticas y criterios de desarrollo sustentable, previstos en el presente Código, así como en las Normas Oficiales Mexicanas y las Normas Ambientales Estatales, a fin de proteger el medio ambiente y asegurar la sustentación del desarrollo.
 
 ###### ARTICULO 44.
 
-Corresponden al Estado, por conducto de la Agencia Ambiental, las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Corresponden al Estado, por conducto de la Secretaría, las siguientes atribuciones:
 
 I. Aplicar y hacer cumplir lo dispuesto en este Libro;
 
@@ -847,9 +1001,13 @@ III. Aplicar los instrumentos de política ambiental previstos en las leyes loca
 
 IV. Formular y expedir los programas de ordenamiento ecológico local del territorio en los términos previstos en el presente Libro, así como controlar y vigilar el uso y cambio de uso del suelo, establecidos en dichos programas, atendiendo lo dispuesto por la Ley para el Desarrollo Urbano del Estado;
 
-V. Vigilar, en forma coordinada con la Agencia Ambiental, el cumplimiento de las disposiciones jurídicas de fuentes fijas que funcionen como establecimientos comerciales o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean de competencia federal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VI. Ejercer medidas de prohibición a la circulación de los vehículos automotores, cuyos niveles de emisión de contaminantes a la atmósfera rebasen ostensiblemente los límites máximos permisibles, que determinen los reglamentos y normas vigentes, y de conformidad con los acuerdos que para tal efecto suscriban con la Agencia Ambiental;
+V. Vigilar, en forma coordinada con la Secretaría, el cumplimiento de las disposiciones jurídicas de fuentes fijas que funcionen como establecimientos comerciales o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean de competencia federal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Ejercer medidas de prohibición a la circulación de los vehículos automotores, cuyos niveles de emisión de contaminantes a la atmósfera rebasen ostensiblemente los límites máximos permisibles, que determinen los reglamentos y normas vigentes, y de conformidad con los acuerdos que para tal efecto suscriban con la Secretaría;
 
 VII. Aplicar medidas de tránsito y vialidad necesarias, dentro de la circunscripción municipal correspondiente, para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores;
 
@@ -863,7 +1021,9 @@ XI. Formular y conducir la política municipal de información y difusión en ma
 
 XII. Participar, de conformidad con lo previsto por este Código, en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-XIII. Elaborar y difundir en la comunidad un informe semestral sobre el estado del medio ambiente en el Municipio, así como los resultados del monitoreo de la calidad del aire, integrándolos al Sistema de Información Estatal a cargo de la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIII. Elaborar y difundir en la comunidad un informe semestral sobre el estado del medio ambiente en el Municipio, así como los resultados del monitoreo de la calidad del aire, integrándolos al Sistema de Información Estatal a cargo de la Secretaría;
 
 XIV. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, en el ámbito de su competencia, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a la legislación en la materia corresponda al Estado;
 
@@ -875,7 +1035,9 @@ XVII. Aplicar en las obras e instalaciones municipales destinadas al tratamiento
 
 XVIII. Tratar, antes de su descarga en cuerpos receptores, y controlar la disposición de las aguas residuales de origen particular que se descarguen en los sistemas de drenaje y alcantarillado de su competencia, así como requerir el pago de los derechos correspondientes;
 
-XIX. Conformar y actualizar el Registro Municipal de las Descargas a las redes de drenaje y alcantarillado que administren, cuyos datos serán integrados al Registro Estatal de Descargas de Aguas Residuales a cargo de la Agencia Ambiental y, a su vez, al Registro Nacional de Descargas de Aguas Residuales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XIX. Conformar y actualizar el Registro Municipal de las Descargas a las redes de drenaje y alcantarillado que administren, cuyos datos serán integrados al Registro Estatal de Descargas de Aguas Residuales a cargo de la Secretaría y, a su vez, al Registro Nacional de Descargas de Aguas Residuales;
 
 XX. Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica, radiaciones electromagnéticas, energía lumínica y olores perjudiciales al equilibrio ecológico o al medio ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que, conforme a la Ley General, sean consideradas de competencia federal;
 
@@ -943,7 +1105,9 @@ III. Establecer los criterios de regulación ecológica para la protección, pre
 
 1. Para la formulación, aprobación, expedición, evaluación y modificación de los programas de ordenamiento ecológico regional, local, las autoridades competentes contemplarán lo dispuesto en las siguientes bases:
 
-I. El principio de congruencia entre los programas de ordenamiento ecológico regional y local y el general del territorio, y la atención de los criterios que al efecto señale el Estado, a través de la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. El principio de congruencia entre los programas de ordenamiento ecológico regional y local y el general del territorio, y la atención de los criterios que al efecto señale el Estado, a través de la Secretaría;
 
 II. Los programas de ordenamiento ecológico local cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto en este Código;
 
@@ -951,7 +1115,9 @@ III. Las previsiones contenidas en los programas de ordenamiento ecológico loca
 
 IV. Las autoridades estatales y municipales, harán compatibles los programas de ordenamiento ecológico regional y locales y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en dichos programas, así como en los programas de desarrollo urbano que resulten aplicables; así mismo, los programas de ordenamiento ecológico regional y locales, prevendrán los mecanismos de coordinación entre las distintas autoridades involucradas en la formulación y ejecución de los programas;
 
-V. Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ellas, el programa será elaborado y aprobado en forma conjunta por la Secretaría Federal, la Agencia Ambiental y por los Ayuntamientos según corresponda;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ellas, el programa será elaborado y aprobado en forma conjunta por la Secretaría Federal, la Secretaría y por los Ayuntamientos según corresponda;
 
 VI. Los programas de ordenamiento ecológico local, regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen; y
 
@@ -969,9 +1135,11 @@ VII. Para la elaboración, actualización y modificación de los programas de or
 
 ### CAPITULO III. DE LA REGULACION AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 52.
 
-La regulación ambiental de los asentamientos humanos consiste en el conjunto de normas, disposiciones y medidas en los ámbitos del desarrollo urbano y la vivienda, para mantener, mejorar o restaurar el equilibrio de los asentamientos humanos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población. Dichas acciones serán llevadas a cabo por el Ejecutivo Estatal, a través de la Agencia Ambiental, y los Ayuntamientos y, en su caso, con la participación de la Federación.
+La regulación ambiental de los asentamientos humanos consiste en el conjunto de normas, disposiciones y medidas en los ámbitos del desarrollo urbano y la vivienda, para mantener, mejorar o restaurar el equilibrio de los asentamientos humanos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población. Dichas acciones serán llevadas a cabo por el Ejecutivo Estatal, a través de la Secretaría, y los Ayuntamientos y, en su caso, con la participación de la Federación.
 
 ###### ARTICULO 53.
 
@@ -1023,7 +1191,9 @@ VI. La utilización de materiales en cuya fabricación y uso exista el menor imp
 
 ###### ARTICULO 56.
 
-1. La Agencia Ambiental, a través de la evaluación del impacto ambiental, autorizará, negará o condicionará la realización de obras o actividades que se pretendan desarrollar en el territorio estatal, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el medio ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos ambientales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría, a través de la evaluación del impacto ambiental, autorizará, negará o condicionará la realización de obras o actividades que se pretendan desarrollar en el territorio estatal, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el medio ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos ambientales.
 
 2. Toda obra o actividad que se pretenda desarrollar en el territorio estatal, en términos de este Libro, deberá contar con la autorización respectiva en materia de impacto ambiental.
 
@@ -1071,7 +1241,9 @@ XVII. Las demás que, aun cuando sean distintas a las anteriores, puedan causar 
 
 2. Para el caso de la fracción XV y XVI del párrafo 1 de este artículo, en lo que corresponda se deberá atender lo dispuesto por la Ley para el Desarrollo Urbano del Estado.
 
-3. Además de la autorización en materia de impacto ambiental, se requerirá de autorización en materia de riesgo por parte de la Agencia Ambiental, cuando la obra o actividad pretendida involucre el uso, almacenamiento o manejo de sustancias consideradas como altamente riesgosas, en cantidades inferiores a las de reporte competencia de la Federación, conforme a las disposiciones de observancia general. El procedimiento de su evaluación se hará conforme a lo previsto para el impacto ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Además de la autorización en materia de impacto ambiental, se requerirá de autorización en materia de riesgo por parte de la Secretaría, cuando la obra o actividad pretendida involucre el uso, almacenamiento o manejo de sustancias consideradas como altamente riesgosas, en cantidades inferiores a las de reporte competencia de la Federación, conforme a las disposiciones de observancia general. El procedimiento de su evaluación se hará conforme a lo previsto para el impacto ambiental.
 
 4. El estudio de riesgo consistirá en incorporar a la manifestación de impacto ambiental lo siguiente:
 
@@ -1081,7 +1253,9 @@ II. Descripción de las zonas de protección en torno a las instalaciones y la v
 
 III. Señalamiento de las medidas de seguridad en materia ambiental.
 
-5. Para los efectos a que se refiere la fracción XVII del párrafo 1 del presente artículo, la Agencia Ambiental notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación, en un plazo no mayor a quince días, la Agencia Ambiental comunicará si procede o no una manifestación de impacto ambiental u otro estudio. Transcurrido el plazo indicado, se entenderá que no se requiere la presentación de manifestación o estudio alguno.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. Para los efectos a que se refiere la fracción XVII del párrafo 1 del presente artículo, la Secretaría notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación, en un plazo no mayor a quince días, la Secretaría comunicará si procede o no una manifestación de impacto ambiental u otro estudio. Transcurrido el plazo indicado, se entenderá que no se requiere la presentación de manifestación o estudio alguno.
 
 6. El Reglamento del presente Libro determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al medio ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
 
@@ -1089,9 +1263,9 @@ III. Señalamiento de las medidas de seguridad en materia ambiental.
 
 1. La formulación de la manifestación de impacto ambiental y del estudio de riesgo deberá efectuarse por persona física o moral, respetando los lineamientos que dicte el Reglamento del presente Libro.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. La Agencia Ambiental, por sí o mediante el apoyo de las instituciones académicas o de investigación ambiental en el Estado, instrumentará el Registro de Prestadores de Servicios Técnicos en materia ambiental y regulará las certificaciones de los interesados.
+2. La Secretaría, por sí o mediante el apoyo de las instituciones académicas o de investigación ambiental en el Estado, instrumentará el Registro de Prestadores de Servicios Técnicos en materia ambiental y regulará las certificaciones de los interesados.
 
 3. Cuando el responsable de la obra o actividad que gestione la autorización del impacto ambiental o cualquier otro estudio, utilice los servicios técnicos de un prestador de servicios, este último será solidaria y subsidiariamente responsable de los mismos y de sus efectos adversos al medio ambiente.
 
@@ -1101,21 +1275,31 @@ III. Señalamiento de las medidas de seguridad en materia ambiental.
 
 I. Existan Normas Oficiales Mexicanas o Normas Ambientales Estatales u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-II. Las obras o actividades de que se trate, estén expresamente previstas por un Programa de Desarrollo Urbano o Programa de Ordenamiento Ecológico que haya sido evaluado por la Agencia Ambiental, debidamente aprobado y publicado en el Periódico Oficial del Estado; o
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Las obras o actividades de que se trate, estén expresamente previstas por un Programa de Desarrollo Urbano o Programa de Ordenamiento Ecológico que haya sido evaluado por la Secretaría, debidamente aprobado y publicado en el Periódico Oficial del Estado; o
 
 III. Se trate de instalaciones que pretendan ubicarse en desarrollos turísticos, parques industriales o zonas comerciales previamente autorizados.
 
-2. Cuando las características de la obra o actividad pretendida así lo requieran, la Agencia Ambiental podrá acordar de manera fundada y motivada la presentación del estudio de impacto ambiental conforme a lo previsto en este Libro, aún cuando se actualice alguno de los supuestos señalados en el mismo, cuando la obra o actividad represente un efecto negativo sobre el medio ambiente y los recursos naturales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. En el caso de que un programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio prevean el desarrollo de obras o actividades de las señaladas en el artículo 57, los Ayuntamientos podrán presentar dichos programas a la Agencia Ambiental, para su evaluación, a fin de que ésta emita su autorización en materia de impacto ambiental respecto del conjunto de obras o actividades que se prevean realizar bajo los términos previstos en este precepto.
+2. Cuando las características de la obra o actividad pretendida así lo requieran, la Secretaría podrá acordar de manera fundada y motivada la presentación del estudio de impacto ambiental conforme a lo previsto en este Libro, aún cuando se actualice alguno de los supuestos señalados en el mismo, cuando la obra o actividad represente un efecto negativo sobre el medio ambiente y los recursos naturales.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En el caso de que un programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio prevean el desarrollo de obras o actividades de las señaladas en el artículo 57, los Ayuntamientos podrán presentar dichos programas a la Secretaría, para su evaluación, a fin de que ésta emita su autorización en materia de impacto ambiental respecto del conjunto de obras o actividades que se prevean realizar bajo los términos previstos en este precepto.
 
 4. Las obras o actividades que en términos del presente ordenamiento no requieran someterse a los procedimientos de evaluación de impacto ambiental, estarán sujetos al resto de a las disposiciones de este Código, de sus Reglamentos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales, en su caso, así como a la obtención de las autorizaciones, permisos, licencias o concesiones que requiera.
 
-5. En los casos previstos en el párrafo 1 de este artículo, la Agencia Ambiental, una vez analizado el informe preventivo, determinará en un plazo de quince días naturales contados a partir de la recepción del mismo, si procede o no la presentación de una manifestación de impacto ambiental. Transcurrido el plazo sin que la Agencia Ambiental emita su determinación, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental y se continuará con la dictaminación respecto al informe preventivo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. En los casos previstos en el párrafo 1 de este artículo, la Secretaría, una vez analizado el informe preventivo, determinará en un plazo de quince días naturales contados a partir de la recepción del mismo, si procede o no la presentación de una manifestación de impacto ambiental. Transcurrido el plazo sin que la Secretaría emita su determinación, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental y se continuará con la dictaminación respecto al informe preventivo.
 
 ###### ARTICULO 60.
 
-1. El Estado, a través de la Agencia Ambiental, expedirá las guías y lineamientos para la elaboración y presentación de las manifestaciones de impacto ambiental y los estudios correspondientes, que contendrán los lineamientos mínimos a que deberán sujetarse los responsables de las acciones.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Estado, a través de la Secretaría, expedirá las guías y lineamientos para la elaboración y presentación de las manifestaciones de impacto ambiental y los estudios correspondientes, que contendrán los lineamientos mínimos a que deberán sujetarse los responsables de las acciones.
 
 2. En todo caso, deberán contener por lo menos:
 
@@ -1133,27 +1317,37 @@ V. La protesta de decir verdad, respecto a los datos manifestados, a las medidas
 
 1. Quedan exentas de presentar la manifestación del impacto ambiental, las acciones de emergencia que sean necesarias para mitigar los daños causados en las zonas de desastre.
 
-2. Sin perjuicio de lo anterior y una vez superados (sic) las condiciones de emergencia, el responsable de las acciones a que se refiere este artículo, deberá presentar a la Agencia Ambiental un informe detallado del impacto causado para su evaluación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Sin perjuicio de lo anterior y una vez superados (sic) las condiciones de emergencia, el responsable de las acciones a que se refiere este artículo, deberá presentar a la Secretaría un informe detallado del impacto causado para su evaluación.
 
 ###### ARTICULO 62.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. En el análisis y evaluación del impacto ambiental que realice la Agencia Ambiental sobre obras o actividades que por su relevancia, dimensiones o complejidad así lo requieran, se solicitará, dentro de los cinco días hábiles inmediatos a la radicación del expediente, la opinión de las autoridades municipales competentes, para que manifiesten en un término de diez días hábiles su opinión fundada y motivada sobre la viabilidad de la obra o actividad. Una vez transcurrido dicho plazo sin que el municipio hubiese manifestado su opinión, se entenderá que no existe objeción o comentarios al proyecto presentado.
+1. En el análisis y evaluación del impacto ambiental que realice la Secretaría sobre obras o actividades que por su relevancia, dimensiones o complejidad así lo requieran, se solicitará, dentro de los cinco días hábiles inmediatos a la radicación del expediente, la opinión de las autoridades municipales competentes, para que manifiesten en un término de diez días hábiles su opinión fundada y motivada sobre la viabilidad de la obra o actividad. Una vez transcurrido dicho plazo sin que el municipio hubiese manifestado su opinión, se entenderá que no existe objeción o comentarios al proyecto presentado.
 
 2. El requerimiento de la opinión de las autoridades municipales, se hará de manera fundada y motivada.
 
 ###### ARTICULO 63.
 
-1. La Agencia Ambiental podrá requerir al promovente aclaraciones, rectificaciones, ampliaciones, documentos, estudios o información adicional al contenido de la manifestación de impacto ambiental, al estudio de riesgo o al informe preventivo que le sea presentado. El requerimiento suspenderá el término, sin que en ningún caso tal suspensión pueda ser por más de una ocasión ni exceda de 30 días hábiles contados a partir de que ésta sea acordada por la Agencia Ambiental. Transcurrido el plazo otorgado, sin que el promovente subsane el requerimiento, la Agencia Ambiental declarará la caducidad del procedimiento mediante resolución que deberá ser notificada al promovente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. En la evaluación del impacto ambiental, la Agencia Ambiental podrá solicitar opiniones técnicas de otras dependencias o entidades de la administración pública estatal o de las dependencias y entidades, federales o municipales, o de los sectores de investigación, social y académico, para allegarse mayores elementos de valoración.
+1. La Secretaría podrá requerir al promovente aclaraciones, rectificaciones, ampliaciones, documentos, estudios o información adicional al contenido de la manifestación de impacto ambiental, al estudio de riesgo o al informe preventivo que le sea presentado. El requerimiento suspenderá el término, sin que en ningún caso tal suspensión pueda ser por más de una ocasión ni exceda de 30 días hábiles contados a partir de que ésta sea acordada por la Secretaría. Transcurrido el plazo otorgado, sin que el promovente subsane el requerimiento, la Secretaría declarará la caducidad del procedimiento mediante resolución que deberá ser notificada al promovente.
 
-3. Una vez recibida la información adicional solicitada y realizada la evaluación de los mismos, con base a los estudios de su competencia, la Agencia Ambiental emitirá la resolución correspondiente, debidamente fundada y motivada, en la que podrá:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En la evaluación del impacto ambiental, la Secretaría podrá solicitar opiniones técnicas de otras dependencias o entidades de la administración pública estatal o de las dependencias y entidades, federales o municipales, o de los sectores de investigación, social y académico, para allegarse mayores elementos de valoración.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Una vez recibida la información adicional solicitada y realizada la evaluación de los mismos, con base a los estudios de su competencia, la Secretaría emitirá la resolución correspondiente, debidamente fundada y motivada, en la que podrá:
 
 I. Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Agencia Ambiental señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista; o
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista; o
 
 III. Negar la autorización solicitada, cuando:
 
@@ -1167,17 +1361,25 @@ d) Los estudios presentados no cumplan con las disposiciones establecidas en el 
 
 e) Existan riesgos fundados de que se pudieran afectar el equilibrio ecológico o pudieren causar daños al medio ambiente, a las personas, a los recursos naturales o se ponga en riesgo la salud pública, en caso de autorizarse la obra o actividad respectiva.
 
-4. La Agencia Ambiental resolverá en un término de sesenta días hábiles a partir de la recepción formal del documento, salvo en los casos excepcionales en que por la complejidad y dimensiones del proyecto, se acuerde la ampliación del plazo para su evaluación, hasta por un plazo igual, debiendo notificar al promovente la justificación de su acuerdo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-5. En caso de transcurrir el término fijado conforme al párrafo anterior sin que la Agencia Ambiental resuelva, se entenderá la negativa ficta.
+4. La Secretaría resolverá en un término de sesenta días hábiles a partir de la recepción formal del documento, salvo en los casos excepcionales en que por la complejidad y dimensiones del proyecto, se acuerde la ampliación del plazo para su evaluación, hasta por un plazo igual, debiendo notificar al promovente la justificación de su acuerdo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+5. En caso de transcurrir el término fijado conforme al párrafo anterior sin que la Secretaría resuelva, se entenderá la negativa ficta.
 
 ###### ARTICULO 64.
 
 1. En la resolución del impacto ambiental procedente, se señalará el plazo máximo de que dispone el solicitante para iniciar las obras o actividades proyectadas. Fenecido el término concedido expirará la vigencia de la aprobación, debiendo, en su caso solicitarse una nueva.
 
-2. El inicio de la obra o actividad pretendida estará sujeto a la autorización que emita la Agencia Ambiental en virtud del cumplimiento probado de las condiciones que en su caso contenga el resolutivo respectivo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación o en su etapa de desarrollo, el promovente deberá informarlo a la Agencia Ambiental, la que en un término no mayor a diez días determinará:
+2. El inicio de la obra o actividad pretendida estará sujeto a la autorización que emita la Secretaría en virtud del cumplimiento probado de las condiciones que en su caso contenga el resolutivo respectivo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Cuando se realicen modificaciones al proyecto de obra o actividad durante el procedimiento de evaluación o en su etapa de desarrollo, el promovente deberá informarlo a la Secretaría, la que en un término no mayor a diez días determinará:
 
 I. Si es necesaria la presentación de una nueva manifestación de impacto ambiental;
 
@@ -1185,29 +1387,41 @@ II. Solicitar información adicional; o,
 
 III. Si la autorización, en su caso, requiere ser modificada con objeto de imponer nuevas condiciones a la realización del proyecto.
 
-4. Durante la evaluación, seguimiento y verificación del cumplimiento de las autorizaciones otorgadas, la Agencia Ambiental podrá ordenar alguna de las acciones mencionadas en el párrafo anterior, cuando se determine que las condiciones originales de operación o de desarrollo de la obra o actividad han sido modificadas o existan mejores técnicas de mitigación o compensación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. Durante la evaluación, seguimiento y verificación del cumplimiento de las autorizaciones otorgadas, la Secretaría podrá ordenar alguna de las acciones mencionadas en el párrafo anterior, cuando se determine que las condiciones originales de operación o de desarrollo de la obra o actividad han sido modificadas o existan mejores técnicas de mitigación o compensación.
 
 ###### ARTICULO 65.
 
-1. La presentación de los estudios o informes a los que se refieren estas disposiciones no supone su autorización, por lo que la Agencia Ambiental podrá, en cualquier momento, aplicar las disposiciones en materia de procedimiento de aplicación de sanciones y de inspección y vigilancia previstos en este Código. Una vez autorizada la obra o actividad, el responsable de la misma deberá implementar en tiempo y forma las medidas de prevención o mitigación, así como las demás condicionantes, en su caso, que le haya ordenado la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La presentación de los estudios o informes a los que se refieren estas disposiciones no supone su autorización, por lo que la Secretaría podrá, en cualquier momento, aplicar las disposiciones en materia de procedimiento de aplicación de sanciones y de inspección y vigilancia previstos en este Código. Una vez autorizada la obra o actividad, el responsable de la misma deberá implementar en tiempo y forma las medidas de prevención o mitigación, así como las demás condicionantes, en su caso, que le haya ordenado la Secretaría.
 
 2. Los promoventes de las obras o actividades y los titulares de los inmuebles en los que se pretende su desarrollo, deberán sujetarse a las condiciones y limitaciones que señale la autorización respectiva.
 
-3. La titularidad de una resolución podrá ser transferida mediante la autorización expresa de la Agencia Ambiental, bajo los criterios que disponga el Reglamento de este Libro.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-4. En el desarrollo en sus diversas etapas de la obra o actividad, la Agencia Ambiental, tendrá al promovente y, en su caso, al prestador de servicios, como solidariamente responsables, quienes deberán presentar informes periódicos del cumplimiento de las condiciones y obligaciones derivadas de la autorización.
+3. La titularidad de una resolución podrá ser transferida mediante la autorización expresa de la Secretaría, bajo los criterios que disponga el Reglamento de este Libro.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En el desarrollo en sus diversas etapas de la obra o actividad, la Secretaría, tendrá al promovente y, en su caso, al prestador de servicios, como solidariamente responsables, quienes deberán presentar informes periódicos del cumplimiento de las condiciones y obligaciones derivadas de la autorización.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 66.
 
-1. La Agencia Ambiental, sin demérito de las obligaciones en materia de responsabilidad civil, podrá exigir el otorgamiento de seguros, fianzas o garantías respecto del cumplimiento de las condicionantes establecidas en la autorización y, en su caso, al riesgo ambiental que represente la obra o actividad autorizada, cuando se trate de obras o actividades cuya realización pueda producir afectaciones a la salud de las personas, a los ecosistemas o los recursos naturales.
+1. La Secretaría, sin demérito de las obligaciones en materia de responsabilidad civil, podrá exigir el otorgamiento de seguros, fianzas o garantías respecto del cumplimiento de las condicionantes establecidas en la autorización y, en su caso, al riesgo ambiental que represente la obra o actividad autorizada, cuando se trate de obras o actividades cuya realización pueda producir afectaciones a la salud de las personas, a los ecosistemas o los recursos naturales.
 
-2. La Agencia Ambiental publicará la solicitud de autorización en materia de impacto ambiental y podrá ordenar al promovente que, a su costa, se publique en los medios de comunicación un extracto del proyecto y de la manifestación de impacto ambiental o de los estudios de riesgo.
+2. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental y podrá ordenar al promovente que, a su costa, se publique en los medios de comunicación un extracto del proyecto y de la manifestación de impacto ambiental o de los estudios de riesgo.
 
-3. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud de las personas o a los ecosistemas, la Agencia Ambiental podrá iniciar el proceso de consulta pública respectivo, suspendiendo el procedimiento de evaluación.
+3. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud de las personas o a los ecosistemas, la Secretaría podrá iniciar el proceso de consulta pública respectivo, suspendiendo el procedimiento de evaluación.
 
 ###### ARTICULO 67.
 
-1. La Agencia Ambiental podrá objetar el desarrollo de la obra o actividad en cualquier fase, si no se cumple con la resolución del impacto ambiental y adoptará las medidas pertinentes en términos de este Código para la suspensión y eventual revocación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría podrá objetar el desarrollo de la obra o actividad en cualquier fase, si no se cumple con la resolución del impacto ambiental y adoptará las medidas pertinentes en términos de este Código para la suspensión y eventual revocación.
 
 2. El seguimiento, evaluación, vigilancia y verificación del cumplimiento de las autorizaciones en materia de impacto ambiental se realizarán de conformidad con los procedimientos de inspección y vigilancia previstos en este Código.
 
@@ -1217,7 +1431,9 @@ III. Si la autorización, en su caso, requiere ser modificada con objeto de impo
 
 1. Los productores, empresas y organismos de los sectores social o privado, así como el sector público, podrán desarrollar procesos voluntarios de autorregulación ambiental a través de los cuales obtengan un historial de excelencia ambiental en el Estado, respetando la legislación y normatividad vigentes en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental en Tamaulipas.
 
-2. En consecuencia, la Agencia Ambiental fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas. Al efecto inducirá y concertará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. En consecuencia, la Secretaría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas. Al efecto inducirá y concertará:
 
 I. El desarrollo de procesos productivos adecuados y compatibles con el medio ambiente, así como sistemas de protección y restauración en la materia, convenidos con organizaciones de los sectores social y privado y de carácter académico y cívico;
 
@@ -1227,15 +1443,21 @@ III. Las demás acciones que induzcan a las empresas a alcanzar objetivos de la 
 
 ###### ARTICULO 69.
 
-1. Los responsables del funcionamiento de una empresa podrán en forma voluntaria y concertada con la Agencia Ambiental, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y las buenas prácticas de operación e ingeniería aplicables, con objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente e impulsar el desarrollo sustentable en el Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los responsables del funcionamiento de una empresa podrán en forma voluntaria y concertada con la Secretaría, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y las buenas prácticas de operación e ingeniería aplicables, con objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente e impulsar el desarrollo sustentable en el Estado.
 
 2. El desarrollo de la auditoría ambiental es de carácter voluntario y no limita las facultades que este Código confiere a las autoridades en materia de inspección y vigilancia.
 
 ###### ARTICULO 70.
 
-1. La Agencia Ambiental desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en la esfera de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. Con relación a las atribuciones del párrafo anterior, la Agencia Ambiental:
+1. La Secretaría desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en la esfera de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. Con relación a las atribuciones del párrafo anterior, la Secretaría:
 
 I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales y la forma y términos como se efectuará el propio reporte;
 
@@ -1253,7 +1475,9 @@ VII. Podrá eximir de la obligación de realizar verificaciones en determinados 
 
 ###### ARTICULO 71.
 
-1. La Agencia Ambiental pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan.
 
 2. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
@@ -1263,7 +1487,9 @@ VII. Podrá eximir de la obligación de realizar verificaciones en determinados 
 
 ###### ARTICULO 72.
 
-1. Para el aprovechamiento sustentable de los recursos naturales, la Agencia Ambiental podrá establecer programas para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. Para el aprovechamiento sustentable de los recursos naturales, la Secretaría podrá establecer programas para:
 
 I. La conservación, protección, mejoramiento y restauración del suelo agrícola, forestal y el destinado a usos pecuarios;
 
@@ -1277,13 +1503,17 @@ V. El uso racional del agua por las industrias, establecimientos comerciales y d
 
 2. Podrán establecerse, además, programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación, en su caso, con los Ayuntamientos, ya sea por estos mismos o a través de los organismos operadores del servicio de agua potable.
 
-3. La Agencia Ambiental impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
 
 ### CAPITULO II. DEL AGUA
 
 ###### ARTICULO 73.
 
-1. El Estado, por conducto de la Agencia Ambiental y con la participación de las dependencias o entidades estatales inherentes al recurso agua, y los Ayuntamientos, en la esfera de sus respectivas competencias, regulará el aprovechamiento sustentable y prevendrá y controlará la contaminación de las aguas de jurisdicción estatal y las nacionales sobre las que tenga su asignación, considerando los siguientes principios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Estado, por conducto de la Secretaría y con la participación de las dependencias o entidades estatales inherentes al recurso agua, y los Ayuntamientos, en la esfera de sus respectivas competencias, regulará el aprovechamiento sustentable y prevendrá y controlará la contaminación de las aguas de jurisdicción estatal y las nacionales sobre las que tenga su asignación, considerando los siguientes principios:
 
 I. El agua es un bien de dominio público, vital, vulnerable y finito, con valor social, económico y ambiental, cuya preservación en cantidad y calidad corresponde al poder público y a la sociedad, como prioridad y asunto de seguridad para la Nación y el Estado;
 
@@ -1297,7 +1527,9 @@ V. El poder público aplicará sistemas de tratamiento de aguas residuales para 
 
 2. La prevención y control de la contaminación del agua le corresponderá:
 
-I. Al Ejecutivo, por medio de la Agencia Ambiental, para lo cual deberá;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+I. Al Ejecutivo, por medio de la Secretaría, para lo cual deberá;
 
 a) Llevar el control, con el apoyo de los Ayuntamientos, de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado que operen en la Entidad;
 
@@ -1309,17 +1541,23 @@ d) Promover y regular la aplicación de tecnologías apropiadas para el reciclad
 
 II. A los Ayuntamientos, para lo cual deberán:
 
-a) Llevar y actualizar el registro de las descargas en las redes y alcantarillado que administren, y proporcionarlo a la Agencia Ambiental con la periodicidad que ésta señale, para ser integrado al Registro Estatal de Descargas de Aguas Residuales;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-b) Observar el cumplimiento de las condiciones generales de descarga que fijen la Agencia y las dependencias federales respectivas, para las aguas residuales vertidas por los sistemas de drenaje y alcantarillado en los cuerpos receptores propiedad de la Nación; y
+a) Llevar y actualizar el registro de las descargas en las redes y alcantarillado que administren, y proporcionarlo a la Secretaría con la periodicidad que ésta señale, para ser integrado al Registro Estatal de Descargas de Aguas Residuales;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+b) Observar el cumplimiento de las condiciones generales de descarga que fijen la Secretaría y las dependencias federales respectivas, para las aguas residuales vertidas por los sistemas de drenaje y alcantarillado en los cuerpos receptores propiedad de la Nación; y
 
 c) Promover el reuso en la industria y agricultura de aguas residuales tratadas, derivadas de aguas nacionales asignadas o concesionadas para la prestación de servicios públicos, así como las que provengan de los sistemas de drenaje y alcantarillado siempre que cumplan con las normas técnicas de calidad.
 
 ### CAPITULO III. DE LOS MINERALES NO RESERVADOS A LA FEDERACION
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 74.
 
-La Agencia Ambiental ejercerá sus atribuciones con relación al impacto ambiental, sobre el aprovechamiento de los minerales o substancias del subsuelo no reservadas a la Federación, que constituyan depósito de naturaleza semejante a los componentes de los terrenos sobre la base de la sustentación de los servicios ambientales.
+La Secretaría ejercerá sus atribuciones con relación al impacto ambiental, sobre el aprovechamiento de los minerales o substancias del subsuelo no reservadas a la Federación, que constituyan depósito de naturaleza semejante a los componentes de los terrenos sobre la base de la sustentación de los servicios ambientales.
 
 ###### ARTICULO 75.
 
@@ -1329,17 +1567,25 @@ En la realización de las actividades de aprovechamiento de los recursos del sub
 
 ###### ARTICULO 76.
 
-Corresponde a la Agencia Ambiental:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Corresponde a la Secretaría:
 
 I. Promover la racional explotación de los recursos minerales o sustancias no reservadas a la Federación, para efectos de la preservación del equilibrio ecológico; y
 
-II. Otorgar concesiones a particulares para la explotación y aprovechamiento de los recursos minerales o sustancias no reservadas a la Federación y de las que se encuentren en dos o más Ayuntamientos, observando lo dispuesto en el presente Libro.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Otorgar concesiones a particulares para la explotación y aprovechamiento de los recursos minerales o sustancias no reservadas a la Federación y de las que se encuentren en dos o más Municipios, observando lo dispuesto en el presente Libro.
 
 ###### ARTICULO 77.
 
-1. La explotación de bancos de materiales para la construcción, de materiales no concesionables por la Federación, no metálicos, así como las actividades análogas que se realicen preponderantemente por medio de trabajos a cielo abierto dentro del territorio del Estado, requerirán de la autorización previa de la Agencia Ambiental. Las personas físicas o morales que pretendan llevar a cabo deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
-I. Contar con autorización de la Agencia para su operación, así como para la ampliación o modificación de sus actividades;
+1. La explotación de bancos de materiales para la construcción, de materiales no concesionables por la Federación, no metálicos, así como las actividades análogas que se realicen preponderantemente por medio de trabajos a cielo abierto dentro del territorio del Estado, requerirán de la autorización previa de la Secretaría. Las personas físicas o morales que pretendan llevar a cabo deberán:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Contar con autorización de la Secretaría para su operación, así como para la ampliación o modificación de sus actividades;
 
 II. Presentar la manifestación de impacto ambiental;
 
@@ -1347,7 +1593,9 @@ III. Prevenir la emisión o el desprendimiento de polvos, humos, gases o ruidos 
 
 IV. Controlar y disponer adecuadamente de sus residuos y evitar su propagación fuera de los predios en los que se lleven a cabo;
 
-V. Aplicar las disposiciones que en materia de control de contingencias ambientales establezca la Agencia Ambiental, de conformidad a la autorización que emita; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Aplicar las disposiciones que en materia de control de contingencias ambientales establezca la Secretaría, de conformidad a la autorización que emita; y
 
 VI. Presentar y ejecutar un proyecto para la rehabilitación del área en donde se desarrollen.
 
@@ -1369,11 +1617,15 @@ I. Ejecutar los trabajos de explotación de materiales geológicos conforme a la
 
 II. Mantener en buenas condiciones de seguridad, estabilidad e higiene el predio donde se efectúen los trabajos;
 
-III. Dar aviso a la Agencia Ambiental de la conclusión de sus actividades, dentro de los tres días hábiles siguientes a la terminación de los trabajos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Dar aviso a la Secretaría de la conclusión de sus actividades, dentro de los tres días hábiles siguientes a la terminación de los trabajos;
 
 IV. Pagar los derechos correspondientes, conforme a las disposiciones aplicables;
 
-V. Rendir a la Agencia Ambiental con la periodicidad que para cada caso ésta señale, los informes sobre el desarrollo de los trabajos de explotación, volúmenes de material extraído y de material desechado; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Rendir a la Secretaría con la periodicidad que para cada caso ésta señale, los informes sobre el desarrollo de los trabajos de explotación, volúmenes de material extraído y de material desechado; y
 
 VI. Realizar las obras de mejoramiento ambiental que se indiquen en la resolución respectiva.
 
@@ -1389,7 +1641,9 @@ II. Firma del solicitante y del respectivo perito.
 
 3. A la solicitud deberá acompañarse copia de la autorización original y, en su caso, de la prórroga anterior; los planos de nivelación y seccionamiento y el estado del avance del cumplimiento de las condicionantes impuestas en la resolución.
 
-4. Dentro de los diez días hábiles siguientes a la presentación de la solicitud, la Agencia Ambiental procederá a efectuar la verificación correspondiente y una vez realizada ésta, expedirá la orden para el pago de derechos dentro de los tres días hábiles siguientes. Una vez entregado el correspondiente comprobante por el solicitante, la Agencia Ambiental emitirá la autorización dentro de los cinco días hábiles siguientes.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. Dentro de los diez días hábiles siguientes a la presentación de la solicitud, la Secretaría procederá a efectuar la verificación correspondiente y una vez realizada ésta, expedirá la orden para el pago de derechos dentro de los tres días hábiles siguientes. Una vez entregado el correspondiente comprobante por el solicitante, la Secretaría emitirá la autorización dentro de los cinco días hábiles siguientes.
 
 5. La autorización a que se refiere el presente Capítulo podrá tramitarse conjuntamente con la solicitud de autorización en materia de impacto ambiental.
 
@@ -1411,9 +1665,7 @@ Corresponden, al Estado y a los Ayuntamientos, en sus respectivas competencias, 
 
 ## TITULO CUARTO. DE LA PROTECCION Y REGULACION AMBIENTAL
 
-### CAPITULO I. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LA
-
-ATMOSFERA
+### CAPITULO I. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
 ###### ARTICULO 82.
 
@@ -1455,7 +1707,9 @@ IV. Integrar y mantener actualizado el inventario de fuentes de contaminación;
 
 V. Establecer y operar sistemas de verificación de emisiones de automotores en circulación;
 
-VI. Establecer y operar, con el apoyo técnico, en su caso, de la Agencia Ambiental, sistemas de monitoreo de la calidad del aire; los gobiernos municipales remitirán a la Agencia Ambiental los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Estatal de Información Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VI. Establecer y operar, con el apoyo técnico, en su caso, de la Secretaría, sistemas de monitoreo de la calidad del aire; los gobiernos municipales remitirán a la Secretaría los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Estatal de Información Ambiental;
 
 VII. Establecer requisitos y procedimientos para regular las emisiones del transporte público, excepto el federal, y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
 
@@ -1473,11 +1727,15 @@ XII. Ejercer las demás atribuciones que les confieren las disposiciones legales
 
 ###### ARTICULO 86.
 
-1. Considerando el dictamen técnico que formule, la Agencia Ambiental establecerá los sistemas de monitoreo de la calidad del aire en los términos de los criterios contenidos en este Código y la Ley General.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Considerando el dictamen técnico que formule, la Secretaría establecerá los sistemas de monitoreo de la calidad del aire en los términos de los criterios contenidos en este Código y la Ley General.
 
 2. Los Ayuntamientos podrán operar estos sistemas y cumplirán los requisitos y Normas Oficiales Mexicanas correspondientes así como, en su caso, las Normas Ambientales Estatales.
 
-3. Los resultados del monitoreo se incorporarán al Sistema Estatal de Información Ambiental a cargo de la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Los resultados del monitoreo se incorporarán al Sistema Estatal de Información Ambiental a cargo de la Secretaría.
 
 ###### ARTICULO 87.
 
@@ -1485,13 +1743,19 @@ XII. Ejercer las demás atribuciones que les confieren las disposiciones legales
 
 I. Integrar un inventario de sus emisiones y proporcionar toda la información y documentos que le solicite la autoridad en ejercicio de sus facultades;
 
-II. Instalar equipos o sistemas para el control de las emisiones contaminantes, conforme a lo establecido en la normatividad ambiental federal y estatal, y conforme a las medidas técnicas fijadas por la Agencia Ambiental en los términos y plazos establecidos en el presente Libro y sus disposiciones reglamentarias;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-III. Medir sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en el Reglamento respectivo y en la normatividad ambiental vigente, así como registrar los resultados en el formato que determine la Agencia Ambiental;
+II. Instalar equipos o sistemas para el control de las emisiones contaminantes, conforme a lo establecido en la normatividad ambiental federal y estatal, y conforme a las medidas técnicas fijadas por la Secretaría en los términos y plazos establecidos en el presente Libro y sus disposiciones reglamentarias;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Medir sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en el Reglamento respectivo y en la normatividad ambiental vigente, así como registrar los resultados en el formato que determine la Secretaría;
 
 IV. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas o cuando por sus características de operación o por sus materias primas, productos o subproductos, puedan causar deterioro a los ecosistemas;
 
-V. Dar aviso anticipado a la Agencia Ambiental del inicio de operación de sus procesos en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si los niveles de contaminantes son superiores a los valores normales por un periodo de tiempo, que se establecerá en el Reglamento de este Libro;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+V. Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si los niveles de contaminantes son superiores a los valores normales por un periodo de tiempo, que se establecerá en el Reglamento de este Libro;
 
 VI. Dar aviso inmediato a la autoridad competente en caso de descompostura o falla de los equipos de control, para que ésta determine lo conducente; y
 
@@ -1501,9 +1765,13 @@ VII. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso
 
 I. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos programas de desarrollo urbano, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal; y
 
-II. Las empresas públicas y privadas que pretendan realizar el cambio de sus sistemas de combustión para adoptar procedimientos de menor impacto al medio ambiente, deberán comunicarlo previamente a la Agencia Ambiental, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-3. En todo caso, los responsables de las fuentes fijas emisoras de contaminantes de competencia estatal requerirán permiso de operación, por parte de la Agencia Ambiental o el Ayuntamiento que corresponda, conforme al procedimiento respectivo y previa la satisfacción de los requisitos establecidos en el Reglamento de este Libro, sin perjuicio de las autorizaciones que deban expedir otras autoridades competentes.
+II. Las empresas públicas y privadas que pretendan realizar el cambio de sus sistemas de combustión para adoptar procedimientos de menor impacto al medio ambiente, deberán comunicarlo previamente a la Secretaría, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En todo caso, los responsables de las fuentes fijas emisoras de contaminantes de competencia estatal requerirán permiso de operación, por parte de la Secretaría o el Ayuntamiento que corresponda, conforme al procedimiento respectivo y previa la satisfacción de los requisitos establecidos en el Reglamento de este Libro, sin perjuicio de las autorizaciones que deban expedir otras autoridades competentes.
 
 ###### ARTICULO 88.
 
@@ -1511,13 +1779,17 @@ Una vez otorgado el permiso de operación, el responsable de las emisiones deber
 
 ###### ARTICULO 89.
 
-1. Las emisiones contaminantes a la atmósfera generadas por fuentes fijas de competencia estatal, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Agencia Ambiental o ante la autoridad municipal que corresponda, a fin de que se resuelva lo conducente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Las emisiones contaminantes a la atmósfera generadas por fuentes fijas de competencia estatal, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Secretaría o ante la autoridad municipal que corresponda, a fin de que se resuelva lo conducente.
 
 2. Queda prohibida la emisión de contaminantes a nivel de piso que no estén debidamente canalizados, así como de emisiones fugitivas en equipos de proceso y control.
 
 ###### ARTICULO 90.
 
-1. La Agencia Ambiental podrá expedir conforme a los procedimientos y previa la satisfacción de los requisitos establecidos en el Reglamento del presente Libro, permisos de operación temporales para aquellas fuentes emisoras estacionarias que permanezcan en operación un término no mayor de sesenta días naturales en el mismo sitio.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría podrá expedir conforme a los procedimientos y previa la satisfacción de los requisitos establecidos en el Reglamento del presente Libro, permisos de operación temporales para aquellas fuentes emisoras estacionarias que permanezcan en operación un término no mayor de sesenta días naturales en el mismo sitio.
 
 2. Los responsables de dichas fuentes deberán apegarse a las disposiciones previstas en este Código, así como a las relativas a impacto ambiental para la elaboración del manifiesto cuando por su actividad se requiera.
 
@@ -1539,7 +1811,9 @@ III. Tipos y cantidades del combustible que se incinerará.
 
 ###### ARTICULO 92.
 
-1. La Agencia Ambiental o los Ayuntamientos, en el ámbito de sus respectivas competencias establecerán los mecanismos para evitar o prohibir:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría o los Ayuntamientos, en el ámbito de sus respectivas competencias establecerán los mecanismos para evitar o prohibir:
 
 I. La descarga de contaminantes a la atmósfera cualquiera que sea la fuente de su emisión, que provoquen o puedan ocasionar deterioro ambiental, daños o molestias a la salud de las personas y, en general, a los ecosistemas;
 
@@ -1549,19 +1823,27 @@ III. La quema de cualquier tipo de desecho y residuo sólido o líquido; y
 
 IV. Las prácticas de roza, tumba y quema con fines de desmonte o deshierbe de terrenos, excepto aquellas que se encuentren sujetas a la observancia y cumplimiento de la normatividad aplicable.
 
-2. Quienes realicen actividades agrícolas, ganaderas, forestales o similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, elaborarán un plan de prevención de contingencias ambientales, mismo que deberán presentar a la Agencia Ambiental para su evaluación, previamente a la ejecución de cualquier quema a cielo abierto. Lo anterior sin demérito de las atribuciones del Ayuntamiento en la materia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Quienes realicen actividades agrícolas, ganaderas, forestales o similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, elaborarán un plan de prevención de contingencias ambientales, mismo que deberán presentar a la Secretaría para su evaluación, previamente a la ejecución de cualquier quema a cielo abierto. Lo anterior sin demérito de las atribuciones del Ayuntamiento en la materia.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 93.
 
-La certificación o constatación de los niveles de emisión de contaminantes a la atmósfera que respecto de fuentes emisoras en lo particular lleve a cabo la Agencia Ambiental, se efectuará con arreglo a las Normas Oficiales Mexicanas formuladas al respecto.
+La certificación o constatación de los niveles de emisión de contaminantes a la atmósfera que respecto de fuentes emisoras en lo particular lleve a cabo la Secretaría, se efectuará con arreglo a las Normas Oficiales Mexicanas formuladas al respecto.
 
 ###### ARTICULO 94.
 
-1. Los vehículos automotores que circulen en la circunscripción territorial del Estado deberán ser objeto de verificación periódica de manera semestral, con el propósito de controlar las emisiones contaminantes mediante los sistemas estatales que establezca la Agencia Ambiental, o en los lugares autorizados para ese efecto.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los vehículos automotores que circulen en la circunscripción territorial del Estado deberán ser objeto de verificación periódica de manera semestral, con el propósito de controlar las emisiones contaminantes mediante los sistemas estatales que establezca la Secretaría, o en los lugares autorizados para ese efecto.
 
 2. Los vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas, no podrán circular en el territorio del Estado.
 
-3. La Agencia Ambiental regulará, desarrollará y controlará el Sistema Estatal de Verificación Vehicular, de conformidad a las previsiones del reglamento respectivo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría regulará, desarrollará y controlará el Sistema Estatal de Verificación Vehicular, de conformidad a las previsiones del reglamento respectivo.
 
 ###### ARTICULO 95.
 
@@ -1573,7 +1855,9 @@ Los propietarios de vehículos destinados al transporte público en el Estado ad
 
 1. Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en su caso las Normas Ambientales Estatales.
 
-2. La Agencia Ambiental y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, llevarán a cabo la inspección, vigilancia y aplicación de medidas para exigir el cumplimiento de las disposiciones en la materia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, llevarán a cabo la inspección, vigilancia y aplicación de medidas para exigir el cumplimiento de las disposiciones en la materia.
 
 3. En la realización de obras o actividades susceptibles de producir los efectos contaminantes previstos en el párrafo 1 de este artículo, se efectuarán las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos nocivos de tales contaminantes en los ecosistemas y en el medio ambiente.
 
@@ -1637,7 +1921,9 @@ IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su 
 
 La prevención y control de la contaminación del agua corresponderá:
 
-I. Al Estado, a través de la Agencia Ambiental y con la participación que corresponda a otras dependencias o entidades estatales con competencia en materia de aguas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+I. Al Estado, a través de la Secretaría y con la participación que corresponda a otras dependencias o entidades estatales con competencia en materia de aguas:
 
 a) Las aguas de jurisdicción federal que tengan asignadas para la prestación de servicios públicos diversos a los señalados en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1657,7 +1943,9 @@ Las descargas de aguas residuales en los sistemas de drenaje y alcantarillado mu
 
 ###### ARTICULO 103.
 
-La Agencia Ambiental y los Ayuntamientos en la esfera de sus respectivas competencias, podrán verificar que las aguas residuales provenientes de usos públicos urbanos y las de usos industriales o agropecuarios que se descarguen en los sistemas de drenaje y alcantarillado de las poblaciones o en las cuencas, ríos, cauces, vasos y demás depósitos o corrientes de agua, así como las que por cualquier medio se infiltren en el subsuelo y, en general, las que se derramen en los suelos, reúnan las condiciones necesarias para prevenir:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+La Secretaría y los Ayuntamientos en la esfera de sus respectivas competencias, podrán verificar que las aguas residuales provenientes de usos públicos urbanos y las de usos industriales o agropecuarios que se descarguen en los sistemas de drenaje y alcantarillado de las poblaciones o en las cuencas, ríos, cauces, vasos y demás depósitos o corrientes de agua, así como las que por cualquier medio se infiltren en el subsuelo y, en general, las que se derramen en los suelos, reúnan las condiciones necesarias para prevenir:
 
 I. La contaminación de los cuerpos receptores;
 
@@ -1675,9 +1963,13 @@ II. La vigilancia de las Normas Oficiales Mexicanas correspondientes, así como 
 
 III. Determinar el monto de los derechos correspondientes para que la autoridad estatal respectiva o el Ayuntamiento, en su caso, pueda llevar a cabo el tratamiento necesario y cuando así proceda, a la imposición de las sanciones a que haya lugar; y
 
-IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al Registro Estatal de Descargas a cargo de la Agencia Ambiental.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-2. Para la protección integral de los ecosistemas del Estado, los usuarios del agua de los sectores público, social o privado que descarguen aguas residuales directamente en cuerpos de agua de jurisdicción federal deberán informar lo conducente a la Agencia Ambiental.
+IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, el que será integrado al Registro Estatal de Descargas a cargo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Para la protección integral de los ecosistemas del Estado, los usuarios del agua de los sectores público, social o privado que descarguen aguas residuales directamente en cuerpos de agua de jurisdicción federal deberán informar lo conducente a la Secretaría.
 
 ###### ARTICULO 105.
 
@@ -1697,11 +1989,13 @@ Las aguas residuales derivadas de aguas nacionales asignadas a los Municipios pa
 
 Los responsables de las descargas de aguas residuales podrán solicitar a los Ayuntamientos que tomen a su cargo el tratamiento de las mismas, previo el pago de las cuotas que se fijen en las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 109.
 
-1. Quienes realicen descargas de aguas residuales provenientes de actividades industriales, comerciales, de servicios y agropecuarias que se viertan a los sistemas de drenaje y alcantarillado, deberán ser registradas ante la autoridad municipal correspondiente y ante la Agencia Ambiental. Mediante la cédula de operación anual, el Ayuntamiento y la Agencia Ambiental llevarán el conocimiento actualizado de las descargas.
+1. Quienes realicen descargas de aguas residuales provenientes de actividades industriales, comerciales, de servicios y agropecuarias que se viertan a los sistemas de drenaje y alcantarillado, deberán ser registradas ante la autoridad municipal correspondiente y ante la Secretaría. Mediante la cédula de operación anual, el Ayuntamiento y la Secretaría llevarán el conocimiento actualizado de las descargas.
 
-2. Los datos provenientes del Registro Municipal de Descargas de Aguas Residuales, serán integrados al Registro Estatal de Descargas que opere la Agencia Ambiental.
+2. Los datos provenientes del Registro Municipal de Descargas de Aguas Residuales, serán integrados al Registro Estatal de Descargas que opere la Secretaría.
 
 ###### ARTICULO 110.
 
@@ -1715,9 +2009,11 @@ Los responsables de las descargas de aguas residuales podrán solicitar a los Ay
 
 Los Ayuntamientos promoverán la protección y restauración de los suelos y deberán exigir la presentación de resoluciones favorables de manifestaciones de impacto ambiental con antelación al otorgamiento de autorizaciones para efectuar cambios de uso de suelo, de conformidad al artículo 57 de este Código.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 112.
 
-Con relación a las áreas que presenten procesos de degradación y desertificación, la Agencia Ambiental promoverá los acuerdos necesarios con la Federación y con el Ayuntamiento competente, a fin de establecerlas como zonas de restauración ambiental, ajustándose a los lineamientos de la Ley General.
+Con relación a las áreas que presenten procesos de degradación y desertificación, la Secretaría promoverá los acuerdos necesarios con la Federación y con el Ayuntamiento competente, a fin de establecerlas como zonas de restauración ambiental, ajustándose a los lineamientos de la Ley General.
 
 ### CAPITULO V. DE LAS ACTIVIDADES RIESGOSAS
 
@@ -1743,7 +2039,9 @@ VII. La disposición de zonas intermedias de salvaguarda en el predio en el que 
 
 ###### ARTICULO 114.
 
-1. El Estado regulará, a través de la Agencia Ambiental, la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el medio ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales que resulten aplicables.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Estado regulará, a través de la Secretaría, la realización de actividades que no sean consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas o el medio ambiente dentro de la circunscripción territorial correspondiente, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales que resulten aplicables.
 
 2. El Estado y los Ayuntamientos coordinarán con la Federación sus acciones respecto de las actividades a que se refiere este precepto.
 
@@ -1751,21 +2049,27 @@ VII. La disposición de zonas intermedias de salvaguarda en el predio en el que 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 115.
 
-1. En caso de contingencia ambiental o de una emergencia ecológica por la afectación grave al medio ambiente, la Agencia Ambiental deberá adoptar, de manera inmediata, las medidas necesarias para impedir y mitigar la degradación de los recursos naturales y el ecosistema.
+1. En caso de contingencia ambiental o de una emergencia ecológica por la afectación grave al medio ambiente, la Secretaría deberá adoptar, de manera inmediata, las medidas necesarias para impedir y mitigar la degradación de los recursos naturales y el ecosistema.
 
-2. Si la contingencia ambiental o la emergencia ecológica representa un riesgo inminente para la población en general o para la salud humana, la Agencia Ambiental establecerá los procedimientos de coordinación pertinente con las autoridades de protección civil y de salud, con base en la política de desarrollo sustentable del Estado.
+2. Si la contingencia ambiental o la emergencia ecológica representa un riesgo inminente para la población en general o para la salud humana, la Secretaría establecerá los procedimientos de coordinación pertinente con las autoridades de protección civil y de salud, con base en la política de desarrollo sustentable del Estado.
 
 ###### ARTICULO 116.
 
 1. Cuando la magnitud o gravedad del riesgo de desequilibrios ecológicos o daños al medio ambiente rebasen la circunscripción territorial, los Ayuntamientos asumirán las tareas de prevención y el control de emergencias ecológicas y contingencias ambientales, sin demérito de la acción del Estado conforme al artículo anterior o de la Federación, cuando así resulte necesario para atender esos eventos.
 
-2. En todo caso, los Ayuntamientos solicitarán la participación del Estado por conducto de la Agencia Ambiental. Esta propondrá, cuando lo estime necesario, la asistencia de la Federación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En todo caso, los Ayuntamientos solicitarán la participación del Estado por conducto de la Secretaría. Esta propondrá, cuando lo estime necesario, la asistencia de la Federación.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 117.
 
-Cuando para la atención de estas situaciones deban intervenir dos o más dependencias estatales, la Agencia Ambiental promoverá la coordinación correspondiente.
+Cuando para la atención de estas situaciones deban intervenir dos o más dependencias estatales, la Secretaría promoverá la coordinación correspondiente.
 
 # LIBRO TERCERO. DE LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO
 
@@ -1815,7 +2119,9 @@ XIV. Pequeño generador: La persona física o moral que al año genere una canti
 
 XV. Plan de manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar el aprovechamiento y valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el diagnóstico básico para la gestión integral de residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres órdenes de gobierno;
 
-XVI. Prestador autorizado para el servicio de manejo de residuos: La persona física o moral registrada y autorizada por la Agencia Ambiental para prestar servicios a terceros, a fin de que realicen cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XVI. Prestador autorizado para el servicio de manejo de residuos: La persona física o moral registrada y autorizada por la Secretaría para prestar servicios a terceros, a fin de que realicen cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
 
 XVII. Recolección: La acción de recoger los residuos sólidos urbanos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas para su posterior manejo;
 
@@ -1847,7 +2153,9 @@ XXVII. Valorización: El principio y conjunto de acciones asociadas cuyo objetiv
 
 ###### ARTICULO 120.
 
-El Ejecutivo del Estado, por conducto de la Agencia Ambiental, tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría, tendrá las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental estatal en materia de residuos;
 
@@ -1907,7 +2215,9 @@ XXVI. Las demás que se establezcan en la Ley General de Residuos, este Código 
 
 El Municipio, por conducto del Ayuntamiento tendrá las siguientes atribuciones:
 
-I. Formular por sí o con el apoyo de la Agencia Ambiental y con la participación de representantes de los distintos sectores social y privado, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. Formular por sí o con el apoyo de la Secretaría y con la participación de representantes de los distintos sectores social y privado, los programas municipales para la prevención y gestión integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
 
 II. Expedir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de su competencia, a fin de dar cumplimiento a lo establecido en el presente Libro y en la Ley General de Residuos;
 
@@ -1921,7 +2231,9 @@ VI. Concesionar de manera total o parcial la prestación del servicio público d
 
 VII. Autorizar aquellas etapas del manejo integral de residuos sólidos urbanos que no sean consideradas como servicio público;
 
-VIII. Establecer y mantener actualizado el registro de grandes generadores de residuos sólidos urbanos e informarlo a la Agencia Ambiental, en los términos de este Código;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VIII. Establecer y mantener actualizado el registro de grandes generadores de residuos sólidos urbanos e informarlo a la Secretaría, en los términos de este Código;
 
 IX. Verificar el cumplimiento de las disposiciones de este Libro, de las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y demás ordenamientos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
@@ -1929,13 +2241,17 @@ X. Participar en el control de los residuos peligrosos generados o manejados por
 
 XI. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y su remediación, de acuerdo con los ordenamientos aplicables;
 
-XII. Determinar con la asistencia técnica de la Agencia Ambiental, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
 
 XIII. Proponer al Congreso del Estado, al presentar anualmente la iniciativa de Ley de Ingresos del Municipio, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos, sobre la base del manejo integral de los residuos sólidos urbanos, y efectuar su cobro;
 
 XIV. Sancionar a los responsables de los tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos;
 
-XV. Difundir y promover entre la población, las prácticas de separación, reutilización y reciclaje de residuos, conforme a las políticas, criterios e instrumentos en la materia que establezca la Agencia Ambiental, así como fomentar y practicar el reconocimiento a estas acciones;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+XV. Difundir y promover entre la población, las prácticas de separación, reutilización y reciclaje de residuos, conforme a las políticas, criterios e instrumentos en la materia que establezca la Secretaría, así como fomentar y practicar el reconocimiento a estas acciones;
 
 XVI. Instalar en la vía pública equipamiento para el depósito por separado de residuos sólidos urbanos, distinguiéndose entre orgánicos e inorgánicos;
 
@@ -1949,7 +2265,9 @@ XVIII. Las demás que se establezcan en la Ley General de Residuos, este Código
 
 ###### ARTICULO 122.
 
-1. El Ejecutivo del Estado, a través de la Agencia Ambiental y con base en las directrices que emanen del Programa Estatal de Desarrollo Sustentable, establecerá el Programa Estatal para la Prevención y Gestión Integral de los Residuos, de conformidad con este Libro, las demás disposiciones aplicables y el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El Ejecutivo del Estado, a través de la Secretaría y con base en las directrices que emanen del Programa Estatal de Desarrollo Sustentable, establecerá el Programa Estatal para la Prevención y Gestión Integral de los Residuos, de conformidad con este Libro, las demás disposiciones aplicables y el diagnóstico básico para la gestión integral de residuos sólidos urbanos y de manejo especial.
 
 2. El Programa Estatal para la Prevención y Gestión Integral de los Residuos deberá formularse en concordancia con lo que establezca el Programa Nacional de la materia, considerando los siguientes lineamientos:
 
@@ -1975,11 +2293,13 @@ X. Determinar las medidas conducentes para evitar la disposición final de resid
 
 XI. Los demás que establezcan este Código, sus Reglamentos y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 123.
 
-1. En el Programa para la Prevención y Gestión Integral de los Residuos la Agencia Ambiental formulará las previsiones para la prevención y gestión integral de los residuos de manejo especial.
+1. En el Programa para la Prevención y Gestión Integral de los Residuos la Secretaría formulará las previsiones para la prevención y gestión integral de los residuos de manejo especial.
 
-2. El Ayuntamiento formulará e instrumentará el Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos. Para tal fin podrá solicitar el apoyo técnico de la Agencia Ambiental, observándose en todo caso la congruencia con los Programas Nacional y Estatal en materia de residuos.
+2. El Ayuntamiento formulará e instrumentará el Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos. Para tal fin podrá solicitar el apoyo técnico de la Secretaría, observándose en todo caso la congruencia con los Programas Nacional y Estatal en materia de residuos.
 
 ###### ARTICULO 124.
 
@@ -2019,9 +2339,11 @@ VI. Disponer en un depósito legalmente autorizado con carácter de final, los r
 
 El contenido de los planes de manejo se sujetará a lo previsto en el Reglamento de este Libro, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 127.
 
-Estarán obligados a la formulación y ejecución de los planes de manejo los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo, de conformidad con las Normas Oficiales Mexicanas correspondientes. Así mismo, esta obligación se extiende a aquellas fuentes generadoras que se encuentren en las Normas Ambientales Estatales o listados que para tal efecto determine la Agencia Ambiental y que por las características de los materiales que los integran sean residuos que así lo requieran.
+Estarán obligados a la formulación y ejecución de los planes de manejo los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo, de conformidad con las Normas Oficiales Mexicanas correspondientes. Así mismo, esta obligación se extiende a aquellas fuentes generadoras que se encuentren en las Normas Ambientales Estatales o listados que para tal efecto determine la Secretaría y que por las características de los materiales que los integran sean residuos que así lo requieran.
 
 ###### ARTICULO 128.
 
@@ -2035,7 +2357,9 @@ III. Los materiales que los componen tengan un valor económico.
 
 ###### ARTICULO 129.
 
-Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Agencia Ambiental para su validación y en la cual se asentarán, entre otras cuestiones, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Los grandes generadores de residuos sólidos urbanos y de manejo especial, deberán integrar una propuesta para sustentar el desarrollo de cada uno de los planes de manejo, que se entregará a la Secretaría para su validación y en la cual se asentarán, entre otras cuestiones, las siguientes:
 
 I. El nombre, la denominación o razón social de quien presente la propuesta y del representante legal, en su caso; el nombre de los autorizados para recibir notificaciones; el órgano administrativo al que se dirijan y el lugar y fecha de formulación. La propuesta deberá estar firmada por el interesado o su representante legal;
 
@@ -2049,17 +2373,25 @@ V. El cronograma enunciando los objetivos, las principales actividades y sus fec
 
 VI. Los responsables de la implantación y seguimiento de los planes de manejo correspondientes;
 
-VII. La solicitud específica, en su caso, de qué parte de la información proporcionada a la Agencia Ambiental requiere ser manejada de manera confidencial por tratarse de información privilegiada de valor comercial para el promovente; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII. La solicitud específica, en su caso, de qué parte de la información proporcionada a la Secretaría requiere ser manejada de manera confidencial por tratarse de información privilegiada de valor comercial para el promovente; y
 
 VIII. Los indicadores para evaluar el desempeño del plan de manejo.
 
 ###### ARTICULO 130.
 
-1. La Agencia Ambiental convocará a los productores de bienes de consumo que al desecharse se conviertan en residuos de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la Ley General de Residuos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y este Libro.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. En su caso, la Agencia Ambiental podrá actuar conjuntamente con los Ayuntamientos en términos de los acuerdos o convenios de colaboración suscritos.
+1. La Secretaría convocará a los productores de bienes de consumo que al desecharse se conviertan en residuos de manejo especial, susceptibles de ser objeto de planes de manejo de conformidad con las disposiciones de la Ley General de Residuos, las Normas Oficiales Mexicanas, las Normas Ambientales Estatales y este Libro.
 
-3. En el establecimiento de los planes de manejo previstos en el supuesto del párrafo 1 de este precepto, la Agencia Ambiental actuará conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En su caso, la Secretaría podrá actuar conjuntamente con los Ayuntamientos en términos de los acuerdos o convenios de colaboración suscritos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. En el establecimiento de los planes de manejo previstos en el supuesto del párrafo 1 de este precepto, la Secretaría actuará conforme a lo siguiente:
 
 I. Dará a conocer que son prioritarios para su atención por el grado de dificultad que implica el manejo de los residuos correspondientes o los problemas ambientales que se han visto asociados a las formas de disposición final comunes de los mismos;
 
@@ -2081,9 +2413,11 @@ VIII. Identificará nuevos medios y tecnologías viables para el manejo integral
 
 En ningún caso los planes de manejo podrán plantear formas de manejo contrarias a los objetivos y a los principios en los que se basa la normatividad aplicable a la prevención y reducción de riesgos del residuo de que se trate, ni realizarse a través de empresas que no estén autorizadas ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 132.
 
-El Ejecutivo del Estado, por conducto de la Agencia Ambiental, publicará en el Periódico Oficial del Estado y en diarios de circulación local, la relación de los residuos sujetos a planes de manejo.
+El Ejecutivo del Estado, por conducto de la Secretaría, publicará en el Periódico Oficial del Estado y en diarios de circulación local, la relación de los residuos sujetos a planes de manejo.
 
 ## TITULO CUARTO. DEL MANEJO INTEGRAL DE LOS RESIDUOS
 
@@ -2099,9 +2433,11 @@ Los residuos de manejo especial deberán ser manejados conforme a lo dispuesto p
 
 2. El manejo que se haga de los residuos de manejo especial y peligrosos que tenga asignados el Estado deberá realizarse de manera segura y ambientalmente adecuada conforme a los términos de la Ley General de Residuos, este Código y las condicionantes contenidas en las autorizaciones respectivas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 135.
 
-Es obligatorio gestionar y obtener la autorización de la Agencia Ambiental para la prestación de servicios en materia de manejo integral de residuos. En caso contrario se aplicarán las sanciones previstas en este Código, independientemente de la responsabilidad penal que pudiere derivarse.
+Es obligatorio gestionar y obtener la autorización de la Secretaría para la prestación de servicios en materia de manejo integral de residuos. En caso contrario se aplicarán las sanciones previstas en este Código, independientemente de la responsabilidad penal que pudiere derivarse.
 
 ### CAPITULO II. DE SU CLASIFICACION
 
@@ -2147,25 +2483,27 @@ XIV. Las llantas o neumáticos en desuso, de desecho o caducos; y,
 
 XV. Todos los demás generados en los procesos productivos, que no reúnan características para ser considerados como peligrosos o como residuos sólidos urbanos.
 
-2. La Agencia Ambiental, mediante determinación fundada y motivada, podrá establecer otras categorías para la clasificación de los residuos de manejo especial.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+2. La Secretaría, mediante determinación fundada y motivada, podrá establecer otras categorías para la clasificación de los residuos de manejo especial.
 
-3. Las llantas de desecho, deberán ser depositadas en los sitios establecidos para su disposición final, fomentando su reutilización de forma total o parcial, quedando prohibido su disposición final en terrenos baldíos, en vías públicas y, en general, en sitios distintos a los autorizados por la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+3. Las llantas de desecho, deberán ser depositadas en los sitios establecidos para su disposición final, fomentando su reutilización de forma total o parcial, quedando prohibido su disposición final en terrenos baldíos, en vías públicas y, en general, en sitios distintos a los autorizados por la Secretaría.
 
-4. La Agencia Ambiental, en coordinación con la Secretaría de Desarrollo Económico, propiciarán las acciones que estimulen el mercado de valor de las llantas de desecho, impulsando programas de valorización que le permitan tanto a las personas físicas como a las morales, involucradas en la cadena comercial y de consumo en el Estado, acceder a los beneficios de su valorización.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+4. La Secretaría, en coordinación con la Secretaría de Desarrollo Económico, propiciarán las acciones que estimulen el mercado de valor de las llantas de desecho, impulsando programas de valorización que le permitan tanto a las personas físicas como a las morales, involucradas en la cadena comercial y de consumo en el Estado, acceder a los beneficios de su valorización.
 
-5. Las personas físicas y morales que estén relacionadas con la cadena productiva de la industria llantera como los productores, importadores, exportadores, distribuidores y consumidores deberán participar en los programas que la Agencia Ambiental establezca para la valorización de estos residuos de manejo especial, así como en los programas en materia de su gestión integral.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-La responsabilidad compartida de los residuos antes mencionados será definida de conformidad con los mecanismos e instrumentos que establezca la Agencia Ambiental.
+5. Las personas físicas y morales que estén relacionadas con la cadena productiva de la industria llantera como los productores, importadores, exportadores, distribuidores y consumidores deberán participar en los programas que la Secretaría establezca para la valorización de estos residuos de manejo especial, así como en los programas en materia de su gestión integral.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2009)</small>
+La responsabilidad compartida de los residuos antes mencionados será definida de conformidad con los mecanismos e instrumentos que establezca la Secretaría.
 
-6. La Agencia Ambiental fomentará, en coordinación con los Ayuntamientos y la participación del sector productivo y social, la generación de infraestructura adecuada para el acopio, confinamiento, manejo y disposición final de las llantas de desecho.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría fomentará, en coordinación con los Ayuntamientos y la participación del sector productivo y social, la generación de infraestructura adecuada para el acopio, confinamiento, manejo y disposición final de las llantas de desecho.
 
 ###### ARTICULO 137.
 
@@ -2197,39 +2535,57 @@ IV. Poner en conocimiento de las autoridades competentes las infracciones que se
 
 V. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
-2. Para el cumplimiento de estas obligaciones la Agencia Ambiental y los Ayuntamientos conforme a sus respectivas atribuciones ejercerán las acciones de verificación, inspección y vigilancia de conformidad con este Código.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Para el cumplimiento de estas obligaciones la Secretaría y los Ayuntamientos conforme a sus respectivas atribuciones ejercerán las acciones de verificación, inspección y vigilancia de conformidad con este Código.
 
 ###### ARTICULO 140.
 
 Los grandes generadores de residuos sólidos urbanos y los generadores de residuos de manejo especial, están obligados a:
 
-I. Registrarse ante la Agencia Ambiental y obtener autorización para el manejo de los residuos que generen;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-II. Presentar planes de manejo, solicitar su validación, modificación y actualización, así como registrarlos ante la Agencia Ambiental;
+I. Registrarse ante la Secretaría y obtener autorización para el manejo de los residuos que generen;
 
-III. Utilizar el sistema de manifiestos que establezca la Agencia Ambiental, para hacer el seguimiento de la generación y formas de manejo integral de sus residuos a lo largo de su ciclo de vida;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Presentar planes de manejo, solicitar su validación, modificación y actualización, así como registrarlos ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Utilizar el sistema de manifiestos que establezca la Secretaría, para hacer el seguimiento de la generación y formas de manejo integral de sus residuos a lo largo de su ciclo de vida;
 
 IV. Formular y mantener actualizadas las bitácoras en las que registren el volumen y tipo de residuos generados y la forma de manejo a la que fueron sometidos;
 
 V. Operar el manejo integral de sus residuos por sí o a través de empresas de servicio de manejo, de conformidad con las disposiciones de este Libro y otros ordenamientos que resulten aplicables;
 
-VI. Presentar a la Agencia Ambiental un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-VII. Contar con un seguro ambiental, cuando así lo requiera la Agencia Ambiental.
+VI. Presentar a la Secretaría un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII. Contar con un seguro ambiental, cuando así lo requiera la Secretaría.
 
 ###### ARTICULO 141.
 
 1. Las personas consideradas como microgeneradores de residuos peligrosos, en los términos de la Ley General de Residuos, una vez formalizados los convenios a que se refieren los artículos 12 y 13 de la misma, estarán obligadas a:
 
-I. Registrarse ante la Agencia Ambiental y obtener autorización de los planes de manejo de los residuos que generen;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-II. Sujetar los residuos peligrosos que generen, a los programas y planes de manejo que se establezcan para tal fin y a las condiciones que fije la Agencia Ambiental;
+I. Registrarse ante la Secretaría y obtener autorización de los planes de manejo de los residuos que generen;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+II. Sujetar los residuos peligrosos que generen, a los programas y planes de manejo que se establezcan para tal fin y a las condiciones que fije la Secretaría;
 
 III. Trasladar sus residuos peligrosos a los centros de acopio autorizados o enviarlos a través de transportación autorizada, de conformidad con las disposiciones aplicables; y
 
 IV. Cumplir las demás obligaciones dispuestas en este Código, la Ley General de Residuos y demás ordenamientos aplicables.
 
-2. Una vez formalizado el convenio respectivo, la Agencia Ambiental y, en su caso, los Ayuntamientos, podrán ejercer las acciones de verificación del cumplimiento de las normas de desarrollo sustentable.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Una vez formalizado el convenio respectivo, la Secretaría y, en su caso, los Ayuntamientos, podrán ejercer las acciones de verificación del cumplimiento de las normas de desarrollo sustentable.
 
 ###### ARTICULO 142.
 
@@ -2273,11 +2629,15 @@ XII. Disposición final.
 
 3. Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o transportación, tratamiento y disposición final estarán a cargo de los Ayuntamientos, sujetándose a las disposiciones del Código Municipal para el Estado de Tamaulipas y demás ordenamientos aplicables.
 
-4. En caso de que los Ayuntamientos promuevan sitios de disposición final de residuos sólidos urbanos, deberán contar con la previa autorización de la Agencia Ambiental, en los términos de este Código.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. En caso de que los Ayuntamientos promuevan sitios de disposición final de residuos sólidos urbanos, deberán contar con la previa autorización de la Secretaría, en los términos de este Código.
 
 ###### ARTICULO 144.
 
-1. Se requiere autorización de la Agencia Ambiental para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del párrafo 1 del artículo anterior.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del párrafo 1 del artículo anterior.
 
 2. Los Ayuntamientos podrán autorizar las etapas del manejo integral de los residuos sólidos urbanos señaladas en las fracciones III, V, VII y X del párrafo 1 del artículo anterior.
 
@@ -2289,9 +2649,13 @@ XII. Disposición final.
 
 I. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable cuando los mismos sean requeridos para la etapa que se gestiona la autorización; así como acreditar las condiciones requeridas para cada una de las etapas específicas, tales como vehículos apropiados, equipo, tecnología, capacitación, conocimiento de la gestión integral de los residuos y, en general, los recursos humanos, técnicos y financieros que garanticen el óptimo manejo de los mismos;
 
-II. Presentar un plan de manejo registrado ante la Agencia Ambiental para la operación segura y ambientalmente adecuada de los residuos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-III. Contar con programas para prevenir y responder a contingencias ambientales o emergencias ecológicas y accidentes y, en su caso, presentar a la Agencia Ambiental el seguro que ampare la reparación por responsabilidad civil y de restauración ambiental;
+II. Presentar un plan de manejo registrado ante la Secretaría para la operación segura y ambientalmente adecuada de los residuos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Contar con programas para prevenir y responder a contingencias ambientales o emergencias ecológicas y accidentes y, en su caso, presentar a la Secretaría el seguro que ampare la reparación por responsabilidad civil y de restauración ambiental;
 
 IV. Contar con personal capacitado y continuamente actualizado;
 
@@ -2299,7 +2663,9 @@ V. Otorgar garantías para asegurar que al cierre de las operaciones de sus inst
 
 VI. Obtener una autorización en materia de impacto ambiental, en caso de que sea necesario en términos de las disposiciones aplicables.
 
-2. Además de los requisitos señalados en este artículo, la persona física o moral deberá atender las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Agencia Ambiental, mismas que formarán parte de la autorización.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Además de los requisitos señalados en este artículo, la persona física o moral deberá atender las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría, mismas que formarán parte de la autorización.
 
 ###### ARTICULO 146.
 
@@ -2309,7 +2675,9 @@ Durante la vigencia de la autorización, la empresa de servicio de manejo deber�
 
 1. Son causas de revocación de las autorizaciones:
 
-I. La falsedad en la información proporcionada a la Agencia Ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+I. La falsedad en la información proporcionada a la Secretaría;
 
 II. La contravención a la normatividad aplicable en las actividades de manejo integral de los residuos;
 
@@ -2361,7 +2729,9 @@ La limpieza o barrido de áreas y vialidades públicas, así como la recolecció
 
 1. La recolección de residuos sólidos urbanos se realizará de acuerdo con los programas administrativos que adopten los Ayuntamientos, los que deberán darse a conocer en el Periódico Oficial del Estado, estableciéndose cuando menos las rutas, lugares, días y horarios en que se realizará.
 
-2. El acopio y el almacenamiento de residuos sólidos urbanos deberán observar las disposiciones administrativas que determine el Ayuntamiento, a fin de que el lugar y la actividad cumplan con las previsiones de este Código, siempre que no se trate de una estación de transferencia, la cual será competencia de la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. El acopio y el almacenamiento de residuos sólidos urbanos deberán observar las disposiciones administrativas que determine el Ayuntamiento, a fin de que el lugar y la actividad cumplan con las previsiones de este Código, siempre que no se trate de una estación de transferencia, la cual será competencia de la Secretaría
 
 ### CAPITULO III. DE LA RECOLECCION Y TRANSPORTE
 
@@ -2373,11 +2743,11 @@ La recolección de residuos de manejo especial es obligación de sus generadores
 
 Los vehículos destinados a la recolección y traslado o transportación de residuos, deberán contar con contenedores distintos que hagan factible su acopio por separado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2008.</small>
-
 ###### ARTICULO 157.
 
-1. La transportación de residuos sólidos urbanos y de manejo especial en el Estado, se realizará con la autorización de la Agencia Ambiental y los Ayuntamientos, conforme a sus respectivas competencias.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La transportación de residuos sólidos urbanos y de manejo especial en el Estado, se realizará con la autorización de la Secretaría y los Ayuntamientos, conforme a sus respectivas competencias.
 
 2. Para la transportación de residuos sólidos urbanos y de manejo especial se deberán considerar:
 
@@ -2401,11 +2771,11 @@ Los sitios destinados al tratamiento y disposición final de residuos sólidos u
 
 Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización mediante procesos de reciclaje, instrumentarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, prever su manejo responsable y orientar a los consumidores sobre las oportunidades y beneficios de aprovechamiento con base en dicha valorización.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 160.
 
-La Agencia Ambiental, con la participación de la Secretaría de Desarrollo Económico, en coordinación con los Ayuntamientos, y de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos, a fin de promover mercados para su aprovechamiento, vinculando a los sectores social y privado.
+La Secretaría, con la participación de la Secretaría de Desarrollo Económico, en coordinación con los Ayuntamientos, y de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos, a fin de promover mercados para su aprovechamiento, vinculando a los sectores social y privado.
 
 ###### ARTICULO 161.
 
@@ -2417,9 +2787,13 @@ Los residuos que hayan sido seleccionados para su reciclaje y que por sus caract
 
 1. Los Ayuntamientos diseñarán, construirán y operarán centros de composteo de residuos sólidos urbanos orgánicos, de conformidad con lo que se establezca en el Programa Estatal para la Prevención y Gestión Integral de los Residuos y en los Programas Municipales correspondientes.
 
-2. Para tal efecto, podrán solicitar el apoyo técnico de la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. La Agencia Ambiental y los Ayuntamientos fomentarán esta actividad a través de programas específicos en donde se expongan sus beneficios, se incentive su realización y se genere la importancia del aprovechamiento y valorización de los residuos.
+2. Para tal efecto, podrán solicitar el apoyo técnico de la Secretaría.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría y los Ayuntamientos fomentarán esta actividad a través de programas específicos en donde se expongan sus beneficios, se incentive su realización y se genere la importancia del aprovechamiento y valorización de los residuos.
 
 ###### ARTICULO 163.
 
@@ -2467,17 +2841,21 @@ Los propietarios, poseedores y operadores de sitios contaminados con residuos re
 
 ###### ARTICULO 170.
 
-1. La Agencia Ambiental, en coordinación con la Secretaría de Salud, establecerá los lineamientos generales para llevar a cabo la evaluación del riesgo ambiental y la caracterización de sitios contaminados con residuos regulados por este Código.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+1. La Secretaría, en coordinación con la Secretaría de Salud, establecerá los lineamientos generales para llevar a cabo la evaluación del riesgo ambiental y la caracterización de sitios contaminados con residuos regulados por este Código.
 
-2. La Agencia Ambiental dispondrá, con base en dichos lineamientos, las acciones de remediación que procedan.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría dispondrá, con base en dichos lineamientos, las acciones de remediación que procedan.
 
 3. Los lineamientos a los que se refiere el párrafo 1 de este artículo se publicarán en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 171.
 
-Las acciones de remediación de sitios contaminados previstas en este Capítulo, se llevarán a cabo mediante programas elaborados y autorizados por la Agencia Ambiental y la Secretaría de Salud, de conformidad con los lineamientos a los que se refiere el párrafo 2 del artículo anterior.
+Las acciones de remediación de sitios contaminados previstas en este Capítulo, se llevarán a cabo mediante programas elaborados y autorizados por la Secretaría y la Secretaría de Salud, de conformidad con los lineamientos a los que se refiere el párrafo 2 del artículo anterior.
 
 ###### ARTICULO 172.
 
@@ -2485,7 +2863,9 @@ La regulación del uso del suelo, los programas de ordenamiento ecológico y las
 
 ###### ARTICULO 173.
 
-1. En caso de que no sea posible identificar al responsable de la contaminación por residuos de un sitio, coordinadamente la Agencia Ambiental y los Ayuntamientos llevarán a cabo las acciones necesarias para su remediación, conforme a la disposición presupuestal con que cuenten.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. En caso de que no sea posible identificar al responsable de la contaminación por residuos de un sitio, coordinadamente la Secretaría y los Ayuntamientos llevarán a cabo las acciones necesarias para su remediación, conforme a la disposición presupuestal con que cuenten.
 
 2. Si el Estado o los Ayuntamientos llevan a cabo la remediación a que se refiere el párrafo anterior, trasladarán las erogaciones presupuestales al propietario o poseedor a quien beneficiaron esas acciones.
 
@@ -2531,7 +2911,9 @@ V. Zona de influencia: Las superficies aledañas a la poligonal de un área natu
 
 ###### ARTICULO 177.
 
-El Ejecutivo del Estado, por conducto de la Agencia Ambiental tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría tendrá las siguientes atribuciones:
 
 I. Proponer el estudio correspondiente a la declaración de áreas naturales protegidas estatales y proponer la expedición del decreto correspondiente;
 
@@ -2595,7 +2977,9 @@ IX. Proteger la biodiversidad, el medio ambiente y la generación de los servici
 
 3. Las áreas naturales protegidas estatales constituyen en su conjunto el Sistema Estatal de Áreas Naturales Protegidas.
 
-4. La Agencia llevará el registro de las áreas integrantes del Sistema Estatal de Áreas Naturales Protegidas en el que consignarán los datos de su inscripción en el Registro Público de la Propiedad Inmueble y del Comercio o en su caso ante los Registros respectivos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría llevará el registro de las áreas integrantes del Sistema Estatal de Áreas Naturales Protegidas en el que consignarán los datos de su inscripción en el Registro Público de la Propiedad Inmueble y del Comercio o en su caso ante los Registros respectivos.
 
 ###### ARTICULO 180.
 
@@ -2673,7 +3057,9 @@ III. De aprovechamiento sustentable de los recursos naturales: aquellas superfic
 
 En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
 
-Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Agencia, conforme a las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
 
 IV. De aprovechamiento sustentable de los ecosistemas: aquellas superficies con usos agrícolas y pecuarios actuales;
 
@@ -2717,7 +3103,9 @@ IV. Ejecutar acciones que contravengan lo dispuesto por este Código, la declara
 
 ###### ARTICULO 187.
 
-1. Corresponde a la Agencia Ambiental la organización, administración, manejo y vigilancia de las áreas naturales y los parques estatales, los que podrán coordinarse con las dependencias y entidades federales o municipales, o las demás dependencias o entidades estatales, así como con instituciones públicas y privadas no lucrativas, para la conservación, fomento y debido aprovechamiento.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Corresponde a la Secretaría la organización, administración, manejo y vigilancia de las áreas naturales y los parques estatales, los que podrán coordinarse con las dependencias y entidades federales o municipales, o las demás dependencias o entidades estatales, así como con instituciones públicas y privadas no lucrativas, para la conservación, fomento y debido aprovechamiento.
 
 2. Los aprovechamientos forestales en áreas naturales protegidas se autorizarán en cuanto exista, a juicio de las instancias competentes, dictamen de la conveniencia del mismo en términos ambientales.
 
@@ -2775,7 +3163,9 @@ Las zonas de restauración ambiental, se constituirán en las áreas que present
 
 ###### ARTICULO 197.
 
-1. Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el párrafo 1 del artículo anterior, la Agencia Ambiental deberá realizar los estudios que lo justifiquen en términos del presente Libro, los cuales deberán ser puestos a disposición del público.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el párrafo 1 del artículo anterior, la Secretaría deberá realizar los estudios que lo justifiquen en términos del presente Libro, los cuales deberán ser puestos a disposición del público.
 
 2. Asimismo, se deberá solicitar la opinión de:
 
@@ -2787,7 +3177,9 @@ III. Las organizaciones de los sectores social y privado, y demás personas fís
 
 IV. Las universidades e instituciones educativas del Sistema Educativo Estatal que realicen actividades académicas en áreas del conocimiento relacionadas con el medio ambiente, los recursos naturales y el desarrollo sustentable.
 
-3. La Agencia Ambiental deberá considerar los comentarios y opiniones recibidos y poner a disposición de los interesados la respuesta respectiva.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría deberá considerar los comentarios y opiniones recibidos y poner a disposición de los interesados la respuesta respectiva.
 
 ###### ARTICULO 198.
 
@@ -2805,9 +3197,11 @@ V. Los lineamientos para la elaboración del programa de manejo.
 
 2. Las declaratorias se inscribirán en el Registro Público de la Propiedad Inmueble y del Comercio y en los demás Registros competentes.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 199.
 
-Cuando en la realización de los estudios previos para el establecimiento de áreas naturales protegidas deban intervenir diversas dependencias de la administración pública estatal, la coordinación de dichos estudios y la formulación de la propuesta de declaratoria respectiva corresponderá a la Agencia Ambiental.
+Cuando en la realización de los estudios previos para el establecimiento de áreas naturales protegidas deban intervenir diversas dependencias de la administración pública estatal, la coordinación de dichos estudios y la formulación de la propuesta de declaratoria respectiva corresponderá a la Secretaría.
 
 ###### ARTICULO 200.
 
@@ -2831,15 +3225,21 @@ Las autoridades estatales y municipales podrán participar en el establecimiento
 
 1. El Sistema Estatal de Áreas Naturales Protegidas tiene como propósito unificar las regulaciones y criterios para su establecimiento, administración, manejo y vigilancia.
 
-2. La Agencia Ambiental llevará el Sistema Estatal de las Áreas Naturales Protegidas.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría llevará el Sistema Estatal de las Áreas Naturales Protegidas.
 
 3. En dicho sistema se registrarán los datos relacionados con el establecimiento del área de que se trate y los contenidos de la declaratoria respectiva, así como los programas de manejo.
 
-4. La Agencia Ambiental promoverá que el programa de manejo incluya la conservación, administración, desarrollo y vigilancia de las áreas integrantes del Sistema.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría promoverá que el programa de manejo incluya la conservación, administración, desarrollo y vigilancia de las áreas integrantes del Sistema.
 
 ###### ARTICULO 204.
 
-El Ejecutivo Estatal, a través de la Agencia Ambiental, con la participación de las demás dependencias estatales competentes y los Ayuntamientos que así lo convengan, promoverá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+El Ejecutivo Estatal, a través de la Secretaría, con la participación de las demás dependencias estatales competentes y los Ayuntamientos que así lo convengan, promoverá:
 
 I. Las inversiones públicas, privadas y sociales para el establecimiento y manejo de las áreas naturales protegidas estatales;
 
@@ -2851,17 +3251,25 @@ III. Los incentivos económicos y los estímulos fiscales para las personas y or
 
 1. En el otorgamiento o expedición de permisos, licencias, concesiones, o en general, de autorizaciones a que se sujeten la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas estatales, se observarán las disposiciones del presente Código, de las leyes en que se fundamenten las declaratorias de creación correspondientes, las prevenciones de las propias declaratorias, los programas de manejo y las demás disposiciones que resulten aplicables.
 
-2. En tales casos el solicitante deberá demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate mediante los procedimientos que este Código contempla para que se expida la autorización pertinente. Además, la Agencia Ambiental podrá exigir, previo al otorgamiento de las autorizaciones de las actividades mencionadas, la contratación de seguros o fianzas para garantizar las posibles afectaciones a los ecosistemas integrantes de las áreas naturales protegidas estatales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. La Agencia Ambiental prestará a ejidatarios, comuneros y pequeños propietarios, la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior.
+2. En tales casos el solicitante deberá demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate mediante los procedimientos que este Código contempla para que se expida la autorización pertinente. Además, la Secretaría podrá exigir, previo al otorgamiento de las autorizaciones de las actividades mencionadas, la contratación de seguros o fianzas para garantizar las posibles afectaciones a los ecosistemas integrantes de las áreas naturales protegidas estatales.
 
-4. La Agencia Ambiental podrá realizar la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando exista incumplimiento en los términos de su otorgamiento, sin demérito de solicitar la actuación de cualquier otra autoridad competente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría prestará a ejidatarios, comuneros y pequeños propietarios, la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+4. La Secretaría podrá realizar la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando exista incumplimiento en los términos de su otorgamiento, sin demerito de solicitar la actuación de cualquier otra autoridad competente.
 
 ###### ARTICULO 206.
 
 1. Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad podrán establecer, administrar y manejar dichas áreas, conforme a lo dispuesto por este Libro.
 
-2. Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Agencia Ambiental, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+2. Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 
 I. Nombre del propietario;
 
@@ -2879,11 +3287,15 @@ VII. Estrategia de manejo que incluya la zonificación del área, y
 
 VIII. Plazo por el que se desea certificar el área, el cual no podrá ser menor a quince años.
 
-3. Para la elaboración de la estrategia de manejo a que se refiere este artículo, la Agencia otorgará la asesoría técnica necesaria, a petición de los promoventes.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. Para la elaboración de la estrategia de manejo a que se refiere este artículo, la Secretaría otorgará la asesoría técnica necesaria, a petición de los promoventes.
 
 4. En las áreas privadas y sociales destinadas voluntariamente a la conservación de competencia de la Federación, podrán establecerse todas las subzonas previstas en el presente Libro, así como cualesquiera otras decididas libremente por los propietarios.
 
-5. El certificado que expida la Agencia Ambiental deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+5. El certificado que expida la Secretaría deberá contener:
 
 I. Nombre del propietario;
 
@@ -2897,15 +3309,23 @@ V. Deberes del propietario, y
 
 VI. Vigencia mínima de quince años.
 
-6. La Agencia Ambiental podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+6. La Secretaría podrá establecer diferentes niveles de certificación en función de las características físicas y biológicas generales y el estado de conservación de los predios, así como el plazo por el que se emite el certificado y su estrategia de manejo, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, dichos niveles serán considerados por las dependencias competentes, en la certificación de productos o servicios.
 
 7. Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario y se manejarán conforme a la estrategia de manejo definida en el certificado. Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declaradas como tales por la Federación o los Ayuntamientos, la estrategia de manejo observará lo dispuesto en las declaratorias y los programas de manejo correspondientes.
 
-8. Asimismo, cuando el Ejecutivo Federal, el Estado o los Ayuntamientos establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-9. Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Agencia Ambiental conforme al procedimiento previsto en el Reglamento. Lo previsto por este párrafo no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la legislación para el desarrollo forestal sustentable.
+8. Asimismo, cuando el Ejecutivo Federal, el Estado o los Ayuntamientos establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo determinadas en los certificados que expida la Secretaría.
 
-10. El Reglamento establecerá los procedimientos relativos a la modificación de superficies de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+9. Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría conforme al procedimiento previsto en el Reglamento. Lo previsto por este párrafo no aplica para el aprovechamiento de recursos forestales cuyos productos se certificarán con base en la legislación para el desarrollo forestal sustentable.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+10. El Reglamento establecerá los procedimientos relativos a la modificación de superficies de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Secretaría.
 
 ### CAPITULO III. DE LOS PROGRAMAS DE MANEJO
 
@@ -2929,23 +3349,31 @@ VII. Los inventarios biológicos existentes y los que se prevea realizar; y
 
 VIII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
 
-2. La Agencia Ambiental deberá publicar en el Periódico Oficial del Estado un resumen del programa de manejo respectivo y el plano de localización del área.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. En tanto se expide el programa de manejo correspondiente, la Agencia Ambiental emitirá mediante acuerdo administrativo, las normas y criterios que deben observarse para la realización de cualquier actividad dentro de las áreas naturales protegidas estatales, conforme a lo dispuesto en el presente Código, el Reglamento de este Libro y la declaratoria respectiva.
+2. La Secretaría deberá publicar en el Periódico Oficial del Estado un resumen del programa de manejo respectivo y el plano de localización del área.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. En tanto se expide el programa de manejo correspondiente, la Secretaría emitirá mediante acuerdo administrativo, las normas y criterios que deben observarse para la realización de cualquier actividad dentro de las áreas naturales protegidas estatales, conforme a lo dispuesto en el presente Código, el Reglamento de este Libro y la declaratoria respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 208.
 
-La Agencia Ambiental promoverá la participación convergente de sus habitantes, propietarios o poseedores y demás organizaciones sociales, públicas y privadas, en el establecimiento, administración y manejo de las áreas naturales protegidas estatales o municipales a que se refieren los artículos anteriores, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y conservación de los ecosistemas.
+La Secretaría promoverá la participación convergente de sus habitantes, propietarios o poseedores y demás organizaciones sociales, públicas y privadas, en el establecimiento, administración y manejo de las áreas naturales protegidas estatales o municipales a que se refieren los artículos anteriores, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y conservación de los ecosistemas.
 
 ###### ARTICULO 209.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. La Agencia Ambiental podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los Ayuntamientos, así como a ejidos, comunidades agrarias, grupos y organizaciones sociales y demás personas físicas o jurídicas colectivas interesadas, la administración y, en su caso, vigilancia de las áreas naturales protegidas estatales. Para tal efecto, se deberán suscribir los convenios correspondientes, sujetándose a lo establecido por este Código.
+1. La Secretaría podrá, una vez que se cuente con el programa de manejo respectivo, otorgará (sic) a los Ayuntamientos, así como a ejidos, comunidades agrarias, grupos y organizaciones sociales y demás personas físicas o jurídicas colectivas interesadas, la administración y, en su caso, vigilancia de las áreas naturales protegidas estatales. Para tal efecto, se deberán suscribir los convenios correspondientes, sujetándose a lo establecido por este Código.
 
 2. Quienes en virtud de lo dispuesto por el presente artículo adquieran la responsabilidad de administrar y vigilar las áreas naturales protegidas estatales, estarán obligados a sujetarse a las previsiones contenidas en este Código, el Reglamento de este Libro, las Normas Oficiales Mexicanas y las Normas Ambientales Estatales que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
 
-3. La Agencia Ambiental supervisará y evaluará el cumplimiento de los convenios a que se refiere este precepto.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría supervisará y evaluará el cumplimiento de los convenios a que se refiere este precepto.
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2959,7 +3387,9 @@ El Ejecutivo Estatal podrá promover ante la Federación el establecimiento de �
 
 ###### ARTICULO 211.
 
-A la Agencia Ambiental, en materia de áreas naturales protegidas, le corresponden las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+A la Secretaría, en materia de áreas naturales protegidas, le corresponden las atribuciones siguientes:
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2969,7 +3399,9 @@ II. Formular, ejecutar y evaluar los programas de subsidios para fomentar el des
 
 III. Ejecutar y promover en las áreas naturales protegidas estatales y en sus zonas de influencia los programas especiales, productivos o de cualquier otra naturaleza que se prevean en el sistema estatal de planeación;
 
-IV. Formular, promover, ejecutar y evaluar proyectos para la conservación, recuperación de especies y poblaciones consideradas como prioritarias, con la participación, en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados, así como de otras unidades administrativas de la Agencia Ambiental, dependencias y entidades de la administración pública estatal, y de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+IV. Formular, promover, ejecutar y evaluar proyectos para la conservación, recuperación de especies y poblaciones consideradas como prioritarias, con la participación, en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados, así como de otras unidades administrativas de la Secretaría, dependencias y entidades de la administración pública estatal, y de los Ayuntamientos;
 
 V. Promover la captación de donativos, aportaciones, asignaciones y demás recursos, en numerario o en especie, que sean necesarios para apoyar las obras, acciones e inversiones que se requieran para la conservación de los ecosistemas y su biodiversidad, así como para la conservación de las especies prioritarias, de conformidad con las disposiciones aplicables;
 
@@ -3135,7 +3567,9 @@ LI. Vida silvestre: los organismos que subsisten sujetos a los procesos de evolu
 
 ###### ARTICULO 216.
 
-Corresponden al Estado, por conducto de la Agencia Ambiental, de conformidad con lo dispuesto en el presente Libro y las demás disposiciones aplicables, las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Corresponden al Estado, por conducto de la Secretaría, de conformidad con lo dispuesto en el presente Libro y las demás disposiciones aplicables, las siguientes atribuciones:
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -3177,7 +3611,9 @@ IX. Vigilar el cumplimiento de la normatividad en materia de vida silvestre, con
 
 ###### ARTICULO 219.
 
-1. Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones aplicables se requiera de la intervención de otras dependencias, la Agencia Ambiental y la Comisión ejercerán sus atribuciones en coordinación con las mismas.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones aplicables se requiera de la intervención de otras dependencias, la Secretaría y la Comisión ejercerán sus atribuciones en coordinación con las mismas.
 
 2. Las dependencias y entidades de la administración pública estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto del presente Libro, ajustarán su ejercicio a la política estatal sobre la vida silvestre establecida en este ordenamiento y las disposiciones que de éste se deriven.
 
@@ -3185,9 +3621,11 @@ IX. Vigilar el cumplimiento de la normatividad en materia de vida silvestre, con
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 220.
 
-Conforme a los criterios generales que establezca la Agencia Ambiental, la Comisión promoverá la participación de las personas y sectores involucrados en la formulación y aplicación de las medidas para la conservación y aprovechamiento sustentable de la vida silvestre, que estén dentro del ámbito de su competencia.
+Conforme a los criterios generales que establezca la Secretaría, la Comisión promoverá la participación de las personas y sectores involucrados en la formulación y aplicación de las medidas para la conservación y aprovechamiento sustentable de la vida silvestre, que estén dentro del ámbito de su competencia.
 
 ###### ARTICULO 221.
 
@@ -3225,11 +3663,15 @@ Los ejemplares confinados de las especies probablemente extintas en el medio sil
 
 ###### ARTICULO 226.
 
-1. La Agencia Ambiental, con la participación de la Comisión, promoverá, fomentará e impulsará la conservación, preservación y protección de las especies y poblaciones en riesgo por medio del desarrollo de proyectos de conservación, reproducción y recuperación, el establecimiento de medidas especiales de manejo y conservación de hábitat críticos y de áreas de refugio para proteger especies acuáticas, la coordinación de programas de muestreo y seguimiento permanente, así como de la certificación del aprovechamiento sustentable con la participación de las personas que manejen dichas especies o poblaciones y demás involucrados.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría, con la participación de la Comisión, promoverá, fomentará e impulsará la conservación, preservación y protección de las especies y poblaciones en riesgo por medio del desarrollo de proyectos de conservación, reproducción y recuperación, el establecimiento de medidas especiales de manejo y conservación de hábitat críticos y de áreas de refugio para proteger especies acuáticas, la coordinación de programas de muestreo y seguimiento permanente, así como de la certificación del aprovechamiento sustentable con la participación de las personas que manejen dichas especies o poblaciones y demás involucrados.
 
 2. El programa de certificación deberá seguir los lineamientos establecidos en el Reglamento de este Libro y en las Normas Oficiales Mexicanas o las Normas Ambientales Estatales que para tal efecto se elaboren.
 
-3. La Agencia Ambiental suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
 
 ###### ARTICULO 227.
 
@@ -3259,7 +3701,9 @@ La Comisión promoverá el desarrollo de proyectos para la conservación y la re
 
 1. La conservación del hábitat natural de la vida silvestre es de utilidad pública.
 
-2. La Agencia Ambiental, previa opinión de la Comisión podrá proponer al Ejecutivo del Estado el establecimiento de hábitats críticos para la conservación de la vida silvestre, mediante la emisión de Acuerdo Gubernamental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría, previa opinión de la Comisión podrá proponer al Ejecutivo del Estado el establecimiento de hábitats críticos para la conservación de la vida silvestre, mediante la emisión de Acuerdo Gubernamental.
 
 ###### ARTICULO 230.
 
@@ -3271,11 +3715,11 @@ La Comisión promoverá el desarrollo de proyectos para la conservación y la re
 
 ### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 231.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
-
-La Agencia Ambiental, con la opinión de la Comisión, podrá proponer al Ejecutivo del Estado el establecimiento de áreas de refugio mediante la emisión de Acuerdo Gubernamental, para proteger especies nativas y endémicas de la vida silvestre que se desarrollan en el medio acuático, aguas y terrenos inundables, con objeto de conservar y contribuir, a través de medidas de manejo y conservación, al desarrollo de dichas especies, así como para conservar y proteger sus hábitats. Al efecto elaborará los programas de protección correspondientes.
+La Secretaría, con la opinión de la Comisión, podrá proponer al Ejecutivo del Estado el establecimiento de áreas de refugio mediante la emisión de Acuerdo Gubernamental, para proteger especies nativas y endémicas de la vida silvestre que se desarrollan en el medio acuático, aguas y terrenos inundables, con objeto de conservar y contribuir, a través de medidas de manejo y conservación, al desarrollo de dichas especies, así como para conservar y proteger sus hábitats. Al efecto elaborará los programas de protección correspondientes.
 
 ###### ARTICULO 232.
 
@@ -3297,7 +3741,9 @@ IV. Los ejemplares con características específicas de poblaciones, especies o 
 
 1. Cuando la superficie de alguna de las áreas de refugio para proteger especies acuáticas coincida con el polígono de algún área natural protegida, el programa de protección respectivo deberá compatibilizarse con los objetivos generales establecidos en la declaratoria correspondiente y en el programa de manejo del área natural protegida en cuestión.
 
-2. En los casos a que se refiere el párrafo anterior, corresponderá a la Agencia Ambiental llevar a cabo la coordinación de las medidas de manejo y conservación establecidas en el programa de protección.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En los casos a que se refiere el párrafo anterior, corresponderá a la Secretaría llevar a cabo la coordinación de las medidas de manejo y conservación establecidas en el programa de protección.
 
 ###### ARTICULO 234.
 
@@ -3307,9 +3753,11 @@ La realización de cualquier obra o de aquellas actividades que puedan afectar l
 
 DE LA RESTAURACION, REHABILITACION Y RECUPERACION.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 235.
 
-Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Agencia Ambiental, con la colaboración de la Comisión, formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, tomando en cuenta lo dispuesto en los artículos 78, 78 bis y 78 bis 1 de la Ley General, y de conformidad con lo establecido en el Reglamento de este Libro y las demás disposiciones aplicables.
+Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Secretaría, con la colaboración de la Comisión, formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, tomando en cuenta lo dispuesto en los artículos 78, 78 bis y 78 bis 1 de la Ley General, y de conformidad con lo establecido en el Reglamento de este Libro y las demás disposiciones aplicables.
 
 ### CAPITULO V. DE LAS VEDAS
 
@@ -3321,11 +3769,9 @@ Cuando se presenten problemas de destrucción, contaminación, degradación, des
 
 3. Las vedas podrán establecerse, modificarse o levantarse a solicitud de las personas físicas o morales interesadas, las que deberán presentar los estudios de población correspondientes de conformidad con lo establecido en el Reglamento de este Libro. La Comisión evaluará estos antecedentes y la información disponible sobre los aspectos biológicos, sociales y económicos involucrados y resolverá lo que corresponda.
 
-# LIBRO SEXTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2018)</small>
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
-
-DE LOS PROCEDIMIENTOS ANTE LA AGENCIA AMBIENTAL
+# LIBRO SEXTO. DE LOS PROCEDIMIENTOS ANTE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 ## TITULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO AMBIENTAL
 
@@ -3337,15 +3783,19 @@ DISPOSICIONES GENERALES
 
 ###### ARTICULO 237.
 
-1. Las disposiciones de este Título se aplicarán a los actos, procedimientos y resoluciones que se tramiten ante la Agencia Ambiental, a excepción de la regulación que se encuentre prevista de manera expresa en el presente Código.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Las disposiciones de este Título se aplicarán a los actos, procedimientos y resoluciones que se tramiten ante la Secretaría, a excepción de la regulación que se encuentre prevista de manera expresa en el presente Código.
 
 2. La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
 
 3. El procedimiento administrativo ambiental podrá iniciarse de oficio o a petición de parte interesada.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 238.
 
-Los escritos regulados por este Libro deberán ser presentados ante la Agencia Ambiental, de manera personal, por correo o mediante mensajería, salvo el caso en que se encuentre previsto de manera expresa en el presente Código.
+Los escritos regulados por este Libro deberán ser presentados ante la Secretaría, de manera personal, por correo o mediante mensajería, salvo el caso en que se encuentre previsto de manera expresa en el presente Código.
 
 ### CAPITULO II. DEL ACTO ADMINISTRATIVO AMBIENTAL
 
@@ -3377,9 +3827,11 @@ XI. Tratándose de actos administrativos recurribles deberá hacerse mención de
 
 XII. Ser expedido atendiendo los puntos planteados por el promovente o que estén establecidos por el Código.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 240.
 
-Los actos administrativos de carácter general, que expida la Agencia Ambiental, deberán publicarse en el Periódico Oficial del Estado.
+Los actos administrativos de carácter general, que expida la Secretaría, deberán publicarse en el Periódico Oficial del Estado.
 
 ### CAPITULO III
 
@@ -3393,9 +3845,9 @@ El acto administrativo será válido hasta en tanto su invalidez no haya sido de
 
 1. El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste a la Agencia Ambiental desde la fecha en que se dictó o aquélla que tenga señalada para iniciar su vigencia; así como los casos en virtud de los cuales se realicen actos de inspección, investigación y vigilancia conforme a las disposiciones de este Código, los cuales son exigibles a partir de la fecha en que la Agencia Ambiental los efectúe.
+2. Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste a la Secretaría desde la fecha en que se dictó o aquélla que tenga señalada para iniciar su vigencia; así como los casos en virtud de los cuales se realicen actos de inspección, investigación y vigilancia conforme a las disposiciones de este Código, los cuales son exigibles a partir de la fecha en que la Secretaría los efectúe.
 
 ### CAPITULO IV
 
@@ -3427,7 +3879,9 @@ V. El lugar y fecha de su emisión.
 
 ###### ARTICULO 245.
 
-La Agencia Ambiental, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+La Secretaría en sus relaciones con los particulares, tendrá las siguientes obligaciones:
 
 I. Solicitar la comparecencia de éstos, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
@@ -3453,7 +3907,9 @@ X. Dictar resolución expresa sobre cuantas peticiones le formulen, dentro del p
 
 ###### ARTICULO 246.
 
-1. Salvo que ya se encuentre previsto de manera expresa en el presente Código, no podrá exceder de tres meses el tiempo para que la Agencia Ambiental resuelva lo que corresponda.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Salvo que ya se encuentre previsto de manera expresa en el presente Código, no podrá exceder de tres meses el tiempo para que la Secretaría resuelva lo que corresponda.
 
 2. Transcurrido el plazo referido o el aplicable, se entenderá que la falta de resolución entraña la negativa, salvo que en forma expresa se determine la afirmativa en éste Código.
 
@@ -3461,7 +3917,9 @@ X. Dictar resolución expresa sobre cuantas peticiones le formulen, dentro del p
 
 ###### ARTICULO 247.
 
-1. Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Agencia Ambiental deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión. Transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Secretaría deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión. Transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
 
 2. La prevención de información faltante deberá hacerse dentro del primer tercio del plazo de respuesta o, de no requerirse resolución alguna, dentro de los diez días hábiles siguientes a la presentación del escrito correspondiente. La fracción de día que en su caso resulte de la división del plazo de respuesta se computará como un día completo. En caso de que la resolución del trámite sea inmediata, la prevención de información faltante también deberá hacerse de manera inmediata a la presentación del escrito respectivo.
 
@@ -3481,7 +3939,9 @@ El procedimiento administrativo continuará de oficio, sin perjuicio del impulso
 
 1. Los promoventes con capacidad de ejercicio podrán actuar por sí o por medio de representante o apoderado.
 
-2. La representación de las personas físicas o morales ante la Agencia Ambiental para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público, y en el caso de personas físicas, también mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público, o declaración en comparecencia personal del interesado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La representación de las personas físicas o morales ante la Secretaría para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público, y en el caso de personas físicas, también mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público, o declaración en comparecencia personal del interesado.
 
 ###### ARTICULO 251.
 
@@ -3497,11 +3957,13 @@ Cuando en una solicitud, escrito o comunicación figuren varios interesados, las
 
 Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles. Los días considerados como inhábiles serán los sábados y domingos; los que se señalen como de descanso obligatorio por las disposiciones de la Ley Federal del Trabajo y los días en que se tengan vacaciones generales o así se determine en virtud de las disposiciones de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 254.
 
-1. Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundada y motivada por la Agencia Ambiental.
+1. Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundada y motivada por la Secretaría.
 
-2. Cuando así lo requiera la Agencia Ambiental podrá habilitar días inhábiles.
+2. Cuando así lo requiera la Secretaría podrá habilitar días inhábiles.
 
 ###### ARTICULO 255.
 
@@ -3515,11 +3977,15 @@ Las actuaciones y diligencias administrativas se practicarán en días y horas h
 
 1. Las diligencias o actuaciones del procedimiento administrativo se efectuarán en un horario de 8:00 a 16:00 horas. Una diligencia iniciada en horas hábiles podrá concluirse en día y hora inhábiles sin afectar su validez.
 
-2. Cuando así lo requiera, la Agencia Ambiental podrá habilitar horas inhábiles.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. Cuando así lo requiera, la Secretaría podrá habilitar horas inhábiles.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 257.
 
-La Agencia Ambiental, podrá ampliar los términos y plazos establecidos en éste Código, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
+La Secretaría, podrá ampliar los términos y plazos establecidos en éste Código, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
 
 ###### ARTICULO 258.
 
@@ -3549,9 +4015,13 @@ DEL ACCESO A LA DOCUMENTACION E INFORMACION.
 
 1. En los procedimientos administrativos ambientales se admitirán toda clase de pruebas, excepto la confesional de las autoridades y la testimonial. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-2. La Agencia Ambiental podrá allegarse los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-3. La Agencia Ambiental acordará sobre la admisibilidad de las pruebas ofrecidas. Sólo podrá rechazar las pruebas propuestas cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho. Tal resolución deberá estar debidamente fundada y motivada.
+2. La Secretaría podrá allegarse los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+3. La Secretaría acordará sobre la admisibilidad de las pruebas ofrecidas. Sólo podrá rechazar las pruebas propuestas cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho. Tal resolución deberá estar debidamente fundada y motivada.
 
 ###### ARTICULO 262.
 
@@ -3561,17 +4031,23 @@ DEL ACCESO A LA DOCUMENTACION E INFORMACION.
 
 3. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 263.
 
-La Agencia Ambiental notificará a los interesados, con una anticipación de tres días, el inicio de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas.
+La Secretaría notificará a los interesados, con una anticipación de tres días, el inicio de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 264.
 
-Cuando las disposiciones legales así lo establezcan o se juzgue pertinente para la Agencia Ambiental, se solicitarán los informes u opiniones necesarios para resolver el asunto, citándose el precepto que lo exija o motivando, en su caso, la conveniencia de solicitarlos.
+Cuando las disposiciones legales así lo establezcan o se juzgue pertinente para la Secretaría, se solicitarán los informes u opiniones necesarios para resolver el asunto, citándose el precepto que lo exija o motivando, en su caso, la conveniencia de solicitarlos.
 
 ###### ARTICULO 265.
 
-1. Los informes u opiniones de otros órganos administrativos podrán ser de obligatoria solicitud para la Agencia Ambiental cuando así se señale en éste Código, los demás tendrán carácter de solicitud discrecional.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Los informes u opiniones de otros órganos administrativos podrán ser de obligatoria solicitud para la Secretaría cuando así se señale en éste Código, los demás tendrán carácter de solicitud discrecional.
 
 2. Los informes u opiniones sólo serán vinculatorios cuando así lo establezca expresamente éste Código.
 
@@ -3583,7 +4059,9 @@ Cuando las disposiciones legales así lo establezcan o se juzgue pertinente para
 
 ###### ARTICULO 266.
 
-1. Concluida la tramitación del procedimiento administrativo y antes de dictar resolución se pondrán las actuaciones a disposición de los interesados para que, en su caso, formulen alegatos, los que serán tomados en cuenta por la Agencia Ambiental al dictar la resolución.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Concluida la tramitación del procedimiento administrativo y antes de dictar resolución se pondrán las actuaciones a disposición de los interesados para que, en su caso, formulen alegatos, los que serán tomados en cuenta por la Secretaría al dictar la resolución.
 
 2. En un plazo no mayor a cinco días los interesados podrán presentar por escrito sus alegatos.
 
@@ -3609,7 +4087,9 @@ V. La imposibilidad material de continuarlo por causas supervenientes.
 
 ###### ARTICULO 268.
 
-1. En el procedimiento administrativo ambiental iniciado a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo durante un periodo de 45 días, se producirá la caducidad del mismo. La Agencia Ambiental hará el asiento correspondiente en el expediente y acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en este Código.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. En el procedimiento administrativo ambiental iniciado a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo durante un periodo de 45 días, se producirá la caducidad del mismo. La Secretaría hará el asiento correspondiente en el expediente y acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en este Código.
 
 2. La caducidad no producirá por sí misma la prescripción de las acciones del particular, pero los procedimientos caducados no interrumpen ni suspenden el plazo de prescripción.
 
@@ -3633,25 +4113,33 @@ Serán sujetos del procedimiento a que se refiere este Título:
 
 I. Los responsables de las obras o actividades que hayan iniciado labores de construcción u operación, sin contar con la autorización correspondiente;
 
-II. Quien o quienes, sin contar con la autorización expresa que se requiere de la Agencia Ambiental, aproveche, use, goce, disponga y, en general, utilice, con fines de lucro o sin él, los recursos naturales, flora y fauna silvestres o los recursos bióticos de las áreas naturales protegidas de competencia estatal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-III. Los responsables de emisiones a la atmósfera, descargas, acopio, disposición o manejo de contaminantes, aguas residuales o residuos de manejo especial, sin el permiso o autorización de la Agencia Ambiental, cuando sean requeridos en términos del presente Código, o aún contando con el permiso o autorización, se produzcan efectos ambientales excedentes de los parámetros autorizados;
+II. Quien o quienes, sin contar con la autorización expresa que se requiere de la Secretaría, aproveche, use, goce, disponga y, en general, utilice, con fines de lucro o sin él, los recursos naturales, flora y fauna silvestres o los recursos bióticos de las áreas naturales protegidas de competencia estatal;
 
-IV. El que contando con un permiso o autorización o en la gestión para obtenerla, proporcione datos falsos a la Agencia Ambiental en informes, manifestaciones, reportes, registros, cédulas y, en general, cualquier información a la que estén obligados en términos de este Código, siempre que de tal falsedad se pueda presumir la existencia de un daño ambiental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Los responsables de emisiones a la atmósfera, descargas, acopio, disposición o manejo de contaminantes, aguas residuales o residuos de manejo especial, sin el permiso o autorización de la Secretaría, cuando sean requeridos en términos del presente Código, o aún contando con el permiso o autorización, se produzcan efectos ambientales excedentes de los parámetros autorizados;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+IV. El que contando con un permiso o autorización o en la gestión para obtenerla, proporcione datos falsos a la Secretaría en informes, manifestaciones, reportes, registros, cédulas y, en general, cualquier información a la que estén obligados en términos de este Código, siempre que de tal falsedad se pueda presumir la existencia de un daño ambiental;
 
 V. El que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad y cuya consecuencia sea un daño ambiental; y
 
 VI. El que por acción u omisión genere un daño ambiental.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 271.
 
-El procedimiento por daño ambiental podrá ser iniciado por la Agencia Ambiental, la cual ordenará las medidas de seguridad, correctivas o de urgente aplicación que procedan.
+El procedimiento por daño ambiental podrá ser iniciado por la Secretaría, la cual ordenará las medidas de seguridad, correctivas o de urgente aplicación que procedan.
 
 ###### ARTICULO 272.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. Sin demérito de las facultades de la Agencia Ambiental, los responsables de las obras o actividades referidas en el artículo 270, podrán solicitar voluntariamente de la Agencia Ambiental la evaluación de un estudio de daños ambientales bajo los lineamientos que para tal efecto formule la propia Agencia.
+1. Sin demérito de las facultades de la Secretaría, los responsables de las obras o actividades referidas en el artículo 270, podrán solicitar voluntariamente de la Secretaría la evaluación de un estudio de daños ambientales bajo los lineamientos que para tal efecto formule la propia Secretaría.
 
 2. El estudio deberá contener, por lo menos:
 
@@ -3663,17 +4151,23 @@ III. Análisis, en su caso, del riesgo; y
 
 IV. Propuesta de medios de mitigación y compensación a los impactos identificados.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 273.
 
-En cualquier momento del procedimiento de evaluación del daño ambiental, la Agencia Ambiental podrá suspender las obras o actividades iniciadas, cuando el impacto adverso ocasionado haya atentado, atente o pueda ocasionar afectaciones contra la salud de las personas, o riesgo para el equilibrio ecológico, los ecosistemas o los recursos que lo integran, y los bienes y propiedades pertenecientes a los particulares.
+En cualquier momento del procedimiento de evaluación del daño ambiental, la Secretaría podrá suspender las obras o actividades iniciadas, cuando el impacto adverso ocasionado haya atentado, atente o pueda ocasionar afectaciones contra la salud de las personas, o riesgo para el equilibrio ecológico, los ecosistemas o los recursos que lo integran, y los bienes y propiedades pertenecientes a los particulares.
 
 ###### ARTICULO 274.
 
-1. La recepción del estudio para la evaluación por daño ambiental a cargo de la Agencia Ambiental no presupone la autorización de la obra o actividad causante del daño; sin embargo, el interesado podrá solicitar autorización para continuar con la misma durante el procedimiento de su evaluación, para lo cual deberá garantizar fehacientemente, a juicio de la Agencia Ambiental, la reparación del probable daño ambiental causado o que pudiere causar y las sanciones por las violaciones al Código en las que hubiere incurrido.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La recepción del estudio para la evaluación por daño ambiental a cargo de la Secretaría no presupone la autorización de la obra o actividad causante del daño; sin embargo, el interesado podrá solicitar autorización para continuar con la misma durante el procedimiento de su evaluación, para lo cual deberá garantizar fehacientemente, a juicio de la Secretaría, la reparación del probable daño ambiental causado o que pudiere causar y las sanciones por las violaciones al Código en las que hubiere incurrido.
 
 2. La solicitud referida en el párrafo anterior deberá presentarse bajo protesta de decir verdad, conteniendo la descripción de los actos y omisiones que causaron el procedimiento.
 
-3. Una vez presentada y autorizada la garantía, la Agencia Ambiental podrá acordar la continuación de la obra o la actividad, siempre que la misma no implique:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+3. Una vez presentada y autorizada la garantía, la Secretaría podrá acordar la continuación de la obra o la actividad, siempre que la misma no implique:
 
 I. La Contravención del interés público;
 
@@ -3691,7 +4185,9 @@ VI. La actuación en áreas naturales protegidas.
 
 ###### ARTICULO 275.
 
-1. Una vez recibido el estudio por daño ambiental, la Agencia Ambiental, lo evaluará y, considerando la gravedad del daño ambiental, el lucro obtenido por el responsable, los beneficios o perjuicios al desarrollo sustentable regional que pudiera generar la obra o actividad de que se trate, el impacto al ambiente ocurrido previamente a la causal del procedimiento y la reincidencia del responsable, podrá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. Una vez recibido el estudio por daño ambiental, la Secretaría, lo evaluará y, considerando la gravedad del daño ambiental, el lucro obtenido por el responsable, los beneficios o perjuicios al desarrollo sustentable regional que pudiera generar la obra o actividad de que se trate, el impacto al ambiente ocurrido previamente a la causal del procedimiento y la reincidencia del responsable, podrá:
 
 I. Autorizar la obra o actividad;
 
@@ -3703,9 +4199,11 @@ III. Negar definitivamente la autorización para la obra o actividad.
 
 3. En todo caso, se aplicará la garantía presentada por el particular para la autorización provisional de la continuación de la obra o actividad.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 276.
 
-En los casos en que la Agencia Ambiental tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en el Código Penal para el Estado, deberá formular y presentar la denuncia ante la autoridad competente de procuración de justicia.
+En los casos en que la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en el Código Penal para el Estado, deberá formular y presentar la denuncia ante la autoridad competente de procuración de justicia.
 
 ###### ARTICULO 277.
 
@@ -3719,7 +4217,9 @@ En los casos de personas morales responsables de daños ambientales o contra la 
 
 ###### ARTICULO 278.
 
-1. Toda persona, grupo social, organización no gubernamental, asociación y sociedad, por si o mediante un representante común, podrán denunciar ante la Agencia Ambiental, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al medio ambiente o a los recursos naturales, o contravenga las disposiciones del presente Código y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Toda persona, grupo social, organización no gubernamental, asociación y sociedad, por sí o mediante un representante común, podrán denunciar ante la Secretaría, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al medio ambiente o a los recursos naturales, o contravenga las disposiciones del presente Código y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
 2. Cuando una autoridad estatal o municipal sin competencia en la materia reciba una denuncia de las referidas en el párrafo anterior, deberá turnarla a la autoridad competente para su atención y desahogo en un plazo que no exceda los diez días hábiles contados a partir de la fecha en que se recibió la misma.
 
@@ -3741,25 +4241,33 @@ IV. Las pruebas que, en su caso, ofrezca.
 
 4. El denunciante podrá solicitar a la autoridad correspondiente, guardar secreto respecto de su identidad, por razones de seguridad, sin perjuicio del seguimiento de la denuncia conforme a las atribuciones que le otorgan el presente Código y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 280.
 
-Con base en la recepción de la denuncia en términos de los supuestos del artículo anterior, la Agencia Ambiental o, en su caso, el Ayuntamiento, llevarán a cabo las diligencias necesarias para la comprobación de los hechos denunciados y realizará la evaluación correspondiente.
+Con base en la recepción de la denuncia en términos de los supuestos del artículo anterior, la Secretaría o, en su caso, el Ayuntamiento, llevarán a cabo las diligencias necesarias para la comprobación de los hechos denunciados y realizará la evaluación correspondiente.
 
 ###### ARTICULO 281.
 
-1. La Agencia Ambiental con base en sus atribuciones, iniciará las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación vigente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría con base en sus atribuciones, iniciará las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación vigente.
 
 2. Lo anterior sin demérito de lo que corresponda a los procesos de inspección y vigilancia.
 
 ###### ARTICULO 282.
 
-1. La Agencia Ambiental o el Ayuntamiento, en su caso, dispondrá las acciones de inspección procedentes con la celeridad que amerite los hechos denunciados conforme las disposiciones de este Libro, al practicar la notificación a la persona o personas a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. La Secretaría o el Ayuntamiento, en su caso, dispondrá las acciones de inspección procedentes con la celeridad que amerite los hechos denunciados conforme las disposiciones de este Libro, al practicar la notificación a la persona o personas a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida.
 
 2. Hecha la notificación el presunto responsable deducirá sus derechos en términos de las disposiciones de inspección y vigilancia de este Libro.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 283.
 
-La Agencia Ambiental, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante, el trámite que se haya dado a aquélla y, en su oportunidad, el resultado de la verificación de los hechos objeto de la denuncia, así como de las medidas y sanciones impuestas, en su caso, dentro de la resolución correspondiente.
+La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante, el trámite que se haya dado a aquélla y, en su oportunidad, el resultado de la verificación de los hechos objeto de la denuncia, así como de las medidas y sanciones impuestas, en su caso, dentro de la resolución correspondiente.
 
 ## TITULO SEGUNDO. DE LA INSPECCION Y VIGILANCIA
 
@@ -3815,9 +4323,11 @@ IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de q
 
 5. La persona con quien se entienda la visita, podrá formular observaciones al final de la misma, las cuales deberán quedar asentadas en el acta; asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella, o bien ofrecerlas por escrito dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 288.
 
-La Agencia Ambiental o los Ayuntamientos, en su caso, de conformidad con las disposiciones aplicables podrán verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+La Secretaría o los Ayuntamientos, en su caso, de conformidad con las disposiciones aplicables podrán verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
 
 ###### ARTICULO 289.
 
@@ -3825,9 +4335,13 @@ La autoridad competente podrá solicitar el auxilio de la fuerza pública para e
 
 ###### ARTICULO 290.
 
-1. Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o urgentes necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días hábiles exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Agencia Ambiental o los Ayuntamientos, cuando les corresponda.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-2. El tiempo para el desahogo de pruebas será de quince días. De ser el caso, y cuando la naturaleza de las pruebas lo amerite, la Agencia Ambiental o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
+1. Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o urgentes necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días hábiles exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Secretaría o los Ayuntamientos, cuando les corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. El tiempo para el desahogo de pruebas será de quince días. De ser el caso, y cuando la naturaleza de las pruebas lo amerite, la Secretaría o los Ayuntamientos, según corresponda, podrán acordar la ampliación para el desahogo de las pruebas.
 
 3. Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos. Sin importar que el interesado haya hecho uso o no de su derecho de ofrecer pruebas, la autoridad deberá acordar lo conducente.
 
@@ -3839,23 +4353,29 @@ La autoridad competente podrá solicitar el auxilio de la fuerza pública para e
 
 2. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora haber dado cumplimiento a los términos del requerimiento respectivo. En los casos en que el infractor cumpla con las medidas ordenadas por la autoridad, o subsane las irregularidades que motivaron la imposición de la sanción, la autoridad podrá modificar o revocar la sanción impuesta. Para ello, el infractor no deberá ser reincidente.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 292.
 
-Cuando así proceda, la Agencia Ambiental o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
+Cuando así proceda, la Secretaría o los Ayuntamientos, en su caso, harán del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
 ## TITULO TERCERO
 
 ### CAPITULO UNICO. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 293.
 
-1. En casos donde se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Estado y no requieran de la acción exclusiva de la Federación o en casos de contaminación con repercusiones peligrosas para la salud humana, la biodiversidad, los ecosistemas y sus componentes, el titular de la Agencia Ambiental y los Ayuntamientos podrán ordenar como medida de seguridad la retención de sustancias o materiales contaminantes, la clausura temporal, parcial o total de las fuentes contaminantes y promoverán ante las autoridades competentes en los términos de las disposiciones aplicables, la ejecución de las medidas de seguridad que se establezcan para tal efecto.
+1. En casos donde se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Estado y no requieran de la acción exclusiva de la Federación o en casos de contaminación con repercusiones peligrosas para la salud humana, la biodiversidad, los ecosistemas y sus componentes, el titular de la Secretaría y los Ayuntamientos podrán ordenar como medida de seguridad la retención de sustancias o materiales contaminantes, la clausura temporal, parcial o total de las fuentes contaminantes y promoverán ante las autoridades competentes en los términos de las disposiciones aplicables, la ejecución de las medidas de seguridad que se establezcan para tal efecto.
 
-2. Cuando los ordenamientos a que se refiere el párrafo anterior, no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la Agencia Ambiental o los Ayuntamientos previa opinión de las autoridades competentes, emitirán las disposiciones conducentes.
+2. Cuando los ordenamientos a que se refiere el párrafo anterior, no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la Secretaría o los Ayuntamientos previa opinión de las autoridades competentes, emitirán las disposiciones conducentes.
 
 ###### ARTICULO 294.
 
-1. Cuando la Agencia Ambiental o los Ayuntamientos, en caso de su competencia, estimen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales; casos de contaminación con repercusiones peligrosas para la salud de las personas, los ecosistemas o sus componentes, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. Cuando la Secretaría o los Ayuntamientos, en caso de su competencia, estimen que existe riesgo inminente de desequilibrio ecológico, de daño o deterioro graves a los elementos y recursos naturales; casos de contaminación con repercusiones peligrosas para la salud de las personas, los ecosistemas o sus componentes, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
 
 I. La clausura temporal parcial o total, de las fuentes contaminantes, de las instalaciones en que se manejen o almacenen productos o subproductos de sustancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el presente artículo;
 
@@ -3865,7 +4385,9 @@ III. La neutralización o cualquier acción análoga para impedir que materiales
 
 IV. La suspensión de obras o actividades.
 
-2. La Agencia Ambiental o los Ayuntamientos, en su caso, podrán promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. La Secretaría o los Ayuntamientos, en su caso, podrán promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
 ###### ARTICULO 295.
 
@@ -3879,7 +4401,9 @@ DISPOSICIONES GENERALES.
 
 ###### ARTICULO 296.
 
-1. Para la imposición de las sanciones por infracciones a este Código, se tomará en cuenta:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Para la imposición de las sanciones por infracciones a este Código, se tomará en cuenta:
 
 I. La gravedad de la infracción, considerando principalmente los siguientes criterios: impacto en la salud de las personas; generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad; y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en las Normas Oficiales Mexicanas o las Normas Ambientales Estatales aplicables;
 
@@ -3897,7 +4421,9 @@ VI. El cumplimiento voluntario de las obligaciones ambientales.
 
 1. Solo tratándose del pago de multas la autoridad competente, podrá otorgar al infractor la opción para pagarla o de realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del medio ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor.
 
-2. En los casos de infracciones a este Código que impliquen la reparación del daño causado al medio ambiente, la Agencia Ambiental o los Ayuntamientos, en su caso, no podrán establecer ninguna excepción o condonación al cumplimiento de las obligaciones correlativas.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+2. En los casos de infracciones a este Código que impliquen la reparación del daño causado al medio ambiente, la Secretaría o los Ayuntamientos, en su caso, no podrán establecer ninguna excepción o condonación al cumplimiento de las obligaciones correlativas.
 
 ###### ARTICULO 298.
 
@@ -3913,17 +4439,21 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 ###### ARTICULO 300.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. La Agencia y los Ayuntamientos, en su caso, podrán establecer programas para el cumplimiento voluntario de las obligaciones ambientales fuera de los plazos señalados por los ordenamientos aplicables. Dicho cumplimiento no eximirá de la responsabilidad contraída por el infractor y de que, a través del procedimiento administrativo pertinente se le imponga la sanción que corresponda. En caso de que proceda la imposición de una multa esta podrá ser reducida entre un treinta a un sesenta por ciento en su monto de acuerdo a lo previsto en el presente Código, sobre la base de las características y gravedad de las obligaciones incumplidas.
+1. La Secretaría y los Ayuntamientos, en su caso, podrán establecer programas para el cumplimiento voluntario de las obligaciones ambientales fuera de los plazos señalados por los ordenamientos aplicables. Dicho cumplimiento no eximirá de la responsabilidad contraída por el infractor y de que, a través del procedimiento administrativo pertinente se le imponga la sanción que corresponda. En caso de que proceda la imposición de una multa esta podrá ser reducida entre un treinta a un sesenta por ciento en su monto de acuerdo a lo previsto en el presente Código, sobre la base de las características y gravedad de las obligaciones incumplidas.
 
 2. Se considerará que el cumplimiento no es voluntario en los siguientes casos:
 
 I. Exista cualquier procedimiento administrativo abierto por el cumplimento específico de dichas obligaciones;
 
-II. Se encuentre dentro del término de cinco días otorgados para manifestar lo que a su derecho convenga después de practicada una visita de inspección por parte de la Agencia Ambiental o los Ayuntamientos, en su caso;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-III. Se le haya dejado citatorio por parte de la Agencia Ambiental o el Ayuntamiento, en su caso, en el que se le informe la fecha y hora en la que se va practicar una visita de inspección;
+II. Se encuentre dentro del término de cinco días otorgados para manifestar lo que a su derecho convenga después de practicada una visita de inspección por parte de la Secretaría o los Ayuntamientos, en su caso;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Se le haya dejado citatorio por parte de la Secretaría o el Ayuntamiento, en su caso, en el que se le informe la fecha y hora en la que se va practicar una visita de inspección;
 
 IV. Después de iniciado un trámite donde sea necesario o la autoridad le requiera comprobante del cumplimento de la obligación ambiental;
 
@@ -3935,15 +4465,17 @@ VI. Cualquier otra que señale la legislación aplicable.
 
 ###### ARTICULO 301.
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
-1. La Agencia Ambiental podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia, la elaboración de dictámenes que serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos a que se refiere este Código, así como en otros actos que realice la propia Agencia Ambiental.
+1. La Secretaría podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia, la elaboración de dictámenes que serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos a que se refiere este Código, así como en otros actos que realice la propia Secretaría.
 
 2. En caso de se acredite la infracción, el costo del dictamen solicitado será considerado al momento de establecer la sanción pecuniaria, cuando así proceda.
 
 ###### ARTICULO 302.
 
-A solicitud de los interesados, la Agencia Ambiental y los Ayuntamientos, en su caso, podrán celebrar convenios en los que pongan fin a un procedimiento en concreto, siempre que concurran las siguientes condiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+A solicitud de los interesados, la Secretaría y los Ayuntamientos, en su caso, podrán celebrar convenios en los que pongan fin a un procedimiento en concreto, siempre que concurran las siguientes condiciones:
 
 I. Impliquen el incumplimiento de una norma imperativa, para la protección de la salud humana, el medio ambiente y el desarrollo sustentable;
 
@@ -3961,7 +4493,9 @@ DE LAS SANCIONES POR ACTOS EN CONTRA DEL MEDIO AMBIENTE.
 
 ###### ARTICULO 304.
 
-1. Las violaciones a los preceptos de este Código, constituyen infracción y serán sancionadas administrativamente por la Agencia Ambiental o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+1. Las violaciones a los preceptos de este Código, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
 I. Amonestación a quien;
 
@@ -3997,7 +4531,9 @@ a) Rebase los límites permisibles de ruido, vibraciones, energía térmica, y l
 
 b) No respete los límites o disposiciones establecidos por autoridad competente, en materia de emisiones a la atmósfera por fuente fija;
 
-c) Posterior a la amonestación, no presente la cédula de operación anual en los términos solicitados por la Agencia Ambiental o los Ayuntamientos, cuando les corresponda;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+c) Posterior a la amonestación, no presente la cédula de operación anual en los términos solicitados por la Secretaría o los Ayuntamientos, cuando les corresponda;
 
 d) Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales;
 
@@ -4049,7 +4585,9 @@ DE LAS SANCIONES POR EL MANEJO DE RESIDUOS.
 
 ###### ARTICULO 305.
 
-Las violaciones a los preceptos del Libro Tercero del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Agencia Ambiental o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Las violaciones a los preceptos del Libro Tercero del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
 I. Multa equivalente de 20 a 100 días de salario mínimo vigente en la capital del Estado a quien, deposite, incentive, abandone, derrame o queme residuos sólidos urbanos en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predio de propiedad privada y cuerpos o corrientes de agua de competencia estatal;
 
@@ -4065,13 +4603,17 @@ a) Genere, maneje o disponga residuos de manejo especial sin previa autorizació
 
 b) Deposite, incentive, abandone, derrame o queme residuos de manejo especial en bienes de uso común, caminos, carreteras, derechos de vía, lotes baldíos, predio de propiedad privada y cuerpos o corrientes de agua de competencia estatal; o
 
-c) Autorice el uso para la disposición de residuos de manejo especial o sólidos urbanos sin la autorización de la Agencia Ambiental.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+c) Autorice el uso para la disposición de residuos de manejo especial o sólidos urbanos sin la autorización de la Secretaría.
 
 ### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LAS AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 306.
 
-Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Agencia Ambiental o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
+
+Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4083,9 +4625,11 @@ II. Multa equivalente de cinco mil a veinte mil veces el valor diario de la Unid
 
 ### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LA VIDA SILVESTRE
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 307.
 
-Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Agencia Ambiental o los Ayuntamientos, conforme a lo que se establezca en los Convenios de Colaboración y Coordinación que estos celebren con la Federación, referentes a la materia de protección a la Vida Silvestre.
+Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Secretaría o los Ayuntamientos, conforme a lo que se establezca en los Convenios de Colaboración y Coordinación que estos celebren con la Federación, referentes a la materia de protección a la Vida Silvestre.
 
 # LIBRO OCTAVO. DE LOS MEDIOS DE IMPUGNACION
 
@@ -4099,9 +4643,11 @@ Las violaciones a los preceptos del Libro Quinto del presente ordenamiento, cons
 
 2. El recurso se presentará ante el órgano o la unidad administrativa que emitió el acto o resolución.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 309.
 
-El recurso de revisión se interpondrá por escrito debiendo el promovente depositar fianza de garantía suficiente para garantizar el acto o la resolución impugnada, ante el titular de la Agencia Ambiental, en el caso del Estado, y ante el Presidente Municipal respectivo, en el caso de los Ayuntamientos, sin perjuicio de lo que en esta materia dispongan los bandos, ordenanzas, reglamentos municipales, personalmente o por correo certificado con acuse de recibo, en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente se haya depositado en el Servicio Postal Mexicano.
+El recurso de revisión se interpondrá por escrito debiendo el promovente depositar fianza de garantía suficiente para garantizar el acto o la resolución impugnada, ante el titular de la Secretaría, en el caso del Estado, y ante el Presidente Municipal respectivo, en el caso de los Ayuntamientos, sin perjuicio de lo que en esta materia dispongan los bandos, ordenanzas, reglamentos municipales, personalmente o por correo certificado con acuse de recibo, en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente se haya depositado en el Servicio Postal Mexicano.
 
 ###### ARTICULO 310.
 
@@ -4137,7 +4683,9 @@ IV. Las pruebas que se acompañen, junto con el pliego de posiciones, en su caso
 
 ###### ARTICULO 312.
 
-1. El promovente podrá ofrecer como medios de prueba, los que estime conducentes a la demostración de sus pretensiones, salvo la confesional de la autoridad y los testimoniales siendo admisibles cualesquiera que sean adecuados para que produzcan convicción en el titular de la Agencia Ambiental o el Presidente Municipal, en su caso.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El promovente podrá ofrecer como medios de prueba, los que estime conducentes a la demostración de sus pretensiones, salvo la confesional de la autoridad y los testimoniales siendo admisibles cualesquiera que sean adecuados para que produzcan convicción en el titular de la Secretaría o el Presidente Municipal, en su caso.
 
 2. Son admisibles los siguientes medios de prueba:
 
@@ -4145,7 +4693,9 @@ I. Documentos públicos y privados;
 
 II. Dictámenes periciales;
 
-III. Reconocimiento, examen o inspección del titular de la Agencia Ambiental o el Presidente Municipal, cuando le corresponda;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+III. Reconocimiento, examen o inspección del titular de la Secretaría o el Presidente Municipal, cuando le corresponda;
 
 IV. Fotografías, copias fotostáticas, registros dactiloscópicos, reproducciones, experimentos y, en general, todos aquellos elementos aportados por la ciencia;
 
@@ -4155,7 +4705,9 @@ VI. Presunciones.
 
 ###### ARTICULO 313.
 
-1. Dentro de los diez días hábiles siguientes, contados a partir de la presentación del recurso, el titular de la Agencia Ambiental y el Presidente Municipal, en caso de los Ayuntamientos, deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. Dentro de los diez días hábiles siguientes, contados a partir de la presentación del recurso, el titular de la Secretaría y el Presidente Municipal, en caso de los Ayuntamientos, deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente.
 
 2. Si se admite el recurso a trámite, deberá pronunciarse respecto al desahogo y en su caso admisión de las probanzas ofrecidas.
 
@@ -4215,7 +4767,9 @@ V. En los demás casos en que por disposición legal haya impedimento para emiti
 
 ###### ARTICULO 317.
 
-1. El titular de la Agencia Ambiental o el Presidente Municipal, en el caso de los Ayuntamientos, emitirá la resolución del recurso dentro de los 20 días hábiles siguientes al término del periodo para la formulación de los alegatos.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
+
+1. El titular de la Secretaría o el Presidente Municipal, en el caso de los Ayuntamientos, emitirá la resolución del recurso dentro de los 20 días hábiles siguientes al término del periodo para la formulación de los alegatos.
 
 2. La resolución que confirme, modifique o revoque el acto o la resolución recurrida, se fundarán en derecho y examinará todos los agravios hechos valer por el recurrente. Cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
 
@@ -4330,3 +4884,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
