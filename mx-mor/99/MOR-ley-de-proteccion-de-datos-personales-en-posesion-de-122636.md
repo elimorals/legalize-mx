@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-de-datos-personales-en-posesion-de-122636"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-07-26"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Ley publicada en el Número 5516 del Periódico Oficial del Estado de Morelos, el miércoles 26 de julio de 2017.
 
@@ -827,9 +827,9 @@ IX. Cuando sean necesarios para proteger intereses jurídicamente tutelados del 
 
 X. Cuando sean necesarios para dar cumplimiento a obligaciones legalmente adquiridas por el titular;
 
-XI. Cuando en función de sus atribuciones legales el uso cotidiano, resguardo y manejo sean necesarios y proporcionales para mantener la integridad, estabilidad y permanencia del Estado mexicano, o
+XI. (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
-XII. Cuando los datos personales sean parte de la información que las entidades sujetas a la regulación y supervisión financiera del sujeto obligado hayan proporcionado a éste, en cumplimiento a requerimientos de dicha información sobre sus operaciones, organización y actividades.
+XII. (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
 En todos los casos anteriores, el responsable, a través de su Unidad de Transparencia, deberá dar al titular una respuesta fundada y motivada a su solicitud en el plazo de hasta veinte días a los que se refiere el primer párrafo del artículo 65 de la presente Ley, y por el mismo medio en que se llevó a cabo la solicitud, acompañando en su caso, las pruebas que resulten pertinentes.
 
@@ -985,7 +985,7 @@ VIII. Cuando se trate de los casos en los que el responsable no esté obligado a
 
 IX. Cuando se trate de datos obtenidos de fuentes de acceso público, y
 
-X. Cuando la transferencia sea necesaria por razones de seguridad nacional.
+X. (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
 La actualización de algunas de las excepciones previstas en este artículo no exime al responsable de cumplir con las obligaciones previstas en el presente Capítulo que resulten aplicables.
 
@@ -1822,3 +1822,9 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2018.
+
+> <small>[N. DE E. EL "DECRETO NÚMERO DOS MIL CUATROCIENTOS NOVENTA Y CUATRO POR EL QUE DEROGAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 74, ASÍ COMO, LA FRACCIÓN X DEL ARTÍCULO 90 TODAS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MORELOS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 7o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MORELOS.]</small>
