@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-12-31"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1459,7 +1459,9 @@ VIII. Dirección de Procesos Transversales;
 
 IX. Dirección de Innovación y Desarrollo Institucional;
 
-X. Dirección de Control Patrimonial, Inmobiliario y Almacenes;
+> <small>(REFORMADA, D.O. 21 DE MARZO DE 2018)</small>
+
+X. Dirección General de Control Patrimonial, Inmobiliario y Almacenes;
 
 XI. Dirección de Transparencia y Coordinación de Archivos;
 
@@ -2223,11 +2225,11 @@ XXII. Proponer al secretario la suscripción de convenios de colaboración para 
 
 XXIII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 21 DE MARZO DE 2018)</small>
 
 ###### Artículo 69 Octies.
 
-Al Director de Control Patrimonial, Inmobiliario y Almacenes le corresponde el despacho de los siguientes asuntos:
+Al Director General de Control Patrimonial, Inmobiliario y Almacenes le corresponde el despacho de los siguientes asuntos:
 
 I. Elaborar, difundir y someter a la aprobación del Secretario las normas, lineamientos y procedimientos para la afectación, administración, concesión, uso, conservación, registro, control, vigilancia y destino final de los bienes muebles e inmuebles del patrimonio del estado;
 
@@ -13266,3 +13268,11 @@ Este decreto entrará en vigor el 1 de enero de 2018, previa publicación del di
 Segundo. Transferencia de la Coordinación de Proyectos Estratégicos
 
 A partir de la entrada en vigor de este decreto deberá iniciarse el proceso de transferencia de la Coordinación de Proyectos Estratégicos del Despacho del Gobernador a la Agencia para el Desarrollo de Yucatán, con base en las disposiciones del Decreto 482/2017 por el que se expiden los Lineamientos para los procesos de entrega-recepción, transferencia y desincorporación de la Administración Pública del estado.
+
+D.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 602/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
