@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2017-12-22"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1687,6 +1687,10 @@ e) A partir de 1501 personas 102.68 UMA
 
 El secretario de Administración y Finanzas podrá, mediante acto fundado y motivado, reducir las cuotas establecidas en este artículo cuando se trate de personas que tributen de acuerdo con el artículo 79, fracciones VI, XXIII y XXIV, de la Ley del Impuesto sobre la Renta y tomando en consideración la finalidad de la realización del evento y el aforo. Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan no podrán ser impugnadas.
 
+> <small>(ADICIONADO, D.O. 21 DE MARZO DE 2018)</small>
+
+ARTÍCULO 56 I.- Por los servicios que presta la Secretaría de Seguridad Pública sobre la autorización, el registro o la revalidación del permiso para prestar los servicios de seguridad privada en el estado se causará un derecho equivalente a 24.99 UMA.
+
 ### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
@@ -1709,9 +1713,9 @@ c) Celebrado en las demás localidades, fuera de oficina 21.64 UMA
 
 IV.- Registro de divorcio:
 
-a) Voluntario administrativo 21.17 UMA
+a) Volutario (sic) administrativo 21.17 UMA
 
-b) Volutario (sic) judicial 9.62 UMA
+b) Voluntario judicial 9.62 UMA
 
 c) Sin causales 14.66 UMA
 
@@ -2385,7 +2389,7 @@ a) Para trámites consulares 1.23 UMA
 
 b) De antecedentes o no antecedentes penales 0.61 UMA
 
-II.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el estado, se causarán un derecho equivalente a 24.99 UMA
+II.- (DEROGADA, D.O. 21 DE MARZO DE 2018)
 
 ### CAPÍTULO XVII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
 
@@ -3490,3 +3494,11 @@ c) Negar o cobrar la prestación del servicio de transporte a personas con disca
 Tercero. Derogación tácita.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 599/2018 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
