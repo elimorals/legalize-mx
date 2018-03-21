@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-11-29"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2009,17 +2009,25 @@ En el segundo supuesto del párrafo anterior, el juez privará al agente, en su 
 
 Las penas señaladas para el delito de violación, se aplicarán aunque se demuestre que el sujeto pasivo sea o haya sido cónyuge o pareja permanente, viva o haya vivido en concubinato o amasiato con el sujeto activo, pero en estos casos el delito se perseguirá por querella de parte ofendida.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 154.
 
-Se aplicará la pena prevista en el artículo 153, cuando el agente realice la cópula con persona menor de doce años o que no tenga capacidad para comprender, o por cualquier causa no pueda resistir la conducta delictuosa.
+Se aplicará la pena privativa de libertad prevista en el artículo 153, cuando el agente realice cópula, o introduzca cualquier elemento o instrumento distinto vía vaginal o anal con fines lascivos o erótico-sexuales con persona menor de doce años de edad o que no tenga capacidad para comprender, o por cualquier causa no pueda resistir la conducta delictuosa.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 Si el sujeto activo convive con el pasivo con motivo de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente o como autoridad o empleado administrativo en algún centro educativo, religioso, laboral, médico, cultural, deportivo, doméstico o de cualquier índole, se le impondrá una pena de treinta a treinta y cinco años de prisión.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 Si el agente hace uso de violencia física, las penas se aumentarán en un tercio más.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación familiar.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
 
@@ -3319,7 +3327,9 @@ REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2011)
 
 ARTICULO 272 BIS.- Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).(ADICIONADO, P.O. 19 DE JULIO DE 2017)
+(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ARTICULO 272 TER.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
 
@@ -5020,6 +5030,14 @@ SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de s
 P.O. 29 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 147 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y NUEVE.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 154 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
