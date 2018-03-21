@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2017-03-01"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -1119,19 +1119,11 @@ Los derechos consignados en este capítulo, serán cubiertos en forma bimestral,
 
 Son contribuyentes de este derecho, las personas físicas o morales, propietarios o poseedores de predios urbanos del Municipio, que deban recibir el servicio de recolección de basura, sin importar la frecuencia del mismo.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 142.
 
-Por el servicio de recolección de basura y aseo público prestados por el H. Ayuntamiento, se causarán derechos conforme a la siguiente tarifa:
-
-a).- Predios construidos, por cada metro lineal de frente a la vía pública bimestralmente: $10.00.
-
-b).- Predios baldíos sin barda o solo cercados, bimestralmente por cada metro lineal de derechos: $12.00.
-
-c).- Las Empresas o establecimientos comerciales que requieran servicio especial para el desalojo de su basura, pagarán por cada tonelada (o su parte proporcional): $1,500.00.
-
-d).- Las distribuidoras, comisionistas, y otras empresas cuyos productos o artículos generen basura o desperdicio diariamente de: $100.00 a $500.00.
-
-e).- Los usuarios que tiren directamente su basura en el relleno sanitario; pagarán el 50% de las cuotas fijadas.
+Por el servicio de recolección de basura y aseo público prestados por el H. Ayuntamiento, se causarán derechos conforme a la tarifa autorizada en su respectiva Ley de Ingresos para el ejercicio fiscal correspondiente.
 
 ###### ARTICULO 143.
 
@@ -3555,7 +3547,7 @@ SEGUNDO.- Los municipios cuyas leyes de ingresos no contemplen lo establecido en
 
 A efecto de que los municipios puedan realizar los estudios correspondientes para adecuar e instrumentar el cobro del derecho por servicios de alumbrado público en sus leyes de ingresos, se les concede un plazo hasta de un año a partir de la entrada en vigor de este decreto para cumplir con lo establecido en el mismo.
 
-Entre tanto el derecho de alumbrado público se causará y pagará de conformidad con las cuotas y tarifas que para el municipio que corresponda autorice el congreso en la respectiva ley de ingresos, tomando en cuenta el costo total de servicio, que es el resultado de sumar los costos de los consumos .de energía eléctrica destinados a la prestación del servicio de alumbrado público, la reposición de lámparas, el mantenimiento de líneas eléctricas y postes, los sueldos del personal encargado de las tareas inherentes a la prestación del servicio y la constitución de una reserva razonable para la reposición, mejoramiento y, en su caso, expansión del servicio.
+Entre tanto el derecho de alumbrado público se causará y pagará de conformidad con las cuotas y tarifas que para el municipio que corresponda autorice el congreso en la respectiva ley de ingresos, tomando en cuenta el costo total de servicio, que es el resultado de sumar los costos de los consumos de energía eléctrica destinados a la prestación del servicio de alumbrado público, la reposición de lámparas, el mantenimiento de líneas eléctricas y postes, los sueldos del personal encargado de las tareas inherentes a la prestación del servicio y la constitución de una reserva razonable para la reposición, mejoramiento y, en su caso, expansión del servicio.
 
 Para calcular el costo total aplicable en un ejercicio, se considerará el costo total del año inmediato anterior a aquel para el cual se aplicará la contribución, incrementando en un porcentaje que refleje, en su caso, los costos derivados del incremento en los precios de los insumos necesarios para la prestación del servicio y su expansión en el territorio municipal. Para hacer este cálculo se considerarán los gastos reales ejercidos a la fecha de formulación de la iniciativa de ley de ingresos para el siguiente ejercicio fiscal y se hará la proyección del período que falte para concluir el año.
 
@@ -3679,6 +3671,10 @@ Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice 
 
 Cuarta.- El valor de la Unidad de Medida y tualización (sic) será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
 
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO DOS MIL QUINIENTOS.- POR EL QUE SE REFORMA EL ARTÍCULO 142 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
