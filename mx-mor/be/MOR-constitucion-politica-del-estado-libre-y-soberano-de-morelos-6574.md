@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-02-15"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -39,8 +39,6 @@ que reforma la del año de 1888.
 ## TITULO PRIMERO.
 
 DISPOSICIONES PRELIMINARES.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2014)</small>
 
@@ -239,8 +237,6 @@ DE LOS MORELENSES.
 ###### Artículo 9.
 
 Los morelenses lo son por nacimiento y por residencia; ambos gozarán de los mismos derechos y obligaciones, en los términos que señale la presente Constitución y las leyes reglamentarias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
 
@@ -698,21 +694,15 @@ En los procedimientos para la selección de los comisionados se deberá garantiz
 
 Se crea el organismo público autónomo denominado Comisión de Derechos Humanos del Estado de Morelos, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Contará con personalidad jurídica, patrimonio propios (sic), autonomía de gestión y presupuestaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
 Este órgano formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Pleno del Congreso del Estado o en sus recesos la Diputación Permanente, según corresponda, podrán llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos Órganos Legislativos, a efecto de que expliquen el motivo de su negativa. No será competente tratándose de asuntos electorales y jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
 La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del Organismo, y un Consejo Consultivo, integrado por seis Consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años; el Presidente sólo podrá ser removido de sus funciones en los términos del Título Séptimo de esta Constitución.
 
 El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo será también del Consejo Consultivo, deberá contar con título y cédula profesional a nivel de licenciatura, expedido por la autoridad competente, y reunir los demás requisitos que prevea esta Constitución y la ley secundaria; será elegido y durará en su cargo en la forma y términos que para los consejeros se establece en el párrafo anterior, y podrá ser reelecto por una sola vez. Presentará anualmente su informe de actividades ante el Congreso del Estado, en los términos que prevea la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
@@ -1970,9 +1960,9 @@ Los Secretarios del Despacho serán responsables de las resoluciones del Goberna
 
 Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución, no podrán desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados o de los Municipios, salvo la docencia y los relacionados a la beneficencia pública, o aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la Ley, y en este último caso, serán siempre de carácter honorífico.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
 
-Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley Estatal de Responsabilidades de los Servidores Públicos, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
+Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley General de Responsabilidades Administrativas y la normativa estatal de la materia, deberán entregar a la Secretaría de la Contraloría Estatal, las declaraciones patrimoniales, de intereses y fiscal, en su caso, que establece el artículo 133 bis de la presente Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -2224,13 +2214,9 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE ABRIL DE 2014)</small>
 
 ### CAPITULO VI. DE LA PROTECCION DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
 
@@ -2250,15 +2236,11 @@ Ninguna Ley, Reglamento o cualquier otra norma, ya sea de carácter Estatal o Mu
 
 DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 85-D.
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -2746,8 +2728,6 @@ De conformidad a lo dispuesto en el Artículo 115 de la Constitución Política 
 
 El Estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
 Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
@@ -3054,11 +3034,9 @@ DE LA ADMINISTRACION DEL ESTADO.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO X DEL TÍTULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
 
-### CAPITULO III.
+### CAPITULO III.. DE LA DECLARACIÓN DE INTERESES, DE SITUACIÓN PATRIMONIAL Y FISCAL DE LOS SERVIDORES PÚBLICOS
 
-DE LA DECLARACIÓN DE INTERESES Y DE SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
 
 ###### Artículo 119.
 
@@ -3094,8 +3072,6 @@ El Estado garantizará el derecho a la identidad de las personas, con el registr
 
 El Estado garantizará que la educación que se imparta en la entidad, sea de calidad, inclusiva y con equidad, a través de las Unidades Gubernamentales que estime pertinentes, ajustándose estrictamente a las disposiciones del artículo 3° y demás relacionados de la Constitución Política de los Estados Unidos Mexicanos, a efecto de asegurar el máximo aprendizaje de los educandos, a través de la participación social; así como la implementación de mecanismos y procedimientos de control que aseguren la evaluación y capacitación permanente de los docentes, tanto de Instituciones Públicas como particulares con autorización o reconocimiento oficial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 La enseñanza Media Superior y Superior se regirá por las Leyes Federales y Estatales correspondientes; la determinación de las profesiones que requieran de la expedición de títulos se ajustará a los términos del artículo 5° de la propia Constitución General de la República. Esta podrá ser impartida por instituciones creadas o autorizadas por el Gobierno del Estado, a las que en su caso podrá otorgar autonomía.
@@ -3107,8 +3083,6 @@ Se otorga a la Universidad del Estado plena autonomía para impartir la enseñan
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 El Congreso del Estado proveerá los instrumentos legales necesarios para el cumplimiento de la función social educativa, expedir la Ley para el ejercicio de las profesiones en el Estado y para fijar las sanciones aplicables a quienes no cumplan o hagan cumplir las normas relativas a dicha función educativa o a las personas que las infrinjan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3218,7 +3192,7 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2018)</small>
 
 ### CAPITULO I.
 
@@ -3228,17 +3202,11 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE ESTA CONSTITUCION.
 
 ###### Artículo 133
 
-Bis.- Tienen obligación de presentar declaraciones de intereses y de situación patrimonial los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios de los organismos públicos autónomos creados por esta Constitución, así como del Tribunal Electoral del Estado de Morelos y del Tribunal de Justicia Administrativa, en los términos que disponga la ley de la materia.
+Bis.- Tienen obligación de presentar declaraciones de intereses, de situación patrimonial y fiscal, en su caso, los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios de los organismos públicos autónomos creados por esta Constitución, así como del Tribunal Electoral del Estado de Morelos y del Tribunal de Justicia Administrativa, en los términos que disponga la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+Dichas declaraciones deberán ser presentadas en los plazos siguientes: al inicio de su gestión, la declaración inicial de situación patrimonial, dentro de los sesenta días naturales siguientes de haber tomado posesión del cargo, empleo o puesto; las declaraciones de modificación patrimonial, de intereses y la fiscal, en su caso, dentro del mes de mayo de cada año de su función; y la declaración patrimonial de conclusión del cargo, empleo o puesto, dentro de los sesenta días naturales siguientes a que suceda la separación, de conformidad con la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
 
-Dichas declaraciones serán: de intereses y situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial y de intereses, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
-
-Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes qua determine la Ley Estatal de Responsabilidades de los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley General de Responsabilidades Administrativas y demás normativa aplicable.
 
 La presentación se hará ante la autoridad que corresponda.
 
@@ -3425,8 +3393,6 @@ III.- Las adiciones y reformas hechas a la Constitución Política de los Estado
 ###### Artículo 148.
 
 El Congreso del Estado o Diputación Permanente en su caso, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
@@ -5186,7 +5152,7 @@ DÉCIMA. Se derogan las disposiciones de menor rango que se opongan a la present
 
 P.O. 27 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, EN MATERIA ELECTORAL".]
 
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -5289,3 +5255,11 @@ DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supe
 DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
 
 VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PARA ADECUARLA A LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, EN MATERIA DE DECLARACIONES PATRIMONIAL, DE INTERESES Y FISCAL”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
