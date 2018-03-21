@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2016-12-28"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -713,7 +713,9 @@ Cuando la Secretaría proceda a negar una autorización, ésta hará del conocim
 
 La Secretaría podrá exigir el otorgamiento de fianzas que garanticen el cumplimiento de las condicionantes dictadas.
 
-Las autorizaciones otorgadas tendrán una vigencia de un año contándose a partir del día siguiente de su notificación, para el inicio y conclusión de la obra, y del mismo plazo para comenzar la actividad. Si el interesado no iniciare la obra o actividad durante la vigencia de la autorización, se mandará archivar el expediente iniciado y por tanto, para poder ejecutar el proyecto de que se trate, debe solicitar nuevamente la autorización, pudiendo la Secretaría requerirle la información que fuere necesaria para acordar lo procedente.
+> <small>(REFORMADO, D.O. 21 DE MARZO DE 2018)</small>
+
+Las autorizaciones otorgadas tendrán una vigencia de dos años, contada a partir del día siguiente de su notificación, para el inicio y conclusión de la obra o actividad. Si el interesado no inicia la obra o actividad durante la vigencia de la autorización, se archivará el expediente iniciado; por lo que el interesado, para poder ejecutar el proyecto, deberá solicitar nuevamente la autorización.
 
 En el caso de haberse iniciado la obra previa verificación del personal de esta Secretaría, con un avance menor al treinta por ciento, el interesado deberá iniciar nuevamente el procedimiento.
 
@@ -1566,3 +1568,15 @@ Este decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 601/2018 POR EL QUE SE MODIFICA LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán, en un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
