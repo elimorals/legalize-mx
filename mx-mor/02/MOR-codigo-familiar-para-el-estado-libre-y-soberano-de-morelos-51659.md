@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2018-03-07"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2139,25 +2139,23 @@ PÉRDIDA DE LA PATRIA POTESTAD. La patria potestad se pierde por cualquiera de l
 
 I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 439, del Código Procesal Familiar;
+II.- (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
 III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2018)</small>
 
-IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley;
+IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley, y
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2018)</small>
 
-V. Porque se reúnan treinta días naturales de abandono por parte de quien ejerza la patria potestad conforme a la Ley, aún cuando sea en períodos discontinuos, siempre que tales periodos queden comprendidos dentro de un lapso de noventa días naturales.
+V. Por el abandono por parte de sus progenitores de una niña o niño recién nacido, cualquiera que sea el lapso.
 
 En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
 
 ###### ARTÍCULO 248.
 
-CONTINUIDAD DE LA PATRIA POTESTAD. La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
-
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO, P.O. 21 DE MARZO DE 2018)
 
 ###### ARTÍCULO 249.
 
@@ -2341,9 +2339,11 @@ VII.- A las personas que hubieren acogido a los expósitos; y
 
 VIII.- A los directores de instituciones de beneficencia, asistencia o similares quienes no requerirán discernimiento del cargo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 275.
 
-ELECCIÓN DEL TUTOR EN CASO DE IGUALDAD DE PARENTESCO. Si hubiere varios parientes del mismo grado, y entre ellos se discutiere la preferencia en el desempeño de la tutela, el Juez elegirá al que de ellos le parezca más apto para el cargo a menos que el menor de edad, mayor de dieciséis años, lleve a cabo la elección.
+ELECCIÓN DEL TUTOR EN CASO DE IGUALDAD DE PARENTESCO. Si hubiere varios parientes del mismo grado, y entre ellos se discutiere la preferencia en el desempeño de la tutela, el Juez elegirá, al que de ellos le parezca más apto para el cargo, a menos que el menor de dieciocho, pero mayor de dieciséis años, lleve a cabo la elección; en todos los casos se procurará escuchar la opinión de la niña, niño o adolescente.
 
 Cuando haya dos o más hijos, el Juez elegirá al que le parezca más apto y podrá ser preferido el que viva en compañía del padre o de la madre.
 
@@ -6512,5 +6512,25 @@ P.O. 7 DE MARZO DE 2018.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS TREINTA Y NUEVE POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 275 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CUATROCIENTOS NOVENTA Y CINCO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, RESPECTO DE LA PÉRDIDA DE LA PATRIA POTESTAD POR ABANDONO DEL SUJETO A LA MISMA".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
