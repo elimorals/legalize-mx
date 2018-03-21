@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-victimas-para-el-estado-de-san-luis-112
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-01-21"
-last_updated: "2016-01-21"
+last_updated: "2018-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE VICTIMAS PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el día jueves 21 de enero de 2016.
 
@@ -956,3 +958,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALEJANDRO LEAL TOVÍAS
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. Se abroga el Reglamento de la Ley de Víctimas para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado “Plan de San Luis”, en la edición extraordinaria de 21 de enero de 2016.
+
+Tercero. La Comisión Ejecutiva tendrá 60 días hábiles para emitir las Reglas de Operación para el funcionamiento del Fondo de Ayuda, Asistencia y Reparación Integral, contados a partir de la entrada en vigor del Presente Reglamento.
+
+Cuarto. La Comisión Ejecutiva, en un plazo no mayor a los 90 días contados a partir de la entrada en vigor del reglamento de la Ley, constituirá el Fondo a través de un contrato de fideicomiso o bien realizará las modificaciones correspondientes al contrato de fideicomiso existente.
+
+Quinto. Los asuntos que se encuentren en trámite del Comité Interdisciplinario Evaluador a la entrada en vigor de este Reglamento se sustanciarán de conformidad con lo dispuesto en los procedimientos señalados en este ordenamiento.
