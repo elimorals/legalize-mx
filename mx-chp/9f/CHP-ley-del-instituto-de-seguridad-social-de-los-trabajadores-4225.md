@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-instituto-de-seguridad-social-de-los-trabajadores-4225"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-26"
-last_updated: "2012-09-17"
+last_updated: "2018-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 26 de agosto de 1981.
 
@@ -39,7 +39,7 @@ Que una de las aspiraciones más legítimas de los servidores públicos, ha sido
 
 Que el Ejecutivo del Estado, sabiendo que la seguridad social es una de las conquistas más sobresalientes de la Revolución Mexicana, ha considerado que es un deber profundamente humano y de solidaridad colectiva que se les procuren a los servidores públicos, los servicios esenciales para mejorar su condición, solicitándoles a ellos, en reciprocidad, mayor eficiencia y productividad en su trabajo, seguros de que así promoveremos juntos el mejoramiento de la administración pública, en beneficio de todos los ciudadanos y el desarrollo de Chiapas.
 
-Que el proyecto que sirvió de base a esta iniciativa, fue discutido con los representantes de los trabajadores. El hecho de que haya llegado a coincidir en sus términos, revela el éxito de una política que no afecta al concenso(sic) general y utiliza el diálogo como método de trabajo.
+Que el proyecto que sirvió de base a esta iniciativa, fue discutido con los representantes de los trabajadores. El hecho de que haya llegado a coincidir en sus términos, revela el éxito de una política que no afecta al concenso (sic) general y utiliza el diálogo como método de trabajo.
 
 Por las consideraciones anteriores, esta H. Legislatura expide la siguiente
 
@@ -749,17 +749,13 @@ GENERALIDADES.
 
 El derecho a las pensiones nace cuando el asegurado o sus familiares derechohabientes se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 88.
 
-El expediente deberá quedar integrado en un plazo máximo de ciento veinte días, contados a partir de que el Instituto reciba la solicitud, transcurrido el cual, se otorgará la pensión en un lapso de treinta días.
+El expediente deberá quedar integrado en un plazo máximo de 120 días contados a partir de que el Instituto reciba la solicitud, transcurrido el cual, se otorgará la pensión en un plazo de 30 días.
 
-Si en los términos señalados en el párrafo anterior no se integra el expediente y no se ha otorgado la pensión, se procederá en la siguiente forma:
-
-a).- El Instituto estará obligado a efectuar el pago del 75% de la pensión probable al solicitante que estuviere separado definitivamente del servicio.
-
-b).- La pensión provisional se cubrirá en los términos indicados hasta la fecha en que se otorgue la definitiva, sin perjuicio de que transcurridos dos años se revise el caso para determinar lo que proceda.
-
-En el caso de los anteriores apartados, además se fincarán las responsabilidades en que hubieren incurrido los funcionarios o empleados que están obligados en los términos de este precepto.
+Para tales efectos el Instituto establecerá dos periodos en el año, para la recepción de los trámites de la Pensión, emitiéndose la convocatoria con la anticipación necesaria.
 
 ###### ARTICULO 89.
 
@@ -815,9 +811,11 @@ Si un pensionista desaparece de su domicilio por más de un mes sin que se tenga
 
 El cómputo de los años de servicios se hará considerando, por una sola vez, el tiempo durante el cual haya tenido el asegurado el carácter de trabajador, aún cuando hubiere desempeñado dos o más empleos. En este cómputo, no se considerará el tiempo de servicios prestados con carácter militar efectivo asimilado.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 101.
 
-Todo pensionista estará obligado semestralmente a presentarse ante el Instituto a pasar revista de supervivencia, para conservar sus derechos vigentes. Cuando se trate de imposibilitados, el Instituto proveerá la forma de acreditar la supervivencia.
+Para conservar los derechos vigentes de los Pensionistas, el Instituto comprobará la supervivencia de éstos, por los medios tecnológicos o humanos que instaure para tal efecto. Cuando por casos de homonimia o situaciones especiales lo considere necesario, podrá requerir la presencia física del pensionista.
 
 ###### ARTICULO 102.
 
@@ -827,13 +825,11 @@ Para calcular el monto de las cantidades que correspodan (sic) a pensiones a que
 
 Si la pensión solicitada corresponde a un trabajador de base que durante el último año ocupó una plaza de confianza, él mismo, o en su caso, los familiares derechohabientes del fallecido, con derecho a reclamar, podrán seleccionar a su conveniencia, entre el sueldo regulador y el último sueldo de su plaza con nombramiento definitivo a que se refiere el Artículo 102.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 104.
 
-La pensión que se conceda con cargo al Instituto para los seguros de jubilación, vejez, invalidez e incapacidad total y permanente, en ningún caso podrá ser inferior al monto mensual que establezca la Junta Directiva como pensión mínima, ni podrá exceder al 100% de pensión que resultaría con el Artículo 110, aún en el caso de aplicación de otras leyes, ni de la pensión máxima también aprobada por la Junta Directiva.
-
-La pensión mínima se fija con el movimiento del salario mínimo. Su importe será del 50% del salario mínimo general, vigente en la región donde el asegurado haya prestado sus últimos años de servicios y pensión máxima se fija en la cantidad más elevada que indiquen los tabuladores de sueldos para los trabajadores de base, incluyendo sueldos, sobresueldos y compensaciones.
-
-Las pensiones por viudez, orfandad y ascendientes conservarán su proporción sobre la pensión mínima en cuenta (sic) la suma de las pensiones individuales.
+La pensión que se conceda con cargo al Instituto para los seguros de jubilación, vejez, invalidez e incapacidad total y permanente, en ningún caso podrá ser inferior al monto mensual que establezca la Junta Directiva como pensión mínima, ni podrá exceder mensualmente al monto equivalente a 10 Unidades de Medida y Actualización (UMA) mensual vigente. Las pensiones por viudez, orfandad y ascendientes conservarán su proporción sobre la pensión mínima tomando en cuenta la suma de las pensiones individuales.
 
 ###### ARTICULO 105.
 
@@ -867,43 +863,79 @@ DE LA PENSION POR VEJEZ.
 
 Tienen derecho al seguro de pensión por vejez los asegurados que habiendo cumplido 55 años de edad, tuviesen como mínimo quince años de servicios e igual tiempo de contribución al Instituto.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 110.
 
-El monto de la pensión se calculará aplicando el por ciento que indica la tabla siguiente al sueldo regulador, si se trata de asegurados que laboran como trabajadores de confianza o a lista de raya y, el último sueldo, si son trabajadores de base.
+El monto de la pensión se calculará aplicando el porcentaje que indican las tablas siguientes:
 
-15 años de servicios cotizados 47%
+A los trabajadores:
 
-16 años de servicios cotizados 48.5%
+15 años de servicios cotizados. 47%
 
-17 años de servicios cotizados 50%
+16 años de servicios cotizados. 48.5%
 
-18 años de servicios cotizados 51.5%
+17 años de servicios cotizados. 50%
 
-19 años de servicios cotizados 53%
+18 años de servicios cotizados. 51.5%
 
-20 años de servicios cotizados 54.5%
+19 años de servicios cotizados. 53%
 
-21 años de servicios cotizados 56%
+20 años de servicios cotizados. 54.5%
 
-22 años de servicios cotizados 60%
+21 años de servicios cotizados. 56%
 
-23 años de servicios cotizados 65%
+22 años de servicios cotizados. 60%
 
-24 años de servicios cotizados 70%
+23 años de servicios cotizados. 65%
 
-25 años de servicios cotizados 75%
+24 años de servicios cotizados. 70%
 
-26 años de servicios cotizados 80%
+25 años de servicios cotizados. 75%
 
-27 años de servicios cotizados 85%
+26 años de servicios cotizados. 80%
 
-28 años de servicios cotizados 90%
+27 años de servicios cotizados. 85%
 
-29 años de servicios cotizados 95%
+28 años de servicios cotizados. 90%
 
-30 años de servicios cotizados 100%
+29 años de servicios cotizados. 95%
 
-El derecho al pago de la pensión del seguro por vejez, comenzará a partir del día siguiente a aquél en que el asegurado hubiese percibido el último por haber causado baja.
+30 años de servicios cotizados. 100 %
+
+A las trabajadoras:
+
+15 años de servicios cotizados. 47%
+
+16 años de servicios cotizados. 48.5%
+
+17 años de servicios cotizados. 50%
+
+18 años de servicios cotizados. 51.5%
+
+19 años de servicios cotizados. 53%
+
+20 años de servicios cotizados. 54.5%
+
+21 años de servicios cotizados. 56%
+
+22 años de servicios cotizados. 60%
+
+23 años de servicios cotizados. 65%
+
+24 años de servicios cotizados. 70%
+
+25 años de servicios cotizados. 75%
+
+26 años de servicios cotizados. 80%
+
+27 años de servicios cotizados. 85%
+
+28 años de servicios cotizados. 100%
+
+El monto de la pensión no deberá rebasar el máximo establecido en el artículo 104 de ésta Ley.
+
+El derecho al pago de la pensión por seguro por vejez, comenzará a partir del día siguiente a aquel en que el asegurado hubiese percibido el último pago por haber causado baja.
 
 ###### ARTICULO 111.
 
@@ -1227,7 +1259,7 @@ XI.- Proponer al Ejecutivo del Estado los proyectos de reformas a esta Ley por c
 
 XII.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley, para la mejor administración o gobierno del Instituto.
 
-> <small>(REFORMADO, P.O.31 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 147.
 
@@ -1620,3 +1652,15 @@ P.O. 17 DE SEPTIEMBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 164 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Con respecto a lo establecido por el artículo 104 del presente Decreto, las pensiones otorgadas en términos de los acuerdos de la Junta Directiva del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas, con cargo al Instituto para los seguros de jubilación, vejez, invalidez e incapacidad total y permanente, concedidas con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose con el tope máximo de pensión de 10 (diez) salarios mínimos mensuales, como lo refieren los citados acuerdos; sin afectar los derechos adquiridos y sin menoscabo de lo establecido en otras disposiciones legales.
+
+No siendo retroactiva la aplicación del presente decreto a las pensiones otorgadas a la publicación de este mismo.
