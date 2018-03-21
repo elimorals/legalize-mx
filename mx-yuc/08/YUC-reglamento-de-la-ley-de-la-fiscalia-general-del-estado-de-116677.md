@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-la-fiscalia-general-del-estado-de-11667
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-30"
-last_updated: "2017-11-24"
+last_updated: "2018-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento al Número 33,203 del Diario Oficial del Estado de Yucatán, el viernes 30 de septiembre de 2016.
 
@@ -95,11 +95,13 @@ I. Oficina del Fiscal General.
 
 a) Secretaría Técnica.
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 21 DE MARZO DE 2018)</small>
+
 II. Vicefiscalía de Investigación y Control de Procesos.
 
-a) Dirección de Investigación y Atención Temprana, que tendrá a su cargo las fiscalías investigadoras.
+a) Dirección de Investigación y Atención Temprana, que tendrá a su cargo a los fiscales investigadores.
 
-b) Dirección de Control de Procesos, que tendrá a su cargo las unidades de fiscales adscritos a los órganos jurisdiccionales.
+b) Dirección de Control de Procesos, que tendrá a su cargo a los fiscales de litigio.
 
 III. Vicefiscalía de Prevención del Delito, de Justicia Alternativa y Atención a Víctimas.
 
@@ -159,11 +161,21 @@ Organización y funcionamiento de las unidades administrativas
 
 El fiscal general deberá emitir los manuales que determinen la organización y el funcionamiento específico de las unidades administrativas establecidas en el artículo 6 de este reglamento.
 
+> <small>(REFORMADO, D.O. 21 DE MARZO DE 2018)</small>
+
 ###### Artículo 11.
 
-Competencia de las fiscalías investigadoras
+Unidades de investigación y litigación
 
-El fiscal general determinará, mediante acuerdo, el número y la competencia territorial y material de las fiscalías investigadoras.
+Los fiscales se integrarán en unidades de investigación y litigación, cuyo número y competencia material y territorial serán determinadas por el fiscal general, mediante acuerdo.
+
+El fiscal general podrá establecer mecanismos organizacionales diferentes a los establecidos en el párrafo anterior, para lo cual podrá establecer unidades exclusivas de investigación o litigación.
+
+Los fiscales de la fiscalía podrán ejercer simultáneamente funciones de investigación o de litigación. La función investigadora de los fiscales consiste en recibir las denuncias por la comisión de hechos delictivos y en coordinar las investigaciones correspondientes; la función de litigio consiste en, entre otras, ejercer la acción penal e intervenir en las audiencias y actuaciones que se realicen en los juzgados de control y los tribunales de enjuiciamiento.
+
+Se procurará que los fiscales que realicen la función de litigio sean los mismos fiscales que hayan realizado la investigación durante la integración de las carpetas de investigación respectivas.
+
+Cuando en este reglamento se aluda a fiscales, se entenderá que se refiere a quienes ejercen tanto funciones de investigación como de litigación o a quienes realicen ambas.
 
 ### Capítulo II. Suplencias de los servidores públicos
 
@@ -349,7 +361,9 @@ Facultades y obligaciones del director
 
 El director de Control de Procesos tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar el desempeño de los fiscales adscritos a los órganos jurisdiccionales.
+> <small>(REFORMADA, D.O. 21 DE MARZO DE 2018)</small>
+
+I. Coordinar el desempeño de los fiscales de litigio adscritos a los órganos jurisdiccionales.
 
 II. Supervisar, en su respectivo ámbito de competencia, el adecuado desarrollo de los procesos legales que se lleven ante los órganos jurisdiccionales e intervenir en los asuntos que requieran su atención.
 
@@ -363,11 +377,15 @@ VI. Proponer al fiscal general lineamientos y criterios relacionados con la soli
 
 VII. Establecer, en su respectivo ámbito de competencia, medidas para garantizar la seguridad de víctimas u ofendidos del delito, testigos, servidores públicos o cualquier otra persona involucrada en el proceso penal.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 21 DE MARZO DE 2018)</small>
+
 ###### Artículo 20.
 
-Facultades y obligaciones de los fiscales adscritos penales
+Facultades y obligaciones de los fiscales de litigio
 
-Los fiscales adscritos a los órganos jurisdiccionales penales tendrán las siguientes facultades y obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 21 DE MARZO DE 2018)</small>
+
+Los fiscales de litigio adscritos a los órganos jurisdiccionales penales tendrán las siguientes facultades y obligaciones:
 
 I. Presentar la acusación ante el órgano jurisdiccional y ofrecer pruebas, en términos de las disposiciones legales y normativas aplicables.
 
@@ -397,7 +415,9 @@ XII. Las demás que establezcan la ley procesal y otras disposiciones legales y 
 
 Facultades y obligaciones de los fiscales no penales
 
-Los fiscales adscritos a los órganos jurisdiccionales civiles, familiares y mercantiles tendrán las siguientes facultades y obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 21 DE MARZO DE 2018)</small>
+
+Los fiscales de litigio adscritos a los órganos jurisdiccionales civiles, familiares y mercantiles tendrán las siguientes facultades y obligaciones:
 
 I. Contestar demandas y formular pedimentos en los asuntos que sean competencia del órgano jurisdiccional al que estén adscritos, siempre que, de acuerdo con la ley, deban ser conocidos por el Ministerio Público o deban intervenir como actores, demandados o terceristas.
 
@@ -475,7 +495,9 @@ V. Sugerir la instalación de unidades de justicia alternativa.
 
 VI. Informar a las autoridades competentes sobre los hechos probablemente delictivos que conozca en el ejercicio de sus atribuciones.
 
-VII. Comunicar a la fiscalía investigadora correspondiente la imposibilidad de solución de los conflictos a través de la aplicación de mecanismos de justicia alternativa, para que se continúe con el procedimiento penal.
+> <small>(REFORMADA, D.O. 21 DE MARZO DE 2018)</small>
+
+VII. Comunicar a la unidad de investigación y litigación correspondiente la imposibilidad de solución de los conflictos a través de la aplicación de mecanismos de justicia alternativa, para que se continúe con el procedimiento penal.
 
 VIII. Establecer mecanismos de coordinación con las dependencias y entidades de la Administración Pública estatal para la efectiva canalización de las personas que requieran de los servicios que prestan en beneficio de la población.
 
@@ -1070,3 +1092,11 @@ D.O. 24 DE NOVIEMBRE DE 2017.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 21 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 604/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, SOBRE LAS UNIDADES DE INVESTIGACIÓN Y LITIGACIÓN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del estado.
