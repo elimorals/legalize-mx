@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-11-27"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE MARZO DE 2018.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -2015,9 +2015,9 @@ En los casos de las fracciones III y VI de este precepto, no podrán ser designa
 
 Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán protesta de ley ante el Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 22 DE MARZO DE 2018)</small>
 
-El Presidente del Consejo, el diverso Magistrado de dicho órgano y el Fiscal General de Justicia del Estado conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
+El Presidente del Consejo, el diverso Magistrado de dicho órgano y el Fiscal General de Justicia del Estado, conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos; los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
 
 El Consejero designado por el Gobernador del Estado podrá ser un servidor público de cualquiera de los Poderes del Estado o de los Órganos Autónomos, en cuyo caso el consejero designado tendrá el carácter de honorario, sin recibir remuneración alguna, mientras conserve el carácter de servidor público diverso al de integrante del Consejo de (sic) Poder Judicial.
 
@@ -2511,7 +2511,9 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 
 Las faltas administrativas graves serán investigadas y substanciadas por el Instituto Superior de Auditoría y Fiscalización y los órganos internos de control, según corresponda, y serán resueltas por la Sala Especializada del Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial de (sic) del Estado, conocerá de los mismos el Consejo del Poder Judicial del Estado, sin perjuicio de las atribuciones de la (sic) el Instituto Superior de Auditoría y Fiscalización en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+> <small>(REFORMADO, B.O. 22 DE MARZO DE 2018)</small>
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los servidores públicos del Poder Judicial del Estado, conocerán de los mismos las autoridades que determine su propia ley orgánica, sin perjuicio de las atribuciones del Instituto Superior de Auditoría y Fiscalización en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
@@ -3912,3 +3914,13 @@ B.O. 27 DE NOVIEMBRE DE 2017.
 ###### ARTICULO ÚNICO.
 
 La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamiento del Estado, a quienes se les deberá notificar los términos del (sic) presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+B.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "LEY NÚMERO 193, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado (sic) la presente Ley por cuando menos la mitad más uno de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
