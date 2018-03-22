@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2015-09-05"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -95,9 +95,7 @@ XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles 
 
 XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
-
-XV. CONGRESO: el Honorable Congreso del Estado;
+XV. (DEROGADA, P.O. 22 DE MARZO DE 2018)
 
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -317,9 +315,7 @@ e) INDEPI.
 
 f) La Universidad Autónoma de San Luis Potosí.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2015)</small>
-
-g) Dos representantes del CONGRESO.
+g) (DEROGADO, P.O. 22 DE MARZO DE 2018)
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -439,33 +435,29 @@ VIII. Proponer reconocimientos o estímulos por méritos o acciones destacadas, 
 
 Las propuestas de declaratorias podrán realizarlas de manera conjunta o independiente, las autoridades e instituciones estatales y municipales, los organismos auxiliares, así como los particulares.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-###### ARTICULO 33.
+###### ARTÍCULO 33.
 
-Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante el CONGRESO, o la SECULT.
+Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante la SECULT, misma que las turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo, para someterlo a la consideración del titular del Ejecutivo del Estado.
 
-En el caso del CONGRESO, se turnará a la comisión respectiva, para iniciar el proceso legislativo detallado en su Ley Orgánica, y en su Reglamento para el Gobierno Interior del mismo, solicitando la opinión técnica respectiva a la COTEPAC.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-En el caso de la SECULT, la turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo para someterlo a la consideración del titular del Ejecutivo del Estado.
+###### ARTÍCULO 34.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+El titular del Ejecutivo Estatal tiene la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlas.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-El titular del Ejecutivo Estatal; y el CONGRESO, tienen la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlos.
+###### ARTÍCULO 35.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+El titular del Ejecutivo del Estado, mediante decreto, administrativo expedirá la declaratoria correspondiente, que deberá publicarse en el Periódico Oficial del Estado; asimismo, lo notificará en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-El titular del Ejecutivo del Estado; y el CONGRESO, mediante Decreto, Administrativo; y Legislativo, respectivamente, expedirán las declaratorias correspondientes, que deberán publicarse en el Periódico Oficial del Estado; asimismo, lo notificarán en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
+###### ARTÍCULO 36.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
-
-###### ARTICULO 36.
-
-En el Decreto, Administrativo, o Legislativo, que corresponda, se ordenará la inscripción de la declaratoria, en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a que pertenecen o pertenecieron.
+En el decreto administrativo se ordenará la inscripción de la declaratoria en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a (sic) que pertenecen o pertenecieron.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
@@ -671,11 +663,17 @@ IV. Los técnicos o profesionistas autores de proyectos, directores de obras o a
 
 De conformidad con lo preceptuado en este Ordenamiento, al que por voluntad propia y sin la autorización de la autoridad competente, realice trabajos materiales por excavación, remoción o por cualquier otro medio que dañe, destruya o deteriore el patrimonio tangible en el Estado, la sanción pecuniaria que señala la fracción III del artículo 63 de esta ley, se calculará de la siguiente manera:
 
-I. Cuando el valor de lo dañado no exceda de ciento cincuenta veces el salario mínimo general vigente en el Estado, se impondrá una sanción pecuniaria de ciento cincuenta a trescientos días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-II. Cuando el valor de lo dañado exceda de ciento cincuenta días el salario mínimo general vigente en el Estado, pero no de mil quinientas, se impondrá una sanción pecuniaria de trescientos a dos mil días de salario mínimo vigente en la Entidad, y
+I. Cuando el valor de lo dañado no exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, se impondrá una sanción pecuniaria de ciento cincuenta a trescientas veces del valor diario de la unidad de medida de actualización;
 
-III. Cuando el valor de lo dañado exceda de mil quinientas veces el salario mínimo general vigente en el Estado, se impondrá una sanción pecuniaria de dos mil días de salario mínimo vigente y hasta por el valor del daño causado.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+II. Cuando el valor de lo dañado exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, pero no de mil quinientas, se impondrá una sanción pecuniaria de trescientos a dos mil veces del valor diario de la unidad de medida de actualización, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+III. Cuando el valor de lo dañado exceda de mil quinientas veces del valor diario de la unidad de unidad de medida de actualización, se impondrá una sanción pecuniaria de dos mil veces del valor diario de la unidad de unidad de medida de actualización y hasta por el valor del daño causado.
 
 ###### ARTICULO 66.
 
@@ -764,3 +762,11 @@ P.O. 5 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 913.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
