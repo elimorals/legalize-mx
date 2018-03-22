@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-12-07"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -587,7 +587,9 @@ ARTICULO 20 TER. El Consejo de Salud Estatal se integra por:
 
 I. La persona titular de la Secretaría de Salud, quien lo presidirá;
 
-II. La persona titular de la Dirección de Políticas y Calidad en Salud, que fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+II. La persona titular de la Dirección de Salud Pública de los Servicios de Salud del Estado, que fungirá como Secretario Técnico;
 
 III. Además de las vocalías con derecho a voz y voto, siguientes:
 
@@ -4388,5 +4390,13 @@ P.O. 7 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 754.- SE REFORMA (SIC) LOS ARTÍCULOS, 93 Y 96, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 911.- SE REFORMA EL ARTÍCULO 20 TER EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
