@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-03-10"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2337,9 +2337,11 @@ Quien reciba información ambiental de las autoridades competentes en los térmi
 
 La SEGAM y los ayuntamientos auspiciarán la realización periódica de consultas públicas organizadas con los diferentes sectores sociales, a fin de conocer sus opiniones sobre los problemas prioritarios de protección ambiental de la Entidad, así como respecto de los resultados y eficacia de las acciones adoptadas y de las medidas de control implantadas.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 142.
 
-El titular del Ejecutivo del Estado, por conducto de la SEGAM, instituirá el Premio Estatal de Ecología en las áreas de desarrollo e investigación científica y tecnológica; protección del ambiente; cultura ambiental y proyectos especiales, el cual se otorgará anualmente en los términos que el respectivo acuerdo gubernamental establezca.
+El titular del Ejecutivo del Estado, por conducto de la SEGAM y, en coordinación con la Comisión de Ecología y Medio Ambiente del Congreso del Estado, instituirán el Premio Estatal de Ecología en las áreas de: desarrollo e investigación científica y tecnológica; protección del ambiente; cultura ambiental y proyectos especiales; el cual se otorgará anualmente en los términos que el respectivo acuerdo gubernamental establezca.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -3185,7 +3187,15 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 10 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 902.- SE ADICIONA AL ARTÍCULO 146 EN SU FRACCIÓN II UN PÁRRAFO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 902.- SE ADICIONA AL ARTÍCULO 146 EN SU FRACCIÓN II UN PÁRRAFO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 912.- SE REFORMA EL ARTÍCULO 142, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
