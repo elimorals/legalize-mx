@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2017-06-03"
+last_updated: "2018-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1799,7 +1799,9 @@ El jurado encargado de los exámenes orales se integrará por:
 
 I. Un miembro del Consejo de la Judicatura, quien lo presidirá,
 
-II. Un Magistrado y un Juez, que hayan sido ratificados, que serán electos por sorteo, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+II. Un Magistrado y un Juez, quienes serán designados por insaculación, y
 
 III. Una persona designada por el Instituto de Estudios Judiciales.
 
@@ -2440,3 +2442,11 @@ P.O. 3 DE JUNIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 910.- SE REFORMA EL ARTÍCULO 152 EN SU FRACCIÓN II, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
