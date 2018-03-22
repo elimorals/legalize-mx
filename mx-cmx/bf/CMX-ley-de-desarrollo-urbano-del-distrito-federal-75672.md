@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2017-05-05"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -74,7 +74,9 @@ V. Establecer y actualizar el sistema de planificación urbana que se adapte a l
 
 VI. Limitar la existencia de zonas unifuncionales, a través del fomento del establecimiento de áreas geográficas con diferentes usos del suelo, que permita una mejor distribución poblacional, la disminución de traslados y el óptimo aprovechamiento de servicios públicos e infraestructura urbana y la compatibilidad de la expansión urbana con la sustentabilidad ambiental, social y económica;
 
-VII. Planear el desarrollo urbano, considerando la instalación de sistemas de ahorro de energía y el aprovechamiento de energías renovables;
+> <small>(REFORMADA, G.O. 22 DE MARZO DE 2018)</small>
+
+VII. Planear el desarrollo urbano, considerando la instalación de sistemas de ahorro de energía, el aprovechamiento de energías renovables y el enfoque para reducir la vulnerabilidad, aumentar la resiliencia, prevención y reducción del riesgo en desastres naturales;
 
 VIII. Otorgar mayor certidumbre al tráfico inmobiliario, a través del establecimiento de mecanismos administrativos que faciliten la regularización de la propiedad inmobiliaria;
 
@@ -2123,3 +2125,11 @@ QUINTO. La Asamblea Legislativa y el Jefe de Gobierno, contarán conjuntamente c
 SEXTO. En tanto se instale el Consejo Consultivo de Desarrollo Urbano de la Ciudad de México, el Presidente de la Comisión de Desarrollo e Infraestructura Urbana de la Asamblea Legislativa, ejercerá, en lo que resulte procedente, las facultades que el artículo 42, 42 Bis y 42 Ter de la Ley de Desarrollo Urbano del Distrito Federal, le otorga al Presidente del Consejo Consultivo, salvo las relacionadas con el pre-dictamen. En todo caso, la Comisión dictaminará, sin necesidad de pre-dictamen, las iniciativas de decreto que en materia de Programas de Desarrollo Urbano le turne el Presidente de la Mesa Directiva del Pleno, o el Presidente de la Comisión de Gobierno, según sea el caso.
 
 SÉPTIMO. Remítase el presente Decreto al Jefe de Gobierno, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL Y DE LA LEY DE DESARROLLO URBANO PARA EL DISTRITO FEDRAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
