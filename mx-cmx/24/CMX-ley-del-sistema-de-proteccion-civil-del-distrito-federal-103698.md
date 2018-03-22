@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-103698
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2016-12-22"
+last_updated: "2018-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-11-11"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de noviembre de 2014.
 
@@ -1052,7 +1052,9 @@ IV. Investigación e innovación de sistemas de monitoreo y alertamiento por tip
 
 V. El fomento, diseño y coordinación del Sistema de Alerta Metropolitana para todo tipo de agente perturbador y riesgo, utilizando la tecnología e instalaciones existentes en el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, interactuando con sistemas nacionales e internacionales de alertamiento;
 
-VI. Desarrollo e implementación de campañas, programas, impresos y electrónicos para la divulgación de la Protección Civil dirigidos a la Sociedad en su conjunto, con una visión universal, imparcial, humanitaria y transparente, que incluya perspectiva de género y respeto a los derechos humanos;
+> <small>(REFORMADA, G.O. 22 DE MARZO DE 2018)</small>
+
+VI. Desarrollo e implementación de campañas, programas, impresos y electrónicos para la divulgación de la Protección Civil dirigidos a la Sociedad en su conjunto, con una visión universal, imparcial, humanitaria y transparente, que incluya perspectiva de género, respeto a los derechos humanos y cambio climático;
 
 VII. Diseño e implementación de programas de capacitación, orientación, divulgación e información a la población sobre las medidas preventivas ante todos los fenómenos perturbadores;
 
@@ -2318,9 +2320,11 @@ La Secretaría o las Delegaciones, a más tardar dentro de los 5 días hábiles 
 
 El sistema de alerta temprana del Distrito Federal se conformará por los sistemas existentes y que estén operando en el territorio del Distrito Federal; como el Sistema de Alerta Sísmica del Distrito Federal; el Sistema sobre el Índice de Radiación Ultravioleta, de calidad del aire a cargo de la Secretaría de Medio Ambiente del Distrito Federal y otros de competencia federal a cargo de CONAGUA; las Secretarías de Salud, Federal y Local y el Centro Nacional para la Prevención de Desastres (CENAPRED); mismos que serán coordinados operativamente para efectos de alertamiento por la Secretaría de Protección Civil del Distrito Federal, en coordinación con las autoridades del Sistema Nacional de Protección Civil.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE MARZO DE 2018)</small>
+
 ###### Artículo 200.
 
-El Sistema de Alerta Temprana deberá proveer información clara y oportuna con base en el conocimiento del riesgo y monitoreo del potencial peligro debiendo tomar en cuenta, cuando menos, los siguientes aspectos:
+El Sistema de Alerta Temprana, es un derecho para los residentes de la Ciudad de México, se tendrá que promover a través de tecnologías de información y sin costo alguno, ésta deberá ser clara y oportuna con base en el conocimiento del riesgo y monitoreo del potencial peligro (sic) debiendo tomar en cuenta, cuando menos, los siguientes aspectos:
 
 I. Del conocimiento previo del riesgo para el cual se hará el alertamiento, basado en el Atlas de Peligros y Riesgos y/o los Atlas de (sic) Delegacionales, que deberá incluir el análisis y evaluación de las características del fenómeno perturbador; como intensidad; probabilidad de ocurrencia; vulnerabilidades; identificación de zonas geográficas y comunidades que podrían verse afectadas;
 
@@ -2551,3 +2555,11 @@ G.O. 22 DE DICIEMBRE DE 2016.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL Y DE LA LEY DE DESARROLLO URBANO PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
