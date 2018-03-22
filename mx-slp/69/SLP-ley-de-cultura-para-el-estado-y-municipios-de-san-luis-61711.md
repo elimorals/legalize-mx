@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2012-09-13"
+last_updated: "2018-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -73,7 +73,9 @@ VII. Estimular la creación cultural y artística de los potosinos y habitantes 
 
 VIII. Preservar y difundir el patrimonio cultural del Estado de San Luis Potosí, conforme a las leyes vigentes en la materia;
 
-IX. Vincular la cultura al desarrollo educativo, social y económico del Estado, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+IX. Vincular la cultura al desarrollo educativo, social, turístico y económico del Estado, fortaleciendo la cohesión comunitaria, la cultura de paz y el cuidado del medio ambiente, y
 
 X. Propiciar el predominio del interés general, sobre el interés particular.
 
@@ -283,37 +285,89 @@ III. Propiciar el fomento a la lectura a través de publicaciones gratuitas y no
 
 Además de las obligaciones que les establece la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, corresponde a los ayuntamientos, en su ámbito de competencia:
 
-I. Garantizar los derechos culturales a todos los habitantes del municipio que corresponda, así como su acceso a los bienes y servicios culturales con que el mismo cuenta;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-II. Establecer las políticas culturales de su jurisdicción, y el Programa de Desarrollo Cultural Municipal, en concordancia con los planes, Estatal, y municipal de Desarrollo;
+I. Garantizar los derechos culturales a todas las personas del municipio que corresponda sin distinción de edad, sexo, condición social o física entre otras causas de discriminación, asíl (sic) como su acceso a los bienes y servicios culturales con que el mismo cuenta;
 
-III. Designar a un responsable encargado de ejecutar, evaluar e impulsar los programas del municipio, destinados al desarrollo cultural del mismo; también deberá fomentar la relación con el Estado, la Federación y con otras instituciones públicas y organismos privados, dedicados al desarrollo cultural;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-IV. Incluir, en sus presupuestos de egresos, recursos destinados a cultura y recreación, en concordancia con el artículo 114 fracción III inciso i) de la Constitución Política del Estado; y del artículo 141 fracción IX de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
+II. Establecer las políticas culturales de su jurisdicción procurando la unidad y convivencia armónica de las familias, en condiciones de libertad, respeto y dignidad, para erradicar patrones estereotipados, comportamientos, así como prácticas sociales y culturales basadas en conceptos discriminatorios por razones económicas, de género, de subordinación o convicciones políticas;
 
-V. Celebrar los convenios necesarios con las instancias estatales, federales y municipales, así corno con las personas físicas o morales, para la adecuada coordinación de las actividades culturales del municipio;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-VI. Fomentar la integración de consejos ciudadanos coadyuvantes en la promoción y divulgación cultural y artística;
+III. Establecer en el Programa de Desarrollo Cultural Municipal, en concordancia con los planes, Estatal, y municipal de Desarrollo, indicadores de productos y resultados desglosados por género y edad para su evaluación;
 
-VII. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del municipio;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-VIII. Promover el rescate, la preservación, la valoración y la difusión del patrimonio cultural del municipio, conforme a las leyes vigentes en la materia;
+IV. Designar a la persona responsable de ejecutar, evaluar e impulsar los programas del municipio, destinados al desarrollo cultural y la generación y mantenimiento de los espacios públicos de calidad adaptados para el uso cultural del mismo; también deberál (sic) fomentar la relación con el Estado, la Federación y otras instituciones públicas y organismos privados, dedicados al desarrollo cultural y coordinar los procesos participativos en la comunidad para la construcción de los espacios públicos de calidad adaptados para el uso cultural;
 
-IX. Promover la investigación de las manifestaciones culturales del municipio, y fomentar la preservación de la memoria histórica, mediante la adecuada conservación de los diferentes archivos municipales;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-X. Impulsar y apoyar las propuestas que, en materia de desarrollo cultural municipal, planteen organizaciones de la sociedad civil, organizaciones independientes y organismos privados, con el propósito de fortalecer la toma de decisiones en materia cultural;
+V. Incluir, en sus presupuestos de egresos, recursos destinados a cultura y recreación, en concordancia con el artículo 114 fracción III inciso i) de la Constitución Política del Estado; y del artículo 141 fracción IX de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
 
-XI. Dotar a los espacios culturales que se encuentren en la jurisdicción del municipio, con recursos humanos y materiales para su adecuado funcionamiento;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-XII. Impulsar y proyectar las manifestaciones culturales que se lleven a cabo en su ámbito territorial, y promover su permanencia en espacios mediáticos, en apoyo a la difusión de la cultura;
+VI. Celebrar los convenios necesarios con las instancias estatales, federales y municipales, así como con las personas físicas o morales, para la adecuada coordinación de las actividades culturales del municipio y el establecimiento, operación y mantenimiento de los espacios públicos de calidad adaptados para el uso cultural;
 
-XIII. Analizar y resolver las propuestas que presenten personas físicas o morales en materia cultural y artística, para la utilización de los espacios públicos con que el municipio cuente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-XIV. Elaborar y mantener actualizado un diagnóstico sociocultural del municipio, que incluya a los creadores artísticos, intérpretes, promotores culturales, así como las expresiones de cultura popular e indígena, a fin de ser incluido en el sistema de información cultural;
+VII. Fomentar la integración de consejos ciudadanos coadyuvantes en la promoción y divulgación cultural y artística;
 
-XV. Promover la creación de un Fondo Municipal para la Cultura y las Artes, en el que se aporten recursos económicos provenientes de diversas instituciones y organismos, que propicie la creación, formación y desarrollo de los creadores y artistas de cada municipio, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-XVI. Las demás que esta Ley, y otros ordenamientos jurídicos le confieran.
+VIII. Garantizar que el contenido y en los espacios en donde se realicen programas culturales y artísticos dirigidos al público infantil y juvenil, estén libres de mensajes e imágenes estereotipados que, de manera directa o indirecta, promuevan la explotación de las personas, atenten contra su dignidad, fomenten la desigualdad entre mujeres y hombres, y/o violencia;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+IX. Garantizar que los espacios culturales cuenten con las condiciones adecuadas para que ambos progenitores puedan cumplir con sus obligaciones respecto del cuidado y protección de sus hijas e hijos;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+X. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del municipio; en el caso de los municipios con presencia indígena, actuar como instancias de intermediación entre las autoridades estatales y federales y los representantes de los pueblos indígenas de la región, para la realización de los procesos de promoción de la traducción intercultural, garantizando el respeto a sus valores cosmovisión, cultura, creencias, costumbres y prácticas culturales y religiosas;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XI. Generar condiciones para que las comunidades indígenas participen en la interpretación de los mensajes para la difusión cultural a los integrantes de sus pueblos; así como para difundir la cultura de los pueblos indígenas y promover su respeto y comprensión a la población no indígena;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XII. Promover el rescate, la preservación, la valoración y la difusión del patrimonio cultural del municipio, conforme a las leyes vigentes en la materia;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XIII. Promover la investigación de las manifestaciones culturales del municipio, y fomentar la preservación de la memoria histórica, mediante la adecuada conservación de los diferentes archivos municipales;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XIV. Impulsar y apoyar las propuestas que, en materia de desarrollo cultural municipal, planteen organizaciones de la sociedad civil, organizaciones independientes y organismos privados, con el propósito de fortalecer la toma de decisiones en materia cultural;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XV. Dotar a los espacios culturales que se encuentren en la jurisdicción del municipio, con recursos humanos y materiales para su adecuado funcionamiento;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XVI. Impulsar la generación de los espacios públicos de calidad adaptados para uso cultural en las colonias, fraccionamientos, calles, jardines, parques, plazas y cualquier otro espacio público, proporcionar el equipamiento cultural necesarios para su conformación, vigilar su mantenimiento y conservación procurando su buena iluminación, la disponibilidad de teléfonos públicos para situaciones de emergencia, y la señalización apropiada, y supervisar que los mismos estén libres de todo tipo de mensajes e imágenes que de manera directa o indirecta fomenten la discriminación y/o la violencia, así como mensajes e imágenes estereotipados atenten contra la dignidad de las personas o fomenten la desigualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XVII. Impulsar y proyectar las manifestaciones culturales que se lleven a cabo en su ámbito territorial, y promover su permanencia en espacios mediatices (sic), en apoyo a la difusión de la cultura;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XVIII. Analizar y resolver las propuestas que presenten personas físicas o morales en materia cultural y artística, para la utilización de los espacios públicos con que el municipio cuente;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XIX. Elaborar y mantener actualizado un diagnóstico sociocultural del municipio, que incluya a los creadores artísticos, intérpretes, las actividades artísticas de las instituciones educativas para la promoción de la cultura de paz, promotores culturales, así como las expresiones de cultura popular e indígena, a fin de ser incluido en el sistema de información cultural;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XX. Promover la creación de un Fondo Municipal para la Cultura y las Artes, en el que se aporten recursos económicos provenientes de diversas instituciones y organismos, que propicie la creación, formación y desarrollo de los creadores y artistas de cada municipio, y la generación y conservación de los espacios públicos de calidad adaptados para uso cultural, y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2018)</small>
+
+XXI. Las demás que esta Ley, y otros ordenamientos jurídicos le confieran.
 
 ###### ARTICULO 13.
 
@@ -691,6 +745,18 @@ El titular del Ejecutivo del Estado debe garantizar los recursos financieros pú
 
 Corresponde a los ayuntamientos del Estado de San Luis Potosí, elaborar e instrumentar un Programa de Desarrollo Cultural Municipal, acorde con el Programa Sectorial de Cultura. Los programas municipales, además de ser emitidos por el presidente municipal, deben aprobarse por el cabildo.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2018)</small>
+
+Los ayuntamientos, promoverán, desarrollarán e impartirán, en sus Centros de Cultura; a los niños, niñas, adolescentes y adultos mayores, clases de cuando menos las siguientes artes; música, danza, escultura, pintura, literatura, canto y teatro.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2018)</small>
+
+El ayuntamiento realizará un festival anual cultural de demostración de las artes, donde participarán los alumnos de los distintos talleres a que se refieren el párrafo anterior, en el que se expondrán los conocimientos adquiridos, el trabajo y aprovechamiento realizado, para con ello promover la cultura, turismo, y el desarrollo económico de la municipalidad.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2018)</small>
+
+Preferentemente el festival anual deberá realizarse durante los días que establece el calendario de vacaciones escolares emitido por la Secretaría de Educación Pública, con el objetivo fundamental de que acudan a disfrutar la demostración artística.
+
 ###### ARTICULO 55.
 
 Las autoridades municipales deben convocar a la comunidad en general de su ámbito territorial, a participar en las acciones y programas en materia de desarrollo cultural.
@@ -756,3 +822,11 @@ SEGUNDO. Las bibliotecas que bajo el esquema que determina la Ley que se expide,
 TERCERO. El Consejo de la Red Estatal de Bibliotecas Públicas debe integrarse en un plazo máximo de treinta días a la entrada en vigor de esta Ley; y su Reglamento Interior debe expedirse dentro del término de noventa días a partir de su vigencia.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 914.- SE REFORMAN LOS ARTÍCULOS 3° Y 12 Y ADICIONAN A LOS ARTÍCULOS 12 Y 54, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
