@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-de-la-judicatura-del-estado-835
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2017-05-16"
+last_updated: "2018-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MARZO DE 2018.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 31 de octubre de 2011.
 
@@ -57,7 +57,7 @@ Las disposiciones de este ordenamiento son de observancia general en el Consejo 
 
 Para los efectos de este reglamento, se entenderá por:
 
-l. Poder Judicial.- Poder Judicial del Estado de México;
+I. Poder Judicial.- Poder Judicial del Estado de México;
 
 II. Consejo.- Consejo de la Judicatura del Poder Judicial del Estado de México;
 
@@ -159,7 +159,9 @@ V. Procurar tomar en cuenta el domicilio del servidor público hasta el nivel de
 
 VI. Emitir dictamen con base en la averiguación de hechos que realice, para que de ser procedente se solicite a la Legislatura del Estado la destitución de algún magistrado;
 
-VII. Realizar las investigaciones, consultas o cualquier diligencia que estime necesarias, para la comprobación de la conducta atribuida al servidor público;
+> <small>(REFORMADA, G.G. 23 DE MARZO DE 2018)</small>
+
+VII. Realizar por conducto de la unidad administrativa correspondiente, las investigaciones, consultas o cualquier diligencia que estime necesarias, para la comprobación de la conducta atribuida al servidor público;
 
 VIII. Remitir dentro del término de tres días, la aceptación de la renuncia que presente el magistrado o los miembros del Consejo, para su aprobación a la Legislatura o Diputación Permanente;
 
@@ -181,7 +183,9 @@ III. Vigilar el correcto ejercicio del Fondo Auxiliar para la Administración de
 
 IV. Establecer los sistemas necesarios para preservar el orden y la seguridad de los inmuebles;
 
-V. Vigilar por sí o a través de las comisiones o Consejeros, el funcionamiento de las unidades y áreas administrativas dependientes del Consejo;
+> <small>(REFORMADA, G.G. 23 DE MARZO DE 2018)</small>
+
+V. Vigilar por sí o a través de las comisiones, Consejeros o áreas administrativas, el funcionamiento de las unidades y áreas administrativas dependientes del Consejo;
 
 VI. Tomar la protesta a los integrantes del Consejo; y
 
@@ -367,7 +371,7 @@ Las Direcciones Generales, Direcciones de área y Coordinaciones contarán con l
 
 Para ser director general o de área, coordinador y delegado de la contraloría, se requiere:
 
-l. Ser ciudadano de Estado en pleno ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano de Estado en pleno ejercicio de sus derechos civiles y políticos;
 
 II. No haber sido condenado por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
 
@@ -455,7 +459,7 @@ XI. Las demás que se desprendan de las disposiciones legales aplicables y las q
 
 La Dirección de Finanzas tendrá las atribuciones siguientes:
 
-l. Proponer al Director General de Finanzas y Planeación las reglas, sistemas, procedimientos y disposiciones a los cuales las unidades administrativas deben sujetarse para la formulación de sus anteproyectos de presupuestos;
+I. Proponer al Director General de Finanzas y Planeación las reglas, sistemas, procedimientos y disposiciones a los cuales las unidades administrativas deben sujetarse para la formulación de sus anteproyectos de presupuestos;
 
 II. Proponer al Director General de Finanzas y Planeación el anteproyecto de Presupuesto del Poder Judicial;
 
@@ -681,7 +685,9 @@ Las facultades, organización y funcionamiento de estas direcciones estarán pre
 
 La Dirección General de Contraloría, además de las atribuciones que le señala la Ley Orgánica, tendrá las siguientes:
 
-l. Llevar a cabo el procedimiento de responsabilidad administrativa disciplinaria y resarcitoria, en términos de la Ley Orgánica y de la Ley de Responsabilidades, auxiliando al instructor que se designe;
+> <small>(REFORMADA, G.G. 23 DE MARZO DE 2018)</small>
+
+I. Auxiliar al Consejo de la Judicatura en la investigación, sustanciación y resolución de los procedimientos de responsabilidad administrativa;
 
 II. Aplicar los acuerdos del Consejo en materia de control, vigilancia y disciplina;
 
@@ -695,7 +701,9 @@ VI. Recibir y registrar las declaraciones patrimoniales que deben presentar los 
 
 VII. Llevar el registro y seguimiento de la evolución patrimonial de los servidores públicos;
 
-VIII. Practicar investigaciones, inspecciones, revisiones o auditorias que le sean ordenadas por el Consejo, levantando en su caso el acta correspondiente;
+> <small>(REFORMADA, G.G. 23 DE MARZO DE 2018)</small>
+
+VIII. Practicar investigaciones, inspecciones, visitas, revisiones o auditorias que les sean ordenadas por el Consejo, así como las que deriven de quejas, denuncias o actas administrativas, levantando en su caso el acta correspondiente;
 
 IX. Diseñar instructivos o programas de operación con el fin de asegurar en forma eficaz el cumplimiento de sus funciones;
 
@@ -705,7 +713,9 @@ XI. Proponer recomendaciones para corregir deficiencias y desviaciones que se pr
 
 XII. Proponer que existan mecanismos de control interno adecuados en la aplicación de los recursos;
 
-XIII. Llevar el registro de servidores públicos sancionados por el Pleno del Consejo;
+> <small>(REFORMADA, G.G. 23 DE MARZO DE 2018)</small>
+
+XIII. Llevar el registro de servidores públicos sancionados;
 
 XIV. Atender las quejas e inconformidades que presenten proveedores o contratistas derivados por los actos de procedimiento, bases y reglas de contratación; y
 
@@ -767,31 +777,89 @@ Toda licencia debe solicitarse por escrito ante el Consejo, quien debe dar respu
 
 Las ausencias y suplencias de los servidores públicos se regularán por las disposiciones que establece la Ley Orgánica y las que determine el Consejo.
 
-### CAPÍTULO XVI. DE LA SUBSTANCIACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
+> <small>(REFORMADA SE DENOMINACIÓN, G.G. 23 DE MARZO DE 2018)</small>
+
+### CAPÍTULO XVI. DE LA INVESTIGACIÓN Y EL PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
+
+> <small>(REFORMADO, G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 51.
 
-El procedimiento de responsabilidad administrativa disciplinaria, tiene por objeto determinar el incumplimiento de las obligaciones a las que se refiere la Ley Orgánica, la Ley de Responsabilidades y las específicas que cometan los servidores públicos, en el ejercicio de su cargo por acciones u omisiones y la aplicación de las sanciones que correspondan.
+El procedimiento de responsabilidad administrativa disciplinaria, tiene por objeto determinar el incumplimiento de las obligaciones a las que se refiere la Ley Orgánica o la Ley de Responsabilidades que cometan los servidores públicos, en el ejercicio de su empleo, cargo o comisión, por acciones u omisiones, que sean constitutivas de faltas administrativas y la aplicación de las sanciones que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 52.
 
-Compete a la Dirección General de Contraloría, auxiliar en la substanciación del procedimiento administrativo de responsabilidad disciplinaria y resarcitoria; y al Consejo dictar la resolución que corresponda.
+Compete a la Dirección General de Contraloría, auxiliar al Consejo de la Judicatura en la investigación, substanciación y resolución de las responsabilidades administrativas de los servidores públicos del Poder Judicial del Estado de México.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Para cumplir con las atribuciones que se le confieren, la Dirección General de Contraloría y sus Delegaciones Regionales, se auxiliarán de comisionados investigadores, comisionados substanciadores y notificadores, quienes tendrán fe pública en el ejercicio de sus funciones; así como del demás personal operativo que estime necesario el Consejo de la Judicatura.
 
 ###### Artículo 53.
 
 La Dirección General de Contraloría, recibirá las quejas, denuncias o actas iniciadas con motivo de las visitas practicadas a las salas, juzgados, unidades y áreas administrativas o por los hechos que se desprendan del ejercicio de la función de los servidores públicos.
 
-No se dará curso legal a las denuncias anónimas, sin embargo el Consejo podrá ordenar la investigación que corresponda.
+> <small>(REFORMADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes. En caso contrario, serán desechadas.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Para el caso de que la investigación por la presunta responsabilidad administrativa inicie por denuncia, el promovente deberá señalar domicilio para oír y recibir notificaciones de carácter personal, dentro de la cabecera municipal en la que se ubique la oficina de la Dirección General de Contraloría, sus Delegaciones Regionales, o correo electrónico.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+En caso de que no se señale domicilio, el indicado no se encuentre dentro de la cabecera municipal en la que se ubique la oficina respectiva, sea incompleto o no exista éste, las notificaciones personales se realizarán al denunciante mediante instructivo que se fije en los estrados de la Dirección General de Contraloría, o de sus Delegaciones Regionales, según corresponda.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+De igual manera, se practicarán por estrados las notificaciones que deban ser personales, cuando el correo electrónico no exista.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Si durante la investigación se advierte la existencia de actos de particulares vinculados con faltas administrativas graves, se dará intervención a la autoridad competente, a efecto de que proceda conforme a los procedimientos previstos en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+La autoridad investigadora podrá ordenar la recolección de indicios y medios de prueba que estime conducentes para llegar a la verdad material de los hechos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 54.
 
-En la substanciación del procedimiento se aplicarán en lo conducente las disposiciones contenidas en la Ley Orgánica y en la Ley de Responsabilidades.
+Previo al inicio de un procedimiento de responsabilidad administrativa, deberá aperturarse y desahogarse una etapa de investigación por presunta responsabilidad de faltas administrativas, misma que estará a cargo de la Dirección General de Contraloría a través de comisionados investigadores.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+En la etapa de investigación serán aplicables, en lo conducente, las disposiciones contenidas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+Acotando, que respecto a la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios a que hace referencia el artículo 39 del aludido cuerpo normativo, la autoridad investigadora peticionará al Presidente del Consejo de la Judicatura la solicite a las autoridades competentes en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 55.
 
-La notificación de inicio del procedimiento de responsabilidad administrativa, será mediante oficio al servidor público, debiendo acompañarse las copias de la denuncia o del acta iniciada, con los anexos que se hubieren presentado.
+La autoridad investigadora procederá al análisis de los hechos denunciados, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la Ley señale como falta administrativa, lo que incluirá en su informe, mismo que turnará al Presidente del Consejo de la Judicatura para que, en su caso, designe a uno de los integrantes de dicho cuerpo colegiado para que proceda a la substanciación del procedimiento administrativo disciplinario en términos de la Ley Orgánica; o bien, ordene su archivo.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
+
+El Consejero designado, podrá auxiliarse del comisionado substanciador que corresponda, según la región judicial donde se radique el procedimiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 56.
+
+La notificación de inicio del procedimiento de responsabilidad administrativa, será mediante oficio al servidor público, debiendo acompañarse las copias de la denuncia o del acta iniciada, con los anexos que se hubieren presentado, así como del informe de presunta responsabilidad.
+
+> <small>(ADICIONADO, G.G. 23 DE MARZO DE 2018)</small>
 
 En el oficio de notificación se le hará saber al servidor público, de manera concreta y circunstanciada, la falta administrativa o conducta que se le atribuye, para su debida defensa.
 
@@ -799,15 +867,23 @@ En el oficio de notificación se le hará saber al servidor público, de manera 
 
 Las audiencias y diligencias que se practiquen, deberán constar en acta circunstanciada, recabando las firmas de quienes intervienen en ellas.
 
+> <small>(REFORMADO, G.G. 23 DE MARZO DE 2018)</small>
+
 ###### Artículo 58.
 
-Si de las constancias del procedimiento, se advierte que el servidor público es responsable de las acciones u omisiones que le son imputadas, el Consejero instructor formulará la opinión razonada de responsabilidad, la que en todo caso deberá contener los requisitos siguientes:
+El procedimiento se desarrollará en los términos señalados en la Ley Orgánica, con las precisiones siguientes:
 
-I. Las características y circunstancias del caso, precisando la intervención que haya tenido el servidor público denunciado o señalado en las actas que hayan dado origen al procedimiento;
+a) Si el servidor público a citar se encuentra incapacitado por gravidez o enfermedad, goce de licencia para separarse del cargo, vacaciones, fuera de la entidad por alguna comisión oficial o causa análoga a las anteriores, la autoridad substanciadora tomará las medidas correspondientes a efecto de que una vez superadas tales circunstancias, se realice la citación correspondiente;
 
-II. La comprobación de la conducta o hecho material de la denuncia o del acto; y
+b) Durante la etapa de investigación previa o en la substanciación del procedimiento, el Presidente o el Consejero designado respectivamente podrán determinar la suspensión temporal del empleo, cargo o comisión del probable responsable, con la correspondiente retención del setenta por ciento de las percepciones del servidor público involucrado, siempre que así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión;
 
-III. La opinión de responsabilidad y la propuesta de sanción.
+c) El inicio de un procedimiento administrativo en contra de algún servidor judicial podrá ser causa de excusa para seguir conociendo del asunto del que derive la presunta responsabilidad administrativa;
+
+d) Las resoluciones que emita el Consejo de la Judicatura del Estado en materia de responsabilidad administrativa serán inimpugnables, conforme al artículo 58 de la Ley Orgánica del Poder Judicial del Estado de México;
+
+e) Una vez que sea ejecutable, la resolución que sancione a un servidor público, será comunicada a las áreas respectivas del Poder Judicial para los efectos que correspondan;
+
+f) De manera complementaria será aplicable al procedimiento, lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, atendiendo a la tramitación para las faltas no graves.
 
 ###### Artículo 59.
 
@@ -821,59 +897,65 @@ Si de las constancias del procedimiento, se advierte que el servidor público no
 
 La responsabilidad administrativa disciplinaria, no excluye de las de carácter civil o penal en que pudiera incurrir el Servidor público.
 
+> <small>(REFORMADO, G.G. 23 DE MARZO DE 2018)</small>
+
 ###### Artículo 62.
 
-Las sanciones disciplinarias por las faltas administrativas en que incurran los servidores públicos, son las que determina la Ley Orgánica y la Ley de Responsabilidades y su imposición corresponde al Consejo.
+Las sanciones disciplinarias por las faltas administrativas en que incurran los servidores públicos, son las que determina la Ley de Responsabilidades Administrativas del Estado de México y Municipios y su imposición corresponde al Consejo.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 23 DE MARZO DE 2018)</small>
 
 ### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD RESARCITORIA
 
 ###### Artículo 63.
 
-La responsabilidad administrativa resarcitoria tendrá por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen al patrimonio del Poder Judicial, a los fondos y fideicomisos constituidos por el mismo o cualquier otra afectación económica. Se fijará en cantidad líquida y su pago será exigible de inmediato
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 64.
 
-El Consejo con auxilio de la Dirección General de Contraloría, en funciones de auditoria, fiscalización, control, vigilancia e inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, podrá fincar responsabilidad resarcitoria, cuando advierta irregularidades por actos u omisiones de servidores públicos o de particulares que hayan intervenido en los actos o contratos en los que se cause daño o perjuicio, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores o de recursos económicos propios o ajenos asignados al Poder Judicial.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 65.
 
-El fincamiento de la responsabilidad administrativa resarcitoria, será conforme al procedimiento establecido en la Ley Orgánica, la Ley de Responsabilidades y en este reglamento.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 66.
 
-Para el efecto de que se reintegren al patrimonio del Poder Judicial, las cantidades que se obtengan con motivo de las sanciones administrativas resarcitorias, se solicitará la aplicación del procedimiento administrativo de ejecución a las autoridades fiscales competentes.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
-### CAPÍTULO XVIII. DEL REGISTRO DE LA SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 23 DE MARZO DE 2018)</small>
+
+### CAPÍTULO XVIII. DEL REGISTRO DE LA SITUACIÓN PATRIMONIAL Y DECLARACIÓN DE INTERESES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, G.G. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 67.
 
-El Consejo por conducto de la Dirección General de Contraloría, llevará el registro de la manifestación de bienes de los servidores públicos, de conformidad con las disposiciones de la Ley de Responsabilidades y el presente reglamento.
+El Consejo por conducto de la Dirección General de Contraloría, llevará el registro de la declaración de situación patrimonial, de intereses y constancia de presentación de declaración fiscal anual de los servidores públicos, de conformidad con las disposiciones de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 68.
 
-Los servidores públicos que tienen obligación de presentar manifestación de bienes ante la Dirección General de Contraloría, son los que señala el artículo 79 fracción III de la Ley de Responsabilidades.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 69.
 
-El Presidente, mediante acuerdo precisará durante el mes de febrero de cada año, quienes son los servidores públicos obligados a presentar manifestación de bienes, por tener a su cargo alguna o algunas de las funciones que ameriten el cumplimiento de tal obligación.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 70.
 
-Los procedimientos, plazos, formatos, visitas de inspección, auditorias y la aplicación de sanciones en materia de situación patrimonial, serán los que se establecen en la Ley Orgánica y en la Ley de Responsabilidades.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 71.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, el Consejo podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección o auditorias. Cuando estos actos requieran orden de autoridad judicial el propio Consejo formulará ante ésta la solicitud correspondiente.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 72.
 
-El servidor público a quien se practique visita de investigación o auditoría, podrá inconformarse ante el Consejo contra los hechos contenidos en las actas, mediante escrito que debe presentar dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en la que expresará los motivos de la inconformidad y dentro de los quince días siguientes, podrá acompañar o rendir las pruebas que consideré necesarias.
-
-El Consejo resolverá sobre la procedencia o improcedencia de la inconformidad.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ###### Artículo 73.
 
-En los casos de posible enriquecimiento ilícito del servidor público, la Dirección General de Contraloría, presentará al Consejo el expediente respectivo y este resolverá si procede o no a formular denuncia ante el Ministerio Público.
+(DEROGADO, G.G. 23 DE MARZO DE 2018)
 
 ...
 
@@ -922,3 +1004,19 @@ PRIMERO.- Publíquese este acuerdo en el Periódico Oficial “Gaceta del Gobier
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado.
 
 TERCERO.- Se instruye a la Dirección de Control Patrimonial y a la Secretaría General de Acuerdos para que realicen la actualización de los ordenamientos señalados en este acuerdo.
+
+G.G. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE FECHA DOCE DE MARZO DE DOS MIL DIECIOCHO, POR EL QUE SE MODIFICA EL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO: Por tratarse de un acuerdo de interés general, publíquese en la Gaceta del Gobierno del Estado de México, Boletín Judicial y en el sitio de internet de la institución.
+
+SEGUNDO: El presente acuerdo entrará en vigor a partir de su publicación en la Gaceta del Gobierno del Estado de México.
+
+TERCERO: Los asuntos iniciados con anterioridad a la vigencia del presente acuerdo, serán substanciados y concluidos, conforme a la normatividad aplicada a su inicio.
+
+Los asuntos que se encuentren en etapa de investigación se continuarán conforme a las disposiciones previstas en el presente reglamento.
+
+CUARTO: Se instruye a la Dirección General de Administración para que en coordinación con la Secretaría General de Acuerdos y la Dirección de Personal instrumente los movimientos o creación de plazas necesarias para contar en la plantilla de la Dirección General de Contraloría y sus Delegaciones, con comisionados investigadores, comisionados substanciadores y notificadores.
+
+QUINTO: Se instruye a la Dirección General de Finanzas y Planeación para que ajuste la distribución administrativa del presupuesto a la estructura orgánica aprobada.
