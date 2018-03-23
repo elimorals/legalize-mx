@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-participacion-ciudadana-del-estado-de-quintana-roo-44414
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2010-12-10"
+last_updated: "2018-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 23 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018 (ABROGADO).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005.
 
@@ -682,3 +684,17 @@ P.O. 10 DE DICIEMBRE DE 2010.
 T R A N S I TO R I O:
 
 ÚNICO.- Publíquese el presente Decreto, en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. DE 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 160 POR EL QUE SE EXPIDE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Participación Ciudadana del Estado de Quintana Roo, expedida mediante el Decreto número 149 de la H. X Legislatura del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo el 14 de marzo de 2005.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones o adiciones reglamentarias que correspondan en materia de silla (sic) ciudadana, consulta vecinal, presupuesto participativo, audiencias vecinales, consejo consultivo ciudadano, comités ciudadanos y comités de vecinos, en los términos que establezca la Ley de Participación Ciudadana del Estado de Quintana Roo que se expide mediante el presente Decreto y la Ley de los Municipios del Estado de Quintana Roo.
+
+Asimismo, en el plazo señalado, deberán instalarse los consejos consultivos ciudadanos y los comités de vecinos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
