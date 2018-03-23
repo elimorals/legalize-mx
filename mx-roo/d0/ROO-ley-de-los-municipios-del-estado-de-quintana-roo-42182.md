@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2017-12-27"
+last_updated: "2018-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 127 QUE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2012, SE DEROGA EN LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.]</small>
+
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -32,8 +34,6 @@ DECRETO NÚMERO: 139. LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 LA HONORABLE X LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
 D E C R E T A:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 127 QUE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2012, SE DEROGA EN LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
@@ -673,17 +673,19 @@ El o la Presidente/a Municipal comunicará oficialmente la instalación e integr
 
 ### Capítulo I. De las Sesiones
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 59.
 
-El Ayuntamiento tendrá sesiones ordinarias o extraordinarias, públicas o privadas, solemnes y permanentes, en la forma, términos y condiciones que disponga su reglamento interior para cada caso, pero el número de sesiones ordinarias será cuando menos de dos al mes.
+El Ayuntamiento tendrá sesiones ordinarias o extraordinarias, solemnes y permanentes, en la forma, términos y condiciones que disponga su reglamento interior para cada caso, pero el número de sesiones ordinarias será cuando menos de dos al mes.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+Las sesiones del Ayuntamiento serán públicas, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por el Ayuntamiento.
+
+Cuando las sesiones sean públicas serán transmitidas en la página oficial de internet del Ayuntamiento.
 
 Las sesiones del Ayuntamiento serán válidas, con la asistencia de más de la mitad de sus miembros, debiendo presidirla el o la Presidente/a Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
-
-Cuando él o la Presidente/a Municipal no asista a la sesión del Ayuntamiento, será suplido por el o la Primer Regidor/a. Si éste último tampoco asiste a la sesión, deberá convocarse nuevamente, señalando fecha y hora para su desahogo.
+Cuando él o la Presidente/a Municipal no asista a la sesión del Ayuntamiento, será sup ido (sic) por el o la Primer Regidor/a. Si éste último tampoco asiste a la sesión, deberá convocarse nuevamente, señalando fecha y hora para su desahogo.
 
 ###### ARTÍCULO 60.
 
@@ -2435,37 +2437,41 @@ Los conflictos derivados de los convenios celebrados por los municipios con el E
 
 En todo caso, para asegurar la continuidad de los servicios y de las funciones públicas, mientras se resuelve el conflicto, éstos se deben seguir prestando de forma ininterrumpida, con la mayor regularidad y eficacia, siempre con apego a lo estipulado en los convenios.
 
-## Título Décimo Tercero. Formas de Participación Ciudadana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2018)</small>
+
+## Título Décimo Tercero. De los Órganos de Representación Ciudadana
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 197.
 
-Este capítulo regula la (sic) formas de participación y colaboración ciudadana que deberán instrumentarse en los centros de población de los Municipios del Estado, con el propósito de fortalecer el régimen de democracia, a fin de que la ciudadanía pueda participar organizadamente en el estudio, análisis de la realidad social y de los problemas y necesidades de la comunidad, así como en la elaboración e impulso de soluciones y proyectos en beneficio de la misma y propiciar la colaboración directa y efectiva de los ciudadanos en la ejecución de programas de obras y servicios públicos.
+Este capítulo regula los órganos de representación ciudadana con el propósito de fortalecer el régimen de democracia y que la ciudadanía pueda participar organizadamente en el estudio, análisis de los problemas y necesidades de la comunidad, así como en la elaboración e impulso de soluciones y proyectos en beneficio de la misma y propiciar la colaboración directa y efectiva de los ciudadanos en la ejecución de programas de obras y servicios públicos.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 198.
 
-Los Ayuntamientos, con el fin mencionado en el artículo anterior, deberán establecer las siguientes formas de participación y colaboración ciudadana:
+Los Ayuntamientos, con el fin mencionado en el artículo anterior, deberán establecer los siguientes órganos de representación ciudadana:
 
-I. Consejo Consultivo Ciudadano;
+l. Consejo consultivo ciudadano;
 
-II. Comités de Participación Ciudadana;
+II. Comités ciudadanos, y
 
-III. Comités de Vecinos;
+III. Comité de Vecínos.
 
-IV. Consultas Públicas.
-
-Los consejos y comités serán regulados por los reglamentos que, en su caso, expida cada Ayuntamiento.
+Estos serán regulados por los reglamentos que, en su caso, expida cada Ayuntamiento.
 
 ###### ARTÍCULO 199.
 
 En todo caso, los planteamientos y sugerencias que se deriven de la participación de la comunidad que se de a través de los medios establecidos en esta Ley, tendrán el carácter de recomendaciones no obligatorias, no obstante, las autoridades municipales deberán informar con oportunidad y precisión de las decisiones adoptadas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 200.
 
-Los ciudadanos quintanarroenses podrán participar organizadamente en el análisis de la realidad social y de los problemas y necesidades de la comunidad, así como en la elaboración e impulso de soluciones y proyectos en beneficio de la misma.
-
-Pueden participar, como personas físicas o morales, en el campo de lo social, económico, político, cultural, cívico, educativo y en cualquier otro que sea legal y provechoso para la comunidad.
+En la conformación de los órganos de representación ciudadana podrán participar personas físicas o morales sin fines de lucro.
 
 ### Capítulo II. Del Consejo Consultivo
 
@@ -2535,11 +2541,15 @@ III. Cuando reciban algún nombramiento para un cargo público, sea o no de elec
 
 IV. Cuando por razones de falta de probidad, ameriten ser relevados del cargo.
 
-### Capítulo III. De los Comités de Participación Ciudadana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2018)</small>
+
+### Capítulo III. De los Comités Ciudadanos
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 207.
 
-Los Comités de Participación Ciudadana son una forma de organización que permite hacer efectiva y directa la participación de la ciudadanía en la ejecución de obras públicas o en la prestación de servicios a la comunidad. Su permanencia es temporal y su duración estará determinada por el programa de obra o servicios a realizar, al término del cual, concluirán sus funciones.
+Los Comités Ciudadanos son una forma de organización que permite hacer efectiva y directa la participación de la ciudadanía en la ejecución de obras públicas o en la prestación de servicios a la comunidad. Su permanencia es temporal y su duración estará determinada por el programa de obra o servicios a realizar, al término del cual, concluirán sus funciones.
 
 ###### ARTÍCULO 208.
 
@@ -2571,9 +2581,11 @@ V. Intervención en la selección de los contratistas; y
 
 VI. En general, cualquier otro tipo de colaboración que sea convenida siempre y cuando no sea contraria a derecho.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 212.
 
-En el convenio deberán especificarse, el origen y la forma de distribución del presupuesto que se asigne a las obras y programas que se realicen a través del Comité de Participación Ciudadana y será responsabilidad de todas las partes que sea aplicado en la forma prevista.
+En el convenio deberán especificarse, el origen y la forma de distribución del presupuesto que se asigne a las obras y programas que se realicen a través del Comité y será responsabilidad de todas las partes que sea aplicado en la forma prevista.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2587,13 +2599,17 @@ Cuando la materia del convenio se relacione con el Servicio de Seguridad Públic
 
 Los Comités de Vecinos son órganos de colaboración ciudadana instalados con el fin de propiciar una permanente comunicación entre las autoridades del Ayuntamiento y la ciudadanía, para vincular su intervención en los asuntos comunitarios.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 215.
 
-Los Comités de Vecinos se integrarán, respetando en todo caso las peculiaridades de cada Municipio, por barrios, manzanas, colonias, sectores, regiones, ejidos y rancherías y cada Ayuntamiento podrá determinar su temporalidad, el número de sus integrantes y las normas de funcionamiento.
+Los Comités de Vecinos se integrarán, respetando en todo caso las peculiaridades de cada Municipio, por barrios, manzanas, colonias, sectores, regiones, ejidos y rancherías y cada Ayuntamiento deberá determinar su temporalidad, el número de sus integrantes y las normas de funcionamiento.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 216.
 
-La integración de estos órganos de participación ciudadana, deberá facilitar los procesos de consulta popular permanente y propiciar una democracia más participativa, creando conciencia comunitaria de la responsabilidad conjunta de gobernantes y gobernados respecto a la buena marcha de la vida colectiva.
+La integración de estos órganos de representación ciudadana, deberá facilitar los procesos de consulta permanente y propiciar una democracia más participativa, creando conciencia comunitaria de la responsabilidad conjunta de gobernantes y gobernados respecto a la buena marcha de la vida colectiva.
 
 ###### ARTÍCULO 217.
 
@@ -2603,17 +2619,19 @@ Los Comités de Vecinos tendrán como una de sus funciones primordiales, el cont
 
 Los Comités de Vecinos tendrán, así mismo, la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y, en general, cualquier desastre que afecte la vida comunitaria.
 
-### Capítulo V. De las Consultas Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2018)</small>
+
+### Capítulo V. De los mecanismos de participación ciudadana
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 219.
 
-Cuando el Ayuntamiento considere conveniente o desee conocer la voluntad ciudadana respecto de un determinado proyecto o política a desarrollar, podrá convocar a los ciudadanos de su jurisdicción, para que por medio de la consulta popular puedan expresar su opinión.
-
-En estas consultas se tomará en cuenta únicamente la opinión de los ciudadanos domiciliados en el respectivo Municipio y bastará mostrar la Credencial de Elector para ejercer este derecho.
+Cuando el Ayuntamiento considere conveniente o desee conocer la voluntad ciudadana respecto de un determinado proyecto o política a desarrollar, podrá solicitar alguno de los mecanismos de participación a que se refiere la Ley de Participación Ciudadana del Estado de Quintana Roo, en los términos y plazos que la misma prevé.
 
 ###### ARTÍCULO 220.
 
-Los Ayuntamientos deberán reglamentar las bases, mecanismos y formas apropiadas para celebrar dichas consultas populares.
+(DEROGADO, P.O. 23 DE MARZO DE 2018)
 
 ## Título Décimo Cuarto. Reglamentación Municipal
 
@@ -3077,7 +3095,7 @@ P.O. 2 DE JULIO DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o en centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
 
 P.O. 3 DE MARZO DE 2009.
 
@@ -3322,3 +3340,17 @@ El Secretario General de Acuerdos y demás personal jurisdiccional y administrat
 SÉPTIMO. Los procedimientos de responsabilidad patrimonial de los que conocerá el Tribunal de Justicia Administrativa del Estado de Quintana Roo de conformidad con lo establecido en el artículo 187 fracción XVI del Código de Justicia Administrativa del Estado de Quintana Roo que se expide mediante el presente decreto, deberán ser substanciados de conformidad con la legislación en la materia en su caso se emita.
 
 OCTAVO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 160 POR EL QUE SE EXPIDE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Participación Ciudadana del Estado de Quintana Roo, expedida mediante el Decreto número 149 de la H. X Legislatura del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo el 14 de marzo de 2005.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones o adiciones reglamentarias que correspondan en materia de silla ciudadana, consulta vecinal, presupuesto participativo, audiencias vecinales, consejo consultivo ciudadano, comités ciudadanos y comités de vecinos, en los términos que establezca la Ley de Participación Ciudadana del Estado de Quintana Roo que se expide mediante el presente Decreto y la Ley de los Municipios del Estado de Quintana Roo.
+
+Asimismo, en el plazo señalado, deberán instalarse los consejos consultivos ciudadanos y los comités de vecinos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
