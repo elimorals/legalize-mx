@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-sociedad-hipotecaria-federal-24292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-09"
-last_updated: "2015-08-25"
+last_updated: "2018-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-04-08"
 
 REGLAMENTO ORGÁNICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de abril de 2002.
 
@@ -101,11 +101,13 @@ La duración de la Sociedad será indefinida.
 
 ### CAPITULO SEGUNDO. DEL CAPITAL SOCIAL
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MARZO DE 2018)</small>
 
 ###### Artículo 7o.
 
-El capital social de la Sociedad es de $11,300’000,000.00 (ONCE MIL TRESCIENTOS MILLONES DE PESOS 00/100 M.N.). Dicho capital social estará representado por 7,458 (SIETE MIL CUATROCIENTOS CINCUENTA Y OCHO) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno, y por 3,842 (TRES MIL OCHOCIENTOS CUARENTA Y DOS) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno.
+El capital social de la Sociedad es de $15,150’000,000.00 (QUINCE MIL CIENTO CINCUENTA MILLONES DE PESOS 00/100 M.N.). Dicho capital social estará representado por 9,999 (NUEVE MIL NOVECIENTOS NOVENTA Y NUEVE) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno, y por 5,151 (CINCO MIL CIENTO CINCUENTA Y UNO) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito.
 
@@ -472,3 +474,13 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 La Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DISPONE EL AUMENTO DE CAPITAL SOCIAL DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7o. DEL REGLAMENTO ORGÁNICO DE LA SOCIEDAD”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido en el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
+
+TERCERO.- El capital pagado de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo a la entrada en vigor del presente Reglamento Orgánico, asciende a la suma de $15,150’000,000.00 (QUINCE MIL CIENTO CINCUENTA MILLONES DE PESOS 00/100 M.N.), el cual estará distribuido en $9´999,000,000.00 (NUEVE MIL NOVECIENTOS NOVENTA Y NUEVE MILLONES DE PESOS 00/100 M.N.), representado por 9,999 (NUEVE MIL NOVECIENTOS NOVENTA Y NUEVE) certificados de aportación patrimonial de la Serie “A”, con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno, y $5´151,000,000.00 (CINCO MIL CIENTO CINCUENTA Y UN MILLONES DE PESOS 00/100 M.N.), representado por 5,151 (CINCO MIL CIENTO CINCUENTA Y UNO) certificados de aportación patrimonial de la Serie “B”, con valor nominal de $1’000,000.00 (UN MILLÓN DE PESOS 00/100 M.N.) cada uno.
