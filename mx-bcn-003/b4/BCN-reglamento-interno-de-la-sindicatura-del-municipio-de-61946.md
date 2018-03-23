@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-del-municipio-de-61946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-27"
-last_updated: "2014-12-26"
+last_updated: "2018-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008. (REPUBLICADO EN EL P.O. 7 DE NOVIEMBRE DE 2008).
 
@@ -61,11 +61,11 @@ REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, B. C.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1.
 
-El presente Reglamento tiene por objeto establecer las facultades, atribuciones, organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Estado de Baja California, para el cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, Ley de Seguridad Pública del Estado de Baja California y el Reglamento de la Administración pública para el Municipio de Tecate, Baja California y demos (sic) disposiciones relativas y aplicables.
+El presente Reglamento tiene por objeto establecer las facultades, atribuciones, organización y funcionamiento de los departamentos, secciones y áreas con que cuenta el Síndico Procurador del Municipio de Tecate, Estado de Baja California, para el cumplimiento de las disposiciones que le derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Baja California, de la Ley del Régimen Municipal para el Estado de Baja California, Ley de Responsabilidades Administrativas del Estado de Baja California, Ley de Seguridad Pública del Estado de Baja California y el Reglamento de la Administración pública para el Municipio de Tecate, Baja California y demás disposiciones relativas y aplicables.
 
 ###### ARTICULO 2.
 
@@ -89,11 +89,17 @@ VI.- Sindico: Sindico Procurador del Ayuntamiento.
 
 VII.- Jefe de Responsabilidades: El Jefe del Departamento de Responsabilidades.
 
-VIII.- Dirección de Seguridad: Dirección de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-IX.- Director de Seguridad: El titular de la Dirección de Seguridad Pública y Tránsito Municipal.
+VIII.- Dirección de Seguridad: Dirección de Seguridad Ciudadana y Tránsito Municipal.
 
-X.- Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+IX.- Director de Seguridad: El titular de la Dirección de Seguridad Ciudadana y Tránsito Municipal.
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+X.- Ley de Responsabilidades: Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2010)</small>
 
@@ -103,7 +109,9 @@ XII.- Reglamento de la Administración Pública: Reglamento de la Administració
 
 XIII.- Servidor Público: Toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal.
 
-XIV.- Miembro de seguridad pública: Los elementos o miembros de la Dirección de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+XIV.- Miembro de seguridad Ciudadana: Los elementos o miembros de la Dirección de Seguridad Ciudadana y Tránsito Municipal.
 
 ### CAPITULO SEGUNDO
 
@@ -191,23 +199,27 @@ IV.- Vigilar el cumplimiento de las normas de control y fiscalización, circular
 
 V.- Verificar que se remitan oportunamente las cuentas públicas de las Dependencias y Entidades de la Administración Pública Municipal, al Congreso del Estado de Baja California, para su revisión.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-VI.- Verificar que las Dependencias y Entidades solventen oportunamente las observaciones que haga el Órgano Superior de Fiscalización, en los términos de la normatividad correspondiente.
+VI.- Verificar que las Dependencias y Entidades solventen oportunamente las observaciones que haga la Auditoria Superior del Estado, en los términos de la normatividad correspondiente.
 
 VII.- Revisar la actualización del inventario general de los bienes muebles e inmuebles propiedad del Ayuntamiento observando que se inscriban en el libro especial con expresión de sus valores y de todas las características de identificación, así como el destino de los mismos.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MARZO DE 2018)</small>
 
-VIII.- Inspeccionar y vigilar directamente o a través de los (sic) instancias de Auditoria y Comisariado, que las Dependencias y Entidades Paramunicipales cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+VIII.- Inspeccionar y vigilar directamente o a través de las instancias de Auditoria y Comisariado, que las Dependencias y Entidades Paramunicipales cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 Así como vigilar que los remates públicos en los que tenga interés el Ayuntamiento, se realicen en los términos y disposiciones previstas por las leyes y reglamentos respectivos.
 
-IX.- Turnar al Departamento de Responsabilidades los asuntos que puedan derivar responsabilidad de servidores públicos con motivo de revisiones, auditorias u observaciones que realice él mismo o el Organo Superior de Fiscalización del H. Congreso del Estado, o por incumplimiento en las declaraciones patrimoniales.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+IX.- Turnar al Departamento de Evaluación Gubernamental e Investigación de la Sindicatura, los asuntos que puedan derivar responsabilidad de servidores públicos con motivo de revisiones, auditorias u observaciones que realice él mismo o Auditoria Superior del Estado de Baja California, o por incumplimiento en las declaraciones patrimoniales.
 
-X.- Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de fiscalización e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+X.- Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de auditoria e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones;
 
 XI.- Coordinar y supervisar las actividades del personal bajo su mando para que estos cumplan con sus responsabilidades y funciones con apego a los requerimientos establecidos en leyes, reglamentos, disposiciones administrativas y Manual de Procedimientos para cumplir las metas fijadas por el Síndico Procurador.
 
@@ -219,59 +231,39 @@ XII.- Rendir informe al Síndico Procurador de los resultados obtenidos por el D
 
 XIII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
 
-XV (SIC).- (REFORMADA [N. DE E. DEROGADA], P.O. 26 DE DICIEMBRE DE 2014)
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XIII DE ESTE ARTÍCULO, VÉASE P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XIII DE ÉSTE ARTÍCULO, VÉASE P.O. DE 26 DE DICIEMBRE DE 2014.</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-XVI.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador. (sic)
+XIV.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
 
 ### CAPITULO QUINTO
 
 DEL DEPARTAMENTO DE RESPONSABILIDADES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 8.
 
-El Titular del Departamento de Responsabilidades además de las atribuciones que le confiere el Artículo 35 del Reglamento de Administración Pública tendrá las siguientes:
+El Titular del Departamento de Responsabilidades además de las atribuciones que le confiere el artículo 35 del Reglamento de la Administración Pública, tendrá las siguientes:
 
-I.- Determinar con plena jurisdicción y competencia, las estrategias, métodos y sistemas de investigación que permitan conocer las acciones y conductas de los servidores públicos municipales en el desempeño de su empleo, cargo o comisión dentro de la Administración Pública Municipal.
+l. Llevar a cabo la sustanciación del procedimiento administrativo de responsabilidades de los servidores públicos de la Administración Pública Municipal y dictar las resoluciones correspondientes de conformidad a las disposiciones previstas por la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+II. Realizar en los términos del Reglamento del Servicio Profesional de carrera Policial de Tecate, Baja California, los procedimientos de remoción del cargo o separación definitiva de los elementos policiales y demás facultades conferidas por las Leyes de la materia y los reglamentos respectivos;
 
-II.- Investigar de oficio o por virtud de queja o denuncia, los actos, omisiones o conductas en que incurran los servidores públicos de la Administración Pública Municipal.
+III. Informar al Síndico Procurador cuando del procedimiento administrativo se desprenda la presunta comisión de ilícitos, sancionados por el Código Penal de Baja California o de la Federación.
 
-III.- Llevar a cabo la instrucción del procedimiento administrativo disciplinario a servidores públicos de la Administración Pública Municipal, de conformidad a las disposiciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+IV. Verificar que los empleados de las Dependencias y Entidades de la Administración Pública Municipal, se conduzcan con apego a la normatividad aplicable.
 
-IV.- Solicitar por oficio a las Dependencias y Entidades de la Administración Pública la información y documentación necesaria para la integración de investigaciones y procedimientos administrativos que realice.
+V. Coordinar y supervisar las actividades del personal bajo su mando para que estos cumplan con sus responsabilidades y funciones con apego a los requerimientos establecidos en leyes, reglamentos, disposiciones administrativas y los Manuales de Procedimientos para cumplir las metas fijadas por el Síndico Procurador.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2010)</small>
+VI. Llevar un padrón de servidores públicos inhabilitados por la Sindicatura, que hayan alcanzado resolución firme, y tener coordinación con otras contralorías, síndicos o autoridades en materia de responsabilidades para llevar un padrón de servidores públicos inhabilitados en todo el Estado.
 
-V.- De conformidad con el penúltimo párrafo del artículo 5 de la Ley de Responsabilidades y artículo 100 fracción IV de la Ley de Seguridad auxiliar a la Comisión Disciplinaria y a la Sindicatura Municipal en los procedimientos de separación definitiva y sanción, así como en los de carrera policial, investigación administrativa y responsabilidad administrativa, entendiendo dentro de ésta la recepción de quejas y oficios relacionados con el procedimiento, recepción de comparecencias, práctica de pruebas, efectuar las actuaciones, procedimientos, diligencias, certificaciones, requerimientos, investigaciones, resoluciones, notificaciones y en general cualquier otro acto de los previstos en dicha Ley de Responsabilidades y Ley de Seguridad a aquellos de las leyes supletorias que resulten aplicables para la investigación de infracciones a la Ley y Reglamentos.
+VII. Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de revisión e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones.
 
-VI.- Informar al Síndico Procurador cuando de las investigaciones o durante la instrucción del procedimiento administrativo disciplinario se desprenda la presunta comisión de ilícitos sancionados por el Código Penal de Baja California o de la Federación.
+VIII. Las establecidas en el Reglamento del Servicio Profesional de Carrera Policial de Tecate, Baja California.
 
-VII.- Verificar que los empleados de las Dependencias y Entidades de la Administración Pública Municipal, se conduzcan con apego a la normatividad aplicable.
-
-VIII.- Coordinar y supervisar las actividades del personal bajo su mando para que estos cumplan con sus responsabilidades y funciones con apego a los requerimientos establecidos en leyes, reglamentos, disposiciones administrativas y los Manuales de Procedimientos para cumplir las metas fijadas por el Síndico Procurador.
-
-IX.- Llevar un padrón de servidores públicos inhabilitados por la Sindicatura, que hallan alcanzado resolución firme, y tener coordinación con otras contralorías, síndicos o autoridades en materia de responsabilidades para llevar un padrón de servidores públicos inhabilitados en todo el Estado.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
-
-X.- Remitir al Congreso del Estado copia de las resoluciones emitidas sobre las responsabilidades administrativas y sanciones que resulten como consecuencia de los dictámenes recaídos a las Cuentas Públicas de los Servidores Públicos responsables de las mismas, que les hayan sido turnadas por el Congreso del Estado o por los Órganos de control y fiscalización superiores jerárquicos a la Sindicatura Municipal.
-
-XI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2010) (REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2014)
-
-XII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XIII.- Las establecidas en el Reglamento del Servicio Profesional de Carrera Policial de Tecate, Baja California.
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
-
-IX (SIC).- Informar al Síndico Procurador sobre el resultado de la evaluación de las Dependencias y Entidades Paramunicipales que hayan sido objeto de fiscalización e informar a las autoridades competentes si así fuese requerida el resultado de tales intervenciones;
+IX. las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico.
 
 ###### ARTICULO 9.
 
@@ -289,7 +281,9 @@ III.- Levantar las razones o notas pertinentes relacionadas con las atribuciones
 
 IV.- Llevar a cabo las notificaciones, citatorios, entrega de oficios y documentación en general relacionada con los procedimientos administrativos.
 
-V.- Las demás que le encomiende el Síndico Municipal o el Jefe de responsabilidades.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+V.- Las demás que le encomiende el Síndico Procurador, el jefe de responsabilidades o el Jefe de Evaluación Gubernamental e Investigación.
 
 > <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2010)</small>
 
@@ -317,15 +311,19 @@ La denuncia de responsabilidad es la manifestación de hechos presuntamente irre
 
 La Deficiencia en el Servicio es la manifestación con relación a deficiencias, anomalías o irregularidades, en la realización de trámites o en la prestación de un servicio por parte de la Administración Pública Municipal, que requieran la instrumentación de acciones preventivas para evitar situaciones similares.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 15.
 
-Las denuncias podrán hacerse llegar por cualquier medio al Síndico Municipal.
+Las denuncias podrán hacerse llegar por cualquier medio al Síndico Procurador.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-El o los ciudadanos podrán presentar su queja o inconformidad por deficiencia en el servicio por escrito, mensajería, correo, por medios electrónicos o personalmente en las oficinas del Síndico Municipal, para lo cual el Jefe de Responsabilidades levantará un acta de la comparecencia, y para este caso no se requerirá ratificación de la misma. En caso de realizarse por escrito o por cualquier otro medio distinto a la comparecencia, el ciudadano deberá presentarse a ratificarla para efecto de iniciar el procedimiento administrativo, salvo que se desprendan de los hechos situaciones de responsabilidad que la autoridad pueda investigar o corroborar de oficio, por lo que se clasificará como denuncia y se iniciará el procedimiento administrativo.
+El o los ciudadanos podrán presentar su queja o inconformidad por deficiencia en el servicio por escrito, mensajería, correo, por medios electrónicos o personalmente en las oficinas del Síndico Procurador, para lo cual el Jefe de Evaluación Gubernamental e Investigación levantará un acta de la comparecencia, y para este caso no se requerirá ratificación de la misma. En caso de realizarse por escrito o por cualquier otro medio distinto a la comparecencia, el ciudadano deberá presentarse a ratificarla para efecto de iniciar el procedimiento administrativo, salvo que se desprendan de los hechos situaciones de responsabilidad que la autoridad pueda investigar o corroborar de oficio, por lo que se clasificará como denuncia y se iniciará el procedimiento administrativo.
 
-Para la atención de las denuncias o quejas que presente personalmente el ciudadano en las oficinas del Síndico Municipal, se levantará acta que será firmada por éste y dos testigos, el ciudadano o la autoridad podrán solicitar la ampliación de la denuncia o queja para efectos de allegar mayores elementos de prueba y esclarecer los hechos.
+Para la atención de las denuncias o quejas que presente personalmente el ciudadano en las oficinas del Síndico Procurador, se levantará acta que será firmada por éste y dos testigos, el ciudadano o la autoridad podrán solicitar la ampliación de la denuncia o queja para efectos de allegar mayores elementos de prueba y esclarecer los hechos.
 
 ###### ARTICULO 17.
 
@@ -341,13 +339,17 @@ El Jefe de Responsabilidades podrá acumular los expedientes cuando existan vari
 
 Los señalamientos de irregularidades que en el desempeño de sus funciones, reciba el Jefe de Responsabilidades, en contra de servidores públicos municipales derivados de auditorias practicadas por el Jefe del Departamento de Contraloría Interna Municipal o los que éste le turne de observaciones hechas por el Organo Superior de Fiscalización o los que se generen por actas administrativas levantadas por el jefe inmediato del servidor, procederá a clasificarlos como denuncias y con ello dará inicio al procedimiento administrativo de responsabilidades.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 19.
 
-En el caso de que se trate de quejas o denuncias en contra de miembros de la Dirección de Seguridad Pública y Tránsito Municipal, se aplicará la Ley de Seguridad, para lo cual el Síndico, el Jefe del Departamento de Responsabilidades y el Notificador tienen fe pública de conformidad con el artículo 100 de la citada Ley de Seguridad.
+En el caso de que se trate de quejas o denuncias en contra de miembros de la Dirección de Seguridad Ciudadana y Tránsito Municipal, se aplicará la Ley de Seguridad, para lo cual el Síndico Procurador, el Jefe del Departamento de Responsabilidades y el Notificador tienen fe pública de conformidad con el artículo 100 de la citada Ley de Seguridad.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
 
 Para lo anterior el Jefe de Responsabilidades analizará previamente que los miembros de la Institución Policial no se encuentren en los casos de exclusión de la aplicación del Artículo 3 del Reglamento de la Comisión Disciplinaria y de Carrera Policial del Municipio de Tecate, Baja California.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2010)</small>
 
 Así mismo el Jefe de Responsabilidades analizará cuando de los hechos que constituyan la queja o denuncia administrativa puedan surgir elementos para substanciar la investigación administrativa o únicamente puedan ser objeto de aplicación de correlativos disciplinarios.
 
@@ -367,29 +369,47 @@ El Titular del Departamento de Supervisión del Servicio Público de Arrastre y 
 
 DE LA EVALUACION GUBERNAMENTAL.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 22.
 
-El Departamento de Evaluación Gubernamental, además de las atribuciones que le confiere el artículo 36 del Reglamento de la Administración Pública, tendrá las siguientes:
+El Departamento de Evaluación Gubernamental e Investigación, además de las atribuciones que le confiere el artículo 36 del Reglamento de la Administración Pública, tendrá las siguientes:
 
-I.- Revisar que las dependencias y entidades de la administración pública municipal, al ejercer el presupuesto asignado, cumplan con las acciones, metas y objetivos establecidos en el Plan de Desarrollo Municipal y evaluar el grado de cumplimiento.
+a. Área de Investigación.
 
-II.- Proponer al Síndico y a las instancias correspondientes, en representación del Síndico, los indicadores, formatos, encuestas y cuestionarios para medir el desempeño de las dependencias y entidades que forman la administración pública municipal.
+I.- Determinar con plena jurisdicción y competencia, las estrategias, métodos y sistemas de investigación que permitan conocer las acciones y conductas de los servidores públicos municipales en el desempeño de su empleo, cargo o comisión dentro de la administración pública municipal, en los casos previstos por la Ley de Responsabilidades administrativas del Estado de Baja California;
 
-III.- Elaborar los proyectos de disposiciones administrativas que deban observar las dependencias y entidades para que los recursos humanos y los procedimientos técnicos de éstas sean aprovechados y aplicados con eficiencia y eficacia, así como propiciar la descentralización, desconcentración y simplificación administrativa.
+II.- llevar a cabo la integración de los expedientes de presunta responsabilidad administrativa;
 
-IV.- Proponer o realizar conjuntamente con las instancias correspondientes las investigaciones, estudios y análisis para el mejoramiento de la gestión gubernamental sobre desarrollo integral en la Administración Pública Municipal.
+III.- Emitir Informe de presunta responsabilidad administrativa, en los términos previstos por la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
-V.- Desarrollar guías y lineamientos en materia de eficiencia administrativa que sirvan de instrumentos para promover el ahorro, la mejora administrativa y el logro de un buen gobierno en las dependencias y entidades.
+IV.- Informar al Síndico Procurador cuando durante la integración de las investigaciones se desprenda la presunta comisión de delitos;
 
-VI.- Diseñar e impulsar en las dependencias y entidades la implantación de los modelos de gestión gubernamental en materia de desarrollo administrativo integral orientado a la obtención de mejora de resultados.
+V.- Rendir informe al Síndico Procurador, respecto de los resultados obtenidos;
 
-VII.- Prestar asesoría y consultoría en materia de desarrollo administrativo e innovación a las dependencias y entidades, a fin de contribuir al logro de resultados que impacten el funcionamiento de las mismas, y
+VI.- Solicitar por oficio a las dependencias y entidades de la administración pública municipal, información y documentación que estimé necesaria para la integración de las investigaciones a su cargo;
 
-VIII.- Las demás que las (sic) que le encomiende el Síndico.
+VII.- Expedir copias certificadas de los documentos que obren en sus archivos, cuando resulte procedente;
 
-En el caso de ausencia temporal o indefinida del titular de este Departamento, las atribuciones serán ejercidas por el Jefe del Departamento de Contraloría Interna Municipal.
+VIII.- Las demás que le confiera la ley o reglamentos.
+
+b. Área de Evaluación Gubernamental.
+
+I. Revisar que las dependencias y entidades de la administración pública municipal, al ejercer el presupuesto asignado, cumplan con las acciones, metas y objetivos establecidos en el Plan de Desarrollo Municipal y evaluar el grado de cumplimiento.
+
+II. Proponer al Síndico Procurador y a las instancias correspondientes, en representación del Síndico Procurador, los indicadores, formatos, encuestas y cuestionarios para medir el desempeño de las dependencias y entidades que forman la administración pública municipal.
+
+III. Elaborar los proyectos de disposiciones administrativas que deban observar las dependencias y entidades para que tos recursos humanos y los procedimientos técnicos de éstas sean aprovechados y aplicados con eficiencia, así como propiciar la descentralización, desconcentración y simplificación administrativa.
+
+IV. Proponer o realizar conjuntamente con las instancias correspondientes las investigaciones, estudios y análisis para el mejoramiento de la gestión gubernamental sobre desarrollo integral en la Administración Pública Municipal.
+
+V. Desarrollar guías y lineamientos en materia de eficiencia administrativa que sirvan de instrumentos para promover el ahorro, la mejora administrativa y el logro de un buen gobierno en las dependencias y entidades.
+
+VI. Diseñar e impulsar en las dependencias y entidades la implementación de los modelos de gestión gubernamental en materia de desarrollo administrativo integral orientando (sic) a la obtención de mejora de resultados.
+
+VII. Prestar asesoría y consultoría en materia de desarrollo administrativo e innovación a las dependencias y entidades, a fin de contribuir al logro de resultados que impacten el funcionamiento de las mismas, y
+
+VIII.- Las demás que le encomiende el Síndico Procurador.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -397,9 +417,11 @@ En el caso de ausencia temporal o indefinida del titular de este Departamento, l
 
 DE LA UNIDAD MUNICIPAL DE ACCESO A LA INFORMACIÓN.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 23.
 
-La Unidad de (sic) Municipal de Acceso a la Información tiene las atribuciones que le confiere el artículo 37 del Reglamento de la Administración Pública.
+La Unidad Municipal de Acceso a la Información tendrá las atribuciones que le otorga el Reglamento de Transparencia y Acceso a la Información Pública de los Sujetos Obligados de la Administración Pública Municipal de Tecate, Baja California.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -407,11 +429,11 @@ La Unidad de (sic) Municipal de Acceso a la Información tiene las atribuciones 
 
 DEL DEPARTAMENTO DE COMISARIOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 24.
 
-El Departamento de Comisarios, fungirá como los Órganos de control Interno a que se refiere el segundo párrafo del artículo 52 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y de conformidad con el mismo dependerán jerárquica y funcionalmente del Síndico Procurador, y además de las atribuciones que le confiere el artículo 38 del Reglamento de la Administración Pública para el Municipio de Tecate Baja California, articulo 65 del Reglamento de las Entidades Paramunicipales del Municipio de Tecate, Baja California, tendrá las siguientes facultades:
+El Departamento de Comisarios, fungirán como Órganos de control Interno, dependerán jerárquica y funcionalmente del Síndico Procurador, y además de las atribuciones que le confiere el artículo 38 del Reglamento de la Administración Pública para el Municipio de Tecate Baja California, artículo 65 del Reglamento de las Entidades Paramunicipales del Municipio de Tecate, Baja California, tendrá las siguientes facultades:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -443,11 +465,11 @@ VII.- Las demás que le encomienden las Leyes, Reglamentos, Normas Técnicas y e
 
 DE LAS SANCIONES Y RECURSOS.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 25.
 
-El incumplimiento del presente reglamento conlleva a la aplicación de las sanciones a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y las inconformidades con las mismas se realizarán a través de los recursos que prevé la misma.
+El incumplimiento del presente reglamento conlleva a la aplicación de las sanciones a que se refiere la Ley de Responsabilidades Administrativas del Estado de Baja California, y las inconformidades con las mismas se realizarán a través de los recursos que prevé la misma.
 
 ## TRANSITORIOS
 
@@ -474,3 +496,9 @@ SEGUNDO: Publíquese en un diario de mayor circulación en la localidad, para co
 P.O. 26 DE DICIEMBRE DE 2014.
 
 ÚNICO.- Las presentes Reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, ASIMISMO DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA, ASÍ COMO LOS ARTÍCULOS 24 Y 26 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes Reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
