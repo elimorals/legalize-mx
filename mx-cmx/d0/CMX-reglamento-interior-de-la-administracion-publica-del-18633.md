@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2018-01-26"
+last_updated: "2018-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MARZO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -280,9 +280,9 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 7.- (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
-> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2018)</small>
 
-Asimismo, se le adscriben los órganos desconcentrados Planta de Asfalto, Proyecto Metro y Agencia de Gestión Urbana, todos de la Ciudad de México.
+Asimismo, se le adscriben los órganos desconcentrados Planta de Asfalto y Agencia de Gestión Urbana, ambos de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -20799,3 +20799,11 @@ G.O. 26 DE ENERO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA UNA DISPOSICIÓN DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto, así como la derogación de los artículos 205, 206 y 207 del Reglamento Interior de la Administración Público (sic) del Distrito Federal entraran en vigor el 1º de Abril de 2018.
