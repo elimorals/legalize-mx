@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2016-07-29"
+last_updated: "2018-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -64,6 +64,8 @@ La impartición de justicia en el Estado, es función exclusiva de los Tribunale
 ###### Artículo 3º.
 
 Para el despacho de los asuntos de su competencia, el Poder Judicial se auxiliará de los órganos jurisdiccionales y administrativos que establezca esta Ley, y en su caso, el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 4º.
 
@@ -132,8 +134,6 @@ XIII.- El Director de Prevención y Readaptación Social;
 XIV.- Los servidores públicos de carácter técnico de las dependencias del Poder Ejecutivo y el personal académico o de investigación científica o tecnológica de las instituciones de educación superior del Estado, que designen éstas, que puedan desempeñar el cargo de perito; y
 
 XV.- Todos los demás a quienes las leyes les confieran este carácter.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 9º.
 
@@ -1365,17 +1365,29 @@ II.- Distrito Judicial de Felipe Carrillo Puerto, con cabecera en la ciudad del 
 
 III.- Distrito Judicial de José María Morelos, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de José María Morelos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-IV. Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen. Comprende la circunscripción territorial de los Municipios de Solidaridad, Tulum y Puerto Morelos, así como los polígonos descritos en la fracción IV del Artículo 128 de la Constitución Política del Estado, predios conocidos como "Calica" y "Parque Ecológico de Xel-Há" pertenecientes al Municipio de Cozumel;
+IV.- Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen. Comprende la circunscripción territorial de los Municipios de Solidaridad y Puerto Morelos, así como del polígono descrito en la fracción IV del Artículo 128 de la Constitución Política del Estado, predio conocido como "Calica" perteneciente al Municipio de Cozumel;
 
-V.- Distrito Judicial de Cozumel, con cabecera en la ciudad del mismo nombre. Comprende la Isla de Cozumel;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-VI.- Distrito Judicial de Cancún, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Benito Juárez y la Zona Continental del Municipio de Isla Mujeres;
+V.- Distrito Judicial de Tulum, con cabecera en la Ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Tulum, así como del polígono descrito en la fracción IV del Artículo 128 de la Constitución Política del Estado, predio conocido como "Parque Ecológico de Xel-Há" perteneciente al Municipio de Cozumel;
 
-VII.- Distrito Judicial de Isla Mujeres, con cabecera en la ciudad del mismo nombre. Comprende Isla Mujeres; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-VIII.- Distrito Judicial de Lázaro Cárdenas, con cabecera en la ciudad de Kantunilkín. Comprende la circunscripción territorial del Municipio de Lázaro Cárdenas.
+VI.- Distrito Judicial de Cozumel, con cabecera en la ciudad del mismo nombre. Comprende la Isla de Cozumel;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+VII.- Distrito Judicial de Cancún, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Benito Juárez y la Zona Continental del Municipio de Isla Mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
+
+VIII.- Distrito Judicial de Isla Mujeres, con cabecera en la ciudad del mismo nombre. Comprende Isla Mujeres; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2018)</small>
+
+IX.- Distrito Judicial de Lázaro Cárdenas, con cabecera en la ciudad de Kantunilkín. Comprende la circunscripción territorial del Municipio de Lázaro Cárdenas.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2335,7 +2347,7 @@ El Consejo de la Judicatura o su Presidente, podrá ordenar la celebración de a
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO VI. DEL INGRESO, DE LA FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3159,7 +3171,7 @@ VII.- En el escrito de contestación el presunto infractor deberá referirse a c
 
 VIII.- La Comisión podrá recabar de oficio las pruebas conducentes hasta antes de la audiencia de juicio. Las partes sólo podrán ofrecer las pruebas durante este plazo si se tratare de pruebas supervinientes;
 
-IX.- Contestada la denuncia o transcurrido el plazo para hacerlo, se fijara fecha y hora para la audiencia de desahogo de pruebas, la cual no podrá exceder de diez días hábiles posteriores a la contestación de (sic) denuncia.
+IX.- Contestada la denuncia o transcurrido el plazo para hacerlo, se fijara fecha y hora para la audiencia de desahogo de pruebas, la cual no podrá exceder de diez días hábiles posteriores a la contestación de denuncia.
 
 Tratándose de testigos que sean funcionarios públicos del Poder Judicial o de otras dependencias, la Comisión ordenará su notificación.
 
@@ -3171,7 +3183,7 @@ Las partes oferentes, de la prueba pericial deberán presentar a sus propios per
 
 Para el caso de la citación se podrán utilizar las siguientes medidas de apremio: multa de diez hasta ciento veinte días de salario mínimo vigente en la entidad en la época que acontecieron los hechos; el auxilio de la fuerza pública o arresto hasta por treinta y seis horas.
 
-X.- La audiencia será pública y se desarrollará oralmente en lo relativo a toda intervención de quienes participen en ellas (sic). Quienes declaren serán instruidos de sus obligaciones y de las responsabilidades por su incumplimiento y se les tomará protesta de decir verdad;
+X.- La audiencia será pública y se desarrollará oralmente en lo relativo a toda intervención de quienes participen en ellas. Quienes declaren serán instruidos de sus obligaciones y de las responsabilidades por su incumplimiento y se les tomará protesta de decir verdad;
 
 XI.- La audiencia se llevará a cabo con la asistencia del denunciante al inicio de la misma, el Presidente de la Comisión hará constar oralmente en los registros respectivos, la fecha, hora, lugar, y las personas que intervienen en la diligencia, verificando la identidad de los mismos, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar;
 
@@ -3594,3 +3606,13 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 437 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, Y DE LA LEY REGLAMENTARIA DE LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO."]
 
 ÚNICO. El presente Decreto entrará en vigor cuando inicie su vigencia el Decreto por el que se reforman: los artículos 75 fracción XLIV; 76 fracción X; 98 párrafos tercero y cuarto, 105 y 160 primer párrafo y fracción I; y se derogan: la fracción L al artículo 75, la fracción XIV al artículo 76, la fracción XIX al artículo 90, el capítulo VI del Título Quinto denominado "Del Tribunal de Justicia Administrativa del Estado de Quintana Roo" y los artículos 110 y 111, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo
+
+P.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 151 POR EL QUE SE REFORMAN LAS FRACCIONES IV, V, VI, VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX, TODAS DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Sin perjuicio de lo establecido en el artículo transitorio precedente, los Juzgados del Distrito Judicial de Solidaridad continuarán conociendo de los asuntos correspondientes a la circunscripción del Municipio de Tulum, hasta en tanto el Pleno del Consejo de la Judicatura, mediante Acuerdos Generales, asigne el número de juzgados, así como la jurisdicción y competencia que correspondan al Distrito Judicial de Tulum.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
