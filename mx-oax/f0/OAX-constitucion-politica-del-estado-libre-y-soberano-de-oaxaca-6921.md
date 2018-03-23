@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2018-01-16"
+last_updated: "2018-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 786 PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2018, SE REFORMA "EL TIPO DE LETRA DEL ORDINARIO "ARTÍCULO 114 TER", PARA HOMOLOGARLO AL TIPO DE LETRA DE LOS ARTÍCULOS 114 PRIMIGENIO, 114 BIS Y 114 QUÁTER, TODOS DEL TÍTULO SEXTO, DE LOS ÓRGANOS AUTÓNOMOS DEL ESTADO"; SIN EMBARGO, EN EL PRESENTE ORDENAMIENTO SE CONSERVA EL ESTILO EDITORIAL DEL FORMATO DEL ARTICULADO.]
+[NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -163,11 +161,13 @@ En el Estado queda prohibida la esclavitud y la discriminación con motivo del o
 
 Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de garantizar las condiciones necesarias para que los individuos gocen de los derechos que establece esta Constitución; así como de proteger los que se reserve el pueblo de Oaxaca mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 5°.
 
-Nadie podrá ser privado, de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los Tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
@@ -343,6 +343,10 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
@@ -360,6 +364,14 @@ Queda prohibida la utilización del trabajo de los menores de quince años, los 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
 
 En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+
+Toda persona tiene derecho a una alimentación suficiente, nutricionalmente adecuada, sana y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+
+Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calidad de vida y desarrollo físico. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad, así como el crecimiento de su infraestructura.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
 
@@ -408,6 +420,10 @@ Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 Es derecho correlativo a la calidad de padres la determinación libre, informada y responsable acerca del número y espaciamiento de los hijos y su educación.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+
+El Estado otorgará y promoverá facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1891,13 +1907,17 @@ LXXI. Realizar consultas a los pueblos y comunidades indígenas y afromexicanas,
 
 LXXII. Legislar en materia indígena.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2018)</small>
 
-LXXIII. Legislar en materia de responsabilidades de los servidores públicos del Estado y Municipios; y,
+LXXIII. Legislar en materia de responsabilidades de los servidores públicos del Estado y Municipios;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2018)</small>
 
-LXXIV. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones
+LXXIV. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios, en el ámbito de sus competencias, en materia de alimentación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2018)</small>
+
+LXXV. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
 
 ###### ARTICULO 60.
 
@@ -4986,3 +5006,17 @@ OCTAVO. Cuando en diversas disposiciones legales, se haga referencia al Tribunal
 NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
 
 DÉCIMO. El Congreso del Estado deberá adecuar las leyes que correspondan, en un lapso no mayor a noventa días. Mientras tanto, el Tribunal deberá continuar con los procedimientos conforme a la Ley de Procedimiento y Justicia Administrativa de 20 de octubre de 2017
+
+P.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1368.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5 Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor de conformidad con el Segundo Artículo Transitorio del Decreto de fecha quince de septiembre de dos mil diecisiete, publicado en el Diario Oficial de la Federación en la Primera Sección.
+
+P.O. 23 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1369.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES LXXIII Y LXXIV DEL ARTÍCULO 59; SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 12, Y LA FRACCIÓN LXXV AL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado contará con el plazo de un año, a partir de la entrada en vigor del presente Decreto, para expedir la Ley reglamentaria respectiva.
