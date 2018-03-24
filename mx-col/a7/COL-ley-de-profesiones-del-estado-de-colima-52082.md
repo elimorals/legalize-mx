@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2016-11-22"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -45,7 +45,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O
 
-.
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -1221,9 +1221,11 @@ El Servicio Social de los Estudiantes y Profesionales es un conjunto de activida
 
 #### SECCIÓN I. Del Servicio Social de los Estudiantes
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 47.
 
-El Servicio Social de los Estudiantes es obligatorio; será realizado como requisito previo para obtener el Título Profesional y siempre deberá relacionarse con el perfil académico del estudiante.
+El Servicio Social de los Estudiantes es obligatorio; será realizado como requisito previo para obtener el Título Profesional y siempre deberá relacionarse con el perfil académico del estudiante, por lo cual será considerado experiencia laboral, más no se acreditará como una relación laboral.
 
 El Servicio Social de los Estudiantes se prestará en instituciones públicas.
 
@@ -1248,6 +1250,10 @@ El cumplimento del Servicio Social de los Estudiantes de las instituciones de ed
 ###### ARTÍCULO 51.
 
 La duración del Servicio Social de los Estudiantes de las instituciones de educación superior no podrá ser menor de cuatrocientas ochenta horas efectivas, no se computará el tiempo cuando por enfermedad u otra causa grave, se interrumpa la prestación del mismo.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+ARTÍCULO 51 BIS.- Las instituciones públicas donde se haya prestado el Servicio Social de los Estudiantes de las instituciones de educación superior, deberán extender al concluir el mismo una constancia de terminación que describa las habilidades y capacidades adquiridas por el practicante durante dicho periodo.
 
 ###### ARTÍCULO 52.
 
@@ -1892,3 +1898,13 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 449 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY DE PROFESIONES DEL ESTADO DE COLIMA ".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Secretaría de Educación del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para hacer una amplia difusión del contenido de este Decreto.
+
+TERCERO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente Decreto.
