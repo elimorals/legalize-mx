@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2017-07-26"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -39,7 +39,9 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y ARTICULO 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y H. CONGRESO DEL ESTADO DE COLIMA.
 
-C O N S I D E R A N D O:…
+C O N S I D E R A N D O:
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -2213,6 +2215,10 @@ Por razones de seguridad, los integrantes de las Instituciones Policiales serán
 
 Adicionalmente, se otorgarán prestaciones extraordinarias en caso de muerte.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+La disposición contenida en el párrafo anterior será aplicable igualmente a las personas que, bajo cualquier nombramiento o denominación, desarrollen transitoria y provisionalmente, funciones o actividades policiales.
+
 ###### ARTÍCULO 133.
 
 Para ser Secretario de Seguridad Pública, se requiere:
@@ -3856,3 +3862,9 @@ TERCERO. El Gobernador del Estado, a propuesta del Director General del Institut
 CUARTO. Los asuntos y procedimientos penales que se encuentren en trámite ante el Instituto para el Tratamiento de Menores Infractores del Estado a la entrada en vigor del presente Decreto, continuarán su trámite ante el Instituto Especializado en la Ejecución de Medidas para Adolescentes, de conformidad a las disposiciones del Sistema de Justicia penal para Adolescentes, vigente al momento de su inicio.
 
 QUINTO. Cualquier mención realizada en las leyes, reglamentos y demás ordenamientos jurídicos del Estado con relación a (sic) Instituto para el Tratamiento de Menores Infractores del Estado o a su Director General, incluyendo sus términos equivalentes, se entenderá hecha al Instituto Especializado en la Ejecución de Medidas para Adolescentes o al Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes respectivamente, quienes asumirán todas las funciones y atribuciones que dichas leyes, reglamentos y ordenamientos disponen para aquellas autoridades cuya denominación ha cambiado.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 467 POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 132 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
