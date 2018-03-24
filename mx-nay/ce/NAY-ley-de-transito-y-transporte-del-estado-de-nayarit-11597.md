@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2016-11-08"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -67,9 +67,11 @@ III.- Establecer las bases normativas para la impartición de la educación vial
 
 IV.- Garantizar la prestación del servicio público de transporte, a través del Sistema establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 3°.
 
-Es competencia de la Administración Pública del Estado el control, seguridad y vigilancia del transporte de pasajeros y de carga, sea cual fuere el tipo de vehículo, con el objeto de que su prestación y organización satisfaga los requerimientos colectivos de transporte de manera regular, uniforme, continua y permanente.
+Es competencia de la Administración Pública del Estado, el control, seguridad y vigilancia del transporte de pasajeros y de carga, público o particular, y sea cual fuere el tipo de vehículo, con el objeto de que su prestación y organización satisfaga los requerimientos de circulación y transporte de manera regular, uniforme, continua y permanente, en los términos y con las limitaciones a que se refiere la presente Ley.
 
 ###### ARTICULO 4º.
 
@@ -79,57 +81,87 @@ I.- Dirección, la Dirección General de Tránsito y Transporte;
 
 II.- Comisión, la Comisión Técnica del Transporte;
 
-III.- Servicio Público de Transporte, el servicio que originalmente presta y organiza la administración pública del Estado por sí o a través de organismos descentralizados, empresas de participación estatal o permisionarios, que se ofrece en forma abierta, a persona indeterminada o al público en general, mediante diversos medios, en forma continua, uniforme, regular y permanente para el transporte de pasajeros y de carga.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+III.- Servicio Público de Transporte, el servicio que originalmente presta y organiza la administración pública del Estado por sí o a través de organismos descentralizados, empresas de participación estatal o permisionarios, que se ofrece en forma abierta, a persona indeterminada o al público en general, mediante diversos medios, en forma continua, uniforme, regular y permanente para el transporte de pasajeros y de carga;
 
 IV.- Servicio Particular de Transporte, es el servicio autorizado por la administración pública del Estado, a través de la Dirección, a personas físicas o morales para el transporte de personas o de bienes, que no se ofrece o se presta en forma abierta, a persona indeterminada o al público en general;
 
-V.- Permiso, es el acto administrativo por el cual la Administración Pública del Estado a través de la instancia competente, otorga autorización, con los derechos y obligaciones que implica, a personas físicas o morales para la prestación del Servicio Público de Transporte.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+V.- Permiso, es el acto administrativo por el cual la Administración Pública del Estado a través de la instancia competente, otorga autorización, con los derechos y obligaciones que implica, a personas físicas o morales para la prestación del Servicio Público de Transporte;
 
-VI. Vía Pública, el espacio autorizado para el libre tránsito de peatones, ciclistas y vehículos y en general los inmuebles de uso común que por disposición de la autoridad o por razones del servicio, estén destinados a la circulación de personas, ciclistas o vehículos, así como al estacionamiento de estos dos últimos.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-VII. Plan Rector del Sistema de Transporte Público, es el instrumento gubernamental por medio del cual se establecerán las directrices y programas generales del servicio público de transporte en el Estado.
+VI.- Vía Pública, el espacio autorizado para el libre tránsito de peatones, ciclistas y vehículos, y en general los inmuebles de uso común que por disposición de la autoridad o por razones del servicio, estén destinados a la circulación de personas, ciclistas o vehículos, así como al estacionamiento de estos dos últimos;
 
-VIII. Manuales, son las guías explicativas y ejemplificativas de la Ley de Tránsito y Transporte, cuyo uso es obligatorio para conductores, usuarios y peatones.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IX. Usuarios del transporte, es el público en general que, a condición de cubrir una tarifa, tiene derecho a usar el servicio público de transporte en los tipos y modalidades que previene este ordenamiento.
+VII.- Plan Rector del Sistema de Transporte Público, es el instrumento gubernamental por medio del cual se establecerán las directrices y programas generales del servicio público de transporte en el Estado;
 
-X. Agente de Tránsito, servidor público de la Dirección que tiene a su cargo las funciones técnicas y operativas que determina esta ley.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+VIII.- Manuales, son las guías explicativas y ejemplificativas de la Ley de Tránsito y Transporte, cuyo uso es obligatorio para conductores, usuarios y peatones;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XI. REPUVE, Registro Público Vehicular.
+IX.- Usuarios del transporte, es el público en general que, a condición de cubrir una tarifa, tiene derecho a usar el servicio público de transporte en los tipos y modalidades que previene este ordenamiento;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+X.- Agente de Tránsito, servidor público de la Dirección que tiene a su cargo las funciones técnicas y operativas que determina esta ley;
 
-XII. UMA, Unidad de Medida y Actualización.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XI.- REPUVE, Registro Público Vehicular;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XII.- UMA, Unidad de Medida y Actualización, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XIII.- Seguridad Vial, la protección a la vida, integridad física y patrimonio de los sujetos de tránsito, mediante la prevención, divulgación, educación y concientización de la población para prevenir accidentes en las vías públicas.
 
 ###### ARTICULO 5°.
 
 Para los efectos de esta Ley se establecen como espacios viales, las vías públicas, mismas que se clasifican en:
 
-a) ANDADORES, las superficies destinadas exclusivamente a la circulación de peatones.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+a) ANDADORES, las superficies destinadas exclusivamente a la circulación de peatones;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 b) CICLOVÍA, es el nombre genérico dado a parte de la infraestructura pública destinada de forma exclusiva o compartida para la circulación de bicicletas. También conocida como ciclopista o carril bici, entre otras;
 
-c) BANQUETA, el espacio comprendido entre la guarnición y el paramento de construcción, que se destina a la circulación peatonal.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-d) CALLES, las superficies de los centros de población, destinadas a la circulación de vehículos.
+c) BANQUETA, el espacio comprendido entre la guarnición y el paramento de construcción, que se destina a la circulación peatonal;
 
-e) CALZADAS, las calles con amplitud de veinte metros o más.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-f) AVENIDAS, las calles en las que existen camellones o jardines separando los sentidos de circulación.
+d) CALLES, las superficies de los centros de población, destinadas a la circulación de vehículos;
 
-g) CAMINOS y CARRETERAS, las superficies de rodamiento, acotamiento y estructuras construidas para la intercomunicación entre los centros de población o lugares de interés público; y
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-h) BOULEVARES, las avenidas anchas con arbolado.
+e) CALZADAS, las calles con amplitud de veinte metros o más;
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+f) AVENIDAS, las calles en las que existen camellones o jardines separando los sentidos de circulación;
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+g) CAMINOS y CARRETERAS, las superficies de rodamiento, acotamiento y estructuras construidas para la intercomunicación entre los centros de población o lugares de interés público;
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+h) BOULEVARES, las avenidas anchas con arbolado, y
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+i) LIBRAMIENTOS CARRETEROS, a los tramos carreteros que tienen como función conectar de forma directa la entrada y salida de una población, evitando o haciendo innecesario el ingreso al interior de su zona urbana.
 
 ###### ARTICULO 6°.
 
@@ -191,11 +223,13 @@ II. Hacer cumplir las políticas y resoluciones que en materia de tránsito, via
 
 III.- Presentar a la consideración y autorización, en su caso, del Titular del Poder Ejecutivo estudios y propuestas en materia de tránsito, vialidad y transporte;
 
-IV.- Supervisar los dictámenes de procedencia de las solicitudes, en los términos de esta Ley, respecto del otorgamiento, modificación, renovación, transmisión, suspensión o revocación de permisos de transporte público;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-V. Previo acuerdo del Ejecutivo, instaurar el procedimiento relativo a la determinación de tarifas, rutas e itinerarios a que debe sujetarse el servicio público de transporte urbano, así como la ubicación de sitios, bases o terminales;
+IV.- Supervisar los dictámenes de procedencia de las solicitudes en los términos de esta Ley respecto del otorgamiento, modificación, renovación, transmisión, suspensión o revocación de permisos de transporte público o privado en sus diversas modalidades, a través de los cuales, por razones de seguridad e interés público, se justifique la limitación o restricción a su tránsito por alguna o algunas de las vialidades;
 
-VI. Presentar a la autorización del Titular del Poder Ejecutivo, las solicitudes para operar estacionamientos públicos o pensión de vehículos;
+V.- Previo acuerdo del Ejecutivo, instaurar el procedimiento relativo a la determinación de tarifas, rutas e itinerarios a que debe sujetarse el servicio público de transporte urbano, así como la ubicación de sitios, bases o terminales;
+
+VI.- Presentar a la autorización del Titular del Poder Ejecutivo, las solicitudes para operar estacionamientos públicos o pensión de vehículos;
 
 VII.- Con acuerdo del Titular del Ejecutivo, nombrar y remover al Director General y Subdirector de Tránsito y Transporte, y
 
@@ -209,7 +243,9 @@ I.- Vigilar el cumplimiento de la presente Ley;
 
 II.- Cuidar de la disciplina, moralidad y eficiencia del personal a cargo de su dependencia;
 
-III.- Proponer por conducto del Secretario General de Gobierno, los estudios que tiendan al mejoramiento del servicio en materia de tránsito, vialidad y transporte;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+III.- Proponer por conducto del Secretario General de Gobierno, los estudios que tiendan a la seguridad vial, así como al mejoramiento del servicio en materia de tránsito, vialidad y transporte;
 
 IV.- Determinar los dispositivos de vialidad para agilizar la circulación de peatones y vehículos;
 
@@ -231,7 +267,9 @@ XII.- Vigilar la correcta prestación del servicio público de transporte;
 
 XIII.- Supervisar la correcta aplicación de las tarifas al transporte público urbano;
 
-XIV.- Expedir conforme a la presente Ley, la documentación correspondiente en que se haga constar el otorgamiento, modificación, cesión, suspensión o revocación de los permisos y en su caso las autorizaciones de rutas, horarios, itinerarios y tarifas para operar el servicio público de transporte llevando su correspondiente registro.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XIV.- Expedir conforme a la presente Ley, la documentación correspondiente en que se haga constar el otorgamiento, modificación, cesión, suspensión o revocación de los permisos, y en su caso las autorizaciones de rutas, horarios, itinerarios y tarifas para operar el servicio público de transporte llevando su correspondiente registro;
 
 XV.- Expedir de acuerdo a esta Ley, los permisos para estacionamiento público o pensión de vehículos, con indicación de las respectivas tarifas autorizadas y vigilar su correcto funcionamiento;
 
@@ -267,13 +305,23 @@ b).- Otorgamiento, modificación o revocación respecto a autorizaciones de ruta
 
 c).- Suspensión temporal de expedición de nuevos permisos para el servicio de transporte público;
 
-d).- Fijación de tarifas para el servicio público de transporte urbano, estacionamiento y pensión de vehículos, y
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-e).- Las demás que le encomiende el Titular del Poder Ejecutivo.
+d).- Fijación de tarifas para el servicio público de transporte urbano, estacionamiento y pensión de vehículos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
+
+e).- Limitación o restricción de circulación de vehículos de carga pesada en general o de contenido peligroso en las vialidades que se determinen conforme a esta Ley, atendiendo a razones de seguridad e interés público, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MARZO DE 2018)</small>
+
+f).- Las demás que le encomiende el titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 15.
 
-Los dictámenes a que se refiere los incisos de la fracción II del artículo anterior, deberán producirse, luego de escuchar a las partes interesadas.
+Los dictámenes a que se refieren los incisos a) al d) del artículo anterior, deberán formularse, luego de escuchar a las partes interesadas.
 
 ###### ARTICULO 16.
 
@@ -407,9 +455,13 @@ V.- Evitar que con la carga, se oculten o cubran las luces frontales y posterior
 
 VI.- Impedir la dispersión de polvos, líquidos y olores nauseabundos de los materiales que se transportan;
 
-VII.- No utilizar vehículos que carezcan de la autorización correspondiente y el equipo adecuado para transportar materias contaminantes o peligrosas;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-VIII.- En el caso de vehículos, tales como trailers, torton o similares cuyo peso o volumen rebase los límites establecidos en esta Ley, deberán abstenerse de circular y efectuar maniobras de carga y descarga dentro del perímetro urbano señalado por la Dirección de Tránsito.
+VII.- No utilizar vehículos que carezcan de la autorización correspondiente y el equipo adecuado para transportar materias contaminantes o peligrosas, y
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+VIII.- En el caso de vehículos de carga pesada en general o de contenido peligroso, cuyo peso o capacidad exceda de diez mil kilogramos, deberán abstenerse de circular y efectuar maniobras de carga y descarga dentro del perímetro urbano señalado por la Dirección, de conformidad con los dictámenes emitidos por la Comisión Técnica del Transporte. Cuando por circunstancias especiales, sea necesaria la carga o descarga en dicha área de bienes contenidos en este tipo de unidades, la Dirección podrá autorizar que tales maniobras se realicen en la misma.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1053,9 +1105,17 @@ Las licencias se clasifican:
 
 I.- Automovilista;
 
-II.- Chofer, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-III.- Motociclista.
+II.- Chofer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2018)</small>
+
+III.- Conductor de servicio público, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+IV.- Motociclista.
 
 ###### ARTICULO 97.
 
@@ -1065,11 +1125,15 @@ I.- Ser mayor de 18 años;
 
 II.- Saber leer y escribir;
 
-III. Presentar comprobantes de domicilio actual y credencial de identificación con fotografía;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+III.- Presentar comprobantes de domicilio actual, así como identificación oficial vigente con fotografía, para el caso la credencial de elector, cédula profesional o pasaporte, expedidos por autoridades o instituciones legalmente facultadas para ese efecto;
 
 IV.- Demostrar aptitud física y mental para conducir, mediante la acreditación de los exámenes respectivos;
 
-V.- Acreditar mediante examen, conocimiento general de la presente Ley; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+V.- Acreditar mediante examen, conocimiento general de la presente Ley, y
 
 VI.- Pagar los derechos correspondientes.
 
@@ -1093,9 +1157,17 @@ I.- Acreditar mediante examen, conocimiento específico de las disposiciones que
 
 II.- Sujetarse a un examen médico general, no padecer enfermedades infectocontagiosas y no ser adicto al consumo de bebidas embriagantes, estupefacientes o psicotrópicos;
 
-III.- Tener práctica a suficiencia como chofer, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IV.- No requerir el uso de aparatos protésicos para el manejo de vehículos.
+III.- Tener práctica a suficiencia como chofer;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+IV.- No requerir el uso de aparatos protésicos para el manejo de vehículos, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+V.- Presentar carta de no antecedentes penales con fecha de expedición no mayor a 30 días.
 
 ###### ARTICULO 102.
 
@@ -1567,13 +1639,27 @@ En relación al servicio público en la modalidad de taxi, cuando la autoridad l
 
 Los vehículos que presten el servicio público de pasajeros urbano o carretero, solo podrán levantar pasaje en su terminal o en los lugares expresamente autorizados para ello.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 160.
 
-En la elaboración de dictámenes para la fijación de horarios y uso de vías públicas permitidas en el servicio público de transporte de carga, la Comisión tomará en cuenta sobre todo, la seguridad, fluidez, densidad en el tránsito de personas y vehículos, así como las necesidades de la actividad económica.
+En la elaboración de dictámenes para la fijación de horarios y uso de vías públicas permitidas en el servicio de transporte de carga, la Comisión tomará en cuenta sobre todo la naturaleza de las vialidades, la seguridad, fluidez, densidad en el tránsito de personas y vehículos, así como las necesidades de la actividad económica.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+ARTICULO 160 BIS.- Los vehículos de transporte de carga circularán por libramientos carreteros para evitar el paso por zonas urbanas.
+
+Se exceptúa de lo anterior:
+
+I. Cuando el destino de carga y/o descarga se encuentre dentro de la zona urbana y así se especifique en la carta de porte o documento de embarque; y
+
+II. Cuando se trate de transporte de carga local. Se entiende que se estará en este supuesto cuando el vehículo tenga placas del Estado de Nayarit o justifique que el lugar de embarque y destino de la carga se encuentra dentro de los límites del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 161.
 
-Las restricciones en cuanto a horarios y uso de vías que deba observar el transporte de carga, deberán ser comunicadas con anticipación mínima de treinta días a la fecha en que vayan a ser aplicadas, utilizando para ello los medios masivos de comunicación y colocando en la vía pública los señalamientos respectivos.
+Las restricciones en cuanto a horarios y uso de vías que deba observar el transporte de carga por razones de seguridad vial e interés público, deberán ser comunicadas con anticipación mínima de diez días a la fecha en que vayan a ser aplicadas, utilizando para ello los medios masivos de comunicación y colocando en la vía pública los señalamientos respectivos.
 
 ### CAPITULO IV. DERECHOS Y OBLIGACIONES DE LOS USUARIOS DEL SERVICIO PUBLICO DEL TRANSPORTE
 
@@ -1719,9 +1805,19 @@ IV.- Indicar al conductor que muestre su licencia, tarjeta de circulación o dem
 
 V.- Una vez mostrados los documentos, levantará la boleta de infracción y entregará al infractor el original que corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 179.
 
-Al entregarse boleta de infracción por faltas a esta Ley, se deberá retener la licencia de conducir y a falta de ésta la tarjeta de circulación; a falta de ambas se retirará de la circulación el vehículo hasta que se cubran las correspondientes sanciones.
+Al entregarse la boleta de infracción por faltas a esta Ley, el agente de tránsito podrá retener como garantía de pago los siguientes elementos, en el orden que a continuación se señala:
+
+I.- Licencia de conducir;
+
+II.- Tarjeta de circulación;
+
+III.- Placa de circulación, o
+
+IV.- A falta de los documentos anteriores se podrá retirar de la circulación el vehículo hasta que se cubran las correspondientes sanciones.
 
 ###### ARTICULO 180.
 
@@ -1847,7 +1943,7 @@ ARTICULO 193 BIS.- Los proyectos de infraestructura para crear ciclovías en las
 
 ARTICULO 193 TER.- Los proyectos de infraestructura para crear ciclovías en las vialidades nuevas o en fraccionamientos de nueva creación, deberán seguir los lineamientos señalados en la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit y deberán estar incluidos en el Dictamen de Congruencia que al efecto emitirá la Secretaría de Obras Públicas del Gobierno del Estado.
 
-## TITULO OCTAVO. INFRACClONES Y SANCIONES Y RECURSOS
+## TITULO OCTAVO. INFRACCIONES Y SANCIONES Y RECURSOS
 
 ### CAPITULO UNICO
 
@@ -2262,3 +2358,15 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA A DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Dentro del plazo de ciento veinte días naturales contados a partir de la publicación del presente Decreto, las autoridades en la materia deberán realizar campañas de comunicación y difusión en los términos que establece la Ley, a fin de que la población en general tenga conocimiento de las disposiciones contenidas dentro del mismo.
+
+Tercero. El Titular del Poder Ejecutivo, dentro de un plazo de noventa días naturales contados a partir de la publicación del presente Decreto, deberá realizar las adecuaciones reglamentarias correspondientes.
+
+Cuarto. La Comisión Técnica del Transporte, dentro de un plazo de treinta días naturales contados a partir de la publicación del Decreto, deberá emitir los dictámenes a los que hace referencia la fracción VIII del artículo 22 del presente, los cuales, en su caso se actualizarán de manera anual.
