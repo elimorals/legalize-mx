@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-para-el-fomento-a-la-lectura-y-al-libro-51624"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2017-04-01"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL PARA EL FOMENTO A LA LECTURA Y AL LIBRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento Número 3 al Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -137,13 +137,17 @@ XI. Impulsar carreras técnicas y profesionales en el ámbito de la edición, la
 
 XII. Promover, conjuntamente con la iniciativa privada, acciones que estimulen la formación de lectores;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XIII. Estimular y facilitar la participación de la sociedad civil en el desarrollo de acciones que promuevan la formación de lectores entre la población abierta; y
+XIII. Estimular y facilitar la participación de la sociedad civil en el desarrollo de acciones que promuevan la formación de lectores entre la población abierta;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XIV. Facilitar a la población interesada el acceso a los libros, participando activamente en las políticas federales relativas a su distribución y circulación.
+XIV. Facilitar a la población interesada el acceso a los libros, participando activamente en las políticas federales relativas a su distribución y circulación; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XV. Promover la creación de bibliotecas digitales en el Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -275,9 +279,17 @@ XIX. Promover la participación del Estado en ferias o festivales nacionales e i
 
 XX. Propiciar la instalación de salas de lectura en reclusorios, albergues para personas con capacidades diferentes, orfanatos y hospitales o centros de salud en general;
 
-XXI. Diseñar paquetes de apoyo, por parte del Gobierno Estatal, para estimular a las librerías establecidas o por establecerse en la entidad; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XXII. Las demás que le indique el Gobernador del Estado.
+XXI. Diseñar paquetes de apoyo, por parte del Gobierno Estatal, para estimular a las librerías establecidas o por establecerse en la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXII. Participar en el diseño y creación de las Bibliotecas digitales en el Estado, en las que, principalmente, se ponderen textos de autores colimenses y de la región; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXIII. Las demás que le indique el Gobernador del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -323,6 +335,14 @@ Los integrantes de este equipo participarán en todas las actividades establecid
 
 El Gobierno estatal, con la participación de la Comisión, propondrá los estímulos necesarios para el buen desempeño de los promotores y coordinadores de salas de lectura, sujetándolos a los mecanismos de información y control que considere necesarios.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+###### Artículo 23 Bis.
+
+El Gobierno del Estado, con la participación de la Comisión, fomentará la creación de Bibliotecas Digitales, en las cuales se pondere la publicación de obras de autores colimenses y de la región; garantizando el acceso a obras digitalizadas y fomentando, a su vez, la lectura en la entidad.
+
+El acervo que forme parte de estas Bibliotecas lo constituirán aquellas obras que ya son del dominio público, y de aquellas que sus titulares permitan la digitalización y su consecuente publicación con acceso al público en general.
+
 ### CAPÍTULO III. DEL MES DE LA LECTURA COLIMENSE
 
 ###### Artículo 24.
@@ -347,7 +367,9 @@ En el caso de las actividades que serán realizadas en los municipios se buscar�
 
 En la elaboración del proyecto de Presupuesto de Egresos, el Ejecutivo del Estado dispondrá lo necesario para establecer un porcentaje destinado al sostenimiento de las bibliotecas públicas.
 
-Serán considerados, además, los gastos necesarios para aprovechar los adelantos tecnológicos, en materia de comunicaciones e informática, así como en programas computacionales destinados a la materia.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Serán considerados, además, los gastos necesarios para aprovechar los adelantos tecnológicos, en materia de comunicaciones e informática, así como en programas computacionales destinados a la materia. Así como para la implementación y creación de las bibliotecas digitales en el Estado.
 
 Se establecerá un porcentaje adicional para apoyar las actividades de fomento a la lectura, comprendiendo entre éstas la organización del Mes de la Lectura Colimense.
 
@@ -357,9 +379,11 @@ Estas previsiones deberán ser adoptadas por los Gobiernos Municipales en el ám
 
 La Secretaría de Cultura, por medio de la Dirección de Bibliotecas y con la participación de la Comisión, dispondrá las medidas necesarias para el pleno aprovechamiento del presupuesto destinado a las bibliotecas públicas, considerando su administración, equipamiento e infraestructura, así como la contratación y capacitación de su personal.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 30.
 
-La Secretaría de Cultura, por medio de las direcciones de Bibliotecas y de Ciencia y Tecnología, y con la participación de la Comisión, promoverá el aprovechamiento de los adelantos tecnológicos en materia de comunicaciones e informática, así como en programas computacionales destinados a la materia. Para estos efectos, estará facultada para celebrar convenios con organismos públicos o privados, del país o del extranjero, que puedan participar en la consecución de estos objetivos.
+La Secretaría de Cultura, por medio de las direcciones de Bibliotecas y de Ciencia y Tecnología, y con la participación de la Comisión, promoverá el aprovechamiento de los adelantos tecnológicos en materia de comunicaciones e informática, así como en programas computacionales destinados a la materia, para la creación e implementación de las bibliotecas digitales en el Estado. Para estos efectos, estará facultada para celebrar convenios con organismos públicos o privados, del país o del extranjero, que puedan participar en la consecución de estos objetivos.
 
 ###### Artículo 31.
 
@@ -394,3 +418,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 259 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL PARA EL FOMENTO A LA LECTURA Y EL LIBRO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 447 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA EL FOMENTO A LA LECTURA Y AL LIBRO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
