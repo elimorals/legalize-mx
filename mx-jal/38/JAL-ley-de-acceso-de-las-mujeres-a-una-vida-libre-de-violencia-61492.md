@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2015-12-01"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -253,7 +253,7 @@ La alerta de violencia contra las mujeres tendrá como objetivo establecer el ti
 
 ###### Artículo 14.
 
-El Sistema Estatal, es el conjunto de elementos ordenados, acciones congruentes, uniformes y transversales encaminados a detectar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres..
+El Sistema Estatal, es el conjunto de elementos ordenados, acciones congruentes, uniformes y transversales encaminados a detectar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres.. (sic)
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -355,9 +355,9 @@ V. Realizar los convenios necesarios para el cumplimiento de esta Ley;
 
 VI. Gestionar que se asignen las partidas presupuestales en cada ejercicio fiscal para cumplir con los fines y objetivos del Programa Estatal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-VII. Proponer los protocolos para la atención de mujeres víctimas de delito así como los que rijan la operación de los refugios para la atención a mujeres víctimas de violencia y de los centros de rehabilitación para personas agresoras;
+VII. Proponer los protocolos para la prevención de la violencia y la atención de mujeres víctimas de delito así como los que rijan la operación de los refugios para la atención a mujeres víctimas de violencia y de los centros de rehabilitación para personas agresoras;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -386,6 +386,10 @@ XIII. Promover estrategias para la obtención de recursos destinados al cumplimi
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 XIV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
+
+El protocolo para la prevención de la violencia contra mujeres a que hace referencia este artículo, deberá contener al menos las acciones preventivas a realizarse en espacios públicos, en espacios privados con atención al público y en la prestación de servicios públicos.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -943,11 +947,15 @@ III. Promover la difusión, entre la comunidad estudiantil, de una cultura de re
 
 Los ayuntamientos podrán, además de lo establecido en otros ordenamientos:
 
-I. Promover políticas orientadas a prevenir, detectar, atender y erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+I. Implementar los protocolos y las políticas públicas orientadas a prevenir, detectar, atender y erradicar la violencia contra las mujeres;
 
 II. Coadyuvar con el Estado, en la adopción y consolidación del sistema;
 
-III. Promover, en coordinación con las instancias especializadas, cursos de capacitación al personal encargado de atender a las víctimas de violencia;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+III. Promover, en coordinación con las instancias especializadas, cursos de capacitación en materia de derechos humanos, igualdad de género y de prevención, atención, sanción y erradicación de la violencia contra las mujeres al personal encargado de atender a las víctimas de violencia;
 
 IV. Apoyar la creación de centros de refugios temporales para mujeres víctimas de violencia;
 
@@ -955,9 +963,13 @@ IV. Apoyar la creación de centros de refugios temporales para mujeres víctimas
 
 V. Apoyar la creación de programas de reeducación integral para las personas agresoras;
 
-VI. Participar y coadyuvar en la prevención, detección, atención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-VII. Llevar a cabo, de acuerdo con el Consejo, programas permanentes de información a la población respecto de la violencia contra las mujeres;
+VI. Participar y coadyuvar en la prevención, detección, atención y erradicación de la violencia contra las mujeres y establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+VII. Llevar a cabo, de acuerdo con el Consejo, programas permanentes de información a la población respecto de la violencia contra las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
 
 VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
 
@@ -981,15 +993,15 @@ Corresponde en materia de prevención a los integrantes del Consejo:
 
 I. Capacitar al personal de sus dependencias en materia de derechos humanos, igualdad de género y la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-II. Difundir, en coordinación con el Gobierno del Estado, campañas informativas permanentes sobre violencia en contra de las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
+II. Difundir, en coordinación con el Gobierno del Estado y los gobiernos municipales, campañas informativas permanentes sobre violencia en contra de las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
 
 III. Remitir información y estadísticas al Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres en nuestro estado;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IV. Realizar, facilitar o promover el desarrollo de investigación en torno a la violencia en contra de las mujeres y su acceso a la justicia, así como la creación de indicadores sobre el tema;
+IV. Realizar, facilitar y promover el desarrollo de investigación en torno a la violencia en contra de las mujeres y su acceso a la justicia, así como la creación de los protocolos de prevención y los indicadores de evaluación de las políticas públicas, programas y protocolos que se implementen;
 
 V. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
 
@@ -1098,6 +1110,10 @@ La asesoría y representación jurídica gratuita que debe asegurar el Estado es
 Los centros de refugio temporal son espacios especialmente acondicionados para recibir a mujeres víctimas de violencia y sus hijas e hijos, estos deben de ser confidenciales, seguros, temporales y gratuitos, los servicios que prestan deben de ser especializados y contar con personal que brinde atención integral, de calidad y de forma permanente, la estancia de las mujeres víctimas de violencia no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo;
 
 Los centros de refugio temporal facilitarán a las personas usuarias los medios para lograr su empoderamiento y lograr su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+En aquellos municipios donde no exista un centro de refugio temporal, la autoridad administrativa competente proveerá el resguardo de la víctima de manera inmediata, en condiciones dignas.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1372,3 +1388,15 @@ P.O. 1 DE DICIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco deberá actualizar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco, considerando lo señalado en el presente decreto, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26747/LXI/18 QUE REFORMA LOS ARTÍCULOS 18, 41 Y 43 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26748/LXI/18 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 51 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
