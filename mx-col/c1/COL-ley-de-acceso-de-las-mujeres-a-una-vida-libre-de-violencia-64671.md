@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2017-11-25"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -281,15 +281,19 @@ El Estado y los Municipios adoptarán, a través de las dependencias y entidades
 
 #### SECCIÓN SEGUNDA. VIOLENCIA LABORAL Y DOCENTE
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-La Violencia Laboral y Docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la receptora, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder encaminado a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, que dañando su autoestima, salud, integridad, libertad y seguridad que impide sus (sic) desarrollo y atenta contra la igualdad.
+La Violencia Laboral y Docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la receptora, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder encaminado a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, que dañando su autoestima, salud, integridad, libertad, economía y seguridad que impide sus (sic) desarrollo y atenta contra la igualdad.
 
 La violencia laboral y la docente, puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-También constituye violencia laboral, la negativa ilegal a contratar a la receptora o a respetar su permanencia o las condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+También constituye violencia laboral, la negativa ilegal a contratar a la receptora o a respetar su permanencia o las condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, la percepción de un salario menor en el desempeño de un trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales dentro de un mismo centro de trabajo, así como el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
 
 Incluye, para efectos de esta Ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo.
 
@@ -305,9 +309,17 @@ I.- Garantice el derecho de las mujeres a una vida libre de violencia en sus rel
 
 II.- Fortalezcan su participación en los términos de la legislación penal y civil aplicable para asegurar la sanción a quienes hostigan;
 
-III.- Promuevan y difundan en la sociedad que el hostigamiento sexual es delito; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IV.- Diseñen programas que brinden servicios reeducativos integrales para receptoras y generadores de la violencia laboral o docente.
+III.- Promuevan y difundan en la sociedad que el hostigamiento sexual es delito;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+IV.- Diseñen programas que brinden servicios reeducativos integrales para receptoras y generadores de la violencia laboral o docente; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+V.- Impulsen programas que promuevan la igualdad salarial entre mujeres y hombres.
 
 ###### ARTÍCULO 19.
 
@@ -575,7 +587,9 @@ II.- Física.- Cualquier acto, en el que se utiliza parte del cuerpo, algún obj
 
 III.- Patrimonial.- Cualquier acto u omisión que afecta la supervivencia de la persona receptora. Se manifiesta en la sustracción, destrucción, retención, transformación de objetos, valores, documentos personales, derechos patrimoniales, recursos económicos, o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos, y puede abarcar los daños a los bienes comunes o propios de la receptora;
 
-IV.- Económica.- Toda acción u omisión del Generador que afecta la supervivencia económica de la receptora y comprende cualquier limitación encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones semejantes, dentro de un mismo centro laboral;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+IV.- Económica.- Toda acción u omisión del Generador que afecta la supervivencia económica de la receptora y comprende cualquier limitación encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo igual, realizado en puesto, jornada y condiciones de eficiencia también iguales, dentro de un mismo centro laboral;
 
 V.- Sexual.- Cualquier acción que mediante la violencia física o moral atenta contra la libertad, dignidad sexual e integridad psicofísica de la persona receptora, que genera daño y limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales.
 
@@ -1299,7 +1313,7 @@ XIII.- Integrar un archivo que contenga los antecedentes, circunstancias, accion
 
 XIV.- Implementar programas de capacitación que forme el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres receptoras de violencia;
 
-XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia de género, violencia, discriminación y derechos humanos de las mujeres; y
+XV.- Proporcionar a los cuerpos policíacos capacitación y formación en materia de género, violencia, discriminación y derechos humanos de las mujeres; y
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
@@ -1771,7 +1785,7 @@ P.O. 4 DE FEBRERO DE 2017.
 
 P.O. 25 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo siguiente.
 
@@ -1796,3 +1810,9 @@ IV. En los procesos pendientes de dictarse sentencia en primera y segunda instan
 V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 
 SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 311 "POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 15; EL PÁRRAFO PRIMERO DEL ARTÍCULO 16; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y ASIMISMO SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 18, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA SIN VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
