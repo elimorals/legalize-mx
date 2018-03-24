@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2018-02-28"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -37,7 +37,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 33 FRACCIONES II y XXVI, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-...
+[...]
 
 Por lo anteriormente expuesto y fundado ha tenido a bien expedir el siguiente
 
@@ -393,55 +393,55 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y las morales que presten los servicios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+Los contribuyentes trasladarán el impuesto por la prestación del servicio de hospedaje, en forma expresa y por separado, a las personas que reciban los servicios señalados en el artículo 41 A, de esta Ley.
 
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación que se pague por concepto de hospedaje, sin incluir otras contribuciones, alimentos y demás servicios accesorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de servicios de hospedaje prestados bajo la modalidad de uso en tiempo compartido, será base del impuesto el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa que corresponda de acuerdo con la clasificación siguiente:
+Artículo 41 C.- Este impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa que corresponda a cada uno de los supuestos siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servicios de campamento, bungalows, hostales, villas, casas amuebladas y departamentos amueblados, la tasa del 3%; y
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 II.- Por el servicio de hospedaje en moteles, la tasa del 5%.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+Artículo 41 C BIS.- El impuesto establecido en este Capítulo se causará en el momento en que los contribuyentes o las personas que intervengan como intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, reciban la contraprestación por dicho concepto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Articulo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se reciban las contraprestaciones.
+Artículo 41 C BIS 1.- Los contribuyentes enterarán el impuesto por la prestación del servicio de hospedaje, mediante declaración definitiva, haciendo uso de las formas oficiales aprobadas, que presentarán en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que reciban la contraprestación por la prestación del servicio de hospedaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Si los contribuyentes operan en dos o más establecimientos, presentarán una declaración por cada establecimiento.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos.
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje incluyendo otros servicios, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar en los comprobantes que expidan, la cantidad que corresponda al hospedaje y sobre ésta, calcular el impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De no efectuar el desglose del monto correspondiente al hospedaje, los contribuyentes podrán estimar el importe relativo al servicio de hospedaje, sin que en ningún caso pueda ser inferior al 40% del monto total de los servicios comprendidos bajo la modalidad referida en el párrafo anterior, excluyendo las propinas y los impuestos que se trasladen al consumidor.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar en los comprobantes que expidan, el monto que corresponda a hospedaje y sobre dicha cantidad calcularán el impuesto.
+Artículo 41 E.- Para los efectos de este impuesto, se entiende que el servicio de hospedaje se presta en el Estado de Colima, cuando el bien inmueble a través del cual se presta el mismo, se encuentre ubicado dentro del territorio de dicho Estado.
 
-De no efectuar el desglose del monto correspondiente a hospedaje, los contribuyentes podrán estimar el importe relativo al servicio de hospedaje, sin que en ningún caso pueda ser inferior al 40% del monto total de los servicios comprendidos bajo la modalidad referida en el párrafo anterior, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+Artículo 41 E BIS.- Los intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, que cobren a nombre de los contribuyentes la contraprestación que paguen las personas que reciban los servicios señalados en el artículo 41 A, de esta Ley, deberán retener a estos últimos el impuesto por la prestación del servicio de hospedaje, debiendo enterarlo mediante declaración definitiva a más tardar el día 17 del mes siguiente a aquél en que se realice la retención, haciendo uso de las formas oficiales aprobadas para tal efecto, a través de las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, de las instituciones de crédito, de los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría.
 
-Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-Artículo 41 E BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+En caso de que dichos intermediarios, promotores o facilitadores no cumplan con la obligación de enterar el impuesto por la prestación del servicio de hospedaje retenido, los contribuyentes deberán realizar el pago hasta por el monto del impuesto no enterado.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -609,11 +609,13 @@ Quedan comprendidos como sujetos de este impuesto, entre otros, las asociaciones
 
 Se consideran unidades económicas sin personalidad jurídica a las empresas o cualquiera otra forma de asociación, que realicen actividades gravadas por las leyes fiscales y por las que deban pagar el impuesto establecido en este capítulo.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 Ñ.- De igual forma, están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas sin personalidad jurídica y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del territorio del Estado de Colima.
+Artículo 41 Ñ.- Están obligados a retener y enterar el impuesto sobre nóminas, las personas físicas, las personas morales, las unidades económicas sin personalidad jurídica y los demás sujetos de este impuesto, que contraten la prestación de servicios con empresas domiciliadas dentro o fuera del territorio del estado de Colima, cuando dichas empresas sean las que realicen las erogaciones objeto de este impuesto. La retención deberá efectuarse en el momento en que se pague la contraprestación por el servicio contratado.
 
-Cuando se efectúen las retenciones a que se refiere el párrafo anterior, los retenedores deberán proporcionar a la empresa prestadora del servicio, la constancia de retención correspondiente.
+Los retenedores a que se refiere el párrafo anterior, deberán proporcionar a la empresa prestadora del servicio, dentro de los 10 días naturales siguientes a la fecha en que se efectuó la retención, la constancia correspondiente, utilizando para tal efecto la forma oficial disponible en la página de internet de la Secretaría de Planeación y Finanzas del Estado.
+
+Son responsables solidarios, los retenedores del impuesto sobre nóminas a cargo de los contribuyentes, hasta por el monto total de dicha contribución no enterada.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -627,9 +629,9 @@ Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efec
 
 Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
 
-Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
+Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -6618,3 +6620,9 @@ P.O. 28 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 461 POR EL QUE SE APRUEBA REFORMAR EL TRANSITORIO QUINTO DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA, EN RELACIÓN CON EL PAGO DE DERECHO POR LAS REVALIDACIONES ANUALES DE CONCESIONES Y PERMISOS DEL SERVICIO DEL TRANSPORTE PÚBLICO".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 464 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
