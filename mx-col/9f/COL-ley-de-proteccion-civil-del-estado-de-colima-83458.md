@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2017-04-01"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -1965,19 +1965,51 @@ II. Los servidores y empleados públicos que intervengan o faciliten la comisió
 
 En caso de la clausura temporal de una obra, instalación o establecimiento de bienes o servicios, la UEPC o UMPC, con base en las atribuciones que establece la presente Ley y cuando lo estime necesario, podrá solicitar a las autoridades la suspensión o cancelación de los permisos, licencias o concesiones que se hayan otorgado al infractor.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MARZO DE 2018)</small>
 
-###### Artículo 146 Bis.
+Artículo 146 BIS.- Previo a la realización de eventos de concentración masiva, el organizador deberá elaborar un programa especial de protección civil de acuerdo a las características del evento y el lugar donde se llevará a cabo, el cual será entregado a la autoridad correspondiente de protección civil para su aprobación y coordinación con otras instancias de seguridad de su municipio, en un plazo no menor a quince días hábiles antes de la realización del evento.
 
-Para evitar la acumulación de factores que pongan en peligro la vida y el patrimonio de los habitantes del Estado, la Unidad Estatal de Protección Civil, realizará revisiones periódicas, en coordinación con las Unidades Municipales de Protección Civil, a fin de identificar la presencia de árboles, espectaculares, postes de luz y otras estructuras a punto de caer o que se encuentren en malas condiciones.
+Las principales medidas de seguridad del programa especial de protección civil y las acciones que deban tomarse en caso de una emergencia deberán de ser difundidas al público participante por parte del organizador antes y durante el evento.
 
-La Unidad Estatal de Protección Civil propondrá a las Unidades Municipales de Protección Civil, la remoción de toda estructura física, la poda o derribamiento, de los árboles que se hallen en el supuesto anterior, con el permiso de quien deba otorgarlo, y conforme a los procedimientos que establezcan los reglamentos municipales respectivos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MARZO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+Artículo 146 TER.- Para los efectos de esta Ley y los reglamentos que de ella deriven, se consideran de alto riesgo, los inmuebles y eventos:
 
-###### Artículo 146 Ter.
+I. Que cuenten con un aforo o capacidad mayor a 1,000 personas;
 
-Siempre que en el territorio estatal se presenten fenómenos meteorológicos o geológicos que puedan causar deterioro en los elementos a que se refiere el artículo previo, las Unidades Estatal y Municipales de Protección Civil deberán llevar a cabo una inspección en los distintos municipios, a fin de identificar los objetos riesgosos para la vida y el patrimonio de las personas, proponiendo la poda o derribamiento de árboles deteriorados o que estén a punto de caerse y la remoción de estructuras físicas en mal estado.
+II. En espacio cerrado con un aforo o capacidad mayor a 500 personas;
+
+III. Con consumo de alcohol;
+
+IV. Con una construcción mayor a 3,000 metros cuadrados; o
+
+V. Donde se realicen actividades que por su naturaleza pongan en peligro la integridad de las personas.
+
+En todos los casos anteriores será responsabilidad de la Coordinación Estatal de Protección Civil, salvo que exista convenio mediante el cual se cedan las atribuciones a la autoridad municipal correspondiente.
+
+En aquellos eventos con aforo o capacidad de más de 10,000 personas, será responsabilidad exclusiva de la Coordinación Estatal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Artículo 146 QUATER.- En los eventos de tipo deportivo, cultural, artístico, social o cualquier otro, los organizadores deberán sujetarse a lo siguiente:
+
+I. Deberán solicitar a la autoridad de protección civil correspondiente la autorización por escrito para la realización del evento, y quedará obligado a implementar las medidas de seguridad que dicha autoridad considere pertinente, las cuales deberán establecerse en el programa especial de protección civil;
+
+II. El programa especial de protección civil comprenderá las medidas de seguridad del sitio, aforo permitido y perímetro donde se desarrollen, incluyendo rutas de acceso y estacionamientos para salvaguardar a los asistentes y vecinos del lugar, así como sus bienes y entorno;
+
+III. La utilización de tribunas, templetes, juegos mecánicos u otras estructuras temporales en el área del evento o espectáculo, obligará al organizador a presentar carta responsiva de la persona a cargo de la obra y la autorización de la estructura, en los términos de las disposiciones legales aplicables;
+
+IV. Los cuerpos de seguridad privada y los servicios médicos de urgencia que sean contratados por el organizador para el evento, deberán estar legalmente constituidos, registrados ante las instancias correspondientes y tener la capacitación de las brigadas básicas de protección civil, así como los recursos necesarios para atender en su caso a los asistentes, considerando el aforo máximo previsto; y
+
+V. Previo al evento y durante el mismo, las autoridades correspondientes supervisarán el cumplimiento del Programa Especial de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Artículo 146 QUINQUIES.- Los propietarios, poseedores o administradores de establecimientos en los que haya afluencia del público y los organizadores o responsables de eventos deberán, en coordinación con las autoridades de protección civil, practicar simulacros que permitan orientar y auxiliar a la población en caso de estado de emergencia.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Artículo 146 SEXIES.- Todos los lugares a que se refieren los artículos anteriores deberán contar con las medidas de seguridad de acuerdo a la normatividad vigente; además, deberán colocarse en sitios visibles equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo necesario, según el caso, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
 
 ### Capítulo III. De las Sanciones
 
@@ -2168,3 +2200,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 247 POR EL QUE SE REFORMA LA FRACCIÓN IV; ADICIONA EL INCISO G) DE LA FRACCIÓN V, AMBOS DEL ARTÍCULO 33 Y SE ADICIONA EL ARTÍCULO 104 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 456 POR EL QUE ADICIONAN LOS ARTÍCULOS 146 BIS, 146 TER, 146 QUARTER, 146 QUINQUIES Y 146 SEXIES A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
