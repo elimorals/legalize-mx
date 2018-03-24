@@ -4,7 +4,7 @@ identifier: "COL-ley-apicola-del-estado-de-colima-61299"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-17"
-last_updated: "2016-11-22"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY APÍCOLA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 17 de mayo de 2008.
 
@@ -35,7 +35,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[…]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -175,9 +177,17 @@ IX. Otorgar el registro de marcas que identifiquen la propiedad de las colmenas 
 
 X. Intervenir como autoridad conciliatoria en la solución de conflictos que se produzcan entre apicultores por invasión de rutas o espacios de límites;
 
-XI. Dirigir, coordinar y evaluar las actividades de los inspectores honorarios en materia apícola, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XII. Las demás que se deriven de la leyes vigentes o que en sus términos, le sean asignadas por el Ejecutivo del Estado.
+XI. Dirigir, coordinar y evaluar las actividades de los inspectores honorarios en materia apícola;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XII. Vigilar que la miel de abeja que se comercialice en el Estado cumpla con las especificaciones sensoriales, fisicoquímicas y demás disposiciones que establece la Norma Mexicana de Miel; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XIII. Las demás que se deriven de la (sic) leyes vigentes o que en sus términos, le sean asignadas por el Ejecutivo del Estado.
 
 ### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS APICULTORES
 
@@ -219,9 +229,17 @@ IX. Rendir informes anuales a la Secretaría de Desarrollo Rural, a través de s
 
 X. Sujetarse a la guía de tránsito y certificado zoosanitario y otros documentos necesarios para la movilización de sus abejas o productos;
 
-XI. Notificar a la Secretaría de Desarrollo Rural sobre toda sospecha de enfermedades de las abejas, a fin de que se tomen las medidas correspondientes; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africana.
+XI. Notificar a la Secretaría de Desarrollo Rural sobre toda sospecha de enfermedades de las abejas, a fin de que se tomen las medidas correspondientes;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africana; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+XIII. Sujetarse a las disposiciones establecidas por la Norma Mexicana de Miel para la comercialización de la miel de abeja.
 
 ### CAPÍTULO V. DE LA MARCA Y PROPIEDAD DE LAS COLMENAS
 
@@ -573,7 +591,9 @@ III. Causen daños a los inmuebles donde instalen sus apiarios, si aquellos no f
 
 IV. Empleen prácticas o acciones tendientes a obstruir el desarrollo apícola en el Estado;
 
-V. Incumplan los artículos 10, 13, 15, 17, 26, 30 y 49 de esta Ley; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+V. Incumplan los artículos 9 fracción XIII, 10, 13, 15, 17, 26, 30 y 49 de esta Ley; y
 
 VI. Incumplan las observaciones para la conservación de la flora natural que dicte la Secretaría de Desarrollo Urbano del Gobierno del Estado.
 
@@ -654,3 +674,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 450 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY APÍCOLA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
