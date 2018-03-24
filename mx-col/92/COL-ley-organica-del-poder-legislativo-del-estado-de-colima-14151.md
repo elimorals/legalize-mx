@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2018-02-10"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -1169,9 +1169,17 @@ Ninguna iniciativa de ley o decreto se presentará a la Asamblea, sin que antes 
 
 Las iniciativas de punto de acuerdo o de acuerdo económico provenientes de los Diputados, serán discutidas y resueltas en la sesión que sean presentadas.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
 
-En los puntos de acuerdo con exhorto, al iniciador se le entregará una copia con la firma y el sello de recibido de la autoridad exhortada. Así como de la respuesta que esta emita en su caso.
+Para efectos de lo dispuesto en el párrafo anterior, será requisito que los diputados entreguen dichas iniciativas a la Mesa Directiva antes del inicio de la sesión que corresponda, y se hagan del conocimiento de todos los legisladores.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Las iniciativas de punto de acuerdo o acuerdo económico que no sean dadas a conocer a los legisladores antes del inicio de la sesión, no podrán ser discutidas y votadas como lo previene el primer párrafo del presente artículo; y se turnarán a la Oficialía Mayor para ser discutidas y votadas en la siguiente sesión ordinaria.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+En los puntos de acuerdo con exhorto, al iniciador se le entregará una copia con la firma y el sello de recibido de la autoridad exhortada; así como de la respuesta que ésta emita en su caso.
 
 ###### ARTICULO 88.
 
@@ -1598,3 +1606,9 @@ P.O. 10 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- En lo relativo a la Unidad de Igualdad de Género, ésta entrará en vigor siempre que exista suficiencia presupuestal.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 460 POR EL QUE SE ADICIONA Y REFORMA EL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 126 DE SU REGLAMENTO".]
+
+ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
