@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2018-02-10"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1821,19 +1821,23 @@ Sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, 
 
 Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones por medio electrónico, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 126.
 
-Las propuestas de Punto de Acuerdo o Acuerdo Económico presentadas por uno o más Diputados, se sujetarán a los siguientes trámites:
+Las iniciativas de Punto de Acuerdo o Acuerdo Económico, señaladas en el artículo 87 de la Ley, se sujetarán a los siguientes trámites:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+I.- Deberán presentarse por escrito firmada (sic) por sus autores y en medio electrónico, dirigidas al Presidente de la Asamblea;
 
-I.- Se presentarán por escrito firmado por sus autores y en medio electrónico, dirigido al Presidente de la Asamblea, serán leídos en la misma sesión en que fueren presentadas o en su caso, presentarse en las formas antes descritas ante la Oficialía Mayor del Congreso, para su turno a la comisión o comisiones respectivas. Su autor o uno de ellos, si fueren varios, expresará los fundamentos y razones de su contenido o proposición;
+II.- Entregarse al Presidente de la Asamblea antes del inicio de la sesión para efectos de que se dé a conocer a todos los legisladores, y puedan ponerse a la consideración del Pleno, para su discusión y votación;
 
-II.- Se discutirán en la misma sesión en que se presente o turnarse a la comisión respectiva según el tema. En el primer caso, hablarán por una sola vez hasta cuatro Diputados; dos en pro y dos en contra; y
+III.- Una vez que se haya cumplido con lo dispuesto en las fracciones I y II del presente artículo, serán leídas en la sesión inmediata a su entrega y difusión a todos los legisladores;
 
-III.- Concluidas las intervenciones, se procederá a la votación del documento, si así lo decide el Pleno o se turnara a la comisión o comisiones a quienes corresponda para su análisis y dictamen correspondiente en sesiones posteriores.
+IV.- Leídas que fueran en el Pleno, para exponer los fundamentos y razones de su contenido o proposición, el Presidente las pondrá a consideración de la Asamblea, para efectos de su discusión y votación;
+
+V.- En la discusión únicamente hablarán por una sola vez hasta cuatro Diputados, dos en pro y dos en contra; y
+
+VI.- Concluidas las intervenciones, se procederá a la votación del documento, si así lo decide el Pleno.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3074,3 +3078,9 @@ P.O. 10 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- En lo relativo a la Unidad de Igualdad de Género, ésta entrará en vigor siempre que exista suficiencia presupuestal.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 460 POR EL QUE SE ADICIONA Y REFORMA EL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 126 DE SU REGLAMENTO".]
+
+ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
