@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2017-11-25"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1499,9 +1499,17 @@ I. Directa, a través de sus propias dependencias administrativas u organismos d
 
 II.- A través de los organismos públicos descentralizados, fideicomisos públicos municipales creados para tal fin o fideicomisos públicos, con la participación del Gobierno del Estado, o sin él, con personas físicas o morales, para la instalación de plantas de tratamiento para la industrialización, comercialización y disposición final de residuos;
 
-III. Mediante el régimen de concesión; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IV. Mediante convenios de asociación y coordinación que suscriba con otros ayuntamientos o con el ejecutivo del Estado, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la prestación de un servicio público o el ejercicio de una función, cuando a juicio del ayuntamiento respectivo sea necesario.
+III.- Mediante el régimen de concesión;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+IV.- Mediante convenios de asociación y coordinación que suscriba con otros ayuntamientos o con el ejecutivo del Estado, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la prestación de un servicio público o el ejercicio de una función, cuando a juicio del ayuntamiento respectivo sea necesario; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2018)</small>
+
+V.- A través de Asociaciones Público Privadas.
 
 ###### ARTICULO 88.
 
@@ -1609,9 +1617,11 @@ Los conflictos que se presenten con motivo de la aplicación de los convenios a 
 
 ### CAPÍTULO IV. DE LAS CONCESIONES DE BIENES Y SERVICIOS PÚBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 95.
 
-Los bienes y servicios públicos municipales, con excepción de los servicios de alumbrado, seguridad pública, policía preventiva municipal, tránsito y vialidad, previa autorización de cuando menos las dos terceras partes de los integrantes del cabildo, pueden ser materia de concesión a particulares, sujetándose a lo establecido por esta Ley, las cláusulas del título-concesión y demás disposiciones legales aplicables.
+Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública, policía preventiva municipal, tránsito y vialidad, previa autorización de cuando menos las dos terceras partes de los integrantes del Cabildo, pueden ser materia de concesión o asociación público-privada, a particulares, sujetándose a lo establecido por esta Ley, las cláusulas del título-concesión y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 96.
 
@@ -2332,3 +2342,9 @@ IV. En los procesos pendientes de dictarse sentencia en primera y segunda instan
 V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 
 SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 465 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 87 Y 95 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
