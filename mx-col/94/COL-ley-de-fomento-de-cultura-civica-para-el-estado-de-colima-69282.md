@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-de-cultura-civica-para-el-estado-de-colima-69282
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-04"
-last_updated: "2017-08-26"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE FOMENTO DE CULTURA CIVICA PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO CUARTO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE MARZO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1°. DE ENERO DE 2019.]</small>
+
 LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 4 de julio de 2009.
 
@@ -422,3 +424,15 @@ P.O. 26 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 343 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY DE FOMENTO DE CULTURA CÍVICA PARA EL ESTADO DE COLIMA".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 466 POR EL QUE SE APRUEBA LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 1º. de enero de 2019 y deberá ser publicado en el periódico oficial “El Estado de Colima”.
+
+SEGUNDO.- Los ayuntamientos en el ámbito de sus respectivas competencias, expedirán las disposiciones pertinentes en materia de cultura cívica, armonizándolas con las disposiciones del presente ordenamiento, en un término de seis meses contados a partir de la entrada en vigor de esta Ley.
+
+TERCERO.- El Congreso del Estado de Colima, en un término de ciento ochenta días hábiles realizará las adecuaciones legislativas necesarias a fin de armonizar sus disposiciones con el presente ordenamiento.
+
+CUARTO.- Se abroga la Ley de Fomento de Cultura Cívica publicada en el periódico oficial “El Estado de Colima” el 04 de julio del año 2009, así como todas las disposiciones que contravengan lo dispuesto por esta ley.
