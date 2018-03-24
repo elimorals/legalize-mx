@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2016-06-18"
+last_updated: "2018-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -813,11 +811,11 @@ En las Direcciones de la Policía Estatal o de Seguridad Pública Municipales, a
 
 #### SECCION TERCERA. DE LAS ORDENES DE PROTECCION
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 35.
 
-Son órdenes de protección las especificadas en este artículo y serán decretadas y ejecutadas, por los jueces familiares, civiles, mixtos y penales; que correspondan, independientemente de las medidas provisionales contenidas en la legislación legal aplicable, siendo las siguientes:
+Son órdenes de protección las especificadas en este artículo y serán decretadas y ejecutadas por los jueces familiares, civiles, mixtos y penales que correspondan, independientemente de las medidas provisionales contenidas en la legislación legal aplicable, siendo las siguientes:
 
 (REPUBLICADA, P.O. 11 DE JUNIO DE 2016)
 
@@ -831,13 +829,11 @@ II. Desalojar a la parte generadora de la casa habitación que comparta con la o
 
 III. Garantizar el reingreso de la persona receptora de violencia familiar al domicilio, una vez que se salvaguarde de (sic) su seguridad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
 
-IV. Retención y guarda de armas de fuego propiedad de la parte generadora de violencia familiar o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia;
+IV. Retención y guarda de armas de fuego propiedad de la parte generadora de violencia familiar o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia; así como solicitar la suspensión del derecho de portación de armas.
 
-(REPUBLICADO, P.O. 11 DE JUNIO DE 2016)
-
-Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la persona receptora;
+Es aplicable lo anterior también a las armas punzocortantes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la persona receptora;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -867,7 +863,11 @@ c) Acercarse a la parte receptora en un radio de doscientos metros del hogar del
 
 d) No disponga en perjuicio de la persona receptora, ni de cualquier integrante de su familia, de los bienes privados de estos ni de los que correspondan a la sociedad conyugal. Cuando la parte generadora administre un negocio, comercio o industria que formen parte de los bienes familiares, el juez o jueza, ordenaran que rinda mensualmente un informe financiero a la autoridad judicial que conozca del asunto;
 
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2008)</small>
+
 X. Dictar cualquier otra medida que estime necesaria para el cumplimiento de los fines que salvaguarda la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 De las medidas dictadas se apercibirá a la parte generadora que en caso de incumplimiento a las órdenes de protección, se le impondrá cualquiera de las medidas de apremio a que se refiere el artículo 73 del Código de Procedimientos Civiles vigente para el Estado, independientemente del delito que se pueda configurar con esa conducta;
 
@@ -1046,3 +1046,9 @@ P.O. 11 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Toda la normatividad estatal que contengan el término violencia intrafamiliar se entenderá referido a violencia familiar.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NO. 468 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 35, DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
