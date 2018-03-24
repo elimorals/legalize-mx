@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2017-11-04"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -183,53 +183,81 @@ IX. Crear conciencia sobre la preservación de la salud, el ejercicio responsabl
 
 X. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Proporcionar los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
-XI. Crear conciencia y fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general como mecanismos para la superación personal y elevar la calidad de vida en la Entidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XII. Fomentar los valores y principios del cooperativismo;
+XI. Podrán coordinar con las diversas Autoridades de la Entidad, programas permanentes de educación en materia de primeros auxilios, simulacros y prevención de accidentes;
 
-XIII. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XIV. Promover y fomentar la lectura como medio para acceder al conocimiento y la cultura;
+XII. Crear conciencia y fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general como mecanismos para la superación personal y elevar la calidad de vida en la Entidad;
 
-XV. Difundir los derechos y deberes de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercitarlos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XVI. Fomentar en los educandos, conceptos y sentimientos de solidaridad, con el propósito de disminuir las desigualdades económicas, sociales y culturales, así como contribuir a la creación de una sociedad justa;
+XIII. Fomentar los valores y principios del cooperativismo;
 
-XVII. Fomentar en el individuo el uso y la aplicación de la tecnología de la información y de una segunda lengua sin menoscabo de la enseñanza del español, considerando la pluralidad lingüística y el respeto al derecho lingüístico de los pueblos indígenas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XVIII. Combatir el fanatismo y los prejuicios, ajustando las enseñanzas a la verdad científica, sin restringir los derechos fundamentales consignados en la Constitución Política de los Estados Unidos Mexicanos;
+XIV. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-XIX. Dedicar especial atención al estudio del medio físico, económico, social y cultural del Estado; promover la utilización y aplicación de las técnicas y avances científicos en las actividades agropecuarias, marítimas, mineras, forestales e industriales, de servicios y demás actividades productivas que requiera la Entidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XX. Procurar que los docentes y educandos participen práctica y activamente en el desarrollo económico, social y cultural de su municipio, de la región, de la Entidad y del país;
+XV. Promover y fomentar la lectura como medio para acceder al conocimiento y la cultura;
 
-XXI. Promover y fomentar en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXII. Tender a la comprensión de los problemas de la Entidad, procurando la integración de los diferentes grupos que forman la comunidad colimense, a través de acciones que respeten, al mismo tiempo, las características propias de cada zona o región. Asimismo, auspiciar una armónica integración con los demás grupos humanos que constituyen la esfera nacional;
+XVI. Difundir los derechos y deberes de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercitarlos;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXIII. Promover y fomentar la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
+XVII. Fomentar en los educandos, conceptos y sentimientos de solidaridad, con el propósito de disminuir las desigualdades económicas, sociales y culturales, así como contribuir a la creación de una sociedad justa;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXIV. Atender las situaciones derivadas de la vida familiar, social o comunitaria del educando, cuando éstas incidan negativamente en el desempeño académico;
+XVIII. Fomentar en el individuo el uso y la aplicación de la tecnología de la información y de una segunda lengua sin menoscabo de la enseñanza del español, considerando la pluralidad lingüística y el respeto al derecho lingüístico de los pueblos indígenas;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de 18 años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
+XIX. Combatir el fanatismo y los prejuicios, ajustando las enseñanzas a la verdad científica, sin restringir los derechos fundamentales consignados en la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXVI. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
+XX. Dedicar especial atención al estudio del medio físico, económico, social y cultural del Estado; promover la utilización y aplicación de las técnicas y avances científicos en las actividades agropecuarias, marítimas, mineras, forestales e industriales, de servicios y demás actividades productivas que requiera la Entidad;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXVII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales; y
+XXI. Procurar que los docentes y educandos participen práctica y activamente en el desarrollo económico, social y cultural de su municipio, de la región, de la Entidad y del país;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
 
-XXVIII. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
+XXII. Promover y fomentar en los educandos una cultura de protección, conservación, cuidado y valorización del patrimonio cultural del Estado y de la Nación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXIII. Tender a la comprensión de los problemas de la Entidad, procurando la integración de los diferentes grupos que forman la comunidad colimense, a través de acciones que respeten, al mismo tiempo, las características propias de cada zona o región. Asimismo, auspiciar una armónica integración con los demás grupos humanos que constituyen la esfera nacional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXIV. Promover y fomentar la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXV. Atender las situaciones derivadas de la vida familiar, social o comunitaria del educando, cuando éstas incidan negativamente en el desempeño académico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXVI. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de 18 años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXVII. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXVIII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2018)</small>
+
+XXIX. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
@@ -1694,3 +1722,9 @@ P.O. 4 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto estará sujeto a la disponibilidad presupuestaria por parte de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Colima.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 448 POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
