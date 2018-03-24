@@ -4,7 +4,7 @@ identifier: "COL-ley-de-procedimiento-administrativo-del-estado-de-colima-y-5988
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-09"
-last_updated: "2013-12-14"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 9 de febrero de 2008.
 
@@ -37,7 +37,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLlMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDOS .
+CONSIDERANDOS.
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -53,29 +53,45 @@ LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLlMA Y SUS MUNICIPIOS
 
 ### Capítulo Primero. Objeto de la Ley
 
-###### Articulo 1.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos administrativos emanados de las dependencias del Poder Ejecutivo del Estado, de los Ayuntamientos, de los organismos Paraestatales y Paramunicipales y, los Organismos Descentralizados, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
+###### Artículo 1.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+La presente ley es de orden público e interés social y tiene por objeto establecer las bases de los actos administrativos y las reglas comunes del procedimiento administrativo, incluyendo el régimen administrativo sancionador de los poderes del Estado, los órganos estatales autónomos previstos en la Constitución Política del Estado Libre y Soberano de Colima y los municipios, así como de las dependencias y entidades de la Administración Pública, centralizada, paraestatal o paramunicipal, incluyendo los organismos descentralizados.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 2.
 
-Las disposiciones de este ordenamiento no son aplicables en las materias financiera, fiscal, judicial, laboral, electoral, de seguridad pública, de responsabilidad para los servidores públicos, de transparencia y acceso a la información pública, así como las relativas al ministerio público en ejercicio de sus funciones. En relación con los créditos fiscales no se excluyen de la aplicación de ésta Ley lo relativo a las multas administrativas derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
+Las disposiciones previstas en este ordenamiento no serán aplicables para los poderes Legislativo y Judicial tratándose del ejercicio de la función legislativa y jurisdiccional que respectivamente tienen asignada.
+
+Asimismo, no será aplicable esta ley en materia fiscal, laboral, electoral, de seguridad pública, de responsabilidades de los servidores públicos y las relativas al Ministerio Público en el ejercicio de sus funciones.
+
+Para los efectos de esta ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
+
+En relación con los créditos fiscales, no se excluyen de la aplicación de esta ley lo relativo a las multas administrativas derivadas de las infracciones por violaciones a las disposiciones de orden administrativo local.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 3.
 
-La presente Ley, se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública del Estado de Colima y a sus Municipios, en tanto no se trate de medios de impugnación. El Código de Procedimientos Civiles del Estado de Colima se aplicará, a su vez, supletoriamente a esta Ley, en lo que resulte conducente.
+Los actos y procedimientos de carácter administrativo se regirán en primer lugar por los ordenamientos jurídicos específicos que los prevean y regulen. En lo no previsto en dichos ordenamientos se aplicarán en lo conducente las disposiciones de esta ley.
+
+En observancia a lo indicado en el párrafo anterior, esta ley se aplicará de manera supletoria a las diversas leyes que rijan para los Entes públicos señalados en el artículo 1 del presente ordenamiento. El Código de Procedimientos Civiles para el Estado de Colima se aplicará, a su vez, supletoriamente a esta ley, en lo que resulte conducente.
 
 ### Capítulo Segundo. De las Autoridades Administrativas
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 4.
 
-Es autoridad administrativa, en los términos del artículo 1, aquélla que dicte, ordene, ejecute o trate de ejecutar un acto administrativo relacionado con sus funciones.
+Es autoridad materialmente administrativa en los términos del artículo 1 de esta ley, aquélla que dicte, ordene, ejecute o trate de ejecutar un acto administrativo relacionado con sus funciones.
+
+REFORMADO, P.O. 24 DE MARZO DE 2018)
 
 ###### Artículo 5.
 
-Las autoridades administrativas, únicamente pueden ejercer las facultades y atribuciones que les son conferidas por las leyes y reglamentos vigentes. La inobservancia de lo anterior, será sancionada conforme a la ley Estatal de Responsabilidades de los Servidores Públicos.
+Las autoridades administrativas únicamente pueden ejercer las facultades y atribuciones que les sean conferidas por las leyes, reglamentos, decretos, bandos, estatutos, protocolos, lineamientos, declaratorias, manuales, circulares, acuerdos, convenciones y demás disposiciones jurídicas aplicables. La inobservancia de lo anterior será sancionada conforme a la Ley General de Responsabilidades Administrativas y la legislación local aplicable en la materia.
 
 ###### Artículo 6.
 
@@ -191,21 +207,33 @@ VIII. Dar intervención a terceros interesados cuando el ordenamiento de la mate
 
 Esta afectado de nulidad absoluta, el acto administrativo que no reúna los elementos de validez establecidos en el artículo 13 de esta ley.
 
-El acto administrativo afectado de nulidad absoluta produce efectos provisionales, que serán destruidos retroactivamente cuando se decrete por la autoridad jurisdiccional y por ser de orden público no es susceptible de revalidarse, pudiendo invocarse por todo afectado.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-###### Articulo 16.
+El acto administrativo afectado de nulidad absoluta produce efectos provisionales, que serán destruidos retroactivamente cuando se declare por parte de la autoridad administrativa o jurisdiccional competente.
 
-Está afectado de nulidad relativa, el acto administrativo que no reúna los requisitos de validez establecidos en el artículo 14 de la presente ley; dicho acto es válido, ejecutable y subsanable, en tanto no sea declarada su suspensión o nulidad por la autoridad competente.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-La autoridad administrativa que emita el acto afectado de nulidad relativa, puede subsanar las irregularidades en los requisitos de dichos actos, para la plena validez y eficacia del mismo. El acto que sea subsanado, producirá efectos retroactivos a la fecha de su expedición, siempre que este acto no sea en perjuicio del particular.
+###### Artículo 16.
+
+Está afectado de nulidad relativa el acto administrativo que no reúna los requisitos de validez establecidos en el artículo 14 de la presente ley; dicho acto es válido y ejecutable, en tanto no sea declarada su suspensión o nulidad por la autoridad administrativa o jurisdiccional competente.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 17.
 
-La nulidad absoluta o relativa puede ser invocada por el interesado a través del recurso de revisión, de conformidad con lo establecido en el artículo 141 y demás relativos de esta ley. Será optativo para el interesado agotarlo o intentar directamente el juicio contencioso administrativo.
+La autoridad administrativa o jurisdiccional competente para conocer y resolver un planteamiento de nulidad, deberá considerar que los defectos de forma del acto administrativo sólo serán determinantes para decretar su nulidad cuando el acto carezca de los requisitos indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.
+
+Las autoridades administrativas podrán convalidar los actos anulables o anulados, subsanando los vicios de que adolezcan para darles plena validez y eficacia a los mismos. El acto subsanado producirá efectos retroactivos a la fecha de su expedición, siempre que este acto no sea en perjuicio del particular.
+
+Si el vicio del acto consistiera en incompetencia, la convalidación del mismo podrá realizarse por la autoridad competente cuando sea superior jerárquico del que dictó el acto viciado. Si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por la autoridad competente. Si el vicio fuese la falta de fundamentación y motivación, se podrá convalidar el acto expresando la fundamentación y motivación ausente. En el caso que la irregularidad consistiese en la incorrecta fundamentación y motivación, la autoridad podrá convalidar el acto aportando fundamentos y motivos diferentes a los que formuló previamente, siempre que sean efectivamente aplicables.
+
+La nulidad absoluta o relativa puede ser invocada por el interesado a través del recurso de revisión de conformidad con el artículo 141 y demás relativos de esta ley. Será optativo para el interesado agotarlo o intentar directamente el juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 18.
 
-Todo acto administrativo dictado por la autoridad competente que sea favorable al interesado debe ser cumplido y respetado en todo momento, siendo necesaria la decisión del Tribunal de lo Contencioso Administrativo mediante el debido procedimiento legal para declarar su nulidad.
+Todo acto administrativo dictado conforme a derecho por la autoridad competente que sea favorable al interesado deberá ser cumplido y respetado.
 
 ### Capítulo Cuarto. Eficacia del Acto Administrativo
 
@@ -243,7 +271,9 @@ IV. La revocación, de conformidad con las disposiciones legales aplicables en l
 
 V. Prescripción, y
 
-VI. Nulidad, declarada en la resolución dentro del procedimiento jurisdiccional.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+VI. Nulidad, declarada en la resolución emitida dentro del procedimiento administrativo o jurisdiccional respectivo.
 
 ## TÍTULO TERCERO. DE LA INACTIVIDAD ADMINISTRATIVA
 
@@ -253,9 +283,11 @@ VI. Nulidad, declarada en la resolución dentro del procedimiento jurisdiccional
 
 A toda promoción que sea substanciada ante las autoridades administrativas, debe recaer una respuesta o contestación fundada y motivada, la que debe emitirse dentro del plazo señalado por la ley. Una vez transcurrido el plazo, si la autoridad administrativa no ha emitido la resolución correspondiente opera la afirmativa o la negativa ficta, de conformidad con lo que establece el presente título.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 24.
 
-Una vez que se decrete la afirmativa o negativa ficta, debe notificarse de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo, la existencia de la misma para que en su caso se apliquen las sanciones administrativas establecidas en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Una vez que se decrete la afirmativa o negativa ficta, debe notificarse de oficio a la autoridad competente o al superior jerárquico del servidor público que dio origen al silencio administrativo, la existencia de la misma, para que en su caso se promuevan las sanciones que correspondan de conformidad con la Ley General de Responsabilidades Administrativas y la legislación local aplicable en la materia.
 
 ### Capítulo Segundo. De la Negativa Ficta
 
@@ -279,9 +311,11 @@ Transcurrido el plazo mencionado en los artículos 26 y 27 de esta Ley sin que s
 
 El plazo inicia a partir del día siguiente de la recepción de la solicitud excepto cuando la autoridad hubiera requerido al interesado de algún documento o requisito que éste omitió presentar, caso en que el plazo inicia a partir del cumplimiento de dichos requisitos.
 
-###### Articulo 30.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
-La negativa ficta puede ser combatida mediante el juicio ante el Tribunal de lo Contencioso Administrativo por el simple cumplimiento del plazo, acompañando como documento fundatorio el escrito de petición con la fecha de recibido.
+###### Artículo 30.
+
+La negativa ficta puede ser combatida mediante el juicio ante el Tribunal de Justicia Administrativa del Estado por el simple cumplimiento del plazo, acompañando como documento fundatorio el escrito de petición con la fecha de recibido.
 
 ### Capítulo Tercero. De la Afirmativa Ficta
 
@@ -303,13 +337,17 @@ Para la plena eficacia de la misma, el interesado deberá de pedir a la autorida
 
 Una vez recibida la solicitud de certificación, la autoridad, dentro de un término que no exceda de tres días, deberá de emitir la certificación de afirmativa ficta si es que se cumplen con los requisitos prescritos por los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 34.
 
-Si dentro del plazo establecido en el artículo anterior la autoridad no emite la certificación de la afirmativa ficta, el interesado presentará por escrito petición de declaración de afirmativa ficta ante el Tribunal de lo Contencioso Administrativo, acompañando las constancias y documentos que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como el acuse de recibo de la solicitud no resuelta. El Tribunal de lo Contencioso Administrativo sustanciará dicha solicitud mediante el procedimiento especial previsto en la Ley de lo Contenciosos Administrativo.
+Si dentro del plazo establecido en el artículo anterior la autoridad no emite la certificación de la afirmativa ficta, el interesado presentará por escrito petición de declaración de afirmativa ficta ante el Tribunal de Justicia Administrativa del Estado, acompañando las constancias y documentos que acrediten el cumplimiento de los requisitos establecidos en las normas aplicables al caso específico, así como el acuse de recibo de la solicitud no resuelta. El Tribunal sustanciará dicha solicitud mediante el procedimiento especial previsto en la Ley de Justicia Administrativa del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 35.
 
-En caso de que el Tribunal de lo Contencioso Administrativo declare que ha operado la afirmativa ficta, ordenará a la autoridad omisa emitir el instrumento legal para el ejercicio de la actividad solicitada, y si no cumpliere, su conducta será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+En caso de que el Tribunal de Justicia Administrativa del Estado declare que ha operado la afirmativa ficta, ordenará a la autoridad omisa emitir el instrumento legal para el ejercicio de la actividad solicitada, y si no cumpliere, su conducta será sancionada en los términos de la Ley General de Responsabilidades Administrativas y la legislación local aplicable en la materia.
 
 ###### Artículo 36.
 
@@ -321,13 +359,17 @@ Los plazos señalados en el presente capítulo, inician el día siguiente de la 
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 37.
 
-Las disposiciones de este Titulo son aplicables a las actuaciones de las personas ante las Autoridades Administrativas. El incumplimiento a las disposiciones de esta Ley, dará lugar a la responsabilidad del servidor público, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Las disposiciones de este Título son aplicables a las actuaciones de las personas ante las autoridades administrativas, así como a los actos a través de los cuales se desenvuelve la función administrativa.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 38.
 
-El procedimiento Administrativo servirá para asegurar el mejor cumplimiento de los fines de la Administración Pública, así como para garantizar los derechos e intereses legítimos de las personas, de conformidad con lo preceptuado por los ordenamientos jurídicos aplicables.
+El procedimiento administrativo servirá para asegurar el adecuado cumplimiento de los fines de los Entes públicos señalados en el artículo 1 de esta ley, así como para garantizar los derechos e intereses legítimos de las personas, de conformidad con lo preceptuado en los ordenamientos jurídicos aplicables.
 
 ###### Artículo 39.
 
@@ -361,17 +403,23 @@ VII. Nombre y domicilio de terceros perjudicados en el caso de existir; y
 
 VIII. El lugar, la fecha y la firma del interesado o en su caso, la de su representante legal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 42.
 
-En ningún caso se deben rechazar los escritos que se presenten en las unidades de recepción de las autoridades competentes. Cuando la autoridad competente considere que la solicitud o escrito inicial no reúne todos los requisitos previstos por el artículo 41 de esta ley, prevendrá al interesado por escrito y una sola vez para que subsane las omisiones en un plazo de cinco días hábiles, a partir de que surta efectos la notificación del requerimiento.
+En ningún caso se deben rechazar los escritos que se presenten en las unidades de recepción de las autoridades competentes. Cuando la autoridad competente considere que la solicitud o escrito inicial no reúne todos los requisitos previstos por el artículo 41 de esta ley, prevendrá al interesado por escrito y una sola vez para que subsane las omisiones en un plazo de tres días hábiles, a partir de que surta efectos la notificación del requerimiento.
 
-Salvo que en una disposición de carácter general se disponga otro plazo, la prevención de información faltante deberá hacerse dentro de los cinco días hábiles siguientes a la presentación del escrito correspondiente. En caso de que la resolución del trámite sea inmediata, la prevención de información faltante deberá hacerse de manera inmediata a la presentación del escrito correspondiente.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Salvo que en una disposición de carácter general se disponga otro plazo, la prevención de información faltante deberá hacerse dentro de los tres días hábiles siguientes a la presentación del escrito correspondiente. En caso de que la resolución del trámite sea inmediata, la prevención de información faltante deberá hacerse de manera inmediata a la presentación del escrito correspondiente.
 
 De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo aplicable, no se podrá desechar el trámite argumentando que está incompleto. En el supuesto de que el requerimiento de información se haga en tiempo, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 43.
 
-La negativa, por parte de servidor público competente, de recibir las promociones de los particulares, será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La negativa por parte de servidor público competente de recibir las promociones de los particulares será sancionada en los términos de la Ley General de Responsabilidades Administrativas y la legislación local aplicable en la materia.
 
 ###### Artículo 44.
 
@@ -879,7 +927,9 @@ Ponen fin al procedimiento administrativo:
 
 I. La resolución expresa que emita la autoridad administrativa;
 
-II. La resolución ficta positiva o negativa, cuando sea declarada por el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+II. La resolución ficta, positiva o negativa, cuando sea declarada por el Tribunal de Justicia Administrativa del Estado;
 
 III. La renuncia expresa del particular;
 
@@ -915,13 +965,19 @@ Las autoridades no podrán variar ni modificar sus resoluciones después de dict
 
 Al hacerse la aclaración, las autoridades, no podrán modificar los elementos esenciales de la resolución, ni variar su sustancia. El acuerdo que decida la aclaración de una resolución, se considerará parte integrante de ésta.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 117.
 
-Todo interesado puede renunciar al procedimiento administrativo que promueva, cuando sólo afecte a sus intereses; en caso de que existan varios interesados, el desistimiento sólo operará respecto de quien lo formule.
+Todo interesado podrá desistir del procedimiento administrativo que promueva o, cuando ello no esté prohibido por la ley, renunciar a sus derechos. En el caso de que el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectarán a aquellos que la hubiesen formulado. El desistimiento o la renuncia deberán ser presentados por escrito, ya sea por el interesado o por su representante legal.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 ###### Artículo 118.
 
-La renuncia debe ser presentada por escrito; ya sea por el interesado o su representante legal.
+Las autoridades administrativas podrán celebrar convenios con los particulares, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado, pudiendo a través de tales convenios poner fin al procedimiento administrativo.
+
+Los convenios que se suscriban no supondrán alteración de las competencias atribuidas a las autoridades, ni de las responsabilidades que correspondan a los servidores públicos relativas al ejercicio de su función.
 
 ### Capítulo Décimo Quinto.. De la verificación e inspección
 
@@ -1055,7 +1111,9 @@ IV. Ejecución de obras y, en su caso, demolición en rebeldía del obligado ya 
 
 V. Arresto administrativo; y
 
-VI. Las demás que señalen las disposiciones legales.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+
+VI. Las demás que señalen las leyes o reglamentos.
 
 ###### Artículo 132.
 
@@ -1119,11 +1177,13 @@ La tramitación de la declaración de caducidad o prescripción no constituye re
 
 ### Capítulo Primero. Del Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 141.
 
-Los actos o resoluciones que emanen de una autoridad administrativa en el desempeño de sus atribuciones, que los interesados estimen antijurídicos, infundados o faltos de motivación, pueden ser impugnados mediante el Recurso de Revisión, que debe hacer valer por escrito dentro de los veinte días hábiles contados a partir del día siguiente de su notificación o del que tengan conocimiento del acto o resolución de que se trate.
+Los actos y resoluciones que emanen de una autoridad administrativa en el desempeño de sus atribuciones que los interesados estimen antijurídicos, infundados o faltos de motivación, pueden ser impugnados mediante el recurso de revisión que debe hacer valer por escrito dentro de los quince días hábiles contados a partir del día siguiente de su notificación o del que tengan conocimiento del acto o resolución de que se trate.
 
-Será optativo para el particular agotar el Recurso de Revisión o promover el juicio ante el Tribunal de lo Contencioso Administrativo.
+Será optativo para el particular agotar el recurso de revisión o promover el juicio ante el Tribunal de Justicia Administrativa del Estado.
 
 ###### Artículo 142.
 
@@ -1199,9 +1259,11 @@ En un plazo de cinco días hábiles, contados a partir de la admisión del recur
 
 En caso contrario, se abrirá un periodo probatorio de tres días hábiles para desahogar aquellas pruebas que así lo requieran. Al término de este periodo se debe dictar la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
 ###### Artículo 149.
 
-En contra de la resolución que resuelve el Recurso de Revisión interpuesto, procede el juicio ante el Tribunal de lo Contencioso Administrativo.
+En contra de la resolución que resuelve el recurso de revisión interpuesto, procede el juicio ante el Tribunal de Justicia Administrativa del Estado.
 
 ### Capítulo Segundo. Del Recurso de Inconformidad
 
@@ -1209,7 +1271,9 @@ En contra de la resolución que resuelve el Recurso de Revisión interpuesto, pr
 
 El Recurso de Inconformidad procede en contra de multas impuestas por las autoridades administrativas y tiene como objeto confirmar o modificar el monto de la multa.
 
-Será optativo para el particular agotar el Recurso de Inconformidad o promover el juicio ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+
+Será optativo para el particular agotar el recurso de inconformidad o promover juicio ante el Tribunal de Justicia Administrativa del Estado.
 
 ###### Artículo 151.
 
@@ -1306,3 +1370,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán implementar una campaña de información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 463 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
+
+TERCERO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley de Justicia Administrativa del Estado de Colima y del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando dicho ordenamiento se encuentre vigente.
