@@ -4,7 +4,7 @@ identifier: "COL-ley-de-responsabilidad-patrimonial-del-estado-de-colima-25495"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-22"
-last_updated: "2016-11-22"
+last_updated: "2018-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 22 de junio de 2002.
 
@@ -131,7 +131,7 @@ Si con motivo de una impugnación posterior se determinara que la reclamación d
 
 Las dependencias o entidades estarán obligadas a denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños con el propósito de acreditar indebidamente la responsabilidad patrimonial del Estado o de obtener alguna de las indemnizaciones a que se refiere esta Ley.
 
-Para que proceda una reclamación de indemnización ésta nunca deberá ser inferior a cincuenta unidades.
+(DEROGADO SEGUNDO PÁRRAFO), P.O. 24 DE MARZO DE 2018)
 
 ### CAPÍTULO II. DE LAS INDEMNIZACIONES
 
@@ -386,3 +386,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 24 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 455 POR EL QUE SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
