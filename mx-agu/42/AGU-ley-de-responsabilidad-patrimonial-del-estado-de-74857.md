@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2015-07-27"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -49,7 +49,9 @@ LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público e interés general, y reglamentaria del Artículo 73 de la Constitución Política del Estado de Aguascalientes.
 
-Su objeto es fijar las bases y procedimientos para reconocer el derecho a la indemnización de las personas que, sin obligación jurídica de soportarlo, sufran un menoscabo en cualquiera de sus bienes, posesiones o derechos como consecuencia de la actividad administrativa irregular de los entes públicos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Su objeto es fijar las bases y procedimientos para reconocer el derecho a la indemnización de las personas que, sin obligación jurídica de soportarlo, sufran un menoscabo en cualquiera de sus bienes, posesiones o derechos como consecuencia de la actividad administrativa irregular de los entes públicos, así como de las personas físicas o morales que sean concesionarias o prestadoras de servicios públicos.
 
 La responsabilidad patrimonial es objetiva y directa; la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las disposiciones legales a que la misma hace referencia.
 
@@ -79,9 +81,11 @@ La interpretación de las disposiciones de este ordenamiento para efectos admini
 
 Los daños y perjuicios personales y materiales que constituyan la lesión patrimonial reclamada, deberán de ser reales, valuables en dinero, directamente relacionados con una o varias personas y desiguales a los que pudieran afectar al común de la población.
 
-###### Artículo 5º.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
-El Presupuesto de Egresos del Gobierno del Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado.
+###### Artículo 5°.
+
+El Presupuesto de Egresos del Gobierno del Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado.
 
 Los entes públicos deberán establecer en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
 
@@ -109,25 +113,45 @@ Una vez determinada la indemnización, deberá pagarse en moneda nacional de acu
 
 Los reclamantes afectados podrán celebrar convenio con los entes públicos, a fin de dar por concluida la controversia, mediante la fijación y el pago de la indemnización que las partes acuerden. Para la validez de dicho convenio se requerirá, según sea el caso, la aprobación por parte de la contraloría interna o del órgano de vigilancia correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
 ###### Artículo 10.
 
-Las indemnizaciones corresponderán a la reparación integral del daño y, en su caso, por el daño personal.
+Las indemnizaciones corresponderán a la reparación integral del daño económico y personal.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### Artículo 11.
 
-El monto de la indemnización por daños materiales se calculará de acuerdo a los criterios establecidos por el Código Civil y demás disposiciones aplicables, debiéndose tomar en consideración los valores comerciales o de mercado.
+El monto de la indemnización por daños económicos: materiales, financieros, administrativos, presupuestales, patrimoniales o fiscales se calculará de acuerdo a los criterios establecidos por el Código Civil, el Código Fiscal del Estado de Aguascalientes y demás disposiciones aplicables, debiéndose tomar en consideración los valores comerciales o de mercado, así como los indicadores de la inflación que emite el Banco de México, para el cálculo de la actualización respectiva.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### Artículo 12.
 
-Los montos de las indemnizaciones en el caso de daños personales, se calcularán de la siguiente forma:
+Los montos de las indemnizaciones en el caso de daños personales, laborales, morales o psíquicos se calcularán de la siguiente forma:
 
 I. En el caso de daños personales:
 
-a) Corresponderá una indemnización con base en los dictámenes médicos correspondientes, conforme a lo dispuesto para riesgos de trabajo en la Ley Federal del Trabajo; y
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-b) Además de la indemnización prevista en el inciso anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, de conformidad con la propia Ley Federal del Trabajo disponga para riesgos de trabajo.
+a) Corresponderá una indemnización con base en los dictámenes médicos correspondientes, conforme a lo dispuesto para riesgos de trabajo en la Ley Federal del Trabajo, Ley del Seguro Social, y demás ordenamientos aplicables vigentes; y
 
-II. En el caso de muerte, el cálculo de la indemnización se hará atendiendo a lo dispuesto por la Ley Federal del Trabajo, tomando como base la utilidad o salario que hubiese percibido el fallecido, y si éste no percibía salario o utilidad, o no pudiere determinarse, el monto de la indemnización se fijará tomando como base el salario mínimo general vigente en el estado.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+b) Además de la indemnización prevista en el inciso anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, de conformidad con los riesgos de trabajo dispuestos en la propia Ley Federal del Trabajo, la Ley del Seguro social y demás ordenamientos aplicables vigentes;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II. En el caso de muerte, el cálculo de la indemnización se hará atendiendo a lo dispuesto por la Ley Federal del Trabajo, tomando como base la utilidad o salario que hubiese percibido el fallecido, y si éste no percibía salario o utilidad, o no pudiere determinarse, el monto de la indemnización se fijará tomando como base el salario mínimo general vigente en el estado;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+III. En el caso de daños morales, corresponderá una indemnización conforme a lo establecido en el Código Civil del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IV. En el caso de daños psíquicos, corresponderá una indemnización con base en los dictámenes psicológicos realizados por los peritos adscritos a la Fiscalía General del Estado.
 
 ###### Artículo 13.
 
@@ -194,6 +218,10 @@ Concluido el periodo probatorio, el titular estará obligado en un plazo que no 
 ###### Artículo 23.
 
 Las resoluciones administrativas que se dicten con motivo de los reclamos que prevé la presente Ley, deberán contener todos los elementos que se exigen en los procesos contencioso administrativos y los relativos a la existencia o no de la relación de causalidad entre el funcionamiento del servicio público o actividad administrativa y la lesión producida. Deberán contener también, en su caso, la valoración del daño causado así como el monto en dinero o en especie de la indemnización, explicando de manera detallada los criterios utilizados para la cuantificación.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Además de lo previsto en el párrafo anterior, las resoluciones administrativas contendrán la valoración del daño causado, así como el monto en dinero o en especie de la indemnización, fundando y motivando de manera detallada los criterios utilizados para tal cuantificación.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -376,3 +404,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 251.- SE REFORMAN LOS ARTÍCULOS 1°, 5°, 10, 11 y 12; Y SE ADICIONAN LOS ARTÍCULOS 12 Y 23, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
