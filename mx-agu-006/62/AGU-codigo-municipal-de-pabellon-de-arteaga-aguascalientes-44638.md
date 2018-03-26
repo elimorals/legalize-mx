@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2018-02-26"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -681,7 +681,9 @@ II.- Amonestación verbal o escrita;
 
 III.- Suspensión en el pago de sus salarios, en caso de reincidencia; y
 
-IV.- Las sanciones y responsabilidades que resulten aplicables en los términos de la Ley Municipal del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IV.- Las sanciones y responsabilidades que resulten aplicables en los términos de la Ley Municipal del Estado y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -899,9 +901,33 @@ V.- Vigilar el correcto desempeño de la Dirección de Finanzas y Administració
 
 VI.- Proponer las medidas necesarias para el fortalecimiento de las finanzas municipales;
 
-VII.- Supervisar que se dé un uso adecuado a los bienes propiedad del Municipio;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VIII.- Los demás que le señalen las leyes, los reglamentos, el presente Código y le sean encomendados por el H. Ayuntamiento.
+VII.- Supervisar que se dé un uso adecuado a los bienes propiedad del municipio;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VIII.- Vigilar y supervisar los procedimientos de desincorporación de bienes muebles que realicen las dependencias, entidades, la Dirección de Finanzas y Administración y la Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Proponer lineamientos generales para la conservación, aprovechamiento parcial o desincorporación de bienes muebles e inmuebles municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Dictaminar las solicitudes de baja de bienes muebles o disposición de inmuebles que presentes (sic) las dependencias de la administración pública municipal;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XI.- Dar aviso al Contralor Municipal o en su caso al Síndico municipal, de las irregularidades encontradas en materia de control patrimonial, para que se inicien las investigaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XII.- Convocar a los titulares de las dependencias para que informen sobre los asuntos que en materia de desincorporación de bienes que integran el patrimonio municipal se hayan substanciado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 2018)</small>
+
+XIII.- Los demás que le señalen las leyes, los reglamentos, el presente Código y le sean encomendados por el H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -959,7 +985,9 @@ XIV.- Los demás que le señalen las leyes, los reglamentos, el presente Código
 
 Corresponden a la Comisión de Desarrollo Urbano y Obras Públicas los siguientes asuntos:
 
-I.- Supervisar el trabajo de las dependencias municipales en materia de desarrollo urbano, verificando que éstas cumplan con los postulados y requerimientos contemplados en el Código Urbano y en los programas de desarrollo urbano municipal;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Supervisar el trabajo de las dependencias municipales en materia de desarrollo urbano, verificando que éstas cumplan con los postulados y requerimientos contemplados en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado y en los programas de desarrollo urbano municipal;
 
 II.- Promover que las dependencias municipales correspondientes, efectúen la actualización de los diferentes programas de desarrollo urbano municipal;
 
@@ -969,7 +997,9 @@ IV.- Vigilar que las obras públicas realizadas por las autoridades municipales 
 
 V.- Verificar que la asignación de obras públicas a los particulares se haga con apego a la ley correspondiente, observándose estrictamente los procedimientos de licitación, asignación y contratación;
 
-VI.- Promover que se investiguen los antecedentes de los trámites, construcciones, obras de urbanización, tala de árboles, demás acciones en materia de desarrollo urbano, a efecto de que éstos se realicen de conformidad con lo establecido en el Código Urbano, el presente código y los programas de la materia vigentes en el municipio;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VI.- Promover que se investiguen los antecedentes de los trámites, construcciones, obras de urbanización, tala de árboles, demás acciones en materia de desarrollo urbano, a efecto de que éstos se realicen de conformidad con lo establecido en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado, el presente código y los programas de la materia vigentes en el municipio;
 
 VII.- Supervisar el trabajo realizado por las áreas administrativas encargadas del desarrollo urbano y de obras públicas; y
 
@@ -1465,7 +1495,9 @@ V.- Cuando se pretenda discutir asuntos de interés particular.
 
 El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de su competencia, siempre que así lo apruebe la mayoría de los integrantes.
 
-Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2355,6 +2387,10 @@ a.1.- Departamento de Compras y Servicios Generales;
 
 a.2.- Departamento de Capital Humano.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+a.3.- Departamento de Control Patrimonial
+
 b).- Subdirección de Finanzas:
 
 b.1.- Departamento de Contabilidad;
@@ -2497,7 +2533,7 @@ VI.- En tanto el Ayuntamiento realiza la designación del Secretario del H. Ayun
 
 VII.- Tratándose de sesiones de Cabildo, fungirá como Secretario el funcionario que sea habilitado para tal efecto por el propio Ayuntamiento, para cada sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 206.
 
@@ -2567,9 +2603,9 @@ XV.- Elaborar los manuales de organización, acuerdos, circulares y demás dispo
 
 XVI.- Formular los anteproyectos de leyes, reglamentos y acuerdos, así como opinar sobre los ya existentes que correspondan a sus respectivas áreas y materias y remitirlos al Presidente Municipal para los efectos procedentes;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XVII.- Constatar periódicamente que el inventario de los bienes que se encuentran bajo su responsabilidad o resguardo, corresponde a los registros, notificando al Departamento de Seguimiento, Responsabilidades y Control Patrimonial en caso de faltantes o deterioro para los efectos conducentes;
+XVII.- Constatar periódicamente que el inventario de los bienes que se encuentran bajo su responsabilidad o resguardo, corresponde a los registros, notificando al Departamento de Control Patrimonial en caso de faltantes o deterioro para los efectos conducentes;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2593,15 +2629,21 @@ XXI.- Las demás que les confieran otros ordenamientos legales o les sean encome
 
 Las facultades previstas por el presente Código pueden ser ejercidas por los titulares de las dependencias o por los titulares de cada una de las áreas en que se dividan éstas, de acuerdo a la materia de cada una de ellas, y a través del personal adscrito a las mismas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 208.
 
-En caso de faltas temporales de los servidores públicos municipales, éstos serán suplidos por el inferior jerárquico inmediato, según el área del asunto de que se trate, en cuyo caso se asentará la anotación “En ejercicio de - - - (Nombre del Cargo que se suple) por ministerio de Ley.”
+En caso de faltas temporales de los servidores públicos municipales, éstos serán suplidos por el inferior jerárquico inmediato, según el área del asunto de que se trate, en cuyo caso se asentará la anotación correspondiente con la siguiente información:
 
-En caso de ausencia temporal del Presidente Municipal, el Secretario del Ayuntamiento quedará encargado del Despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
+I.- El cargo del servidor público suplido y los preceptos legales que lo facultan para emitir el acto administrativo;
 
-Tratándose de sesiones de cabildo, corresponderá presidir ésta al primer regidor o en su ausencia al de menor número, en los términos de la Ley Municipal del Estado.
+II.- La denominación del funcionario que firma, asentando las normas legales que le permitan actuar en suplencia de este último, y
+
+III.- Señalar que la actuación se hace "en ausencia" del titular.
+
+En caso de ausencia temporal del Presidente Municipal, el Secretario del Ayuntamiento quedará encargado del despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
+
+Tratándose de sesiones de cabildo, corresponderá presidir éstas al primer regidor o en su ausencia al que le siga en número, en los términos de la Ley Municipal del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2823,9 +2865,9 @@ XVII.- Certificar copias de los documentos originales que obren en los expedient
 
 XVIII.- Expedir las licencias para realizar las actividades comerciales, industriales y de prestación de servicios;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XIX.- Autorizar la ampliación del horario de los establecimientos que venden bebidas alcohólicas, por un día o días determinados, previo pago de los derechos correspondientes;
+XIX.- Autorizar la ampliación del horario de los establecimientos que venden bebidas alcohólicas, por un día o días determinados, previo pago de los derechos correspondientes y siempre y cuando no afecten la tranquilidad de los vecinos y no tenga reportes el establecimiento por violaciones al presente código;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2835,9 +2877,9 @@ XX.- Expedir los permisos y/o autorizaciones para la ocupación temporal de la v
 
 XXI.- Ordenar las visitas de inspección o verificación en las materias de su competencia;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XXII.- Iniciar, sustanciar y desahogar el procedimiento de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por las leyes y reglamentos vigentes;
+XXII.- Iniciar, sustanciar y desahogar el procedimiento de cancelación de licencias, permisos, autorizaciones y empadronamiento, así como de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por el presente código y demás disposiciones jurídicas vigentes;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3051,7 +3093,9 @@ IV.- Vigilar el cumplimiento de los preceptos constitucionales, legales y reglam
 
 V.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Presidente Municipal o de los titulares de las dependencias de la Administración Pública;
 
-VI.- Intervenir en auxilio de Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VI.- Intervenir en auxilio del Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
 
 VII.- Recopilar y mantener actualizada la normatividad vigente en materia municipal y particularmente la relacionada con el Municipio de Pabellón de Arteaga;
 
@@ -3239,9 +3283,9 @@ XXXIV.- Desarrollar y establecer planes, programas y proyectos necesarios para l
 
 XXXV.- Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XXXVI.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de le (sic) eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
+XXXVI.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3657,7 +3701,7 @@ V.- Las acciones, derechos o productos que adquiera por cualquier otro título l
 
 VI.- Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 220.
 
@@ -3705,9 +3749,9 @@ XX.- Promover y difundir las actividades artesanales, maquilas de mano de obra, 
 
 XXI.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA [ N. DE E. REFORMADA EN SU NUMERAL], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA EN SU NUMERAL], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA (SIC). De la Subdelegación de INAPAM
+#### SECCIÓN DÉCIMO PRIMERA. De la Subdelegación de INAPAM
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
@@ -4493,11 +4537,11 @@ IV.- Cuando las necesidades del servicio así lo requieran.
 
 La jornada laboral no podrá exceder de cuarenta y ocho horas semanales, la cual será distribuida dependiendo de los requerimientos, necesidades, y la naturaleza de las actividades de cada Unidad Administrativa del H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 296.
 
-Los trabajadores de base, temporales y accidentales tendrán la obligación de firmar o marcar en forma individual, su tarjeta de asistencia a la hora de entrada y de salida, y mantenerla en el tarjetero correspondiente. Sólo con la autorización expresa del Director de la Unidad Administrativa que corresponda, podrá dispensarse la obligación de checar tarjeta.
+Los trabajadores de base, temporales y accidentales tendrán la obligación de registrar su hora de entrada y hora de salida a través del sistema que establezca el Departamento de Capital Humano. Sólo con la autorización expresa del Director de la unidad administrativa que corresponda, podrá dispensarse tal obligación.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -4703,7 +4747,9 @@ I.- Los de uso común;
 
 II.- Los inmuebles destinados a un servicio público municipal;
 
-III.- Los monumentos históricos y artísticos, mueble (sic) e inmuebles propiedad del municipio;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+III.- Los monumentos históricos y artísticos, muebles e inmuebles propiedad del municipio;
 
 IV.- Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
 
@@ -4723,9 +4769,9 @@ II.- Los canales, zanjas y acueductos construidos o adquiridos por el municipio 
 
 III.- Las plazas, calles, callejones, privadas, avenidas, vías y espacios públicos en general, paseos, parques recreativos y deportivos, canchas y campos deportivos;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-IV.- Las construcciones efectuadas por el gobierno municipal en lugares públicos, para ornato o comodidad de quienes los visiten; y
+IV.- Las construcciones efectuadas por el gobierno municipal en lugares públicos, para ornato o comodidad de quienes los visiten, y
 
 V.- Los demás bienes considerados por las leyes como tales.
 
@@ -4735,137 +4781,141 @@ V.- Los demás bienes considerados por las leyes como tales.
 
 A su vez por su naturaleza los bienes se clasifican en muebles e inmuebles.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2018)</small>
 
-### CAPITULO SEGUNDO. De los Bienes Muebles
+### CAPITULO SEGUNDO. De los Bienes Muebles e Inmuebles
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 313.
 
-Quedan sujetos al presente capítulo todos y cada uno de los bienes muebles propiedad y/o al servicio municipal en cuanto a su entrega, uso, registro, transferencias, reasignaciones, altas, bajas, custodia, resguardo, mantenimiento, daños, robos totales o parciales, valuación, reposición, adquisición y enajenación.
+Quedan sujetos al presente capítulo todos y cada uno de los bienes muebles e inmuebles propiedad y/o al servicio municipal en cuanto a su adquisición, entrega, uso, registro, transferencia, reasignación, alta, baja, custodia, resguardo, mantenimiento, daños, robos totales o parciales, valuación, reposición, desincorporación y enajenación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 314.
 
 Para efectos de este capítulo se entiende por:
 
-I.- Bien Mueble: Todo artículo propiedad o al servicio municipal, que pueda ser inventariado y registrado por el Departamento de Control Patrimonial, por medio de la etiqueta o similar, cuya naturaleza sea o no sea operativo, y que no sea clasificado como bien consumible;
+I.- Bienes: Los bienes muebles e inmuebles que integran el patrimonio del municipio y figuren en sus inventarios;
 
-II.- Resguardante: Persona física, responsable y custodio de un bien mueble propiedad o al servicio municipal, y cuyo compromiso ha quedado registrado en el resguardo patrimonial correspondiente;
+II.- Bien Mueble: Todo artículo propiedad o al servicio municipal, que pueda ser inventariado y registrado por el Departamento de Control Patrimonial, por medio de la etiqueta o similar, cuya naturaleza sea o no sea operativo, y que no sea clasificado como bien consumible;
 
-III.- Usuario: Persona física que hace uso de un bien mueble propiedad o al servicio municipal. El uso podrá ser continúo o discontinuo y siempre inherente a la función que se desempeñe;
+III.- Resguardo: El documento en el cual están relacionados los bienes adscritos a una dependencia o servidor público;
 
-IV.- Bien de Desecho: Bien mueble que por determinación oficial ha terminado su vida útil, el cual fue usufructuado normalmente y de acuerdo a la naturaleza del mismo;
+IV.- Resguardante: La dependencia o Servidor público que tiene a su cargo la guardia y custodia de los bienes muebles o en su defecto inmuebles, y cuyo compromiso ha quedado registrado en el resguardo patrimonial correspondiente;
 
-V.- Bienes de uso común: los bienes muebles de uso común son aquellos que no poseen un resguardo específico, ubicados en áreas municipales de uso común y de utilidad general; y
+V.- Usuario: Persona física que hace uso de un bien mueble propiedad o al servicio municipal. El uso podrá ser continúo o discontinuo y siempre inherente a la función que se desempeñe;
 
-VI.- Bienes de uso público: los bienes muebles de uso público son aquellos que no poseen un resguardo específico, ubicados en lugares públicos.
+VI.- Avalúo: El resultado del proceso de estimar en dinero el valor de los bienes por parte de los valuadores;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+VII.- Valuador: Las instituciones de crédito, los peritos en la materia y/o los funcionarios de la Dirección de Finanzas y Administración debidamente autorizados con registro en la Contraloría Municipal facultados para realizar los avalúos de los bienes muebles e inmuebles de propiedad municipal;
+
+VIII.- Desincorporación: La declaración de la autoridad municipal establecida en el presente capítulo de que un bien determinado puede ser destinado a un fin diverso del servicio municipal y por lo tanto procede su disposición y cancelación de los registros de los bienes muebles e inmuebles propiedad del H. Ayuntamiento registrados en los inventarios de las dependencias que integran la administración municipal, así como los organismos públicos descentralizados.
+
+IX.- Dictamen de desincorporación o de Cambio de Uso: Documento elaborado por la Dirección de Finanzas y Administración y la Contraloría Municipal, aprobado por la Comisión de Hacienda y Patrimonio, que describe el bien y las razones que motivan la no utilidad del mismo, o en su caso, la posibilidad de aprovecharlo en forma total o parcial de manera distinta a la que se le venía usando, o transferirlo a otra institución pública o privada;
+
+X.- Baja: La eliminación de un bien mueble o inmueble de los padrones municipales por su enajenación a través de cualquier modalidad jurídica como venta, donación, permuta o dación en pago, así como su destrucción o extravío;
+
+XI.- La Dirección: La Dirección de Finanzas y Administración del municipio;
+
+XII.- La Comisión: La Comisión de Hacienda y Patrimonio del H. Ayuntamiento;
+
+XIII.- La Contraloría: La Controlaría Municipal;
+
+XIV.- Bien de Desecho: Bien mueble que por determinación oficial ha terminado su vida útil, el cual fue usufructuado normalmente y de acuerdo a la naturaleza del mismo;
+
+XV.- Bienes de uso público: los bienes muebles que no poseen un resguardo específico, ubicados en lugares públicos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 315.
 
 Para el debido control patrimonial la Dirección de Finanzas y Administración y la Contraloría Municipal verificarán que se realicen las siguientes funciones:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-I.- Registrar los bienes muebles propiedad o al servicio municipal;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Registrar los bienes muebles e inmuebles propiedad o al servicio municipal;
 
 II.- Determinar y asignar resguardos;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-III.- Mantener un listado actualizado y pormenorizado de bienes muebles;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+III.- Mantener padrones actualizados y pormenorizados de los bienes muebles e inmuebles de propiedad o al servicio del municipio;
 
 IV.- Detectar la ausencia de bienes muebles;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 V.- Revisar que lo requisitado, recibido y facturado, coincidan;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+VI.- Determinar y aplicar sanciones sobre uso y usufructo de bienes muebles, en caso de infracciones a lo previsto en el presente capítulo o en las demás disposiciones jurídicas aplicables a la materia;
 
-VI.- Determinar y aplicar sanciones sobre uso y usufructo de bienes muebles, en situaciones previstas y contempladas por el presente capítulo, en apego a éste;
+VII.- Determinar la obsolescencia de bienes muebles y elaborar el dictamen de desincorporación que será sometido a la aprobación de la Comisión;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+VIII.- Reasignar bienes muebles puestos a disposición del Departamento de Control Patrimonial;
 
-VII.- Determinar la obsolescencia de bienes muebles;
+IX.- Enajenar bienes muebles de desecho en los términos del dictamen de desincorporación y previo el procedimiento establecido en el presente capítulo;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-VIII.- Reasignar bienes muebles puestos a disposición;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-IX.- Enajenar bienes muebles de desecho;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-X.- Expedir vales de salida para bienes muebles;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+X.- Expedir vales de salida para bienes muebles que temporalmente se utilicen fuera de la oficina resguardante o que sean entregados por el almacen;
 
 XI.- Registrar las transferencias solicitadas sobre bienes muebles;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XII.- Realizar altas de bienes muebles e inmuebles que adquiera el municipio;
 
-XII.- Realizar altas de bienes muebles;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIII.- Analizar, evaluar y determinar baja de bienes muebles en función de la operatividad de éstos, de la obsolescencia y del costo/beneficio;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XIII.- Efectuar la baja de bienes muebles de los padrones municipales correspondientes, una vez que se haya dispuesto de ellos con base en el dictamen de desincorporación, por obsolescencia, destrucción, extravío o cualquier otra causa que a juicio de la Comisión resulte gravoso por la relación costo/beneficio;
 
 XIV.- Analizar, evaluar y determinar la viabilidad de uso sobre bienes muebles por parte de usuarios solicitantes en situaciones restringidas;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XV.- Valuar los bienes muebles;
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XV.- Proveer a la valuación de los bienes muebles e inmuebles de propiedad o al servicio del municipio;
 
 XVI.- Determinar valores de reposición sobre bienes muebles;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 XVII.- Determinar la vida útil de los bienes muebles;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XVIII.- Fincar responsabilidades sobre el uso y usufructo de bienes muebles, y
 
-XVIII.- Fincar responsabilidades sobre el uso y usufructo de bienes muebles; y
+XIX.- Cumplir y hacer cumplir las normas contempladas en el presente capitulo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-XIX.- Cumplir y hacer cumplir el presente capitulo.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 316.
 
-Todos los bienes muebles propiedad o al servicio municipal deberán de usarse por personal adscrito al Ayuntamiento, y su uso será exclusivamente para desempeñar actividades propias de sus funciones.
+La administración de los bienes muebles propiedad o al servicio del municipio se sujetará a las siguientes normas:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Los bienes muebles de propiedad o al servicio del municipio deberán utilizarse por personal adscrito a la administración pública municipal, y su uso será exclusivamente para desempeñar actividades propias de sus funciones;
+
+II.- Por cada bien mueble propiedad o al servicio municipal deberá existir el resguardo correspondiente que deberá ser firmado por el usuario del bien, el cual tendrá el carácter de resguardant. (sic) Se exceptúan de lo anterior los bienes muebles de uso común o público;
+
+III.- Todo bien mueble posee una ubicación determinada, la cual no podrá cambiar a menos que se autorice la reubicación por parte de la Dirección de Finanzas y Administración. En caso de que el resguardante o usuario se traslade a un lugar diferente, debe dar aviso de inmediato a la Dirección de Finanzas y Administración sobre la transferencia o traslado;
+
+IV.- Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador o del titular del área, según sea el caso, dar aviso inmediato a la Dirección de Finanzas y Administración, para proceder al registro patrimonial correspondiente;
+
+V.- Anualmente la Dirección de Finanzas y Administración realizará el levantamiento físico de los bienes muebles, en las distintas áreas municipales, según la calendarización programada, siendo obligación del titular responsable de cada área, brindar la asistencia correspondiente a efecto de realizar el inventario patrimonial en tiempo y forma, y
+
+VI.- Toda salida de bienes muebles de las instalaciones municipales, deberá ser solicitada, mediante escrito firmado por el jefe de Departamento o Director del área, a la Dirección de Finanzas y Administración, la cual la autorizará mediante el vale de salida correspondiente. Dicho vale de salida deberá contener la siguiente información:
+
+a) Fecha;
+
+b) Bien o bienes solicitados a salir del Palacio u oficina;
+
+c) Registro patrimonial del bien o bienes;
+
+d) Adscripción de la dependencia;
+
+e) Nombre y firma del solicitante;
+
+f) Motivo y justificación de la solicitud;
+
+g) Periodo de ausencia del bien;
+
+h) Nombre y firma de autorización por parte del Director del área y/o jefe de Departamento, y
+
+i) Adscripción a dónde va el bien.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 317.
-
-Por cada bien mueble propiedad o al servicio municipal, deberá existir el resguardo correspondiente, a excepción hecha de los bienes muebles de uso común o público; es obligación de cada usuario de un bien mueble municipal, firmar el resguardo correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 318.
 
 Todo resguardo de bienes muebles deberá contener la siguiente información:
 
 I.- Fecha;
 
-II.- Clave de adscripción;
+II.- Clave de inventario;
 
 III.- Descripción del bien;
 
@@ -4875,167 +4925,327 @@ V.- Nombre de Director del área correspondiente;
 
 VI.- Fecha de adquisición;
 
-VII.- Valor histórico de adquisición; y
+VII.- Costo estimado, y
 
 VIII.- Estado del bien.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-###### ARTICULO 319.
+###### ARTICULO 318.
 
-Todo bien mueble posee un determinado resguardante y una ubicación determinada. La ubicación del bien mueble no podrá cambiar a menos que se solicite formalmente ante el Departamento de Control Patrimonial la reubicación del bien mueble.
+Son obligaciones de los resguardantes y/o usuarios de bienes muebles o inmuebles de propiedad o al servicio del municipio las siguientes:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 320.
-
-Es responsabilidad del resguardante o usuario, dar aviso inmediato al Departamento de Control Patrimonial sobre la transferencia o traslado de un bien mueble en relación a su ubicación y adscripción original, independientemente de que el usuario o resguardante continúe siendo el mismo, pero hubiese cambiado su centro de trabajo y por cambio de adscripción.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 321.
-
-Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador o del titular del área, según sea el caso, dar aviso inmediato al Departamento de Control Patrimonial, para proceder al registro patrimonial correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 322.
-
-Anualmente, el Departamento de Control Patrimonial realizará levantamientos físicos de bienes muebles, en las distintas áreas municipales, según la calendarización programada.
-
-Es obligación del titular responsable de cada área, brindar la asistencia solicitada por Patrimonio a efecto de realizar el inventario patrimonial en tiempo y forma.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 323.
-
-Toda salida de bienes muebles de las instalaciones municipales, deberá ser solicitada ante el Departamento de Control Patrimonial, autorización que se da mediante el vale de salida correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 324.
-
-La solicitud del vale deberá ser firmada por el jefe de Departamento o Director del área.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 325.
-
-El vale de salida deberá contener la siguiente información:
-
-I.- Fecha;
-
-II.- Bien o bienes solicitados a salir del Palacio u oficina;
-
-III.- Registro patrimonial del bien o bienes;
-
-IV.- Adscripción de la Dependencia;
-
-V.- Nombre y firma del solicitante;
-
-VI.- Motivo y justificación de la solicitud;
-
-VII.- Periodo de ausencia del bien;
-
-VIII.- Nombre y firma de autorización por parte del Director del área y/o jefe de Departamento; y
-
-IX.- Adscripción a donde va el bien.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 326.
-
-Es responsabilidad de cada Resguardante y/o usuario de un bien mueble, notificar al Departamento de Control Patrimonial cuando un bien mueble se encuentre en forma permanente fuera de servicio y a su juicio, éste deba ser dado de baja.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 327.
-
-Es responsabilidad de todo resguardante y/o usuario de un bien mueble propiedad al servicio municipal, hacer buen uso y usufructo sobre éste, en apego al manual de instrucciones del fabricante o a las indicaciones generales de uso, con el fin de garantizar su buen uso y por ende el máximo aprovechamiento de los recursos.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 328.
-
-Queda estrictamente prohibido utilizar los bienes muebles propiedad municipal en actividades de carácter particular; dentro o fuera de horarios y lugares de trabajo.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 329.
-
-Todo desperfecto sobre bienes muebles, que impida la operatividad de éste, deberá ser reportado dentro de los tres días hábiles siguientes por el resguardante y/o usuario del mismo, de lo contrario incurrirá en negligencia y por ende será acreedor a las sanciones en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 330.
-
-Es responsabilidad del titular de cada área dar aviso constante y oportuno sobre la existencia de bienes muebles o consumibles que se encuentren en situación de desecho.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 331.
-
-Cualquier persona podrá hacer uso en su área de trabajo de bienes muebles de su propiedad. A tal efecto, deberá solicitar al Departamento de Control Patrimonial el registro del mismo con carácter particular.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 332.
-
-Todo resguardante será responsable y custodio directo del bien mueble correspondiente, independientemente de ser o no el usuario del mismo. Por tanto, la aplicación de normas y sanciones recaerán sobre él.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 333.
-
-Las responsabilidades que adquiere un resguardante son:
-
-I.- Hacer buen uso de éste;
+I.- Hacer buen uso de éstos con apego al manual de instrucciones del fabricante o a las indicaciones generales de uso, con el fin de garantizar su buen funcionamiento, conservación y máximo aprovechamiento;
 
 II.- Solicitar en tiempo y forma el mantenimiento preventivo y correctivo;
 
 III.- Garantizar la custodia de éste;
 
-IV.- Utilizarlo única y exclusivamente para funciones operativas de la Presidencia, o ubicarlo en área adscritas a ésta;
+IV.- Utilizarlo única y exclusivamente para funciones operativas de la Presidencia, y ubicarlo en área adscrita a ésta, absteniéndose de utilizarlos en actividades de carácter particular; dentro o fuera de horarios y lugares de trabajo.
 
-V.- Evitar transferencias, y en su caso, notificar al Departamento de Control Patrimonial; y
+V.- Evitar transferencias entre unidades administrativas sin autorización del Departamento de Control Patrimonial;
 
-VI.- Responder a cualquier situación sobre el bien mueble, en apego a las normas y lineamientos del presente capítulo.
+VI.- Responder a cualquier situación sobre el bien mueble, en apego a las normas y lineamientos del presente capítulo;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+VII.- Abstenerse de intercambiar piezas que formen parte de un bien mueble, así de retirar o intercambiar la etiqueta de registro patrimonial. En caso de detectar que la etiqueta de registro patrimonial se encuentra en malas condiciones, el resguardante deberá dar aviso al Departamento de Control Patrimonial para su reposición;
+
+VIII.- Reparar el daño por pérdida o desperfecto mediante la reposición del bien por uno igual o de características similares al extraviado o el pago del mismo al valor que rija en ese momento en el mercado para un bien igual o equivalente.
+
+En caso de que no lo haga de manera voluntaria se fincará el procedimiento administrativo sancionador según el grado de responsabilidad y en función de la cuantía, de acuerdo a lo establecido en el presente capítulo. Se exceptúa de lo anterior cuando exista robo o el hecho se dé por caso fortuita (sic) o causa de fuerza mayor sin que haya negligencia del resguardante.
+
+IX.- Notificar al Departamento de Control Patrimonial cuando un bien mueble se encuentre en forma permanente fuera de servicio y a su juicio, éste deba ser dado de baja;
+
+X.- Reportar todo desperfecto que impida la operatividad de un bien mueble dentro de los tres días hábiles siguientes, de lo contrario incurrirá en negligencia y por ende será acreedor a las sanciones previstas en el presente código y demás disposiciones jurídicas aplicables, y
+
+XI.- Dar aviso oportuno al Departamento de Control Patrimonial sobre la existencia de bienes muebles o consumibles que se encuentren en situación de desecho a efecto de que sean dados de baja de su resguardo. Asimismo, podrán solicitar que se reubiquen o desincorporen los bienes que tienen asignados en los siguientes supuestos:
+
+a) Cuando se trate de bienes no útiles para el servicio, y
+
+b) Cuando el bien haya sido robado, se hubiere extraviado o siniestrado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 319.
+
+El titular del área administrativa correspondiente en coordinación con el jefe del Departamento de Control Patrimonial levantará acta circunstanciada en caso de extravío, robo o destrucción total o parcial de algún bien inmueble, en la cual se establecerá la descripción del bien, el precio de venta actual de un bien nuevo con las mismas características del extraviado, vida útil del bien, fecha de adquisición, fecha de detección de la perdida, valor de rescate del bien, la forma de pago en su caso, la fecha límite de reposición y/o pago en su caso y el nombre del resguardante responsable;
+
+El levantamiento de dicha (sic) administrativa no exime de la responsabilidad correspondiente al servidor público resguardante, en su caso se analizará y evaluará por el Departamento de Control Patrimonial quien tomará una decisión al respecto y cuya resolución será inapelable.
+
+En caso de robo, extravío o destrucción por parte de una persona ajena a la administración pública municipal de un bien mueble, se presentará denuncia ante el ministerio público, de conformidad con la normatividad en la materia, debiendo dar seguimiento a la misma el titular del Departamento de Control Patrimonial hasta su conclusión definitiva.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 320.
+
+Todo resguardante será responsable y custodio directo del bien mueble correspondiente, independientemente de ser o no el usuario del mismo. Por tanto, la aplicación de normas y sanciones recaerán sobre él.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 321.
+
+Toda dependencia municipal que posea un almacén para la custodia de bienes muebles, deberá implementar un sistema que permita el manejo ágil, eficiente y controlado del mismo. La responsabilidad para el desarrollo e implementación del sistema recaerá en el Director del área.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 322.
+
+Cualquier persona podrá hacer uso de bienes muebles de su propiedad en su área de trabajo. Para tal efecto, deberá solicitar al Departamento de Control Patrimonial el registro con carácter particular del mismo.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 323.
+
+La Dirección de Finanzas y Administración una vez recibido el aviso previsto en la fracción XI del artículo 318 del presente código, así como el bien mueble correspondiente, llevará a cabo una evaluación a efecto de determinar si puede ser útil o no para el servicio, así como su destino final, mediante un proyecto de dictamen que funde y motive su decisión, mismo que deberá ser aprobado por la Comisión, dando vista a la Contraloría Municipal, a efecto de que verifique la legalidad del procedimiento..
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 324.
+
+El dictamen a que se refiere el artículo anterior contendrá un avalúo conforme a las disposiciones en la materia el cual debe contener por lo menos:
+
+I.- Fecha de elaboración;
+
+II.- Objeto del avalúo;
+
+III.- Consideraciones técnicas;
+
+IV.- Método utilizado;
+
+V.- Motivación;
+
+VI-.Resultado del avalúo;
+
+VII.- Observaciones;
+
+VIII.- Vigencia del avalúo, no siendo mayor (sic) un año contado a partir de la fecha de elaboración, y
+
+IX.- Nombre, firma, número y fecha de registro.
+
+El avalúo podrá ser realizado por personal de la Dirección de Finanzas y Administración debidamente capacitado o por profesional particular autorizado para ello.
+
+Tratándose de bienes inmuebles se requerirá forzosamente la contratación de los servicios de valuadores que deberá sujetarse a lo dispuesto por la legislación de la materia.
+
+Tratándose de vehículos de motor el precio se fijará basándose en las reglas y lineamientos que al efecto existan en el mercado.
+
+En el procedimiento valuatorio se deberá señalar con claridad los parámetros que se usaron y las fuentes que lo generaron.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 325.
+
+Una vez aprobado el dictamen de desincorporación de un bien mueble o inmueble, la Dirección de Finanzas y Administración podrá disponer de él mediante cualquier modalidad jurídica, en caso de enajenación mediante venta podrán utilizarse los siguientes procedimientos:
+
+I.- Licitación Pública;
+
+II.- Invitación a cuando menos tres personas, y
+
+III.- Adjudicación Directa.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 326.
+
+No podrán adquirir bienes por cualquiera de los procedimientos señalados en el presente capítulo los servidores públicos de la administración municipal, ni sus familiares hasta el tercera (sic) grado en línea recta o colateral, en caso de adjudicación de algún bien por estas personas, serán nulas de pleno derecho dichas enajenaciones e incurrirán en responsabilidad administrativa los servidores públicos involucrados de conformidad con lo dispuesto por la legislación de la materia.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 327.
+
+Las convocatorias para una licitación pública o invitación a cuando menos tres personas podrán referirse a uno o más bienes, debiendo contener los siguientes datos:
+
+I.- Fecha de elaboración;
+
+II.- Nombre de la convocante;
+
+III.- Descripción general, cantidad y unidad de medida de los bienes objeto de la convocatoria, así como el precio mínimo o de avalúo;
+
+IV.- Lugar, fecha y horario en que los interesados podrán obtener las bases y, en su caso, el costo y forma de pago de las mismas, así como el acceso al sitio en que se encuentren los bienes. La convocante libremente podrá determinar si las bases se entregarán en forma gratuita o tendrán un costo, en cuyo supuesto, las mismas podrán ser revisadas por los interesados previamente a su pago, el cual será requisito para participar;
+
+V.- Sitio donde estarán a la vista los bienes objeto de la licitación y plazo máximo en que deberán ser retirados;
+
+VI.- Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, de fallo;
+
+VII.- Forma y porcentaje de la garantía de seriedad de las ofertas, y
+
+VIII. Fecha de inicio de la difusión de la convocatoria, excepto cuando se publique en el Periódico Oficial del Gobierno del Estado o en un diario de mayor circulación estatal.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 328.
+
+El acto de apertura de ofertas deberá celebrarse dentro de un plazo no menor a ocho días hábiles, ni mayor a quince días hábiles, contados a partir de la fecha de inicio de la difusión de la convocatoria o de su publicación.
+
+Las convocatorias para licitación pública para la enajenación de los bienes muebles o inmuebles deberán difundirse simultáneamente por una sola vez en uno de los periódicos de mayor circulación de la ciudad, a través de la página de Internet del Municipio y en los lugares visibles y accesibles al público de la Presidencia Municipal.
+
+Cuando el valor de los bienes a licitar rebase el equivalente a cuatro mil veces la unidad de medida y actualización, adicionalmente se publicarán por un solo día en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 329.
+
+Las bases que emita la convocante para las licitaciones públicas, se pondrán a disposición de los interesados, tanto en el domicilio señalado para tal efecto, como en su caso, en la página de internet del Municipio, a partir del día de inicio de la difusión o publicación de la convocatoria y hasta inclusive un día hábil previo al acto de apertura de ofertas.
+
+Las bases deberán contener como mínimo lo siguiente:
+
+I.- Nombre de la convocante;
+
+II. Descripción completa y precio mínimo o de avalúo de los bienes;
+
+III.- Lugar, fecha y hora de celebración de los actos de apertura de ofertas y, en su caso, de fallo;
+
+IV.- Requisitos que deberán cumplir quienes deseen participar, entre otros: la identificación del participante, la obligación de garantizar la seriedad de su oferta, de firmar las bases, así como de presentar la oferta en sobre cerrado y, en su caso, el comprobante de pago de las bases;
+
+V.- Instrucciones para la presentación de las ofertas;
+
+VI.- Fecha límite de pago de los bienes adjudicados;
+
+VII. Sitio donde estarán a la vista los bienes objeto de la licitación y plazo máximo en que deberán ser retirados;
+
+VIII.- Fecha y hora para realizar las visitas a los bienes;
+
+IX.- Criterios de adjudicación;
+
+X.- Plazo para modificar las bases de la licitación. La convocante sólo podrá efectuar modificaciones hasta inclusive el tercer día hábil anterior al del acto de apertura de ofertas. Dichas modificaciones se harán del conocimiento de los interesados por los mismos medios de difusión;
+
+XI.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases, así como el hecho de que las ofertas presentadas no cubran el precio mínimo o de avalúo fijado para los bienes;
+
+XII.- Causas por las cuales la licitación podrá declararse desierta;
+
+XIII.- Indicación de que se hará efectiva la garantía de seriedad de las ofertas en caso de que el adjudicatario incumpla en el pago de los bienes;
+
+XIV.- Requerir a los licitantes la manifestación expresa y bajo protesta de decir verdad de que se abstendrán de adoptar conductas, por sí mismos o a través de otras personas para que los servidores públicos de las dependencias, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes, y
+
+XV.- La indicación de que no podrán participar los servidores públicos municipales o sus familiares en línea recta y colateral hasta el tercer grado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 330.
+
+Toda persona interesada y que cumpla con los requisitos de las bases tendrá derecho a presentar ofertas.
+
+En la fecha y hora previamente establecidas, la convocante deberá proceder a iniciar el acto de apertura de ofertas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los licitantes, informándose de aquellas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación. La convocante, emitirá un dictamen que servirá como sustento para el fallo, mediante el cual se adjudicarán los bienes.
+
+El fallo de la licitación podrá darse a conocer en el mismo acto de apertura de ofertas, o bien, en acto público posterior en un plazo que no excederá de cinco días hábiles contados a partir de la fecha en que se lleve a cabo dicha apertura. Si derivado del dictamen se obtuviera un empate en el precio de dos o más ofertas, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo manual por insaculación que celebre la Dirección de Finanzas y Administración en el propio acto del fallo.
+
+El sorteo consistirá en la participación de un boleto por cada oferta que resulte empatada y depositados en una urna, de la que se extraerá el boleto del licitante ganador. Las inconformidades que existan por el proceso se substanciarán de conformidad con lo establecido en el Código Municipal.
+
+La convocante levantará acta a fin de dejar constancia de los hechos sucedidos en la apertura de ofertas y en el fallo, la cual será firmada por los asistentes; la omisión de firma por parte de los licitantes no invalidará su contenido y efectos.
+
+A los actos de carácter público de las licitaciones podrán asistir los licitantes cuyas propuestas hayan sido desechadas durante el procedimiento de enajenación, así como cualquier persona que sin haber adquirido las bases manifieste su interés de estar presente en dichos actos, bajo la condición de que deberán de registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
+
+Cuando así lo considere pertinente la autoridad convocante podrá hacerse auxiliar de un fedatario público y las constancias que se levanten serán incorporadas al expediente de la licitación.
+
+Los participantes que adviertan actos irregulares durante los procedimientos de enajenación podrán denunciarlos, acreditándolo con pruebas fehacientes ante la Contraloría Municipal, a efecto de que ésta en su caso, imponga las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 331.
+
+La convocante podrá declarar desierta la licitación pública, cuando se presente alguno de los supuestos siguientes:
+
+I. Ninguna persona adquiera las bases;
+
+II. Nadie se registre para participar en el acto de apertura de ofertas, y
+
+III. No se presenten ofertas aceptables.
+
+Se considera que las ofertas presentadas no son aceptables cuando no cubran el precio mínimo o de avalúo de los bienes o no cumplan con la totalidad de los requisitos establecidos en las bases. Una vez declarada desierta una licitación pública, la convocante podrá enajenar los bienes sin sujetarse a un nuevo procedimiento o licitación pública.
+
+Tratándose de licitaciones en las que las ofertas de una o varias partidas no hayan sido aceptadas, la convocante deberá considerar el precio mínimo de avalúo correspondiente y si el mismo no rebasa el equivalente a quinientas veces la unidad de medida y actualización la enajenación podrá llevarse a través de invitación a cuando menos tres personas.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 332.
+
+En los procedimientos de enajenación la Dirección de Finanzas y Administración exigirá a los interesados en adquirir bienes que garanticen la seriedad de sus ofertas mediante fianza, cheque certificado o de caja a favor del Municipio de Pabellón de Arteaga.
+
+El monto de la garantía será por el diez por ciento del precio mínimo de avalúo, que será devuelto a los interesados al término del acto de fallo, salvo el que corresponda al licitante ganador, que se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
+
+Corresponderá a la Dirección de Finanzas y Administración calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los licitantes presenten en la enajenación de bienes. Para lo anterior se hará un control por escrito del cual se remitirá copia a la Contraloría Municipal y a la Comisión.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 333.
+
+En caso de que el licitante ganador incumpla con el pago de los bienes, la dependencia hará efectiva la garantía correspondiente de inmediato y podrá adjudicar dichos bienes a la segunda o siguientes mejores ofertas que hayan sido aceptadas en los términos de las normas.
+
+De lo anterior se levantará la constancia correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 334.
 
-Toda dependencia Municipal que posea un almacén para la custodia de bienes muebles, deberá implementar forzosamente, un sistema que permita el manejo ágil, eficiente y controlado del mismo. La responsabilidad para el desarrollo e implementación del sistema recaerá en el Director del área.
+La invitación a cuando menos tres personas, se sujetará a lo siguiente:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- La apertura de sobres conteniendo las ofertas podrá realizarse sin la presencia de los postores correspondientes, pero invariablemente se invitará a un representante de la Contraloría Municipal;
+
+II.- En las invitaciones se indicará como mínimo la cantidad y descripción de los bienes a enajenar, monto del precio mínimo o de avalúo, garantía, plazo y lugar para el retiro de los bienes, condiciones de pago y la fecha para la comunicación del fallo;
+
+III.- Adicionalmente a las invitaciones que se realicen, la difusión de éstas se hará de manera simultánea a través de la página en Internet, en un lugar visible al público de las oficinas de la Dirección de Finanzas y Administración y en el tablero de notificaciones de la Presidencia Municipal de Pabellón de Arteaga;
+
+IV.- Los plazos para la presentación de las ofertas se fijarán para cada operación, atendiendo al tipo de bienes a enajenar, así como a la complejidad para elaborar las ofertas, y
+
+V.- Las causas para declarar desierta la invitación a cuando menos tres personas, serán las establecidas en el artículo 16 de estas normas.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 335.
 
-Quien ocasione daños, pérdidas o desperfectos a los bienes muebles propiedad o al servicio municipal, por el horario, las funciones que estuviese desempeñando o el grado de responsabilidad, deberá reparar el daño al Municipio en función de la cuantía del desperfecto y lo establecido en el presente capítulo. Se exceptúa de lo anterior cuando exista robo, o porque el hecho se de por causa fortuita o fuerza mayor sin que haya negligencia del resguardante.
+La Dirección de Finanzas y Administración, previa autorización de la Comisión y de la Contraloría Municipal, podrá optar por enajenar bienes a través del procedimiento de adjudicación directa, cuando se presente alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Ocurran condiciones o circunstancias extraordinarias, imprevisibles, o situaciones de emergencia, y
+
+II.- No haya interés en la compra de bienes valuados en menos de doscientas cincuenta veces de la unidad de medida y actualización de por lo menos tres personas.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 336.
 
-Las actas administrativas que sean levantadas por el servidor publico, de ninguna manera lo liberan de la responsabilidad correspondiente, no obstante lo anterior, el responsable y/o resguardante afectado deberá forzosamente levantar el acta correspondiente ante el Agente del Ministerio Público, acompañado del Síndico; en su caso se analizará y evaluará por el Departamento de Control Patrimonial quien tomará una decisión al respecto y cuya resolución será inapelable.
+Tratándose de desechos generados periódicamente, la convocante deberá enajenarlos en los términos de lo establecido en el artículo 325 fracción III de este código y la adjudicación correspondiente podrá formalizarla a través de contratos con vigencia hasta de un año. Para el caso de una vigencia mayor, se requerirá la previa autorización del Cabildo, sin que ésta pueda exceder de dos años.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+En estos casos, deberá pactarse la obligación de ajustar los precios en forma proporcional a las variaciones que se presenten, considerando la disminución o aumento que contemple en su caso el avalúo vigente que corresponda. El no retiro oportuno de los bienes será motivo de la rescisión del contrato.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 337.
 
-La reparación del daño al Ayuntamiento por robos o extravíos de bienes muebles municipales serán responsabilidad absoluta del resguardante quien deberá indemnizar al municipio según lo establecido en el presente capítulo.
+La Dirección de Finanzas y Administración, previa autorización del H. Ayuntamiento podrán llevar a cabo enajenaciones de bienes a través de permuta o dación en pago.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+La dación en pago sólo se efectuará mediante acuerdo previo de las parte (sic), para extinguir obligaciones pendientes contraídas por el Municipio.
+
+Asimismo, podrá llevar a cabo donaciones de todo tipo de bienes a valor de adquisición o de inventario, independientemente de su monto, siempre y cuando obtenga la autorización previa del H. Ayuntamiento bajo la supervisión de la Contraloría Municipal.
+
+Para efectos administrativos las donaciones deberán formalizarse mediante la celebración de los contratos respectivos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 338.
 
-La reparación del daño de bienes muebles se realizará mediante el acta correspondiente, la cual estipulará el bien por indemnizar, el precio de venta actual de un bien nuevo con las mismas características del extraviado, vida útil del bien, fecha de adquisición, fecha de detección de la perdida, valor de rescate del bien, la forma de pago y el resguardante responsable.
+La transferencia de bienes muebles podrá realizarse exclusivamente entre las dependencias y organismos descentralizados para ello deberá contarse con la autorización previa de la Contraloría Municipal; la transferencia no requiere de la obtención de avalúo ni dictamen aprobatorio de la Comisión, por lo que deberá formalizarse a valor de adquisición o de inventario mediante las altas y bajas correspondientes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 339.
 
-Esta prohibido el intercambio de piezas que formen parte de un bien mueble, así como el intercambiar o retiro de la etiqueta de registro patrimonial. Quien incurra en dicha práctica será sancionado. En caso de detectar que la etiqueta patrimonial se encuentra en malas condiciones, será responsabilidad del resguardante dar aviso al Departamento de Control Patrimonial.
+La Dirección de Finanzas y Administración, previa autorización del H. Ayuntamiento y bajo la supervisión de la Contraloría Municipal, podrá llevar a cabo la destrucción de bienes cuando:
+
+I.- Por su naturaleza o el estado físico en que se encuentren peligre o se altere la salubridad, la seguridad o el ambiente;
+
+II.- Se trate de bienes respecto de los cuales exista disposición legal o administrativa que ordene su destrucción, y
+
+III.- Habiéndose agotado todos los procedimientos de enajenación o el ofrecimiento de donación, no exista persona interesada en adquirirlos.
+
+Estos supuestos deberán acreditarse con las constancias correspondientes. En los supuestos previstos en las fracciones I y II anteriores, la Dirección de Finanzas y Administración deberá de observar los procedimientos que señalen las disposiciones legales o administrativas aplicables y se llevará a cabo en coordinación con las autoridades competentes.
+
+La Dirección de Finanzas y Administración invitará invariablemente a un representante de la Contraloría y a los integrantes de la Comisión para que asistan al acto de destrucción de bienes, del cual se levantará el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 339 BIS.- Una vez cumplido el destino final de los bienes, conforme a las normas, se procederá a su baja de los padrones correspondientes, lo mismo se realizará cuando el bien de que se trate se hubiere extraviado, haya sido robado o entregado a una institución de seguros como consecuencia de un siniestro, una vez pagada la suma asegurada.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 339 TER.- La Dirección de Finanzas y Administración conservará en forma ordenada y sistemática toda la documentación relativa a los actos de desincorporación o disposición final de muebles e inmuebles cuando menos por un lapso de cinco años, excepto la documentación contable, en cuyo caso se estará a lo previsto por las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5347,7 +5557,7 @@ Las dependencias generadoras de documentos deberán conservarlos en sus archivos
 
 ###### ARTICULO 367.
 
-La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho, muebles y equipo de oficina.
+La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envío de materiales de deshecho (sic), muebles y equipo de oficina.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6283,7 +6493,7 @@ En caso de comercializar otras especies deberá comprobar su adaptación a las c
 
 Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO TERCERO. De la Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos
 
@@ -6509,7 +6719,9 @@ III.- Depositar la basura y residuos sólidos, en su caso clasificados, directam
 
 III.- Asear diariamente, los propietarios o poseedores de predios, el frente de los mismos y cualquier área o vía de uso común con los que colinde;
 
-IV.- Efectuar el aseo de las banquetas y calles en el caso de edificios o viviendas multifamiliares, mismo (sic) que podrá ser realizada por el empleado correspondiente, siendo responsables solidarios todos los habitantes del mismo;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IV.- Efectuar el aseo de las banquetas y calles. En caso de edificios o viviendas multifamiliares podrá ser realizado por el encargado correspondiente, siendo responsables solidarios todos los habitantes del mismo;
 
 V.- Retirar de inmediato los materiales de construcción, los escombros o los restos vegetales, cualquiera que fuera su procedencia;
 
@@ -6557,11 +6769,13 @@ XXIV.- Transportar por cuenta propia o a través de terceros, autorizados debida
 
 XXV.- Manejar, confinar y disponer directamente sus residuos peligrosos, de acuerdo a la normatividad existente, las personas físicas o morales que los generen. Los propietarios o administradores a que se refiere el artículo anterior podrán si así lo desean hacer uso del servicio de Limpia, en caso de que se tenga la capacidad para brindar alguna modalidad del servicio;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XXVI.- Mantener completamente limpias las áreas que colinden con vialidades o zonas comunes, los propietarios de predios baldíos. Para hacer exigible la anterior obligación, la Dirección de Servicios Públicos Municipales y Mantenimiento deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza y bardeo se harán por parte de la Dirección de Obras Públicas y Desarrollo Urbano a costa del propietario, quién además se hará acreedor a la multa que en su caso corresponda en términos de este Código, y
+XXVI.- Mantener los predios baldíos completamente limpios, libres de basura, escombro y maleza. Para hacer exigible la anterior obligación, la Dirección de Servicios Públicos Municipales y Mantenimiento deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza se harán por parte de la Dirección de Obras Públicas y Desarrollo Urbano a costa del propietario, quién además se hará acreedor a la multa que en su caso corresponda en términos de este Código, y
 
-Las demás que del presente Código se desprendan en materia de limpia y aseo público.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES ÚLTIMO PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+
+XXVII.- Las demás que del presente Código se desprendan en materia de limpia y aseo público.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -6961,23 +7175,37 @@ II.- Puntualidad; y
 
 III.- Constancia mínima de seis asistencias continúas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 497.
 
-Los tianguistas que realicen actividades previstas en este Capítulo tiene (sic) prohibido lo siguiente:
+Los tianguistas que realicen actividades previstas en este Capítulo tienen prohibido lo siguiente:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- La venta y consumo de toda clase de bebidas embriagantes y sustancias psicotrópicas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Efectuar juegos de azar;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- La venta y uso de materiales inflamables que no estén debidamente reglamentados, así como explosivos; o las que la autoridad considere peligrosas o riesgosas para la seguridad y salubridad de las personas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- La venta de productos o mercancías que atenten contra la moral y buenas costumbres;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- La instalación de todo tipo de anuncios, anaqueles, compartimentos y cualquier otro tipo de estructura o mercancías que dificulten la visibilidad y el libre tránsito de las personas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Pintar sobre paredes, pisos o áreas de uso común, sin autorización previa de la autoridad competente; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Vender mercancía robada o de dudosa procedencia.
 
@@ -7421,7 +7649,7 @@ En el procedimiento para la exhumación prematura deberá observarse lo siguient
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-I.- Se abrirá la fosa impregnando el lugar de una emulsión acuosa de criolina, cloro, formol o cualquier otra sustancia antiséptica y desinfectante aprobada por la autoridad sanitaria;
+I.- Se abrirá la fosa impregnando el lugar de una emulsión acuosa de criolina (sic), cloro, formol o cualquier otra sustancia antiséptica y desinfectante aprobada por la autoridad sanitaria;
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7987,7 +8215,7 @@ XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
 
 Tendrán derecho a recibir el servicio de agua potable y alcantarillado, los propietarios frente a cuyos predios se encuentren instaladas las tuberías de distribución de agua y de recolección de aguas residuales y pluviales, para lo cual deberán solicitar a la CAPAPA la instalación de las tomas respectivas y la conexión de sus descargas, cumpliendo con los requisitos y mediante el pago de los derechos y tarifas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 606.
 
@@ -8047,7 +8275,7 @@ En ningún caso el propietario o poseedor del predio o establecimiento podrá op
 
 Independientemente de los casos en que conforme a la Ley proceda la suspensión o supresión de una toma de agua o de una descarga, el usuario podrá solicitar por escrito la suspensión o supresión respectiva, expresando las causas en que funde su solicitud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 613.
 
@@ -8139,7 +8367,7 @@ X.- Participar en la planeación, programación, administración, operación, su
 
 En épocas de escasez de agua, comprobada o previsible, la CAPAPA podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles. Cuando la escasez de agua sea originada por negligencia o falta de previsión de la CAPAPA, éste responderá en los términos que prevenga el contrato respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 618.
 
@@ -8177,7 +8405,7 @@ VII.- Que las tomas y descargas cumplan con lo dispuesto en este título.
 
 El procedimiento de inspección o verificación se sujetará a las formalidades y procedimientos establecidos en la Ley del Procedimiento Administrativo del Estado y en el presente Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. De la Comisión de Agua Potable y Alcantarillado
 
@@ -8197,9 +8425,9 @@ La CAPAPA tendrá su domicilio legal en la ciudad de Pabellón de Arteaga, Aguas
 
 ARTICULO 619 TER.- La CAPAPA, realizará las actividades correspondientes a la planeación, programación y ejecución de las obras necesarias para la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, en el Municipio, en los términos de este Código, de acuerdo con los requerimientos sociales a satisfacer, las cuales deberán estar vinculadas con los planes y programas de desarrollo municipal, estatales y federales, y demás disposiciones legales y reglamentarias aplicables, a la obra hidráulica, atendiendo los trámites ante el Instituto del Agua del Estado y la Comisión Nacional del Agua.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-ARTICULO 619 QUATER.- La CAPAPA para el desempeño de sus funciones, contará con el auxilio de las dependencias municipales dentro de los límites de sus atribuciones, el Instituto del Agua del Estado y la Comisión Nacional del Agua, en los términos de la Ley del Agua del Estado y la Ley de Aguas Nacionales, observando las disposiciones legales y reglamentarias derivadas de los ordenamientos federales, estatales y municipales vigentes, en materia de explotación, uso o aprovechamiento de aguas; prevención y control de la contaminación de las aguas y, tratamiento y usos de las aguas residuales, en lo que concierne a la competencia municipal y con respeto (sic) a la competencia de los otros ámbitos de gobierno.
+ARTICULO 619 QUATER.- La CAPAPA para el desempeño de sus funciones, contará con el auxilio de las dependencias municipales dentro de los límites de sus atribuciones, el Instituto del Agua del Estado y la Comisión Nacional del Agua, en los términos de la Ley de Agua del Estado y la Ley de Aguas Nacionales, observando las disposiciones legales y reglamentarias derivadas de los ordenamientos federales, estatales y municipales vigentes, en materia de explotación, uso o aprovechamiento de aguas; prevención y control de la contaminación de las aguas y, tratamiento y usos de las aguas residuales, en lo que concierne a la competencia municipal y a la competencia de los otros ámbitos de gobierno.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -8355,7 +8583,7 @@ I.- El Presidente Municipal, quien lo presidirá;
 
 II.- El Regidor de la Comisión de Agua Potable y Alcantarillado;
 
-III.- Un representante deI INAGUA;
+III.- Un representante del INAGUA;
 
 IV.- Un representante del Colegio de Médicos;
 
@@ -8997,7 +9225,7 @@ XXXI.- Elaborar y prestar oportunamente a las autoridades hacendarias, las decla
 
 XXXII.- En coordinación con las demás áreas organizar, controlar, registrar, vigilar y manejar, de acuerdo con las normas aplicables, los bienes muebles e inmuebles de la CAPAPA;
 
-XXXIII.- Adquirir y suministrar los bienes de consumo y de inversión que se requieran en los términos que se señalen en las normas legales aplicables, de cuerdo con el presupuesto y los programas autorizados;
+XXXIII.- Adquirir y suministrar los bienes de consumo y de inversión que se requieran en los términos que se señalen en las normas legales aplicables, de cuerdo (sic) con el presupuesto y los programas autorizados;
 
 XXXIV.- Supervisar el cumplimiento de los contratos de adquisición y/o arrendamiento de bienes inmuebles;
 
@@ -9179,7 +9407,7 @@ El Ayuntamiento, a través del departamento de Ecología, desarrollará acciones
 
 ### CAPITULO CUARTO. De la Participación Social
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 652.
 
@@ -9227,9 +9455,9 @@ IV.- Elaborar y ejecutar el Programa Municipal de Protección al Ambiente, en co
 
 V.- Constituir el Consejo Municipal de Protección al Ambiente y expedir su Reglamento Interno;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VI.- Colaborar con (sic) Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
+VI.- Colaborar con la Procuraduría Estatal de Protección al Ambiente para retirar de la circulación los vehículos automotores, que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, conforme lo establezcan los reglamentos y normas ecológicas aplicables;
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9281,39 +9509,69 @@ XVI.- Las demás que le confieran el presente Código y demás ordenamientos jur
 
 Es facultad del Ayuntamiento a través del departamento de Ecología dictar las medidas de seguridad para prevenir y controlar la contaminación del ambiente, causada por fuentes que no sean jurisdicción Estatal o Federal dentro del territorio municipal, de conformidad con las leyes de la materia y el presente Código.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 657.
 
-Para la prevención y control del deterioro ambiental dentro del Municipio, el Ayuntamiento por medio del presente Título establecerá los criterios y medidas necesarias para:
+Para la prevención del deterioro ambiental dentro del municipio, el Ayuntamiento establecerá los criterios y medidas necesarias para:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Prevenir y controlar la contaminación de la atmósfera, generada por fuentes que no sean de jurisdicción Estatal o Federal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Prevenir y controlar la contaminación de aguas que tengan asignadas o concesionadas para la prestación de servicios públicos, y de las que se descarguen en el sistema municipal de drenaje y alcantarillado de los centros de población del Municipio, sin perjuicio de las facultades que tengan el Estado y la Federación en esta materia;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica y lumínica, así como olores, perjudiciales al ambiente generadas por fuentes que no sean de jurisdicción Estatal o Federal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Regular y controlar el manejo de los residuos sólidos, ya sean domésticos, urbanos, de servicios, agropecuarios o de actividades extractivas, con el objeto de que se recolecten y se disponga de ellos conforme a las normas establecidas. Así como participar en el control de los residuos industriales no peligrosos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Vigilar las áreas ecológicas que así lo requieran y que se encuentren dentro del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Promover, organizar y desarrollar programas para mejorar la calidad del aire, agua, suelo y subsuelo, flora y fauna silvestres, así como de aquellas áreas cuyo grado de deterioro se considere peligroso para el ambiente y/o la salud pública de los habitantes del Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Establecer los mecanismos y operativos necesarios para la prevención y control de emergencias ecológicas y/o contingencias ambientales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Establecer criterios y mecanismos de prevención y control ambiental, derivados de la prestación de servicios públicos, de carácter municipal o privado;
 
-VIII.- Regular y controlar con fines ambientales, el aprovechamiento de los minerales o sustancias no reservadas al Estado o la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+VIII (SIC).- Regular y controlar con fines ambientales, el aprovechamiento de los minerales o sustancias no reservadas al Estado o la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Incorporar en las licencias municipales de construcción y funcionamiento que tengan como objetivo la realización de obra o actividades que produzcan o puedan producir impacto o riegos ambientales significativos, el resultado del dictamen emitido por la autoridad competente como medio de prevención y control del ambiente y del equilibrio ecológico;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Verificar los terrenos o predios baldíos en los que se acumulen desechos sólidos o prolifere la fauna nociva, que atente contra la salud, el ambiente y/o el equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Verificar los establecimientos comerciales, industriales o de servicios que se encuentren dentro del Municipio y produzcan contaminantes que alteren la atmósfera en perjuicio de la salud y la vida, o causen daños ecológicos;
 
-XII.- Verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines y bienes de dominio público, también autorizar observando otros reglamentos aplicables;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XII.- Autorizar y verificar la tala y poda de árboles ubicados en la vía pública, parques, jardines, bienes de dominio público y predios de propiedad particular ubicados en las zonas urbanas del municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Realizar las demás inspecciones, visitas y verificaciones necesarias para el cumplimiento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley Estatal, del presente Código; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
@@ -9321,7 +9579,7 @@ XIV.- Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ###### ARTICULO 658.
 
-El Ayuntamiento, a través de (sic) Departamento de Ecología, promoverá la participación solidaria y responsable de los habitantes del Municipio, en la política ambiental y en la observancia del presente Título y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
+El Ayuntamiento, a través del Departamento de Ecología, promoverá la participación solidaria y responsable de los habitantes del municipio en la política ambiental y en la observancia del presente título y demás disposiciones jurídicas de la materia, por medio de acciones de difusión y vigilancia de los trabajos que en materia ecológica se realicen dentro de la jurisdicción municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9347,11 +9605,11 @@ El Ayuntamiento convocará en el ámbito territorial de su jurisdicción, a repr
 
 El Ayuntamiento, a través del Departamento de Ecología, podrá celebrar convenios de concertación y participación social con particulares, grupos interesados y organizaciones sociales, instituciones privadas de carácter no lucrativo e instituciones educativas a fin de fomentar y mejorar la protección del ambiente para que en la sede o ámbito de influencia de los mismos, participen responsablemente en la protección del ambiente y restauración del equilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 663.
 
-El Ayuntamiento, a través del Departamento de Ecología, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distinga (sic) por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
+El Ayuntamiento, a través del Departamento de Ecología, promoverá reconocimientos públicos a ciudadanos, grupos o instituciones que de manera altruista se distingan por su labor en la protección, instauración y restauración del ambiente y equilibrio ecológico.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9489,7 +9747,9 @@ La planeación ecológica municipal, es el conjunto de planes, programas y accio
 
 En la planeación ambiental del Municipio deberán observarse los siguientes aspectos:
 
-I.- El ordenamiento ecológico es el proceso mediante el cual se obtiene el diagnóstico y pronostico de la problemática ambiental del Municipio, así como del potencial ecológico de su desarrollo; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- El ordenamiento ecológico es el proceso mediante el cual se obtiene el diagnóstico y pronóstico de la problemática ambiental del Municipio, así como del potencial ecológico de su desarrollo, y
 
 II.- La evaluación del impacto ambiental está enfocada a evitar la realización de obras o actividades públicas y privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en la Legislación Ambiental Federal, Estatal, así como en el presente Título, y en las normas técnicas ecológicas emitidas por otras disposiciones legales.
 
@@ -9871,11 +10131,29 @@ III.- Coadyuvar con las autoridades del Ayuntamiento en la preservación de bosq
 
 IV.- Presentar él o los análisis de la autoridad competente en los términos que señalen las leyes o reglamentos aplicables en la materia, los establecimientos industriales, comerciales o de servicios que generen emisiones a la atmósfera y/o descarga de aguas servidas a la red municipal de drenaje;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
+
 V.- Presentar a la autoridad municipal el comprobante de la disposición final de sus desechos sólidos, o bien el manifiesto tratándose de residuos peligrosos, los establecimientos industriales, comerciales o de servicios;
 
-VI.- Contar con un área específica para el lavado de piezas, y vigilar que el almacenamiento de desechos sólidos se encuentre resguardado bajo techo, los dueños y/o encargados de talleres y servicios del ramo automotriz; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VII.- Proporcionar a los asistentes servicios sanitarios y contenedores para el depósito de desechos sólidos, las personas físicas y morales que realicen ferias, exposiciones y espectáculos públicos.
+VI.- Contar con un área específica para el lavado de piezas, y vigilar que el almacenamiento de desechos sólidos se encuentre resguardado bajo techo, los dueños y/o encargados de talleres y servicios del ramo automotriz;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VII.- Proporcionar a los asistentes servicios sanitarios y contenedores para el depósito de desechos sólidos, las personas físicas y morales que realicen ferias, exposiciones y espectáculos públicos;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VIII.- Separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Recoger las heces fecales de sus mascotas que sean arrojadas en la vía pública, y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos sólidos urbanos generados por la actividad de las empresas e industrias, y contar con contenedores para la separación de residuos reciclables, orgánicos, inorgánicos, residuos peligrosos y de manejo especial.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9895,11 +10173,99 @@ V.- Edificar o construir en zonas ecológicas o arqueológicas comprendidas dent
 
 VI.- Rebasar los límites permisibles de ruidos, vibraciones, energía térmica y luminosa, vapores, gases, humos, olores y otros elementos degradantes que perjudiquen el equilibrio ecológico y el ambiente en la jurisdicción del Municipio, según lo prevé la Ley General de Equilibrio Ecológico y Protección al Ambiente;
 
-VII.- Descargar contaminantes que alteren la atmósfera, así como tirar desechos o desperdicios consistentes en aceites, gasolina o cualquier otro en las atarjeas; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VII.- Descargar contaminantes que alteren la atmósfera, así como tirar desechos o desperdicios consistentes en aceites, gasolina o cualquier otro en los drenajes o atarjeas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
 
 VIII.- Realizar obras y actividades públicas o privadas que puedan causar desequilibrio ecológico o perjuicio al ambiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Depositar residuos no permitidos en los contenedores, las empresas, establecimientos fijos o semifijos;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- depositar en los contenedores, residuos biológico infecciosos, que deben incinerarse de conformidad con las normas establecidas en la ley competente o aquellos que no son incinerables y que deben ser entregados a las instancias correspondientes para su confinamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XI.- Depositar cualquier tipo de desecho líquido o de índole diferente a la doméstica, lixiviados, aceites, etc. en los contenedores para residuos sólidos urbanos, y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XII.- Depositar residuos vegetales producto de acciones de mantenimiento de las áreas verdes dentro o a un costado de los contenedores municipales para residuos sólidos y urbanos.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 710 BIS.- Son prohibiciones en materia de protección a los animales:
+
+I.- Transitar por la vía pública con su mascota y no levantar las heces que defeque;
+
+II.- Mantener mascotas en las azoteas sin realizar los cambios indispensables en el bien inmueble para evitar caídas al vacío; o en balcones, patios, jardines, terrazas, huertas o cualquier espacio abierto sin proporcionarles lugar amplio y cubierto en el que estén protegidos de las inclemencias del tiempo y sin los cuidados necesarios;
+
+III.- Tener perros, gatos, aves, roedores u otros animales encerrados en habitaciones, baños, jaulas o cualquier otro espacio que no les permita su movilidad natural o peces en vasos o recipientes cuyas dimensiones sean reducidas y no aseguren su supervivencia:
+
+IV.- Utilizar perros para el cuidado de lotes baldíos, casas deshabitadas, giros comerciales o cualquier otro espacio sin que se les proporcionen los cuidados necesarios;
+
+V.- Tener perros afuera de las fincas sin los cuidados necesarios para su protección y de las personas que transiten por la vía pública;
+
+VI.- Mantener perros y/o gatos atados en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados, rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
+
+VII.- Mantener perros o gatos permanentemente enjaulados;
+
+VII (SIC).- Molestar y azuzar a los animales;
+
+VIII.- Hacinar animales de cualquier especie en alguna finca o terreno de tal manera que se puedan provocar molestias o afectar la salud de los vecinos o daños a los propios animales;
+
+IX.- Efectuar prácticas dolorosas o realizar cualquier intervención quirúrgica que no se realice bajo el cuidado de un médico veterinario zootecnista titulado con cédula profesional vigente;
+
+X.- Utilizar a los animales para las prácticas docentes;
+
+XI.- Cambiar el color natural de un animal por razones puramente estéticas o para facilitar su venta;
+
+XII.- Dejar a los animales encerrados en el interior de los vehículos o en las cajuelas sin ventilación;
+
+XIII.- Organizar, permitir o presenciar las peleas de perros;
+
+XIV.- Atar a los animales a cualquier vehículo en movimiento incluyendo bicicletas y patinetas, obligándolos a correr a la velocidad de éste;
+
+XV.- Arrojar animales vivos en la vía pública;
+
+XVI.- Exceder el horario de trabajo de los animales de tiro por más de ocho horas;
+
+XVII.- Carecer de condiciones higiénico-sanitarias adecuadas para su cuidado en el caso de animales utilizados en ferias, espectáculos y/o eventos;
+
+XVIII.- Someter a los animales a la exposición del sol, la lluvia, luces intensas o sistemas de sonido que les puedan ocasionar incomodidad y daño;
+
+XIX.- Cortar sus cuerdas vocales para evitar que ladre o maúlle;
+
+XX.- Arrojar animales vivos en recipientes para su cocción o freimiento;
+
+XXI.- Utilizar animales en experimentos cuando la disección no tenga una finalidad científica;
+
+XXII.- Colgar al animal vivo o quemarlo;
+
+XIII (SIC).- Extraerles las uñas o mutilarles los dientes o cualquier otra parte de su cuerpo por razones puramente estéticas o para facilitar su venta;
+
+XIV.- Trasladar a los animales arrastrándolos, suspendidos de los miembros superiores o inferiores o en el interior de costales, cajas o bolsas sin ventilación;
+
+XV.- Utilizar a los animales para prácticas sexuales;
+
+XVI.- Introducir animales vivos a los refrigeradores, hornos de microondas, estufas, tubos, drenajes, alcantarillas, cajas, pozos, enterrarlos vivos, o llevar a cabo cualquier procedimiento similar que les produzca daño;
+
+XVII.- Abandonar a los animales en el interior de las fincas sin los cuidados necesarios, por cambio de domicilio o por ausentarse durante tiempo prolongado;
+
+XVIII.- Producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
+
+XIX.- Provocar la muerte de animales mediante la estrangulación, asfixia, aplicación de cloruro de potasio, a golpes, utilizando electricidad, ácidos, fuego, instrumentos punzocortantes o cualquier otro dispositivo o procedimiento que les pueda provocar dolor innecesario, sufrimiento o prolonguen su agonía;
+
+XX.- Utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
+
+XXI.- Utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 # LIBRO CUARTO. DE LA REGLAMENTACIÓN DE LA SEGURIDAD PÚBLICA
 
@@ -10133,11 +10499,11 @@ II.- Las Instituciones Policiales con presencia en el Municipio;
 
 III.- Las Instancias de coordinación, equipos, programas, información, servicios y acciones tendientes a cumplir con los propósitos de la materia.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 727.
 
-El Sistema Municipal de Seguridad Pública tendrá funciones de coordinación operativas (sic) en acuerdo con los Sistemas Nacional y Estatal de Seguridad Pública, en la forma y términos dispuestos por la legislación estatal y federal en la materia e impulsará las actividades conducentes al cumplimiento de los fines que previene este Libro.
+El Sistema Municipal de Seguridad Pública tendrá funciones de coordinación operativa con los Sistemas Nacional y Estatal de Seguridad Pública, en la forma y términos dispuestos por la legislación estatal y federal en la materia e impulsará las actividades conducentes al cumplimiento de los fines que previene este Libro.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -10419,7 +10785,7 @@ Se entiende por programa de supervisión a la verificación, control y evaluaci�
 
 Para efectos de los operativos que deban implementarse de manera conjunta entre las Instituciones Policiales, el titular de la Secretaría de Seguridad Pública del Estado tendrá a su cargo la coordinación en la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO SEPTIMO
 
@@ -10923,113 +11289,217 @@ El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia
 
 La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que los integrantes operativos de la Dirección deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 778.
 
 Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, deberán:
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 I.- Abstenerse de todo acto de corrupción o faltas a la ética en el desempeño de su servicio, de solicitar y aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, así como hacer uso de sus atribuciones para lucrar u obtener beneficio alguno por medio del tráfico de influencias;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II.- Respetar y hacer que se respeten los símbolos patrios;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 III.- Obedecer las órdenes que con motivo del desempeño de sus funciones, reciba de su superior jerárquico o de quien ejerzan sobre él atribuciones de mando evitando todo acto u omisión que produzca deficiencia en su cumplimiento, respondiendo sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IV.- Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Dirección dentro o fuera del servicio;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 V.- Preservar la secrecía de los asuntos que por razón del desempeño de su función conozca y bajo ninguna circunstancia dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes, o cualquier otra información reservada o confidencial;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VI.- Velar por la vida e integridad física de las personas detenidas, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la recepción final de la puesta a disposición ante la autoridad competente;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VII.- Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, notoriamente intoxicados, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
 
-VIII.- Detener a los presuntos responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haber lo (sic) cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VIII.- Detener a los presuntos responsables de hechos delictivos e infractores que sean sorprendidos al momento de cometer un delito o falta administrativa o inmediatamente después, los cuales se pondrán de manera inmediata a disposición de la autoridad competente, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IX.- Prestar sus servicios de manera personal, quedando prohibido delegar a terceros o permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar funciones del servicio;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 X.- Ejecutar los mandamientos judiciales y ministeriales, así como poner a disposición del Ministerio Público que corresponda, los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar el informe policial homologado de los hechos que tenga conocimiento, comparecer a rendir informes y declaraciones que soliciten las autoridades;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XI.- Abstenerse de todo acto de abuso de autoridad, acoso sexual y de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales con carácter pacífico sean realizadas por la sociedad, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XII.- Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate, de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, como urgencia de las investigaciones, o cualquier otra; al conocimiento de dichas circunstancias, las deberá denunciar ante la autoridad competente;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIII.- Atender con diligencia la solicitud de informe, queja o auxilio de la sociedad que esté amenazada de un peligro y en su caso, tomar las medidas que correspondan según las circunstancias; si la situación rebasa su competencia, deberá turnarlo de inmediato al área que corresponda;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XIV.- Realizar la vigilancia y resguardo de las personas y bienes que les sean encargados bajo custodia por la autoridad competente, mediante orden debidamente fundada y motivada;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XV.- Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XVI.- Obtener y mantener su certificado único policial;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XVII.- Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros, así como de sustraer ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XVIII.- Abstenerse de introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIX.- Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XX.- Abstenerse de consumir en las Instalaciones de la Secretaría así como en el desempeño del servicio, bebidas embriagantes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXI.- Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXII.- Abstenerse de disparar el arma de fuego, salvo que sea estrictamente necesario y el servicio así lo requiera;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXIII.- Faltar a su servicio por más de quince ocasiones en un periodo natural de un año;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXIV.- Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXV.- Abstenerse de convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXVI.- Registrar en una bitácora de forma detallada y cronológica todos los datos de importancia que incidan en sus actividades y comisiones, como son: fecha, hora, personas implicadas, descripción del hecho y demás circunstancias que impliquen el aprovechamiento de la información;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXVII.- Registrar en el informe policial homologado los datos de las actividades e investigaciones que realice; así como inscribir las detenciones en el Registro Administrativo correspondiente conforme a las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXVIII.- Utilizar los protocolos de investigación y de cadena de custodia que establezcan los manuales emitidos por la Comisión de Normatividad Interna, así como actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXIX.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXX.- Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXXI.- Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXXII.- Abstenerse de ordenar o realizar la detención de personas sin cumplir con los requisitos previstos, en los ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXXIII.- Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXXIV.- Utilizar los protocolos de investigación y conservar la cadena de custodia respecto de los objetos o indicios relacionados con algún delito;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXXV.- Informar al superior inmediato y a la autoridad correspondiente de manera inmediata las omisiones, actos indebidos o constitutivos de delito, así como las violaciones al presente Código, de su superior jerárquico, de sus subordinados o iguales en categoría jerárquica;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXXVI.- Guardar celosamente la jurisdicción asignada a su operación, respetando las delimitaciones territoriales establecidas, a excepción de los casos en que resulte indispensable para la eficiente y eficaz prestación del servicio de seguridad pública;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXXVII.- Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XXXVIII.- Apegarse a los requisitos de los procedimientos que se establecen en el Reglamento del Sistema Integral de Desarrollo Policial;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XXXIX.- Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio. Debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca. El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XL.- Abstenerse de abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo o bien atender asuntos de índole personal sin la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XLI.- Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XLII.- Realizar en cualquier forma la comisión de un delito o falta administrativa;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XLIII.- Cuidar los monumentos, recintos oficiales, lugares históricos, culturales o públicos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XLIV.- Proporcionar en los actos del servicio, su nombre y demás datos de identificación a menos de que por razones debidamente justificadas y acreditadas para los efectos de un operativo especial, sean autorizados para ello por el Secretario, bajo su más estricta responsabilidad;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XLV.- Realizar el saludo militar y civil, según se porte o no el uniforme para con la bandera nacional y/o con sus superiores jerárquicos cuando corresponda;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XLVI.- Cumplir sus funciones con absoluta imparcialidad, cortesía, firmeza y sin discriminación alguna;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XLVII.- Apegarse a las normas sobre el uso de la radio frecuencia, de las claves y código fonético autorizados;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XLVIII.- Cuidar la conservación y buen uso de los bienes afectos al servicio público, propiedad de las entidades públicas y órganos de gobierno;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XLIX.- Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, no importando su índole. Lo ejecutará en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse en el apego más estricto a la verdad histórica de los hechos ocurridos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 L.- Realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población así como efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales;
 
-LI.- Observar un trato respetuoso, evitando tutear o tratar con altivez y despotismo a las personas;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+LI.- Observar un trato respetuoso, evitando tutear o tratar con altivez y despotismo a las personas, y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 LII.- Informar a cualquier persona cuando así lo solicite, sobre los lugares y servicios que se ofrecen en el Municipio, así como cualquier otro de interés o de utilidad pública.
 
@@ -11637,11 +12107,11 @@ XVIII.- No guarde la reserva y confidencialidad necesarias respecto al desempeñ
 
 XIX.- Acose sexualmente a detenidos o subordinados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO DECIMO TERCERO. De la Comisión de Honor y Justicia
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 814.
 
@@ -11739,7 +12209,7 @@ XIII.- Los demás que señale en este código y demás ordenamientos legales.
 
 ###### ARTICULO 821.
 
-La Comisión de Honor y Justicia, es el órgano independiente, colegiado e imparcial que vela por la honorabilidad y buena reputación de la Dirección, encargado de conocer, resolver y sancionar los casos que ponga a su disposición el Director o quejas que presente la ciudadanía, relacionados con la (sic) faltas cometidas por los integrantes operativos, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y obligaciones en los términos del presente ordenamiento, así como participar en el otorgamiento (sic) estímulos a las acciones relevantes en que intervinieron los integrantes operativos de la Dirección.
+La Comisión de Honor y Justicia, es el órgano independiente, colegiado e imparcial que vela por la honorabilidad y buena reputación de la Dirección, encargado de conocer, resolver y sancionar los casos que ponga a su disposición el Director o quejas que presente la ciudadanía, relacionados con las faltas cometidas por los integrantes operativos, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y obligaciones en los términos del presente ordenamiento, así como participar en el otorgamiento de estímulos a las acciones relevantes en que intervinieron los integrantes operativos de la Dirección.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -11791,17 +12261,21 @@ II.- El Elemento Operativo, y en su caso la persona de su confianza que nombre c
 
 La Comisión de Honor y Justicia tendrá las siguientes atribuciones:
 
-I.- Conocer los asuntos que le turne la Dirección de Segundad Pública respecto de las faltas graves previstas (sic) 778 del presente ordenamiento, en que incurran los integrantes operativos a los principios de actuación y obligaciones previstos en este Código y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Conocer los asuntos que le turne el Director respecto de las faltas graves previstas en el artículo 778 del presente ordenamiento, en que incurran los integrantes operativos, así como a los principios de actuación y obligaciones previstos en este Código y demás disposiciones legales aplicables.
 
 II.- Dictar, durante el proceso, las medidas necesarias para conocer la verdad legal sobre cada caso en particular, ajustándose a los principios esenciales de debido proceso.
 
-III - Dictar, en todos los casos que conozca, la medida de seguridad consistente en la separación indefinida de la corporación sin goce de sueldo del presunto infractor, para la conducción o continuación de las investigaciones, en los casos en que pueda interferir la presencia en activo del elemento de seguridad publica para averiguar la verdad de los hechos. La separación no prejuzga sobre la responsabilidad que se impute.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado al presunto infractor.
+III.- Dictar, en todos los casos que conozca, la medida de seguridad consistente en la separación indefinida de la corporación sin goce de sueldo del presunto infractor, para la conducción o continuación de las investigaciones, en los casos en que pueda interferir la presencia en activo del elemento de seguridad pública para averiguar la verdad de los hechos. La separación no prejuzga sobre la responsabilidad que se le impute.
+
+La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado el presunto infractor.
 
 La separación cesará cuando la Comisión de Honor y Justicia resuelva el asunto o en un término no mayor a 90 días a partir de que surtió efectos.
 
-Si el integrante operativo que sea sujeto a la medida de seguridad, y separado temporalmente no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado.
+Si el integrante operativo sujeto a la medida de seguridad fue separado temporalmente y no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado.
 
 IV.- Comunicar a la instancia correspondiente cuando se advierta notoriamente en el proceso la probable comisión de delitos o faltas de los integrantes operativos.
 
@@ -11823,35 +12297,37 @@ XI - Examinar los expediente u hojas de servicio de los elementos operativos y p
 
 XII- Las demás que le señale la Ley y el presente Código.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
-ARTICULO 825 BIS.- La Comisión de Honor y Justicia conocerá de los casos consignados por el Síndico Municipal, quien deberá remitir al Secretario Técnico de la Comisión, en un término de noventa días naturales a partir de haber recibido la queja o iniciado las investigaciones correspondientes, el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán exponerse los hechos que considere constitutivos de las faltas, las pruebas en los (sic) que se basa la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación y obligaciones infringidos, en el que se determine la materia de la falta y se demuestre la probable responsabilidad del integrante operativo de la Secretaría de Seguridad Pública respecto de la falta que se le imputa.
+ARTICULO 825 BIS.- La Comisión de Honor y Justicia conocerá de los casos consignados por el Síndico Municipal, quien deberá remitir al Secretario Técnico de la Comisión, en un término de noventa días naturales a partir de haber recibido la queja o iniciado las investigaciones correspondientes, el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán exponerse los hechos que considere constitutivos de las faltas, las pruebas en las que se basa la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación y obligaciones infringidos, en el que se determine la materia de la falta y la probable responsabilidad del integrante operativo de la Dirección de Seguridad Pública respecto de la falta que se le imputa.
 
-El Secretario Técnico revisará que existan suficientes elementos que comprueben la probable responsabilidad del integrante operativo en el expediente remitido. Si cumple con dichos elementos, lo radicará en un término no mayor a cinco días hábiles, asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la audiencia única. En caso contrario, devolverá el expediente en un término no mayor de cinco días hábiles para que se integren nuevas pruebas, previo acuerdo de la Comisión de Honor y Justicia; en este caso el Síndico Municipal tendrá un termino de treinta días naturales para hacerse llegar nuevos elementos probatorios, de no ser así deberá archivarlo en definitivo.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+El Secretario Técnico revisará que existan suficientes elementos que comprueben la probable responsabilidad del integrante operativo en el expediente remitido. Si cumple con dichos elementos, lo radicará en un término no mayor a cinco días hábiles, asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la audiencia única. En caso contrario, devolverá el expediente en un término no mayor de cinco días hábiles para que se integren nuevas pruebas, previo acuerdo de la Comisión de Honor y Justicia; en este caso el Síndico Municipal tendrá un término de treinta días naturales para hacerse llegar nuevos elementos probatorios, de no ser así deberá archivarlo en definitivo.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 826.
 
-La Comisión de Honor y Justicia seguirá el procedimiento que previene el presente apartado para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al integrante operativo el derecho a un proceso justo, pudiendo en todo caso hacerse acompañar de un abogado litigante con cédula profesional de licenciado en derecho, sujetándose al siguiente procedimiento:
+La Comisión de Honor y Justicia seguirá el procedimiento que previene el presente código respetando las garantías de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al integrante operativo el derecho a un proceso justo, pudiendo en todo caso hacerse acompañar de un abogado con título de licenciado en derecho y cédula profesional, sujetándose al siguiente procedimiento:
 
-I.- El Presidente citará con treinta días hábiles antes de la audiencia de la Comisión de Honor y Justicia, al integrante o integrantes operativos involucrados, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan corriéndole traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya en su contra, para que se presente ante la Comisión de Honor y Justicia el día y hora señalados, aportando los elementos de prueba que juzgue convenientes, apercibido de que en el caso de no ofrecerlos, presentarlos y desahogarlos en la audiencia única se le tendrán por no ofrecidos; de no comparecer o no justificar la causa legal de su inasistencia se tendrán por ciertos los hechos establecidos por El Fisical (sic), y por perdidos los derechos que pudiera haber ejercitado.
+I.- El Presidente citará con treinta días hábiles antes de la audiencia de la Comisión de Honor y Justicia, al integrante o integrantes operativos involucrados, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan corriéndole traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya en su contra, para que se presente ante la Comisión de Honor y Justicia el día y hora señalados, aportando los elementos de prueba que juzgue convenientes, apercibido de que en el caso de no ofrecerlos, presentarlos y desahogarlos en la audiencia única se le tendrán por no ofrecidos; de no comparecer o no justificar la causa legal de su inasistencia se tendrán por ciertos los hechos establecidos por el Fiscal, y por perdidos los derechos que pudiera haber ejercitado;
 
-II.- Abiertos los trabajos de la sesión de inicio, el Secretario Técnico expondrá a la Comisión de Honor y Justicia los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al integrante operativo de seguridad pública a efecto de que, de considerarlo pertinente, manifieste su versión de los hechos, pudiendo los miembros de la Comisión de Honor y Justicia formular las preguntas que juzguen procedentes.
+II.- Abiertos los trabajos de la sesión de inicio, el Secretario Técnico expondrá a la Comisión de Honor y Justicia los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al integrante operativo de seguridad pública a efecto de que, de considerarlo pertinente, manifieste su versión de los hechos, pudiendo los miembros de la Comisión de Honor y Justicia formular las preguntas que juzguen procedentes;
 
-III.- Dentro de la de (sic) Comisión, el Secretario Técnico, requerirá al integrante operativo de seguridad pública y al Fiscal, para que ofrezcan los medios de prueba que considere necesarios. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia única, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres.
+III.- Dentro de la audiencia de la Comisión de Honor y Justicia, el Secretario Técnico requerirá al integrante operativo de seguridad pública y al Fiscal, para que ofrezcan los medios de prueba que considere pertinentes. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia única, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres;
 
-IV.- Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia única será causa suficiente para declarar desierta la prueba ofertada.
+IV.- Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia única será causa suficiente para declarar desierta la prueba ofertada;
 
-En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento.
+V.- En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento;
 
-I (SIC).- Una vez desahogadas las pruebas, inmediatamente El Fiscal procederá a formular, de manera verbal o por escrito, sus conclusiones y determinará la sanción que solicita. El integrante operativo deberá presentar, en forma verbal o por escrito, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento;
+VI.- Una vez desahogadas las pruebas, inmediatamente El Fiscal procederá a formular, de manera verbal o por escrito, sus conclusiones y determinará la sanción que solicita. El integrante operativo deberá presentar, en forma verbal o por escrito, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento;
 
-VII (SIC).- Después de cerrada la instrucción la Comisión de Honor y Justicia inmediatamente dictará su resolución debidamente fundada y motivada, tomando en consideración la falta cometida, antigüedad, la jerarquía del integrante operativo y las pruebas desahogadas, y la notificará personalmente al presunto infractor. Asimismo mandará copia certificada de la resolución emitida a la Dirección de Segundad Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo
+VII.- Después de cerrada la instrucción la Comisión de Honor y Justicia inmediatamente dictará su resolución debidamente fundada y motivada, tomando en consideración la falta cometida, antigüedad, la jerarquía del integrante operativo y las pruebas desahogadas, y la notificará personalmente al presunto infractor. Asimismo mandará copia certificada de la resolución emitida a la Dirección de Segundad (sic) Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo;
 
-VI (SIC).- La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en la audiencia única.
+VIII.- La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en la audiencia única, y
 
-VIII.- Las resoluciones de la Comisión de Honor y Justicia admitirán recurso de reconsideración, que deberá de ser interpuesto dentro de los tres días hábiles siguientes a la notificación de la resolución de la Comisión, siendo resuelto de plano en un término de 5 días hábiles.
+IX.- Las resoluciones de la Comisión de Honor y Justicia admitirán recurso de reconsideración, que deberá de ser interpuesto dentro de los tres días hábiles siguientes a la notificación de la resolución de la Comisión, siendo resuelto de plano en un término de 5 días hábiles.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -12133,29 +12609,49 @@ A fin de que la Comisión de Honor y Justicia, pueda establecer las sanciones co
 
 ARTICULO 845 BIS.- Se podrá sobreseer el procedimiento disciplinario en cualquier tiempo hasta antes de dictar la resolución definitiva que corresponda.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ARTICULO 845 TER.- Son causales de sobreseimiento las siguientes:
 
-I.- Cuando no sean satisfechas (sic) los requisitos establecidos por el Artículo 830 de este Código;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Cuando no sean satisfechos los requisitos establecidos en el artículo 830 del presente Código;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
 
 II.- Cuando el elemento operativo denunciado se haya separado de la Corporación de forma voluntaria antes de resolver en forma definitiva el procedimiento disciplinario instaurado en su contra;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
 III.- Cuando de la denuncia hecha por el afectado se desprenda que no hay elementos suficientes que demuestren la responsabilidad de los hechos que se le imputan al elemento operativo;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
 
 IV.- Cuando se desista el denunciante y no afecte derechos de terceros;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
 V.- Cuando existan imprecisiones en los hechos de tal manera que ni aun investigando por parte de la fiscalía o del titular de la Dirección de Seguridad Pública y Vialidad Municipal puedan allegarse de los datos requeridos o de las pruebas necesarias para demostrar la responsabilidad incurrida por el elemento operativo;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
 
 VI.- Cuando se denuncien hechos atacables por otra vía, competencia de la Comisión de Honor y Justicia;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
 VII.- Por muerte del elemento operativo a quien se le sigue el procedimiento disciplinario;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
 
 VIII.- Por falta de ratificación de la denuncia instaurada en contra del elemento operativo hecha por el denunciante;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
 IX.- Por motivo de las funciones propias del elemento operativo, no se desprenda que los hechos realizados sean dolosas, de mala fe o excesivos;
 
-X.- Cuando lo solicitare la fiscalía por no tener pruebas suficientes que acrediten la responsabilidad del elemento operativo.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Cuando lo solicite la fiscalía por no tener pruebas suficientes que acrediten la responsabilidad del elemento operativo.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -12237,61 +12733,113 @@ El Servicio de Bomberos contará con auxiliares y voluntarios. Los auxiliares cr
 
 El personal del Servicio de Bomberos estará organizado en tal forma que prestara servicios continuos durante las 24 horas los 365 días del año.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+(REFORMADO, P.O. 24 DE ABRIL DE 2006) (REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)
 
 ###### ARTICULO 852.
 
 Son obligaciones de los integrantes del Servicio de Bomberos:
 
-I.- Rendir el parte diariamente al Director;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Rendir diariamente el parte de novedades;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Presentarse puntualmente al desempeño de sus labores;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Portar el uniforme limpio y ser aseado en su persona;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Permanecer en la estación en donde esté comisionado durante las horas que se le señale;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- Ocurrir con la mayor rapidez a los sitios en donde se haya iniciado un incendio, para extinguir, salvar vidas o intereses, impedir su propagación, etc.;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Hacer uso de todos los elementos a su disposición para sofocar el fuego en el menor tiempo posible por causas o consecuencias del siniestro;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Prestar atención preferente al rescate o salvamento de personas que se encuentren en peligro por causas o consecuencias del siniestro;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- En el caso de haber lesionados en los incendios y en otros accidentes, suministrar preferentemente los primeros auxilios a la persona o personas que resultaran afectadas, enviando inmediatamente al Hospital, Puesto de Socorro de la Cruz Roja o enfermería más cercana al lugar del incendio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IX.- Vigilar los Muebles, mercancías afectadas o valores que hayan quedado expuestos o al alcance de manos extrañas con motivo del siniestro, ya sea que se conserven en el mismo lugar o en sitio que ofrezca mayores garantías para su seguridad;
 
-X.- Levantar por escrito una información circunstancial terminadas las maniobras de cada incendio, conato o simple alarma, haciendo constar los siguientes datos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Levantar por escrito una información circunstanciada una vez terminadas las maniobras de cada incendio, conato o simple alarma, haciendo constar los siguientes datos:
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 a) Hora de llamada de auxilio;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 b) Calle, número y orientación correspondiente;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 c) Usos a que está destinado el inmueble afectado como: casa habitación, bodega, despacho, comercio, etc. Si se trata de un bien mueble se señalarán las circunstancias que lo identifican y establezcan el uso a que estaba destinado;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 d) Nombre del propietario o encargado;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 e) Anotación de sí hubo lesionados o pérdidas de vida;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 f) Valor aproximado de los daños causados;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 g) Si el edificio, efectos, mercancías o lo que haya sido destruido o dañado estaba asegurado;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 h) Valor de la póliza y nombre de la compañía asegurada;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 i) Causas ciertas o causas probables que originaron el siniestro;
 
-j) Siempre que haya sospechas de que un siniestro pudo haber sido provocado intencionalmente, se harán los hechos del conocimiento de la Policía, para que sea ésta la (sic) continúe los trámites pertinentes;
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+j) Siempre que haya sospechas de que un siniestro pudo haber sido provocado intencionalmente, se harán los hechos del conocimiento de la Policía, para que sea ésta la que continúe los trámites pertinentes;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 k) La hora en que se terminaron las maniobras motivadas por el siniestro; y
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 l) La mención de los demás cuerpos de seguridad que hayan intervenido en el hecho.
 
-XI.- Siempre que regresen las unidades extinguidoras a su estación después de haber atendido un servicio de su incumbencia, el Teniente y personal comisionado en cada unidad, procederá a efectuar una revisión general de la máquina y demás equipo con objeto de que todo se conserve en el mejor estado, realizando la limpieza, lubricación, arreglo o reparación que proceda;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XI.- Efectuar una revisión general de la máquina y demás equipo, con objeto de que todo se conserve en el mejor estado, realizando la limpieza, lubricación, arreglo o reparación que proceda, al regresar las unidades extinguidoras a la estación después de haber atendido un servicio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XII.- Mantener en perfecto orden y listas para funcionar con la mayor eficacia y precisión las bombas extinguidoras, máquinas auxiliares, camiones, automóviles y en general el equipo que se destine para la extinción del incendio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIII.- Poner particular empeño en la conservación y buen estado tanto de las mangueras como de las conexiones para las mismas y si la longitud de las primeras llegará a reducirse por el uso o daños de los incendios o en las prácticas de la profesión, notificar al superior inmediato para que éste informe al Jefe del servicio y se pida la reposición inmediata; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Destinar los inmuebles y mobiliario de la Estación Central y demás estaciones, a usos relacionados con el servicio y mantenerse debidamente aseados.
 
@@ -12439,31 +12987,51 @@ Las licencias estatales serán expedidas por la Dirección General. En caso de q
 
 Los responsables de la conducción de animales a pie, se abstendrán de mover sus hatos en las vías públicas de las zonas urbanas del Municipio, en horas en que se afecte el tránsito de vehículos o produzca riesgo para los peatones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 866.
 
 Los conductores de bicicleta, triciclo, cuadriciclo o equivalentes, tienen todos los derechos y están sujetos a todas las obligaciones establecidas en este Código para los conductores de todo tipo de vehículos, excepto los que por sus características especiales no les sean aplicables, debiendo observar además, las siguientes disposiciones:
 
-I.- Tener por lo menos doce años de edad y circular con vehículos con rodado (sic) mínimo de veinticuatro pulgadas de diámetro;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Tener por lo menos doce años de edad y circular con vehículos con rodada mínima de veinticuatro pulgadas de diámetro;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
 
 II.- Conducir debidamente sentados en el asiento fijo al cuadro, con una pierna a cada lado del vehículo y los brazos sujetos a los manubrios;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Mantenerse a la extrema derecha de la vía sobre la que transiten y proceder con precaución al rebasar vehículos de motor estacionados junto a las aceras;
 
-IV.- No deberán transitar al lado de otra u otras bicicletas, formando pelotones que dificulten la circulación de los vehículos de motor;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-V.- Tampoco lo harán sobre las aceras y áreas reservadas para el uso de peatones;
+IV.- Abstenerse de transitar al lado de otra u otras bicicletas, formando pelotones que dificulten la circulación de los vehículos de motor;
 
-VI.- No deberán asirse o sujetarse a otro vehículo cualquiera en movimiento;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VII.- No podrán transitar por vialidades o carriles en donde lo prohíba el señalamiento o el presente Código;
+V.- Abstenerse de transitar sobre las aceras y áreas reservadas para el uso de peatones;
 
-VIII.- No podrán llevar carga que les dificulte su visibilidad, equilibrio, adecuada operación, o constituya un peligro para sí o para otros usuarios de la vía pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-IX.- No podrán transitar entre los carriles de tránsito o entre hileras adyacentes de vehículos estacionados o en movimiento; y
+VI.-Abstenerse de asir o sujetarse a otro vehículo en movimiento;
 
-X.- Deberán portar el equipo mínimo de protección.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VII.- Respetar las vialidades o carriles en los que expresamente se prohíba la circulación de este tipo de vehículos;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VIII.- Abstenerse de llevar carga que les dificulte su visibilidad, equilibrio, adecuada operación, o constituya un peligro para sí o para otros usuarios de la vía pública;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Abstenerse de transitar entre los carriles de tránsito o entre hileras adyacentes de vehículos estacionados o en movimiento, y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Portar el equipo mínimo de protección.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13207,11 +13775,15 @@ Para los efectos de este Título se entiende por:
 
 I.- Siniestro.- Evento determinado en el tiempo y en el espacio en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial de tal manera que afecta su vida normal;
 
-II.- Desastre.- Evento determinado en el tiempo y espacio en cual la sociedad o una parte de ella sufre un daño severo o perdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II.- Desastre.- Evento determinado en el tiempo y espacio en (sic) cual la sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
 
 III.- Alto Riesgo.- La inminente o probable ocurrencia de un siniestro o desastre;
 
-IV.- Prevención - Las acciones dirigidas a identificar y controlar los riegos (sic), así como el conjunto de medidas destinadas a evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IV.- Prevención.- Las acciones dirigidas a identificar y evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
 
 V.- Auxilio.- Al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente; y
 
@@ -13233,23 +13805,35 @@ Las disposiciones del presente titulo tendrán aplicación a cualquier tipo de c
 
 El Consejo Municipal de Protección Civil y en Coordinación con el Servicio de Bomberos, serán los órganos de la Administración Pública Municipal, encargado en forma directa de velar por la observancia y aplicación del presente titulo, pudiendo en caso de hacerse necesario hacer uso de la fuerza Pública para su debido cumplimiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 952.
 
 El Consejo Municipal de Protección Civil, dependerá de la Secretaría del H. Ayuntamiento y se constituirá por:
 
-I.- Un Coordinador que (sic) nombrado por el Presidente Municipal;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Un Coordinador que será nombrado por el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Un secretario Técnico;
 
-III.- Coordinación de Comunicación;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+III.- La Coordinación de Comunicación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE MARZO DE 2018)</small>
 
 IV.- Personal Operativo, Verificadores, Peritos, Capacitadores, Asesores Especializados, etc.;
 
-V.- Coordinador de Grupos Voluntarios y Patronato; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VI.- Bases Municipales que se establezcan conforme al Programa Municipal de Protección Civil.
+V.- Un Coordinador de Grupos Voluntarios y Patronato, y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+VI.- Las Bases Municipales que se establezcan conforme al Programa Municipal de Protección Civil.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13339,11 +13923,11 @@ II.- Cumplir y cooperar para que se cumplan las medidas de seguridad y prevenci�
 
 III.- Solicitar al Consejo Municipal de Protección Civil y al servicio de bomberos la revisión y aprobación en su caso de los sistemas o aparatos de seguridad que deberá efectuarse con diez días de anticipación a la fecha de su ocupación misma.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 958.
 
-Es responsabilidad del propietario, poseedores, administrador, usuario, arrendatario o detentador de los inmuebles de que se trate, la Seguridad de sus ocupantes, y el debido y correcto funcionamiento de los sistemas y aparatos de seguridad, y el cumplimiento con las contenidas en este Libro y en las (sic) demás ordenamientos legales que le sean aplicables.
+Es responsabilidad del propietario, poseedor, administrador, usuario, arrendatario o detentador de un bien inmueble, la seguridad de sus ocupantes, y el debido y correcto funcionamiento de los sistemas y aparatos de seguridad, de conformidad con las normas contenidas en el presente libro y en los demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13439,11 +14023,11 @@ IX.- La política de comunicación social; y
 
 X.- Los criterios y bases para la realización de simulacros.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 966.
 
-El sub.-Programa de auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riego (sic), siniestro o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
+El subprograma de auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, siniestro o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13651,19 +14235,29 @@ No surtirán efectos los actos, convenios y contratos relativos a la propiedad o
 
 No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en éste Código, y en los Programas de Desarrollo Urbano.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 982.
 
-Son atribuciones del Ayuntamiento en materia de Desarrollo Urbano:
+Son atribuciones del Ayuntamiento en materia de desarrollo urbano:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Elaborar, aprobar, ejecutar, controlar, modificar, actualizar y evaluar los programas municipales de desarrollo urbano y de vivienda, así como los demás que de estos se deriven;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Formular y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, y de conformidad con las normas contenidas en este Código;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Promover y planear el equilibrado desarrollo de las diversas comunidades y centros de población del Municipio, mediante una adecuada planificación y zonificación de los mismos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Coordinar el programa Municipal con el Estatal y Nacional de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano y de vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
 
@@ -13671,63 +14265,121 @@ V.- Promover y determinar conjuntamente con el Gobierno del Estado, con base en 
 
 VI.- Coordinar con las dependencias estatales la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
-VIII.- Proponer al Congreso del Estado la fundación de centros de población, así como la asignación de las categorías administrativas de las localidades, dentro de los límites de su jurisdicción;
+VIII.- (DEROGADA, P.O. 26 DE MARZO DE 2018)
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Promover la participación de los sectores social y privado del Municipio en la formulación, ejecución, modificación, actualización y evaluación del Programa Municipal de Desarrollo Urbano y sus derivados;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Gestionar la inscripción del Programa Municipal de desarrollo urbano y sus derivados, en el Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Llevar el registro de los programas municipales de desarrollo urbano y de vivienda, para su difusión, consulta pública, control y evaluación;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Gestionar y promover el financiamiento para la realización del Programa de Desarrollo Urbano en el Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Intervenir en la regularización de la tenencia de la tierra, en coordinación con las dependencias correspondientes;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIV.- Controlar los programas de inversión pública del Gobierno Municipal, vigilando el cumplimiento de los mismos; e informando sobre el ejercicio de la inversión a la Contaduría Mayor de Hacienda del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XV.- Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal las acciones necesarias para preservar y controlar la ecología en los asentamientos humanos del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVI.- Promover y ejecutar obras para que todos los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVII.- Proponer al Ejecutivo del Estado, la celebración de convenios con la Federación que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano, que se realicen dentro de su jurisdicción;
 
-XVIII.- Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales municipales que les correspondan; realizando las donaciones respectivas, así como constituido (sic) las garantías que les señala este Código u otros ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XVIII.- Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, derechos, aprovechamientos o contribuciones fiscales municipales que les correspondan, que hayan realizado las donaciones respectivas y constituido las garantías previstas en el presente Código y demás ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIX.- Llevar el registro de las colonias, fraccionamientos, condominios, barrios y zonas urbanas en el Municipio, así como de las asociaciones que sus habitantes integren;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XX.- Emitir opinión sobre la autorización de fraccionamientos y condominios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXI.- Determinar las áreas y predios que conforme a este Código deberán donar al Municipio los fraccionadores y promoventes de condominios;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXII.- Determinar el aprovechamiento de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en este Código y en los programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIII.- Municipalizar los fraccionamientos, cuando se hayan cubierto los requisitos legales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXIV.- Vigilar que, en los fraccionamientos que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a este Código y la autorización respectiva;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXV.- Promover o ejecutar fraccionamientos populares o de interés social y condominios de orden público;
 
-XXVI.- Impedir, en coordinación con la SEDESO, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XXVII.- Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
+XXVI.- Impedir, en coordinación con la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
 
-XXVIII.- Autorizar las solicitudes de relotificación, fusión y subdivisión de predios en los casos de su competencia y conforme a lo dispuesto en este Código;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XXVII.- Promover que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XXVIII.- Autorizar las solicitudes de relotificación, fusión y subdivisión de predios en los casos de su competencia y conforme a lo dispuesto por el presente código y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIX.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, así como para la colocación y retiro de anuncios;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXX.- Expedir las constancias de compatibilidad urbanística;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXI.- Elaborar las cartas urbanas que contengan las fallas geológicas detectadas y sus posibles ramificaciones, mismas que deberán actualizarse periódicamente;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXIII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda y transporte en su jurisdicción;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXIV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXV.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXVI.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
@@ -13775,11 +14427,11 @@ IV.- Los programas subregionales de desarrollo urbano.
 
 Los programas de desarrollo urbano básicos, son aquellos que establece la Ley General de Asentamientos Humanos, como indispensables para la planeación urbana local. Los programas derivados, son aquellos que se desprenden de los básicos y tienen como finalidad regular un área o sector del desarrollo urbano con un mayor detalle físico o técnico.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 987.
 
-Los programas básicos y derivados que integran el Sistema Municipal de Planeación del Desarrollo Urbano, serán congruentes en lo conducente, con los planes y programas que expidan los gobierno (sic) Federal y Estatal, con base en las Leyes de Planeación y de Desarrollo Urbano.
+Los programas básicos y derivados que integran el Sistema Municipal de Planeación del Desarrollo Urbano, serán congruentes en lo conducente, con los planes y programas que expidan los gobiernos federal y estatal, con base en las leyes de planeación y de desarrollo urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13815,39 +14467,63 @@ XIII.- Anexo gráfico: que expresará en una forma descriptiva y clara el conten
 
 La estructura y contenido de los programas de desarrollo urbano tendrán que adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 989.
 
-El Programa Municipal de desarrollo urbano, tendrán (sic) por objetivo el desarrollo urbano integral de todo el Municipio, de los centros de población y sus áreas suburbanas.
+El Programa Municipal de desarrollo urbano, tendrá por objetivo el desarrollo urbano integral de todo el municipio, de los centros de población y sus áreas suburbanas.
 
-Estos programas contendrán la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del Municipio.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Este programa contendrá la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del municipio.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 990.
 
-El Programa Municipal de desarrollo urbano contendrán (sic) los elementos básicos a que se refiere el artículo 55 del Código Urbano para el Estado y además lo siguiente:
+El Programa Municipal de Desarrollo Urbano contendrá los elementos básicos previstos en el artículo 84 del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado y además lo siguiente:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- La congruencia del Programa Municipal de Desarrollo Urbano, con los Planes Nacional, Estatal y Municipal de Desarrollo;
 
-II.- La circunscripción territorial que comprende el Municipio en cada caso, atendiendo a lo dispuesto en la Constitución del Estado y en la legislación aplicable;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II.- La circunscripción territorial del municipio:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Las bases técnicas necesarias para la elaboración y ejecución de los programas operativos, que se vayan a realizar en el territorio del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- La zonificación primaria y secundaria del territorio del Municipio, atendiendo a lo dispuesto en este Código y al Programa Estatal de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento de los centros de población en el territorio del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- La determinación de los límites de los centros de población ubicados en el territorio del Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- La zona urbana, la reservada para su expansión futura y las zonas de preservación ecológica de los centros de población del Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Los usos y destinos del suelo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Las reservas de áreas y predios;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- La estructura urbana y las infraestructuras básicas definidas para cada centro de población; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Los esquemas de desarrollo urbano que procedan, en aquellas zonas o centros de población que por sus características propias no requieran de la formulación de un programa.
 
@@ -13973,13 +14649,15 @@ En los casos no previstos en el párrafo anterior, las autoridades competentes p
 
 Se establecerán programas integrales de manejo de áreas naturales protegidas y áreas con presencia de fallas geológicas, mediante los cuales se definirán las acciones para la preservación y óptimo aprovechamiento de dichas zonas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1005.
 
-El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deterioradas, física o funcionalmente, de un centro de población.
+El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deterioradas física o funcionalmente de un centro de población.
 
-Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por los Gobiernos Estatal o Municipales espacios (sic) dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas espacios destinados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14203,17 +14881,17 @@ Para efectos de este Código, vía pública es todo espacio de uso común que po
 
 Este espacio está limitado por el plano virtual vertical sobre la traza del alineamiento oficial o el lindero de dicha vía pública.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1022.
 
-Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del Gobierno del Estado o de (sic) del Municipio, en el Archivo Histórico de Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinados a un servicio público a que se refiere la Ley del Estado.
+Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del gobierno del Estado o del municipio, en el Archivo Histórico del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá, salvo prueba en contrario, que es vía pública y pertenece al propio municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinados a un servicio público.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1023.
 
-Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a (sic) algún servicio público se considerarán, por ese sólo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro e Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
+Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a un servicio público, a vías públicas o al uso común, se considerarán, por ese sólo hecho, como bienes del dominio público del municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y al Instituto Catastral para que hagan los registros y las cancelaciones respectivas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -14267,11 +14945,11 @@ V.- Para construir comercios semifijos en vías públicas; y
 
 VI.- Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1027.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Obras Públicas y Desarrollo Urbano señale. Si este plazo fuese sobre excedido, la misma Dirección de Obras Públicas y Desarrollo Urbano bano (sic) realizará los trabajos con cargo al dueño, independientemente de las sanciones que conforme al libro noveno del presente Código, sean aplicables.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Obras Públicas y Desarrollo Urbano señale. Si este plazo fuese excedido, la misma Dirección de Obras Públicas y Desarrollo Urbano realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables de conformidad con lo previsto en el libro noveno del presente código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -14453,19 +15131,29 @@ II.- Tratándose de hombre o personajes ilustres, deberán acompañarse con los 
 
 III.- Los nombres propuestos no deberán contravenir a la moral y las buenas costumbres.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1048.
 
-Toda solicitud de nomenclatura deberán (sic) apegarse al siguiente procedimiento:
+Toda solicitud de nomenclatura oficial deberá apegarse al siguiente procedimiento:
 
-I.- Presentada la solicitud por escrito a la Secretaria de Desarrollo Urbano Municipal emitirá dictamen positivo o negativo en base a lo establecido en este Libro y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Presentada la solicitud por escrito, la Dirección de Obras Públicas y Desarrollo Urbano emitirá dictamen positivo o negativo en base a lo establecido en este libro y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Cuando el dictamen sea positivo se turnará a la Secretaría del H. Ayuntamiento, para incorporarlo a la orden del día de la siguiente sesión ordinaria de Cabildo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Sometida a la consideración del Cabildo se propondrá para su aprobación; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Una vez dictada la resolución definitiva se notificará a los interesados.
 
@@ -14505,17 +15193,25 @@ X.- Cuando existan manzanas con diferente longitud, deberá prevalecer la numera
 
 XI.- Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Obras Públicas y Desarrollo Urbano; y
 
-XII.- Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una sólo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XII.- Cuando las cabeceras de manzanas de una glorieta o plaza cuenten con nomenclatura propia y existan varias construcciones con acceso a éstas, se asignará una nueva numeración en nones con una sola centena, bajo la nomenclatura de la glorieta o plaza.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1051.
 
-Los particulares, promoventes o fraccionadores deberán presentar solicitud por escrito para la asignación de números oficiales que contendrán:
+Los particulares, promoventes o fraccionadores deberán presentar solicitud por escrito para la asignación de números oficiales, misma que contendrá:
 
-I.- Cuando se trate de un fraccionamiento o condominio el original o maduro con dos copias del plano del fraccionamiento con dos copias del plano del fraccionamiento (sic) o condominio, con certificación de la autorización de la Comisión Estatal de Desarrollo Urbano o de la Secretaría de Planeación del Estado según sea el caso; copia de escritura pública de las áreas de donación a favor del H. Ayuntamiento; recibo del pago de derechos municipales por las obras de urbanización; y, recibo de pago de los derechos por asignación de números oficiales;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-II.- Cuando se trate de propietarios de predios individuales, copia certificada del documento que acredite la propiedad, copia del último pago de impuesto predial, constancia de alineamiento y compatibilidad urbanística;
+I.- Cuando se trate de un fraccionamiento o condominio, el original con dos copias del plano del fraccionamiento o condominio, con certificación de la autorización de la Comisión Estatal de Desarrollo Urbano o de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral según sea el caso; copia de escritura pública de las áreas de donación a favor del H. Ayuntamiento; recibo del pago de derechos municipales por las obras de urbanización; y, recibo de pago de los derechos por asignación de números oficiales;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II.- Cuando se trate de propietarios de predios individuales, copia certificada del documento que acredite la propiedad, copia del último pago de impuesto predial y constancia de alineamiento y compatibilidad urbanística y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Cuando el promovente o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
@@ -14557,11 +15253,11 @@ IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento 
 
 Son causas de Ratificación de número oficial cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Obras Públicas y Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1056.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Obras Públicas y Desarrollo Urbano procederá a expedir un documento en el en el (sic) que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente capítulo, la Dirección de Obras Públicas y Desarrollo Urbano procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14723,17 +15419,17 @@ El tiempo de vigencia de las licencias de construcción que expida la Secretaria
 
 La propia Dirección de Obras Públicas y Desarrollo Urbano, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-I.- Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
+I.- Para la construcción de obras con superficie de hasta de (sic) trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
+II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario, y
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-III.- Se tendrá opción a solicitar a la Dirección de Obras Públicas y Desarrollo Urbano, dentro del plazo de vigencia de la Licencia, a (sic) una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
+III.- Se tendrá opción a solicitar a la Dirección de Obras Públicas y Desarrollo Urbano, dentro del plazo de vigencia de la licencia, una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -14979,9 +15675,9 @@ I.- Solicitud y bitácora llenas y firmadas por perito responsable de obra, peri
 
 II.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-III.- Copia de la boleta del numero oficial obtenida en la ventanilla correspondiente del (sic) Subdirección de Desarrollo Urbano;
+III.- Copia de la boleta del número oficial obtenida en la ventanilla correspondiente de la Subdirección de Desarrollo Urbano;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -15011,9 +15707,9 @@ IX.- Plano del proyecto con la autorización de Pemex;
 
 X.- Planos de la instalación hidráulica y sanitaria autorizados por el organismo municipal rector del agua potable y alcantarillado;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XI.- Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la Secretaría de Planeación del Estado;
+XI.- Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15027,9 +15723,9 @@ XIII.- Planos de planta de conjunto indicando accesos, salidas, circulaciones de
 
 XIV.- Planos arquitectónicos de conjunto indicando, área de tanque de almacenamiento, área de oficinas, baño, vestidores, dormitorios y comercios, área de despacho, de combustible, áreas jardinadas, etc. firmados por el perito responsable de obra;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XV.- Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas de el edificio administrativo firmados por el perito responsable de obra; y
+XV.- Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas del edificio administrativo firmados por el perito responsable de obra;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15039,11 +15735,17 @@ XVI.- Presentar Dictamen de Impacto Ambiental autorizado por las instancias corr
 
 XVII.- Además de lo anterior:
 
-a) El proyecto deberá cumplir con las especificaciones de Pemex, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística, en el presente libro y el Código Urbano;
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-b) Se requerirá la autorización del proyecto por parte de la Secretaría de Planeación del Estado en desarrollos comerciales y de servicios que ocupen una superficie superior a cinco mil metros cuadrados;
+a) El proyecto deberá cumplir con las especificaciones de Pemex, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística, en el presente libro y el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado;
 
-c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventilación natural, únicamente en los casos que el presente Libro lo considera factible, deberá presentar planos y constancia de la empresa comercial que proveyó el equipo, que indique la capacidad de ventilación de la instalación de aire acondicionado y/o extractores, conforme a lo que indica para ésta el título correspondiente a proyecto arquitectónico del presente Libro; y
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+b) Se requerirá la autorización del proyecto por parte de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral en desarrollos comerciales y de servicios que ocupen una superficie superior a cinco mil metros cuadrados;
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventilación natural, únicamente en los casos que el presente libro lo considera factible, deberá presentar planos y constancia de la empresa comercial que proveyó el equipo, que indique la capacidad de ventilación de la instalación de aire acondicionado y/o extractores, conforme a lo que indica para ésta el título correspondiente a proyecto arquitectónico del presente libro, y
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
 
@@ -15145,7 +15847,7 @@ En las demás zonas, colonias y fraccionamientos que conforman la ciudad y las �
 
 I.- En vialidades de tipo local:
 
-Se entenderá por vialidad de tipo local a todas aquellas calles y/o andadores que son exclusivamente de acceso directo a las casas y/o departamentos habitacionales. En este tipo de calles nos se permite el tránsito vehicular pesado, ni de carga, ni de pasajeros, tampoco las rutas de transporte público y urbano.
+Se entenderá por vialidad de tipo local a todas aquellas calles y/o andadores que son exclusivamente de acceso directo a las casas y/o departamentos habitacionales. En este tipo de calles nos (sic) se permite el tránsito vehicular pesado, ni de carga, ni de pasajeros, tampoco las rutas de transporte público y urbano.
 
 En este tipo de vialidad no se permitirá ningún tipo de propaganda, publicidad o anuncio que se localice en bardas o muros de las viviendas, dentro de predios soportados por estructuras y en azoteas.
 
@@ -15233,17 +15935,17 @@ b) En Estructuras de Tipo Especial tales como Puentes Vehiculares o Ferroviarios
 
 II.- Especializados en Instalaciones. Serán los que están debidamente acreditados en la dependencia que corresponda en razón de la especialidad y las autoridades que deban hacer cumplir las Normas Oficiales Mexicanas relacionadas con el tipo de instalaciones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1088.
 
-Para tener derecho a aparecer en el Registro de Peritos o Refrendar su calidad como tal, se requiere:
+Para tener derecho a inscribirse en el Registro de Peritos o refrendar su calidad como tal, se requiere:
 
-I.- Tener título profesional de ingeniero civil o, arquitecto o licenciado en urbanismo;
+I.- Tener título profesional de ingeniero civil, arquitecto o licenciado en urbanismo;
 
-II.- Estar domiciliado en el Municipio d (sic) Pabellón de Arteaga, por lo menos dos años, de los cuales el año anterior a la solicitud de registro sea comprobable su experiencia en construcción de edificación;
+II.- Estar domiciliado en el Municipio de Pabellón de Arteaga por cuando menos los dos años anteriores y con comprobable experiencia en construcción, y
 
-III.- Presentar por escrito su Curriculum vitae.
+III.- Presentar por escrito su Currículo vitae.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15355,7 +16057,7 @@ Los locales de las edificaciones según su tipo tendrán el mínimo de las dimen
 
 REQUERIMIENTOS DE HABITABILIDAD Y FUNCIONAMIENTO
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15465,9 +16167,9 @@ Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpl
 
 Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-I.- Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
+I.- Todos los locales de un edificio deberán tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -15617,11 +16319,11 @@ Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1125.
 
-Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Obras Públicas y Desarrollo Urbano.
+Cuando se utilicen plafones a base de materiales que no sean a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15687,7 +16389,9 @@ c) Educación Superior y Centro de Investigación: 1 por cada 25 m² construidos
 
 IV.- Instalaciones Religiosas:
 
-a) Templos: 1 por cada 20 m² construidos; construidos (sic);
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+a) Templos: 1 por cada 20 m2 construidos;
 
 b) Conventos y Monasterios 1 por cada 100 m² construidos;
 
@@ -16781,7 +17485,9 @@ Toda estructura y sus componentes deberán diseñarse para cumplir con los requi
 
 I.- Seguridad ante la Falla.- Soportar con seguridad todas las cargas y sus combinaciones que tengan una probabilidad no despreciable de ocurrir sin que se excedan los Estado Límite de Falla definidos en este Libro;
 
-II.- Comportamiento bajo Cargas de Servicio.- No rebasar ninguno de los (sic) Estado Límite de Servicio definidos en este Libro ante combinaciones de acciones que correspondan a condiciones normales de operación; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II.- Comportamiento bajo Cargas de Servicio.- No rebasar ninguno de los estados límite de servicio definidos en este libro ante combinaciones de acciones que correspondan a condiciones normales de operación, y
 
 III.- Comportamiento bajo Otras Acciones.- Evitar los efectos perjudiciales en la estructura debidos a asentamientos diferenciales de la cimentación, empujes horizontales de tierras y líquidos, cambios de temperatura y de humedad, contracción y flujo plástico en los materiales, etc.
 
@@ -16833,7 +17539,9 @@ También se revisará que bajo el efecto de las posibles combinaciones de accion
 
 El factor de carga se tomará igual a algunos de los valores siguientes:
 
-I.- incluyan Para combinaciones de acciones que exclusivamente (sic) acciones permanentes y variables se aplicará un factor igual a uno punto cuatro. Cuando se trate de construcciones pertenecientes al grupo A, según la clasificación descrita en el presente Título, se aplicará un factor igual a uno punto cinco;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- incluyan Para combinaciones de acciones permanentes y variables, se aplicará un factor igual a uno punto cuatro. Cuando se trate de construcciones pertenecientes al grupo A, según la clasificación descrita en el presente Título, se aplicará un factor igual a uno punto cinco;
 
 II.- Para combinaciones de acciones que incluyan acciones permanentes, variables y accidentales se aplicará un factor igual a uno punto uno, el cual estará aplicado a todas las acciones que intervengan en la combinación; y
 
@@ -16961,19 +17669,19 @@ Cargas Vivas Durante la Construcción. Durante el proceso de construcción de un
 
 En toda edificación cuyo uso sea distinto al habitacional deberán colocarse placas metálicas en lugares fácilmente visibles, en las que se indique la carga viva unitaria máxima que se puede aplicar sobre la estructura de acuerdo al proyecto estructural del inmueble.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1287.
 
-Las deformaciones impuestas en una estructura pueden ser los de (sic) siguientes tipos:
+Las deformaciones impuestas en una estructura pueden ser de los siguientes tipos:
 
-Hundimientos diferenciales que se producen en una estructura y su cimentación y que tienen una intensidad variable con el tiempo.
+I.- Hundimientos diferenciales que se producen en una estructura y su cimentación y que tienen una intensidad variable con el tiempo.
 
-I.- Deformaciones producidas por cambios de temperatura sobre las estructuras;
+II.- Deformaciones producidas por cambios de temperatura sobre las estructuras;
 
-II.- Efectos de contracción por fraguado en estructuras de concreto; y
+III.- Efectos de contracción por fraguado en estructuras de concreto, y
 
-III.- Deformaciones impuestas a la estructura como consecuencia del proceso constructivo.
+IV.- Deformaciones impuestas a la estructura como consecuencia del proceso constructivo.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17173,11 +17881,13 @@ Hi.- espesor del estrato (mt)
 
 Gi.- módulo de rigidez a cortante del estrato (ton/m2)
 
-III.- Criterio e (sic) determinación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 26 DE MARZO DE 2018)</small>
 
-si.- ?< 0.20 terreno tipo I
+III.- Criterio se (sic) determinación:
 
-si.- 0.20 < ? < o.78 terreno II
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+si.- 0.20 <? < 0.78 terreno II
 
 y.- ??Hi / ??> 80 terreno tipo II
 
@@ -17653,15 +18363,11 @@ III.- Fijos: En las obras que se ejecuten en un predio a una distancia menor de 
 
 IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Dirección de Obras Públicas y Desarrollo Urbano podrá exigir, que se construya un paso cubierto, además del tapial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1366.
 
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de la (sic) señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Obras Públicas y Desarrollo Urbano su traslado provisional a otro lugar.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
+Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Obras Públicas y Desarrollo Urbano su traslado provisional a otro lugar.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17711,15 +18417,13 @@ Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones 
 
 La autorización que la Dirección de Obras Públicas y Desarrollo Urbano otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1373.
 
-Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
+Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente capítulo.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-La Dirección de Obras Públicas y Desarrollo Urbano señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.,
+La Dirección de Obras Públicas y Desarrollo Urbano señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros, sitios que deben cumplir con la normatividad en materia ambiental.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -18359,11 +19063,11 @@ La Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar el cambio 
 
 En construcciones ya ejecutadas, la Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1452.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece en (sic) artículo anterior, la Dirección de Obras Públicas y Desarrollo Urbano ordenará, con base en dictamen técnico lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el artículo anterior, la Dirección de Obras Públicas y Desarrollo Urbano ordenará, con base en dictamen técnico lo siguiente:
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18407,7 +19111,7 @@ Quedan prohibidas instalaciones y construcciones precarias en las zonas de las e
 
 ### CAPITULO SEGUNDO. De las Licencias, Permisos y el Empadronamiento
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1455.
 
@@ -18481,11 +19185,19 @@ XXIX.- ZONA DE TOLERANCIA: Área perfectamente delimitada y controlada por la au
 
 ###### ARTICULO 1456.
 
-Para realizar cualquier actividad comercial, industrial o de prestación de servicios en el Municipio de Pabellón de Arteaga, tanto en domicilio particular como en espacio público, se requiere contar previamente con licencia o permiso expedido por el H. Ayuntamiento de Pabellón de Arteaga, a través de la Secretaría Municipal e inscribirse en el Padrón Municipal.
+Para realizar cualquier actividad comercial, industrial o de prestación de servicios en el municipio de Pabellón de Arteaga, tanto en domicilio particular como en espacio público, se requiere contar previamente con licencia o permiso expedido por el H. Ayuntamiento de Pabellón de Arteaga, a través de la Secretaría del H. Ayuntamiento e inscribirse en el Padrón Municipal.
 
-Dicha licencia se otorga a favor de una persona determinada, para la explotación de un giro en un domicilio cierto, tiene carácter temporal, personal e intransferible, por lo que son intransferibles los derechos que de ella se derivan.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-Las licencias y permisos a que se refiere el presente libro, en caso de no tener asentado un plazo menor, tendrán una vigencia anual y deberán ser renovados a más tardar el 31 de marzo de cada año, en caso contrario quedan automáticamente sin efectos, por lo que para continuar ejerciendo la actividad comercial, industrial y de prestación de servicios, se requiere tramitar la licencia o permiso, como si éstos se tramitaran por primera vez.
+Dicha licencia o permiso se otorga a favor de una persona determinada, para la explotación de un giro en un domicilio cierto, tiene carácter temporal, personal e intransferible, por lo que son intransferibles los derechos que de ella se derivan.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Las licencias y permisos a que se refiere el presente libro, en caso de no tener asentado un plazo menor, tendrán una vigencia anual y deberán ser renovados a más tardar el 31 de marzo de cada año, en caso contrario quedan automáticamente sin efectos por conclusión de su vigencia, en los términos del artículo 9 fracción VII de la Ley del Procedimiento Administrativo del Estado, por lo que para continuar ejerciendo la actividad comercial, industrial y de prestación de servicios, se requiere tramitar la licencia o permiso, como si éstos se tramitaran por primera vez.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+En el caso previsto en el párrafo anterior, no se requiere declaración expresa de la autoridad, ni acuerdo administrativo alguno, por tratarse de la omisión del ejercicio de un derecho por parte del particular, por lo que se considera un acto libremente consentido.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18535,11 +19247,11 @@ IX.- Constancia de no adeudos de cualquier contribución municipal; y
 
 X.- Planos del Proyecto de construcción y los servicios como: luz, agua, drenaje, gas, teléfono, equipos electrodomésticos, aire acondicionado, sistema de iluminación y espacios adecuados para el ejercicio de la prostitución.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1459.
 
-La omisión de cualquiera de los requisitos que señalan los artículos anteriores, dará lugar a que no se dé trámite y se rechace la solicitud, dando un plazo de diez días para que el solicitante subsane dichas omisiones, en caso de de (sic) que proceda.
+La omisión de cualquiera de los requisitos que señalan los artículos anteriores, dará lugar a que no se dé trámite y se rechace la solicitud, dando un plazo de diez días para que el solicitante subsane dichas omisiones, en caso de que proceda.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18555,11 +19267,11 @@ III.- Que su ubicación no afecte la vialidad en el perímetro circundante al lu
 
 IV.- Que cuente con las instalaciones de acústica, que evite ruidos o sonidos excesivos, que causen molestias a los vecinos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1461.
 
-En los establecimientos para la venta y consumo de bebidas alcohólicas y el ejercicio de la prostitución y los expendios de cerveza y/o vinos y licores, además debe contener:
+En los establecimientos para la venta y consumo de bebidas alcohólicas, el ejercicio de la prostitución y la venta de cerveza y/o vinos y licores, además de los requisitos señalados en el artículo anterior, el dictamen técnico debe contener:
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18591,13 +19303,17 @@ III.- Que Cuente con servicios y muebles sanitarios en condiciones higiénicas w
 
 IV.- Que cuente con mobiliario general en condiciones adecuadas e higiénicas;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-V.- Que ocupe un sólo inmueble y que sus instalaciones interiores no estén a la vista de inmuebles vecinos. Las ventanas, balcones o puertas exteriores no permitirán la visibilidad desde edificaciones cercanas, por lo que tendrán cortinas, accesorios o vidrios con características que lo impidan; y
+V.- Que ocupe un sólo inmueble y que sus instalaciones interiores no estén a la vista de inmuebles vecinos. Las ventanas, balcones o puertas exteriores no permitirán la visibilidad desde edificaciones cercanas, por lo que tendrán cortinas, accesorios o vidrios con características que lo impidan;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
 
-VI.- Que se ubiquen en la zona autorizada según constancia de alineamiento y compatibilidad urbanística.
+Adición (sic) VI.- Que cuente con los elementos arquitectónicos o de construcción que eviten la salida del ruido hacia el exterior y la vista de la vía pública hacia el interior, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2018)</small>
+
+VII.- Que se ubiquen en la zona autorizada según constancia de alineamiento y compatibilidad urbanística.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18615,7 +19331,7 @@ Si de los dictámenes técnicos se desprende que no se cubre alguno de los requi
 
 ###### ARTICULO 1464.
 
-Si el dictamen técnico determina que se cubren la totalidad de los requisitos señalados en los artículos anteriores, y se reúnen los demás previstos por el presente Código y otras leyes aplicables en la materia, se procederá a expedir el documento correspondiente por la Secretaía del H. Ayuntamiento y la Dirección de Finanzas y Administración; debiendo solicitarse para garantizar el cumplimiento de las obligaciones que le establece a su titular el presente Código y el pago de las contribuciones municipales, la exhibición de una fianza.
+Si el dictamen técnico determina que se cubren la totalidad de los requisitos señalados en los artículos anteriores, y se reúnen los demás previstos por el presente Código y otras leyes aplicables en la materia, se procederá a expedir el documento correspondiente por la Secretaria del H. Ayuntamiento y la Dirección de Finanzas y Administración; debiendo solicitarse para garantizar el cumplimiento de las obligaciones que le establece a su titular el presente Código y el pago de las contribuciones municipales, la exhibición de una fianza.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18651,19 +19367,29 @@ III.- Los comerciantes de revistas científicas, libros y periódicos; y
 
 IV.- Los discapacitados, pensionados y personas de la tercera edad.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, [N. DE E. REPUBLICADO ESTE PÁRRAFO] P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1469.
 
 Las licencias y permisos a que se refiere este libro, dejarán de surtir sus efectos por:
 
-I.- La conclusión del período por el cual fueron otorgados;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-II.- No iniciar el solicitante su actividad dentro el (sic) término de noventa días siguientes a su expedición, sin haber solicitado extensión del término, fundando y motivando dicha solicitud;
+I.- La conclusión del periodo por el cual fueron otorgados y no renovarse en el plazo establecido por el presente código;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+II.- No iniciar el solicitante su actividad dentro del término de noventa días siguientes a su expedición, sin haber solicitado extensión fundando y motivando dicha solicitud;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Incurrir el titular en más de tres infracciones al presente Código;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Cambiar el giro para el que se hubiese otorgado el permiso o licencia sin previa autorización del Ayuntamiento; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- No renovar el permiso o licencia en el plazo señalado por este Código.
 
@@ -19123,7 +19849,7 @@ La reincidencia de las contravenciones a estas normas, será motivo suficiente p
 
 ### CAPITULO PRIMERO. De la Venta y Consumo de Bebidas Alcohólicas
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1507.
 
@@ -19159,7 +19885,7 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 ###### ARTICULO 1511.
 
-Son objeto de regulación de este Título, los establecimientos que vendan bebidas alcohólicas que contengan más del 2% de alcohol, las sustancias de efecto psicotrópico señaladas en la Ley General de Salud, todos aquellos productos cuyo (sic) inhalación produce o puede producir efectos psicotrópicos o similares, así como el ejercicio de la prostitución.
+Son objeto de regulación de este título los establecimientos que vendan bebidas alcohólicas que contengan más del 2% de alcohol, las sustancias de efecto psicotrópico señaladas en la Ley General de Salud, todos aquellos productos cuya inhalación produce o puede producir efectos psicotrópicos o similares, así como el ejercicio de la prostitución.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19179,11 +19905,11 @@ Las licencias y permisos que se otorguen al amparo de este Código, en cualquier
 
 Se requiere permiso especial para degustaciones, regalos y rifas de bebidas alcohólicas en lugares públicos.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1515.
 
-Los establecimientos en los cuales se desarrolle la venta de los productos señalados en el presente capítulo, deberán cumplir con los requisitos de higiene, salubridad, seguridad y protección a la moral pública que el Ayuntamiento determine mientras se encuentra operando.
+Los establecimientos que vendan los productos señalados en el presente capítulo, deberán cumplir, mientras se encuentran operando, con los requisitos de higiene, salubridad, ecología, protección civil, seguridad y protección a la moral pública que el Ayuntamiento determine.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19221,11 +19947,15 @@ Cantina es todo establecimiento dedicado específicamente a la venta y consumo d
 
 En las cantinas, bares y videobares se permitirán los juegos de mesa tales como; ajedrez, damas chinas, dominó y cubilete, sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado, y que los mismos no sean atentatorios a la moral y buenas costumbres, entendiéndose por esto, aquellos donde exhiban escenas de contenido erótico o que inciten al sexo. Esta prohibición es aplicable a todos los establecimientos regulados en el presente capitulo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1520.
 
 Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas y funcionará de las 12:00 horas a la 24:00 horas, se permitirá el ingreso a menores acompañados de un adulto y su permanencia será hasta las 19:00 horas.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Este tipo de establecimientos no podrán tener música en vivo, ni permitir el baile, ni ruido excesivo de aparatos de sonido, evitando que el sonido salga al exterior, para lo cual se deberán instalar los aditamentos o instalaciones necesarias.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19339,7 +20069,9 @@ Dicha autorización se dará para cada ocasión específica, que en ningún caso
 
 Son obligaciones de los titulares de las licencias o permisos a que se refiere este capítulo, las siguientes:
 
-I.- Tener a la vista la licencia o permiso, que le otorgue la Presidencia Municipal;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Contar con la licencia o permiso expedido por la Presidencia Municipal y tenerla a la vista del público;
 
 II.- Exhibir en lugares visibles al público y en forma legible, la lista de precios autorizados para la venta de sus productos;
 
@@ -19357,7 +20089,9 @@ VIII.- Respetar el horario autorizado, por este Código, evitando que los client
 
 IX.- Colocar en lugares visibles letreros, que indiquen al público, las áreas de trabajo, zonas restringidas o de peligro, salidas de emergencia, y servicios sanitarios;
 
-X.- Abstenerse de utilizar la vía pública para la realización de la (sic) actividades propias del giro;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+X.- Abstenerse de utilizar la vía pública para la realización de las actividades propias del giro;
 
 XI.- Negar la venta o consumo de bebidas alcohólicas a menores de edad, policías o militares uniformados;
 
@@ -19365,13 +20099,21 @@ XII.- Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pa
 
 XIII.- Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de Héroes Nacionales;
 
-XIV.- Permitir el libre acceso a los verificadores del (sic) los Departamentos de Regulación Sanitaria y Reglamentos y Licencias para la realización de sus funciones;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XIV.- Permitir el libre acceso a los verificadores de los departamentos de Regulación Sanitaria y Reglamentos y Licencias para la realización de sus funciones;
 
 XV.- Evitar que en sus establecimientos se atente contra la moral, buenas costumbres o se altere el orden público;
 
 XVI.- Evitar que en los lugares autorizados exclusivamente para la venta de bebidas alcohólicas en botella cerrada, se consuman dentro del establecimiento o en un radio de 50 metros en la vía pública; y
 
-XVII.- Respetar cualquiera de las limitaciones que le impone este Capítulo, al giro de que se trate, así como las demás que se desprendan de la Ley.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 2018)</small>
+
+XVII.- Evitar contar con aparatos de sonido de cualquier tipo que emitan ruido excesivo y que éste trascienda al exterior, causando molestias a los vecinos, y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XVIII.- Respetar cualquiera de las limitaciones que le impone el presente código según al giro de que se trate, así como las demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21013,7 +21755,7 @@ A ninguna persona le será permitido sacar el estoque, ahondarlo y herir o moles
 
 ###### ARTICULO 1674.
 
-Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que siempre deberán ser de las reservas de este festejo. Si éstas han salido, sólo se permitirá la lidia de las que llenen los requisitos de este Código, jugándose al final de la lidia ordinaria y respetándose en su lidia los ARTICULOs respectivos del mismo.
+Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que siempre deberán ser de las reservas de este festejo. Si éstas han salido, sólo se permitirá la lidia de las que llenen los requisitos de este Código, jugándose al final de la lidia ordinaria y respetándose en su lidia los ARTICULOs (sic) respectivos del mismo.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21959,7 +22701,7 @@ En los casos que los participantes y/o expositores deseen cancelar su participac
 
 La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, además de la imposición de una sanción pecuniaria de 40 a 100 unidades de medida y actualización, que se hará efectiva por conducto de la Tesorería del Patronato.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ### CAPITULO SEXTO. De la Supervisión, Sanciones y Estímulos
 
@@ -22093,11 +22835,11 @@ El H. Ayuntamiento y el Patronato, podrán otorgar compensaciones o gratificacio
 
 Una vez realizada la auditoría a la fiesta o feria, el H. Ayuntamiento en pleno dictará las sanciones, estímulos o medidas que considere pertinentes.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 # LIBRO SEPTIMO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)Í
 
 ## TITULO SEXTO. DE LAS FERIAS Y FIESTAS MUNICIPALES
 
@@ -22417,7 +23159,7 @@ La inspección y vigilancia de todos los giros comerciales debe verificar que cu
 
 ###### ARTICULO 1832.
 
-Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla lugar.
+Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla (sic) lugar.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22769,11 +23511,13 @@ I.- Dar al público en general, con esmero y buen trato, la información que les
 
 II.- Recibir, trasladar, custodiar, vigilar y disponer el tratamiento de toda persona detenida y remitida por los elementos operativos de seguridad pública y vialidad, adscritos a la vigilancia del municipio.
 
-III.- Llevar un registro de las personas que se detienen en su tumo (sic), en el que se fijarán todos los datos relativos a su identidad, falta Administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+III.- Llevar el registro de las personas que se detienen en su tumo (sic), en el que se fijarán todos los datos relativos a su identidad, falta Administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición;
 
 IV.- Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Dirección de Seguridad Pública y Vialidad Municipal;
 
-V.- Llevar acabo un riguroso registro de las órdenes de libertad de los internos;
+V.- Llevar acabo (sic) un riguroso registro de las órdenes de libertad de los internos;
 
 VI.- Vigilar que antes de ingresar el detenido al Centro Municipal de Detención Preventiva, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzca con objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos, o para evitar una evasión;
 
@@ -22791,9 +23535,13 @@ XII.- En caso de que se suscite un conato de riña, robos, evasión de internos 
 
 XIII.- Dar aviso inmediato a la autoridad competente, en caso de que el interno necesite atención médica;
 
-XIV.- Permitir el acceso a las personas visitantes de los internos en los horarios establecidos para tal efecto, siempre que reúnan y cumplan con los requisitos señalados, de conformidad al presente Reglamento;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-XV.- Llevar acabo un registro de visitas, en el cual se contengan los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida del visitante;
+XIV.- Permitir el acceso a las personas visitantes de los internos en los horarios establecidos para tal efecto, siempre que reúnan y cumplan con los requisitos señalados por el presente código y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+XV.- Llevar acabo (sic) un registro de visitas con los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida;
 
 XVI.- Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo;
 
@@ -23179,11 +23927,11 @@ En caso de no recogerlas dentro del término señalado en el artículo anterior,
 
 Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Dirección de Finanzas y Administración del Municipio de Pabellón de Arteaga. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ### CAPITULO SEGUNDO. De las Faltas Cívicas
 
@@ -23345,11 +24093,11 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 Constituye una falta cívica la acción u omisión, individual o de grupo, realizada en un lugar público o cuyos efectos se manifiesten en él, que altere o ponga en peligro la seguridad pública, el orden público, el civismo o la integridad, salubridad, tranquilidad, dignidad y moralidad de las personas o sus propiedades en los términos de este Código.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1928.
 
-Son “Lugares Públicos”, todo espacio de uso común o libre tránsito, como las plazas, calles, avenidas, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas; los inmuebles públicos o privados de acceso general como mercados, templos, cementerios, centros de diversión, de recreo, de reunión, deportivos, de espectáculos, comerciales, destinados a la prestación de servicios públicos; inmuebles y vehículos destinados al servicios (sic) de transporte público; y lugares de uso común de los inmuebles sujetos al régimen de propiedad en condominio.
+Son "Lugares Públicos", todo espacio de uso común o libre tránsito, como las plazas, calles, avenidas, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas; los inmuebles públicos o privados de acceso general como mercados, templos, cementerios, centros de diversión, de recreo, de reunión, deportivos, de espectáculos, comerciales, destinados a la prestación de servicios públicos; inmuebles y vehículos destinados al servicio de transporte público; y lugares de uso común de los inmuebles sujetos al régimen de propiedad en condominio.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23481,7 +24229,9 @@ VII.- Incinerar materiales de cualquier tipo, en vía y lugares públicos que pu
 
 VIII.- La infracción a las obligaciones previstas en el artículo 480 del presente Código;
 
-IX.- Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores (sic) o la presencia de plagas que afecten a los vecinos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Poseer animales sin adoptar las medidas de higiene para evitar hedores y la presencia de plagas que afecten a los vecinos;
 
 X.- Abstenerse de recoger de la vía o espacio público las heces fecales de un animal de su propiedad o que está bajo su custodia; y
 
@@ -23509,7 +24259,9 @@ VII.- Permitir o ejercer la prostitución en lugares públicos no permitidos y s
 
 VIII.- Realizar en lugares públicos actos y conductas obscenas en contra de la moral y las buenas costumbres;
 
-IX.- Permitir o promover a los menores de edad el accesos (sic) a lugares en los que les esté expresamente prohibido por la Ley o las disposiciones reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+IX.- Permitir o promover a los menores de edad el acceso a lugares en los que les esté expresamente prohibido por la Ley o las disposiciones reglamentarias aplicables;
 
 X.- Difundir, poner a la vista o vender cualquier tipo de material con sexo explícito o imágenes que vayan en contra de la moral y las buenas costumbres;
 
@@ -23899,11 +24651,11 @@ Si el probable infractor resulta no ser responsable de la infracción imputada, 
 
 Si resulta responsable, al notificarle la resolución, el Juez le informará que podrá elegir entre cubrir la multa o cumplir el arresto que le corresponda en caso de tener derecho a ello; si sólo estuviere en posibilidad de pagar parte de la multa, se le recibirá el pago parcial y el Juez le permutará la diferencia por un arresto, en la proporción o porcentaje que corresponda a la parte no cubierta, subsistiendo esta posibilidad durante el tiempo de arresto del infractor.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1984.
 
@@ -23911,7 +24663,7 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
+### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos y Ecología
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24135,7 +24887,7 @@ En el caso de reincidentes adictos al alcohol y a las drogas, el Juez Calificado
 
 En caso de que la falta cívica sea la prevista en la fracción XIII del artículo 1932 del presente código, el infractor deberá asistir a los cursos de concientización en materia de equidad de género y prevención de la violencia contra las mujeres que imparta o coordine el Instituto Pabellonense de las Mujeres.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2018)</small>
 
 ### CAPITULO TERCERO. De las Sanciones en Materia de Desarrollo Urbano
 
@@ -24159,23 +24911,159 @@ d) Por atentar y causar daños contra la vegetación en los parques, jardines y 
 
 e) Por faltar al respeto o alterar la normalidad del buen funcionamiento de los panteones, sin perjuicio del pago que deberá hacerse al Municipio de Pabellón de Arteaga por los daños causados;
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
-f) En general, por violación a cualquiera de las obligaciones establecidas en el Artículo 479 del presente Código.
+f) Por depositar residuos vegetales producto del mantenimiento de áreas verdes dentro o a un costado de los contenedores municipales para residuos sólidos y urbanos, y
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
-II.- Multa de seis a treinta unidades de medida y actualización:
+g) Por no respetar el horario para el depósito de basura en los contenedores;
 
-a) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados; y
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+h) A los establecimientos semifijos y ambulantes por no mantener limpia un área mínima de dos metros a la redonda, del lugar que ocupen para sus actividades;
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+i) Por todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común o áreas de interés común;
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+j) Por obstruir un contenedor a menos de 5 metros de distancia mediante vehículo o cualquier objeto propiedad de los particulares en base a los criterios de la Dirección de Servicios Públicos y Mantenimiento, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE MARZO DE 2018)</small>
+
+k) En general, por violación a cualquiera de las obligaciones establecidas en el Artículo 479 del presente Código;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+
+II.- Multa de seis a veinte unidades de medida y actualización:
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+a) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados;
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 b) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, etc, así como tener una toma de agua clandestina, y
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
-c) Por contravenir cualquiera de las prohibiciones establecidas en el Artículo 480 del presente Código.
+c) Por realizar la poda de árboles o arbustos en las áreas verdes públicas sin la autorización del Municipio;
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+d) Por arrojar cualquier tipo de desecho desde el interior de los vehículos automotores;
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+e) Por depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos domésticos, así como cualquier tipo de animal doméstico vivo o muerto, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE MARZO DE 2018)</small>
+
+f) Por contravenir cualquiera de las prohibiciones establecidas en el Artículo 480 del presente Código;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE MARZO DE 2018)</small>
+
+III.- Multa de veintiuna a cuarenta unidades de medida y actualización:
+
+a) Por realizar el derribo o reubicación de árboles sin la autorización correspondiente;
+
+b) Por arrojar en lotes baldíos o en los contenedores, los residuos o escombros procedentes de jardines o huertas, obras de construcción y remodelación o cualquier otro desecho que afecte el ambiente según los lineamientos de la Dirección de Servicios Públicos y Mantenimiento;
+
+c) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos urbanos que coloque o mande colocar la Dirección de Servicios Públicos y Mantenimiento, así como los que hayan sido instalados por particulares;
+
+d) Por provocarle un daño y/o deterioro que inutilice el funcionamiento idóneo del equipamiento y/o quemar el contenido de los contenedores colocados por la Dirección de Servicios Públicos y Mantenimiento o por empresas particulares de recolección en la vía pública;
+
+e) Por no mantener limpia el área mínima autorizada a los organizadores de espectáculos públicos, comprendiendo también los alrededores que por causa de la actividad se vean afectados, y
+
+f) Por no respetar los horarios y rutas que por su actividad o tipo de residuo manejen las empresas e industrias, en base a los lineamientos que le señale la Dirección de Servicios Públicos y Mantenimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 2011 BIS.- En materia de Ecología se impondrá:
+
+I.- Multa de tres a diez unidades de medida y actualización:
+
+a) A los establecimientos semifijos y ambulantes por no acreditar el destino final de sus residuos y por no entregar a los prestadores del servicio de recolección o depositar en el contenedor sus residuos sólidos domésticos sin contar con el permiso de la Dirección de Servicios Públicos y Mantenimiento;
+
+b) Por no separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento;
+
+c) Por no recoger las heces fecales de sus mascotas que sean arrojadas en la vía pública;
+
+d) Por mantener mascotas en las azoteas, sin realizar los cambios indispensables en el bien inmueble para evitar caídas al vacío, balcones, patios, jardines, terrazas, huertas o cualquier espacio abierto sin proporcionarles lugar amplio y cubierto en el que estén protegidos de las inclemencias del tiempo y sin los cuidados necesarios;
+
+e) Por tener perros, gatos, aves, roedores u otros animales encerrados en habitaciones, baños, jaulas o cualquier otro espacio que no les permita su movilidad natural o peces en vasos o recipientes cuyas dimensiones sean reducidas y no aseguren su supervivencia;
+
+f) Por utilizar perros para el cuidado de lotes baldíos, casas deshabitadas, giros comerciales o cualquier otro espacio sin que se les proporcionen los cuidados necesarios;
+
+g) Por tener perros afuera de las fincas sin los cuidados necesarios para su protección y de las personas que transiten por la vía pública;
+
+h) Por mantenerlos atados en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados, rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
+
+i) Por mantener perros o gatos permanentemente enjaulados o amarrados, y
+
+j) Por molestar y azuzar a los animales;
+
+II.- Multa de once a veinte unidades de medida y actualización:
+
+a) A los establecimientos fijos por no acreditar mediante documentación el destino final de sus residuos en los lugares autorizados por la Dirección de Servicios Públicos y Mantenimiento;
+
+b) Por hacinar animales de cualquier especie en alguna finca o terreno de tal manera que se puedan provocar molestias o afectar la salud de los vecinos o daños a los mismos animales;
+
+c) Por efectuar prácticas dolorosas o realizar cualquier intervención quirúrgica que no se realice bajo el cuidado de un médico veterinario zootecnista titulado con cédula profesional vigente;
+
+d) Por utilizar a los animales para las prácticas docentes;
+
+e) Por cambiar su color natural por razones puramente estéticas o para facilitar su venta;
+
+f) Por dejar a los animales encerrados en el interior de los vehículos o en las cajuelas sin ventilación;
+
+g) Por organizar, permitir o presenciar las peleas de perros;
+
+h) Por atar a los animales a cualquier vehículo en movimiento incluyendo bicicletas y patinetas, obligándolos a correr a la velocidad de éste;
+
+i) Por arrojar animales vivos en la vía pública;
+
+j) Por exceder el horario de trabajo de los animales de tiro por más de ocho horas;
+
+k) En el caso de animales utilizados en ferias, espectáculos y/o eventos, por no tener condiciones higiénico-sanitarias adecuadas para su cuidado o someterlos a la exposición del sol, la lluvia, luces intensas o sistemas de sonido que les puedan ocasionar incomodidad y daño;
+
+III.- Multa de veintiuna a cuarenta unidades de medida y actualización:
+
+a) Por no colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos sólidos urbanos generados por la actividad de las empresas e industrias, así como por no contar con contenedores para la separación de residuos reciclables, orgánicos, inorgánicos, residuos peligrosos y de manejo especial;
+
+b) Por no acreditar las empresas e industrias mediante documentación oficial el destino final de sus residuos a los sitios autorizados por la Dirección de Servicios Públicos y Mantenimiento;
+
+c) Por depositar en los contenedores, residuos biológico infecciosos, que deben incinerarse de conformidad con las normas establecidas en la ley competente o aquellos que no son incinerables y que deben ser entregados a las instancias correspondientes para su confinamiento;
+
+d) Incinerar cualquier tipo de material de residuo que genere deterioro ambiental.
+
+e) Depositar cualquier tipo de desecho líquido o de índole diferente a la doméstica, lixiviados, aceites, etc. en los contenedores para residuos sólidos urbanos;
+
+f) Por cortar sus cuerdas vocales para evitar que ladre o maúlle;
+
+g) Por arrojar animales vivos en recipientes para su cocción o freimiento;
+
+h) Por utilizar animales en experimentos cuando la disección no tenga una finalidad científica;
+
+i) Por colgar al animal vivo o quemarlo;
+
+j) Por extraerles las uñas o mutilarles los dientes o cualquier otra parte de su cuerpo por razones puramente estéticas o para facilitar su venta;
+
+k) Por trasladar a los animales arrastrándolos, suspendidos de los miembros superiores o inferiores o en el interior de costales, cajas o bolsas sin ventilación
+
+Por utilizar a los animales para prácticas sexuales;
+
+l) Por introducir animales vivos a los refrigeradores, hornos de microondas, estufas, tubos, drenajes, alcantarillas, cajas, pozos, enterrarlos vivos, o llevar a cabo cualquier procedimiento que les produzca daño;
+
+m) Por abandonarlos en el interior de las fincas sin los cuidados necesarios, por cambio de domicilio o por ausentarse durante tiempo prolongado;
+
+n) Por producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
+
+ñ) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
+
+o) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24425,13 +25313,13 @@ IV.- Multa de treinta unidades de medida y actualización por:
 
 a) Operar restaurantes, bares, billares, loncherías, centros nocturnos y en general todo tipo de comercio o establecimiento al público que operen sin tener licencia debidamente reglamentada;
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-b) Todas la (sic) empresas o personas que operen en lugares al público tales como: restaurantes, bares, discotecas, billares, loncherías, centros nocturnos, salones de baile, y en general que expendan bebidas alcohólicas, que permitan la permanencia de personas ebrias en exceso o que escandalicen y alteren el orden moral y público;
+b) Todas las o (sic) personas que operen en lugares al público tales como: restaurantes, bares, merenderos, discotecas, billares, loncherías, centros nocturnos, salones de baile, y en general que expendan bebidas alcohólicas, que permitan la permanencia de personas ebrias en exceso o que escandalicen y alteren el orden moral y público;
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-c) Tiendas de autoservicio, expendios de vino, restaurantes, loncherías, centros nocturnos, y en general que expendan bebidas alcohólicas, que no acaten las disposiciones fundadas de la Secretaría del Ayuntamiento tendientes a evitar la venta y consumo de cerveza o bebidas alcohólicas, en términos de este Código;
+c) Tiendas de autoservicio, expendios de vino, restaurantes, merenderos, loncherías, centros nocturnos, y en general que expendan bebidas alcohólicas, que no acaten las disposiciones fundadas de la Secretaría del Ayuntamiento tendientes a evitar la venta y consumo de cerveza o bebidas alcohólicas, en términos de este Código;
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24545,7 +25433,9 @@ e) Tener revistas obscenas a la vista del público en tiendas, estanquillos y ot
 
 f) Elevar el precio fijado en las tarifas, respecto de espectáculos públicos y otros establecimientos similares;
 
-g) Originar una falsa alarma, con el fin (sic) infundir pánico en el público;
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+g) Originar una falsa alarma, con el fin de infundir pánico en el público;
 
 h) Alterar el orden público en carreras de vehículos y animales en cualquier espectáculo público autorizado, así como no respetar a jueces que los presidan; y
 
@@ -24561,7 +25451,9 @@ b) A las empresas que operen en lugares al público o de espectáculos que propi
 
 c) No comenzar el espectáculo a la hora señalada o presentar una variedad distinta a la ofrecida al público;
 
-V.- Sanción de SUSPENSION DE EVENTO O ESPECTACULO POR:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+
+V.- Sanción de suspensión de evento o espectáculo por:
 
 a) Por no contar con el permiso correspondiente de la autoridad municipal;
 
@@ -24803,7 +25695,7 @@ II.- Cuando se detecte la presencia de menores de edad en el interior de sus ins
 
 III.- Cuando se detecte el consumo o tráfico de drogas y estupefacientes en el interior de sus instalaciones;
 
-IV.- Cuando se violen los calendarios y horarios que marque Reglamentos para operar;
+IV.- Cuando se violen los calendarios y horarios que marque (sic) Reglamentos para operar;
 
 V.- Cuando se susciten hechos delictivos mayores a causa de negligencia del propietario o responsable del local;
 
@@ -24849,11 +25741,11 @@ II.- Sea confirmado que padece una de las enfermedades o infecciones de las señ
 
 III.- Se resista sin justificación a los reconocimientos médicos y clínicos que marca el presente Código.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO CUARTO. DEL RECURSO DE REVISION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO TERCERO
 
@@ -24923,7 +25815,9 @@ II.- En su caso, copia de la resolución o acto que se impugna y de la notificac
 
 III.- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente.
 
-Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, si no cumple en el término y se trata de la documentación señaladas en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a las (sic) fracción III, se tendrán por no ofrecidas las mismas.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, si no cumple en el término y se trata de la documentación señaladas (sic) en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a la fracción III, se tendrán por no ofrecidas las mismas.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -25141,7 +26035,7 @@ Roxana Espinoza Vázquez
 
 Síndico Municipal.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 17 DE OCTUBRE DE 2005.
 
@@ -25336,6 +26230,30 @@ Se derogan todas las disposiciones jurídicas de carácter reglamentario municip
 P.O. 26 DE FEBRERO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA. AGS.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
 
 ###### ARTÍCULO PRIMERO.
 
