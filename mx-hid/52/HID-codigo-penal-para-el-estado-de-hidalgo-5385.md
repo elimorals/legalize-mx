@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2017-12-13"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1053,9 +1053,9 @@ Cuando en caso de tentativa no fuere posible determinar el daño que se pretendi
 
 (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2018)</small>
 
-### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO, AUTORIA INDETERMINADA Y PANDILLA
+### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO, AUTORÍA INDETERMINADA, PANDILLA Y PUNIBILIDADES ESPECÍFICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -1084,6 +1084,10 @@ En caso de delito continuado, se aumentará la sanción penal hasta en una mitad
 En caso de autoría indeterminada a que se refiere el párrafo primero del artículo 18 de este Código, se impondrán las tres cuartas partes de la punibilidad correspondiente al delito de que se trate.
 
 En el caso de los delitos cometidos en pandilla, a que hace referencia el párrafo segundo del artículo 18 de este Código, su punibilidad se aumentará una tercera parte.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 107 BIS.- Cuando se cometa un delito doloso en contra de algún periodista, con la intención de afectar, limitar o menoscabar el derecho a la información, la libertad de expresión o de imprenta, se aumentarán hasta en una tercera parte, las sanciones penales que correspondan al delito cometido, y se aumentarán hasta en una mitad, cuando sea cometido por un servidor público en ejercicio de sus funciones o con motivo de ellas o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1813,7 +1817,7 @@ Las punibilidades a que se refiere este Capítulo, se aplicarán sin perjuicio d
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 175.
 
@@ -1867,7 +1871,9 @@ Los delitos previstos en este título se perseguirán por querella; su punibilid
 
 ###### ARTICULO 179.
 
-Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de siete a dieciocho años y multa de 70 a 180 días.
+Comete el delito de violación, quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, y se le impondrá prisión de siete a veinte años y multa de 70 a 200 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 Independientemente de las penas y medidas de seguridad que procedan por los delitos que resulten, se impondrá prisión de cinco a doce años y multa de 50 a 120 días al que, con uso de la violencia física o moral, introduzca por la vía anal o vaginal cualquier objeto, instrumento o elemento distinto al miembro viril, en persona de cualquier sexo, según el caso.
 
@@ -1943,13 +1949,19 @@ Si la víctima de abuso sexual fuere persona menor de quince años de edad o que
 
 Para efectos de este artículo se entiende por actos sexuales cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o los que representen por cualquier medio actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 183 BIS.- La misma pena a que se refiere el artículo anterior, se impondrá a quien sin el consentimiento de quien pueda otorgarlo, publique, difunda o comparta a través de cualquier medio, conversaciones, imágenes, audios o videos, de carácter sexual, erótico o pornográfico.
+
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL HONOR
 
 ###### ARTICULO 184.
 
-Las punibilidades previstas en el artículo precedente se aumentarán una mitad, si se empleare violencia o se efectuare con alguna de las agravantes previstas en el artículo 181 de este Código.
+Las punibilidades previstas en los artículos 183 y 183 bis se aumentarán una mitad, si se empleare violencia o se efectuare con alguna de las agravantes previstas en el artículo 181 de este Código.
 
 ### CAPITULO UNICO. DISCRIMINACION
 
@@ -2287,11 +2299,15 @@ Si el abigeato se realiza concurriendo alguna de las calificativas previstas por
 
 Se impondrá de dos a siete años de prisión y multa de 100 a 300 días:
 
-I.- Al que a sabiendas adquiere o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+I.- Al que a sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, adquiera o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
 
 II.- A las autoridades que intervengan en esas operaciones, conociendo la procedencia ilegítima del ganado;
 
-III.- Al que transporte ganado, carne, pieles u otros derivados obtenidos del abigeato, conociendo la ilegítima procedencia;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+
+III.- Al que a sabiendas o sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, transporte ganado, carne, pieles u otros derivados obtenidos del abigeato.
 
 IV.- (DEROGADA, P.O. 22 DE MARZO DE 1999)
 
@@ -2809,8 +2825,6 @@ Cuando el miembro de una pandilla a que alude el párrafo final del artículo 18
 
 ### CAPITULO III. TRATA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
-
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
 
 ### CAPITULO IV. ULTRAJES A LA MORAL
@@ -2969,75 +2983,27 @@ Al que explote el comercio carnal de otro, se mantenga de este comercio u obteng
 
 Si la persona explotada fuere menor de dieciocho años de edad o persona que por cualquier causa no tenga capacidad para comprender el significado del hecho o posibilidad para resistirlo, la punibilidad señalada en el artículo anterior se aumentará en una mitad. El mismo aumento e independientemente de la agravante señalada en el enunciado que precede, se aplicará al ascendiente, descendiente, cónyuge, concubino, hermano, tutor, curador o encargado de la persona explotada, cuando fuese autor o partícipe en la realización del delito.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MARZO DE 2018)</small>
+
 ### CAPITULO VI. SABOTAJE
 
 ###### ARTICULO 273.
 
-Comete el delito de trata de personas, quien incurra en la captación, trasporte (sic), traslado, la acogida o la recepción de personas; recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra y con fines de explotación. Esa explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos.
+(DEROGADO, P.O. 26 DE MARZO DE 2018)
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 273 BIS.- Para efectos del Artículo anterior, se entenderá por explotación:
-
-I.- Someter a una persona a una condición de esclavitud;
-
-II.- Someter a una persona a prácticas análogas a la esclavitud, las cuales comprenden: la servidumbre por deuda, matrimonio forzado o servil, la explotación de la mendicidad ajena;
-
-III.- Obligar a una persona mediante la fuerza, amenaza, coacción o cualquier tipo de restricción física o moral, a proporcionar trabajos forzosos o servicios;
-
-IV.- Mantener a una persona en condición de servidumbre, incluida la servidumbre de carácter sexual;
-
-V.- La explotación de la prostitución de otra persona;
-
-VI.- Cualquier forma de explotación sexual, incluidos entre otros el proxenetismo, beneficiarse de la prostitución ajena, mantener un prostíbulo, la producción de pornografía; y
-
-VII.- La extracción ilícita de órganos, tejidos, sus componentes o derivados del organismo humano.
-
-Las mismas penas se impondrán a quien, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión se tenga noticia.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+ARTICULO 273 BIS.- (DEROGADO, P.O. 26 DE MARZO DE 2018)
 
 ###### ARTICULO 274.
 
-Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se impondrán las siguientes penas:
+(DEROGADO, P.O. 26 DE MARZO DE 2018)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+ARTICULO 274 BIS.- (DEROGADO, P.O. 26 DE MARZO DE 2018)
 
-I.- De seis a doce años de prisión y multa de quinientos a mil quinientas veces la Unidad de Medida y Actualización vigente; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta veces la Unidad de Medida y Actualización vigente, si el delito es cometido en contra de persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 274 BIS.- Las penas que resulten de las fracciones I y II del Artículo anterior, se incrementarán hasta en una mitad:
-
-a).- Si el agente se valiese de la función pública que tuviere o hubiere ostentado sin tenerla. Se impondrá además, al servidor público la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro cargo, hasta por un tiempo igual al de la pena de prisión impuesta;
-
-b).- Cuando el sujeto activo del delito se aproveche de la condición de vulnerabilidad derivada de la suma ignorancia, notoria inexperiencia, extrema miseria o extrema necesidad de la víctima, o cuando ésta sea persona mayor de setenta años de edad, cuando se trate de persona indígena o migrante; y
-
-c).- Cuando el sujeto activo del delito tenga parentesco civil, por afinidad o consanguinidad con la víctima, hasta el cuarto grado; habite el mismo domicilio, que la víctima; sea tutor o curador de la víctima; sea ministro de culto religioso o se aproveche de una posición de autoridad por virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique subordinación.
-
-En los casos señalados en este inciso el juez podrá, atendiendo a las circunstancias del hecho, decretar además, la pérdida del derecho a alimentos que le correspondiera por su relación con la víctima, así como la pérdida de la patria potestad.
-
-Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 274 TER.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, como multa.
-
-> <small>(ADICIONADO P.O. 4 DE OCTUBRE DE 2010)</small>
-
-Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga noticia.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+ARTICULO 274 TER.- (DEROGADO, P.O. 26 DE MARZO DE 2018)
 
 ###### ARTICULO 275.
 
-El consentimiento dado por la víctima de la trata de personas, a toda forma de explotación, que se tenga la intención de realizar descrita en el Artículo 273, no se tendrá en cuenta si se haya recurrido a cualquiera de los medios enunciados en el mismo.
-
-La tentativa del delito de trata de personas se sancionará con pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
+(DEROGADO, P.O. 26 DE MARZO DE 2018)
 
 ### CAPITULO VII. DELITOS CONTRA LA IDENTIDAD TERRITORIAL DEL ESTADO
 
@@ -3727,6 +3693,10 @@ II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar f
 
 III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
+
 ###### ARTICULO 322.
 
 Se impondrá de tres a cinco años de prisión y multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización, al servidor público encargado de la procuración o administración de justicia que dolosamente cometa alguna de las siguientes conductas:
@@ -3990,6 +3960,10 @@ El encubrimiento se perseguirá a petición de parte ofendida, cuando se refiera
 ###### ARTICULO 332.
 
 Al que para hacer efectivo un derecho o pretendido derecho que debe ejercitar por vía legal, empleare violencia, se le aplicará prisión de tres meses a tres años y de 10 a 40 días multa. Este delito se perseguirá a petición de parte ofendida.
+
+### CAPITULO ÚNICO. USURPACIÓN DE IDENTIDAD
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 333.
 
@@ -4585,6 +4559,10 @@ II.- Cuando se trata de donaciones y compraventas realizadas entre parientes, en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
 
+## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA IDENTIDAD DE LAS PERSONAS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 364.
 
 Al servidor público que autorice o expida licencias, permisos, autorizaciones, constancias o dictámenes de uso de suelo, viabilidad, construcción, fraccionamiento, urbanización, conjuntos urbanos o acciones urbanas sin observar o contraviniendo el Atlas de Riesgos correspondiente o en su caso, considerar los datos geográficos que existan, se le impondrá de 3 a 6 años de prisión y multa de 700 a 1400 Unidades de Medida y Actualización vigentes, e inhabilitará para desempeñar cualquier cargo, empleo o comisión hasta por 9 años.
@@ -4624,6 +4602,16 @@ Cualquiera de los integrantes de los Sistemas Estatal o Municipal de Protección
 ###### ARTICULO 369.
 
 Para lo previsto en el artículo 366, al servidor público que haya autorizado alguno de los documentos contenidos en el artículo 364 de este Código, se le considerará coparticipe del delito.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2018)</small>
+
+###### ARTICULO 370.
+
+Comete el delito de usurpación de identidad quien por sí o por interpósita persona, por cualquier medio y con fines ilícitos, se apodere, apropie, transfiera, utilice o disponga de datos personales de otra persona sin autorización de su titular u otorgue su consentimiento para llevar a cabo la usurpación de su identidad, en beneficio propio o de un tercero.
+
+Al responsable del delito de usurpación de identidad, se impondrá de uno a seis años de prisión y de 50 a 200 veces el valor diario de la Unidad de Medida y Actualización, así como el pago de la reparación de los daños y perjuicios ocasionados, con independencia de la pena que resulte por la comisión de otros delitos.
+
+La punibilidad que corresponda se incrementara hasta en una mitad cuando el usurpador se valga de la homonimia, parecido físico o similitud de la voz para cometer el ilícito o cuando el delito sea cometido por un servidor público aprovechándose de la información a la que tenga acceso con motivo de sus funciones.
 
 ## TRANSITORIOS
 
@@ -4856,3 +4844,11 @@ PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación 
 SEGUNDO. Los procesos penales iniciados con fundamento en las leyes del Estado de Hidalgo que regulen las conductas tipificadas como delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, así como las sentencias emitidas con base en la misma, deberán concluirse y ejecutarse respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas, atendiendo a lo estipulado en el artículo transitorio tercero del decreto por el que se reforma la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos del 10 de julio de 2015.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo señalado en el presente decreto, sin menoscabo de lo establecido en las leyes generales de las materias respectivas.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 418 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las disposiciones relativas a los delitos de trata de personas, seguirán aplicándose por los hechos realizados durante su vigencia, así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos, lo anterior, en lo que no se opongan a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
