@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2017-02-27"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -1155,6 +1155,10 @@ En todo caso, los Ejecutores de Gasto deberán cumplir con lo establecido en la 
 
 Los Ejecutores de Gasto publicarán en Internet la información sobre el monto pagado durante el período por concepto de ayudas y subsidios a los sectores económicos y sociales identificando el nombre del beneficiario, en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con homoclave cuando sea persona moral o persona física con actividad empresarial y profesional y el monto recibido.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+En la asignación por concepto de ayudas y subsidios, los Ejecutores de Gasto deberán establecer mecanismos de participación ciudadana a fin de lograr la aplicación oportuna y focalizada de los mismos.
+
 ###### Artículo 72.
 
 Es responsabilidad de los Ejecutores del Gasto registrar de manera trimestral en el Sistema de Formato Único de la Secretaría de Hacienda y Crédito Público la información relativa al ejercicio de los recursos públicos que se reciban por el Estado y en su caso, por los Municipios, provenientes de la Federación, de conformidad con lo dispuesto en materia de información en la Ley de Coordinación Fiscal, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, así como los lineamientos que emita la Federación, para dar cumplimiento a las obligaciones que en materia de información establecen dichos ordenamientos. Dicha información deberá ser registrada dentro de los primeros quince días naturales siguientes al término del trimestre a reportar.
@@ -1316,3 +1320,11 @@ El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupu
 ###### ARTÍCULO NOVENO.
 
 Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en el presente Decreto.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE PRESUPESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
