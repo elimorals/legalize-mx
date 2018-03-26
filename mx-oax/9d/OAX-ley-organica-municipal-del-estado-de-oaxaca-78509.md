@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-02-16"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -655,13 +655,19 @@ LXXVIII.- Promover e instalar los Comités de contraloría social;
 
 LXXIX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones, políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales.
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-LXXX.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes, y;
+LXXX.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
 
-(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017) (F. DE E., P.O. 7 DE FEBRERO DE 2018)
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-LXXXI.- Las demás que le señalen las leyes y reglamentos municipales.
+LXXXI.- Promover, formular y ejecutar Programas Municipales para la prevención y gestión integral de los residuos sólidos urbanos, que incluyan la cultura de reducción de la generación, clasificación, separación, recuperación, reciclaje y disposición final adecuada de los residuos sólidos urbanos de acuerdo a las normas aplicables en la materia.
+
+Así como, participar en coordinación con el Gobierno Estatal y Federal en el manejo de los residuos de manejo especial y/o peligrosos; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+
+LXXXII.- Las demás qué les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -2591,7 +2597,7 @@ III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Ent
 
 ###### ARTÍCULO 177.
 
-Los bienes y documentación que la administración saliente deberá entregar a la entrante de manera enunciativa y no limitativa son las (sic) siguientes:
+Los bienes y documentación que la administración saliente deberá entregar a la entrante de manera enunciativa y no limitativa son las siguientes:
 
 I. Recursos Humanos.
 
@@ -3126,3 +3132,9 @@ P.O. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1333.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 1342.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES LXXX Y LXXXI Y SE ADICIONA LA FRACCIÓN LXXXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO".]
+
+ÚNICO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
