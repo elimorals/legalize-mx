@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2007-07-10"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -653,15 +653,19 @@ I. Zonas de atención prioritaria; y
 
 II. Zonas de atención inmediata.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 49.
 
-Se considera como zona de atención prioritaria a las áreas o regiones de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Campeche y en los términos de esta Ley; y como zona de atención inmediata a las áreas o regiones de carácter predominantemente rural o urbano, que por los índices de pobreza y alta marginación presentados requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social.
+Se considera como zona de atención prioritaria a las áreas o regiones de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Campeche y en los términos de esta Ley; y como zona de atención inmediata a las áreas o regiones de carácter predominantemente rural o urbano, que por los índices de pobreza y alta marginación presentados requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social
 
 ###### ARTÍCULO 50.
 
 El Ejecutivo Estatal a través de la Comisión revisará anualmente la calidad de zona de atención prioritaria o de zona de atención inmediata que deban establecerse o modificarse en su caso, conforme a la propuesta que le formule la Secretaría.
 
-La Secretaría anualmente emitirá un diagnóstico de la situación del Estado en materia de desarrollo social refiriendo los requerimientos relativos a las zonas de atención prioritaria y a las zonas de atención inmediata.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+La Secretaría anualmente emitirá un diagnóstico de la situación del Estado en materia de desarrollo social refiriendo los requerimientos relativos a las zonas de atención prioritaria y a las zonas de atención inmediata. Teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza y marginación, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 ###### ARTÍCULO 51.
 
@@ -1056,3 +1060,13 @@ C. Oscar Román Rosas González, Diputado Presidente.- C. Jorge Isaac Brown Fili
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los tres días del mes de julio del año dos mil siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 258 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 49 Y 50 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrara en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
