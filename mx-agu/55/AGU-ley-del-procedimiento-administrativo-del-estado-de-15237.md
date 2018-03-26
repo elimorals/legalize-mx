@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2014-12-31"
+last_updated: "2018-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -43,15 +45,11 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 1º.
 
 Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes, de los Municipios que lo integran, y de otras personas, cuando éstas actúen como autoridades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -70,8 +68,6 @@ La presente ley se aplicará supletoriamente a las diversas leyes que regulan la
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
 ### CAPITULO I. Del Acto Administrativo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -209,19 +205,17 @@ El promovente deberá adjuntar a su escrito los documentos que acrediten su pers
 
 El promovente que hubiere optado porque el procedimiento se tramite a través de medios electrónicos, deberá señalarlo así en su escrito inicial, señalando igualmente su correo electrónico, en el que se le harán las notificaciones que sean necesarias en el procedimiento.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-###### ARTÍCULO 14.
+###### ARTICULO 14.
 
-Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, a menos que la ley que rija la materia establezca lo contrario, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
+Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de tres meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, a menos que la ley que rija la materia establezca lo contrario, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
 
 ###### ARTICULO 15.
 
 Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en cada caso por las leyes administrativas.
 
 #### SECCION II. De las Autoridades
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -387,11 +381,25 @@ Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaci
 
 Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
-En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados y los domingos, el 1° de enero, 1° y 5 de mayo, 16 de septiembre, 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que se suspendan las labores en sustitución de los días festivos 5 de Febrero, 21 de Marzo y 20 de Noviembre, los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan por cualquier otro motivo las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicarán en el Periódico Oficial del Estado y en su caso, en las Gacetas Municipales del mismo.
+En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados y los domingos, el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Local y Federal y el 25 de diciembre.
 
-La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades estatales y municipales, siempre que éstas se publiquen en el Periódico Oficial del Estado de Aguascalientes, así como en su caso, en la Gaceta Municipal que corresponda.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+No son vacaciones generales las que se otorguen en forma escalonada.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 32 A.- La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
+
+Toda habilitación de días y horas inhábiles, se hará mediante escrito fundado y motivado firmado por la autoridad competente el cual se entregará al visitado al momento de practicar la diligencia.
+
+También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto prevenir situaciones que pongan en riesgo la salud, la integridad física o el orden social.
 
 ###### ARTICULO 33.
 
@@ -429,9 +437,9 @@ II.- Mediante mensajería, correo ordinario, telegrama, fax, también podrá rea
 
 III.- Por edicto, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, hubiere fallecido o se encuentre en el extranjero sin haber dejado representante legal; y
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
 
-IV.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el último párrafo del Artículo 36 de esta ley.
+IV.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos de los trámites administrativos, o que dicho domicilio corresponda a un lote baldío o con construcción pero no sea habitable.
 
 ###### ARTICULO 38.
 
@@ -449,6 +457,10 @@ Las notificaciones por edictos se realizarán haciendo publicaciones que contend
 
 En lo que se refiere a las notificaciones mediante correo electrónico, se practicarán observando los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 39 A.- Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo.
+
 ###### ARTICULO 40.
 
 Las notificaciones personales surtirán sus efectos el día en que hubieran sido realizadas.
@@ -457,9 +469,13 @@ Se tendrán como fecha de notificación por correo certificado la que conste en 
 
 En las notificaciones por edictos se tendrá como fecha en la que surte efectos la notificación, la de la última publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el territorio de la Entidad.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
-Tratándose de las demás formas de notificación contenidas en la presente ley, surtirán sus efectos el día siguiente al en que éstas se practiquen.
+En las notificaciones por estrados, se tendrá como fecha en la que surte efectos la notificación, la del séptimo día hábil contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Tratándose de las demás formas de notificación contenidas en la presente ley, surtirán sus efectos el día siguiente en que éstas se practiquen.
 
 ###### ARTICULO 41.
 
@@ -605,9 +621,11 @@ Cuando se trate de procedimientos iniciados de oficio, se entenderán caducados 
 
 Las autoridades administrativas, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, podrán llevar a cabo visitas de verificación, mismas que podrán ser ordinarias y extraordinarias, las primeras, se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo, siempre que se notifique al particular la habilitación de días y horas inhábiles.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 61.
 
-Los verificadores, para practicar visitas, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que lo fundamenten.
+Los verificadores, para practicar visitas, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y estar debidamente fundada y motivada.
 
 ###### ARTICULO 62.
 
@@ -1028,3 +1046,19 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO CUARTO.
 
 En tanto no se realicen las reformas respectivas a la Ley Orgánica del Poder Judicial del Estado, las referencias a la Sala Administrativa contenidas en el Código Fiscal del Estado de Aguascalientes, se entenderán hechas a la Sala Administrativa y Electoral.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- SE REFORMAN LOS ARTÍCULOS 14, 32, 37 Y 61; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 32, UN ARTÍCULO 32 A, UN ARTÍCULO 39 A, Y UN PÁRRAFO AL ARTÍCULO 40, DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán ser tramitados hasta su resolución, con la normatividad vigente al momento del inicio de los mismos.
+
+###### ARTÍCULO TERCERO.
+
+En el año 2018 será considerado día inhábil el primero de diciembre en lugar del primero de octubre, para el caso de la transmisión del Poder Ejecutivo Federal.
