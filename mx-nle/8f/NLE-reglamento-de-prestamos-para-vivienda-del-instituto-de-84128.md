@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-vivienda-del-instituto-de-84128"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2017-08-25"
+last_updated: "2018-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL ISSSTELEON DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de noviembre de 2011.
 
@@ -199,6 +199,14 @@ El incumplimiento en el pago causará un interés moratorio por abono vencido, q
 
 El Instituto podrá celebrar convenio de pago con los acreditados en forma individual, cuando estos deseen regularizar su situación crediticia. Igualmente los servidores públicos que se encuentran en el caso del primer párrafo de este artículo podrá solicitar al Instituto la sustitución de deudor de entre las solicitudes de préstamo que se tengan en trámite de adjudicar, enajene su inmueble objeto del préstamo y finiquite el mismo, y en su caso, le reembolse el remanente. Durante el tiempo que dure la adjudicación, el Servidor Público continuara obligado a pagar las amortizaciones.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Las gestiones de cobro extrajudicial y judicial deberán ser coordinadas por la Dirección de Prestaciones Sociales y Económicas o el departamento que ésta designe para ese efecto, en todo caso deberá documentarse debidamente dicha gestión a fin de rendir los informes correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+En caso de ser necesario, se podrá contratar servicios de cobranza judicial y/o extrajudicial para la actividad de recuperación.
+
 ###### Artículo 15.
 
 Los contratos y convenios a que se refieren los artículos anteriores, así como la constitución del régimen de la propiedad en condominio de los conjuntos habitacionales que financie el Instituto se deberán hacer constar invariablemente en escritura pública.
@@ -279,7 +287,9 @@ Los servidores públicos que posean cuenta individual en el Sistema Certificado 
 
 Cuando estos servidores públicos tengan quince años o más de cotizar, tendrán derecho a obtener un préstamo para vivienda en los términos del artículo 10 de este reglamento.
 
-Al formalizarse el préstamo para vivienda el saldo total de la subcuenta de vivienda del servidor público se aplicará como pago inicial del préstamo otorgado y las aportaciones posteriores que se realicen a esta subcuenta se aplicarán para cubrir el saldo insoluto del préstamo hasta su liquidación total.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+
+Al formalizarse el préstamo para vivienda el saldo total de la subcuenta de vivienda del servidor público se aplicará como pago inicial del préstamo otorgado y las aportaciones posteriores que se realicen a esta subcuenta se aplicarán para cubrir el saldo insoluto del préstamo hasta su liquidación total; en caso de que el servidor público cuente con un préstamo hipotecario en cofinanciamiento, una vez liquidado el préstamo otorgado por el Instituto, las aportaciones amortizaran el saldo de la institución financiera hasta su liquidación total.
 
 Al efectuarse la liquidación total y cancelarse el préstamo para vivienda, el resto de las aportaciones que por este concepto se reciban seguirán siendo depositadas y se mantendrán dentro de la cuenta individual del servidor público hasta el momento de su jubilación, el que podrá optar por la incorporación del saldo final de la subcuenta al capital constitutivo de su jubilación o solicitar su retiro programado o en una sola exhibición.
 
@@ -463,9 +473,11 @@ c) Para el caso de servidores públicos que tengan cuenta individual en el Siste
 
 CONVENIOS CON INSTITUCIONES FINANCIERAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO 2018)</small>
+
 ###### Artículo 42.
 
-El Instituto podrá, mediante autorización del Consejo Directivo, celebrar convenios con instituciones financieras para la atención conjunta de las necesidades de préstamos para vivienda de los servidores públicos participantes en el Sistema Certificado para Jubilación, en los siguientes casos:
+El Instituto podrá, mediante autorización del Consejo Directivo, celebrar convenios con instituciones financieras para la atención conjunta de las necesidades de préstamos para vivienda de los servidores públicos afiliados al Instituto, en los siguientes casos:
 
 a) Cuando el objetivo del convenio sea anticipar las posibilidades de los servidores públicos con menos de diez años de cotización. En este caso, el Instituto podrá convenir una sustitución de acreedor al alcanzarse los diez años de cotización, mediante la compra de la cartera hipotecaria de estos servidores públicos;
 
@@ -546,3 +558,9 @@ P.O. 25 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE“REFORMA AL REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DELOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servidos Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 26 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEÓN)".]
+
+ÚNICO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto entrará en vigor a partir del día siguiente de su publicación.
