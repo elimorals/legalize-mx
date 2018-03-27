@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8135
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-18"
-last_updated: "2014-09-24"
+last_updated: "2018-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 18 de mayo de 2011.
 
@@ -75,7 +75,9 @@ VII. Juzgados: Juzgados de primera instancia del Poder Judicial del Estado de Yu
 
 VIII. Juez: Juez de primera instancia del Poder Judicial del Estado de Yucatán;
 
-IX. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+IX. Ley de Responsabilidades: Ley de Responsabilidades Administrativas del Estado de Yucatán;
 
 X. Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Yucatán;
 
@@ -157,11 +159,15 @@ VII. Calificar las excusas o recusaciones de los consejeros;
 
 VIII. Resolver sobre las renuncias de los Jueces y demás servidores públicos del Poder Judicial del ámbito de competencia del Consejo;
 
-IX. Acordar la imposición de sanciones de los servidores públicos sometidos a un procedimiento de responsabilidad administrativa, previo análisis del dictamen correspondiente;
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+IX. Acordar la imposición de sanciones de los servidores públicos sometidos a un procedimiento de responsabilidad administrativa, cuando así proceda y de conformidad con la Ley de Responsabilidades;
 
 X. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
 
-XI. Resolver de manera fundada y motivada, las quejas administrativas o denuncias que se presenten en contra de los servidores públicos del ámbito de competencia del Consejo;
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XI. Conocer y resolver de manera fundada y motivada, los recursos que procedan tratándose de procedimientos de responsabilidad administrativa instruidos por faltas graves previstos en la Ley de Responsabilidades;
 
 XII. Administrar los recursos económicos que integran el Fondo Auxiliar, con transparencia, honradez, y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
 
@@ -289,7 +295,9 @@ El desahogo de los asuntos del orden del día se desarrollará conforme a lo sig
 
 I. El Presidente presentará el asunto a los consejeros haciendo mención de las constancias o documentos que lo sustentan;
 
-II. El Presidente abrirá el asunto a discusión, concediendo el uso de la palabra a los Consejos que lo soliciten;
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+II. El Presidente abrirá el asunto a discusión, concediendo el uso de la palabra a los Consejeros que lo soliciten;
 
 III. Concluida la intervención de los consejeros que hayan solicitado el uso de la palabra, el Presidente preguntará si el punto está suficientemente discutido; en caso afirmativo se procederá a la votación. En caso negativo se abrirá una segunda ronda de intervenciones;
 
@@ -525,13 +533,11 @@ d) Comisión de Desarrollo Institucional y
 
 e) Las demás que mediante acuerdos generales determine con ese carácter el Pleno del Consejo.
 
+> <small>(REFORMADA [N. DE E. CON SU INCISO], D.O. 27 DE MARZO DE 2018)</small>
+
 II. Especiales:
 
-> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
-
-a) Comisión Especial del Tribunal de Justicia Fiscal y Administrativa y
-
-b) Comisión Especial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
+a) Comisión Especial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 III. Transitorias las que cree con ese carácter el Pleno del Consejo.
 
@@ -805,7 +811,9 @@ I. Visitaduría,
 
 II. Contraloría, y
 
-III. Evaluación
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+III. Unidad de Estadística Judicial de Primera Instancia.
 
 Atribuciones de la Comisión de Disciplina
 
@@ -833,7 +841,9 @@ IX. Analizar la información obtenida a través de visitas, inspecciones, inform
 
 X. Proponer al Pleno del Consejo las políticas y criterios relativos a la información estadística, en el ámbito de su competencia;
 
-XI. Someter a consideración del Pleno del Consejo, para su aprobación definitiva, los proyectos de resolución de procedimientos administrativos de responsabilidad en los que se determine la existencia de faltas administrativas;
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XI. Conocer de los recursos que procedan tratándose de procedimientos de responsabilidad administrativa instruidos por faltas no graves previstas en la Ley de Responsabilidades;
 
 XII. Presentar al Pleno del Consejo un informe trimestral de las quejas o denuncias que hayan sido declaradas improcedentes, infundadas, sin materia, se sobresean, o bien aquellos en los que no se acreditó la existencia de responsabilidad administrativa;
 
@@ -841,7 +851,11 @@ XIII. Presentar al Pleno del Consejo una relación trimestral de los dictámenes
 
 XIV. Proponer al Pleno del Consejo las recomendaciones que se deban hacer a los titulares y personal de los órganos judiciales, para corregir las irregularidades o deficiencias en su funcionamiento, o bien, se les reconozca su buen desempeño, y
 
-XV. Las demás que le sean encomendadas por el Pleno del Consejo dentro de su ámbito de competencia, las Leyes, los Reglamentos y los Acuerdos Generales que para tal efecto se aprueben.
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XV. Sustanciar y resolver los procedimientos disciplinarios por faltas graves instruidos a los servidores públicos adscritos al Consejo de la Judicatura;
+
+XVI. Las demás que le sean encomendadas por el Pleno del Consejo dentro de su ámbito de competencia, las Leyes, los Reglamentos y los Acuerdos Generales que para tal efecto se aprueben.
 
 Comisión de Desarrollo Institucional
 
@@ -893,15 +907,9 @@ X. Las demás que le sean encomendadas por el Pleno del Consejo dentro de su ám
 
 #### Sección Segunda. De las Comisiones Especiales
 
-Competencia e Integración de la Comisión Especial del Tribunal de Justicia Electoral y Administrativa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
-
 ###### Artículo 67.
 
-De acuerdo a lo dispuesto en el artículo 71 de la Ley Orgánica, la Comisión Especial del Tribunal de Justicia Fiscal y Administrativa conocerá de la administración, vigilancia y disciplina de dicho Tribunal.
-
-Esta Comisión se integrará por el Presidente de dicho Tribunal y dos miembros del Consejo de la Judicatura.
+(DEROGADO, D.O. 27 DE MARZO DE 2018)
 
 Competencia e Integración de la Comisión Especial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios
 
@@ -911,13 +919,13 @@ De acuerdo a lo dispuesto en el artículo 81 de la Ley Orgánica la Comisión Es
 
 Esta Comisión se integrará por el Presidente de dicho Tribunal, quien la presidirá, y dos miembros del Consejo de la Judicatura.
 
-Funcionamiento de las Comisiones
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 27 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+Funcionamiento de las Comisiones
 
 ###### Artículo 69.
 
-El funcionamiento de las Comisiones Especiales se regirá de conformidad con los lineamientos que al efecto emitan los Plenos del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, respectivamente.
+El funcionamiento de la Comisión Especial se regirá de conformidad con los lineamientos que al efecto emita el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
@@ -1145,7 +1153,9 @@ La Unidad de Transparencia y Acceso a la Información tendrá además de las atr
 
 l. Recibir, recabar y despachar las solicitudes de acceso a la información pública;
 
-II. Entregar o negar la información requerida fundando y motivando su resolución en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
+
+II. Entregar o negar la información requerida fundando y motivando su resolución en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán;
 
 III. Auxiliar a los particulares en lo referente a las solicitudes de información, particularmente orientarlos respecto a la información pública que soliciten;
 
@@ -1175,7 +1185,9 @@ I. Ejecutar acciones necesarias para la difusión de la información pública;
 
 II. Favorecer la rendición de cuentas a los ciudadanos, que lo soliciten;
 
-III. Proteger la información reservada, incluyendo los datos, que teniendo carácter de personales, se encuentren bajo su resguardo y deban conservar secrecía en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
+
+III. Proteger la información reservada, incluyendo los datos, que teniendo carácter de personales, se encuentren bajo su resguardo y deban conservar secrecía en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán;
 
 IV. Integrar, organizar, clasificar, actualizar, preservar y manejar con eficiencia los archivos administrativos y documentos de la Unidad;
 
@@ -1185,7 +1197,9 @@ VI. Documentar todo acto formal proveniente de las solicitudes de información y
 
 VII. Coordinar con la Escuela Judicial cursos de capacitación dirigida a los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
 
-VIII. Cumplir las resoluciones del Instituto Estatal de Acceso a la Información Pública y coadyuvar en el desempeño de sus funciones, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
+
+VIII. Cumplir las resoluciones del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y coadyuvar en el desempeño de sus funciones, y
 
 IX. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
@@ -1415,7 +1429,29 @@ VI. Investigar los actos, omisiones o conductas de los servidores públicos deri
 
 VII. Opinar, previo a su expedición, sobre proyectos de disposiciones, normas, sistemas, programas, presupuestos, organización, métodos, contabilidad, administración de recursos humanos, financieros y materiales, y
 
-VIII. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
+
+VIII. Coordinar la recepción y trámites de las denuncias que se formulen en contra de los servidores públicos adscritos al Consejo, así como instruir el inicio de los procedimientos de responsabilidad administrativa y resolverlos en términos de la Ley de Responsabilidades;
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+IX. Realizar la investigación por la probable comisión de faltas administrativas, de oficio, por denuncia o derivada de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+X. Acordar los escritos, promociones, oficios y demás documentos que se reciban, relacionados con los procedimientos administrativos de su competencia;
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XI. Instrumentar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas y hechos de corrupción atribuibles a los servidores públicos del Consejo y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Yucatán y a lo que establezcan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción;
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XII. Recibir las declaraciones de situación patrimonial, conflicto de interés y fiscal, así como almacenar en el sistema respectivo de la plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción generen los servidores públicos obligados a presentar las referidas declaraciones;
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+XIII. Las demás que el Consejo, la Ley Orgánica, este Reglamento, la Ley de Responsabilidades y otras disposiciones normativas le confieran al Órgano de Control del Poder Judicial.
 
 Facultades y obligaciones del Titular
 
@@ -1631,15 +1667,25 @@ II. Secretarios;
 
 III. Actuarios;
 
-IV. Técnicos Judiciales, y en su caso
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
 
-V. Archivistas.
+IV. Técnicos Judiciales;
+
+> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+
+V. Archivistas, en su caso, y
+
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+VI. demás personal administrativo que designe el Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, D.O. 27 DE MARZO DE 2018)</small>
 
 Trabajadores de Confianza
 
 ###### Artículo 108.
 
-Los integrantes de los Juzgados, relacionados en el artículo anterior, con excepción de los mencionados en la última fracción, son considerados trabajadores de confianza, en los términos previstos en el artículo 182 de la Ley Orgánica.
+Los integrantes de los Juzgados, relacionados en el artículo anterior, serán considerados trabajadores de confianza.
 
 ### CAPÍTULO II. De la Competencia de los Juzgados
 
@@ -1663,11 +1709,17 @@ VI. Juzgados Mixtos de lo Civil y Familiar;
 
 VII. Juzgados de Control;
 
-VIII. Tribunales de Juicio Oral;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
 
-IX. Juzgados Itinerantes, y
+VIII. Tribunales de Enjuiciamiento;
 
-X. Juzgados de Paz.
+> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+
+IX. Juzgados de Ejecución de Sentencia;
+
+X. Juzgados Itinerantes, y
+
+XI. Juzgados de Paz.
 
 Competencia de los Juzgados Civiles
 
@@ -2407,103 +2459,105 @@ IV. El incumplimiento de metas u objetivos que deben cumplirse en los juzgados d
 
 V. Las demás expresamente determinadas en la Ley Orgánica y en los acuerdos generales que al efecto expida el Pleno del Consejo.
 
-### CAPÍTULO II. Del Procedimiento de Responsabilidad Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE MARZO DE 2018)</small>
 
-Del Trámite de la Queja
+### CAPÍTULO II. De la Investigación y del Procedimiento de Responsabilidad Administrativa
 
-> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 177.
 
-La Contraloría del Consejo, coordinará la recepción y registro de todas las quejas y los escritos que pudieran dar origen a la apertura del procedimiento administrativo de responsabilidad, en los casos en que se trate de actos u omisiones imputables a los servidores públicos del Poder Judicial, con excepción del personal del Tribunal Superior de Justicia del Estado, del personal del Tribunal de Justicia Fiscal y Administrativa y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
+La Contraloría del Consejo, a través de la unidad que corresponda, coordinará la recepción y registro de todas las denuncias que se formulen en contra de los servidores públicos del Poder Judicial, con excepción del personal del Tribunal y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
 
-Del Contenido de la Queja
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 178.
 
-La queja deberá ser presentada por escrito, sin mayor formalidad que la de contener las generales de ley y una relación de los hechos que a juicio del promovente sean causa de responsabilidad administrativa.
+La denuncia deberá ser presentada por escrito, señalando domicilio, preferentemente en el Estado, y dirección de correo electrónico para que se realicen las notificaciones respectivas, así como contener los datos o indicios que permitan advertir la probable responsabilidad por la comisión de faltas administrativas, tales como el señalamiento o algún dato que permita identificar al servidor público probablemente responsable, las circunstancias de modo, tiempo y lugar que sean del conocimiento de su promovente, y en su caso, deberá de acompañarse de las pruebas documentales o elementos probatorios suficientes para poder establecer la existencia de la infracción y presumir la responsabilidad del servidor judicial denunciado.
 
-De la admisión de la Queja
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 179.
 
-Una vez recepcionada y registrada la queja, esta será turnada a la Comisión de Disciplina del Consejo, para que esta, a su vez, determine en relación a su admisión.
+Si del contenido de la denuncia, se advierte notoriamente que los hechos narrados por el promovente se tratan de cuestiones estrictamente jurisdiccionales o que no son de su competencia, la autoridad investigadora la desechará de plano sin mayor trámite.
 
-De la improcedencia de la Queja
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 180.
 
-En caso de resultar improcedente la admisión a trámite de la queja, la Comisión de Disciplina del Consejo, deberá emitir el acuerdo correspondiente.
+Cuando la denuncia no reúna los elementos probatorios suficientes para establecer la existencia de la infracción o la identificación del servidor público a quien se impute la responsabilidad o la existencia de hechos o conductas constitutivas de faltas administrativas, la autoridad investigadora prevendrá al denunciante, para que dentro del plazo de diez días hábiles contados a partir del día siguiente en que se notifique el procedimiento, aporte más elementos.
 
-Del Informe
+Transcurrido dicho término, sin que se aporten mayores elementos, se dictará el acuerdo de conclusión por falta de interés. Lo anterior, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 181.
 
-En caso de considerarse que existen elementos para admitir a trámite el escrito de queja, la Comisión de Disciplina del Consejo, deberá solicitar por conducto de la Contraloría informe al servidor o servidores públicos cuyos hechos se atribuyen, todo lo cual se hará del conocimiento del quejoso.
+Una vez que la denuncia contenga los elementos necesarios para dar curso a una investigación, la autoridad investigadora requerirá al denunciante para que comparezca dentro de los diez días hábiles siguientes a la recepción de la notificación, a efecto de ratificarse de su denuncia, con apercibimiento que de no hacerlo, se tendrá por no presentada la denuncia, procediéndose a su conclusión y archivo.
 
-Del término para rendir el Informe
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 182.
 
-El informe del servidor público sujeto a procedimiento, deberá rendirse dentro del término de siete días hábiles, contados a partir de la fecha en que reciba el requerimiento respectivo, mismo al que deberán acompañarse las pruebas que en su caso estime pertinentes el servidor público.
+La Autoridad investigadora realizará de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia. Lo anterior sin menoscabo de las investigaciones que se deriven de las denuncias a que se hace referencia en los artículos anteriores.
 
-Una vez recibido el informe del servidor público, se agregará al expediente previo acuerdo que emita la Contraloría.
-
-De las Pruebas
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 183.
 
-Si del contenido del informe y de sus constancias se advierte que resultan insuficientes para resolver el expediente, la Contraloría solicitará los documentos necesarios a los servidores públicos correspondientes.
+Durante la investigación la autoridad investigadora, para contar con mayores elementos para cumplir con sus atribuciones, podrá solicitar información o documentación a cualquier persona física o moral, realizar compulsas de documentos, recibir declaraciones de testigos y peritos, así como llevar a cabo inspecciones físicas.
 
-En caso, que del estudio de las constancias y documentos presentados se advierta que existen otro u otros servidores públicos involucrados en los mismos hechos, la mencionada Contraloría les requerirá sus respectivos informes.
+Además de las atribuciones anteriores, la autoridad investigadora contará con las facultades y obligaciones a que se refiere la Ley de Responsabilidades Administrativas del Estado de Yucatán.
 
-Del Dictamen
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 184.
 
-Una vez integrado el expediente la Contraloría emitirá el dictamen en relación a los hechos atribuidos al servidor público, por incumplimiento de las obligaciones a que se refiere la Ley de Responsabilidades, remitiéndose el expediente debidamente integrado a la Comisión de Disciplina del Consejo, para la elaboración del proyecto de resolución correspondiente al caso concreto.
+Para la práctica de investigaciones, substanciación y resolución de procedimientos de responsabilidad administrativa, se considerarán como días hábiles todos los del año, excepto aquellos días que estén declarados y los que en adelante se declaren inhábiles por alguna Ley Federal, Ley Estatal o por Acuerdo del Pleno del Consejo, en los cuales se suspendan las labores.
 
-De la Resolución
+Serán horas hábiles las que medien entre las ocho a las quince horas. Las autoridades investigadoras, substanciadoras o resolutoras del asunto, podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
+
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 185.
 
-La Comisión de Disciplina del Consejo, someterá a consideración del Pleno del Consejo para su aprobación definitiva los proyectos de resolución de procedimientos administrativos de responsabilidad.
+Las notificaciones en materia de responsabilidad administrativa se llevarán a cabo conforme a lo establecido en la sección octava "De las Notificaciones" del Capítulo I "Disposiciones comunes al procedimiento de responsabilidad administrativa" del Título Segundo "Del Procedimiento de Responsabilidad Administrativa" del Libro Segundo "Disposiciones Adjetivas" de la Ley de Responsabilidades Administrativas del Estado de Yucatán.
 
-De la Notificación
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 186.
 
-Una vez aprobada y firmada la resolución por el Pleno del Consejo, se turnará al funcionario que corresponda para que haga saber a las partes el sentido de la misma.
+La Contraloría, a través de la unidad correspondiente, será la encargada de vigilar el cumplimiento de aquellas resoluciones en las que se haya impuesto sanción alguna.
 
-De las Sanciones
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 187.
 
-En caso de que en la resolución se haya impuesto alguna sanción de las establecidas en el artículo 45 de la Ley de Responsabilidades, la Contraloría será la encargada de vigilar el cumplimiento de la misma.
+En caso de que la sanción impuesta sea de carácter pecuniario, la Contraloría vigilará que se haga efectiva dicha sanción, previa determinación que efectúe la Comisión de Disciplina o el Pleno del Consejo, según corresponda, considerando el criterio propuesto por la Comisión de Administración para ejecutar la referida sanción.
 
-De la Sanción Pecuniaria
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 188.
 
-En caso de que la sanción impuesta sea de carácter pecuniario, la Contraloría vigilará que se haga efectiva dicha sanción, previa determinación que efectúe el Pleno del Consejo, considerando el criterio propuesto por la Comisión de Administración para ejecutar la referida sanción.
+Todas las certificaciones necesarias en el procedimiento administrativo serán efectuadas por el Secretario Ejecutivo del Consejo.
 
-De las Certificaciones
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 189.
 
-Todas las certificaciones necesarias en el procedimiento administrativo serán efectuadas por el Secretario Ejecutivo del Consejo.
+Enterada las partes del contenido de la resolución definitiva emitida y no existiendo trámite pendiente por realizar, se ordenará el archivo del expediente como asunto totalmente concluido.
 
-De la Resolución Definitiva
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 190.
 
-Enterada las partes del contenido de la resolución emitida por el Pleno del Consejo, y no existiendo trámite pendiente por realizar, el mencionado Pleno declarará firme la resolución emitida, y se ordenará, el archivo del expediente como asunto totalmente concluido.
+Las resoluciones definitivas emitidas dentro de los procedimientos administrativos son inatacables y no procede recurso alguno, en términos del artículo 72 fracción VII, párrafo noveno de la Constitución Política del Estado de Yucatán.
 
-De la Improcedencia de Recursos
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 ###### Artículo 191.
 
-Las resoluciones emitidas en los procedimientos administrativos por el Pleno del Consejo son inatacables y no procede recurso alguno, en términos del artículo 72 fracción VII, párrafo noveno de la Constitución Estatal.
+Para efectos de la investigación y del procedimiento de responsabilidad administrativa se aplicará lo dispuesto en este apartado, así como en la Ley de Responsabilidades Administrativas del Estado de Yucatán y la Ley General de Responsabilidades Administrativas, en lo que no se oponga a las funciones judiciales.
 
 Condiciones Generales de Trabajo de los Servidores Públicos del Consejo
 
@@ -2552,6 +2606,22 @@ PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 24 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO
+
+El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO
+
+Con fundamento en el artículo 115 fracción XXIII de la Ley Orgánica del Poder Judicial del Estado de Yucatán, el Secretario Ejecutivo será el encargado de realizar las gestiones para la publicación del presente Acuerdo General en el Diario Oficial del Gobierno del Estado de Yucatán y en la página electrónica del Poder Judicial del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO
+
+Se derogan las disposiciones de igual o menor rango que contravengan lo dispuesto en este Acuerdo.
+
+D.O. 27 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO OR03-180302-02, QUE CONTIENE REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN”.]
 
 ###### ARTÍCULO PRIMERO
 
