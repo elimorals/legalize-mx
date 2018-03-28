@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2017-02-22"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -367,7 +367,9 @@ Los recursos destinados a programas y proyectos para el desarrollo social y huma
 
 I. Educación obligatoria;
 
-II. Promoción de la salud, prevención y control de enfermedades transmisibles y atención médica;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+
+II. Promoción de la salud, prevención y control de embarazo adolescente, enfermedades transmisibles y atención médica;
 
 III. Personas en condiciones de pobreza, desigualdad, marginación, discriminación, exclusión o en situación de vulnerabilidad;
 
@@ -1278,3 +1280,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0732/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 24 FRACCIÓN II DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
