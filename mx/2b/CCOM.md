@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2017-12-26"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CCOM"
 
 CÓDIGO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MARZO DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017.
 
@@ -7524,7 +7524,7 @@ Art. 1,252. Los peritos deben tener título en la ciencia, arte, técnica, ofici
 
 Si no lo requirieran o requiriéndolo, no hubiere peritos en el lugar, podrán ser nombradas cualesquiera personas entendidas a satisfacción del juez, aun cuando no tengan título.
 
-La prueba pericial sólo será admisible cuando se requieran conocimientos especiales de la ciencia, arte, técnica, oficio o industria de que se trate, más (sic) no en lo relativo a conocimientos generales que la ley presupone como necesarios en los jueces, por lo que se desecharán de oficio aquellas periciales que se ofrezcan por las partes para ese tipo de conocimientos, o que se encuentren acreditadas en autos con otras pruebas, o tan sólo se refieran a simples operaciones aritméticas o similares.
+La prueba pericial sólo será admisible cuando se requieran conocimientos especiales de la ciencia, arte, técnica, oficio o industria de que se trate, más no en lo relativo a conocimientos generales que la ley presupone como necesarios en los jueces, por lo que se desecharán de oficio aquellas periciales que se ofrezcan por las partes para ese tipo de conocimientos, o que se encuentren acreditadas en autos con otras pruebas, o tan sólo se refieran a simples operaciones aritméticas o similares.
 
 El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
 
@@ -10936,17 +10936,33 @@ D.O.F. 25 DE ENERO DE 2017.
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Segundo.- Las disposiciones previstas en el Título Especial Bis denominado "Del Juicio Ejecutivo Mercantil Oral" del Libro Quinto, entrarán en vigor a los doce meses después de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE MARZO DE 2018)</small>
 
-Tercero.- A partir del año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis, se tramitarán todas las contiendas mercantiles cuyo monto sea menor a $1,000,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+Segundo.- Las disposiciones previstas en el Título Especial Bis denominado “Del Juicio Ejecutivo Mercantil Oral” del Libro Quinto, serán aplicables a los asuntos en los que el valor de la suerte principal sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta $650,000.00, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 2018)</small>
+
+A partir del 26 de enero de 2019, en los juicios ejecutivos mercantiles orales a que se refiere el párrafo anterior, se tramitarán todas las contiendas mercantiles cuyo monto por concepto de suerte principal sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta $1,000,000.00, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+> <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 2018)</small>
+
+A partir del 26 de enero de 2020, en los juicios ejecutivos mercantiles orales a que se refiere el presente transitorio, se tramitarán todas las contiendas mercantiles cuyo monto sea igual o superior a la cantidad que establece el artículo 1339 para que un juicio sea apelable y hasta $4,000,000.00, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE MARZO DE 2018)</small>
+
+Tercero.- En los juicios orales mercantiles previstos en el artículo 1390 Bis, se tramitarán todas las contiendas mercantiles cuyo monto sea hasta $650,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
 
 Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
 
-Cuarto.- A partir del segundo año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles cuyo monto sea menor a $1,500,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE MARZO DE 2018)</small>
+
+Cuarto.- A partir del 26 de enero de 2019, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles cuyo monto sea hasta $1,000,000.00 por concepto de suerte principal, sin tomar en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda.
 
 Si en el mismo periodo, la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la prevista en el párrafo que antecede, se reservará el derecho del actor en la reconvención para que lo haga valer ante el juez que resulte competente.
 
-Quinto.- A partir del tercer año siguiente al de la entrada en vigor del presente Decreto, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles sin limitación de cuantía.
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 2018)</small>
+
+Quinto.- A partir del 26 de enero de 2020, en los juicios orales mercantiles previstos en el artículo 1390 Bis se tramitarán todas las contiendas mercantiles sin limitación de cuantía.
 
 D.O.F. 2 DE MAYO DE 2017.
 
@@ -10961,3 +10977,11 @@ D.O.F. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO PARA LA ACTUALIZACIÓN DE LOS MONTOS ESTABLECIDOS EN LOS ARTÍCULOS 1067 BIS FRACCIÓN II, 1253 FRACCIÓN VI, 1339, 1340 Y 1390 BIS 33 DEL CÓDIGO DE COMERCIO".]
 
 ÚNICO. - El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DECRETO POR EL QUE “SE REFORMAN LOS ARTÍCULOS TRANSITORIOS SEGUNDO; PRIMER PÁRRAFO DEL ARTÍCULO TERCERO; PRIMER PÁRRAFO DEL ARTÍCULO CUARTO, Y ARTÍCULO QUINTO; SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO SEGUNDO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE COMERCIO, EN MATERIA DE JUICIOS ORALES MERCANTILES”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 25 DE ENERO DE 2017”.]</small>
+
+D.O.F. 28 DE MARZO DE 2018.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos cuya demanda haya sido admitida a partir del 25 de enero de 2018 y hasta la entrada en vigor del presente Decreto, se tramitarán conforme a las leyes aplicables en ese momento.
