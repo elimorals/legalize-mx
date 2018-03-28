@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2017-06-20"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -849,9 +849,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
+IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -930,8 +930,6 @@ XXX. (DEROGADA, P.O. 15 DE OCTUBRE DE 2011)
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 XXXI. Seguir procedimiento de responsabilidad a los servidores públicos del Estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta Constitución y las leyes aplicables.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1807,7 +1805,7 @@ V. Ser originario del Estado o haber residido en el durante los dos años anteri
 
 VI. No haber sido Secretario de Despacho del Poder Ejecutivo, o haber desempeñado cargo de elección popular, durante el año previo al día de la designación.
 
-VI. No haber ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
+VII. No haber ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
@@ -1835,13 +1833,17 @@ Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio
 
 #### SECCIÓN II. De las Fiscalías Especializadas
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2018)</small>
 
 ###### Art. 100.
 
-La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General.
+La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente.
 
-El nombramiento y remoción de los Fiscales Especializados podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; si el Congreso no se pronunciare dentro del plazo de diez días hábiles, se entenderá que no tiene objeción.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Para la designación de los titulares de las Fiscalías Especializadas, el Congreso del Estado emitirá convocatoria pública para la postulación de candidatos, la cual deberá contener, al menos, las etapas de acreditación de requisitos, evaluación de conocimientos, control de confianza y escrutinio social, atendiendo el procedimiento que establece esta Constitución para la designación del Fiscal General.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 Los Fiscales Especializados deberán cubrir los mismos requisitos que para ser Fiscal General y durarán en su encargo ocho años sin posibilidad de ser ratificados.
 
@@ -3964,3 +3966,13 @@ Primero.- El presente decreto entrará en vigor el día 19 de septiembre del añ
 Segundo.- En un plazo que no exceda de noventa días, posteriores a la entrada en vigor del presente decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes al marco jurídico local.
 
 Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Para la designación de los Fiscales Especializados, el Congreso del Estado tendrá hasta ciento veinte días para iniciar el procedimiento de designación contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
