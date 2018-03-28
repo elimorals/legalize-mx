@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2017-11-24"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -617,9 +617,9 @@ XX.- Formular y establecer las políticas públicas que deberán observar las de
 
 XXI.- Coordinar los apoyos logísticos y operativos de los actos cívicos y los eventos a los que asista el Gobernador del Estado, dentro o fuera de la entidad; conjuntamente con el Despacho del Gobernador, las dependencias y entidades de la Administración Pública del Estado y los sectores social y privado;
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXII.- Elaborar y presentar al titular del Poder Ejecutivo el anteproyecto de ley de ingresos y de presupuesto de egresos del Gobierno del estado;
+XXII.- Elaborar y presentar al titular del Poder Ejecutivo el anteproyecto de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado, de conformidad con los requerimientos establecidos en la Ley del Presupuesto y Contabilidad Gubernamental, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normativa aplicable;
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -657,9 +657,9 @@ XXX.- Aplicar las disposiciones legales, y establecer los lineamientos para el m
 
 XXXI.- Aplicar las disposiciones legales y dictar medidas para llevar el control, supervisión, vigilancia y evaluación del desempeño de la Agencia de Administración Fiscal del Estado;
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXXII.- Integrar y formular la Cuenta Pública Anual del Gobierno del Estado, garantizando el cumplimiento de los criterios y lineamientos de la armonización contable;
+XXXII.- Integrar y formular la cuenta pública anual del Gobierno del Estado, garantizando el cumplimiento de los criterios y lineamientos de la armonización contable así como los requerimientos establecidos en la Ley del Presupuesto y Contabilidad Gubernamental, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás legislación y normativa aplicable;
 
 > <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -669,25 +669,45 @@ XXXIII.- Emitir opinión respecto a los montos globales de los subsidios y estí
 
 XXXIV.- Gestionar y administrar los ingresos y egresos provenientes de las contribuciones locales, las participaciones en los ingresos federales que le correspondan al Estado, las aportaciones federales, transferencias, reasignaciones presupuestales y apoyos extraordinarios que otorgue la federación, en los términos de las normas aplicables y los convenios relativos;
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXXV.- Realizar los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública, y en general, todos aquellos que sean requeridos por el Gobernador del Estado;
+XXXV.- Evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos, para el ejercicio o contratación de cualquier programa o proyecto de inversión pública productiva, de conformidad con los requerimientos establecidos en la Ley del Presupuesto y Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normativa aplicable;
 
 > <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
 
 XXXVI.- Asesorar a las dependencias y entidades de la Administración Pública Estatal, a los Municipios, en la interpretación y aplicación de las leyes tributarias, así como realizar una labor permanente de difusión y orientación fiscal;
 
-> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXXVII.- Vigilar la aplicación de los lineamientos de racionalidad del gasto y control administrativo, que realicen los titulares o funcionarios análogos, responsables de las áreas de administración y finanzas de las dependencias referidas en el artículo 22 de este Código; y en las entidades de la Administración Pública Paraestatal;
+XXXVII.- Adoptar medidas para racionalizar el gasto corriente en términos de lo dispuesto por la Ley del Presupuesto y Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normativa aplicable, así como vigilar su aplicación por parte de las dependencias y entidades;
 
-> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXXVIII.- Emitir dictamen presupuestal respecto a la creación o modificación de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública del estado, y
+XXXVIII.- Emitir dictamen presupuestal respecto a la creación o modificación de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública del Estado;
 
-> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XXXIX.- Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública estatal.
+XXXIX.- Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública estatal;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XL.- Autorizar las erogaciones adicionales a las aprobadas en el presupuesto de egresos con cargo a los ingresos excedentes que se obtengan;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XLI.- Llevar un sistema de registro y control de las erogaciones de servicios personales;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XLII.- Publicar, a través del sitio web de esta secretaría, la información en materia de subsidios, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XLIII.- Reintegrar a la Tesorería de la Federación las transferencias etiquetadas que no hayan sido devengadas, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XLIV.- Ejercer las atribuciones que le correspondan de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental.
 
 ### CAPÍTULO III. De la Consejería Jurídica
 
@@ -3014,3 +3034,23 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO: POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento del Código de la Administración Pública de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
