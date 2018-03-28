@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-recibir-un-apoyo-alimentario-633
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-03"
-last_updated: "2017-04-24"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63384&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-09-18"
 ---
 # LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL --
 
-LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL
+LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN LA CIUDAD DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 3 de octubre de 2008.
 
@@ -42,95 +42,103 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL IV LEGISLATURA.
 
 D E C R E T A
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MARZO 2018)</small>
 
-DECRETO POR EL QUE SE EXPIDE LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL.
+LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y de observancia general en el Distrito Federal, y tiene por objeto establecer y normar el derecho a recibir un Apoyo Alimentario mensual a las madres solas de escasos recursos residentes en el Distrito Federal, sin menoscabo del derecho de alimentos que de conformidad con el Código Civil del Distrito Federal les corresponda y sin que revista causal de cesación o reducción de pensión alimenticia.
+La presente Ley es de orden público e interés social y de observancia general en la Ciudad de México, y tiene por objeto establecer y normar el derecho a recibir un Apoyo Alimentario mensual a las madres solas de escasos recursos residentes en la Ciudad de México, sin menoscabo del derecho de alimentos que de conformidad con el Código Civil de la Ciudad de México les corresponda y sin que revista causal de cesación o reducción de pensión alimenticia.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley se consideran madres solas de escasos recursos:
 
-I. Las madres solteras o casadas, en concubinato, en sociedad en convivencia que acrediten documentalmente la solicitud de disolución del vínculo jurídico o demanda de alimentos para ella y sus hijos, o en caso excepcional mediante acta circunstanciada ante Juez Cívico; el Sistema para el Desarrollo Integral de la Familia del Distrito Federal podrá realizar los estudios socioeconómicos pertinentes para su verificación;
+I. Las madres solteras o casadas, en concubinato, en sociedad en convivencia que acrediten documentalmente la solicitud de disolución del vínculo jurídico o demanda de alimentos para ella y sus hijos, o en caso excepcional mediante acta circunstanciada ante Juez Cívico; el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México podrá realizar los estudios socioeconómicos pertinentes para su verificación;
 
-> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE 2016)</small>
+II. Que tengan hijos menores de 15 años; y
 
-II. Que tengan hijos menores de 15 años;
-
-> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE 2016)</small>
-
-III. Que tengan un ingreso diario no superior a dos salarios mínimos generales vigentes en el Distrito Federal, incluyendo cualquier pago por derecho alimentarios (sic); y
-
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE 2016)</small>
-
-IV. De igual forma podrán ser consideradas madres solas de escasos recursos, las que cumpliendo con los requisitos anteriores, se encuentren internas en cualquiera de los centros penitenciarios del Distrito Federal sujetas a proceso penal.
+III. Que tengan un ingreso diario no superior a dos veces la Unidad de Cuenta de la Ciudad de México vigente, incluyendo cualquier pago por derecho alimentarios.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2017)</small>
 
 ARTÍCULO 2 BIS.- Para efectos de esta Ley, se considera también madre sola de escasos recursos a la familiar en línea recta ascendiente en segundo grado que por extravío o por el deceso de la madre biológica, quede a cargo, de manera definitiva y permanente, de la crianza y tutela de sus nietos. Siempre y cuando se encuentre dentro de los supuestos establecidos en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 3.
 
-Las madres solas de escasos recursos residentes en el Distrito Federal, tienen el derecho a recibir un Apoyo Alimentario mensual equivalente a cuatro veces la Unidad de Cuenta de la Ciudad de México vigente.
+Las madres solas de escasos recursos residentes en la Ciudad de México, tienen el derecho a recibir un Apoyo Alimentario mensual equivalente a cuatro veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 4.
 
-Tienen derecho a recibir el Apoyo Alimentario a que se refiere la presente Ley, las madres solas de escasos recursos residentes en el Distrito Federal que cumplan con los siguientes requisitos:
+Tienen derecho a recibir el Apoyo Alimentario a que se refiere la presente Ley, las madres solas de escasos recursos residentes en la Ciudad de México que cumplan con los siguientes requisitos:
 
-I. Estén inscritas en el programa de Apoyo Alimentario a las madres solas de escasos recursos residentes en el Distrito Federal;
+I. Estén inscritas en el programa de Apoyo Alimentario a las madres solas de escasos recursos residentes en la Ciudad de México;
 
 II. Acrediten ser madres solas de escasos recursos;
 
-III. Acrediten la residencia en el Distrito Federal, y
+III. Acrediten la residencia en la Ciudad de México, y
 
 IV. No cuenten con apoyo económico o alimentario de la Administración Pública local, federal o de instituciones privadas.
 
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
+
 ###### ARTÍCULO 5.
 
-Las madres solas de escasos recursos residentes en el Distrito Federal beneficiarias del Programa previsto en la presente Ley, tienen derecho a:
+Las madres solas de escasos recursos residentes en la Ciudad de México beneficiarias del Programa previsto en la presente Ley, tienen derecho a:
 
-I. Recibir ellas y sus hijos los servicios de salud, incluyendo tratamiento y urgencias, en términos de lo dispuesto de la Ley que establece el derecho al acceso gratuito a los Servicios Médicos y Medicamentos a las Personas residentes en el Distrito Federal que carecen de Seguridad Social Laboral.
-
-En los casos de diagnostico de VIH y el SIDA, contarán con los servicios de consejería y atención medica especializada en los niveles de atención con los que cuenta el Gobierno del Distrito Federal,
+I. Recibir ellas y sus hijos los servicios de salud, incluyendo tratamiento y urgencias, en términos de lo dispuesto de la Ley que establece el derecho al acceso gratuito a los Servicios Médicos y Medicamentos a las Personas residentes en la Ciudad de México que carecen de Seguridad Social Laboral. En los casos de diagnostico de VIH y el SIDA, contarán con los servicios de consejería y atención médica especializada en los niveles de atención con los que cuenta el Gobierno de la Ciudad de México,
 
 II. Recibir asesoría legal por cualquier acto de discriminación vejación y vulneración de sus derechos,
 
 III. Recibir los servicios de defensoría de oficio para interponer los recursos, juicios o medios legales de defensa necesarios para proteger o reivindicar sus derechos,
 
-IV. Conocer y tener acceso a los diversos centros de atención a la mujer, gubernamentales o privados, mediante una línea de atención telefónica o los sistemas de información con los que cuenta el Gobierno del Distrito Federal,
+IV. Conocer y tener acceso a los diversos centros de atención a la mujer, gubernamentales o privados, mediante una línea de atención telefónica o los sistemas de información con los que cuenta el Gobierno de la Ciudad de México,
 
-V. A obtener incentivos o descuentos fiscales por parte del Gobierno del Distrito Federal; y
+V. A obtener incentivos o descuentos fiscales por parte del Gobierno de la Ciudad de México; y
 
-VI. A tener preferencia al acceso a los programas sociales que implemente el Gobierno del Distrito Federal.
+VI. A tener preferencia al acceso a los programas sociales que implemente el Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 6.
 
-El Jefe de Gobierno del Distrito Federal debe incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación presupuestal que garantice el ejercicio del derecho a un Apoyo Alimentario mensual establecido en la presente Ley.
+La persona Titular de la Jefatura de Gobierno de la Ciudad de México debe incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación presupuestal que garantice el ejercicio del derecho a un Apoyo Alimentario mensual establecido en la presente Ley.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 7.
 
-La Asamblea Legislativa del Distrito Federal debe aprobar en el Decreto de Presupuesto de Egresos anual, el monto suficiente para hacer efectivo el derecho a un Apoyo Alimentario mensual establecido en la presente Ley.
+El Congreso de la Ciudad de México debe aprobar en el Decreto de Presupuesto de Egresos anual, el monto suficiente para hacer efectivo el derecho a un Apoyo Alimentario mensual establecido en la presente Ley.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
 
 ###### ARTÍCULO 8.
 
-La forma como se hará efectiva la entrega del Apoyo Alimentario mensual a las madres solas de escasos de (sic) recursos residentes en el Distrito Federal, será mediante el procedimiento que se establezca en el Reglamento de la presente Ley.
+La forma como se hará efectiva la entrega del Apoyo Alimentario mensual a las madres solas de escasos de recursos residentes en la Ciudad de México, será mediante el procedimiento que se establezca en el Reglamento de la presente Ley.
 
-La operación e implementación del programa de Apoyo Alimentario mensual a las madres solas de escasos de recursos residentes en el Distrito Federal, estará a cargo del Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+La operación e implementación del programa de Apoyo Alimentario mensual a las madres solas de escasos de recursos residentes en la Ciudad de México, estará a cargo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
+
+> <small>[N. DE E. REPUBLICADO, G.O. 28 DE MARZO 2018]</small>
 
 ###### ARTÍCULO 9.
 
 Los servidores públicos responsables del cumplimiento de la presente Ley, que se abstengan u omitan cumplir con la obligación de actuar bajo los principios de igualdad e imparcialidad, serán sancionados de conformidad con los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, G.O. 28 DE MARZO 2018)</small>
+
 ###### ARTÍCULO 10.
 
-Los servidores públicos encargados del cumplimiento de la presente Ley, deberán abstenerse de condicionar o negar el otorgamiento del Apoyo Alimentario mensual a las madres solas de escasos recursos residentes en el Distrito Federal, ni emplearlo para hacer proselitismo partidista o personal, en caso contrario, serán sancionados de conformidad a los ordenamientos legales aplicables.
+Los servidores públicos encargados del cumplimiento de la presente Ley, deberán abstenerse de condicionar o negar el otorgamiento del Apoyo Alimentario mensual a las madres solas de escasos recursos residentes en la Ciudad de México, ni emplearlo para hacer proselitismo partidista o personal, en caso contrario, serán sancionados de conformidad a los ordenamientos legales aplicables.
+
+> <small>[N. DE E. REPUBLICADO, G.O. 28 DE MARZO 2018]</small>
 
 ###### ARTÍCULO 11.
 
@@ -179,3 +187,13 @@ G.O. 24 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 28 DE MARZO 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
