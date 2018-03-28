@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2014-12-26"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -277,15 +277,17 @@ En caso de incumplimiento en los plazos establecidos, el retraso dará lugar al 
 
 Las entregas antes referidas serán cubiertas por la Secretaría de Administración y Finanzas mediante cheque o depósito en cuenta bancaria a nombre de los municipios.
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 8.
 
-Las participaciones federales que correspondan a los municipios en los términos del artículo 9 de la Ley de Coordinación Fiscal federal son inembargables; no pueden afectarse a fines específicos ni estar sujetas a retención, salvo aquellas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el Artículo 4-A, fracción I, de la Ley de Coordinación Fiscal federal, las cuales podrán ser afectadas para el pago de obligaciones contraídas por los municipios, con autorización del Congreso e inscritas a petición de los municipios ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
+Las participaciones federales que correspondan al estado y a los municipios, en términos del artículo 9 de la Ley de Coordinación Fiscal Federal, son inembargables; no pueden afectarse a fines específicos ni estar sujetas a retención, salvo aquellas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el artículo 4-A, fracción I, de la Ley de Coordinación Fiscal Federal, las cuales podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por el estado y por los municipios, con autorización del Congreso e inscritas en el Registro Público Único, de conformidad con el Capítulo VI, del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a favor de la federación, de las instituciones de crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-No estarán sujetas a lo dispuesto en el párrafo anterior las compensaciones que se requiera efectuar como consecuencia de ajustes en participaciones federales o de descuentos originados del incumplimiento de metas pactadas con la federación en materia de administración de contribuciones. Procederán las compensaciones entre las participaciones federales e incentivos de los municipios y las obligaciones que tengan con la federación, cuando exista acuerdo entre las partes interesadas.
+Los municipios podrán convenir que el estado afecte sus participaciones o aportaciones susceptibles de afectación, en garantía, como fuente de pago, para efectos de lo establecido en el párrafo anterior de este artículo.
 
-Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el registro estatal de deuda pública, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada de realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
+No estarán sujetas a lo dispuesto en el párrafo primero de este artículo, las compensaciones que se requieran efectuar al estado como consecuencia de ajustes en participaciones federales o de descuentos originados del incumplimiento de metas pactadas con la federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos del estado y de los municipios así como las obligaciones que tengan con la federación cuando exista acuerdo entre las partes interesadas o de conformidad con la Ley de Coordinación Fiscal Federal.
+
+Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Administración y Finanzas, en el Registro de Empréstitos y Obligaciones del Estado de Yucatán, en caso de ser procedente. La Secretaría de Administración y Finanzas será la obligada de realizar los trámites de inscribir en dicho registro la deuda pública de los municipios en cuanto se habilite.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -494,3 +496,23 @@ Este decreto entrará en vigor el 1 de enero de 2015, previa publicación en el 
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este Decreto.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 607/2018 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento del Código de la Administración Pública de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
