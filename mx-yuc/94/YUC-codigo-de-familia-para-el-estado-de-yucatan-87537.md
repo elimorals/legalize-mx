@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2017-11-24"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -501,11 +501,13 @@ IV. Exhibir un certificado médico en el que conste que los interesados no padec
 
 (DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+
 Taller de orientación prematrimonial
 
 ###### Artículo 57.
 
-Todos los interesados en contraer matrimonio deben acreditar su asistencia a los talleres de orientación prematrimonial implementados por el Registro Civil. Los talleres señalados en el párrafo anterior deben estar orientados a lo siguiente:
+Todos los interesados en contraer matrimonio deben acreditar su asistencia a los talleres de orientación prematrimonial implementados por el Registro Civil. Los talleres deben estar orientados a lo siguiente:
 
 I. La explicación de los requisitos para contraer matrimonio;
 
@@ -515,9 +517,15 @@ III. Los regímenes patrimoniales, patria potestad, patrimonio de la familia, pa
 
 IV. Las formas y efectos de la terminación del matrimonio;
 
-V. El principio de igualdad de derechos y obligaciones que corresponden a los contrayentes, y
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-VI. Lo demás que se considere necesario para fomentar y proteger el matrimonio.
+V. El principio de igualdad de derechos y obligaciones que corresponden a los contrayentes;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+VI. La prevención y tratamiento de la violencia familiar, así como las instituciones y autoridades ante quienes puede acudirse, y
+
+VII. Lo demás que se considere necesario para fomentar y proteger el matrimonio.
 
 ### CAPÍTULO III. De los Impedimentos para Contraer Matrimonio
 
@@ -1435,9 +1443,7 @@ Plazo para solicitar el divorcio
 
 ###### Artículo 171.
 
-Cualquiera que sea el caso, el divorcio debe solicitarse siempre que, cuando menos, haya transcurrido un año de la celebración del matrimonio.
-
-No es necesario el transcurso del plazo a que se refiere el párrafo anterior, siempre que se acredite la existencia de un riesgo para la vida, la integridad física o moral, la dignidad, la libertad o el libre desarrollo de la sexualidad del o de los cónyuges o de los hijos o hijas de ambos.
+(DEROGADO, D.O. 28 DE MARZO DE 2018)
 
 Medidas provisionales en caso de divorcio
 
@@ -1495,7 +1501,7 @@ Procede el divorcio voluntario administrativo cuando concurran las siguientes ci
 
 I. Ambos cónyuges convengan en divorciarse;
 
-II. Haya transcurrido un año desde la celebración del matrimonio;
+II. (DEROGADA, D.O. 28 DE MARZO DE 2018)
 
 III. No tengan a su cargo hijos o hijas que no hayan alcanzado la mayoría de edad o mayores de edad incapaces, y
 
@@ -1631,7 +1637,9 @@ Reglas para decretar medidas provisionales
 
 El juez siempre que reciba la solicitud de divorcio sin causales acompañado del proyecto de convenio respectivo debe, de oficio, establecer las medidas provisionales siguientes:
 
-I. En los casos en que lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, debe dictar las que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, con la más amplia libertad para prescribir las medidas que protejan a las víctimas;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+I. De conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, debe dictar las que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las órdenes de protección, en caso de violencia familiar, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; con la más amplia libertad para prescribir las medidas que protejan a las víctimas;
 
 II. Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos o hijas que corresponda;
 
@@ -1665,7 +1673,9 @@ La resolución dictada por el juez en la que decrete el divorcio, debe fijar la 
 
 I. Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos o hijas a convivir con ambos progenitores;
 
-II. Todas las medidas necesarias para proteger a los hijos o hijas de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+II. Todas las medidas necesarias para proteger a los hijos o hijas de actos de violencia familiar, incluso órdenes de protección, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
 
 III. Las medidas necesarias para garantizar la convivencia de los hijos o hijas con sus progenitores, misma que sólo debe ser limitada o suspendida cuando exista riesgo para los hijos o hijas o en los casos que establece este Código;
 
@@ -1913,13 +1923,15 @@ En caso de que exista matrimonio o concubinato, ningún cónyuge o miembro del c
 
 Los progenitores aun cuando no se encuentren unidos en matrimonio o concubinato, tienen la obligación de reconocer a sus hijos o hijas.
 
-Desconocimiento del hijo o hija
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Presunción de filiación
 
 ###### Artículo 227.
 
-El padre puede desconocer al hijo o hija nacido después de trescientos días, contados desde que de hecho dejó de tener acceso carnal con la mujer.
+Se presumen hijos o hijas del padre, salvo prueba en contrario, los nacidos dentro de los trescientos días siguientes a la cópula.
 
-El hijo o hija o el tutor de éste, pueden sostener en tales casos la paternidad del que la desconoce.
+El hijo o hija, o su tutor, pueden sostener, en tales casos, la paternidad de quien la desconoce.
 
 Presunción de paternidad en caso de nulidad o inexistencia de matrimonio
 
@@ -2195,11 +2207,13 @@ Reconocimientos del descendiente antes o durante del matrimonio
 
 El hombre o la mujer casados puede reconocer sin el consentimiento de su cónyuge al descendiente habido antes o durante de su matrimonio con persona distinta de su cónyuge, pero no tiene derecho a llevarlo a vivir al domicilio conyugal si no obtiene previamente el consentimiento expreso del cónyuge.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 Reconocimiento del descendiente de una mujer casada
 
 ###### Artículo 264.
 
-La mujer casada puede reconocer a un descendiente habido durante su matrimonio con persona diversa a su cónyuge, acreditando con pruebas biológicas la paternidad del descendiente.
+La filiación de los hijos o hijas nacidos fuera de matrimonio resulta, en relación con la madre, del solo hecho del nacimiento. Respecto del padre solo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
 
 Reconocimiento de descendientes en línea recta de primer grado, mayores de edad
 
@@ -4673,11 +4687,13 @@ Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de r
 
 Para tal efecto, contarán con la asistencia y protección de las instituciones públicas y privadas, que tienen a su cargo el combate y la prevención de conductas que propicien la violencia familiar.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+
 Violencia familiar
 
 ###### Artículo 567.
 
-Para los efectos de este Código se considera violencia familiar, al acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, psicológica, patrimonial, económica o sexual, ejercida en contra de un miembro de la familia por otro integrante de la misma, dentro o fuera del domicilio familiar.
+Para los efectos de este Código se considera violencia familiar, al acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual, ejercida en contra de un miembro de la familia por otro integrante de ella o por alguien con quien mantengan o hayan mantenido una relación de concubinato o de hecho, dentro o fuera del domicilio familiar.
 
 No se justifica en ningún caso como forma de educación o formación, el ejercicio de la violencia hacia las niñas, niños y adolescentes o personas incapaces.
 
@@ -7348,5 +7364,17 @@ D.O. 24 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 545/2017 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN".]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 605/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS DE LA MUJER".]
+
+Entrada en vigor
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
