@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-la-pension-para-el-bienestar-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-18"
-last_updated: "2014-11-28"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-11-13"
 ---
 # LEY QUE ESTABLECE EL DERECHO A LA PENSION PARA EL BIENESTAR DE LAS PERSONAS MAYORES, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL --
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MARZO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
@@ -42,55 +44,67 @@ III LEGISLATURA
 
 D E C R E T A :
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE OCTUBRE DE 2008)</small>
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MÉXICO
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 1.
 
-Los adultos mayores de sesenta y ocho años, residentes en el Distrito Federal tienen derecho a recibir una pensión diaria no menor a la mitad de una Unidad de Cuenta de la Ciudad de México vigente.
+Los adultos mayores de sesenta y ocho años, residentes en la Ciudad de México tienen derecho a recibir una pensión diaria no menor a la mitad de una Unidad de Cuenta de la Ciudad de México vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 2.
 
-El Jefe de Gobierno del Distrito Federal deberá incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria a todos los adultos mayores de sesenta y ocho años, residentes en el Distrito Federal.
+La persona Titular de la Jefatura de Gobierno de la Ciudad de México deberá incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria a todos los adultos mayores de sesenta y ocho años, residentes en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 3.
 
-La Asamblea Legislativa del Distrito Federal deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria.
+El Congreso de la Ciudad de México deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria.
 
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 4.
 
-La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno del Distrito Federal, y la cual podrá ser utilizada en los principales centros comerciales autorizados y/o en los mercados públicos del Distrito Federal.
+La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno de la Ciudad de México, y la cual podrá ser utilizada en los principales centros comerciales autorizados y/o en los mercados públicos de la Ciudad de México.
 
-La verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el reglamento correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 28 DE MARZO DE 2018)</small>
+
+> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 5.
 
-Los servidores públicos, responsables de la ejecución de esta Ley, que no cumplan con la obligación de actuar con apego a los principios de igualdad e imparcialidad, incurrirán en falta grave y serán sancionados conforme a los ordenamientos legales aplicables.
+Los adultos mayores de sesenta y ocho años residentes en la Ciudad de México, podrán realizar su solicitud de Pensión ante el Instituto para la Atención de los Adultos Mayores de la Ciudad de México, mismo que realizará visita domiciliaria para verificar que cumpla con los requisitos correspondientes.
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+La verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el reglamento correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 6.
 
-El Instituto para la Atención de los Adultos Mayores en el Distrito Federal deberá mantener actualizado su padrón de beneficiarios para consulta directa y en la sección de transparencia en su página electrónica.
+Los servidores públicos, responsables de la ejecución de esta Ley, que no cumplan con la obligación de actuar con apego a los principios de igualdad e imparcialidad, incurrirán en falta grave y serán sancionados conforme a los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO G.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 7.
 
-El titular del Registro Civil del Distrito Federal informará al Instituto para la Atención de los Adultos Mayores en el Distrito Federal, dentro del plazo de diez días hábiles del mes calendario siguiente, la relación mensual de las actas de defunción de personas de 68 años de edad y mayores expedidas por dicho registro o alguno de los juzgados dependientes de éste.
+El Instituto para la Atención de los Adultos Mayores de la Ciudad de México deberá mantener actualizado el padrón de beneficiarios para consulta directa y en la sección de transparencia en su página electrónica.
+
+> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 8.
+
+El titular del Registro Civil de la Ciudad de México informará al Instituto para la Atención de los Adultos Mayores de la Ciudad de México, dentro del plazo de diez días hábiles del mes calendario siguiente, la relación mensual de las actas de defunción de personas de 68 años de edad y mayores expedidas por dicho Registro o alguno de los juzgados dependientes de éste.
+
+> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 9.
+
+La entrega de la pensión alimentaria a adultos mayores, bajo ninguna circunstancia podrá suspenderse, incluso en periodo electoral; la entrega de esta pensión no podrá estar sujeta a condición alguna, siempre que reúna los requisitos señalados en el reglamento.
 
 ## TRANSITORIOS
 
@@ -137,3 +151,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
