@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2018-01-08"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1719,7 +1719,7 @@ El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y ac
 
 ###### Art. 178.
 
-El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará sujeto al régimen de separación de bienes, y en ningún caso; los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
+El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará ujeto al régimen de separación de bienes, y en ningún caso; los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
 
 ###### Art. 179.
 
@@ -13553,13 +13553,17 @@ Se prohibe a los Magistrados, a los jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
 ###### Art. 2300.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales, y ratificado su contenido y firmas ante notario público, cuando se convenga sobre cláusula resolutoria o pacto comisorio expreso.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
 ###### Art. 2301.
 
-Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, en donde además se convenga sobre la cláusula resolutoria o pacto comisorio expreso, el contrato se otorgará en escritura pública.
 
 ###### Art. 2302.
 
@@ -13597,13 +13601,19 @@ IV.- A garantizar el uso o goce pacífico de la cosa por todo el tiempo del cont
 
 V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+VI.- A notificar judicial o extrajudicialmente ante notario público o ante dos testigos, las causas particulares que actualizan la cláusula resolutoria o pacto comisorio expreso.
+
 ###### Art. 2307.
 
 La entrega de la cosa se hará en el tiempo convenido; y si no hubiere convenio, luego que el arrendador fuere requerido por el arrendatario.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
 ###### Art. 2308.
 
-El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo 2306.
+El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir en el uso legítimo de ella, salvo los casos designados en las fracciones III y VI del artículo 2306.
 
 ###### Art. 2309.
 
@@ -13662,6 +13672,10 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
 III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+IV.- A cumplir lo convenido en la cláusula resolutoria o pacto comisorio expreso, de ser procedente.
 
 ###### Art. 2320.
 
@@ -13943,11 +13957,15 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+IX.- Por cláusula resolutoria o pacto comisorio expreso.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
 ###### Art. 2378.
 
-Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2372 y 2373.
+Si el arrendamiento se ha hecho por tiempo determinado, o se actualiza una cláusula resolutoria o pacto comisorio expreso, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2372 y 2373.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -13979,9 +13997,41 @@ II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2374.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
 ###### Art. 2384.
 
-En los casos del artículo 2339, el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total, y aun cuando fuere parcial, si la reparación durare más de dos meses.
+La cláusula resolutoria o pacto comisorio expreso es el acuerdo formal en los contratos de arrendamiento, con ratificación de su contenido y firmas ante notario público, donde se establecen las causas, procedimiento y consecuencias de la resolución por el incumplimiento de una de las partes, sin necesidad de declaración judicial.
+
+En el contrato de arrendamiento con cláusula resolutoria o pacto comisorio expreso, el arrendatario deberá nombrar representantes irrevocables, a quienes entregará la posesión física del inmueble, en virtud del artículo 2490 bis de este código.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Art. 2384 BIS.- De existir controversia sobre la actualización de la cláusula resolutoria o pacto comisorio expreso, el interesado acudirá ante juez competente, quien verificará si convergen los elementos para conminar a quien haya incumplido con su obligación, e impondrá además las consecuencias legales o convencionales del caso, siempre y cuando lo pactado no altere el interés público o derechos de tercero.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Art. 2384 BIS I.- Para ejecutar la cláusula resolutoria o el pacto comisorio expreso, se necesita:
+
+I. La notificación judicial o extrajudicial ante dos testigos, o fedatario público, del incumplimiento a la contraparte personalmente en el inmueble arrendado de acuerdo a las reglas del capítulo de secuestro del Código de Procedimientos Civiles del Estado de Nuevo León.
+
+II. Invocar las causas particulares de incumplimiento que dieron origen a la notificación, establecidas en la cláusula resolutoria o pacto comisorio expreso.
+
+III. La existencia de un plazo para el cumplimiento de la obligación, no menor de diez días naturales; y
+
+IV. Determinar en la notificación, el lugar de depósito de los bienes muebles que se encuentren en el inmueble arrendado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Art. 2384 BIS II.- Una vez transcurrido el plazo de la fracción III del artículo anterior y sin cumplimiento de la obligación, procede la resolución que dio origen a la cláusula resolutoria o pacto comisorio expreso de la manera siguiente:
+
+I. Notificación de la resolución a la contraparte ante fedatario público.
+
+II. Determinación del plazo para desalojo de inmueble y entrega de la posesión, no menor a 5 días naturales.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Art. 2384 BIS III.- El interesado de la cláusula resolutoria o pacto comisorio expreso tiene la facultad de solicitar a la autoridad judicial, señalar bienes de la contraparte para garantizar el cumplimiento de las obligaciones contraídas.
 
 ###### Art. 2385.
 
@@ -17565,7 +17615,7 @@ P.O. 8 DE NOVIEMBRE DE 2017.
 
 P.O. 8 DE ENERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 317. POR EL QUE SE REFORMAN DIVERSAS LEYES DEL ESTADO DE NUEVO LEÓN”.]
 
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -17586,6 +17636,12 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de (sic) fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 371. SE REFORMAN LOS ARTÍCULOS 2300, 2301, 2308, 2378 Y 2384; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 2306, UNA FRACCIÓN IV AL ARTÍCULO 2319, UNA FRACCIÓN IX AL ARTÍCULO 2377, ASÍ COMO LOS ARTÍCULOS 2384 BIS, 2384 BIS I, 2384 BIS II Y 2384 BIS III DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
