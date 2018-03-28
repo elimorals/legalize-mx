@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-694
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2016-12-28"
+last_updated: "2018-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -75,7 +75,9 @@ IX.- Licitante: Persona física o moral que participa en el procedimiento de lic
 
 X.- Proyecto para la Prestación de Servicios: Conjunto de acciones que se requieren para que una Entidad Pública reciba un servicio o conjunto de servicios por parte de un Inversionista Proveedor, que incluyen el acceso a los activos que se construyan o provean, de conformidad con lo previsto por esta Ley y demás disposiciones relacionadas, y
 
-XI.- Secretaría: La Secretaría de Planeación y Presupuesto del Poder Ejecutivo del Gobierno del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XI.- Secretaría: La Secretaría de Administración y Finanzas del Gobierno del Estado de Yucatán.
 
 ###### Artículo 3.
 
@@ -109,6 +111,14 @@ III.- Que la prestación de los servicios se efectúe con los activos que el Inv
 
 IV.- Que el Inversionista Proveedor sea responsable del financiamiento, cuando sea necesario, para el desarrollo de los servicios establecidos en el Contrato.
 
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+V.- Que se celebre bajo las mejores condiciones del mercado de conformidad con esta ley, y según resulte aplicable la ley en materia de deuda pública y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Tratándose de proyectos de inversión pública productiva que se pretendan contratar bajo este esquema se deberá acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+
 ###### Artículo 7.
 
 El Contrato que se celebre en términos de lo señalado en esta ley, se podrá ejecutar con bienes del dominio público, destinados a un servicio público o propios del Estado o municipios, en bienes que sean propiedad del Inversionista Proveedor o de un tercero, los cuales podrán pactar la opción de transferencia de los activos relacionados con el Contrato al término de su vigencia.
@@ -119,7 +129,9 @@ Podrá otorgarse el uso de bienes muebles o inmuebles a través de concesión, a
 
 En el Contrato, las partes podrán estipular que la Entidad Pública adquiera los activos con los cuales se prestan los servicios bajo ciertas circunstancias, sin embargo, la adquisición forzosa no podrá ser objeto principal del Contrato. Asimismo, la Entidad Pública tendrá el derecho de intervenir los activos para asegurar la prestación de servicios en caso de desastre natural, epidemia, desorden social, el incumplimiento de la contraparte o cuando el Inversionista Proveedor entre en un proceso de quiebra o concurso mercantil, en los términos que se pacten en el Contrato.
 
-Los contratos que se celebren en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Los contratos que se celebren en contravención a lo dispuesto por esta ley, la ley en materia de deuda pública y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, serán nulos de pleno derecho.
 
 ### CAPÍTULO III. De la Evaluación y Aprobación
 
@@ -181,45 +193,35 @@ Para este efecto, el Presidente Municipal deberá someter al Ayuntamiento un inf
 
 El Ayuntamiento deberá incluir en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el Ayuntamiento conforme a esta ley.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### Artículo 16.
 
-Se requerirá la autorización del H. Congreso del Estado cuando se pretendan afectar las participaciones u otros ingresos estatales o municipales, según corresponda, como garantía o fuente de pago por los proyectos de prestación de servicios contraídos por la entidad pública de que se trate.
+Se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones u otros ingresos estatales o municipales, según corresponda, como garantía o fuente de pago por los proyectos de prestación de servicios contraídos por la entidad pública de que se trate, en términos de la ley en materia de deuda pública y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-Asimismo, el Congreso del Estado, podrá decretar la desafectación de participaciones u otros ingresos estatales o municipales, cuando sea procedente.
+Asimismo, el Congreso podrá decretar la desafectación de participaciones u otros ingresos estatales o municipales de conformidad con la legislación aplicable, cuando sea procedente.
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 17.
 
-Una vez que se haya emitido la aprobación en los términos de esta Ley, la Entidad Pública podrá licitar o adjudicar el Contrato conforme a esta Ley.
+Una vez que se haya emitido la aprobación en los términos de esta Ley, la Entidad Pública podrá licitar o adjudicar el contrato conforme a esta ley, a la ley en materia de deuda pública y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-En caso de que durante el proceso de licitación surja la necesidad de cambiar los términos aprobados por el H. Congreso o el Ayuntamiento, la Entidad Pública correspondiente deberá recabar la autorización u opinión de parte de la Secretaría o el Síndico Municipal, y la autorización del H. Congreso o del Ayuntamiento, según corresponda.
+En caso de que durante el proceso de licitación surja la necesidad de cambiar los términos aprobados por el Congreso o el Ayuntamiento, la Entidad Pública correspondiente deberá recabar la autorización u opinión de la Secretaría o el Síndico Municipal, y la autorización del Congreso o del Ayuntamiento, según corresponda.
 
 ### CAPÍTULO IV. De los Procedimientos de Licitación
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### Artículo 18.
 
-Los contratos se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que serán abiertos públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto al precio, calidad, financiamiento, oportunidad y demás circunstancias de acuerdo a lo que establece la presente Ley.
+Los contratos se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que serán abiertos públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto al precio, calidad, financiamiento, oportunidad y demás circunstancias de acuerdo a lo que establece esta Ley.
 
-Las licitaciones públicas serán:
+Las licitaciones públicas serán nacionales, es decir, únicamente podrán participar personas de nacionalidad mexicana.
 
-I.- Nacionales: cuando únicamente puedan participar personas de nacionalidad mexicana, y
+En los procedimientos de contratación se establecerán los mismos requisitos y condiciones para todos los participantes. Con el objeto de llevar a cabo procesos transparentes y no discriminatorios, la Entidad Pública deberá proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos. No será necesario que el licitante esté registrado en el padrón de proveedores de la Administración Pública estatal.
 
-II.- Internacionales: cuando puedan participar tanto personas de nacionalidad mexicana como extranjera.
-
-Solamente se deberán llevar a cabo licitaciones internacionales, en los siguientes casos:
-
-a) Cuando resulte necesario, debido a que los servicios solicitados no sean de procedencia nacional o no existan dentro de la nación;
-
-b) Cuando, previa investigación de mercado que realice la Entidad Pública convocante, no exista oferta de inversionistas proveedores nacionales respecto a los servicios en la calidad requerida, o sea conveniente en términos de precio;
-
-c) Los contratistas nacionales no cuenten con la capacidad para brindar el servicio que se trate, o
-
-d) Cuando después de haber realizado una licitación de carácter nacional, ninguna cumpla con los requisitos a que se refiere la fracción I de este artículo.
-
-En este tipo de licitaciones, los licitantes deberán manifestar ante la convocante que la contraprestación que presentan en la parte económica de su propuesta, no se cotiza en condiciones de prácticas desleales de comercio internacional.
-
-En los procedimientos de contratación se establecerán los mismos requisitos y condiciones para todos los participantes. Con el objeto de llevar a cabo procesos transparentes y no discriminatorios, la Entidad Pública deberá proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos. No será necesario que el licitante esté registrado en el padrón de proveedores de la Administración Pública Estatal.
-
-En todos los actos de la licitación o adjudicación, las Entidades Públicas deberán invitar a la Contraloría o al órgano de control interno municipal, según corresponda; la cual intervendrá para ejercer sus facultades de verificación, inspección y fiscalización para el cumplimiento de esta Ley.
+En todos los actos de la licitación, las Entidades Públicas deberán invitar a la Contraloría o al órgano de control interno municipal, según corresponda; la cual intervendrá para ejercer sus facultades de verificación, inspección y fiscalización para el cumplimiento de esta Ley, de la ley en materia de deuda pública y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 19.
 
@@ -241,7 +243,7 @@ VI.- La determinación de que los pagos se harán en moneda nacional;
 
 VII.- La fecha, hora y lugar en que se llevará a cabo la primera junta de aclaraciones a las bases de licitación, así como el acto de presentación y apertura de proposiciones;
 
-VIII.- El carácter de la licitación, nacional o internacional; y sí se realiza bajo la cobertura de algún tratado internacional;
+VIII.- (DEROGADA, D.O. 28 DE MARZO DE 2018)
 
 IX.- La prohibición de participar a aquellas personas físicas o morales que se encuentren inhabilitadas por autoridad competente y las comprendidas en los supuestos del artículo 25 de esta Ley, y
 
@@ -327,19 +329,7 @@ XII.- Las demás que por cualquier causa se encuentren impedidas para ello por d
 
 ###### Artículo 26.
 
-Bajo su más estricta responsabilidad y previa autorización del Titular u Órgano de Gobierno de la Entidad Estatal y, en su caso, por mayoría calificada del Ayuntamiento, la Entidad Pública podrá optar por no llevar a cabo el procedimiento de licitación pública y celebrar el Contrato a través de invitación dirigida a cuando menos tres personas, o en caso de no existir idoneidad, por adjudicación directa cuando se justifique plenamente que se cumple alguna de las siguientes condiciones:
-
-I.- Que existan circunstancias que puedan provocar pérdidas o costos adicionales importantes o casos de emergencia al Estado;
-
-II.- Cuando haya sido declarada desierta una licitación pública en al menos una ocasión, siempre que no se modifiquen los requisitos originalmente establecidos en las bases de Licitación, por no haber recibido propuestas solventes o se cancele la licitación;
-
-III.- Que se hubiere rescindido el Contrato por causas imputables al Inversionista Proveedor que hubiere resultado ganador en una Licitación. En estos casos, la Entidad Pública podrá adjudicar el Contrato al licitante que haya presentado la propuesta de máxima calificación inmediata inferior al licitante ganador;
-
-IV.- Que el Contrato sólo pueda celebrarse con una determinada persona por ser titular de la propiedad intelectual, de patentes, derechos de autor u otros derechos exclusivos, o
-
-V.- Que existan razones justificadas para que, por la especialidad tecnológica de los servicios, deba prestarlos una persona determinada.
-
-La excepción a la licitación que la Entidad Pública realice deberá fundarse y motivarse, según las circunstancias que concurran en cada caso y que aseguren las mejores condiciones para el Estado o el Municipio. En estos supuestos, el Titular de la Entidad Pública enviará a la Contraloría o al órgano de control interno, en un lapso de 30 días hábiles posteriores a la formalización del o los contratos respectivos, un informe sobre los mismos, y acompañará copia del escrito de autorización aludido en este artículo y de un dictamen en el que se hará constar el análisis de la o las proposiciones y las razones para la adjudicación del Contrato.
+(DEROGADO, D.O. 28 DE MARZO DE 2018)
 
 ### CAPÍTULO VI. De la Contratación
 
@@ -357,7 +347,9 @@ La contraprestación anual derivada del Contrato podrá ser ajustada mediante í
 
 Los contratos contendrán como mínimo, lo siguiente:
 
-I.- Las características del procedimiento licitatorio, conforme al cual se llevó a cabo la adjudicación del Contrato. En caso de que la adjudicación fuere por invitación ó adjudicación directa previstos en esta Ley, se deberá señalar el fundamento jurídico y los motivos de la misma;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+I.- Las características del procedimiento licitatorio, conforme al cual se llevó a cabo la adjudicación del contrato;
 
 II.- La descripción pormenorizada de los servicios objeto del Contrato;
 
@@ -628,3 +620,23 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 607/2018 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento del Código de la Administración Pública de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
