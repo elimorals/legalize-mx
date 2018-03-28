@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2017-09-20"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -748,6 +748,10 @@ XIII. Integrar los documentos e información para la planeación del desarrollo 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
 XIV. Elaborar y someter a la aprobación del Gobernador del Estado los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+XIV Bis. Realizar el análisis costo y beneficio de los programas o proyectos de inversión, así como integrar y administrar el registro de proyectos de inversión pública productiva del Estado, en ambos casos, de conformidad con los dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las demás disposiciones que resulten aplicables;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2454,3 +2458,9 @@ Tercero.- Dentro de un plazo de noventa días contados a partir de la entrada en
 Cuarto.- A la entrada en vigor del presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros que en su caso correspondan, de la Secretaría de Planeación, Programación y Presupuesto a la Secretaría de Desarrollo Social, de conformidad con los Acuerdos de transferencia que al efecto disponga el titular del Poder Ejecutivo.
 
 Quinto.- Los servidores públicos adscritos a la Secretaría de Planeación, Programación y Presupuesto que habrán de asignarse a la Secretaría de Desarrollo Social no resultarán afectados en sus derechos laborales
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
