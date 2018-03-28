@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2018-02-14"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -455,13 +455,27 @@ Para el delito permanente, se considerará a la unidad de medida y actualizació
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial puede substituirla, total o parcialmente, por prestación de trabajo en favor de la comunidad.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 33.
 
-La reparación del daño comprende:
+La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, y comprenderá, cuando menos:
 
-I. La restitución de la cosa obtenida por el delito y sus frutos o, en defecto de aquélla, el pago del precio de la una y de los otros, y
+I.- La restitución de la cosa obtenida por el delito y sus frutos o, a falta de aquella, el pago del precio de la una y de los otros;
 
-II. El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado, incluyendo el pago de los tratamientos curativos médicos, psiquiátricos, de rehabilitación o de cualquier otra índole, que como consecuencia del delito sean necesarios para la recuperación de la salud de la víctima.
+II.- La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos y, en su caso, psicoterapéuticos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito;
+
+III.- El resarcimiento de los perjuicios ocasionados;
+
+IV.- El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y, en caso de no contar con esa información, será conforme al salario mínimo;
+
+V.- El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias;
+
+VI.- La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos, y
+
+VII.- La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
+
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
 ###### ARTÍCULO 34.
 
@@ -801,11 +815,15 @@ VI. Los motivos que impulsaron o determinaron a delinquir al sujeto activo, así
 
 Cuando el imputado perteneciere a un grupo étnico o indígena, se tomarán en cuenta además, los usos y costumbres del mismo;
 
-> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-VII. El comportamiento posterior del imputado en relación con el delito cometido, y
+VII.- El comportamiento posterior del imputado en relación con el delito cometido;
 
-VIII. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+VIII.- La perspectiva de género, y
+
+XI. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -825,9 +843,11 @@ Las circunstancias calificativas o modificativas de la sanción, que tengan rela
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 78.
 
-Cuando por haber sufrido el sujeto activo del delito consecuencias graves en su persona o por senilidad o su precario estado de salud, fuere notoriamente innecesaria o irracional la imposición de una sanción privativa de la libertad, la autoridad judicial de oficio o a petición de parte, motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En estos casos, la autoridad judicial apoyará su resolución en dictámenes de peritos.
+Cuando por haber sufrido el sujeto activo del delito consecuencias graves en su persona o por senilidad o su precario estado de salud, o haya cometido el delito durante el lapso en que sufriere en su persona una prolongada violencia de género producida por la víctima, que pusiere en serio peligro la integridad física del sujeto activo, y fuere notoriamente innecesaria o irracional la imposición de una sanción privativa de la libertad, la autoridad judicial de oficio o a petición de parte, motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En estos casos, la autoridad judicial apoyará su resolución en dictámenes de peritos.
 
 ### CAPÍTULO II. APLICACIÓN DE SANCIONES A LOS DELITOS CULPOSOS
 
@@ -2173,19 +2193,17 @@ En ambos casos se privará al infractor de sus derechos de familia.
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 228.
 
 Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera económica, física, patrimonial, psicológica o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar.
 
-A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y, en su caso, la pérdida del derecho de pensión alimenticia y la privación del régimen de convivencia, patria potestad, custodia o tutela según corresponda.
+A quien cometa el delito de violencia familiar se le impondrá de seis meses a cinco años de prisión y, en su caso, la pérdida del derecho de pensión alimenticia y la privación del régimen de convivencia, patria potestad, custodia o tutela según corresponda.
 
-Este delito se perseguirá por querella de la parte ofendida, excepto en los casos en que los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio.
+Este delito se perseguirá por querella, salvo cuando la víctima se encuentre en estado de gravidez o durante los tres meses posteriores al parto; sea menor de dieciocho años de edad; mayor de sesenta años; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; se deje cicatriz permanente en alguna parte del cuerpo; existan antecedentes, legalmente documentados, de violencia familiar cometidos por el mismo agresor contra la víctima; o exista imposibilidad material de la víctima de denunciar la violencia familiar ejercida en su contra.
 
-De igual manera, la violencia familiar podrá ser denunciada por cualquier persona que tenga conocimiento de este hecho o sea testigo de este. Para tal efecto, la víctima ratificará la denuncia dentro del término de diez días naturales posteriores a su presentación.
+La violencia familiar podrá ser denunciada por cualquier persona que tenga conocimiento de este hecho o sea testigo de este. Para tal efecto, la víctima ratificará la denuncia dentro del término de diez días naturales posteriores a su presentación.
 
 > <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2193,11 +2211,11 @@ De igual manera, la violencia familiar podrá ser denunciada por cualquier perso
 
 Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión, al que realice cualesquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de la misma.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 230.
 
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público durante la investigación exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física, psíquica o moral de la misma. La Autoridad Administrativa vigilará el cumplimiento de estas medidas. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público durante la investigación exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar su integridad física o psíquica, o su dignidad humana. La Autoridad Administrativa vigilará el cumplimiento de estas medidas. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes y, en su caso, aplicar o solicitar, según corresponda, las órdenes de protección en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán y las medidas de protección establecidas en el Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO ÚNICO
 
@@ -3079,9 +3097,7 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 ### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N.DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3129,9 +3145,9 @@ I. Con objeto de aprovechar ilícitamente la eficacia jurídica de una resoluci�
 
 II. Fundado en documentos o testigos falsos a sabiendas de que los son, proporcione datos falsos que produzcan indefensión y deduzca acción en contra de otro ante autoridades judiciales o administrativas con perjuicio de éste o de un tercero.
 
-### CAPÍTULO II. ABUSO SEXUAL
+### CAPÍTULO I BIS. Acoso Sexual
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 289.
 
@@ -3147,9 +3163,27 @@ III. Siendo servidor público en los actos propios de su cargo, atribuyere a una
 
 Lo dispuesto en este artículo no comprende a quien tenga el carácter de imputado en una investigación o proceso penal.
 
-### CAPÍTULO III. ESTUPRO
+### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+
+###### ARTÍCULO 308 Bis.
+
+Se impondrá pena de uno a dos años de prisión y de cincuenta a quinientos días-multa a quien:
+
+I. Asedie, por cualquier medio, con fines lascivos, y a pesar de su oposición, a una persona o solicite la ejecución de un acto de naturaleza sexual, para sí o para un tercero, independientemente de que se realice en uno o varios eventos;
+
+II. Asedie reiteradamente, con fines lascivos, a cualquier persona, sin su consentimiento, en lugares públicos, o en instalaciones o vehículos destinados al transporte público de pasajeros;
+
+III. Capte imágenes o realice cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico-sexual, o
+
+IV. Realice reiteradamente actos de exhibicionismo, remisión de imágenes o videos con connotación sexual, lasciva o de exhibicionismo corporal, o los solicite, sin que la víctima haya otorgado su consentimiento.
+
+Si el sujeto activo realiza cualquiera de las conductas previstas en este artículo aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, la pena prevista en el párrafo primero se incrementará en un cuarto.
+
+Si la víctima del delito de acoso sexual fuera menor de quince años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero hasta en una mitad.
+
+Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de quince años o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
 ###### ARTÍCULO 290.
 
@@ -3161,7 +3195,9 @@ II. Usare credenciales de servidor público o condecoraciones a que no tenga der
 
 III. Al que, sin tener título legal, se atribuya el carácter profesional y ejerza los actos propios de la profesión.
 
-### CAPÍTULO IV. VIOLACIÓN
+### CAPÍTULO III. ESTUPRO
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3175,17 +3211,15 @@ TÍTULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPÍTULO V. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2011)</small>
+### CAPÍTULO IV. VIOLACIÓN
 
 ###### ARTÍCULO 293.
 
 Se aplicarán de tres meses a un año de prisión o de diez a veinte días-multa y de diez a veinte días de trabajo en favor de la comunidad, a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender. Este delito se perseguirá por querella de la parte ofendida.
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO V. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 294.
 
@@ -3239,11 +3273,9 @@ Se consideran de carácter sedicioso las informaciones que inciten a las persona
 
 Para los efectos de este artículo se consideran que faltan al respeto a la vida privada las informaciones que penetran en la intimidad del hogar o en la conducta social de las personas o que tiendan a exhibirlas, a menoscabar su reputación o dañarlas en sus relaciones sociales.
 
-### CAPÍTULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I. REGLAS GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 299.
 
@@ -3269,7 +3301,11 @@ Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los
 
 Cuando haya pendiente un procedimiento relacionado con un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que el juicio termine. En este caso, la prescripción comenzará a correr cuando éste concluya.
 
-### CAPÍTULO III. FRAUDE
+### CAPÍTULO II. ABUSO DE CONFIANZA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 301.
 
@@ -3295,7 +3331,7 @@ Siempre que sea condenado el autor de una injuria, difamación o de una calumnia
 
 No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado o difundido en la República Mexicana o en otro país.
 
-### CAPÍTULO IV. EXTORSIÓN
+### CAPÍTULO III. FRAUDE
 
 ###### ARTÍCULO 306.
 
@@ -3315,11 +3351,13 @@ TÍTULO DECIMOCTAVO
 
 DELITOS SEXUALES
 
-### CAPÍTULO V. USURA
+### CAPÍTULO IV. EXTORSIÓN
 
 ###### ARTÍCULO 308.
 
-A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de tres días a un año o de cuarenta a quinientos días multa y de cuarenta a quinientos días de trabajo en favor de la comunidad.
+A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de uno a tres años o de cuarenta a quinientos días-multa y de cuarenta a quinientos días de trabajo en favor de la comunidad.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción correspondiente por el delito de hostigamiento sexual, será destituido de su cargo.
 
@@ -3327,15 +3365,21 @@ Si el hostigador fuese servidor público y utilizare los medios o circunstancias
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, en cuyo caso, se perseguirá de oficio.
 
-En caso de reincidencia se le impondrá sanción de seis meses a dos años de prisión y de cuarenta a quinientos días multa.
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
+En caso de reincidencia se le impondrá sanción de dos años a cuatro años de prisión y de cuarenta a quinientos días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE MARZO DE 2018)</small>
+
+### CAPÍTULO V. USURA
 
 ### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
 
-### CAPÍTULO VII. ROBO
-
 ###### ARTÍCULO 309.
 
-A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obligue a ejecutarlo para sí o en otra persona, sin el propósito de llegar a la cópula, se le impondrá una pena de seis meses a cuatro años de prisión y de cuarenta a cien días-multa. Si se hiciera uso de la violencia física o moral, las penas previstas en este artículo se aumentarán en una mitad. Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, en cuyo caso, se perseguirá de oficio.
+A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obligue a ejecutarlo para sí o en otra persona, sin el propósito de llegar a la cópula, se le impondrá una pena de uno a cinco años de prisión y de cuarenta a cien días-multa. Si se hiciera uso de la violencia física o moral, las penas previstas en este artículo se aumentarán en una mitad. Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, en cuyo caso, se perseguirá de oficio.
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2010)</small>
 
 Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
@@ -3345,7 +3389,7 @@ Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, 
 
 A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de cinco a diez años de prisión y de doscientos a cuatrocientos días-multa. Si se hiciere uso de la violencia física o moral, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
-### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
+### CAPÍTULO VII. ROBO
 
 ###### ARTÍCULO 311.
 
@@ -3355,7 +3399,7 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
 ###### ARTÍCULO 313.
 
@@ -3383,13 +3427,11 @@ Se equipara a la violación y se sancionará con prisión de ocho a veinticinco 
 
 Si además se ejerciere violencia física o moral, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
-### CAPÍTULO I. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 316.
 
-Las sanciones previstas para los delitos de abuso sexual, violación, violación equiparada y estupro, establecidas en este Título, se aumentarán hasta en una mitad en su mínimo y máximo, cuando el delito fuere cometido:
+Las sanciones previstas para los delitos de abuso sexual, acoso sexual, violación, violación equiparada y estupro, establecidas en este Título, se aumentarán hasta en una mitad en su mínimo y máximo, cuando el delito fuere cometido:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -3413,13 +3455,15 @@ TÍTULO DECIMONOVENO
 
 DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO II. LESIONES
+### CAPÍTULO I. ABANDONO DE PERSONAS
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 317.
 
 Cuando se hable de unidad de medida y actualización en este título, se entenderá que se refiere a la unidad de medida y actualización, en su valor actualizado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 318.
 
@@ -3475,7 +3519,7 @@ Para estimar la cuantía del abuso de confianza, se atenderá únicamente al val
 
 Se considera abuso de confianza y se sancionará con prisión de tres meses a tres años y hasta cien días-multa, al conductor o legítimo propietario de un vehículo que disponga indebidamente de este o se niegue sin justificación a entregarlo, si lo ha recibido en calidad de depósito por el Ministerio Público o por la autoridad judicial en un procedimiento relacionado con delitos por tránsito de vehículos, siempre que haya sido requerido por cualquiera de las autoridades que conozcan o sigan conociendo del caso.
 
-### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPÍTULO III. HOMICIDIO
 
 ###### ARTÍCULO 323.
 
@@ -3579,7 +3623,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de tres meses a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al imputado en el momento procedimental oportuno, este beneficio.
 
-### CAPÍTULO V. ATAQUES PELIGROSOS
+### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTÍCULO 327.
 
@@ -3587,7 +3631,7 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO V. ATAQUES PELIGROSOS
 
 ###### ARTÍCULO 328.
 
@@ -3603,9 +3647,7 @@ Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer 
 
 La usura será perseguida por querella.
 
-### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
-
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
+### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 329.
 
@@ -3627,21 +3669,9 @@ Si el despojo se efectúa por dos o más personas o con violencia, se aumentará
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 330.
 
@@ -3871,19 +3901,21 @@ IV. Comercie total o parcialmente cualquier bien robado.
 
 En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, las conductas a que se refiere este artículo, se sancionarán hasta en una mitad más de las establecidas en los artículos 339, 340 y 341.
 
-### CAPÍTULO IX. ESTERILIDAD PROVOCADA
+### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 394 QUÁTER. A quien sin el consentimiento de una persona mayor de dieciocho años de edad, practique en ella cualquier procedimiento que le provoque esterilidad, se le sancionará de seis a ocho años de prisión y de setenta y cinco a trescientos días-multa.
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una menor de edad, persona con trastorno mental o desarrollo intelectual retardado o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
+ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
 
-Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 348.
 
@@ -3926,6 +3958,20 @@ En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia e
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Este delito será perseguido por querella.
+
+### CAPÍTULO IX. ESTERILIDAD PROVOCADA
+
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
+
+ARTÍCULO 394 QUÁTER. A quien sin el consentimiento de una persona mayor de dieciocho años de edad, practique en ella cualquier procedimiento que le provoque esterilidad, se le sancionará de seis a ocho años de prisión y de setenta y cinco a trescientos días-multa.
+
+Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una menor de edad, persona con trastorno mental o desarrollo intelectual retardado o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
+
+Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
+
+A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO X. FEMINICIDIO
 
@@ -3975,10 +4021,6 @@ TÍTULO VIGESIMOPRIMERO
 
 DELITOS ELECTORALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
 ###### ARTÍCULO 351.
 
 Los delitos previstos en este Título se perseguirán por querella de la parte ofendida cuando sean cometidos en contra del pasivo por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina, concubinario, adoptante, adoptado o parientes por afinidad hasta el segundo grado.
@@ -3991,7 +4033,9 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
 
-### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 352.
 
@@ -4025,7 +4069,7 @@ No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o e
 
 Cuando alguna de las conductas delictivas a que se refiere este Capítulo se realice contra persona mayor de setenta años de edad, la sanción a imponer se aumentará hasta en el doble de la sanción máxima que corresponda a la conducta de que se trate.
 
-### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
+### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
 ###### ARTÍCULO 357.
 
@@ -4081,7 +4125,7 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Cuando concurra una sola de las circunstancias a que se refiere el artículo 378 de este Código y la lesión fuere simple, se aumentará hasta en un tercio la sanción que correspondería; cuando concurran dos o más de dichas circunstancias, se aumentará la pena hasta en dos terceras partes.
 
-### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
+### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
 ###### ARTÍCULO 368.
 
@@ -4125,7 +4169,7 @@ Al responsable de homicidio en riña se le impondrá de cuatro a doce años de p
 
 ARTÍCULO 373 BIS.- No constituirá delito de homicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
 
-### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
 
 ###### ARTÍCULO 374.
 
@@ -4223,7 +4267,7 @@ De las lesiones o muerte que a una persona cause algún animal, será responsabl
 
 BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta unidades de medida y actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
 
-### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
+### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 388.
 
@@ -4237,7 +4281,7 @@ II. Al que ataque a alguien de tal manera que en razón del arma, instrumento u 
 
 Si de las agresiones mencionadas resultaren una o más lesiones, se observarán las reglas de acumulación, menos en los casos en que dichas lesiones causaren la muerte del ofendido o fueren de las que ponen en peligro la vida, en los que se aplicarán las sanciones correspondientes al delito de lesiones o de homicidio. Cuando el delito por ataques peligrosos no ponga en peligro la vida, éste se perseguirá por querella de la parte ofendida
 
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
+### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 ###### ARTÍCULO 389.
 
@@ -4255,25 +4299,15 @@ Si el aborto lo causare un médico, cirujano, comadrón o partero, además de la
 
 A quien habitualmente se hubiere dedicado a la práctica de abortos, se le privará del ejercicio de su profesión u oficio.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 392.
 
-Se impondrá de seis meses a un año de prisión, a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren estas tres circunstancias:
-
-I. Que no tenga mala fama;
-
-II. Que haya logrado ocultar su embarazo, y
-
-III. Que éste no sea fruto de matrimonio.
-
-Faltando alguna de las circunstancias mencionadas, se le impondrá de uno a cinco años de prisión.
-
-> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+Se impondrá de tres meses a un año de prisión, a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar.
 
 Tratándose de las sanciones a que se refiere este artículo, aplicables a la mujer que se procure su aborto, el juez queda facultado para sustituirlas por un tratamiento médico integral; bastará que lo solicite y ratifique la responsable.
 
-> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
-
-El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado, así como el de reafirmar los valores humanos por la maternidad procurando el fortalecimiento de la familia.
+El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado.
 
 ###### ARTÍCULO 393.
 
@@ -4281,7 +4315,9 @@ El aborto no es sancionable en los siguientes casos:
 
 I. Cuando sea causado por acto culposo de la mujer embarazada;
 
-II. Cuando el embarazo sea el resultado de una violación;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+II.- Cuando el embarazo sea el resultado de una violación o de una inseminación artificial no consentida en términos del artículo 394 Bis de este código;
 
 III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico siempre que esto fuere posible y no sea peligrosa la demora;
 
@@ -4289,7 +4325,7 @@ IV. Cuando el aborto obedezca a causas económicas graves y justificadas y siemp
 
 V. Cuando se practique con el consentimiento de la madre y del padre en su caso y a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 394.
 
@@ -4298,6 +4334,8 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
 
@@ -4791,7 +4829,7 @@ La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en e
 
 D.O. 14 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 587/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
 
 Primero. Entrada en vigor
 
@@ -4804,3 +4842,15 @@ Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, pu
 Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
 
 El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 605/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS DE LA MUJER".]
+
+Entrada en vigor
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación tácita
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
