@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2017-01-26"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -31,7 +31,9 @@ CIUDADANA IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, A 
 
 QUE EN EJERCICIO DE LAS ATRIBUCIONES CONFERIDAS AL TITULAR DEL PODER EJECUTIVO POR LOS ARTÍCULOS 55 FRACCIONES II Y XXV Y 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, Y CON FUNDAMENTO EN LO DISPUESTO EN EL ARTÍCULO 14 FRACCIONES VIII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -6373,11 +6375,13 @@ Infracciones leves
 
 Serán consideradas infracciones leves, todas las acciones u omisiones a las normas de Tránsito y Vialidad que sean sancionables y no se encuentren clasificadas expresamente como infracciones graves o muy graves en los dos artículos siguientes.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 Infracciones graves
 
 ###### Artículo 446.
 
-Serán consideradas infracciones graves, las conductas previstas en los artículos: 48; 66, segundo y tercer párrafos; 70, fracciones XI y XIV; 81; 121, segundo párrafo; 176, fracción III; 179 fracción VII; 195; 196, fracciones II y VI; 197, fracciones I, II, III, IX, XIV y XVI; 204, fracción I; 205 fracción VI; 215; 233; 236, fracciones I, II, incisos a), b), c), III, IV, V, VI, antepenúltimo y penúltimo párrafos; 241; 255, fracción I, inciso a); 256, fracción II; 265, fracción XVI; 286; 287; 302; 303; 308, fracción I; 331 segundo párrafo, fracción I; 337, fracción VII; 342; 347, primer párrafo; 354 fracciones I y II; 359 fracción II; 383, primero y segundo párrafos; 388, primero y segundo párrafos; 392; 394, fracciones I, II y III; 400, fracción I; 434 segundo párrafo; 453 y 458 segundo párrafo.
+Serán consideradas infracciones graves las conductas previstas en los artículos: 48; 66, segundo y tercer párrafos; 70, fracciones XI y XIV; 81; 121, segundo párrafo; 176, fracción III; 179, fracción VII; 195; 196, fracciones II y VI; 197, fracciones I, II, III, IX, XIV y XVI; 204, fracción I; 205, fracción VI; 215; 233; 236, fracciones I, II, incisos a), b) y c), III, IV, V y VI, antepenúltimo y penúltimo párrafos; 241; 255, fracción I, inciso a); 256, fracción II; 265, fracciones XI y XVI; 270; 286; 287; 302; 303; 308, fracción I; 331, segundo párrafo, fracción I; 337, fracción VII; 342; 347, primer párrafo; 354, fracciones I y II; 359, fracción II; 383, primero y segundo párrafos; 388, primero y segundo párrafos; 392; 394, fracciones I, II y III; 400, fracción I; 434, segundo párrafo; 453 y 458, segundo párrafo.
 
 Infracciones muy graves
 
@@ -7025,9 +7029,9 @@ C. LUIS FELIPE SAIDÉN OJEDA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
 
-> <small>[N. DE E. VÉASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.]</small>
+> <small>[N. DE E. VÉASE ANEXO I EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75; D.O. 27 DE JULIO DE 2015, PÁGINAS 4 Y 5; D.O. 26 DE ENERO DE 2017, PÁGINAS 6 Y 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO I, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75; D.O. 27 DE JULIO DE 2015, PÁGINAS 4 Y 5; D.O. 26 DE ENERO DE 2017, PÁGINAS 6 Y 7; D.O. 28 DE MARZO DE 2018, PÁGINAS DE LA 53 A LA 54;]</small>
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -7074,6 +7078,14 @@ Se derogan las disposiciones de igual o menor jerarquía que se opongan al conte
 D.O. 26 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 609/2018 POR EL QUE SE MODIFICAN EL REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN”.]
 
 Único. Entrada en vigor
 
