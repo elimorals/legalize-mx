@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-descentralizado-sistema-17021
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-16"
-last_updated: "2000-05-16"
+last_updated: "2018-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO, SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CUZAMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO 606/2018, PUBLICADO EN EL D.O. DE 28 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CUZAMÁ, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018. (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 16 de mayo de 2000.
 
@@ -178,3 +180,17 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE MARZO DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL DECRETO 606/2018 QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Se abroga la Ley que crea el Organismo Público Descentralizado denominado “Sistema de Agua Potable y Alcantarillado del municipio de Cuzamá, Yucatán”.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 606/2018 POR EL QUE SE ABROGAN LAS LEYES RELATIVAS A LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE LOS SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO CORRESPONDIENTES A LOS MUNICIPIOS DE CONKAL, CUZAMÁ, HOCABÁ Y HOMÚN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del estado de Yucatán.
