@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-fomento-de-la-investigacion-cientifica-72782"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2011-07-22"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA EL FOMENTO DE LA INVESTIGACION CIENTIFICA, TECNOLOGICA E INNOVACION DEL ESTADO DE QUERETARO
 
-LEY PARA EL FOMENTO DE LA INVESTIGACION CIENTIFICA, TECNOLOGICA E INNOVACION DEL ESTADO DE QUERETARO
+LEY PARA EL FOMENTO DE LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -161,7 +161,7 @@ VIII. Formular las bases de integración, organización, administración, actual
 
 IX. Participar y apoyar la formación de Redes de Innovación, con el apoyo del CONACYT;
 
-X. Intervenir en la formulación y ejecución de los convenios de coordinación que celebre el titular del Poder Ejecutivo del Estado con la federación, los municipios y los organismos empresariales y sociales, en materia de fomento a la investigación científica, tecnológica, el desarrollo tecnológico y la innovación; y (sic)
+X. Intervenir en la formulación y ejecución de los convenios de coordinación que celebre el titular del Poder Ejecutivo del Estado con la federación, los municipios y los organismos empresariales y sociales, en materia de fomento a la investigación científica, tecnológica, el desarrollo tecnológico y la innovación; y
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -175,11 +175,19 @@ XII. Coadyuvar a la integración de grupos de investigadores y tecnólogos en el
 
 XIII. Coadyuvar con los investigadores para lograr su incorporación a los esquemas nacionales e internacionales de reconocimiento, a la obtención de méritos por sus contribuciones a la investigación y/o al desarrollo tecnológico;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-XIV. Promover la investigación en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa; y
+XIV. Promover la investigación científica en los jóvenes investigadores en el Estado, de Acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa;
 
-XV. Las demás atribuciones inherentes al cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+XV. Hacer del conocimiento de la comunidad de investigadores de la Entidad, a través de medios electrónicos o impresos, los lineamientos, resoluciones o acuerdos relativos a programas de financiamiento que promuevan la investigación o el desarrollo e innovación científica y tecnológica, que estén a cargo del Consejo;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+
+XVI. Difundir a través de medios electrónicos y en su página oficial, el Programa a que hace referencia el artículo 13 de esta Ley;
+
+XVII. Las demás atribuciones inherentes al cumplimiento de sus funciones.
 
 ## Título Segundo. Del Sistema Estatal de Información Científica, Tecnológica e Innovación en el Estado
 
@@ -279,11 +287,11 @@ Los objetivos, estrategias, líneas de acción y actividades prioritarias previs
 
 ### Capítulo Tercero. Del Registro Estatal de Investigadores y Tecnólogos
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Registro Estatal de Investigadores y Tecnólogos, es una base de datos que forma parte del Sistema Estatal de Información Científica, Tecnológica e Innovación del Estado, que tiene por objeto, obtener y actualizar la información curricular de la comunidad académica, científica y tecnológica que labore en instituciones públicas y privadas de la Entidad.
+El Registro Estatal de Investigadores y Tecnólogos, es una base de datos que forma parte del Sistema Estatal de Información Científica, Tecnológica e Innovación del Estado, que tiene por objeto, obtener y actualizar la información curricular de la comunidad académica, científica y tecnológica que labore en asociaciones civiles, organizaciones e instituciones públicas y privadas de la entidad.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -406,3 +414,11 @@ P.O. 22 DE JULIO DE 2011.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO DE LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
