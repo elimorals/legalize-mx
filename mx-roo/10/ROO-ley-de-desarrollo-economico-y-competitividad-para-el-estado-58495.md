@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2014-12-23"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -727,13 +727,17 @@ XXII.- Fortalecer la competitividad de las Micro, Pequeñas y Medianas Empresas 
 
 XXIII.- Proponer, en coordinación con la Secretaría de Finanzas y Planeación del Gobierno del Estado, incentivos fiscales que otorguen seguridad a los emprendedores para la creación de las Micro, Pequeñas y Medianas Empresas. Estos incentivos se brindarán de forma especial para quienes establezcan su primer negocio;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O 28 DE MARZO DE 2018)</small>
 
-XXIV.- Promover la simplificación administrativa en el Estado, a través de las distintas dependencias y organismos estatales y municipales, con especial énfasis en lo relativo a los trámites que impactan la creación de las Micro, Pequeñas y Medianas Empresas, y
+XXIV.- Promover la simplificación administrativa en el Estado, a través de las distintas dependencias y organismos estatales y municipales, con especial énfasis en lo relativo a los trámites que impactan la creación de las Micro, Pequeñas y Medianas Empresas;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O 28 DE MARZO DE 2018)</small>
 
-XXV.- Establecer mecanismos suficientes de simplificación administrativa para que los emprendedores consoliden la creación de las Micro, Pequeñas y Medianas Empresas.
+XXV.- Establecer mecanismos suficientes de simplificación administrativa para que los emprendedores consoliden la creación de las Micro, Pequeñas y Medianas Empresas, y
+
+> <small>(ADICIONADA, P.O 28 DE MARZO DE 2018)</small>
+
+XXVI.- Promover el apoyo a productores quintanarroenses y fomentar el consumo preferente de sus productos en el mercado local, permitiéndoles el fortalecimiento de su actividad y su consolidación como medianas empresas.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -1766,3 +1770,11 @@ P.O. 23 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 152 POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV; Y SE ADICIONA LA FRACCIÓN XXVI, TODAS DEL ARTÍCULO 44 DE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
