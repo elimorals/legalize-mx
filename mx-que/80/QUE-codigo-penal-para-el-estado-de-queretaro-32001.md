@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2017-12-01"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -365,13 +363,15 @@ La semilibertad implica alternación de periodos de privación de la libertad y 
 
 ### CAPITULO V. MULTA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de setecientos cincuenta, salvo los casos que la propia ley señale. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar que se consumó el delito.
+La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de setecientos cincuenta, salvo los casos que la propia ley señale. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al valor diario de la UMA vigente en el momento en que se consumó el delito.
 
-Por lo que toca al delito continuado se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Por lo que toca al delito continuado se atenderá al valor diario de la UMA en el momento consumativo de la última conducta; para el permanente, se considerará el valor diario de la UMA en vigor en el momento en que cesó la consumación.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -467,13 +467,17 @@ En la sociedad conyugal cada cónyuge responderá con sus bienes propios, para l
 
 IV.- El Estado y los Municipios por los delitos que sus funcionarios o empleados cometan con motivo o en el desempeño de su servicio.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 48.
 
-El Estado cubrirá el daño material causado a quien hubiese obtenido el reconocimiento de su inocencia en los términos previstos en este Código o a sus derecho-habientes. La reparación del daño será dispuesta de oficio por la autoridad que resuelva el reconocimiento de la inocencia, tomando en cuenta el salario mínimo general correspondiente a la zona en que se hubiese supuesto la comisión del delito, a razón de un día de salario por cada día en que la persona hubiera sido privada de su libertad durante el procedimiento y la ejecución de la pena o medida de seguridad. El juzgador mandará publicar los puntos resolutivos de la determinación correspondiente a costa del Estado, en los diarios de circulación mayor en el lugar en que resida el sujeto cuya inocencia se reconoce.
+El Estado cubrirá el daño material causado a quien hubiese obtenido el reconocimiento de su inocencia en los términos previstos en este Código o a sus derecho-habientes. La reparación del daño será dispuesta de oficio por la autoridad que resuelva el reconocimiento de la inocencia, tomando en cuenta el valor diario de la UMA vigente en el momento en que se hubiese supuesto la comisión del delito, a razón de una UMA por cada día en que la persona hubiera sido privada de su libertad durante el procedimiento y la ejecución de la pena o medida de seguridad. El juzgador mandará publicar los puntos resolutivos de la determinación correspondiente a costa del Estado, en los diarios de circulación mayor en el lugar en que resida el sujeto cuya inocencia se reconoce.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 49.
 
-En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el salario mínimo vigente en el lugar donde ocurran los hechos y las disposiciones que en materia de indemnizaciones sobre riesgos de trabajo establezca la Ley Federal del Trabajo.
+En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el valor diario de la UMA vigente en el momento que ocurran los hechos y las disposiciones que en materia de indemnizaciones sobre riesgos de trabajo establezca la Ley Federal del Trabajo.
 
 ### CAPITULO VII. TRABAJOS EN FAVOR DE LA COMUNIDAD
 
@@ -1877,17 +1881,17 @@ Este delito se perseguirá por querella.
 
 Al que se apodere de una cosa mueble ajena, con ánimo de dominio, sin consentimiento de quien pueda otorgarlo conforme a la Ley, se le aplicarán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-I.- Prisión de tres meses a tres años, y multa de 30 a 90 días, cuando el valor de lo robado no exceda de 200 veces el salario mínimo.
+I.- Prisión de tres meses a tres años, y multa de 30 a 90 días, cuando el valor de lo robado no exceda de 200 veces el valor diario de la UMA;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-II.- Prisión de dos a cuatro años y de 90 hasta 180 días multa, cuando el valor de lo robado exceda de 200 veces el salario mínimo.
+II.- Prisión de dos a cuatro años y de 90 hasta 180 días multa, cuando el valor de lo robado exceda de 200 veces el valor diario de la UMA; o
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-III.- Prisión de cuatro a diez años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el salario mínimo.
+III.- Prisión de cuatro a diez años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el valor diario de la UMA.
 
 ###### ARTICULO 183.
 
@@ -2021,9 +2025,13 @@ Al que, sin tomar las medidas necesarias para cerciorarse de la procedencia leg�
 
 Al que con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa mueble ajena, de la que se le haya transmitido la tenencia pero no el dominio, se le impondrán las siguientes penas:
 
-I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo dispuesto no exceda de 600 veces el salario mínimo, y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-II.- Prisión de 4 a 10 años y de 180 a 500 días multa, cuando el valor de lo dispuesto exceda de 600 veces el salario mínimo.
+I. Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo dispuesto no exceda de 600 veces el valor diario de la UMA; o
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+
+II. Prisión de 4 a 10 años y 180 a 500 días multa, cuando el valor de lo dispuesto exceda de 600 veces el valor diario de la UMA.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -2043,17 +2051,17 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 Al que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado sea hasta 600 veces el salario mínimo;
+I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado sea hasta 600 veces el valor diario de la UMA;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado sea mayor de 600 y hasta 1200 veces el salario mínimo; y
+II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado sea mayor de 600 y hasta 1200 veces el valor diario de la UMA; o
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-III.- Prisión de 10 a 15 años y de 500 hasta 750 días multa, cuando el valor de lo defraudado sea mayor de 1200 veces el salario mínimo.
+III.- Prisión de 10 a 15 años y de 500 hasta 750 días multa, cuando el valor de lo defraudado sea mayor de 1200 veces el valor diario de la UMA.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -2413,9 +2421,9 @@ A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que 
 
 ### CAPITULO V. DEL CLANDESTINAJE
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
-ARTICULO 221 BIS.- Al que realice actividades de almacenaje, venta o porteo de bebidas alcohólicas sin contar con la licencia o permiso correspondiente vigente, expedido por autoridad competente, o bien no corresponda al domicilio del establecimiento o lugar señalado en dicho documento, en los términos de la ley de la materia, se le sancionará con prisión de 2 a 7 años y hasta 600 días de salario mínimo de multa.
+ARTICULO 221 BIS.- Al que realice actividades de almacenaje, venta o porteo de bebidas alcohólicas sin contar con la licencia o permiso correspondiente vigente, expedido por autoridad competente, o bien no corresponda al domicilio del establecimiento o lugar señalado en dicho documento, en los términos de la ley de la materia, se le sancionará con prisión de 2 a 7 años y hasta 600 veces el valor diario de la UMA de multa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
 
@@ -2453,7 +2461,9 @@ I.- A quien, habiendo sido condenado anteriormente por cualquiera de los supuest
 
 II.- A quien elabore o produzca cualquiera de las sustancias referidas en las fracciones I y II del artículo anterior.
 
-III.- Cuando el valor económico de las sustancias, animales o productos de los supuestos del artículo anterior, exceda en su conjunto del importe de tres mil veces el salario mínimo vigente.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+
+III.- Cuando el valor económico de las sustancias, animales o productos de los supuestos del artículo anterior, exceda en su conjunto del importe de tres mil veces el valor diario de la UMA.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -2503,13 +2513,25 @@ ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
 
 ### CAPITULO V. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2018)</small>
 
-ARTICULO 229 TER.- Al que dolosamente realice una llamada dando aviso de una emergencia falsa, con el fin de provocar la movilización de cuerpos policíacos, de bomberos, de la Cruz Roja Mexicana, de urgencias médicas o de protección civil, para atenderla, se le impondrá prisión de dos meses a dos años y de diez a cien días multa.
+ARTICULO 229 TER.- Al que dolosamente realice una llamada al número de emergencias dando aviso de una emergencia falsa o de broma, con el fin de provocar la movilización de cuerpos policíacos, de bomberos, de la Cruz Roja Mexicana, de urgencias médicas o de protección civil, para atenderla, se le impondrá prisión de dos meses a dos años y de cincuenta a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Las mismas penas se aplicarán al que permita utilizar su teléfono, a sabiendas de que se hará una llamada para dar un aviso de emergencia falsa, con los fines previstos en el párrafo anterior.
 
-Este delito se perseguirá a petición del representante legal de cualquiera de las instituciones cuya movilización se pretenda realizar o se haya realizado, como consecuencia del aviso de emergencia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE MARZO DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+ARTICULO 229 QUATER.- Si como consecuencia de la conducta prevista en el primer párrafo del artículo anterior, se provoca algún accidente o daño personal o material, se impondrá, además de la pena prevista, de cinco meses a dos años de prisión y de quinientos a mil días de multa
+
+En caso de reincidencia se le impondrá hasta el doble de las sanciones establecidas.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2018)</small>
+
+ARTICULO 229 QUINTUS.- Los delitos señalados en el presente Capítulo, se perseguirán de oficio.
 
 ### CAPITULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
 
@@ -2629,29 +2651,39 @@ III.- Exhiba una certificación de enfermedad o impedimento que no tenga, para e
 
 IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o transcripción del mismo.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2018)</small>
 
-ARTICULO 232 BIS.- Se impondrán de tres a nueve años de prisión y multa por el equivalente de doscientos a cuatrocientos días de salario mínimo general vigente en la época en que se cometa el delito, al que, sin consentimiento de quien esté facultado para ello:
+ARTICULO 232 BIS.- Se impondrán de tres a nueve años de prisión y multa por el equivalente de doscientas a cuatrocientas veces el valor diario de la UMA vigente en la época en que se cometa el delito, al que, sin consentimiento de quien esté facultado para ello:
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, adquiera, utilice, posea o detente, sin tener derecho a ello, boletos, contraseñas, fichas, tarjetas de crédito o débito y otros documentos que no estén destinados a circular y sirvan exclusivamente para identificar a quien tiene derecho a exigir la prestación que en ellos se consignan u obtener cualquier beneficio.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 II.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de boletos, contraseñas, fichas u otros documentos a que se refiere la fracción I de este artículo.
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-III. Acceda, obtenga, posea, utilice o detente indebidamente información de los equipos electromagnéticos o sistemas de cómputo de las organizaciones emisoras de los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo o de módem o cualquier medio de comunicación remota y los destine a alguno de los supuestos que contempla el presente artículo;
+III.- Acceda, obtenga, posea, utilice o detente indebidamente información de los equipos electromagnéticos o sistemas de cómputo de las organizaciones emisoras de los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo o de módem o cualquier medio de comunicación remota y los destine a alguno de los supuestos que contempla el presente artículo;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-IV. Adquiera, utilice o detente equipos electromagnéticos, electrónicos o de comunicación remota para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas, tarjetas de crédito, tarjetas de débito u otros documentos a los que se refiere este artículo o de archivos de datos de las emisoras de los documentos; y
+IV.- Adquiera, utilice o detente equipos electromagnéticos, electrónicos o de comunicación remota para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas, tarjetas de crédito, tarjetas de débito u otros documentos a los que se refiere este artículo o de archivos de datos de las emisoras de los documentos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
 
-V. Produzca imprima, enajene, distribuya, altere o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
+V.- Produzca imprima, enajene, distribuya, altere o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 Las mismas penas se impondrán a quién utilice o revele indebidamente información confidencial o reservada de la persona física o jurídica que legalmente esté facultada para emitir los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo, con el propósito de obtener beneficio aunque no sea económico y no autorizadas por la persona emisora o bien, por los titulares de los boletos, contraseñas, fichas u otros documentos a los que se refiere este artículo.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
 Si el sujeto activo es empleado, dependiente del ofendido o servidor público las penas se aumentaran en una mitad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
@@ -3063,11 +3095,17 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 A los servidores públicos que cometan alguno de los delitos previstos en el presente Título, con excepción de los supuestos que establece el artículo 263 y causen un perjuicio económico al particular o al servicio público, se les aplicarán las siguientes penas:
 
-I. Prisión de 3 meses a 3 años y de 30 a 90 días multa, cuando el daño no exceda de 200 veces el salario mínimo;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
 
-II. Prisión de 1 a 5 años y de 60 a 300 días de multa, cuando el daño no exceda de 600 veces el salario mínimo; y
+I.- Prisión de 3 meses a 3 años y de 30 a 90 días multa, cuando el daño no exceda de 200 veces el valor diario de la UMA;
 
-III. Prisión de 3 a 10 años y de 300 a 750 días multa, cuando el daño exceda 600 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+
+II.- Prisión de 1 a 5 años y de 60 a 300 días de multa, cuando el daño no exceda de 600 veces el valor diario de la UMA; o
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+
+III.- Prisión de 3 a 10 años y de 300 a 750 días multa, cuando el daño exceda 600 veces el valor diario de la UMA.
 
 Para los delitos que no requieren que se cause un daño o perjuicio al particular o al servicio público o que habiéndolo causado no se pueda determinar el monto, se aplicará prisión de 3 meses a 6 años y de 30 a 300 días multa.
 
@@ -3151,7 +3189,9 @@ X. Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo i
 
 XI. Apruebe, autorice o permita cambios de uso de suelo contrarios a las normas urbanísticas, ambientales y a los planes y programas de desarrollo urbano respectivos, que afecten áreas protegidas o de preservación ecológica en los términos de la legislación ambiental; (Adición P. O. No. 40, 22-VII-11) (sic)
 
-Cuando el monto del producto del delito o de los daños o perjuicios causados exceda de mil veces el salario, la sanción será de tres a nueve años de prisión y de 180 a 500 días multa.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
+
+Cuando el monto del producto del delito o de los daños o perjuicios causados exceda de mil veces el valor diario de la UMA, la sanción será de tres a nueve años de prisión y de 180 a 500 días multa.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4404,3 +4444,23 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. Todas las multas previstas en el Código Penal para el Estado de Querétaro, se entenderán en Unidades de Medida y Actualización o UMA, hasta en tanto la Legislatura del Estado no realice las adecuaciones conducentes.
 
 Artículo Cuarto. En tanto la Legislatura del Estado realiza las adecuaciones necesarias en los demás ordenamientos que se remitan o refieran a artículos, Capítulos y Títulos que comprende la presente Ley, se tendrán entendidos al nuevo articulado.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO, EN LO RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
