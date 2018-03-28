@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2017-12-27"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1959,9 +1959,13 @@ Se exceptúan de esta discriminación, todas aquellas medidas tendientes a la pr
 
 Este delito se perseguirá por querella.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 133.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2010)
+Comete el delito de violencia política por motivo de género, quien por sí o (sic) través de terceros, hostigue, acose, coaccione o amenace a una o varias mujeres y/o a cualquier miembro de su familia, con el objeto de menoscabar, restringir o nulificar el reconocimiento, goce o ejercicio de sus derechos políticos, su cargo o función públicos. Quien cometa este delito, se le impondrá de cien a cuatrocientos días multa y prisión de uno a cinco años.
+
+Si el delito de violencia política por motivo de género es cometido por servidores públicos, además de la pena señalada en el párrafo anterior, se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por un plazo de tres a cinco años.
 
 ### CAPITULO III. ABIGEATO
 
@@ -4420,3 +4424,9 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 150 POR EL QUE SE REFORMA EL ARTÍCULO 133 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
