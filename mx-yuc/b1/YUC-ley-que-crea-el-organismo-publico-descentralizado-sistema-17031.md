@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-descentralizado-sistema-17031
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-04"
-last_updated: "2000-05-04"
+last_updated: "2018-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE HOMÚN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 4 de mayo del 2000.
 
@@ -178,3 +178,13 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 606/2018 POR EL QUE SE ABROGAN LAS LEYES RELATIVAS A LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE LOS SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO CORRESPONDIENTES A LOS MUNICIPIOS DE CONKAL, CUZAMÁ, HOCABÁ Y HOMÚN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del estado de Yucatán.
