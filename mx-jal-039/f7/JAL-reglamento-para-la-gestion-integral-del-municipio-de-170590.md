@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2017-12-21"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -2377,23 +2377,23 @@ En toda Acción Urbanística pública y privada autorizada, solo se permitirá e
 
 Previo a otorgar permisos para nuevas construcciones en áreas no urbanizadas, además de cumplir con lo establecido en el Capítulo III De las Urbanizaciones de este Reglamento, deberá contar con la factibilidad de servicios hidráulicos, la cual se tramitará en el organismo operador correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 163.
 
-Para la expedición de licencias, los trabajos de rehabilitación, pueden realizarse sin permiso de construcción siempre y cuando no se trate de bienes inmuebles patrimoniales registrados en inventarios de competencia federal, estatal o municipal en materia de conservación, protección y preservación del patrimonio cultural urbano, de conformidad a las disposiciones reglamentarias en la materia; a estas últimas, únicamente se les requiere el dictamen favorable previo emitido por la autoridad federal, estatal o municipal competente, con excepción de las fincas catalogadas como Ambientales y no Ambientales, que no necesiten dictamen de la autoridad en materia de patrimonio, tratándose solo de alguno de los siguientes casos:
+Para la expedición de licencias, los trabajos de adaptación o adecuación, pueden realizarse sin Licencia de Construcción siempre y cuando no se trate de bienes inmuebles patrimoniales registrados en inventarios de competencia federal, estatal o municipal en materia de conservación, protección y preservación del patrimonio cultural urbano, a estas últimas, únicamente se les requiere el dictamen favorable emitido por la autoridad federal, estatal o municipal competente, con excepción de las fincas catalogadas como Armónicas y no Armónicas que no necesiten dictamen de la autoridad en materia de patrimonio, tratándose solo de alguno de los siguientes casos:
 
-> <small>(REFORMADA [N. DE E. ], G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA G.M. 28 DE MARZO DE 2018)</small>
 
-I. Construcción y reparación de banquetas;
+I. Construcción y reparación de banquetas siempre y cuando no se trate de áreas ajardinadas de propiedad municipal que se encuentren frente al predio en cuestión;
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA G.M. 28 DE MARZO DE 2018)</small>
 
-II. Reparaciones, reposición de acabados, trabajos de mantenimiento o mejoramiento llevados a cabo en el interior de una edificación, siempre y cuando no impliquen modificaciones estructurales, de espacios, del estado original de la edificación o de cambios de uso de suelo;
+II. Reparaciones menores, reposición de acabados, trabajos de mantenimiento o mejoramiento llevados a cabo en el interior de una edificación, siempre y cuando no impliquen modificaciones estructurales, de espacios interiores, del estado original de la edificación o de cambios de uso de suelo, construcción de muros permanentes a base de tabique, concreto o materiales similares o que dicha modificación altere el área útil del espacio implicando una demanda mayor de cajones de estacionamiento a la que se tenía; y
 
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA G.M. 28 DE MARZO DE 2018)</small>
 
-III. Trabajos de mantenimiento, reparación, reposición de acabados de fachadas, rejas o marquesinas que no modifiquen el estado original de la edificación;
+III. Trabajos de mantenimiento, reparación, reposición de acabados de fachadas, rejas o marquesinas que no modifiquen el estado original de la edificación. En el caso de que se realicen después de dos niveles, requerirán presentar las medidas de seguridad que considerarán para llevar a cabo los trabajos respectivos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -5230,3 +5230,15 @@ Quinto. Se instruye a la Dirección de Resiliencia para que en un plazo no mayor
 Sexto. Una vez publicadas las presentes reformas remítase una copia al Congreso del Estado de Jalisco, para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley de Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Séptimo. Se instruye para que el titular de la Dirección de Resiliencia y su equipo, se incorporen a las mesas de trabajo que encabezará la Comisión Edilicia de Protección Civil y Bomberos y que participe también la Comisión Edilicia de Reglamentos y Vigilancia.
+
+G.M. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL REGLAMENTO DE GESTIÓN DEL DESARROLLO URBANO PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO ORGÁNICO DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos de la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
