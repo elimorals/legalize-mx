@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2017-06-21"
+last_updated: "2018-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -865,6 +867,8 @@ La Secretaría de Educación integrará un comité de transparencia que tendrá 
 
 ### CAPÍTULO V. Del Sistema Estatal de Formación, Actualización y Superación Profesional para Profesores
 
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
 #### Sección Primera. De los Tipos y Modalidades en General
 
 > <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
@@ -1535,6 +1539,8 @@ IX.- Las demás que le confiera esta ley, la Secretaría de Educación Pública 
 
 ### CAPÍTULO VI. Del Calendario Escolar
 
+#### Sección Primera. Disposiciones Generales
+
 ###### Artículo 77.
 
 Aplicando los lineamientos establecidos en los artículos 12 fracción VI, 13 fracción IV y 20 de la Ley General de Educación y los que señale a nivel nacional la Secretaría de Educación Pública, la autoridad educativa estatal constituirá en la entidad un Sistema Estatal de Formación, Actualización y Superación Profesional para Profesores.
@@ -1584,6 +1590,220 @@ VI.- Celebrar convenios con organismos públicos o privados, así como de carác
 VII.- Difundir entre los profesores las contribuciones de la cultura pedagógica regional, nacional y universal, y
 
 VIII.- Desarrollar investigación pedagógica y promover innovaciones educativas basadas en ella, en función de las necesidades del Sistema Estatal de Educación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 28 DE MARZO DE 2018)</small>
+
+#### Sección Segunda. Del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Bis.
+
+El Instituto para el Desarrollo Profesional Docente del Estado de Yucatán es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto impulsar, en el ámbito de la educación básica y de la educación media superior, la formación continua y la actualización de conocimientos del personal docente; del personal con funciones de dirección, supervisión o asesoría técnica pedagógica; y del personal de apoyo y asistencia a la educación que se encuentren en servicio, para que cuenten con las aptitudes y los conocimientos que les permitan mejorar el desempeño de sus funciones, en beneficio del alumnado, e incrementar sus oportunidades de desarrollo profesional.
+
+Para efectos de este capítulo, se entenderá por instituto al Instituto para el Desarrollo Profesional Docente del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Ter.
+
+El instituto, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+
+I.- Coadyuvar en el establecimiento y otorgamiento de la oferta de formación continua del personal docente y del personal con funciones de dirección o de supervisión que se encuentren en servicio, de conformidad con el artículo 60 de la Ley General del Servicio Profesional Docente;
+
+II.- Ofrecer programas y cursos, con perspectiva de género y respeto a los derechos humanos, para la formación continua, actualización de conocimientos y desarrollo profesional del personal docente; del personal con funciones de dirección, supervisión o asesoría técnica pedagógica; y del personal de apoyo y asistencia a la educación que se encuentren en servicio;
+
+III.- Formar y capacitar continuamente al personal docente y al personal con funciones de dirección o de supervisión que se encuentren en servicio, de acuerdo con las necesidades de las distintas regiones, zonas escolares y escuelas del sistema educativo estatal que resulten de las evaluaciones que apliquen las autoridades educativas, los organismos descentralizados, el Instituto Nacional para la Evaluación de la Educación y las demás autoridades competentes;
+
+IV.- Desarrollar programas tendientes a mejorar las capacidades del personal docente o técnico docente; del personal con funciones de dirección, supervisión o asesoría técnica pedagógica; y del personal de apoyo y asistencia a la educación, para la implementación de las evaluaciones previstas en la Ley General del Servicio Profesional Docente;
+
+V.- Promover y desarrollar programas, proyectos y actividades de investigación e innovación que se relacionen con la mejora sistemática de la calidad de la gestión educativa, de las prácticas pedagógicas y de los logros de aprendizaje de los estudiantes del estado;
+
+VI.- Establecer vínculos de coordinación y cooperación con instituciones públicas y privadas de educación superior para el desarrollo de programas y proyectos que contribuyan a la profesionalización del personal docente de educación básica y media superior, de conformidad con las necesidades del servicio;
+
+VII.- Celebrar convenios, contratos y acuerdos con los sectores público, privado y social para el cumplimiento de su objeto;
+
+VIII.- Fomentar el desarrollo de programas y acciones de intercambio académico así como de extensión, difusión e innovación educativa a nivel estatal, nacional e internacional;
+
+IX.- Expedir constancias, certificados de estudio y de competencias, y diplomas, con apego en las leyes de la materia;
+
+X.- Coadyuvar con la Secretaría de Educación en el reconocimiento del personal educativo que destaque en los procesos de profesionalización o evaluación;
+
+XI.- Evaluar constantemente los programas, los proyectos y las acciones de formación y profesionalización que implemente y realizar las adecuaciones correspondientes;
+
+XII.- Promover la incorporación de técnicas pedagógicas innovadoras y de tecnologías de la información y la comunicación a los procesos de formación y profesionalización docente;
+
+XIII.- Contribuir al establecimiento y desarrollo de sistemas y mecanismos para reconocer y certificar las competencias profesionales del personal educativo de su competencia;
+
+XIV.- Ofrecer servicios relacionados con su objeto a la población en general, a cambio de una contraprestación que se integrará a su patrimonio, y
+
+XV.- Las demás que establezcan la Ley General del Servicio Profesional Docente y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Quater.
+
+El patrimonio del instituto estará integrado por:
+
+I.- Los recursos que le sean asignados o transferidos conforme el Presupuesto de Egresos del Gobierno del Estado de Yucatán;
+
+II.- Los recursos que le transfieran o le asignen los Gobiernos federal, estatal o municipales;
+
+III.- Los bienes muebles e inmuebles y derechos que adquiera por cualquier título legal;
+
+IV.- Los ingresos que perciba por la prestación de sus servicios y de su operación, y
+
+V.- Las utilidades, los intereses, los dividendos y los rendimientos de sus bienes y derechos.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Quinquies.
+
+La junta de gobierno del instituto tendrá las siguientes atribuciones:
+
+I.- Definir las bases y políticas generales para la organización y el funcionamiento del instituto;
+
+II.- Determinar los objetivos y las metas del instituto, y los programas y proyectos a implementar, así como evaluar su cumplimiento;
+
+III.- Aprobar los anteproyectos de presupuesto de ingresos y de egresos del instituto, así como sus programas presupuestarios, de trabajo y de adquisiciones de bienes y servicios;
+
+IV.- Aprobar las donaciones, los legados y los demás bienes y derechos que se otorguen a favor del instituto;
+
+V.- Aprobar la estructura orgánica del instituto;
+
+VI.- Aprobar el Estatuto Orgánico del instituto, así como los reglamentos, manuales y demás instrumentos administrativos o normativos que regulen su organización y funcionamiento;
+
+VII.- Aprobar los proyectos académicos y de planes y programas de estudio que se sometan a su consideración;
+
+VIII.- Establecer vínculos de coordinación y cooperación con los sectores público, privado y social, para el cumplimiento de su objeto;
+
+IX.- Examinar y, en su caso, aprobar los informes financieros y de actividades que presente el director general;
+
+X.- Requerir al director general informes sobre el estado que guardan las finanzas y actividades del instituto;
+
+XI.- Conformar los órganos colegiados que requiera el instituto para el cumplimiento de su objeto, determinar su organización y funcionamiento, y resolver los conflictos que se susciten entre ellos, y
+
+XII.- Las demás que establezcan el Código de la Administración Pública de Yucatán, su reglamento, el estatuto orgánico del instituto y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Sexies.
+
+La junta de gobierno será la máxima autoridad del instituto y estará integrada por:
+
+I.- El gobernador, o la persona que este designe, quien será el presidente;
+
+II.- El secretario general de Gobierno;
+
+III.- El secretario de Administración y Finanzas;
+
+IV.- El secretario de Educación, y
+
+V.- El secretario de Investigación, Innovación y Educación Superior.
+
+Los integrantes de la junta de gobierno tendrán derecho a voz y voto durante las sesiones.
+
+La junta de gobierno contará con un secretario de actas y acuerdos, quien será designado por el secretario general de Gobierno y, para el desempeño de sus funciones, asistirá a sus sesiones con derecho a voz, pero no a voto.
+
+Los integrantes de la junta de gobierno, a excepción del presidente, quien será suplido por el secretario general de Gobierno, nombrarán, por escrito dirigido al secretario de actas y acuerdos, a sus suplentes, quienes deberán tener el rango inmediato inferior al de ellos y los sustituirán en sus ausencias con las facultades y obligaciones que establezcan el estatuto orgánico del instituto, el Reglamento del Código de la Administración Pública de Yucatán y otras disposiciones legales y normativas aplicables.
+
+Los cargos de los integrantes de la junta de gobierno son de carácter honorífico, por lo tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Septies.
+
+En el estatuto orgánico se establecerán, para su correcto funcionamiento, las bases de organización del instituto así como las facultades y funciones de las distintas unidades administrativas que lo integren.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Octies.
+
+El director general del instituto será nombrado y removido por el gobernador.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Nonies.
+
+El director general del instituto tendrá las siguientes facultades y obligaciones:
+
+I.- Fungir como representante legal del instituto y ejercer las facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran autorización especial, así como delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
+
+II.- Planear, dirigir, coordinar, supervisar y evaluar la organización y el funcionamiento del instituto;
+
+III.- Administrar los recursos humanos, financieros, materiales y tecnológicos del instituto;
+
+IV.- Elaborar los anteproyectos de presupuesto de ingresos y de egresos del instituto, así como sus proyectos de programas presupuestario, de trabajo y de adquisiciones de bienes y servicios;
+
+V.- Proponer los objetivos, las metas y los indicadores de desempeño o de resultado del instituto, así como elaborar los registros administrativos que permitan el seguimiento y la evaluación de su gestión;
+
+VI.- Determinar políticas, lineamientos y criterios para el adecuado funcionamiento del instituto, así como elaborar los proyectos de estatuto orgánico, reglamentos, manuales y otros instrumentos administrativos o normativos que regulen su organización y funcionamiento;
+
+VII.- Nombrar y remover libremente a los directores y al personal de confianza del instituto, así como proponer su estructura orgánica;
+
+VIII.- Fomentar la profesionalización, capacitación y actualización constante del personal del instituto;
+
+IX.- Someter a evaluación de las autoridades competentes los programas del instituto que lo requieran, e informar los resultados a la junta de gobierno;
+
+X.- Celebrar los convenios, contratos y acuerdos que sean necesarios para el cumplimiento del objeto del instituto e informar de ello a la junta de gobierno;
+
+XI.- Realizar los informes financieros y de actividades del instituto, y someterlos a consideración de la junta de gobierno;
+
+XII.- Proponer a la junta de gobierno del instituto las estrategias y acciones que considere necesarias para el cumplimiento del objeto del instituto;
+
+XIII.- Ejecutar los acuerdos y las instrucciones que emita la junta de gobierno del instituto y que le correspondan;
+
+XIV.- Resolver los asuntos o conflictos de su competencia que se susciten en el instituto y que requieran de su intervención, y
+
+XV.- Las demás que establezcan el Código de la Administración Pública de Yucatán, su reglamento, el estatuto orgánico del instituto y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+###### Artículo 79 Decies.
+
+Las funciones de vigilancia del instituto estarán a cargo de un comisario público, quien será designado por la Secretaría de la Contraloría General y tendrá las facultades y obligaciones que establecen para ello el Código de la Administración Pública de Yucatán y su reglamento.
+
+El comisario público no formará parte de la junta de gobierno del instituto, pero podrá asistir a sus sesiones únicamente con derecho a voz.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Artículo 79 Undecies.- Las relaciones laborales entre el instituto y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 28 DE MARZO DE 2018)</small>
+
+#### Sección Tercera. Del Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Artículo 79 Duodecies.- El Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán tiene por objeto fungir como órgano de asesoría y consulta del instituto; para tal efecto, podrá emitir propuestas, opiniones y recomendaciones académicas y técnicas relacionadas con el objeto este.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Artículo 79 Terdecies.- El Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán estará integrado por:
+
+I.- El secretario de Educación, quien será el presidente;
+
+II.- El director general del instituto;
+
+III.- El director general de Educación Básica de la Secretaría de Educación;
+
+IV.- El director general de Desarrollo Educativo y Gestión Regional de la Secretaría de Educación;
+
+V.- El director de Educación Media Superior de la Secretaría de Educación;
+
+VI.- El director de Planeación de la Secretaría de Educación;
+
+VII.- El director del Centro de Evaluación Educativa del Estado de Yucatán;
+
+VIII.- Un representante del Instituto Nacional para la Evaluación de la Educación, previa aceptación de la invitación que realice el presidente, y
+
+IX.- Un representante de cada una de las organizaciones sindicales de los trabajadores de la Secretaría de Educación, previa aceptación de la invitación que realice el presidente.
+
+Los integrantes del Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán tendrán derecho a voz y voto durante las sesiones.
+
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Artículo 79 Quaterdecies.- El instituto, por conducto de su junta de gobierno, regulará, mediante acuerdo, lo relativo a las atribuciones, organización y funcionamiento de las sesiones del Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán, así como las formalidades de sus convocatorias y las facultades de quienes lo integran.
 
 ### CAPÍTULO I. De los Consejos
 
@@ -1839,7 +2059,7 @@ En el caso de venta de alimentos y bebidas, vigilarán que los mismos contribuya
 
 ###### Artículo 103.
 
-Las asociaciones de padres de familia no tendrán ingerencia (sic) en los aspectos técnico - pedagógicos y laborales de las escuelas.
+Las asociaciones de padres de familia no tendrán ingerencia en los aspectos técnico - pedagógicos y laborales de las escuelas.
 
 Las cantidades en numerario que recauden por cualquier medio las asociaciones de padres de familia se considerarán patrimonio particular y sólo pertenecerán a las escuelas cuando se conviertan en bienes y servicios y hayan sido entregados previamente a las autoridades educativas.
 
@@ -2086,3 +2306,27 @@ D.O. 21 DE JUNIO DE 2017.
 Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 608/2018 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE DESARROLLO PROFESIONAL DOCENTE”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de junio de 2018, previa publicación en el diario oficial del estado.
+
+Segundo. Nombramiento del director general
+
+El gobernador deberá nombrar al director general del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán dentro de un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Instalación de la junta de gobierno
+
+La Junta de Gobierno del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa
+
+El director general del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán deberá presentar a la junta de gobierno del instituto, para su aprobación, el proyecto de estatuto orgánico, de conformidad con las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Quinto. Regulación Consejo Consultivo
+
+La Junta de Gobierno del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán deberá emitir el acuerdo para regular el Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán dentro de un plazo de ciento ochenta días naturales, contado a partir de su instalación.
