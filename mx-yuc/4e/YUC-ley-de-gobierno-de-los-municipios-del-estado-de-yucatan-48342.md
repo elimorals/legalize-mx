@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2017-10-31"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -717,7 +717,9 @@ C) De Hacienda:
 
 I.- Administrar libremente su patrimonio y hacienda;
 
-II.- Aprobar a más tardar el quince de diciembre, el Presupuesto Anual de Egresos, con base en los ingresos disponibles y de conformidad al Programa Operativo Anual y el Plan Municipal de Desarrollo;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+II.- Aprobar a más tardar, el quince de diciembre, el presupuesto de egresos, con base en los ingresos disponibles y de conformidad al Plan Municipal de Desarrollo, y a los requerimientos establecidos en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normativa aplicable;
 
 III.- Ordenar a la Tesorería en el mes de enero de cada año, realizar el inventario general y la estimación del valor de los bienes;
 
@@ -1611,7 +1613,9 @@ V.- Recaudar, administrar, custodiar, vigilar y situar los fondos municipales, a
 
 VI.- Formular mensualmente, a más tardar el día diez de cada mes, un estado financiero de los recursos y la Cuenta Pública del mes inmediato anterior y presentarlo a Cabildo, para su revisión y aprobación en su caso;
 
-VII.- Elaborar y proponer para su aprobación el proyecto de Presupuesto de Egresos;
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+VII.- Elaborar y proponer para su aprobación el proyecto de Presupuesto de Egresos de conformidad con los requerimientos establecidos en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normativa aplicable;
 
 VIII.- Ejercer el Presupuesto de Egresos y cuidar que los gastos se apliquen de acuerdo con los programas aprobados;
 
@@ -1623,9 +1627,15 @@ X.- Elaborar y mantener actualizado el padrón de contribuyentes;
 
 XI.- Cuidar que los cobros se hagan con exactitud y oportunidad;
 
-XII.- Proporcionar los informes que el Cabildo, el Presidente Municipal o el Síndico le solicite, y
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XIII.- Las demás que expresamente le otorguen las leyes.
+XII.- Proporcionar los informes que el Cabildo, el Presidente Municipal o el Síndico le solicite;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XIII.- Confirmar que los financiamientos y obligaciones del ayuntamiento se celebraron en las mejores condiciones del mercado, y
+
+XIV.- Las demás que expresamente le otorguen las leyes.
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
@@ -2447,7 +2457,7 @@ De igual forma deberán presentar su cuenta pública a la Auditoría Superior de
 
 La cuenta pública se enviará a la Auditoría Superior del Estado, sea o no aprobada en Sesión de Cabildo.
 
-### CAPÍTULO V. DEL ENDEUDAMIENTO
+### CAPÍTULO V. DEL FINANCIAMIENTO
 
 #### SECCIÓN PRIMERA. DEL DOMINIO PÚBLICO
 
@@ -2659,6 +2669,8 @@ VI.- Causas de suspensión y rescisión del contrato.
 
 El Ayuntamiento, por conducto de la oficina o dependencia ejecutora tendrá la facultad de supervisar los avances de obra y el cumplimiento de las especificaciones técnicas, bajo la cual fue contratada, sin menoscabo de las funciones propias de control interno.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE MARZO DE 2018)</small>
+
 ### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
 
 #### SECCIÓN PRIMERA. DEL CONCEPTO
@@ -2699,15 +2711,17 @@ II.- Que el plazo de amortización para el pago de las obligaciones contraídas 
 
 III.- Las demás que establezcan las leyes aplicables.
 
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
 ###### Artículo 172.
 
-El Congreso del Estado autorizará anualmente en la Ley de Ingresos de los Municipios los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas de las dependencias y entidades que integran la Administración Pública Municipal.
+El Congreso del Estado autorizará anualmente en la Ley de Ingresos de los Municipios los montos de financiamiento neto, que sean necesarios para el financiamiento de los programas de las dependencias y entidades que integran la Administración Pública Municipal.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 173.
 
-El monto de endeudamiento neto aprobado en las respectivas leyes de ingresos será la base para la contratación de proyectos de inversión pública productiva que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos respectivo.
+El monto de financiamiento neto aprobado en las respectivas leyes de ingresos será la base para la contratación de proyectos de inversión pública productiva que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos respectivo.
 
 ###### Artículo 174.
 
@@ -3524,3 +3538,23 @@ Este decreto entrará en vigor el día primero de marzo de dos mil dieciocho, pr
 Segundo. Cumplimiento
 
 Los Ayuntamientos del Estado de Yucatán contarán con noventa días posteriores a la entrada en vigor para la aplicación de las disposiciones contenidas en este Decreto.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 607/2018 POR EL QUE SE MODIFICA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE YUCATÁN, LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento del Código de la Administración Pública de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Obligación normativa
+
+El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa.
+
+El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
