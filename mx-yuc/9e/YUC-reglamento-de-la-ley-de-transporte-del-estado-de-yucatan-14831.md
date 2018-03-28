@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transporte-del-estado-de-yucatan-14831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-25"
-last_updated: "2016-08-26"
+last_updated: "2018-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICAD EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 25 de junio de 1999.
 
@@ -487,9 +487,19 @@ XI. Transportar en el vehículo a su cargo, sólo al número de pasajeros autori
 
 XII. Impedir que los pasajeros viajen con alguna parte del cuerpo fuera del vehículo;
 
-XIII. Impedir que los pasajeros efectúen el ascenso y descenso por puertas diferentes a las establecidas para tal fin; y
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XIV. Las demás que al respecto establezcan las disposiciones de vialidad.
+XIII. Impedir que los pasajeros efectúen el ascenso y descenso por puertas diferentes a las establecidas para tal fin;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XIV. No cobrar una cantidad superior a la autorizada por la autoridad competente para la prestación del servicio o no cobrar cantidad alguna a quienes estén exentos del pago del servicio público de transporte de pasajeros;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XV. Prestar, sin distinción alguna, el servicio a personas con discapacidad; y
+
+XVI. Las demás que al respecto establezcan las disposiciones de vialidad.
 
 Las disposiciones señaladas en el artículo anterior y las fracciones II, IV, VIII, IX y X de este artículo serán aplicables a los conducentes del servicio público de transporte de carga.
 
@@ -593,9 +603,7 @@ VII. Cumplir con las medidas de seguridad que establecen la Ley y este Reglament
 
 VIII. Contar con terminales, o de manera excepcional, con sitios autorizados por la autoridad competente;
 
-> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
-
-IX. Abstenerse de colocar, en los vehículos en los que se preste el servicio, propaganda electoral; y
+IX. (DEROGADA, D.O. 28 DE MARZO DE 2018)
 
 X. Las demás que establecen la Ley, este Reglamento y otras disposiciones legales aplicables.
 
@@ -1807,13 +1815,17 @@ X. Por prestar el servicio de transporte de pasajeros contratado a través de pl
 
 XI. Por realizar, por parte de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, oferta directa en la vía pública del servicio que prestan o base, sitio o similares;
 
-> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XII. Por efectuar, por parte de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, cobros en dinero en efectivo o por otros medios que no sean tarjeta de crédito o débito emitida por institución bancaria autorizada, en términos del artículo 40 septies, fracción VI, de la Ley; y
+XII. Por efectuar, por parte de los operadores del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, cobros en dinero en efectivo o por otros medios que no sean tarjeta de crédito o débito emitida por institución bancaria autorizada, en términos del artículo 40 septies, fracción VI, de la Ley;
 
-> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
-XIII. Por colocar propaganda electoral en los vehículos en los que se preste el servicio público de transporte de pasajeros.
+XIII. Por cobrar, por parte de los operadores de los vehículos destinados al servicio público de transporte de pasajeros, cuando estén cumpliendo sus funciones, una cantidad superior a la autorizada por la autoridad competente o por cobrar cantidad alguna a quienes estén exentos del pago de dicho servicio; y
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+XIV. Por negar, por parte de los operadores de los vehículos destinados al servicio público de transporte de pasajeros, cuando estén cumpliendo sus funciones, el servicio a personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 2016)</small>
 
@@ -2050,3 +2062,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Plazo para realizar los trámites
 
 Las empresas de redes de transporte tendrán un plazo de ciento veinte días, contado a partir de la entrada en vigor de este decreto, para tramitar la constancia y los certificados vehiculares correspondientes.
+
+D.O. 28 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 609/2018 POR EL QUE SE MODIFICAN EL REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
