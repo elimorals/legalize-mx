@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2018-03-13"
+last_updated: "2018-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -35,7 +35,7 @@ DECRETO 409
 
 LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI.
 
@@ -67,15 +67,13 @@ La educación es el medio fundamental para adquirir, transmitir y acrecentar la 
 
 En el sistema educativo estatal deberá asegurarse que la participación del educando sea activa, así como la de todos los involucrados en el proceso educativo, estimulando su iniciativa y sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, a efecto de alcanzar los fines establecidos en el artículo 9° de la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 4°.
 
-Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del Estado de San Luis Potosí tienen las mismas oportunidades de acceso y permanencia al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todos los individuos tienen derecho a recibir educación de calidad, en condiciones de equidad y tránsito, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
-
-En San Luis Potosí se reconoce el derecho a la educación de calidad, de las adolescentes que son madres, y a las madres solteras; por ello, se privilegiará su retorno a la escuela, procurando tener espacios integrales para ellas, sus hijas e hijos.
+Los docentes procurarán diseñar y aplicar las medidas conducentes a crear y propiciar relaciones de igualdad entre los educandos, hombres y mujeres al interior de las aulas, a fin de identificar y prevenir situaciones violentas por cuestiones de género y, en consecuencia, evitar la discriminación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -107,9 +105,11 @@ Para obtener inscripción en escuelas públicas para que sus hijas, hijos o pupi
 
 Los padres o tutores, cuyos hijos, hijas o tutelados cursen la educación básica en escuelas públicas o particulares, deben participar en los Talleres para Padres de Familia. La Secretaría de Educación de Gobierno del Estado elaborará la guía que proporcione los contenidos de capacitación y orientación en estos talleres.
 
-###### ARTICULO 7º.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2018)</small>
 
-Los servicios educativos que el Gobierno del Estado imparta serán gratuitos. Las aportaciones y donaciones destinadas a dicha acción en ningún caso se entenderán como contraprestaciones del servicio educativo.
+###### ARTICULO 7°.
+
+Los servicios educativos que el Gobierno del Estado imparta serán gratuitos. Las aportaciones, donaciones y cuotas voluntarias destinadas a dicha acción, en ningún caso, se entenderán como contraprestaciones del servicio educativo.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -118,6 +118,10 @@ Se prohíbe el pago de cualquier contraprestación que impida o condicione la pr
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos, o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2018)</small>
+
+Se prohíbe a las autoridades educativas, así como a las y los docentes de instituciones públicas de cualquier nivel en el Estado, condicionar el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos, o afectar en cualquier sentido la igualdad en el trato de los alumnos por falta de uniforme completo o del pago de aportaciones, donaciones y cuotas voluntarias.
 
 ###### ARTICULO 8º.
 
@@ -202,6 +206,26 @@ XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes, así com
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
 
 XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XXII (SIC).- Fomentar entre los educandos el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XXIII.- Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XXIV.- Formular, regular, dirigir e implementar programas de educación y comunicación educativa acerca del cambio climático en el sistema de educación del Estado, en los tipos básico y media superior;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XXV.- Participar y realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XXVI.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación en materia de primeros auxilios y prevención de accidentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
 
@@ -409,9 +433,9 @@ VII.- Prestar los servicios de formación, actualización, capacitación y super
 
 VIII.- Expedir los certificados y otorgar las constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-IX.- Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
+IX.- Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica. Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales de la Administración Pública Federal;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -495,9 +519,9 @@ XXXIV.- Vigilar el cumplimiento de los lineamientos y las disposiciones de cará
 
 XXXV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordinación Estatal de Bibliotecas, dependiente de la Secretaría asimismo, dotar a las bibliotecas de acervos propios, y fortalecer la infraestructura de aquéllas que dependan directamente de la propia Secretaría, con ampliación, mantenimiento, mejoras físicas, y tecnológicas, en la medida de las factibilidades presupuestales;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-XXXVI.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y
+XXXVI.- Establecer los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias; y, en su caso, revisar aquellas que considere excesivas, pudiendo emitir observaciones y recomendar la disminución de las mismas;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -515,13 +539,21 @@ XXXIX.- Participar con la autoridad educativa federal en la operación de los me
 
 XL.- Incluir en el proyecto de Ley de Presupuesto de Egresos que se someterá a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar;
 
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XLI.- Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia, de acuerdo a los lineamientos de la Ley General de Educación;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XLII.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación en materia de primeros auxilios y prevención de accidentes, y
+
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XLI.- Emitir la normativa correspondiente para realizar las tareas de inspección y vigilancia de los servicios educativos que prestan los particulares con autorización o reconocimiento de validez oficial de estudios, y
+XLIII.- Emitir la normativa correspondiente para realizar las tareas de inspección y vigilancia de los servicios educativos que prestan los particulares con autorización o reconocimiento de validez oficial de estudios, y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
-XLII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XLIV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 23.
 
@@ -789,7 +821,9 @@ La formación para el trabajo procurará la adquisición de conocimientos, habil
 
 Se proporcionará particular atención a las mujeres adultas mayores, indígenas, y mujeres que sufran alguna discapacidad, para que tengan acceso a este tipo de educación.
 
-Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación, tendrán derecho, en su caso, a que se les acredite como servicio social.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+
+Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación, tendrán derecho a que se les acredite como servicio social, ya sea por el total de horas realizadas o hasta en un cincuenta por ciento.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -1191,13 +1225,13 @@ De la Equidad en la Educación.
 
 De la Equidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 74.
 
-Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación, de calidad de cada individuo, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
+Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación de calidad, de cada individuo, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, adaptando escuelas y aulas accesibles y adecuadas para todos.
 
-Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo y que enfrenten condiciones económicas y sociales de desventaja.
+Dichas medidas estarán dirigidas, de manera preferente, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales.
 
 ###### ARTICULO 75.
 
@@ -1213,13 +1247,13 @@ II Bis. Desarrollarán, bajo el principio de inclusión, programas de capacitaci
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-IV.- Con enfoque de equidad y género prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación, preescolar, primaria, secundaria, y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso;
+IV.- Con enfoque de equidad y género prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación, preescolar, primaria, secundaria, y media superior, otorgando facilidades de acceso, reingreso, permanencia, egreso y tránsito, aún cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad. Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos, así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-IV BIS.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
+IV BIS.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad, implementando de forma progresiva, de conformidad con sus respectivos presupuestos, la existencia de escuelas y aulas accesibles para su libre desarrollo;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -1255,9 +1289,9 @@ XIII.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezca
 
 XIV.- Establecer de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo con jornadas de entre seis y ocho horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-XV.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria, y
+XV.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -1409,13 +1443,21 @@ Los estudios realizados en la Entidad, integrados al sistema educativo nacional,
 
 De acuerdo con las normas y criterios generales, determinados por la Secretaría de Educación de la Administración Pública Federal, la Secretaría de Educación del Gobierno del Estado podrá revalidar y otorgar equivalencias de estudios cuando estén referidos a planes y programas de estudio que se impartan en el sistema educativo estatal.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2018)</small>
+
+Las autoridades educativas e instituciones que otorguen revalidaciones y equivalencias promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2018)</small>
+
+Además promoverá la utilización de mecanismos electrónicos de verificación de autenticidad de documentos expedidos fuera y dentro del sistema educativo nacional. Lo anterior en términos de la Ley General de Educación.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+
 ###### ARTICULO 85.
 
-Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
+Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en la Ley General de Educación.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
-
-La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+La revalidación podrá otorgarse por niveles educativos, por grados o ciclos escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respetiva (sic). La cual deberá facilitar el tránsito de educandos en el sistema educativo estatal.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -1777,19 +1819,25 @@ XVI. Expulsar, segregar o negarse a prestar el servicio educativo a personas con
 
 XVII. Contravenir las disposiciones contempladas en esta Ley en los artículos, 9°, 15, 41 en su párrafo tercero, y 79 en su párrafo segundo, por lo que corresponde a las autoridades educativas;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-XVIII. Incumplir con las medidas correctivas derivadas de las visitas de inspección, y
+XVIII. Incumplir con las medidas correctivas derivadas de las visitas de inspección;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
 
-XIX. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XIX. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2018)</small>
+
+XX.- Condicionar la prestación de servicios educativos proporcionados por el Gobierno del Estado al pago de aportaciones, donaciones o cuotas voluntarias.
 
 ###### ARTICULO 96.
 
 Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
-I.- Multa hasta por el equivalente de 1,000 veces el salario mínimo general diario vigente en el Estado, en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; o
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
+
+I.- Multa hasta por el equivalente a mil veces del valor diario de la unidad de medida de actualización vigente en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, o
 
 II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, al infractor reincidente.
 
@@ -2396,3 +2444,11 @@ P.O. 13 DE MARZO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 916.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY D EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
