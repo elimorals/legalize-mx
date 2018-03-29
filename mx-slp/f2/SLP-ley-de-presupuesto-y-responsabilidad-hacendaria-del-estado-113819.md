@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2017-03-30"
+last_updated: "2018-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -54,7 +54,9 @@ Esta Ley es de orden público y tiene por objeto reglamentar los artículos, 53,
 
 Los sujetos obligados a cumplir las disposiciones de este Ordenamiento deberán observar que la administración de los recursos públicos, se realice con base en criterios de, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, y rendición de cuentas.
 
-La Auditoría fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y la Ley de la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+
+La Auditoría fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 3°.
 
@@ -1217,3 +1219,11 @@ P.O. 30 DE MARZO DE 2017.
 Primero. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 917.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO SEGUNDO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
