@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-fomento-agropecuario-956
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2016-06-10"
+last_updated: "2018-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE FOMENTO AGROPECUARIO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO NOVENO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 30 DE MARZO 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO 2018 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -1182,3 +1184,31 @@ P.O. 10 DE JUNIO DE 2016.
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las unidades administrativas creadas que aparecen en el presente decreto y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, terminarán su sustanciación y dictarán las resoluciones que corresponda.
+
+P.O. 30 DE MARZO 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO”.]
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Dentro del término de 15 días posteriores a la entrada en vigor del presente instrumento deberá designarse el Director del CCIIAA.
+
+TERCERO: El Poder Ejecutivo del Estado incluirá anualmente en su presupuesto de egresos, partidas presupuestales destinadas a cooperar para el sostenimiento del CCIIAA y al mismo fin deberán hacer sus aportaciones todos los sectores interesados de acuerdo a lo que (sic) propia Secretaría proponga, a fin de llevar a cabo sus programas.
+
+CUARTO: Dentro del término de 60 días posteriores a la entrada en vigor del presente instrumento, la Secretaría deberá generar los lineamientos, manuales de operación y de procedimientos para el CCIIAA.
+
+QUINTO: Las aportaciones económicas de cualquier tipo que para el sostenimiento de las acciones en materia de asistencia técnica integral hagan los productores, dependencias oficiales o particulares al CCIIM serán a través de convenios en los que se estipulen claramente los compromisos y condiciones de los contratantes y puedan ser promovidos por cualquier interesado, siendo en todo caso necesario contar con el punto de vista favorable de la Secretaría.
+
+SEXTO: La Secretaría, podrá contratar los servicios de técnicos o de otro tipo de profesionales, para estudios o trabajos específicos que se requieran en el cumplimiento de sus programas de asistencia técnica integral encabezado por el CCIIAA con sujeción a las normas y políticas administrativas, así como en base a los criterios generales aplicables de la autoridad responsable en la Administración Central.
+
+SÉPTIMO: La Secretaría a partir de la entrada en vigor del presente Decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+OCTAVO: La unidad administrativa de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
+
+NOVENO: Se abroga el Reglamento Interno publicado en el Periódico Oficial del Estado de fecha 09 de agosto de 2013 y sus correspondientes reformas publicadas en fechas 03 de julio del2015 y 10 de junio de 2016, respectivamente.
+
+DÉCIMO: Los asuntos a cargo de la Secretaría de Fomento Agropecuario que se encuentren en trámite y pendientes de resolución al momento de la entrada en vigor del presente Decreto, serán resueltos conforme a la normatividad vigente al momento de su inicio, por conducto de la unidad administrativa correspondientes de la Secretaría de Desarrollo Agropecuario.
+
+DÉCIMO PRIMERO: El personal que componen las unidades administrativas de la Secretaría de Fomento Agropecuario, quedara adscrito a la Secretaría de Desarrollo Agropecuario, sin perjuicio de sus derechos laborales que hayan adquirido, en virtud de su relación laboral que sostienen con la administración pública del Estado, al momento de la entrada en vigencia del presente Reglamento.
+
+DÉCIMO SEGUNDO: Dentro de los treinta días posteriores a la entrada en vigor del presente Reglamento, deberán transferirse los recursos materiales y financieros de la Secretaría de Fomento Agropecuario a la Secretaría de Desarrollo Agropecuario, observando los trámites administrativos y jurídicos que para tal efecto disponga la Oficialía Mayor, la Secretaría de Planeación y Finanzas y la Secretaría de la Contraloría y Transparencia Gubernamental
