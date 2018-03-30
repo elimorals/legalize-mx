@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-761
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-06"
-last_updated: "2016-07-29"
+last_updated: "2018-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2010.
 
@@ -93,7 +93,9 @@ La Procuraduría, además de las áreas que estén adscritas directamente al Pro
 
 I.- De operación:
 
-a) Subprocuraduría contra la Delincuencia Organizada.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
+
+a) Subprocuraduría de Investigaciones Especiales.
 
 b) Dirección de Justicia para Adolescentes.
 
@@ -139,9 +141,11 @@ El nombramiento y remoción de los servidores públicos de la Procuraduría se r
 
 La Procuraduría desarrollará sus actividades en forma programada y de acuerdo con las políticas internas, estrategias y prioridades que para el logro de sus objetivos y metas determine el Procurador, conforme a la Ley, la Ley de Seguridad Pública del Estado de Baja California, el Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-El Procurador, el Subprocurador contra la Delincuencia Organizada, el Visitador General y los titulares de los órganos que se señalan en el artículo 5, salvo los señalados en la fracción I inciso d), residirán en la capital del Estado, pero en el desempeño de sus funciones realizarán cuantas visitas estimen necesarias a los distintos órganos de la Procuraduría que se encuentren ubicados dentro del territorio de la entidad.
+El Procurador, el Subprocurador de Investigaciones Especiales, el Visitador General y los titulares de los órganos que se señalan en el artículo 5, salvo los señalados en la fracción I inciso d), residirán en la capital del Estado, pero en el desempeño de sus funciones realizarán cuantas visitas estimen necesarias a los distintos órganos de la Procuraduría que se encuentren ubicados dentro del territorio de la Entidad.
 
 ###### ARTÍCULO 9.
 
@@ -155,7 +159,9 @@ Los Directores adscritos a las Subprocuradurías de Zona residirán en el Munici
 
 Los servidores públicos de la Procuraduría serán suplidos en sus ausencias, mediante oficio y atendiendo a las siguientes reglas:
 
-I.- El Procurador designará al Subprocurador que lo suplirá en caso de ausencia; a falta de designación se entenderá que será suplido por el Subprocurador contra la Delincuencia Organizada.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+I.- El Procurador designará al Subprocurador que lo suplirá en caso de ausencia; a falta de designación se entenderá que será suplido por el Subprocurador de Investigaciones Especiales;
 
 II.- Los titulares de los órganos que señalan las fracciones I, II y III del artículo 5 del Reglamento serán suplidos en sus ausencias por quien designe el Procurador.
 
@@ -429,37 +435,49 @@ VIII.- Las demás que le encomiende el Procurador.
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS DE OPERACIÓN
 
-### CAPÍTULO PRIMERO. SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2018)</small>
+
+### CAPÍTULO PRIMERO. SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 27.
 
-La Subprocuraduría contra la Delincuencia Organizada contará con las atribuciones que establece la Ley contra la Delincuencia Organizada del Estado de Baja California y demás disposiciones normativas aplicables.
+La Subprocuraduría de Investigaciones Especiales contará con las atribuciones que establece la Ley contra la Delincuencia Organizada del Estado de Baja California y demás disposiciones normativas aplicables.
 
-El Subprocurador contra la Delincuencia Organizada tendrá las facultades y obligaciones que se establecen para los Subprocuradores de Zona, salvo las previstas en las fracciones XI y XII del artículo 51 del Reglamento, y deberá reunir los requisitos previstos en la Ley para ocupar el cargo de Subprocurador.
+El Subprocurador de Investigaciones Especiales tendrá las facultades y obligaciones que se establecen para los Subprocuradores de Zona, salvo las previstas en las fracciones XI y XII del artículo 51 del Reglamento, y deberá reunir los requisitos previstos en la Ley para ocupar el cargo de Subprocurador.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 28.
 
-La Subprocuraduría contra la Delincuencia Organizada se integrará cuando menos con las siguientes áreas:
+La Subprocuraduría de Investigaciones Especiales se integrará cuando menos con los siguientes órganos o unidades estatales:
 
 I.- Unidad Estatal de Atención al Delito de Secuestro;
 
 II.- Unidad Estatal de Homicidios Dolosos;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
 
-III.- Unidad Estatal Investigadora de Búsqueda de Personas No Localizadas; y,
+III.- La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
 
 IV.- Los servidores públicos necesarios para el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
 
-Cualquier Agencia del Ministerio Público y Unidad de Investigación podrá recibir las denuncias por la comisión del ilícito de secuestro, homicidio doloso, o relacionadas con personas no localizadas, la que practicará las diligencias básicas iniciales, brindará la atención necesaria a las víctimas u ofendidos del delito, e inmediatamente hará del conocimiento de tales hechos a la Unidad Estatal correspondiente.
+Cualquier Agencia del Ministerio Público y, Unidad de Investigación podrá recibir las denuncias relacionadas con la comisión del ilícito de secuestro, homicidio doloso, o de desaparición forzada de personas y desaparición cometida por particulares, practicará las diligencias básicas iniciales, brindará la atención necesaria a las víctimas u ofendidos del delito, e inmediatamente hará del conocimiento de tales hechos al órgano o unidad correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 29.
 
-Las Unidades Estatales contarán con un titular que dependerá de la Subprocuraduría contra la Delincuencia Organizada.
+Los órganos o unidades a que se refiere el artículo 28 del presente Reglamento, contarán con un titular que dependerá de la Subprocuraduría de Investigaciones Especiales.
 
-Estas Unidades Estatales se integrarán cuando menos con el personal sustantivo policial, pericial y agente del Ministerio Público, que se asigne o comisione del personal de la Subprocuraduría contra la Delincuencia Organizada, y demás servidores públicos que se requieran para el ejercicio de sus funciones.
+Estos órganos o Unidades Estatales se integrarán cuando menos con el personal sustantivo ministerial, policial, y pericial que se asigne o comisione del personal de la Subprocuraduría de Investigaciones Especiales y demás servidores públicos que se requieran para el ejercicio de sus funciones.
+
+La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, deberá contar de forma adicional a lo previsto en los párrafos anteriores, con la Unidad de análisis de contexto, la cual se integrará por el personal sustantivo ministerial, policial, pericial y de apoyo social que requiera.
+
+Asimismo, para formar parte de la Fiscalía Especializada en materia de desaparición forzada de personas, los servidores públicos deberán cumplir como mínimo con los requisitos establecidos en el artículo 69 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
 ###### ARTÍCULO 30.
 
@@ -475,15 +493,49 @@ IV.- Investigación de Campo; y,
 
 V.- Personal Especializado.
 
-Dichas áreas realizarán las funciones que le sean encomendadas por el titular de la Unidad Estatal de Atención al Delito de Secuestro, y por el Subprocurador contra la Delincuencia Organizada.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2018)</small>
+
+Dichas áreas realizarán las funciones que le (sic) sean encomendadas por el titular de la Unidad Estatal de Atención al Delito de Secuestro y por el Subprocurador de Investigaciones Especiales.
 
 ###### ARTÍCULO 31.
 
 La Unidad Estatal contra Homicidios Dolosos ejercerá la facultad de atracción respecto de los delitos de esta naturaleza conforme a los lineamientos dictados por el Procurador.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2018)</small>
+
+ARTÍCULO 31 BIS.- La Fiscalía Especializada de Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, contará además de las atribuciones establecidas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, con las siguientes:
+
+I.- Desde su primer intervención, substanciar, conocer, dirigir, supervisar y resolver las investigaciones ministeriales relacionadas con la desaparición forzada de personas y desaparición cometida por particulares, sin perjuicio de aquellas relacionadas con delito diverso y remitiendo éstas, de forma inmediata, al Agente del Ministerio Público que requiera la investigación, en los términos que resulten procedentes;
+
+II.- Requerir o coordinar a las unidades administrativas y órganos de la Procuraduría e, instancias del sector público competentes, privado y social en los supuestos que dispongan las disposiciones legales aplicables, que brinden atención médica, psicológica y jurídica a las víctimas de las conductas previstas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+III.- Proponer mecanismos de cooperación con otras autoridades para la continua profesionalización del personal en los asuntos materia de su competencia, en coordinación con las unidades administrativas y órganos competentes de la Institución;
+
+IV.- Registrar, ordenar, clasificar, sistematizar y analizar la información relacionada con las investigaciones de los delitos de desaparición forzada de personas y desaparición cometida por particulares así como promover su intercambio con las procuradurías y fiscalías de las entidades federativas, con el fin de fortalecer el seguimiento y control de las conductas delictivas materia de la Fiscalía Especializada;
+
+V.- Sugerir mecanismos de interrelación con otros entes de gobierno, instancias académicas u organizaciones de la sociedad civil, cuando se trate de tales delitos;
+
+VI.- Apoyar la operación, administración y actualización del Registro Nacional de Personas Desaparecidas y No Localizadas, en colaboración con las unidades administrativas y órganos competentes de la Institución;
+
+VII.- Dar respuesta a las solicitudes de información respecto de los asuntos de su competencia, bajo los procedimientos institucionalmente establecidos;
+
+VIII.- Informar a las víctimas, sus familiares, personas legitimadas y autorizadas, sobre el curso, avances y resultados de las investigaciones realizadas;
+
+IX.- Sugerir los métodos, lineamientos y acciones para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales en los asuntos que son de su competencia;
+
+X.- Apoyar y atender técnica, procesal y jurídicamente la participación del Ministerio Público respecto de los acuerdos celebrados en la Conferencia Nacional de Procuración de Justicia así como del convenio de colaboración interprocuradurías, estableciendo las órdenes pertinentes y conducentes para lograr los objetivos y fines;
+
+XI.- Dar seguimiento a los pedimentos de medidas cautelares, medidas cautelares anticipadas, providencias precautorias y toda aquella solicitud formulada por el Ministerio Público a la autoridad jurisdiccional;
+
+XII.- Convocar y presidir las reuniones que en los asuntos de su competencia deban celebrarse con las unidades administrativas u órganos de la Procuraduría;
+
+XIII.- Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MARZO DE 2018)</small>
+
 ###### ARTÍCULO 32.
 
-Los titulares de las Unidades Estatales tendrán las siguientes facultades y obligaciones:
+Los titulares de los órganos o unidades a que se refiere el artículo 28 del presente Reglamento, tendrán las siguientes facultades y obligaciones:
 
 I.- Proponer, y en su caso, aplicar las políticas públicas relativas a los delitos o asuntos que conocen;
 
@@ -505,7 +557,9 @@ IX.- Participar en el diseño de estrategias, lineamientos y acciones para el in
 
 X.- Colaborar en la elaboración de estudios criminógenos y de propuestas sobre acciones interinstitucionales, con los enlaces comisionados por ésta Dependencia ante instituciones públicas o privadas, de índole nacional o extranjero, para la atención de los asuntos de su competencia;
 
-XI.- Rendir estadística mensual sobre los asuntos que le corresponda conocer, o cuando el Subprocurador contra la Delincuencia Organizada lo requiera;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+XI.- Rendir estadística mensual sobre los asuntos que le corresponda conocer, o cuando el Subprocurador de Investigaciones Especiales lo requiera;
 
 XII.- Dar vista a la Visitaduría General sobre las irregularidades cometidas por los servidores públicos bajo su mando;
 
@@ -515,7 +569,9 @@ XIV.- Participar en la evaluación del desarrollo y cumplimiento de funciones de
 
 XV.- Conceder audiencias al público personalmente o por conducto de los servidores públicos a su cargo; y,
 
-XVI.- Auxiliar a la Subprocuraduría contra la Delincuencia Organizada en los asuntos que directamente se les encomiende, así como en aquellos casos que por razón de su naturaleza le corresponda conocer.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+XVI.- Auxiliar a la Subprocuraduría de Investigaciones Especiales en los asuntos que directamente se les encomiende, así como en aquellos casos que por razón de su naturaleza le corresponda conocer.
 
 ###### ARTÍCULO 33.
 
@@ -551,13 +607,19 @@ XIV.- Solicitar el aseguramiento precautorio de bienes para los efectos del pago
 
 XV.- Remitir a las autoridades competentes las investigaciones de delitos que no sean de su competencia;
 
-XVI.- Acordar con el Subprocurador contra la Delincuencia Organizada los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+XVI.- Acordar con el Subprocurador de Investigaciones Especiales los asuntos de su competencia;
 
 XVII.- Coordinarse con las instituciones del Gobierno Federal, de los Estados y del Distrito Federal, cuando el asunto lo amerite;
 
-XVIII.- Informar al Subprocurador contra la Delincuencia Organizada sobre los asuntos encomendados legalmente a dicha Unidad Estatal; y,
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
 
-XIX.- Las demás inherentes al cargo, aquellas que permitan la realización oportuna de sus funciones, las encomendadas por el titular de la Subprocuraduría contra la Delincuencia Organizada, así como las previstas en las disposiciones normativas aplicables.
+XVIII.- Informar al Subprocurador de Investigaciones Especiales sobre los asuntos encomendados legalmente a dicho órgano o unidad;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+XIX.- Las demás inherentes al cargo, aquellas que permitan la realización oportuna de sus funciones, las encomendadas por el titular de la Subprocuraduría de Investigaciones Especiales, así como las previstas en las disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2015)</small>
 
@@ -2291,7 +2353,9 @@ IX.- Proporcionar la información y soporte requerido por las instancias revisor
 
 X.- Participar personalmente o por conducto de quien designe, en los comités de adquisiciones de bienes y servicios cuando se celebren licitaciones en donde la Procuraduría sea un actor requirente de los mismos;
 
-XI.- Obtener y mantener actualizada la Licencia Oficial Colectiva para el Uso y Resguardo de Armas de Fuego autorizada a la Procuraduría por la Secretaría de la Defensa Nacional, en coordinación con la Subprocuraduría contra la Delincuencia Organizada y las Subprocuradurías de Zona;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+XI.- Obtener y mantener actualizada la Licencia Oficial Colectiva para el Uso y Resguardo de Armas de Fuego autorizada a la Procuraduría por la Secretaría de la Defensa Nacional, en coordinación con las Subprocuradurías;
 
 XII.- Supervisar el control de las armas que tiene el personal autorizado bajo su resguardo, con el encargado de Armas y con la Secretaría de la Defensa Nacional, cumpliendo con lo establecido en la normatividad correspondiente;
 
@@ -2375,7 +2439,9 @@ V.- Proporcionar la información y soporte requerido por las instancias revisora
 
 VI.- Participar cuando le indique el Director de Servicios Administrativos, en los comités de adquisiciones de bienes y servicios cuando se celebren licitaciones en donde la Procuraduría sea un actor requirente de los mismos;
 
-VII.- Colaborar en coordinación con las Subprocuradurías de Zona y con la Subprocuraduría contra la Delincuencia Organizada, en los procesos de actualización de la Licencia Oficial Colectiva para el Uso y Resguardo de Armas de Fuego autorizada por la Secretaría de la Defensa Nacional;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2018)</small>
+
+VII.- Colaborar en coordinación con las Subprocuradurías, en los procesos de actualización de la Licencia Oficial Colectiva para el Uso y Resguardo de Armas de Fuego autorizada por la Secretaría de la Defensa Nacional;
 
 VIII.- Verificar que se apliquen las políticas, normas y lineamientos administrativos para la asignación, control, uso, resguardo y mantenimiento de bienes, suministro de materiales y servicios;
 
@@ -4100,3 +4166,19 @@ P.O. 29 DE JULIO DE 2016.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, 8, 10, 27, 28, 29, 30, 32, 33, 103, 108, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO PRIMERO, TÍTULO TERCERO Y SE ADICIONA EL ARTÍCULO 31 BIS, DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DE ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Procuraduría, en conjunto con la Secretaría de Planeación y Finanzas y la Oficialía Mayor de Gobierno, realizarán las gestiones necesarias a fin de dotar a la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares de los recursos financieros, materiales y humanos necesarios para el cumplimiento de sus funciones así como para la integración de la Unidad de Análisis de Contexto, en los términos que resulten procedentes.
+
+###### ARTICULO TERCERO.
+
+Las referencias que se hacen o se hagan y las atribuciones establecidas asimismo en los reglamentos, decretos y demás disposiciones legales a la Subprocuraduría contra la Delincuencia Organizada, se entenderán realizadas a la Subprocuraduría de Investigaciones Especiales.
