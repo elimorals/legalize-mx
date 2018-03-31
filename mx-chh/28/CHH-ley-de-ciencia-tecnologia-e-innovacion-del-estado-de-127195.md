@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-127195"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2018-03-14"
+last_updated: "2018-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 31 DE MARZO DE 2018 Y 14 DE ABRIL DE 2018 RESPECTIVAMENTE EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2018.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 14 de marzo de 2018.
 
@@ -1283,6 +1283,8 @@ PRESIDENTA. DIP. DIANA KARINA VELÁZQUEZ RAMÍREZ. Rúbrica. SECRETARIA. DIP. CA
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de marzo del año dos mil diecisiete.
+> <small>(F. DE E., P.O. 31 DE MARZO DE 2018)</small>
+
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de marzo del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
