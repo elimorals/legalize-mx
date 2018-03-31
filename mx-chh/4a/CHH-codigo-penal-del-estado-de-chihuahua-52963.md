@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-03-14"
+last_updated: "2018-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1689,9 +1689,11 @@ III. Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de
 
 ### CAPÍTULO I. HOMICIDIO
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2018)</small>
+
 ###### Artículo 123.
 
-A quien prive de la vida a otra persona, se le impondrá de ocho a veinte años de prisión. Se entenderá la pérdida de la vida en los términos de la Ley General de Salud.
+A quien prive de la vida a otra persona, se le impondrá de doce a veinticinco años de prisión. Se entenderá la pérdida de la vida en los términos de la Ley General de Salud.
 
 ###### Artículo 124.
 
@@ -1755,9 +1757,9 @@ Si faltaren las razones de género, se estará a la punibilidad prevista para el
 
 ###### Artículo 127.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2018)</small>
 
-A quien cometa homicidio calificado, en los términos de las fracciones I, II, III, IV, VI o VII del artículo 136 de este Código, se le impondrá prisión de veinte a cincuenta años.
+A quien cometa homicidio calificado, en los términos de las fracciones I, II, III, IV, VI o VII del artículo 136 de este Código, se le impondrá prisión de veinticinco a cincuenta años.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2015)</small>
 
@@ -2183,9 +2185,9 @@ IV. Teniendo la guarda y custodia compartida, no devuelva a la persona menor de 
 
 ###### Artículo 171.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2018)</small>
 
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de cinco a quince años.
+A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinte años.
 
 Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
 
@@ -2195,7 +2197,9 @@ Se sancionará con las mismas penas a quien introduzca por vía vaginal o anal c
 
 ###### Artículo 172.
 
-Se aplicarán de seis a veinte años de prisión a quien:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2018)</small>
+
+Se aplicarán de diez a treinta años de prisión a quien:
 
 I. Realice cópula con persona menor de catorce años de edad o con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
 
@@ -4409,6 +4413,42 @@ Al que dolosamente cometa actos de maltrato en contra de cualquier animal de com
 
 Al que dolosamente cometa actos de maltrato en contra de algún animal de compañía, causándole la muerte, se le impondrá de seis meses a dos años de prisión y multa de hasta doscientas cincuenta Unidades de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2018)</small>
+
+###### Artículo 366 Bis.
+
+Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización, a quien:
+
+I. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos o de entretenimiento.
+
+II. Posea, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+III. Organice, promueva o patrocine peleas de perros, así como a aquellas personas que vendan entradas para asistir a espectáculos que impliquen peleas de perros.
+
+IV. Sea propietario, posea o administre un bien inmueble o más en los que se realicen peleas de perros con conocimiento de dicha actividad.
+
+V. Provoque ataques a las personas o a otros perros.
+
+VI. Suministre a un perro sustancias anabólicas u otras drogas para aumentar la fuerza o fiereza del animal.
+
+VII. Permita que personas menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VIII. Asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia.
+
+Las sanciones previstas en este artículo se incrementarán en un 100% cuando se trate de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2018)</small>
+
+###### Artículo 366 Ter.
+
+Las sanciones señaladas en este Título se incrementarán en un 50% si además de realizar los actos de maltrato, la persona que los lleva a cabo u otra persona los capta en fotografía o videos para hacerlos públicos por cualquier medio, con la finalidad de promover las conductas sancionadas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2018)</small>
+
+###### Artículo 366 Quáter.
+
+Las multas impuestas respecto de los delitos cometidos en este Título se aplicarán al Fondo Estatal de Bienestar Animal del Estado.
+
 (ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
 
 ## TÍTULO VIGÉSIMO NOVENO. DELITOS FISCALES
@@ -5140,6 +5180,26 @@ El presente Decreto entrará en vigor hasta en tanto lo haga el Decreto No. 1243
 P.O. 14 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0723/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFCOD/0722/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 366 BIS, 366 TER Y 366 QUÁTER AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se constituye el Fondo Estatal de Bienestar Animal del Estado, el ingreso por concepto de multas se entregará a la Dirección de Ecología de la Secretaría de Desarrollo Urbano y Ecología de (sic) Gobierno del Estado.
+
+P.O. 31 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0730/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 123, 127, 171 Y 172 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
