@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2017-07-03"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -209,9 +209,17 @@ VIII. Concertación y coordinación con Organizaciones de la Sociedad Civil para
 
 IX. Fomento de la implementación de sistemas de Redes;
 
-X. Celebración de convenios de coordinación entre niveles de gobierno, a efecto de que éstos contribuyan al fomento de las actividades objeto de esta Ley; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
-XI. Asesoría en el otorgamiento de los incentivos fiscales previstos en las leyes de la materia.
+X. Celebración de convenios de coordinación entre niveles de gobierno, a efecto de que éstos contribuyan al fomento de las actividades objeto de esta Ley;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+XI. Celebración de convenios de coordinación entre las diversas Instituciones Educativas Públicas y Privadas y las Asociaciones de la Sociedad Civil debidamente constituidas, para que los alumnos del nivel medio y superior puedan realizar su servicio social en los proyectos que llevan a cabo, con la finalidad de contribuir en el desarrollo de las comunidades menos favorecidas, en los términos como si se presentara a alguna dependencia de gobierno; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+XII. Asesoría en el otorgamiento de incentivos fiscales previstos en las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
@@ -940,3 +948,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 255.- SE REFORMA Y ADICIONA LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
