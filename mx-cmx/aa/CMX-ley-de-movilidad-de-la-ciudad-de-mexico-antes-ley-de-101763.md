@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2017-12-07"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE ABRIL DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -2504,7 +2504,9 @@ La Secretaría en coordinación con Seguridad Pública deberá establecer las po
 
 Seguridad Pública, en coordinación con la Secretaría deberá garantizar que la programación del sistema de semaforización vial optimice el uso de las vialidades y la eficiencia del tránsito, considerando niveles de servicio óptimos para todos los usuarios de la vía de acuerdo a la jerarquía de movilidad.
 
-Asimismo se deberá garantizar que las intersecciones reguladas por estos dispositivos cuenten con semáforos peatonales.
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2018)</small>
+
+Asimismo, se deberá garantizar que las intersecciones reguladas por estos dispositivos cuenten con semáforos peatonales, y adicionalmente sonoros cercanos a los Centros de Transferencia Modal, así como en centros educativos, de salud, culturales, comerciales y de recreación a efecto de facilitar la movilidad de las personas con discapacidad visual.
 
 ###### Artículo 222.
 
@@ -3019,3 +3021,15 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 221 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Para tales efectos se deberá efectuar un programa enfocado en las zonas donde se requiera semáforo sonoro, para la sustitución de semáforos de forma paulatina, conforme a la disposición presupuestal disponibles en las partidas correspondientes.
