@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2013-03-25"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -290,6 +290,10 @@ La planeación de la obra pública y servicios relacionados con la misma que rea
 I.- Lo dispuesto por las Leyes aplicables en materia de Asentamientos Humanos, Desarrollo Urbano del Estado y Protección al Ambiente;
 
 II.- Los objetivos, prioridades, estrategias y metas de la Planeación Estatal y Municipal;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+II Bis.- Prever que toda instalación pública asegure la accesibilidad, evacuación y libre tránsito sin barreras arquitectónicas, para todas las personas; debiendo cumplir con las normas oficiales vigentes de diseño y de señalización, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad;
 
 III.- La prevención de los requerimientos de áreas y predios para la ejecución de la obra pública, previa consulta con la Secretaría y la Dirección General de Protección Civil de Gobierno del Estado de Hidalgo, para que éstas en el ejercicio de sus atribuciones, determinen su idoneidad y viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieran hecho conforme a lo dispuesto por las leyes de la materia;
 
@@ -1228,3 +1232,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 422 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO Y A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo
