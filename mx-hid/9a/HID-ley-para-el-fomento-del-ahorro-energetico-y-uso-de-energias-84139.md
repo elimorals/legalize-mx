@@ -4,7 +4,7 @@ identifier: "HID-ley-para-el-fomento-del-ahorro-energetico-y-uso-de-energias-841
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2016-07-04"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY PARA EL FOMENTO DEL AHORRO ENERGETICO Y USO DE ENERGIAS RENOVABLES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO AL DESARROLLO ENERGÉTICO SUSTENTABLE DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 2 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL FOMENTO DEL AHORRO ENERGÉTICO Y USO DE ENERGÍAS RENOVABLES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018 (ABROGADO).
 
 Ley publicada en Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -696,3 +698,21 @@ Asimismo, y en coordinación con la Secretaría de Planeación, Desarrollo Regio
 OCTAVO. La Secretaría de Finanzas y Administración, dejará sin efectos la clave programática-presupuestal de la extinta Comisión Estatal de Fomento y Ahorro de Energía.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 421 QUE CONTIENE LA LEY DE FOMENTO AL DESARROLLO ENERGÉTICO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley para el Fomento del Ahorro Energético y Uso de Energías Renovables del Estado de Hidalgo publicada en el Periódico Oficial del Estado en fecha 5 de diciembre del 2011.
+
+TERCERO. El Reglamento de la Ley se expedirá dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las adecuaciones necesarias al Reglamento Interior de la Secretaría, se expedirán dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. El Comité Técnico y el Consejo se instalarán en los términos que determine el Reglamento.
+
+SEXTO. El Programa Sectorial de Fomento al Desarrollo Energético Sustentable, que regirá por el periodo constitucional de gobierno, se expedirá dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
