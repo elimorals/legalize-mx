@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asociaciones-publico-privadas-del-estado-de-hidalgo-8486
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-19"
-last_updated: "2016-12-31"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ASOCIACIONES PUBLICO PRIVADAS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 19 de diciembre de 2011.
 
@@ -743,7 +745,7 @@ Los Contratos para Asociaciones Público Privadas en la Modalidad de Otorgamient
 
 I.- Especificar en el proemio, que es un contrato de Asociación Público Privada en la Modalidad de Otorgamiento de Concesiones establecido entre el Contratante y el Inversionista Proveedor de conformidad con lo dispuesto en esta Ley;
 
-II.- Contener una sección denominada “De la Asociación Público Privada” en la que especificará lo siguiente:
+II.- Contener una sección denominada "De la Asociación Público Privada" en la que especificará lo siguiente:
 
 a. Que el Inversionista Proveedor deberá crear y administrar una persona moral o fideicomiso bajo leyes mexicanas, cuyo objeto será construir o adquirir bienes inmuebles o muebles para su administración, operación y mantenimiento, con la finalidad de prestar servicios públicos con niveles de calidad acordados y cobrar cuotas o tarifas pactadas a los usuarios de los mismos;
 
@@ -761,7 +763,7 @@ g. Los términos, condiciones, montos de las rentas, accesorios financieros y, e
 
 h. Los incentivos, en numerario o en especie, que el Inversionista Proveedor recibirá en su caso, de los Contratantes y cómo es que el valor, de éstos estímulos, disminuirá el impacto financiero a los contratantes y usuarios; y
 
-i. En caso de transmitir la propiedad de los bienes muebles e inmuebles de la Asociación Público Privada o de los proyectos que deriven de ésta, a los Contratantes, señalar los términos en los que se transmitirá a éstos o a un tercero designado por ellos; (sic)
+i. En caso de transmitir la propiedad de los bienes muebles e inmuebles de la Asociación Público Privada o de los proyectos que deriven de ésta, a los Contratantes, señalar los términos en los que se transmitirá a éstos o a un tercero designado por ellos;
 
 ###### Artículo 50.
 
@@ -1417,7 +1419,7 @@ IV.- El Ejecutivo del Estado de Hidalgo llevará a cabo la expropiación, median
 
 V.- El importe de la indemnización se fijará con base en el avalúo mencionado en el Artículo 109 de esta Ley;
 
-VI.- El decreto de expropiación se publicará en el Periódico Oficial del Estado y se notificará personalmente a los titulares de los inmuebles, bienes y derechos expropiados; (sic)
+VI.- El decreto de expropiación se publicará en el Periódico Oficial del Estado y se notificará personalmente a los titulares de los inmuebles, bienes y derechos expropiados;
 
 De ignorarse quienes son los titulares, su domicilio o localización, surtirá efectos de notificación personal una segunda publicación del decreto en el mismo Periódico Oficial del Estado. Entre la primera y segunda publicaciones deberán transcurrir no menos de cinco ni más de veinte días hábiles;
 
@@ -1958,3 +1960,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 419 QUE CONTIENE LA LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Asociaciones Público Privadas del Estado de Hidalgo.
+
+TERCERO. Los proyectos de inversión que a la fecha de entrada en vigor de esta Ley, se estuvieron integrando o ejecutando con base en los procedimientos establecidos por la Ley de Asociaciones Público Privadas del Estado de Hidalgo, podrán continuar basándose en dicho ordenamiento, o podrán sujetarse de manera parcial o total a los procedimientos e instrumentos establecidos en esta Ley, en cuyo caso podrán modificarse los contratos de largo plazo respectivos para reflejar los términos y condiciones de esta Ley.
