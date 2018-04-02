@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-a-los-animales-para-el-estado-de-22110"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-11"
-last_updated: "2016-12-29"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018 (ABROGADO).
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 11 de julio de 1988.
 
@@ -412,3 +414,13 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 549 POR EL QUE “SE EXPIDE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Protección a los Animales para el Estado de Michoacán de Ocampo, aprobada en el Palacio del Poder Legislativo, en Morelia, Michoacán de Ocampo, a los 23 días del mes de junio de 1988, a través del Decreto Legislativo número 156.
+
+TERCERO. La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial y los gobiernos municipales deberán establecer las sanciones administrativas en un plazo no mayor a sesenta días después de la publicación de la presente Ley.
