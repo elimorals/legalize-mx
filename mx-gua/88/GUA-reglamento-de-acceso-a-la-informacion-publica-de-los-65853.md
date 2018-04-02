@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-acceso-a-la-informacion-publica-de-los-65853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2008-12-29"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DE LOS PARTIDOS POLITICOS ESTATALES REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ACUERDO MEDIANTE EL CUAL SE ABROGA EL REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DE LOS PARTIDOS POLÍTICOS ESTATALES REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 2 DE ABRIL DE 2018.]</small>
+
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DE LOS PARTIDOS POLITICOS ESTATALES REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el lunes 29 de diciembre de 2008.
 
@@ -336,3 +338,11 @@ En la misma forma se procederá cuando no se encuentre a ninguna persona en el d
 ###### Artículo 28.
 
 El incumplimiento de las obligaciones establecidas en este Reglamento será sancionado en los términos que dispone el Código.
+
+P.O. 2 DE ABRIL DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Reglamento de Acceso a la Información Pública de los partidos políticos estatales registrados ante el Instituto Electoral del Estado de Guanajuato, por los motivos expuestos en el considerando 3 del presente acuerdo.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
