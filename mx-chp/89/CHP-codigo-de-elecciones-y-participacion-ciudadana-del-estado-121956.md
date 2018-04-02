@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2017-10-27"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE OCTUBRE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -7863,13 +7861,19 @@ La rotación de las presidencias de las Comisiones Permanentes a que se refiere 
 
 El Contralor General que se encuentre en funciones a partir de la vigencia del presente Decreto, continuará en el cargo por el periodo por el que fue designado.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Por única ocasión el Instituto de Elecciones y de Participación Ciudadana, organizará y celebrará las elecciones para la renovación de los Miembros de Ayuntamiento en el Municipio de Oxchuc, Chiapas; correspondientes al Proceso Electoral Local Ordinario 2017-2018, hasta en tanto, se obtengan los resultados finales del dictamen antropológico y en su caso, los de la consulta que fueron mandatadas por el Tribunal Electoral del Estado de Chiapas, mediante sentencia dictada en el Juicio para la Protección de los Derechos Político Electorales del Ciudadano, con número de expediente TEECH/JDC/019/2017 y acumulados.
+
 El Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
 
-Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de Mayo del año dos mil Diecisiete. D. P. C. Eduardo Ramirez Aguilar. D. S. C. Silvia Lilian Garcés Quiroz. Rúbricas.
+Dado en el Salón de Sesiones "Sergio Armando Valls Hernández" del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de Mayo del año dos mil Diecisiete. D. P. C. Eduardo Ramirez Aguilar. D. S. C. Silvia Lilian Garcés Quiroz. Rúbricas.
 
 De conformidad con la fracción I, del artículo 59 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 12 días del mes de junio del año dos mil diecisiete.
 
-Manuel Velasco Coello, Gobernador del Estado de Chiapas.– Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -7890,3 +7894,11 @@ La eliminación del financiamiento público a que hace referencia el presente De
 Artículo Tercero.- El Consejo Ciudadano a que hace referencia el párrafo 12 del artículo 52, del presente Código, será integrado conforme a los requisitos y procedimientos que establezca el Congreso del Estado.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 194 POR EL QUE SE ADICIONA EL ARTÍCULO DÉCIMO TERCERO TRANSITORIO AL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS, APROBADO MEDIANTE DECRETO NÚMERO 181, DE FECHA 18 DE MAYO DE 2017".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
