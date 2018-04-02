@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-premio-municipal-al-merito-deportivo-del-59386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-04"
-last_updated: "2008-02-04"
+last_updated: "2018-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "AGU"
 ---
 # REGLAMENTO DEL PREMIO MUNICIPAL AL MERITO DEPORTIVO DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA REFORMA AL REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES, AL REGLAMENTO DEL CONSEJO MUNICIPAL DE JUVENTUD DE AGUASCALIENTES Y AL REGLAMENTO PARA OTORGAR RECONOCIMIENTOS O DISTINCIONES EN EL MUNICIPIO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 REGLAMENTO DEL PREMIO MUNICIPAL AL MERITO DEPORTIVO DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -182,3 +186,13 @@ En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 24 d
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES, AL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES Y AL REGLAMENTO PARA OTORGAR RECONOCIMIENTOS O DISTINCIONES EN EL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas, iniciarán su vigencia el 1° de enero de 2019.
+
+SEGUNDO.- Se abroga el Reglamento del Premio Municipal al Mérito Deportivo del Municipio de Aguascalientes, Aguascalientes, publicado en el Periódico Oficial del Estado el 4 de febrero de 2008.
