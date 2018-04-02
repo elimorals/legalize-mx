@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-69609"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-10"
-last_updated: "2010-04-19"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
 
-LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
+LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de agosto de 2009.
 
@@ -473,15 +473,25 @@ IV.- Fomentar la participación social y económica;
 
 V.- Solicitar la asesoria de la Coordinación para la elaboración de Programas y proyectos estratégicos de desarrollo metropolitano;
 
-VI.- Informar al Consejo y a la Coordinación cuando sea requerido, sobre la aplicación de los planes, programas, proyectos, obras y acciones de desarrollo metropolitano; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
-VII.- Las demás que les señale esta Ley y otras disposiciones.
+VI.- Informar al Consejo y a la Coordinación cuando sea requerido, sobre la aplicación de los planes, programas, proyectos, obras y acciones de desarrollo metropolitano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2018)</small>
+
+VII.- Promover una adecuada y efectiva accesibilidad y movilidad que brinde facilidad de tránsito y desplazamiento para las personas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2018)</small>
+
+VIII.- Las demás que les señale esta Ley y otras disposiciones.
 
 ###### Artículo 26.
 
 Los Municipios de las zonas metropolitanas podrán participar en la elaboración de la Agenda, la cual entre otros abordará, de manera enunciativa y no limitativa los siguientes temas:
 
-a).- Transporte y Validad (sic);
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+a).- Vialidad, Tránsito y Transporte;
 
 b).- Agua y Drenaje;
 
@@ -491,9 +501,17 @@ d).- Asentamientos Humanos;
 
 e).- Medio Ambiente
 
-f).- Salud; y
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
-g).- Protección Civil.
+f).- Salud;
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+g).- Protección Civil; y
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+h) Accesibilidad y Movilidad.
 
 ### CAPÍTULO IV. DEL FONDO METROPOLITANO DEL ESTADO DE HIDALGO
 
@@ -574,3 +592,9 @@ P.O. 19 DE ABRIL DE 2010.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan toda las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 422 QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO Y A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo
