@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-de-cultura-fisica-y-deporte-del-103450"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-27"
-last_updated: "2014-10-27"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # REGLAMENTO DEL CONSEJO DE CULTURA FISICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 octubre de 2014.
 
@@ -69,7 +71,7 @@ TRANSITORIOS:
 
 d) Iniciativa de creación del "Reglamento del Consejo de Cultura Física y Deporte del Municipio de Aguascalientes, como a continuación se detalla:
 
-REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO·DE AGUASCALIENTES
+REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -337,9 +339,11 @@ Los que en calidad de invitados asistan a las sesiones del Consejo, únicamente 
 
 Con el propósito de reconocer y estimular el desempeño, logros y trayectoria de los Ciudadanos y agrupaciones del Municipio en cualquier ámbito de la cultura física y el deporte, se instituye el Premio, como el máximo galardón que el H. Ayuntamiento otorga en estas materias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-Para poder llevar a cabo el Premio, el Consejo emitirá una convocatoria de acuerdo al presente Reglamento, misma que se dará a conocer a más tardar el día primero de septiembre de cada año, y que por lo menos deberá contener tos elementos siguientes:
+Para poder llevar a cabo el Premio, el Consejo emitirá una convocatoria de acuerdo al presente Reglamento, misma que se dará a conocer a más tardar el día primero de febrero de cada año, y que por lo menos deberá contener los elementos siguientes:
 
 I. Título que diga "CONVOCATORIA", y enseguida el nombre de la misma;
 
@@ -401,9 +405,11 @@ La responsabilidad de analizar y decidir qué ciudadanos y agrupaciones de las q
 
 Dentro de las 24 horas posteriores a lo señalado en el párrafo anterior, el dictamen se turnará a la Comisión.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-La Comisión remitirá el dictamen del Consejo a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para efecto de que se incluya en el proyecto del orden del día de la Sesión Solemne de Cabildo del 22 de octubre de cada año.
+La Comisión remitirá el dictamen del Consejo a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para efecto de que se dé a conocer al honorable Cabildo y éste fije el día, hora y lugar en que se realizará la entrega formal del Premio, lo cual deberá ocurrir durante el mes de marzo de cada año, debiéndose comunicar a la Secretaría de Desarrollo Social para los efectos de lo previsto en el artículo 36 de este Reglamento.
 
 ###### ARTÍCULO 29.
 
@@ -419,9 +425,11 @@ IV.- Como deportista o entrenador, estar inscrito en el Registro Municipal o Est
 
 V.- Presentar el aval de su Agrupación.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-Las notificaciones de los premios se darán a conocer a los ganadores con un mínimo de 72 horas previas a la celebración de la Sesión Solemne de Cabildo, mediante oficio girado por el Secretario. Al mismo tiempo, se darán a conocer de manera pública, a través de los medios de comunicación locales, con la periodicidad y en la forma que para ello se determine.
+Las notificaciones de los premios se darán a conocer a los ganadores con un mínimo de 72 horas previas a la fecha en que se realizará la entrega formal del Premio, mediante oficio girado por el Secretario. Al mismo tiempo, se darán a conocer de manera pública, a través de los medios de comunicación locales, con la periodicidad y en la forma que para ello se determine.
 
 ###### ARTÍCULO 31.
 
@@ -455,11 +463,13 @@ En caso de que en alguna o algunas categorías no se reciban propuestas, el Cons
 
 ###### ARTÍCULO 35.
 
-El Premio se entregará anualmente el 22 de octubre dentro de la Sesión Solemne de Cabildo, con motivo del Aniversario de la Fundación de la Ciudad de Aguascalientes.
+(DEROGADO, P.O. 2 DE ABRIL DE 2018)
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
-La Secretaría de Desarrollo Social se coordinará con la Secretaria del H. Ayuntamiento y Dirección General de Gobierno en la logística de la entrega del Premio.
+La Secretaría de Desarrollo Social coordinará la logística de la entrega del Premio.
 
 ### CAPÍTULO V. De los Medios de Impugnación en contra de las Resoluciones del Consejo
 
@@ -522,3 +532,13 @@ Lo anterior para el conocimiento de la ciudadanía. Dado en el salón de Cabildo
 Ing. Juan Antonio Martín del Campo Martín del Campo, Presidente Municipal; Regidores: Salvador Pérez Sánchez, José Refugio Muñoz de Luna, Iván Alejandro Sánchez Nájera, Carmen Lucía Franco Ruiz Esparza, Ernesto Saúl Jiménez Colombo, Verónica Ramírez Luna, Jesús Alberto Rodríguez Flores, Federico Domínguez Ibarra, Norma Fabiola Aragón Leal, Arturo Fernández Estrada, Edith Yuriana Reyes Pedroza, David Mendoza Vargas, Eric Bethaud Reyes, Xóchitl Acenet Casillas Camacho; Síndico de Hacienda, Ma. del Refugio López Rodríguez; Síndico Procurador, José de Jesús Santana García; Secretario del H. Ayuntamiento y Director General de Gobierno, Lic. Manuel Cortina Reynoso.- Rúbricas.
 
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 20 de octubre del 2014, de conformidad con los Artículos 77 y 107 fracción XI del Código Municipal de Aguascalientes, Lic. Manuel Cortina Reynoso. El Secretario del H. Ayuntamiento y Director General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO DEL CONSEJO DE CULTURA FÍSICA Y DEPORTE DEL MUNICIPIO DE AGUASCALIENTES, AL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES Y AL REGLAMENTO PARA OTORGAR RECONOCIMIENTOS O DISTINCIONES EN EL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas, iniciarán su vigencia el 1º de enero de 2019.
+
+SEGUNDO.- Se abroga el Reglamento del Premio Municipal al Mérito Deportivo del Municipio de Aguascalientes, Aguascalientes, publicado en el Periódico Oficial del Estado el 4 de febrero de 2008.
