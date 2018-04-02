@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-03-19"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -27369,11 +27369,13 @@ P.O. 24 DE OCTUBRE DE 2016.
 
 P.O. 26 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LAS “REFORMAS A LOS ARTÍCULOS 12, 21 Y 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 12, 21 Y 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con acepción a la reforma establecida en el Artículo 31, por lo que dicho Informe Anual de Gobierno se deberá rendir en el mes de octubre a partir del año 2019.
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción a la reforma establecida en el Artículo 31, por lo que dicho Informe Anual de Gobierno se deberá rendir a más tardar en el mes de septiembre a partir del año 2018.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -27580,6 +27582,12 @@ P.O. 19 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 1238 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
