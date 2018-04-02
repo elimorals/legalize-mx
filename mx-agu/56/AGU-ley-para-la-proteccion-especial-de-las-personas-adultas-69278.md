@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2015-07-27"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -51,7 +51,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Alteración: Cualquier cambio que se produzca en el organismo humano;
 
-II. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+II. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva en la medida de sus capacidades;
 
 III. Atención Integral: satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres y preferencias;
 
@@ -81,9 +83,29 @@ XV. Ley: La Ley para la Protección Especial de los Adultos Mayores del Estado d
 
 XVI. Limitación: La reducción de las funciones orgánicas del cuerpo humano;
 
-XVII. Persona adulta mayor: Es toda persona física cuya edad comprenda los sesenta años en adelante; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
-XVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales.
+XVII. Persona adulta mayor: Es toda persona física cuya edad comprenda los sesenta años en adelante. De acuerdo a su grado de vulnerabilidad, las personas adultas mayores se clasifican de la siguiente manera:
+
+a) Adulto mayor independiente: Aquella persona apta para desarrollar actividades básicas e instrumentadas de la vida diaria sin ayuda permanente o parcial;
+
+b) Adulto mayor temporalmente dependiente: Aquel que de manera temporal se encuentra limitado en sus actividades física y/o mentales;
+
+c) Adulto mayor parcialmente dependiente: Adulto con dependencia leve que requiere asistencia de manera permanente en sus actividades;
+
+d) Adulto mayor totalmente dependiente: Adulto mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
+
+e) Adulto mayor en situación de riesgo o desamparo: Adulto con problemas de salud, abandono o carencia de apoyos económicos o familiares que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
+
+Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+XVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+XIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a personas en edad productiva, que tienen por objeto promover, fomentar, impulsar y consolidar políticas que generen las previsiones necesarias para que al llegar a los sesenta años mantengan su calidad de vida en lo económico, social, familiar, cultural y de salud, que les asegure su bienestar, estabilidad y vida digna.
 
 ###### ARTÍCULO 3°.
 
@@ -113,9 +135,33 @@ III. Equidad: Es el trato justo en las condiciones de acceso y disfrute de los s
 
 IV. Corresponsabilidad: La concurrencia y responsabilidad compartida del sector público y social, en especial de las familias, para la consecución del objeto de esta Ley;
 
-V. Atención diferenciada: Aquella que obliga a las autoridades del gobierno del Estado y Municipios a implementar acciones y programas acordes a las diferentes etapas, características, y requerimientos de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
-VI. Atención preferente: Es aquella que obliga a toda institución pública, social, privada y a la propia familia a implementar acciones y programas preferentes en beneficio de las personas adultas mayores, en igualdad de circunstancias frente a otras personas y de acuerdo a las condiciones y requerimientos que presenten, y para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad.
+V. Atención Diferenciada: Aquella que obliga a las autoridades del gobierno del Estado y Municipios a implementar acciones y programas acordes a las diferentes etapas, características, y requerimientos de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+VI. Atención preferente: Es aquella que obliga a toda institución pública, social, privada y a la propia familia a implementar acciones y programas preferentes en beneficio de las personas adultas mayores, en igualdad de circunstancias frente a otras personas y de acuerdo a las condiciones y requerimientos que presenten, y para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+VII. Participación: En todos los casos de la vida pública, en especial a lo relativo a los aspectos que les atañen, deberán ser consultados y tomados en cuenta;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+VIII. Previsión: Acción a realizar cuando la persona aún no llega a la etapa de adulto mayor, para prever y contar con lo necesario para resolver sus necesidades futuras;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+IX.- Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+X. Protección al patrimonio del adulto mayor: Conjunto de medidas legales para proteger el patrimonio de los adultos mayores que por razones de edad y enfermedades degenerativas son vulnerables y se sitúan en una posición de riesgo de abuso de sus derechos patrimoniales; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+XI. Asistencia legal prioritaria: Aquella que se proporciona de forma gratuita especializada por parte del Estado para los adultos mayores que estén catalogados como vulnerables.
 
 ### CAPÍTULO II. De los Derechos
 
@@ -125,13 +171,19 @@ La presente Ley reconoce como derechos de las personas adultas mayores, independ
 
 I. De la integridad, dignidad y preferencia:
 
-A) A una vida libre, sin violencia, maltrato físico o mental, discriminación, con la finalidad de asegurarle respeto a su integridad física y psicoemocional;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+A) A una vida de calidad, libre de violencia, maltrato físico, psicológico, económico, sexual o de abandono, discriminación, con la finalidad de asegurarle respeto a su integridad física, psicológica y afectiva;
 
 B) A la protección contra toda forma de explotación;
 
-C) A recibir protección por parte de la familia y de las instituciones estatales y municipales;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
-D) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, entre estos elegir su lugar de residencia, preferentemente cerca de sus familiares;
+C) A recibir protección por parte de la familia y de las instituciones estatales y municipales de manera preferente, para mejorar progresivamente las capacidades que le faciliten el ejercicio de sus derechos en condiciones de igualdad.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+D) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, preferentemente cerca de sus familiares. Pudiendo elegir su lugar de residencia, mantener relaciones personales y contacto directo con su familia en caso de estar separados, salvo si ello es contrario a sus intereses y/o bienestar.
 
 E) A contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento, tomando en consideración sus necesidades y requerimientos;
 
@@ -145,21 +197,37 @@ A) A recibir un trato digno y apropiado en cualquier procedimiento judicial que 
 
 B) A recibir el apoyo de las instituciones estatales y municipales en el ejercicio y respeto de sus derechos;
 
-C) A recibir asesoría jurídica en forma gratuita en los procedimientos administrativos o judiciales en que sea parte, y contar con un representante legal cuando lo considere necesario;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
-D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia.
+C) A recibir asesoría jurídica por parte de personal capacitado en atención a adultos mayores de forma gratuita en los procedimientos administrativos o judiciales en que sea parte, y contar con un representante legal cuando lo considere necesario;
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+D) En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su integridad física, psicológica, de su patrimonio personal, familiar y, cuando sea el caso, testar sin presiones ni violencia;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+E) A recibir un trato digno y apropiado cuando sean víctimas o ellos mismos cometan cualquier tipo de ilícito o infracción. En todo caso, recibirá apoyo y asesoría de las Instancias especializadas en la atención integral a las personas adultas mayores, según el ámbito de su competencia, de las Procuradurías competentes y de la Comisión Estatal de los Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+F) En los procedimientos Judiciales, cuando el Juez advierta alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a la justicia del adulto mayor, de manera oficiosa solicitará al Consejo de Tutelas y de aquellas dependencias especializadas en la atención al adulto mayor, se le brinde la atención necesaria, e incluso el acompañamiento profesional en el procedimiento cuando así se requiera.
 
 III. De la salud, la alimentación y la familia:
 
 A) A tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas o materiales para su atención integral, en especial las que prestan las instituciones del Sistema Estatal de Salud;
 
-B) A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente del derecho a su bienestar físico, mental y psicoemocional;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+B) A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, el párrafo décimo primero Artículo 6o de la Constitución Política del Estado de Aguascalientes con el objeto de que gocen cabalmente del derecho a su bienestar físico, mental, psicológico, afectivo y sexual, para obtener un mejoramiento en su calidad de vida y la prolongación de esta;
 
 C) A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
 
 D) Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la edad adulta;
 
-E) Recibir una atención médica integral con calidad a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+E) Recibir una atención médica integral con calidad, especializada en atención al adulto mayor, desde el primero y hasta el tercer nivel de atención a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
 
 F) Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz; y
 
@@ -167,7 +235,9 @@ G) Contar con una cartilla médica única para el control de su salud;
 
 IV. De la educación:
 
-A) A recibir de manera preferente el derecho a la educación que señala el Artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el Artículo 21 de esta Ley; y
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+A) A recibir de manera preferente del (sic) derecho a la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el artículo 21 de esta Ley; y
 
 B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y los adultos mayores.
 
@@ -179,7 +249,9 @@ B) A formar parte de las bolsas de trabajo de las instituciones oficiales y part
 
 C) A recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad; y
 
-D) Acceder a las oportunidades de empleo que promuevan las instituciones oficiales o los particulares.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+D) Acceder a las oportunidades de empleo que promuevan a (sic) las instituciones oficiales o los particulares, en instalaciones que garanticen su seguridad e integridad personal;
 
 VI. De la asistencia social:
 
@@ -231,7 +303,9 @@ III. Conocer los derechos de las personas adultas mayores previstos en la presen
 
 IV. Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o cualquier otro que ponga en riesgo la persona, bienes o derechos del adulto mayor;
 
-V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraría del adulto mayor o exista prescripción del personal de la salud;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción del personal de la salud, en cuyo caso los familiares dentro del Cuarto grado deberán proporcionar los recursos económicos necesarios para garantizarles la estancia digna;
 
 VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
 
@@ -239,9 +313,11 @@ VII. Gestionar ante las instancias públicas y privadas el reconocimiento y resp
 
 VIII. Contribuir a que se mantengan productivos y socialmente integrados.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 8°.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, deberá instituir acciones y programas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
+El Sistema para el Desarrollo Integral de la Familia del Estado, deberá instituir acciones y programas de previsión, prevención y provisión para que la familia participe en la atención de las personas adultas mayores y dar preferencia a las que están en situación de riesgo o desamparo.
 
 ### CAPÍTULO II. De la Sociedad
 
@@ -513,7 +589,9 @@ I. Promover su contratación, conforme a su oficio, habilidad o profesión, sin 
 
 II. Fomentar la creación de organizaciones productivas de adultos mayores;
 
-III. Capacitar a los adultos mayores, para que adquieran conocimientos y destrezas en actividades productivas;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+III. Capacitar a los adultos mayores, para que adquieran conocimientos y destrezas en actividades productivas en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Aguascalientes y las demás instancias federales, estatales y municipales;
 
 IV. Organizar una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por los adultos mayores y orientarles para que presenten ofertas de trabajo;
 
@@ -561,7 +639,9 @@ III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado en materia de adultos mayores:
 
-I. Proporcionar sin costo servicios de atención, asesoría y representación jurídica, a las personas adultas mayores, a efecto de salvaguardar sus derechos, bienes y posesiones y así evitar cualquier acto que ponga en riesgo su integridad y la de sus familias;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+
+I. Proporcionar sin costo servicios de atención asesoría y representación jurídica, a las personas adultas mayores, a efecto de salvaguardar sus derechos, bienes y posesiones y así evitar cualquier acto de maltrato físico o psicológico que ponga en riesgo su integridad personal y la de sus familias;
 
 II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar, casas de día o albergarlos temporal o definitivamente en instituciones que garanticen su atención integral;
 
@@ -575,9 +655,17 @@ V. Promover, mediante la vía conciliatoria, la solución a la problemática fam
 
 VI. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, discriminación y, en general, cualquier acto que perjudique a los adultos mayores;
 
-VII. Implementar acciones para garantizar la cobertura en materia alimentaría para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
-VIII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+VII. Implementar acciones para garantizar la cobertura en materia alimentaria para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2018)</small>
+
+VIII. Proporcionar orientación psicológica para los adultos mayores que sean víctimas de abuso o maltrato; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2018)</small>
+
+IX. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO XIV. De la Secretaría de Finanzas
 
@@ -599,7 +687,25 @@ VI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las
 
 VII. Las demás qué le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
+### CAPÍTULO XV. De las Dependencias y Entidades del Gobierno del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 29 A.- Corresponden a las dependencias y entidades del Gobierno del Estado de Aguascalientes, de manera enunciativa más no limitativa, en materia de personas adultas mayores las siguientes facultades:
+
+I. Fomentar entre la población y el personal adscrito a cada una de las dependencias y entidades la cultura de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
+
+II. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+
+III. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones y programas que la Administración Pública Estatal y las Administraciones Municipales emprendan para la atención de las personas adultas mayores;
+
+IV. Proponer la realización de estudios en el área de su competencia que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
+
+V. Establecer ventanillas de atención preferente para las personas adultas mayores, en las gestiones que éstas realicen;
+
+VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores; y
+
+VII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
 
 ###### ARTÍCULO 28.
 
@@ -611,7 +717,7 @@ II. Promover la participación de los adultos mayores en la formulación y revis
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO ÚNICO. De la Asistencia Social
+### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
 
 ###### ARTÍCULO 29.
 
@@ -621,11 +727,13 @@ I. Instituir acciones y programas de estímulos fiscales entre los Sectores prod
 
 II. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO I. De las Infracciones y Sanciones
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO ÚNICO. De la Asistencia Social
 
 ## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
 
-### CAPÍTULO II. De los Servidores Públicos
+### CAPÍTULO I. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 30.
 
@@ -751,7 +859,7 @@ VI. Cumplir las encomiendas resultado de los acuerdos del Consejo.
 
 ## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
-### CAPÍTULO III. Del Procedimiento
+### CAPÍTULO II. De los Servidores Públicos
 
 ###### ARTÍCULO 37.
 
@@ -777,9 +885,19 @@ VIII. Rendir un informe mensual al Consejo Estatal de Salud para la atención de
 
 Todas las instituciones públicas, privadas y sociales que presten asistencia a los adultos mayores, deberán contar con personal que posea, aptitud y conocimientos orientados a las necesidades y requerimientos de atención de éstos.
 
-### CAPÍTULO IV. Del Recurso de Revisión
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+Así mismo, deberán implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones; así como mecanismos para la atención inmediata, como ventanillas o filas especiales, que deberán estar adecuadamente señalados para su fácil identificación.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 38 A.- La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
+
+### CAPÍTULO III. Del Procedimiento
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO IV. Del Recurso de Revisión
 
 ###### ARTÍCULO 39.
 
@@ -976,3 +1094,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 254.- SE REFORMA Y ADICIONA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
