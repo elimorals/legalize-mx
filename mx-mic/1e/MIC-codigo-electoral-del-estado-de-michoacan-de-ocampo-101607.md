@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2017-06-01"
+last_updated: "2018-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -3115,9 +3115,35 @@ c) Cargo para el cual se le postula;
 
 d) Ocupación;
 
-e) Folio, clave y año de registro de la credencial para votar; y,
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+e) Folio, clave y año de registro de la credencial para votar;
 
 f) La plataforma electoral que sostendrán a lo largo de las campañas políticas;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+g) Declaración patrimonial: Contendrá los bienes del candidato, a su nombre, los de sus dependientes económicos y los de su cónyuge siempre y cuando hayan contraído matrimonio bajo el régimen de sociedad conyugal;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+h) Declaración de intereses: Deberá manifestar aquellas actividades o relaciones que puedan entrar en conflicto con el desempeño responsable y objetivo de las facultades y obligaciones del cargo al cual aspira;
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+i) Declaración de situación fiscal emitida por la autoridad fiscal correspondiente; y,
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+j) Cartas de no antecedentes penales, expedidas por la Procuraduría General de Justicia del Estado y la Procuraduría General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+El Instituto expedirá los formatos físicos o electrónicos bajo los cuales el candidato deberá presentar su declaración de situación patrimonial, de intereses y fiscal, mismos que serán homologables a lo que expida el Sistema Estatal Anticorrupción y resguardados con los criterios que dicha Ley señala.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+
+La información relativa a la situación patrimonial, de intereses y fiscal, será pública y accesible a cualquier persona, con las reservas que la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Michoacán de Ocampo señala.
 
 III. La firma de los funcionarios autorizados, por los estatutos, del partido político o por el convenio de la coalición postulante; y,
 
@@ -5348,3 +5374,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
+
+P.O. 2 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 551 POR EL QUE "SE REFORMA EL ARTÍCULO 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y de conformidad con lo establecido en el artículo 105 fracción II, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
