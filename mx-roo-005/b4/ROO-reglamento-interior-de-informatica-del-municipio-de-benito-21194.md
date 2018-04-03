@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-informatica-del-municipio-de-benito-2119
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-04-30"
-last_updated: "2001-04-30"
+last_updated: "2018-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE INFORMATICA DEL MUNICIPIO DE BENITO JUAREZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, PUBLICADO EN EL P.O. DE 3 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE INFORMÁTICA DEL MUNICIPIO DE BENITO JUÁREZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en el Número 8 del Periódico Oficial del Estado de Quintana Roo, el lunes 30 de abril de 2001.
 
@@ -247,7 +249,7 @@ Concluida la lectura, la C. Presidente Municipal ofreció la Tribuna al pleno a 
 
 Séptimo. ----------------------------------------------------------
 
-Octavo·------------------------------------------------------------
+Octavo•------------------------------------------------------------
 
 Noveno. ----------------------------------------------------------
 
@@ -264,3 +266,15 @@ CIUDAD CANCÚN, QUINTANA ROO A 5 DÍAS DEL MES DE ABRIL DEL DOS MIL UNO.
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 PROFR. EDUARDO JOSE PATRON AZUETA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 16-18/127, EN EL QUE SE APRUEBA EL DICTAMEN DE LAS COMISIÓNES UNIDAS DE HACIENDA, PATRIMONIO Y CUENTA, Y DE REGLAMENTACIÓN MUNICIPAL, RELATIVO A LA INICIATIVA POR LA QUE SE ABROGA EL REGLAMENTO INTERIOR DE INFORMÁTICA DEL MUNICIPIO DE BENITO JUÁREZ; Y SE EXPIDE UNO NUEVO DENOMINADO REGLAMENTO DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de Informática del Municipio de Benito Juárez, Quintana Roo.
+
+Tercero.- Remítase el presente Dictamen al Secretario General del Ayuntamiento, para los efectos legales conducentes.
