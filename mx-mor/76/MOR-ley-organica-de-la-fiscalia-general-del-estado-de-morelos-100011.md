@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2018-02-15"
+last_updated: "2018-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -1637,9 +1637,9 @@ CUARTA. Dentro de un plazo de ciento ochenta días hábiles, contados a partir d
 
 P.O. 15 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL QUINIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
 
-PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
@@ -1675,6 +1675,40 @@ DÉCIMA SÉPTIMA. Las funciones, facultades, derechos y obligaciones establecido
 
 DÉCIMA OCTAVA. A la entrada en vigor del presente decreto, los Magistrados Supernumerarios que se encuentren desempeñando sus funciones adquirirán el carácter de Magistrados Numerarios, previa ratificación que realice el Congreso del Estado de Morelos.
 
-DÉCIMA NOVENA. Dentro de los 60 días siguientes a la aprobación del presente decreto, el Congreso del Estado deberá emitir convocatoria pública para nombrar al Magistrado visitador que habrá de auxiliar al Pleno del Tribunal en la función de fincamiento de responsabilidades administrativas.
+DÉCIMA NOVENA. (DEROGADA POR DISPOSICIÓN TRANSITORIA OCTAVA DEL DECRETO NÚMERO DOS MIL SEISCIENTOS ONCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS CON EL PROPÓSITO DE FORTALECER AL PODER JUDICIAL DEL ESTADO, P.O. 4 DE ABRIL DE 2018)
 
 VIGÉSIMA. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 4 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL SEISCIENTOS ONCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS CON EL PROPÓSITO DE FORTALECER AL PODER JUDICIAL DEL ESTADO".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El Congreso del Estado contará con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas necesarias.
+
+CUARTA. De conformidad con el régimen transitorio de las reformas constitucionales aprobadas en sesión de la LIII Legislatura del Congreso del Estado, el 15 de diciembre de 2017, los recursos humanos, materiales y financieros, así como el acervo documental que se le hubiera transferido al Tribunal Superior de Justicia por parte del Consejo de la Judicatura, pasarán a formar parte de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado.
+
+Así mismo, los asuntos que se encuentren en proceso continuarán tramitándose en los términos de las Leyes aplicables, hasta su conclusión en lo que no contravengan este Decreto, por parte de la referida Junta de Administración, Vigilancia y Disciplina.
+
+QUINTA. Dada la extinción del Consejo de la Judicatura, así como las reformas contenidas en el presente Decreto, a fin de evitar interpretaciones incorrectas del marco jurídico vigente, las menciones que en otros ordenamientos se hagan del Consejo de la Judicatura y de los Consejeros del mismo, se entenderán referidas a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial o a sus integrantes, respectivamente; sin que ello implique identidad entre dichos órganos ni sustitución alguna.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo del Consejo de la Judicatura del Tribunal Superior de Justicia en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, de acuerdo con las atribuciones que mediante la presente reforma se le otorgan.
+
+SEXTA. La Sala Especializada en Justicia Penal para Adolescentes y los Juzgados Especializados, subsistiendo como órganos jurisdiccionales, quedarán formalmente constituidos como Tribunal Unitario de Justicia Penal para Adolescentes y Juzgados Especializados, una vez que entren en vigor las presentes reformas, por lo que los asuntos que se encuentren en trámite o en proceso, continuarán tramitándose por el referido Tribunal y los mencionados Juzgados Especializados, según sea el caso, en los términos que establezcan la legislación aplicable, hasta su conclusión.
+
+La Magistrada y su suplente que hasta la entrada en vigor de este Decreto lo eran de la Sala Especializada en Justicia Penal para Adolescentes, continuarán desempeñando el cargo respectivo ahora en Tribunal Unitario de Justicia Penal para Adolescentes y Juzgados Especializados, hasta la conclusión del término para el que fueron originalmente designadas.
+
+SÉPTIMA. Se derogan las disposiciones legales derivadas de las reformas al Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 5578, de 15 quince de febrero de 2018
+
+OCTAVA. Se deroga la disposición transitoria Décima Novena del el (sic) Decreto número Dos Mil Quinientos Ochenta y Nueve, por lo (sic) que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, de la Ley Orgánica del Tribunal de Justicia Administrativa y la Ley Orgánica de la Fiscalía General del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 5578, de 15 quince de febrero de 2018.
+
+NOVENA. El Congreso del Estado hará las adecuaciones presupuestales a que haya lugar, vigilando las disposiciones jurídicas aplicables, en especial, aquellas en materia de disciplina financiera, así como de presupuesto y gasto público.
+
+DÉCIMA. Los efectos del régimen transitorio de las reformas constitucionales publicadas en el Periódico Oficial "Tierra y Libertad" número 5578 de fecha 15 de febrero del presente año, dadas en cumplimiento a lo dispuesto por (sic) transitorio segundo del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral, quedan supeditados a la reforma legal secundaria que se apruebe por el Congreso de la Unión.
+
+DÉCIMA SEGUNDA (SIC). En respeto irrestricto a la no retroactividad de la ley, el actual Fiscal Especializado en Combate a la Corrupción, continuará desempeñando su cargo en las condiciones en las que lo ha hecho hasta ahora y podrá cumplir con la temporalidad que establece su nombramiento.
+
+DÉCIMA TERCERA. Una vez que haya concluido la prohibición para realizar modificaciones en materia electoral por lo menos noventa días antes de que inicie el proceso electoral que establece el artículo 115 fracción II de la Constitución Federal, o bien hasta que se haya resuelto el último recurso de impugnación, el Congreso del Estado de Morelos deberá realizar las adecuaciones necesarias al artículo 26 de la Constitución Política del Estado Libre y Soberano de Morelos, para establecer que los magistrados especializados serán únicamente magistrados. Mientras se realiza la modificación antes mencionada, se entenderá para todos los efectos conducentes que, por Magistrados Especializados, se referirá al Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes.
