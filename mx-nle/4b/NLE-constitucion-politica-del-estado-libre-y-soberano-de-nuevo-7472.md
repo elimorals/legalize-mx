@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2018-01-22"
+last_updated: "2018-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1077,6 +1077,8 @@ XLI.- Formular las leyes que reglamenten los Artículos de esta Constitución, i
 
 XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas y los servicios públicos con que cuenta.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚM. 361 PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2018, SE ADVIERTE QUE PARA DETERMINAR LA POSICIÓN DE LOS PÁRRAFOS QUE INTEGRAN ESTA FRACCIÓN, SE SUGIERE CONSULTAR SU CRONOLOGÍA DE REFORMAS.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, 13 DE OCTUBRE DE 2000)</small>
 
 XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan las relaciones de trabajo entre el Estado, los Municipios o las entidades paraestatales y sus trabajadores, así como las prestaciones de seguridad social de dichos trabajadores.
@@ -1112,6 +1114,14 @@ La seguridad social de los servidores públicos se organizará conforme a las le
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 Las controversias del Estado, los Municipios o las entidades paraestatales y sus trabajadores, sean de naturaleza individual o colectiva y los conflictos intersindicales, serán competencia de los Tribunales de Arbitraje.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2018)</small>
+
+En el ámbito privado, la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de los Juzgados Laborales del Poder Judicial del Estado, conforme al procedimiento que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2018)</small>
+
+Antes de acudir a los Juzgados Laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente, en términos de lo que determine la ley que para tal efecto se expida.
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -1993,7 +2003,7 @@ Al Ejecutivo corresponde:
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-l.- Proteger la seguridad de las personas y sus bienes, así como los derechos humanos del individuo, a efecto de mantener la paz, tranquilidad y el orden público en todo el Estado;
+I.- Proteger la seguridad de las personas y sus bienes, así como los derechos humanos del individuo, a efecto de mantener la paz, tranquilidad y el orden público en todo el Estado;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2061,7 +2071,9 @@ XX.- Someter a la aprobación del Congreso del Estado, las propuestas que le pre
 
 XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
 
-XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2018)</small>
+
+XXII.- Proponer al Congreso del Estado, mediante la presentación de la iniciativa correspondiente, la creación del organismo público descentralizado, especializado e imparcial, que contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, que tendrá como objeto constituirse en la instancia conciliatoria, entre los trabajadores y los patrones, antes de acudir a los juzgados laborales. La Ley establecerá su integración y funcionamiento. El Ejecutivo del Estado designará al titular del organismo conciliador de entre una terna que le presenten las organizaciones patronales y sindicales que conforman el sector productivo, quien deberá acreditar amplios y reconocidos conocimientos en materia laboral, además de cumplir con los requisitos que establezca la Ley.
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
@@ -2313,11 +2325,23 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ABRIL DE 2018)</small>
 
 ###### Art. 94.
 
-Al Poder Judicial corresponde la jurisdicción local en las materias de control de la constitucionalidad local, civil, familiar, penal y de adolescentes infractores. También garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que estas autoricen la jurisdicción concurrente.
+Al Poder Judicial corresponde la jurisdicción local en las materias de:
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2018)</small>
+
+I. Control de la constitucionalidad local en los términos que señale la ley correspondiente; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2018)</small>
+
+II. Civil, familiar, penal, laboral y de adolescentes infractores.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2018)</small>
+
+También garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que estas autoricen la jurisdicción concurrente.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -4405,7 +4429,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -4837,7 +4861,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -5296,3 +5320,19 @@ Tercero.- El otorgamiento y pago del haber de retiro a que se refiere el artícu
 Cuarto.- El Poder Judicial del Estado tomará las previsiones presupuestarias necesarias para pagar el haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial a quienes tengan derecho; para lo cual, podrá manejar los recursos respectivos a través de un fondo o fideicomiso, los cuales deberán incluirse en una partida especial, dentro del presupuesto anual.
 
 Quinto.- En caso de que algún Magistrado del Tribunal Superior de Justicia ratificado en términos Constitucionales, después de su retiro, llegare a ocupar algún otro empleo, cargo o comisión de cualquier naturaleza en alguna institución o dependencia pública de carácter estatal en Nuevo León, se le suspenderá temporalmente el pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial. El periodo de la suspensión comprenderá solamente el tiempo de ejercicio en el diverso cargo público y no deberá computarse para efectos de su otorgamiento en los términos de ley.
+
+P.O. 4 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 361. SE REFORMA POR ADICIÓN DE LOS PÁRRAFOS NOVENO Y DÉCIMO A LA FRACCIÓN XLIII DEL ARTÍCULO 63; LA FRACCIÓN XXII DEL ARTÍCULO 85 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 94 ADICIONÁNDOSE LAS FRACCIONES I, II, Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado, tendrá un plazo de 180 días a partir de la publicación en el Diario Oficial de la Federación de las reformas secundarias federales para realizar las correspondientes a este Decreto.
+
+Tercero.- En tanto se instituyen e inicia operaciones el Tribunal Local Laboral, así como los Centros Estatales de Conciliación Laboral a que se refiere el presente decreto, las Juntas Locales de Conciliación y Arbitraje seguirán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo; así como sobre el registro de los contratos colectivos de trabajo y de las organizaciones sindicales.
+
+Cuarto.- Los servidores públicos de base que se encuentren prestando sus servicios en la Junta Local de Conciliación y Arbitraje a la entrada en vigor del presente decreto podrán solicitar la reasignación de su plaza al Poder Judicial del Estado o a los Centros Estatal de Conciliación Laboral, conservando los derechos laborales que les correspondan, preservando su antigüedad en los términos de la normatividad aplicable siempre que atiendan el sistema de carrera judicial que la Constitución Política del Estado y la Ley Orgánica del Poder Judicial del Estado contempla.
+
+Quinto.- Las autoridades competentes y las Juntas de Conciliación y Arbitraje, seguirán conociendo los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo hasta su total conclusión o baja. Conforme a la estrategia de conclusión del sistema que se determine.
+
+Sexto.- La Secretaría de Finanzas y Tesorería General del Estado, en el Presupuesto de Egresos de cada año destinará los recursos materiales y presupuestales necesarios para la operación del Centro Estatal de Conciliación Laboral y deberá ajustar el Presupuesto del Poder Judicial del Estado para la Operación del Tribunal Local Laboral.
