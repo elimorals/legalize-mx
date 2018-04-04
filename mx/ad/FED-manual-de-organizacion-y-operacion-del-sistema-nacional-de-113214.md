@@ -4,7 +4,7 @@ identifier: "FED-manual-de-organizacion-y-operacion-del-sistema-nacional-de-1132
 country: "mx"
 rank: "manual"
 publication_date: "2016-03-03"
-last_updated: "2016-03-03"
+last_updated: "2018-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113214&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-02"
 
 MANUAL DE ORGANIZACIÓN Y OPERACIÓN DEL SISTEMA NACIONAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2018.
 
 Manual publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de marzo de 2016.
 
@@ -61,9 +61,11 @@ El presente Manual podrá ser modificado a propuesta, motivada y fundada, de la 
 
 Los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional son vinculantes para todos sus integrantes; para asegurar su implementación se buscará la participación de las instituciones públicas o privadas, nacionales e internacionales, organismos públicos autónomos invitados del Sistema, así como la sociedad civil y de niñas, niños y adolescentes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 3.
 
-Además de las definiciones establecidas en la multicitada Ley y su Reglamento, se entenderá por:
+Además de las definiciones establecidas en la multicitada Ley y su Reglamento, para efectos del presente Manual de Organización y Operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, se entenderá por:
 
 I. Autoridades federales: los órganos de gobierno con potestad de mando cuya competencia se centra en el ámbito federal, a saber el Poder Ejecutivo Federal, el Poder Legislativo Federal y el Poder Judicial Federal;
 
@@ -71,7 +73,9 @@ II. Autoridades locales: los órganos de gobierno con potestad de mando cuya com
 
 III. Comisiones: Las Comisiones a que hace referencia el artículo 129 de la Ley;
 
-IV. Comisión especializada: El grupo de 32 personas expertas del ámbito académico, o de los sectores social o privado en temas referentes al respeto, protección y promoción de los derechos de las niñas, niños y adolescentes representantes de cada una de las entidades federativas;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+IV. Comisión especializada: Comisión especializada (sic): El grupo de treinta y dos personas expertas del ámbito académico en temas referentes al respeto, protección y promoción de los derechos de las niñas, niños y adolescentes representantes de cada una de las entidades federativas;
 
 V. Enfoque basado en los derechos de las niñas, niños y adolescentes: Reconocimiento de las niñas, niños y adolescentes como personas titulares de derechos, con base en el respeto de su dignidad, vida, supervivencia, bienestar, salud, desarrollo, participación y no discriminación, garantizando integralidad en el disfrute de sus derechos;
 
@@ -115,37 +119,57 @@ Los casos no previstos en el presente Manual serán resueltos por la Secretaría
 
 ### CAPÍTULO II. De las Obligaciones de los Integrantes del Sistema Nacional
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 5.
 
-El Sistema Nacional implementará dentro de su ámbito de competencia acciones y mecanismos que garanticen la protección de los derechos de las niñas, niños y adolescentes, para lo cual podrá coordinarse con la Secretaría Ejecutiva para la asistencia técnica que se requiera. Sin perjuicio de lo dispuesto por la Ley, su Reglamento y el presente Manual, se llevarán a cabo las siguientes acciones:
+El Sistema Nacional, sin perjuicio de lo dispuesto por la Ley y su Reglamento, podrán realizarse las siguientes acciones:
 
-I. Proponer la formulación y concertación de políticas, programas, lineamientos, disposiciones, convenios y demás instrumentos jurídicos que garanticen el cumplimiento de los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-II. Establecer mecanismos de coordinación para dar seguimiento a los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional e informar a la Secretaría Ejecutiva respecto de sus avances;
+I. Proponer a las autoridades responsables del cumplimiento de la Ley, en ámbito de su competencia, la formulación y concertación de políticas, programas, lineamientos, disposiciones, convenios y demás instrumentos jurídicos que garanticen el cumplimiento de los acuerdos y resoluciones emitidas por dicha instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
-III. Participar y organizar en reuniones de trabajo con representantes de organismos y organizaciones internacionales; del ámbito académico, de los sectores público, privado y social involucradas en la atención de derechos específicos para el desarrollo de documentos de trabajo y monitoreo del cumplimiento de los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional y los Sistemas Locales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+II. Establecer con las autoridades responsables del cumplimiento de la Ley, en ámbito de su competencia, mecanismos de coordinación para dar cumplimiento a los acuerdos y resoluciones emitidas por el Sistema Nacional, así como las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+III. Participar y organizar reuniones de trabajo con representantes de organismos y organizaciones internacionales; del ámbito académico; de los sectores público, privado y social involucradas en la atención de los derechos de niñas, niños y adolescentes para la elaboración de documentos de trabajo y monitoreo del cumplimiento de los acuerdos y resoluciones emitidas por el Sistema Nacional, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
 IV. Llevar a cabo diagnósticos, estudios e investigaciones que permitan recoger insumos para el diseño e implementación de políticas públicas en materia de defensa de los derechos de la niñez y la adolescencia. Para ello podrán establecer en el ámbito de sus respectivas competencias, mecanismos de colaboración con los sectores público, social, privado, así como organismos internacionales y académicos;
 
-V. Poner en marcha mecanismos que garanticen la participación de las niñas, niños y adolescentes en los procesos de elaboración de las propuestas de programas y políticas públicas que aseguren el efectivo ejercicio de sus derechos; dichos mecanismos deberán garantizar el cumplimiento de los requisitos señalados en el presente Manual y los lineamientos en materia de participación de este grupo de población se generen;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+V. Proponer e implementar mecanismos que garanticen la participación de las niñas, niños y adolescentes en los procesos de elaboración de las propuestas de programas y políticas públicas que aseguren el efectivo ejercicio de sus derechos; esos mecanismos deberán garantizar el cumplimiento de los requisitos señalados en el presente Manual y los lineamientos en materia de participación de este grupo de población que se generen;
 
 VI. Realizar acciones de manera articulada con la finalidad de que las acciones que cada uno ejecute en el ámbito de sus atribuciones, tengan congruencia con lo señalado por el Programa Nacional y los Programas Locales;
 
-VII. Establecer mecanismos efectivos para verificar que las acciones que se realicen en cumplimiento a los acuerdos, resoluciones y recomendaciones emitidas por el Sistema Nacional se encuentren coordinadas y articuladas;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+VII. Establecer mecanismos que permitan a la Secretaría Ejecutiva dar seguimiento al cumplimiento de los acuerdos y resoluciones del Sistema Nacional;
 
 VIII. Proporcionar la información que les sea requerida por la Secretaría Ejecutiva;
 
-IX. Participar activamente en la Asamblea Anual del Sistema Nacional, así como en las Asamblea Regionales de celebren los Sistemas Locales en términos de lo establecido por el artículo 8 del presente Manual;
+IX. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-X. Establecer grupos de trabajo con representantes de los sectores social, privado y del ámbito académico que permitan tomar en cuenta sus opiniones en materia de protección de niñas, niños y adolescentes para la incorporación de recomendaciones en materia de política pública en los programas y acciones que ejecuten;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-XI. Realizar en el ámbito de su competencia, foros de consulta con personas expertas de los sectores público, social, privado, academia, organismos internacionales que permitan la recopilación de propuestas y recomendaciones que sirvan como insumo para para la elaboración del Programa Nacional y los Programas Locales;
+X. Establecer grupos de trabajo con representantes de los sectores público, social, privado y del ámbito académico que permitan tomar en cuenta sus opiniones que orienten la política pública en materia de derechos de niñas, niños y adolescentes;
 
-XII. Diseñar e implementar de manera coordinada y permanente programas de formación integral y capacitación sobre el conocimiento y respeto de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XI. Realizar en el ámbito de su competencia, foros de consulta con personas expertas de los sectores público, social, privado, academia, organismos internacionales que permitan la recopilación de propuestas y recomendaciones que sirvan como insumo para la elaboración del Programa Nacional y los Programas Locales;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XII. Diseñar e implementar de manera coordinada y permanente programas de formación integral y capacitación acerca del conocimiento y respeto de los derechos de niñas, niños y adolescentes;
 
 XIII. Supervisar que el ejercicio del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes se ejecute con enfoque de derechos hacia los mismos y congruencia con las prioridades que determine el Sistema Nacional;
 
-XIV. Brindar los insumos necesarios a la Secretaría Ejecutiva para el adecuado desarrollo de sus funciones, conforme a lo que ésta les requiera, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XIV. Coadyuvar con la Secretaría Ejecutiva en la ejecución de acciones y proyectos que emprenda en el marco de sus funciones, y
 
 XV. Las demás establecidas en la Ley, su Reglamento y el presente Manual.
 
@@ -163,6 +187,10 @@ III. El mecanismo para evaluar los resultados obtenidos con la implementación d
 
 IV. Las demás que determine el Sistema Nacional.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+Los Sistemas Locales, dentro del ámbito de su competencia establecerán los mecanismos o procedimientos que permitan implementar las políticas de fortalecimiento familiar promovidas en el seno del Sistema Nacional.
+
 ### CAPÍTULO III. De las obligaciones de los Sistemas Locales
 
 ###### Artículo 7.
@@ -175,7 +203,7 @@ II. Realizar propuestas de fortalecimiento y reorganización de las políticas y
 
 III. Promover convenios de colaboración con las distintas autoridades de las entidades federativas para cumplir con los acuerdos, resoluciones y recomendaciones emitidas por el Sistema Nacional;
 
-IV. Llevar a cabo el diseño e implementación de políticas públicas, programas locales, y demás acciones en congruencia con la Política Nacional, el Programa Nacional, así como con las prioridades, los acuerdos, resoluciones y recomendaciones que emita el Sistema Nacional
+IV. Llevar a cabo el diseño e implementación de políticas públicas, programas locales, y demás acciones en congruencia con la Política Nacional, el Programa Nacional, así como con las prioridades, los acuerdos, resoluciones y recomendaciones que emita el Sistema Nacional.
 
 V. Difundir en formatos accesibles la información sobre lo siguiente:
 
@@ -193,9 +221,7 @@ VII. Las demás que se acuerden al interior de los Sistemas Locales.
 
 ###### Artículo 8.
 
-Los Sistemas Locales podrán organizar dos Asambleas Regionales ordinarias al año, con el objeto de articular y difundir información respecto de las estrategias y acciones que realicen para el cumplimiento de la Ley, del Programa Nacional, de los Programas Locales, de los acuerdos, resoluciones y recomendaciones emitidos por el Sistema Nacional y los Sistemas Locales. Las asambleas regionales preferiblemente podrán realizarse, previas a la celebración de las asambleas ordinarias del Sistema Nacional, para ello los Sistemas Locales establecerán los mecanismos necesarios.
-
-Los Sistemas Locales deberán proporcionar a la Secretaría Ejecutiva la información concerniente a los resultados y acuerdos derivados de las Asambleas Regionales efectuadas.
+(DEROGADO, D.O.F. 4 DE ABRIL DE 2018)
 
 ### CAPÍTULO IV. De las obligaciones de la Secretaría Ejecutiva
 
@@ -203,35 +229,53 @@ Los Sistemas Locales deberán proporcionar a la Secretaría Ejecutiva la informa
 
 La Secretaría Ejecutiva, sin perjuicio de lo dispuesto por la Ley, su Reglamento y el presente Manual, y con la finalidad de garantizar la transversalización, la integralidad y la complementariedad de las acciones del Sistema Nacional, llevará a cabo lo siguiente:
 
-I. Proponer al Sistema Nacional la generación de políticas, programas, acciones, lineamientos, disposiciones, convenios, acuerdos y demás instrumentos jurídicos, así como los mecanismos que deberá implementar éste para apoyar al Sistema Nacional en la ejecución y seguimiento de los acuerdos, resoluciones y recomendaciones emitidas por el mismo;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-II. Diseñar una metodología para dar seguimiento y evaluar el estado de implementación de las líneas de acción del Programa Nacional así como de los acuerdos, resoluciones y recomendaciones del Sistema Nacional;
+I. Proponer al Sistema Nacional la generación de políticas, programas, acciones, lineamientos, disposiciones, convenios, acuerdos y demás instrumentos jurídicos, así como los mecanismos que deberá implementar éste para apoyar al Sistema Nacional en la ejecución y seguimiento de los acuerdos y resoluciones emitidas por el esa instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
-III. Realizar reuniones de trabajo y procesos de colaboración interinstitucional continuos con las autoridades obligadas en el cumplimiento de la Ley, así como con quienes integran el Sistema Nacional para el cumplimiento de los acuerdos, resoluciones y recomendaciones emitidos por el mismo y los objetivos, estrategias y líneas de acción del Programa Nacional;
+II. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-IV. Convocar a reuniones de trabajo con personas representantes de organismos nacionales e internacionales, organizaciones de la sociedad civil; del ámbito académico, así como de los sectores social y privado involucradas en la atención de derechos específicos, para el desarrollo de documentos de trabajo y monitoreo del cumplimiento de los acuerdos, resoluciones y recomendaciones del Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+III. Realizar reuniones de trabajo y procesos de colaboración interinstitucional continuos con las autoridades obligadas en el cumplimiento de la Ley, así como con quienes integran el Sistema Nacional para el cumplimiento de los acuerdos y resoluciones emitidas por dicha instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+IV. Convocar a reuniones de trabajo con personas representantes de organismos nacionales e internacionales, organizaciones de la sociedad civil; del ámbito académico, así como de los sectores social y privado involucradas en la atención de derechos específicos, para el desarrollo de documentos de trabajo y monitoreo del cumplimiento de los acuerdos y resoluciones emitidas por el Sistema Nacional, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
 V. Involucrar en los trabajos del Sistema Nacional a los sectores público, social, privado y organismos internacionales y académicos; con experiencia comprobable en la materia en la elaboración de estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
 VI. Proponer al Sistema Nacional directrices o lineamientos sobre la participación de niñas, niños y adolescentes y operar los mecanismos que garanticen su participación en los procesos de elaboración de las propuestas de programas y políticas públicas relacionadas con los trabajos del Sistema Nacional;
 
-VII. Diseñar metodologías de coordinación para la efectiva concurrencia, vinculación y congruencia de los programas y acciones de las autoridades de los tres órdenes de gobierno, con los objetivos, estrategias y prioridades del Programa Nacional, así como con los acuerdos, resoluciones y recomendaciones emitidos por el propio Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-VIII. Coordinar con las Secretarías Ejecutivas de los Sistemas Locales, la articulación de la Política Nacional, así como el intercambio de información necesaria a efecto de dar cumplimiento a la Ley, con el apoyo de la Secretaría de Gobernación y en su caso de las Comisiones creadas a propuesta del Sistema Nacional. Para ello, convocará anualmente a una Asamblea Nacional de las Secretarías Ejecutivas de los Sistemas Locales, a fin de fortalecer los acuerdos de coordinación y articulación entre éstos y estandarizar procesos y metodologías de trabajo y asegurar la integración del Programa Nacional y los Programas Locales;
+VII. Establecer mecanismos de coordinación para la efectiva concurrencia, vinculación y congruencia de los programas y acciones de las autoridades de los tres órdenes de gobierno, con los objetivos, estrategias y prioridades del Programa Nacional, así como con los acuerdos y resoluciones emitidas por el Sistema Nacional;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+VIII. Coordinar con las Secretarías Ejecutivas de los Sistemas Locales, la articulación de la Política Nacional, así como el intercambio de información necesaria a efecto de dar cumplimiento a la Ley;
 
 IX. Brindar la asistencia técnica que le requieran los Sistema Locales, así como compilar y difundir los acuerdos, resoluciones y demás información que considere necesaria;
 
-X. Llevar a cabo foros de consulta, así como la creación de grupos de trabajo con representantes de los sectores público, social, privado y del ámbito académico que permitan tomar en cuenta sus opiniones en materia de protección de niñas, niños y adolescentes para la definición de políticas públicas en dicha materia, en especial para la elaboración del Programa Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-XI. Participar en otros Sistemas Nacionales, Comisiones Intersecretariales, Secretarías Técnicas, Sistemas Locales y otros grupos de trabajo que coadyuven en el cumplimiento de los acuerdos, recomendaciones y resoluciones emitidos por el Sistema Nacional;
+X. Realizar foros de consulta, así como la creación de grupos de trabajo con representantes de los sectores público, social, privado y del ámbito académico que permitan considerar sus opiniones en materia de protección de niñas, niños y adolescentes para la definición de políticas públicas en esta materia, en especial para la elaboración del Programa Nacional;
 
-XII. Participar en cumbres, foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven en el cumplimiento de la Ley, así como de los acuerdos, recomendaciones y resoluciones emitidos por el Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XI. Participar en otros Sistemas Nacionales, Comisiones Intersecretariales, Secretarías Técnicas, Sistemas Locales y otros grupos de trabajo que coadyuven en el cumplimiento de los acuerdos y resoluciones emitidas por el Sistema Nacional, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XII. Participar en cumbres, foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven en el cumplimiento de la Ley, de los Acuerdos y Resoluciones emitidas por el Sistema Nacional, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
 XIII. Diseñar con el apoyo de representantes de los sectores público, social, académico y demás expertos, programas de formación y capacitación sobre el conocimiento y respeto de los derechos de niñas, niños y adolescentes para los integrantes del Sistema Nacional, así como asesorar en esta materia a los poderes legislativo y judicial, órganos constitucionales autónomos y entidades federativas y demás instancias públicas;
 
 XIV. Realizar, en coordinación con la Secretaría de Hacienda y Crédito Público y la Cámara de Diputados, análisis sobre la inversión pública con enfoque de derechos de la infancia y adolescencia, con el propósito de identificar los programas presupuestarios que coadyuvan al cumplimiento de alguno de los derechos de la infancia y evidenciar los vacíos temáticos para la atención integral de este grupo de población;
 
-XV. Proponer al Sistema Nacional directrices para la asignación de recursos suficientes en los presupuestos de los integrantes del sistema para el cumplimiento de sus acuerdos, resoluciones y recomendaciones;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XV. Proponer al Sistema Nacional directrices para la asignación de recursos suficientes en los presupuestos de los integrantes del Sistema para el cumplimiento de los Acuerdos y Resoluciones emitidas por dicha instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
 XVI. Proponer mecanismos de recopilación de información para ser remitida a los órganos relevantes del Sistema Universal y del Sistema Regional de Derechos Humanos, en coordinación con la Secretaría de Relaciones Exteriores, y
 
@@ -243,35 +287,45 @@ En caso de ausencia temporal de la persona titular de la Secretaría Ejecutiva, 
 
 ### CAPÍTULO V. De las Sesiones del Sistema Nacional
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 11.
 
-Adicionalmente a las atribuciones señaladas en la Ley, su Reglamento y el presente Manual, el Pleno del Sistema Nacional tendrá las atribuciones siguientes:
+El Pleno del Sistema Nacional, sin perjuicio de lo dispuesto por la Ley, su Reglamento y el Manual, tiene las siguientes funciones:
 
-I. Acordar en cada sesión ordinaria, la fecha o el mes para la celebración de la siguiente sesión ordinaria;
+I. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
 II. Aprobar los informes de actividades de la Secretaría Ejecutiva;
 
 III. Dar seguimiento, por conducto de la Secretaría Ejecutiva, a los resultados de la implementación de las acciones y estrategias que se realicen para dar cumplimiento a las recomendaciones, incluyendo las recomendaciones de política general, derivadas de los diagnósticos realizados por la Comisión Especializada y las demás Comisiones que se instauren;
 
-IV. Tomar en cuenta las recomendaciones emitidas por el Consejo Consultivo respecto de las políticas, programas, lineamientos, instrumentos, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes que debería implementar el Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-V. Analizar, y en su caso, emitir recomendaciones a los Sistemas Locales respecto de los informes anuales de avance de los Programas Locales que remitan;
+IV. Tomar en cuenta las recomendaciones emitidas por el Consejo Consultivo, la Comisión Especializada y las Comisiones respecto de las políticas, programas, lineamientos, instrumentos, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes que debería implementar el Sistema Nacional;
+
+V. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
 VI. Aprobar el informe anual de actividades que presente el Consejo Consultivo;
 
-VII. Exhortar y en su caso, hacer sugerencias y recomendaciones a las personas integrantes del Sistema Nacional para que los acuerdos, resoluciones y recomendaciones emitidos por éste, sean cumplidos conforme a los objetivos propuestos en los mismos, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+VII. Exhortar y en su caso, hacer sugerencias y recomendaciones a las personas integrantes del Sistema Nacional para que los acuerdos y resoluciones emitidas por esa instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional, sean cumplidas conforme a los objetivos propuestas en las mismas, y
 
 VIII. Emitir las resoluciones y acuerdos necesarios para el debido cumplimiento de sus funciones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 12.
 
-Para efectos del adecuado desarrollo de las sesiones las personas integrantes del Sistema Nacional, tendrán las siguientes obligaciones y derechos:
+Las personas integrantes del Sistema Nacional tendrán las siguientes obligaciones y derechos:
 
 I. Asistir a las sesiones de forma presencial o excepcionalmente de manera virtual, previa comunicación que para tal efecto se haga a la Secretaría Ejecutiva;
 
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 II. Nombrar, en casos excepcionales, a la persona que fungirá como suplente, misma que deberá tener cuando menos del nivel inmediato inferior, a excepción de la persona titular de la Presidencia, cuya suplencia se realizará en términos de lo dispuesto por el artículo 127 de la Ley;
 
-Los nombramientos de las personas suplentes a que se refiere la presente fracción son aplicables exclusivamente a las personas integrantes del Sistema Nacional a que hacen referencia los incisos A, B y C del artículo 127 de la Ley. Dichos nombramientos deberán ser notificados a la Secretaría Ejecutiva por lo menos con cuatro días naturales de antelación a la celebración de las sesiones ordinarias y con dos días naturales para sesiones extraordinarias;
+Los nombramientos de las personas suplentes a que se refiere la presente fracción son aplicables a las personas integrantes del Sistema Nacional a que hacen referencia los incisos A, B y C del artículo 127 de la Ley. Dicha designación deberá notificarse por escrito a la Secretaría Ejecutiva. Tratándose de sesiones ordinarias se deberá notificar con la debida antelación a la celebración de las sesiones y para sesiones extraordinarias podrá notificarse el mismo día de la sesión;
 
 III. Sugerir y presentar por escrito, por conducto de la Secretaría Ejecutiva y previo a la emisión de la convocatoria, la inclusión de asuntos y temas a analizar en las sesiones ordinarias;
 
@@ -281,27 +335,37 @@ V. Recibir la convocatoria así como la documentación necesaria para la discusi
 
 VI. Solicitar la dispensa de la lectura de los documentos presentados en la sesión;
 
-VII. Emitir su voto en los asuntos planteados ante el Sistema;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+VII. Emitir su voto en los asuntos planteados ante el Sistema Nacional. En caso de que el voto sea formulado en sentido negativo, la persona integrante deberá fundar y motivar su determinación, y
 
 VIII. Las demás que le señale la Ley, su Reglamento y el presente Manual.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 13.
 
-Además de las obligaciones y derechos señalados en las fracciones I, III, IV y V del artículo que antecede, las personas invitadas a las sesiones a que se refiere el artículo 127, párrafo tercero y sexto de la Ley podrán:
+Además Las personas invitadas referidas en el artículo 127, párrafo tercero y sexto de la Ley tienen las obligaciones y derechos señalados en las fracciones I, III y V del artículo 12 del Manual, y podrán:
 
-I. Designar, de manera excepcional, una persona suplente cuando no puedan asistir a la sesión. Estos nombramientos deberán ser notificados a la Secretaría Ejecutiva con por lo menos cuatro días naturales de antelación para sesiones ordinarias y con dos días naturales para sesiones extraordinarias;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+I. Designar, de manera excepcional, una persona suplente cuando no puedan asistir a la sesión. Dicha designación deberá notificarse por escrito a la Secretaría Ejecutiva. Tratándose de sesiones ordinarias se deberá notificar con la debida antelación a la celebración de las sesiones y para sesiones extraordinarias podrá notificarse el mismo día de la sesión;
 
 II. Participar, con derecho a voz, en las discusiones sobre los asuntos y temas que se traten en las sesiones;
 
 III. Realizar propuestas para la formulación y aplicación de políticas y estrategias en materia de instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de las niñas, niños y adolescentes, así como aportar su experiencia y sugerir mejores prácticas en esta materia;
 
-IV. Analizar y emitir opiniones respecto de los asuntos y casos específicos que someta a su consideración el Sistema Nacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+IV. Analizar y emitir opiniones respecto de los asuntos y casos específicos que someta a su consideración el Sistema Nacional, y
 
 V. Las demás señaladas en la Ley, su Reglamento y el presente Manual.
 
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 14.
 
-Las invitaciones a las sesiones del Sistema Nacional para las personas representantes de las dependencias y entidades de la Administración Pública Federal, los órganos con autonomía constitucional, de los gobiernos de las Entidades Federativas, las asociaciones de municipios legalmente constituidas integrantes e invitados permanente del Sistema; así como a las personas, instituciones, nacionales o internacionales señaladas en los párrafos último y penúltimo del artículo 127 de la Ley, deberán enviarse a través de la Secretaría Ejecutiva, por medios electrónicos o demás medios que sean relevantes a criterio de la Secretaría Ejecutiva, cuando menos cinco días hábiles previos a la celebración de la sesión ordinaria y tres días hábiles previos a la celebración de la sesión extraordinaria.
+El Sistema Nacional enviará, a través de la Secretaría Ejecutiva, por medios electrónicos o cualquier medio que considere idóneo para su recepción, las invitaciones a que refiere el artículo 127, último y penúltimo párrafo de la Ley, cuando menos cinco días hábiles previos a la celebración de la sesión ordinaria y tres días hábiles previos a la celebración de la sesión extraordinaria.
 
 ###### Artículo 15.
 
@@ -317,25 +381,33 @@ IV. Haber realizado publicaciones sobre temas de derechos de niñas, niños y ad
 
 V. Desarrollar programas o proyectos que versen sobre la protección de derechos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 16.
 
-Por lo que respecta a la selección de las niñas, niños y adolescentes señalados en el último párrafo del artículo 127 de la Ley que participarán en las sesiones del Sistema Nacional. En esta selección se asegurará en todo momento una participación plural y representativa de los niños, niñas y adolescentes, considerando criterios de representación geográfica, edad o de género. La Secretaría Ejecutiva podrá tomar en consideración las opiniones o propuestas realizadas por los integrantes del Sistema Nacional.
+El Sistema Nacional a través de la Secretaría Ejecutiva asegurará que en la selección de las niñas, niños y adolescentes que cita el último párrafo del artículo 127 de la Ley, que participen en las sesiones del Sistema Nacional, se tenga una participación plural y representativa de los niños, niñas y adolescentes, considerando criterios de representación geográfica, edad o de género, para lo cual podrá considerar los estándares, mecanismos, metodologías y herramientas que se establezcan en los Lineamientos a que hace referencia el artículo 50 del presente Manual, así como las opiniones o propuestas realizadas por los integrantes del Sistema Nacional.
 
 El Sistema Nacional garantizará, a propuesta de la Secretaría Ejecutiva, el establecimiento de mecanismos para la libre expresión de las niñas, niños y adolescentes en las sesiones.
 
-Para la participación de las niñas, niños y adolescentes en las sesiones del Sistema Nacional, la Secretaría Ejecutiva, obtendrá por parte de las personas que tengan su guarda y custodia las autorizaciones correspondientes y cuando sea necesario se realizarán las gestiones conducentes para que sean acompañados por éstos durante las sesiones.
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+Para la participación de las niñas, niños y adolescentes en las sesiones del Sistema Nacional, la Secretaría Ejecutiva obtendrá por parte de las personas que tengan su guarda y custodia en términos de las disposiciones jurídicas aplicables, las autorizaciones correspondientes y, cuando sea necesario, realizará las gestiones conducentes para que sean acompañados por éstos durante las sesiones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 17.
 
-La persona titular de la Presidencia, con el apoyo de la Secretaría Ejecutiva, convocará, presidirá y dirigirá, las sesiones de acuerdo con lo establecido por la Ley, su Reglamento, y el presente Manual, y para tal efecto tendrá las siguientes funciones:
+La persona titular de la Presidencia, con el apoyo de la Secretaría Ejecutiva, convocará, presidirá y dirigirá las sesiones de acuerdo con lo establecido por la Ley, su Reglamento, y el presente Manual. Para tal efecto tendrá las siguientes funciones:
 
-I. Requerir a los integrantes del Sistema Nacional realizar las acciones conducentes para el cumplimiento de los acuerdos, resoluciones y recomendaciones del mismo;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+I. Requerir a los integrantes del Sistema Nacional realizar las acciones conducentes para el cumplimiento de los Acuerdos y Resoluciones emitidas por esa instancia colegiada, así como de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional;
 
 II. Representar al Sistema Nacional en ámbitos públicos a nivel nacional e internacional;
 
 III. Señalar la fecha, la hora y el lugar para la celebración de las sesiones;
 
-IV. Solicitar a la Secretaría Ejecutiva gire las invitaciones respectivas en términos del penúltimo párrafo del artículo 127;
+IV. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
 V. Dirigir con apoyo de la persona titular de la Secretaría Ejecutiva las Sesiones del Sistema Nacional;
 
@@ -345,7 +417,9 @@ VII. Instruir a la Secretaría Ejecutiva que provea la información necesaria pa
 
 VIII. Convocar, por conducto de la Secretaría Ejecutiva, a sesiones ordinarias y extraordinarias;
 
-IX. Acordar el diferimiento de la sesión por falta de quórum legal, en términos de lo previsto en este Manual;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+IX. Declarar el diferimiento de la sesión por falta de quórum legal, en términos de lo previsto en este Manual;
 
 X. Dictar las medidas necesarias para la conservación del orden durante las sesiones;
 
@@ -355,7 +429,9 @@ XII. Declarar, por causa de fuerza mayor, la suspensión temporal o definitiva d
 
 XIII. Instruir la adopción de las medidas necesarias para el adecuado desarrollo de las sesiones del Sistema;
 
-XIV. Declarar al Sistema Nacional de Protección Integral en sesión permanente, cuando así lo acuerde la mayoría de sus integrantes;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XIV. Declarar al Sistema Nacional en sesión permanente, cuando así lo acuerde la mayoría de sus integrantes;
 
 XV. Delegar en la persona titular de la Secretaría Ejecutiva, las atribuciones, funciones o tareas que determine necesarias para el buen funcionamiento del Sistema Nacional;
 
@@ -365,15 +441,21 @@ XVI. Las demás que sean necesarias para el cumplimiento de la Ley, su Reglament
 
 Adicionalmente a las funciones señaladas en la Ley y el Reglamento; para el adecuado desarrollo de las sesiones del Sistema Nacional, la persona titular de la Secretaría Ejecutiva tendrá las siguientes:
 
-I. Llevar a cabo la logística para la celebración de las sesiones en coordinación con otros cuerpos de apoyo relevantes;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-II. Recibir, de las personas integrantes del Sistema Nacional, las propuestas de los asuntos y temas a analizar en las asambleas ordinarias, así como las propuestas para la celebración de asambleas extraordinarias;
+I. Organizar la logística para la celebración de las sesiones en coordinación con otras instancias que considere relevantes;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+II. Recibir de las personas integrantes del Sistema Nacional, las propuestas de los asuntos y temas a analizar en las sesiones ordinarias, así como las propuestas para la celebración de sesiones extraordinarias;
 
 III. Elaborar el proyecto de la convocatoria conforme a los requisitos establecidos en el presente Manual;
 
 IV. Enviar a los integrantes y a las personas invitadas a las sesiones del Sistema Nacional, la convocatoria junto con la documentación necesaria para la discusión de los asuntos;
 
-V. Pasar lista de asistencia durante la sesión y llevar el registro de ella;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+V. Pasar lista de asistencia al inicio de la sesión, así como el registro y resguardo de ella;
 
 VI. Declarar la existencia del quórum legal, en los términos establecidos por el artículo 128 de la Ley, y en su caso, solicitar a la persona titular de la Presidencia del Sistema el diferimiento de la sesión por falta de quórum legal, en términos de lo previsto en este Manual;
 
@@ -391,11 +473,15 @@ XII. Tomar las votaciones y dar a conocer el resultado de las mismas;
 
 XIII. Compilar y llevar el archivo de los acuerdos y resoluciones tomados en las sesiones, así como de los instrumentos jurídicos que deriven de éstos;
 
-XIV. Presupuestar y administrar fondos suficientes para la celebración de las sesiones del Pleno del Sistema Nacional, del Consejo Consultivo y de las Comisiones que se instauren;
+XIV. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-XV. Difundir los acuerdos, resoluciones, recomendaciones y demás instrumentos jurídicos que deriven de los mismos entre los integrantes del Sistema Nacional, las personas que asistan a las sesiones y publicitar la información a través del sitio web que para tal efecto determine la Secretaría Ejecutiva y otros medios que considere pertinentes;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-XVI. Establecer mecanismos de coordinación y comunicación permanentes con los integrantes del Sistema Nacional para el eficiente desahogo de los asuntos que deba atender el mismo;
+XV. Difundir a través del sitio de internet y otros medios que se consideren pertinentes y entre las personas integrantes del Sistema Nacional así como las personas que asistan a las sesiones, los acuerdos, resoluciones y demás instrumentos que deriven de las sesiones del Sistema Nacional;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XVI. Establecer mecanismos de coordinación y comunicación permanentes con las personas integrantes del Sistema Nacional para el eficiente desahogo de los asuntos que deba atender el mismo;
 
 XVII. Elaborar el proyecto de acta de la sesión realizada la cual deberá contemplar los requisitos mínimos señalados en el presente Manual y someterla a la aprobación de las personas integrantes del Sistema Nacional;
 
@@ -405,23 +491,29 @@ XIX. Realizar las acciones necesarias para auxiliar a la persona titular de la P
 
 XX. Realizar las acciones necesarias para garantizar el funcionamiento del Sistema Nacional;
 
-XXI. Asegurar que las condiciones de participación de las niñas, niños y adolescentes en las sesiones sean adecuadas, tomando en consideración los estándares internacionales que existan para tal efecto;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+XXI. Asegurar que las condiciones de participación de las niñas, niños y adolescentes en las sesiones del Sistema Nacional sean adecuadas, tomando en consideración los estándares internacionales que existan para tal efecto, así como los lineamientos de participación a que se refiere el artículo 50 del presente Manual, y
 
 XXII. Las demás que le instruya la persona titular de la Presidencia y las que le confiere la Ley, el Reglamento, el presente Manual y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 19.
 
-El Sistema Nacional sesionará de forma ordinaria cuando menos dos veces al año, previa convocatoria y de acuerdo al calendario aprobado para tal efecto, sin perjuicio de que se realicen sesiones extraordinarias cuando existan circunstancias que lo ameriten, a propuesta de la persona titular de la Presidencia, de los integrantes del Sistema, de los Invitados permanentes o de la Secretaría Ejecutiva.
+El Sistema Nacional sesionará de forma ordinaria conforme lo establece el artículo 128 de la Ley, sin perjuicio de que se realicen sesiones extraordinarias cuando existan circunstancias que lo ameriten.
 
-El calendario de sesiones ordinarias, una vez aprobado por el Sistema, se publicará en el sitio web que para tal efecto determine la Secretaría Ejecutiva, sin perjuicio de que se dé a conocer por otros medios que ésta estime pertinentes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 20.
 
 Para la realización de las sesiones del Sistema se tendrá como sede principal el Distrito Federal, pudiéndose reunir en otras entidades federativas cuando así lo determine la persona titular de la Presidencia del Sistema.
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 21.
 
-La persona titular de la Presidencia podrá modificar la fecha fijada para la celebración de las sesiones ordinarias previo aviso a los Integrantes del Sistema Nacional, así como de los invitados por lo menos con tres días hábiles a la celebración de la sesión.
+La persona titular de la Presidencia podrá modificar la fecha fijada para la celebración de las sesiones ordinarias, lo cual se hará del conocimiento de los Integrantes del Sistema Nacional y de los invitados a través de la Secretaría Ejecutiva, por los medios que estime pertinentes.
 
 ###### Artículo 22.
 
@@ -445,9 +537,11 @@ Para que el Sistema Nacional pueda sesionar, es necesario que estén presentes l
 
 El día y hora fijados para la sesión, reunidas las personas integrantes del Sistema, la persona titular de la Secretaría Ejecutiva determinará la existencia del quórum asentándolo en el acta respectiva.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 27.
 
-Si llegada la hora prevista para la sesión, no estuviere presente la mitad más uno de sus integrantes con derecho a voz y voto pero estuviere la persona titular de la Presidencia, está en acuerdo con los integrantes que estuvieren presentes dará un plazo de espera de 30 minutos.
+Si llegada la hora prevista para la sesión, no estuviere presente la mitad más uno de sus integrantes con derecho a voz y voto pero estuviere la persona titular de la Presidencia, ésta dará, a su consideración, un plazo de espera que considere pertinente.
 
 Si transcurrido dicho plazo no se lograra la integración del quórum, en caso de celebrarse una sesión ordinaria, la persona titular de la Presidencia, tomará las medidas necesarias para el diferimiento de la misma, lo que se hará constar en el acta correspondiente.
 
@@ -467,13 +561,19 @@ Al aprobarse el orden del día, se consultará en votación económica si se dis
 
 Durante la sesión, los asuntos contenidos en el orden del día serán analizados y, en su caso, votados, salvo cuando el propio Sistema Nacional acuerde posponer la discusión o votación de algún asunto para una sesión posterior.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 31.
 
-En cada punto del orden del día, la persona titular de la Presidencia, por conducto de la persona titular de la Secretaría Ejecutiva cederá la palabra ordenadamente a las personas asistentes que quieran hacer uso de ésta, y cuando lo estime procedente preguntará si está suficientemente discutido el asunto.
+En cada punto del orden del día, la persona titular de la Presidencia, con el auxilio de la persona titular de la Secretaría Ejecutiva, cederá la palabra a las personas asistentes que quieran hacer uso de ésta.
 
-Concluido el intercambio de opiniones, la persona titular de la Secretaría Ejecutiva preguntará a las personas asistentes si está suficientemente discutido el asunto, concluida la discusión, de ser el caso, se pasará a la votación correspondiente.
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-Si ninguna persona solicita la palabra, se procederá a la votación del asunto o en su defecto los asistentes se darán por enterados del mismo, según sea el caso.
+Concluido el intercambio de opiniones, la persona titular de la Secretaría Ejecutiva preguntará a las personas asistentes si está suficientemente discutido el asunto y en caso de estarlo, se realizará la votación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+Si ninguna persona solicita la palabra, se procederá a la votación del asunto.
 
 ###### Artículo 32.
 
@@ -487,9 +587,11 @@ La votación se tomará en el siguiente orden: se contarán los votos a favor, l
 
 En caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 34.
 
-Desahogados todos los puntos del orden del día, la persona titular de la Presidencia declarará el cierre formal de la sesión.
+Desahogados todos los puntos del orden del día, la persona titular de la Presidencia, por si o con el auxilio de la persona titular de la Secretaría Ejecutiva declarará el cierre formal de la sesión.
 
 ###### Artículo 35.
 
@@ -519,15 +621,21 @@ V. Asuntos generales,
 
 VI. Síntesis de cada una de las intervenciones,
 
-VII. Acuerdos y resoluciones adoptados,
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+VII. Acuerdos y resoluciones adoptados, y
 
 VIII. Estado de cumplimiento de los acuerdos y resoluciones anteriores.
 
-El proyecto de acta será sometido para su aprobación cinco días hábiles posteriores a la sesión por los mecanismos tecnológicos disponibles que garanticen la eficiencia e inmediatez debida. Si no existieren comentarios o correcciones al acta dentro de los siguientes tres días hábiles a la recepción de la misma se dará por aprobada y pasará al proceso de las firmas respectivas.
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+El proyecto de acta será sometido para su aprobación dentro de los diez días hábiles posteriores a la sesión por los mecanismos tecnológicos disponibles que garanticen la eficiencia e inmediatez debida. Si no existieren comentarios o correcciones al acta dentro de los siguientes ocho días hábiles a la recepción de la misma se dará por aprobada y pasará al proceso de las firmas respectivas.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 38.
 
-Una vez firmada el acta y sus anexos por la persona titular de la Secretaría Ejecutiva, se hará llegar una copia de la misma a las y los integrantes del Sistema y se publicará en el sitio web que para tal efecto determine la Secretaría Ejecutiva, sin perjuicio de que se pueda hacer del conocimiento por otros medios que ésta considere pertinentes.
+Una vez firmada el acta y sus anexos por todas las personas integrantes del Sistema Nacional incluyendo a la Secretaría Ejecutiva, ésta la publicará en el sitio de internet que para tal efecto determine, sin perjuicio de que se pueda hacer del conocimiento por otros medios que considere pertinentes.
 
 ###### Artículo 39.
 
@@ -539,59 +647,87 @@ La suspensión podrá ser temporal o definitiva. Para el caso de suspensión tem
 
 ### CAPÍTULO VI. De los Acuerdos, su implementación y seguimiento
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 41.
 
-El Sistema Nacional podrá emitir las sugerencias y recomendaciones que considere pertinentes respecto del avance en el cumplimiento de los acuerdos, resoluciones y recomendaciones, las cuales harán del conocimiento a través de la Secretaría Ejecutiva.
+El Sistema Nacional podrá emitir las sugerencias que considere pertinentes respecto del avance en el cumplimiento de sus Acuerdos y Resoluciones así como de las Recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema Nacional, las cuales harán del conocimiento a través de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 42.
 
-Para la implementación de los acuerdos, resoluciones, recomendaciones así como del Programa Nacional, los integrantes del Sistema Nacional deberán impulsar la coordinación y fomentar la asistencia técnica necesaria con las autoridades obligadas por la ley para garantizar el cumplimiento de sus objetivos.
+Para el cumplimiento de los Acuerdos y Resoluciones emitidas por el Sistema Nacional, las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, así como del Programa Nacional, los integrantes de esa instancia colegiada deberán impulsar la coordinación y fomentar la asistencia técnica necesaria con las autoridades obligadas por la ley para garantizar el cumplimiento de sus objetivos.
 
 Asimismo, la Secretaría Ejecutiva conducirá, con apoyo de los integrantes del Sistema Nacional y a través del cumplimiento de sus acuerdos o de los trabajos de sus comisiones, los procesos de coordinación y articulación con los otros sistemas nacionales, entre ellos, el Sistema Nacional de Educación, el Sistema Nacional de Atención a Víctimas, el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, el Sistema Nacional de Seguridad Pública, el Sistema Nacional de Protección Civil, el Sistema Nacional de Información Estadística y Geográfica, Sistema Nacional de Salud, con la finalidad de concertar acciones conjuntas que contribuyan al cumplimiento de las obligaciones de la ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 43.
 
-Sin perjuicio de lo señalado en el artículo anterior, la Secretaría Ejecutiva propondrá para aprobación del Sistema Nacional mecanismos de coordinación interinstitucional entre los tres órdenes de gobierno para la implementación de los acuerdos, resoluciones y recomendaciones, así como para la implementación, monitoreo y evaluación del Programa Nacional de Protección.
+Sin perjuicio de lo señalado en el artículo anterior, la Secretaría Ejecutiva propondrá para aprobación del Sistema Nacional mecanismos de coordinación interinstitucional entre los tres órdenes de gobierno para el cumplimiento de sus Acuerdos y Resoluciones, de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, así como para la implementación, monitoreo y evaluación del Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes.
 
-El Sistema Nacional acordará lineamientos o directrices que faciliten y homologuen las acciones de cumplimiento de las obligaciones que establece la ley y de los acuerdos, resoluciones y recomendaciones que apruebe el Sistema Nacional, en coordinación con las instituciones involucradas.
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+El Sistema Nacional acordará la emisión lineamientos o directrices que faciliten y homologuen las acciones de cumplimiento de las obligaciones que establece la ley y de los Acuerdos, Resoluciones y en su caso las Recomendaciones que apruebe el Sistema Nacional, en coordinación con las instituciones involucradas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 44.
 
-Los acuerdos, resoluciones y recomendaciones que emita el Sistema Nacional deberán establecer cuando menos los siguientes criterios:
+Los acuerdos y resoluciones que emita el Sistema Nacional deberán establecer cuando menos los siguientes criterios:
 
-I. la situación de derechos o el derecho específico a atender o garantizar;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-II. los objetivos y en su caso las acciones la ruta de trabajo.
+I. La situación de derechos o el derecho específico a atender o garantizar, y
 
-Los acuerdos, resoluciones y recomendaciones que emita el Sistema Nacional podrán ser de cumplimiento ordinario o urgente, dependiendo de la emergencia para salvaguardar el interés superior de la niñez.
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-Los acuerdos, resoluciones y recomendaciones se publicarán en el sitio web que para tal efecto determine la Secretaría Ejecutiva y en las páginas electrónicas de los integrantes del Sistema Nacional, sin perjuicio de que puedan ser difundidos por otros medios de comunicación disponibles y accesibles.
+II. Los objetivos y, en su caso, las acciones y la ruta o cronograma de trabajo.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+Los Acuerdos y Resoluciones que emita el Sistema Nacional podrán ser de cumplimiento ordinario o urgente, dependiendo de la emergencia para salvaguardar el interés superior de la niñez.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+Los Acuerdos y Resoluciones se publicarán en el sitio de internet que para tal efecto determine la Secretaría Ejecutiva sin perjuicio de que puedan ser difundidos por otros medios de comunicación disponibles y accesibles.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 45.
 
-Las personas integrantes del Sistema Nacional informarán cada cuatro meses a la Secretaría Ejecutiva sobre los avances en el cumplimiento de los acuerdos, resoluciones y recomendaciones, a fin de que ésta pueda presentar un informe sobre estos avances en cada sesión ordinaria del Sistema Nacional.
+Las personas integrantes del Sistema Nacional informarán cada cuatro meses a la Secretaría Ejecutiva sobre los avances en el cumplimiento de los Acuerdos y Resoluciones de esa instancia colegiada, y en su caso, de las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, a fin de que ésta pueda presentar un informe de estos avances en cada sesión ordinaria del Sistema Nacional.
 
-Cuando se trate de acuerdos, resoluciones y recomendaciones de atención urgente, las personas integrantes del Sistema remitirán la información cuando la persona titular de la Presidencia lo solicite, si fuere necesario.
+Cuando se trate de Acuerdos, Resoluciones y, en su caso recomendaciones emitidas por el Consejo Consultivo y las Comisiones que sean de atención urgente, las personas integrantes del Sistema Nacional remitirán la información cuando la persona titular de la Presidencia lo solicite.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 46.
 
-Cuando el acuerdo, resolución y recomendación del Sistema Nacional implique un proceso de implementación a mediano o largo plazo, los responsables deberán hacer del conocimiento de la Secretaría Ejecutiva la ruta y cronograma de trabajo para la implementación del respectivo acuerdo, resolución o recomendación.
+Cuando los Acuerdos y Resoluciones del Sistema Nacional y, en su caso las Recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema impliquen un proceso de implementación a mediano o largo plazo, los responsables deberán hacer del conocimiento de la Secretaría Ejecutiva la ruta y cronograma de trabajo para el cumplimiento del respectivo acuerdo, resolución o recomendación.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 47.
 
-La Secretaría Ejecutiva enviará por conducto de las Secretarías Ejecutivas de los Sistemas Locales, los acuerdos, resoluciones y recomendaciones que haya emitido el Sistema Nacional, a fin de que éstos sean implementados por cada uno de ellos en el ámbito de sus respectivas competencias.
+La Secretaría Ejecutiva enviará por conducto de las Secretarías Ejecutivas de los Sistemas Locales, los Acuerdos y Resoluciones que haya emitido el Sistema Nacional, y en su caso las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, a fin de que éstos sean implementados por cada uno de ellos en el ámbito de sus respectivas competencias.
 
-Las Gubernaturas de las Entidades Federativas, y la Jefatura de Gobierno del Distrito Federal, en su calidad de titulares de las Presidencias de los Sistemas Locales, deberán hacer del conocimiento de los Sistemas Locales y Municipales de protección en sus respectivas entidades federativas y demás autoridades necesarias, los acuerdos, resoluciones y recomendaciones que deriven del Sistema Nacional, a los que solicitarán su implementación.
+Las Gubernaturas de las Entidades Federativas, y la Ciudad de México, en su calidad de titulares de las Presidencias de los Sistemas Locales, deberán hacer del conocimiento de los Sistemas Locales y Municipales de protección en sus respectivas entidades federativas y demás autoridades necesarias, los Acuerdos y Resoluciones que haya emitido el Sistema Nacional, y en su caso las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, a los que solicitarán su implementación en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 48.
 
-Para la articulación, formulación y ejecución de políticas, programas, estrategias y acciones en materia de derechos de niñas, niños y adolescentes, así como para el monitoreo del cumplimiento de los acuerdos, resoluciones y recomendaciones del Sistema Nacional, la Secretaría Ejecutiva, establecerá mecanismos de comunicación permanentes con sus integrantes, así como con los Sistemas Locales y Municipales, privilegiando el uso de las tecnologías de la información.
+Para la articulación, formulación y ejecución de políticas, programas, estrategias y acciones en materia de derechos de niñas, niños y adolescentes, así como para el monitoreo del cumplimiento de los Acuerdos y Resoluciones del Sistema Nacional, y en su caso las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema, la Secretaría Ejecutiva, establecerá mecanismos de comunicación permanentes con sus integrantes, así como con los Sistemas Locales y Municipales, privilegiando el uso de las tecnologías de la información.
 
 ### CAPÍTULO VII. De los mecanismos de comunicación del Sistema Nacional
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 49.
 
-El Sistema Nacional, a propuesta de la Secretaría Ejecutiva, establecerá una política general de comunicación para la difusión de las acciones que cada integrante del Sistema realice en el ámbito de sus respectivas competencias en el cumplimiento de los acuerdos, resoluciones y recomendaciones.
+El Sistema Nacional, a propuesta de la Secretaría Ejecutiva, establecerá una política general de comunicación para la difusión de las acciones que cada integrante del Sistema realice en el ámbito de sus respectivas competencias en el cumplimiento de los Acuerdos y Resoluciones del Sistema Nacional, y en su caso las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema.
 
 ### CAPÍTULO VIII. De los mecanismos de participación niñas niños y adolescentes
 
@@ -609,7 +745,9 @@ II. La universalidad en la oportunidad de participación de las niñas, niños y
 
 III. El principio de inclusión de las niñas, niños y adolescentes que represente la diversidad del país;
 
-III. (SIC) La construcción de espacios deliberativos permanentes, con metodologías adecuadas al grado de madurez, desarrollo, entorno cultural y geográfico de las niñas, niños y adolescentes.
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+IV. La construcción de espacios deliberativos permanentes, con metodologías adecuadas al grado de madurez, desarrollo, entorno cultural y geográfico de las niñas, niños y adolescentes.
 
 ###### Artículo 52.
 
@@ -625,9 +763,11 @@ La Secretaría Ejecutiva implementará en cualquier momento, mecanismos específ
 
 A través del sitio web que para tal efecto determine la Secretaría Ejecutiva, se promoverán consultas públicas y periódicas, con el sector público, social y privado, así como mecanismos universales, representativos y permanentes de participación en los diferentes entornos en los que se desarrollan las niñas, niños y adolescentes de manera cotidiana.
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 54.
 
-La Secretaría Ejecutiva instalará mesas de trabajo como espacios operativos de concertación y colaboración permanentes entre los integrantes del Sistema Nacional y demás instituciones públicas con el fin de fortalecer la coordinación y articulación institucional en la elaboración y ejecución del Programa Nacional y el cumplimiento de los acuerdos, resoluciones y recomendaciones tomados por el Sistema.
+La Secretaría Ejecutiva instalará mesas de trabajo como espacios operativos de concertación y colaboración permanentes entre los integrantes del Sistema Nacional y demás instituciones públicas con el fin de fortalecer la coordinación y articulación institucional en la elaboración y ejecución del Programa Nacional y el cumplimiento de los Acuerdos y Resoluciones del Sistema Nacional, y en su caso las recomendaciones emitidas por el Consejo Consultivo y las Comisiones creadas por el propio Sistema.
 
 Se invitará, cuando sea posible, a participar en las mesas, a personas expertas, académicas, organizaciones de la sociedad civil u organismos internacionales y niñas, niños y adolescentes, para asistir a las mesas y en su caso, para realizar propuestas de trabajo.
 
@@ -647,21 +787,25 @@ En la selección de las personas representantes de la sociedad civil, se pondera
 
 ### CAPÍTULO XI. De las Comisiones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
+
 ###### Artículo 58.
 
-El Sistema Nacional podrá contar con comisiones permanentes o transitorias en términos de los acuerdos, resoluciones o recomendaciones que se adopten.
+El Sistema Nacional podrá tener Comisiones Permanentes o transitorias en términos de los Acuerdos y que se adopten.
 
-La creación de comisiones será determinada como resultado de aquellas situaciones críticas y de urgente atención; con base en ello, cualquier integrante del Sistema Nacional podrá solicitar por escrito ante la Secretaría Ejecutiva, en términos del Artículo 129 de la Ley, la creación de una comisión; precisando cuando menos los siguientes aspectos:
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-I. Situación a verificar sobre la garantía de los derechos específicos a atender, desde un enfoque multidisciplinario e integral;
+La creación de Comisiones será determinada como resultado de aquellas situaciones críticas y de urgente atención; con base en ello, cualquier persona integrante del Sistema Nacional podrá solicitar a esa instancia colegiada, a través de la Secretaría Ejecutiva, la creación de una comisión conforme a los requisitos establecidos en los Lineamientos a que se refiere el artículo 129 de la Ley.
 
-II. Argumentar su urgencia y situación crítica;
+I. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-III. Proponer si es de carácter permanente o transitorio;
+II. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-IV. Proponer su integración, y
+III. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
-V. Establecer los alcances que tendrá la comisión.
+IV. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
+
+V. (DEROGADA, D.O.F. 4 DE ABRIL DE 2018)
 
 ###### Artículo 59.
 
@@ -669,29 +813,37 @@ Las Comisiones tendrán por objeto la determinación de los mecanismos interinst
 
 ###### Artículo 60.
 
-Las comisiones procurarán respetar la integración del Sistema Nacional, por lo que deberán tener una representación plural entre las instituciones del poder ejecutivo federal, los representantes de las entidades federativas, organismos públicos y representantes de la sociedad civil, así como contar con la participación, cuando sea posible, de niñas, niños y adolescentes.
+(DEROGADO, D.O.F. 4 DE ABRIL DE 2018)
 
 ###### Artículo 61.
 
-Las comisiones contarán con la participación de personas expertas en los temas específicos a tratar, instituciones del sector público, social o privado u organismos internacionales y académicos. Los cargos de las personas que integren alguna comisión serán honoríficos.
+(DEROGADO, D.O.F. 4 DE ABRIL DE 2018)
 
-Las Comisiones participar en las sesiones del Sistema Nacional por invitación de la Secretaría Ejecutiva.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 62.
 
-Sin perjuicio de las Comisiones que se establezcan conforme a lo señalado por en el presente Manual, el Sistema Nacional contará con una Comisión Especializada de análisis en lo relativo al respeto, protección y promoción de los derechos, que estará conformada por una persona experta en la materia del ámbito académico, o de los sectores social o privado que será nombrada por cada uno de los Sistemas Locales.
+El Sistema Nacional tendrá una Comisión Especializada de análisis en lo relativo al respeto, protección y promoción de los derechos, que estará conformada por una persona experta en la materia del ámbito académico, que será nombrada por cada uno de los Sistemas Locales.
 
-La Comisión Especializada podrá realizar visitas regionales para la realización de diagnósticos respecto de la efectividad de la garantía de los derechos de niñas, niños y adolescentes, a efecto de proporcionar al Sistema Nacional, a través de la Secretaría Ejecutiva, recomendaciones para la formulación de políticas públicas en materia de respeto, protección y promoción de los derechos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 La Comisión Especializada funcionará conforme los lineamientos que se emitan para tal efecto.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+###### Artículo 62 Bis.
+
+Para integración, organización y funcionamiento de los grupos de trabajo señalados en la fracción X del artículo 5 de este Manual, se podrá aplicar de manera supletoria el contenido de los Lineamientos que detallen el funcionamiento de las Comisiones.
+
 ###### Artículo 63.
 
-En los lineamientos que detallen el funcionamiento de estas comisiones, se deberá considerar que por cada comisión se designará una persona que funja como Presidenta de la misma, la cual será responsable de conducir los trabajos y desempeñarse como enlace ante la Secretaría Ejecutiva para brindarle información concerniente de los acuerdos y avances alcanzados. Esta persona será electa entre las personas integrantes de las comisiones.
+(DEROGADO, D.O.F. 4 DE ABRIL DE 2018)
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 64.
 
-La Secretaría Ejecutiva proveerá los insumos necesarios para el desarrollo de las funciones de las Comisiones.
+La Secretaría Ejecutiva y la Coordinación de las Comisiones proveerán los insumos necesarios para el desarrollo de las funciones de las Comisiones.
 
 ### CAPÍTULO XII. Del Consejo Consultivo
 
@@ -729,7 +881,9 @@ III. La estimación de los recursos, fuentes de financiamiento, así como la det
 
 IV. Los mecanismos que aseguren una ejecución coordinada de los distintos Programas por parte de las autoridades de los distintos órdenes de gobierno;
 
-V. Los mecanismos de participación de los sectores público, privado, social así como de las niñas, niños y adolescentes en la planeación, elaboración y ejecución de los Programas que permitan la protección de los derechos de éstos últimos;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2018)</small>
+
+V. Los mecanismos de participación de los sectores público, privado, social, así como de las niñas, niños y adolescentes en la planeación, elaboración y ejecución de los Programas que permitan la protección de los derechos de éstos últimos;
 
 VI. Los mecanismos de transparencia y de rendición de cuentas,
 
@@ -895,10 +1049,18 @@ PRIMERO: El presente Manual entrará en vigor al día siguiente de su publicaci�
 
 SEGUNDO: En la primera elección de los representantes de la sociedad civil que integrarán el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, cuatro de los ocho integrantes, quienes serán determinados mediante sistema de insaculación por única ocasión, durarán en su encargo solamente dos años.
 
-Los primeros 20 integrantes del Consejo Consultivo serán electos por los Integrantes del Sistema Nacional, señalados en los apartados A, B y C del artículo 127 de la Ley, en los términos de la convocatoria pública que para el efecto emita la Secretaría Ejecutiva.
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
-Diez de los veinte integrantes, quienes serán determinados mediante sistema de insaculación por única ocasión, durarán en su encargo solamente tres años y no podrán ser reelegidos para un segundo periodo.
+Los primeros 20 integrantes del Consejo Consultivo serán electos por los Integrantes del Sistema Nacional, señalados en los apartados A, B y C del artículo 127 de la Ley.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 4 DE ABRIL DE 2018)</small>
 
 TERCERO: Una vez vigente el presente Manual, la Secretaría Ejecutiva enviará a las personas integrantes del Sistema Nacional la propuesta de fecha para la celebración de la primera asamblea ordinaria del 2016.
 
 México, D.F., a 2 de diciembre de 2015.- El Secretario Ejecutivo del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, Ricardo Antonio Bucio Mújica.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE ABRIL DE 2018.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3O. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]</small>
