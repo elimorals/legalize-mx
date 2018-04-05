@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2018-03-23"
+last_updated: "2018-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -76,6 +78,10 @@ El Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura expedir
 ###### Artículo 5º.
 
 El ejercicio de la función jurisdiccional comprende el conocimiento de los asuntos del fuero común y del orden federal, en los casos que expresamente establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2018)</small>
+
+Cuando en ejercicio de la función jurisdiccional los jueces y magistrados del Poder Judicial del Estado emitan dentro de su ámbito de competencia sentencias en las que se establezca interpretación conforme, se aplique control difuso de la constitucionalidad o de la convencionalidad o se fijen criterios relevantes en materia de derechos humanos, éstas deberán ponerse a disposición del público en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo; asimismo se fomentará que dichas determinaciones sean difundidas al interior del Poder Judicial del Estado de Quintana Roo, así como entre las diversas autoridades jurisdiccionales y administrativas en el Estado, a través de los medios que se consideren idóneos. El Pleno del Tribunal Superior de Justicia o en su caso, el Pleno del Consejo de Judicatura, en el ámbito de sus competencias, determinarán las sentencias que cumplen lo establecido en el presente párrafo.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -439,8 +445,6 @@ V.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Ple
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 32
@@ -462,8 +466,6 @@ III.- Asistir a las audiencias y diligencias que lleve a cabo su Sala, permaneci
 IV.- Vigilar que las labores del tribunal se desarrollen con normalidad comunicando al pleno las deficiencias que observen;
 
 V.- Conceder audiencia a los interesados en los asuntos de que conozcan; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -635,23 +637,17 @@ Contra las determinaciones administrativas del Presidente del Tribunal, podrá i
 
 ### CAPITULO II. DE LOS TRIBUNALES UNITARIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 47.
 
 Para el cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de la Constitución Política del Estado, el Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado Numerario, que tendrá competencia para substanciar y formular, en los términos de la ley respectiva los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de justicia, de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 ###### Artículo 48.
 
 La Sala Constitucional y Administrativa será competente para conocer de los asuntos establecidos en los artículos 104 y 105 de la Constitución Política del Estado de Quintana Roo, de conformidad con lo estipulado en las leyes correspondientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
 
@@ -716,8 +712,6 @@ En el caso a que se refiere el artículo anterior, el Pleno del Consejo de la Ju
 ###### Artículo 57.
 
 Los Jueces de Primera Instancia conocerán de todos los asuntos de la competencia de los Juzgados de Paz, cuando en el Distrito de su residencia no funcionen éstos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -857,8 +851,6 @@ II.- Remitir al Fondo Para mejoramiento en la Administración e impartición de 
 
 III.- Visitar los centros preventivos o de readaptación social, a fin de cerciorarse de que no exista privación ilegal de libertad de persona alguna.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Artículo 64 BIS.- Son obligaciones de los jueces de instrucción:
@@ -876,8 +868,6 @@ III. Acordar las diversas promociones presentadas en ejecución de sentencia.
 ###### Artículo 65.
 
 Los Juzgados de Primera Instancia conocerán de los asuntos del orden civil, mercantil, familiar, penal o competencia mixta, conforme a la organización jurisdiccional establecida por esta Ley o la que determine el Pleno del Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -1613,9 +1603,7 @@ V.- Practicar los inventarios, embargos, requerimientos, secuestros y demás dil
 
 VI.- Levantar inmediatamente las actas correspondientes, haciendo constar en ellas todos los incidentes de la diligencia y las razones que en contra de esta expongan los interesados, sin suspenderla por ningún motivo, salvo los casos expresamente determinados por la ley; y
 
-VI.- Las demás que las leyes y los Jueces determinen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI (SIC).- Las demás que las leyes y los Jueces determinen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -1695,8 +1683,6 @@ XVII.- Dar cuenta al titular del árgano jurisdiccional respectivo de los medios
 
 XVIII.- Atender los requerimientos que formule la Unidad de Información del Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
 XIX.- Coordinar el trabajo de los actuarios;
@@ -1765,8 +1751,6 @@ II.- Ser licenciado en Derecho o licenciado en Administración o carrera afín; 
 
 III.- No haber sido condenado por delito doloso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 86 Quáter.
@@ -1789,8 +1773,6 @@ VII. Cotejar que estén debidamente digitalizados los expedientes, y
 
 VIII. Certificar el medio electrónico en donde se encuentre registrada la audiencia respectiva, verificando que contenga lo que sucedió en la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 86 Quinquies.
@@ -1802,8 +1784,6 @@ I. Levantar en acta una relación sucinta de lo acontecido en las audiencias que
 II. En segunda instancia, realizar una síntesis de los agravios expuestos y la postura de la contraparte; y
 
 III. Dar cuenta y acordar las promociones que se reciban en el Tribunal Unitario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2213,15 +2193,11 @@ XIII.- Diseñar, elaborar y mantener actualizada una página de Internet y los s
 
 La vigilancia judicial tiene por objeto velar por que la justicia se imparta oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la impartición y administración de justicia y puntual desempeño de sus deberes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 106.
 
 La Visitaduría es el órgano auxiliar del Consejo de la Judicatura, competente para inspeccionar el funcionamiento de los Tribunales Unitarios, Juzgados de Primera Instancia, Juzgados de Control, Tribunales de Juicio Oral, Juzgados de Ejecución de Sentencias, Juzgados de Paz, Tribunal y Juzgados de Justicia para Adolescentes, Centro de Justicia Alternativa, Sistema de Justicia Indígena, Centro de Convivencia Familiar Supervisada y demás órganos del Poder Judicial, con excepción del Pleno del Tribunal Superior de Justicia del Estado y sus salas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2242,8 +2218,6 @@ El Visitador General, deberá ser Juez de Primera Instancia, gozar de amplia exp
 El Visitador de zona o por materia, deberá ser preferente Secretario de Juzgado o Secretario de Estudio y Cuenta de Sala, y no haber sido sancionado por falta grave por el Consejo. Será designado por el Consejo de la Judicatura, a propuesta de su Presidente. Durará tres años en el ejercicio de su encargo, prorrogables por una sola vez por el mismo período, a consideración del Consejo de la Judicatura. Una vez concluido su encargo, se reincorporará a su puesto.
 
 Las funciones que está ley le confiere al Visitador General podrán ser ejercidos por el visitador judicial que determine el Consejo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2305,8 +2279,6 @@ X. Suplir las ausencias temporales del visitador general, cuando así lo determi
 
 XI. Las demás que le asigne la ley, el reglamento o las disposiciones que emita el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 109.
@@ -2360,8 +2332,6 @@ El ingreso y la promoción de los servidores públicos de carácter jurisdiccion
 ###### Artículo 112.
 
 Para ser Juez de Primera Instancia o de Paz se requiere cumplir los requisitos que señala el artículo 101 de la Constitución Política del Estado, con excepción de la edad que deberá ser de veintiocho años, por lo menos, cumplidos al día de su designación y del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2475,8 +2445,6 @@ Los magistrados numerarios del Tribunal Superior de Justicia del Estado tienen d
 
 ### CAPITULO VII. DE LA CARRERA JUDICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 116.
@@ -2552,8 +2520,6 @@ El Consejo de la Judicatura del Estado tendrá la facultad de obtener y verifica
 ###### Artículo 118.
 
 En los concursos internos de oposición únicamente podrán participar los de la categoría inmediata inferior, y en los concursos de oposición libre, podrán participar los aspirantes que satisfagan los requisitos contenidos en la Convocatoria que al efecto expida el Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -3616,3 +3582,11 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Sin perjuicio de lo establecido en el artículo transitorio precedente, los Juzgados del Distrito Judicial de Solidaridad continuarán conociendo de los asuntos correspondientes a la circunscripción del Municipio de Tulum, hasta en tanto el Pleno del Consejo de la Judicatura, mediante Acuerdos Generales, asigne el número de juzgados, así como la jurisdicción y competencia que correspondan al Distrito Judicial de Tulum.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 156 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 96 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, Y SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DIFUSIÓN DE CRITERIOS RELEVANTES LOCALES Y FOMENTO DEL DIÁLOGO JURISPRUDENCIAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
