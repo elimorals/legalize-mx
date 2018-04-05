@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2017-11-10"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -16949,11 +16949,13 @@ VIII.- Cuando no se individualicen los bienes del deudor sobre los que constituy
 
 IX.- Cuando falte algún otro requisito que deba llenar el documento de acuerdo con este Código u otras leyes aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2018)</small>
 
 ###### Artículo 3186.
 
-La calificación hecha por el Registrador podrá recurrirse ante el Secretario de Hacienda, si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio, en el que será parte el Registrador.
+La calificación hecha por el registrador podrá recurrirse ante el Secretario de Gobierno, si éste confirma la calificación, el perjudicado por ella podrá reclamarla en el juicio, en el que será parte el Registrador.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiera hecho la anotación preventiva a que se refiere la fracción IV del Artículo 3200.
 
@@ -17458,3 +17460,17 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2018.
+
+[TRANSITORIOS DEL “DECRETO NÚMERO: 155 POR EL QUE SE REFORMAN EL ARTÍCULO 31 EN SU FRACCIÓN XXIX, CUYO CONTENIDO SE TRASLADA A LA FRACCIÓN XXX QUE SE ADICIONA; ASÍ COMO EL ARTÍCULO 33 EN SU FRACCIÓN XXXI, AMBOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3186 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se instruye a la Secretaría de Finanzas y Planeación, así como a la Oficialía Mayor para que realice en coordinación con la Secretaría de Gobierno y demás autoridades que competan, los ajustes necesarios tendientes a que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico con los que cuenta el Registro Público de la Propiedad y del Comercio, sean transferidos a la Secretaría de Gobierno; esto dentro de un plazo no mayor a sesenta días a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los recursos de inconformidad derivados de la materia registral iniciados con anterioridad a la entrada en vigencia del presente Decreto ante la Secretaría de Finanzas y Planeación, serán continuados hasta concluirlos ante la misma.
+
+CUARTO.- En un término que no exceda de noventa días naturales contados a partir de la entrada en vigencia del presente Decreto, deberán adecuarse al contenido del mismo, los Reglamentos interiores de la Secretaría de Gobierno y de la Secretaría de Finanzas y Planeación; así como la normatividad del Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
