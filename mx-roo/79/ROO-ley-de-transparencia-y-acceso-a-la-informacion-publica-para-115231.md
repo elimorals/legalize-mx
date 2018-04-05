@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2017-12-27"
+last_updated: "2018-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -493,7 +493,7 @@ VI. No estar inhabilitado para el desempeño de funciones públicas, ni estar su
 
 VII. Haber residido en el Estado durante los diez años anteriores al día de la designación;
 
-VIII. No ser ni haber sido miembro. de comités directivos o equivalentes, sean nacionales, estatales o municipales, en algún partido político, durante el año previo al día de su designación;
+VIII. No ser ni haber sido miembro de comités directivos o equivalentes, sean nacionales, estatales o municipales, en algún partido político, durante el año previo al día de su designación;
 
 IX. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
 
@@ -1509,7 +1509,9 @@ Además de lo señalado en el artículo 91 de la presente Ley, el Poder Judicial
 
 I. Los criterios y ejecutorias publicadas en su órgano de difusión oficial;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+II. Las versiones públicas de las sentencias que sean de interés público, así como de las sentencias que hayan sido emitidas por los jueces y magistrados dentro de su ámbito de competencia en las que se establezca interpretación conforme, se aplique control difuso de la constitucionalidad o de la convencionalidad o se fijen criterios relevantes en materia de derechos humanos;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -1613,7 +1615,7 @@ f) En su caso, las sentencias, ejecutorias o suspensiones judiciales que existan
 
 g) El número de quejas, denuncias y Recursos de Revisión dirigidos a cada uno de los sujetos obligados.
 
-> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN] , P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 V. En el caso del Tribunal de Justicia Administrativa del Estado de Quintana Roo:
 
@@ -2285,7 +2287,7 @@ Si los sujetos obligados son competentes para atender parcialmente la solicitud 
 
 ###### Artículo 159.
 
-En caso de que los sujetos obligados consideren que los documentos o la información deban ser clasificada, se sujetarán a lo siguiente:
+En caso de que los sujetos obligados consideren que los documentos o la información deban ser clasificada (sic), se sujetarán a lo siguiente:
 
 El Área deberá remitir la solicitud, así como un escrito en el que funde y motive la clasificación al Comité de Transparencia, mismo que deberá resolver para:
 
@@ -2857,7 +2859,7 @@ CUARTO. Los titulares de los Órganos Internos de Control de los órganos autón
 
 P.O. 27 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 141 POR El QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE DEROGAN·Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y A LA LEY DE TAANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 141 POR El QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor el lo. de enero del año 2018, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2878,3 +2880,11 @@ El Secretario General de Acuerdos y demás personal jurisdiccional y administrat
 SÉPTIMO. Los procedimientos de responsabilidad patrimonial de los que conocerá el Tribunal de Justicia Administrativa del Estado de Quintana Roo de conformidad con lo establecido en el artículo 187 fracción XVI del Código de Justicia Administrativa del Estado de Quintana Roo que se expide mediante el presente decreto, deberán ser substanciados de conformidad con la legislación en la materia (sic) en su caso se emita.
 
 OCTAVO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 156 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 96 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, Y SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DIFUSIÓN DE CRITERIOS RELEVANTES LOCALES Y FOMENTO DEL DIÁLOGO JURISPRUDENCIAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
