@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2016-11-15"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -565,9 +565,11 @@ La Secretaría de Finanzas queda facultada para formular el proyecto de presupue
 
 El anteproyecto de Presupuesto de Egresos del Estado deberá ser presentado por la Secretaría de Finanzas al Gobernador durante la segunda quincena del mes de noviembre anterior al inicio del nuevo ejercicio fiscal, a fin de que se envíe oportunamente al Congreso el proyecto de Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 35.
 
-Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo, serán sometidas al trámite que establezca el Reglamento para el Gobierno Interior del Congreso del Estado, debiendo prever en todo caso los ingresos necesarios para cubrir los egresos que se aprueben.
+Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo, serán sometidas al trámite que establezca la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, debiendo prever en todo caso los ingresos necesarios para cubrir los egresos que se aprueben.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1146,3 +1148,11 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-391 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY DE GASTO PÚBLICO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
