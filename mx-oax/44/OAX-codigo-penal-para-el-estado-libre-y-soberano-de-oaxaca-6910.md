@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-03-12"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2727,9 +2727,9 @@ Ejecución de sentencias.
 
 De la libertad preparatoria y la preliberación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2018)</small>
 
-94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes ni a los habituales.
+94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes, a los habituales, ni a los sentenciados por el delito de tortura.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -4029,7 +4029,91 @@ Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equival
 
 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
 
-217 Bis B.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2017)
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2018)</small>
+
+### CAPITULO VIII.
+
+Delitos cometidos contra la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2018)</small>
+
+217 Bis B.- Son delitos contra la administración de justicia, cometidos por servidores públicos los siguientes
+
+I.- Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les corresponda, sin tener impedimento legal para ello,
+
+II.- Desempeñar algún otro empleo oficial o un puesto o cargo particular que la ley les prohíba;
+
+III.- Litigar por si o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión;
+
+IV.- Dirigir o aconsejar a las personas que ante ellos litiguen;
+
+V.- No cumplir una disposición que legalmente se les comunique por su superior competente, sin causa fundada para ello;
+
+VI.- Dictar, a sabiendas una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva licita, dentro de los términos dispuestos en la ley;
+
+VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+
+VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
+
+IX.- Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a la leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
+
+X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
+
+XI.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
+
+XII.- Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
+
+XIII.- Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
+
+XIV.- Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
+
+XV.- No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
+
+XVI.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+
+XVII.- Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
+
+XVIII.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución;
+
+XIX.- A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+
+XX.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
+
+XXI.- Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+
+XXII.- Advertir al demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra;
+
+XXIII.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
+
+XXIV.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas;
+
+XXV.- No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
+
+XXVI.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
+
+XXVII.- Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
+
+XXVIII.- Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
+
+XXIX.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia.
+
+XXX.- Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y
+
+XXXI.- Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
+
+XXXII.- A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
+
+XXXIII.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+
+XXXIV.- A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución; y
+
+XXXV.- Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar (sic) injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente.
+
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XVIII, XXII, XXIII, XXIV, XXX Y XXXI, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
+
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXXII, XXXIII, XXXIV y XXXV, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta dias multa.
+
+En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
 217 (sic) C.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2017)
 
@@ -4067,6 +4151,10 @@ II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y 
 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO I.
 
 Falsificación de sellos, llaves, cuños, troqueles y marcas.
@@ -4086,10 +4174,6 @@ II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO II.
 
@@ -4175,6 +4259,10 @@ En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa d
 
 Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO IV.
 
 Variación del nombre o del domicilio.
@@ -4188,10 +4276,6 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquier clase o citación de una Autoridad, o para obtener algún documento, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO IV BIS
 
@@ -5311,6 +5395,12 @@ X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO II.
 
 Abigeato.
@@ -5400,12 +5490,6 @@ VI. Se realice por algún individuo que simule o sea miembro de alguna corporaci
 VII. Se ejecute por personas que utilicen armas de fuego o explosivos en su comisión o para darse a la fuga después de consumado el delito.
 
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO III.
 
@@ -5847,16 +5931,6 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
-
-I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -5878,6 +5952,16 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 ## TITULO VIGESIMO PRIMERO.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+
+I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -6480,3 +6564,29 @@ P.O. 12 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1332.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1330.- MEDIANTE EL CUAL EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura publicada en el Periódico Oficial del Estado de Oaxaca, el 20 de noviembre de 1993, aprobada mediante decreto número 153 por la Quincuagésima Quinta Legislatura del Estado
+
+TERCERO. La Fiscalía General del Estaco contará con un plazo de ciento ochenta dias siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Estatal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Estatal del Delito de Tortura.
+
+Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, la Fiscalía Especializada deberá poner en marcha sus registros correspondientes
+
+CUARTO. La Fiscalía General del Estado, contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente debiendo informar al Congreso del Estado a efecto de tomar las previsiones para los ejercicios fiscales subsecuentes.
+
+QUINTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+SEXTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+
+SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Estatal, se cubrirán con cargo a sus presupuestos del ejercicio fiscal 2018 y los subsecuentes. Así mismo, se deberán realizar las previsiones y adecuaciones presupuestales necesarias, para dar cumplimiento a las obligaciones establecidas en este decreto.
+
+OCTAVO. Una vez que, en términos de lo dispuesto en el Artículo Tercero Transitorio del presente Decreto, la Fiscalía General del Estado comience a operar el Registro Estatal del delito de Tortura, la Comisión Ejecutiva Estatal y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+
+NOVENO. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal de Atención a Víctimas, deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+
+DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria. así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo del ciento ochenta días contados a partir de su entrada en vigor.
