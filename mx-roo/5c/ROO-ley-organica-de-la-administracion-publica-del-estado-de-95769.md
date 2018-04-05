@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2017-07-19"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -333,7 +333,7 @@ II. Suplir las ausencias del Gobernador del Estado en los casos previstos en el 
 
 III. Llevar un seguimiento de las gestiones en materia de límites del Estado y de sus municipios; e intervenir en la reivindicación de la propiedad del Estado, en términos de la legislación aplicable;
 
-IV. Cumplir y hacer cumplir los decretos, reglamentos, acuerdos, circulares y demás disposiciones oficiales del Gobernador del Estado; así como, elaborar y en su caso revisar los proyectos de iniciativas de leyes y decretos que el Titular del Poder Ejecutivo Estatal presente a la Legislatura del Estado;
+IV. Cumplir y hacer cumplir los decretos, reglamentos, acuerdos, circulares y demás disposiciones oficiales del Gobernador del Estado; así como elaborar y en su caso, revisar los proyectos de iniciativas de leyes y decretos que el Titular del Poder Ejecutivo Estatal presente a la Legislatura del Estado;
 
 V. Conducir las relaciones institucionales del Titular del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado y con los ayuntamientos del mismo, así como con las representaciones de los sectores público, social y privado, en congruencia con la política interior y de conformidad con las directrices que determine el Gobernador del Estado;
 
@@ -395,7 +395,13 @@ XXVII. Organizar y administrar el Archivo General del Estado, determinando los l
 
 XXVIII. Representar al Gobierno del Estado y establecer enlaces ante los Poderes de la Unión, dependencias y entidades de la Administración Pública Federal.
 
-XXIX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2018)</small>
+
+XXIX. Administrar, normar, conducir y supervisar los servicios que presta el Registro Público de la Propiedad y del Comercio en el Estado asegurando en ellos los principios de certeza y seguridad jurídica, así como la correcta y adecuada distribución de los mismos en toda la geografía del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2018)</small>
+
+XXX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -577,7 +583,9 @@ XXIX. Fungir como representante del Gobierno del Estado ante el Sistema Nacional
 
 XXX. Intervenir en los juicios que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado, sin perjuicio de lo establecido en la Ley de Fiscalización y Rendición de Cuentas. Así mismo, la Secretaría de Finanzas y Planeación coadyuvará con la Fiscalía Especializada en Combate a la Corrupción en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial cuando existan indicios de que se han causado daños o perjuicios, o ambos, en contra de la Hacienda Pública del Estado o, en su caso, del patrimonio de los entes públicos.
 
-XXXI. Administrar, normar, conducir, coordinar y supervisar los servicios catastrales y del Registro Público de la Propiedad y del Comercio en el Estado, asegurando la adecuada distribución, funcionamiento y modernización de los mismos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+XXXI. Administrar, normar, conducir y supervisar los servicios catastrales en el Estado, asegurando la adecuada distribución, funcionamiento y modernización del mismo.
 
 XXXII. Fungir como fideicomitente único del Gobierno del Estado en la constitución de fideicomisos públicos y cuidar que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre bienes fideicomitidos, las limitaciones que establezca o que se derive de derechos de terceros, así como los derechos de terceros que el fideicomitente se reserve y las facultades que fije en su caso el Comité Técnico;
 
@@ -1990,3 +1998,17 @@ NOVENO. Los derechos y obligaciones contractuales, contraídos por las Secretar�
 DÉCIMO. Los asuntos que con motivo de la entrada en vigor del presente Decreto deban pasar de una Dependencia a otra, continuarán tramitándose por las Unidades Administrativas de origen hasta que estas sean incorporadas a las nuevas Dependencias en términos de este Decreto.
 
 DÉCIMO PRIMERO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 155 POR EL QUE SE REFORMAN EL ARTÍCULO 31 EN SU FRACCIÓN XXIX, CUYO CONTENIDO SE TRASLADA A LA FRACCIÓN XXX QUE SE ADICIONA; ASÍ COMO EL ARTÍCULO 33 EN SU FRACCIÓN XXXI, AMBOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3186 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se instruye a la Secretaría de Finanzas y Planeación, así como a la Oficialía Mayor para que realice en coordinación con la Secretaría de Gobierno y demás autoridades que competan, los ajustes necesarios tendientes a que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico con los que cuenta el Registro Público de la Propiedad y del Comercio, sean transferidos a la Secretaría de Gobierno; esto dentro de un plazo no mayor a sesenta días a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los recursos de inconformidad derivados de la materia registral iniciados con anterioridad a la entrada en vigencia del presente Decreto ante la Secretaría de Finanzas y Planeación, serán continuados hasta concluirlos ante la misma.
+
+CUARTO.- En un término que no exceda de noventa días naturales contados a partir de la entrada en vigencia del presente Decreto, deberán adecuarse al contenido del mismo, los Reglamentos interiores de la Secretaría de Gobierno y de la Secretaría de Finanzas y Planeación; así como la normatividad del Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
