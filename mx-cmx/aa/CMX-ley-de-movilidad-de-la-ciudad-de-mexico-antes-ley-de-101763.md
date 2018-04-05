@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2018-04-02"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -1062,6 +1062,8 @@ El procedimiento se inicia al presentar ante la Secretaría la solicitud de eval
 
 La elaboración del estudio de impacto de movilidad se sujetará a lo que establece la presente Ley, el Reglamento y al pago de derechos ante la autoridad competente, conforme a lo dispuesto en el Código Fiscal del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
+
 ###### Artículo 54.
 
 En respuesta a la solicitud presentada por el promovente respecto a la evaluación de los estudios de impacto de movilidad, la Secretaría emitirá la factibilidad de movilidad, que es el documento mediante el cual se determina, de acuerdo a las características del nuevo proyecto u obra privada, si se requiere presentar o no informe preventivo. Los plazos para emitirla se establecerán en el Reglamento, los cuales no podrán ser mayores a siete días hábiles.
@@ -1070,13 +1072,13 @@ El informe preventivo es el documento que los promoventes de nuevos proyectos y 
 
 a) Manifestación de impacto de movilidad general; y
 
-b) Manifestación de impacto de movilidad específica.
+b) Manifestación de impacto de movilidad especifica.
 
 En el Reglamento se establecen las obras privadas que estarán sujetas a la presentación de un estudio de impacto de movilidad en cualquiera de sus modalidades.
 
-Con la finalidad de contribuir con la simplificación administrativa y no contravenir lo dispuesto la Ley de Establecimientos Mercantiles del Distrito Federal, así como en la Ley de Desarrollo Urbano del Distrito Federal, no estarán sujetos a la presentación del Estudio de Impacto de Movilidad en cualquiera de sus modalidades: la construcción y/o ampliación de vivienda unifamiliar, así como la vivienda plurifamiliar no mayor a diez viviendas siempre y cuando éstas no cuenten con frente a una vialidad primaria; los establecimientos mercantiles de bajo impacto, nuevos y en funcionamiento; las modificaciones a los programas de desarrollo urbano en predios particulares destinados a usos comerciales y servicios de bajo impacto urbano; así como a la micro y pequeña industria;
+Los proyectos de obras que contemplen nuevas estaciones de servicio de combustibles para carburación como gasolina, diesel, gas LP y gas natural, para el servicio público y/o autoconsumo, estarán obligadas a presentar el estudio de impacto de movilidad correspondiente.
 
-Su incumplimiento será sancionado de conformidad con lo establecido en esta Ley y el Reglamento.
+Con la finalidad de contribuir con la simplificación administrativa y no contravenir lo dispuesto (sic) la Ley de Establecimientos Mercantiles del Distrito Federal, así como en la Ley de Desarrollo Urbano del Distrito Federal, no estarán sujetos a la presentación del Estudio de Impacto de Movilidad en cualquiera de sus modalidades: la construcción y/o ampliación de vivienda unifamiliar, así como la vivienda plurifamiliar no mayor a diez viviendas siempre y cuando estas no cuenten con frente a una vialidad primaria; los establecimientos mercantiles de bajo impacto, nuevos y en funcionamiento, excepción hecha de los señalados en el párrafo anterior; las modificaciones a los programas de desarrollo urbano en predios particulares destinados a usos comerciales y servicios de bajo impacto urbano; así como a la micro y pequeña industria.
 
 ## TÍTULO TERCERO. DEL SISTEMA DE MOVILIDAD
 
@@ -3033,3 +3035,13 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Cuarto.- Para tales efectos se deberá efectuar un programa enfocado en las zonas donde se requiera semáforo sonoro, para la sustitución de semáforos de forma paulatina, conforme a la disposición presupuestal disponibles en las partidas correspondientes.
+
+G.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 54 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
+
+Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
