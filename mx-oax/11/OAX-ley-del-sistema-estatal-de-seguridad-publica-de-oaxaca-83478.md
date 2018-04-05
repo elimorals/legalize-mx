@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2016-03-18"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1273 Y DE ACUERDO CON EL ARTÍCULO 53, FRACCIÓN VI, SEGUNDO PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE FACULTA AL PODER EJECUTIVO, PARA QUE, EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO IMPRORROGABLE DE QUINCE DÍAS HÁBILES, ESTABLECIDO EN LA FRACCIÓN CITADA, SE TENDRÁN COMO APROBADAS LAS OBSERVACIONES QUE FUERON PRESENTADAS POR EL EJECUTIVO, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -2803,6 +2801,18 @@ f) Autoridad y lugar en que fue puesto a disposición y
 
 g) Nombre de quien o quienes hayan intervenido en la detención, en su caso, rango y área de adscripción;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+h) Lugar a donde será trasladado el detenido;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+i) Fotografía a color del detenido de frente y perfil; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+j) Fotografía panorámica del lugar de detención, en su caso.
+
 El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la diligencia.
 
 ###### Artículo 167.
@@ -2850,6 +2860,18 @@ e. Huellas dactilares;
 f. Identificación antropométrica, y
 
 g. Dictámenes periciales u otros medios que permitan su identificación.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+h) Lugar a donde será trasladado el detenido;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+i) Fotografía a color del detenido de frente y perfil; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+j) Fotografía panorámica del lugar de detención, en su caso.
 
 III. De la información proporcionada por la Subsecretaría de Prevención y Reinserción Social de la Secretaría, a través de la Dirección General de Reinserción Social, los siguientes datos del detenido:
 
@@ -3242,3 +3264,29 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1805.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚM. 1330.- MEDIANTE EL CUAL EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Se abroga la Ley Estatal para Prevenir y Sancionar la Tortura publicada en el Periódico Oficial del Estado de Oaxaca, el 20 de noviembre de 1993, aprobada mediante decreto número 153, por la Quincuagésima Quinta Legislatura del Estado
+
+TERCERO. La Fiscalía General del Estado contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Estatal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Estatal del Delito de Tortura.
+
+Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, la Fiscalía Especializada deberá poner en marcha sus registros correspondientes
+
+CUARTO. La Fiscalía General del Estado, contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente, debiendo informar al Congreso del Estado a efecto de tomar las previsiones para los ejercicios fiscales subsecuentes.
+
+QUINTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+
+SEXTO. Las autoridades de estatales y municipales, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+
+SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Estatal, se cubrirán con cargo a sus presupuestos del ejercicio fiscal 2018 y los subsecuentes. Así mismo, se deberán realizar las previsiones y adecuaciones presupuestales necesarias, para dar cumplimiento a las obligaciones establecidas en este decreto.
+
+OCTAVO. Una vez que, en términos de lo dispuesto en el Artículo Tercero Transitorio del presente Decreto, la Fiscalía General del Estado comience a operar el Registro Estatal del delito de Tortura, la Comisión Ejecutiva Estatal y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+
+NOVENO. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal de Atención a Víctimas, deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+
+DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
