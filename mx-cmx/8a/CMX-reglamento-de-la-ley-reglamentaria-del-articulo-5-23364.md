@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-reglamentaria-del-articulo-5-23364"
 country: "mx"
 rank: "reglamento"
 publication_date: "1945-10-01"
-last_updated: "1975-05-08"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23364&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1945-09-27"
 ---
 # REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5°. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5° CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL-- ANTES REGLAMENTO DE LA LEY REGLAMENTARIA DE LOS ARTICULOS 4° Y 5° CONSTITUCIONALES,
 
-REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1975.
+REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5O. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 1 de octubre de 1945.
 
@@ -32,9 +34,9 @@ MANUEL ÁVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos
 
 Que en uso de las facultades que me concede la fracción I del artículo 89 constitucional, he tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MAYO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2018)</small>
 
-REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5O. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MÉXICO
 
 ### CAPITULO I. Disposiciones generales
 
@@ -108,25 +110,23 @@ d).- Informar a la Dirección del establecimiento de nuevas carreras profesional
 
 (DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 11.
 
-Los títulos profesionales o grados académicos deberán reunir los siguientes requisitos:
+Los títulos profesionales o grados académicos, para que puedan ser registrados por la Dirección General de Profesiones, deben de ser recibidos en forma electrónica, conforme al estándar que ésta publique en el Diario Oficial de la Federación y contener la información siguiente:
 
-a).- Nombre de la institución que lo otorgue;
+a).- Nombre o denominación de la institución que lo otorgue;
 
-b).- Declaración de que el profesionista hizo los estudios de acuerdo con el plan y programa relativos a la profesión de que se trate;
+b).- Declaración de que el profesionista realizó los estudios y el servicio social, de acuerdo con el plan y programa relativos a la profesión de que se trate, en términos de la normatividad aplicable.
 
-c).- Lugar y fecha en que se sustentó el examen profesional o de grado, en caso de exigirse dicho examen;
+En los casos de títulos profesionales o grados académicos expedidos en el extranjero y que cuenten con validez oficial en el país de origen, no será necesario acreditar el servicio social;
 
-d).- Lugar y Fecha de expedición del título o grado;
+c).- Lugar y fecha de expedición del título profesional o grado académico, y
 
-e).- Firma de la persona o personas autorizadas para suscribirlo conforme a las disposiciones que rijan a la escuela o institución; y
+d).- Firma de la persona o personas autorizadas para suscribirlo conforme a las disposiciones que rijan a la escuela o institución. La firma podrá efectuarse mediante la firma electrónica avanzada emitida por el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, conforme lo dispone la Ley de Firma Electrónica Avanzada y su Reglamento.
 
-f).- Retrato del interesado.
-
-Cuando los títulos o grados sean expedidos por personas que no tengan el carácter de autoridades federales o funcionarios de los Estados, deberán contener la legalización de las firmas de dichas personas, otorgada por la autoridad competente.
+Cuando los títulos o grados sean expedidos por particulares, respecto de estudios autorizados o reconocidos, y firmen de manera electrónica, conforme a lo señalado en el presente artículo, se considerará que los mismos han sido autenticados para los efectos de su registro, cumpliendo con lo dispuesto en el primer párrafo del artículo 18 de la Ley para la Coordinación de la Educación Superior.
 
 > <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
@@ -140,59 +140,31 @@ Sólo las instituciones a que se contrae el artículo 1o. de la Ley podrán expe
 
 ### CAPITULO III. Tramitación ante la Dirección General de Profesiones
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 14.
 
-Para obtener el registro de un título profesional o grado académico, el interesado deberá presentar en la Dirección General de Profesiones una solicitud en la que, bajo protesta de decir verdad, declarará:
+Para obtener el registro de un título profesional o grado académico, el interesado deberá presentar en la Dirección General de Profesiones una solicitud firmada en la que contenga:
 
-I.- Su nombre, sexo, lugar y fecha de nacimiento, nacionalidad y domicilio;
+I.- Su nombre, lugar y fecha de nacimiento, así como su nacionalidad;
 
-II.- Número de su registro federal de causante, en su caso;
+II.- Clave Única de Registro de Población;
 
-III.- Datos sobre los estudios profesionales acreditados:
+III.- Nombre o denominación de la institución que le otorgó el título profesional o grado académico, y
 
-a).- Nombre y domicilio de la institución que le otorgó el título o grado. Al efecto se deberá señalar si ésta es federal, estatal, descentralizada o particular con autorización o con reconocimiento de validez oficial de estudios;
+IV.- Fecha de emisión del título profesional o del grado académico.
 
-b).- Fecha en que acreditó dichos estudios y, en su caso, la del examen profesional o de grado; y
+A esta solicitud deberá adjuntarse el archivo electrónico que contenga el original del título profesional o grado académico, con las características señaladas en el artículo 11 de este Reglamento.
 
-IV.- Servicio social que se haya prestado como requisito previo para obtener el título o grado.
+En el caso de títulos profesionales o grados académicos expedidos en el extranjero y que cuenten con validez oficial en el país de origen, irán acompañados de la revalidación correspondiente emitida en términos de las disposiciones aplicables, dichos documentos podrán presentarse escaneados a color en su anverso y reverso.
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+###### ARTÍCULO 15.
 
-###### ARTICULO 15.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2018)
 
-A la solicitud a que se refiere el artículo anterior, el interesado deberá acompañar lo siguiente:
+###### ARTÍCULO 16.
 
-I.- Certificados de educación secundaria y de bachillerato o equivalentes, cuando se trate de estudios profesionales de tipo medio;
-
-II.- Certificados de estudios de tipo medio y profesionales de licenciatura, maestría o doctorado, cuando se trate de tipo superior;
-
-III.- Acta de examen profesional o de grado, o constancia de que no es exigible dicho examen;
-
-IV.- Original del título profesional o grado académico;
-
-V.- Dos copias fotostáticas del título o grado;
-
-VI.- Certificación expedida por la institución que le otorgó el título o grado, en la que se haga constar que el interesado prestó servicio social en los términos del artículo 55 de la Ley;
-
-VII.- Información necesaria en caso de desaparición de las instituciones educativas donde se hayan realizado los estudios y certificación de esa circunstancia expedida por la autoridad correspondiente;
-
-VIII.- Información necesaria en caso de desaparición, mutilación o destrucción de los documentos o archivos escolares y constancia relativa expedida por autoridad competente;
-
-IX.- Documento que acredite su identidad y nacionalidad:
-
-a).- Mexicanos por nacimiento, copia certificada del acta de nacimiento. Si se careciere de este documento, se podrá demostrar esta calidad por otros medios de prueba bastantes a juicio de la Dirección;
-
-b).- Personas que hayan optado por la nacionalidad mexicana, certificado de nacionalidad o carta de naturalización, en su caso. Los nacidos en territorio de la República de padre o madre extranjero y de los nacidos en el extranjero de padres mexicanos, de padre mexicano o de madre mexicana, deberán acreditar su nacionalidad mexicanas en los términos que señala el artículo 57 de la Ley de Nacionalidad y Naturalización, y su Reglamento;
-
-c).- Extranjeros, copia certificada de su acta de nacimiento, debidamente legalizada, y copia fotostática certificada de su documentación migratoria; y
-
-X.- Dos retratos.
-
-###### ARTICULO 16.
-
-En caso de imposibilidad de obtener esas certificaciones o cuando se trate de estudios hechos antes de la vigencia de este Reglamento en escuelas que no hayan pertenecido al sistema educativo oficial, se recibirá a los interesados cualquier prueba, cuya calificación será hecha por la Dirección General de profesiones.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2018)
 
 ###### ARTICULO 17.
 
@@ -272,11 +244,11 @@ Se llevará además un índice, también en libros y tarjetas, por escuelas, col
 
 (DEROGADO, D.O.F. 8 DE MAYO DE 1975)
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 32.
 
-Una vez realizada la inscripción de un título profesional o grado académico, se entregará al profesionista de nacionalidad mexicana la cédula personal correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en sus actividades profesionales. En esta cédula aparecerá el retrato y la firma del profesionista.
+Una vez realizada la inscripción de un título profesional o grado académico se entregará, por medios electrónicos, la cédula profesional electrónica correspondiente al solicitante, con efectos de patente para su ejercicio profesional, misma que deberá ser emitida conforme al estándar que al efecto publique la Dirección General de Profesiones en el Diario Oficial de la Federación.”
 
 > <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1975)</small>
 
@@ -711,3 +683,25 @@ D.O.F. 8 DE MAYO DE 1975.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO.- Se derogan las demás disposiciones reglamentarias que se opongan al presente Decreto.
+
+D.O.F. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el dieciséis de abril de dos mil dieciocho, con excepción del artículo 11 del Reglamento que se reforma, el cual entrará en vigor el primero de octubre de dos mil dieciocho.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+TERCERO.- Los títulos profesionales o grados académicos que, conforme a la normativa aplicable, hayan sido emitidos con anterioridad a la entrada en vigor del artículo 11 del Reglamento que se reforma, se considerarán válidos para los efectos del penúltimo párrafo del artículo 14 de dicho ordenamiento y podrán presentarse para su registro en la Dirección General de Profesiones, escaneados a color en su anverso y reverso. Aquéllos que sean expedidos por particulares respecto de estudios autorizados o reconocidos, deberán satisfacer el requisito que prevé el artículo 18 de la Ley para la Coordinación de la Educación Superior, mismo que se podrá realizar en forma electrónica.
+
+La Dirección General de Profesiones podrá solicitar al interesado la exhibición del original del título profesional o grado académico que haya sido presentado escaneado en los términos del párrafo que antecede, cuando tenga dudas respecto a la autenticidad o veracidad de los mismos.
+
+Sin perjuicio de lo anterior, las instituciones a que se refiere el artículo 1o. de la Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México podrán emitir también sus títulos profesionales o grados académicos correspondientes al periodo previo al primero de octubre de dos mil dieciocho, conforme a los requisitos que establece el artículo 11 del presente Reglamento, los cuales se considerarán válidos y podrán presentarse para los efectos del penúltimo párrafo del artículo 14 de dicho ordenamiento, en este caso, cuando se trate de títulos o grados expedidos por particulares, respecto de estudios autorizados o reconocidos y firmen de manera electrónica, conforme al referido artículo 11, se considerará que los mismos han sido autenticados para efectos de su registro.
+
+CUARTO.- Las cédulas profesionales emitidas, conforme a la normativa aplicable, antes de la entrada en vigor del presente Decreto conservan su validez para todos los efectos.
+
+QUINTO.- La Dirección General de Profesiones publicará en el Diario Oficial de la Federación los estándares a que refieren los artículos 11 y 32 del Reglamento a más tardar un día antes de la entrada en vigor del presente Decreto.
+
+SEXTO.- La Secretaría de Educación Pública, a partir de la entrada en vigor del presente Decreto, promoverá la celebración de convenios de coordinación con los gobiernos de los estados para la unificación del registro profesional y para la emisión de la cédula profesional electrónica con efectos de patente para el ejercicio profesional, conforme a lo dispuesto en el artículo 13 de la Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México.
+
+SÉPTIMO.- La Secretaría de Educación Pública realizará las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se realicen con cargo al presupuesto aprobado a dicha Secretaría en el presente ejercicio fiscal y subsecuentes, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de la Secretaría de Educación Pública para el presente ejercicio fiscal y posteriores.
