@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2016-11-07"
+last_updated: "2018-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1043,7 +1043,9 @@ VIII. De Hacienda, Patrimonio y Cuenta;
 
 IX. De Industria, Comercio y Asuntos Agropecuarios;
 
-X. De Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+X. De Mejora Regulatoria, Transparencia y Acceso a la Información Pública;
 
 XI. De Obras y Servicios Públicos;
 
@@ -1217,9 +1219,11 @@ III. Analizar y, en su caso, proponer la celebración de convenios y contratos c
 
 IV. Presentar al Ayuntamiento los dictámenes e informes, resultados de sus trabajos e investigaciones y demás documentos relativos a los asuntos de su competencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2018)</small>
+
 ###### Artículo 117.
 
-Corresponde a la Comisión de Mejora Regulatoria:
+Corresponde a la Comisión de Mejora Regulatoria, Transparencia y Acceso a la Información Pública:
 
 I. Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la mejora regulatoria del Municipio;
 
@@ -1230,6 +1234,38 @@ III. Proponer un marco jurídico municipal racional para evitar que los costos d
 IV. Proponer las acciones necesarias para modernizar el proceso administrativo en la solicitud de trámites para generar mayores empleos e inversión en el Municipio; y
 
 V. Estudiar la estructura orgánica de la administración municipal, para efecto de proponer medios de mayor eficiencia y simplificación administrativa ante la población, en miras a obtener la mejor atención en la prestación de los trámites y servicios al público.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+VI. Investigación, Estudios, vigilancia y control sobre las cuestiones de transparencia y acceso a la información pública.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+VII. Recibir, estudiar, analizar, discutir y dictaminar los asuntos relacionados con la transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+VIII. Presentar al Ayuntamiento los dictámenes e informes, resultados de sus trabajos e investigaciones y demás documentos relativos a la transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+IX. Participar en los procesos (sic) planeación y presupuestación en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+X. Promover el ejercicio del derecho de acceso a la información;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+XI. Promover la integración y participación de órganos de consulta, organismos ciudadanos públicos o privados, en materia de transparencia municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+XII. Establecer lineamientos y políticas generales para fomentar la transparencia entre los servidores públicos municipales, empleados o cualquier otro sujeto obligado dentro del Municipio;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2018)</small>
+
+XIII. Las demás que determinen las leyes y reglamentos aplicables.
 
 ###### Artículo 118.
 
@@ -1972,3 +2008,9 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 PRIMERO.- La presente reforma reglamentaria entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a la presente.
+
+P.O. 5 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO 16-18/137, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 93 DEL BANDO DE GOBIERNO Y POLICÍA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y LA FRACCIÓN X DEL ARTÍCULO 106 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 117 AMBOS DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y SE ADICIONA CON LAS FRACCIONES DE LA VI A LA XIII DEL ARTÍCULO 117 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUICIPIO DE BENITO JUÁREZ, QUINTANA ROO. H. AYUNTAMIENTO DE BENITO JUÁREZ".]
+
+ÚNICO.- La presente reforma reglamentaria, entrará en vigor, al día siguiente de su publicación en el periódico oficial del gobierno del Estado de Quintana Roo.
