@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2016-12-16"
+last_updated: "2018-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -78,6 +78,10 @@ VII. Secretaría.- A la Secretaría de Gobierno Procuradora Municipal;
 VIII. Síndico Procurador.- Al Síndico Procurador del Ayuntamiento, y
 
 IX. Oficialía.- A la Oficialía Mayor.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+X. Tesorero.- Tesorero Municipal.
 
 ###### ARTICULO 4.
 
@@ -145,9 +149,13 @@ X.- Forma y términos de su extinción.
 
 Los organismos descentralizados contarán con un órgano de gobierno y su administración estará a cargo de un titular.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 12.
 
-El órgano de gobierno será integrado con siete integrantes propietarios, de los cuales cuatro de ellos deberán pertenecer a la Administración Pública y el resto a organismos representativos de la sociedad sean estos empresariales, de Instituciones Educativas, asociaciones civiles o colegios de profesionales afines al objeto de la entidad Municipal de que se trate.
+El órgano de gobierno será integrado con siete integrantes propietarios, de los cuales cuatro de ellos deberán pertenecer a la Administración Pública y el resto a organismos representativos de la sociedad sean estos empresariales, de instituciones educativas, asociaciones civiles o colegios de profesionales afines al objeto de la entidad Municipal de que se trate, y contará con la presencia del Tesorero sin afectar el quorum, para efectos de asesorar a los integrantes e intercambiar opiniones que le son propias de su materia.
+
+El Tesorero podrá designar por escrito a un suplente para que lo represente en su ausencia ante la Junta, en ambos casos éstos tendrán únicamente derechos a voz.
 
 ###### ARTICULO 13.
 
@@ -846,3 +854,13 @@ SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de cará
 TERCERO.- Los recursos presupuestales y materiales que se encontraban asignados a la Sindicatura Social, deberán pasar a resguardo y asignación de la Sindicatura Procuradora, con el fin de que sean utilizados por las unidades administrativas resultantes de las presentes reformas.
 
 CUARTO.- Una vez publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 6 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMA A DIVERSA REGLAMENTACIÓN MUNICIPAL A EFECTO DE INCLUIR LA FIGURA DEL TESORERO MUNICIPAL DENTRO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA”.]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Notifíquese a través de la Secretaría de Gobierno a todos los organismos en los que sus reglamentos se reformen por medio del presente dictamen.
