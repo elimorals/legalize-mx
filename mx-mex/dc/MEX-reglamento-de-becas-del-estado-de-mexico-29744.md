@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-becas-del-estado-de-mexico-29744"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-14"
-last_updated: "2011-02-22"
+last_updated: "2018-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE BECAS DEL ESTADO DE MEXICO
 
-REGLAMENTO DE BECAS DEL ESTADO DE MEXICO
+REGLAMENTO DE BECAS DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION PUBLICADA EN LA TERCERA SECCION DEL PERIODICO OFICIAL No. 51 DE FECHA 14 DE MARZO DE 2003.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2003.
 
@@ -237,7 +235,9 @@ I. Un presidente, que será el Secretario de Educación, Cultura y Bienestar Soc
 
 II. Un secretario, que será el Director General de Administración y Finanzas;
 
-III. Once vocales que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 6 DE ABRIL DE 2018)</small>
+
+III. Doce vocales que serán:
 
 a) El Subsecretario de Educación Básica y Normal;
 
@@ -257,15 +257,25 @@ h) El Director General del Instituto Mexiquense de Cultura Física y Deporte;
 
 i) El Director General del Instituto Mexiquense de la Juventud;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE ABRIL DE 2018)</small>
+
+j) El Titular del Órgano Interno de Control de la Secretaría de Educación;
+
 A invitación del presidente:
 
-j) Un representante de la Universidad Autónoma del Estado de México;
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 6 DE ABRIL DE 2018)</small>
 
-k) Un representante de algún colegio de profesionales de la entidad.
+k) Un representante de la Universidad Autónoma del Estado de México;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE ABRIL DE 2018)</small>
+
+l) Un representante de algún colegio de profesionales de la Entidad.
+
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 25.
 
-Los integrantes del Comité tendrán voz y voto, a excepción del secretario, quien sólo tendrá voz. En caso de empate, el presidente tiene voto de calidad.
+Los integrantes del Comité tendrán voz y voto, a excepción del Secretario y del titular del Órgano Interno de Control de la Secretaría de Educación, quienes sólo tendrán voz. En caso de empate el Presidente tendrá voto de calidad.
 
 ###### Artículo 26.
 
@@ -570,3 +580,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 6 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE BECAS.”]
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
