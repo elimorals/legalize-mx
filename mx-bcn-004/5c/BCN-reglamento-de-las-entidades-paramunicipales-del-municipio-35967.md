@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2016-12-16"
+last_updated: "2018-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,2423 +23,755 @@ state: "BCN"
 ---
 # REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-LEY MUNICIPAL DEL ESTADO DE TLAXCALA
+REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2018.
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 20 de diciembre de 2001.
+Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
-Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+El LIC. LUIS ALONSO MORLETT CORRALES, Secretario de Gobierno Municipal del H. XVII Ayuntamiento Constitucional del Municipio de Tijuana, Baja California, conforme a la Ley,
 
-ALFONSO ABRAHAM SANCHEZ ANAYA, Gobernador del Estado, a sus habitantes sabed:
+C E R T I F I C A:
 
-Que por conducto de la Secretaría del Honorable Congreso del Estado, se me ha comunicado lo siguiente:
+Que en el acta levantada con motivo de la Sesión Ordinaria de Cabildo celebrada el día diecisiete de noviembre del dos mil tres, del H. XVII Ayuntamiento de Tijuana, se encuentra un acuerdo que a la letra dice:
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
+Acta 64.-"... el H. Cuerpo Edilicio aprueba por unanimidad de votos los siguientes puntos de acuerdo: PRIMERO.- Se aprueba el Reglamento de Entidades Paramunicipales de Tijuana, Baja California, el cual se anexa al presente acuerdo y se tiene aquí por reproducido como si se insertara a la letra del mismo. SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un diario de mayor circulación en el Municipio de Tijuana para el conocimiento de los vecinos. TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente.-"...
 
-NUMERO 146
+Para todos los efectos a que haya lugar, se extiende la presente CERTIFICACION, en la ciudad de Tijuana, Baja California, a los diecisiete días del mes de noviembre del dos mil tres.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO No. 198, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2013, CUANDO SE MENCIONE AL JUEZ DEL REGISTRO CIVIL EN OTROS ORDENAMIENTOS JURÍDICOS SE ENTENDERÁ QUE SE HACE REFERENCIA AL OFICIAL DEL REGISTRO CIVIL.</small>
+EL C. SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XVII AYUNTAMIENTO DE TIJUANA
 
-LEY MUNICIPAL DEL ESTADO DE TLAXCALA
+LIC. LUIS ALONSO MORLETT CORRALES
 
-# LIBRO PRIMERO. De los Elementos del Gobierno Municipal
+REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA.
 
-## TITULO PRIMERO. Del Municipio
+### CAPÍTULO I. Disposiciones Generales
 
-### Capítulo I. Disposiciones Generales
+###### ARTICULO 1.
 
-###### Artículo 1.
+El presente Reglamento es de orden público e interés general, tiene por objeto regular la constitución, organización, funcionamiento y control de las entidades paramunicipales de la administración pública municipal.
 
-La presente Ley determina la organización y funcionamiento del Gobierno Municipal en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+###### ARTICULO 2.
 
-###### Artículo 2.
+Las entidades paramunicipales, como auxiliares de la Administración Pública Municipal, se sujetarán a las disposiciones contenidas en este Reglamento, en sus reglamentos internos, acuerdos de creación y demás que expresamente le encomienden las leyes, reglamentos y acuerdos del Ayuntamiento.
 
-El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado de Tlaxcala. Se integra por la población asentada en su territorio y un Gobierno que tendrá por objeto procurar el progreso y bienestar de sus comunidades. Está investido de personalidad jurídica y administrará su patrimonio conforme a la Ley.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+###### ARTICULO 3.
 
-###### Artículo 3.
+Para los efectos de este Reglamento se entenderá por;
 
-El Municipio será gobernado por un Ayuntamiento, integrado por un Presidente Municipal, un Síndico; regidores cuyo número determine la legislación electoral vigente, y los presidentes de comunidad quienes tendrán el carácter de munícipes en términos de lo que establece la Constitución Local. Entre el Ayuntamiento y los demás niveles de gobierno no habrá autoridad intermedia.
+I. Entidades Paramunicipales.- A los organismos descentralizados, las empresas de participación Procuradora Municipal y los fideicomisos públicos de conformidad a lo establecido en los Artículos 5, 10, 11, 12 del Reglamento de la Administración Pública del Ayuntamiento de Tijuana;
 
-###### Artículo 4.
+II. Órgano de Gobierno.- A las Juntas de Gobierno, Juntas Directivas, Consejos de Administración y Comités Técnicos que sean considerados los órganos jerárquicos superiores de las Entidades Paramunicipales;
 
-Para los efectos de esta Ley se entiende por:
+III. Presidente: Presidente Municipal de Tijuana;
 
-Población: Al conjunto de individuos que viven o transitan dentro de la demarcación territorial de un Municipio y son objeto de la acción del Gobierno Local.
+IV. Titular de la Entidad.- A los directores, coordinadores, gerentes y gerentes generales;
 
-Territorio: Al espacio físico determinado por los límites geográficos y geofísicos para el Municipio en donde se efectúan las actividades de la población y de los Gobiernos Federal, Estatal y Municipal.
+V. Instrumentos de Creación.- A las leyes, decretos y acuerdos especiales que crean una entidad paramunicipal;
 
-Gobierno Municipal: A los órganos que realizan actos de decisión o autoridad en el desarrollo de las facultades otorgadas al Ayuntamiento o Municipio.
+VI. Secretaría de Sector.- A las dependencias que tengan bajo su responsabilidad un sector administrativo;
 
-Ayuntamiento: Al órgano colegiado del Gobierno municipal que tiene la máxima representación política que encauza los diversos intereses sociales y la participación ciudadana hacia la promoción del desarrollo.
+VII. Secretaría.- A la Secretaría de Gobierno Procuradora Municipal;
 
-Cabildo: A la asamblea deliberativa compuesta por los integrantes del Ayuntamiento para proponer, acordar y ocuparse de los asuntos municipales.
+VIII. Síndico Procurador.- Al Síndico Procurador del Ayuntamiento, y
 
-Presidente Municipal: Al representante político del Ayuntamiento y jefe administrativo del Gobierno Municipal responsable de la ejecución de las decisiones y acuerdos emanados del cabildo.
+IX. Oficialía.- A la Oficialía Mayor.
 
-Síndico: Al integrante del Ayuntamiento a quien se le asigna la representación legal del Municipio y la vigilancia de los recursos municipales.
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-Regidor: Al integrante del Ayuntamiento y representante popular de los intereses vecinales del Municipio.
+X. Tesorero.- Tesorero Municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 4.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+Las entidades paramunicipales deberán proporcionar la información y demás datos que les soliciten, o requieran por la Secretaría de Sector que les corresponda.
 
-Presidente de Comunidad: Al representante político de su comunidad, quien ejerce de manera delegada en su circunscripción territorial la función administrativa municipal.
+###### ARTICULO 5.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las entidades paramunicipales, para el adecuado cumplimiento de su objeto y de las atribuciones encomendadas en sus instrumentos de creación, así como de los objetivos y metas señalados en sus programas, se sujetarán a lo establecido en los sistemas de control establecidos en el presente Reglamento y a lo previsto en las demás Leyes y Reglamentos aplicables.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 6.
 
-Mayoría Calificada: A las decisiones que para su validez requieran del voto de al menos las dos terceras partes de los integrantes del cabildo.
+Cuando alguna entidad paramunicipal deje de cumplir con su objeto o su funcionamiento no resulte conveniente para el interés público o la administración municipal, la Secretaría de Sector que corresponda, propondrá al Ayuntamiento, a través del Presidente, la extinción, así como la enajenación de la parte social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Durante el proceso de enajenación de la parte social, en el caso de extinción, la Sindicatura deberá vigilar el interés público, el de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los empleados de la entidad paramunicipal, ajustándose a la legislación correspondiente.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 7.
 
-Mayoría Simple: A las decisiones que para su validez requieran del voto de al menos la mitad más uno de los integrantes del cabildo.
+Toda enajenación a título gratuito u oneroso de bienes muebles e inmuebles, instalaciones, concesiones o derechos reales que afecten el patrimonio de las entidades paramunicipales, sólo podrá efectuarse previa aprobación del Ayuntamiento, observando lo establecido en la Ley de Régimen Municipal para el Estado de Baja California.
 
-###### Artículo 5.
+Las paramunicipales que ya no requieran de determinados bienes muebles para su operación y desarrollo, previa autorización del órgano de gobierno, solicitarán su baja poniéndolos a disposición del Ayuntamiento, por conducto de Oficialía, quien en su caso, autorizará y determinará su mejor aprovechamiento, enajenación o destrucción.
 
-La sede del Ayuntamiento será en la cabecera municipal; para poder funcionar permanentemente en otro lugar, obtendrá previamente la autorización del Congreso del Estado.
+###### ARTICULO 8.
 
-###### Artículo 6.
+Las entidades paramunicipales publicarán sus informes financieros cada año en el Periódico Oficial del Estado, en los tres primeros meses de (sic) ejercicio siguiente.
 
-El territorio del Estado de Tlaxcala está dividido en sesenta municipios con la extensión y límites que tienen reconocidos, y sólo pueden ser modificados por el Congreso del Estado.
+### CAPÍTULO II. Objeto, Organización y Funcionamiento de los Organismos Descentralizados
 
-###### Artículo 7.
+###### ARTICULO 9.
 
-Los centros de población de acuerdo a su importancia política, administrativa, económica y demográfica tendrán la denominación siguiente:
+Los organismos descentralizados son entidades públicas con personalidad jurídica y patrimonio propio, creadas por el Ayuntamiento, los cuales tendrán por objeto:
 
-I. Ciudad: Cuando cuente con servicios de policía, la mayoría de los servicios públicos que deba prestar el Gobierno municipal, calles urbanizadas, hospital, escuelas de educación preescolar, primaria y media básica, instituciones bancarias, comercios e industria y su población sea mayor de veinte mil habitantes;
+I. La prestación de un servicio público o social;
 
-II. Villa: Cuando cuente con servicios de policía, calles trazadas, pavimentadas o empedradas, hospital, escuelas de educación preescolar, primarias y secundaria, mercado, panteón y una población mayor de diez mil habitantes;
+II. La promoción del desarrollo económico municipal;
 
-III. Pueblo: Cuando cuente con servicios públicos elementales, escuelas de enseñanza primaria, panteón y una población de más de mil habitantes;
+III. La planeación del desarrollo municipal;
 
-IV. Colonia: Cuando cuente con servicios como electricidad, agua potable, caminos, escuelas y más de trescientos habitantes; y
+IV. La gestión, obtención y aplicación de recursos, para fines de asistencia y desarrollo social.
 
-V. Ranchería: Cuando cuente con menos de trescientos habitantes.
+###### ARTICULO 10.
 
-###### Artículo 8.
+Los instrumentos de creación de los organismos descentralizados, deberán contener entre otros elementos:
 
-Cuando una población pretenda cambiar su denominación en virtud de que se hayan modificado sus condiciones político-administrativas, económicas o demográficas, el Ayuntamiento lo solicitará al Congreso del Estado y acompañará las pruebas pertinentes.
+I.- Denominación;
 
-### Capítulo II. De la División Territorial
+II.- Domicilio legal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III.- Objeto;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+IV.- Atribuciones;
 
-###### Artículo 9.
+V.- Integración de su patrimonio;
 
-La población del Municipio está formada por habitantes y transeúntes:
+VI.- Integración del órgano de gobierno y sus atribuciones;
 
-I. Son habitantes quienes tienen su domicilio y residen en su territorio por un término mayor de seis meses continuos; y
+VII.- Procedimiento para la designación del titular, sus facultades y obligaciones;
 
-II. Son transeúntes quienes residen en su territorio por un término menor de seis meses o viajen por su territorio.
+VIII.- Órgano de vigilancia y sus atribuciones;
 
-###### Artículo 10.
+IX.- Régimen laboral a que se sujetarán sus empleados;
 
-El carácter de habitante se pierde por:
+X.- Forma y términos de su extinción.
 
-I. Dejar de residir en el territorio del Municipio por un lapso de más de un año, excepto en los casos previstos en el Artículo 29 de la Constitución Política del Estado de Tlaxcala; y
+###### ARTICULO 11.
 
-II. Declaración de ausencia hecha por autoridad competente.
+Los organismos descentralizados contarán con un órgano de gobierno y su administración estará a cargo de un titular.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
 
-Los habitantes del Municipio tendrán los derechos y obligaciones siguientes:
+###### ARTICULO 12.
 
-I. Votar y ser votado para los cargos públicos de elección popular municipal;
+El órgano de gobierno será integrado con siete integrantes propietarios, de los cuales cuatro de ellos deberán pertenecer a la Administración Pública y el resto a organismos representativos de la sociedad sean estos empresariales, de instituciones educativas, asociaciones civiles o colegios de profesionales afines al objeto de la entidad Municipal de que se trate, y contará con la presencia del Tesorero sin afectar el quorum, para efectos de asesorar a los integrantes e intercambiar opiniones que le son propias de su materia.
 
-II. Participar en los procedimientos de referéndum, plebiscito y consulta popular;
+El Tesorero podrá designar por escrito a un suplente para que lo represente en su ausencia ante la Junta, en ambos casos éstos tendrán únicamente derechos a voz.
 
-III. Acudir a sesión pública de cabildo y en su caso, ejercer el derecho de la voz ciudadana;
+###### ARTICULO 13.
 
-IV. Ser preferidos en igualdad de circunstancias para el desempeño de cargo, empleo o comisión y para la celebración de contratos o el otorgamiento de concesiones en el ámbito de la competencia municipal;
+Los integrantes Propietarios del órgano de Gobierno se integrará de la forma siguiente:
 
-V. Respetar y obedecer a las autoridades legales, cumplir las Leyes, Reglamentos, circulares y disposiciones de carácter legal del Ayuntamiento;
+I.- El Presidente, quien presidirá el órgano de Gobierno.
 
-VI. Contribuir con los gastos del Gobierno municipal de acuerdo con las Leyes respectivas;
+II.- Tres Regidores, Presidentes de las Comisiones relacionadas a la actividad del organismo.
 
-VII. Prestar auxilio a las autoridades en general, cuando sean requeridos para ello;
+III.- Tres representantes de organismos sociales de la ciudad.
 
-VIII. Participar en los programas ciudadanos de colaboración; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
-IX. Las demás que dispongan las Leyes.
+ARTICULO 13 BIS.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia, se integrara de la siguiente manera:
 
-## TITULO SEGUNDO. Del Gobierno Municipal
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### Artículo 12.
+I.- El Presidente o Presidenta Municipal, quien presidirá la Junta de Gobierno:
 
-Los Ayuntamientos se integrarán en términos de lo dispuesto por el Artículo 3° de esta Ley. Por cada uno de sus integrantes propietarios se elegirá un suplente.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes, y relacionadas a la actividad del Organismo:
 
-Los presidentes de comunidad tienen la calidad de munícipes, considerada en el artículo 90 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+a) Comisión de Desarrollo Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+b) Comisión de Educación, Cultura y Bibliotecas;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+c) Comisión de Gobernación y Legislación, y
 
-###### Artículo 13.
+d) Comisión de la Familia.
 
-Los ayuntamientos se renovarán cada tres años con base en el resultado de las elecciones que se efectúen conforme a la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-Los integrantes de los ayuntamientos podrán ser reelectos, en términos de lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+III.- Cuatro integrantes de organismos representativos de la sociedad, cuyo objeto sea la promoción de la salud, la asistencia social y humana, la educación o el desarrollo integral de la niñez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
 
-###### Artículo 14.
+ARTICULO 13 TER.- Con excepción a lo dispuesto por los artículos 12 y 13 del presente reglamento, la Junta de Gobierno del Sistema Municipal de Parques Temáticos de Tijuana, se integrara de la siguiente manera:
 
-Para ser integrante de un Ayuntamiento, además de lo que establece la Constitución Local, se requiere:
+I.- El Presidente o Presidenta Municipal, quien presidirá la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes:
 
-I. Ser tlaxcalteca en ejercicio pleno de sus derechos, nativo del Municipio o en su caso demostrar su residencia en el lugar de su elección por lo menos durante los cuatro años previos a la fecha de la elección de que se trate;
+a) Comisión de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+b) Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
 
-II. Tener dieciocho años cumplidos al día de la elección;
+c) Comisión de Gobernación y Legislación, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+d) Comisión de Medio ambiente y Desarrollo sustentable.
 
-III. (DEROGADA, P.O. 12 DE OCTUBRE DE 2015)
+Cuatro integrantes de organismos representativos de la sociedad, cuyo perfil se identifique o relacione con los objetivos del Sistema Municipal de Parques Temáticos de Tijuana, Baja California.
 
-IV. Cumplir con los demás requisitos que señalen las Leyes;
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
 
-No podrán ser munícipes:
+ARTICULO 13 QUATER.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, la Junta de Gobierno del Instituto Metropolitano de Planeación de Tijuana, se integrará de la siguiente manera:
 
-V. (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+I.- El Ejecutivo Municipal, quien presidirá la Junta de Gobierno;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2009)</small>
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes y relacionadas a la actividad del organismo:
 
-VI. Quienes hayan estado en funciones como miembros del Ayuntamiento, del Concejo Municipal o designados legalmente en el período municipal inmediato anterior, aún con el carácter de presidentes de comunidad;
+a) Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
 
-VII. (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+b) Comisión de Medio Ambiente y Desarrollo Sustentable;
 
-VIII. (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+c) Comisión de Planeación del Desarrollo Municipal;
 
-IX. (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+d) Comisión de Desarrollo Económico;
 
-###### Artículo 14
+III.- Un representante del sector académico (Universidades);
 
-Bis. (DEROGADO, P.O. 15 DE MAYO DE 2009)
+IV.- Un representante del sector Empresarial;
 
-###### Artículo 15.
+V.- Un representante del sector social (OSC'S).
 
-El Ayuntamiento iniciará sus funciones el treinta y uno de agosto inmediato posterior a la fecha de su elección, día en que se efectuará la sesión solemne de instalación en la cabecera municipal y ante el pueblo en general para rendir la protesta de ley.
+###### ARTICULO 14.
 
-###### Artículo 16.
+Los integrantes propietarios pertenecientes a la Administración Pública, serán nombrados al inicio de la Administración Municipal, durante el tiempo que estén en el cargo, y los representantes de la sociedad serán elegidos por el Ayuntamiento de una terna propuesta por el Presidente, durante el mes decimoctavo de la Administración Municipal quienes durarán en su comisión tres años y no podrán ser reelectos.
 
-El Presidente Municipal electo en primer término rendirá la protesta siguiente:
+###### ARTICULO 15.
 
-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tlaxcala, las Leyes que de una y otra emanen, desempeñar leal y patrióticamente el cargo de Presidente Municipal que el voto popular me ha conferido, comprometiéndome en todos mis actos a procurar el bienestar y la prosperidad de este Municipio, del Estado de Tlaxcala y de la Nación Mexicana; de no hacerlo así que el pueblo me lo demande".
+Los Regidores podrán designar suplente que lo represente en las sesiones del órgano de Gobierno, quien tendrá derecho a voz y a voto en su ausencia.
 
-A continuación el Presidente Municipal solicitará y recibirá la protesta de Ley de los demás integrantes del nuevo Ayuntamiento en los términos siguientes:
+###### ARTICULO 16.
 
-Señores: Síndico, Regidores y Presidentes de Comunidad electos:
+El Secretario del Sector fungirá como representante del Presidente en el Órgano de Gobierno, con derecho a voz y voto en ausencia de éste.
 
-"Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tlaxcala, las Leyes que de una y otra emanen, desempeñar leal y patrióticamente los cargos que el voto popular les ha conferido, comprometiéndose en todos sus actos a procurar el bienestar y la prosperidad de este Municipio, del Estado de Tlaxcala y de la nación mexicana".
+###### ARTICULO 17.
 
-Los interrogados contestarán en seguida: Sí protesto".
+Los demás integrantes propietarios de las Juntas de Gobierno designarán a sus suplentes para cubrir sus ausencias temporales, quienes tendrán derecho a voz pero no a voto.
 
-El Presidente Municipal agregará: "De no hacerlo así, que el pueblo se los demande". Dicho lo anterior hará la siguiente declaratoria: "Queda instalado legalmente este Honorable Ayuntamiento, por el período para el que fue electo".
+Los integrantes propietarios y suplentes desempeñarán el cargo de manera honorífica.
 
-###### Artículo 17.
+###### ARTICULO 18.
 
-En el mismo acto a que se refiere el Artículo 15 de esta Ley, el Presidente Municipal presentará su programa de Gobierno.
+No podrán ser integrantes del órgano de gobierno:
 
-###### Artículo 18.
+I.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado, o civil con cualquiera de sus integrantes o con el titular;
 
-La instalación del Ayuntamiento será válida con la presencia de la mitad más uno de sus integrantes propietarios.
+II.- Las personas que tengan litigio pendiente o sean acreedores del organismo de que se trate;
 
-No procederá la instalación de un Ayuntamiento cuando a ésta sólo comparezcan los presidentes de comunidad.
+III.- Las personas sentenciadas condenatoriamente por delitos intencionales;
 
-###### Artículo 19.
+IV.- Los inhabilitados para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
 
-Si al acto de instalación no asistiere el Presidente Municipal electo, el Ayuntamiento se instalará con el primer regidor o el regidor que siga en número, quien rendirá la protesta siguiente:
+V.- Los titulares y servidores públicos del Poder Legislativo y Poder Judicial del Estado de Baja California;
 
-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tlaxcala, las Leyes que de una y otra emanen, desempeñar leal y patrióticamente el cargo de regidor que el voto popular me ha conferido, comprometiéndome en todos mis actos a procurar el bienestar y la prosperidad de este Municipio, del Estado de Tlaxcala y de la Nación Mexicana; de no hacerlo así, que el pueblo me lo demande".
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
-A continuación tomará la protesta a los demás miembros que estén presentes conforme al Artículo 16 de esta Ley.
+VI.- Los empleados del Ayuntamiento que no tengan relación o injerencia con el objeto o atribuciones de los organismos descentralizados.
 
-###### Artículo 20.
+###### ARTICULO 19.
 
-El Ayuntamiento instalado sin la totalidad de los miembros propietarios procederá de inmediato a notificar a los ausentes para que previa protesta asuman su cargo dentro de los siguientes diez días hábiles. Sí transcurrido éste plazo no se presentan serán llamados los suplentes quienes entrarán en funciones en forma definitiva.
+El órgano de gobierno sesionará de manera ordinaria cada tres meses y extraordinariamente cuando así se requiera.
 
-###### Artículo 21.
+###### ARTICULO 20.
 
-Cuando la mayoría de los integrantes propietarios o suplentes del Ayuntamiento entrante no estén presentes para tomar posesión de sus cargos, dará causa a la desaparición o suspensión del Ayuntamiento conforme lo establece esta Ley.
+El quórum para sesionar en las sesiones del Órgano de Gobierno se dará con la asistencia de por lo menos la mitad mas uno de sus integrantes, debiendo estar presente el presidente.
 
-###### Artículo 22.
+Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
 
-Instalado el Ayuntamiento éste comunicará oficialmente su integración a los Poderes del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
-###### Artículo 23.
+###### ARTICULO 21.
 
-El Ayuntamiento, sus dependencias, entidades y Presidencias de Comunidad salientes, entregarán a los entrantes un informe escrito sobre la situación que guarda la administración pública, mismo que contendrá, entre otros, su situación financiera, la obra pública ejecutada, su erogación, las obras y proyectos en proceso, archivo administrativo e histórico, así como el patrimonio, mobiliario, inmobiliario y cultural. Los informes de referencia se entregarán debidamente acreditados con la documentación comprobatoria correspondiente.
+El titular del organismo descentralizado será nombrado por el órgan (sic) de Gobierno de una terna propuesta por el Ejecutivo Municipal quien podrá removerlo (sic) existe causa justificada. Para ser nombrado titular del organismo descentralizado s (sic) deberán cumplir los siguientes requisitos:
 
-La entrega-recepción de la administración municipal se hará conforme a los ordenamientos que el Congreso del Estado o el Organo de Fiscalización Superior, señalen para el efecto, y en todo caso a los lineamientos siguiente (sic):
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-I. Se iniciará treinta días naturales anteriores a la toma de protesta del nuevo Ayuntamiento, a fin de que permita la elaboración, revisión y verificación de información y bienes; no podrá prolongarse por más de diez días después de que el Ayuntamiento se haya instalado;
+II.- Contar con un perfil profesional acorde al objeto o fines del organismo y con experiencia en materia administrativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III.- No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II, III, IV y V del artículo 18 de este Reglamento.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2016)</small>
 
-II. Intervendrá en todo el procedimiento, el Órgano de Fiscalización Superior;
+IV.- Los demás que indique el Reglamento Interno de la Entidad Paramunicipal qu (sic) corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 22.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Los titulares de los organismos descentralizados, en cuanto a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o reglamento (sic), estarán facultados expresamente para:
 
-III. Las actas finales de entrega-recepción se harán por triplicado, y se entregarán, una al Órgano de Fiscalización Superior, al servidor público saliente y otra más para el servidor público entrante; y
+I.- Fungir como secretario técnico en el órgano de Gobierno, únicamente con derecho a voz;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+III.- Ejercer, de conformidad a su objeto, las disposiciones de este Reglamento, el reglamento interno y su instrumento de creación; las facultades para actos de dominio, administración, pleitos y cobranzas, aun aquéllas que requieran de autorización especial según otras disposiciones legales;
 
-IV. Lo no previsto en este capítulo se estará a lo dispuesto en la Ley de Entrega-Recepción para el Estado de Tlaxcala y sus Municipios.
+IV.- Emitir, avalar y negociar títulos de créditos;
 
-### Capítulo III. De la Clasificación de las Poblaciones
+V.- Formular querellas y otorgar perdones;
 
-###### Artículo 24.
+VI.- Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo;
 
-Para que un Presidente Municipal pueda separarse por más de siete días de sus funciones necesitará licencia del Ayuntamiento, misma que deberá solicitar al menos 48 horas antes a que esta inicie.
+VII.- Comprometer asuntos en arbitraje y celebrar transacciones;
 
-Las faltas temporales del Presidente Municipal serán cubiertas por el primer regidor y en caso de que éste se encuentre imposibilitado lo hará el regidor que le siga en número. La falta absoluta será cubierta por el suplente.
+VIII.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IX.- Sustituir y revocar poderes generales o especiales;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+X.- Formular y someter a consideración del órgano de gobierno el proyecto del reglamento interno;
 
-###### Artículo 25.
+Los titulares de las entidades ejercerán las facultades a que se refieren las fracciones, II, III, V y VI bajo su responsabilidad y dentro de las limitaciones que señale el reglamento interno que autorice el órgano de gobierno;
 
-Las faltas temporales mayores a quince días o absolutas del Síndico, Regidores y Presidentes de Comunidad serán cubiertas por sus suplentes. A falta de estos, el Ayuntamiento designará a las personas que deban desempeñar este cargo cuando se trate de faltas temporales y el Congreso del Estado lo hará cuando sean faltas definitivas.
+XI.- Convocar por instrucciones del Presidente a sesiones.
 
-Se considerará como falta absoluta de alguno de los integrantes del Ayuntamiento solo por muerte, interdicción, o declaración de ausencia decretada por autoridad judicial de estos; o porque su ausencia se prolongue por más de un año a partir de su separación.
+###### ARTICULO 23.
 
-## TITULO TERCERO. Suspensión o Desaparición del Ayuntamiento y Suspensión o Revocación del Mandato de Alguno de sus Miembros
+Para acreditar la personalidad y facultades, según sea el caso, de los integrantes del órgano de gobierno, del titular de la entidad y de los apoderados generales de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato ante la Secretaría.
 
-### Capítulo I. De las Causas de Procedimiento
+### CAPÍTULO III. Del Registro de Organismos Descentralizados del Ayuntamiento
 
-###### Artículo 26.
+###### ARTICULO 24.
 
-El Congreso del Estado con respeto a la garantía de audiencia de los interesados, por votación de las dos terceras partes de sus integrantes está facultado para:
+El Registro de Organismos Descentralizados del Ayuntamiento, tiene por objeto documentar y dar fe de la constitución, organización y funcionamiento de los mismos.
 
-I. Decretar la desaparición o suspensión de un Ayuntamiento; y
+###### ARTICULO 25.
 
-II. Decretar la suspensión o revocación del mandato de alguno de sus miembros. En los procedimientos de suspensión o revocación del mandato a que se refiere este precepto se seguirán las reglas del Artículo 109 de la Constitución Política del Estado de Tlaxcala.
+El Registro de los Organismos Descentralizados del Ayuntamiento estará a cargo de la Secretaría.
 
-###### Artículo 27.
+###### ARTICULO 26.
 
-Procederá la declaración de desaparición de algún Ayuntamiento en los supuestos siguientes:
+Son actos y documentos objeto de registro:
 
-I. Si la mayoría de sus integrantes propietarios y suplentes abandonan el cargo o no se presentan a asumirlo; y
+I.- Instrumento de creación;
 
-II. Sí la mayoría de sus integrantes propietarios o suplentes están imposibilitados físicamente, de manera legal o por conflictos para continuar en el desempeño de sus funciones en forma armónica y continua.
+II.- El acuerdo mediante el cual se modifica, o extingue;
 
-###### Artículo 28.
+III.- El reglamento interno;
 
-Procederá la suspensión de algún Ayuntamiento en los casos siguientes:
+IV.- El nombramiento del titular;
 
-I. Si el Ayuntamiento dejó de cumplir sus funciones de manera temporal por cualquiera de las causas mencionadas en la Fracción I del Artículo anterior;
+V.- Las sustituciones y remociones del titular;
 
-II. Si el Ayuntamiento reiteradamente desacató la Ley; y
+VI.- Los nombramientos de los integrantes del órgano de gobierno;
 
-III. Si el Ayuntamiento deja de rendir la cuenta pública y los informes financieros de su gestión, sin causa justificada, por más de un trimestre.
+VII.- Los poderes generales y especiales de representación legal del organismo, sus modificaciones y revocaciones.
 
-###### Artículo 29.
+###### ARTICULO 27.
 
-La suspensión de alguno de los integrantes del Ayuntamiento se declarará:
+El Secretario, deberá expedir certificaciones de los documentos inscritos, cuando le sean solicitados por escrito, previo pago de los derechos correspondientes, cuando sean solicitados por particulares.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 28.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Los titulares de los organismos descentralizados que no soliciten la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades para los Servidores Públicos del Estado de Baja California.
 
-I. Por inasistencia a tres sesiones de cabildo sin causa justificada en el lapso de un año;
+###### ARTICULO 29.
 
-II. Por imposibilidad física o legal que exceda de tres meses o cuando dé lugar a conflictos que le impidan el cumplimiento de sus funciones;
+Una vez extinguido el organismo se procederá a la cancelación de la inscripción ante la Secretaría.
 
-III. Por incumplimiento constante y reiterado de sus obligaciones, por abuso de autoridad o por incurrir en faltas graves a juicio del Congreso del Estado; y
+### CAPÍTULO IV. De las Empresas de Participación Municipal
 
-IV. Por no cumplir con las observaciones emitidas por el Organo de Fiscalización Superior y la Comisión Estatal de Derechos Humanos.
+###### ARTICULO 30.
 
-### Capítulo IV. De los Habitantes
+Son empresas de participación municipal, las que determine como tales el Reglamento de la Administración Pública del Municipio de Tijuana, de conformidad a lo establecido en los artículos 5, 10, 11, 12 y el Transitorio Sexto de ese ordenamiento municipal.
 
-###### Artículo 30.
+###### ARTICULO 31.
 
-La revocación del mandato de alguno de los integrantes del Ayuntamiento procederá por las causas siguientes:
+La organización, administración y vigilancia de las empresas de participación municipal, sin perjuicio de lo dispuesto en la normatividad aplicable, deberá sujetarse a los estatutos que rijan la sociedad mercantil que corresponda y en lo que no se oponga, a este Reglamento.
 
-I. Por abandonar sus funciones de manera continua sin causa justificada;
+###### ARTICULO 32.
 
-II. Por actuar en contra de los intereses de la comunidad; y
+El Presidente, por conducto del titular de la Secretaría de Sector, designará a los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación municipal.
 
-III. Porque la mayoría de los ciudadanos del Municipio pidan la revocación por causa justificada.
+###### ARTICULO 33.
 
-### Capítulo II. De la Substitución de un Ayuntamiento
+Los integrantes del Órgano de Gobierno que representen a la Administración Pública Municipal serán designados por el Presidente a través de la Secretaría de Sector.
 
-###### Artículo 31.
+###### ARTICULO 34.
 
-Cuando la mayoría de los integrantes propietarios de un Ayuntamiento soliciten licencia o asuman una conducta que revele, a juicio del Congreso del Estado, abandono de sus funciones, que impidan la integración del mismo y la celebración de cabildos citará a los suplentes de esos munícipes para integrar el Ayuntamiento en forma conjunta con los demás propietarios del Ayuntamiento; sí los suplentes no concurren se estará a lo dispuesto por el Artículo 27 de esta Ley.
+El Órgano de Gobierno de las empresas de participación municipal mayoritaria estará integrado en su mayoría por servidores públicos de la Administración Pública Municipal y se reunirá con la periodicidad que se señale en los estatutos de la empresa.
 
-### Capítulo III. De los Concejos Municipales
+El Órgano será presidido por el Presidente o su representante que será el titular de la Secretaría de Sector. El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes, debiendo estar presente el presidente o la persona que lo supla y siempre que la mayoría de los asistentes sean representantes del Gobierno Municipal o de las entidades respectivas. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el presidente voto de calidad para el caso de empate.
 
-###### Artículo 32.
+###### ARTICULO 35.
 
-Declarada la desaparición o suspensión de un Ayuntamiento el Congreso del Estado designará un Concejo Municipal en los términos de lo establecido por la Constitución Política del Estado Libre y Soberano de Tlaxcala, el cual funcionará de manera análoga al Ayuntamiento.
+Los órganos de gobierno de las empresas de participación Municipal, además de las atribuciones específicas que se les otorguen en los estatutos que rijan la sociedad mercantil que corresponda o legislación de la materia, tendrán en lo que resulten compatibles a las establecidas en el artículo 60 de este Reglamento, con las salvedades de aquéllas que sean propias de las asambleas ordinarias o extraordinarias.
 
-El Concejo Municipal se integrará por un Presidente y cuatro concejales, con sus respectivos suplentes; los ciudadanos designados serán vecinos del Municipio de que se trate y reunirán los mismos requisitos que se señalan para ser integrante de un Ayuntamiento.
+###### ARTICULO 36.
 
-El Decreto de creación del Concejo determinará la fecha de inicio y conclusión del ejercicio de sus funciones y los cargos que desempeñará cada Concejal.
+Los titulares de las empresas de participación municipal, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 61 de este Reglamento.
 
-# LIBRO SEGUNDO. De la Facultad Reglamentaria Municipal
+###### ARTICULO 37.
 
-## TITULO PRIMERO. Del Organo Reglamentario
+Para la designación, facultades, operación y responsabilidades de los órganos de administración y dirección; y demás normas sobre el desarrollo y operación de las empresas de participación municipal, sin perjuicio de las disposiciones que sobre el particular existan en sus estatutos o legislación correspondiente a su forma societaria, serán aplicables en lo que sean compatibles los capítulos II y VI de este Reglamento.
 
-### Capítulo I. De las Facultades y Obligaciones de los Ayuntamientos
+###### ARTICULO 38.
 
-###### Artículo 33.
+La enajenación de títulos representativos del capital social, propiedad del Gobierno Municipal o de las entidades paramunicipales, sólo podrá realizarse previo acuerdo del H. Ayuntamiento, a través de las normas y procedimientos que se emitan.
 
-Son facultades y obligaciones de los Ayuntamientos las siguientes:
+### CAPÍTULO V. De los Fideicomisos Públicos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 39.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Los fideicomisos que se constituyan por la Administración Pública Municipal, que cuenten con estructura administrativa y tengan como propósito auxiliar al Presidente mediante la ejecución de actividades en áreas prioritarias, se consideran entidades paramunicipales.
 
-I. Expedir los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos territorios para fomentar la convivencia, el respeto a los derechos humanos, y la participación ciudadana, vecinal y comunitaria, así como para organizar la administración pública municipal para regular las materias, procedimientos, funciones y servicios públicos de su competencia, de acuerdo con las bases normativas que establezcan las leyes;
+###### ARTICULO 40.
 
-> <small>(REFORMADA, 25 DE MAYO DE 2006)</small>
+Los Órganos de Gobierno de los fideicomisos públicos se ajustarán en cuanto a su integración y atribuciones a las disposiciones que en el Capítulo VI de este Reglamento se establecen; de igual forma, los titulares de las entidades se ajustarán en cuanto a sus facultades y obligaciones a las disposiciones que en el citado Capítulo se establecen, en cuanto sean compatibles a su naturaleza y sus funciones.
 
-II. Aprobar el proyecto de iniciativa de Ley de Ingresos y presentarlo al Congreso del Estado, para su análisis, discusión, modificación y, en su caso, aprobación correspondiente, de conformidad con lo que establece el Código Financiero para el Estado de Tlaxcala y sus Municipios y las normas aplicables;
+###### ARTICULO 41.
 
-III. Proponer al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos y aprovechamientos; así como las contribuciones de mejoras y tablas de valores comerciales del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+En los fideicomisos públicos constituidos por el Presidente, la Secretaría de Sector fungirá como fideicomitente único de la administración pública municipal.
 
-IV. Aprobar su presupuesto anual de egresos, enviarlo al Congreso del Estado antes del treinta y uno de diciembre de cada año para efectos de control y al Periódico Oficial del Estado para su publicación;
+###### ARTICULO 42.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El Presidente por conducto del fideicomitente único, deberá supervisar que en los contratos constitutivos de fideicomisos públicos se contenga lo siguiente:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+I.- Los derechos y acciones que corresponda ejercer al fiduciario sobre los bienes fideicomitidos;
 
-V. Desarrollar la infraestructura necesaria para el crecimiento económico y el desarrollo social equilibrado de la cabecera municipal y sus comunidades;
+II.- Las limitaciones que establezca o que se deriven de derechos de terceros;
 
-VI. Simplificar los trámites administrativos y mejorar la regulación de las actividades económicas, para atraer y estimular la apertura de empresas generadoras de empleos productivos permanentes, en atención a lo dispuesto en el Título V de la Constitución Política Local y la Ley de Fomento Económico;
+III.- Los derechos que se reserve el fideicomitente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV.- Las atribuciones que ejercerá el Órgano de Gobierno.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 43.
 
-VII. Expedir el reglamento de las presidencias de comunidad y de las delegaciones municipales, así como vigilar y sancionar su correcta y puntual observancia por parte de los presidentes de comunidad;
+La Secretaría de Sector a través de su titular, dentro de los treinta días siguientes a la constitución o modificación de los fideicomisos públicos, deberá someter a la consideración del Órgano de Gobierno del mismo, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
-VIII. Reglamentar los espectáculos públicos, el uso de fuegos pirotécnicos, los anuncios comerciales y utilización de la vía pública;
+###### ARTICULO 44.
 
-IX. Aprobar las bases para que el Presidente Municipal celebre convenios de colaboración con otros Municipios, con el Estado, con el Gobierno Federal o con los sectores social y privado, a efecto de mejorar la prestación de los servicios públicos con autorización del Congreso del Estado, cuando así lo requiera la Ley;
+Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos públicos, la fiduciaria requiera informes y controles especiales, de común acuerdo con la Secretaría de Sector, instruirán al delegado fiduciario para:
 
-X. Nombrar las comisiones que sean necesarias para que se ejecuten los planes de Gobierno;
+I.- Someter a consideración de la fiduciaria los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia fiduciaria;
 
-XI. Prestar los servicios públicos municipales de acuerdo a lo establecido por el Artículo 57 de esta Ley, y establecer las dependencias y entidades necesarias para su prestación y regulación;
+II.- Consultar con la debida anticipación a la fiduciaria los asuntos que deban tratarse en las sesiones del comité técnico;
 
-XII. En los términos de las Leyes Federales y Estatales relativas:
+III.- Informar a la fiduciaria acerca de la ejecución de los acuerdos del comité técnico, así como al propio comité técnico;
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+IV.- Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso;
 
-b) Participar en la creación y administración de sus reservas territoriales.
+V.- Cumplir con los demás requerimientos que acuerden la Secretaría de Sector y la fiduciaria.
 
-c) Participar en la formulación de planes de desarrollo regional en concordancia con los planes generales de la materia, participar con la Federación y los Estados cuando estos elaboren proyectos de desarrollo regional que los involucren.
+###### ARTICULO 45.
 
-d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia.
+En los contratos de los fideicomisos públicos a que se refiere el artículo 42 de este Reglamento, se deberán precisar las atribuciones especiales del Órgano de Gobierno, si las hubiere, indicando en todo caso, cuáles asuntos requieren de su aprobación, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las atribuciones del citado cuerpo colegiado constituyen limitaciones para la fiduciaria.
 
-e) Intervenir en la regularización de la tenencia de la tierra urbana.
+El Órgano de Gobierno deberá abstenerse de dictar resoluciones que se excedan de las atribuciones expresamente fijadas en el contrato de fideicomiso o en violación a las cláusulas contenidas en el mismo, debiendo responder de los daños y perjuicios que se causen.
 
-f) Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento de esta materia.
+Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al órgano de gobierno, por cualquiera circunstancia, la institución fiduciaria procederá a consultar al Presidente a través del titular de la Secretaría de Sector quedando facultada para ejecutar aquellos actos que éste autorice.
 
-g) Celebrar convenios para la administración y custodia de reservas federales en lo conducente, de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y expedir los Reglamentos y disposiciones administrativas que fueren necesarios.
+###### ARTICULO 46.
 
-XIII. Administrar su hacienda;
+En los contratos constitutivos de fideicomisos de la Administración Pública Municipal, se deberá reservar al Presidente la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permita.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+### CAPÍTULO VI. Del Desarrollo y Operación
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 47.
 
-XIV. Aprobar con el voto de la mayoría calificada de su Cabildo la contratación de empréstitos destinados a inversiones públicas productivas, previa aprobación de la Legislatura Local;
+Las Entidades Paramunicipales para su desarrollo y operación, deberán sujetarse al Plan Municipal de Desarrollo, a los programas sectoriales que se deriven del mismo y a las asignaciones presupuestales de ingresos y egresos autorizadas. Dentro de tales directrices las entidades paramunicipales formularán sus programas institucionales a corto, mediano y largo plazos. El presente Reglamento establecerá los criterios para definir la duración de los plazos.
 
-XV. Vigilar que los servidores municipales encargados del manejo de fondos públicos se conduzcan con probidad, honradez y otorguen en términos del Reglamento Interior Municipal la caución correspondiente dentro de los quince días siguientes en que protesten el cargo;
+###### ARTICULO 48.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2007)</small>
+Los objetivos y metas contemplados en la programación y presupuestación de las Entidades Paramunicipales, se ajustarán a los programas sectoriales que elabore la Secretaría de Sector, además contemplarán:
 
-XVI. Ratificar el nombramiento y la remoción que el Presidente Municipal haga del Secretario del Ayuntamiento y Cronista del Municipio. El Juez Municipal se nombrará conforme a lo previsto en esta ley;
+I.- La referencia concreta a su objeto social y a las actividades conexas para lograrlo;
 
-XVII. Crear y suprimir empleos municipales según lo requiera el servicio y lo prevea el presupuesto de egresos; anualmente autorizará el organigrama de la administración municipal;
+II.- Los productos que elabore o los servicios que preste y sus características sobresalientes;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2017)</small>
+III.- El impacto social o de gobierno que como producto del desarrollo de sus actividades incidan en el ámbito sectorial o regional;
 
-Promover la contratación progresiva de personas con discapacidad, debiendo cubrir el perfil laboral al puesto solicitado, hasta alcanzar cuando menos el 2% de la plantilla laboral de la administración pública municipal.
+IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
-XVIII. Otorgar, a través de su administración pública, las licencias de construcción, de uso de suelo, de fraccionamiento y fusión, y revocarlas cuando se afecte el interés público de acuerdo a lo establecido en la Ley del Procedimiento Administrativo;
+###### ARTICULO 49.
 
-XIX. Vigilar y disponer lo necesario para la conservación de los centros de población, monumentos históricos y sitios turísticos;
+El programa institucional constituye los compromisos en términos de metas y resultados que debe alcanzar la entidad paramunicipal, y deberá contener:
 
-XX. Realizar, con la participación ciudadana, programas para enaltecer los valores cívicos, culturales, sociales y deportivos del Municipio, del Estado y del País;
+I.- La fijación de objetivos y metas;
 
-XXI. Autorizar las obras públicas con sujeción a las Leyes y Reglamento de la materia;
+II.- Los resultados económicos y financieros esperados;
 
-XXII. Procurar que la numeración de las casas y edificios de sus poblaciones sea ordenada y se coloquen los nombres de las calles en lugares visibles de preferencia en sus extremos;
+III.- Los indicadores de desempeño para evaluar las acciones que lleve a cabo;
 
-XXIII. Autorizar los nombres de las calles a propuesta de la Comisión de Gobernación, Seguridad Pública, Vialidad y Transporte con la opinión del Cronista Municipal;
+IV.- La definición de estrategias y prioridades;
 
-XXIV. Aprobar las concesiones de la prestación de un servicio público;
+V.- La previsión y organización de recursos para alcanzarlas;
 
-XXV. Intervenir en la formulación y aplicación de programas del transporte público de pasajeros cuando afecten su ámbito territorial;
+VI.- La expresión de programas para la coordinación de sus tareas;
 
-XXVI. Aceptar herencias, legados y donaciones que se le otorguen;
+VII.- Las previsiones respecto a las posibles modificaciones a sus estructuras.
 
-XXVII. Solicitar al Titular del Ejecutivo la expropiación de bienes por causas de utilidad pública;
+###### ARTICULO 50.
 
-XXVIII. Intervenir ante las autoridades cuando se afecten los intereses municipales;
+El programa institucional de las Entidades Paramunicipales se elaborará para los términos y condiciones a que se refiere el Plan Municipal de Desarrollo, el Plan Estatal de Desarrollo y la Ley de Planeación del Estado de Baja California y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
 
-XXIX. Vigilar que los contribuyentes, los responsables solidarios o terceros hayan cumplido con las disposiciones fiscales municipales;
+###### ARTICULO 51.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Corresponde al Ayuntamiento analizar y, en su caso, aprobar los presupuestos de las entidades paramunicipales, los cuales se formularán de conformidad con los ordenamientos aplicables, así como de sus programas anuales, los que deberán contener:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+I.- Subprogramas;
 
-XXX. Ejercer las facultades en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano, y demás que les concedan las leyes federales y estatales;
+II.- Objetivos y metas;
 
-XXXI. Celebrar convenios para la administración y custodia de las zonas federales;
+III.- Unidades responsables;
 
-XXXII. Nombrar organismos públicos autónomos tendientes a coadyuvar en la vigilancia y transparencia de los actos de Gobierno municipal, y el fomento a la democracia participativa;
+IV.- Actividades institucionales;
 
-XXXIII. Promover en las comunidades con grupos indígenas el desarrollo de sus lenguas, culturas, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Tlaxcala. Asimismo gestionar que la educación básica que se imparta sea tanto en idioma español como en la lengua indígena correspondiente;
+V.- Unidades ejecutoras;
 
-XXXIV. Sancionar y aprobar el Plan de Desarrollo Municipal que presente el Presidente Municipal y enviarlo al Congreso del Estado, y ordenar su publicación en el Periódico Oficial del Gobierno del Estado; y
+VI.- Elementos que permitan la evaluación sistemática de sus programas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 52.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Corresponde a la Secretaría de Sector, establecer las bases, orientar y evaluar a las entidades paramunicipales en sus programas y presupuestos, para que concurran al logro de los objetivos y se ajusten a las prioridades del desarrollo municipal, así como autorizar los financiamientos que constituyan la deuda pública.
 
-XXXV. Promover entre sus habitantes políticas públicas que fomenten la igualdad de género mediante acciones coordinadas con instancias federales y estatales en la materia por medio de:
+###### ARTICULO 53.
 
-a) Programas de difusión y reeducación permanente para quienes ejercen violencia en contra de las mujeres;
+En la formulación de sus presupuestos, las entidades paramunicipales se sujetarán a los lineamientos que en materia de gasto establezca la Secretaría de Administración y Finanzas.
 
-b) Cursos de capacitación para promover el respeto a la igualdad e integración laboral, social y cultural entre géneros;
+###### ARTICULO 54.
 
-c) Creación y apoyo a centros de atención y salvaguarda a mujeres víctimas de violencia;
+Las Entidades Paramunicipales administrarán y ejercerán sus recursos en estricto apego a su programa institucional.
 
-d) Apertura de programa de apoyo a la igualdad de género con atención especializada en la materia, y
+Por lo que respecta a la percepción de subsidios y transferencias, los recibirán de la Tesorería Municipal, en los términos que se fijen en los presupuestos de egresos anuales del Municipio, debiendo administrarlos y ejercerlos sujetándose a los controles e informes respectivos de conformidad con la legislación aplicable.
 
-e) Contar con una guía de asistencia inmediata para miembros de seguridad pública y protección civil para atender casos de violencia contra mujeres.
+###### ARTICULO 55.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+A efecto de ser analizados y, en su caso, aprobados por el Ayuntamiento, los presupuestos de las entidades paramunicipales deberán formularse conforme a los lineamientos que establezca la Secretaría de Administración y Finanzas y elaborarse conforme a los formatos establecidos por la Tesorería Municipal; deberán expresar el monto del subsidio municipal, los ingresos propios, aportaciones de capital, contratación de crédito con bancos nacionales o extranjeros, o con cualquier otro intermediario financiero, así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Los programas contendrán los criterios conforme a los cuales deban ejecutarse los mismos en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
-XXXVI. Conceder licencia a los miembros del Ayuntamiento que lo soliciten;
+###### ARTICULO 56.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El titular de la entidad paramunicipal someterá la propuesta de presupuesto para que el órgano de gobierno respectivo le autorice a enviarlo, con la salvedad a que se refiere la fracción IV del artículo 60 de este Reglamento, a la Secretaría de Administración y Finanzas la cual, a través del Presidente, la enviará para ser analizada y, en su caso, aprobada por el Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 57.
 
-XXXVII. Normar el establecimiento de mercados, tianguis y ferias en el Municipio;
+Las entidades paramunicipales, en lo que respecta al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones, rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán ajustarse, en primer término, a lo dispuesto por este reglamento, y en lo no previsto a los lineamientos y obligaciones consignadas en las demás leyes y reglamentos vigentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 58.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+El Órgano de Gobierno de las Entidades Paramunicipales, a propuesta de cualquiera de sus integrantes podrá constituir comisiones o grupos técnicos especializados, para estudiar y sugerir medidas que apoyen la programación estratégica y la supervisión de la marcha normal de la entidad, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia.
 
-XXXVIII. Promover la capacitación permanente del personal que labora en la Presidencia Municipal;
+###### ARTICULO 59.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El Órgano de Gobierno para el logro de los objetivos y metas de contenidas en los programas de la entidad paramunicipal, ejercerá sus atribuciones con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por este Reglamento establezca el Presidente.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+El Órgano de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad paraestatal, con sujeción al programa institucional y a las disposiciones de este reglamento y salvo aquellas atribuciones a que se contrae el artículo 60 de este ordenamiento, podrá delegar discrecionalmente sus facultades en su titular.
 
-XXXIX. Impulsar la participación ciudadana y la organización social para el desarrollo del Municipio;
+###### ARTICULO 60.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Los Órganos de Gobierno de las Entidades Paramunicipales tendrán las siguientes atribuciones indelegables:
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+I.- Vigilar que exista congruencia entre los programas sectoriales, las políticas generales y las prioridades a las que deberá sujetarse la entidad paramunicipal;
 
-XL. Promover acciones en favor de los grupos vulnerables del Municipio;
+II.- Aprobar el envío de las propuestas de presupuestos de ingresos y egresos de la entidad paramunicipal, sus modificaciones y los programas operativos anuales y financieros a efecto de que sean analizados y, en su caso, aprobados por el Ayuntamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III.- Aprobar el envío al Ayuntamiento de la solicitud de enajenación a título gratuito u oneroso de bienes inmuebles, instalaciones, concesiones o derechos, que afecten el patrimonio de las Entidades Paramunicipales, en los términos de la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+IV.- Analizar y, en su caso, aprobar el envío de las propuestas de fijación y ajuste de los precios de bienes y servicios que produzca o preste la entidad paramunicipal, para su aprobación por el Ayuntamiento;
 
-XLI. Requerir la comparecencia de los servidores públicos municipales que se considere deban proporcionar informes al cabildo sobre el desarrollo de sus responsabilidades;
+V.- Analizar y, en su caso, aprobar el envío al Ayuntamiento de la solicitud de concertación de los préstamos para el financiamiento de la entidad con créditos internos y externos, observando la normatividad que dicte la Secretaría de Administración y Finanzas. En cuanto a los créditos externos se estará a lo que dispone el artículo 55 de esta (sic) Reglamento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+VI.- Aprobar anualmente, previo informe de los comisarios de la Sindicatura Procuradora, los estados financieros y el cierre del ejercicio presupuestal de la entidad paramunicipal, autorizando su publicación en el Periódico Oficial del Estado, así como el cierre programático.
 
-XLII. Desarrollar acciones para prevenir adicciones y toda actividad que implique conductas antisociales;
+VII.- Aprobar de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deberá celebrar la entidad paramunicipal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VIII.- Aprobar la estructura básica de la organización de la entidad paramunicipal;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+IX.- Aprobar el envío del proyecto del reglamento interno en el que se establezcan las bases de organización, estructura, atribuciones que habrán de desarrollar las unidades administrativas, así como las facultades y obligaciones que correspondan a sus titulares y la manera de suplir a éstos en sus ausencias;
 
-XLIII. Aprobar por el voto de la mayoría calificada de su cabildo el otorgamiento de licencias para la construcción de fraccionamientos, condominios y centros comerciales e Industriales, previo estudio técnico y observancia a las leyes y reglamentos federales y estatales en la materia;
+X.- Aprobar la fijación de los sueldos y prestaciones, conforme a las asignaciones presupuestales y en observancia de la normatividad que dicte la Oficialía al respecto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XI.- Establecer con sujeción a la Ley de la materia, las normas y bases para la adquisición, arrendamiento y enajenación de bienes que la entidad paramunicipal requiera para la prestación de sus servicios;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+XII.- Analizar y aprobar en su caso, los informes trimestrales que rinda el titular de la entidad paramunicipal con la intervención que corresponda a los comisarios;
 
-XLIV. Acordar y supervisar las medidas tendientes a procurar la conservación de centros de reclusión preventiva municipal en condiciones dignas e higiénicas;
+XIII.- Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios que realice y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Secretaría de Sector correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XIV.- Aprobar las normas, bases y procedimientos para cancelar adeudos a cargo de terceros y a favor de la entidad paramunicipal cuando fuere notoria la imposibilidad práctica de su cobro, previa opinión de la Secretaría de Administración y Finanzas.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 61.
 
-XLV. Implementación del Sistema de Apertura Rápida de empresas, teniendo por objetivo, el establecimiento e inicio de operaciones de nuevos negocios considerados de bajo riesgo.
+Los titulares de las entidades paramunicipales tendrán las siguientes facultades y obligaciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+I.- Administrar y representar legalmente a la entidad paramunicipal;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+II.- Formular los proyectos de los programas institucionales y de los operativos anuales, así como los presupuestos de la entidad paraestatal y presentarlos para su aprobación al Órgano de Gobierno;
 
-XLVI. Vigilar que los acuerdos y decisiones tomadas para el cumplimiento de las atribuciones conferidas al Municipio sean ejecutadas por los organismos y dependencias a quienes les corresponda por la naturaleza de su función y que éstos las ejecuten en estricto apego a los principios de eficiencia, honradez, legalidad, imparcialidad y certeza;
+III.- Establecer los métodos que permitan el optimo aprovechamiento de los bienes muebles e inmuebles de la entidad paramunicipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV.- Tomar las medidas pertinentes a fin de que las funciones de la entidad paramunicipal se realicen de manera articulada, congruente y eficaz;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+V.- Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la producción, distribución o prestación del servicio;
 
-XLVII. Crear el área responsable de información pública y la página electrónica de acceso público, en la que informe y transparente el ejercicio de su administración; y
+VI.- Proponer al Órgano de Gobierno de la entidad paramunicipal la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII.- Nombrar y remover libremente a los empleados de la entidad paramunicipal;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+VIII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paramunicipal para mejorar la gestión de la misma;
 
-XLVIII. Las demás que le otorguen las leyes.
+IX.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-###### Artículo 34.
+X.- Presentar periódicamente al órgano de gobierno el informe de desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección contra las alcanzadas;
 
-Los Ayuntamientos y sus servidores públicos no podrán en ningún caso:
+XI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe la entidad y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación con gestión del detalle que previamente se acuerde con el órgano y escuchando al comisario;
 
-I. Ejercer actos de dominio sobre los bienes inmuebles propiedad del Municipio, sin autorización de las dos terceras partes de sus integrantes y del Congreso del Estado;
+XII.- Ejecutar los acuerdos que dicte el Órgano de Gobierno;
 
-II. Cobrar los impuestos municipales mediante iguala;
+XIII.- Proponer al órgano de gobierno la solicitud a que se refiere la fracción III del artículo anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XIV.- Suscribir en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad paramunicipal con sus trabajadores;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+XV.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se constriñe este ordenamiento.
 
-III. Imponer contribuciones que no estén señaladas en las leyes respectivas; en ningún caso se dejará a criterio del Ayuntamiento el cobro de alguna contribución no prevista en la ley;
+### CAPÍTULO VII. De la Vigilancia y Evaluación
 
-IV. Retener o invertir para fines distintos la cooperación que en numerario o en especie presten los particulares para la realización de obras de utilidad pública;
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 62.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Corresponde al Síndico Procurador, vigilar y evaluar la operación y el funcionamiento de las Entidades Paramunicipales, ejerciendo sus atribuciones por medio de auditorias e inspecciones técnicas para informarse de su operación administrativa y financiera, para lo cual deberá:
 
-V. Conceder empleo en la administración municipal, a su cónyuge o familiares por afinidad o consanguinidad hasta el cuarto grado; no se consideran en esta disposición a aquellos que tengan un empleo en la administración pública municipal otorgado con anterioridad a la fecha en que entre en funciones el ayuntamiento en cuestión;
+I.- Revisar los sistemas de contabilidad, de control y de auditoria internos de las entidades paramunicipales y dictar, en su caso, las medidas que estime convenientes para mejorar dichos sistemas;
 
-VI. Fijar sueldos a los funcionarios y empleados municipales con base en el porcentaje de ingresos;
+II.- Revisar los estados financieros de las Entidades Paramunicipales, fijando las normas conforme a las cuales deben rendirse;
 
-VII. Hacer condonaciones o descuentos sobre cantidades correspondientes a contribuciones vencidas mayores al equivalente a cincuenta días de salario mínimo general vigente en el Estado;
+III.- Vigilar el cumplimiento del ejercicio de los presupuestos asignados y programas periódicos de operación, así como inspeccionar los sistemas y procedimientos de trabajo de las Entidades Paramunicipales;
 
-VIII. Realizar actos de Gobierno que produzcan efectos posteriores a su período constitucional sin que se reúnan los requisitos señalados por esta Ley;
+IV.- Sancionar las licitaciones relativas a todo tipo de adquisiciones y obras públicas a cargo de los organismos, empresas y fideicomisos;
 
-IX. Reincidir en faltas administrativas ya observadas por el Organo de Fiscalización Superior;
+V.- Auditar el ejercicio presupuestal en todos sus rubros;
 
-X. Dejar de enviar la cuenta pública municipal al Congreso del Estado;
+ARTICULO 62 BIS.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
 
-XI. Dejar de informar sobre obras y montos aprobados por el Consejo de Desarrollo Municipal en cada ejercicio, así como también de sus resultados finales;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XII. Ejercer su facultad reglamentaria invadiendo las esferas de competencia de las autoridades Federales, Estatales o de otros Municipios;
+###### ARTICULO 63.
 
-XIII. Autorizar o destinar recursos humanos o económicos para campañas políticas de partidos o candidatos;
+Las Entidades Paramunicipales están obligadas a:
 
-XIV. Evitar la participación ciudadana y comunitaria establecida en esta Ley; y
+I. Presentar oportunamente a la Sindicatura Procuradora, los presupuestos anuales y programas de operación;
 
-XV. Dejar de enviar a los archivos general del Estado y municipal copia de las actas de cabildo.
+II. Otorgar las facilidades necesarias a la Sindicatura Procuradora para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III. Organizar sus sistemas de contabilidad, control y auditoría internos, de acuerdo con las disposiciones que dicte la reglamentación correspondiente, en los términos de la fracción I del artículo anterior;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+IV. Enviar con tres días hábiles de anticipación cuando menos, a los integrantes de los Órganos de Gobierno, el orden del día y la documentación de los asuntos a tratar en las sesiones, incluyendo a la sindicatura;
 
-XVI. Imponer arbitrariamente el pago por la expedición, refrendos y trámites de licencias para las micro, pequeñas y medianas empresas.
+V. Observar la normatividad aplicable a la administración pública, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VI. Las demás que este Reglamento y otras disposiciones legales les impongan.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+El Síndico Procurador designará a un Comisario quien tendrá a su cargo la vigilancia y control interno del organismo descentralizado.
 
-XVII. Exceder el cobro de refrendos a que se refiere la fracción anterior, de la tercera parte del costo que hayan pagado por la expedición de licencias de funcionamiento; y
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 64.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+El Síndico Procurador, designará a un comisario, con cargo al presupuesto de la Sindicatura Procuradora, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado.
 
-XVIII. Ejecutar planes y programas distintos a los aprobados.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo II. De las Sesiones del Ayuntamiento
+###### ARTICULO 65.
 
-###### Artículo 35.
+Los comisarios, como órgano interno de control y observancia, tendrán las siguientes facultades y obligaciones, respecto de los organismos descentralizados:
 
-El Ayuntamiento celebrará sesiones:
+I.- Revisar el funcionamiento de la paramunicipal en lo general y por unidades administrativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II.- Sugerir medidas de eficiencia con la que se ejerzan los recursos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, y
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+III.- Solicitar la información necesaria para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Sindicatura les asigne específicamente.
 
-I. Ordinarias, que se verificarán por lo menos una vez cada quince días, las cuales deberán ser convocadas por escrito y de manera electrónica al menos 48 horas antes de su celebración anexando el orden del día de los asuntos que se tengan que discutir en la sesión; el calendario de sesiones deberá ser aprobado en la primera sesión ordinaria de cabildo de cada año de su ejercicio;
+El Órgano de Gobierno y el director de cada entidad paramunicipal, deberán proporcionar la información que los Comisarios les soliciten para el cumplimiento de sus funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### ARTICULO 66.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+Para el control interno de los organismos descentralizados, se deberá observar lo siguiente:
 
-II. Extraordinarias, que se verificarán cuando a juicio del Presidente Municipal o de la mayoría de los integrantes del Ayuntamiento, presenten asuntos que deban ser resueltos en forma inmediata, las cuales deberán ser convocadas por escrito o de manera electrónica anexando el orden del día de los asuntos que se tengan que discutir en la sesión; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-III. Solemnes, que se verificarán en caso de la instalación del Ayuntamiento, de festividades y en fechas conmemorativas.
+I.- Los Órganos de Gobierno atenderán los informes que en materia de control y auditoria y observaciones les sean turnados por los comisarios y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
 
-Las sesiones de cabildo se llevarán a cabo en el salón de cabildo, espacio destinado para ese fin en la residencia oficial. Por acuerdo de cabildo se podrán efectuar en otro lugar distinto, el cual será declarado recinto oficial.
+II.- Los directores definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+III.- Los demás empleados del organismo descentralizado responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-Las sesiones serán convocadas por el Presidente Municipal a través de la persona titular de la Secretaría del Ayuntamiento, quien será responsable de notificar la convocatoria respectiva.
+###### ARTICULO 67.
 
-###### Artículo 36.
+Los órganos internos de control serán parte integrante del organismo descentralizado, sus funciones se desarrollaran conforme a los lineamientos que emita el Síndico Procurador, y son las siguientes:
 
-Los acuerdos de los Ayuntamientos se tomarán en las sesiones de cabildo ordinarias o extraordinarias por mayoría de votos de los miembros presentes y por mayoría calificada cuando así lo señale la Ley. En caso de empate, el Presidente Municipal decidirá mediante voto de calidad.
+I.- Examinar y evaluar los sistemas, mecanismos y procedimientos de control;
 
-Las sesiones serán públicas, excepto en aquellos casos en que exista motivo fundado a juicio del Ayuntamiento para que se realicen en forma privada.
+II.- Efectuar revisiones y auditorias;
 
-Para celebrar una sesión de cabildo será suficiente la asistencia de la mayoría de sus integrantes. La inasistencia injustificada de los munícipes será sancionada por el Reglamento respectivo.
+III.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
 
-###### Artículo 37.
+IV.- Presentar al titular de la entidad y al órgano de gobierno los informes, resultados de las auditorias, exámenes y evaluaciones realizadas.
 
-Los acuerdos de los Ayuntamientos se harán constar en un libro de actas. Además, cuando se aprueben normas de carácter general o impliquen delegación de facultades se enviarán al Periódico Oficial del Gobierno del Estado para su publicación.
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-Las actas serán firmadas por los integrantes del Ayuntamiento que se encuentren presentes; en caso de no poder o no querer hacerlo así, se asentará en el acta dando razón de la causa. Se enviará una copia de todas las actas de cabildo a los archivos general del Estado y Municipal, cuando menos una vez al año.
+###### ARTICULO 68.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las empresas de participación municipal, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicables, para su vigilancia, control y evaluación, incorporaran los órganos internos de control y contaran con los comisarios que designe el Síndico Procurador, en los términos de este capítulo.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-El contenido de los acuerdos de las actas de cabildo deberán ser publicadas al día siguiente de su firma, en la página electrónica del Ayuntamiento y mantenerse a la vista de forma permanente, de igual manera deberán fijarse en Estrados del Ayuntamiento, donde deberán permanecer a la vista al menos tres meses a partir de su publicación.
+###### ARTICULO 69.
 
-###### Artículo 38.
+Los fideicomisos públicos a que se refiere el artículo 39 de este reglamento, sin perjuicio de lo establecido en los acuerdos que expida el Ayuntamiento en el que se establezcan las bases para su constitución organización y funcionamiento, así como por lo establecido en su contrato mercantil y demás legislación aplicable, para su vigilancia control y evaluación, cuando así lo determinen en el ámbito de sus competencias, el Síndico Procurador y la Secretaría del Sector, deberán contar con Órganos de Control interno y en todos los casos contarán con los comisarios que designe el Síndico Procurador en los términos de las disposiciones contenidos en este reglamento.
 
-El Presidente Municipal informará en cada sesión de cabildo los avances en el cumplimiento de acuerdos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo I. De la Elección del Ayuntamiento
+###### ARTICULO 70.
 
-###### Artículo 39.
+La Sindicatura Procuradora podrá realizar visitas y auditorías a las Entidades Paramunicipales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 62 y, en su caso, sugerir lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
-Los integrantes del Ayuntamiento deberán presentar por escrito ante el cabildo un informe anual de sus actividades. El Presidente Municipal lo hará en términos de la Fracción XXI del Artículo 41 de esta Ley.
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-###### Artículo 40.
+###### ARTICULO 71.
 
-Los integrantes en funciones del Ayuntamiento tendrán derecho a una retribución económica de acuerdo a la disponibilidad presupuestal. Esta erogación deberá sujetarse a criterios de austeridad, equidad y proporcionalidad a la Hacienda Pública Municipal y al trabajo desempeñado y no afectará la atención a las demandas sociales ni a los activos del Municipio; será propuesta por el Presidente Municipal y aprobada por el cabildo. Esta disposición será vigilada por el Organo de Fiscalización Superior y podrá ser revocada cuando lesione los intereses municipales de acuerdo con la facultad del Congreso del Estado.
+En los casos en que los integrantes del Órgano de Gobierno o el titular de la entidad paramunicipal, no cumplan con las disposiciones de este reglamento, el Presidente por conducto de las dependencias competentes, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de este reglamento u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
-Los regidores informarán mensualmente al Ayuntamiento de las actividades realizadas. Además, deberán señalar el horario para atención al público.
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
-### Capítulo III. De las Facultades y Obligaciones de los Miembros del Ayuntamiento
+###### ARTICULO 72.
 
-###### Artículo 41.
+En aquellas empresas en las que participe la Administración Pública Municipal con la suscripción del 25 al 50 por ciento del capital, se vigilarán las inversiones del Municipio a través del comisario que designe el Síndico Procurador, y el ejercicio de los derechos respectivos se hará por conducto de la Secretaría de Sector.
 
-Son facultades y obligaciones del Presidente Municipal:
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-I. Convocar al Ayuntamiento a sesiones de cabildo;
+###### ARTICULO 73.
 
-II. Presidir los debates con voz y voto en las reuniones de cabildo;
+La Sindicatura Procuradora vigilará el debido cumplimiento de lo dispuesto en el artículo 32 de este reglamento.
 
-III. Publicar los Bandos, Reglamentos y demás disposiciones de observancia general;
+### CAPÍTULO VIII. De las Sanciones y Responsabilidades
 
-IV. Vigilar el cumplimiento de los acuerdos del Ayuntamiento;
+###### ARTICULO 74.
 
-V. Vigilar la recaudación de la hacienda municipal y que su aplicación se realice con probidad, honradez y estricto apego al presupuesto de egresos;
+La responsabilidad administrativa en que incurran los servidores públicos que infrinjan las disposiciones del presente Reglamento, y lo que de él se derive, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y conforme al procedimiento administrativo de determinación de responsabilidad establecido.
 
-VI. Autorizar las órdenes de pago que le presente el tesorero municipal, siempre y cuando se ajusten al presupuesto de egresos;
+Lo dispuesto en el párrafo anterior, se aplicará sin perjuicio de la responsabilidad civil o penal que en su caso pudiera derivarse de la comisión de los mismos hechos en los términos de las leyes respectivas.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2007)</small>
+T R A N S I T O R I O S
 
-VII. Nombrar al personal administrativo del Ayuntamiento conforme a los ordenamientos legales. Al Secretario y Cronista los nombrará el Presidente Municipal y los ratificará el Cabildo. En el caso del Juez Municipal su nombramiento se hará en términos de lo previsto en esta ley;
-
-VIII. Remover al personal a que se refiere la Fracción anterior con pleno respeto a sus derechos laborales;
-
-IX. Coordinar a las autoridades auxiliares del Ayuntamiento;
-
-X. Dirigir la prestación de los servicios públicos municipales;
-
-XI. Aplicar las disposiciones de los Bandos y Reglamentos municipales y delegar esas funciones a los titulares de las dependencias que integran la administración;
-
-XII. Autorizar la cuenta pública y ponerla a disposición del Síndico para su revisión y validación cuando menos tres días hábiles antes de ser enviada al Congreso del Estado. Verificará, además su puntual entrega;
-
-XIII. Vigilar y supervisar el buen funcionamiento de las dependencias y entidades municipales;
-
-XIV. Visitar los centros de población del Municipio con los funcionarios y comisiones municipales pertinentes, para atender las demandas sociales;
-
-XV. Expedir, de acuerdo a las disposiciones aplicables, a través de la Tesorería Municipal, licencias para el funcionamiento del comercio, espectáculos y actividades recreativas, y proceder a su cancelación cuando afecte el interés público;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-Previa expedición de licencias para el funcionamiento de Sociedades Cooperativas de Ahorro y Préstamo o de cualquier entidad que sin importar su denominación o naturaleza jurídica tenga actividades análogas a las de éstas, la Tesorería Municipal deberá verificar que cuenten con la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y operar como tales.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-En caso de no contar con dicha autorización, se negará la licencia y se notificará a la Comisión Nacional Bancaria y de Valores.
-
-XVI. Vigilar los templos y ceremonias religiosas en los términos del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XVII. Disponer de la policía preventiva municipal, para asegurar la conservación del orden público, excepto en los casos en que el mando de ésta deba ejercerlo el Presidente de la República o el Gobernador del Estado;
-
-XVIII. Celebrar, a nombre del Ayuntamiento, por acuerdo de éste cuando así se requiera, los actos y contratos necesarios para el despacho de los asuntos administrativos y la atención de los servicios en los términos de esta Ley;
-
-XIX. Hacer cumplir las Leyes Federales y Estatales en el ámbito municipal;
-
-XX. Prestar a las autoridades legales el auxilio que soliciten para la ejecución de sus mandatos;
-
-XXI. Presentar por escrito, a más tardar el tercer sábado del mes de diciembre de cada año, al Ayuntamiento, a las comisiones de munícipes, un informe sobre la situación que guardan los diversos ramos de la Administración Pública Municipal;
-
-XXII. Dirigir las relaciones del Ayuntamiento con los poderes federal, estatal y con otros Ayuntamientos;
-
-XXIII. Realizar los planes de desarrollo municipal, los programas y acciones tendientes al crecimiento económico del Municipio y al bienestar de los grupos indígenas, así como de la población en general;
-
-XXIV. Presentar, dentro de los primeros quince días de cada mes, su cuenta pública al Congreso del Estado; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XXV. Las multas o sanciones económicas a que se haga acreedor el Presidente Municipal por el incumplimiento de sus funciones de ninguna manera podrán ser pagadas del erario municipal; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XXVI. Las demás que le otorguen las leyes.
-
-###### Artículo 42.
-
-Las obligaciones y facultades del Síndico son:
-
-I. Asistir a las sesiones de cabildo con voz y voto;
-
-II. Realizar la procuración y defensa de los intereses municipales;
-
-III. Representar al Ayuntamiento en los procedimientos jurisdiccionales y administrativos;
-
-IV. Vigilar la recepción de los ingresos y su aplicación;
-
-V. Analizar, revisar y validar la cuenta pública municipal y vigilar su entrega mensual al Organo de Fiscalización Superior; para lo cual deberá contar con los recursos técnicos y materiales para su eficaz y puntual cumplimiento;
-
-VI. Dar aviso de irregularidades en el manejo de la Hacienda Pública Municipal al Organo de Fiscalización Superior y aportar las pruebas que tuviera a su disposición;
-
-VII. Participar en la Comisión de Protección y Control del Patrimonio Municipal;
-
-VIII. Proponer al cabildo medidas reglamentarias y sistemas administrativos para la vigilancia, adquisición, conservación y control de los bienes municipales;
-
-IX. Denunciar ante las autoridades las faltas administrativas y delitos que cometan los servidores públicos municipales en el ejercicio de su trabajo;
-
-X. Formar parte del comité de adquisiciones, servicios y obra pública del Municipio;
-
-XI. Promover los programas de capacitación y mejora regulatoria para la administración municipal; y
-
-XII. Las demás que le otorguen las Leyes.
-
-###### Artículo 43.
-
-En el supuesto de que el Síndico no firme la cuenta pública municipal, expresará, en un período no mayor de cinco días, ante el Organo de Fiscalización Superior el motivo de su omisión, si no lo hace se tendrá por validada para los efectos de Ley, y se rendirá aún sin la firma del Síndico ante el Organo de Fiscalización Superior que estará obligado a recibirla y revisarla, e insistirá en el requerimiento para que el Síndico exprese la causa fundada de su omisión apercibido que de no hacerlo será causa de responsabilidad.
-
-###### Artículo 44.
-
-Los Síndicos no podrán desistirse de una acción, transigir, comprometerse en árbitros, ni hacer cesiones de bienes o derechos municipales, sin la autorización expresa del Ayuntamiento o del Congreso del Estado según corresponda.
-
-###### Artículo 45.
-
-Son obligaciones de los regidores:
-
-I. Asistir a las sesiones de cabildo con voz y voto;
-
-II. Representar los intereses de la población;
-
-III. Proponer al Ayuntamiento medidas para el mejoramiento de los servicios municipales;
-
-IV. Vigilar y controlar los ramos de la administración que les encomiende el Ayuntamiento e informar a éste de sus gestiones;
-
-V. Desempeñar las comisiones que el Ayuntamiento les encargue e informar de sus resultados;
-
-VI. Concurrir a las ceremonias cívicas y demás actos oficiales;
-
-VII. Guardar respeto en el recinto oficial durante las sesiones y en cualquier acto público al que asistan con motivo de sus funciones. Las peticiones las formularán con respeto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-VIII. Formular con respeto y observancia a la ley sus peticiones; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-IX. Las demás que les otorguen las leyes.
-
-### Capítulo IV. De las Comisiones del Ayuntamiento
-
-###### Artículo 46.
-
-Por acuerdo del Cabildo se formarán las comisiones que se consideren necesarias para:
-
-I. Analizar y resolver los problemas del Municipio;
-
-II. Vigilar que se ejecuten las disposiciones y mandatos del Ayuntamiento;
-
-III. Vigilar que se cumplan las normas municipales.
-
-El Presidente Municipal podrá nombrar entre los integrantes del Ayuntamiento comisiones de asesoría permanentes o transitorias para el buen desempeño de sus funciones.
-
-### Capítulo II. De la Instalación del Ayuntamiento
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 47.
-
-En la primera sesión del cabildo deberán constituirse las siguientes comisiones:
-
-I. La de Hacienda que tendrá las funciones siguientes:
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2006)</small>
-
-a). Elaborar los proyectos de iniciativa de Ley de Ingresos en términos de lo que dispone el Código Financiero para el Estado de Tlaxcala y sus Municipios, y el Presupuesto de Egresos del ayuntamiento, en coordinación con las dependencias y entidades municipales.
-
-b) Elaborar los proyectos de iniciativa para modificar la legislación hacendaría municipal.
-
-c) Vigilar el funcionamiento de las oficinas receptoras de ingresos municipales.
-
-d) Analizar y hacer observaciones sobre las cuentas que rinda el tesorero municipal.
-
-e) Vigilar la actualización del padrón catastral y la tabla de valores.
-
-f) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-II. La de Gobernación, Seguridad Pública, Vialidad y Transporte tendrá las funciones siguientes:
-
-a) Promover la organización de la participación ciudadana y vecinal por colonias, sectores, secciones y manzanas y la de los grupos indígenas que existan en el Municipio.
-
-b) Vigilar el cumplimiento de las obligaciones ciudadanas; entre otros, el servicio militar, el registro vecinal y prever lo necesario.
-
-c) Elaborar los proyectos de Bandos, Reglamentos, Circulares y disposiciones administrativas de observancia general, y proponerlos al Ayuntamiento.
-
-d) Proponer al Cabildo, previo estudio del caso, los nombres de las calles en coordinación con el Cronista del Municipio.
-
-e) Vigilar que se cumpla con la elaboración del padrón de los habitantes del Municipio y las estadísticas.
-
-f) Vigilar el funcionamiento de la cárcel municipal preventiva y velar por el respeto a los derechos fundamentales de las personas recluidas.
-
-g) Vigilar que se cumplan las disposiciones y acuerdos que en esta materia dicte el Ayuntamiento.
-
-h) Coadyuvar al mantenimiento del orden público en el Municipio.
-
-i) Proponer programas de prevención en materia de siniestros y desastres.
-
-j) Promover campañas de difusión en su materia.
-
-k) Promover la capacitación de los elementos policíacos.
-
-l) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-III. La de Desarrollo Urbano, Obras Públicas y Ecología tendrán las funciones siguientes:
-
-a) Planear y vigilar el desarrollo de los centros de población.
-
-b) Vigilar el cumplimiento de las normas aplicadas en materia de fraccionamiento y reservas territoriales.
-
-c) Proponer la realización de las obras públicas municipales.
-
-d) Promover obras con participación de la comunidad.
-
-e) Vigilar la calidad y los avances de las obras públicas y reportarlas al Ayuntamiento.
-
-f) Preparar estudios acerca de los problemas ecológicos del Municipio y, con base en ellos, el proyecto del Reglamento respectivo.
-
-g) Formar parte como vocal de los Comités de Adjudicación de Obra Pública Municipal.
-
-h) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-IV. La de Salud Pública y Desarrollo Social tendrá las funciones siguientes:
-
-a) Proponer planes y programas, así como analizar los que propongan los Gobiernos Estatal y Federal, para preservar la salud pública y proteger a grupos indígenas y marginados.
-
-b) Vigilar la potabilidad del agua, el tratamiento de las aguas negras, la recolección de basura y los desechos sólidos.
-
-c) Iniciar campañas para prever enfermedades con la participación social y privada.
-
-d) Organizar campañas de limpieza y sanidad en los centros de población.
-
-e) Integrar el Comité Municipal de Salud a que se refiere el Artículo 148 de la Ley de Salud del Estado de Tlaxcala.
-
-f) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-V. La de Protección y Control del Patrimonio Municipal tendrá las funciones siguientes:
-
-a) Proponer proyectos de Reglamentos, Sistemas Administrativos para la adquisición, conservación y control de los bienes que constituyen el patrimonio municipal.
-
-b) Vigilar que las adquisiciones de bienes y servicios se realicen con legalidad, honradez y en forma pública.
-
-c) Verificar el mantenimiento a los bienes del Municipio para garantizar su uso y evitar su deterioro o destrucción.
-
-d) Coordinarse con el Síndico en el registro, regularización y control de los bienes que integren el patrimonio municipal.
-
-e) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-VI. La de Educación Pública tendrá las funciones siguientes:
-
-a) Proponer y promover programas de actividades educativas, artísticas, culturales y deportivas.
-
-b) Vigilar y coordinar los programas de educación pública en el Municipio.
-
-c) Proponer al Ayuntamiento para su aprobación el calendario de celebraciones.
-
-d) Participar e impulsar los consejos escolares de participación social estatal y municipal.
-
-e) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-VII. La de Desarrollo Agropecuario y Fomento Económico tendrá las funciones siguientes:
-
-a) Promover la consolidación y desarrollo de las actividades agropecuarias, los programas de estudio y capacitación en la materia, a efecto de identificar los mejores sistemas y productos a desarrollar en el Municipio.
-
-b) Planear, promover y consolidar el desarrollo de las actividades industriales, comerciales, turísticas y artesanales.
-
-c) Proponer las obras de infraestructura que sean necesarias para el desarrollo de las actividades antes mencionadas.
-
-d) Vigilar que en caso de siniestro en el campo agrícola las autoridades del sector agropecuario, provean lo necesario con oportunidad y eficacia.
-
-e) Proponer las acciones directas para la regulación, administración y control de las actividades comerciales en la vía pública y en los mercados municipales.
-
-f) Participar y proponer acciones en el Consejo Municipal de Desarrollo Económico en términos que la Ley señale.
-
-g) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-VIII. La Comisión del Territorio Municipal tendrá las funciones siguientes:
-
-a) Conocer y difundir las características geográficas y geofísicas, y los resultados estadísticos del Municipio.
-
-b) Participar con el Síndico Municipal en el conocimiento y definición de las colindancias y limites intermunicipales e intramunicipales para referirlos en las cartas geodésicas oficiales.
-
-c) En coordinación con el Cronista Municipal establecer la nomenclatura y límites de cada ciudad, villa, pueblo, colonia o ranchería.
-
-d) Definir el mapa municipal con la localización de la infraestructura urbana, comercial y de servicios.
-
-e) Las demás que le señale la Ley o acuerde el Ayuntamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-IX. La Comisión de Derechos Humanos e Igualdad de Género, tendrá las funciones siguientes:
-
-a) Pugnar y promover la cultura de los derechos humanos.
-
-b) Coordinarse con la Comisión Estatal de Derechos Humanos para vigilar que las instituciones públicas municipales brinden atención oportuna a las denuncias presentadas por los ciudadanos.
-
-c) Vigilar que los derechos de las personas con discapacidad sean respetadas y promovidas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-d) Promover la igualdad de género en todos los ámbitos del municipio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-e) Diseñar y difundir en coordinación con las instancias federales y estatales en la materia programas de reeducación permanente para quienes ejercen violencia en contra de las mujeres;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-f) Promover cursos de capacitación para el respeto a la igualdad e integración laboral, social y cultural entre géneros;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-g) Impulsar la creación y apoyo a centros de atención y salvaguarda a mujeres víctimas de violencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-h) Coordinar el programa municipal de apoyo a la igualdad de género con atención especializada en la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-i) Participar en el diseño y actualización permanente de la guía de asistencia inmediata para miembros de seguridad pública y protección civil para atender casos de violencia contra mujeres; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-j) Las demás que le señale la ley o acuerde el Ayuntamiento.
-
-###### Artículo 48.
-
-Cada comisión tendrá la obligación de analizar en lo referente a su respectiva materia, el informe sobre la situación que guardan los ramos de la administración pública, que por escrito les envíe el Presidente Municipal, y con el resultado dar cuenta al cabildo.
-
-## TITULO SEGUNDO. De las Disposiciones Jurídicas del Ayuntamiento
-
-### Capítulo I. De los Bandos, Reglamentos Municipales y de las Disposiciones de Observancia General
-
-###### Artículo 49.
-
-El Ayuntamiento, con base en las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, tiene la facultad de expedir sus Bandos, Reglamentos y disposiciones de observancia general para regular los servicios públicos, así como las actividades de los particulares.
-
-Será supletorio de esta Ley, en lo que no se opongan, las disposiciones que regulen el procedimiento administrativo en el Estado.
-
-###### Artículo 50.
-
-Pueden presentar propuestas de Bandos, Reglamentos o disposiciones de carácter general:
-
-I. Los munícipes;
-
-II. Las autoridades auxiliares del Ayuntamiento;
-
-III. Los representantes de los órganos de participación y colaboración ciudadana;
-
-IV. Los titulares de las dependencias y entidades de la administración municipal en asunto de su ramo;
-
-V. Los titulares de los organismos autónomos municipales; y
-
-VI. Los habitantes del Municipio de que se trate.
-
-### Capítulo III (sic). Del Procedimiento Reglamentario
-
-###### Artículo 51.
-
-Presentado un proyecto de Bando, Reglamento o disposiciones de observancia general, excepto los de carácter fiscal, el Ayuntamiento podrá someterlo a los mecanismos de participación ciudadana que estime procedentes; para este efecto, el Ayuntamiento designará la comisión que se responsabilizará de estos trabajos o designará una especial.
-
-###### Artículo 52.
-
-El resultado de la auscultación popular se turnará a la comisión que corresponda a efecto de que, en un plazo no mayor de treinta días, presente el dictamen final del proyecto que incluirá las aportaciones obtenidas.
-
-En la sesión de discusión y aprobación en su caso, de los proyectos de Reglamentos o disposiciones de observancia general, se dará constancia de los debates que se presenten en la forma que establezca el Reglamento Interior del Cabildo. La votación de dicho proyecto será en lo general, la que se referirá al sentido y estructura del mismo y en lo particular que versará sobre el contenido de cada Artículo o base normativa.
-
-Agotada la discusión y aprobado, en su caso, el proyecto se dispondrá la trascripción (sic) literal en el libro de actas y su publicación en el Periódico Oficial del Gobierno del Estado.
-
-###### Artículo 53.
-
-Para la validez de disposiciones administrativas que emitan las dependencias o entidades y que obliguen a particulares, serán refrendadas por el Ayuntamiento y publicadas en el Periódico Oficial del Gobierno del Estado y en los medios de difusión pertinentes; igual requisitos deberán cumplirse en los actos de delegación de facultades.
-
-###### Artículo 54.
-
-Es facultad exclusiva del Ayuntamiento bajo el procedimiento correspondiente, proponer o establecer las tarifas o costos por la dotación de los servicios públicos o actividades del Gobierno Municipal.
-
-###### Artículo 55.
-
-El Reglamento Interior de cada Ayuntamiento establecerá el procedimiento para:
-
-I. La creación de entidades públicas que integren la Administración Municipal Descentralizada;
-
-II. Establecer entidades intermunicipales cuyo objeto será la prestación de servicios públicos en dos o más Municipios; y
-
-III. Concesionar la prestación de un servicio o la realización de actividades de interés del Gobierno Municipal.
-
-###### Artículo 56.
-
-Los proyectos de Bandos, Reglamentos y las disposiciones de observancia general serán discutidos y aprobados por el cabildo de acuerdo a lo que establezca el Reglamento Interior del mismo. El contenido de la totalidad de los proyectos de ser aprobatorio se sujetará a lo previsto por el Artículo 37 de esta Ley.
-
-# LIBRO TERCERO. De la Facultad Ejecutiva Municipal
-
-## TITULO PRIMERO. De los Servicios Públicos Municipales
-
-### Capítulo I. Disposiciones Generales
-
-###### Artículo 57.
-
-Los Ayuntamientos administrarán y reglamentarán los servicios públicos y funciones que presten, considerándose, en forma enunciativa, los siguientes:
-
-I. Suministro de agua potable;
-
-II. Instalación, limpieza de drenaje y alcantarillado, tratamiento y disposición de aguas residuales;
-
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos, a excepción de aquellos cuyo manejo competa a otras autoridades;
-
-IV. Instalación y mantenimiento del alumbrado público;
-
-V. Construcción y conservación de calles, guarniciones y banquetas;
-
-VI. Mercados y centrales de abastos;
-
-VII. Rastro;
-
-VIII. Seguridad pública y policía preventiva municipal en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IX. Infraestructura, operación y control para vialidad y tránsito vehicular;
-
-X. Creación y funcionamiento de panteones;
-
-XI. Conservación del equipamiento urbano y de áreas verdes;
-
-XII. Embellecimiento y conservación de los centros de población;
-
-XIII. Fomento de actividades cívicas, culturales, artísticas y deportivas;
-
-Así como, las funciones coordinadas de:
-
-XIV. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2013)
-
-XV. Junta de Reclutamiento para el Servicio Nacional Militar;
-
-XVI. Registro y conservación del patrimonio cultural del Municipio; y
-
-XVII. Los demás servicios y funciones que deriven de sus atribuciones o se les otorgue por Ley.
-
-###### Artículo 58.
-
-En el Municipio funcionará un cuerpo de seguridad pública que se denominará Policía Preventiva Municipal y tendrá por objeto:
-
-I. Mantener la paz y el orden público;
-
-II. Proteger a las personas y su patrimonio;
-
-III. Auxiliar al Ministerio Público en el cumplimiento de sus funciones;
-
-IV. Ordenar y vigilar la vialidad y el tránsito en las calles;
-
-V. Auxiliar al Poder Judicial en el cumplimiento de sus funciones;
-
-VI. Poner a disposición del Juez Municipal, a los infractores de las normas municipales;
-
-VII. Auxiliar a las autoridades municipales en la aplicación de sanciones administrativas;
-
-VIII. Coordinarse con los órganos de seguridad pública nacionales y estatales; y
-
-IX. Las demás que establezcan las Leyes y los Reglamentos.
-
-###### Artículo 59.
-
-Los servicios públicos municipales podrán prestarse de manera centralizada, coordinada, concesionada o delegada a organismos públicos descentralizados del propio Municipio. A consideración del Ayuntamiento podrá, además, coordinarse con otros Municipios, con el Estado o con la Federación, para la prestación de los mismos.
-
-### Capítulo II. Del Desarrollo Urbano Municipal
-
-###### Artículo 60.
-
-Los Ayuntamientos conforme a sus atribuciones podrán crear comités de planeación para el desarrollo municipal bajo las siguientes bases:
-
-I. Se considerarán como organismos auxiliares;
-
-II. Tendrán como función coadyuvar a formular, aprobar, administrar y evaluar la zonificación y planes de desarrollo urbano municipal;
-
-III. Estará integrado por representantes del sector público, privado y social;
-
-IV. Serán presididos por el Presidente Municipal; y
-
-V. Deberán sujetarse en lo concerniente a la Ley de Planeación del Estado de Tlaxcala.
-
-###### Artículo 61.
-
-Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica, la federación, las entidades federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la materia.
-
-### Capítulo III. De las Concesiones de Servicios Públicos Municipales
-
-### Capítulo III. De la Entrega-Recepción
-
-###### Artículo 62.
-
-La prestación de los servicios públicos podrá concesionarse a los particulares de acuerdo con el Reglamento que expida el Ayuntamiento, de conformidad con las bases siguientes:
-
-I. Podrán concesionarse los servicios considerados en las Fracciones III, VI y X, hecha excepción de la regularización del Artículo 57 de esta Ley. No procederá la concesión, cuando con ella se afecte la estructura u organización municipal y los intereses de la comunidad;
-
-II. Que la persona interesada en obtener la concesión lo solicite por escrito y cubra los gastos de los estudios del caso. Además, garantizará a satisfacción del Ayuntamiento el cumplimiento de sus obligaciones por todo el tiempo que dure la concesión, los daños que pueda causar al patrimonio municipal y a los particulares.
-
-El Ayuntamiento conservará en todo tiempo, la facultad de normar la prestación del servicio concedido.
-
-No podrán obtener una concesión los servidores públicos en general, ni sus cónyuges, concubinos o parientes consanguíneos en línea recta sin limitación de grado, en línea colateral hasta el segundo grado, ni las personas con quienes tengan parentesco civil o por afinidad; tampoco las empresas en las cuales tengan intereses económicos podrán participar las personas señaladas.
-
-III. Que la concesión dure mientras subsista la imposibilidad material del Ayuntamiento para prestar el servicio público concesionado. Aún en el caso de que la imposibilidad desapareciera antes del término de cinco años éste será el plazo máximo de duración;
-
-IV. Cuando la concesión exceda del término de la gestión del Ayuntamiento deberá ser aprobada por la votación de las dos terceras partes de sus integrantes, y sometida a la aprobación del Congreso del Estado;
-
-V. Que el concesionario se comprometa a prestar el servicio en forma general, regular, continua y eficaz, además de que cumpla con las normas de calidad que se establezcan en términos técnicos;
-
-VI. Que el concesionario se obligue a que los bienes y equipos con los que preste el servicio reviertan a favor del Municipio, en los casos en que proceda la cancelación o caducidad de la concesión; y
-
-VII. Que se establezca con claridad el régimen al que deberá estar sometida la concesión, la forma en que participarán y se supervisará, por los representantes del Ayuntamiento, de la ciudadanía y de los consejos correspondientes.
-
-###### Artículo 63.
-
-Las concesiones de servicios públicos municipales se revocarán por cualquiera de las causas siguientes:
-
-I. Que no se cumpla con los lineamientos contenidos en la concesión;
-
-II. Que se deje de prestar el servicio público concesionado, sin que sea por caso fortuito o fuerza mayor;
-
-III. Que no se preste el servicio en forma general, regular, continua y eficaz;
-
-IV. Que no se cumpla con las obligaciones estipuladas en el título de concesión;
-
-V. Que no se conserven los bienes e instalaciones en buen estado; y
-
-VI. Cuando el concesionario no cubra los pagos que deba efectuar al Municipio por la explotación de la concesión.
-
-El Ayuntamiento establecerá la revocación de la concesión y la apropiación de bienes de la concesión con pleno respeto a la garantía de audiencia del interesado.
-
-El Ayuntamiento podrá dictar, fundada y motivadamente, las medidas provisionales para el aseguramiento y uso de los bienes destinados a prestar el servicio público si las necesidades colectivas lo exigen.
-
-###### Artículo 64.
-
-Las concesiones caducan cuando no se inicia la prestación del servicio dentro del plazo señalado en la concesión.
-
-###### Artículo 65.
-
-Independientemente de otras responsabilidades en las que incurra el concesionario, en los casos de revocación o caducidad de la concesión, los bienes destinados a la prestación del servicio pasarán a ser propiedad del Municipio.
-
-###### Artículo 66.
-
-Cuando la prestación de los servicios públicos se haga con participación del sector social o privado, el Ayuntamiento conservará la dirección del servicio.
-
-###### Artículo 67.
-
-Los contratos de concesión contendrán las reglas de caducidad, revocación, requisa y caución.
-
-###### Artículo 68.
-
-Para los efectos de las disposiciones de este Capítulo el Ayuntamiento:
-
-I. Creará un Consejo Ciudadano para la vigilancia en la prestación del servicio; y
-
-II. Nombrará un Cuerpo de Gobierno que establezca el monto de los derechos o costos de estos servicios.
-
-En estos órganos se acreditará a un miembro del Ayuntamiento de preferencia será el regidor de hacienda, el tesorero municipal y dos representantes ciudadanos, que serán nombrados por el cabildo.
-
-El consejo ciudadano ante las personas que operen una concesión tendrá facultades de auto regulación, defensa de los intereses ciudadanos y podrá proponer al Ayuntamiento la devolución de la concesión y en su caso, su revocación.
-
-### Capítulo IV. De la Coordinación y de la Asociación
-
-###### Artículo 69.
-
-Los Ayuntamientos podrán autorizar la celebración de convenios con otros Ayuntamientos, con el Estado o la Federación con el objeto de que alguno de estos, asuman la ejecución y operación de obras y servicios públicos que aquellos estén imposibilitados para prestar.
-
-###### Artículo 70.
-
-Los Ayuntamientos podrán asociarse y coordinarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, en los casos siguientes:
-
-I. Con los Ayuntamientos de otra entidad federativa, previa autorización del Congreso del Estado, cuando dos o más centros de población formen o tiendan a formar una continuidad demográfica, con objeto de planear y regular en forma conjunta y coordinada el desarrollo de esos centros;
-
-II. Con los Ayuntamientos del Estado, además del supuesto de la fracción anterior, para elaborar planes programas y sistemas, para designar recursos económicos y tecnológicos de manera regional para ser aprovechados óptimamente;
-
-III. Para constituir juntas de desarrollo regional que estudien los problemas comunes a dos o más Municipios y presenten soluciones para acrecentar el bienestar y el desarrollo en las comunidades de que se trate, conforme a la Ley;
-
-IV. También podrán celebrar convenios con el Congreso del Estado y el Organo de Fiscalización Superior, para eficientar el desempeño de sus funciones y la transparencia en el ejercicio de los recursos públicos; y
-
-V. Con los organismos públicos autónomos para el fomento de la democracia participativa, de la cultura de los derechos humanos y en general, con toda institución que brinde beneficios a la comunidad.
-
-## TITULO SEGUNDO. Del Régimen Administrativo
-
-### Capítulo I. De la Administración Pública Centralizada
-
-###### Artículo 71.
-
-La Administración Pública Municipal se integrará, cuando menos, por el Secretario del Ayuntamiento, el Tesorero Municipal, el responsable de Seguridad Pública, el Director de Obras Públicas y el Cronista del Municipio. El Secretario del Ayuntamiento; Cronista y Juez los designará el Presidente Municipal y los deberá ratificar el cabildo. El Reglamento Interior de cada Ayuntamiento establecerá las demás dependencias necesarias para el cumplimiento de sus funciones y determinará sus facultades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-No podrán designarse a ocupar cargos dentro de la administración municipal, a las personas que hayan sido objeto de observaciones definitivas por parte del Órgano de Fiscalización Superior, o se encuentren inhabilitados legalmente para desempeñar un empleo, cargo o comisión; tampoco podrán serlo familiares consanguíneos o por afinidad de los integrantes del cabildo hasta el cuarto grado.
-
-###### Artículo 72.
-
-El Secretario del Ayuntamiento contará con conocimientos de administración o jurídicos, auxiliará en sus funciones tanto al Ayuntamiento como al Presidente Municipal y tendrá las facultades y obligaciones siguientes:
-
-En las sesiones de cabildo:
-
-I. Participar con voz pero sin voto;
-
-II. Elaborar el acta de acuerdos;
-
-III. Llevar el control de los asuntos de las comisiones, de los organismos auxiliares y de los presidentes de comunidad a fin de dar seguimiento preciso de su avance;
-
-En la administración:
-
-IV. Tener bajo su responsabilidad las actividades administrativas del Ayuntamiento;
-
-V. Tener a su cargo el archivo municipal;
-
-VI. Autenticar con su firma los actos y documentos emanados del Ayuntamiento y del Presidente Municipal;
-
-VII. Desempeñar el cargo de jefe del personal;
-
-VIII. Vigilar que oportunamente en los términos de Ley se den a conocer a quienes corresponda los acuerdos del Ayuntamiento y del Presidente Municipal autentificados con su firma;
-
-IX. Controlar la correspondencia y dar cuenta diaria de todos los asuntos al Presidente Municipal, para acordar el trámite correspondiente;
-
-X. Tener actualizada la legislación en su ámbito;
-
-XI. Expedir cuando proceda las copias credenciales y demás certificaciones que acuerde el Ayuntamiento y el Presidente Municipal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XII. Expedir las circulares y comunicados en general que sean necesarios para el buen despacho de los asuntos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XIII. Expedir las constancias de radicación que le soliciten en los núcleos de población donde no haya presidente de comunidad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XIV. Las demás que le otorguen las leyes y el Ayuntamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 73.
-
-El Tesorero Municipal contará con título y cédula profesional en el área de las ciencias económico-administrativas y con experiencia comprobada mínima de tres años en la materia, para atender los asuntos relativos a la hacienda pública y tendrá las facultades y obligaciones siguientes:
-
-I. Recaudar y administrar las contribuciones y participaciones;
-
-II. Vigilar el cumplimiento de las Leyes, Reglamentos y disposiciones administrativas y fiscales;
-
-III. Ejercer conforme a las Leyes, la facultad económica-coactiva y practicar auditorias a los causantes, aún por facultades delegadas o coordinadas;
-
-IV. Coadyuvar con el interés de la hacienda municipal, en los juicios de carácter fiscal que se ventilen ante los tribunales;
-
-V. Llevar la contabilidad del Ayuntamiento;
-
-VI. Informar oportunamente al Presidente Municipal sobre el control presupuestal del gasto;
-
-VII. Elaborar e informar al Presidente Municipal, las estadísticas financieras y administrativas;
-
-VIII. Participar con la comisión de hacienda en la elaboración de los proyectos de iniciativa de Ley de ingresos;
-
-IX. Formular y presentar mensualmente al Presidente Municipal la cuenta pública para su firma y envío;
-
-X. Mantener actualizado el padrón fiscal municipal;
-
-XI. Proporcionar a la comisión de hacienda, los datos necesarios para la elaboración de los proyectos de Leyes, Reglamentos y demás disposiciones que se requieran para el manejo tributario;
-
-XII. Opinar acerca de los convenios de coordinación fiscal que celebre el Ayuntamiento;
-
-XIII. Presentar por escrito al Ayuntamiento, un informe pormenorizado de su gestión, cuando se retire del cargo o concluya la administración; en este último caso participará en el acto de entrega-recepción a que se refiere el Artículo 23 de esta Ley;
-
-XIV. Otorgar caución para garantizar el debido manejo de los recursos públicos municipales; y
-
-XV. Las demás que le otorguen las Leyes y el Ayuntamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-### Capítulo IV. De las Ausencias y Faltas Temporales de los Munícipes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 74.
-
-El Director de Obras Públicas deberá contar con título y cédula profesional en el área de la construcción y tener experiencia comprobada mínima de tres años en la materia; será responsable de la planeación, presupuestación y ejecución de las obras públicas autorizadas por el Ayuntamiento y vigilará las obras públicas subrogadas.
-
-El Director de Obras Públicas será responsable de los desvíos o deficiencias que se presenten en las obras municipales por su falta de vigilancia o supervisón (sic).
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 74 Bis.
-
-El Director de Obras Públicas tendrá las obligaciones siguientes:
-
-I. Coadyuvar en la planeación y presupuestación de las obras públicas que se propagan por el Ayuntamiento;
-
-II. Vigilar las obras públicas que se ejecuten a cargo del Ayuntamiento, siendo responsable de los desvíos o deficiencias que se presenten en las obras municipales por su falta de vigilancia o supervisión;
-
-III. Elaborar los expedientes técnicos de la obra pública autorizada y remitirlos en tiempo y forma a las instancias competentes para su valoración correspondiente;
-
-IV. Responsabilizarse de que los procedimientos de adjudicación de la obra pública autorizada se realicen con apego a la normatividad establecida;
-
-V. Integrar la documentación comprobatoria de la obra pública ejecutada y en proceso; y
-
-VI. Las demás que le otorguen las leyes y el Ayuntamiento.
-
-###### Artículo 75.
-
-El responsable de la seguridad pública tendrá instrucción, conocimientos y experiencia en el área de seguridad, para cumplir las funciones que se refiere el Artículo 58 de esta Ley.
-
-Corresponde a los Ayuntamientos exclusivamente ejercer la función de policía preventiva y de vialidad, la que podrá ser convenida con el Gobierno del Estado, a solicitud del primero.
-
-###### Artículo 76.
-
-La policía preventiva de cada Municipio estará al mando del Presidente Municipal en los términos del Reglamento correspondiente y acatará las órdenes que el Gobernador del Estado le transmita, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
-
-El Gobernador del Estado tendrá bajo su mando a la policía de aquellos Municipios en que resida permanente o transitoriamente.
-
-###### Artículo 77.
-
-El Cronista del Municipio tendrá conocimientos de literato, historiador, periodista o aptitudes afines, con objeto de registrar hechos históricos sobresalientes velar por la conservación del patrimonio cultural y artístico local, así como de los demás deberes que señale el Reglamento respectivo.
-
-###### Artículo 78.
-
-Los servidores públicos mencionados en este título deberán reunir, además, los requisitos siguientes:
-
-I. Ser ciudadano tlaxcalteca y de preferencia originario y vecino del Municipio;
-
-II. Tener por lo menos veintiún años de edad;
-
-III. Tener un modo honesto de vivir; y
-
-IV. No haber sido condenado por la comisión de algún delito doloso, ni haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de la libertad.
-
-### Capítulo II. De las Relaciones Laborales en el Municipio
-
-###### Artículo 79.
-
-Las relaciones de trabajo entre los Municipios y sus Servidores Públicos se regirán por las Leyes que expida el Congreso del Estado, con base en los Artículos 115 y 123 (sic) la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
-
-Los integrantes del Ayuntamiento, de los Concejos Municipales o los designados por el Congreso del Estado, no tendrán relación laboral alguna con el Ayuntamiento.
-
-## TITULO TERCERO. Del Patrimonio y de la Hacienda Pública Municipal
-
-### Capítulo I. De Patrimonio Municipal
-
-###### Artículo 80.
-
-El patrimonio del Municipio se compone de los bienes que son de su propiedad, de los que adquiera conforme a la Ley, del producto de las contribuciones decretadas por el Congreso del Estado, de los vacantes y mostrencos que estén en su territorio, de los créditos que tenga a su favor, de los subsidios y de las participaciones en el rendimiento de las contribuciones federales y estatales que deba percibir de acuerdo a la Ley.
-
-Son inalienables e imprescriptibles los bienes del patrimonio municipal de dominio público. Los bienes inmuebles desafectados podrán ser enajenados previa autorización del Congreso del Estado mediante los requisitos que señale la Constitución Política del Estado Libre y Soberano de Tlaxcala, esta Ley y los demás ordenamientos aplicables.
-
-Los bienes muebles desafectados serán dados de baja de los inventarios municipales y se podrán enajenar bajo los procedimientos legales.
-
-###### Artículo 81.
-
-Los bienes que integran el patrimonio del Municipio son:
-
-I. Del dominio público:
-
-a) Los de uso común.
-
-b) Los que sean destinados a los servicios público (sic).
-
-c) Los inmuebles o muebles de valor histórico y cultural que se encuentren dentro de su territorio, y no sean propiedad de la nación ni propiedad privada.
-
-d) Los demás que señalen las Leyes respectivas.
-
-II. Del dominio privado:
-
-a) Los que ingresen a su patrimonio no comprendidos en la fracción anterior.
-
-b) Los que no se destinen de manera directa a la prestación de un servicio público o alguna actividad de interés social.
-
-c) Aquellos que de conformidad con las Leyes sean desafectados de un servicio público.
-
-###### Artículo 82.
-
-El Ayuntamiento formulará, actualizará y establecerá por medio de la Secretaría y el Síndico Municipal en forma semestral, el inventario general de los bienes muebles e inmuebles propiedad del Municipio. El catálogo general de bienes inmuebles municipales contendrá el valor y las características de identificación de cada uno de estos.
-
-###### Artículo 83.
-
-Los Ayuntamientos no efectuarán enajenaciones o permutas de sus bienes muebles e inmuebles, excepto cuando ello sea necesario para la realización de obras de beneficio colectivo o para cualquier otro propósito de interés público y requerirá la solicitud aprobada por cuando menos las dos terceras partes de los integrantes del Ayuntamiento al Congreso del Estado y la autorización posterior de este.
-
-Para que el Congreso autorice la enajenación o permuta de los inmuebles propios del Municipio, es necesario que el Ayuntamiento acredite ante el Congreso del Estado los extremos siguientes:
-
-I. Que el bien que se pretenda enajenar o permutar no sea de utilidad para la realización de una obra pública o para la prestación de un servicio público; y
-
-II. Que la enajenación o permuta tenga siempre por objeto la adquisición de diverso bien que beneficie a la hacienda pública, y que resulte necesario para la realización de sus funciones públicas.
-
-Las disposiciones de este Artículo y los dos siguientes son de orden público y producirán la nulidad plena de los actos jurídicos realizados en contravención a las mismas.
-
-###### Artículo 84.
-
-Para las enajenaciones, permutas o donaciones de los bienes inmuebles propiedad del Ayuntamiento, este previo acuerdo del cabildo expedido en términos de lo previsto en el Artículo anterior solicitará la autorización del Congreso del Estado y formulará la respectiva solicitud a la que se acompañarán los siguientes requisitos:
-
-I. Copia certificada del acta de cabildo en que se haya acordado por el voto de cuando menos las dos terceras partes de los miembros del Ayuntamiento realizar la solicitud de autorización al Congreso del Estado;
-
-II. Título con el que se acredite la propiedad del inmueble;
-
-III. Certificado de gravamen de la propiedad;
-
-IV. Plano con medidas y colindancias de la propiedad de que se trate;
-
-V. El valor fiscal y, cuando se trate de permutas, los avalúos comerciales de ambos inmuebles, que practique un perito valuador facultado para ello;
-
-VI. Indicar el uso del suelo del predio;
-
-VII. La exposición de motivos en que se fundamenta la solicitud, además de la mención del acto jurídico que habrá de formalizarla;
-
-VIII. Que el adquiriente (sic) no sea familiar por afinidad, ni por consanguinidad hasta el cuarto grado, de alguno de los integrantes del Ayuntamiento, en cuyo caso la enajenación será nula;
-
-IX. Certificación de que el inmueble carece de valor arqueológico, histórico o artístico, expedido por autoridad competente;
-
-X. Señalará y especificará si los beneficiarios se tratan de personas físicas o morales.
-
-Tratándose de personas físicas se expresarán sus nombres completos, edad, domicilio particular y de trabajo, estado civil, y al efecto se agregará al listado copia certificada de sus identificaciones, de sus actas de nacimiento, comprobantes de domicilio y si se requiere de sus actas de matrimonio.
-
-Si se trata de personas morales se expresará su denominación, domicilio fiscal, su nomina de asociados, mesa directiva y se acompañará copia certificada del acta constitutiva respectiva; y
-
-XI. En los casos de donación a personas físicas estas habrán de comprobar que no son propietarias de algún predio. En estos casos la superficie donada no excederá a la necesaria para la vivienda de interés social.
-
-###### Artículo 85.
-
-La venta de los bienes inmuebles se efectuará en subasta pública conforme al procedimiento señalado por el Reglamento Interior del Ayuntamiento y se cumplirá con los requisitos que para tal efecto establezca el Congreso del Estado.
-
-###### Artículo 86.
-
-La Secretaría del Ayuntamiento establecerá reglas y procedimientos para dar de alta los bienes inmuebles propiedad del Municipio y los requisitos para los resguardos que los servidores públicos deban otorgar cuando se les confié bienes municipales para la prestación de servicios públicos en el desempeño de sus labores.
-
-### Capítulo II. De la Hacienda Municipal
-
-###### Artículo 87.
-
-La Hacienda Pública Municipal se integrará por:
-
-I. Los impuestos, derechos, aprovechamientos y contribuciones de mejoras que decrete su Ley de Ingresos correspondiente;
-
-II. Las participaciones y transferencias de ingresos federales y estatales que establezcan las Leyes y convenios de coordinación;
-
-III. Las utilidades de las entidades públicas del Municipio;
-
-IV. Los capitales y créditos a favor del Municipio así como las donaciones herencias y legados que recibiere;
-
-V. Los rendimientos de los bienes de su propiedad;
-
-VI. Los subsidios a favor del Municipio; y
-
-VII. Todos los bienes que forman su patrimonio en los términos del Artículo 80 y demás relativos de esta Ley.
-
-###### Artículo 88.
-
-Los recursos que integran la hacienda municipal se ejercerán en forma directa por los Ayuntamientos o por quienes ellos autoricen conforme a la Ley.
-
-###### Artículo 89.
-
-La Ley de Hacienda para los Municipios del Estado de Tlaxcala fijará los conceptos de impuestos, derechos, aprovechamientos, participaciones e ingresos extraordinarios que deban recaudarse, las tasas y tarifas correspondientes, por lo que el Municipio podrá hacer la reclamación en vía administrativa ante el Congreso del Estado cuando se establezcan a favor de otros, los impuestos y derechos que por Ley correspondan al Municipio, o por la vía jurisdiccional si lo estima pertinente.
-
-###### Artículo 90.
-
-Los Municipios verificarán que sus participaciones económicas de carácter federal coincidan con los montos publicados anualmente por el Gobierno del Estado, en aplicación a los ordenamientos de la Ley de Coordinación Hacendaría para el Estado de Tlaxcala y sus Municipios.
-
-###### Artículo 91.
-
-No se hará pago alguno que no este previsto en el Presupuesto Anual de Egresos correspondiente.
-
-Las omisiones o excesos de las autoridades municipales en el manejo de la hacienda pública municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado de Tlaxcala, y obligarán a su reintegro por parte de los responsables, en caso de existir daño patrimonial.
-
-## TITULO CUARTO. De la Planeación, Presupuesto y Gasto Público
-
-### Capítulo I. De la Planeación
-
-###### Artículo 92.
-
-Los Ayuntamientos planearán sus actividades en el Plan Municipal de Desarrollo, que se elaborará, aprobará y publicará en un plazo no mayor a cuatro meses a partir de la instalación del Ayuntamiento. La vigencia del plan no excederá del periodo constitucional que le corresponda; este programa será congruente con el Plan Estatal de Desarrollo.
-
-Este plan se evaluará y se dará seguimiento por el cabildo al final de cada ejercicio y podrá ser adecuado por el mismo, con los resultados de cada informe anual de Gobierno.
-
-Los Ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán al Ejecutivo del Estado, los objetivos y prioridades municipales que deberán incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los Ayuntamientos se sujetarán a lo dispuesto por la Ley de Planeación del Estado de Tlaxcala.
-
-### Capítulo II. Del Presupuesto
-
-###### Artículo 93.
-
-El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto social e inversión pública, los pagos de pasivos o deuda pública que realice el Ayuntamiento y los órganos u organismos paramunicipales autorizados por el propio Ayuntamiento.
-
-###### Artículo 94.
-
-La programación del gasto público se basará en los objetivos, estrategias y prioridades que determine el Plan Municipal de Desarrollo y los programas estatales, federales y regionales que le competan.
-
-###### Artículo 95.
-
-La programación, presupuestación, control y evaluación del gasto público municipal estarán a cargo del Ayuntamiento o de quien este autorice conforme a la Ley.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
-
-###### Artículo 96.
-
-Los ayuntamientos sólo contratarán créditos en los términos de ley y con aprobación del Congreso del Estado.
-
-Igualmente, será necesaria la autorización del Congreso del Estado para que algún Ayuntamiento otorgue como fuente de pago, garantía, o ambas, participaciones federales, aportaciones federales y/o cualquier derecho o ingreso que le correspondan, susceptibles de afectarse en términos de la legislación aplicable, y sólo se autorizará para la contratación de deuda pública con la banca de desarrollo y cuyo destino sean inversiones públicas productivas en términos de la legislación aplicable.
-
-###### Artículo 97.
-
-A fin de que el Congreso del Estado analice la concertación de empréstitos, los Ayuntamientos solicitantes harán llegar los elementos de juicio que procedan; en particular, sobre las tasas de interés, condiciones de los créditos, plazo de amortización y garantías solicitadas.
-
-###### Artículo 98.
-
-La aplicación distinta de los recursos federales o estatales transferidos al Ayuntamiento, según Leyes y convenios, a gastos municipales, dará lugar a responsabilidades de quienes ordenen la desviación y de los que la consientan.
-
-### Capítulo III. Del Ejercicio del Gasto Público
-
-###### Artículo 99.
-
-Las tesorerías municipales son los órganos que ejercerán el gasto público municipal, entendido este como el manejo equilibrado de los fondos municipales con relación a las erogaciones presupuestadas.
-
-###### Artículo 100.
-
-Los Ayuntamientos están facultados para autorizar traspasos de los recursos excedentes en el presupuesto de ingresos a otros programas autorizados en el presupuesto de egresos, siempre y cuando haya una justificación financiera y programática.
-
-###### Artículo 101.
-
-El gasto público financiará estrictamente los programas autorizados en los presupuestos de egresos y se ejercerán con base en las partidas previstas y aprobadas.
-
-###### Artículo 102.
-
-Los Ayuntamientos podrán autorizar ampliaciones presupuestales cuando se presenten situaciones imprevistas y se cuente con los recursos necesarios.
-
-###### Artículo 103.
-
-Los Ayuntamientos asignarán los subsidios que les otorguen los Gobiernos Federal y Estatal a los proyectos específicos para los cuales estén destinados.
-
-###### Artículo 104.
-
-En lo relativo a la aplicación a que se refiere el Artículo anterior, el Organo de Fiscalización Superior del Congreso del Estado, tendrá en todo tiempo la facultad de solicitar al Ayuntamiento la documentación comprobatoria.
-
-###### Artículo 105.
-
-Los Ayuntamientos proporcionarán al Congreso del Estado la información que se solicite, permitiendo conforme a la Ley, la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal en los términos de las Leyes en la materia.
-
-###### Artículo 106.
-
-La Tesorería Municipal tendrá facultades para verificar que toda erogación con cargo al presupuesto este debidamente justificada y rechazar cualquier gasto no aprobado.
-
-###### Artículo 107.
-
-Los Ayuntamientos informarán por escrito en forma mensual al Congreso del Estado de las erogaciones que hayan efectuado con base en el presupuesto de egresos. Acompañará, además la documentación que exija la Ley y la que requiera el Organo de Fiscalización Superior.
-
-###### Artículo 108.
-
-Los Ayuntamientos no efectuarán depósitos en garantía, ni garantizar cantidad económica alguna con cargo al presupuesto del ejercicio fiscal en curso, sin autorización del Congreso del Estado, salvo en los casos expresamente señalados por la Ley.
-
-### Capítulo IV. De la Contabilidad Municipal
-
-###### Artículo 109.
-
-El sistema de contabilidad que adopte cada Ayuntamiento se organizará conforme a las necesidades y posibilidades que deberá incluir el registro de activos, pasivos, capital o patrimonio, ingresos, costos, gastos, inversiones, asignaciones, obligaciones y la información sobre los ejercicios que correspondan a los programas y partidas de acuerdo a la reglamentación respectiva.
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DEL 2010)</small>
-
-###### Artículo 110.
-
-El Ayuntamiento entregará al Congreso del Estado su cuenta pública en términos de lo dispuesto por la Ley de Fiscalización Superior del Estado de Tlaxcala y sus Municipios, la cual será remitida al Órgano de Fiscalización Superior para su revisión y fiscalización.
-
-En los casos en que exista evidencia suficiente de irregularidades relevantes en el ejercicio del gasto público de algún Ayuntamiento, o por así solicitarlo el mismo a través de su Presidencia Municipal, la cuenta pública del ejercicio fiscal que corresponda podrá ser auditada a través de un despacho externo habilitado por el titular del Órgano de Fiscalización Superior; el costo de la auditoría será con cargo al presupuesto de este último.
-
-###### Artículo 111.
-
-Para los efectos de la revisión y fiscalización de las cuentas públicas municipales los Ayuntamientos informarán por escrito al Congreso del Estado, durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su establecimiento la modificación de las normas, procedimientos y sistemas de control interno que en materia contable implanten.
-
-## TITULO QUINTO. De las Autoridades Auxiliares
-
-### Capítulo I. De las Presidencias de Comunidad
-
-###### Artículo 112.
-
-Las autoridades auxiliares de los Ayuntamientos son las siguientes:
-
-I. Las Presidencias de Comunidad;
-
-II. Los delegados municipales; y
-
-III. Las representaciones vecinales.
-
-###### Artículo 113.
-
-En los poblados distintos a la cabecera municipal que tengan más de mil habitantes se establecerán Presidencias de Comunidad, la declaratoria la hará el Congreso del Estado a solicitud del Ayuntamiento que corresponda.
-
-###### Artículo 114.
-
-Para constituir una Presidencia de Comunidad es necesario que el centro de población reúna los siguientes requisitos:
-
-I. Capacidad suficiente para prestar los servicios municipales;
-
-II. Un espacio construido para la Presidencia de Comunidad o un terreno para la edificación de la misma; y
-
-III. Una hectárea de terreno para destinarlo a cementerio que cumpla con la normatividad sanitaria y de impacto ambiental.
-
-###### Artículo 115.
-
-Las Presidencias de Comunidad actuarán en sus respectivas circunscripciones como representantes de los Ayuntamientos y por consiguiente, tendrán de manera delegada las atribuciones que le sean necesarias para mantener en términos de esta Ley el orden, la tranquilidad y la seguridad de los vecinos del lugar de su jurisdicción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 116.
-
-Las presidencias de comunidad son órganos desconcentrados de la administración pública municipal, estarán a cargo de un Presidente de Comunidad, el cual será electo cada tres años conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de Tlaxcala, la Ley de Instituciones y Procedimientos Electorales para el Estado y las bases siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-I. La elección de presidentes de comunidad se realizará en la misma fecha en que se celebre la elección de Ayuntamientos, El Consejo General del Instituto Tlaxcalteca de Elecciones, determinará qué presidencias de comunidad se elegirán mediante el sistema de usos y costumbres, de acuerdo al catálogo que para tal efecto expida.
-
-Las casillas que reciban la votación de la elección de Ayuntamientos recibirán la respectiva para presidentes de comunidad conforme lo dispone la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-II. El Consejo General del Instituto Tlaxcalteca de Elecciones expedirá la convocatoria para elegir Presidentes de Comunidad por voto universal, libre, secreto, personal y directo, en la misma fecha en que haga lo propio para la elección de Ayuntamientos.
-
-En la convocatoria se establecerá con precisión:
-
-a) La fecha, el lugar y los requisitos para el registro de candidatos.
-
-b) La relación de las comunidades, barrios o secciones, que eligen presidente de comunidad, por voto universal, libre, secreto, personal y directo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-c) La forma de presentación de las candidaturas a Presidentes de Comunidad, ante el Consejo General del Instituto Tlaxcalteca de Elecciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-d) Lo demás que acuerde el Consejo General del Instituto Tlaxcalteca de Elecciones.
-
-III. Los candidatos propietarios y suplentes deberán reunir los requisitos que se establecen en el Artículo 14 de esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-Serán registrados ante el Consejo General del Instituto Tlaxcalteca de Elecciones, de acuerdo a lo que establece la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala.
-
-Por cada Presidente de Comunidad propietario se elegirá a un suplente, para que éste lo sustituya en caso de faltas temporales o absolutas. Si el suplente no puede desempeñar definitivamente el cargo, el Congreso del Estado hará la designación a propuesta interna del Ayuntamiento.
-
-IV. A partir del registro de las fórmulas de candidatos a presidentes de comunidad y hasta tres días antes del día de la elección podrán hacer campaña política;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-V. Serán presidentes de comunidad propietarios y suplentes en cada población, los candidatos que obtengan la mayoría de votos emitidos a su favor, en la elección correspondiente; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-VI. Los presidentes de comunidad electos de acuerdo a usos y costumbres de la comunidad que los elija, se acreditarán ante el Ayuntamiento que corresponda mediante el acta de la asamblea de la población, a la que invariablemente deberá asistir un representante del Instituto Tlaxcalteca de Elecciones; éste comunicará al Ayuntamiento, los resultados obtenidos en la elección correspondiente.
-
-###### Artículo 117.
-
-Las Presidencias de Comunidad como órganos desconcentrados de la administración pública municipal estarán subordinadas al Ayuntamiento del Municipio del que formen parte, sujetos a la coordinación con las dependencias y entidades de la administración pública municipal, en aquellas facultades administrativas que desarrollen dentro de su circunscripción.
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
-
-###### Artículo 118.
-
-Los presidentes de comunidad durarán en su cargo el tiempo que, a su vez esté en funciones el Ayuntamiento, salvo costumbre en contrario, que en todo caso no podrá exceder del ejercicio constitucional.
-
-###### Artículo 119.
-
-Los Presidentes de Comunidad darán cuenta de los asuntos de su competencia al Presidente Municipal y éste, si lo estima necesario, dispondrá que lo hagan en una de las sesiones de cabildo.
-
-###### Artículo 120.
-
-Son facultades y obligaciones de los presidentes de comunidad:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-I. Acudir a las sesiones de cabildo sólo con voz;
-
-II. Cumplir y hacer cumplir las normas Federales, Estatales y Municipales, los acuerdos que dicte el Ayuntamiento al que pertenezca así como las demás disposiciones que le encomiende el Presidente Municipal;
-
-III. Cuidar dentro de su circunscripción el orden, la seguridad de las personas y sus propiedades;
-
-IV. Elaborar, con el Comité Comunitario, el programa de obras a realizar dentro de su comunidad;
-
-V. Promover, previa autorización del Consejo de Desarrollo Municipal, la aprobación del plan de trabajo del Ayuntamiento para la construcción de obras de utilidad pública, de interés social y la conservación de las existentes;
-
-VI. Informar anualmente a la comunidad de su gestión y administración, así como entregar dicho informe en sesión de cabildo;
-
-VII. Remitir su cuenta pública al Ayuntamiento dentro de los primeros tres días de cada mes junto con la documentación comprobatoria respectiva;
-
-VIII. Imponer sanciones de acuerdo a los Bandos, Reglamentos, Decretos y, en su caso, proceder al cobro de multas a través de la oficina recaudadora;
-
-IX. Elaborar el padrón de los contribuyentes de su circunscripción;
-
-X. Si acredita tener la capacidad administrativa y si lo aprueba el Ayuntamiento, realizar el cobro del impuesto predial en la circunscripción que le corresponda y enterar su importe a la tesorería;
-
-XI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2013)
-
-XII. Representar al Ayuntamiento y al Presidente Municipal en las poblaciones que correspondan a su circunscripción territorial;
-
-XIII. Informar al Presidente Municipal de los sucesos relevantes que se produzcan en su jurisdicción;
-
-XIV. Orientar a los particulares sobre las vías legales que pueden utilizar para resolver sus conflictos;
-
-XV. Realizar todas las actividades que tengan como finalidad el bien de la comunidad;
-
-XVI. Auxiliar a las Autoridades Federales, Estatales y Municipales en el desempeño de sus funciones;
-
-XVII. Impedir que se expendan bebidas alcohólicas en contravención a las Leyes y Reglamentos;
-
-XVIII. Promover la participación y la cooperación de sus vecinos, la de grupos indígenas y marginados en programas de beneficio comunitario;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XIX. Solicitar al Ayuntamiento la creación de la comisión de agua potable, así como la expedición de sus respectivas bases de organización y facultades, cuando así lo requiera la comunidad;
-
-XX. Proporcionar los servicios públicos necesarios a las comunidades dentro de su circunscripción;
-
-XXI. Administrar el panteón de su comunidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-XXII. Solicitar al Ayuntamiento la expedición de las bases para regular la instalación y funcionamiento de los comerciantes establecidos dentro de su comunidad;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
-
-XXIII. Expedir constancia de radicación de los ciudadanos que vivan en su comunidad;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2009)</small>
-
-XXIV. Las demás que le encomiende esta ley y el Ayuntamiento correspondiente.
-
-### Capítulo II. De las Delegaciones Municipales
-
-###### Artículo 121.
-
-Los Delegados Municipales actuarán como autoridades auxiliares del Ayuntamiento cuando no tengan Presidente de Comunidad, en los centros de población que cuenten con menos de mil habitantes.
-
-###### Artículo 122.
-
-Los Delegados Municipales y sus suplentes serán electos por los ciudadanos de su localidad, reunidos en asamblea popular y a través de voto nominal y directo; durarán en su cargo el mismo tiempo que dure el Ayuntamiento respectivo y no podrán ser reelectos para el período siguiente. La declaratoria respectiva la hará el cabildo.
-
-Los candidatos a delegados municipales deberán reunir los requisitos que establece el Artículo 14 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 123.
-
-Los delegados municipales tendrán en sus respectivas circunscripciones, las facultades y obligaciones que a los presidentes de comunidad les señalan las fracciones II, XVIII y XXIII del artículo 120 de esta ley y las demás que les encomiende el Ayuntamiento.
-
-###### Artículo 124.
-
-Las faltas temporales de los delegados serán cubiertas por los suplentes respectivos, a falta de estos los ciudadanos de su localidad nombrarán en términos del Artículo 122 de esta Ley a un nuevo Delegado y suplente que durará en el cargo el lapso restante del periodo de elección.
-
-Los Ayuntamientos reglamentarán todos los actos previos de la elección, la forma de organizarla, los mecanismos para resolver los conflictos que surjan con motivo de aquella, así como su funcionamiento.
-
-### Capítulo III. De la Representación Vecinal
-
-###### Artículo 125.
-
-El Ayuntamiento de acuerdo a su Reglamento formará las representaciones vecinales que coadyuvarán con los Comités de Desarrollo Municipal, comunitario y de obra en el establecimiento de necesidades para la infraestructura urbana.
-
-###### Artículo 126.
-
-Las representaciones vecinales encausarán, entre otras acciones, la voz ciudadana en el cabildo.
-
-###### Artículo 127.
-
-El Reglamento Municipal establecerá la forma de integración de las representaciones o juntas vecinales, su funcionamiento, y todo lo concerniente a su régimen legal.
-
-## TITULO SEXTO. De la Administración Pública Descentralizada
-
-### Capítulo I. Generalidades
-
-###### Artículo 128.
-
-La Administración pPública (sic) Municipal podrá ser descentralizada en sus diversas modalidades, de acuerdo a las necesidades del Ayuntamiento y quedará sujeta a todos los ordenamientos legales en la materia.
-
-### CAPÍTULO II. De los Organismos Descentralizados
-
-###### Artículo 129.
-
-Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
-
-I. La prestación de una función o servicio público a cargo del Municipio; o
-
-II. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
-
-###### Artículo 130.
-
-En los acuerdos que se aprueben para la creación de un Organismo Descentralizado se establecerán, entre otros elementos:
-
-I. Su denominación;
-
-II. El domicilio legal;
-
-III. Su objeto, conforme a lo señalado en el Artículo anterior;
-
-IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como las que se determinen para su incremento;
-
-V. La manera de integrar el órgano de Gobierno y de designar al director general, así como a los servidores públicos en las dos jerarquías inferiores a éste;
-
-VI. Las facultades y obligaciones del órgano de Gobierno, señalando cuáles de dichas facultades son indelegables;
-
-VII. Las atribuciones del director general, quien tendrá la representación legal del organismo; y
-
-VIII. Sus órganos de vigilancia, así como sus respectivas atribuciones. Cuando algún Organismo Descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista económico o del interés público, se podrá disolver, fusionar, liquidar o extinguir, según sea el caso, siempre que se observen las mismas formalidades establecidas para su creación y se fijen los términos de su disolución, fusión, liquidación o extinción.
-
-###### Artículo 131.
-
-Los organismos descentralizados serán administrados por un órgano de Gobierno y un director general.
-
-El órgano de gobierno estará integrado por no menos de tres ni más de seis miembros propietarios y de sus respectivos suplentes. El cargo de miembro del órgano de gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
-
-###### Artículo 132.
-
-No pueden ser miembros del órgano de gobierno:
-
-I. El director general del organismo de que se trate, con excepción de aquellos casos en que así lo determinen expresamente el respectivo acuerdo de creación;
-
-II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o quienes tengan relaciones profesionales, laborales o de negocios con cualquiera de los miembros del órgano de gobierno o con el director general;
-
-III. Las personas que tengan litigios pendientes con el organismo de que se trata; y
-
-IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
-
-### Capítulo III. De las Empresas de Participación Municipal
-
-###### Artículo 133.
-
-Son empresas de participación municipal las que, además de lo dispuesto por esta Ley y demás disposiciones aplicables, satisfagan alguno de los requisitos siguientes:
-
-I. Que el Gobierno Municipal, uno o más organismos descentralizados u otras empresas de participación municipal, considerados conjunta o separadamente, aporten o sean propietarios del cincuenta y uno por ciento o más del capital social;
-
-II. Que en la constitución de su capital se hagan figurar acciones de serie especial, que sólo puedan ser suscritas por el Gobierno Municipal; y
-
-III. Que al Gobierno Municipal corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de Gobierno, así como designar al presidente, al director, al gerente o que el Gobierno municipal tenga facultades para vetar los acuerdos de la asamblea general de accionistas del consejo de administración o de la junta directiva u órgano de Gobierno equivalente.
-
-###### Artículo 134.
-
-Las Empresas de Participación Municipal deberán tener por objeto los mismos que señala el Artículo 129 de esta Ley.
-
-###### Artículo 135.
-
-Cuando alguna Empresa de Participación Municipal no cumpla con el objeto a que se refiere el Artículo 126 de esta Ley, o ya no resulte conveniente conservarla como entidad paramunicipal, el Presidente Municipal, atendiendo la opinión del Tesorero del Municipio, propondrá al Ayuntamiento la enajenación de la participación municipal o en su caso su disolución o liquidación, en términos de lo dispuesto por esta Ley y demás disposiciones aplicables, siempre que se observen las mismas formalidades establecidas para su creación.
-
-La enajenación de los títulos representativos del capital de la administración pública municipal, se realizará a través de las operaciones que garanticen las mejores condiciones de venta para el Gobierno municipal, de acuerdo con las disposiciones aplicables. El Ayuntamiento vigilará el debido cumplimiento de lo anterior.
-
-###### Artículo 136.
-
-El Ayuntamiento, por conducto de la Tesorería municipal, ejercerá las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación municipal.
-
-###### Artículo 137.
-
-Los consejos de administración, o sus equivalentes, de las empresas de participación municipal, se integrarán conforme a lo dispuesto por esta Ley y de conformidad con su normatividad interna, en lo que no se oponga a esta.
-
-Los integrantes de dichos consejos, o sus equivalentes, que representen la participación del Gobierno Municipal, serán designados por el Ayuntamiento. Asimismo, éstos deberán constituir en todo tiempo más de la mitad de los miembros del consejo y serán servidores públicos de la administración pública municipal o personas de reconocida calidad moral o prestigio, con experiencia respecto de las actividades propias de la empresa de que se trate.
-
-###### Artículo 138.
-
-La fusión o disolución de las Empresas de Participación Municipal se efectuará conforme a lo dispuesto en esta Ley y a los lineamientos o disposiciones establecidos en la normatividad interna de la empresa y demás disposiciones aplicables.
-
-El Ayuntamiento, de conformidad con lo señalado en el párrafo anterior, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
-
-### Capítulo IV. De los Fideicomisos Públicos
-
-###### Artículo 139.
-
-Son Fideicomisos públicos las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso del Estado, que se constituyan con recursos de la Administración Pública Municipal y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ayuntamiento en la realización de actividades de interés público.
-
-Los Comités Técnicos y los Directores Generales de los Fideicomisos Públicos se ajustarán, en cuanto a su organización, funcionamiento y atribuciones, a las disposiciones que el presente capítulo establece para los órganos de gobierno y para los directores generales en cuanto sea compatible a su naturaleza.
-
-###### Artículo 140.
-
-El Ayuntamiento, a través de la tesorería municipal, quien será el fideicomitente único del Gobierno Municipal, y en unión del Síndico, cuidarán que los contratos mediante los cuales se constituyan los Fideicomisos públicos contengan:
-
-I. Disposiciones que precisen los derechos y acciones que corresponda ejercer al fiduciario sobre los bienes fideicomitidos;
-
-II. Las instituciones que establezca o que se deriven de derechos de fideicomisarios;
-
-III. Los derechos que el fideicomitente se reserve y las atribuciones que fije en su caso al comité técnico, el cual existirá obligadamente en los fideicomisos a que se refiere el Artículo anterior;
-
-IV. La facultad expresa del Ayuntamiento de revocarlos, en su caso, sin perjuicio de los derechos que correspondan a los fideicomisarios, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita;
-
-V. Las facultades especiales que en su caso se otorguen al Comité Técnico, e indicará cuales asuntos requieren de la aprobación del mismo para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria;
-
-VI. Disposiciones para la realización de actos urgentes cuya omisión pueda causar notorio perjuicio al fideicomiso, cuando no sea posible reunir al comité técnico, previa consulta del Tesorero Municipal al Ayuntamiento y con autorización de éste;
-
-VII. Las estipulaciones que se deriven de la naturaleza específica del Fideicomiso de que se trate y que sean necesarias para garantizar los recursos de la Administración Pública Municipal, de conformidad con lo señalado por esta Ley y demás disposiciones aplicables; y
-
-VIII. La determinación de su estructura administrativa.
-
-###### Artículo 141.
-
-Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración del Ayuntamiento al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
-
-###### Artículo 142.
-
-La institución fiduciaria tendrá las obligaciones siguientes:
-
-I. Realizar y celebrar, por instrucción del comité técnico, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso;
-
-II. Informar al fideicomitente y al comité técnico acerca de la ejecución de los acuerdos;
-
-III. Presentar al fideicomitente y al comité técnico la información contable requerida para precisar la situación financiera del fideicomiso; y
-
-IV. Cumplir con los demás requerimientos que se fijen de común acuerdo con el fideicomitente y el comité técnico.
-
-## TITULO SEPTIMO. De los Organismos de Participación Ciudadana
-
-### Capítulo I. De la Participación Ciudadana
-
-###### Artículo 143.
-
-Es de interés público, el funcionamiento de los organismos de participación y colaboración ciudadana que representen a los vecinos de las colonias, barrios, zonas, centros de población y comunidades indígenas con el fin de asegurar su participación en las actividades del Municipio.
-
-Los Reglamentos Municipales regularán el funcionamiento y las prevenciones mínimas que contendrán las asociaciones de vecinos y otras formas de organización ciudadana y vecinal, así como la voz ciudadana en el cabildo.
-
-###### Artículo 144.
-
-Los Ayuntamientos promoverán la participación de sus habitantes para el desarrollo comunitario mediante la consulta popular, referéndum, plebiscito, consulta vecinal, colaboración vecinal, unidades de quejas y denuncias y audiencia pública conforme a las bases que se determinen en la Ley que para tal efecto expida el Congreso del Estado, y en su caso, en los Reglamentos municipales.
-
-### Capítulo II. De los Consejos de Participación
-
-###### Artículo 145.
-
-Para la aplicación de los recursos federales y estatales destinados para infraestructura social municipal, se crean las figuras siguientes:
-
-I. El Consejo de Desarrollo Municipal;
-
-II. El Comité Comunitario; y
-
-III. El Comité de Obra.
-
-###### Artículo 146.
-
-El Consejo de Desarrollo Municipal es el encargado de la planeación de las acciones para la infraestructura social municipal y establecerá las prioridades en la demanda social, será responsable de la promoción, programación y seguimiento de las acciones que con este recurso se realicen y estará integrado por:
-
-I. El Presidente Municipal quien lo presidirá;
-
-II. El Síndico y Regidores Municipales;
-
-III. Los Presidentes de Comunidad;
-
-IV. El Secretario del Ayuntamiento, quien será el secretario del consejo; y
-
-V. El Tesorero y el Director de Obras Públicas, quienes fungirán como asesores.
-
-Los cargos en el consejo municipal de desarrollo económico serán honoríficos.
-
-### Capítulo III. De los Comités
-
-###### Artículo 147.
-
-Los Comités Comunitarios se elegirán en asamblea de pueblo con representantes de los barrios o secciones y estarán integrados por:
-
-I. El Presidente de Comunidad, quien lo presidirá;
-
-II. Un representante por cada barrio, colonia o sección; y
-
-III. El comisariado ejidal si hubiere.
-
-Se nombrará de entre sus miembros al secretario, tesorero y tres vocales.
-
-###### Artículo 148.
-
-El Comité de Obra se elegirá en la asamblea de representación vecinal con beneficiarios de la obra, en cada calle, barrio o colonia y se integrará por:
-
-I. Un presidente;
-
-II. Un secretario;
-
-III. Un tesorero; y
-
-IV. Un vocal de control y vigilancia.
-
-###### Artículo 149.
-
-Los Comités de Desarrollo Municipal, Comunitario y de Obra se sujetarán en su funcionamiento a la normatividad que se señale. Las obras y acciones aprobadas para cada ejercicio fiscal se publicarán en un periódico de mayor circulación estatal y en las Presidencias de Comunidad, a través de anuncios, se publicarán, de igual manera, los resultados finales de cada ejercicio fiscal.
-
-###### Artículo 150.
-
-Las comisiones o comités para el suministro de agua potable que existan en los Municipios se considerarán como Organismos Públicos Descentralizados y sujetos a lo establecido por esta Ley.
-
-## TITULO OCTAVO. De los Organismos Coordinados
-
-> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
-
-### Capítulo I. Del Registro Civil
-
-> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-###### Artículo 151.
-
-(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2013)
-
-### Capítulo II. De la Junta Municipal de Reclutamiento
-
-###### Artículo 152.
-
-Corresponde a la Secretaría del Ayuntamiento la coordinación de los servicios de la Junta Municipal de Reclutamiento, con la Secretaría de la Defensa Nacional.
-
-# LIBRO CUARTO. De la Facultad Jurisdiccional Municipal
-
-### Capítulo I. Generalidades
-
-###### Artículo 153.
-
-Se deposita la función jurisdiccional del Ayuntamiento, en un Juez Municipal quien será auxiliado en sus funciones por el personal necesario.
-
-En las demarcaciones de las Presidencias de Comunidad estas funciones podrán ser ejercidas de manera directa por el Presidente de Comunidad, quien deberá coordinarse con el Juez Municipal para el desarrollo de esta función.
-
-El Ayuntamiento podrá ordenar la creación de juzgados municipales en las Presidencias de Comunidad o Delegaciones Municipales que lo justifiquen.
-
-### Capítulo II. De los Requisitos del Personal Judicial Municipal
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2007)</small>
-
-###### Artículo 154.
-
-El Juez Municipal deberá cumplir con los requisitos siguientes:
-
-I. Ser licenciado en derecho con título y cédula profesionales legalmente expedidos, con una antigüedad mínima de tres años;
-
-II. Ser ciudadano mexicano, avecindado en el Municipio de que se trate, cuando menos cinco años anteriores a su designación;
-
-III. No haber sido condenado por delito grave o estar inhabilitado para desempeñar empleo, cargo o comisión como servidor público y no haber sido objeto de recomendación alguna por la Comisión Estatal de Derechos Humanos, y
-
-IV. Ser mayor de veinticinco años.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2007)</small>
-
-###### Artículo 155.
-
-A propuesta en terna del Presidente Municipal el Juez Municipal será elegido por el Ayuntamiento por votación de las dos terceras partes de sus miembros, la documentación que ampare que la persona designada cumplió con los requisitos establecidos en esta ley, se enviará al Presidente del Tribunal Superior de Justicia del Estado, para que le extienda el nombramiento respectivo.
-
-### Capítulo III. De la Función Jurisdiccional
-
-###### Artículo 156.
-
-Son atribuciones y obligaciones del Juez Municipal:
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2007)</small>
-
-I. Conocer del procedimiento de mediación y llevar a cabo la conciliación de conformidad a lo establecido en la ley en la materia;
-
-II. Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando de Policía y Gobierno Municipal, Reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los Ayuntamientos, excepto los de carácter fiscal;
-
-III. Aplicar las sanciones y conocer en primera instancia de las controversias que se susciten respecto de las normas municipales relativas al orden público y a los conflictos vecinales que no constituyan delito;
-
-IV. Fungir como autoridad investida de fe pública, con potestad jurisdiccional dentro de su competencia y con facultades coercitivas y sancionadoras;
-
-V. Expedir, a petición de parte, las certificaciones de los hechos o actuaciones que se realicen ante él; y
-
-VI Consignar ante las autoridades competentes los hechos y a las personas que aparezcan involucradas, en los casos en que haya indicios de que sean delictuosos.
-
-###### Artículo 157.
-
-El Juez Municipal podrá proponer ante el Ayuntamiento su Reglamento Interior y las demás normas administrativas que sean necesarias para el cumplimiento de sus fines.
-
-###### Artículo 158.
-
-La Policía Preventiva Municipal deberá prestar auxilio en el desarrollo de las funciones del Juez Municipal.
-
-###### Artículo 159.
-
-Las determinaciones que dicten las Autoridades Municipales en materia administrativa podrán ser recurridas por los particulares a través de los medios que establezca la Ley del Procedimiento Administrativo.
-
-### Capítulo IV. Del Procedimiento
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2007)</small>
-
-###### Artículo 160.
-
-El Juez Municipal conocerá de los procedimientos de mediación y conciliación que la ley de la materia señala.
-
-Además conocerá de asuntos de menor cuantía e impondrá las sanciones en procedimiento sumario, oral y público. En ese acto se dará oportunidad al presunto infractor de expresar lo que a su derecho haga valer y aportar las pruebas que por su naturaleza puedan desahogarse en ese momento. Hecho lo anterior, el Juez Municipal resolverá de plano.
-
-###### Artículo 161.
-
-En aquellos Municipios en que no sea nombrado Juez Municipal, la función será desempeñada por el Secretario del Ayuntamiento y auxiliado por el responsable de la Policía Preventiva Municipal.
-
-### Capítulo V. De las Responsabilidades
-
-###### Artículo 162.
-
-La inobservancia de esta Ley por parte de los servidores públicos municipales dará lugar a la aplicación de las sanciones que establece el título VIII de la Constitución Política del Estado Libre y Soberano de Tlaxcala, la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado de Tlaxcala y las demás que resulten aplicables.
-
-Las disposiciones del Artículo 34 de esta Ley, son de orden público y su trasgresión (sic) son causas de responsabilidad grave y producirá, además de nulidad absoluta de los actos celebrados en contravención a la misma.
-
-### Capítulo VI. De las Sanciones y Medidas de Seguridad
-
-###### Artículo 163.
-
-Las Autoridades Municipales en el ámbito de sus respectivas competencias y en ejercicio de sus atribuciones podrán imponer las sanciones siguientes:
-
-I. El arresto que no podrá exceder de treinta y seis horas;
-
-II. La multa que se fijará de acuerdo a las condiciones del infractor. En caso de que el infractor no pague la multa podrá ser conmutada por arresto hasta por treinta y seis horas. Si el infractor fuere jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día;
-
-III. El decomiso o retención de bienes cuando sean utilizados exclusivamente para fines ilícitos, o en el desarrollo de actividades prohibidas por el Ayuntamiento;
-
-IV. La clausura o cancelación de los permisos o autorizaciones otorgados a los particulares; y
-
-V. La suspensión de las actividades de los particulares que transgredan las disposiciones reglamentarias municipales.
-
-###### Artículo 164.
-
-Las Autoridades Municipales respetarán en la imposición de las sanciones correspondientes, la garantía de audiencia a los particulares en los términos y condiciones que fijen las disposiciones reglamentarias que dicte cada Ayuntamiento.
-
-###### Artículo 165.
-
-En los casos que se ponga en riesgo la seguridad de la ciudadanía y por causas de interés público, las Autoridades Municipales, bajo su más estricta responsabilidad, a través de un acto fundado y motivado podrán dictar medidas provisionales para asegurar bienes de los particulares o sus efectos.
-
-En tal caso, la neutralización de alimentos, bebidas, mercancías, explosivos y cualquier otro objeto que represente riesgo para las personas deberá de ponerse a disposición de las autoridades competentes para que determine su destino final.
-
-La autoridad municipal podrá ordenar la retención de las personas para ponerlas a disposición de las autoridades correspondientes, en aquellos casos en que se ponga en peligro su integridad personal o la de los vecinos.
-
-Los bienes abandonados serán asegurados a través de la Secretaría del Ayuntamiento, para ser devueltos a quien acredite su legítima propiedad; en caso de no ser reclamados, podrán apropiarse cumpliendo los requisitos y formalidades exigidos por el Código Civil.
-
-T R A N S l T O R I O S
-
-PRIMERO. La presente Ley entrará en vigor el día quince de enero del año dos mil dos.
-
-SEGUNDO. Se abroga la Ley Municipal del Estado de Tlaxcala publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala, el día 23 de mayo del 2001.
-
-TERCERO. Los convenios, contratos, actos jurídicos de asociación o coordinación celebrados entre diversos Municipios, o de éstos con el Gobierno del Estado, para la prestación de servicios públicos o realización de obras, o de cualquier otra naturaleza, antes de la vigencia de está Ley, tienen plena validez y surtirán todos sus efectos hasta la fecha señalada para su terminación.
-
-CUARTO. Los Ayuntamientos ajustarán, en el término de un año a partir de que entre en vigor está Ley, los Reglamentos relativos a las funciones y servicios públicos municipales, así como los correspondientes a las dependencias y entidades de la administración pública municipal y a las disposiciones contenidas en esta Ley.
-
-QUINTO. En tanto se expidan las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a esta Ley, los Reglamentos en vigor.
-
-AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
-
-Dado en la Sala de Sesiones del Palacio Juárez, Recinto Oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la Ciudad de Tlaxcala de Xicohténcatl a los once días del mes de diciembre del año dos mil uno.
-
-C. HECTOR VAZQUEZ GALICIA.- DIP. PRESIDENTE.- C. IRMA DE LOS SANTOS LEON.- DIP. SECRETARIA.- C. MA. ANGELICA BLANCA DOMINGUEZ ORTEGA.- DIP. SECRETARIA.- Rúbricas.
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los Veinte días del mes de diciembre del año dos mil uno.
-
-EL GOBERNADOR DEL ESTADO
-
-ALFONSO ABRAHAM SANCHEZ ANAYA
-
-Rúbrica
-
-EL SECRETARIO DE GOBIERNO
-
-FABIAN PEREZ FLORES
-
-Rúbrica
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 12 DE FEBRERO DE 2004.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-Este decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
-
-P.O. 28 DE DICIEMBRE DE 2004.
+Se derogan todos aquellas disposiciones legales que se opongan a lo establecido en el presente Reglamento.
 
 ###### ARTÍCULO TERCERO.
 
-Una vez aprobado y publicado este Decreto envíese a través de la Secretaría Parlamentaria a los ayuntamientos del Estado para su debido cumplimiento.
-
-P.O. 13 DE ABRIL DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los juicios arbitrales que se encuentren en trámite se concluirán de conformidad con los numerales que se derogan, salvo disposición expresa de las partes de sujetarse al procedimiento de mediación y conciliación previsto en la Ley que Regula el Sistema de Mediación y Conciliación en el Estado de Tlaxcala.
+Los integrantes de los Órganos de Gobierno de las Entidades Paramunicipales que son representantes de organismos sociales de la ciudad continuarán en su cargo hasta que concluya el período para el que fueron electos.
 
 ###### ARTÍCULO CUARTO.
 
-Se derogan todas aquellas disposiciones que contravengan al contenido de este Decreto.
-
-P.O. 15 DE MAYO DE 2009.
-
-PRIMERO. Los miembros de los ayuntamientos que resulten electos el primer domingo de julio del año 2010, ejercerán sus funciones constitucionales del quince de enero del año 2011, al treinta y uno de diciembre del año 2013, a efecto de dar cumplimiento a lo previsto por el artículo octavo transitorio del decreto número 11, publicado en el Periódico Oficial del Gobierno del Estado de fecha 1 de agosto de 2008. Posteriormente, para los efectos de lo previsto por el artículo 90, párrafo cuarto, de la Constitución Política del Estado Libre y Soberano de Tlaxcala, y a lo dispuesto en el artículo 15, de la presente reforma, los integrantes de los ayuntamientos electos en procesos ordinarios tomarán posesión el día primero de enero inmediato posterior a la fecha de su elección.
-
-SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
-
-TERCERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE ABRIL DEL 2010.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
-
-P.O. 12 DE MAYO DE 2011.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-P.O. 13 DE NOVIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-SEGUNDO. Cuando se mencione al Juez del Registro Civil en otros ordenamientos jurídicos se entenderá que se hace referencia al Oficial del Registro Civil.
-
-TERCERO. Dentro de los 15 días siguientes a la entrada en vigor del presente Decreto el Oficial Mayor de (sic) Gobierno del Estado deberá emitir la convocatoria y procedimiento para la elección de los Oficiales del Registro del Estado Civil, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado.
-
-Las personas que resulten designadas para ocupar el cargo de Oficial del Registro Civil, entrarán en funciones el 1° de enero del 2014.
-
-CUARTO. Dentro del término de 15 días siguientes a la entrada en vigor del presente Decreto se deberá expedir el Reglamento del Registro Civil del Estado de Tlaxcala.
-
-QUINTO. El Capitulo I, del Título Octavo denominado "Del Registro Civil", y el artículo 151 de la Ley Municipal, estará vigente hasta el 31 de diciembre del 2013. A partir del 1 de enero del 2014, el Estado comenzará a percibir los ingresos correspondientes al pago de derechos por actos del registro civil, por lo que la Secretaría de Planeación y Finanzas deberá de realizar las previsiones necesarias para la integración del presupuesto de egresos y disposiciones relativas, para el ejercicio fiscal al que se hace referencia.
-
-SEXTO. La Secretaría de Planeación y Finanzas del Gobierno del Estado, queda facultada para realizar las transferencias o resectorización presupuestaria y la adscripción de los recursos humanos que sean necesarios para la debida observancia de este Decreto, con la intervención que le corresponda a la Oficialía Mayor de Gobierno; así como para realizar las adecuaciones a los ramos, programas de inversión y programas operativos que se requieran para el Presupuesto de Egresos del Ejercicio Fiscal en curso y subsecuentes, debiendo integrar en la cuenta pública correspondiente el informe sobre el uso que haga de esta facultad.
-
-SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 24 DE DICIEMBRE DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-###### ARTÍCULO SEGUNDO.
-
-Para efectos del nombramiento del tesorero y del director de Obras Públicas, el Presidente Municipal deberá observar estrictamente lo dispuesto en los artículos 71 párrafo segundo, 73 y 74 de la Ley Municipal del Estado de Tlaxcala, en caso contrario, tal nombramiento será considerado nulo.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 12 DE OCTUBRE DE 2015.
-
-###### ARTÍCULO PRIMERO.
-
-La presente ley entrará en vigor el día primero de enero del año dos mil diecisiete.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
-
-###### ARTÍCULO TERCERO.
-
-La reforma prevista en al artículo 15 en lo relativo a la fecha en que asumirán el cargo los integrantes del ayuntamiento, entrará en vigor el día treinta y uno de agosto del dos mil veintiuno. Los ayuntamientos que entren en funciones el primero de enero de dos mil diecisiete terminarán el treinta de agosto de dos mil veintiuno, teniendo una duración de cuatro años ocho meses por única ocasión, a efecto de que la elección de los integrantes de los ayuntamientos se haga concurrente con las elecciones federales de dos mil veintiuno y subsecuentes.
-
-###### ARTÍCULO CUARTO.
-
-El derecho de los integrantes de los ayuntamientos a ser reelectos a que se refiere el segundo párrafo del artículo 13 de esta Ley, en términos de lo que dispone el artículo décimo cuarto transitorio del decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado en el Diario Oficial de la Federación en fecha diez de febrero de dos mil catorce, no aplicará a quienes fueron electos para el periodo constitucional comprendido del día uno de enero de dos mil catorce a treinta y uno de diciembre de dos mil dieciséis, y lleguen a estar en funciones; ni a quienes, en lo sucesivo, sean electos para un periodo mayor a tres años.
-
-P.O. 30 DE DICIEMBRE DE 2016.
+Los integrantes propietarios de los Órganos de Gobierno de las Entidades Paramunicipales pertenecientes a la Administración Pública, serán nombrados en un plazo no mayor de quince días, a partir de la entrada en vigor de este reglamento mediante el procedimiento contemplado en el presente Reglamento.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2451,50 +783,84 @@ Dado en la Sala de Cabildo del Palacio Municipal, a la fecha de su presentación
 
 P.O. 23 DE SEPTIEMBRE DE 2005.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Esta reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Las presentes reformas y adiciones entrarán en vigor en el momento de su aprobación y se deberán Publicar en el Periódico Oficial del Estado de Baja California y en un Diario de los de mayor circulación local para su difusión ciudadana.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan a esta reforma.
+Se derogan todas aquellas disposiciones municipales que se opongan a las presentes reformas y adiciones.
 
-P.O. 25 DE MAYO DE 2006.
+###### ARTICULO TERCERO.
 
-###### ARTÍCULO PRIMERO.
+Realícense los ajustes presupuestales que correspondan a efecto de dar cumplimiento a la presente adición y reforma.
 
-Este Decreto de adiciones y reformas encuentra en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+P.O. 1 DE AGOSTO DE 2008.
 
-###### ARTÍCULO SEGUNDO.
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
-Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
+SEGUNDO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
 
-###### ARTÍCULO TERCERO.
+TERCERO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
-Los presidentes municipales del Estado, enviarán al Presidente del Tribunal Superior de Justicia, su propuesta de Juez Municipal a efecto de que éste le extienda el nombramiento respectivo, en un plazo no mayor a veinte días hábiles posteriores a la publicación de la Ley que Regula el Sistema de Mediación y Conciliación en el Estado de Tlaxcala.
+P.O. 30 DE ENERO DE 2009.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 303.- POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN XV DEL ARTÍCULO 41 DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA".]
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
-###### ARTÍCULO PRIMERO.
+CUARTO. El presente acuerdo, entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado de Baja California, de conformidad con el artículo 18, de la Ley del Régimen Municipal para el Estado de Baja California.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+QUINTO. Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
-###### ARTÍCULO SEGUNDO.
+P.O. 6 DE DICIEMBRE DE 2013.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
-P.O. 12 DE OCTUBRE DE 2017.
+P.O. 8 DE DICIEMBRE DE 2014.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 35.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVII DEL ARTÍCULO 33, DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA".]
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana, Baja California.
 
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Artículo Segundo. Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
-P.O. 29 DE DICIEMBRE DE 2017.
+CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 116.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA".]
+P.O. 13 DE MARZO DE 2015.
 
-###### ARTÍCULO ÚNICO.
+PRIMERO.- Las presentes reformas entrarán en vigor al el (sic) día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
 
-El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día siguiente al de su publicación.
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+TERCERO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración municipal, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 21 Y LA ADICIÓN DEL ARTÍCULO 13 QUÁTER DEL REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-CDPM-02/2015”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL TÍTULO TERCERO EN CUANTO A SU DENOMINACIÓN Y A LA MODIFICACIÓN DEL CAPÍTULO PRIMERO PARA CAMBIAR A CAPÍTULO ÚNICO, Y LOS ARTÍCULOS 34 Y 35 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes reformas.
+
+TERCERO.- Los recursos presupuestales y materiales que se encontraban asignados a la Sindicatura Social, deberán pasar a resguardo y asignación de la Sindicatura Procuradora, con el fin de que sean utilizados por las unidades administrativas resultantes de las presentes reformas.
+
+CUARTO.- Una vez publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 6 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMA A DIVERSA REGLAMENTACIÓN MUNICIPAL A EFECTO DE INCLUIR LA FIGURA DEL TESORERO MUNICIPAL DENTRO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA”.]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Notifíquese a través de la Secretaría de Gobierno a todos los organismos en los que sus reglamentos se reformen por medio del presente dictamen.
