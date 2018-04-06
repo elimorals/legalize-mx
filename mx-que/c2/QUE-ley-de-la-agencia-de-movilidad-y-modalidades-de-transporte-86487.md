@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2018-03-16"
+last_updated: "2018-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -79,83 +79,113 @@ IV. Bases de encierro. Lugar destinado para el depósito y guarda de los vehícu
 
 V. Base de ruta. Lugar de inicio o terminación de una ruta de transporte público colectivo destinado al despacho y estacionamiento temporal de vehículos;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-VI. Concesión. Acto jurídico-administrativo mediante el cual el Ejecutivo del Estado, por sí o a través del Instituto Queretano del Transporte, otorga a una persona física o moral la facultad de prestar el servicio público en cualquiera de sus modalidades de transporte;
+VI. Carril confinado. La superficie de rodadura con dispositivos de delimitación en su perímetro para el uso exclusivo de servicios de transporte público y colectivo y/o vehículos de emergencias;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-VII. Concesionario. La persona física o moral titular de una concesión;
+VII. Carril preferente. Superficie de rodadura con dispositivos de delimitación en su perímetro, para el uso preferente del transporte público colectivo, en el cual podrán convivir con el transporte en todas sus modalidades y con el transporte privado hasta por 75 metros cuando éstos deban incorporarse o desincorporarse a dicho carril para dar vueltas, ya sea izquierda o derecha o incorporarse a algún espacio destinado a estacionamiento;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-VIII. Instituto. Instituto Queretano del Transporte;
+VIII. Concesión. Acto jurídico-administrativo mediante el cual el Ejecutivo del Estado, por sí o a través del Instituto Queretano del Transporte, otorga a una persona física o moral la facultad de prestar el servicio público en cualquiera de sus modalidades de transporte;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-IX. Comprobante de pago del servicio. Es aquel que expide el concesionario o permisionario por los servicios de transporte proporcionados al usuario;
+IX. Concesionario. La persona física o moral titular de una concesión;
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-X. Parada. Zona de detención de los vehículos en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo;
+X. Comprobante de pago del servicio. Es aquel que expide el concesionario o permisionario por los servicios de transporte proporcionados al usuario;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-XI. Permiso. Es la autorización que el Instituto otorga a una persona física o moral para prestar el servicio especializado de transporte en cualquiera de sus modalidades.
+XI. Empresas especializadas por medio de aplicaciones tecnológicas, o empresas especializadas o empresas de redes de transporte. Son aquellas en las que media un acuerdo o contrato entre los Prestadores del Servicio Especializado de Transporte Privado de Pasajeros y sus usuarios, a través de aplicaciones tecnológicas en teléfonos inteligentes. La empresa presta sus servicios por sí misma o por alguna de sus empresas filiales o subsidiarias y pueden catalogarse como propietarias o licenciatarios de conformidad a las leyes de la materia. Estas empresas son solidarias y mancomunadas entre los Prestadores del Servicio de Transporte Privado de Pasajeros -socios o asociados de las empresas y sus usuarios;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-XII. Permiso temporal. Es la autorización temporal que el Instituto otorga a una persona física o moral para satisfacer una necesidad inmediata o emergente de servicio público de transporte colectivo o mixto;
+XII. Estación intermodal. Espacio físico que sirve de conexión a los usuarios entre dos o más rutas o modos de transporte, siendo punto de origen para transporte colectivo y destino para transporte público suburbano;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-XIII. Permisionario. La persona física o moral titular de un permiso o permiso temporal de transporte;
+XIII. Instituto. Instituto Queretano del Transporte;
 
-XIV. Ruta. El recorrido que un vehículo destinado al servicio público de transporte colectivo, debe realizar en las vías de comunicación dentro del territorio del Estado, entre los puntos extremos e intermedios que fije la autoridad competente;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+XIV. Parada. Zona de detención de los vehículos en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo;
 
-XV. Sistema. Sistema de rutas integradas del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XV. Permisionario. La persona física o moral titular de un permiso o permiso temporal de transporte;
 
-XVI. Sistema de Recaudo. Sistema de recaudo centralizado del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XVI. Permiso. Es la autorización que el Instituto otorga a una persona física o moral para prestar el servicio especializado de transporte en cualquiera de sus modalidades;
 
-XVII. Sistema de Monitoreo. Sistema de Monitoreo de la Operación del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XVII. Permiso complementario. Permiso que el Instituto otorga a una persona física o moral que cuente con concesión o permiso de transporte de otra entidad federativa colindante con el Estado de Querétaro, a fin de realizar la prestación del servicio para el cual está autorizado en la entidad federativa de origen, dentro de una ruta específica al interior del territorio del estado de Querétaro;
 
-XVIII. Sitio. Espacio físico ubicado en propiedad privada, o en la vía pública, autorizado por la autoridad competente, destinado al estacionamiento temporal de vehículos del servicio público de taxi y especializado de carga para el ofrecimiento de sus servicios;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XVIII. Permiso temporal. Es la autorización temporal que el Instituto otorga a una persona física o moral para satisfacer una necesidad inmediata o emergente de servicio público de transporte colectivo o mixto;
 
-XIX. Sujeto económico. Las personas físicas o morales que prestan el servicio de transporte público en sus diversas modalidades;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2018)</small>
+XIX. Ruta. El recorrido que un vehículo destinado al servicio público de transporte colectivo, debe realizar en las vías de comunicación dentro del territorio del Estado, entre los puntos extremos e intermedios que fije la autoridad competente;
 
-XX. Taxímetro. Instrumento de medición que, acoplado a un vehículo del servicio de taxi, computa los factores distancia y/o tiempo, traduciéndolos en un importe a pagar en moneda nacional, de acuerdo a una tarifa oficial vigente autorizada previamente, la misma que debe indicarse de manera visual y auditiva;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XX. Servicios complementarios. Son aquellos servicios, afectos a los bienes muebles e inmuebles que forman parte del Servicio de Transporte Público y especializado con el que se presta el servicio;
 
-XXI. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XXI. Servicios relacionados. Aquellos que sin ser indispensables para la comunicación y el transporte sean incidentales para con el mismo;
 
-XXII. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XXII. Sistema. Sistema de rutas integradas del transporte público colectivo en zonas metropolitanas del Estado de Querétaro;
 
-XXIII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+XXIII. Sistema de prepago. Forma de pago electrónico mediante tarjeta o código expedida para tal efecto al usuario, con la finalidad de agilizar el cobro de pasaje, teniendo como propósito verificar de forma automática un usuario y aplicar la tarifa correspondiente;
 
-XXIV. Empresas especializadas por medio de aplicaciones tecnológicas, o empresas especializadas o empresas de redes de transporte: Son aquellas que medien un acuerdo o contrato entre los Prestadores del Servicio Especializado de Transporte Privado de Pasajeros y sus usuarios, a través de aplicaciones tecnológicas en teléfonos inteligentes. La empresa presta sus servicios por sí misma o por alguna de sus empresas filiales o subsidiarias; estas son propietarias o licenciatarios de conformidad a las leyes de la materia. Estas empresas son solidarias y mancomunadas entre los Prestadores del Servicio de Transporte Privado de Pasajeros -socios o asociados de las empresas- y sus usuarios; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+XXIV. Sistema de recaudo de la tarifa. Se entiende la tecnología a través de la cual se abona el pago de la tarifa de forma electrónicamente a través de medios magnéticos, con la finalidad de que se realice el pago del servicio a través de los equipos de validación instalados en los vehículos, o en su caso en terminales de transferencia o paradas intermedias del servicio público de transporte colectivo;
 
-XXV. Socios o Asociados de las Empresas Especializadas por medio de aplicaciones tecnológicas. Son aquellas personas que tienen una relación con las empresas especializadas, a través del uso de la plataforma y en su calidad de Prestadores del Servicio de Transporte Privado de Pasajeros.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXV. Sistema de monitoreo de flota. Aquel que permite el control y supervisión de la flota y del servicio de transporte, permitiendo documentar y registrar cada evento de la operación del servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXVI. Sitio. Es el espacio físico también conocido como base, ubicado en propiedad privada, o en la vía pública, autorizado por la autoridad competente, destinado al estacionamiento temporal de vehículos del servicio público de taxi y especializado de carga para el ofrecimiento de sus servicios;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXVII. Socios o Asociados de las Empresas especializadas por medio de aplicaciones tecnológicas. Son aquellas personas que tienen una relación con las empresas especializadas, a través del uso de la plataforma y en su calidad de Prestadores del Servicio de Transporte Privado de Pasajeros;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXVIII. Sujeto económico. Las personas físicas o morales que prestan el servicio de transporte público en sus diversas modalidades;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXIX. Taxímetro. Instrumento de medición que, acoplado a un vehículo del servicio de taxi, computa los factores distancia y/o tiempo, traduciéndolos en un importe a pagar en moneda nacional, de acuerdo a una tarifa oficial vigente autorizada previamente, la misma que debe indicarse de manera visual y auditiva;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXX. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXXI. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+XXXII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -193,19 +223,25 @@ Las bases y lineamientos generales que rijan los servicios de transporte que se 
 
 I. La preeminencia del interés general sobre el particular;
 
-II. La procuración de calidad, accesibilidad, seguridad, regularidad, rentabilidad, sustentabilidad, cobertura y eficiencia;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+II. La procuración de calidad, accesibilidad, seguridad, regularidad, rentabilidad, sustentabilidad, coberturas, horarios y eficiencia;
 
-III. La competitividad en igualdad de circunstancias entre los sujetos económicos que participen en el servicio, bajo el control y con la concurrencia del Estado como ente rector de la planeación, control, regulación y vigilancia del transporte y sus actividades conexas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+III. La competitividad en igualdad de circunstancias entre los sujetos económicos que participen en el servicio, bajo el control y con la concurrencia del Poder Ejecutivo del Estado, a través del Instituto Queretano del Transporte, como ente rector de la planeación, control, regulación y vigilancia del transporte y sus actividades conexas;
 
-IV. La compatibilidad de los sistemas de transporte con el desarrollo urbano armónico, las necesidades de la población, la seguridad, calidad de vida, la preservación, conservación y restauración del medio ambiente; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+IV. La compatibilidad de los sistemas de transporte con el desarrollo urbano armónico, las necesidades de la población, la seguridad, calidad de vida, la preservación, conservación y restauración del medio ambiente;
 
-V. La disponibilidad general de los servicios, evitando cualquier clase de discriminación y atendiendo a las necesidades y circunstancias particulares de personas con discapacidad y grupos vulnerables.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+V. La disponibilidad general de los servicios, evitando cualquier clase de discriminación y atendiendo a las necesidades y circunstancias particulares de personas con discapacidad y grupos vulnerables; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+VI. La disponibilidad de los servicios deberá incluir itinerarios para la operación del transporte público colectivo, estableciendo para estos efectos, los horarios y frecuencias que sean necesarias.
 
 ### Capítulo Segundo. Del Programa Estatal de Transporte
 
@@ -751,7 +787,9 @@ V. Servicio de depósito y guarda de vehículos. Es el destinado al encierro de 
 
 El servicio público de transporte colectivo se divide en:
 
-I. Urbano. Es aquel que se presta dentro de las zonas urbanas del territorio municipal;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+I. Urbano. Es aquel que se presta dentro de las zonas urbanas de uno o más territorios municipales;
 
 II. Suburbano. Es aquel se presta de las comunidades rurales hacia la cabecera municipal y viceversa, o de una comunidad a otra, dentro del territorio municipal, y
 
@@ -833,13 +871,15 @@ Los concesionarios o permisionarios deberán iniciar la prestación del servicio
 
 Los vehículos del servicio de transporte deberán cumplir con las especificaciones técnicas y de operación que determinen los manuales emitidos por el Instituto en apego a las normas reglamentarias que de esta ley se deriven.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2018)</small>
+
 ###### Artículo 38.
 
-Todos los vehículos del servicio de transporte deberán contar con póliza de seguro vigente para proteger y asegurar la vida, integridad física y equipaje de los usuarios del servicio, del conductor, así como de terceros que pudieran verse afectados con motivo de accidentes en donde intervienen vehículos del servicio de transporte.
+Todos los vehículos del servicio de transporte deberán contar con póliza de seguro vigente durante la prestación del servicio, para proteger y asegurar la vida, integridad física y equipaje de los usuarios del servicio, del conductor, así como de terceros que pudieran verse afectados con motivo de accidentes en donde intervienen vehículos del servicio de transporte.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
 
-La póliza de seguro cubrirá la responsabilidad civil por daños, lesiones o muerte del usuario y de terceros. Las Empresas Especializadas o Empresas de Redes de Transporte tendrán en todo momento responsabilidad mancomunada y solidaria respecto de sus socios o asociados por responsabilidad civil por daños, lesiones o muerte del usuario y de terceros, y responderán hasta el monto de la cobertura del seguro que debió haber contratado su socio o asociado.
+La póliza de seguro cubrirá la responsabilidad civil por daños, lesiones o muerte de los pasajeros y de terceros. Las Empresas Especializadas o Empresas de Redes de Transporte tendrán en todo momento responsabilidad mancomunada y solidaria respecto de sus socios o asociados por responsabilidad civil por daños, lesiones o muerte del usuario y de terceros, y responderán hasta el monto de la cobertura del seguro que debió haber contratado su socio o asociado.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -1087,15 +1127,15 @@ Para establecer o reubicar una base de encierro o base de ruta, los concesionari
 
 Se considera infraestructura pública las terminales y paradas del servicio público de transporte colectivo, la cual podrá ser concesionada a particulares para su construcción, administración y mantenimiento, conservando el Instituto el control del servicio.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 68.
 
-Los concesionarios del servicio podrán contar con los sistemas de recaudo y monitoreo que al efecto determine el Poder Ejecutivo del Estado a través del Instituto.
+Los concesionarios del servicio deberán contar con los sistemas de recaudo y monitoreo que al efecto determine el Poder Ejecutivo del Estado a través del Instituto.
 
 ###### Artículo 69.
 
-Se entiende por sistema de recaudo de la tarifa, la tecnología a través de la cual se abona el pago de la tarifa de forma electrónicamente a través de medios magnéticos, con la finalidad de que se realice el pago del servicio a través de los equipos de validación instalados en los vehículos, o en su caso en terminales de transferencia o paradas intermedias del servicio público de transporte colectivo, y por sistema de monitoreo de flota, aquel que permite el control y supervisión de la flota y del servicio de transporte, permitiendo documentar y registrar cada evento de la operación del servicio.
+(DEROGADO, P.O. 6 DE ABRIL DE 2018)
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1103,9 +1143,11 @@ Se entiende por sistema de recaudo de la tarifa, la tecnología a través de la 
 
 Cuando se establezcan sistemas de recaudo de la tarifa, el Instituto podrá supervisar la operación del sistema así como el desempeño de su operador y, en su caso, dictar las medidas correctivas o de sanción que correspondan.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
+
 ###### Artículo 71.
 
-El Estado en coordinación con los concesionarios del transporte con autorización de éste, podrá contratar la adquisición y operación del sistema de recaudo de la tarifa, así como convenir la forma y términos para la administración y distribución de ingresos obtenidos a través de dicho sistema.
+El Poder Ejecutivo del Estado, a través del Instituto, en coordinación con los concesionarios del transporte, con autorización de aquél, podrá contratar la adquisición y operación del sistema de recaudo de la tarifa, así como convenir la forma y términos para la administración y distribución de ingresos obtenidos a través de dicho sistema.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1179,7 +1221,9 @@ I. Física, que es la conexión de rutas a través de terminales de transferenci
 
 II. Operacional, que es la planeación armonizada de las rutas del sistema, mediante una programación operativa central conforme lo requiera el servicio, procurando un equilibrio de la oferta y demanda de pasajeros, y
 
-III. Tarifaria, que es el pago de una tarifa que permita al usuario el transbordo entre rutas del sistema a través de un sistema de recaudo de la tarifa.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+III. Tarifaria, es el pago de una contraprestación que permita al usuario el transbordo entre rutas del sistema a través de un sistema de recaudo de la tarifa.
 
 ###### Artículo 82.
 
@@ -2179,7 +2223,9 @@ El Instituto podrá revocar los permisos temporales que haya otorgado por las mi
 
 La construcción, operación, administración, mantenimiento y vigilancia de la infraestructura para la prestación del servicio de transporte público y sus servicios complementarios, y de los servicios relacionados con la misma, serán suministrados por el Estado mediante inversión directa o mediante concesión otorgada a particulares, la cual no podrá exceder de un plazo mayor de treinta años.
 
-El Estado y los Municipios, en sus respectivos ámbitos de competencia, podrán otorgar inmuebles en arrendamiento, concesión o comodato para instalar patios de encierro, estaciones y terminales de pasajeros, paraderos, estaciones intermodales, carriles confinados y demás infraestructura (sic) que se requieran para la prestación del servicio de transporte público, las cuales serán consideradas de utilidad pública, a fin de promover el uso de los sistemas de transporte público, desincentivar el uso de los vehículos particulares y fomentar una política sustentable de movilidad urbana.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
+
+El Estado y los Municipios, en sus respectivos ámbitos de competencia, podrán otorgar inmuebles en arrendamiento, concesión o comodato para instalar patios de encierro, estaciones y terminales de pasajeros, paraderos, estaciones intermodales, carriles confinados, carriles preferentes y demás infraestructura que se requieran para la prestación del servicio de transporte público, las cuales serán consideradas de utilidad pública, a fin de promover el uso de los sistemas de transporte público, desincentivar el uso de los vehículos particulares y fomentar una política sustentable de movilidad urbana.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2199,11 +2245,13 @@ Las concesiones se otorgarán por el titular del Poder Ejecutivo o por el Instit
 
 La tarifa es la contraprestación económica que el usuario del servicio de transporte paga a su prestador por el servicio recibido.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 158.
 
-El Poder Ejecutivo del Estado, a través del Instituto determinará y autorizará las tarifas del servicio público de transporte y sus sistemas de cobro.
+El Poder Ejecutivo del Estado, a través del Instituto determinará y autorizará las tarifas del servicio público de transporte, sus sistemas de cobro y horarios de operación.
+
+Para efectos del párrafo anterior, así como para determinar nuevas rutas, modificar las existentes, instalar infraestructura o en general, modificar la operación del servicio público de transporte, el Instituto realizará los estudios técnicos atendiendo a las necesidades del usuario y la infraestructura existente.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2269,6 +2317,10 @@ El concesionario deberá entregar al usuario del servicio el comprobante de pago
 
 Para el caso de pagar la tarifa a través del sistema de recaudo electrónico, el comprobante será el registro de la transacción reflejada en la base de datos del operador de dicho sistema, y los usuarios tendrán derecho a obtener el comprobante fiscal de pago y del seguro de viajero, a través de los medios que disponga la legislación aplicable, en los puntos de venta y atención al público del sistema.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2018)</small>
+
+Para el caso del servicio público de transporte colectivo que cuente con pago de la tarifa a través del sistema de recaudo electrónico, será obligatorio el pago de la misma a través de dicho sistema, dejando fuera toda posibilidad de pago con efectivo.
+
 ###### Artículo 166.
 
 Las tarifas autorizadas deberán publicarse en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y en su caso en un periódico de mayor circulación en el Municipio en donde se vaya a aplicar la tarifa.
@@ -2287,9 +2339,7 @@ II. Tarifa con descuento: La que cubren los usuarios que gozan de descuento por 
 
 III. Tarifa integrada: La que cubren los usuarios de un sistema de rutas integradas, que en su caso se establezca en el servicio urbano, permitiéndoles realizar transbordos entre rutas del sistema con o sin un costo adicional.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
-Cuando se establezcan sistemas de recaudo de la tarifa, el Instituto podrá implementar esquemas que incentiven el pago de la tarifa general a través de este sistema y desincentive su pago en efectivo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 168.
 
@@ -2313,11 +2363,9 @@ Los niños menores de tres años quedan exentos de pago de la tarifa.
 
 Los usuarios de una tarifa con descuento del servicio público de transporte colectivo, para gozar de este derecho deberán acreditar los requisitos que al efecto establezca el Instituto, así como las normas reglamentarias que de esta Ley se deriven.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
 ###### Artículo 170.
 
-En el servicio público de transporte colectivo, cuando se establezcan sistemas de recaudo de la tarifa, el único medio para hacer válida la tarifa con descuento será a través del documento y medio de pago que determine el Instituto, cumpliendo con los requisitos a que hace referencia el artículo que antecede.
+(DEROGADO, P.O. 6 DE ABRIL DE 2018)
 
 ###### Artículo 171.
 
@@ -2561,7 +2609,9 @@ III. El recibo de pago por emisión de título de concesión o en su caso el pag
 
 IV. La constancia de aprobación de la revisión física y mecánica;
 
-V. Póliza de seguro, fideicomisos, fondos o mutualidades internas vigente, y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
+
+V. Póliza de seguro, fideicomisos, fondos o mutualidades internas, vigentes durante el periodo de la autorización; y
 
 VI. Los demás que establezcan las normas reglamentarias de la presente ley.
 
@@ -2873,9 +2923,9 @@ Para la atención y seguimiento a las quejas contra concesionarios conductores d
 
 A quienes infrinjan las disposiciones contenidas en esta ley y en las normas reglamentarias que de ésta se deriven, se les impondrá conjunta o separadamente, cualquiera de las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2018)</small>
 
-I. Multa de cinco a mil veces el valor del factor de cálculo, en adelante VFC, previsto en la Ley del Factor de Cálculo del Estado de Querétaro, en relación con el artículo 5 de la Ley de Hacienda del Estado de Querétaro.
+I. Multa de cinco a mil veces el valor diario de la UMA;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2911,25 +2961,27 @@ Para que se configure la reincidencia, la sanción anterior a la que se imponga,
 
 La imposición de las sanciones a que se refiere esta Ley corresponde al Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 210.
 
-La explotación o prestación del servicio de transporte público o especializado en el territorio del Estado, por sí o mediante interpósita persona, sin contar con el título de concesión o permiso correspondiente o mediante la utilización de permisos o concesiones suspendidas, extintas o revocadas, constituye una falta grave contra el interés público por lo que se remitirá de inmediato el vehículo al establecimiento de depósito autorizado y se aplicará una multa de quinientas a mil VFC, quedando imposibilitado a obtener una concesión o permiso, independientemente de las responsabilidades civiles o penales que en su caso procedan.
+La explotación o prestación del servicio de transporte público o especializado en el territorio del Estado, por sí o mediante interpósita persona, sin contar con el título de concesión o permiso correspondiente o mediante la utilización de permisos o concesiones suspendidas, extintas o revocadas, constituye una falta grave contra el interés público por lo que se remitirá de inmediato el vehículo al establecimiento de depósito autorizado y se aplicará una multa de quinientas a mil veces el valor diario de la UMA, quedando imposibilitado a obtener una concesión o permiso, independientemente de las responsabilidades civiles o penales que en su caso procedan.
 
 Se estará a lo establecido en el párrafo que antecede, cuando el servicio se brinde mediante títulos o documentos notoriamente falsificados o alterados, en cuyo caso se hará del conocimiento inmediato del Ministerio Público, para que inicie la respectiva averiguación previa y se finque la responsabilidad penal que corresponda.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
+
 ###### Artículo 211.
 
-Los conductores de vehículos de transporte público o especializado que excedan la velocidad máxima permitida, serán sancionados con multa de diez a treinta VSMGZ.
+Los conductores de vehículos de transporte público o especializado que excedan la velocidad máxima permitida serán sancionados con multa de diez a treinta veces el valor diario de la UMA.
 
-Si la infracción se registra con detectores de velocidad o medios tecnológicos similares, la multa se aumentará en una VSMGZ por cada tres kilómetros o fracción por la que se haya excedido el límite permitido.
+Si la infracción se registra con detectores de velocidad o medios tecnológicos similares, la multa se aumentará en una vez el valor diario de la UMA, por cada tres kilómetros o fracción por la que se haya excedido el límite permitido.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 212.
 
-Se impondrá multa de cincuenta a doscientas UMA al titular de una concesión o permiso que:
+Se impondrá multa de cincuenta a doscientas veces el valor diario de la UMA, al titular de una concesión o permiso que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2989,11 +3041,11 @@ XVI. Realice la prestación del servicio en una jurisdicción territorial distin
 
 XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado, conforme a lo dispuesto en la normatividad legal aplicable.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 213.
 
-Se impondrá multa de veinte a treinta UMA al conductor de un vehículo de transporte público o especializado que:
+Se impondrá multa de veinte a treinta veces el valor diario de la UMA, al conductor de un vehículo de transporte público o especializado que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -3035,11 +3087,11 @@ IX. Conduzca durante la prestación del servicio, sin utilizar los aditamentos v
 
 X. Conduzca sin la licencia o la tarjeta de identificación de conductor de los servicios de transporte vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 214.
 
-Se impondrá multa de cinco a veinte VFC al conductor de un vehículo de transporte público o especializado que:
+Se impondrá multa de cinco a veinte veces el valor diario de la UMA, al conductor de un vehículo de transporte público o especializado que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -3470,3 +3522,11 @@ Artículo Primero. Para los municipios de Querétaro, Corregidora, El Marqués, 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro expedirá las disposiciones reglamentarias para la aplicación de la presente Ley, dentro de los siguientes 160 días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 6 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA, DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
