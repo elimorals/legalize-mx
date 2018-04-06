@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2018-01-05"
+last_updated: "2018-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1067,25 +1067,29 @@ VIII.- Incentivar la difusión de los valores culturales, científicos e histór
 
 IX.- En general, aquellas que el Cabildo le encomiende.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2018)</small>
 
-###### ARTICULO 90.
+###### ARTÍCULO 90.
 
-Comisión de Juventud y Deportes.- La Comisión de Juventud y Deportes tendrá las siguientes atribuciones:
+Comisión de Juventud y Deporte.- La Comisión de Juventud y Deporte tendrá las siguientes atribuciones:
 
-I.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participación de los jóvenes en asuntos de interés público;
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de juventud y deporte;
 
-II.- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio, y
+II.- Analizar, opinar y evaluar las políticas y programas que diseñen y apliquen las dependencias y entidades municipales en materia de juventud y deporte;
 
-III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente entre los jóvenes;
+III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar y proteger los derechos de la juventud en el ámbito municipal;
 
-IV.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar las unidades deportivas dentro del municipio, y
+IV.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participación de los jóvenes en asuntos de interés público;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2017)</small>
+V.- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio;
 
-V.- Participar en la organización del Cabildo de la Juventud y dar seguimiento a las propuestas que surjan de sus trabajos, de conformidad con los Reglamentos, acuerdos, convocatorias, lineamientos y demás normas que se emitan sobre la materia, y
+VI.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente entre los jóvenes;
 
-VI.- En general, aquellas que el Cabildo le encomiende.
+VII.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar las unidades deportivas dentro del municipio;
+
+VIII.- Participar en la organización del Cabildo de la Juventud y dar seguimiento a las propuestas que surjan de sus trabajos, de conformidad con los Reglamentos, acuerdos, convocatorias, lineamientos, y demás normas que se emitan sobre la matera (sic), y
+
+IX.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -1700,3 +1704,11 @@ SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de s
 TERCERO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a la presente reforma.
 
 CUARTO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
+
+P.O. 6 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 90 DEL REGLAMENTO INTERNO Y DE CABILDO PARA EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
