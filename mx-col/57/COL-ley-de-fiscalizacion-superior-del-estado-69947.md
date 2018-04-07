@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fiscalizacion-superior-del-estado-69947"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2017-04-01"
+last_updated: "2018-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 7 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en la Edición Especial al Periódico Oficial del Estado de Colima, el viernes 21 de agosto de 2009.
 
@@ -1326,3 +1328,29 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 270 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 85 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 471 POR EL QUE SE APRUEBA EXPEDIR LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley, se abroga la Ley de Fiscalización Superior del Estado, promulgada mediante Decreto 614 publicado en el Periódico Oficial "El Estado de Colima" el 21 de agosto de 2009, conforme a lo dispuesto en los artículos transitorios subsecuentes, de igual forma se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto por la presente Ley.
+
+TERCERO. Los procedimientos legales, administrativos, de fiscalización superior, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, los continuarán conociendo el H. Congreso del Estado de Colima, el Órgano Superior de Auditoría y Fiscalización Gubernamental y los órganos internos de control de los entes públicos, hasta su conclusión definitiva de conformidad con la Ley de Fiscalización Superior del Estado que se abroga y demás disposiciones vigentes aplicables al momento de su inicio, así como los que se deriven de las funciones de fiscalización y revisión de las cuentas públicas hasta el año 2017.
+
+CUARTO. Las funciones de revisión y fiscalización del Órgano Superior de Auditoría y Fiscalización Gubernamental previstas en la presente Ley, entrarán en vigor para las cuentas públicas de los años 2018 y siguientes.
+
+QUINTO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley de Justicia Administrativa del Estado de Colima y el funcionamiento del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando dicho ordenamiento se encuentre vigente.
+
+Por su parte, las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la Fiscalía Especializada en Combate a la Corrupción de la Fiscalía General del Estado, entrarán en vigor cuando la Ley Orgánica de la Fiscalía General del Estado de Colima se encuentre vigente.
+
+SEXTO. Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto, se estará a lo dispuesto en el Acuerdo que anualmente emita el Instituto Nacional de Estadística y Geografía y que se publica en el Diario Oficial de la Federación, con fundamento en lo previsto por el artículo quinto transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado el 27 de enero del 2016 en el Diario Oficial de la Federación.
+
+SÉPTIMO. Los convenios de coordinación, colaboración, concertación u otro que se hubieren celebrado con anterioridad a la entrada en vigor de la presente Ley, por el Órgano Superior de Auditoría y Fiscalización Gubernamental, con la Auditoría Superior de la Federación, y demás entes públicos federales, estatales o municipales, instituciones públicas o privadas del País o del Estado de Colima; así como los convenios y contratos de arrendamiento, conservarán su valor y eficacia, hasta en tanto se sustituyan o se rescindan.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado, establecerá en el Presupuesto de Egresos del Estado de Colima para el Ejercicio Fiscal 2019, en la partida presupuestal que corresponda al Órgano Superior de Auditoría y Fiscalización Gubernamental, los recursos económicos suficientes para garantizar el eficaz funcionamiento y desempeño de las atribuciones constitucionales y legales a cargo de dicho órgano estatal autónomo, atendiendo al proyecto de egresos respectivo que le envíe el Auditor Superior.
+
+NOVENO. El Órgano Superior de Auditoría y Fiscalización Gubernamental, deberá expedir, y en su caso, actualizar su Reglamento Interior y demás normatividad interna que conforme a sus atribuciones deba emitir, en apego a las disposiciones de esta Ley, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+El Congreso del Estado, deberá actualizar la Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento, conforme a lo previsto en esta Ley, dentro del plazo a que se refiere el párrafo anterior.
