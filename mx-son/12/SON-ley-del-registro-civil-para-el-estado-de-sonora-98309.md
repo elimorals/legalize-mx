@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2017-08-03"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -86,6 +86,14 @@ II.- Oficialías Incorporadas al presupuesto de egresos y que funcionarán como 
 III.- Oficialías Desincorporadas al presupuesto de egresos, que funcionarán como órganos auxiliares de la Administración Pública Estatal; y
 
 IV.- Un Archivo Estatal.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Artículo 7 BIS.- Los hechos que se declaren, así como los actos y procedimientos que se lleven a cabo en las oficinas del Registro Civil, se efectuarán en días y horas hábiles.
+
+Son días hábiles todos los del año, excepto los sábados, domingos y días festivos, y los de descanso obligatorio que señale la ley, así como aquellos en que las oficinas del Registro Civil suspendan sus labores por vacaciones o causas de fuerza mayor. Son horas hábiles, las que medien desde las ocho treinta hasta las quince horas, con guardias desde las dieciséis horas hasta las diecinueve horas de lunes a viernes.
+
+Las guardias para defunciones en días inhábiles y días festivos, serán en un horario de las nueve horas a las catorce horas, en las oficinas destinadas para tal fin.
 
 ###### Artículo 8.
 
@@ -156,6 +164,10 @@ La designación y nombramiento de los Oficiales del Registro Civil, será a carg
 ###### Artículo 19.
 
 Con el objeto de asegurar el cumplimiento de las obligaciones registrales para el caso de nacimientos y defunciones, la Dirección General deberá establecer Módulos Auxiliares Registrales en hospitales, maternidades o instituciones similares. Dichos módulos dependerán de una Oficialía Incorporada al presupuesto de egresos y su encargado será designado por el Director General.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Artículo 19 BIS.- Los Oficiales del Registro Civil deberán designar al personal que deberá cubrir las guardias los días inhábiles o festivos para inscribir las actas de defunción y atender asuntos de extrema urgencia
 
 ###### Artículo 20.
 
@@ -1120,3 +1132,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ADICIONAN LOS ARTÍCULOS 7 BIS Y 19 BIS A LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su publicación el Boletín Oficial del Gobierno del Estado de Sonora.
