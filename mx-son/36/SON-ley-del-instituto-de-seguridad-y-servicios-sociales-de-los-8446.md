@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2017-11-06"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -194,6 +194,14 @@ En dicha cédula se anotarán los nombres y datos que establezca el reglamento.
 ###### Artículo 9o.
 
 Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta Ley establece y los de los reglamentos y acuerdos que expida el Instituto con apoyo en la misma. No obstante lo anterior, los requisitos que impongan tales normatividades no podrán condicionar la prestación de los servicios en virtud de circunstancias relativas al estado de salud y/o físico del trabajador. Durante el proceso de ingreso o reingreso de los trabajadores como derechohabientes del Instituto, éste únicamente podrá exigir la realización de estudios médicos a aquéllos, con el exclusivo propósito de determinar si el Estado y/o alguno de los organismo (sic) públicos incorporados, debe cubrir aportaciones adicionales a favor del Instituto, así como la cuantía de las mismas, de acuerdo a lo dispuesto por el artículo 21 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+No se podrá negar, ni a los trabajadores, pensionados o jubilados o a sus familiares derechohabientes, la prestación de alguno de los servicios que ofrece el Instituto, por alguna inconsistencia o imprecisión en los documentos que acrediten la identidad o cualquier dato relaciona (sic) con el estado civil. En los casos de que al requerir la atención médica un derechohabiente se detecte cualquier irregularidad respecto de los datos de identidad, estado civil o parentesco, así como cualquier otro análogo a estos, el Instituto no deberá negar el servicio médico al interesado, pudiendo solicitar la garantía de pago del mismo, en los términos de la ley. Además, se otorgará al interesado, un plazo de hasta 90 días naturales para la entrega de los documentos con la debida corrección; transcurrido dicho plazo sin que el Instituto reciba los documentos debidamente corregidos, podrá dar de baja de los servicios que presta el Instituto, al trabajador o familiar que no tenga debidamente acreditada su identidad, sin responsabilidad alguna para el Instituto, hasta en tanto no se reciban los mismos.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Para efectos de que el Instituto pueda prestar un mejor servicio a sus derechohabientes, en materia de acreditación del Estado Civil, podrá celebrar convenios de colaboración con la Dirección General del Registro Civil del Estado, en los términos y condiciones que en los mismos convenios se establezcan.
 
 > <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -902,6 +910,10 @@ El derecho a la jubilación, pensión por vejez, cesantía por edad avanzada, in
 Los montos de las pensiones y jubilaciones que se otorguen con base en esta Ley se incrementarán en beneficio de quienes las reciban en el mismo porcentaje en que aumente el salario mínimo general en la zona de Hermosillo, Sonora, o conforme al índice inflacionario que anualmente determine el Banco de México, el que sea mayor, con posterioridad a la fecha de su otorgamiento.
 
 El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de treinta días hábiles a partir de la fecha en que quede integrado el expediente. Dentro de los treinta días hábiles siguientes, el Gobernador del Estado revisará y resolverá en definitiva acerca de la solicitud de que se trate, para los efectos que expresa la primera parte del artículo 108 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Una vez presentada una solicitud de jubilación o pensión, el área correspondiente del Instituto contará con un plazo de cinco días naturales, para realizar el análisis de los expedientes de los solicitantes, a efecto de verificar que la documentación necesaria para su trámite se encuentre en orden y sin inconsistencia o imprecisión. En caso de encontrarse estas, se dará aviso al interesado para que realice las correcciones necesarias.
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
@@ -2248,3 +2260,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La titular del Ejecutivo del Estado, a través del Secretario del Ramo, deberá de difundir entre las y los sonorenses, el derecho que tienen las mujeres embarazadas de recibir la asistencia médica necesaria, cuando se encuentren ante una urgencia obstétrica independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+B.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 204 "QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
