@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2017-01-27"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -47,9 +47,9 @@ CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUAT
 
 El presente Código es de orden público y de observancia general en el Municipio de León, Guanajuato y tiene por objeto:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-I. Proveer la exacta aplicación del Código Territorial para el Estado y los Municipios de Guanajuato mediante el establecimiento de las normas técnicas de diseño y de urbanización a las que deben sujetarse los proyectos y obras de los fraccionamientos y desarrollos en condominio;
+I. Proveer la exacta aplicación del Código Territorial para el Estado y los Municipios de Guanajuato mediante el establecimiento de los requisitos, especificaciones y procesos para el diseño y urbanización a los que deben sujetarse las acciones urbanísticas de los fraccionamientos y desarrollos en condominio;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -57,13 +57,17 @@ II. Establecer las modalidades, restricciones, especificaciones y característic
 
 III. Regular la planeación y la ejecución de las obras de construcción nuevas, de ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración y demolición, de cualquier género de edificaciones o construcciones, públicas o privadas;
 
-IV. Regular los procedimientos para revisar, proponer, asignar y modificar la nomenclatura de los bienes de uso común destinados a la vialidad, así como de las colonias, fraccionamientos, barrios, parques y jardines; así mismo definir las normas técnicas para la revisión, asignación y modificación de la numeración oficial;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IV. Regular los procedimientos para revisar, proponer, asignar y modificar la nomenclatura de los bienes de uso común destinados a la vialidad, así como de las colonias, fraccionamientos, barrios, parques y jardines; así mismo definir los requisitos y procesos para la revisión, asignación y modificación de la numeración oficial;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 V. Normar y regular la zonificación, los usos y destinos del suelo del territorio municipal, promoviendo así, el adecuado ordenamiento de los mismos;
 
-VI. Establecer las normas técnicas para clasificar la utilización del suelo; y,
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Establecer los requisitos y procesos para clasificar la utilización del suelo;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -73,11 +77,23 @@ VII. Establecer los mecanismos para instrumentar las políticas de zonificación
 
 VIII. Promover acciones de mejora para la simplificación de los trámites, la desregulación administrativa y la reducción de tiempos de respuesta al ciudadano, a través de las mesas de trabajo que señala el presente ordenamiento.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IX. Establecer las bases generales para la creación, emisión y actualización de las normas técnicas municipales complementarias al presente Código.
+
 ###### Artículo 2.
 
 Para los efectos del presente Código, se entenderá por:
 
 I. Actividades de Bajo Riesgo Público: Aquellas actividades comerciales y de servicios que por sus características son compatibles en la mayoría de las zonas y no generan riesgos de tipo ambiental, vial o urbano a los predios colindantes, dado que su intensidad es baja;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+I-A. Actividades Temporales: Son actividades de bajo riesgo público y que se desarrollan por un tiempo determinado, por festividades, para promover eventos de difusión cultural, comerciales o de servicios, así como para llevar a cabo programas de asistencia social;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+I-B. Acción Urbanística: Actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanizadas o urbanizables, tales como subdivisiones, parcelaciones, fusiones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones en general, así como de construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinadas en los planes o programas de Desarrollo Urbano o cuentan con los permisos correspondientes. Comprende también la realización de obras de equipamiento, infraestructura o Servicios Urbanos;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -99,6 +115,10 @@ VII. Área de Donación: La superficie de terreno que el desarrollador transmite
 
 VIII. Área de Uso Común: La superficie destinada a la realización de obras complementarias de beneficio colectivo, relativas a la cultura, educación, esparcimiento, deporte o asistenciales, ubicadas dentro de un desarrollo en condominio;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VIII-A. Área Urbanizable: Territorio para el crecimiento urbano contiguo a los límites del área urbanizada del centro de población determinado en los planes o programas de desarrollo urbano, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;
+
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 IX. Área Verde: La superficie de terreno no urbanizable, que forma parte del área de donación de un fraccionamiento o desarrollo en condominio, destinada a su forestación y equipamiento únicamente como parque urbano o jardín público;
@@ -113,9 +133,9 @@ XII. Autoconstrucción de Vivienda: El proceso de construcción o edificación d
 
 XII-A. Autorización de Impacto Ambiental: Documento expedido por la Dirección General de Medio Ambiente Sustentable con base en la MIA, en el cual se autoriza el impacto ambiental de las obras o actividades a realizar y se señalan las condicionantes que deberá cumplir el interesado a fin de mitigar los efectos que produciría la modificación del medio ambiente de una zona o área determinada con el uso del suelo pretendido;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XII-B. Autorización de Impacto Vial: Documento expedido por la Dirección General de Tránsito tomando en consideración la opinión técnica de la Dirección General de Movilidad, con base en la MIV, en el cual se autoriza el impacto vial de las obras o actividades a realizar y se señalan las condicionantes que deberá cumplir el interesado a fin de mitigar los efectos que produce la generación y atracción de viajes de vehículos dentro del entorno del inmueble así como del sistema vial municipal y las redes de comunicación;
+XII-B. Autorización de Impacto Vial: Documento expedido por la Dirección General de Movilidad, con base en la MIV, en el cual se autoriza el impacto vial de las obras o actividades a realizar y se señalan las condicionantes que deberá cumplir el interesado a fin de mitigar los efectos que produce la generación y atracción de viajes de vehículos dentro del entorno del inmueble, así como del sistema vial municipal y las redes de comunicación;
 
 XIII. Avalúo: Estudio para estimar el justo valor económico de un bien mueble o inmueble, avalado por una institución, especialistas o peritos en el área;
 
@@ -183,6 +203,10 @@ XXXIV. Desarrollador: Persona física o jurídico colectiva, propietaria de un b
 
 XXXV. Desarrollo en Condominio: Proyecto de urbanización de un inmueble, así como la edificación o modificación de una construcción o grupo de construcción en forma vertical, horizontal o mixta a partir de 24 unidades de propiedad privativa para cualquier transmisión de derechos reales, en el que existan elementos indivisibles de uso común;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XXXV-A. Desarrollo Urbano Sustentable: Acciones urbanísticas integralmente planeadas que contemplan usos y destinos mixtos, vivienda, eco-tecnologías, equipamientos, servicios, empleo y transporte, de forma equilibrada para el buen funcionamiento e incorporación adecuada a la zona urbana de los centros de población, o en nuevas zonas urbanas;
+
 XXXVI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población o del territorio municipal;
 
 XXXVII. Deterioro: Daño que sufren los bienes debido a la acción de factores naturales o humanos;
@@ -201,15 +225,23 @@ XLII. Dirección: A la Dirección General de Desarrollo Urbano del Municipio;
 
 XLIII. Dirección de Obra: La Dirección General de Obra Pública del Municipio;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XLIV. DRO: Director Responsable de Obra es el perito de obra referido en el Código Territorial contratado por el propietario, poseedor o, en su caso, por el constructor responsable ante ellos y ante la autoridad, en todos los aspectos de las obras en las que otorga su responsiva. Estos aspectos incluyen seguridad estructural, diseño urbano, diseño arquitectónico e instalaciones, según sea el caso, quien está obligado a contratar a los corresponsables necesarios de acuerdo a lo establecido en el Manual Técnico de las Construcciones y el presente Código;
+XLIV. DRO: Director Responsable de Obra, profesionista auxiliar de la administración pública que funge como responsable del cumplimiento de las normas aplicables a las obras en las cuales otorga su responsiva, considerado también como el perito de obra referido en el Código Territorial;
 
 XLV. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 XLVI. Equipamiento Urbano: El conjunto de edificios y espacios acondicionados sobre un inmueble de propiedad pública o privada, en los que se proporcionan servicios públicos: de bienestar social, educativos, recreativos, deportivos, de salud, comerciales, entre otros;
 
 XLVII. Espacio abierto: Superficie de un lote o predio en la cual no existe construcción;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XLVII-A. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XLVII-B. Espacio Edificable: Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
 
 XLVIII. Estacionamiento: Espacio abierto o cerrado, público o privado, dentro de un inmueble destinado al resguardo de vehículos automotores;
 
@@ -221,9 +253,9 @@ L. Estructura de Construcción: Toda construcción destinada a soportar su propi
 
 LI. Estudio de Compatibilidad: Estudio presentado por el solicitante a la Dirección en el que se señalan los efectos que la modificación propuesta a la zonificación producirá en el ambiente, los recursos naturales, el equipamiento urbano, la infraestructura pública, los servicios públicos, la imagen urbana, el paisaje, el patrimonio cultural urbano y arquitectónico, la movilidad urbana y la seguridad de las personas y sus bienes, en la zona en que se pretende un uso de suelo diferente a lo señalado en el POTE;
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-LI-A. Estudio de Densidad y criterios bioclimáticos en la ciudad de León: Documento en el que se establecen una serie de criterios, que deberá de ser elaborado y entregado a la Dirección por el promovente de proyectos, que conforme al presente Código así se requieran;
+LI-A. Estudio de Densidad y niveles en la ciudad de León: Documento en el que se establecen una serie de criterios, que deberá de ser elaborado y entregado a la Dirección por el promovente de proyectos, que conforme al presente Código así se requieran;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -239,7 +271,15 @@ LVI. Fusión: La unión en un sólo predio de dos o más inmuebles colindantes;
 
 LVII. Galibo: El espacio libre para tránsito vehicular que se proyecta desde el nivel del piso, hasta la parte baja del motivo de acceso;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LVII-A. Gestión Integral de Riesgos Naturales: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos naturales, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
 LVIII. Habitabilidad: Construcción que reúne las condiciones para poder habitarse, de acuerdo a lo señalado en el Manual Técnico de las Construcciones;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LVIII. Habitabilidad: Construcción que reúne las condiciones para poder habitarse, de acuerdo a lo señalado en la norma técnica NTM-LEON-DU-03-2018 relativa a las Especificaciones Técnicas de las Construcciones;
 
 LIX. Habitacional: Género arquitectónico relativo a la vivienda;
 
@@ -256,6 +296,10 @@ LXIV. INAH: Instituto Nacional de Antropología e Historia;
 LXV. INBA: Instituto Nacional de Bellas Artes;
 
 LXVI. Informe de Actividades y Procesos: Es la información proporcionada por el solicitante, a través del formato establecido por la Dirección en relación al fin para el que se pretende utilizar el predio o lote propuesto por el interesado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXVI-A. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
 
 LXVII. Inmueble: Al terreno y/o construcciones que en él se encuentran;
 
@@ -283,13 +327,13 @@ LXXV. MIA: Manifestación de impacto ambiental es el documento mediante el cual 
 
 LXXVI. MIV: Manifestación de impacto vial, es el documento mediante el cual el particular da a conocer a la autoridad, con base en estudios, el impacto vial, que generaría una obra o actividad dentro del sistema vial municipal y sus medidas de mitigación, dentro de una zona o área determinada con el uso del suelo pretendido por el solicitante;
 
-LXXVII. Manual Técnico de las Construcciones: Anexo complementario que prevé las características y especificaciones técnicas que deberá reunir toda construcción regulada por el presente Código;
+LXXVII. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
+LXXVII-A. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
-LXXVII-A. Manual técnico de anuncios, terrazas, fachadas y usos de suelo en Zona de Patrimonio Histórico y Corredor Turístico:Manual técnico de anuncios, terrazas, fachadas y usos de suelo en las (sic) Zona de Patrimonio Histórico y Corredor Turístico, como el documento donde se establecen los criterios y especificaciones técnicas que habrán de observarse en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, arquitectónico; artístico, histórico y corredor turístico.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-LXXVIII. Manual Técnico de Usos del Suelo: Documento que complementa la normativa para la clasificación de las actividades y sus normas de intensidad a fin de facilitar la aplicación del presente Código;
+LXXVIII. Manual Técnico de Usos del Suelo: Documento que complementa la normativa obligatoria para la clasificación de las actividades y sus normas de intensidad a fin de facilitar la aplicación del presente Código;
 
 LXXIX. Manuales Técnicos: Son todas las normas relativas a la construcción, publicadas por Organismos Técnicos, aplicables a las construcciones, tales como: ACI, ASTM, IMCYC, FOVI, IMSS CFE, entre otras, avaladas o publicadas por un organismo gubernamental o no gubernamental;
 
@@ -303,6 +347,10 @@ LXXXI. Mobiliario Urbano: Todos aquellos elementos urbanos complementarios, fijo
 
 LXXXII. Motivo de Acceso: Construcción de arcos o edificaciones que identifican el acceso a un fraccionamiento o desarrollo en condominio en lo particular;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXXXII-A. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+
 LXXXIII. Municipio: El Municipio de León, Guanajuato;
 
 LXXXIV. Nivel: La dimensión existente entre el piso y la techumbre o entrepiso en un espacio construido a partir del nivel de banqueta;
@@ -315,15 +363,23 @@ LXXXVII. Nomenclátor: Base de datos que contiene la nomenclatura de los parques
 
 LXXXVIII. Nomenclatura: La denominación que se asigna a un bien de uso común destinado a la vialidad, así como a las colonias, fraccionamientos, barrios, parques y jardines, cuyo objeto es su identificación y localización;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXXXVIII-A. Normas Técnicas: Normas Técnicas Municipales, complementarias al Código, de observancia general y cumplimiento obligatorio, consideradas como especificaciones y lineamientos técnicos en las diferentes materias del ordenamiento sustentable del territorio establecidas en el Código Territorial;
+
 LXXXIX. Numeración Oficial: El conjunto de números oficiales que corresponden a fincas, lotes baldíos o predios;
 
-XC. Número Oficial: La asignación numérica que la Dirección otorga a una finca, lote baldío o predio, el cual se conformará de números arábigos o de éstos seguidos de alguna letra del alfabeto comenzando por la letra “A” y continuando hasta la “Z”;
+XC. Número Oficial: La asignación numérica que la Dirección otorga a una finca, lote baldío o predio, el cual se conformará de números arábigos o de éstos seguidos de alguna letra del alfabeto comenzando por la letra "A" y continuando hasta la "Z";
 
 XCI. Obra de Construcción: De forma enunciativa y no limitativa, a toda obra a ejecutar de construcción de acuerdo a lo señalado en los términos del presente Código, mediante la movilización y organización de personas, maquinaria y materiales;
 
 XCII. Obras de Cabecera: Instalación de ductos o de infraestructura complementaria, que garantizan la dotación de servicios básicos, mediante la conducción, almacenamiento o tratamiento de agua potable o de alcantarillado, ya sea sanitario o pluvial, así como la instalación de líneas para la conducción de energía eléctrica a un fraccionamiento o desarrollo en condominio;
 
 XCIII. Obras Nuevas: Es la edificación que se realiza en un lote, terreno o predio baldíos o con ausencia de construcciones y correspondientes a una sola escritura de propiedad;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XCIII-A. Ordenamiento Sustentable del Territorio: Conjunto de instrumentos de política pública mediante los que se distribuyen, de manera equilibrada y sustentable, la población y las actividades económicas en el territorio del municipio, definiendo el uso del suelo de acuerdo con el interés general y delimitando las facultades y obligaciones inherentes al derecho de propiedad y posesión del suelo conforme al uso y destino de éste;
 
 XCIV. Paramento: Sucesión de fachadas exteriores de los edificios, a lo largo de una calle;
 
@@ -355,11 +411,17 @@ CI. Propietario: La persona física o moral que acredita legalmente mediante Esc
 
 CII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+CII-A. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 CIII. Proyecto de Diseño Urbano: La propuesta de distribución y estructura urbana de un fraccionamiento o desarrollo en condominio, realizada conforme a los procedimientos y requisitos establecidos en el Código Territorial y el presente ordenamiento;
 
-CIV. Proyecto de Rasantes: Es el conjunto de especificaciones sobre la topografía de la región y su correspondiente correlación con el diseño de la vialidad y superficie de rodamiento, así como el comportamiento de los escurrimientos de la propia zona, aguas arriba y aguas abajo, de conformidad con las normas técnicas emitidas por la Dirección;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+CIV. Proyecto de Rasantes: Es el conjunto de especificaciones sobre la topografía de la región y su correspondiente correlación con el diseño de la vialidad y superficie de rodamiento, así como el comportamiento de los escurrimientos de la propia zona, aguas arriba y aguas abajo, de conformidad con las Normas Técnicas Municipales emitidas por la autoridad competente;
 
 CV. Rama Profesional: Conocimientos especializados de una profesión;
 
@@ -380,6 +442,10 @@ CXI. Reglamento Interior del H. Ayuntamiento: Al Reglamento Interior del H. Ayun
 CXII. Remodelación: Se refiere indistintamente a la readaptación, modificación, mejoramiento o acondicionamiento interno o externo de las edificaciones, en las cuales no se afecta la estructura del inmueble, ni se aumentan los metros cuadrados de construcción;
 
 CXIII. Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales o funcionales de un anuncio o de sus elementos, generados por el deterioro natural o inducido;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+CXIII-A. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -403,11 +469,15 @@ CXX. Sistema Vial Secundario: El conjunto de vialidades colectoras señaladas en
 
 CXXI. Sistema Vial Terciario: El conjunto de vías locales y calles cerradas;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2018)</small>
+
+CXXI-A Tabla 1: La identificada como Tabla de Compatibilidades, Condicionamientos Sujetos a la Clasificación de la Vialidad, Condicionamientos para las Zonas y Restricciones de los Grupos de Usos.
+
 CXXII. Traza: Estructura vial básica y geométrica de los centros de población o parte de ella, consistente en la delimitación de manzanas o predios;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-CXXIII. UGAT: Unidad de Gestión Ambiental y Territorial para el modelo de Ordenamiento Ecológico y Territorial, en donde se considera la aptitud principal, objetivo general, política y criterios de ordenamiento ecológico y territorial;
+CXXIII. UGAT: Unidad de Gestión Ambiental y Territorial para el modelo de ordenamiento ecológico y territorial, en donde se considera la aptitud principal, objetivo general, política y criterios-de ordenamiento ecológico y territorial, del municipio;
 
 CXXIV. Urbanización: La instalación de los ductos e infraestructura necesaria para la conducción de agua potable, drenaje y alcantarillado, ya sea sanitario o pluvial, la instalación de las líneas e infraestructura necesarias para la conducción de energía eléctrica y alumbrado público, así como la construcción de guarniciones, banquetas y pavimento de arroyos vehiculares;
 
@@ -433,7 +503,7 @@ CXXX-A. Vicios ocultos: Es aquel desperfecto que aparece en las obras de urbaniz
 
 CXXXI. Zona Urbana: Áreas que integran el centro de población de la Ciudad;
 
-CXXXII. Zonas “A”, “B” y “C” de Protección: Las áreas que integran los perímetros “A”, “B” y “C” definidas en el Reglamento de la Imagen Urbana;
+CXXXII. Zonas "A", "B" y "C" de Protección: Las áreas que integran los perímetros "A", "B" y "C" definidas en el Reglamento de la Imagen Urbana;
 
 CXXXIII. Zonas Patrimoniales: Las identificadas como zonas A, B y C en el Reglamento de la Imagen Urbana, así como las zonas de monumentos arqueológicos, artísticos, históricos o de patrimonio cultural;
 
@@ -527,7 +597,9 @@ V. Determinar las zonas de protección en las que por su belleza natural, valor 
 
 VI. Prestar los servicios públicos municipales a partir de la recepción de los fraccionamientos y desarrollos en condominio, atendiendo a lo previsto en el Código Territorial y el presente Código;
 
-VII. Aprobar el Manual Técnico de Usos del Suelo y el Manual Técnico de las Construcciones en los términos de la normativa aplicable, así como evaluar y en su caso autorizar las modificaciones y actualizaciones a los mismos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VII. Aprobar las Normas Técnicas y el Manual Técnico de Usos del Suelo en los términos de la normativa aplicable, así como evaluar y en su caso autorizar las modificaciones y actualizaciones a las mismas;
 
 VIII. Acordar sobre las acciones que las dependencias y entidades municipales deberán realizar para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado;
 
@@ -543,9 +615,7 @@ XI. Autorizar aquellos asuntos que por su naturaleza pudieran contrastar o gener
 
 XI-A. Autorizar las actividades o giros especiales relativos a estaciones de servicio de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2013)</small>
-
-XI-B. Emitir la opinión sobre la instalación de los espacios para apuestas, que le sea solicitada en los términos de la Ley Federal de Juegos y Sorteos, su Reglamento, así como del presente Código;
+XI-B. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -629,11 +699,17 @@ VII. Promover acciones y programas de recuperación, restauración y conservaci�
 
 VIII. Asesorar y coadyuvar con el Ayuntamiento, el Presidente Municipal y el Secretario del Ayuntamiento en el ejercicio de las atribuciones que les competen conforme al presente Código;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VIII-A. Elaborar y proponer para aprobación del Ayuntamiento las Normas Técnicas en materia del ordenamiento sustentable del territorio y aquellas otras de su competencia, así como su actualización y modificación;
+
 En materia de Zonificación y Usos del Suelo:
 
 IX. Coadyuvar con el IMPLAN en las actualizaciones al POTE;
 
-X. Proponer al Ayuntamiento, conjuntamente con el IMPLAN las modificaciones y actualizaciones que considere necesarias realizar al Manual Técnico de Usos del Suelo y al Manual Técnico de las Construcciones;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+X. Proponer al Ayuntamiento, conjuntamente con el IMPLAN las modificaciones y actualizaciones que considere necesarias realizar al Manual Técnico de Usos del Suelo;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -645,9 +721,9 @@ XII. Establecer y dictaminar los requisitos técnicos indispensables dispuestos 
 
 XIII. Establecer de acuerdo al Código Territorial, al POTE, al presente Código y demás disposiciones aplicables, los lineamientos a seguir para el uso del suelo, estableciendo los tipos de construcciones y predios afines de conformidad a las características y normas a seguir para su autorización;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XIV. Clasificar los usos y destinos del suelo de acuerdo a las características y normas del presente ordenamiento y del Manual Técnico de Usos del Suelo;
+XIV. Clasificar los usos y destinos del suelo de a (sic) las características y especificaciones del presente ordenamiento, del Manual Técnico de Usos del Suelo y de las Normas Técnicas vigentes;
 
 XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predios o zonas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, reservas ecológicas o especiales o de protección del patrimonio cultural por tratarse de áreas sujetas a conservación y mejoramiento, en apego a lo que dispongan las autoridades competentes en la materia;
 
@@ -667,17 +743,15 @@ XIX. Crear el sistema de información sobre uso del suelo y Banco de Datos para 
 
 XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XIX establecido en el presente Código;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XXI. Someter a la consideración del H. Ayuntamiento, las actividades y giros que de conformidad con el presente Código, el Manual Técnico de Usos del Suelo, Manual Técnico de las Construcciones y demás normativa aplicable requieran de su aprobación;
+XXI. Someter a la consideración del H. Ayuntamiento, las actividades y giros que de conformidad con el presente Código, el Manual Técnico de Usos del Suelo, y demás normativa aplicable requieran de su aprobación;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+XXI-A. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
-XXI - A. Someter a la consideración de la Comisión de Desarrollo Urbano la opinión que deba rendirse para la instalación de los espacios para apuestas en el Municipio, en los términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2015)</small>
-
-XXI - B. Autorizar la instalación de terrazas móviles e inmuebles con terraza, en zona de patrimonio histórico de conformidad con los lineamientos que establece el Anexo 7 del presente código;
+XXI-B. Autorizar la instalación de terrazas móviles en inmuebles de zona de patrimonio histórico de conformidad con los lineamientos que establece la norma técnica NTM-LEON-DU-04-2018, relativa a las Especificaciones Técnicas de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -709,11 +783,15 @@ XXVIII. Proponer el destino de las áreas de donación para equipamiento urbano 
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XXVIII - A. Otorgar, negar, suspender o revocar el registro y refrendo a los peritos urbanos y topógrafos, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+XXVIII-A. Otorgar, negar, suspender o revocar el registro y refrendo a los peritos urbanos y topógrafos, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XXVIII - B. Dictaminar sobre la ejecución de las actividades realizadas por los peritos urbanos y topógrafos, respecto a las cuales haya sido extendida su responsiva;
+XXVIII-B. Dictaminar sobre la ejecución de las actividades realizadas por los peritos urbanos y topógrafos, respecto a las cuales haya sido extendida su responsiva;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XXVIII-C. Emitir dictamen de congruencia dentro del proceso para la aprobación de traza, de acuerdo a los lineamientos de las normativas federales y de las NOM, NMX; de la normatividad estatal, del presente Código, del Manual Técnico de Usos del Suelo y de las Normas Técnicas;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -771,9 +849,19 @@ LXV.- Recibir y tramitar a través de la ventanilla única las solicitudes de di
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-LXV - A. Entregar los dictámenes a que se refiere la fracción anterior, para lo que las dependencias y entidades municipales correspondientes deberán designar un especialista en las materias antes señaladas que de manera permanentemente (sic) se encuentre físicamente en la Dirección para la elaboración de los dictámenes anteriormente referidos.
+LXV-A. Entregar los dictámenes a que se refiere la fracción anterior, para lo que las dependencias y entidades municipales correspondientes deberán designar un especialista en las materias antes señaladas que de manera permanentemente (sic) se encuentre físicamente en la Dirección para la elaboración de los dictámenes anteriormente referidos.
 
-XLVI. Elaborar y someter a la consideración del Ayuntamiento, los Planos de Zonas para la instalación de Anuncios para su aprobación, expedición y publicación correspondiente;
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXV-B. Autorizar el uso y ocupación temporal de las plazas públicas consideradas como Patrimonio Histórico;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXV-C. Planear y elaborar acciones específicas de promoción y protección a las plazas y espacios públicos;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+LXVI. Solicitar dictámenes, opiniones técnicas, manifiestos, y cualquier otra información a las dependencias y entidades municipales, estatales y federales en aquellos casos que por sus características así lo requieran;
 
 XLVII. Evaluar y proponer al H. Ayuntamiento a través de la Comisión de Desarrollo Urbano, las modificaciones y actualizaciones necesarias a los Planos de Zonas para la instalación de Anuncios;
 
@@ -845,11 +933,15 @@ III. Auxiliar, como asesor técnico, al H. Ayuntamiento en cambios a la zonifica
 
 > <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-III- A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
+III-A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC); Zona de Consolidación Urbana (ZCU) y en zona agrícola (A);
+III-B. Elaborar y proponer para aprobación del Ayuntamiento, las Normas Técnicas en materia de planeación territorial y aquellas otras de su competencia, así como su actualización y modificación;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE, al Plano de Zonificación Municipal y de los Centros de Población que se encuentren dentro del municipio, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC); Zona de Consolidación Urbana (ZCU) y en zona agrícola (A);
 
 V. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
@@ -859,9 +951,9 @@ VII. Solicitar dictámenes, opiniones técnicas, manifiestos, y cualquier otra i
 
 VIII. Requerir la información que estime necesaria de los particulares, para el cumplimiento de su objeto; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IX. Emitir el dictamen de congruencia con base en el proyecto de diseño urbano de conformidad con el POTE;
+IX. Emitir el dictamen de congruencia con base en el proyecto de diseño urbano y de conformidad con el POTE, solamente para aquellos fraccionamientos o desarrollos en condominio que soliciten la asignación de uso por parte del Ayuntamiento;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -871,17 +963,17 @@ X. Emitir el dictamen de destino de las áreas de donación para la dotación de
 
 XI. Apoyar al Presidente Municipal en la gestión de la inscripción del POTE y sus modificaciones, en el Registro Público de la Propiedad y del Comercio de León, Guanajuato;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XII. Substanciar el procedimiento de evaluación de compatibilidad urbanística y presentar al Ayuntamiento la propuesta de acuerdo respectivo; y,
+XII. Substanciar el procedimiento de evaluación de compatibilidad y presentar al Ayuntamiento la propuesta de acuerdo respectivo;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XIII. Emitir opinión técnica del estudio de densidad y criterios bioclimáticos a la Dirección;
+XIII. Emitir opinión técnica del estudio de densidad y niveles a la Dirección;
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XIV. Elaborar los términos de referencia de los criterios bioclimáticos para el estudio de densidad y criterios bioclimáticos; y,
+XIV. Elaborar y actualizar los términos de referencia de los criterios bioclimáticos para el estudio de densidad y niveles o las Normas Técnicas correspondientes; y
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -911,6 +1003,10 @@ VI. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos y 
 
 VII. Determinar para el caso de fraccionamientos y desarrollos en condominio, las obras que habrán de efectuarse para la regulación de aguas pluviales, en los términos del presente Código;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VII-A. Elaborar y proponer para aprobación del Ayuntamiento, las Normas Técnicas en materia hidráulica y aquellas otras de su competencia, así como su actualización y modificación;
+
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
 VIII. Operar y brindar el mantenimiento necesario al drenaje pluvial y al alcantarillado, que atraviese por predios particulares, siempre y cuando se haya constituido en escritura pública a su favor una servidumbre de paso; y,
@@ -926,6 +1022,10 @@ IX. Las demás que se deriven del presente Código y de otras disposiciones lega
 Son atribuciones de la Dirección de Obra las siguientes:
 
 I. Fijar los requisitos técnicos a que deberán sujetarse las obras de construcción, modificaciones o reparaciones en vías públicas, a fin de que se satisfagan las condiciones de seguridad, higiene, comodidad y estética;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+I-A. Elaborar y proponer para aprobación del Ayuntamiento, las Normas Técnicas en materia de obra pública y aquellas otras de su competencia, así como su actualización y modificación;
 
 II. Ejecutar por cuenta del propietario del predio o de la construcción, las obras que el municipio a través de cualquier dependencia o entidad municipal con base en los ordenamientos municipales, le hubiere ordenado o requerido realizar y que dicho propietario en rebeldía no las haya llevado a cabo;
 
@@ -955,15 +1055,13 @@ III. Regular los procedimientos para expedir trámites en materia de gestión ur
 
 IV. Normar los procedimientos de gestión urbana para lograr un desarrollo sustentable del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 18.
 
-Los estudios, dictámenes o acuerdos para autorizar los diferentes usos y destinos del suelo en zonas, predios y lotes, deberán ser compatibles con lo dispuesto en el POTE vigente y cumplir con los requisitos y procedimientos que se señalan en este Código, demás leyes, reglamentos y manuales técnicos aplicables en materia urbana.
+Los estudios, dictámenes o acuerdos para autorizar los diferentes usos y destinos del suelo en zonas, predios y lotes, deberán ser compatibles con lo dispuesto en el POTE vigente y cumplir con los requisitos y procedimientos que se señalan en este Código, demás leyes, reglamentos, manuales técnicos y normas técnicas aplicables en materia urbana.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
-
-Ningún inmueble podrá ser ocupado o utilizados (sic) sin que previamente se obtenga el permiso de uso de suelo y, en su caso, la autorización de uso y ocupación correspondientes, debiendo de cumplir los requisitos señalados en el Código Territorial, el presente Código y demás normativa aplicables.
+Ningún inmueble podrá ser ocupado o utilizado sin que previamente se obtenga el permiso de uso de suelo, incluyendo las actividades temporales y, en su caso, la autorización de uso y ocupación correspondientes, debiendo de cumplir los requisitos señalados en el Código Territorial, el presente Código y demás normativa aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1409,19 +1507,21 @@ Las obras y actividades que en los términos de la Ley General del Equilibrio Ec
 
 Tratándose de inmuebles donde se vaya a realizar algún tipo de construcción la autorización de impacto ambiental deberá obtenerse previo a la solicitud del permiso de construcción y tratándose de inmuebles ya edificados o predios a los cuales se les pretenda dar un uso sin realizar ningún tipo de construcción, la autorización deberá obtenerse previa a la solicitud de la autorización de uso y ocupación.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 49-A.
 
-Para el caso de las actividades previstas en el artículo 382 del Código Territorial, así como aquellas consideradas como de alto riesgo en el Reglamento del Sistema Municipal de Protección Civil de León, Guanajuato, previo a la ocupación y operación del inmueble, los particulares deberán obtener de la Dirección General de Protección Civil y del Patronato de Bomberos del Municipio de León, la autorización del dictamen de riesgo en materia de protección civil.
-
-En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
+Para las actividades previstas en el artículo 382 del Código Territorial, así como aquellas consideradas como de alto riesgo en el Reglamento del Sistema Municipal de Protección Civil de León, Guanajuato, previo a la ocupación y operación del inmueble donde se pretendan desarrollar, los particulares deberán obtener de la Dirección General de Protección Civil, la autorización del dictamen de riesgo en materia de protección civil.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
+En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 49-B.
 
-En el caso de que las actividades o usos a desarrollar dentro de un inmuebles (sic) requieran de la autorización, permiso o licencia de alguna autoridad federal o estatal, la misma deberá obtenerse previo a la solicitud de autorización de ocupación y uso.
+En el caso de que las actividades o usos a desarrollar dentro de un inmueble requieran de la autorización, permiso o licencia de alguna autoridad federal o estatal, la misma deberá obtenerse previo a la solicitud de autorización de uso y ocupación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1435,9 +1535,9 @@ II. Comercios, Servicios e Industria de Alta Intensidad; y,
 
 III. Servicios Carreteros, Actividades de Riesgo.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-De igual forma tratándose de cualquier solicitud que implique el nuevo desarrollo de una zona, deberán realizarse los estudios mencionados, como antecedente para el otorgamiento del permiso de uso del suelo.
+De igual forma tratándose de cualquier solicitud que implique el nuevo desarrollo de una zona, deberán realizarse los estudios mencionados, como antecedente o condicionamientos previos para el otorgamiento del Permiso de Construcción.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -1459,15 +1559,15 @@ Sufijo - A, zonas de amortiguamiento, que se encuentran establecidas en el Plano
 
 (DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 53.
 
-Para la autorización de las actividades y giros especiales señalados en el Manual Técnico de Usos del Suelo deberán observarse además de lo dispuesto por el Código Territorial, el presente Código y sus anexos, lo que estatuyen las NOM, las disposiciones o especificaciones técnicas establecidas por la autoridad normativa en la materia.
+Para la autorización de las actividades y giros especiales señalados en el Manual Técnico de Usos del Suelo deberán observarse además de lo dispuesto por el Código Territorial, el presente Código y sus anexos, lo que estatuyen las NOM, las 40 disposiciones o especificaciones técnicas establecidas por la autoridad normativa en la materia. Tratándose de los giros y actividades especiales relativos a estaciones de servicio de gasolina y/o diésel, estaciones de Gas L.P. con almacenamiento fijo, bases de encierro con abastecimiento de diésel, estaciones de servicio de gas natural comprimido para uso automotor, previo a la expedición del permiso de uso del suelo, deberá obtenerse la autorización del H. Ayuntamiento.
 
-Tratándose de los giros y actividades especiales relativos a estaciones de servicio de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel, previo a la expedición del permiso de uso del suelo, deberá obtenerse la autorización del H. Ayuntamiento. En el caso de los espacios para apuestas, deberá obtenerse la opinión favorable del mismo Ayuntamiento que prevén los ordenamientos federales aplicables.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO IV. DE LAS NORMAS TÉCNICAS DE ZONIFICACIÓN MUNICIPAL
+### CAPÍTULO IV. DE LA ZONIFICACIÓN MUNICIPAL
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1577,17 +1677,17 @@ I. Facilitar la consulta de las normas tanto por la ciudadanía en general, como
 
 II. Establecer los usos predominantes, compatibles, condicionados e incompatibles hacia el interior de cada una de las zonas y corredores.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 57.
 
-Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
+Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla 1 del presente Código y en el Manual Técnico de Usos de (sic) suelo.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 57-A.
 
-Las Compatibilidades de los usos y destinos de las Zonas forestales serán las marcadas en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
+Las Compatibilidades de los usos y destinos de las Zonas forestales serán las marcadas en la Tabla 1 del presente Código y en el Manual Técnico de Usos de (sic) suelo.
 
 ###### Artículo 58.
 
@@ -1609,27 +1709,33 @@ IV. Los Usos Incompatibles son aquellos que no pueden coexistir bajo ningún sup
 
 (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 60.
 
-De acuerdo a la ubicación del lote o predio, se autorizará el número de niveles de construcción, considerando el tipo de vía y/o sección, la densidad de la zona, en base a la siguiente tabla:
+De acuerdo a la ubicación del lote o predio, se autorizará el número de niveles de construcción, considerando el tipo de vía y/o sección, la densidad de la zona, con base a la siguiente tabla:
 
 TIPO DE SEC DENSIDAD HABITACIONAL DENSIDAD
 
-VÍA DE DENSIDAD BAJA Y ZONA
+VIA CIÓN DE DENSIDAD BAJA Y ZONA
 
-MEDIA Y ALTA DE PROTECCIÓN
+MEDIA Y ALTA DE PROTECCION
 
 COMERCIOS Y DE
 
-SERVICIOS MONUMENTOS
+SERVICIOS E MONUMENTOS
+
+INDUSTRIA
 
 Ejes
 
-Metropo-
+metropo-
 
 litanos +40 Libre Libre Libre
+
+y ejes
+
+carreteros
 
 Vías
 
@@ -1643,19 +1749,19 @@ de Zonifi-
 
 cación
 
-Colectoras 15-20 En plano 5 niveles 2 niveles
+Colectoras 15-20 En Plano 6 niveles 2 niveles
 
 de Zonifi-
 
 cación
 
-Locales 11-15 En plano 4 niveles 2 niveles
+Locales 11-15 En Plano 5 niveles 2 niveles
 
 de Zonifi-
 
 cación
 
-Calles -11 En plano 3 niveles 2 niveles
+Calles -11 En Plano 3 niveles 2 niveles
 
 de Zonifi-
 
@@ -1677,21 +1783,29 @@ MINIMA: Hasta 50 habitantes/hectárea.
 
 El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamientos y Desarrollos en Condominio del presente Código.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+###### Artículo 61-A.
+
+En todas las edificaciones de más de 5 niveles, se deberá de considerar un área de amortiguamiento en su colindancia posterior o uso habitacional, que no podrá ser menor a 4.00 metros o el equivalente al 13% de la altura de la edificación, en esta superficie se podrá edificar hasta dos niveles.
+
 ###### Artículo 62.
 
 (DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 63.
 
-La Dirección podrá autorizar más niveles de lo establecido en el Manual Técnico de Usos de Suelo mediante un estudio de densidad y criterios bioclimáticos y que SAPAL otorgue la factibilidad de servicios.
+La Dirección podrá autorizar más niveles y mayor densidad de lo establecido en artículo 60 del presente Código, mediante un estudio de densidad y niveles, ello de acuerdo a lo señalado en el Capítulo V del Manual Técnico de Usos del Suelo y que SAPAL otorgue la factibilidad de servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+La autorización mencionada en el párrafo anterior no podrá otorgarse para lotes o predios que estén ubicados frente a una vialidad con caseta de control de acceso.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 63-A.
 
-El estudio de densidad y criterios bioclimáticos previsto en el artículo que antecede, deberá contener:
+El estudio de densidad y niveles previsto en el artículo que antecede, deberá contener:
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1733,23 +1847,23 @@ IX. Señalar las consecuencias positivas y negativos (sic), así como las medida
 
 X. Cumplir con los términos de referencia para criterios bioclimáticos que la Dirección entregará al particular atendiendo a lo establecido en el POTE.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo.
+Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo o del aumento de densidad de población del predio autorizada para la zona.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 Artículo 63 B.- La Dirección podrá autorizar un COS mayor mediante el cumplimiento de los requisitos señalados en las fracciones I, II, III, IV, V, VI VII, VIII y IX del artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 64.
 
-Tratándose de los cajones de estacionamiento, los particulares deberán cumplir con lo dispuesto en la Tabla de Requerimientos de cajones de estacionamiento.
+Tratándose de los cajones de estacionamiento, los particulares deberán cumplir con lo dispuesto en la norma técnica NTM-LEON-DU-02-2018, relativa al Requerimiento de Cajones de Estacionamiento.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Excepcionalmente cuando por la naturaleza del proyecto resulte materialmente imposible el cumplimiento de los requerimientos señalados en la tabla de requerimiento de cajones de estacionamiento, deberá de exponer tal situación por escrito a la Dirección expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento, así como las medidas propuestas para el uso de los cajones de estacionamiento.
+Excepcionalmente, cuando por la naturaleza del proyecto resulte materialmente imposible el cumplimiento de los requerimientos señalados en la norma técnica antes referida, deberán de exponer tal situación por escrito a la Dirección, expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento así como las medidas propuestas para el uso de los cajones de estacionamiento.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1817,9 +1931,9 @@ I. La densidad máxima será de 50 hab/Ha;
 
 II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-III. Los usos compatibles con la Zona Agrícola (A), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente Código.
+III. Los usos compatibles con la Zona Agrícola (A), son aquellos que se localizan en la Tabla 1 del presente Código.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1837,9 +1951,9 @@ I. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 II. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-III. Los usos compatibles con la zona de Forestal (F), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código;
+III. Los usos compatibles con la zona de (sic) Forestal (F), son aquellos que se localizan en la Tabla 1 del presente Código;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1883,11 +1997,11 @@ Una vez concluido el análisis preliminar o, en su caso, recibidos los estudios 
 
 Recibida la opinión del IMPLAN, la factibilidad de servicios por parte del SAPAL y concluido el análisis respectivo, la Dirección deberá de someter a aprobación del Ayuntamiento, por conducto de la comisión respectiva, la autorización para otorgar el permiso de uso del suelo. Una vez aprobada la autorización la Dirección deberá emitir el permiso correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 77.
 
-Dentro de las zonas de crecimiento se consideran las etapas para el desarrollo de mediano y largo plazo que son las zonas de reserva para el crecimiento (ZRC).
+Dentro de las zonas de crecimiento o zonas urbanizables, se consideran las etapas para el desarrollo de mediano y largo plazo que son las zonas de reserva para el crecimiento (ZRC).
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1911,11 +2025,11 @@ Tomando en cuenta las características topográficas de la ciudad, el crecimient
 
 (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 81.
 
-Las zonas de reserva para el crecimiento (ZRC) y Zona de Consolidación Urbana (ZCU), no tienen usos predeterminados, éstos deberán de ajustarse a las compatibilidades urbanas que se vayan definiendo entre los diferentes desarrollos; las compatibilidades y densidades estarán establecidas para lograr un desarrollo de usos mixtos de forma estratificada, de acuerdo a la clasificación de vialidad, al diseño del fraccionamiento y a la asignación de uso de suelo correspondiente.
+Las Zonas de Reserva para el Crecimiento (ZRC) y las Zonas de Consolidación Urbana (ZCU), no tienen usos predeterminados, éstos deberán de ajustarse a las compatibilidades urbanas que se vayan definiendo entre los diferentes desarrollos; las compatibilidades y densidades estarán establecidas para lograr un desarrollo de usos mixtos de forma estratificada, de acuerdo a la clasificación de vialidad, al diseño del fraccionamiento y a la asignación de uso de suelo correspondiente.
 
 ###### Artículo 82.
 
@@ -1925,11 +2039,11 @@ Las zonas de reserva para el crecimiento (ZRC) y Zona de Consolidación Urbana (
 
 Los desarrollos inmobiliarios en esta zona, en el resolutivo correspondiente deberá establecerse que el promovente aporte un porcentaje del 3% del valor de la urbanización a favor del fideicomiso ambiental que se cree e incorporar garantías ambientales, a favor del mismo fideicomiso con fin de promover los costos de conservación de la zona. En caso de un desarrollo de vivienda de interés social, el porcentaje será del 1%.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 84.
 
-En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad urbanística, quien lo turnará al H. Ayuntamiento para análisis y en su caso la aprobación de la asignación de uso de suelo.
+En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad, quien lo turnará al H. Ayuntamiento para análisis y en su caso la aprobación de la asignación de uso de suelo.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1937,11 +2051,11 @@ En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio corresp
 
 En las Zonas de Consolidación Urbana (ZCU) no se permitirán usos con actividades de riesgo.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 86.
 
-La autorización de uso y ocupación en locales comerciales, centros comerciales y bodegas, destinados para la venta o renta, sin un uso predeterminado, se deberá otorgar de acuerdo a la zona en donde se ubique con base a la Tabla de Compatibilidades, debiendo cumplirse además con las áreas para estacionamientos, de acuerdo a las normas que se mencionan en la Tabla de Requerimiento de Estacionamiento, localizada en el Anexo 4 del presente código.
+La autorización de uso y ocupación en locales comerciales, centros comerciales y bodegas, destinados para la venta o renta, sin un uso predeterminado, se deberá otorgar de acuerdo a la zona en donde se ubique con base a la Tabla 1 del presente Código, debiendo cumplirse además con las áreas para estacionamientos, de acuerdo a las especificaciones que se mencionan en la norma técnica NTM-LEÓN-DU-02-2018, relativa al Requerimiento de Cajones de Estacionamiento.
 
 ###### Artículo 87.
 
@@ -1967,17 +2081,21 @@ Toda industria clasificada como de intensidad media y alta que colinde con usos 
 
 Los lotes en zonas industriales que se localicen colindando o frente a una zona habitacional deberán dejar una franja libre de construcción de 6 metros en el lado colindante con la zona habitacional mismo que deberá utilizarse como estacionamiento y zona arbolada.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 92.
 
-Las compatibilidades en los corredores, serán las mismas que las marcadas para las zonas con igual denominación y deberán contar con estacionamientos de acuerdo a la Tabla de Requerimiento de Estacionamientos localizada en el Anexo 4 del presente código, así como con área de carga y descarga dentro de los mismos.
+Las compatibilidades en los corredores, serán las mismas que las marcadas para las zonas con igual denominación y deberán contar con estacionamientos de acuerdo a la norma técnica NTM-LEÓN-DU-02-2018, relativa al Requerimiento de Cajones de Estacionamiento.
 
 ###### Artículo 93.
 
 Cuando los predios no formen parte de un desarrollo previo, el límite de la zona de los corredores será de la dimensión y colindancias totales del predio a desarrollarse que de frente a la vialidad del corredor.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 94.
 
-Cuando los lotes formen parte de un desarrollo habitacional previamente autorizado, la delimitación del corredor donde se encuentre estará en función del fondo de los lotes autorizados y el uso de suelo será de acuerdo a la Tabla de compatibilidades.
+Cuando los lotes formen parte de un desarrollo habitacional previamente autorizado, la delimitación del corredor donde se encuentre estará en función del fondo de los lotes autorizados y el uso de suelo será de acuerdo a la Tabla 1 del presente Código.
 
 ###### Artículo 95.
 
@@ -1989,17 +2107,21 @@ Para los nuevos fraccionamientos en los cuales se contemplen ejes metropolitanos
 
 El uso y destino de suelo en predios podrá otorgarse de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 95-B.
 
-El uso y destino de suelo en predios con una superficie de hasta 1600 m2 que se encuentren en Zonas de Reserva para el Crecimiento ZRC, Zonas de Consolidación Urbana ZCU y Zona Agrícola A que tengan frente a una vialidad con uso por corredor, se deberá otorgar el uso de suelo por el mismo corredor.
+El uso y destino de suelo en predios con una superficie de hasta 2000 M2 que se encuentren en Zonas de Reserva para el Crecimiento ZRC, Zonas de Consolidación Urbana ZCU y Zona Agrícola A, que tengan frente a una vialidad con uso por corredor, se deberá otorgar el uso de suelo por el mismo corredor.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 Para este caso en concreto no se deberá de otorgar la asignación de uso de suelo.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 96.
 
-La localización de los corredores se determinará en el Plano de Zonificación Municipal.
+La localización de los corredores y carreteras se determinará en el Plano de Corredores de Usos y Destinos del Municipio.
 
 ###### Artículo 97.
 
@@ -2025,11 +2147,11 @@ III. Cuando una línea divisoria de zona sea señalada entre las manzanas de la 
 
 IV. No se autorizará la ampliación de usos del suelo en los límites de zonas, cuando dichos usos no sean compatibles entre las mismas.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 100.
 
-Para las zonas en donde existan usos de suelo diferentes a los señalados en el mapa de zonificación, se tomará en cuenta la consolidación de la manzana y el frente de ésta o incluso de la zona, según el caso, en relación con los usos existentes, se podrá autorizar por parte de la Dirección el uso de suelo predominante o compatible.
+Para las zonas en donde existan usos de suelo diferentes a los señalados en el plano de zonificación de usos y destinos del Municipio, se tomará en cuenta el estudio de consolidación que el solicitante presente de la manzana y frente del inmueble, entorno inmediato o incluso de la zona, según el caso, para que la Dirección lo analice en relación con los usos existentes y pueda determinar la viabilidad para la emisión del permiso de uso de suelo.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -2233,9 +2355,11 @@ IV. En caso de que, en la solicitud respectiva, el interesado precise el uso de 
 
 Una vez que sean presentados todos los requisitos, el tiempo de respuesta al ciudadano será en un término no mayor a siete días hábiles.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 121.
 
-Los usos de suelo identificados en la Tabla de Giros relacionados con el Sistema de Apertura Rápida de Empresas con Actividades de Intensidad Mínima, Baja y Media, deberán contar con las siguientes características:
+Los usos de suelo identificados en la norma técnica NTM-LEÓN-DU-01-2018, relativa a los Giros relacionados con el Sistema de Apertura Rápida de Empresas con actividades de Intensidad Mínima, Baja y Media, deberán contar con las siguientes características:
 
 I. Que se encuentren ya edificados;
 
@@ -2279,9 +2403,9 @@ II. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 III. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. Si el permiso es solicitado por el arrendatario, comodatario o cualquier otro poseedor derivado, presentará original del contrato o documento en que conste el acto jurídico correspondiente, sin necesidad de certificación de firmas ante fedatario público, y copia de credencial de elector para cotejo de firmas; así como copia simple de la escritura de propiedad inscrita ante el Registro Público de la Propiedad y del Comercio;
+IV. Si el permiso es solicitado por el arrendatario, comodatario, representante legal o cualquier otro poseedor derivado, presentará el contrato o documento en que conste el acto jurídico correspondiente y credencial de elector en originales para cotejo; así como copia simple de la escritura de propiedad inscrita ante el Registro Público de la Propiedad y del Comercio;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2297,15 +2421,17 @@ VI. Los dictámenes y autorizaciones de impacto que conforme al presente ordenam
 
 VII. Acreditar mediante escritura pública el acceso de acuerdo a las secciones mínimas que establece el propio Código, para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial, para el caso de los predios que no se encuentren dentro de la mancha urbana; y,
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-VIII. Presentar el estudio de densidad y criterios bioclimáticos a que se refiere el artículo 63-A del presente Código, en caso de los usos de suelo de comercio y servicio con una superficie mayor de una hectárea y cuando se trate de usos de suelo por corredor que estén condicionados por patrimonio cultural.
+VIII. Presentar el estudio de densidad y niveles a que se refiere el artículo 63-A del presente Código, en caso de los usos de suelo de comercio y servicio con una superficie mayor de una hectárea y cuando se trate de usos de suelo por corredor que estén condicionados por patrimonio cultural.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 126.
 
-Para el caso de los inmuebles que no requieran de un proceso constructivo, ni de dictámenes o autorizaciones adicionales a las de la Dirección para su ocupación y uso se podrá solicitar de manera simultánea tanto el permiso de uso de suelo, como la autorización de ocupación y uso.
+Para el caso de los inmuebles que no requieran de un proceso constructivo, ni de dictámenes o autorizaciones adicionales a las de la Dirección para su uso y ocupación, se podrá otorgar de manera simultánea tanto el permiso de uso de suelo, como la autorización de uso y ocupación y la Dirección deberá de resolver en un término no mayor a 10 días hábiles contados a partir del día siguiente de ingresada la solicitud.
+
+Para el caso de usos especiales y usos que contemplen cajones de estacionamiento en un predio distinto de acuerdo al artículo 64 del presente artículo, la autorización de uso y ocupación tendrá vigencia de un año, la cual podrá ser renovada siempre y cuando las actividades del inmueble no presenten problemáticas urbanas de lo contrario, podrá ser revocado previo análisis y derecho de audiencia que se le otorgue al particular.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2313,13 +2439,13 @@ Para el caso de los inmuebles que no requieran de un proceso constructivo, ni de
 
 En el caso de inmuebles cuyo uso de suelo se solicite para giros con venta o consumo de bebidas alcohólicas la Dirección deberá solicitar la opinión favorable de la Dirección General de Fiscalización y Control, previo a la emisión del permiso de uso de suelo.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 127.
 
-En el caso de los inmuebles a los cuales se les pretenda dar un giro de los establecidos en el Anexo 2 del presente Código relativa a la Tabla de Giros relacionados con el Sistema de Apertura Rápida de Empresas con Actividades de Intensidad Mínima, Baja y Media, una vez entregados todos los requisitos se deberá expedir el permiso de uso de suelo el mismo día en que fuera solicitado.
+En el caso de los inmuebles a los cuales se les pretenda dar un giro de los establecidos en la norma técnica NTM-LEÓN-DU-01-2018, relativa a los Giros relacionados con el Sistema de Apertura Rápida de Empresas con actividades de Intensidad Mínima, Baja y Media, una vez entregados todos los requisitos se deberá expedir el permiso de uso de suelo el mismo día en que fuera solicitado.
 
-Los requerimientos de estacionamiento para los giros mencionados en la Tabla relacionas (sic) con el Sistema de Apertura Rápida de Empresas referida en el Anexo 2 del presente Código, se aplicarán a partir de los usos considerados como de intensidad media en adelante.
+Los requerimientos de estacionamiento para los giros mencionados en la norma técnica NTM-LEÓN-DU-01-2018, relativa a los Giros relacionados con el Sistema de Apertura Rápida de Empresas con actividades de Intensidad Mínima, Baja y Media, se aplicarán a partir de los usos considerados como de intensidad media en adelante.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2345,17 +2471,35 @@ Así mismo los usos de suelo en los inmuebles ubicados dentro de la zona de patr
 
 #### SECCIÓN SÉPTIMA. DE LA ASIGNACIÓN DE USO DE SUELO
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 128-C.
 
-Si el inmueble sobre el cual se está solicitando el uso de suelo se encuentra dentro de una zona de reserva para el crecimiento (ZRC), una Zona de Consolidación Urbana (ZCU), o una zona agrícola (A), el interesado ingresará al IMPLAN, copia de las documentales requeridas para la obtención del permiso de uso de suelo, así como una constancia donde se señalen los alineamientos, modalidades, limitaciones y restricciones que presenta el inmueble con base en el POTE y el anteproyecto arquitectónico. Lo anterior a efecto de que el IMPLAN substancie el procedimiento de asignación de uso de suelo.
+Si el inmueble sobre el cual se está solicitando el uso de suelo se encuentra dentro de una Zona de Reserva para el Crecimiento (ZRC), una Zona de Consolidación Urbana (ZCU), o una Zona Agrícola (A), el interesado ingresará al IMPLAN la documental para la asignación de uso de suelo, cubriendo los requisitos siguientes:
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+I. Solicitud para la asignación de uso de suelo;
+
+II. Poder Notarial del representante legal del promovente, en su caso;
+
+III. Copia certificada de la escritura que acredite la propiedad debidamente inscrita en el Registro Público de la Propiedad y del Comercio;
+
+IV. Plano a escala legible en las que se identifique plenamente los inmuebles a que se refieren las escrituras;
+
+V. Constancia de Factibilidad donde se señalen los alineamientos, modalidades, limitaciones y restricciones que presenta el inmueble con base en el POTE;
+
+VI. Anteproyecto Arquitectónico o de lotificación, tratándose de Desarrollos Habitacionales;
+
+VII. Cuando la superficie solicitada en la asignación de uso de suelo sea menor a la que establece la escritura de propiedad, deberá de presentar medidas y colindancias únicamente de la superficie a asignar; y,
+
+VIII. Garantizar a través de contrato de compraventa o contrato de promesa de compraventa, el acceso para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial.
+
+Para el supuesto de accesos en propiedad social que se garanticen con contrato de promesa de compraventa, éste deberá contener el compromiso de agotar el procedimiento legal para adquirir la pequeña propiedad y su transmisión al desarrollador o fraccionador.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 128-D.
 
-Recibida toda la documentación por parte de la Dirección, el IMPLAN procederá a la realización de un análisis preliminar, para el caso de que por la naturaleza del proyecto se requiera de información adicional a la presentada con la solicitud de permiso de uso de suelo, podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.
+Recibida toda la documentación, el IMPLAN procederá a realizar un análisis preliminar, en el caso de que, por la naturaleza del proyecto, se requiera de información adicional a la presentada con la solicitud, podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2385,11 +2529,11 @@ Artículo 129 A. (DEROGADO, P.O. 25 DE ENERO DE 2013)
 
 #### SECCIÓN OCTAVA. DEL PERMISO DE USO DEL SUELO PARA ACTIVIDADES Y GIROS ESPECIALES RESERVADAS AL H. AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 129-B.
 
-Se requerirá la aprobación del H. Ayuntamiento cuando los interesados pretendan un uso de suelo para actividades y giros relativos a estaciones de servicio de gasolina y/o diesel, establecimientos con servicio de sexo comercio, estaciones de Gas L.P. con almacenamiento fijo y, bases de encierro con abastecimiento de diesel, para ello la Dirección someterá el expediente de la solicitud del permiso de uso de suelo a la consideración del H. Ayuntamiento, a través de la comisión correspondiente.
+Se requerirá la aprobación del H. Ayuntamiento cuando los interesados pretendan un uso de suelo para actividades y giros relativos a estaciones de servicio de gasolina y/o diésel, estaciones de Gas L.P. con almacenamiento fijo, estaciones de servicio de gas natural comprimido para uso automotor, bases de encierro con abastecimiento de diésel, para ello la Dirección someterá el expediente de la solicitud del permiso de uso de suelo a la consideración del H. Ayuntamiento, a través de la comisión correspondiente.
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2013)</small>
 
@@ -2589,9 +2733,9 @@ Tratándose de inmuebles ejidales sobre los que se haya adquirido el dominio ple
 
 Para la autorización de la división de inmuebles ubicados en comunidades rurales que no se deriven de un fraccionamiento, se tendrá que considerar, en los lotes resultantes, la tipología de la comunidad rural, además de contar con un acceso independiente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC y ZCU) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la tabla de compatibilidades.
+Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC y ZCU) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la Tabla 1 del presente Código.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2639,31 +2783,17 @@ b. No tengan áreas comunes o muros medianeros, vanos, puertas o ventanas que si
 
 c. No estén sujetas al régimen de propiedad en condominio.
 
-### CAPÍTULO VI. DE LOS ANEXOS TÉCNICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO VI. DE LAS NORMAS TÉCNICAS MUNICIPALES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 146.
 
-Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa para la clasificación de las actividades y sus normas de intensidad, se conforman los anexos técnicos que a continuación se señalan, los cuales forman parte integrante de este ordenamiento:
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria de desarrollo urbano del territorio municipal, se atenderán a las normas técnicas que el Ayuntamiento apruebe, previa consulta del sector involucrado, en las diferentes materias, así como a sus respectivas modificaciones.
 
-I. ANEXO 1: Manual Técnico de Usos del Suelo;
-
-II. ANEXO 2: Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media;
-
-III. ANEXO 3: Tabla de Compatibilidades;
-
-IV. ANEXO 4: Tabla de Requerimiento de Estacionamientos; y,
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-V. ANEXO 5: Tabla de Normas para las zonas y tabla de normas para Usos sujetos a la clasificación de la vialidad.
-
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
-
-VI. ANEXO 6: Manual de Construcciones; y,
-
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2015)</small>
-
-VII. ANEXO 7: Manual técnico de anuncios, terrazas, fachadas y usos de suelo en zona de patrimonio histórico y corredor turístico.
+Las normas técnicas serán identificadas con las siglas "NTM" seguidas de guion, luego el nombre de "LEÓN" seguido de guion, continuando con las siglas de las dependencias que las emiten, como DU para la Dirección, IMPLAN para el instituto, SAPAL, OP para la Dirección General de Obra Pública y aquellas otras dependencias que intervengan en el ordenamiento sustentable del territorio, seguidas por un guion, enumeradas en orden progresivo ascendente iniciando con el número 01 para la primera norma y así sucesivamente, después el año en que se emite la norma seguido de un guion, y por último, la descripción del tema que norman.
 
 ## TÍTULO TERCERO. DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
@@ -2685,11 +2815,11 @@ V. Vialidades y su señalización vial; y,
 
 VI. Nomenclatura.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 148.
 
-Los desarrolladores deberán atender a las normas técnicas establecidas en este ordenamiento, al Código Territorial, para proyectar la distribución de lotes, viviendas, departamentos o locales y su agrupamiento en manzanas o edificios; la localización de áreas de equipamiento urbano, áreas verdes y espacios abiertos destinados para recreación; el trazo de calles, avenidas y andadores, cruceros y entronques de acuerdo a su función y nivel de servicio, así como la señalización y mobiliario urbano.
+Los desarrolladores deberán atender al Código Territorial, este Código y a las normas técnicas aplicables, para proyectar la distribución de lotes, viviendas, departamentos o locales y su agrupamiento en manzanas o edificios; la localización de áreas de equipamiento urbano, áreas verdes y espacios abiertos destinados para recreación; el trazo de calles, avenidas y andadores, cruceros y entronques de acuerdo a su función y nivel de servicio, así como la señalización y mobiliario urbano.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2849,7 +2979,7 @@ I. Únicamente se otorgará el visto bueno de las casetas de acceso para vialida
 
 II. El área donde se desplante y se ubique la caseta deberá de considerarse como área de servicio en el Dictamen de proyecto de Diseño Urbano, de tal manera que no esté constituido como vía pública y tampoco podrá desplantarse en área de donación; el motivo de acceso, la caseta o pluma de acceso deberá ser escriturada por el Desarrollador en favor del Municipio, y se otorgará en administración a favor del Comité de Colonos del desarrollo, en el entendido de que éste se hará cargo de su cuidado y mantenimiento, y si no lo aceptase, la Dirección removerá la pluma de acceso y/o caseta de control;
 
-III. No se permitirá la colocación de ningún tipo de elemento que obstruya el libre transito;
+III. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 IV. Deberá garantizar en las banquetas las rampas así como el libre tránsito de las personas con capacidades diferentes;
 
@@ -2862,6 +2992,10 @@ VII. La autorización de una caseta de vigilancia y/o control de acceso en el fr
 VIII. De existir alguna inconformidad o queja justificada con respecto al funcionamiento u operación de la caseta de vigilancia y plumas de control de acceso, el Comité de Colonos deberá presentar a la Dirección, el Acuerdo tomado en Asamblea General, mismo que será analizado por dicha dependencia para determinar lo procedente; y,
 
 IX. Para fraccionamientos concluidos y/o municipalizados, este trámite podrá ser realizado a través del comité de colonos reconocidos ante la Dirección General de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+No se permitirá la colocación de elementos diferentes a los señalados en este artículo que obstruyan el libre tránsito.
 
 ###### Artículo 158.
 
@@ -3021,7 +3155,9 @@ Sobre las guarniciones de las áreas de donación en favor del Municipio, se deb
 
 El desarrollador deberá plantar en el área del proyecto, un árbol por cada uno de los lotes, unidades, locales o viviendas que integren el proyecto de diseño urbano, además de los que se determinen en la autorización en materia de evaluación del impacto ambiental respectiva (sic).
 
-La plantación de los árboles deberá efectuase (sic) con las especies, y conforme a los términos, condiciones y especificaciones establecidos en el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato, así como en los programas y manuales que se expidan para tal efecto.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+La plantación de los árboles deberá efectuarse con las especies, y conforme a los términos, condiciones y especificaciones establecidos en la normativa municipal en materia de medio ambiente, así como en los programas y las normas técnicas en la materia que se expidan para tal efecto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -3457,6 +3593,8 @@ El mobiliario urbano para estas áreas será propuesto por el desarrollador y ap
 
 En los desarrollos en condominio habitacionales, no se podrán edificar un número de departamentos o viviendas que exceda la densidad de población establecida en el Título de Zonificación y Usos y Destinos del Suelo del presente ordenamiento, de acuerdo a la zona de su ubicación, y al número de habitantes por vivienda conforme al Instituto Nacional de Estadística y Geografía INEGI.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 200.
 
 Los desarrollos en condominio deberán contar con áreas verdes y áreas de uso común, entendiéndose que la superficie de área verde será independiente del área de uso común. Dentro del mismo desarrollo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, de conformidad con lo siguiente:
@@ -3467,13 +3605,25 @@ II. Para condominios verticales 8.30 metros cuadrados de área verde y 6 metros 
 
 III. Para condominios horizontales 9.70 metros cuadrados de área verde y 7.30 metros cuadrados de área de uso común por cada unidad.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Deberá otorgarse a favor del Municipio, el cuatro por ciento sobre la superficie total del proyecto autorizado, para área de donación, conforme a lo establecido en el artículo 416 fracción II del Código Territorial.
+###### Artículo 200-A.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+Los desarrollos en condominio deberán otorgar el área de donación a favor de este municipio de acuerdo a los siguientes porcentajes:
 
-En el caso de los desarrollos en condominio y fraccionamientos que tengan un uso habitacional campestre, así como agropecuario, industrial y comercial se deberá otorgar a favor del Municipio, el cinco por ciento sobre la superficie total del proyecto autorizado.
+I. En desarrollos en condominio de uso habitacional de tipo horizontal de interés social o popular, el área de donación no podrá ser menor al cuatro por ciento del total de la superficie del desarrollo;
+
+II. En desarrollos en condominio de uso habitacional de tipo horizontal residencial, el área de donación no podrá ser menor al seis por ciento del total de la superficie del desarrollo;
+
+II (SIC). En desarrollos en condominio de uso habitacional de tipo vertical de interés social o popular que se ubiquen dentro del límite urbano, el área de donación no podrá ser menor al cuatro por ciento del total de la superficie del desarrollo;
+
+IV. En desarrollos en condominio de uso habitacional de tipo vertical de interés social o popular que se ubiquen fuera del límite urbano, el área de donación no podrá ser menor al ocho por ciento del total de la superficie del desarrollo;
+
+V. En desarrollos en condominio de uso habitacional de tipo vertical residencial dentro del límite urbano, el área de donación no podrá ser menor al seis por ciento del total de la superficie del desarrollo;
+
+VI. En desarrollos en condominio de uso habitacional de tipo vertical tipo residencial que se ubiquen fuera del límite urbano, el área de donación no podrá ser menor al doce por ciento del total de la superficie del desarrollo; y,
+
+VII. En el caso de los desarrollos en condominio y fraccionamientos que tengan un uso habitacional campestre, así como agropecuario, industrial y comercial el área de donación no podrá ser menor al cinco por ciento d (sic) total de la superficie del desarrollo.
 
 ###### Artículo 201.
 
@@ -3505,9 +3655,17 @@ V. Contarán con depósitos o contenedores de basura que deberán lindar con la 
 
 VI. Deberán existir espacios disponibles para estacionamiento de vehículos, de tal forma que cada vehículo pueda salir a la vía pública o área de circulación enlazada con ésta, sin necesidad de mover otro vehículo estacionado.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
 
-Los desarrollos en condominio de tipo horizontal de uso habitacional, no podrán realizarse en zonas habitacionales de densidad alta H7 y H8, cuyo uso sea para vivienda popular o de interés social. Asimismo, en este tipo de desarrollos no se permitirán unidades de propiedad privativa que tengan un frente y superficie menor a lo establecido en el lote tipo de la zona, de conformidad con las superficies establecidas en el Código Territorial.
+Se podrá autorizar en zonas habitacionales de densidad alta H7 y H8 los desarrollos en condominio de tipo horizontal de interés social siempre y cuando no excedan de 150 unidades privativas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE ABRIL DE 2018)</small>
+
+Los desarrollos en condominio de tipo horizontal de uso habitacional, no podrán realizarse en zonas habitacionales de densidad alta H7 y H8, cuyo uso sea para vivienda popular.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Asimismo, en este tipo de desarrollos no se permitirán unidades de propiedad privativa que tengan un frente y superficie menor a lo establecido en el lote tipo de la zona, de conformidad con las superficies establecidas en el Código Territorial.
 
 ###### Artículo 204.
 
@@ -3541,9 +3699,7 @@ Para los desarrollos mixtos se aplicarán las disposiciones particulares para ca
 
 El proceso para la autorización de fraccionamientos y desarrollos en condominio en el Municipio, implica la obtención de los documentos que a continuación se enuncian:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-I. Dictamen de congruencia;
+I. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3648,6 +3804,10 @@ III. Brindar apoyo técnico y seguimiento a la Dirección en la aprobación de l
 IV. Servir de foro de debate y de intercambio de ideas entre las distintas Dependencias y Entidades gubernamentales con los desarrolladores;
 
 V. Asesorar y apoyar a la Dirección, en el mejor diseño y estandarización de los procesos de aprobación de Desarrollos; y,
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V-A. Apoyar a la Dirección en la creación y evaluación de normas técnicas en materia del ordenamiento sustentable del territorio, que faciliten y promuevan la sustentabilidad y el desarrollo urbano del municipio; y
 
 VI. Las demás que se señalen como objetivos concretos de la mesa de trabajo que se instale al amparo del presente Código.
 
@@ -3825,23 +3985,37 @@ Elipsoide Datum
 
 GRS80 WGS84
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 230.
 
-El proyecto de diseño urbano será analizado por la Dirección, para lo cual el desarrollador deberá anexar la siguiente documentación:
+El proyecto de diseño urbano será analizado por la Dirección para emitir el dictamen de congruencia en caso de ser procedente, para lo cual el desarrollador deberá anexar la siguiente documentación:
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 I. Escritura de propiedad del área o predio a urbanizar;
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
 II. La propuesta de diseño urbano que identificará la distribución de áreas y la estructura urbana del desarrollo;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 III. La asignación de uso de suelo, en caso de requerirse;
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
 IV. El permiso de uso de suelo vigente así como los dictámenes de las restricciones federales marcadas en el propio permiso;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 V. Comprobante de pago de derechos por revisión de proyecto;
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
 VI. El estudio de mecánica de suelos, que permita identificar la estabilidad del terreno; y,
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 VI (SIC). El inventario con memoria fotográfica de las especies existentes, en caso de que exista vegetación o árboles en el inmueble donde se pretenda edificar el fraccionamiento o desarrollo en condómino.
 
@@ -3863,29 +4037,19 @@ Si el proyecto de diseño urbano cumple con los requisitos y documentación soli
 
 Los titulares de las dependencias que integran la mesa de trabajo emitirán, en el ámbito de su respectiva competencia, observaciones sobre la viabilidad del proyecto de diseño urbano, el mismo día en que se les haya presentado para su consideración, siempre y cuando se reúnan los requisitos jurídicos y técnicos establecidos en el presente Código. En caso de resultar viable, la Dirección emitirá opinión técnica al IMPLAN en un término no mayor a cinco días hábiles siguientes.
 
-De no resultar viable el proyecto de diseño urbano, el desarrollador podrá modificar el proyecto con el objeto de que reúna los requerimientos que las dependencias y entidades que integran la mesa de trabajo le soliciten para dar cumplimiento a la normativa aplicable.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+De no resultar viable el proyecto de diseño urbano, el desarrollador deberá modificar el proyecto con el objeto de que reúna los requerimientos que las dependencias y entidades que integran la mesa de trabajo le soliciten para dar cumplimiento a la normativa aplicable.
 
 Modificado el proyecto de diseño urbano, se volverá a presentar a la mesa de trabajo para su revisión. Concluida ésta, la Dirección se pronunciará en los términos del primer párrafo de este artículo.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
-
 ###### Artículo 230-D.
 
-El IMPLAN dictaminará la congruencia del proyecto de diseño urbano del fraccionamiento o desarrollo en condominio, con las disposiciones del POTE, así como con la estructura urbana de los centros de población, priorizando la consolidación urbana, la redensificación poblacional de las zonas urbanizadas, la ocupación de espacios vacantes, lotes baldíos y predios subutilizados dentro del centro de población, así como la continuidad urbana del mismo, de manera proporcional a las características del proyecto.
-
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 ###### Artículo 230-E.
 
-El IMPLAN emitirá el dictamen de congruencia dentro de los diez días hábiles siguientes a que la Dirección le remita el proyecto de diseño urbano, el permiso de uso de suelo y la opinión técnica emitida por la Dirección.
-
-Las observaciones que, en su caso, tenga el IMPLAN se expondrán en el dictamen, para que sean tomadas en consideración al momento de otorgar la aprobación de traza y los permisos de urbanización o edificación.
-
-Si dentro del plazo señalado en este artículo, no se remite el dictamen de congruencia a la Dirección, se entenderá que no existe inconveniente para la aprobación de la traza.
-
-Una vez que se cuente con la opinión técnica emitida por la Dirección y con el dictamen de congruencia emitido por el IMPLAN, el proyecto de diseño urbano, acompañado de dichos documentos, será sometido a la Comisión de Desarrollo Urbano para su conocimiento y consideración.
-
-Concluido lo anterior, la Dirección dará a conocer al desarrollador el resultado de la fase de dictaminación, a fin de que continúe con los trámites correspondientes.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3900,6 +4064,10 @@ II. Autorización de impacto ambiental, en los casos previstos por la Ley Genera
 III. Autorización de impacto vial, en aquellos casos que prevé el Código Territorial y el presente Código; y,
 
 IV. Factibilidades de dotación de servicios emitidas por SAPAL y la CFE.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Contrato de compraventa mediante el cual se acredite el acceso para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4099,7 +4267,9 @@ Las obras de urbanización se ejecutarán por el desarrollador o en su caso por 
 
 El plazo para la realización y terminación de las obras de urbanización o edificación se otorgará considerando el programa de obra y la magnitud del fraccionamiento o desarrollo en condominio. Dicho plazo no excederá de dos años, posteriores a la fecha de expedición del permiso respectivo, a excepción de los fraccionamientos de urbanización progresiva.
 
-Con anticipación de treinta días hábiles previos al vencimiento del plazo establecido en el párrafo anterior y previa justificación de las causas que motivaron el retraso en la ejecución de las obras de infraestructura pública, el desarrollador podrá solicitar la ampliación del plazo, el cual se podrá otorgar por parte de la Dirección por un periodo máximo de ciento veinte días hábiles, sin que sea necesario cubrir nuevos derechos de supervisión.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Con anticipación de treinta días hábiles previos al vencimiento del plazo establecido en el párrafo anterior y previa justificación de las causas que motivaron el retraso en la ejecución de las obras de infraestructura pública, el desarrollador podrá solicitar la ampliación del plazo, el cual se podrá otorgar por parte de la Dirección por un periodo máximo de ciento ochenta días hábiles, sin que sea necesario cubrir nuevos derechos de supervisión.
 
 Si posterior a la ampliación otorgada existieran causas justificadas, la Dirección, previo pago de los derechos de supervisión, podrá conceder un nuevo plazo para la conclusión de obras de urbanización o edificación, en atención al programa de obra que presente el desarrollador.
 
@@ -4257,11 +4427,11 @@ Los ductos e infraestructura necesaria para la conducción de energía eléctric
 
 Tratándose de las obras de cabecera y el espacio en que se encuentren al interior del desarrollo en condominio, que requiera la Dirección, SAPAL y CFE, deberán estar consideradas como propiedad Municipal o de la dependencia o entidad correspondiente en su caso, y por lo tanto no se incluirán dentro de la propiedad condominal, debiendo precisarse la ubicación de estos espacios en la traza del desarrollo, así como en la modificación de ésta en su caso, derivada de los proyectos ejecutivos. De igual forma se precisará en la constitución del condominio o del conjunto condominal ante el Notario Público correspondiente y en el Reglamento Interno de los mismos.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 266.
 
-Tratándose de fraccionamientos o desarrollos en condominio campestres o agropecuarios, solamente podrán ser objeto de recepción por parte del Municipio, las vialidades y obras de urbanización y equipamiento, señaladas en el permiso de urbanización o edificación correspondiente.
+No serán objeto de recepción por parte del Municipio, las vialidades y obras de urbanización y equipamiento, de los fraccionamientos y desarrollos en condominio de tipo campestre o agropecuario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4409,11 +4579,13 @@ Los proyectos o trámites realizados por los peritos deberán presentarse ante l
 
 El perito urbano para el ejercicio de sus atribuciones, y cualquiera que sea el objeto para el que otorgue su responsiva, deberá estar registrado ante la Dirección, en los términos del presente Código.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 276.
 
-El registro de los peritos urbanos tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+El registro de los peritos urbanos tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento, en caso de no presentarla, se suspenderá temporalmente su registro, otorgándose un plazo de treinta días hábiles para tramitar el refrendo, en caso contrario su registro será cancelado hasta en tanto realice uno nuevo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 Para el refrendo bianual de los peritos urbanos, los interesados deberán presentar a la Dirección, los siguientes requisitos:
 
@@ -4659,11 +4831,11 @@ La Dirección resolverá sobre la solicitud del registro, en un término no mayo
 
 En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 287 - E.
 
-El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento, en caso de no presentarla, se suspenderá temporalmente su registro, otorgándose un plazo de treinta días hábiles para tramitar el refrendo, en caso contrario su registro será cancelado hasta en tanto realice uno nuevo.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4739,11 +4911,11 @@ VI. Establecer las normas específicas que deberán observarse en la supervisió
 
 VII. Regular la arquitectura ecológica, así como la innovación tecnológica en arquitectura y construcción.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 289.
 
-La planeación y la ejecución de las obras de construcción que impliquen obra nueva, ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración, demolición y trabajos preliminares de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para el permiso de construcción, al manual técnico de las construcciones y demás normativa aplicable.
+La planeación y la ejecución de las obras de construcción que impliquen obra nueva, ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración, demolición y trabajos preliminares de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para el permiso de construcción, a la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones; y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -4853,7 +5025,9 @@ X. Colocación de marquesinas, obras de protección y elementos de ornato.
 
 Son requisitos comunes para el otorgamiento del permiso de construcción en sus diversas modalidades:
 
-I. Presentar formato de solicitud debidamente completado y firmado por el propietario, poseedor o el representante legal de cada uno de ellos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+I. Presentar formato de solicitud debidamente completado y firmado por el propietario, poseedor o el representante legal de la persona física o moral, según proceda;
 
 II. Anexar copia de Identificación oficial del propietario o representante legal, en el caso de este último deberá exhibir el documento que acredite su personalidad y facultades;
 
@@ -4893,7 +5067,9 @@ III.- Si no se cumplen los requisitos establecidos para el uso de suelo de acuer
 
 IV. Cuando no se cumpla con la totalidad de los requisitos que prevé el presente Código para las diversas modalidades del permiso de construcción; y,
 
-V.- Cuando sobre un predio se encuentre proyectada una vialidad y se pretenda darle frente a la misma, hasta en tanto dicha vialidad se considere propiedad municipal.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Cuando sobre un predio se encuentre proyectada una vialidad y se pretenda darle frente a la misma, hasta en tanto dicha vialidad se considere propiedad municipal, excepto cuando exista convenio de donación o afectación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4925,11 +5101,11 @@ En caso de inmuebles que concluyeron un proceso de construcción, se deberá dar
 
 #### SECCIÓN SEGUNDA. DEL PERMISO DE CONSTRUCCIÓN PARA OBRAS NUEVAS
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 299.
 
-Tratándose de obra nueva para uso habitacional unifamiliar, además de los requisitos comunes que señala el presente Código para los permisos de construcción, se requerirán dos copias de los planos básicos mínimos de acuerdo al manual técnico de las construcciones, firmados por el propietario y/o poseedor, así como por el DRO.
+Tratándose de obra nueva para uso habitacional unifamiliar, además de los requisitos comunes que señala el presente Código para los permisos de construcción, se requerirán dos copias de los planos básicos mínimos de acuerdo a la norma técnica NTM-LEON-DU-03-2018 relativa a las Especificaciones Técnicas de las Construcciones, firmados por el propietario y/o poseedor, así como por el DRO.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4941,9 +5117,13 @@ I. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, de acuerdo a la normativa aplicable; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-III. Dos copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la tabla de requerimientos de corresponsables y DRO, del manual técnico de las construcciones, firmados por el propietario y/o poseedor, así como por los corresponsables en su caso.
+III. Dos copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la tabla de requerimientos de corresponsables y DRO, localizada en la norma técnica NTM-LEON-DU-03-2018 relativa a las Especificaciones Técnicas de las Construcciones.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN III], P.O. 9 DE ABRIL DE 2018)</small>
+
+Tratándose de obra nueva para uso habitacional unifamiliar, además de los requisitos comunes que señala el presente Código para los permisos de construcción, se requerirán dos copias de los planos básicos mínimos de acuerdo a la norma técnica citada, firmados por el propietario y/o poseedor, el DRO, así como por los corresponsables en su caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -4957,9 +5137,9 @@ I. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, de acuerdo a la normativa aplicable;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-III. Dos copias del proyecto, con los planos requeridos de acuerdo a este tipo de permisos según la tabla de requerimientos de corresponsables y DRO, manual técnico de las construcciones, firmados por el propietario y/o poseedor, y por el corresponsable registrado ante la Dirección, en su caso; y,
+III. Dos copias del proyecto, con los planos requeridos de acuerdo a este tipo de permisos según la tabla de requerimientos de corresponsables y DRO, localizada en la norma técnica NTM-LEON-DU-03-2018 relativa a las Especificaciones Técnicas de las Construcciones, firmados por el propietario y/o poseedor, así como por el corresponsable registrado ante la Dirección, en su caso.
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5001,9 +5181,9 @@ III. Que no se tengan claros mayores a 4.50 metros entre apoyos principales.
 
 El permiso que se otorgue con motivo del presente artículo, se dará por una sola ocasión.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO, así como la elaboración de los planos básicos mínimos que refiere el manual técnico de las construcciones y sus anexos.
+Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO, así como la elaboración de los planos básicos mínimos que refiere la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5177,7 +5357,7 @@ III. Los tapiales que invaden la acera en una anchura superior a 50 centímetros
 
 IV. La instalación, de ascensores para personas en espacios o inmuebles de uso público de intensidad media y alta de montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, para lo cual como requisito, deberá acompañar su solicitud con la memoria y/o proyecto avalada por un especialista en la rama profesional de instalaciones de este tipo. Quedan fuera de esta fracción, las reparaciones que no alteren las especificaciones de la instalación, manejo, sistema eléctrico o de seguridad;
 
-V. Los conjuntos habitacionales y los Desarrollos en Condominio; y,
+V. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 VI. Las no consideradas en el presente ordenamiento.
 
@@ -5205,15 +5385,29 @@ II. Memoria en que se especifique el procedimiento y las medidas de seguridad qu
 
 III. Original y copia del permiso vigente de anuncio.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+###### Artículo 317 - B.
+
+Tratándose de obras o acciones urbanísticas que se hayan realizado sin autorización por parte de la Dirección y que soliciten la regularización, éstas serán catalogadas como permiso de construcción especial, debiendo cumplir además de los requisitos establecidos en los artículos 296 y 317 del presente código, con lo siguiente:
+
+I. Tratándose de usos no habitacionales, se requerirán estudios técnicos de vialidad, ambiental y Compatibilidad elaborados por especialistas, peritos urbanos y/o DRO, en los cuales se evalúe y se demuestre que no se generaron impactos negativos significativos en el terreno del proyecto y su entorno inmediato; y
+
+II. Dictamen Técnico emitido por parte de la Dirección, el cual deberá de contener las consideraciones y medidas preventivas, de mitigación y de compensación que se requieran para los impactos que se hayan identificado. Dicho dictamen determinará la procedencia para otorgar o negar el permiso.
+
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 318.
 
 Tratándose de fraccionamientos y desarrollos en condominio, los requisitos para la obtención del permiso especial, serán los mismos que los señalados por este Código para el permiso de construcción para obras nuevas de uso habitacional.
 
-Se expedirán permisos de conjuntos habitacionales para proyectos tipo idénticos, ubicados dentro de una misma manzana.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Se deberá tramitar un permiso de construcción diferente por manzana, clúster, isla, o conjunto de unidades limitadas por circulaciones peatonales y/o vehiculares.
+Se expedirán permisos de conjuntos habitacionales para proyectos tipo idénticos, sin importar el número de unidades, siempre y cuando sean del mismo promotor en un solo trámite.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Se podrá tramitar un permiso de construcción y/o edificación por manzana, clúster, isla, o conjunto de unidades limitadas por circulaciones peatonales y/o vehiculares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5239,15 +5433,17 @@ Se podrá autorizar el permiso de construcción especial para trabajos prelimina
 
 I. Que se trate edificaciones nuevas;
 
-II. Que el uso requiera de proyectos tipo B o C;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. Que el uso requiera de proyectos tipo B;
 
 III. Que la construcción tenga una superficie mayor a los 60 metros cuadrados y requiera de un DRO;
 
 IV. Que el uso sea predominante o compatible con la zona en que se ubique; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-V. Que no se trate de giros y actividades especiales.
+V. Que no se trate de giros y actividades especiales que requieran ser autorizados por el H. Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5268,6 +5464,10 @@ IV. Solicitud y planos firmados por DRO en casos de edificación; y,
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 V. Contar con la autorización de impacto ambiental.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Calendario de obra.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5315,7 +5515,7 @@ Artículo 325 B. (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 325 - C.
 
-Para la obtención del permiso de construcción de espacios para apuestas, se atenderá a los requisitos comunes que señala el presente Código y la normativa federal aplicable para su funcionamiento.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 Artículo 325 D. (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
@@ -5337,9 +5537,9 @@ El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisit
 
 Lo anterior en el entendido que la validación de la parte estructural y de todo el proyecto que implica la construcción en cualquiera de sus modalidades, la otorga el DRO a través de su responsiva, y esta se verifica y convalida por parte de la autoridad con el resultado de la revisión y análisis que la Dirección efectúa al amparo del artículo 332 - A de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Tratándose de inmuebles comprendidos dentro de los grupos de usos a que se refiere el Anexo número 2 del presente Código identificado como Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media, la Dirección expedirá el permiso correspondiente el mismo día en que fue solicitado, siempre y cuando se hubiesen presentado todos los requisitos.
+Tratándose de inmuebles comprendidos dentro de los grupos de usos a que se refiere la norma técnica NTM-LEÓN-DU-01-2018, relativa a los Giros relacionados con el Sistema de Apertura Rápida de Empresas con actividades de Intensidad Mínima, Baja y Media, la Dirección expedirá el permiso correspondiente el mismo día en que fue solicitado, siempre y cuando se hubiesen presentado todos los requisitos.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5411,11 +5611,11 @@ En caso de que se solicite permiso de construcción para usos similares a las an
 
 Cuando por la ejecución de una obra con el uso de mecanismos u objetos o por cualquier otra causa, se produzcan daños a cualquier servicio público, obra o instalación que existan en la vía pública o en inmuebles de uso común destinados al servicio público, la reparación necesaria se llevará obligatoriamente por el propietario, poseedor o DRO.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 336.
 
-No se autorizará a los particulares el uso de la vía pública para aumentar el área de un predio o de construcciones sobre marquesinas superiores a un metro de altura.
+No se autorizará a los particulares el uso de la vía pública para aumentar el área de un predio o de construcciones sobre marquesinas, las cuales no podrán exceder de un metro de longitud.
 
 ###### Artículo 337.
 
@@ -5451,7 +5651,21 @@ La Dirección podrá autorizar la ocupación de una obra no terminada o en proce
 
 I. Se haya expedido un permiso de construcción para las edificaciones desarrolladas; y,
 
-II. Se cumplan las condiciones de habitabilidad señaladas en el Manual Técnico de las Construcciones.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. Se cumplan además de las condiciones de habitabilidad señaladas en la Norma Técnica NTM-LEON-DU-03-2018 relativa a las Especificaciones Técnicas de las Construcciones, con las siguientes;
+
+a. Que la edificación disponga de patios de luz y ventilación.
+
+b. Que cuente con red hidrosanitaria conectada al sistema de agua potable y alcantarillado.
+
+c. Que cuente con servicio de energía eléctrica.
+
+d. Que la edificación de vivienda cuente al menos con una habitación, baño y área de lavado de utensilios y ropa terminados para su uso.
+
+e. Que cuente con circulaciones y/o elementos que delimiten físicamente o virtualmente los espacios de la edificación o vivienda.
+
+f. Que el tanque de gas butano se localice en lugar exterior de la zona habitable con adecuada ventilación.
 
 ###### Artículo 343.
 
@@ -5495,6 +5709,10 @@ a) Formatos de terminación de obra debidamente llenados y firmados por el propi
 
 b) Pago de derechos de acuerdo a la Ley de Ingresos.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+c) Anexar plano arquitectónico de las condiciones actuales de la edificación, y en su caso, comparadas con el proyecto autorizado.
+
 II. Para usos no habitacionales:
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
@@ -5507,9 +5725,19 @@ b) Original y copia de las autorizaciones, licencias, permisos o constancias de 
 
 c) Pago de derechos de acuerdo a la Ley de Ingresos.
 
-En ambas Fracciones, el inmueble deberá tener el número oficial de un tamaño mínimo de 20 centímetros de altura.
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+d) Anexar plano arquitectónico de las condiciones actuales de la edificación, y en su caso, comparadas con el proyecto autorizado.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+En ambas fracciones, el inmueble deberá tener el número oficial de un tamaño mínimo de 20 centímetros de altura, siempre y cuando no se haya alterado el uso autorizado, se haya modificado el coeficiente de ocupación de suelo, las ventilaciones e iluminaciones naturales o los cajones de estacionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
+
+En caso de que se haya alterado el uso autorizado, se haya modificado el coeficiente de ocupación de suelo, las ventilaciones e iluminaciones naturales o los cajones de estacionamiento, la solicitud de autorización de uso y ocupación se someterá a análisis de la Dirección para que en un plazo no mayor a 10 días hábiles siguientes a la presentación de la solicitud determine si es o no procedente.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE ABRIL DE 2018)</small>
 
 En el caso de haber realizado obra en vía pública, será necesario anexar el visto bueno de la Dirección de Obra.
 
@@ -5519,11 +5747,11 @@ En el caso de haber realizado obra en vía pública, será necesario anexar el v
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta diez días hábiles.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 348.
 
-En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una autorización parcial de uso y ocupación siempre que las obras de urbanización correspondientes estén concluidas y cumplan con los requisitos de habitabilidad señaladas en el manual técnico de las construcciones; para el caso de usos no habitacionales, se deberá cumplir en la parte de la obra concluida con lo indicado en las autorizaciones de los dictámenes correspondientes.
+En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una autorización parcial de uso y ocupación siempre que las obras de urbanización correspondientes estén concluidas y cumplan con los requisitos de habitabilidad señaladas en la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones; para el caso de usos no habitacionales, se deberá cumplir en la parte de la obra concluida con lo indicado en las autorizaciones de los dictámenes correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5615,11 +5843,11 @@ La solicitud de registro o refrendo se realizará previo pago de los derechos qu
 
 Un mismo DRO podrá obtener simultáneamente su registro como Proyectista Arquitectónico, Proyectista Estructural y/o Perito Topógrafo.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 358.
 
-El registro del DRO, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+El registro del DRO, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento, en caso de no presentarla, se suspenderá temporalmente su registro, otorgándose un plazo de treinta días hábiles para tramitar el refrendo, en caso contrario su registro será cancelado hasta en tanto realice uno nuevo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -5637,17 +5865,19 @@ II. Presentar un listado de las obras de construcción para las que emitió su r
 
 ### CAPÍTULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL DIRECTOR RESPONSABLE DE OBRA (DRO)
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 360.
 
-El DRO es el enlace técnico con la Dirección y debe verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte del permiso de construcción y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista con base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
+El DRO es el enlace técnico con la Dirección y debe verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte del permiso de construcción y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista con base a manuales, Normas Técnicas, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 361.
 
-Las construcciones en las que un DRO interviene están señaladas en el presente ordenamiento y en el Manual Técnico de las Construcciones.
+Las construcciones en las que un DRO interviene están señaladas en el presente ordenamiento y en la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 El DRO, no podrá otorgar más de 7 responsivas mensuales a efecto de garantizar el pleno cumplimiento de la normativa aplicable y la observancia de las especificaciones técnicas en la ejecución de los proyectos u obras con base en el presente Código y a los lineamientos dictaminados por la Dirección.
 
@@ -5665,7 +5895,9 @@ El DRO, tiene las siguientes obligaciones:
 
 I. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
 
-II. Revisar que los planos del proyecto o en su caso del proyecto ejecutivo autorizado, estén completos y cumplan con los requisitos técnicos establecidos en el Manual Técnico de las Construcciones, para que pueda dirigir la ejecución de la obra de construcción;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. Revisar que los planos del proyecto o en su caso del proyecto ejecutivo autorizado, estén completos y cumplan con los requisitos técnicos establecidos en la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones, para que pueda dirigir la ejecución de la obra de construcción;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -5723,7 +5955,7 @@ XII. Responder de cualquier violación a las disposiciones de este ordenamiento 
 
 XIII. Solicitar constancia de suspensión de obra para los casos en que la misma así lo requiera;
 
-XIV. Presentar ante la Dirección, el Contrato de Prestación de Servicios profesionales que celebre con el propietario y/o poseedor, así como con los corresponsables, donde se detalle las obras a realizar en la edificación, los alcances en la ejecución de la obra, así como el número de visitas a efectuar;
+XIV. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 XV. Asegurarse que los corresponsables que contraten al tenor de la fracción anterior, cuenten con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los mismos demandan;
 
@@ -5763,11 +5995,11 @@ Para efectos del presente ordenamiento, la responsabilidad profesional y caráct
 
 ### CAPÍTULO VII. DE LOS CORRESPONSABLES
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 367.
 
-Las construcciones en las que el corresponsable interviene se ubican en el Manual Técnico de las Construcciones y participaran en forma total o parcial dentro de un proyecto, ello atendiendo a la especialidad o profesión con la que cuenten.
+Las construcciones en las que el corresponsable interviene se ubican en a (sic) la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones y participarán en forma total o parcial dentro de un proyecto, ello atendiendo a la especialidad o profesión con la que cuenten.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -5823,11 +6055,11 @@ La Dirección resolverá sobre la solicitud del registro, en un término no mayo
 
 En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 372.
 
-El registró como Proyectista Arquitectónico y Proyectista Estructural, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+El registro como Proyectista Arquitectónico y Proyectista Estructural, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento, en caso de no presentarla, se suspenderá temporalmente su registro, otorgándose un plazo de treinta días hábiles para tramitar el refrendo, en caso contrario su registro será cancelado hasta en tanto realice uno nuevo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -5847,11 +6079,11 @@ II. Presentar un listado de las obras de construcción para las que emitió su r
 
 La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 375.
 
-El Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, podrán ser contratados directamente por el propietario o poseedor a efecto de participar en la planeación, diseño y estudios necesarios para un proyecto u obra, siempre y cuando ello no implique la ejecución de los mismos, pues en tal caso deberá realizarse bajo la responsiva de un DRO, de conformidad con el Anexo 1 del Manual Técnico de las Construcciones del presente Código.
+El Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, podrán ser contratados directamente por el propietario o poseedor a efecto de participar en la planeación, diseño y estudios necesarios para un proyecto u obra, siempre y cuando ello no implique la ejecución de los mismos, pues en tal caso deberá realizarse bajo la responsiva de un DRO, de conformidad con la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -5925,9 +6157,11 @@ En los casos previstos por este artículo, la planeación y/o ejecución de la o
 
 Cuando de conformidad con el presente Código y el Manual Técnico de las construcciones, se requiera de la intervención de los corresponsables y/o DRO, el propietario o poseedor, deberá contar con la responsiva de este último, de conformidad con los padrones de la Dirección.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 381.
 
-El propietario tendrá como obligación el realizar las obras necesarias para la urbanización a lo largo de los frentes de sus propiedades conforme al presente ordenamiento y acatando las especificaciones de la Dirección de Obra Pública.
+Cuando el propietario de un inmueble requiera de una asignación de uso de suelo, permiso de construcción y/o autorización de uso y ocupación, tendrá como obligación el realizar las obras necesarias para la urbanización de los frentes de su inmueble que colinden a la vía pública, conforme al presente ordenamiento y acatando las especificaciones de la Dirección de Obra. En caso de no existir proyecto ejecutivo de la vialidad, deberá pagar a favor de este municipio la urbanización de dichas obras de acuerdo al presupuesto de obra que realice la Dirección de Obra.
 
 ### CAPÍTULO IX. ARQUITECTURA ECOLÓGICA
 
@@ -5945,9 +6179,17 @@ II. La arquitectura ecológica o bioclimática, buscará el aprovechamiento del 
 
 III. Los factores que definan esta arquitectura, deberán buscar el ahorro de energía y el uso de sistemas de alto rendimiento y bajo consumo eléctrico para la ventilación, iluminación artificial y aparatos eléctricos; y,
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. El DRO y los corresponsables de este tipo de construcciones, deberán proponer y fundamentar el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua.
+IV. El DRO y los corresponsables de este tipo de construcciones, deberán de proponer y fundamentar en la memoria descriptiva, el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua. Entre las acciones que se deberán de tener en cuenta para el aprovechamiento y reutilización del agua pluvial, están las siguientes:
+
+a. Construcción de líneas independientes de drenaje y de agua potable en las construcciones;
+
+b. Construcción de pozos de absorción para la canalización de las aguas pluviales a las áreas verdes;
+
+c. Construcción de cisterna de almacenamiento de agua pluvial para su posterior aprovechamiento; y,
+
+d. Revisar las características y especificaciones del pozo de absorción para el funcionamiento y operación.
 
 ### CAPÍTULO X. INNOVACIÓN TECNOLÓGICA EN ARQUITECTURA Y CONSTRUCCIÓN
 
@@ -5971,9 +6213,11 @@ En todos los casos la innovación tecnológica en la rama de la arquitectura y c
 
 ### CAPÍTULO XI. DE LOS ANEXOS TÉCNICOS
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 387.
 
-Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de construcciones, se conforma el ANEXO 6 relativo al Manual Técnico de las Construcciones, el cual forma parte integrante de este ordenamiento.
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria obligatoria a la normativa de construcciones, se conforma la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones.
 
 ## TÍTULO QUINTO. DE LOS ANUNCIOS
 
@@ -5999,11 +6243,9 @@ V. Definir las obligaciones, atribuciones y alcances sobre las responsabilidades
 
 VI. Precisar las responsabilidades de los titulares de un permiso, así como de los particulares propietarios o poseedores con respecto a los anuncios.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
-
 ###### Artículo 389.
 
-El contenido de los anuncios se apegará a lo dispuesto en el Código Territorial, las leyes que regulen las materias respectivas y el texto de los mismos deberá redactarse preferentemente en idioma español con sujeción a las reglas de la gramática, de conformidad con los ordenamientos legales aplicables.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 ###### Artículo 390.
 
@@ -6055,13 +6297,15 @@ II.- Por su instalación:
 
 a) Anuncios adosados: Los que se fijen o adhieran sobre las fachadas o muros de las edificaciones;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
-b) Anuncios espectaculares: Los que se encuentren sustentados por uno o más elementos estructurales y se clasifican en:
+b) Anuncios autosoportados: Son aquellos que sus elementos estructurales se encuentran apoyados o anclados directamente al piso de un predio y cuya característica principal sea que sus soportes y su carátula o pantalla no tenga contacto con edificación alguna y se clasifican en:
 
-1) Anuncios autosoportados: son aquellos que sus elementos estructurales se encuentran apoyados o anclados directamente al piso de un predio y cuya característica principal sea que sus soportes y su carátula o pantalla no tenga contacto con edificación alguna;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-2) Anuncios en azotea: son aquellos que sus elementos estructurales se encuentran sobre el plano horizontal de la misma.
+1) Anuncios espectaculares: Son aquellos que se refieren a la difusión de marcas, productos, eventos, bienes, servicios o actividades similares y que promuevan su venta, uso o consumo y se encuentran sustentados por uno o más elementos estructurales; y,
+
+2) (DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 c) (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
@@ -6071,7 +6315,7 @@ e) Anuncios integrados: Los que en alto o bajorrelieve, o calados, formen parte 
 
 f) Anuncios en mobiliario urbano: Los que se coloquen sobre elementos considerados como mobiliario urbano;
 
-g) Anuncios en muro de colindancia: Los que se coloquen sobre los muros laterales o posteriores del inmueble, que colinden con otros predios; y,
+g) (DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 h) Anuncios en objetos inflables: Aquellos cuya característica principal sea la de aparecer en objetos que contengan algún tipo de gas en su interior, ya sean que se encuentren fijados al piso o suspendidos en el aire.
 
@@ -6113,15 +6357,19 @@ i) Muros interiores, laterales, o de colindancia; y,
 
 j) Jardines.
 
-### CAPÍTULO III. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONAS PARA LA INSTALACIÓN DE ANUNCIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO III. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONAS, PARA LA INSTALACIÓN DE ANUNCIOS ESPECTACULARES
 
 ###### Artículo 394.
 
 Las estructuras de los anuncios deberán ser fabricadas o construidas con materiales incombustibles o tratados, anticorrosivos, antirreflejantes y que garanticen la estabilidad y seguridad del anuncio.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 395.
 
-Los Planos de Zonas para la instalación de Anuncios deberán contener:
+Los Planos de Zonas para la instalación de anuncios espectaculares deberán contener:
 
 I. La simbología que indique, las restricciones o prohibiciones a que deben sujetarse la instalación o colocación de los diferentes tipos de anuncios; y,
 
@@ -6137,23 +6385,33 @@ Los Planos de Zonas para la instalación de Anuncios deberán ser aprobados por 
 
 Para la fijación, instalación, ubicación o modificación de los anuncios espectaculares autosoportados, se deberá atender lo siguiente:
 
-I. Se permitirá hasta tres carteleras, a un mismo nivel formando un triángulo que estén montadas sobre la misma estructura teniendo cada cartelera como dimensiones máximas 12.90 metros de longitud por 7.20 metros de altura;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+I. Se permitirá hasta tres carteleras, a un solo nivel formando un triángulo que estén montadas sobre la misma estructura teniendo cada cartelera como dimensiones máximas 12.90 metros de longitud por 7.20 metros de altura; integrando dentro de estas dimensiones, una sección de 0.80 metros de altura por 1.50 metros de ancho para que la Dirección asigne textos cortos que fomenten la Cultura Cívica y urbana en la población;
 
-II. La altura máxima de 18 metros sobre nivel de piso de banqueta a la parte superior de las carteleras;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de éste último cumpla con las disposiciones del Título de las Construcciones del presente Código, y la superficie de terreno no sea menor a 250 metros cuadrados. El anuncio por ningún motivo podrá instalarse en zonas de restricción fijadas por la autoridad competente, así como en estacionamientos y accesos a inmuebles;
+II. La altura máxima será de 18 metros sobre nivel de piso de banqueta a la parte superior de las carteleras;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de éste último, cumpla con las disposiciones del Título de las Construcciones del presente Código, y la superficie de terreno no sea menor a 250 metros cuadrados. El anuncio por ningún motivo podrá instalarse en zonas de restricción fijadas por la autoridad competente, así como en cajones de estacionamientos y accesos a inmuebles;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 IV. Deberán respetar su plano virtual sin invadir físicamente la vía pública o los predios colindantes;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-V. Contar con una distancia mínima de 100 metros radiales entre dos estructuras para la instalación de anuncios espectaculares, pantallas electrónicas y carteleras a nivel de piso; para el caso de aquellos que se instalen fuera de los centros de población, la distancia mínima entre los anuncios será de 600 metros radiales, para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros lineales en el mismo sentido de la circulación. Las distancias antes referidas se medirán del centro al centro de cada anuncio;
+V. Dentro de los Centros de Población contar con una distancia mínima de 100 metros radiales entre dos estructuras para la instalación de anuncios espectaculares y pantallas electrónicas, con excepción de los ejes metropolitanos, donde la distancia mínima entre los anuncios será de 500 metros lineales en el mismo sentido de la circulación.
 
-VI. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
+Para el caso de aquellos que se instalen fuera de los centros de población, la distancia mínima entre este tipo de anuncios será de 600 metros radiales.
+
+Las distancias antes referidas se medirán del centro al centro de cada anuncio espectacular;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, en azoteas de inmuebles, ni en muros colindantes;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6163,41 +6421,43 @@ VII. Contar con una distancia mínima de 50 metros radiales entre las estructura
 
 VIII. Sólo se podrán ubicar en predios con frente a ejes metropolitanos dentro del centro de población, así como vías primarias y secundarias; y,
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IX. Contar con la autorización de impacto vial correspondiente.
+IX. Contar con la autorización de impacto vial correspondiente; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+X. Cuando se trate de bienes de competencia federal o estatal, adyacentes a autopistas, carreteras, puentes, caminos o cualquier otra vía de comunicación, se requiere permiso otorgado por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+###### Artículo 396-A.
+
+Para la fijación, instalación, ubicación o modificación de los anuncios denominativos autosoportados, se deberá atender lo siguiente:
+
+I. Se permitirán hasta dos carteleras en sentido paralelo, a un mismo nivel que estén montadas sobre la misma estructura teniendo cada cartelera como dimensiones máximas 50 metros cuadrados;
+
+II. La altura máxima será de 18 metros sobre el nivel de piso de banqueta a la parte superior de las carteleras;
+
+III. El anuncio por ningún motivo podrá instalarse en zonas de restricción fijadas por la autoridad competente, así como en cajones de estacionamientos y accesos a inmuebles;
+
+IV. Deberán respetar su plano virtual sin invadir físicamente la vía pública o los predios colindantes;
+
+V. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, en azoteas de inmuebles, ni en muros colindantes;
+
+VI. Contar con una distancia mínima de 50 metros radiales entre las estructuras de antenas de telecomunicaciones;
+
+VII. En el caso de que se pretenda instar un anuncio autosoportado en un predio que colinde con otro donde ya exista un anuncio autosoportado, el anuncio deberá instalarse lo más alejado posible de las estructuras del que ya se encuentra fijo;
+
+VIII. Solo se podrán ubicar en predios con frente a las vías primarias y secundarias dentro del centro de población;
+
+IX. Cuando se trate de bienes de competencia federal o estatal, adyacentes a autopistas, carreteras, puentes, caminos o cualquier otra vía de comunicación, se requiere permiso previo otorgado por la autoridad competente; y
+
+X. En el caso de centros o plazas comerciales se podrá autorizar únicamente un tipo (sic) directorio cumpliendo con lo establecido en el artículo 448-A del presente Código.
 
 ###### Artículo 397.
 
-Para la fijación, instalación, ubicación o modificación de los anuncios espectaculares en azotea, se deberá atender lo siguiente:
-
-I. Se permitirá anuncios en inmuebles, siempre y cuando la superficie de la azotea no sea menor a 250 metros cuadrados. El anuncio por ningún motivo podrá instalarse en accesos y cuartos de servicio;
-
-II. La cartelera podrá tener una longitud de hasta 12.90 metros y hasta 7.20 metros de altura;
-
-III. La proyección horizontal, la estructura y soporte del anuncio, podrán ocupar la superficie libre de la azotea, descontando tinacos, tendederos, cuartos de servicio y tanques de gas; sin obstruir la circulación de personas;
-
-IV. Los anuncios y los elementos que lo conformen, no podrán sobresalir del perímetro de la azotea, ni invadir físicamente su plano virtual, la vía pública o los predios colindantes;
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-V. No deberán obstruir la visibilidad a los vecinos del predio colindante, por lo que deberán contar con una distancia mínima de 20 metros de éstos;
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-VI. Sólo se permitirá una estructura por inmueble, la cual podrá contener máximo dos carátulas a un mismo nivel formando un ángulo o paralelos; la altura máxima de la base o parte de sustentación del anuncio será de hasta 2.20 metros, contados desde la losa de la azotea hasta la parte inferior de la cartelera, sin que la altura del anuncio sea mayor de 18 metros, contados a partir del nivel de la banqueta a la parte superior de la carátula;
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-VII. Contar con una distancia mínima de 100 metros radiales entre dos estructuras respecto a la instalación de anuncios espectaculares, pantallas electrónicas y carteleras a nivel de piso; en el caso de aquellos que se instalen fuera de los centros de población, la distancia mínima entre los anuncios será de 600 metros radiales, para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros lineales en el mismo sentido de la circulación. Las distancias antes referidas se medirán del centro al centro de cada anuncio;
-
-VIII. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
-
-IX. Contar con la autorización de impacto vial correspondiente.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6205,13 +6465,15 @@ IX. Contar con la autorización de impacto vial correspondiente.
 
 Para la fijación, instalación, ubicación o modificación de los anuncios con cartelera a nivel de piso, se deberá atender lo siguiente:
 
-I. Se permitirá hasta tres carteleras a un mismo nivel por inmueble, sobre el límite del mismo sin invadir la vía pública, teniendo cada cartelera como dimensiones máximas 4.50 metros de longitud por 2.20 metros de altura;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+I. Se permitirán hasta tres carteleras a un mismo nivel por frente del inmueble, sobre el límite del mismo sin invadir la vía pública, teniendo cada cartelera como dimensiones máximas 4.50 metros de longitud por 2.20 metros de altura;
 
 II. La altura máxima será de 2.50 metros, medida sobre nivel del piso de banqueta a la parte superior de la cartelera;
 
 III. No podrá instalarse en zonas de restricción fijadas por la autoridad competente, así como en estacionamientos y accesos a inmuebles;
 
-IV. Contar con una distancia mínima de 100 metros radiales entre dos estructuras respecto a la instalación de anuncios espectaculares, pantallas electrónicas y carteleras a nivel de piso; en el caso de aquellos que se instalen fuera de los centros de población, la distancia mínima entre los anuncios será de 600 metros radiales, para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros lineales en el mismo sentido de la circulación. Las distancias antes referidas se medirán del centro al centro de cada anuncio;
+IV. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 V. No se permitirá la instalación de este tipo de anuncios en zonas patrimoniales;
 
@@ -6219,17 +6481,15 @@ VI. Contar con una distancia mínima de 50 metros radiales entre las estructuras
 
 VII. Sólo se podrán ubicar en predios con frente a ejes metropolitanos dentro del centro de población, así como vías primarias o secundarias; y,
 
-VIII. Contar con la autorización de impacto vial correspondiente.
+VIII. (DEROGADA, P.O. 9 DE ABRIL DE 2018); y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IX. Cuando se trate de bienes de competencia federal o estatal, adyacentes a autopistas, carreteras, puentes, caminos o cualquier otra vía de comunicación se requiere permiso previo otorgado por la autoridad competente.
 
 ###### Artículo 398.
 
-Para la fijación, instalación, ubicación o modificación de los anuncios de publicidad en muros de colindancia se deberá cumplir con lo siguiente:
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-I. En los muros ciegos laterales de las edificaciones se permitirán anuncios pintados no comerciales, siempre y cuando sean estéticos y decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento del permiso correspondiente, la Dirección valorará el carácter estético o decorativo del anuncio; y,
-
-II. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 ###### Artículo 399.
 
@@ -6253,9 +6513,13 @@ VII. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
 
 Para la fijación, instalación, ubicación o modificación de los anuncios de publicidad de neón se deberá cumplir con lo siguiente:
 
-I. Sus carátulas podrán tener un área de exhibición máxima de 12.90 metros de longitud por 7.20 metros de altura;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-II. La distancia mínima entre un anuncio de éstos respecto de otro igual o de un autosoportado, de azotea o electrónico deberá ser de 160 metros radiales;
+I. Sus carátulas podrán tener un área de exhibición máxima de 12.00 metros cuadrados;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. La distancia mínima entre un anuncio de éstos respecto de otro igual o de un autosoportado o electrónico deberá ser de 160 metros radiales;
 
 III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales;
 
@@ -6265,55 +6529,47 @@ IV. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fu
 
 V. No estarán permitidos en lugares donde ocasionen contaminación con la que causen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Para un anuncio espectacular con pantalla electrónica, la distancia radial mínima entre anuncios de este tipo será de 300.00 metros, y con respecto a un anuncio espectacular que no contenga pantalla electrónica, la distancia mínima deberá ser de 100.00 metros radiales, en el caso de ejes metropolitanos además de 100 metros radiales, la distancia mínima será de 500 metros lineales en el mismo sentido de la circulación. Las distancias en proyección horizontal antes referidas se medirán del centro al centro de cartelera de cada anuncio; así mismo, tendrá que contar con una distancia radial mínima de 25.00 metros de los semáforos vista en plano horizontal, con respecto a la luz preventiva más próxima.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 400-A.
 
 Para la fijación, instalación, ubicación o modificación de los anuncios con pantallas electrónicas se deberá cumplir con lo siguiente:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+I. Cada estructura podrá tener hasta dos pantallas a un mismo nivel;
 
-I. Cada estructura podrá tener dos pantallas a un mismo nivel;
+Cada pantalla en su estructura, podrá tener como dimensiones máximas 50 metros cuadrados y una altura máxima de 18 metros medida desde el nivel de banqueta a la altura superior de las pantallas;
 
-Cada pantalla podrá tener como dimensiones máximas 50 metros cuadrados, con una altura máxima de 18 metros medida desde el nivel de banqueta a la altura superior de las pantallas;
+II. Para este anuncio, el solicitante deberá tramitar previo al permiso, la autorización correspondiente ante la autoridad municipal competente en materia ambiental;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-II. El sistema de iluminación no deberá exceder de 50 luxes en dirección a automovilistas y peatones y deberá tener un reductor que disminuya su luminosidad de las 19:00 a las 06:00 horas del día siguiente;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
-
-III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, o en inmuebles considerados como monumentos arqueológicos, artísticos, históricos o de patrimonio cultural, ni dentro de una distancia menor de 100 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, o en inmuebles considerados como monumentos arqueológios, artísticos, históricos o de patrimonio cultural, ni dentro de una distancia menor de 100 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
 
 IV. No estarán permitidos en zonas habitacionales, donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de los inmuebles;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
 V. Sólo podrán instalarse en ejes metropolitanos, vialidades primarias y/o en lugares donde no interfiera la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+VI. Para un anuncio espectacular con pantalla electrónica, la distancia radial mínima entre anuncios de este tipo será de 300.00 metros, y con respecto a un anuncio espectacular que no contenga pantalla electrónica, la distancia mínima deberá ser de 100.00 metros radiales, en el caso de ejes metropolitanos además de 100.00 metros radiales, la distancia mínima será de 500 metros lineales en el mismo sentido de la circulación. Las distancias antes referidas se medirán del centro al centro de cartelera de cada anuncio; así mismo, tendrá que contar con una distancia radial mínima de 25.00 metros de los semáforos vista en plano horizontal, con respecto a la luz preventiva más próxima;
 
-VI. La distancia radial mínima entre anuncios de este tipo será de 300.00 metros, y con respecto a un anuncio espectacular o cartelera a nivel de piso que no contengan pantalla electrónica, la distancia mínima deberá ser de 100.00 metros radiales, así como contar con una distancia radial mínima de 25.00 metros de los semáforos;
+VII. Ubicarse, al menos, a 300 metros radiales de distancia del principio de tangente de curvas horizontales o verticales en las vialidades urbanas que las contengan;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+VIII. La superficie mínima del inmueble en donde se pretenda instalar deberá ser de 250.00 metros cuadrados;
 
-VII. Ubicarse, al menos, a 300 metros de distancia del principio de tangente de curvas horizontales o verticales en las vialidades urbanas que las contengan;
+IX. Queda prohibida su instalación sobre azoteas y en muros colindantes;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+X. En el caso de centros o plazas comerciales se podrá autorizar como tipo directorio cumpliendo con lo establecido en el artículo 448-A del presente código; y
 
-VIII. La superficie mínima del inmueble en donde se pretenda instalar deberá ser de 250.00 metros cuadrados; y,
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
-
-IX. Cuando se pretenda instalar sobre la superficie de la azotea, ésta no deberá ser menor a 250.00 metros cuadrados y por ningún motivo podrá instalarse en accesos y cuartos de servicios. Además de que no deberá rebasar la altura máxima de la base o parte de sustentación del anuncio la cual será de 2.20 metros, contados desde la loza de azotea hasta la parte inferior de la pantalla.
+XI. En el caso de instalarse sobre estructuras autosoportadas, además de lo establecido en este artículo deberá de cumplir con lo dispuesto en el artículo 396 del presente código.
 
 ###### Artículo 401.
 
 En los anuncios mixtos, la marca, logotipo o signo distintivo de la persona física o moral patrocinadora no podrá ocupar más del cincuenta por ciento de la superficie del mismo.
 
-Los anuncios mixtos podrán ser: adosados; autosoportados; en azotea; en marquesina, saliente, volados o colgantes; y en objetos inflables.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Los anuncios mixtos podrán ser: adosados, autosoportados, en marquesina, saliente, volados o colgantes; y en objetos inflables.
 
 ###### Artículo 402.
 
@@ -6331,11 +6587,13 @@ El porcentaje de espacios publicitarios en el mobiliario urbano será determinad
 
 (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 406.
 
-Tratándose de anuncios que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección General de Tránsito Municipal.
+Tratándose de anuncios instalados en las vías públicas que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección General de Tránsito Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 Para esos efectos el interesado deberá ingresar su solicitud a la Dirección General de Tránsito Municipal, quien deberá emitir su resolución respectiva dentro de un plazo no mayor de 15 días hábiles.
 
@@ -6361,11 +6619,11 @@ IV. Promuevan la discriminación de género, raza o condición social, resulte d
 
 Los anuncios en mobiliario urbano, sólo se podrán autorizar a las personas físicas o morales que cuenten con la contratación correspondiente, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-###### Artículo 408 - A.
+###### Artículo 408-A.
 
-Los anuncios que pretendan instalarse en postes de líneas telefónicas, postes de alumbrado y postes de la CFE, deberán guardar una distancia mínima entre un anuncio y otro del mismo tipo, de 250 metros lineales en el sentido de la circulación;
+Se prohíben los anuncios que pretendan instalarse en postes de líneas telefónicas y postes de la CFE, a excepción de postes de alumbrado público propiedad municipal en donde se podrán anunciar eventos turísticos, deportivos o culturales, promovidos por el municipio y cuyo retiro corra por cuenta de los promotores de dichos eventos, en las ubicaciones que la Dirección autorice.
 
 ### CAPÍTULO V. NORMAS GENERALES DEL MANTENIMIENTO Y MODIFICACIÓN DE ANUNCIOS
 
@@ -6463,7 +6721,9 @@ IV. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 V. Aquellos que por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la vida o la integridad física de las personas o la seguridad de sus bienes; produzcan cambios violentos en la intensidad de la luz y efectos hacia el interior de las habitaciones; limiten la ventilación e iluminación a las mismas; afecten o puedan alterar la adecuada prestación de los servicios públicos o la limpieza e higiene, de conformidad con las normas de desarrollo urbano o bien, que no cumplan cabalmente con lo establecido en este Capítulo;
 
-VI. Cuando, de ser necesarias, no cuente con las demás autorizaciones que conforme a la normativa requiera;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Cuando, de ser necesarias, no cuenten con las demás autorizaciones que conforme a la normativa requiera, o generen contaminación visual o requieran de ser retirados por la autoridad municipal;
 
 VII. Cuando obstruyan la visibilidad de las placas de nomenclatura de las calles o la de cualquier señalamiento oficial; y,
 
@@ -6473,13 +6733,13 @@ VIII. Además de los casos previstos en el Código Territorial, cuando se preten
 
 a) Áreas no autorizadas para ello de acuerdo con los planos de zonas correspondientes;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-b) Pavimentos, banquetas, guarniciones, glorietas, unidades de alumbrado público, semáforos, señalización vial, kioscos, bancas, así como depósitos de basura, casetas, registros telefónicos, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, plazas cívicas, panteones, cementerios, pasos a desnivel, así como en parques urbanos, áreas verdes, unidades deportivas y cualquier otra instalación recreativa; y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano;
+b) Pavimentos, banquetas, guarniciones, glorietas, postes de alumbrado público y de la CFE, semáforos, señalización vial, kioscos, bancas, así como depósitos de basura, casetas, registros y postes telefónicos, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, plazas cívicas, panteones, cementerios, pasos a desnivel, así como en parques urbanos, áreas verdes, unidades deportivas y cualquier otra instalación recreativa; y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano, así como los supuestos marcados en el artículo 456 del presente código;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-c) En lugares ubicados a un radio de 200 metros, a partir del cruce de los ejes metropolitanos y de vialidades primarias, de acceso controlado, vías federales y vías de ferrocarril en uso;
+c) En lugares ubicados a un radio de 200 metros, a partir del cruce de intersecciones del sistema vial primario, vialidades de acceso controlado, vías federales y vías de ferrocarril en uso;
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -6491,25 +6751,33 @@ f) Una distancia menor de 150 metros, medidos en proyección horizontal, del lí
 
 g) Los lugares o partes que prohíba expresamente este Capítulo, zonas de restricción federal, estatal o municipal y otras disposiciones jurídicas aplicables;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-h) Sobre inmuebles que tengan frente o linden con los Malecones del Río de los Gómez y del Granizo en el tramo comprendido del Blvd. Juan Alonso de Torres hasta Blvd. Juan José Torres Landa;
+h) Sobre los inmuebles que tengan frente o linden con el malecón del Río de los Gómez y el Arroyo el Granizo, en el tramo comprendido del Blvd. Juan Alonso de Torres hasta Blvd. Juan José Torres Landa, con excepción de los anuncios adosados denominativos, los cuales deberán de cumplir con las disposiciones señaladas en la norma técnica NTM-LEÓN-DU-04-2018, relativa a las Especificaciones Técnicas de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-i) Sobre inmuebles que tengan frente o linden con el Blvd. Adolfo López Mateos en el tramo comprendido del Malecón del Río de los Gómez a Blvd. Paseo de los Insurgentes;
+i) Sobre los inmuebles que tengan frente o linden con el Blvd. Adolfo López Mateos en el tramo comprendido de la calle Mérida a Blvd. Paseo de los Insurgentes, excepto los anuncios adosados denominativos, los cuales deberán de cumplir con las disposiciones señaladas en la norma técnica NTM-LEÓN-DU-04-2018, relativa a las Especificaciones Técnicas de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico;
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 j) Lotes baldíos o predios subutilizados, o en un radio igual o menor a cincuenta metros, a partir del centro de cualquier glorieta, puente vehicular, paso a desnivel o distribuidor vial tratándose de anuncios espectaculares, pantallas electrónicas o carteleras a nivel de piso;
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-k) Postes, árboles, semáforos, así como en la señalización vial y demás mobiliario urbano para el caso de anuncios engomados; y
+k) Postes, árboles, semáforos, así como en la señalización vial y demás mobiliario urbano;
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 l) Sección transversal de las vialidades urbana, en la autorización de la instalación de anuncios.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+m) En muros de colindancias; y
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+n) En los muros ciegos laterales de las edificaciones.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6543,9 +6811,9 @@ II. Anuncios en marquesinas, con una dimensión de más de 3.60 metros de longit
 
 III. Anuncios que se ubiquen en azoteas, sin importar la dimensión de los mismos; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. Anuncios espectaculares autosoportados con una altura mayor a 2.10 metros del nivel de banqueta a su parte superior.
+IV. Anuncios espectaculares y autosoportados.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6563,23 +6831,29 @@ Cuando de conformidad con en el presente Código, no se requiera la responsiva d
 
 En el caso de que un anuncio forme parte de la construcción, deberá solicitarse el permiso de anuncio conjuntamente al permiso de construcción.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 427.
 
-Si en la instalación de un anuncio se requiera la ejecución de trabajos de construcción, se deberá obtener posterior al permiso de anuncio, el permiso de construcción especial en los términos del apartado de las construcciones del presente Código, anexando para ese efecto los planos constructivos y/o estructurales, además de la memoria estructural firmada por el especialista estructural registrado en la Dirección.
+Si en la instalación de un anuncio se requiere la ejecución de trabajos de construcción, podrá tramitarse de manera simultánea al permiso de anuncio, el permiso de construcción especial, observando los términos de la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones, y anexando para ello los planos constructivos y/o estructurales, además de la memoria estructural firmada por el perito registrado en la Dirección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 428.
 
 No se requiere permiso en los casos siguientes:
 
-I. Cuando los anuncios se encuentren en el interior de un edificio o local comercial, aún cuando se observen desde vía pública, siempre y cuando no se traten de autosoportados o de azotea o contravengan las disposiciones señaladas dentro de las Sección tercera y cuarto de éste Capítulo;
+I. Cuando los anuncios se encuentren en el interior de un edificio o local comercial que no sean observables desde vía pública, siempre y cuando no se traten de autosoportados o contravengan las disposiciones señaladas dentro de las (sic) Sección tercera y cuarto (sic) de éste Capítulo;
 
-II. Cuando se trate de anuncios en volantes, folletos o publicidad impresa, distribuida en forma directa; y,
+II. Cuando se trate de anuncios en volantes, folletos o publicidad impresa, distribuida en forma directa;
 
-III. Cuando se trate de anuncios de carácter cívico, social, cultural, ambiental, deportivo, artesanal, o de folklore nacional, que no contengan marca comercial alguna y la actividad o evento que promocionen no persiga fines de lucro; siempre y cuando sean promovidos por alguna autoridad, asociación civil o institución de asistencia social y que no se ubiquen en vía pública.
+III. Cuando se trate de anuncios de carácter cívico, social, cultural, ambiental, deportivo, artesanal, o de folklore nacional, que no contengan marca comercial alguna y la actividad o evento que promocionen no persiga fines de lucro; siempre y cuando sean promovidos por alguna autoridad, asociación civil o institución de asistencia social y que no se ubiquen en vía pública;
+
+IV. En el caso de la fracción anterior, cuando estos anuncios se pretendan instalar en la vía pública, la Dirección regulará su ubicación, distancias y medidas correspondientes, que para tales efectos serán las siguientes: conservar una distancia mínima de 250 metros lineales entre ellos y sus dimensiones no podrán ser mayores a 0.90 metros x 1.20 metros; y
+
+V. Solo se podrán instalar mantas o lonas en puentes peatonales ubicados en el Malecón del Rio de los Gómez, entre las vialidades Vicente Suárez y Simón Álvarez, el ubicado entre las calles Gutiérrez Nájera y Rosa de Castilla, así como el denominado La Puerta del Milenio, y sus dimensiones y forma deberán ser del tamaño del área de la estructura visible.
+
+El Ayuntamiento podrá otorgar autorizaciones a través de convenios y/o concesiones para la instalación de anuncios en puentes peatonales no considerados anteriormente.
 
 Los anuncios a que se refiere esta fracción, deberán ser retirados por su propietario dentro de los siete días hábiles posteriores al término de los eventos que promocionan. De no efectuarse el retiro correspondiente, éste se realizará por la Dirección y se aplicarán las sanciones previstas en este Código y las demás que resulten aplicables.
 
@@ -6673,7 +6947,9 @@ V. Proporcionar la Bitácora a la Dirección, cuando así se le solicite;
 
 VI. Identificar y supervisar la ejecución de acciones y medidas inmediatas que resulten necesarias para eliminar factores de riesgo a las personas y sus bienes, sus colindancias y la vía pública;
 
-VII. Responder de cualquier evento que se genere durante de la vigencia de una licencia, permiso o autorización, y hasta el retiro del anuncio respectivo; así como por violaciones a lo dispuesto por este ordenamiento relativas a su actuación irregular; y,
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VII. Responder de cualquier evento que se genere durante de (sic) la vigencia de una licencia, permiso o autorización, y hasta el retiro del anuncio respectivo; así como por violaciones a lo dispuesto por este ordenamiento relativas a su actuación irregular. En caso de algún daño al anuncio por eventos o efectos naturales como lluvias intensas, sismos, fuertes vientos u otros fenómenos naturales, el especialista estructural responsable deberá rendir a la Dirección un informe técnico del estado físico de la estructura del anuncio en un plazo no mayor de 3 días naturales, donde se establezcan las acciones a realizar para conservar las medidas de seguridad, en caso de ser procedentes; y,
 
 VIII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
 
@@ -6713,11 +6989,23 @@ I. Nombre, denominación o razón social de los interesados señalados en el art
 
 II. Ubicación del anuncio;
 
-III. Fecha de instalación y de retiro;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. Fecha y firma; y,
+III. Fecha de instalación y de retiro en el caso de anuncios temporales;
 
-V. Recibo que acredite el pago de los derechos respectivos.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IV. Fecha y firma;
+
+V. (DEROGADA, P.O. 9 DE ABRIL DE 2018); y,
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Diseño del anuncio indicando sus medidas.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Autorizado el anuncio, la Dirección emitirá el recibo de pago de derechos respectivo con base a la Ley de Ingresos para el ejercicio fiscal correspondiente y una vez pagado, el permiso será entregado al ciudadano.
 
 ###### Artículo 445.
 
@@ -6725,9 +7013,9 @@ Las solicitudes deberán hacerse acompañar de la documental siguiente:
 
 I.- Documento que acredite la personalidad y facultades del representante legal, cuando los interesados actúen a través de figura;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-II. Póliza global de seguro de responsabilidad civil y daños a terceros, únicamente tratándose de los anuncios que requieren de la responsiva de un especialista estructural, la cual debe estar vigente por igual tiempo al del permiso correspondiente, siendo responsable solidario el propietario y/o poseedor del inmueble donde se pretenda instalar el anuncio; y,
+II. Póliza global de seguro de responsabilidad civil y daños a terceros, así como la memoria de cálculo y proyecto estructural firmados por el especialista; únicamente tratándose de los anuncios que requieren de dicha responsiva de un especialista estructural, la cual debe estar vigente por igual tiempo al del permiso correspondiente, siendo responsable solidario el propietario del inmueble donde se pretenda instalar el anuncio; y,
 
 III.- La demás documental e información que para caso concreto señala el presente Código.
 
@@ -6741,11 +7029,11 @@ Para el caso de que el inmueble donde pretende instalarse el anuncio, esté en p
 
 El otorgamiento de los permisos previstos en el presente Título, causarán los derechos que anualmente fijen las tarifas establecidas en la Ley de Ingresos y las disposiciones administrativas, según sea el caso, para el ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 447.
 
-Cuando los particulares no cumplan con los requisitos que exige el presente Código para la expedición de los permisos, la Dirección requerirá al solicitante a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
+Cuando los particulares no cumplan con los requisitos que exige el presente Código para la expedición de los permisos, la Dirección requerirá al solicitante a fin de que, en un plazo de cinco días hábiles posteriores a su notificación, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6753,11 +7041,39 @@ Cuando los particulares no cumplan con los requisitos que exige el presente Cód
 
 Recibida la solicitud con la información y documentación completa, la Dirección, en un plazo de quince días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir los permisos correspondientes o, en su caso, contestar de manera negativa.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-###### Artículo 448 - A.
+###### Artículo 448-A.
 
-Cuando se soliciten anuncios adosados o autosoportados denominativos en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio.
+Cuando se soliciten anuncios adosados o autosoportados denominativos tipo directorio en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio, atendiendo lo siguiente:
+
+I. En el caso de locales comerciales y/o de servicios que en su conjunto se clasifiquen como de intensidad media o baja, se autorizara únicamente un tipo directorio, acatando las siguientes medidas:
+
+a) Se permitirá una cartelera con vista simple o doble por local montadas sobre la misma estructura. La suma de la superficie de exhibición de las carteleras no podrá ser mayor a los 20 metros cuadrados; y
+
+b) La altura máxima será de 11 metros sobre nivel de piso de banqueta a la parte superior de las carteleras.
+
+II. Para plazas o centros comerciales en los que la magnitud del proyecto lo clasifique como intensidad alta. Podrán autorizarse hasta dos anuncios tipo directorio o uno por cada frente del predio a la vía pública, atendiendo lo siguiente:
+
+a) La suma de la superficie de exhibición de las carteleras, no podrá ser mayor a los 90 metros cuadrados por lado; y
+
+b) La altura máxima de la estructura será de 18 metros sobre nivel de piso de banqueta a la parte superior de las carteleras.
+
+III. La construcción del inmueble deberá de cumplir con las disposiciones del Título de las Construcciones del presente Código, y la superficie de terreno no sea menor a 250 metros cuadrados;
+
+IV. El anuncio por ningún motivo podrá instalarse en zonas de restricción fijadas por la autoridad competente, así como en cajones de estacionamientos, circulaciones y accesos a inmuebles;
+
+V. Deberán respetar su plano virtual sin invadir físicamente la vía pública o los predios colindantes;
+
+VI. No se permitirá instalar este tipo de anuncios en zonas patrimoniales;
+
+VII. Contar con una distancia mínima de 50 metros radiales entre las estructuras de antenas de telecomunicaciones;
+
+VIII. En el caso de que en alguno o ambos predios colindantes al inmueble se encuentre un anuncio autosoportado, deberá de instalarse lo más alejado posible de éstos, encontrando el punto de equilibrio entre ambas estructuras siempre y cuando dicho punto quede comprendido dentro del predio al que corresponde el anuncio solicitado;
+
+IX. Sólo se podrán ubicar en predios con frente a ejes metropolitanos, vías primarias y secundarias dentro del centro de población; y
+
+X. En el caso de que el anuncio contenga pantalla electrónica, deberá de sujetarse a las demás disposiciones establecidas en el artículo 400 A del presente código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6781,7 +7097,15 @@ V. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 VI. Todos aquellos que se vayan a instalar en inmuebles considerados como monumentos o colindantes a monumentos o en la zona patrimonial, monumentos con valor arqueológico, artístico o histórico; y,
 
-VII. Pintados sobre la superficie de los muros ciegos laterales de las edificaciones que se contemplan, en los términos del artículo 398 de éste ordenamiento.
+VII. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VIII. Pantallas electrónicas; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IX. Adosados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6791,23 +7115,23 @@ La solicitud del permiso tipo A, deberá reunir los requisitos comunes previstos
 
 I. Representación gráfica que describa la forma, dimensiones y contenido del anuncio, así como las especificaciones técnicas y los materiales con los que estará construido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncio en marquesina, saliente volado o colgante la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará instalado el anuncio;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-II. Copia del permiso de construcción correspondiente para los casos previstos en el Artículo 427 de este Capítulo;
+II. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 III. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-IV. En caso de no ser propietario original y copia simple del contrato vigente correspondiente para cotejo;
+IV. En caso de no ser propietario, copia simple del contrato de comodato y/o arrendamiento vigente correspondiente;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-V. Memoria de cálculo estructural; con excepción de anuncios en muros de colindancia, ya que el especialista, deberá firmar una carta responsiva que especifique, el programa y revisión del mantenimiento y buen estado de la estructura;
+V. Memoria de cálculo estructural, con excepción de los anuncios adosados con una dimensión menor de 3.60 metros de longitud por 90 centímetros de altura cuyo peso sea mayor de 50 kilogramos; así como los anuncios autosoportados menores a 2.10 metros de alto; ya que el especialista, deberá firmar una carta responsiva que especifique, el programa y revisión del mantenimiento y buen estado de la estructura;
 
 VI. Autorización escrita del o los propietarios del o los inmuebles, tratándose de anuncios de proyección óptica; y,
 
-VII. Copia de la autorización del INAH o del INBA, en su caso.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VII. Copia del permiso por parte de la autoridad federal competente, tratándose de inmuebles catalogados.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6845,7 +7169,7 @@ III. Dar aviso por escrito a las autoridades correspondientes de la terminación
 
 Se requiere obtener de la Dirección el permiso tipo B para fijar, instalar, o modificar los siguientes anuncios:
 
-I. Adosados;
+I. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 II. Pintados;
 
@@ -6857,17 +7181,15 @@ V. En objetos inflables;
 
 VI. En salientes;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-VII. Espectaculares autosoportados; y,
+VII. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 VIII. En marquesinas.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 454.
 
-La solicitud del permiso tipo B, deberá reunir además de los requisitos y documentación prevista en los artículos 444 y 445 de este Código, la información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará construido, incluyendo los datos de altura sobre el nivel de la banqueta, y para el caso de anuncios en colgantes, volados o en salientes, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará ubicado el anuncio.
+La solicitud del permiso tipo B, deberá reunir además de los requisitos y documentación prevista en los artículos 444 y 445 fracciones I y II de este Código, la información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará construido, incluyendo los datos de altura sobre el nivel de la banqueta, y para el caso de anuncios en colgantes, volados o en salientes, la saliente máxima desde el paramento de la construcción en la que quedará ubicado el anuncio, respetando el paramento del predio, sin invadir el espacio virtual de la vía pública.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6881,33 +7203,37 @@ La revalidación debe solicitarse dentro de los 15 días hábiles previos a la c
 
 #### SECCIÓN SEXTA. DE LOS PERMISOS TIPO C
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 456.
 
-Cuando algún particular, autoridad, asociación civil o institución de asistencia social pretenda instalar en la vía pública anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal y folklore nacional se requerirá del permiso tipo C de la Dirección, debiendo observar lo siguiente:
+Cuando alguna autoridad, asociación civil o institución de asistencia social pretenda instalar anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal y folklore nacional se requerirá del permiso tipo C de la Dirección, debiendo observar lo siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 I. Anuncios en mantas, banderolas o pendones de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de sesenta días naturales;
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 II. En marquesinas, adosados e integrados cuyas dimensiones no excedan de 1.80 metros de longitud y una altura de 90 centímetros;
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 III. Solo se permitirá la colocación de un anuncio perpendicular a la pared de la fachada, respetando las dimensiones máximas de 60 centímetros de saliente por 1.20 metros de altura, hasta 40 centímetros de espesor y la colocación del anuncio debe tener 2.50 metros libres entre el nivel inferior del anuncio y el nivel de banqueta, siempre y cuando no se invadan ni obstruyan los predios colindantes; y,
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
 IV. El logotipo del patrocinador en su caso, no podrá ocupar superficie mayor al 5 por ciento del anuncio.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Se prohíben anuncios en postes de infraestructura pública de servicios de energía eléctrica y telefonía, a excepción de los de alumbrado público propiedad municipal.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 457.
 
-La solicitud del permiso tipo C, deberá reunir además de los requisitos y documentación prevista en los artículos 444 y 445 de este Código, la información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará constituido.
+La solicitud del permiso tipo C, deberá reunir además de los requisitos y documentación prevista en los artículos 444 y 445 fracciones I y II de este Código, la información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará constituido y en el caso en el que se pretendan instalar en vía pública, presentar un listado indicando las vialidades de su interés.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -6953,15 +7279,15 @@ II.- El pago de los gastos y multas que se determinen por la autoridad municipal
 
 II.- El retiro de anuncios, o en su caso el pago de los gastos que en su caso haya cubierto el Municipio a cargo del infractor con dicho motivo.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO X. DE LOS ANEXOS TÉCNICOS
+### CAPÍTULO X. DE LAS ESPECIFICACIONES TÉCNICAS
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-###### Artículo 461 - A.
+###### Artículo 461-A.
 
-Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de anuncios, se conforma el ANEXO 7 relativo al Manual Técnico de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico, el cual forma parte integrante de este ordenamiento.
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria obligatoria a la normativa de anuncios, se deberá atender lo establecido en la norma técnica NTM-LEÓN-04-2018, en materia de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio.
 
 ## TÍTULO SEXTO. DE LA NOMENCLATURA Y NUMERACIÓN OFICIAL
 
@@ -7333,11 +7659,11 @@ El Procedimiento Administrativo se instaurará, substanciará y resolverá bajo 
 
 ### CAPÍTULO II. DE LA DENUNCIA POPULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Artículo 514.
 
-La denuncia popular es el instrumento jurídico por medio del cual toda persona debe hacer del conocimiento de la autoridad, las acciones u omisiones que pudieran constituir violaciones al presente ordenamiento, al Manual Técnico de Usos del Suelo, Manual Técnico de las Construcciones, así como a los diversos programas en materia del desarrollo urbano del Municipio.
+La denuncia popular es el instrumento jurídico por medio del cual toda persona debe hacer del conocimiento de la autoridad, las acciones u omisiones que pudieran constituir violaciones al presente ordenamiento, al Manual Técnico de Usos del suelo, norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones, así como a los diversos programas en materia del (sic) desarrollo urbano del Municipio.
 
 La denuncia popular deberá presentarse ante las autoridades competentes o auxiliares de este Código, ello atendiendo a la materia que a cada una de ellas les corresponde conocer, de conformidad con la distribución de competencias previstas en el presente ordenamiento.
 
@@ -7487,7 +7813,9 @@ La Dirección en materia de zonificación, usos y destinos del suelo podrá decr
 
 I. Clausura temporal, total o parcial, de las instalaciones, de los predios y de los servicios;
 
-II. Suspensión temporal o definitiva, total o parcial, de las instalaciones, de los predios y de los servicios; y,
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. Suspensión temporal, total o parcial, de las instalaciones, de los predios y de los servicios; y
 
 III. Las demás que se encuentren previstas en el Código del Procedimiento Administrativo.
 
@@ -7597,7 +7925,9 @@ La Dirección en materia de construcciones, podrá decretar las medidas de segur
 
 I. La suspensión total o parcial de la construcción, instalación, explotación, obras, trabajos, servicios o actividades;
 
-II. La clausura temporal o definitiva, total o parcial, de instalaciones, construcciones, obras y servicios;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. La clausura temporal, total o parcial, de instalaciones, construcciones, obras y servicios;
 
 III. El retiro de instalaciones, materiales, mobiliario o equipo;
 
@@ -7807,9 +8137,11 @@ V. El arresto hasta por 36 horas.
 
 VI. Las demás conductas establecidas en el Código Territorial y en el Código del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### Artículo 562.
 
-En caso de reincidencia, el monto de la multa podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, así como la clausura definitiva.
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, así como la clausura temporal o definitiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -8179,19 +8511,27 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94; P.O. 11 DE AGOSTO DE 2015, PÁGINAS DE LA 101 A LA 102; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 140 A 144;</small>
+> <small>[N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94; P.O. 11 DE AGOSTO DE 2015, PÁGINAS DE LA 101 A LA 102; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 140 A 144; P.O. 9 DE ABRIL DE 2018, PÁGINAS 44 A 63.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147; P.O. 6 DE OCTUBRE DE 2015, PÁGINA 144;</small>
+> <small>[N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147; P.O. 6 DE OCTUBRE DE 2015, PÁGINA 144; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 7.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74; P.O. 6 DE MAYO DE 2014, PÁGINAS 147 A LA 148; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 144 Y 145;</small>
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL DE LEÓN NTM-LEON-DU-01-2018, COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO RELATIVA A LOS GIROS RELACIONADOS CON EL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 9 DE ABRIL DE 2018, PÁGINAS 64 A 286.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149; P.O. 16 DE ENERO DE 2015, PÁGINAS 94 A LA 95.</small>
+> <small>[N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74; P.O. 6 DE MAYO DE 2014, PÁGINAS 147 A LA 148; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 144 Y 145; ELIMINADA POR TRANSITORIO ARTÍCULO CUARTO, P.O. 9 DE ABRIL DE 2018, PÁGINA 347.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 145 Y 146;</small>
+> <small>[N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149; P.O. 16 DE ENERO DE 2015, PÁGINAS 94 A LA 95; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 7.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 151 A LA 155.</small>
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-02-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA AL REQUERIMIENTO DE CAJONES DE ESTACIONAMIENTO EN EL MUNICIPIO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 287 A 296.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156; P.O. 16 DE ENERO DE 2015, PÁGINA 95.</small>
+> <small>[N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 145 Y 146; ELIMINADA POR TRANSITORIO ARTÍCULO CUARTO, P.O. 9 DE ABRIL DE 2018, PÁGINA 347.]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 151 A LA 155; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 7.]</small>
+
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-03-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO RELATIVA (SIC) LAS ESPECIFICACIONES TÉCNICAS DE LAS CONSTRUCCIONES, P.O. 9 DE ABRIL DE 2018, PÁGINAS 297 A 316.]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87; P.O. 6 DE MAYO DE 2014, PÁGINAS 155 A LA 156; P.O. 16 DE ENERO DE 2015, PÁGINA 95; DEROGADA, P.O. 9 DE ABRIL DE 2018, PÁGINA 8.]</small>
+
+> <small>[N. DE E. VÉASE NORMA TÉCNICA MUNICIPAL NTM-LEON-DU-04-2018 COMPLEMENTARIA DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, RELATIVA A LAS ESPECIFICACIONES TÉCNICAS DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO, P.O. 9 DE ABRIL DE 2018, PÁGINAS 317 A 347.]</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -8443,7 +8783,21 @@ P.O. 27 DE ENERO DE 2017.
 
 Único. Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 374.- SE ADICIONA EL ARTÍCULO 38 BIS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL H. AYUNTAMIENTO DE LEÓN, GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, ASÍ COMO DE SU ANEXO DENOMINADO: MANUAL TÉCNICO DE USOS DEL SUELO”.]
+
+PRIMERO: Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO: Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
+
+TERCERO: Las Normas Técnicas Municipales NTM-LEON-DU-01-2018, NTM-LEON-DU-02-2018, NTM-LEON-DU-03-2018 y NTM-LEON-DU-04-2018, que se aprueban con las presentes reformas, adiciones y derogaciones, sustituyen a los manuales técnicos números 2, 4, 6 y 7 complementarias del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato.
+
+CUARTO: Para el caso de los manuales técnicos números 3 y 5, identificados como “Tabla de Compatibilidades” y “Tabla de Normas para las Zonas y Tabla de Normas para Usos sujetos a la clasificación de la vialidad”, se eliminan del presente código, integrándose como parte del Manual Técnico de Usos del Suelo a través de la Tabla 1 denominada “La Tabla de Compatibilidades, Condicionamientos Sujetos a la Clasificación de la Vialidad, Condicionamientos para las Zonas y Restricciones de los Grupos de Usos”.
+
+QUINTO: Se otorga el plazo de 180 días naturales siguientes a la publicación de las presentes reformas, adiciones y derogaciones, para que la Dirección General de Movilidad, realice las modificaciones jurídicas y administrativas que resulten necesarias para que pueda emitir la Autorización de Impacto Vial.
+
+SEXTO. Se derogan todas aquellas disposiciones, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 417.- SE REFORMA EL ARTÍCULO 164, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
