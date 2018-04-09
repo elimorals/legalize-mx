@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2018-03-26"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -171,9 +171,9 @@ XLVI.- Proyecto de Presupuesto de Egresos del Estado: Es el documento que envía
 
 XLVII.- Proyecto de Presupuesto de Egresos del Municipio: Es el documento que envía el Tesorero Municipal al Ayuntamiento para su aprobación y tiene como propósito estimar los costos durante el período de un año las acciones, obras y servicios públicos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-XLVIII.- Proyectos de Prestación de Servicios: Modalidad de colaboración de Asociación Público Privada mediante contratos a largo plazo, los cuales tienen por objeto que un inversionista proveedor le preste servicios a la autoridad contratante o al usuario final mediante la realización de cualquiera de las siguientes actividades: financiamiento; diseño y construcción; equipamiento; operación, mantenimiento y conservación de infraestructura; lo anterior, en los términos que prevé la Ley de Asociaciones Público Privadas y Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, en materia federal y estatal, respectivamente;
+XLVIII.- Proyectos de Prestación de Servicios y/o Asociaciones Público-Privadas: a las que se refiere la Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes;
 
 XLIX.- Proyectos de Presupuesto de Egresos: Los que elaboren los Poderes Legislativo y Judicial, así como los órganos Autónomos, que se envían al Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado;
 
@@ -1328,3 +1328,19 @@ P.O. 26 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 261- SE REFORMAN LA DENOMINACIÓN DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES PARA QUEDAR COMO LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la fecha de entrada en vigor del presente Decreto, todas la menciones a la Ley de Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, previstas en otras legislaciones, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Asociaciones Público- Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes.
