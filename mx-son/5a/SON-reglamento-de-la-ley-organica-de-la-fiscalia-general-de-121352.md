@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-fiscalia-general-de-121352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-02"
-last_updated: "2017-12-21"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el martes 2 de mayo de 2017.
 
@@ -1238,6 +1238,10 @@ VI. Para los casos del Sistema Penal Acusatorio; interponer los recursos de apel
 VII. Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
 Las anteriores atribuciones las podrá ejercer directamente el Vicefiscal de Control de Procesos.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 63 BIS. Para el eficaz desempeño de las atribuciones del Fiscal General, y sin perjuicio de su ejercicio directo por parte del mismo; delega íntegramente y para los delitos de procedencia a los que se refieren los artículos 187, 188, 189 y 190 del Código Nacional de Procedimientos Penales, de conformidad con la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en materia penal y la legislación local e Internacional aplicable; en el Sistema de Justicia Penal Acusatorio, en el titular de la Dirección General de Control de Procesos; la autorización de la determinación del no ejercicio de la acción Penal, a que se refiere únicamente a los artículos 255, 327 fracción VI y 485 fracción X del propio Código Nacional de Procedimientos Penales, y no a las que guardan prisión preventiva oficiosa, establecida en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, respecto de la SOLUCIÓN ALTERNA CORRESPONDIENTE; para las Carpetas de Investigación desarrolladas en esta Fiscalía General; para lo cual dentro del término de quince días, oyendo el parecer de sus Agentes del Ministerio Público, autorice en definitiva si debe o no ejercitarse la acción Penal.
 
 ### CAPÍTULO XV
 
@@ -2720,3 +2724,11 @@ B.O. 21 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 132 BIS DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
 
 PRIMERO (SIC).- El presente Acuerdo entrará en vigor al día siguiente de su expedición, independientemente de la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 63 BIS, DEL REGLAMENTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su expedición, independientemente de la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las Carpetas de Investigación que correspondan y que actualmente se encuentren en trámite en la Fiscalía General, se resolverán conforme a las disposiciones en el presente Acuerdo.
