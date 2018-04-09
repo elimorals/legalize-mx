@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2017-08-03"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -7223,17 +7223,21 @@ Si acepta, deberá caucionar su manejo con sujeción a lo dispuesto en los artí
 
 El juez competente para conocer de un juicio sucesorio lo será también, con exclusión de cualquier otro juez, para conocer de todas las cuestiones que puedan surgir con ocasión de la muerte del autor de la herencia, impugnación y nulidad de testamento y los demás mencionados al señalar las reglas generales de competencia, y también lo será para conocer de las reclamaciones posteriores a la radicación de la sucesión, contra el patrimonio de la misma.
 
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Art. 768.
 
 Las sucesiones podrán tramitarse ante Notario Público siempre y cuando se cumplan los siguientes requisitos:
 
-I.- Cuando todos los herederos fueren mayores de edad;
+I.- Que todos los herederos o legatarios gocen de capacidad de ejercicio;
 
-II.- Que lo soliciten todos; y
+II.- Que sea solicitado por todos los herederos o legatarios; y
 
-III.- Que no exista controversia alguna.
+III.- Que no exista controversia.
+
+En cualquier momento, antes de concluido el procedimiento, a solicitud de cualquier interesado, cesara la tramitación extrajudicial. Lo mismo se observará de suscitarse oposición o controversia.
+
+La tramitación ante Notario se hará del conocimiento del fisco y se verificará de acuerdo a lo que dispone el capítulo respectivo.
 
 ###### Art. 769.
 
@@ -7807,37 +7811,63 @@ VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de i
 
 De la tramitación ante Notarios.
 
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Art. 829.
 
-Cuando todos los herederos fueren mayores de edad, y acuerden por unanimidad realizar el trámite de la sucesión ante notario público, podrán acudir ante el notario público de su elección, acompañando los siguientes documentos:
+Cuando todos los herederos o legatarios comparezcan ante Notario deberán acompañar los siguientes documentos:
 
-a) Si hubiese testamento, acompañarán un testimonio del mismo, manifestando que aceptan la herencia, que se reconocen sus derechos hereditarios y que el albacea procederá a formar el inventario de los bienes de la herencia. Al efecto, deberán acompañar copia certificada del acta de defunción.
+I.- Tratándose de sucesión testamentaria
 
-b) Si no hubiese testamento, exhibirán el escrito a que se refiere el artículo 756 y acompañarán los documentos previstos en el artículo 757, con excepción del testamento a que se refiere la fracción II del mismo dispositivo.
+a).- Si hubiere testamento público abierto un testimonio del mismo.
 
-Si no hubiere albacea testamentario, los herederos podrán designarlo de común acuerdo en la misma acta.
+b).- Copia certificada del acta de defunción del autor de la sucesión.
 
-El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez días en diez días en el periódico oficial y en otro de los de mayor circulación en el Estado.
+c).- Manifestación expresa de que todos los herederos o legatarios reconocen la validez del testamento, aceptan la herencia o el legado y que el albacea designado por el testador o por los herederos, protesta su fiel y legal desempeño, que cauciona su manejo conforme a las bases acordadas con los herederos o estar exento de ello y manifestará que procederá a formular el inventario del caudal hereditario.
+
+d).- El notario procederá a protocolizar los documentos enunciados en el párrafo anterior y procederá a comunicarlo por medio de dos publicaciones que se harán con intervalos de diez días en el boletín oficial del gobierno del Estado y en el periódico de mayor circulación de la demarcación notarial del conocimiento.
+
+e).- En el mismo escrito podrán los comparecientes hacer constar la renuncia, cesión o repudio de derechos que haga alguno de los herederos o legatarios.
+
+f).- En la misma publicación, el notario citara a la junta de herederos fijando para ello el día y hora en que habrá de celebrarse.
+
+II.- Si no hubiere testamento los presuntos herederos del autor de la sucesión exhibirán el documento al que se refiere el artículo 756 del Código de Procedimientos Civiles y acompañaran las copias certificadas del Estado Civil que justifiquen su entroncamiento con aquel y declararan bajo protesta de decir verdad que:
+
+a).- Que no tienen conocimiento de la existencia de otros presuntos herederos diversos de los promoventes y acompañaran los documentos a que se refiere el artículo 757, a excepción del testimonio del testamento; los comparecientes se reconocerán recíprocamente su calidad de herederos y designaran de común acuerdo albacea.
+
+b).- El procedimiento sucesorio intestamentario se tramitara en la demarcación notarial donde hubiere tenido su domicilio el autor de la sucesión o en el cual se encuentren ubicados bienes inmuebles que integren el acervo hereditario.
+
+Las publicaciones a que se refiere el inciso d) de la fracción primera, consignaran el hecho de haberse iniciado el procedimiento sucesorio intestamentario con indicación del nombre del autor de la sucesión; el nombre de los comparecientes y la expresión del parentesco habido, el nombre del albacea; el nombre, número y demarcación notarial del notario actuante.
+
+En los procedimientos de sucesión intestamentaria ante notario público, la junta de herederos se celebrará en los términos del artículo 789 con la excepción de que no habrá intervención del ministerio público.
+
+En caso de discordia entre los herederos, el notario deberá excusarse del conocimiento y remitirá lo actuado al juez de primera instancia competente.
+
+III.- El notario ante quien se tramiten los juicios sucesorios testamentarios o intestamentarios estarán facultados para recibir las pruebas que acrediten los diversos nombres utilizados por el autor de la sucesión o por los herederos o legatarios.
 
 ###### Art. 830.
 
-La tramitación de intestados ante Notario no podrá iniciarse si no hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, que lo pidan de común acuerdo y que no exista controversia alguna.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 ###### Art. 831.
 
-La tramitación ante Notario se hará del conocimiento del representante del Fisco para que tenga la intervención que le concede la ley.
+(DEROGADO, P.O. 9 DE ABRIL DE 2018)
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Art. 832.
 
-Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en la Ley de Hacienda del Estado y en la Ley Federal del Impuesto Sobre Herencias y Legados.
+Ya se trate de testamentarias o de intestados, practicado el inventario por el albacea y estando conformes con el mismo todos los herederos o legatarios lo presentaran al notario para su protocolización y se acompañaran los documentos que acrediten la titularidad de los bienes inventariados y avaluó de cada uno de los que formen el caudal hereditario.
 
-Los interesados, de común acuerdo, podrán practicar un avalúo distinto para los efectos de la partición.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### Art. 833.
 
-Formado por el albacea, con la aprobación de los herederos, el proyecto de partición de la herencia, lo exhibirán al Notario, quien efectuará su protocolización. Lo dispuesto en este artículo es aplicable tanto a las testamentarías como a los juicios de intestado. El albacea rendirá cuentas a los herederos, haciéndose constar en el acta respectiva el resultado de las mismas, o mandándose éstas protocolizar.
+El albacea deberá presentar el documento en donde haga rendición de cuentas de su administración como tal el cual deberá ser aprobado por los herederos o legatarios; de igual manera, en el mismo instrumento presentara el proyecto de partición conforme al cual deberán ser adjudicados a los herederos o legatarios los bienes que a cada uno le hubieren sido adjudicados.
+
+El notario procederá a la protocolización de las secciones III de Administración y IV de Partición y Adjudicación y el testimonio que se expida deberá integrarse con todas las actuaciones notariales relacionadas.
+
+Lo dispuesto en este artículo es aplicable tanto a las testamentarias como a los intestados tramitados ante notario.
 
 ###### Art. 834.
 
@@ -8800,3 +8830,19 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 205, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos sucesorios que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
