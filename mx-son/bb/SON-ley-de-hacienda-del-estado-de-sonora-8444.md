@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2018-03-08"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -63,27 +63,19 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ## TITULO SEGUNDO. De los Impuestos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Primero. Del Impuesto a los Servicios de Hospedaje
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
 #### Sección Primera. Del Impuesto por la Prestación de Servicios de Hospedaje
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
 Es objeto de este impuesto la prestación de servicios de hospedaje en el Estado de Sonora.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -92,8 +84,6 @@ Para los efectos de este impuesto, se considerarán servicios de hospedaje, la p
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
 Los contribuyentes realizarán el traslado del impuesto a las personas a quienes se preste el servicio de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas del monto equivalente al impuesto establecido en este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -105,8 +95,6 @@ Los contribuyentes realizarán el traslado del impuesto a las personas a quienes
 
 Son sujetos del Impuesto por la prestación de servicios de hospedaje las personas físicas y morales que presten servicios de hospedaje, en cualesquiera de sus modalidades, en el Estado de Sonora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
@@ -115,27 +103,19 @@ El impuesto a que se refiere este Capítulo se causará al momento que se percib
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido y en su caso, la administración por un tercero en cualquier forma, será base del impuesto, el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 En el supuesto de la administración por un tercero, persona física o moral al inscribirse en el Registro Estatal de Contribuyentes deberán presentar la documentación respectiva en ese momento y en posteriores e informar a la Autoridad Fiscal la baja del documento que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 8.
 
 La tasa del impuesto será del 2% sobre el valor de las contraprestaciones que los contribuyentes perciban por los servicios de hospedaje.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -145,15 +125,11 @@ El impuesto a que se refiere el presente Capítulo se calculará por mes de cale
 
 El caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes, por los que se presentará una sola declaración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 Tratándose de la administración por un tercero bajo cualquier modalidad o de los servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido, deberá presentar la declaración a que se refiere este artículo e informar al reverso de la misma los datos de sus contratantes.
 
 Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al Registro Estatal de Contribuyentes o de suspensión temporal de actividades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -165,15 +141,11 @@ Un 90% de los recursos recaudados serán aportados a los fideicomisos que operan
 
 El 10% restante, será utilizado por el Estado en áreas de administración, cumplimiento de obligaciones y fiscalización del Impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
 Dentro de los 10 días naturales de cada mes, el Gobierno del Estado aportará el 90% del total de los recursos recaudados por este Impuesto en el mes inmediato anterior, al Fideicomiso que corresponda según lo dispuesto en el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -188,8 +160,6 @@ El Comité Técnico del Fideicomiso determinará y autorizará los importes, acc
 La cuenta pública estatal correspondiente, deberá reflejar la aplicación que se haga de lo recaudado por este concepto en los términos del presente capitulo, tomando como base los fines del Impuesto.
 
 El Fideicomiso presentará al Instituto Superior de Auditoría y Fiscalización, a más tardar el tercer lunes del mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos aportados por el Gobierno del Estado durante el año inmediato anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1429,8 +1399,6 @@ Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del 
 
 Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de operaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Quinto. Del Impuesto Sobre Capitales
@@ -1491,8 +1459,6 @@ d).- El donatario en la donación.
 
 En tratándose de la Fracción II inciso a) del artículo anterior, la exención que goce en el pago del Impuesto uno de los sujetos, no beneficia al otro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 188.
@@ -1509,13 +1475,9 @@ II.- Para vehículos de propulsión mecánica:
 
 a).- El 80% del valor total del vehículo de la primera facturación, para vehículos cuyo modelo corresponda al año de aplicación de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 b).- Tratándose de vehículos que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor de compra que se determine en base a la guía EBC que es la guía oficial de información para comerciantes en automóviles y aseguradoras en nuestro país sobre precios de vehículos usados del mes de noviembre del año anterior al de aplicación de la Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1869,31 +1831,21 @@ Apartado 2
 
 Otros Vehículos Nuevos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 212-G.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 212
 
 G 1.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 212
 
 G 2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 212
 
 G 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 212
 
@@ -1902,8 +1854,6 @@ G 4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 ###### Artículo 212
 
 G 5.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -1919,19 +1869,13 @@ G 6.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 G 7.- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 212
 
 G 8.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 212
 
 G 9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 212
 
@@ -1977,8 +1921,6 @@ Apartado 1
 
 Del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-H.
@@ -1988,8 +1930,6 @@ Es objeto de este Impuesto la obtención de ingresos por premios derivados de lo
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 No se considerarán como ingresos por premios el reintegro correspondiente al comprobante que permitió participar en el evento de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -2016,8 +1956,6 @@ Artículo 212 L.- Este impuesto se causa en el momento en que los ingresos por p
 Apartado 2
 
 Del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -2049,8 +1987,6 @@ Los pagos del Impuesto Sobre Loterías, Rifas o Sorteos efectuados en los térmi
 
 M BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 212-M de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
@@ -2059,7 +1995,7 @@ M BIS 1.- Será base de este Impuesto:
 
 I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
-Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -2119,8 +2055,6 @@ III.- Retener el Impuesto Estatal Sobre los Ingresos Derivados por la Obtención
 
 IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 212
@@ -2130,8 +2064,6 @@ IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se le
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
 #### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2269,13 +2201,9 @@ El presente estímulo será otorgado de conformidad con los lineamientos que al 
 
 La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de la aportación expedido a nombre del contribuyente, al rendir la declaración correspondiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría de Hacienda otorgará anualmente este beneficio del 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2699,8 +2627,6 @@ V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita d
 
 VI.- Cuando de las revisiones hechas a sus declaraciones, se encuentren omisiones superiores a un 3% de lo declarado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo Séptimo. Del Impuesto para el Sostenimiento de las Universidades de Sonora
@@ -2724,8 +2650,6 @@ Es base del impuesto:
 I.- En la situación prevista en la fracción I del Artículo 246, el monto total; y
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2763,13 +2687,9 @@ VIII.- Impuesto a la prestación de servicios bajo la Dirección y dependencia d
 
 IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189, último párrafo de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298, fracción I de esta Ley, que realicen las personas adultas de 60 años o más edad, las que tengan el carácter de pensionados o jubilados o las que prestan sus servicios como socorristas de Cruz Roja Mexicana I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 X.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3153,15 +3073,11 @@ b).- Harina de trigo $1.20 Por tonelada
 
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 291.
 
 No causará la contribución a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3177,21 +3093,15 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 Toda la recaudación que por concepto de ésta contribución se obtenga en cada municipio, será para beneficio exclusivo y único de la Junta de Progreso y Bienestar, donde se genere el gravamen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 292 Bis.
 
 Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear y mantener infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3207,19 +3117,13 @@ II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 292 BIS-2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear y mantener infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -3235,8 +3139,6 @@ b) Por revalidación de placas de circulación.
 
 c) Por expedición de licencias de conducir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 292 Bis
@@ -3244,8 +3146,6 @@ c) Por expedición de licencias de conducir.
 4.- No causará la cuota adicional a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
 
 Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -3872,8 +3772,6 @@ Hasta 2,000 10,417.00
 4001 - 6,000 20,834.00
 
 6001 - 10,000 26,042.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -5361,9 +5259,9 @@ I.- Por las inscripciones de:
 
 3.2.- Con la entrega de copia al interesado. $75.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
 
-3.3.- Realizadas fuera del horario establecido para las guardias $755.00
+3.3.- Realizadas fuera del horario establecido para las guardias $300.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -7414,3 +7312,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Hacienda deberá llevar a cabo los convenios correspondientes con los ayuntamientos, organismos, patronatos o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciban los recursos a que se refiere este decreto, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+B.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 207, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA Y LA LEY DE HACIENDA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su publicación (sic) el Boletín Oficial del Gobierno del Estado de Sonora.
