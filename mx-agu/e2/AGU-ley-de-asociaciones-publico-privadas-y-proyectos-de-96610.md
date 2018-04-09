@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2017-07-03"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
+LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -41,21 +41,23 @@ Decreto Número 389
 
 Se expide la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, para quedar como sigue:
 
-LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)</small>
+
+LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público e interés general, y tiene por objeto regular las acciones relativas a la planeación, aprobación, autorización, presupuestación, adjudicación, y ejecución de aquellos Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas a que se refiere la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes que realicen las siguientes autoridades contratantes:
+La presente Ley es de orden público e interés general, y tiene por objeto regular las acciones relativas a la planeación, aprobación, autorización, presupuestación, adjudicación, ejecución, supervisión, vigilancia transparencia y rendición de cuentas de aquellas Asociaciones Público-Privadas o Proyectos de Prestación de Servicios a que se refiere la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes que realicen las autoridades contratantes del ámbito estatal o municipal con cargo a su presupuesto.
 
-I. El Poder Ejecutivo a través de sus dependencias, o entidades paraestatales de la Administración Pública Estatal; y
+I. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
-II. Los Municipios, sus dependencias o entidades paramunicipales; (sic)
+II. (DEROGADA, P.O. 9 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 2º.
 
@@ -63,57 +65,101 @@ Para los efectos de esta Ley, se entenderá por:
 
 a) Administrador del Proyecto: Servidor público designado por el titular de la autoridad contratante, cuya responsabilidad será coadyuvar en el desarrollo del Proyecto;
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-b) Análisis costo-beneficio: Estudio que deberá mostrar que el Proyecto genera beneficios, iguales o mayores a los que se obtendrían en caso de que los servicios fueran proporcionados mediante la realización de un proyecto de inversión bajo el esquema de obra pública tradicional, incluyendo un análisis de transferencia de riesgos al sector privado;
+b) Análisis costo-beneficio: Estudio que deberá demostrar que el Proyecto genera beneficios, iguales o mayores a los que se obtendrían en caso de que los servicios fueran proporcionados mediante la realización de un proyecto de inversión bajo el esquema de obra pública tradicional o cualquier otro;
 
-c) Comisión: Cuerpo Colegiado regulado por la Ley y su Reglamento, para la aprobación de los Proyectos presentados por la autoridad contratante;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-d) Congreso: H. Congreso del Estado Libre y Soberano de Aguascalientes;
+c) Asociación público privada: es aquella que se realiza con cualquier esquema para establecer una relación contractual de largo plazo, entre instancias del sector público y del sector privado, para la prestación de servicios al sector público, mayoristas, intermediarios o al usuario final y en los que se utilice infraestructura proporcionada total o parcialmente por el sector privado con objetivos que aumenten el bienestar social y los niveles de inversión en el Estado;
 
-e) Contraloría Municipal: Unidad administrativa regulada por la Ley Municipal para el Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-f) Contrato: Instrumento jurídico a través del cual se formaliza la realización de un Proyecto celebrado entre la autoridad contratante y el Inversionista Proveedor, en virtud del cual la autoridad compromete Pagos Plurianuales, con la obligación a cargo del Inversionista Proveedor de ejecutar a largo plazo, alguno o todos los servicios, así como de las actividades señalados en el Artículo 5º de la Ley;
+d) Autoridad Estatal o Municipal Contratante: El Poder Ejecutivo mediante cualquiera de sus dependencias, o entidades paraestatales de la Administración Pública Estatal o Los Municipios, a través de sus dependencias o entidades paramunicipales; en su calidad de ejecutores del gasto que se señalan en el Artículo 3° Fracción XV de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
-g) Garantía de Pago: El otorgamiento por las autoridades contratantes de cualquier ingreso susceptible de afectación como garantía o fuente de pago para dar cumplimiento a los Pagos Plurianuales derivados de los Contratos. Asimismo, el Poder Ejecutivo o los Municipios podrán afectar sus ingresos para el cumplimiento de los Pagos Plurianuales contraídos por las entidades paraestatales o paramunicipales señaladas en el Artículo 1º de la Ley;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-h) Gobierno del Estado: Gobierno del Estado de Aguascalientes;
+e) Comisión: Cuerpo Colegiado regulado por la Ley y su Reglamento, para la aprobación de los Proyectos presentados por la autoridad contratante;
 
-i) Inversionista Prestador: Personas físicas o morales que celebren un Contrato con la autoridad contratante en términos de la Ley;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-j) Ley: La presente Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes;
+f) Congreso: El Congreso del Estado de Aguascalientes;
 
-k) Ley Patrimonial: Ley Patrimonial del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-l) Pagos Plurianuales: Los autorizados por el Congreso para dar cumplimiento a las obligaciones de pago para la ejecución del Proyecto, con cargo a las erogaciones anuales que deberán preverse en los Presupuestos de Egresos que aprueben el Congreso o los Ayuntamientos, durante los ejercicios fiscales por la vigencia del Contrato;
+g) Contraloría: La Contraloría del Estado;
 
-m) Partida Plurianual: El rubro autorizado por el Congreso para cada Proyecto, que deberá incluirse en los Presupuestos de Egresos aprobados por el Congreso o los Ayuntamientos, con cargo al cual se aplicarán los Pagos Plurianuales. La Partida deberá señalar el nombre del Proyecto, la autoridad contratante y el número de licitación;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+h) Contraloría Municipal u Órgano Interno de Control: Unidad administrativa regulada por la Ley Municipal para el Estado de Aguascalientes;
 
-n) Proyecto: Asociación pública-privada para la prestación de servicios a la autoridad contratante o al usuario final, que conlleve cualquiera de los servicios, así como de las actividades señalados (sic) en el Artículo 5° de la Ley, para mejorar la eficiencia de los servicios públicos o funciones a cargo de dichas autoridades;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-o) Reglamento: El Reglamento de la Presente Ley;
+i) Contrato: Instrumento jurídico a través del cual se formaliza la realización de un proyecto celebrado entre la autoridad Estatal o Municipal contratante y el Inversionista prestador, en virtud del cual la autoridad contratante compromete pagos plurianuales, teniendo como fuente de pago las partidas plurianuales autorizadas con cargo a su presupuesto, con la obligación a cargo del inversionista prestador de ejecutar a largo plazo, los servicios, consistente en la realización de las actividades señaladas en los términos del Artículo 5º de la Ley;
 
-p) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-q) Secretaría de Fiscalización: La Secretaría de Fiscalización y Rendición de Cuentas del Estado de Aguascalientes; y
+j) Garantía o Fuente Alterna de Pago: La garantía que otorgan las autoridades contratantes para dar cumplimiento a las obligaciones de pago plurianuales derivados de los contratos, en los términos de lo previsto en el Artículo 3° Fracciones XIV y XXV de la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-r) Tesorería: La Tesorería Municipal.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+k) Gobierno del Estado: Gobierno del Estado de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+l) Gobierno Municipal: El gobierno de los Municipios del Estado de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+m) Inversionista Prestador: Persona física o moral que celebra un Contrato con la Autoridad Estatal o Municipal Contratante en términos de esta Ley y que, en caso de que así lo establezca la normatividad vigente aplicable a la materia del servicio a contratar, deberá de contar con las autorizaciones y/o certificaciones correspondientes que le resulten aplicables;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+n) Ley: La presente Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+o) Pagos Plurianuales: Aquellos que se realizan con cargo a los rubros a que se refiere el Artículo 22 Fracción V y 55 de la Ley de Presupuesto, Gasto Publico y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, para dar cumplimiento a las obligaciones de pago derivadas del contrato;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+p) Partida Plurianual: El rubro a que se refiere el Artículo 22 Fracción V de la Ley de Presupuesto, Gasto Publico y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios que al efecto apruebe el Congreso o los Ayuntamientos, según sea el caso, con cargo al cual se aplicarán los Pagos Plurianuales. La Partida deberá señalar el nombre del Proyecto y la autoridad Estatal o Municipal contratante;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+q) Proyecto: Los servicios y actividades a que se refiere el Artículo 5° de esta Ley, necesarias para cumplir con los términos de servicios contratados y aquellas que pudieran ser prioritarias para el Gobierno Estatal o Municipal;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+r) Reglamento: El Reglamento de la Presente Ley;
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+s) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes; y
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+t) Secretaría de Finanzas Municipal y/o Tesorería: La Secretaría de Finanzas Municipal o la Tesorería Municipal.
 
 ###### ARTÍCULO 3º.
 
 A falta de disposición expresa en esta Ley, le serán aplicables de manera supletoria en lo que corresponda:
 
-a) El Código de Comercio, y la Legislación Mercantil;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+a) El Código de Comercio, la Legislación Mercantil y Bancaria;
 
 b) El Código Civil del Estado de Aguascalientes;
 
-c) La Ley Patrimonial del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-d) La Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes; y
+c) La Ley del Procedimiento Administrativo del Estado de Aguascalientes; y
 
-e) La Ley de Procedimiento Administrativo del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+d) El Código de Procedimientos Civiles del Estado de Aguascalientes.
+
+e) (DEROGADO, P.O. 9 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 4º.
 
@@ -123,9 +169,21 @@ En los procedimientos de contratación de los Proyectos, las autoridades contrat
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 5º.
 
-Los Proyectos tienen por objeto que un Inversionista Prestador le preste servicios a la autoridad contratante o al usuario final mediante la realización de cualquiera de las siguientes actividades: financiamiento; diseño y construcción; equipamiento; operación, mantenimiento y conservación de infraestructura.
+Los Proyectos tienen por objeto establecer una relación contractual de largo plazo entre una autoridad contratante y un inversionista prestador, a fin de que este último se obligue a prestar un servicio consistente en el financiamiento y la realización de una o más de las siguientes actividades:
+
+a) Diseño y construcción de infraestructura;
+
+b) Equipamiento de infraestructura;
+
+c) Operación, mantenimiento y conservación de infraestructura y, en su caso, su equipamiento; y/o
+
+d) Suministro y reposición de bienes muebles.
+
+Adicionalmente, en su caso, los proyectos podrán incluir el suministro, abastecimiento, proveeduría o consumo de cualquiera de los servicios básicos incluidos dentro de la clasificación del gasto corriente, siempre que se deriven, se vinculen, se integren o, en cualquier forma, se relacionen con cualquiera de las actividades que se señalan en este Artículo de manera tal de lograr su integralidad para que ningún proceso que pudiera quedar fuera detenga la realización del proyecto.
 
 ###### ARTÍCULO 6º.
 
@@ -173,9 +231,11 @@ El grupo de trabajo se integrará por servidores públicos con experiencia y esp
 
 Tratándose de Proyectos del Poder Ejecutivo o sus entidades paraestatales, el grupo de trabajo contará cuando menos con un representante de la Secretaría y otro del área jurídica de la autoridad contratante. En los Proyectos de los Municipios o sus entidades paramunicipales, el grupo de trabajo contará cuando menos con un representante de la Tesorería y otro del área jurídica de la autoridad contratante.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-El Administrador del Proyecto, previa opinión favorable de la Secretaría o la Tesorería, gestionará ante la autoridad contratante la contratación de los servicios de asesoría que se requieran para la elaboración de la documentación de conformidad con las disposiciones contenidas en la Ley Patrimonial.
+El Administrador del Proyecto, previa opinión favorable de la Secretaría o la Secretaría de Finanzas Municipal o la Tesorería, gestionará ante la autoridad contratante la contratación de los servicios de asesoría que se requieran para la elaboración de la documentación de conformidad con las disposiciones contenidas en la Ley de Adquisiciones Arrendamientos y Servicios del Sector Publico del Estado de Aguascalientes.
 
 ###### ARTÍCULO 14.
 
@@ -203,7 +263,9 @@ VIII. Representar a la autoridad contratante en el procedimiento de contratació
 
 El análisis costo-beneficio deberá contar cuando menos con los siguientes elementos:
 
-a) Una exposición detallada de la problemática que se pretende resolver, y su atención dentro de los objetivos y acciones previstos en el Plan Estatal de Desarrollo o Plan Municipal de Desarrollo;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+a) Una exposición detallada de la problemática que se pretende resolver, y su atención dentro de los objetivos y acciones previstos en el Plan Estatal de Desarrollo o Plan Municipal de Desarrollo debiendo justificar el beneficio social y la ventaja financiera frente a otras formas de ejecución del proyecto;
 
 b) La correspondencia entre los programas sectoriales de la autoridad contratante y la problemática a resolverse;
 
@@ -229,13 +291,17 @@ La Comisión Intersecretarial se integrará con un representante de:
 
 a) La Secretaría, quien presidirá las reuniones;
 
-b) La Jefatura de Gabinete;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+b) La Coordinación General de Gabinete;
 
 c) La autoridad contratante; y
 
 d) Las dependencias o entidades paraestatales, que en el ámbito de sus competencias deban opinar por la naturaleza del Proyecto.
 
-Participarán con voz pero sin voto, el Administrador del Proyecto y un representante de la Secretaría de Fiscalización.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Participarán con voz pero sin voto, el Administrador del Proyecto y un representante de la Contraloría.
 
 ###### ARTÍCULO 18.
 
@@ -277,9 +343,11 @@ III. La aprobación del Proyecto para su presentación ante el Congreso o ante e
 
 IV. Rechazar cualquier Proyecto que no cumpla con los requisitos establecidos en esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-La aprobación que emita la Comisión, deberá señalar los beneficios que la autoridad contratante obtendrá con la ejecución del Proyecto con base en lo siguiente:
+El dictamen de la Comisión deberá señalar los beneficios que la autoridad contratante obtendrá con la ejecución del Proyecto con base en lo siguiente:
 
 a) La problemática que se pretende resolver, y la congruencia del Proyecto con las atribuciones y facultades de la autoridad contratante y con el Plan Estatal o Municipal de Desarrollo, según sea el caso;
 
@@ -355,9 +423,11 @@ VI. El Análisis costo-beneficio.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-En los Presupuestos de Egresos del Estado y de los Municipios, se incluirá un Capítulo especial con los rubros de las Partidas Plurianuales y de los Pagos Plurianuales autorizados por el Congreso. Los rubros deberán señalar asimismo el Proyecto y el Contrato de que se trata.
+En los presupuestos de Egresos del Estado y de los Municipios, se incluirá un apartado especial con los rubros de las partidas plurianuales, con cargo a las cuales se deberán de aplicar los pagos por los servicios contratados al amparo de la presente Ley. En dichas partidas plurianuales se deberá establecer, en su caso, adicionalmente el presupuesto para el pago de los servicios básicos incluidos dentro de la clasificación del gasto corriente, que se hubieren contratado atendiendo a lo previsto en el Artículo 5° de la presente Ley.
 
 ###### ARTÍCULO 29.
 
@@ -387,6 +457,10 @@ Las condiciones contenidas en la convocatoria a la licitación o invitación a c
 
 La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la emisión del fallo, o en su caso, con la cancelación del procedimiento respectivo.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+En caso de que la autoridad Estatal o Municipal contratante optara por la adjudicación directa en términos de lo señalado en el Artículo 30 Fracción III de esta Ley, deberá presentar el fundamento y motivación de dicho acto.
+
 ### CAPÍTULO II. De la Licitación Pública
 
 ###### ARTÍCULO 31.
@@ -415,7 +489,9 @@ II. Número de licitación;
 
 III. Lugar, fecha y horario en que los interesados podrán obtener las bases para participar en la licitación, así como su costo y la forma de pago;
 
-IV. Descripción general del Proyecto, objeto de la licitación;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IV. La descripción general del proyecto, con indicación de los servicios a prestar y, en su caso, de la infraestructura a construir. La responsabilidad de quien resulte adjudicado de llevar a cabo todos los actos y actuaciones, para que la autoridad contratante, de ser el caso, obtenga la calidad que la Ley determine para recibir o adquirir el producto o servicio objeto de licitación;
 
 V. Lugar, fecha y hora de la junta de aclaraciones, así como de la presentación y apertura de proposiciones;
 
@@ -433,9 +509,13 @@ II. Calendario de eventos, detallando lugar, fecha y hora para la celebración d
 
 III. Descripción general del Proyecto;
 
-IV. La información específica del Proyecto brindada por la convocante, sobre su ubicación y los inmuebles proporcionados por la convocante, situación jurídica, estudios realizados, planos, permisos y autorizaciones vigentes;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-V. La información específica sobre la forma, etapas, o plazos en la prestación de los servicios y sus actividades, o en la ejecución de la infraestructura requeridos por la convocante que será materia objeto del Contrato;
+IV. La información específica del Proyecto brindada por la convocante, sobre su ubicación y los inmuebles proporcionados por la convocante, situación jurídica, estudios realizados, planos, permisos y autorizaciones vigentes y, en su caso, el responsable de su obtención;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. La información específica sobre la forma, etapas, o plazos en la prestación de los servicios y sus actividades, o en la ejecución de la infraestructura con indicación de las fechas estimadas de inicio de una y otra, requeridos por la convocante que será materia objeto del Contrato;
 
 VI. Instrucciones para elaborar y entregar las proposiciones técnica y económica, incluyendo la relación de documentos que los participantes deben presentar;
 
@@ -449,7 +529,17 @@ X. Los criterios específicos que se utilizarán para la evaluación de las prop
 
 XI. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante se ha coludido con otro u otros elevar el costo de los servicios o la infraestructura, en la fijación de la contraprestación por los servicios o cualquier otro acuerdo como fin obtener una ventaja sobre las convocantes y los demás participantes; y
 
-XII. Modelo de contrato al que se sujetarán las partes, el cual deberá contener los elementos aplicables a que se refiere el Artículo 46 de la Ley.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XII. Los derechos y obligaciones que, como mínimo, deberán de ser incluidas (sic) en el contrato para cada una de las partes, así como la especificación de los riesgos retenibles por la autoridad contratante y los transferibles al inversionista prestador;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XIII. La forma en que los participantes acreditarán su capacidad legal, experiencia y capacidad técnica, administrativa, económica y financiera, que se requieran de acuerdo con las características, complejidad y magnitud del proyecto, así como la titularidad de los permisos, autorizaciones, registros, etc., cuando éstos resulten necesarios para proveer el servicio que se licita a fin de garantizar la calidad e integralidad del proyecto contratado; y
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XIV. Las garantías que los participantes públicos y privados deban otorgar. Las garantías no deberán exceder, en su monto conjunto, del equivalente al diez por ciento del valor estimado de las inversiones a realizar.
 
 No se podrán establecer requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
 
@@ -457,7 +547,9 @@ No se podrán establecer requisitos que tengan por objeto o efecto limitar el pr
 
 La convocante, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria, las bases, incluyendo el modelo de contrato, a más tardar el sexto día hábil previo al acto de presentación y apertura de proposiciones, debiendo difundir las modificaciones a la convocatoria en los medios en que fue publicada, y las correspondientes a las bases y al contrato en el Periódico Oficial del Estado, así como a los interesados que hubiesen adquirido las bases, al día natural siguiente a aquel en que se efectúen.
 
-Las modificaciones que se refieren en el párrafo anterior, en ningún caso podrán consistir en la sustitución de los servicios y sus actividades o infraestructura convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Las modificaciones deberán notificarse a cada uno de los participantes. De ser necesario, la fecha señalada para la presentación y apertura de las propuestas podrá diferirse.
 
 Cualquier modificación a las bases, incluyendo las que resulten de la o las juntas de aclaraciones formará parte de las bases, y deberá ser considerada por los licitantes en la elaboración de su proposición.
 
@@ -499,15 +591,37 @@ IV. Se levantará acta que servirá de constancia de la celebración del acto de
 
 Las dependencias y entidades para la evaluación de las proposiciones deberán utilizar el criterio indicado en la convocatoria a la licitación.
 
-En todos los casos las convocantes deberán verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria a la licitación; la utilización del criterio de evaluación binario, o el de puntos y porcentajes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará al licitante cuya oferta resulte solvente, porque cumple con los requisitos legales, técnicos y económicos establecidos en la convocatoria a la licitación, y por tanto garantiza el cumplimiento de las obligaciones respectivas y, en su caso:
+En la evaluación de las propuestas la convocante verificará que cumplan con los requisitos señalados en las bases y que contengan elementos suficientes para desarrollar el proyecto.
 
-I. La proposición hubiera ofertado el precio más bajo, siempre y cuando éste resulte conveniente. Los precios ofertados que se encuentren por debajo del precio conveniente, podrán ser desechados por la convocante; o
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
 
-II. La proposición haya obtenido el mejor resultado en la evaluación combinada de puntos y porcentajes.
+En la evaluación podrán utilizarse mecanismos de puntos y porcentajes, criterios de costo-beneficio, o cualesquiera otros, siempre que sean claros, cuantificables y permitan una comparación objetiva e imparcial de las propuestas con el fin de elegir la mejor opción de entre las propuestas analizadas.
 
-En caso de empate, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo que se realice en términos del Reglamento de la Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
+
+No será objeto de evaluación cualquier requisito cuyo incumplimiento por sí mismo no afecte la validez y solvencia de la propuesta. La inobservancia de dichos requisitos no será motivo para desechar la propuesta o retrasar su inicio.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+En ningún caso podrán suplirse las deficiencias sustanciales de las propuestas presentadas.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE ABRIL DE 2018)</small>
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará al licitante cuya oferta resulte cumpla con los requisitos legales, técnicos y económicos, establecidos en las bases de la licitación de la mejor manera, y por tanto garantiza el cumplimiento de las obligaciones respectivas y, en su caso:
+
+I. La proposición haya obtenido el mejor resultado en la evaluación combinada de puntos, porcentajes y que representen las mayores ventajas competitivas para la autoridad Estatal o Municipal contratante; o
+
+II. La proposición hubiera incorporado la menor contraprestación, siempre y cuando ésta resulte conveniente.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+En caso de empate, se determinará en igualdad de condiciones, aquella que fuera presentada por una persona física o moral con domicilio fiscal en el estado de Aguascalientes y, en caso de mantenerse en circunstancias similares, en favor de aquella desarrollada por quien demuestre, conforme a lo determinado en las bases, una mayor experiencia en la realización de proyectos similares al licitado y/o actividades en el sector que corresponda la licitación o bien represente mayores ventajas para el Estado y/o los Municipios de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
+
+De persistir el empate, la adjudicación se efectuará a favor del licitante que resulte ganador de una subasta en reversa sobre el monto de la contraprestación ofertada por el inversionista prestador que se realice en términos de las bases sin detrimento de la calidad o algún servicio acordado.
 
 ###### ARTÍCULO 40.
 
@@ -547,19 +661,39 @@ Las convocantes se abstendrán de recibir propuestas o celebrar Contrato alguno 
 
 I. Aquéllas con las que el servidor público que intervenga en cualquier forma en la adjudicación del Contrato tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría de Fiscalización o de la Contraloría Municipal según corresponda, conforme a las disposiciones legales, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría o de la Contraloría Municipal según corresponda, conforme a las disposiciones legales, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III. Aquellas personas morales que hubiesen incurrido en incumplimiento de contrato con la autoridad contratante y se haya decretado la rescisión administrativa;
 
 IV. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad;
 
-V. Las que, en virtud de la información con la que cuente la Secretaría de Fiscalización o la Contraloría Municipal según corresponda, hayan celebrado contratos en contravención a lo dispuesto por las disposiciones legales;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Las que, en virtud de la información con la que cuente la Contraloría o la Contraloría Municipal según corresponda, hayan celebrado contratos en contravención a lo dispuesto por las disposiciones legales;
 
 VI. Aquéllas a las que se declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
 
-VII. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y las autoridades contratantes; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
+VII. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y las autoridades contratantes;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VIII. Las personas que hayan sido condenadas, mediante sentencia firme dentro de los tres años inmediatos anteriores a la fecha de la convocatoria por incumplimiento de contratos celebrados con dependencias o entidades del ámbito federal, estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IX. Las que por causas imputables a ellas mismas se encuentren en situación de mora en el cumplimiento de sus obligaciones en contratos celebrados con dependencias o entidades del ámbito federal, estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+X. Las que hayan contratado servicios de cualquier naturaleza, si se comprueba fehacientemente que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez que hayan sido recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
 
 ###### ARTÍCULO 42.
 
@@ -595,7 +729,13 @@ III. Existan circunstancias que puedan provocar pérdidas o costos adicionales i
 
 IV. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar al licitante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
 
-V. Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria a la licitación cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria a la licitación cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+VI. Así se establezca, en su caso, en la ley específica que regule los servicios materia de la contratación, establecidos en las bases.
 
 ###### ARTÍCULO 45.
 
@@ -641,7 +781,9 @@ VII. Inicio de vigencia y plazo del Contrato;
 
 VIII. Los derechos y obligaciones de las partes;
 
-IX. La contraprestación a pagar por los servicios que prestará el Inversionista Prestador;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+IX. La contraprestación a pagar por los servicios que prestará el Inversionista Prestador, y/o la fórmula para obtener el monto de la contraprestación o costo, tratándose de servicios cuyo valor se encuentre referido a otros valores variables y/o tarifas, determinados por la autoridad Estatal o Municipal competente;
 
 X. Precisión de si la contraprestación es fija o sujeta a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste, determinando expresamente el o los indicadores o medios oficiales que se utilizarán en dicha fórmula;
 
@@ -663,7 +805,9 @@ XVII. La metodología para evaluar el desempeño en la prestación de los servic
 
 XVIII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario para prestar los servicios correspondientes y la ejecución de la infraestructura en su caso;
 
-XIX. Las garantías y coberturas de seguros obligatorios a cargo del Inversionista Prestador;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+XIX. Las garantías y coberturas de seguros obligatorios a cargo del Inversionista Prestador, con los que se garantice la calidad y seguridad del servicio solicitado.
 
 XX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por causas imputables a los Inversionistas Prestadores en el atraso de la prestación de los servicios o ejecución de la infraestructura, así como por el incumplimiento en el desempeño en la prestación de los servicios;
 
@@ -725,7 +869,9 @@ Las autoridades contratantes podrán rescindir administrativamente los Contratos
 
 Previo al inicio del procedimiento de rescisión, las autoridades contratantes deberán contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
 
-El procedimiento deberá iniciarse dentro de los veinte días naturales a partir de las aprobaciones o autorizaciones señaladas en el párrafo anterior, y se llevará a cabo ante la Secretaría de Fiscalización o la Contraloría Municipal según corresponda, conforme a lo establecido en la Ley Patrimonial.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+El procedimiento deberá iniciarse dentro de los veinte días naturales a partir de las aprobaciones o autorizaciones señaladas en el párrafo anterior, y se llevará a cabo ante la Contraloría o la Contraloría Municipal según corresponda, conforme a lo establecido en la Ley Patrimonial.
 
 En este supuesto, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión.
 
@@ -734,6 +880,8 @@ En este supuesto, el Inversionista Prestador tendrá derecho a los pagos estable
 A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, incorporados a la infraestructura o indispensables para la prestación del servicio, pasarán al dominio, control y administración de la autoridad contratante.
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
@@ -751,21 +899,25 @@ Dentro de los diez días posteriores a partir de su inscripción en el Registro 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
-La forma y términos en que las autoridades contratantes deberán remitir a la Secretaría de Fiscalización o a las Contralorías Municipales, la información relativa a los actos y los Contratos materia de la Ley, serán establecidos por dichas autoridades, en el ámbito de sus respectivas atribuciones.
+La forma y términos en que las autoridades contratantes deberán remitir a la Contraloría, a las Contralorías Municipales o a los órganos Internos de Control, la información relativa a los actos y los Contratos materia de la Ley, serán establecidos por dichas autoridades, en el ámbito de sus respectivas atribuciones.
 
 Salvo por la información que de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes se considere como información restringida toda la información y documentación relacionada con la convocatoria, las bases, sus anexos y apéndices, y el Contrato, será de carácter pública.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 60.
 
-La Secretaría de Fiscalización o las Contralorías Municipales, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo, que los servicios se realicen conforme a lo establecido en esta Ley. Para tal efecto podrán realizar las visitas e inspecciones que estimen pertinentes a las autoridades contratantes que celebren contratos, e igualmente podrán solicitar a los servidores públicos y a los Inversionistas Prestadores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate.
+La Contraloría o las Contralorías Municipales, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo, que los servicios se realicen conforme a lo establecido en esta Ley. Para tal efecto podrán realizar las visitas e inspecciones que estimen pertinentes a las autoridades contratantes que celebren contratos, e igualmente podrán solicitar a los servidores públicos y a los Inversionistas Prestadores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 61.
 
-Las inspecciones se practicarán en días y horas hábiles por personal autorizado por la Secretaría de Fiscalización o las Contralorías Municipales mediante el oficio de comisión fundado y motivado que señalará el periodo, el objeto de la comisión y las personas que la practicarán, mismas que se identificarán al momento de la diligencia.
+Las inspecciones se practicarán en días y horas hábiles por personal autorizado por la Contraloría o las Contralorías Municipales mediante el oficio de comisión fundado y motivado que señalará el periodo, el objeto de la comisión y las personas que la practicarán, mismas que se identificarán al momento de la diligencia.
 
 El resultado de la inspección se hará constar en acta que será firmada por la persona que la practicó, aquélla con quien se atendió la diligencia y dos testigos propuestos por ésta o en caso de no hacerlo, por los que designe quien la realizó. Del acta se dejará copia a la persona con quien se entendió la diligencia aun cuando se hubiese negado a firmarla, lo que no afectará su validez.
 
@@ -773,13 +925,17 @@ El resultado de la inspección se hará constar en acta que será firmada por la
 
 ### CAPÍTULO I. De la Instancia de Inconformidad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría de Fiscalización o las Contralorías Municipales, con multa equivalente a la cantidad de cincuenta a trescientas veces el valor diario de la unidad de medida y actualización, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Contraloría o las Contralorías Municipales, con multa equivalente a la cantidad de cincuenta a trescientas veces el valor diario de la unidad de medida y actualización, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 63.
 
-La Secretaría de Fiscalización o las Contralorías Municipales impondrán las sanciones o multas conforme a los siguientes criterios:
+La Contraloría o las Contralorías Municipales impondrán las sanciones o multas conforme a los siguientes criterios:
 
 I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de la Ley o las que se dicten con base en ella;
 
@@ -803,9 +959,11 @@ La omisión a lo dispuesto en el párrafo anterior será sancionado administrati
 
 Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 67.
 
-En las adquisiciones de bienes y servicios, la Secretaría de Fiscalización o las Contralorías Municipales, además de las sanciones referidas en éste Artículo, inhabilitará a los Inversionistas Prestadores a participar en todos los tipos de procedimiento, con cualquier autoridad contratante y cuando se encuentren en alguno de los supuestos siguientes:
+En las adquisiciones de bienes y servicios, la Contraloría o las Contralorías Municipales, además de las sanciones referidas en éste Artículo, inhabilitará a los Inversionistas Prestadores a participar en todos los tipos de procedimiento, con cualquier autoridad contratante y cuando se encuentren en alguno de los supuestos siguientes:
 
 I. Los licitantes que injustificadamente y por causas imputables a ellos mismos no formalicen el contrato adjudicado por la convocante en los tiempos establecidos;
 
@@ -817,15 +975,21 @@ III. Los Inversionistas Prestadores que no cumplan con sus obligaciones contract
 
 IV. Cuando una inconformidad se resuelva como no favorable al promovente por resultar improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrá al promovente, a sus representantes, al abogado, o a quien corresponda, según sea el caso, una multa de doscientos a quinientas veces el valor diario de la unidad de medida y actualización; y
 
-V. Cuando un Inversionista Prestador reciba de la Secretaría de Fiscalización o de las Contralorías Municipales dos fallos desfavorables del acto impugnado, denuncia o inconformidad.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
-La inhabilitación que se imponga a determinado Inversionista Prestador no podrá ser menor a seis meses ni mayor a treinta y seis meses, independientemente de las sanciones a las que se pudiere hacer acreedor, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría de Fiscalización o las Contralorías Municipales la hagan del conocimiento de las autoridades contratantes, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado.
+V. Cuando un Inversionista Prestador reciba de la Contraloría o de las Contralorías Municipales dos fallos desfavorables del acto impugnado, denuncia o inconformidad.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+La inhabilitación que se imponga a determinado Inversionista Prestador no podrá ser menor a seis meses ni mayor a treinta y seis meses, independientemente de las sanciones a las que se pudiere hacer acreedor, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o las Contralorías Municipales la hagan del conocimiento de las autoridades contratantes, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado.
 
 ### CAPÍTULO II. Del Procedimiento de Conciliación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 68.
 
-La Secretaría de Fiscalización o la Contraloría Municipal según corresponda, conocerán de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
+La Contraloría o la Contraloría Municipal según corresponda, conocerán de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
 
 I. La convocatoria a la licitación, las bases y las juntas de aclaraciones;
 
@@ -849,17 +1013,21 @@ En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya res
 
 En todos los casos en que se trate de licitantes que hayan presentado proposición conjunta, la inconformidad sólo será procedente si se promueve conjuntamente por todos los integrantes de la misma.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 69.
 
-Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Quinto, Capítulo I de la Ley Patrimonial. El procedimiento para emitir la resolución correspondiente por parte de la Secretaría de Fiscalización o Contraloría Municipal según corresponda, deberá apegarse al procedimiento establecido en dicho Título. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo II de este Título.
+Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Quinto, Capítulo I de la Ley Patrimonial. El procedimiento para emitir la resolución correspondiente por parte de la Contraloría o Contraloría Municipal según corresponda, deberá apegarse al procedimiento establecido en dicho Título. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo II de este Título.
 
 ### CAPÍTULO III. Del Arbitraje, otros Mecanismos de Solución de Controversias y Competencia Judicial
 
 ###### ARTÍCULO 70.
 
-En cualquier momento los Inversionistas Prestadores o las autoridades contratantes podrán presentar ante la Secretaría de Fiscalización o Contraloría Municipal según corresponda, solicitud de conciliación por desavenencias u oposiciones derivadas del cumplimiento de los Contratos.
+En cualquier momento los Inversionistas Prestadores o las autoridades contratantes podrán presentar ante la Contraloría o Contraloría Municipal según corresponda, solicitud de conciliación por desavenencias u oposiciones derivadas del cumplimiento de los Contratos.
 
-Una vez recibida la solicitud respectiva, la Secretaría de Fiscalización o la Contraloría Municipal, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
+Una vez recibida la solicitud respectiva, la Contraloría o la Contraloría Municipal, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del Inversionista Prestador traerá como consecuencia tener por no presentada su solicitud.
 
@@ -982,3 +1150,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 261-SE REFORMAN LA DENOMINACIÓN DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES PARA QUEDAR COMO LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la fecha de entrada en vigor del presente Decreto, todas la (sic) menciones a la Ley de Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, previstas en otras legislaciones, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Asociaciones Público- Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes.
