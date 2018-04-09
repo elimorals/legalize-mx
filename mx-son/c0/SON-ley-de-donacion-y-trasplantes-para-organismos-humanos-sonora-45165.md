@@ -4,7 +4,7 @@ identifier: "SON-ley-de-donacion-y-trasplantes-para-organismos-humanos-sonora-45
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-20"
-last_updated: "2017-11-06"
+last_updated: "2018-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 20 de junio de 2005.
 
@@ -75,7 +75,9 @@ VI.- Estado Crítico: Paciente que ingresa a los servicios de urgencias, unidad 
 
 VII.- Donador Potencial: Paciente con un padecimiento agudo que pone en peligro su vida, con deterioro del estado de conciencia y apoyo ventilatorio mecánico;
 
-VIII.- Muerte Cerebral: Conforme a la Ley General de Salud, se presenta cuando existen los siguientes signos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
+
+VIII.- Muerte Encefálica: Conforme a la Ley General de Salud, se presenta cuando existen los siguientes signos:
 
 a) Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
 
@@ -85,9 +87,17 @@ c) Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexi
 
 Deberá corroborarse por cualquiera de las siguientes pruebas:
 
-a) Agiografía (sic) bilateral que demuestre ausencia de circulación cerebral; o
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
 
-b) Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas;
+a) Un único Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral; o
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+b) Cualquier estudio de imagenología que demuestre ausencia total de flujo sanguíneo encefálico y/o cerebral.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
 IX.- Extracción: Extirpar un órgano o tejido viable sin lesionarlo y preservarlo hasta su implante;
 
@@ -107,13 +117,21 @@ XV.- Registro: El Registro Estatal de Trasplantes de Órganos, Tejidos y Célula
 
 Corresponden al Centro las siguientes atribuciones:
 
-I.- Decidir y vigilar, dentro de su ámbito de competencia, la asignación de órganos, tejidos y células para trasplantes en seres humanos y, en general, de las actividades relacionadas con éstos y de los establecimientos que realizan dichos actos en cuanto se refiera a los mismos;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
 
-II.- Promover y fomentar, en coordinación con el Consejo Nacional de Trasplantes y Consejos de otros Estados, dependencias y entidades federales, estatales o municipales, acciones de orientación y educación a la población, referente a la cultura de trasplantes y donación de órganos, tejidos y células;
+I.- Vigilar, dentro de su ámbito de competencia, la asignación de órganos, tejidos y células para trasplantes en seres humanos y, en general, de las actividades relacionadas con éstos y de los establecimientos que realizan dichos actos en cuanto se refiera a los mismos;
+
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+II.- Promover y fomentar, en coordinación con el Consejo Nacional de Trasplantes y Consejos de otros Estados, dependencias y entidades federales, estatales o municipales, acciones de orientación y educación a la población, referente a la cultura de trasplantes y donación de órganos, tejidos y células.
+
+Para reforzar las actividades de promoción y fomento a la cultura de la donación de órganos y trasplantes se creará un sistema informático encriptado donde cada persona que desee ser donadora de órganos de manera libre y voluntaria ingrese su nombre, fecha y lugar de nacimiento para que quede en un registro confidencial al que solo tendrá acceso el CEESTRA y las personas autorizadas. Al momento de ingresar este sistema otorgará un folio único con el que podrá ser identificada la persona por quienes tengan acceso al sistema y del mismo modo será la única manera en que el donante podrás (sic) revocar su decisión si así lo deseara;
 
 III.- Actualizar y difundir entre los profesionales, técnicos y auxiliares de la salud, la información científica y técnica en materia de trasplantes;
 
-IV.- Operar y mantener actualizado el Registro, con la siguiente información:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
+
+IV.- Supervisar la actualización del Registro, con la siguiente información:
 
 a) Lista de donadores en el Estado, a quienes se les otorgará una credencial que los identifique plenamente;
 
@@ -140,6 +158,10 @@ VIII.- Reconocer el mérito y altruismo de los donadores y sus familias, mediant
 IX.- Promover el respeto y la protección del derecho a la libre donación de órganos, tejidos y células, así como de ser sujeto de trasplantes de éstos;
 
 X.- Desarrollar las acciones necesarias para mejorar la calidad de los procedimientos de trasplantes y donaciones;
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+X Bis.- Procurar la adquisición de insumos médicos para la correcta realización de las donaciones de órganos y los trasplantes así como de medicamentos para apoyo inmunosupresor a los pacientes que lo requieran;
 
 XI.- Coadyuvar con las autoridades sanitarias federales y estatales, en términos de los acuerdos o convenios de coordinación que para tal efecto se suscriban en lo referente a la vigilancia y control de las donaciones y trasplantes de órganos, células y tejidos;
 
@@ -190,6 +212,18 @@ VII.- El Delegado Estatal del Instituto Mexicano del Seguro Social, como vocal;
 VIII.- El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, como vocal;
 
 IX.- Un representante por cada uno de los hospitales privados que estén autorizados para realizar trasplantes de órganos, tejidos y células en el Estado, el cual deberá ser el Coordinador Hospitalario de la institución de salud de que se trate, como vocales;
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+X.- El Director General del Hospital Infantil del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+XI.- El Director General del Hospital General de Ciudad Obregón;
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+XII.- El Director General de la Unidad Médica de Alta Especialidad No. 2 del IMSS.
 
 En el caso de los vocales señalados en las fracciones VII y VIII de este artículo, el Gobernador del Estado realizará la invitación respectiva. En caso de no aceptarse la invitación, la Junta operará con el resto de los integrantes.
 
@@ -257,11 +291,13 @@ II.- Tener al día de la designación, cuando menos, treinta y cinco años cumpl
 
 III.- Poseer el día del nombramiento, con una antigüedad mínima de cinco años, título profesional de médico cirujano, expedido y registrado por las autoridades educativas correspondientes;
 
-IV.- No desempeñar durante su función, ninguna otra actividad pública o privada, salvo en los ramos de instrucción o beneficencia pública; y
+IV.- (DEROGADA, B.O. 9 DE ABRIL DE 2018)
 
 V.- Gozar de buena reputación y no haber sido condenado por delito doloso que merezca una pena privativa de libertad.
 
-El Director General durará en sus funciones 4 años, pudiendo ser ratificado por un periodo más. La retribución que reciba será señalada en el Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+El Director General durará en sus funciones 6 años y a propuesta del Director Honorario y/o ejecutivo podrá ser ratificado por el tiempo que se considere pertinente.
 
 ###### ARTICULO 13.
 
@@ -275,7 +311,7 @@ III.- Ejecutar los acuerdos y resoluciones que emita la Junta;
 
 IV.- Dirigir técnica y administrativamente el funcionamiento del Centro;
 
-V.- Realizar la asignación de los órganos, tejidos y células para los pacientes, tomando como referencia el criterio establecido en el artículo 336 de la Ley General de Salud y presentar un informe detallado de dichas asignaciones a la Junta en cada sesión ordinaria;
+V.- (DEROGADA, B.O. 9 DE ABRIL DE 2018)
 
 > <small>(ADICIONADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -295,7 +331,9 @@ X.- Nombrar y remover al personal del Centro;
 
 XI.- Elaborar y registrar las actas de las sesiones de la Junta en el libro que para el efecto se lleve e integrarlas para su archivo, acompañadas de la información presentada y analizada en la reunión correspondiente;
 
-XII.- Celebrar acuerdos y convenios de coordinación con dependencias y entidades federales, estatales y municipales, instituciones públicas y con organismos del sector privado y social, en materia de la competencia del Centro, previa autorización de la Junta;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+XII.- Celebrar y firmar acuerdos y convenios de coordinación con dependencias y entidades federales, estatales y municipales, instituciones públicas y con organismos del sector privado y social con la finalidad de apoyar las actividades de difusión de la donación así como a las instituciones para que se lleven a cabo las donaciones y los trasplantes necesarios.
 
 XIII.- Elaborar el proyecto de reglamento interior y demás instrumentos de apoyo administrativo del Centro;
 
@@ -343,6 +381,40 @@ Para la procuración de órganos o tejidos para trasplantes, se seguirá el sigu
 
 I.- Los Coordinadores Hospitalarios establecerán una vigilancia continua en dichos establecimientos, para detectar el ingreso a ellos de pacientes en estado crítico;
 
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+I Bis.- La figura del Coordinador Hospitalario al que se hace mención, pasará a denominarse Coordinador Hospitalario de Donación y será el encargado de realizar las funciones de procuración de órganos a que se refiere esta Ley, siendo un elemento indispensable para la adecuada práctica de los procesos de donación de órganos de las unidades hospitalarias.
+
+Corresponderá a los coordinadores a los que se refiere este artículo:
+
+a).- Detectar, evaluar y seleccionar a los donantes potenciales;
+
+b).- Solicitar el consentimiento del familiar a que se refiere esta Ley;
+
+c).- Establecer y mantener coordinación con el Comité Interno de Trasplantes durante el proceso de procuración de órganos y tejidos;
+
+d).- Facilitar la coordinación entre los profesionales de la salud encargados de la extracción del o de los órganos y el de los médicos que realizarán el o los trasplantes;
+
+e).- Coordinar la logística dentro del establecimiento de la donación y el trasplante;
+
+f).- Resguardar y mantener actualizados los archivos relacionados con su actividad;
+
+g).- Participar con voz en el Comité Interno de Trasplantes;
+
+h).- Fomentar al interior del establecimiento la cultura de la donación y el trasplante;
+
+i).- Representar al responsable sanitario del establecimiento en ausencia de éste
+
+j).- Constatar que los Cadáveres de los cuales se dispusieron Órganos, Tejidos o células para fines de Trasplante, sean entregados a sus familiares o a la autoridad competente, con la menor dilación posible;
+
+k).- Participar en la elaboración de programas y proyectos de trabajo, así como manuales de procedimientos médicos, técnicos y administrativos relativos a las actividades de Procuración de Órganos, Tejidos y células que el Establecimiento de Salud efectúe, así como dar seguimiento a su observancia;
+
+l).- Participar en la capacitación y evaluación del desempeño del personal a su cargo y, en su caso, coadyuvar en actividades docentes y de investigación en materia de Trasplantes; y
+
+m).- Promover y difundir estrategias y acciones que fomenten la donación voluntaria y altruista al interior del Establecimiento de Salud en el que laboren.
+
+El Centro Estatal de Trasplantes promoverá la creación de un sistema de control y vigilancia entre todos los hospitales del Estado del sector público, de seguridad social y privado que cuenten con unidades generadoras de potenciales donantes para que en tiempo real, exista información sobre donadores potenciales y su evolución, con parámetros clínicos y de laboratorio con la finalidad para que, en caso de que por desgracia fallezca, se pueda actuar a tiempo;
+
 II.- Con base en lo anterior, los Coordinadores Hospitalarios identificarán a los donadores potenciales, con apoyo en el personal médico correspondiente, y tomarán las medidas pertinentes para determinar su viabilidad como donador;
 
 Igualmente, el Coordinador Hospitalario establecerá contacto con el Director General para verificar si el donador potencial se encuentra inscrito en el Registro como donador con consentimiento expreso;
@@ -351,15 +423,25 @@ III.- Emitido, en su caso, el diagnóstico clínico de muerte cerebral, el Coord
 
 IV.- En caso de no localizar el consentimiento expreso del donador potencial, el Coordinador Hospitalario, con apoyo en los médicos tratantes, acudirá ante los familiares del paciente para notificar la muerte y solicitar la donación;
 
-V.- En todos los casos, para la disposición de órganos, tejidos, o ambos, el Coordinador Hospitalario avisará de inmediato al Director General para que, por su conducto, se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
 
-VI.- El Director General establecerá comunicación inmediata con el Registro Nacional de Trasplantes y verificará en el Registros Nacional y Estatal, la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia, para la determinación de la asignación de los órganos y tejidos;
+V.- En todos los casos, para la disposición de órganos, tejidos o ambos, el Coordinador Hospitalario de Donación avisará de inmediato al Director General y obtendrá las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
 
-VII.- Una vez determinada la asignación, el Director General establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+VI.- El Coordinador Hospitalario de Donación consultará en la lista de espera del establecimiento de salud donde se lleva a cabo la donación si existen potenciales receptores para que en su caso y de existir, consultar con el médico especialista si el potencial receptor está en condiciones de recibir un trasplante. En caso negativo y en observación del reglamento de la Ley General de Salud y lo establecido en acta de comité respecto a la asignación de órganos pondrá a disposición de otros establecimientos de salud el órgano obtenido para su posterior distribución.
+
+En todo caso, establecerá comunicación con el Registro Nacional de Trasplantes para notificar que se concretó una donación y poner a disposición el o los órganos y/o tejidos que por alguna circunstancia no podrán ser asignados a pacientes de la localidad y entidad;
+
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 2018)</small>
+
+VII.- Una vez determinada la asignación, el Coordinador Hospitalario de Donación o el Médico Responsable del potencial receptor establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
 
 VIII.- De presentarse las condiciones óptimas para la intervención, dentro del plazo más inmediato posible, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Coordinador Hospitalario en coordinación con el Director General se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo;
 
-En caso de que el Ministerio Público lo considere procedente, se invitará al médico legista para que presencie la extracción de órganos o tejidos;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+En caso de que el donante sea objeto de un caso legal, se deberá de notificar al ministerio público encargado de que se ha concretado la donación para que informe de la no incoveniencia (sic) para tal procedimiento, en el entendido que no es una autorización o negativa. Así mismo al término de la cirugía de extracción, se deberá de entregar por escrito un informe breve de los órganos y/o tejidos obtenidos para conocimiento del médico legista.
 
 > <small>(REFORMADA, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -381,7 +463,9 @@ El Centro celebrará convenios con las instituciones de educación superior en e
 
 ARTICULO 21 BIS.- Las instituciones públicas del Gobierno del Estado y de los Ayuntamientos que por razón de sus funciones emitan documentos de identificación ciudadana, deberán incluir en el mismo una anotación que exprese la voluntad del titular de la misma en relación a la donación de sus órganos.
 
-El Centro promoverá la celebración de convenios con las instituciones de educación superior en el Estado con el propósito de que se incluya en la credencial de identificación estudiantil la voluntad del titular para ser donador de órganos.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+El centro promoverá la celebración de convenios con Instituciones de educación superior privadas en el Estado de Sonora así como empresas de cualquier ramo con el propósito de que se incluya en la credencial oficial de identificación la voluntad del titular para ser donador de órganos.
 
 Para efectos del presente artículo, cuando se tratase de menores de edad, los documentos no deberán incluir la anotación que exprese la voluntad para ser donantes de órganos.
 
@@ -389,9 +473,23 @@ Para efectos del presente artículo, cuando se tratase de menores de edad, los d
 
 Las autoridades educativas del Gobierno del Estado de Sonora propondrán a la Secretaría de Educación Pública, incluir programas especiales de educación básica tendientes a la promoción y difusión de la cultura de trasplantes y donación de órganos, tejidos y células, conforme a las bases y lineamientos establecidos por el Centro.
 
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+En las instituciones de educación media superior de la entidad, se deberá contemplar dentro de sus planes educativos aspectos relacionados con el tema de "Donación de Órganos y Trasplante" para lo cual, la Secretaría de Educación y Cultura del Gobierno del Estado contará con el apoyo de CEESTRA con la finalidad de difundir didácticamente los temas relacionados con la presente Ley.
+
 ###### ARTICULO 23.
 
 El Gobierno del Estado promoverá la cultura de trasplantes y donación de órganos mediante propaganda informativa al respecto y tendrá a disposición de los interesados en sus módulos de atención ciudadana los formatos que para donación expresa se autoricen por la Junta.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 24.
+
+Para que la atención médica pueda beneficiar a pacientes registrados en las bases de datos de los establecimientos autorizados, la asignación y distribución de los órganos, tejidos y células favorecerá prioritariamente a los establecimientos de Salud en la entidad (Sonora) teniendo prioridad el Hospital donde se llevó a cabo la donación sin importar la Institución a la que pertenezca, sea pública o privada.
+
+I.- Con la finalidad de mejorar estos procesos y facilitar la distribución de órganos, tejidos y células para fines de trasplantes, se generarán convenios de reciprocidad entre el establecimiento autorizado generador de órganos y tejidos con el establecimiento que realiza el trasplante.
+
+II.- En situaciones en donde la ubicación geográfica de los establecimientos de las unidades donadoras como trasplantadoras represente menos riesgo de daño al órgano donado y por consiguiente una mejor oportunidad de trasplante a las personas que requieran de este tipo de apoyo médico-quirúrgico, se atenderá a la localidad donde se haya concretado la donación, sin importar la institución a la que pertenezca, sea pública o privada.
 
 T R A N S I T O R I O S
 
@@ -450,3 +548,9 @@ B.O. 6 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS DEL ESTADO DE SONORA”.]
+
+B.O. 9 DE ABRIL DE 2018.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SONORA.]</small>
