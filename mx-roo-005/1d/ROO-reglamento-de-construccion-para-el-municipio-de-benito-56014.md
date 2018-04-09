@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-56014"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-25"
-last_updated: "2016-10-25"
+last_updated: "2018-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,13 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de abril de 2007.
 
 REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO.
 
-El Honorable Ayuntamiento Constitucional de Benito Juárez, Quintana Roo 2005- 2008, con fundamento en lo dispuesto en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 126, 133, 145, 146, 155 y 156 de la Constitución Politica del Estado Libre y Soberano de Quintana Roo; 1°, 2°, 3°, 65, 66 Fracción l, inciso c), 221, 222, 223, 224 y 225 de la Ley de los Municipios del Estado de Quintana Roo; 1°, 2°, 3°, 5°, 6°, 8°, 33, 45, 46 y 49 del Reglamento del Gobierno Interior del Ayuntamiento del Municipio de Benito Juárez, Quintana Roo,
+El Honorable Ayuntamiento Constitucional de Benito Juárez, Quintana Roo 2005- 2008, con fundamento en lo dispuesto en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 126, 133, 145, 146, 155 y 156 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; 1°, 2°, 3°, 65, 66 Fracción l, inciso c), 221, 222, 223, 224 y 225 de la Ley de los Municipios del Estado de Quintana Roo; 1°, 2°, 3°, 5°, 6°, 8°, 33, 45, 46 y 49 del Reglamento del Gobierno Interior del Ayuntamiento del Municipio de Benito Juárez, Quintana Roo,
 
 C O N S I D E R A N D O.
 
@@ -453,7 +453,7 @@ z) Elaborar en coordinación con las Direcciones de Transporte y Vialidad y de l
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-aa). Aprobar y autorizar las obras de urbanización en los fraccionamientos del Municipio Benito Juárez; documentando el acto de liberación del fraccionador mediante Acta de Entrega-Recepción conforme a lo dispuesto en el “Manual de Procedimientos para la Entrega-Recepción de las obras de urbanización en los Fraccionamientos”, elaborado por la Dirección General de Desarrollo Urbano, adscrita a la Secretaría Municipal de Ecología y Desarrollo Urbano; en atención a las disposiciones de la Ley de Fraccionamientos del Estado de Quintana Roo, la reglamentación en materia de servicios públicos y las disposiciones del presente reglamento.
+aa). Aprobar y autorizar las obras de urbanización en los fraccionamientos del Municipio Benito Juárez; documentando el acto de liberación del fraccionador mediante Acta de Entrega-Recepción conforme a lo dispuesto en el "Manual de Procedimientos para la Entrega-Recepción de las obras de urbanización en los Fraccionamientos", elaborado por la Dirección General de Desarrollo Urbano, adscrita a la Secretaría Municipal de Ecología y Desarrollo Urbano; en atención a las disposiciones de la Ley de Fraccionamientos del Estado de Quintana Roo, la reglamentación en materia de servicios públicos y las disposiciones del presente reglamento.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -463,9 +463,13 @@ bb). Coordinar con las autoridades federales y estatales la realización de acti
 
 cc). Impulsar y promover los trabajos de conservación de la obra pública.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2018)</small>
 
-dd). Las demás que establezcan las disposiciones legales y reglamentarias aplicables, así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
+dd). Estudiar y en su caso, autorizar los permisos de construcción de casetas de seguridad en zonas habitacionales, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 9 DE ABRIL DE 2018)</small>
+
+ee). Las demás que establezcan las disposiciones legales y reglamentarias aplicables así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
 
 ARTÍCULO 4
 
@@ -567,6 +571,10 @@ III. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la v�
 
 IV. Construir instalaciones subterráneas en la vía pública.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2018)</small>
+
+V. Construir Casetas de Seguridad en zonas habitacionales.
+
 La Dirección, en correspondencia con los Programas de Desarrollo Urbano y de Vialidad, podrá otorgar autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales les conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deben efectuarse.
 
 Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el Municipio las realice.
@@ -589,11 +597,33 @@ VI. Para producir o almacenar materiales de la construcción ni para hacer traba
 
 Las banquetas, guarniciones y accesos son consideradas vía pública y no pueden ser obstruidas por vehículo u objeto alguno. Los carriles destinados a la circulación vial en calles y avenidas no pueden ser considerados como cajón de estacionamiento para los predios que limitan.
 
-ARTÍCULO 13
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
-Los permisos o concesiones que el Ayuntamiento otorgue para la ocupación, uso y aprovechamiento de las vías públicas o cualesquiera otros bienes de uso común o destinados a un servicio público, no crean ningún derecho real o posesorio.
+###### ARTÍCULO 13.
 
-Los permisos o concesiones serán siempre revocables y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados, o en general, de cualesquiera de los fines a que estén destinadas las vías públicas y los bienes mencionados.
+El permiso que otorgue la Dirección para la construcción de Casetas de Seguridad para zonas habitacionales deberán cubrir adicionalmente a los ya establecidos en el presente reglamento y disposiciones aplicables, los siguientes:
+
+I. Solicitar a través de instrumento público notariado la construcción de la caseta de seguridad, estableciéndose:
+
+a) La postura a favor de por lo menos el 80% de los residentes que habitan en el área de influencia mediante documento que acredite la propiedad o posesión, previo consentimiento expreso del propietario, así como la identidad de quien comparece,
+
+b) El nombramiento de un representante común;
+
+c) La aceptación de que los gastos de construcción y mantenimiento correrán por cuenta de los solicitantes;
+
+d) La aceptación del compromiso que garantice el acceso de los servicios públicos, de emergencia, de seguridad pública y de cualquier autoridad que requiera del acceso a la zona habitacional de que se trate.
+
+e) Y la aceptación del compromiso que garantice el libre tránsito y el libre acceso de los peatones a las áreas públicas que pudieren encontrarse en el área de influencia, que de manera enunciativa, más no limitativa se refieran a áreas verdes y parques;
+
+II. Presentar el proyecto de construcción avalado por profesional de la materia, con plano de la zona de afectación, y la descripción del mecanismo que garantizará el libre tránsito en la zona, y
+
+III. El pago de los derechos.
+
+Una vez recibida la solicitud y cubierto los requisitos establecidos, la Dirección remitirá a la Dirección de Tránsito Municipal el proyecto de construcción señalado en la fracción IV para efecto que emitan dictamen de factibilidad que establezca que es tránsito local y no afecta la circulación de vías primarias.
+
+En el mismo sentido, se remitirá a la Dirección de Protección Civil, para que determine si cumple con las normas en la materia para efectos de probables evacuaciones de emergencia, debiendo otorgar la anuencia respectiva.
+
+La Dirección deberá resolver en un plazo de 30 días hábiles si no se considerará como negativa ficta.
 
 ARTÍCULO 14
 
@@ -3999,7 +4029,7 @@ ARTÍCULO 302
 
 > <small>(F. DE E., P.O. 11 DE ABRIL DE 2008)</small>
 
-El propietario del terreno o las personas fisicas o morales que suscriban la solicitud de Licencia en su representación se considerarán como el titular de la explotación y la Dirección podrá autorizar su intervención después de que se exhiba el convenio celebrado entre le (sic) propietario del terreno y el titular designado, en su caso, en el que se demuestre que ambos aceptan con carácter mancomunado y solidario las obligaciones y responsabilidades que establece el Reglamento y demás disposiciones aplicables al caso.
+El propietario del terreno o las personas físicas o morales que suscriban la solicitud de Licencia en su representación se considerarán como el titular de la explotación y la Dirección podrá autorizar su intervención después de que se exhiba el convenio celebrado entre le (sic) propietario del terreno y el titular designado, en su caso, en el que se demuestre que ambos aceptan con carácter mancomunado y solidario las obligaciones y responsabilidades que establece el Reglamento y demás disposiciones aplicables al caso.
 
 ARTÍCULO 303
 
@@ -4454,3 +4484,13 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan la presente reform
 TERCERO.- La Secretaria Municipal de Ecología y Desarrollo Urbano, en un término no mayor a ciento veinte días naturales, deberá someter ante el Honorable Ayuntamiento de Benito Juárez, Quintana Roo, a través de la Comisión Ordinaria de Desarrollo Urbano y Transporte; la Actualización de las Normas Técnicas Complementarias del Reglamento de Construcción para el Municipio de Benito Juárez, Quintana Roo.
 
 CUARTO.- La Secretaria Municipal de Ecología y Desarrollo Urbano, en un término no mayor a noventa días, deberá actualizar sus Manuales de Funciones y Procedimientos, en atención a la presente reforma reglamentaria.
+
+P.O. 9 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 16-18/186, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DEL REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE BENITO JUÁREZ QUINTANA ROO”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo establecido en los reglamentos reformados.
+
+TERCERO. Se instruye para que a partir de la publicación en el Periódico Oficial del Estado, de la presente reforma, se actualicen los manuales de organización, de procedimientos y todos aquellos documentos normativos que sean relativos o de competencia.
