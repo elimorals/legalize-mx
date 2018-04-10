@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-prestacion-de-servicios-de-ambulancias-25887
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-04"
-last_updated: "2002-03-04"
+last_updated: "2018-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA PRESTACION DE SERVICIOS DE AMBULANCIAS EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE AMBULANCIAS EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO 16-18/147, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE ABROGA EL REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE AMBULANCIAS EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, Y SE EXPIDE UN NUEVO DENOMINADO REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE UNIDADES MÓVILES DE ATENCIÓN MÉDICO TIPO AMBULANCIA EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO., PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE AMBULANCIAS EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en el Número 7 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 4 de marzo de 2002.
 
@@ -288,3 +290,17 @@ PRIMERO.- El presente Reglamento entrará en vigor al siguiente día de su publi
 SEGUNDO.- Dentro de los primeros treinta días de vigencia del presente Reglamento, se deberá aprobar el Plan Anual de los Servicios Públicos y Privados en unidades Móviles de Atención Médica Tipo Ambulancia.
 
 TERCERO.- La creación de un Sistema Municipal de Emergencias implicará la modificación del Plan Anual y los Programas Especiales de los Servicios Públicos y Privados en unidades Móviles de Atención Médica Tipo Ambulancia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 16-18/147, EN EL QUE SE APRUEBA EL DICTAMEN DE LA INICIATIVA POR LA QUE SE ABROGA EL REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE AMBULANCIAS EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, Y SE EXPIDE UN NUEVO DENOMINADO REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE UNIDADES MÓVILES DE ATENCIÓN MÉDICO TIPO AMBULANCIA EN EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO.”.]
+
+Primero.- Se abroga el Reglamento para la Prestación de Servicios de Ambulancias en el Municipio de Benito Juárez. Quintana Roo, publicado (sic) P.O.E. 4 de marzo del 2002.
+
+Segundo.- El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Tercero.- Dentro de los primeros treinta días de vigencia del presente Reglamento, se deberá aprobar el Plan Anual de los servicios públicos y privados en unidades móviles de atención médica tipo ambulancia.
+
+Cuarto.- La creación de un Sistema Municipal de Emergencias implicará la modificación del Plan Anual y los Programas Especiales de los servicios públicos y privados en unidades móviles de atención médica tipo ambulancia.
