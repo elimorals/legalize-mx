@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-de-la-secretaria-de-finanzas-y-de-32936"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-03"
-last_updated: "2006-02-05"
+last_updated: "2018-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE FINANZAS Y DE ADMINISTRACION DEL GOBIERNO DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE FINANZAS Y DE ADMINISTRACION DEL GOBIERNO DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y DE ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2006.
+REGLAMENTO INTERNO DE LA SECRETARÍA DE FINANZAS Y DE ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2003.
 
@@ -513,7 +515,7 @@ f. Interponer todo tipo de incidentes, recursos judiciales y administrativos que
 
 g. Ejecutar sentencias, promover embargos, rematar bienes y adjudicar éstos en favor del fisco estatal;
 
-h. Cuando sea procedente, previo acuerdo del Secretario y sin perjuicio del erario estatal, otorgar el perdón judicial ante las autoridades federales y estatales; y (sic)
+h. Cuando sea procedente, previo acuerdo del Secretario y sin perjuicio del erario estatal, otorgar el perdón judicial ante las autoridades federales y estatales; y
 
 i. En su caso, previo acuerdo del Secretario, desistirse de cualquier acción intentada;
 
@@ -767,7 +769,7 @@ XII.- Las demás que se asigne el Secretario del Ramo o el Coordinador General.
 
 ###### ARTÍCULO 15.
 
-Al frente de cada Dirección habrá un Director, quien será responsable ante las autoridades superiores de su correcto funcionamiento. Estarán auxiliados por los jefes de Departamento y demás servidores públicos que se señalen en los manuales de organización y de procesos respectivos, así como también por los que las necesidades del servicio requieran y que figuren en el presupuesto autorizado; (sic)
+Al frente de cada Dirección habrá un Director, quien será responsable ante las autoridades superiores de su correcto funcionamiento. Estarán auxiliados por los jefes de Departamento y demás servidores públicos que se señalen en los manuales de organización y de procesos respectivos, así como también por los que las necesidades del servicio requieran y que figuren en el presupuesto autorizado;
 
 ###### ARTÍCULO 16.
 
@@ -1308,3 +1310,31 @@ LIC. JUAN MANUEL FLORES ÁLVAREZ
 P.O. 5 DE FEBRERO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y DE ADMINISTRACIÓN".]
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría de Finanzas y de Administración del Estado de Durango, publicado en el Periódico Oficial del Estado N° 1 del 03 de julio del año 2003 y su posterior reforma publicada en el Periódico Oficial N° 11 del 05 de febrero del 2006.
+
+###### ARTICULO TERCERO.
+
+En los casos en que algunas o varias de las atribuciones u obligaciones de las Unidades Administrativas, deban pasar a otra por necesidad del servicio, el traspaso deberá efectuarse incluyendo los recursos humanos, materiales y financieros que tienen adscritos para la atención de las atribuciones de que se trate.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que se encuentren en trámite con motivo de la entrada en vigor del presente Reglamento Interno serán resueltos por la Unidad Administrativa a la que se le atribuya la competencia correspondiente, bajo el procedimiento vigente o anterior al momento en que se presentó el asunto y hasta su conclusión.
+
+###### ARTICULO QUINTO.
+
+En todo documento, reglamento y ley en donde aparezca la Dirección de Recursos Humanos se entenderá como Dirección de Capital Humano.
+
+###### ARTICULO SEXTO.
+
+En todo documento, reglamento y ley en donde aparezca la Dirección de Informática se entenderá como Dirección de Tecnologías de la Información y Telecomunicaciones.
