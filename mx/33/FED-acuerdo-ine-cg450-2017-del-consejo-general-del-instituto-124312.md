@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg450-2017-del-consejo-general-del-instituto-124312
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-11-10"
-last_updated: "2017-11-10"
+last_updated: "2018-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124312&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-05"
 ---
 # ACUERDO INE/CG450/2017 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN EL DISEÑO Y LA IMPRESION DE LA BOLETA Y DEMAS DOCUMENTACION ELECTORAL PARA EL PROCESO ELECTORAL FEDERAL 2017-2018
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. 10 DE ABRIL DE 2018, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN EL DISEÑO Y LA IMPRESIÓN DE LA BOLETA Y DEMÁS DOCUMENTACIÓN ELECTORAL PARA EL PROCESO ELECTORAL FEDERAL 2017-2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 10 de noviembre de 2017.
 
@@ -106,3 +108,35 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE DOCUMENTACIÓN ELECTORAL EN LAS SECCIONES SEGUNDA Y TERCERA DEL D.O.F. DE 10 DE NOVIEMBRE DE 2017, PÁGINAS DE LA 72 A LA 128 Y DE LA 1 A LA 112 RESPECTIVAMENTE.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE ABRIL DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN EL FORMATO DE LOS CUADERNILLOS DE OPERACIONES ASÍ COMO EL REVERSO DE LAS BOLETAS ELECTORALES DE LAS ELECCIONES FEDERALES Y LOCALES QUE SE UTILIZARÁN EN LA JORNADA ELECTORAL DEL 1 DE JULIO, EN CUMPLIMIENTO AL PUNTO SEGUNDO DEL ACUERDO INE/CG122/2018, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba modificar el reverso del modelo de las boletas de la elección a la Presidencia, Senadurías y Diputaciones Federales, así como al Cuadernillo para hacer las operaciones de escrutinio y cómputo aprobados mediante el Acuerdo INE/CG450/2017; mismo que se integran al presente como Anexos 1 y 2.
+
+SEGUNDO. Se aprueba modificar el reverso de los modelos de las boletas para las elecciones de Gubernaturas y Jefatura de Gobierno, Diputaciones Locales y Ayuntamientos y, en su caso las adicionales que la legislación local disponga, así como al Cuadernillo para hacer las operaciones de escrutinio y cómputo, contenidos en los formatos únicos para las elecciones locales que se integraron en el Anexo 4.1 del RE; que se adjunta como Anexos 3 y 4, mismos que deberán ser presentados al Instituto para su validación a más tardar dentro de los cinco días naturales posteriores a la recepción de los formatos únicos elaborados por la DEOE y remitidos por la UTVOPL.
+
+TERCERO. Se aprueban los carteles informativos para la casilla, correspondientes a las elecciones de Presidencia, Senadurías y Diputaciones Federales, para orientar que la ciudadanía deposite las boletas en las urnas correctas; que se integran al presente como Anexo 5.
+
+CUARTO. Se aprueban los carteles informativos para la casilla, correspondientes a las elecciones de Gubernaturas y Jefatura de Gobierno, Diputaciones Locales y Ayuntamientos y, en su caso, las adicionales que la legislación local disponga (Anexos 6), para orientar que la ciudadanía deposite las boletas en las urnas correctas, los cuales se integrarán en los formatos únicos para las elecciones locales que se incluyeron en el Anexo 4.1 del RE; mismos que los OPL deberán presentar al Instituto para su validación a más tardar dentro de los cinco días naturales posteriores a la recepción de los formatos únicos elaborados por la DEOE y remitidos por la UTVOPL.
+
+QUINTO. Notifíquese el presente Acuerdo y sus respectivos anexos a las Consejeras y Consejeros Presidentes de los Consejos Locales, para que a su vez lo hagan del conocimiento de sus respectivos Consejos Distritales, a través de la Dirección del Secretariado.
+
+SEXTO. Notifíquese el presente Acuerdo a los miembros del Comité Técnico Asesor de los Conteos Rápidos para los Procesos Electorales Federal y Locales 2017-2018.
+
+SÉPTIMO. Se instruye a la UTVOPL haga del conocimiento de los Organismos Públicos Locales de las entidades federativas con elecciones locales, lo aprobado por este órgano superior de dirección.
+
+OCTAVO. Se instruye al Secretario Ejecutivo a efecto de que notifique el contenido del presente Acuerdo a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+NOVENO. El presente Acuerdo entrará en vigor el día de su aprobación por parte de este Consejo General.
+
+DÉCIMO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral y en el portal de Internet del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 14 de marzo de 2018, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+Los anexos podrán ser consultados mediante la liga: http://www.ine.mx/sesion-extraordinaria-del-consejo-general-14-marzo-2018/)
