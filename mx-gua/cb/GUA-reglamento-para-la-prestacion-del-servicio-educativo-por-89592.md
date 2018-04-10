@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2017-03-17"
+last_updated: "2018-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2018.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -145,6 +145,14 @@ Instituciones que imparten formación para el trabajo con registro
 
 Las instituciones que imparten formación para el trabajo con la figura del registro lo mantendrán según las determinaciones de la Secretaría y bajo el seguimiento en la operación y supervisión de la Secretaría de Desarrollo Económico Sustentable. En el caso de que pretendan obtener reconocimiento de validez oficial de estudios deberán solicitarlo en los términos de la Ley y el Reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Apoyo de otras instancias
+
+Artículo 10 bis. En todos los procesos que la DGPSEI lleve a cabo con base en este Reglamento, podrá solicitar el apoyo de las instancias competentes para que las mismas corroboren o aclaren elementos respecto a las condiciones higiénicas, de seguridad y pedagógicas, entre otras, que resulten necesarios para la atenc ón (sic) de tales procesos.
+
+En el supuesto al que alude el presente artículo, los plazos previstos en los diversos procedimientos que regula el presente ordenamiento, cuedarán (sic) suspendidos a partir de la fecha de solicitud de apoyo y hasta en tanto se cuente con la respuesta de la instancia respectiva.
+
 ### Capítulo II. Derechos y obligaciones de los interesados
 
 Automatización y simplificación administrativa
@@ -223,9 +231,17 @@ b) El instrumento jurídico ratificado ante fedatario público e inscrito en el 
 
 Tratándose de contratos de comodato o de arrendamiento de bienes inmuebles por un período menor de seis años y aquellos en que haya anticipos de rentas menores a tres años, no se requerirá su inscripción en el Registro Público de la Propiedad, de conformidad a los (sic) establecido en el Código Civil para el Estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Es obligación del particular garantizar la posesión legal del inmueble, para lo cual se verificará que el instrumento aportado mantenga su vigencia a partir de la fecha en que se otorgue la Autorización o Reconocimiento de Validez Oficial de Estudios hasta la conclusión de la primerc (sic) generación, conforme al plan y programa de estudios respectivo.
+
 c) La manifestación bajo protesta de decir verdad que el inmueble propuesto se encuentra libre de controversia administrativa o judicial.
 
 III. La propuesta de nombre y emblema de la institución educativa, de conformidad con las disposiciones normativas emitidas por la Secretaría;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Además de lo anterior, se deberá cumplir con lo previsto en el artículo 48 del presente Reglamento, exceptuándose la fracción III de dicho numeral.
 
 IV. El proyecto de reglamento interno, estructurado en los términos de los lineamientos establecidos por la DGPSEI;
 
@@ -241,21 +257,59 @@ Los documentos que se adjuntarán serán:
 
 a) El proyecto arquitectónico incluidas plantas, cortes y fachadas, especificando el destino de cada área y sus dimensiones;
 
-b) La licencia de uso de suelo vigente emitida por la autoridad municipal competente; y
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2018)</small>
 
-c) La constancia vigente de haber acreditado las medidas de seguridad, emitida por la autoridad de protección civil municipal correspondiente.
+b) Dictamen de verificación normativa a la infraestructura y seguridad de la construcción elaborado y firmado por un perito en infraestructura;
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+c) Dictamen de seguridad estructural elaborado y firmado por un profesionista con especialidad o maestría en estructuras;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+d) Dictamen eléctrico elaborado y firmado por un profesionista electromecánico, eléctrico o electricista;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+e) Licencia o permiso de uso de suelo y/o autorización de uso y ocupación vigente;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+f) Permiso vigente de protección civil;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+g) Permiso vigente de bomberos, cuando el municipio de que se trate, cuente con dicha corporación;
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+h) Documentos que acrediten la posesión legal del inmueble; y
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+i) Aquellos documentos que en su caso el organismo competente en materia de infraestructura educativa hubiese requerido en materia de seguridad.
 
 La DGPSEI con base en la opinión técnica antes emitida, determinará el número de alumnos por grupo;
 
 IX. El dictamen de higiene vigente emitido por la unidad administrativa competente; y
 
-X. El comprobante del pago de derechos correspondiente.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+X. Manifestación bajo protesta de decir verdad, de que no se han iniciado operaciones del servicio educativo, así como el compromiso de no hacerlo hasta que se obtenga la autorización o el reconocimiento de validez oficial de estudios; y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+XI. El comprobante del pago de derechos correspondiente.
 
 La Secretaría podrá emitir lineamientos que especifiquen la forma de acreditar los requisitos anteriores.
 
 El interesado deberá exhibir en original o copias certificadas la documentación señalada en este artículo. Para la devolución de los documentos originales deberá acompañarse copia simple de los mismos para su previo cotejo por parte de la DGPSEI, salvo que se trate de documentos que deban constar en original.
 
 Para los casos de educación inicial, especial, indígena y para adultos, así como demás relacionados en apoyo a los tipos y modalidades educativos se estará a lo dispuesto por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Tratándose de procedimientos seguidos a través de medios electrónicos la DGPSEI determinará la forma de presentar la información a la que se refiere este artículo.
 
 Validación previa del proyecto pedagógico
 
@@ -725,9 +779,11 @@ Los particulares que presten servicios educativos de tipo básico y los que lo h
 
 Aspectos susceptibles de actualización mediante dictamen
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2018)</small>
+
 ###### Artículo 44.
 
-El particular requerirá la aprobación de la DGPSEI cuando pretenda realizar cambios en:
+El particular, a través de su representante o apoderado legal autorizado, requerirá la aprobación de la DGPSEI cuando pretenda realizar cambios en el expediente respecto a:
 
 I. Domicilio, siempre que sea dentro del mismo municipio autorizado en el Acuerdo Secretarial;
 
@@ -735,15 +791,49 @@ II. Denominación o razón social del titular de la autorización o reconocimien
 
 III. El plan y los programas de estudios;
 
-IV. Modalidad y turno;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-V. Plantilla directiva, docente y personal de apoyo en los términos de las disposiciones normativas aplicables;
+IV. Modalidad;
 
-VI. Incremento de grupos; y
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-VII. Rector.
+V. Cambio, renuncia o apertura de turno;
 
-El particular no podrá implementar cualquiera de los cambios pretendidos hasta que cuente con la aprobación correspondiente.
+VI. Plantilla directiva, docente y personal de apoyo en los términos de las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+VII. Incremento de grupos;
+
+VIII. Rector;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+IX. Nombre de la Institución;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+X. Representante y apoderado legal;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+XI. Determinación de matrícula pertinente actualizada;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+XII. Ampliación de Matrícula, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+XIII. Emblema de la institución.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Los supuestos previstos en las fracciones III y IV del presente artículo, solo son aplicables para el tipo medio superior y superior. La fracción VIII del presente artículo solamente es aplicable para el tipo superior.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Ningún cambio surtirá efectos hasta en tanto el particular cumplimente la totalidad de los requisitos y la DGPSEI emita la resolución correspondiente.
 
 Solicitud de aprobación de cambios
 
@@ -809,6 +899,12 @@ I. El instrumento notarial en que conste el cambio; y
 
 II. La inscripción en el Registro Público de la Propiedad del instrumento notarial a que se refiere la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Solicitud de matrícula pertinente
+
+Artículo 49 bis. Los particulares que no cuenten con la determinación de la matrícula pertinente acorde a las condiciones de seguridad del bien inmueble o la misma no se encuentre actualizada, deberán presentar la solicitud ante la DGPSEI con la validación emitida por el organismo estatal competente en materia de infraestructura física educativa, en la que éste propongc (sic) la matrícula pertinente, acompañada de los requisitos que se presentaron para la obtención de la validación referida.
+
 Cambio de domicilio
 
 ###### Artículo 50.
@@ -819,15 +915,23 @@ Cuando el particular pretenda un cambio de domicilio en municipio diverso al aut
 
 Cambio de planes y programas, cambio o apertura de turno, o modalidad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2018)</small>
+
 ###### Artículo 51.
 
-Los particulares que pretendan realizar cambios de sus planes y programas de estudio, cambio o apertura de turno, o modalidad, deberán acompañar a su solicitud los siguientes documentos:
+Los particulares que pretendan realizar cambios o actualización de sus planes y programas de estudio, cambio o apertura de turno o modalidad, deberán acompañar a su solicitud los siguientes documentos:
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 I. La validación técnica pedagógica emitida por la unidad administrativa competente, con los documentos que sirvieron de soporte para la emisión de la referida validación; y
 
-II. La plantilla del personal docente.
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Para obtener la validación técnico pedagógica en educación media superior, se deberá presentar ante la Dirección General de Media Superior de la Secretaría, actualizados por lo menos los elementos de las fracciones II, IV, V, VI, VII y VIII del artículo 17 del presente reglamento. Dicha actualización deberá estar alineada al Marco Curricular Común y al Modelo Educativo vigente; y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+II. La plantilla del personal docente, con la validación de perfiles docentes por parte de la unidad administrativa competente, de conformidad con la fracción anterior.
 
 Los documentos que se adjuntan a la solicitud deberán de ajustarse a las disposiciones emitidas por la Secretaría.
 
@@ -869,41 +973,69 @@ El refrendo de la autorización o el reconocimiento de validez oficial de estudi
 
 Refrendo automático
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2018)</small>
+
 ###### Artículo 56.
 
-El refrendo de la autorización y del reconocimiento de validez oficial de estudios será otorgado de manera automática cuando el particular cumpla con lo establecido en el artículo 147 de la Ley, el Reglamento y lo dispuesto en el programa de revisión y mejora.
+El refrendo de la autorización y del reconocimiento de validez oficial de estudios se solicitará por el particular y se otorgará de manera automática por la Secretaría cuando el particular cumpla con lo establecido en el artículo 147 de la Ley, el Reglamento y lo dispuesto en los criterios de calidad del servicio educativo emitidos por la Secretaría.
+
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 222, PUBLICADA EN EL P.O. DE 10 DE ABRIL DE 2018, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 Requisitos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2018)</small>
+
 ###### Artículo 57.
 
-Los particulares para obtener el refrendo deberán formular su solicitud en los formatos que establezca la DGPSEI, acompañando los siguientes documentos, a fin de acreditar los requisitos señalados en el artículo 147 de la Ley:
+Los particulares para obtener el refrendo ceberán (sic) formular su solicitud en los formatos que establezca la DGPSEI, acompañandc (sic) los siguientes documentos:
 
 I. Las licencias y permisos municipales y estatales vigentes que acrediten la operatividad del inmueble en donde se presta el servicio educativo;
 
-II. El dictamen de infraestructura física educativa y el dictamen de higiene en los términos señalados en el Reglamento;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-III. Los documentos con los que acredite la preparación académica o profesional del personal docente de conformidad con las disposiciones que emita la Secretaría;
+II. La validación emitida por el organismo competente en materia de infraestructura física educativa en la que se acrediten las condiciones de seguridad del inmueble, en términos de los criterios de calidad emitidos por la Secretaría.
 
-IV. La constancia que emitan las unidades administrativas competentes que acrediten el otorgamiento de las becas en cada ciclo o periodo escolar, en un porcentaje mínimo del 7.5 por ciento de la matrícula autorizada y registrada;
+En aquellos casos en que existan observaciones, en materia de infraestructura, se deberá adjuntar el escrito firmado por el particular en el que asuma el compromiso de solventar las mismas, estableciendo un programa y plazo de cumplimiento, mismo que será validado por el organismo competente en materia de infraestructura educativa.
 
-V. El acta de constitución del Órgano Colegiado en Materia Técnico-Pedagógico, tratándose de educación básica;
+Una vez transcurrido el plazo, el particular deberá presentar ante el organismo competente en materia de infraestructura educativa, la solventación de las observaciones formuladas. En caso de que el particular no las solvente, dicho organismo lo hará del conocimiento de la DGPSEI, para los efectos legales conducentes;
 
-VI. En caso de haber realizado algún cambio en su denominación, su domicilio, turno o en el plan y los programas de estudio, la resolución en la que conste haber obtenido la aprobación respectiva;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-VII. En el caso de cambio de representante legal, presentar el documento del registro realizado por la DGPSEI;
+III. El dictamen de higiene en los términos señalados en el Reglamento;
 
-VIII. El documento emitido por la unidad administrativa competente sobre la pertinencia y la matrícula relacionada con ésta de la institución educativa;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-IX. Dictamen favorable sobre la actualización de planes y programas de estudio, tratándose de la educación media superior y superior, a excepción de los planes y programas de estudios relativos a la formación de profesionales de la educación;
+IV. La o las resoluciones vigentes mediante la o las cuales se autorice la plantilla de personal docente de conformidad con las disposiciones que emita la Secretaría;
 
-X. El documento en donde conste la acreditación del programa educativo, tratándose de educación media superior y superior. Se exceptúa de lo anterior, a los particulares cuyos programas educativos autorizados o con reconocimiento de validez oficial de estudios tengan menos de ocho años de operación;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-XI. El documento en donde conste la certificación de procesos que incidan en aspectos educativos según las determinaciones de la Secretaría;
+V. La constancia que emitan las unidades administrativas competentes que acrediten el otorgamiento de las becas en cada ciclo o periodo escolar en el que se solicita el refrendo, en un porcentaje mínimo del 7.5 por ciento de la matrícula autorizada y registrada;
 
-XII. El comprobante del pago de derechos de refrendo correspondiente; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
 
-XIII. Los demás exigidos en las disposiciones normativas.
+VI. El acta de constitución del Órgano Colegiado en Materia Técnico-Pedagógico, tratándose de educación básica;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+VII. En caso de haber realizado algún cambio en su denominación, su domicilio, turno, o bien, cambio o actualización en el plan y bs programas de estudio, la resolución vigente en la que conste haber obtenido la aprobación respectiva, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+VIII. En el caso de cambio de representante legal, la resolución vigente emitida por la DGPSEI, en la que se tenga registrado el cargo del nuevo representante;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+IX. Los documentos que acrediten el cumplimiento de los criterios de calidad del servicio educativo, en los términos que señalen las disposiciones normativas emitidas por la Secretaría.
+
+La Secretaría determinará en las disposiciones normativas respectivas, cuáles criterios de calidad habrán de cumplir las instituciones educativas, según sus circunstancias.
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+X. El comprobante del pago de derechos de refrendo correspondiente; y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2018)</small>
+
+XI. Los demás exigidos en las disposiciones normativas.
 
 Instituciones con variedad de planes y programas
 
@@ -925,11 +1057,21 @@ Cuando el particular incumpla con las disposiciones establecidas en el programa 
 
 Negativa del refrendo
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2018)</small>
+
 ###### Artículo 61.
 
-Cuando la Secretaría no otorgue el refrendo al particular, éste será sujeto al procedimiento administrativo disciplinario y se le impondrán las sanciones que establece el artículo 161 de la Ley.
+Cuando el particular no cumpla con los requisitos para obtener el refrendo y por lo tanto éste resulte improcedente, aquél será sujeto del procedimiento administrativo disciplinario y se le impondrán las sanciones que resulten procedentes.
 
-Si antes de dar inicio al programa de regularización y mejora o durante éste, la Secretaría advierte situaciones de hecho que pongan en peligro la integridad de los alumnos o la calidad de los servicios que se ofertan podrá determinar las medidas preventivas que considere convenientes.
+Si antes de dar inicio al procedimiento de refrendo o durante éste, la Secretaría, la SICES o el organismo estatal competente en materia de infraestructura física educativa, adviertan situaciones de hecho que pongan en peligro la integridad de los alumnos o la calidad de los servicios que se ofertan podrán determinar las medidas preventivas que considere convenientes.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Periodo de solicitud de refrendo
+
+Artículo 61 bis. El particular deberá solicitar el refrendo en cualquier día hábil del periodo que le corresponda, para lo cual, deberá presentar su solicitud ante la DGPSEI, con los requisitos y documentos establecidos.
+
+La DGPSEI requerirá al particular cuando de la información aportada no se presente la totalidad de los requisitos, dando un plazo para su cumplimiento.
 
 ## Título Séptimo. Procedimientos de quejas, inconformidades e inspección
 
@@ -1229,6 +1371,20 @@ Para la determinación del importe de la multa a imponer al interesado, al parti
 
 Cuando se declare por parte de la DGPSEI la clausura, el particular no podrá hacer uso de papelería oficial, sellos, formatos y demás documentación oficial que hagan mención al número de Acuerdo Secretarial o clave de centro de trabajo.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2018)</small>
+
+Revocación de la autorización o del retiro del reconocimiento de validez oficial de estudios
+
+Artículo 82 bis. Procederá la sanción de revocación de la autorización o del retiro del reconocimiento de validez oficial de estudios, en los siguientes casos:
+
+l. Cuando una vez agotado el procedimiento previsto en las disposiciones aplicables para el refrendo, éste resulte improcedente;
+
+II. Cuando el particular no atienda las observaciones emitidas por el organismo estatal competente en materia de infraestructura física educativa;
+
+III. Cuando el particular incumpla con las disposiciones para conservar el refrendo en los términos de las disposiciones normativas aplicables; y
+
+IV. Cuando los particulares realicen cambios de domicilio sin contar con la autorización de la Secretaría, ni con la validación del orgcnismo (sic) estatal competente en materia de infraestructura física educativa, sobre las condiciones procedentes de seguridad.
+
 ### Capítulo II. Revocación de la Autorización o Retiro del Reconocimiento de Validez Oficial de Estudios
 
 Revocación o retiro a petición de parte
@@ -1338,5 +1494,13 @@ Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día s
 P.O. 17 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 222, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 227, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 154 TERCERA PARTE, DE FECHA 25 DE SEPTIEMBRE DEL 2012”.]
+
+Inicio de vigencia
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
