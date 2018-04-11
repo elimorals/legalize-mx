@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2018-01-24"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1104,6 +1104,12 @@ III. Los elementos de certeza existentes.
 Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes emitidas o la determinación de las mismas en sus resoluciones.
 
 Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de las víctimas, de las hijas o hijos, de las personas que convivan con ellas o se encuentren a su guarda o custodia, de los responsables de la atención integral de los refugios o del Ministerio Público. Respecto de las personas menores de edad, se sujetarán a lo establecido en el Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+Artículo 71 Quintus.- Cuando se cometa un delito doloso en contra de algún periodista, persona o instalación con la intención de afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para el delito doloso que se haya cometido.
+
+En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
 
 ###### Artículo 72.
 
@@ -5864,3 +5870,9 @@ P.O. 24 DE ENERO DE 2018.
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 196 POR EL QUE SE ADICIONA EL ARTÍCULO 71 QUINTUS DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Único.- El presente Decreto, entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
