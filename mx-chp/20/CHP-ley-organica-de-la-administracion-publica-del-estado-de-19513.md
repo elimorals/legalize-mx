@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2018-01-24"
+last_updated: "2018-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1787,7 +1787,13 @@ X. PROMOVER LA INVESTIGACION CIENTIFICA Y TECNOLOGICA APLICADA EN LOS CENTROS ED
 
 XI. GESTIONAR LA OBTENCION DE RECURSOS ECONOMICOS DE ORGANISMOS NACIONALES E INTERNACIONALES PARA EL DESARROLLO DE PROYECTOS PRODUCTIVOS.
 
-XII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2018)</small>
+
+XII. COORDINAR LA OPERACION DEL PROGRAMA BIENESTAR “PESCANDO CON EL CORAZON”, EN APOYO A LOS PESCADORES DE LAS REGIONES ISTMO-COSTA Y SOCONUSCO, COMO UNA ALTERNATIVA DE FOMENTO A LA PRODUCTIVIDAD PESQUERA, LA CUAL PERMITA LOGRAR UN MAYOR INDICE DE DESARROLLO HUMANO EN DICHAS REGIONES.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2018)</small>
+
+XIII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
 
@@ -3622,3 +3628,13 @@ Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá reali
 Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
 
 Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 195 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables, debiendo la Secretaría de Hacienda, prever la suficiencia presupuestal para dar continuidad al Programa Bienestar “Pescando con el Corazón”.
