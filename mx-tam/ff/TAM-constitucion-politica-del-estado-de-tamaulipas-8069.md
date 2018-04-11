@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-12-01"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -185,7 +185,7 @@ III. Por falta de cumplimiento sin causa justificada, de las obligaciones impues
 
 IV. Por sentencia judicial.
 
-V. Por ser vago, ebrio consuetudinario o tahúr de profesión.
+V. (DEROGADA, P.O. 11 DE ABRIL DE 2018)
 
 VI. En los casos de suspensión de la ciudadanía mexicana.
 
@@ -4714,6 +4714,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El término de seis años establecido mediante el presente Decreto para el período de encargo del Presidente y de los miembros del Consejo Consultivo de la Comisión de Derechos Humanos, empezará a surtir efectos a partir de los subsecuentes nombramientos que se deriven de la sustitución de los actuales encargos de las figuras jurídicas antes referidas.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-393 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 9o DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEXTO.
 
