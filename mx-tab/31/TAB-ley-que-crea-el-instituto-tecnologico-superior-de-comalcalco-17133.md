@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco-17
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-14"
-last_updated: "2011-08-27"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE COMALCALCO
 
-LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE COMALCALCO
+LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE COMALCALCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de febrero de 1996.
 
@@ -85,7 +85,19 @@ VI.- Regular el desarrollo de sus funciones sustantivas, (docencia e investigaci
 
 VII.- Reconocer estudios y establecer sus equivalencias con los realizados en otras instituciones educativas conforme al Sistema Nacional de Créditos.
 
-VIII.- Prestar servicios de asesoría, elaboración de proyectos de desarrollo de prototipos, paquetes tecnológicos y capacitación técnica a los sectores público, social y privado que la soliciten.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] , P.O. 11 DE ABRIL DE 2018)</small>
+
+VIII.- Prestar servicios de asesoría y de elaboración de proyectos de desarrollo, de prototipos, paquetes tecnológicos y capacitación técnica a las organizaciones de los sectores, público, social y privado que lo soliciten; así como la prestación de servicios de asesoría y asistencia técnica para el diseño y desarrollo de proyectos en las diversas ramas de la ingeniería y arquitectura, que tecnológicamente se vinculen; pudiendo en la consecución de dichos objetivos, entre otros:
+
+a) Impartir cursos de capacitación, diplomados, conferencias y talleres afines a su capacidad técnica;
+
+b) La prestación de servicios profesionales y de consultoría en organización empresarial, comunicaciones, sistemas y procedimientos administrativos; así como procesamiento de datos;
+
+c) La adquisición, importación y comercialización de equipo, maquinaria, herramientas e insumos necesarios para la ejecución de proyectos, programas o servicios que en cumplimiento de su objeto ejecute;
+
+d) Celebrar toda clase de contratos y convenios con personas físicas y jurídicas colectivas del sector privado; así como municipales, estatales, federales de la administración pública centralizada y paraestatal e internacional; y
+
+e) Brindar asesoría y asistencia en la elaboración de estudios, planes, proyectos, cálculos, peritajes, inspecciones, controles de calidad, supervisión y ejecución de toda clase de obras relacionadas con las ramas de la ingeniería y la arquitectura, en relación con obras públicas y privadas.
 
 IX.- Desarrollar y promover actividades culturales y deportivas, que contribuyan al desarrollo del educando.
 
@@ -179,9 +191,9 @@ VIII.- Reglamentar la integración de las Comisiones Dictaminadoras interna y ex
 
 IX.- Integrar el Consejo Técnico Consultivo que apoyará los trabajos de la Junta Directiva.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
 
-X.- Nombrar a los Directores de Área, Subdirectores y Jefes de División a propuesta del Director General.
+X.- Nombrar a los Directores de Área y a los Subdirectores, a propuesta del Director General;
 
 XI.- Autorizar las actas de dominio.
 
@@ -267,9 +279,11 @@ XVII.- Las demás que señalen otras disposiciones.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO
 
-###### ARTICULO 14º.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2018)</small>
 
-El patrimonio del Instituto Superior de Comalcalco, estará constituído por:
+###### ARTICULO 14°.
+
+El patrimonio del Instituto Tecnológico Superior de Comalcalco, estará constituido por:
 
 I.- Los ingresos que obtenga por los servicios que preste en el ejercicio de sus facultades y en el cumplimiento de sus objetivos.
 
@@ -281,9 +295,11 @@ IV.- Los bienes muebles e inmuebles que adquiera por cualquier título legal, pa
 
 V.- Las utilidades, intereses, dividendos y en general los bienes, derechos y demás ingresos que adquiera por cualquier título legal.
 
-###### ARTICULO 15º.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2018)</small>
 
-Los ingresos del Instituto Superior de Comalcalco y los bienes de su propiedad no estarán sujetos a contribuciones estatales. Tampoco serán gravados los actos y contratos en los que intervenga en cumplimiento a sus atribuciones.
+###### ARTICULO 15°.
+
+Los ingresos del Instituto Tecnológico Superior de Comalcalco y los bienes de su propiedad no estarán sujetos a contribuciones estatales. Tampoco serán gravados los actos y contratos en los que intervenga en cumplimiento a sus atribuciones.
 
 Los bienes inmuebles que formen parte del patrimonio de la Institución, serán inalienables, imprescriptibles y en ningún caso podrá constituírsele gravámenes sobre ellos.
 
@@ -315,7 +331,9 @@ III.- Autorizar la adquisición de bienes necesarios para la realización de las
 
 IV.- Formular proyectos anuales de ingresos adicionales para ser sometidos a la consideración de la Junta Directiva.
 
-V. Presentar a la Junta Directiva dentro de los tres primeros meses siguientes a la conclusión del Ejercicio Presupuestal anual, los estados financieros dictaminados por el auditor externo designado para tal efecto, en términos del artículo 25 fracción XI de la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
+
+V.- Presentar a la Junta Directiva, dentro de los tres primeros meses siguientes a la conclusión del ejercicio presupuestal anual, los estados financieros dictaminados por el auditor externo designado para tal efecto, en términos del Artículo 37, fracción X Bis, de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
 VI.- Apoyar las actividades del Instituto en materia de difusión y vinculación con el sector productivo.
 
@@ -349,13 +367,15 @@ Durante los primeros tres años el ingreso del personal académico, técnico de 
 
 Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, por las condiciones generales de trabajo y demás disposiciones que expida la Junta Directiva.
 
-Todos los servidores públicos de base y de confianza del Instituto gozarán de la seguridad social que otorga la Ley del Instituto de Seguridad Social del Estado de Tabasco (ISSET), quedando incorporados a dicho régimen.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+Todos los servidores públicos de base y de confianza gozaran de la seguridad social que otorga el Instituto de Seguridad Social del Estado de Tabasco (ISSET), en los términos y condiciones de la Ley de Seguridad Social del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 21°.
 
-Serán considerados servidores públicos de confianza el Director General del Instituto, los Directores de Área, Subdirectores, Jefes de División, Jefes de Departamento, Jefes de Unidades, el Asesor Jurídico, Coordinadores, Jefes de Sección, Investigadores, Secretarios Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter el catálogo institucional de puestos.
+Serán considerados servidores públicos de confianza: el Director del Instituto, los directores de área, los subdirectores, jefes de división, jefes de departamento, el asesor jurídico, coordinadores, jefes de sección, investigadores, secretarias particulares y, en general, el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter la Ley de los Trabajadores al Servicio del Estado de Tabasco y el Catalogo Institucional de Puestos. Los trabajadores que sean necesarios para la ejecución de proyectos específicos cuyo objeto, duración y alcances estén delimitados al cumplimiento de un objetivo particular, serán contratados por obra determinada y su relación laboral concluirá al finalizar el mismo; fijándose su remuneración de acuerdo al tabulador que para cada caso se establezca en atención a la especialidad requerida.
 
 ### CAPITULO SEXTO. DEL ALUMNADO
 
@@ -402,3 +422,11 @@ P.O. 27 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 195 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 3, FRACCIÓN VIII; 8, FRACCIÓN X; 14, PÁRRAFO PRIMERO; 15, PÁRRAFO PRIMERO; 17, FRACCIÓN V; 20, SEGUNDO PÁRRAFO; Y 21; TODOS DE LA LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE COMALCALCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
