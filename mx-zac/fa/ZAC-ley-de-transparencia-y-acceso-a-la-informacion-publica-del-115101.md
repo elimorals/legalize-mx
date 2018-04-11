@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2016-07-16"
+last_updated: "2018-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -1681,7 +1681,9 @@ d. La Dirección de Asuntos Jurídicos;
 
 e. La Dirección de Tecnologías de la Información, y
 
-f. Contraloría Interna;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+f. Órgano Interno de Control;
 
 VII. Las Unidades:
 
@@ -1981,9 +1983,97 @@ XVI. Firmar junto con el Comisionado Presidente, todos los acuerdos y resolucion
 
 XVII. Las demás que le sean conferidas por esta Ley, por el Pleno y el Comisionado Presidente, en el ámbito de sus respectivas atribuciones.
 
-Artículos 145. El Contralor Interno del Instituto durará en el cargo cuatro años, pudiendo ser reelecto para un periodo más, será designado por el Pleno del Instituto con el voto de las dos terceras partes de sus integrantes, a propuesta del Comisionado Presidente y podrá ser removido por votación calificada, por violaciones graves a esta Ley y demás leyes aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2018)</small>
 
-Artículos 146. Las atribuciones que corresponden a las Ponencias, Contraloría Interna, Direcciones, Unidades y demás órganos y personal de apoyo del Instituto se establecerán en el Reglamento Interior y demás disposiciones legales aplicables.
+###### Artículo 145.
+
+El Instituto contará con un Órgano Interno de Control, el cual tendrá autonomía técnica, operativa y de gestión. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+Para la designación del titular del Órgano Interno de Control del Instituto, la Legislatura del Estado, mediante convocatoria pública, constituirá una terna con los perfiles adecuados.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+El titular será electo por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado, durará tres años en el cargo y no podrá ser designado para otro periodo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 145 Bis.
+
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que sean necesarios para el cumplimiento de sus funciones y que sea aprobado por el Pleno del Instituto, de acuerdo con los recursos que al efecto se le asignen en el presupuesto de egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 145 Ter.
+
+En los términos de la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción de Zacatecas y demás ordenamientos aplicables, el Órgano Interno de Control mantendrá una coordinación permanente con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 145 Quáter.
+
+Para ser titular del Órgano Interno de Control, se requiere:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener, cuando menos, treinta años cumplidos al día de su designación;
+
+III. Contar al día de su designación, con título profesional, por lo menos, de nivel licenciatura en administración, derecho, contaduría u otra relacionada en forma directa con las actividades de fiscalización y responsabilidades administrativas, expedido por institución legalmente facultada;
+
+IV. Contar con experiencia profesional de, cuando menos, tres años, en el control, manejo, fiscalización de recursos o responsabilidades administrativas;
+
+V. Gozar de buena reputación, no haber sido sancionado por responsabilidad administrativa mediante una resolución firme o no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VI. No ser o haber sido dirigente de partido político o candidato a puesto de elección popular, ni ministro de algún culto religioso, en los cinco años anteriores a su designación.
+
+Procederá su remoción por violaciones graves a esta Ley o a las demás disposiciones normativas aplicables, requiriéndose, para tal efecto, el voto de las dos terceras partes de los miembros presentes de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 145 Quinquies.
+
+El titular del Órgano Interno de Control durante el ejercicio de su encargo no podrá:
+
+I. Desempeñar otro empleo, cargo o comisión, excepto los relacionados con la docencia, asociaciones científicas, artísticas o de beneficencia, y
+
+II. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 145 Sexies.
+
+El Órgano Interno de Control será responsable del control, evaluación y desarrollo administrativo, así como de la prevención de conductas constitutivas de responsabilidades administrativa (sic) y ejercerá las facultades que le confiera la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal Anticorrupción de Zacatecas, y tendrá, además, las siguientes atribuciones:
+
+I. Llevar a cabo la investigación, substanciación y calificación de faltas administrativas no graves en términos de la Ley General de Responsabilidades Administrativas;
+
+II. Resolver sobre las responsabilidades de los servidores públicos del Instituto e imponer, en su caso, las sanciones administrativas correspondientes en términos de la Ley General de Responsabilidades Administrativas;
+
+III. Elaborar y presentar a la autoridad substanciadora los informes de presunta responsabilidad administrativa que correspondan;
+
+IV. Resolver los recursos de revocación que le sean interpuestos en términos de la Ley General de Responsabilidades Administrativas;
+
+V. Promover los recursos establecidos en la Ley General de Responsabilidades Administrativas cuando sea procedente;
+
+VI. Presentar las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción;
+
+VII. Implementar los mecanismos internos encaminados a prevenir actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+VIII. Comprobar el cumplimiento por parte de los órganos del Instituto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingreso, egreso, financiamiento, patrimonio y fondos;
+
+IX. Vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro; contabilidad, contratación y pago de personal; contratación de servicios y recursos materiales del Instituto;
+
+X. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleven a cabo en los términos establecidos por las disposiciones de la materia;
+
+XI. Intervenir, en el ámbito de su competencia, en el proceso de entrega-recepción de acuerdo con la ley de la materia, y
+
+XII. Las demás que confieran otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 146.
+
+Las atribuciones que corresponden a las Ponencias, Órgano Interno de Control, Direcciones, Unidades y demás órganos y personal de apoyo del Instituto se establecerán en el Reglamento Interior y demás disposiciones legales aplicables.
 
 #### Sección Quinta. Del Consejo Consultivo
 
@@ -2690,3 +2780,11 @@ P.O. 16 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 614.- SE REFORMA EL ARTÍCULO 66 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 360.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS.”
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo. La Legislatura del Estado, dentro de los 30 días naturales posteriores a la entrada en vigor del presente decreto, deberá designar al titular del Órgano Interno de Control del Instituto, a través del procedimiento descrito en el artículo 145 de esta Ley.
