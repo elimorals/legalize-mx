@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2018-01-08"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE EDUCACION DEL ESTADO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -479,45 +481,49 @@ VIII Bis.- Evaluar sobre el tránsito de alumnos de un grado, nivel o tipo educa
 
 IX.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y escuelas; un registro estatal de emisión, validación e inscripción de documentos académicos en coordinación del marco del sistema de información y gestión educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables; establecer y mantener actualizado un sistema estatal de información y gestión educativa mismo que deberá proporcionar información para satisfacer las necesidades de operación del sistema educativo estatal; así mismo, participará en la actualización e integración permanente del sistema de información y gestión educativa;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2018)</small>
+
+X.- Crear en coordinación con las instituciones educativas a que se refiere el artículo 55 de la presente Ley, lineamientos para elaborar un tabulador general que regule el cobro del título profesional; que en ningún caso excederá de un tanto más del importe de los derechos que se pagan por el servicio establecido en el artículo 185 fracción IV de la Ley Federal de Derechos;
+
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
 
-X.- Ofrecer, en coordinación con la Secretaría Estatal de Salud, orientación y capacitación a los alumnos, padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objeto de promover la cultura de una alimentación sana y nutritiva;
+XI.- Ofrecer, en coordinación con la Secretaría Estatal de Salud, orientación y capacitación a los alumnos, padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objeto de promover la cultura de una alimentación sana y nutritiva;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XI.- Instrumentar las acciones necesarias mediante disposiciones de carácter general para la aplicación de los lineamientos a que deberán sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela, que expida la Secretaría de Educación Pública;
+XII.- Instrumentar las acciones necesarias mediante disposiciones de carácter general para la aplicación de los lineamientos a que deberán sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela, que expida la Secretaría de Educación Pública;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables;
+XIII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XIII.- Reglamentar las diversas conductas que constituyen una falta a la sana convivencia escolar, su gravedad y las sanciones correspondientes, de conformidad con las disposiciones legales aplicables;
+XIV.- Reglamentar las diversas conductas que constituyen una falta a la sana convivencia escolar, su gravedad y las sanciones correspondientes, de conformidad con las disposiciones legales aplicables;
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XIV.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
+XV.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XV.- Participar con la Secretaría de Educación Pública en la operación de los mecanismos de administración escolar;
+XVI.- Participar con la Secretaría de Educación Pública en la operación de los mecanismos de administración escolar;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
-XVI.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
+XVII.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-XVII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial;
+XVIII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-XVIII.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
+XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
-XIX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1689,9 +1695,17 @@ Esta disposición se aplicará también a las escuelas e institutos técnicos qu
 
 La Secretaría de Educación Estatal, por conducto de la autoridad competente, vigilará la asignación del número de becas a que se refiere esta fracción, en los términos del Reglamento correspondiente;
 
-V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la autoridad educativa estatal o escolar realice u ordene. En lo relativo a las preparatorias abiertas, la autoridad educativa estatal será la que realice la evaluación; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
 
-VI.- Cumplir con los requisitos previstos en el Artículo 107 de esta Ley y sujetarse a los acuerdos y demás disposiciones que dicte la autoridad educativa estatal para los planteles escolares en la entidad.
+V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que la autoridad educativa estatal o escolar realice u ordene. En lo relativo a las preparatorias abiertas, la autoridad educativa estatal será la que realice la evaluación;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2018)</small>
+
+VI.- Cumplir con los requisitos previstos en el Artículo 107 de esta Ley y sujetarse a los acuerdos y demás disposiciones que dicte la autoridad educativa estatal para los planteles escolares en la entidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2018)</small>
+
+VII.- Respetar el monto establecido para el pago del título profesional, de acuerdo con el tabulador general.
 
 ###### Artículo 110.
 
@@ -2124,3 +2138,11 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 369. SE REFORMA POR ADICIÓN DE UNA FRACCIÓN X RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 21; MODIFICACIÓN DE LAS FRACCIONES V, VI Y ADICIÓN DE UNA FRACCIÓN VII AL ARTÍCULO 109 DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor a los 120 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Autoridad Educativa Estatal, deberá presentar dentro de un término de 90 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, los lineamientos para elaborar el tabulador en términos del Artículo 21 fracción X de la presente ley.
