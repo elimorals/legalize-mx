@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2017-10-04"
+last_updated: "2018-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -53,27 +53,35 @@ Objeto y Ambito de Aplicación.
 
 El presente Estatuto tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+El objetivo del Servicio Profesional de Carrera es el de seleccionar y reclutar a los mejores aspirantes a ocupar las plazas vacantes y de nueva creación, conforme al marco normativo, procedimientos y herramientas que se determinen en el mismo, para los subprocesos: ingreso, capacitación, evaluación al desempeño, estímulos y separación; lo que permitirá contar con personal profesionalizado para atender las atribuciones del INEGI, y coadyuvar a que el personal esté en condiciones de cumplir con las funciones encomendadas.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 2.
 
 Para efectos del Estatuto se entenderá como:
 
 I. Aspirante.- a la persona que cumpla con el perfil y los requisitos necesarios para participar en los procedimientos de reclutamiento y selección con la finalidad de ocupar una plaza de nueva creación o una plaza vacante del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía, en los términos previstos en el presente Estatuto;
 
-II. Catálogo.- el Catálogo de Puestos y Perfiles que forman parte del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
+II. Catálogo Institucional de Puestos o Catálogo.- documento que deberá reunir, clasificar y sistematizar la información de los puestos existentes en el Instituto. Define las funciones de los puestos, así como, sus principales responsabilidades. Incluye la rama que les corresponde y los requisitos a cubrir para ser ocupados; y precisa el tipo de puesto de que se trate: de base o de confianza;
 
 III. Comisión.- la Comisión del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
 
-IV. Comité.- el Comité Técnico de Profesionalización del Instituto Nacional de Estadística y Geografía;
+IV. DGA.- la Dirección General de Administración;
 
-V. Disposiciones normativas.- a las normas administrativas que expida el Instituto para la operación del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía con base en este Estatuto;
+V. DGARH.- la Dirección General Adjunta de Recursos Humanos;
 
-VI. Estatuto.- el Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
+VI. Disposiciones Normativas.- a las normas administrativas que expida el Instituto para la operación del Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía con base en este Estatuto;
 
-VII. Instituto.- el Instituto Nacional de Estadística y Geografía;
+VII. Estatuto.- el Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía;
 
-VIII. Ley.- la Ley del Sistema Nacional de Información Estadística y Geografía, y
+VIII. Instituto.- el Instituto Nacional de Estadística y Geografía;
 
-IX. Sistema.- el Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía.
+IX. Ley.- la Ley del Sistema Nacional de Información Estadística y Geográfica, y
+
+X. Sistema.- el Sistema del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía.
 
 ###### Artículo 3.
 
@@ -99,6 +107,12 @@ VI. Los derechos y obligaciones de los servidores públicos del Sistema, y
 
 VII. El recurso de reconsideración.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 4 Bis.
+
+La Comisión tendrá la atribución de aplicar el presente Estatuto y resolver las consultas derivadas de dicha aplicación. Adicionalmente estará facultada para establecer criterios de carácter administrativo que permitan resolver situaciones no previstas en el presente Ordenamiento.
+
 ## TITULO SEGUNDO,
 
 DE LA ESTRUCTURA ORGANICA DEL SISTEMA.
@@ -107,15 +121,17 @@ DE LA ESTRUCTURA ORGANICA DEL SISTEMA.
 
 De la Comisión del Servicio Profesional de Carrera.
 
-> <small>(REFORMADO, D.O.F. 4 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 5.
 
-La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por la o el titular de la Dirección General de Administración, quien la presidirá; por las o los titulares de la Dirección General de Estadísticas Sociodemográficas, de la Dirección General de Estadísticas Económicas, de la Dirección General de Geografía y Medio Ambiente y de la Coordinación General de Operación Regional, como vocales; la o el titular del Órgano Interno de Control, como invitado y la o el titular de la Dirección General Adjunta de Recursos Humanos en la Secretaría Técnica.
+La Comisión es el órgano de planeación, coordinación, supervisión y ejecución del Sistema y estará integrada por el Titular de la DGA, quien la presidirá; por los titulares de las Direcciones Generales de Coordinación del SNIEG; de Estadísticas Sociodemográficas; de Estadísticas Económicas; de Geografía y Medio Ambiente; de Vinculación y Servicio Público de Información; de Integración, Análisis e Investigación; Estadísticas de Gobierno, Seguridad Pública y Justicia y las Coordinaciones Generales de Operación Regional; de Informática, y de Asuntos Jurídicos, como vocales; el Titular del Órgano Interno de Control y el Titular de la Dirección de Capacitación, como invitados y el Titular de la Dirección General Adjunta de Recursos Humanos en la Secretaría Técnica.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 6.
 
-La Comisión se reunirá de manera ordinaria al menos una vez cada seis meses y de manera extraordinaria cuando se requiera, previa convocatoria emitida por su Presidente. Sus resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en casos de empate.
+La Comisión se reunirá de manera ordinaria al menos cada tres meses y de manera extraordinaria cuando se requiera, previa convocatoria emitida por su Presidente. Sus resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en casos de empate.
 
 Los miembros de la Comisión podrán designar a sus respectivos suplentes, quienes deberán tener un nivel jerárquico inmediato inferior al de los propietarios.
 
@@ -131,7 +147,9 @@ III. Aprobar las actas de sesiones;
 
 IV. Proponer las normas de otorgamiento de reconocimientos, incentivos y estímulos al desempeño para los Servidores Públicos Profesionales de Carrera y someterlas por conducto del Presidente del Instituto a la Junta de Gobierno para su aprobación;
 
-V. Aprobar el programa anual del Sistema que presente a su consideración el Presidente del Comité;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+V. Aprobar el programa anual del Sistema que presente a su consideración el Titular de la DGARH;
 
 VI. Determinar la creación de los grupos de trabajo necesarios para el funcionamiento del Sistema y los miembros que deban integrarlas;
 
@@ -139,11 +157,13 @@ VII. Resolver sobre las solicitudes de apoyo para la realización de estudios de
 
 VIII. Resolver sobre las solicitudes de intercambio de Servidores Públicos Profesionales de Carrera con instituciones afines en el país o en el extranjero;
 
-IX. Autorizar el Catálogo y los cargos que serán considerados de libre designación;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+IX. Autorizar los cargos que serán considerados de libre designación;
 
 X. Autorizar la contratación temporal de servidores públicos en los cargos que forman parte del Sistema, en términos del Artículo 23 de este Estatuto;
 
-XI. Nombrar a los integrantes del Comité y aprobar su Manual de integración y funcionamiento, y
+XI. (DEROGADA, D.O.F. 11 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
 
@@ -153,19 +173,21 @@ XII. Resolver solicitudes de licencias presentadas por los Servidores Públicos 
 
 XIII. Las demás que se le confieran en el presente Estatuto y sus disposiciones normativas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ### Capítulo II,
 
-Del Comité Técnico de Profesionalización.
+De las atribuciones de la DGARH.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 8.
 
-El Comité es el órgano de resolución en los procesos de ingreso, capacitación, evaluación del desempeño, y separación de los Servidores Públicos Profesionales de Carrera; estará integrado por el Director General Adjunto de Recursos Humanos quien lo presidirá, los Directores Administrativos de cada Dirección General, un representante de la Contraloría Interna con nivel de Director General Adjunto como invitado y el Director del Servicio de Profesionalización como Secretario Técnico. Este órgano colegiado tendrá las siguientes atribuciones:
+La DGARH, es la encargada de los procesos de ingreso, capacitación, evaluación del desempeño, y separación de las y los Servidores Públicos Profesionales de Carrera correspondiendo a su Titular las siguientes funciones:
 
 I. Elaborar las disposiciones normativas para la operación del Sistema y presentarlas a la Comisión;
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
-
-II. Emitir la convocatoria de los concursos para ocupar las plazas vacantes en términos de las disposiciones normativas de este Estatuto y su manual de integración y funcionamiento.
+II. Emitir la convocatoria de los concursos para ocupar las plazas vacantes en términos de las disposiciones normativas de este Estatuto y su manual de integración y funcionamiento;
 
 III. Aprobar los instrumentos y métodos de selección y evaluación específicos para cada concurso, así como valorar los resultados del procedimiento de selección y determinar los Aspirantes ganadores de cada concurso;
 
@@ -173,21 +195,21 @@ IV. Aprobar los programas de capacitación del Sistema;
 
 V. Establecer los mecanismos de evaluación específicos para los Servidores Públicos Profesionales de Carrera;
 
-VI. (DEROGADA, D.O.F. 23 DE MAYO DE 2013)
+VI. Resolver la separación de los Servidores Públicos Profesionales de Carrera por el incumplimiento de sus obligaciones establecidas en el presente Estatuto y en las demás disposiciones normativas que de él deriven;
 
-VII. Resolver la separación de los Servidores Públicos Profesionales de Carrera por el incumplimiento de sus obligaciones establecidas en el presente Estatuto y en las demás disposiciones normativas que de él deriven;
+VII. Resolver los recursos de reconsideración previa opinión de la Coordinación General de Asuntos Jurídicos;
 
-VIII. Resolver los recursos de reconsideración;
+VIII. Proponer los procedimientos para el efectivo funcionamiento del Sistema;
 
-IX. Emitir los manuales de procedimientos para el efectivo funcionamiento del Sistema;
+IX. Integrar el Catálogo de Puestos y Perfiles que comprende el Sistema;
 
-X. Integrar el Catálogo de Puestos y Perfiles que comprende el Sistema;
+X. Elaborar las normas de otorgamiento de estímulos al desempeño para los Servidores Públicos Profesionales de Carrera y presentarlas a la Comisión;
 
-XI. Elaborar las normas de otorgamiento de estímulos al desempeño para los Servidores Públicos Profesionales de Carrera y presentarlas a la Comisión;
+XI. Integrar durante el último trimestre del año el Programa Anual de Trabajo del Sistema para el ejercicio siguiente y en el primer trimestre del año el Informe de Resultados del ejercicio del año anterior mismos que presentará a la Comisión, informando sobre los avances en el programa de trabajo, y
 
-XII. Integrar durante el último trimestre del año el Programa Anual de Trabajo del Sistema para el ejercicio siguiente, y en el primer trimestre del año el Informe de Resultados del ejercicio del año anterior que presentará su presidente a la comisión, y
+XII. Las demás atribuciones que determinen el presente Estatuto, sus disposiciones normativas y los acuerdos de la Comisión.
 
-XIII. Las demás atribuciones que determinen el presente Estatuto, sus disposiciones normativas y los acuerdos de la Comisión.
+Para el ejercicio de las funciones a que hace referencia este artículo el Titular de la DGARH, se auxiliará del personal adscrito a esa Área Administrativa.
 
 ## TITULO TERCERO,
 
@@ -209,23 +231,25 @@ II. Subsistema de Personal de Base.
 
 Subsistema de Personal de Confianza.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 10.
 
-El Subsistema de Personal de Confianza estará conformado por los siguientes rangos:
+El Subsistema de Personal de Confianza estará conformado por los siguientes grupos:
 
-I. Director de Area;
+I. Dirección de Área;
 
-II. Subdirector de Area;
+II. Subdirección de Área;
 
-III. Jefe de Departamento;
+III. Jefatura de Departamento;
 
-IV. Enlace, y
+IV. Personal de Enlace, y
 
-V. Personal operativo de confianza.
+V. Personal Operativo de confianza.
 
-Los rangos anteriores comprenden los niveles de homólogo o cualquier otro equivalente, cualquiera que sea la denominación que se le dé.
+Los grupos anteriores comprenden los niveles de homólogo o cualquier otro equivalente, cualquiera que sea la denominación que se le dé.
 
-La Comisión autorizará los cargos, dentro de estos rangos, que serán de libre designación. Estos no deberán cumplir con los requisitos de reclutamiento, selección y evaluación que establece este Estatuto y no formarán parte del Sistema.
+La Comisión autorizará los niveles, dentro de estos grupos, que serán de libre designación. Éstos no deberán cumplir con los requisitos de reclutamiento, selección y evaluación que establece este Estatuto y no formarán parte del Sistema.
 
 ###### Artículo 11.
 
@@ -281,17 +305,19 @@ VI. Los demás que señale la convocatoria correspondiente integrada en término
 
 Reclutamiento es el procedimiento que permite atraer Aspirantes a ocupar un cargo en el Instituto con los perfiles y requisitos necesarios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 18.
 
-El Reclutamiento se llevará a cabo a través de convocatorias públicas abiertas para ocupar las plazas de nueva creación y plazas vacantes del Sistema, tratándose de los rangos de enlace y mandos. Este procedimiento dependerá de las necesidades del Instituto para cada ejercicio fiscal de acuerdo al presupuesto autorizado.
+El Reclutamiento se llevará a cabo a través de convocatorias públicas abiertas para ocupar las plazas de nueva creación y plazas vacantes del Sistema, tratándose de los grupos de enlace y mandos. Este procedimiento dependerá de las necesidades del Instituto para cada ejercicio fiscal de acuerdo al presupuesto autorizado.
 
 El reclutamiento del personal operativo de confianza se hará por medio de convocatoria pública difundida en la página de internet del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 19.
 
-Se entenderá por convocatoria pública abierta aquella dirigida a Aspirantes a ingresar al Sistema, mediante su publicación en la página de internet del Instituto y en las modalidades que se señalen las disposiciones normativas de este Ordenamiento.
+Se entenderá por convocatoria pública abierta aquella dirigida a Aspirantes a ingresar al Sistema, mediante su publicación en la página de Internet del Instituto.
 
 Las convocatorias señalarán en forma precisa los cargos sujetos a concurso, el perfil que deberán cubrir los Aspirantes, los requisitos y los lineamientos generales que se determinen para la aplicación de los instrumentos de selección, así como el lugar y fecha para la entrega de la documentación correspondiente, la aplicación de los instrumentos de evaluación, y el fallo relacionado con la selección de los aspirantes finalistas en cada concurso.
 
@@ -299,27 +325,41 @@ Las convocatorias señalarán en forma precisa los cargos sujetos a concurso, el
 
 La selección es el procedimiento que permite analizar la capacidad, conocimientos, habilidades y experiencias de los Aspirantes a ocupar una plaza de nueva creación o una plaza vacante del Sistema. Su propósito es garantizar el acceso de los aspirantes que demuestren satisfacer los requisitos del cargo y ser los más aptos para desempeñarlo.
 
-El procedimiento de selección comprenderá los instrumentos necesarios que se determinen en las disposiciones normativas del Estatuto así como los elementos de valoración que determine el Comité y que se justifiquen en razón de las necesidades y características que requiere el cargo a concursar. Este procedimiento deberá asegurar la participación en igualdad de oportunidades donde se reconozca el mérito.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+El procedimiento de selección comprenderá los instrumentos necesarios que se determinen en las disposiciones normativas del Estatuto así como los elementos de valoración que determine la DGARH y que se justifiquen en razón de las necesidades y características que requiere el cargo a concursar. Este procedimiento deberá asegurar la participación en igualdad de oportunidades donde se reconozca el mérito.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 21.
 
-La Comisión emitirá los lineamientos generales para la elaboración y aplicación de los mecanismos y herramientas de evaluación que operará el Comité, de acuerdo con los preceptos de este Estatuto y sus disposiciones normativas.
+La Comisión emitirá los lineamientos generales para la elaboración y aplicación de los mecanismos y herramientas de evaluación que operará la DGARH, de acuerdo con los preceptos de este Estatuto y sus disposiciones normativas.
 
-El Comité establecerá los mecanismos de evaluación específicos para la obtención de las calificaciones definitivas.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+El Titular de la DGARH, establecerá los mecanismos de evaluación específicos para la obtención de las calificaciones definitivas.
 
 En igualdad de calificaciones, tendrán preferencia los servidores públicos del Instituto.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 22.
 
-El Aspirante seleccionado por el Comité se hará acreedor al nombramiento, por tiempo determinado, como Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda, con una vigencia de un año, al término del cual en caso de un desempeño satisfactorio o superior de acuerdo con los mecanismos de evaluación establecidos para tal efecto, se le otorgará el nombramiento en el cargo que corresponda como Servidor Público Profesional de Carrera. En caso contrario se le notificará, con al menos 30 días naturales de anticipación al vencimiento de su nombramiento por tiempo determinado, que el resultado de la evaluación fue no satisfactorio y que no se le otorgará el nombramiento como Servidor Público Profesional de Carrera, y que en consecuencia, a la conclusión de la vigencia de su nombramiento provisional concluirá la relación de trabajo sin responsabilidad para el INEGI. En este supuesto el servidor público que se desempeñó provisionalmente tendrá únicamente derecho a interponer el recurso de reconsideración que prevé este Estatuto.
+El Aspirante determinado ganador del concurso por la DGARH, se hará acreedor al nombramiento, por tiempo determinado, como Candidata o Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda, con una vigencia de un año. Cumplidos los diez meses de haber ingresado, se realizará la evaluación por el superior jerárquico de la plaza, de acuerdo con los mecanismos o lineamientos de evaluación de desempeño establecidos para tal efecto. Al cumplirse el año, los efectos de dicho nombramiento cesarán ya sea que se haya obtenido un desempeño satisfactorio o no.
+
+En caso de haber obtenido un desempeño satisfactorio o superior, se le otorgará el nombramiento en el cargo que corresponda como Servidor Público Profesional de Carrera.
+
+En el supuesto que se haya obtenido un resultado no satisfactorio, el superior jerárquico de la plaza, con un mes de anticipación al vencimiento del nombramiento a que se refiere el primer párrafo, le notificará por escrito dicho resultado y que no se le otorgará el nombramiento como servidor público profesional de carrera y que en consecuencia se dará por concluida la relación laboral con el INEGI, sin responsabilidad alguna para éste.
+
+El servidor público que se desempeñó provisionalmente tendrá únicamente derecho a interponer el recurso de reconsideración que prevé este Estatuto, el cual no tendrá efecto alguno respecto de la conclusión de la designación provisional del Candidato o Candidata de que se trate.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 23.
 
-Para evitar que se entorpezca la continuidad del desempeño de las funciones encomendadas al Instituto, las plazas vacantes consideradas como parte del Sistema podrán ser ocupadas de forma temporal, previa autorización de la Comisión, por cualquier persona que cumpla con el perfil y los requisitos necesarios, sin necesidad de sujetarse a los procedimientos de reclutamiento y selección a que se refiere este Estatuto. Este personal no creará derechos respecto al Sistema y podrá permanecer en el cargo un periodo de hasta un año.
+Las plazas vacantes consideradas como parte del Sistema podrán ser ocupadas de forma temporal, a solicitud debidamente justificada del superior jerárquico, previa autorización de la Comisión, por cualquier persona que cumpla con el perfil y los requisitos necesarios, sin necesidad de sujetarse a los procedimientos de reclutamiento y selección a que se refiere este Estatuto. Este personal no creará derechos respecto al Sistema y podrá permanecer en el cargo mientras permanezca vacante sin que la ocupación en tales términos puede exceder de un año.
 
-Durante ese lapso, el Comité llevará los procedimientos de reclutamiento y selección para la plaza por convocatoria pública, de acuerdo a lo establecido en el Artículo 18 de este Estatuto y de sus disposiciones normativas. El servidor público que esté ocupando la plaza de forma temporal, podrá concursar en igualdad de condiciones con los demás Aspirantes para ocupar el cargo.
+Durante ese lapso, la DGARH, llevará los procedimientos de reclutamiento y selección para la plaza por convocatoria pública, de acuerdo a lo establecido en el Artículo 18 de este Estatuto y de sus disposiciones normativas. El servidor público que esté ocupando la plaza de forma temporal, podrá concursar en igualdad de condiciones con los demás Aspirantes para ocupar el cargo.
 
 ### Capítulo II,
 
@@ -329,7 +369,9 @@ La Capacitación.
 
 La Capacitación es el proceso mediante el cual los Servidores Públicos Profesionales de Carrera son actualizados para desempeñar un cargo en el Instituto, con el propósito de mejorar su actuación en el puesto asignado y estar en condiciones de participar en concursos por plazas vacantes o de nueva creación.
 
-El Comité emitirá las normas que regularán el proceso de capacitación, con base en lo establecido en este Estatuto, en sus disposiciones normativas, y tomando en consideración:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
+
+El Titular de la DGARH, emitirá las normas que regularán el proceso de capacitación, con base en lo establecido en este Estatuto, en sus disposiciones normativas, y tomando en consideración:
 
 I. Los conocimientos básicos requeridos por los Servidores Públicos Profesionales de Carrera sobre el marco jurídico de actuación del Instituto y de las Unidades del Estado establecidas en la Ley;
 
@@ -337,9 +379,11 @@ II. La especialización, actualización y educación formal que estén relaciona
 
 III. La posibilidad de superarse institucional, profesional y personalmente dentro del Instituto.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 25.
 
-El Comité integrará y aprobará los programas de capacitación para el puesto y el desarrollo profesional de los Servidores Públicos Profesionales de Carrera.
+El Titular de la DGARH, integrará y aprobará los programas de capacitación para el puesto y el desarrollo profesional de las y los Servidores Públicos Profesionales de Carrera.
 
 ###### Artículo 26.
 
@@ -358,6 +402,10 @@ La capacitación se integrará con cursos obligatorios y optativos que deberán 
 ###### Artículo 28.
 
 Los Servidores Públicos Profesionales de Carrera para su inscripción en los programas de capacitación optativos con el fin de desarrollar su perfil profesional, deberán contar con la autorización del Titular de la Unidad Administrativa de su adscripción.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+La Comisión establecerá el valor que se dará a los cursos optativos que se incluyan en el Programa de Capacitación respectivo.
 
 ###### Artículo 29.
 
@@ -379,15 +427,17 @@ Si la beca es otorgada por el Instituto, lo cual estará sujeto a la disponibili
 
 En caso de separación imputable al Servidor Público Profesional de Carrera, antes de cumplir con el periodo de duración de la beca, deberá reintegrar en forma proporcional, los gastos erogados por la beca al Instituto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ### Capítulo III,
 
-La Evaluación del Desempeño.
+De la Evaluación del Desempeño.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 31.
 
-Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño y en los cursos de capacitación que participen conforme a los términos que determine el Comité, por lo menos una vez cada tres años. Los Servidores Públicos Profesionales de Carrera que no puedan realizar cursos de capacitación por la falta de oferta de cursos vinculados a las funciones y/o necesidades de desarrollo de su puesto o debido a falta de recursos presupuestales para llevarlos a cabo, serán evaluados para efectos de su permanencia en el Sistema, con los otros elementos previstos para tal efecto.
+Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño y en los cursos de capacitación que participen conforme a los términos que determine el Titular DGARH, por lo menos una vez cada tres años.
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2014)</small>
 
@@ -427,45 +477,139 @@ Para el otorgamiento de Estímulos a los Servidores Públicos Profesionales de C
 
 La Comisión establecerá las bases para determinar el valor y mecanismo de evaluación que se requerirá para que se considere que los Servidores Públicos Profesionales de Carrera han tenido un desempeño destacado.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 37.
 
 Los Estímulos al desempeño destacado consisten en el reconocimiento económico y/o público que se entrega al Servidor Público Profesional de Carrera de manera extraordinaria con motivo de la evaluación de su desempeño.
 
-En el caso de reconocimientos económicos, éstos deberán ser considerados como una percepción extraordinaria, en ningún caso estos reconocimientos se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos y compensaciones que perciben en forma ordinaria los servidores públicos.
+En el caso de reconocimientos económicos, éstos deberán ser considerados como una percepción extraordinaria en términos del Manual que Regula las Percepciones de las y los Servidores Públicos del Instituto Nacional de Estadística y Geografía para el ejercicio fiscal correspondiente, en ningún caso estos reconocimientos se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos y compensaciones que perciben en forma ordinaria los servidores públicos.
 
-La Comisión determinará el mecanismo y procedimiento para la entrega de los reconocimientos públicos, así como los criterios y el monto de los reconocimientos económicos, en términos de la disponibilidad presupuestaria, y los someterá por conducto del Presidente del Instituto a la Junta de Gobierno para su aprobación.
+La Comisión determinará el mecanismo y procedimiento para la entrega de los reconocimientos públicos, así como los criterios y el monto de los reconocimientos económicos, conforme a lo siguiente:
+
+Los Servidores Públicos Profesionales de Carrera que presten sus servicios como personal operativo de confianza serán sujetos al otorgamiento de estímulos en términos de lo establecido en el Capítulo XVI, de la Ley de Premios, Estímulos y Recompensas Civiles.
+
+Para el otorgamiento de estímulos para los Servidores Públicos Profesionales de Carrera de enlace y mando, en cada periodo de evaluación se establecerá un Fondo de recursos a distribuir de acuerdo a la disponibilidad presupuestal para tal efecto.
+
+El monto máximo de recursos del Fondo será publicado mediante acuerdo de la Comisión del Servicio Profesional de Carrera al final de cada periodo de Evaluación del Desempeño, siempre que se cuente con recursos presupuestales autorizados para tal efecto en el Instituto para el periodo de evaluación correspondiente.
+
+Los recursos del Fondo se distribuirán de acuerdo a lo que establezca la Comisión del Servicio Profesional de Carrera, en un plazo no mayor a 30 días naturales a partir de la publicación de las calificaciones respectivas. Los montos en dinero deberán ser entregados a quienes se hagan acreedores al estímulo a más tardar el 1 de marzo del año inmediato posterior a la terminación del periodo de evaluación correspondiente.
+
+Independientemente de los recursos en dinero, los Servidores Públicos Profesionales de Carrera que obtengan un nivel de desempeño sobresaliente podrán ser acreedores a cinco días hábiles de vacaciones y los Servidores Públicos Profesionales de Carrera que obtengan un nivel de desempeño muy bueno podrán ser acreedores a 3 días hábiles de vacaciones, conforme a los criterios que para tal efecto determine la Comisión. Los días de vacaciones otorgados como estímulo serán adicionales a los que Los Servidores Públicos Profesionales de Carrera tengan derecho de acuerdo a la normatividad administrativa vigente y podrán gozarse en un periodo no mayor a un año a partir de la fecha de la publicación de los resultados de la evaluación.
 
 ### Capítulo V,
 
 La Separación.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 38.
 
-El Servidor Público Profesional de Carrera será separado del Sistema y del Instituto, sin responsabilidad para el Instituto, cuando incurra en alguna de las causales siguientes:
+Corresponderá al Titular de la DGARH, resolver el proceso de separación de servidor público profesional de carrera conforme a las causales establecidas en el presente artículo, para lo cual se auxiliará de la Dirección de Relaciones Laborales y Servicios al Personal, a quien corresponderá informar sobre los casos de separación a la Coordinación General de Asuntos Jurídicos.
 
-I. Por resolución administrativa o judicial que termine en inhabilitación, destitución, separación del cargo o suspensión por más de 60 días;
+Un servidor público profesional de carrera será separado del Sistema y del Instituto, sin responsabilidad para el Instituto, cuando incurra en alguna de las causales de Terminación o Separación.
 
-II. No aprobar las evaluaciones conforme a los términos establecidos en los artículos 31, 32, 33 y 34 de este Estatuto;
+En contra de la resolución o determinación que separe al servidor público profesional de carrera del Sistema y del Instituto, sin responsabilidad para el Instituto, no procederá el recurso de reconsideración.
 
-III. Sentencia firme que imponga una pena que implique la privación de su libertad;
+En todo caso de separación, con independencia de la causal que se actualice, la DGARH cuenta con atribución de investigar y hacerse allegar, requiriendo a cualquier Unidad del Instituto o persona ajena a éste, de toda información y documentación que se estime pertinente a fin de resolver sobre el proceso de separación del servidor público profesional de carrera.
 
-IV. Presentar documentación falsa que acredite su personalidad, grado o preparación académica;
-
-V. Incumplir las obligaciones inherentes a su cargo o las establecidas en este Estatuto y en las disposiciones normativas derivadas del mismo, y
-
-VI. Las demás previstas en la legislación aplicable.
-
-###### Artículo 39.
-
-En adición a los supuestos previstos en el artículo anterior, la relación laboral entre el Instituto y su personal del Sistema se dará por terminada en los siguientes casos:
+Son causales de Terminación las siguientes:
 
 I. Renuncia, que es la manifestación de la voluntad por escrito del servidor público para terminar la relación laboral con el Instituto;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
+II. Pensión definitiva, en términos de la legislación aplicable;
 
-II. Pensión definitiva, en términos de la legislación aplicable, y
+III. Defunción;
 
-III. Defunción.
+IV. No aprobar las evaluaciones en los términos establecidos en los artículos 31, 32, 33, 34 y (sic) del Estatuto;
+
+V. Por resolución administrativa, jurisdiccional o judicial que determine inhabilitación, destitución o separación del cargo;
+
+VI. Sentencia firme que imponga una pena que implique la privación de su libertad, y
+
+VII. Incapacidad física o mental que le impida el desempeño de sus funciones, de acuerdo con el dictamen que al efecto emita el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en materia de riesgos de trabajo e invalidez.
+
+En caso de renuncia, pensión definitiva, defunción, sentencia firme que imponga como pena que implique la privación de la libertad e incapacidad física o mental, el área en la que está adscrito el servidor público debe allegarse de los elementos que acrediten tales circunstancias en original o copia certificada e informar al DGARH dentro del plazo máximo de diez días hábiles siguientes a partir de que cuente con dicha información quien la revisará y determinará la baja respectiva.
+
+En el supuesto de no aprobar las evaluaciones conforme a los términos establecidos en los artículos 31, 32, 33 y 34 de este Estatuto, se seguirá el procedimiento establecido en el Estatuto y las demás disposiciones normativas aplicables.
+
+En el caso de resolución administrativa que determine inhabilitación, destitución o separación del cargo, el Órgano Interno de Control, en un plazo que no debe de exceder de diez días hábiles a partir del dictado de la resolución, deberá remitir copia certificada de la resolución administrativa a la DGARH, quien procederá a dar trámite al proceso de separación.
+
+En el caso de resolución jurisdiccional que determine inhabilitación, destitución o separación del cargo, el área a la que esté o haya estado adscrito el servidor público, en un plazo que no debe de exceder de diez días hábiles a partir del dictado del conocimiento de la resolución, deberá informar, si es posible remitiendo las constancias o documentación respectiva, a la DGARH, quien procederá a dar trámite al proceso de separación.
+
+En todos los casos anteriores la DGARH, deberá:
+
+I. Dejar sin efectos el nombramiento de la o el servidor público profesional de carrera;
+
+II. Emitir la constancia respectiva conforme a la normatividad aplicable;
+
+III. Efectuar el registro correspondiente en los sistemas institucionales (SIA), y
+
+IV. Notificar al servidor público en los casos de las fracciones IV y V.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 39.
+
+Son causales de Separación del Servicio Profesional de Carrera las siguientes:
+
+I. Por incumplimiento reiterado e injustificado de cualquiera de las obligaciones que establece este Estatuto o la demás normatividad aplicable;
+
+II. Por abandono de empleo. Se configura esta causal para efectos de este capítulo, entre otros supuestos, cuando el servidor público deje de presentarse sin justificación a trabajar durante cinco días o más en su centro de trabajo, y
+
+III. Presentar documentación falsa que acredite su personalidad, grado o preparación académica.
+
+En el caso de incumplimiento reiterado e injustificado de las obligaciones, bastará que el servidor público incumpla sus obligaciones o realice la conducta contraria a las mismas en más de tres ocasiones. De cada ocasión en que el servidor público de carrera incurra en incumplimiento a sus obligaciones, su superior jerárquico o jefe inmediato debe dejar constancia documental y probatoria, cuya copia hará llegar a la DGARH de inmediato, quien integrará el expediente respectivo.
+
+En todo caso, la DGARH al emitir su determinación final debe pronunciarse respecto de cada uno de los incumplimientos que hubieren sido señalados.
+
+Respecto a las causales de Separación, la DGARH debe reunir los elementos probatorios y documentales que acrediten tales causales y posteriormente deberá notificar personalmente, con la asistencia y constancia de dos testigos, al servidor público profesional de carrera el inicio del procedimiento, dando a conocer lo siguiente:
+
+I. Informar al servidor público profesional de carrera, la causa que motivó el inicio del procedimiento;
+
+II. Hacer del conocimiento del servidor público profesional de carrera que se le cita a comparecer personalmente a una audiencia en la que tendrá la oportunidad de presentar pruebas y alegatos, pudiendo ser éstos verbales o escritos, y
+
+III. Señalar fecha para el desahogo de la audiencia en el lugar en que se encuentre en su centro de trabajo, así como fecha y hora para desahogar la indicada audiencia.
+
+Entre la fecha de notificación y la fecha de audiencia debe haber un plazo no menor de ocho días hábiles.
+
+La audiencia debe ser celebrada por y ante el personal habilitado para ello por la DGARH, pudiendo ser asesorada por la Coordinación General de Asuntos Jurídicos del Instituto para su instrumentación.
+
+Con motivo de la audiencia se levantará un acta, en la que se asentará la información del desarrollo de ésta, entre otro, lugar, fecha y hora, citatorio al servidor público, nombre, puesto y demás información que identifique a los comparecientes, la declaración del servidor público profesional de carrera, así como los alegatos que exprese y las pruebas que presente, en su caso.
+
+También deberá hacerse una relación pormenorizada de los datos y demás constancias que existan con relación a los hechos atribuibles al servidor público, así como de las manifestaciones que con motivo de la audiencia exponga el interesado, en su caso.
+
+Se asentarán las declaraciones de quienes intervengan en la audiencia.
+
+Serán admisibles toda clase de pruebas, excepto la confesional por posiciones. Las pruebas admitidas deben ser desahogadas y valoradas, siempre que sean idóneas y tengan relación directa con la causal que se le atribuye al servidor público.
+
+El acta se firmará por los que en ella intervengan, debiéndose entregar en ese mismo acto una copia al servidor público, quien acusará el recibo correspondiente.
+
+A dicha audiencia podrá comparecer el servidor público profesional de carrera acompañado de su abogado o persona de su confianza, si así conviene a sus intereses.
+
+La no comparecencia del servidor público, debidamente notificado, no suspende, ni invalida el inicio y desarrollo de la audiencia, ni la instrumentación del acta.
+
+Una vez desahogada la audiencia y, en su caso, aportados los elementos de los comparecientes, la DGARH emitirá la resolución definitiva que corresponda en un plazo máximo de treinta días hábiles.
+
+La resolución definitiva podrá:
+
+I. Decretar la separación de servidor público profesional de carrera, o
+
+II. Decretar el archivo del procedimiento.
+
+La resolución definitiva deberá contener, por lo menos, lo siguiente:
+
+a) El nombre y apellidos, cargo, tiempo en el puesto y antigüedad dentro de Instituto del servidor público;
+
+b) El señalamiento circunstanciado de la causal de Separación que corresponda y la forma, términos y medios de su acreditación;
+
+c) Los fundamentos y motivos de la resolución definitiva, así como su sentido;
+
+d) La descripción exhaustiva de sus efectos jurídicos, y
+
+e) La firma autógrafa del Titular de la DGARH.
+
+La resolución definitiva se notificará personalmente al servidor público, en un plazo no mayor a ocho días hábiles contado a partir de la fecha de su emisión, por conducto del servidor público del INEGI que habilite la DGARH.
 
 ###### Artículo 40.
 
@@ -477,13 +621,19 @@ Cuando por razones de reestructuración del Instituto, desaparezcan plazas ocupa
 
 La licencia es el acto por el cual un Servidor Público Profesional de Carrera puede dejar de desempeñar las funciones propias de su cargo de manera temporal, conservando el derecho para su reincorporación y antigüedad generada dentro del Sistema.
 
-Las licencias serán de tres tipos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
+
+Las licencias serán de cuatro tipos:
 
 I. Para resolver situaciones extraordinarias del Servidor Público Profesional de Carrera.
 
 II. Por motivos académicos con o sin beca.
 
 III. Para ocupar temporalmente otra plaza dentro del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+IV. Para realizar proyectos de investigación en Instituciones Académicas, Organismos Internacionales o Instituciones relacionadas con las actividades del Instituto, ya sea en el país o en el extranjero.
 
 Las licencias para resolver situaciones extraordinarias podrán otorgarse en cualquier momento y deberán ser aprobadas por el Titular de la Unidad Administrativa de adscripción. Esta licencia será sin goce de sueldo y no será mayor a seis meses.
 
@@ -495,15 +645,17 @@ Las licencias por motivos académicos con beca sólo podrán otorgarse cuando el
 
 Sólo se podrán autorizar al Servidor Público Profesional de Carrera en términos del Artículo 30 de este Estatuto, por un tiempo igual al que duren sus estudios de especialización.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
-Las licencias para ocupar otra plaza dentro del Instituto se autorizarán por un plazo de hasta un año y excepcionalmente hasta por el periodo que sea necesario cuando se trate de desarrollar proyectos con otras Unidades del Estado y/o con otros países u organismos internacionales, y se otorgarán siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor responsabilidad dentro del Sistema o a cualquier otro en el Instituto que no sea parte del Sistema; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza.
+Las licencias comprendidas en la fracción IV de este artículo se autorizarán siempre que se cumplan con las formalidades previstas en las disposiciones que para el efecto emita la Comisión y se cuente con una antigüedad laboral de cuando menos un año, la autorización de las licencias a que hace referencia este párrafo será por un plazo de hasta un año y excepcionalmente hasta por el periodo que sea necesario cuando se trate de desarrollar proyectos con otras Unidades del Estado y/o con otros países u organismos internacionales, y en el caso de la fracción III se otorgarán siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor responsabilidad dentro del Sistema o a cualquier otro en el Instituto que no sea parte del Sistema; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza.
 
 Para solicitar una nueva licencia, el Servidor Público Profesional de Carrera deberá laborar por lo menos un periodo igual al otorgado en la licencia inmediata anterior.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
 ###### Artículo 42.
 
-El cargo del Servidor Público Profesional de Carrera que obtenga licencia sin goce de sueldo, podrá ser ocupado interinamente por otro Servidor Público Profesional de Carrera o cualquier otro servidor público; la designación del servidor público interino, se realizará conforme a las disposiciones normativas que se emitan. En el caso de licencias con otorgamiento de beca, la plaza no será ocupada de manera interina.
+El cargo del Servidor Público Profesional de Carrera que obtenga licencia sin goce de sueldo no podrá ser ocupado interinamente por otro Servidor Público Profesional de Carrera o cualquier otro servidor público.
 
 ## TITULO QUINTO,
 
@@ -575,13 +727,17 @@ Del Recurso de Reconsideración.
 
 Contra los resultados emitidos en las diferentes etapas de los procesos de ingreso y evaluación del desempeño, se podrá interponer recurso de reconsideración.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 46.
 
-El escrito de interposición del recurso deberá presentarse ante el Presidente del Comité, dentro de los diez días hábiles siguientes a aquél en que haya surtido efecto la notificación del acto o resolución recurrida.
+El escrito de interposición del recurso deberá presentarse ante el Titular de la Dirección General Adjunta de Recursos Humanos, dentro de los diez días hábiles siguientes a aquel en que haya surtido efecto la notificación del acto o resolución recurrida.
 
-La interposición del recurso de reconsideración deberá formularse únicamente por escrito ante el Comité, y presentarse en las oficinas de su Presidente, o en las oficinas de los Directores de Administración de las unidades administrativas del Instituto, de los Coordinadores Estatales o los Directores Regionales. Los recursos que se presenten por medios electrónicos se considerarán no interpuestos y su respuesta no requerirá del acuerdo o la notificación establecidos en los artículos 48 y 52 del presente Estatuto.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+La interposición del recurso de reconsideración deberá formularse únicamente por escrito en las oficinas centrales; de la Ciudad de México de la DGARH, o en las oficinas de las direcciones de administración o subdirecciones estatales de administración de las Direcciones Regionales o Coordinaciones Estatales, según sea el caso. Los recursos que se presenten por medios electrónicos se considerarán no interpuestos y su respuesta no requerirá del acuerdo o la notificación establecidos en los artículos 48 y 52 del presente Estatuto.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 El recurso de reconsideración se resolverá mediante la revisión integral del expediente, según el proceso de que se trate, así como las documentales que obren en el proceso que se impugna, además se valorarán las pruebas documentales que en su caso presente el recurrente junto con su escrito de reconsideración.
 
@@ -605,21 +761,27 @@ En caso de no acompañar las pruebas documentales al escrito inicial, éstas se 
 
 Serán inadmisibles las pruebas testimonial, pericial y la confesional.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 48.
 
-El Comité, a través de su Presidente, acordará dentro del término de siete días hábiles, contados a partir del día siguiente de la recepción del recurso de reconsideración, sobre la admisión o desechamiento del mismo.
+El Titular de la DGARH, acordará sobre la admisión o desechamiento del mismo, dentro del término de siete días hábiles, contados a partir del día siguiente de la recepción del recurso de reconsideración y previa opinión de la Coordinación General de Asuntos Jurídicos.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 El acuerdo de admisión deberá prever, entre otros aspectos, la competencia, la solicitud del informe a que se refiere el artículo 49, así como la admisión de pruebas y la suspensión del proceso.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 Contra el acuerdo de admisión o desechamiento del recurso de reconsideración no procederá recurso alguno.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 48 Bis.
 
-El Comité, a través de su Presidente, tendrá por no interpuesto el recurso de reconsideración y lo desechará cuando:
+El Titular de la DGARH, tendrá por no interpuesto el recurso de reconsideración y lo desechará cuando:
+
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 I. Se presente fuera de plazo;
 
@@ -627,13 +789,15 @@ I. Se presente fuera de plazo;
 
 II. Falte alguno de los requisitos señalados en los artículos 47, fracciones I a IV del Estatuto, y
 
+> <small>(ADICIONADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 III. Se promueva en contra de criterios de evaluación.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 49.
 
-El Comité, a través de su Presidente, podrá solicitar a las unidades administrativas que hayan intervenido en los procesos a que se refieren el artículo 45, dentro del plazo de cinco días hábiles, rindan los informes que se estimen pertinentes, y remitan la documentación que obre en sus archivos, para resolver el recurso de que se trate.
+El Titular de la DGARH a través de la Dirección de Servicio Profesional de Carrera, podrá solicitar a las unidades administrativas que hayan intervenido en los procesos a que se refieren el artículo 45, dentro del plazo de cinco días hábiles, rindan los informes que se estimen pertinentes, y remitan la documentación que obre en sus archivos, para resolver el recurso de que se trate. Una vez rendido el informe y cuando lo considere pertinente, la DGARH podrá solicitar a las Unidades Administrativas aclaraciones o información que resulte necesaria para resolver los recursos.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -641,25 +805,37 @@ El Comité, a través de su Presidente, podrá solicitar a las unidades administ
 
 La valoración de las pruebas se hará de conformidad con las bases, reglas, criterios o lineamientos del proceso de que se trate.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 51.
 
-El Comité tendrá 15 días hábiles a partir de la notificación de la admisión del recurso de reconsideración para emitir la resolución definitiva, la que deberá contener:
+El Titular de la DGARH, y previa opinión de la Coordinación General de Asuntos Jurídicos, tendrá 15 días hábiles a partir de la notificación de la admisión del recurso de reconsideración para emitir la resolución definitiva.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ABRIL DE 2018)</small>
+
+La resolución deberá contener lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 I. La fijación de los argumentos hechos valer por el recurrente.
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 II. Las consideraciones que motiven y fundamenten el sentido del fallo, y
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 III. Los puntos resolutivos con que se concluya el recurso de reconsideración, determinando sus efectos.
 
-En contra de las resoluciones definitivas que emita el Comité o su Presidente no procederá ante el Instituto recurso alguno.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+En contra de las resoluciones definitivas que emita el Titular de la DGARH no procederá recurso alguno.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2018)</small>
 
 ###### Artículo 52.
 
-El acuerdo de admisión o de desechamiento del recurso de reconsideración y la resolución, deberán de notificarse personalmente, en el domicilio que haya señalado para tal efecto el recurrente, en un plazo máximo de siete días hábiles, contados a partir de la expedición de los mismos.
+El acuerdo de admisión o de desechamiento del recurso de reconsideración y la resolución, deberán notificarse personalmente, en el domicilio que haya señalado para tal efecto el recurrente, en un plazo máximo de treinta días hábiles, contados a partir de la expedición de los mismos.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -699,11 +875,27 @@ I. Confirmar el resultado de la etapa impugnada y ordenar la reanudación del pr
 
 II. Revocar el acto impugnado, con el efecto de modificar el resultado de la etapa correspondiente y ordenar la reanudación del proceso.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 11 DE ABRIL DE 2018)</small>
+
+III. Sobreseer, el recurso cuando:
+
+a) El recurrente se desista del recurso;
+
+b) El recurrente fallezca durante la substanciación del recurso;
+
+c) Quede insubsistente la resolución o acto impugnado, y
+
+d) Cuando por cualquier motivo quede sin materia el recurso.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 58 Bis.
 
 El recurso de reconsideración a que se refiere este capítulo, versará exclusivamente en la aplicación correcta de los procesos y no en los criterios de evaluación que se instrumenten.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+No procederá el recurso de reconsideración en contra de los resultados de la evaluación de conocimientos técnicos, ni contra el veto.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -716,6 +908,12 @@ El recurso no resolverá cuestiones de carácter laboral del Servicio Público P
 ###### Artículo 59 Bis.
 
 Los bancos de reactivos que se utilicen en los exámenes de ingreso y evaluación del desempeño deben clasificarse como información reservada conforme a la ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2018)</small>
+
+###### Artículo 60.
+
+A falta de disposición expresa en lo dispuesto en el Capítulo Quinto, del Título Cuarto y en el Capítulo III, del Título Quinto de este Estatuto, resultará aplicable supletoriamente el Código Federal de Procedimientos Civiles, en todo lo que no contravenga lo establecido en el Estatuto.
 
 ## TRANSITORIOS
 
@@ -774,3 +972,11 @@ D.O.F. 4 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
 
 ÚNICO.- La modificación al Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- La reforma al presente Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trámites que en el marco del Estatuto del Servicio Profesional de Carrera del Instituto Nacional de Estadística y Geografía se encuentren en proceso de atención, serán concluidos conforme a las presentes reformas.
