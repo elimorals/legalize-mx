@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-energia-recursos-94102"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2018-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ENERGIA, RECURSOS NATURALES Y PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
 LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 51, FRACCIÓN l DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 7, FRACCIÓN II Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, fundado y motivado tengo a bien emitir el siguiente:
 
@@ -1250,3 +1254,17 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 DRA. CLAUDIA ELENA ZENTENO RUIZ
 
 SECRETARIA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Energía, Recursos Naturales y Protección Ambiental publicado en el Periódico Oficial del Estado de Tabasco. Número 7363, Suplemento B de fecha 30 de marzo de 2013.
+
+TERCERO. Para su mejor funcionamiento, las Unidades Administrativas deberán formular sus respectivos Manuales de Organización y de Procedimientos con base a su competencia.
+
+CUARTO. En tanto se expiden los manuales correspondientes el Secretario queda facultado para resolver cualquier asunto con la aplicación de este ordenamiento legal para fines del orden administrativo.
