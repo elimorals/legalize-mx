@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-forestal-sustentable-del-estado-de-durango-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-13"
-last_updated: "2017-03-05"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de junio de 2004.
 
@@ -387,7 +387,7 @@ I. La correspondiente al período constitucional de la administración del Gobie
 
 II. La elaboración, aplicación y seguimiento del Programa Sectorial en Materia Forestal y de Suelos, el cual comprenderá los objetivos, estrategias y líneas de acción prioritarias;
 
-III. El establecimiento de un sistema de ventanilla única donde se dé atención a los diferentes sectores de población en asuntos relacionados con los diversos programas del sector forestal.
+III. El establecimiento de un sistema de ventanilla única donde se de atención a los diferentes sectores de población en asuntos relacionados con los diversos programas del sector forestal.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
@@ -899,7 +899,7 @@ La Secretaría, conjuntamente con la Secretaría de Comunicaciones y Obras Públ
 
 ###### ARTÍCULO 74.
 
-La Secretaría, con el propósito de coadyuvar en el desarrollo industrial de la entidad, promoverá programas de apoyo a los dueños de los terrenos forestales y del sector privado tendientes a la modernización industrial y a la constitución de asociaciones en participación entre productores y el sector privado así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias federales y estatales con ingerencia en la materia.
+La Secretaría, con el propósito de coadyuvar en el desarrollo industrial de la entidad, promoverá programas de apoyo a los dueños de los terrenos forestales y del sector privado tendientes a la modernización industrial y a la constitución de asociaciones en participación entre productores y el sector privado así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias federales y estatales con ingerencia (sic) en la materia.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
@@ -995,9 +995,11 @@ El Consejo fungirá como órgano de carácter consultivo y asesoría en las mate
 
 En todos los casos, se deberá solicitar su opinión en materia de planeación forestal, reglamentos y normas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 82.
 
-El Consejo será presidido por el Ejecutivo del Estado y contará con un Presidente Ejecutivo el que estará representado por el titular de la Secretaría, por un Secretario Técnico designado por el titular de la Secretaría, por representantes de otras dependencias y organismos de la administración pública federal, estatal y municipal relacionadas con la actividad forestal, así como por representantes de los prestadores de los servicios técnicos forestales, instituciones académicas y centros de investigación, agrupaciones de propietarios, poseedores de terrenos forestales y preferentemente forestales y empresarios, organizaciones no gubernamentales y organizaciones de carácter social y privado, relacionadas con la materia forestal.
+El Consejo será presidido por el Ejecutivo del Estado y contará con un Presidente Ejecutivo el que estará representado por el titular de la Secretaría, un Secretario Técnico designado por el titular de la Secretaría, el presidente de la Comisión de Asuntos Forestales, Frutícolas y de Pesca del Congreso del Estado, representantes de otras dependencias y organismos de la administración pública federal, estatal y municipal relacionadas con la actividad forestal, así como representantes de los prestadores de los servicios técnicos forestales, instituciones académicas y centros de investigación, agrupaciones de propietarios, poseedores de terrenos forestales y preferentemente forestales y empresarios, organizaciones no gubernamentales y organizaciones de carácter social y privado, relacionadas con la materia forestal.
 
 La Secretaría, coordinadamente con la CONAFOR, promoverá y facilitará la interacción de este Consejo con el Consejo Nacional y con los demás Consejos Estatales.
 
@@ -1282,3 +1284,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 365.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
