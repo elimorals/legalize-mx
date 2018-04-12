@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2017-07-12"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -1767,13 +1767,17 @@ IV. Sin autorización acceda o utilice las radiofrecuencias, bases de datos o ar
 
 Cuando el sujeto activo tenga el carácter de servidor público la pena de prisión será aumentada en una mitad y además será separado de su cargo e inhabilitación del servicio público por el término de diez años.
 
-## TÍTULO SEGUNDO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+
+## TÍTULO SEGUNDO. DELITOS POR HECHOS DE CORRUPCIÓN
 
 ### CAPÍTULO I. INTIMIDACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 147.
 
-Se le impondrán de tres a diez años de prisión y multa de ciento veinte a doscientos dieciséis días de salario al servidor público que:
+Se le impondrán de dos a nueve años de prisión y de treinta a cien días de multa a la o el servidor público que:
 
 I. Por sí o por interpósita persona, utilizando la violencia inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información o pruebas relativas a la probable comisión de un delito o sobre la posible comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, y
 
@@ -1781,119 +1785,159 @@ II. Por sí o por interpósita persona, ejerza represalia contra persona que ha 
 
 ### CAPÍTULO II. ENRIQUECIMIENTO ILÍCITO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 148.
 
-Comete el delito de enriquecimiento ilícito el servidor público que utilice su puesto, cargo o comisión para incrementar su patrimonio sin comprobar su legítima procedencia.
+Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando la o el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
-Para determinar el enriquecimiento del servidor público, se tomarán en cuenta los bienes a su nombre y aquellos respecto de los cuales se conduzca como dueño, además de lo que a este respecto disponga la legislación sobre responsabilidades de los servidores públicos.
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran las y los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que la o el servidor público acredite que estos los obtuvieron por sí mismos.
 
-Al culpable, además del decomiso en beneficio del Estado de aquellos bienes cuya honesta procedencia no acredite, se le impondrán las siguientes penas:
+No se considerará enriquecimiento ilícito cuando el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
 
-I. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el lugar y el momento en que se comete el delito, se impondrá de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario, y
-
-II. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo antes anotado, se impondrán de dos a doce años de prisión y multa de ciento cuarenta y cuatro a ochocientos sesenta y cuatro días de salario.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 149.
 
-El incremento del patrimonio de un servidor público durante el ejercicio de su cargo o dentro del año siguiente después de que éste concluya, que sobrepase notoria y apreciablemente sus posibilidades económicas e ingresos lícitos, considerando sus antecedentes y circunstancias personales y la evaluación de sus gastos, es causa suficiente y fundada para presumir la falta de probidad y honradez del mismo.
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
 
 ###### Artículo 150.
 
-Se reputarán, salvo prueba en contrario, que los bienes del cónyuge de los servidores públicos, cualquiera que sea su régimen matrimonial, así como los de los hijos o hijas menores, son propiedad de dicho servidor.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
-### CAPÍTULO III. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO III. EJERCICIO ILÍCITO Y ABUSIVO DE SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 151.
 
-Comete el delito de incumplimiento del servicio público, el servidor público que incurra en alguna de las conductas siguientes:
+Comete el delito de ejercicio ilícito de servicio público, la o el servidor público que:
 
-I. Omitir la denuncia de alguna privación de libertad de la que tenga conocimiento o consentir en ella si está dentro de sus facultades evitarla;
+I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o sin satisfacer todos los requisitos legales;
 
-II. Impedir el cumplimiento de una ley, decreto, reglamento, resolución judicial o administrativa; o el cobro de una contribución fiscal o utilizar el auxilio de la fuerza pública para tal objeto, y
+II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido;
 
-III. El defensor público que habiendo aceptando la defensa de un imputado, acusado o sentenciado, la abandone o descuide por negligencia.
+III. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o municipal centralizada así como de sus organismos descentralizados, empresas de participación estatal, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de órganos constitucionales autónomos, del Congreso del Estado o del Poder Judicial, o los tribunales administrativos y laborales del Estado, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
 
-Al culpable, se le impondrá de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario.
+IV. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+V. Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsas o niegue la verdad en todo o en parte sobre los mismos, y
+
+VI. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+
+A la o el que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
+
+A la o el infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 152.
 
-Comete el delito de ejercicio indebido del servicio público, el que:
+Comete el delito de ejercicio abusivo de funciones:
 
-I. Ejerza las funciones de un cargo o comisión sin haber rendido protesta constitucional;
+I. La o el servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que la o el servidor público o las personas antes referidas formen parte, y
 
-II. Ejerza las funciones de un cargo o comisión sin satisfacer los requisitos legales;
+II. La o el servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido a la o el servidor público o a alguna de las personas mencionadas en la primera fracción.
 
-III. Ejerza las funciones de un cargo o comisión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
+A quien cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-IV. Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas en perjuicio de terceros o de la función pública;
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
-V. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su cargo o comisión;
-
-VI. Teniendo obligación por razones de cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugares, instalaciones u objetos o pérdida o sustracción de objetos que se encuentren bajo su cuidado, y
-
-VII. Rinda dolosamente informes en los que manifieste hechos o circunstancias falsos o niegue la verdad sobre los que le sean legalmente requeridos.
-
-Al que cometa alguna de las conductas a que se refieren las fracciones I, II y III de este artículo, se le impondrán de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
-
-Al que cometa alguna de las conductas a que se refieren las fracciones IV, V, VI y VII de este artículo, se le impondrán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario.
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
 
 ###### Artículo 153.
 
-Se impondrán de uno a seis años de prisión y multa de setenta y dos a cuatrocientos treinta y dos días de salario, al servidor público que en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró o no cumplirá el contrato otorgado dentro de los plazos establecidos en la normatividad laboral aplicable o en los señalados en el contrato correspondiente.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### Artículo 154.
 
-Se impondrán las mismas penas del artículo anterior al que acepte un empleo, cargo o comisión públicos, remunerados, cuyo servicio no va a prestar o acepte algún contrato de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, remunerados, cuyas obligaciones no va a cumplir, dentro de los plazos establecidos en la normatividad laboral aplicable o en los señalados en el contrato correspondiente.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### Artículo 155.
 
-Se impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, al servidor público que en el ejercicio de sus funciones o con motivo de ellas, otorgue o autorice el nombramiento de un empleo, cargo o comisión en el servicio público a persona que por resolución firme de autoridad competente se encuentre inhabilitada para desempeñarlo.
-
-Las penas se aumentarán en dos terceras partes a quien otorgue cualquier identificación en la que se acredite como servidor público a persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
-
-Las mismas penas se impondrán a quien acepte la identificación.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### Artículo 156.
 
-Se impondrán de tres meses a cuatro años de prisión y multa de dieciocho a doscientos ochenta y ocho días de salario, al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia o sin que se le haya aceptado de manera justificada o al que habiéndole sido aceptada no entregue todo aquello que haya sido objeto de su responsabilidad, a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
-### CAPÍTULO IV. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO IV. ABUSO DE AUTORIDAD
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 157.
 
-Se le impondrán de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, al servidor público que en ejercicio de sus funciones o con motivo de ellas:
+Cometen el delito de abuso de autoridad las y los servidores públicos que incurran en alguna de las conductas siguientes:
 
-I. Ejerza violencia a una persona sin causa legítima, la vejare o la insultare, o
+I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-II. Use ilegalmente la fuerza pública.
+II. Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+
+III. Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+
+IV. Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante ella o él, dentro de los términos establecidos por la ley;
+
+V. Cuando la o el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos;
+
+VI. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+
+VII. Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
+
+VIII. Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a ella o él y se los apropie o disponga de ellos indebidamente;
+
+IX. Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
+
+X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
+
+XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
+
+XII. Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
+
+XIII. Omitir el registro de la detención correspondiente o dilatar injustificadamente la puesta a disposición del detenido a la autoridad correspondiente, y
+
+XIV. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
+
+A quien cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
+
+A quien cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII Y XIV, se le impondrá de dos a nueve años de prisión y de setenta hasta ciento cincuenta días multa.
 
 ###### Artículo 158.
 
-Comete el delito de abuso de autoridad con contenido patrimonial, el servidor público que utilice la función que desempeñe para obtener la entrega de fondos, valores o cualquiera otra cosa que no le haya sido confiada, para aprovecharse o disponer de ella en su favor o de alguna persona o que obtenga, bajo cualquier pretexto, para sí o para un tercero, parte de los sueldos de un subalterno, dádivas u otros servicios indebidos.
-
-Al culpable, se le impondrán las siguientes penas:
-
-I. De tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito o no sea cuantificable, y
-
-II. De tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días salario, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ### CAPÍTULO V. COALICIÓN DE SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 159.
 
-A los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de tres meses a un año y multa de dieciocho a setenta y dos días de salario.
+A las y los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de dos años a siete años y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, a los autores intelectuales, a los instigadores o a quienes dirijan el grupo coaligado.
+No cometen este delito las y los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO VI. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+### CAPÍTULO VI. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 160.
 
-Comete el delito de uso indebido de atribuciones y facultades:
+Comete el delito de uso ilícito de atribuciones y facultades:
 
-I. El servidor público que indebidamente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+
+I. La o el servidor público que ilícitamente:
 
 a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Estado;
 
@@ -1903,61 +1947,113 @@ c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, der
 
 d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o colocaciones de fondos y valores con recursos económicos públicos.
 
-II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-Al culpable se le impondrán las siguientes penas:
+II. La o el servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
-a) Cuando el monto de las operaciones no exceda del equivalente de noventa veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario;
+a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
 
-b) Cuando el monto de las operaciones exceda del equivalente a noventa veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, e
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
 
-c) Cuando no sea posible cuantificar el monto de las operaciones, se aplicará una pena de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen (sic) referencia la fracción anterior o sea parte en las mismas, y
+
+IV. La o el servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o haga un pago inicial.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+A quien cometa el delito a que se refiere el presente artículo, se le impondrán de seis a doce meses de prisión y de treinta a ciento cincuenta días de multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 161.
 
-Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, adoptante o adoptado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
+Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+A quien cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días de multa.
 
 ### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
 ###### Artículo 162.
 
-Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, al servidor público que:
-
-I. Niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles, o
-
-II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 163.
 
-El servidor público que por sí o por interpósita persona, influyere en otro servidor público, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal o jerárquica con éste o con otro servidor público, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero o que este no sea cuantificable, se le impondrán, de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario.
+Comete el delito de tráfico de influencias:
 
-Si la conducta produce un beneficio económico que exceda de quinientas veces el salario mínimo diario general vigente en el Estado, se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario.
+I. La o el servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+
+II. Cualquier persona que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. La o el servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+
+IV. Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante las y los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+A la o el que cometa el delito de tráfico de influencias, se le impondrán de dos años a seis años de prisión y de treinta a cien días multa.
 
 ### CAPÍTULO IX. COHECHO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 164.
 
-Al servidor público que por sí o por interpósita persona, solicite o reciba para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa, para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrán las siguientes penas:
+Cometen el delito de cohecho:
 
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de noventa veces el salario mínimo diario vigente en el estado en el momento de cometerse el delito o no sea evaluable, se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, o
+I. La o el servidor público que, por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
 
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de noventa veces el salario mínimo diario vigente en el estado en el momento de cometerse el delito, se impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
+II. La o el que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 167 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
+
+III. La o el servidor público que, en el ejercicio de sus funciones o atribuciones, gestione o solicite:
+
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo, e
+
+b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
+
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación de un servidor público las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa.
+
+En ningún caso se devolverá a las y los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
 ### CAPÍTULO X. PECULADO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 165.
 
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, al servidor público que:
+Comete el delito de peculado:
 
-I. Disponga o distraiga de su objeto, dinero, rentas, valores, rendimientos, inmuebles o cualquier otra cosa, si los hubiere recibido por razón de su cargo, y
+I. Toda servidora o servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o Municipio, a organismos descentralizados, o a un particular, si, por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
 
-II. Utilice indebidamente fondos públicos u otorgue alguno de los actos a que se refiere el artículo 158 de este código, con el objeto de promover la imagen política o social de su persona, de su superior jerárquico o de un tercero o a fin de denigrar a cualquier persona.
+II. La o el servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
 
-Cuando el monto o valor del objeto del delito exceda de quinientas veces el salario mínimo, se impondrán de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario.
+III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades, y
 
-Cuando no sea posible valuar el monto del objeto se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario.
+IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
 
 ### CAPÍTULO XI. CONCUSIÓN
 
@@ -1965,37 +2061,63 @@ Cuando no sea posible valuar el monto del objeto se impondrán de tres meses a t
 
 Comete el delito de concusión el servidor público que con tal carácter exija por sí o por interpósita persona a título de impuesto o contribución, derecho y cooperación, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa no debida o en mayor cantidad de la que señala la ley.
 
-Al culpable, se le impondrán las siguientes penas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
 
-I. De tres meses a tres años de prisión o multa de dieciocho a doscientos dieciséis días de salario cuando el valor de lo exigido no exceda de quinientas veces el salario mínimo o no sea cuantificable, y
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-II. Si el valor de lo exigido o la cantidad exceden de quinientas veces el salario mínimo, se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días de multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta días de multa.
 
 ### CAPÍTULO XII. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 167.
 
-Para los efectos de este código, servidor público se entenderá en los términos que establece el artículo 107 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+Para los efectos de este Título, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, en los poderes legislativo, y judicial, y en la administración municipal, incluyendo las entidades paraestatales y paramunicipales, así como los organismos constitucionales autónomos, y los tribunales administrativos, y laborales del Estado.
+
+Se impondrán las mismas sanciones del delito de que se trate a cualquier persona que sin ser servidor público participe en alguno de los delitos previstos en este Título.
+
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+
+I. Por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización, y
+
+II. Por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+
+Para efectos de lo anterior, la o el juez deberá considerar, en caso de que la o el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 168 de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+Cuando la o el responsable tenga el carácter de particular, la o el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+
+II. Las circunstancias socioeconómicas del responsable;
+
+III. Las condiciones exteriores y los medios de ejecución, y
+
+IV. El monto del beneficio que haya obtenido la o el responsable.
+
+Cuando los delitos a que se refieren los artículos 148, 151, 160, 163, 164 y 165 del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento esté sujeto a ratificación por parte del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 168.
 
-Para la individualización de las penas, la autoridad judicial tomará en cuenta, en su caso, su antigüedad en el empleo, cargo o comisión, nivel jerárquico, antecedentes de servicio, percepciones, situación socioeconómica, grado de instrucción, las circunstancias especiales de los hechos constitutivos del delito, así como el monto del beneficio obtenido o del daño causado.
+Para la individualización de las sanciones previstas en este Título, la o el juez tomará en cuenta, en su caso, el nivel jerárquico de la o el servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 169.
 
-Además de las penas previstas, se impondrán:
-
-I. Destitución del empleo, cargo o comisión en el servicio público;
-
-II. Inhabilitación de tres a diez años para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público, y
-
-III. Decomiso de los productos del delito.
+Cuando los delitos a que se refieren los artículos 147, 157 y 164 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
 ###### Artículo 170.
 
-Se impondrá de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, a quien en nombre de un servidor público solicite dinero, valores, servicios o cualquier otra dádiva, en los casos a que se refieren los delitos de cohecho, concusión y tráfico de influencia.
-
-En ningún caso se devolverán a los sujetos activos de los delitos mencionados en el párrafo anterior, el dinero o dádiva entregados. Las mismas se aplicarán en beneficio del Estado.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ## TÍTULO TERCERO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
@@ -2119,35 +2241,47 @@ VI. Omitir, acordar o no resolver dentro de los términos legales sin causa just
 
 VII. Sacar, en los casos en que la ley no lo autorice expresamente, los expedientes de la respectiva oficina y tratar fuera de ella los asuntos que tramiten;
 
-VIII. Adquiera a su favor algún bien objeto de remate en cuyo juicio hubiere intervenido. La misma sanción se impondrá a quien, como intermediario de un servidor público, adquiera algún bien objeto del remate en cuyo juicio haya intervenido aquel;
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-IX. Dictar un auto o resolución, con violación de algún precepto imperativo de la ley o manifiestamente contrario a las constancias de autos o cuando se obre indebidamente y no por simple error de opinión;
+VIII. Advertir a la o el demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra;
 
-X. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+IX. Adquiera a su favor algún bien objeto de remate en cuyo juicio hubiere intervenido. La misma sanción se impondrá a quien, como intermediario de un servidor público, adquiera algún bien objeto del remate en cuyo juicio haya intervenido aquel;
 
-XI Admitir recursos notoriamente improcedentes, conceder términos o prórrogas indebidos;
+X. Dictar un auto o resolución, con violación de algún precepto imperativo de la ley o manifiestamente contrario a las constancias de autos o cuando se obre indebidamente y no por simple error de opinión;
 
-XII. Dar por probado un hecho que legalmente no lo esté en los autos o tener como no aprobado uno que, conforme a la ley, deba reputarse debidamente justificado;
+XI. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
 
-XIII. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la ley les prohíba;
+XII. Admitir recursos notoriamente improcedentes, conceder términos o prórrogas indebidos;
 
-XIV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+XIII. Dar por probado un hecho que legalmente no lo esté en los autos o tener como no aprobado uno que, conforme a la ley, deba reputarse debidamente justificado;
 
-XV. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+XIV. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la ley les prohíba;
 
-XVI. Nombre síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común, y
+XV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-XVII. Al que en los actos propios de su cargo, atribuyere a una persona un nombre a sabiendas que no le pertenece y con perjuicio de alguien.
+XVI. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
 
-Se impondrá de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, destitución e inhabilitación de tres meses a tres años para desempeñar empleo, cargo o comisión públicos, a los imputados de los delitos previstos en las fracciones I a la VII de este artículo.
+XVII. Nombre síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común, y
 
-Se impondrá de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientos treinta y dos días de salario, destitución e inhabilitación de seis meses a seis años para desempeñar empleo, cargo o comisión públicos, a los imputados de los delitos previstos en las fracciones VIII a la XVII de este artículo.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XVIII. Al que, en los actos propios de su cargo, atribuyere a una persona un nombre a sabiendas que no le pertenece y con perjuicio de alguien.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Se impondrá de tres a ocho años de prisión y de treinta a mil cien días de multa, a los imputados de los delitos previstos en las fracciones I a la VIII de este artículo.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Se impondrá de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, a los imputados de los delitos previstos en las fracciones IX a la XVIII de este artículo.
 
 ### CAPÍTULO II. DELITOS COMETIDOS EN PERJUICIO DE LA PROCURACIÓN DE JUSTICIA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 188.
 
-Se impondrán de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientos treinta y dos días de salario, al servidor público que:
+Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que:
 
 I. Prive de su libertad personal a cualquier persona durante la etapa de investigación fuera de los casos señalados por la ley o lo retenga por más tiempo del previsto en la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -2170,6 +2304,10 @@ IX. Retarde deliberadamente el ejercicio de la acción penal.
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 X. Perturbe el lugar de los hechos relacionado con un hecho delictivo o el procedimiento de cadena de custodia.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XI. Oculte a la o el imputado el nombre de quien lo acusa, salvo en los casos previstos en la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio.
 
 ### CAPÍTULO III. TORTURA
 
@@ -2203,9 +2341,11 @@ Tampoco podrá invocarse como justificación la orden de un superior jerárquico
 
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 193.
 
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, al servidor público que:
+Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que:
 
 I. Ordene la aprehensión de cualquier persona por delito que no se encuentre sancionado con pena privativa de libertad o no preceda denuncia o querella;
 
@@ -2219,13 +2359,31 @@ IV. No resuelva sobre la vinculación a proceso del imputado, dentro del plazo s
 
 V. Prolongue injustificadamente la prisión preventiva, por más tiempo del que como máximo fija la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
 
-VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido, y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-VII. Inicie un proceso penal contra un servidor público con fuero.
+VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VII. Inicie un proceso penal contra un servidor público con fuero;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VIII. Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+IX. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que, por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales, y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+X. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que la o el imputado se sustraiga a la acción de la justicia.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 194.
 
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
+Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
 
@@ -2680,6 +2838,8 @@ Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuv
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
 ### CAPÍTULO I. DESAPARICIÓN FORZADA DE PERSONAS
+
+(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS RETROACTIVOS A LA ENTRADA EN VIGOR DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 249.
 
@@ -3529,6 +3689,8 @@ Para los efectos de los artículos que anteceden se entenderá que las comisione
 
 DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 346.
 
 Se impondrá de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, a quien por medio de la violencia sobre las personas o sin el consentimiento de quien legalmente pueda otorgarlo o por engaño:
@@ -3607,13 +3769,7 @@ Para efectos de este artículo se entiende que proceden o representan el product
 
 ###### Artículo 355.
 
-Al que por cualquier medio procure, propicie, posibilite, promueva, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, consumo de drogas o enervantes, así como bebidas embriagantes, prácticas sexuales o a cometer hechos que la ley señala como delitos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario.
-
-Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente sobre el mismo menor o incapaz o éstos incurran en la comisión de algún delito, las penas se aumentarán de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta días de salario.
-
-En los casos en que por la práctica reiterada de los actos de corrupción, el menor o incapaz adquiera los hábitos del alcoholismo, fármaco dependencia, práctica de actos sexuales, o forme parte de una asociación delictuosa, las penas serán de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario.
-
-No se entenderá por corrupción de menores los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+Al que por cualquier medio procure, propicie, posibilite, promueva, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, consumo de drogas o enervantes, así como bebidas embriagantes, prácticas sexuales, formar parte de una asociación delictuosa o a cometer hechos que la ley señala como delitos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario.
 
 ###### Artículo 356.
 
@@ -4474,3 +4630,63 @@ Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Las indagatorias penales y/o carpetas de investigaciones que se inicien y los procesos penales que se instruyan con motivo de hechos probablemente constitutivos de delito, ocurridos previamente a la entrada en vigor del presente Decreto se regirán por las disposiciones del Código Penal para el Estado Libre y Soberano de Tlaxcala vigentes en el momento en que acontecieron.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 131.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO DEL ESTADO DE TLAXCALA Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones previstas en el artículo primero del presente Decreto, entrarán en vigor una vez que esté instalado y entre en funciones el Tribunal de Justicia Administrativa.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Administrativa deberá crearse en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la instalación y funcionamiento de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas se estará a lo dispuesto en el Reglamento de la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de las reformas y adiciones a la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye al Procurador General de Justicia del Estado a efecto de que instrumente las medidas necesarias para dar debido cumplimiento al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Procurador General de Justicia del Estado deberá nombrar a los titulares de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Investigación y Persecución de los Delitos en Materia de Trata de Personas, y de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas.
+
+###### ARTÍCULO OCTAVO.
+
+La Subprocuraduría, departamentos y unidades administrativas que tengan conocimiento de investigaciones en procesos relacionados con hechos que la ley considera como delitos en materia de corrupción las remitirá a la Fiscalía Especializada en Combate a la Corrupción para su conocimiento y atención.
+
+###### ARTÍCULO NOVENO.
+
+La instancia del Gobierno del Estado encargada de la aprobación del Presupuesto de Egresos del Poder Ejecutivo, realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en Combate a la Corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, la o el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
