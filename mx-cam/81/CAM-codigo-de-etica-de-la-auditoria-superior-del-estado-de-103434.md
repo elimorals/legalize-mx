@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-la-auditoria-superior-del-estado-de-103434"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-17"
-last_updated: "2014-09-17"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LA AUDITORIA SUPERIOR DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL NUMERAL SEGUNDO DEL CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018 (ABROGADO).
 
 Código publicado en el Periódico oficial del Estado de Campeche, el miércoles 17 de septiembre de 2014.
 
@@ -184,3 +186,17 @@ TERCERA.- Los titulares de las Unidades Administrativas que integran la Auditor�
 C P. Jorge Martín Pacheco Pérez, M.A.E., Auditor Superior del Estado de Campeche, en los términos que disponen en los artículos 176 fracciones VIII y XII y 188 segundo párrafo de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche y 8 fracciones XIX y XXIII del Reglamento Interior de la Auditoría Superior del Estado de Campeche publicado en el Periódico Oficial del Estado el 31 de Octubre de 2012; a los nueve días del mes de septiembre del año dos mil catorce, se expide el presente Código de Ética de la Auditoría Superior del Estado de Campeche, publíquese, previos los trámites de ley. Firma.
 
 C. Lic. Alfonso Elías López Castro, Titular de la Dirección de Asuntos Jurídicos de la Auditoría Superior del Estado de Campeche, en términos de los artículos 180 fracción VIII de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche en relación con el artículo 18 fracción X del Reglamento Interior de la Auditoría Superior del Estado de Campeche publicado en el Periódico Oficial del Estado el 31 de octubre de 2012; a los nueve días del mes de septiembre del año dos mil catorce se revisa y sanciona el presente Código de Ética para efectos de proceder al trámite de su publicación en el Periódico Oficial del Estado de Campeche. Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERA.- El presente Código de Ética entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDA.- Se abroga el Código de Ética publicado en el Periódico Oficial del Estado de Campeche el 17 de septiembre de 2014.
+
+TERCERA.- El Código de Ética será entregado a cada uno de los servidores públicos de la Auditoría Superior del Estado de Campeche.
+
+CUARTA.- El responsable de Recursos Humanos y Capacitación coordinará la difusión del Código de Ética a todos los servidores públicos de la Auditoría Superior del Estado de Campeche.
