@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2017-12-18"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -143,7 +143,7 @@ VII. El inventario, registro, catálogo y resguardo de los bienes muebles e inmu
 
 VIII. La información relativa a los procesos de fiscalización;
 
-IX. La Información relativa a los juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, y demás juicios en los que el Congreso del Estado sea parte; y
+IX. La información relativa a los juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad, y demás juicios en los que el Congreso del Estado sea parte; y
 
 X. La demás información que se estime procedente
 
@@ -425,7 +425,7 @@ V. Falten injustificadamente a una reunión de Comisión.
 
 La disminución de la dieta en los supuestos de las fracciones I y V del artículo anterior, será de un día.
 
-En el supuesto de la fracción III del artículo anterior, será de cinco días;
+En el supuesto de la fracción III del artículo anterior, será de cinco días.
 
 En los supuestos de la (sic) fracciones II y IV del artículo anterior, será de tres días.
 
@@ -2211,7 +2211,7 @@ V. Propiciar la elaboración de propuestas ciudadanas de reformas a leyes a trav
 
 ###### Artículo 213.
 
-Se entiende por cabildeo la actividad de particulares que promueven intereses legítimos, propios o de terceras personas, ante los Órganos del Congreso del Estado, o ante los Diputados, con el propósito de Impulsar iniciativas y propuestas para fortalecer la toma de decisiones.
+Se entiende por cabildeo la actividad de particulares que promueven intereses legítimos, propios o de terceras personas, ante los Órganos del Congreso del Estado, o ante los Diputados, con el propósito de impulsar iniciativas y propuestas para fortalecer la toma de decisiones.
 
 Los Órganos del Congreso del Estado, así como los Diputados informarán en un tiempo breve por escrito a la Junta de Gobierno y Coordinación Política, para su conocimiento y publicación de las actividades realizadas ante ellos por cabilderos en la promoción e impulso de iniciativas y propuestas de su interés.
 
@@ -2351,7 +2351,7 @@ Sólo en caso de que la persona denunciante no tuviere acceso a las pruebas en q
 
 ###### Artículo 237.
 
-Recibida por el Congreso del Estado alguna denuncia contra ayuntamientos o Integrantes de éstos, por alguna de las causas de desaparición o suspensión o revocación de mandato, previstas por la Ley Orgánica Municipal para el Estado de Guanajuato, se procederá con arreglo a las disposiciones establecidas en los artículos siguientes.
+Recibida por el Congreso del Estado alguna denuncia contra ayuntamientos o integrantes de éstos, por alguna de las causas de desaparición o suspensión o revocación de mandato, previstas por la Ley Orgánica Municipal para el Estado de Guanajuato, se procederá con arreglo a las disposiciones establecidas en los artículos siguientes.
 
 ###### Artículo 238.
 
@@ -2583,7 +2583,7 @@ VII. Dirección de Asuntos Jurídicos;
 
 VIII. Dirección del Diario de los Debates y Archivo General; y
 
-IX. Unidad de Seguimiento y Análisis de impacto Legislativo.
+IX. Unidad de Seguimiento y Análisis de Impacto Legislativo.
 
 ###### Artículo 262.
 
@@ -2661,9 +2661,15 @@ IX. Editar publicaciones;
 
 X. Coordinar la compilación y difusión de las normas, decretos, acuerdos y disposiciones de observancia general;
 
-XI. Dar a conocer a la ciudadanía a través de la página de Internet del Congreso del Estado, las funciones del Poder Legislativo, las atribuciones de los Diputados y el proceso legislativo; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-XII. Las demás que acuerde el Pleno, la Diputación Permanente o la Junta de Gobierno y Coordinación Política.
+XI. Dar a conocer a la ciudadanía a través de la página de internet del Congreso del Estado, las funciones del Poder Legislativo, las atribuciones de los Diputados y el proceso legislativo;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XII. Colaborar con el Centro de Estudios Parlamentarios, de conformidad con el Manual de Organización del mismo; y
+
+XIII. Las demás que acuerde el Pleno, la Diputación Permanente o la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 267.
 
@@ -2795,9 +2801,11 @@ Para el ejercicio de sus funciones la Dirección General de Servicios y Apoyo T�
 
 #### Sección Quinta. Unidad de Estudios de las Finanzas Públicas
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 275.
 
-La Unidad de Estudios de las Finanzas Públicas es el órgano técnico de carácter institucional encargado de apoyar a las Comisiones Legislativas y a los integrantes del Congreso del Estado en el ejercicio de las funciones legislativas en materia de finanzas públicas.
+La Unidad de Estudios de las Finanzas Públicas es el órgano técnico de carácter institucional encargado de apoyar a las Comisiones Legislativas y a los integrantes del Congreso del Estado y de colaborar con el Centro de Estudios Parlamentarios en el ejercicio de las funciones e investigaciones legislativas en materia de finanzas públicas.
 
 ###### Artículo 276.
 
@@ -2903,9 +2911,17 @@ II. Formular indicadores objetivos del impacto que tengan las leyes y decretos q
 
 III. Recabar información de campo y realizar encuestas para medir el impacto social o económico de leyes y decretos;
 
-IV. Presentar un informe anual del impacto de las leyes y decretos conforme a los indicadores dados a conocer; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-V. Realizar un análisis objetivo de la oportunidad y necesidad de crear, modificar o derogar un decreto o ley sobre cierto tema a solicitud del Pleno, Diputación Permanente, Junta de Gobierno y Coordinación política o cualquier comisión legislativa.
+IV. Presentar un informe anual del impacto de las leyes y decretos conforme a los indicadores dados a conocer;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+V. Realizar un análisis objetivo de la oportunidad y necesidad de crear, modificar o derogar un decreto o ley sobre cierto tema a solicitud del Pleno, Diputación Permanente, Junta de Gobierno y Coordinación Política o cualquier comisión legislativa; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VI. Colaborar con el Centro de Estudios Parlamentarios de conformidad con el Manual de Organización del mismo.
 
 ###### Artículo 283.
 
@@ -2940,6 +2956,50 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 II. Contar con título profesional en alguna de las áreas de ciencias de la comunicación o periodismo, legalmente expedido y contar con una experiencia profesional de cuando menos cinco años; y
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+#### Sección Décima. Centro de Estudios Parlamentarios
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 285-A.
+
+El Congreso del Estado contará con el Centro de Estudios Parlamentarios, el cual será coordinado por la Secretaría General, tendrá por objeto prestar, los servicios de información analítica requerida para el cumplimiento de las funciones del Congreso del Estado, conforme al presupuesto y programa anual de trabajo aprobado por la Junta de Gobierno y Coordinación Política, acorde con los principios de la investigación científica, en forma objetiva, imparcial, oportuna y eficiente.
+
+El Centro de Estudios Parlamentarios se integrará por servidores públicos del Poder Legislativo, especialistas en investigación, manejo, sistematización y análisis de información sobre los problemas sociales, de cultura estatal y nacioncl (sic), jurídicos, de finanzas públicas y otros de interés para el desarrollo de la función parlamentaria.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 285-B.
+
+La estructura básica del Centro de Estudios Parlamentarios estará conformada por un Órgano de Gobierno, un Órgano Consultivo y una Secretaría Ejecutiva, así como, por el número de investigadores que la disponibilidcd (sic) presupuestal permita. El desarrollo de la estructura orgánica y funcional se hará mediante el Manual de Organización que al efecto apruebe la Junta de Gobierno y Coordinación Política.
+
+I. El Órgano de Gobierno estará integrado por:
+
+Los titulares de la Secretaría General, la Dirección General de Administración, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de las Finanzas Públicas y la Unidad de Seguimiento y Análisis de Impacto Legislativo.
+
+II. El Órgano Consultivo estará integrado por:
+
+Representantes de Instituciones que realicen investigaciones jurídicas, financieras, científicas o sociales. El número de integrantes y su designación se hará de conformidad con el Manual de Organización.
+
+III. La Secretaría Ejecutiva estará integrada por un servidor público adscrito a la Secretaría General, con conocimientos en investigación parlamentaria.
+
+A las reuniones de los órganos referidos en las fracciones I y II podrán ser invitadas autoridades, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento del objeto del Centro de Estudios Parlamentarios. Dichos invitados tendrán derecho de voz.
+
+Los cargos de quienes integran el órgano consultivo serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 285-C.
+
+El Centro de Estudios Parlamentarios deberá articular sus acciones con los servicios existentes en el Congreso del Estado, para la publicación de resultados, estudios preliminares o información para las actividades legislativas, conforme a los lineamientos de la comunicación social que al efecto establezca la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 285-D.
+
+Atendiendo a la disponibilidad presupuestaria del Poder Legislativo, el Centro de Estudios Parlamentarios y conforme a los lineamientos que proponga la Dirección General de Administración y aprobados por la Junta de Gobierno y Coordinacion Política, contará con un programa anual de formación de becarios, pasantes e investigadores, con el propósito de formar a profesionistas en el planeamiento, desarrollo, ejecución y análisis de estudios de investigación científica, en las áreas parlamentarias y de finanzas públicas.
 
 ### Capítulo Único. Servicio Civil de Carrera
 
@@ -3178,3 +3238,17 @@ Asuntos civiles en trámite
 Artículo Tercero. El ejercicio de las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, que a la entrada en vigor del presente Decreto se encuentren pendientes de trámite o en desahogo por los sujetos de fiscalización o la Auditoría Superior del Estado de Guanajuato, les serán aplicables de manera retroactiva las disposiciones legales y reglamentarias relativas a la abstención del ejercicio de las acciones civiles y su dictaminarían (sic) contempladas por el artículo 70 de la Ley y demás complementarias del Reglamento de la misma, que se derogan con el presente Decreto.
 
 De igual manera, las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, cuya tramitación hubiere correspondido a la Auditoría Superior, una vez causada ejecutoria la sentencia respectiva, podrán ser ejecutados (sic) por los sujetos de fiscalización, siempre y cuando ello no actualice un conflicto de interés.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 300, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Junta de Gobierno y Coordinación Política emitirá el acuerdo de reestructuración del Centro de Estudios Parlamentarios del Congreso del Estado a más tardar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero. La Junta de Gobierno y Coordinación Política aprobará el Manual de Organización del Centro de Estudios Parlamentarios del Congreso del Estado a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. A la entrada en vigor del presente Decreto, los becarios, pasantes e investigadores que se encuentren desarrollando actividades o investigaciones, continuarán las mismas en los términos de su incorporación.
+
+Artículo Quinto. El Congreso del Estado, por conducto de la Dirección General de Administración, mantendrá las acciones presupuestales respecto del Centro de Estudios Parlamentarios en cumplimiento de lo establecido en el presente Decreto, garantizando la continuidad de la operación y de las actividades del mismo, de conformidad con el acuerdo de reestructuración, con la normativa aplicable y sujeto a la suficiencia presupuestaria.
