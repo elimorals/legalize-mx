@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2017-03-19"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 En diversas fechas fueron presentadas a esta H. LXVI Legislatura del Estado, cuatro iniciativas: la primera en fecha 12 de mayo de 2015, presentada por los CC. Diputados CARLOS EMILIO CONTRERAS GALINDO, MARCO AURELIO ROSALES SARACCO, FELIPE MERAZ SILVA y JOSÉ ALFREDO MARTÍNEZ NÚÑEZ, integrantes de esta Sexagésima Sexta Legislatura, que contiene Ley de Transparencia y Acceso a la Información Pública para el Estado de Durango; la segunda en fecha 16 de febrero de 2016, presentada por los CC. Diputados JUAN QUIÑONEZ RUIZ y CARLOS MANUEL RUIZ VALDEZ, integrantes de la Fracción Parlamentaria del Partido Acción Nacional de la presente Legislatura, que contiene reformas y adiciones a la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango; la tercera en fecha 15 de marzo de 2016, presentada por el C. C.P. JORGE HERRERA CALDERA, GOBERNADOR DEL ESTADO DE DURANGO, que contiene Ley de Transparencia y Acceso a la Información Pública del Estado de Durango y la Cuarta presentada en fecha 30 de marzo de 2016, por la COMISIONADA y COMISIONADOS INTEGRANTES DEL CONSEJO GENERAL DEL INSTITUTO DURANGUENSE DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES (IDAIP), que contiene LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO; mismas que fueron turnadas a la Comisión de Gobernación integrada por los CC. Diputados: Rosauro Meza Sifuentes, Eduardo Solís Nogueira, Luis Iván Gurrola Vega, Israel Soto Peña y Eusebio Cepeda Solís; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-ANTECEDENTES …
+ANTECEDENTES
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expide el siguiente:
 
@@ -109,7 +111,9 @@ Para el caso de la interpretación, se podrá tomar en cuenta los criterios, det
 
 Los criterios de interpretación que emita el INAI, en los términos de la Ley General, tendrán el carácter de orientador para el Instituto.
 
-En lo no contenido por la presente en materia de notificaciones serán supletorias las disposiciones de la Ley de Justicia Fiscal y Administrativa para el Estado de Durango.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+En lo no contenido por la presente en materia de notificaciones serán supletorias las disposiciones de la Ley de Justicia Administrativa del Estado de Durango.
 
 ###### Artículo 5.
 
@@ -121,7 +125,9 @@ II. AJUSTES RAZONABLES: Modificaciones y adaptaciones necesarias y adecuadas que
 
 III. ÁREAS: Instancias que cuentan o puedan contar con la información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o equivalentes.
 
-IV. COMISIONADO (A): Cada uno de los integrantes del Pleno del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Durango.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+IV. COMISIONADO (A): Cada uno de los integrantes del Consejo General del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Durango.
 
 V. CONSULTA DIRECTA: La prerrogativa que tiene toda persona de allegarse información pública, sin intermediarios.
 
@@ -173,7 +179,9 @@ XVIII. INFORMACIÓN DE INTERÉS PÚBLICO: Se refiere a la información que resul
 
 XIX. INFORMACIÓN PÚBLICA: Toda información contenida en documentos; fotografías; grabaciones; y en soporte magnético, digital, sonoro, visual, electrónico, informático, holográfico o en cualquier otro elemento técnico existente o que se cree con posterioridad, que se encuentre en posesión de los sujetos obligados como resultado del ejercicio de sus atribuciones u obligaciones.
 
-XX. INFORMACIÓN PÚBLICA DE OFICIO: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XX. OBLIGACIONES DE TRANSPARENCIA: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos.
 
 XXI. INFORMACIÓN RESERVADA: La información pública que se encuentra temporalmente sujeta a alguna de las excepciones previstas en esta Ley y cuyo acceso está limitado por razones de interés público.
 
@@ -187,7 +195,9 @@ XXV. LEY: La Ley de Transparencia y Acceso a la Información Pública del Estado
 
 XXVI. PERSONA: Todo ser humano sujeto de derechos y obligaciones o personas morales creadas conforme a laLey (sic).
 
-XXVII. PLATAFORMA NACIONAL: La Plataforma Nacional de Transparencia a que hace referencia el artículo 48 de la presente Ley.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XXVII. PLATAFORMA NACIONAL: La Plataforma Nacional de Transparencia a que hace referencia el artículo 47 de la presente Ley;
 
 XXVIII. PRUEBA DE DAÑO: Procedimiento para valorar, mediante elementos objetivos o verificables, que la información clasificada daña el interés público protegido al ser difundida.
 
@@ -467,7 +477,9 @@ XI. Administrar los recursos humanos, bienes y patrimonio del instituto, así co
 
 XII. Establecer los requisitos para el ingreso al servicio y al personal calificado y especializado en la materia promoviendo la no discriminación la rendición de cuentas la equidad de género y la cultura de la transparencia;
 
-XIII. Presentar al Congreso del Estado, el informe anual de labores, a través de su Presidente, en términos de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XIII. Presentar al Congreso del Estado, a través de su Presidente, en el mes de febrero de cada año, el informe de labores correspondiente al ejercicio fiscal anterior, en términos del artículo 168 la Constitución Política del Estado Libre y Soberano de Durango;
 
 XIV. Capacitar a los Servidores Públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información;
 
@@ -575,7 +587,9 @@ X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
 XI. Capacitar al personal necesario de los sujetos obligados al que pertenecen para dar trámite a las solicitudes de acceso a la información;
 
-XII. Asegurar que se mantenga actualizada la información pública de oficio en el portal de transparencia, dentro de los plazos establecidos;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XII. Asegurar que se mantengan actualizadas las obligaciones de transparencia en la Plataforma Nacional de Transparencia y en el portal oficial de internet, dentro de los plazos establecidos.
 
 XIII. Expedir las certificaciones de la información que obre en su poder, o solicitarlas ante la unidad respectiva de su adscripción;
 
@@ -1561,9 +1575,11 @@ En ningún caso se podrán clasificar Documentos antes de que se genere la infor
 
 La clasificación de información reservada se realizará conforme a un análisis caso por caso, mediante la aplicación de la prueba de daño.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 105.
 
-Los lineamientos generales que emita el Sistema Nacional en materia de clasificación de la información reservada y confidencial y, para la elaboración de versiones públicas, serán de observancia obligatoria para los sujetos obligados.
+Los lineamientos generales que emita el Sistema Nacional y el Instituto, en materia de clasificación de la información reservada y confidencial y, para la elaboración de versiones públicas, serán de observancia obligatoria para los sujetos obligados.
 
 ###### Artículo 106.
 
@@ -2280,3 +2296,13 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 366.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales rendirá su informe respecto del ejercicio del año 2017 a más tardar el 31 de mayo de 2018.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
