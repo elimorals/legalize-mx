@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2017-03-24"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "TLA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -141,6 +139,22 @@ Con independencia de la causa o motivo que origine la separación del empleo, ca
 
 Corresponde al Gobernador del Estado de Tlaxcala nombrar y remover libremente a los titulares de las dependencias centralizadas y descentralizadas. Los niveles de confianza podrán ser nombrados por los titulares respectivos.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+ARTICULO 10 BIS.- Las y los titulares de los órganos internos de control de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de las dependencias o entidades a las que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como el óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Anticorrupción del Estado de Tlaxcala y la Contraloría del Ejecutivo respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+Las unidades encargadas de la función de auditoría de la Contraloría del Ejecutivo y los órganos internos de control de la Administración Pública Estatal incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Anticorrupción del Estado de Tlaxcala y las mejores prácticas que considere el referido sistema.
+
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+Las y los titulares de las unidades encargadas de la función de auditoría de la Contraloría del Ejecutivo y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Contraloría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Anticorrupción del Estado de Tlaxcala, tanto las dependencias y entidades, así como la Contraloría del Ejecutivo, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Anticorrupción del Estado de Tlaxcala, las y los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2014)</small>
@@ -241,9 +255,9 @@ III. No ser miembro activo del Ejército y Fuerzas Armadas del país.
 
 Para los casos de Secretario de Gobierno y Procurador General de Justicia del Estado, éstos deberán reunir los requisitos que para ocupar dichos cargos establece la Constitución Política del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
-El Titular de la Secretaría de Planeación y Finanzas, deberá contar con título y cédula profesional en carrera afín al área de las ciencias económico-administrativas, así como con experiencia mínima de seis años en la materia.
+La o el Titular de la Secretaría de Planeación y Finanzas deberá contar, al menos, con licenciatura, título profesional y experiencia en finanzas, finanzas públicas, fiscalización o presupuesto.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -605,9 +619,15 @@ h) Coordinar conjuntamente con la Federación y Municipios los programas y apoyo
 
 i) Participar, promover y ejecutar la celebración de convenios de coordinación y concertación con los de los tres órdenes de gobierno y con los beneficios de los programas sociales y asistenciales;
 
-j) Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social, e
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
-k) Las demás que le confiera el Ejecutivo del Estado y otras disposiciones legales.
+j) Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social;
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+k) Adquirir los bienes y servicios que se requieran para el funcionamiento del Gobierno del Estado, con excepción de los relativos a la Secretaría de Salud, conforme a las disposiciones aplicables, y
+
+l) Las demás que le confiera el Ejecutivo del Estado y otras disposiciones legales.
 
 ###### ARTICULO 32 Bis.
 
@@ -809,15 +829,21 @@ X.- Establecer las bases para la promoción e impulso del modelo de atención co
 
 XI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud.
 
-XII.- Ejercer y realizar todas aquellas acciones que le correspondan en materia de salubridad general local y, en su caso, expedir la normatividad correspondiente, en términos de las disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+XII.- Ejercer y realizar todas aquellas acciones que le correspondan en materia de salubridad general y local y, en su caso, expedir la normatividad correspondiente, en términos de las disposiciones aplicables;
 
-XIII.- Ejercer y realizar todas aquellas acciones que como órgano rector del sector salud, corresponda a los organismos públicos desconcentrados y descentralizados en materia de salud, y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XIII.- Ejercer y realizar todas aquellas acciones que como órgano rector del sector salud, corresponda a los organismos públicos desconcentrados y descentralizados en materia de salud;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XIV.- Adquirir los bienes y servicios que se requieran para el funcionamiento del Sistema de Salud, conforme a las disposiciones aplicables, y
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
-XIV.- Las demás que establezcan esta Ley, la Ley de Salud del Estado, los reglamentos que de ella deriven y otras disposiciones legales aplicables.
+XV.- Las demás que establezcan esta Ley, la Ley de Salud del Estado, los reglamentos que de ella deriven y otras disposiciones legales aplicables.
 
 SECRETARIA DE COMUNICACIONES
 
@@ -1053,7 +1079,9 @@ XIV. Proveer oportunamente a las dependencias del poder Ejecutivo de los element
 
 XV. Suscribir con los particulares, a nombre del Ejecutivo, los contratos y convenios que se requieran para la atención de los servicios;
 
-XVI. Adquirir los bienes y servicios que se requieran para el funcionamiento del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XVI. Adquirir los bienes y servicios que se requieran para el funcionamiento del Gobierno del Estado, conforme a las disposiciones aplicables;
 
 XVII. Levantar y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Gobierno del Estado;
 
@@ -1145,11 +1173,9 @@ Los servidores públicos que ocupen cargos de secretarios técnicos y vocales, a
 
 El Gobernador determinará qué funcionarios habrán de ejercer las facultades que implique la titularidad de las acciones que formen el capital social o patrimonio de aquellas entidades paraestatales no agrupadas sectorialmente.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 61.
 
-La Administración Pública Centralizada al igual que los organismos que integran la Administración Pública Descentralizada, conforme a su presupuesto autorizado, podrá contar con las unidades de asesoría y apoyo técnico y los servicios administrativos como lo indica la presente Ley, previniéndose la creación de las Contralorías Internas cuando así lo ameriten.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1544,3 +1570,23 @@ Las obligaciones laborales de la Secretaría de Turismo y Desarrollo Económico 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 132.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE TLAXCALA, DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA, DE LA LEY DE SALUD DEL ESTADO DE TLAXCALA, DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TLAXCALA, DE LA LEY DEL INSTITUTO TLAXCALTECA PARA LA EDUCACIÓN DE LOS ADULTOS, DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE TLAXCALA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TLAXCALA, DE LA LEY PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE TLAXCALA, ASÍ COMO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a las reformas planteadas en el presente Decreto a la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios, entrarán en vigor una vez que esté instalado el Tribunal de Justicia Administrativa Local.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que respecta a las atribuciones dispuestas para la Contraloría del Ejecutivo en materia de control interno, previstas en la reforma realizada por medio de este Decreto a la Ley Orgánica de la Administración Pública del Estado de Tlaxcala, entrarán en vigor una vez que el Titular del Poder Ejecutivo Estatal expida el Reglamento Interno del Despacho del Gobernador.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
