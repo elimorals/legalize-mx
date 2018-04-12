@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2017-07-06"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -65,7 +65,9 @@ IV. Fomentar el desarrollo y protección de la biodiversidad genérica y el mejo
 
 V. Valorar las diversas funciones económicas, ambientales, sociales y culturales en las diferentes manifestaciones de la actividad productiva en el sector rural;
 
-VI. Coadyuvar a la organización y capacitación de los productores, impulsando su acceso al crédito, al seguro para la producción, innovaciones tecnológicas, canales de comercialización, almacenaje y mejores sistemas de administración;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VI. Coadyuvar a la organización y capacitación de los productores, ejidos, y comunidades, las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables, impulsando su acceso al crédito, al seguro para la producción, innovaciones tecnológicas, canales de comercialización, almacenaje y mejores sistemas de administración;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -88,6 +90,10 @@ X. Impulsar acciones para alcanzar la Seguridad Alimentaria en el sector rural e
 Para los efectos de esta Ley se entenderá por:
 
 I. Agricultura orgánica: sistema de producción en el cual se utilizan insumos naturales para producir alimentos libres de residuos tóxicos, mediante un programa de manejo que no daña y proteja al medio ambiente y la salud humana; incluye el uso de pesticidas, fertilizantes, ni otros productos de origen químico para producir;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+I BIS. Figuras asociativas: Los ejidos y comunidades así como las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables;
 
 II. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
@@ -733,7 +739,9 @@ El Programa Especial Concurrente se integrará bajo la coordinación de la Secre
 
 El Programa Especial Concurrente contendrá las dimensiones productiva, social, territorial y sustentable.
 
-De acuerdo al Plan Estatal de Desarrollo y de los programas sectoriales que comprenderá las políticas públicas orientadas a la generación y diversificación de empleo, y a garantizar a la población rural el bienestar y su participación e incorporación al desarrollo estatal, dando prioridad a las zonas de alta y muy alta marginación, y a las comunidades económica y socialmente débiles, se integrará el Programa Especial Concurrente Estatal, el cual fomentará las siguientes acciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+
+De acuerdo al Plan Estatal de Desarrollo y de los programas sectoriales que comprenderán las políticas públicas orientadas a la generación y diversificación de empleo, y a garantizar a la población rural el bienestar y su participación e incorporación al desarrollo estatal, a las figuras asociativas como los ejidos y comunidades así como las organizaciones y asociaciones estatales, regionales, distritales, municipales o comunitario, de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables, dando prioridad a las zonas de alta y muy alta marginación, y los sectores de población económica y socialmente más débiles, se integrará el Programa Especial Concurrente Estatal, el cual fomentará las siguientes acciones:
 
 I. Actividades económicas de la sociedad rural;
 
@@ -755,7 +763,9 @@ IX. Equidad de género, la protección de la familia, el impulso a los programas
 
 X. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
 
-XI. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo rural sustentable del Estado;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XI. Impulso a la cultura y al desarrollo de las formas específicas de organización social y/o económica, constituidos en figuras asociativas, con la capacidad productiva de los pueblos indígenas, particularmente para su integración al desarrollo rural sustentable del Estado;
 
 XII. Promoción del empleo productivo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo en las áreas agropecuaria, comercial, industrial y de servicios;
 
@@ -933,11 +943,11 @@ El Reordenamiento Territorial consiste en el conjunto de programas y acciones de
 
 Los apoyos y subsidios que otorgue el Estado darán prioridad a los proyectos que favorezcan la reordenación territorial, fomentando que los cultivos y explotaciones diversas se establezcan acordes al mejor potencial productivo de cada de la Entidad.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 56.
 
-La SEDARH y las instituciones del sector diseñarán estímulos o apoyos diferenciados, para aquellos productores que realicen prácticas o actividades agroindustriales estratégicas, y que impulsen el reordenamiento territorial.
+La SEDARH y las instituciones del sector diseñarán estímulos o apoyos diferenciados para aquellos productores agrupados en figuras asociativas, que realicen prácticas o actividades agropecuarias estratégicas, y que impulsen el reordenamiento territorial, dando prioridad a los sectores de población económica y socialmente más débiles y a sus organizaciones.
 
 ###### ARTÍCULO 57.
 
@@ -1276,3 +1286,11 @@ P.O. 6 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 930.- SE REFORMAN LOS ARTÍCULOS 2°, 35 Y 56; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN I BIS, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga todas las disposiciones que se opongan al presente Decreto.
