@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2017-06-25"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -3523,6 +3523,24 @@ Son ingresos coordinados las participaciones en ingresos federales y se percibir
 
 Son ingresos por fondos de aportación, los recursos que transfiere la federación, según lo dispuesto en el Capítulo V de la Ley de Coordinación Fiscal, clasificados como Ramo 33 en el Presupuesto de Egresos de la Federación.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTICULO 75.
+
+Las aportaciones y sus accesorios que con cargo a los fondos a que se refiere el Capítulo V De los Fondos de Aportaciones Federales de la Ley de Coordinación Fiscal, que reciba el estado y, en su caso, los municipios, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50, 51 y 52 de la Ley de Coordinación Fiscal. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45, 47, y 49 de la Ley de Coordinación Fiscal.
+
+Las aportaciones federales serán administradas y ejercidas por el Gobierno del Estado y, en su caso, de los municipios que las reciban, conforme a sus propias leyes en lo que no se contrapongan a la legislación federal, salvo en el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, en el cual se observará lo dispuesto en el artículo 26 de la Ley de Coordinación Fiscal. En todos los casos deberán registrarlas como ingresos que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
+
+Para efectos del entero de los Fondos de Aportaciones a que se refiere el artículo 25 la Ley de Coordinación Fiscal, salvo por lo dispuesto en el artículo 52 del Capítulo V de la Ley de Coordinación Fiscal, no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de la misma.
+
+En el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, las autoridades de control interno del Gobierno del Estado supervisarán, el proceso de integración y pago de la nómina del personal educativo. Asimismo, la Auditoría Superior de la Federación fiscalizará la aplicación de dichos recursos.
+
+Cuando las autoridades del Estado y de los municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública en forma inmediata.
+
+Por su parte, cuando la Entidad de Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en la Ley de Coordinación Fiscal, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos del Estado, municipios y Organismos Constitucionales Autónomos por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales, en los términos de las leyes federales aplicables.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Esta Ley entrará en vigor el día primero de enero del año (2000) dos mil.
@@ -3766,3 +3784,11 @@ PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. El beneficio de la exención del Impuesto Sobre Nómina que se genere por la contratación de personas deportadas de los Estados Unidos de América, deberán demostrar ante la Secretaría de Desarrollo Económico, que su deportación se realizó después del 20 de enero de 2017.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 361.- POR EL CUAL SE ADICIONA EL ARTÍCULO 75 A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
