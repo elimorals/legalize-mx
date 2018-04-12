@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-las-entidades-paraestatales-del-estado-de-tlaxcala-8532"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2008-10-17"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el viernes 13 de octubre de 1995.
 
@@ -373,45 +373,31 @@ Independientemente de las atribuciones que les otorguen otras leyes, corresponde
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 41.
 
-El órgano de vigilancia de las Entidades Paraestatales estará integrado por un Comisario Público Propietario y un Suplente designados por el Titular del Ejecutivo Estatal y a propuesta del Contralor del Ejecutivo.
-
-Los Comisarios Públicos evaluarán el desempleo (sic) general y por funciones del organismo realizarán estudios sobre la eficiencia, honradez y transparencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información que efectuarán los actos que requieran el adecuado cumplimiento de sus funciones, sin perjuicios de las tareas que la Contraloría del Ejecutivo Estatal les asigne en forma específica de acuerdo a sus facultades. Para tal fin el órgano de gobierno y demás servidores públicos de la Entidad, deberán proporcionar la información que soliciten los Comisarios Públicos.
-
-Independientemente de lo anterior las empresas de participación estatal, para su vigilancia, control y evaluación observarán lo establecido en sus estatutos y en la legislación civil o mercantil aplicable.
+Para la vigilancia y el control interno de las Entidades Paraestatales, se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y demás disposiciones aplicables.
 
 ###### ARTICULO 42.
 
-La responsabilidad del control al interior de las Entidades Paraestatales se ajustará a los siguientes lineamientos:
-
-I.- Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán la instrumentación de las medidas correctivas a que hubiese lugar.
-
-II.- Los Directores Generales definirán las políticas respecto de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectarán por los órganos de vigilancia y presentarán al órgano de gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento; y
-
-III.- Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### ARTICULO 43.
 
-La creación de Contralorías-Internas en las Entidades Paraestatales que en su caso lo ameriten, se realizarán como parte integrante de su estructura. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la Entidad, desarrollarán sus funciones conforme a los lineamientos que emita la Contraloría del Ejecutivo y de acuerdo a las siguientes bases:
-
-I.- Dependerán del Titular de la Entidad Paraestatal.
-
-II.- Realizarán sus actividades de acuerdo a las reglas y bases que les permitan cumplir su cometido, con autosuficiencia y autonomía.
-
-III.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúen conforme a las disposiciones aplicables, presentarán al Titular de la Entidad, al órgano de gobierno y a las demás instancias internas de decisión los informes resultantes de las auditorías, exámenes y evaluaciones realizadas.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### ARTICULO 44.
 
-La Coordinadora de Sector, a través de su Titular y mediante su participación en los órganos de gobierno de las entidades paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### ARTICULO 45.
 
-La Contraloría Estatal podrá realizar visitas y auditorías a las Entidades Paraestatales, cualquier (sic) que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### ARTICULO 46.
 
-En aquellos casos en los que el órgano de gobierno, consejo de administración o el Titular de la Entidad, no dieran cumplimiento a las obligaciones legales que se les atribuyen en este ordenamiento, el Ejecutivo Estatal por conducto de las dependencias competentes, así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en la Leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley y otras Leyes. Lo anterior sin perjuicio de que se adopten otra (sic) medidas y se finquen las responsabilidades a que hubiere lugar.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ### CAPITULO VIII. DE LA EXTINCION, DISOLUCION Y LIQUIDACION
 
@@ -490,3 +476,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE TLAXCALA, DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA, DE LA LEY DE SALUD DEL ESTADO DE TLAXCALA, DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TLAXCALA, DE LA LEY DEL INSTITUTO TLAXCALTECA PARA LA EDUCACIÓN DE LOS ADULTOS, DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE TLAXCALA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TLAXCALA, DE LA LEY PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE TLAXCALA, ASÍ COMO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a las reformas planteadas en el presente Decreto a la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios, entrarán en vigor una vez que esté instalado el Tribunal de Justicia Administrativa Local.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que respecta a las atribuciones dispuestas para la Contraloría del Ejecutivo en materia de control interno, previstas en la reforma realizada por medio de este Decreto a la Ley Orgánica de la Administración Pública del Estado de Tlaxcala, entrarán en vigor una vez que el Titular del Poder Ejecutivo Estatal expida el Reglamento Interno del Despacho del Gobernador.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
