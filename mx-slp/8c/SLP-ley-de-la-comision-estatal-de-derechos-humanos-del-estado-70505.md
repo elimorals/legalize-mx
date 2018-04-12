@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2016-12-15"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -355,7 +355,9 @@ XIX. Realizar las acciones pertinentes para establecer la cultura de los Derecho
 
 XX. Analizar y evaluar los servicios públicos ofrecidos en el ámbito estatal y municipal, con el fin de recomendar a la autoridad su mejora en materia de Derechos Humanos;
 
-XXI. Gestionar y recibir fondos de agencias donantes particulares y públicas, nacionales y extranjeras;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XXI. Gestionar y recibir fondos de agencias donantes particulares y públicas, nacionales y extranjeras, en los términos que establece la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí;
 
 XXII. Emitir las normas reglamentarias de esta Ley;
 
@@ -1735,8 +1737,16 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 15 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0434.- SE REFORMA EL ARTÍCULO 26 EN SU FRACCIÓN XVIII, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0434.- SE REFORMA EL ARTÍCULO 26 EN SU FRACCIÓN XVIII, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0929.- SE REFORMA Y ADICIONA EL ARTÍCULO 34 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 26, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
