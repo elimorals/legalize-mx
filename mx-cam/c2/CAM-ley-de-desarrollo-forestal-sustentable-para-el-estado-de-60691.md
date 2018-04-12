@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-60691"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-07"
-last_updated: "2016-08-05"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CAM"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 7 de marzo de 2008.
 
@@ -256,7 +256,9 @@ VI. Celebrar acuerdos y convenios de coordinación, cooperación y concertación
 
 VII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley, reglamentos municipales y los lineamientos de la política forestal del país;
 
-VIII. Participar en la planeación y ejecución de la reforestación, forestación y conservación de los bienes y servicios ambientales forestales, dentro de su ámbito territorial;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VIII. Incluir en su Programa Operativo Anual y en su Presupuesto de Egresos, la asignación de los recursos necesarios para la planeación y ejecución de acciones de forestación, reforestación y conservación de los bienes y servicios ambientales forestales, dentro de su ámbito territorial, en coordinación con las autoridades estatales y federales.
 
 IX. Llevar a cabo, en coordinación con el Estado, acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;
 
@@ -1075,3 +1077,11 @@ P.O. 5 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 262 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
