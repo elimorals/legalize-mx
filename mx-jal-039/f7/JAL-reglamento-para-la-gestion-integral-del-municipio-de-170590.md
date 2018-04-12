@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2018-03-28"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 12 DE ABRIL DE 2018.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -144,6 +144,10 @@ XXII. Espacio Público: Es aquel espacio de propiedad pública, dominio y uso p�
 XXIII. Estudio de Infraestructura Básica y Equipamiento: Corresponde al conjunto de reportes de análisis o estudios avalados por perito responsable que permiten reconocer el estado y capacidad de los componentes de la infraestructura y del equipamiento urbano para satisfacer o absorber demandas de cobertura exigidas por los proyectos a implementar en un Polígono de Intervención Urbana Especial, PIUE. La certificación de la capacidad física de soporte y de las estrategias que impliquen su adecuación y grado de intervención, es un requisito base fundamental de evaluación de la factibilidad de los polígonos y los proyectos estratégicos;
 
 XXIV. Estacionamiento: Área destinada a la guarda de vehículos, siempre y cuando no se encuentren invadiendo u obstruyendo rampas, banquetas, áreas verdes, ciclo vías, servidumbre o cualquier zona restringida. Estos pueden ser públicos o privados;
+
+> <small>(ADICIONADA, G.M. 12 DE ABRIL DE 2018)</small>
+
+XXIV Bis. Estaciones de Servicio: Conjunto de instalaciones y edificios para el suministro y venta de combustibles tales como gasolina, disel (sic), gas L.P. y gas Natural así como lubricantes a los vehículos automotores en sus distintas modalidades: Vehículos particulares, de transporte público, de transporte de carga ocasionalmente peatones; incluyendo los depósitos de combustible o gas, instalaciones de conducción, dispensarios, cubiertas, cobertizos, así como los edificios para servicios asociados compatibles a la función principal;
 
 XXV. Fondo del Sistema de Transferencia de Derechos de Desarrollo: Cuenta de la Hacienda Municipal, en la que se recaudarán los recursos por concepto de la Transferencia de Derechos de Desarrollo Urbano, para administrarse en favor de la conservación y restauración de fincas de valor patrimonial, espacios públicos, renovación urbana y protección civil;
 
@@ -1961,15 +1965,173 @@ VII. En edificaciones y urbanizaciones con certificación sustentable, se podrá
 
 Para la identificación de los PIUE en la cartografía que corresponda, podrá usarse el acróstico "PIUE" al cual se le sumará el topónimo de referencia del barrio, nodo, eje, sitio o zona o también usando el enunciado que identifique alguno de los proyectos estratégicos delimitados que se propongan operar en la misma.
 
-### CAPÍTULO I. Del Área Dictaminadora para la Gestión Integral de la Ciudad
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.M. 12 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO X. De las Estaciones de Servicio
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Bis.
+
+El presente capítulo tiene por objeto precisar, determinar y regular el trámite para la autorización de la construcción o remodelación y funcionamiento de las estaciones de servicio existentes así como las que se pretendan localizar en el territorio municipal, de conformidad a las leyes y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Ter.
+
+Las estaciones de servicio, por sus características intrínsecas y la normatividad que las regula en su proyecto y en su operación, no pueden considerarse giros de libre ubicación, por ello se sujetarán a las normas generales de uso de suelo de conformidad al Código, los Planes Parciales de Desarrollo Urbano y lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Quáter.
+
+Con la finalidad de proteger la seguridad de las personas, sus bienes y permitir a la Unidad Municipal de Protección Civil ejecutar las acciones de prevención, auxilio y restablecimiento ante cualquier contingencia, desastre o suceso de alto riesgo, cada estación de servicio o gasolinera se establecerá con base a los Planes Parciales de Desarrollo Urbano vigentes y a los requisitos técnicos para el establecimiento de estaciones de servicios previstos en la normatividad federal.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Quinquies.
+
+En el caso de las estaciones de servicio que pretendan ubicarse en puntos fronterizos al límite municipal, se deberá tomar en cuenta el equipamiento existente de otros municipios para el cumplimiento de los artículos anteriores.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Sexies.
+
+Para la autorización de construcción de estaciones de servicio, se deberá cumplir con lo siguiente:
+
+I. El predio deberá tener un uso Comercio y Servicios Impacto Medio, Comercio y Servicios Impacto Alto, Comercio y Servicios Impacto Máximo, o Industrial en todas sus categorías;
+
+II. En áreas no urbanizables, deberá atenderse a lo que mencione el programa de manejo respectivo. En caso de no existir, se considerarán prohibidas;
+
+III. En zonas con uso de Restricción por Infraestructura, serán autorizables solo si la estación de servicio es una condición complementaria de las infraestructuras; y
+
+IV. Están prohibidas en predios que se encuentren dentro del Perímetro "A" de protección al patrimonio, de conformidad al Programa Municipal de Desarrollo Urbano y los Planes Parciales de Desarrollo Urbano correspondientes.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Septies.
+
+Queda prohibida la instalación de estaciones de servicio en predios con uso que no sean los mencionados en el artículo 121 Sexies.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Octies.
+
+En los predios que se ubiquen en esquina, presentando dos frentes a las vialidades de confluencia, al menos una de las vías, deberá tener una sección mínima de 18 metros, o estar jerarquizada como colectora. Los accesos rodados de la estación de servicio serán conforme lo indica el artículo 276 fracción III, estando prohibido que toda la banqueta que dé frente al lindero, sea destinada a rampa de acceso.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Nonies.
+
+Queda prohibida la construcción de estaciones de servicio en zonas detectadas de alto riesgo, como hundimientos, o que se hayan determinado como áreas de recarga de mantos acuíferos, así como en las áreas clasificadas como contaminadas por hidrocarburos o con substancias clasificadas según el código C.R.E.T.I.B., en la Ley General de Equilibrio Ecológico y Protección Ambiental.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121 Decies.
+
+En cualquiera de los diferentes tipos de instalación, se deberán respetar los siguientes lineamientos:
+
+I. El área de trabajo debe ubicarse a una distancia mínima de resguardo de 75 metros de cualquier centro de concentración masiva; esta distancia se medirá en línea recta a partir de los puntos más cercanos entre el área de trabajo de la estación de servicio y el centro de concentración masiva. El área de trabajo, es el espacio de servicio que comprende la zona techada de dispensarios y la proyección del área de tanques incluyendo su zona de maniobras para recarga. Los lugares de concentración pública, incluyen todos los inmuebles o parte de ellos, o estructuras diseñadas o destinadas para la reunión de 100 o más personas a la vez;
+
+II. La distancia mínima a instalaciones o empresas de alto riesgo será de 100 metros, medidos siempre entre los puntos más cercanos al área de trabajo;
+
+III. El área de trabajo debe ubicarse a una distancia mínima de resguardo de 150 metros con respecto a una planta de almacenamiento de gas L.P.;
+
+IV. El área de trabajo debe ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas de alta tensión, vías férreas y ductos que transportan productos derivados del petróleo;
+
+V. El predio debe ubicarse a una distancia mínima de resguardo de 100 metros a pozos de extracción de agua o redes primarias para el sistema de abastecimiento de agua potable;
+
+VI. El conjunto de edificaciones para comercio o servicios colaterales que pueden ser integrados a una estación de servicio no deberán rebasar en su desplante el 20% de la superficie del predio;
+
+VII. El solicitante debe cumplir con los requerimientos adicionales señalados en el Dictamen de Trazo, Usos y Destinos Específicos; y
+
+VIII. La distancia a cualquier punto de edificios habitacionales o que sean compatibles con el uso habitacional, deberá ser como mínimo de 5 metros al área de trabajo.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+Artículo 121 Undecies. En las colindancias con predios vecinos a las estaciones de servicio, deberá cumplirse como mínimo con lo indicado en el inciso VIII del artículo anterior; pudiendo albergar en el área de separación, edificaciones destinadas a oficinas, servicios sanitarios o servicios complementarios a la estación de servicio. Si existen servidumbres conforme a los Planes Parciales de Desarrollo Urbano, estas deberán ser ajardinadas.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+Artículo 121 Duodecies. Los servicios sanitarios para el público en núcleos diferentes para cada sexo, deberán consistir, como mínimo, en lo siguiente:
+
+I. Para hombres un inodoro, un mingitorio y un lavabo;
+
+II. Para mujeres dos inodoros y un lavabo; y
+
+III. Cumplir con lo estipulado en la legislación estatal y municipal referente a servicios para personas con discapacidad.
+
+> <small>(ADICIONADO, G.M. 12 DE ABRIL DE 2018)</small>
+
+Artículo 121 Terdecies. Para obtener la Licencia de Construcción para estaciones de servicio deberá ingresar en la Dirección de Obras Públicas la solicitud multitrámite acompañada de los siguientes documentos:
+
+I. Para estaciones de servicio nuevas:
+
+a) Dictamen de Trazo, Usos y Destinos Específicos favorable;
+
+b) Resolutivo de la Manifestación (o Informe Preventivo) de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, favorable;
+
+c) Resolutivo en materia de Impacto Social por parte de la Secretaría de Energía, SENER;
+
+d) Reporte de Evaluación Técnica del Diseño por parte del Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, acompañado de los planos sellados por el Tercero Especialista firmados por el Director Responsable de Obra;
+
+e) Planos de Instalación Eléctrica revisados y avalados por la Unidad Verificadora de Instalaciones Eléctricas;
+
+f) Estudio de mecánica de suelos firmado por el Director Responsable de Obra y el responsable del laboratorio que realizó el estudio;
+
+g) Estudios solicitados en el Dictamen de Trazo, Usos y Destinos Específicos, con los dictámenes favorables respectivos de las dependencias correspondientes;
+
+h) Certificado de Alineamiento y número oficial;
+
+i) Escritura debidamente inscrita en el Registro Público de la Propiedad del predio en que se pretende edificar. En caso de que vaya a realizar alguna demolición, deberá acompañar el Certificado de Libertad de Gravamen con una antigüedad no mayor a tres meses de su expedición;
+
+j) Identificación oficial del propietario. En caso de realizar el trámite por conducto de un promotor, este deberá presentar carta poder firmada por el propietario y dos testigos, acompañando esta con la identificación oficial de cada uno de los que intervienen;
+
+k) Recibo de pago actualizado del impuesto predial;
+
+l) Recibo de pago actualizado del Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA, además de la información que se requiera por este organismo en archivo digital PDF para la solicitud de la factibilidad respectiva a través del portal del Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA;
+
+m) Copia de identificación del Director Responsable de Proyecto y Obra de Edificación;
+
+n) Visto bueno o dictamen favorable de la Dirección de Movilidad y Transporte del municipio, para el proyecto propuesto;
+
+o) Cuatro juegos de planos arquitectónicos y dos juegos de planos estructurales firmados por el propietario o representante legal y el Director Responsable de Obra; y
+
+p) Estudio de infraestructura favorable por la Dirección de Obras Públicas.
+
+II. Para cambios de proyecto, remodelaciones y ampliaciones deberá integrar el expediente con los siguientes documentos y planos:
+
+a) Resolutivo del Informe Preventivo de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, favorable para la remodelación;
+
+b) Reporte de Evaluación Técnica del Diseño de la Remodelación por parte de Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA, acompañado de los planos sellados por el Tercero Especialista, firmados por el Director Responsable de Obra;
+
+c) Planos de Instalación Eléctrica revisados y avalados por la Unidad Verificadora de Instalaciones Eléctricas; y
+
+d) Estudio de mecánica de suelos firmados por el Director Responsable de Obra y el responsable del laboratorio que realizó el estudio.
+
+III. Al concluir la obra se deberá recabar Certificado de Habitabilidad ante la Dirección de Obras Públicas debiendo presentar lo siguiente:
+
+a) Solicitud multitrámite firmada por propietario o representante legal y Director Responsable de Obra;
+
+b) Identificación oficial del propietario. En caso de realizar el trámite por conducto de un promotor, este deberá presentar carta poder firmada por el propietario y dos testigos, acompañando esta con la identificación oficial de cada uno de los que intervienen;
+
+c) Copia de identificación del Director Responsable de Proyecto y Obra de Edificación;
+
+d) Original de la(s) licencia(s) de construcción, planos autorizados y bitácora(s) de obra;
+
+e) Constancia de cumplimiento técnico emitida por el Sistema Intermunicipal de Agua Potable y Alcantarillado, SIAPA o el organismo operador del agua que corresponda;
+
+f) Oficio de cumplimiento o liberación de condicionantes del resolutivo de Impacto Ambiental emitido por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA;
+
+g) Reporte de Evaluación Técnica del proceso constructivo por parte de Tercero Especialista autorizado por la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, ASEA; y
+
+h) Representación gráfica del permiso de expendio de Petrolíferos en Estación de Servicio emitido por la Comisión Reguladora de Energía.
 
 ## TÍTULO TERCERO. De la Dictaminación
 
-### CAPÍTULO II. De la Dictaminación del Uso del Suelo
+### CAPÍTULO I. Del Área Dictaminadora para la Gestión Integral de la Ciudad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 122.
 
@@ -1979,9 +2141,9 @@ El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformad
 
 Su objetivo primordial, será el de agilizar y eficientar los procesos de Dictaminación, para que el ciudadano obtenga en un menor tiempo, su respuesta requerida, además de concentrar en un sólo proceso, la revisión de los proyectos, para evitar la duplicidad en las atribuciones de cada área.
 
-### CAPÍTULO III. De las Urbanizaciones
+### CAPÍTULO II. De la Dictaminación del Uso del Suelo
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 124.
 
@@ -2139,7 +2301,7 @@ Cuando para un mismo Predio se soliciten 2 o más actividades de diferente impac
 
 Para las solicitudes de Dictámenes de Usos y Destinos para Licencias de Funcionamiento, no se aplicarán los requerimientos de superficie y frente mínimos, señalados en las Normas de Control a la Urbanización y Edificación.
 
-### CAPÍTULO IV. De las Licencias de Construcción
+### CAPÍTULO III. De las Urbanizaciones
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -2307,7 +2469,9 @@ Cuando se pretenda realizar obras de urbanización, condominios o conjuntos habi
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.M. 24 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO V. De la Dictaminación en Materia de Movilidad
+### CAPÍTULO IV. De las Licencias de Construcción
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 157.
 
@@ -2483,7 +2647,7 @@ Para edificaciones de más de 5 años, en zonas regularizadas y que no cuenten c
 
 En caso de edificaciones menores a 5 años, se pagan derechos, más las multas correspondientes de acuerdo a la Ley de Ingresos del Municipio de Guadalajara.
 
-### CAPÍTULO VI. De la Dictaminación en Materia de Medio Ambiente
+### CAPÍTULO V. De la Dictaminación en Materia de Movilidad
 
 ###### Artículo 168.
 
@@ -2911,9 +3075,7 @@ I. Definición de áreas de uso público del proyecto: Planta conceptual represe
 
 II. Planta arquitectónica accesible de las áreas de uso público.
 
-### CAPÍTULO VII. De la Dictaminación en Materia de Resiliencia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO VI. De la Dictaminación en Materia de Medio Ambiente
 
 ###### Artículo 181.
 
@@ -2989,9 +3151,9 @@ La declaración de daños es el documento mediante el cual las personas a las qu
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO VIII. De la Delimitación de Colonias, la Nomenclatura y la Asignación de Números Oficiales
+### CAPÍTULO VII. De la Dictaminación en Materia de Resiliencia
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 190.
 
@@ -3039,7 +3201,9 @@ Una vez recibidos los requisitos completos y correctos, la Dirección de Resilie
 
 La vigencia de la constancia a que hace mención el artículo 192 de este reglamento, es de 1 año a partir del día siguiente de su emisión; antes del vencimiento de la misma, el interesado podrá solicitar su renovación y deberá de encontrarse vigente hasta en tanto se obtenga el certificado de habitabilidad correspondiente.
 
-### CAPÍTULO IX. De los Certificados de Alineamiento y Número Oficial
+### CAPÍTULO VIII. De la Delimitación de Colonias, la Nomenclatura y la Asignación de Números Oficiales
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 195.
 
@@ -3107,9 +3271,7 @@ II. Podrá incluir sus finalidades, funciones o referencias de su ubicación; y
 
 III. Procurará hacer referencia a los valores nacionales, o personajes ilustres.
 
-### CAPÍTULO X. De la Dictaminación en Materia de Canalizaciones e Instalaciones Subterráneas
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO IX. De los Certificados de Alineamiento y Número Oficial
 
 ###### Artículo 206.
 
@@ -3161,117 +3323,9 @@ III. Cuando la solicitud se refiera a modificaciones en suelo no urbanizable, en
 
 No se autorizarán modificaciones a planos de alineamiento, números oficiales, derechos de vía, afectaciones y destinos para proyectos futuros de infraestructura o servicios y restricciones de construcción, cuando dicha modificación contravenga los objetivos, estrategias o disposiciones del Programa, del Plan o de los Planes Parciales.
 
-### CAPÍTULO XI. De los Trámites con Firma Electrónica
+### CAPÍTULO X. De la Dictaminación en Materia de Canalizaciones e Instalaciones Subterráneas
 
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 bis. Para efecto del presente Capítulo, se entenderá por:
-
-I. Documentos en Línea: Al dictamen, certificado o licencia emitido a través del uso de medios electrónicos y que contiene la Firma Electrónica Certificada del servidor público facultado para ello; y
-
-II. Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 ter. En la tramitación de certificados, licencias, dictámenes, y autorizaciones en materia de desarrollo urbano podrán emplearse los medios electrónicos, a través del uso de la Firma Electrónica Certificada, de conformidad a lo señalado por la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara, este reglamento y demás disposiciones aplicables.
-
-El Ayuntamiento deberá aprobar y expedir las reglas de carácter general en las que se especifiquen los trámites que deberán efectuarse en línea, así como los requisitos que deban cumplir los interesados para efectuar esta forma de tramitación, mismas que deberán contener lo señalado por el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 quáter. Los documentos oficiales emitidos y firmados mediante el uso de firma electrónica por servidores públicos en ejercicio de sus funciones y legalmente facultados para ello, tendrán plena validez, siendo estos los certificados, dictámenes, licencias o autorizaciones respectivas que se generen como resultado de la conclusión del trámite.
-
-Las dependencias municipales y los servidores adscritos a ellas que tengan injerencia en los trámites en línea, utilizarán en sus comunicaciones, validaciones, resoluciones y, en su caso, actos administrativos que realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos electrónicos, los cuales deberán contar, cuando así se requiera, con la Firma Electrónica Certificada del servidor público facultado para ello.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 quinquies. Los particulares solicitantes de los Documentos en Línea que acepten sujetarse al trámite a través de medios de comunicación electrónica, desde su inicio y hasta su conclusión, estarán obligados a lo siguiente:
-
-I. A la obtención de su Firma Electrónica Certificada pudiendo ser la Firma Electrónica Avanzada o la FIEL a su elección;
-
-II. A aceptar expresamente darse por notificados de las actuaciones electrónicas que emita la dependencia municipal que corresponda, una vez enviado el mensaje de datos correspondiente a su correo electrónico;
-
-III. A que todos los datos, información y archivos solicitados, deberá ingresarlos de forma digital a través de la plataforma de Documentos en Línea o sistema de tramitación electrónica; y
-
-IV. Que en el supuesto de que por causas imputables a la dependencia responsable del trámite se encuentren imposibilitados para abrir los documentos electrónicos que contengan la información depositada en el mismo, lo harán del conocimiento de la propia dependencia a más tardar dentro de los tres días hábiles siguientes a aquél en que ocurra dicho impedimento, por medios de comunicación electrónica, para que de continuar el impedimento, sean notificados por alguna otra forma de las establecidas en el Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 sexies. Los solicitantes deberán contar con una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos. Todas las notificaciones emitidas por las dependencias competentes que se envíen a través de un Mensaje de Datos, tendrán la misma validez que una notificación personal, y se tendrá por efectuada para todos los efectos legales, en el mismo día en que reciban el correo electrónico.
-
-La información contenida en los mensajes de datos y en los documentos electrónicos será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la ley y reglamentos en materia de transparencia. Los mensajes de datos y los documentos electrónicos que contengan datos personales estarán sujetos a las disposiciones aplicables al manejo, seguridad y protección de los mismos.
-
-Las dependencias y particulares deberán conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica certificada derivados de los actos a que se refiere este Reglamento, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información. En las Reglas de Carácter General se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica certificada.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 septies. Cuando en los requisitos para tramitar alguno de los Documentos en Línea, se requiera que un documento impreso y con firma autógrafa sea presentado o conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento electrónico, y se cumple con lo siguiente:
-
-I. El particular interesado o solicitante, deberá manifestar, bajo protesta de decir verdad, que el documento electrónico o digitalizado es copia íntegra e inalterada del documento impreso;
-
-II. Cuando exista duda sobre la autenticidad del documento electrónico remitido, la dependencia o entidad podrá requerir al particular que le presente el documento impreso directamente en sus oficinas, o bien, que este último se le envíe por correo certificado con acuse de recibo. En el supuesto de que se opte por el envío del documento impreso a través de correo certificado, será necesario que adicionalmente se envíe dentro de los tres días hábiles siguientes, mediante un mensaje de datos, la guía que compruebe que el referido documento fue depositado en una oficina de correos;
-
-III. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;
-
-IV. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y
-
-V. Que se observe lo previsto en las reglas generales en materia de conservación de mensajes de datos y de los documentos electrónicos con Firma Electrónica Certificada.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 octies. El trámite para la obtención de los Documentos en Línea consiste en la utilización de mensajes de datos para todas las etapas del trámite desde el inicio hasta su conclusión consistente en el otorgamiento o la negativa del documento o autorización que se trate. A fin de que tanto el solicitante como los terceros y servidores públicos con injerencia en el trámite puedan enviar y recibir válidamente las actuaciones del trámite mediante un mensaje de datos, esto deberá realizarse a través de la utilización de su Firma Electrónica Certificada.
-
-Tanto las solicitudes como los actos administrativos y notificaciones que se emitan en cada una de las etapas del trámite, producirán los mismos efectos que los presentados con firma autógrafa.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 novies. Los requisitos mínimos que deberá cumplir el interesado para ingresar su solicitud por internet para los trámites en línea, serán los siguientes:
-
-I. Registrarse como usuario del sistema para la emisión de Documentos en Línea del municipio;
-
-II. Obtener su Firma Electrónica Certificada por medio de los prestadores de servicios certificados federales o estatales;
-
-III. Llenar su solicitud en línea, ingresando los datos en la forma y términos que especifique el sistema;
-
-IV. Adjuntar los documentos para cumplir los requisitos del trámite, digitalizados en el formato que determine la dependencia responsable de la emisión del documento o autorización. El solicitante deberá firmar digitalmente los datos y archivos que adjunte;
-
-V. Esperar autorización del trámite electrónico o emisión del Documento en Línea; y
-
-VI. Realizar el pago de derechos que marque la Ley de Ingresos vigente del municipio en cualquiera de las formas autorizadas conforme a los supuestos siguientes:
-
-a) Antes del ingreso de la solicitud, para aquellos trámites que requieran la presentación del comprobante de pago como uno de los requisitos de la solicitud; o bien; y
-
-b) Después de que se autorice el trámite una vez acreditado que cumplió con todos los requisitos del mismo, con la finalidad de que se le expida el documento solicitado. En caso de que habiéndose solicitado el otorgamiento hubiere quedado pendiente de expedirse el documento en línea por falta de pago de tales derechos por un término mayor de treinta días hábiles, se entenderá por desistido el interesado de la solicitud del referido documento para todos los efectos legales.
-
-En las reglas de carácter general que apruebe el Ayuntamiento y guías de trámites respectivos, se establecerá de manera detallada los requisitos que deban cumplir los interesados para cada tipo de trámite electrónico.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 decies. Cuando las solicitudes que presenten los interesados no contengan los datos, no adjunten la documentación o no cumplan con los requisitos aplicables al trámite electrónico que se trate, la dependencia competente prevendrá a los interesados mediante notificación a su correo electrónico, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir del día hábil siguiente en que el usuario reciba el correo electrónico con la prevención. Cuando la dependencia competente prevenga al solicitante, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
-
-Los servidores públicos que intervengan en la revisión y/o validación del cumplimiento de los requisitos presentados por el solicitante, son los que estarán facultados para emitir las prevenciones al usuario durante el transcurso del trámite hasta por una sola ocasión, usando su firma electrónica. En caso de ser necesario emitir una segunda o ulteriores prevenciones al solicitante, estas sólo podrán ser emitidas por el superior jerárquico del servidor público a cargo de la revisión o validación del expediente del solicitante.
-
-Las contestaciones a las prevenciones por parte de los interesados deberán realizarse asimismo a través de mensajes de datos dentro del mismo sistema de Documentos en Línea y ser firmadas digitalmente para que tengan validez y surtan efectos legales.
-
-En caso de que el interesado no cumpla con la prevención dentro del término legal, el trámite le será desechado.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 undecies. Tratándose de trámites electrónicos para licencias de construcción en las cuales se requiera responsiva de un director responsable de obra o de proyecto en los términos establecidos por el Código, este deberá emitir la validación del proyecto y documentos anexos utilizando su firma electrónica certificada, previo al ingreso de la solicitud a la dependencia. Solo podrán validar proyectos de los solicitantes aquellos directores responsables registrados en el padrón de la Dirección de Obras Públicas y que no tengan antecedentes de sanciones en su contra.
-
-Los directores responsables a través del sistema de tramitación electrónica podrán emitir observaciones al proyecto y sus anexos, mismas que el solicitante deberá atender a fin de concluir el ingreso de su solicitud.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 duodecies. Será impedimento para realizar el trámite en línea que el usuario que tenga alguna obligación fiscal o legal pendiente de cumplir con alguna de las dependencias a cargo de los trámites en línea.
-
-> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
-
-Artículo 222 terdecies. Es causal de revocación de la autorización, licencia o registro de los trámites administrativos realizados por medios electrónicos, cuando para su solicitud u obtención se haya alterado, modificado o manifestado datos falsos, independientemente de su clausura, retiro, en su caso, con cargo al infractor y, la multa correspondiente en términos de lo dispuesto por la Ley de Ingresos del Municipio para el Ejercicio Fiscal vigente.
-
-El uso indebido de los medios electrónicos a cargo de los servidores públicos del gobierno municipal, es sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de las acciones legales que procedan.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 210.
 
@@ -3413,13 +3467,121 @@ Concluidas las obras autorizadas, el responsable de las mismas deberá realizar 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.M. 16 DE MAYO DE 2017)</small>
 
-### CAPÍTULO I. Del Manejo Integral de Residuos
+### CAPÍTULO XI. De los Trámites con Firma Electrónica
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 bis. Para efecto del presente Capítulo, se entenderá por:
+
+I. Documentos en Línea: Al dictamen, certificado o licencia emitido a través del uso de medios electrónicos y que contiene la Firma Electrónica Certificada del servidor público facultado para ello; y
+
+II. Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 ter. En la tramitación de certificados, licencias, dictámenes, y autorizaciones en materia de desarrollo urbano podrán emplearse los medios electrónicos, a través del uso de la Firma Electrónica Certificada, de conformidad a lo señalado por la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios, el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara, este reglamento y demás disposiciones aplicables.
+
+El Ayuntamiento deberá aprobar y expedir las reglas de carácter general en las que se especifiquen los trámites que deberán efectuarse en línea, así como los requisitos que deban cumplir los interesados para efectuar esta forma de tramitación, mismas que deberán contener lo señalado por el Reglamento del Uso de Medios Electrónicos del Ayuntamiento de Guadalajara.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 quáter. Los documentos oficiales emitidos y firmados mediante el uso de firma electrónica por servidores públicos en ejercicio de sus funciones y legalmente facultados para ello, tendrán plena validez, siendo estos los certificados, dictámenes, licencias o autorizaciones respectivas que se generen como resultado de la conclusión del trámite.
+
+Las dependencias municipales y los servidores adscritos a ellas que tengan injerencia en los trámites en línea, utilizarán en sus comunicaciones, validaciones, resoluciones y, en su caso, actos administrativos que realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos electrónicos, los cuales deberán contar, cuando así se requiera, con la Firma Electrónica Certificada del servidor público facultado para ello.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 quinquies. Los particulares solicitantes de los Documentos en Línea que acepten sujetarse al trámite a través de medios de comunicación electrónica, desde su inicio y hasta su conclusión, estarán obligados a lo siguiente:
+
+I. A la obtención de su Firma Electrónica Certificada pudiendo ser la Firma Electrónica Avanzada o la FIEL a su elección;
+
+II. A aceptar expresamente darse por notificados de las actuaciones electrónicas que emita la dependencia municipal que corresponda, una vez enviado el mensaje de datos correspondiente a su correo electrónico;
+
+III. A que todos los datos, información y archivos solicitados, deberá ingresarlos de forma digital a través de la plataforma de Documentos en Línea o sistema de tramitación electrónica; y
+
+IV. Que en el supuesto de que por causas imputables a la dependencia responsable del trámite se encuentren imposibilitados para abrir los documentos electrónicos que contengan la información depositada en el mismo, lo harán del conocimiento de la propia dependencia a más tardar dentro de los tres días hábiles siguientes a aquél en que ocurra dicho impedimento, por medios de comunicación electrónica, para que de continuar el impedimento, sean notificados por alguna otra forma de las establecidas en el Reglamento del Acto y del Procedimiento Administrativo del Municipio de Guadalajara.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 sexies. Los solicitantes deberán contar con una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos. Todas las notificaciones emitidas por las dependencias competentes que se envíen a través de un Mensaje de Datos, tendrán la misma validez que una notificación personal, y se tendrá por efectuada para todos los efectos legales, en el mismo día en que reciban el correo electrónico.
+
+La información contenida en los mensajes de datos y en los documentos electrónicos será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la ley y reglamentos en materia de transparencia. Los mensajes de datos y los documentos electrónicos que contengan datos personales estarán sujetos a las disposiciones aplicables al manejo, seguridad y protección de los mismos.
+
+Las dependencias y particulares deberán conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica certificada derivados de los actos a que se refiere este Reglamento, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información. En las Reglas de Carácter General se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica certificada.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 septies. Cuando en los requisitos para tramitar alguno de los Documentos en Línea, se requiera que un documento impreso y con firma autógrafa sea presentado o conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento electrónico, y se cumple con lo siguiente:
+
+I. El particular interesado o solicitante, deberá manifestar, bajo protesta de decir verdad, que el documento electrónico o digitalizado es copia íntegra e inalterada del documento impreso;
+
+II. Cuando exista duda sobre la autenticidad del documento electrónico remitido, la dependencia o entidad podrá requerir al particular que le presente el documento impreso directamente en sus oficinas, o bien, que este último se le envíe por correo certificado con acuse de recibo. En el supuesto de que se opte por el envío del documento impreso a través de correo certificado, será necesario que adicionalmente se envíe dentro de los tres días hábiles siguientes, mediante un mensaje de datos, la guía que compruebe que el referido documento fue depositado en una oficina de correos;
+
+III. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;
+
+IV. Que el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y
+
+V. Que se observe lo previsto en las reglas generales en materia de conservación de mensajes de datos y de los documentos electrónicos con Firma Electrónica Certificada.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 octies. El trámite para la obtención de los Documentos en Línea consiste en la utilización de mensajes de datos para todas las etapas del trámite desde el inicio hasta su conclusión consistente en el otorgamiento o la negativa del documento o autorización que se trate. A fin de que tanto el solicitante como los terceros y servidores públicos con injerencia en el trámite puedan enviar y recibir válidamente las actuaciones del trámite mediante un mensaje de datos, esto deberá realizarse a través de la utilización de su Firma Electrónica Certificada.
+
+Tanto las solicitudes como los actos administrativos y notificaciones que se emitan en cada una de las etapas del trámite, producirán los mismos efectos que los presentados con firma autógrafa.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 novies. Los requisitos mínimos que deberá cumplir el interesado para ingresar su solicitud por internet para los trámites en línea, serán los siguientes:
+
+I. Registrarse como usuario del sistema para la emisión de Documentos en Línea del municipio;
+
+II. Obtener su Firma Electrónica Certificada por medio de los prestadores de servicios certificados federales o estatales;
+
+III. Llenar su solicitud en línea, ingresando los datos en la forma y términos que especifique el sistema;
+
+IV. Adjuntar los documentos para cumplir los requisitos del trámite, digitalizados en el formato que determine la dependencia responsable de la emisión del documento o autorización. El solicitante deberá firmar digitalmente los datos y archivos que adjunte;
+
+V. Esperar autorización del trámite electrónico o emisión del Documento en Línea; y
+
+VI. Realizar el pago de derechos que marque la Ley de Ingresos vigente del municipio en cualquiera de las formas autorizadas conforme a los supuestos siguientes:
+
+a) Antes del ingreso de la solicitud, para aquellos trámites que requieran la presentación del comprobante de pago como uno de los requisitos de la solicitud; o bien; y
+
+b) Después de que se autorice el trámite una vez acreditado que cumplió con todos los requisitos del mismo, con la finalidad de que se le expida el documento solicitado. En caso de que habiéndose solicitado el otorgamiento hubiere quedado pendiente de expedirse el documento en línea por falta de pago de tales derechos por un término mayor de treinta días hábiles, se entenderá por desistido el interesado de la solicitud del referido documento para todos los efectos legales.
+
+En las reglas de carácter general que apruebe el Ayuntamiento y guías de trámites respectivos, se establecerá de manera detallada los requisitos que deban cumplir los interesados para cada tipo de trámite electrónico.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 decies. Cuando las solicitudes que presenten los interesados no contengan los datos, no adjunten la documentación o no cumplan con los requisitos aplicables al trámite electrónico que se trate, la dependencia competente prevendrá a los interesados mediante notificación a su correo electrónico, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir del día hábil siguiente en que el usuario reciba el correo electrónico con la prevención. Cuando la dependencia competente prevenga al solicitante, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado conteste.
+
+Los servidores públicos que intervengan en la revisión y/o validación del cumplimiento de los requisitos presentados por el solicitante, son los que estarán facultados para emitir las prevenciones al usuario durante el transcurso del trámite hasta por una sola ocasión, usando su firma electrónica. En caso de ser necesario emitir una segunda o ulteriores prevenciones al solicitante, estas sólo podrán ser emitidas por el superior jerárquico del servidor público a cargo de la revisión o validación del expediente del solicitante.
+
+Las contestaciones a las prevenciones por parte de los interesados deberán realizarse asimismo a través de mensajes de datos dentro del mismo sistema de Documentos en Línea y ser firmadas digitalmente para que tengan validez y surtan efectos legales.
+
+En caso de que el interesado no cumpla con la prevención dentro del término legal, el trámite le será desechado.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 undecies. Tratándose de trámites electrónicos para licencias de construcción en las cuales se requiera responsiva de un director responsable de obra o de proyecto en los términos establecidos por el Código, este deberá emitir la validación del proyecto y documentos anexos utilizando su firma electrónica certificada, previo al ingreso de la solicitud a la dependencia. Solo podrán validar proyectos de los solicitantes aquellos directores responsables registrados en el padrón de la Dirección de Obras Públicas y que no tengan antecedentes de sanciones en su contra.
+
+Los directores responsables a través del sistema de tramitación electrónica podrán emitir observaciones al proyecto y sus anexos, mismas que el solicitante deberá atender a fin de concluir el ingreso de su solicitud.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 duodecies. Será impedimento para realizar el trámite en línea que el usuario que tenga alguna obligación fiscal o legal pendiente de cumplir con alguna de las dependencias a cargo de los trámites en línea.
+
+> <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
+
+Artículo 222 terdecies. Es causal de revocación de la autorización, licencia o registro de los trámites administrativos realizados por medios electrónicos, cuando para su solicitud u obtención se haya alterado, modificado o manifestado datos falsos, independientemente de su clausura, retiro, en su caso, con cargo al infractor y, la multa correspondiente en términos de lo dispuesto por la Ley de Ingresos del Municipio para el Ejercicio Fiscal vigente.
+
+El uso indebido de los medios electrónicos a cargo de los servidores públicos del gobierno municipal, es sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de las acciones legales que procedan.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 ## TÍTULO CUARTO. De la Sustentabilidad en Acciones Urbanísticas
 
-### CAPÍTULO II. De las Especificaciones de los Puntos Limpios
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO I. Del Manejo Integral de Residuos
 
 ###### Artículo 223.
 
@@ -3443,27 +3605,9 @@ Toda Acción Urbanística para actividades comerciales o de servicios ofertadas 
 
 Toda Acción Urbanística realizada mediante obra pública que contenga construcción de equipamiento urbano y que por sus características implique un alto flujo de personas en el uso del espacio público, estará obligada a instalar los Puntos Limpios necesarios que permitan fortalecer el sistema de manejo de residuos de la ciudad; tomando en consideración la información y lineamientos emitidos para la gestión integral de residuos por parte de la Dirección de Medio Ambiente.
 
-### CAPÍTULO III. De la Eficiencia Energética en las Edificaciones
+### CAPÍTULO II. De las Especificaciones de los Puntos Limpios
 
-> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-Artículo 228 bis. La zona climática que deberá usarse para el Municipio a fin de determinar los requerimientos específicos es la siguiente:
-
-Zona Térmica Clasificación con base en Municipio
-
-Número Grados-Día
-
-2 3,500<GDR 10° C Guadalajara,
-
-Jalisco
-
-> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-Artículo 228 ter. La zona de confort térmico, que es el parámetro de control de las condiciones de habitabilidad en espacios interiores y exteriores, estará determinada por las temperaturas de diseño interior usadas de un máximo de 22ºC (72ºF) y un mínimo de 24ºC (75ºF) para refrigeración con las que se calcularán las cargas de calefacción.
-
-> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-Artículo 228 quater. Los requerimientos que las acciones urbanísticas independientemente de su uso, deberán cumplir en materia de eficiencia energética en todas sus vertientes, ahorro en el consumo de agua y demás estrategias para la conservación de energía en las edificaciones, deberán cumplir con las normas oficiales mexicanas vigentes, la Dirección de Medio Ambiente vigilará su observancia.
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 227.
 
@@ -3487,13 +3631,31 @@ Para casos especiales donde no aplique ninguno de los 2 tipos de Puntos Limpios 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De la Eficiencia Energética en las Edificaciones
+
+> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+
+Artículo 228 bis. La zona climática que deberá usarse para el Municipio a fin de determinar los requerimientos específicos es la siguiente:
+
+Zona Térmica Clasificación con base en Municipio
+
+Número Grados-Día
+
+2 3,500<GDR 10° C Guadalajara,
+
+Jalisco
+
+> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+
+Artículo 228 ter. La zona de confort térmico, que es el parámetro de control de las condiciones de habitabilidad en espacios interiores y exteriores, estará determinada por las temperaturas de diseño interior usadas de un máximo de 22ºC (72ºF) y un mínimo de 24ºC (75ºF) para refrigeración con las que se calcularán las cargas de calefacción.
+
+> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+
+Artículo 228 quater. Los requerimientos que las acciones urbanísticas independientemente de su uso, deberán cumplir en materia de eficiencia energética en todas sus vertientes, ahorro en el consumo de agua y demás estrategias para la conservación de energía en las edificaciones, deberán cumplir con las normas oficiales mexicanas vigentes, la Dirección de Medio Ambiente vigilará su observancia.
 
 ## TÍTULO QUINTO. De la Movilidad y el Espacio Público
 
-### CAPÍTULO II. De las Banquetas y los Cruces Peatonales
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 229.
 
@@ -3519,7 +3681,7 @@ En caso de afectación al espacio público y/o bienes inmuebles, la Dirección d
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-### CAPÍTULO III. De los Criterios de Movilidad No Motorizada
+### CAPÍTULO II. De las Banquetas y los Cruces Peatonales
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -3749,7 +3911,9 @@ VIII. Los escalones no deberán incorporar bocel, y
 
 IX. Los escalones deberán contar con una franja de contraste de 0.025 metros de ancho al final del peralte.
 
-### CAPÍTULO IV. De la Señalización
+### CAPÍTULO III. De los Criterios de Movilidad No Motorizada
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 250.
 
@@ -3837,9 +4001,7 @@ Ningún elemento relacionado con las entradas y salidas de vehículos, podrá in
 
 Artículo 254 bis. Todas las vialidades serán susceptibles a la incorporación de infraestructura no motorizada.
 
-### CAPÍTULO V. Del Tránsito y el Transporte Público
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO IV. De la Señalización
 
 ###### Artículo 255.
 
@@ -3929,7 +4091,9 @@ IV. Las guías de dirección se colocarán a 0.50 metros del paramento paralelas
 
 V. Se recomienda en circulaciones exteriores la utilización tanto de superficies de contraste como de guías táctiles en áreas de espera en esquinas para el cruce peatonal.
 
-### CAPÍTULO VI. De los Estacionamientos
+### CAPÍTULO V. Del Tránsito y el Transporte Público
+
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 260.
 
@@ -4035,7 +4199,7 @@ IV. Si la banqueta no es lo suficientemente ancha, deberá ampliarse suprimiendo
 
 V. Si el ancho de la calle no permite ninguna de las soluciones anteriores, se deberá señalizar la parada del transporte público mediante una señal vertical.
 
-### CAPÍTULO I. De las Obras y Obstrucciones en la Vía Pública
+### CAPÍTULO VI. De los Estacionamientos
 
 ###### Artículo 270.
 
@@ -4549,7 +4713,7 @@ II. Una vez validada la permuta por la Dirección de Movilidad y Transporte del 
 
 ## TÍTULO SEXTO. Normas de Vialidad
 
-### CAPÍTULO I. De la Inspección y Control de Obras
+### CAPÍTULO I. De las Obras y Obstrucciones en la Vía Pública
 
 ###### Artículo 287.
 
@@ -4579,9 +4743,7 @@ V. Soportes: Los tableros se montarán sobre postes en el caso de las permanente
 
 ## TÍTULO SÉPTIMO. De la Inspección
 
-### CAPÍTULO II. De las Clausuras y Terminación de Obras
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO I. De la Inspección y Control de Obras
 
 ###### Artículo 291.
 
@@ -4631,9 +4793,9 @@ A las visitas extraordinarias aplican (sic) mismas reglas y términos que señal
 
 En caso de haber apercibimientos que se deriven de las inspecciones, la dirección competente en materia de inspección lleva una relación de fincas apercibidas para que se proceda en consecuencia.
 
-### CAPÍTULO III. Del Procedimiento de Demolición
+### CAPÍTULO II. De las Clausuras y Terminación de Obras
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 299.
 
@@ -4781,7 +4943,9 @@ II. Por usarse una construcción o parte de ella sin el Certificado de Habitabil
 
 III. Por haberse ejecutado la obra sobre un bien inmueble sujeto a protección de conformidad a las normas de protección del patrimonio cultural, sin el dictamen favorable de la dependencia competente, con independencia de que cuente o no con licencia de construcción.
 
-### CAPÍTULO I. De las Sanciones a los Servidores Públicos
+### CAPÍTULO III. Del Procedimiento de Demolición
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 302.
 
@@ -4875,7 +5039,7 @@ En caso de proceder la demolición, se dará el aviso correspondiente al propiet
 
 ## TÍTULO OCTAVO. De las Sanciones y Medios de Defensa
 
-### CAPÍTULO II. De las Sanciones
+### CAPÍTULO I. De las Sanciones a los Servidores Públicos
 
 ###### Artículo 313.
 
@@ -4899,9 +5063,7 @@ Los servidores públicos responsables de las infracciones señaladas en el artí
 
 Dichas sanciones serán independientes de la responsabilidad patrimonial en que incurra y del ejercicio de la acción penal por haber ejercitado actos tipificados como delitos, de conformidad con el Código Penal para el Estado Libre y Soberano de Jalisco.
 
-### CAPÍTULO III. De las Sanciones a los Directores Responsables de Obra o Proyecto y Peritos
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
+### CAPÍTULO II. De las Sanciones
 
 ###### Artículo 315.
 
@@ -4961,7 +5123,9 @@ I. Se comunicarán, por escrito, al presunto infractor, los hechos constitutivos
 
 II. Transcurrido el término a que se refiere la fracción anterior, se emitirá resolución por escrito, debidamente fundada y motivada, y se notificará en forma personal al infractor, donde se determinará la sanción correspondiente y, en caso de que requiera ejecución, el plazo para ello, con las medidas que deba adoptar el particular.
 
-### CAPÍTULO IV. Recursos y Medios de Defensa
+### CAPÍTULO III. De las Sanciones a los Directores Responsables de Obra o Proyecto y Peritos
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 321.
 
@@ -5054,6 +5218,8 @@ Quienes incurran en infracciones establecidas en este reglamento, se harán acre
 ###### Artículo 327.
 
 En caso de que venza el plazo que haya sido fijado por la dependencia en materia de Inspección, para ejecutar las acciones determinadas de conformidad a lo dispuesto en el artículo que antecede, la dependencia sancionadora procederá a ejecutar por su cuenta los trabajos relativos y remitirá la relación de los gastos que ello hubiese generado a la Tesorería Municipal, con relación al nombre y domicilio del responsable, para que la misma proceda coactivamente a hacerle efectivo el cobro de los mismos, al igual que la multa que en su caso se hubiese determinado de conformidad a la Ley de Ingresos Municipal vigente.
+
+### CAPÍTULO IV. Recursos y Medios de Defensa
 
 ###### Artículo 328.
 
@@ -5242,3 +5408,17 @@ Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publi
 Tercero. Una vez publicadas las presentes reformas remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos de la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.M. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS REFORMAS POR LAS QUE “SE ABROGA EL REGLAMENTO DE ZONIFICACIÓN ESPECÍFICA PARA ESTACIONES DE SERVICIO O GASOLINERAS DEL MUNICIPIO DE GUADALAJARA Y LAS REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Para estaciones que obtuvieron resolutivo en materia de Impacto Ambiental anterior al 2 de marzo de 2015 y que lo mantuvieron vigente a la fecha, son válidos los oficios de “Archivo definitivo de expediente” de SEMADES/SEMADET o “Visita de inspección con todas las condicionantes de la etapa preliminar de preparación de sitio y etapa constructiva cumplidas" por parte de la Procuraduría Estatal de Protección al Ambiente, PROEPA.
+
+Cuarto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Quinto. Solicítese a la Procuraduría Federal del Consumidor, Delegación Jalisco, opinión respecto de las políticas y medidas que se están realizando en dicho organismo con relación a las estaciones de servicio que comercian etanol.
