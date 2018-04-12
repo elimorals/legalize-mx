@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-12-28"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -85,7 +85,9 @@ IX. Establecer las bases para la operación del Sistema Duranguense de Apertura 
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Agrupamiento Empresarial: El que conforman las MIPYMES interconectadas, proveedores especializados y de servicios e instituciones asociadas dentro de una región del territorio nacional.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+I. Agrupamiento Empresarial: Concentración de empresas relacionadas entre sí, pertenecientes a un mismo sector, en una zona geográfica relativamente definida, conformando en sí misma un polo productivo especializado con ventajas competitivas;
 
 II. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico.
 
@@ -93,11 +95,17 @@ II. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas
 
 III. Consejo para el Desarrollo: El Consejo para el Desarrollo de Durango;
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+III BIS. Consejo Ciudadano Asesor: Aquel que nombra el Titular del Poder Ejecutivo, integrado por empresarios de un mismo sector, instituciones educativas y gubernamentales, cuya función es coadyuvar en la formulación de políticas públicas para el fortalecimiento del Agrupamiento Empresarial que representan en términos de esta Ley;
+
 IV. Emprendedor: Aquella persona que identifica la oportunidad de desarrollar una idea o proyecto innovador o la necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha.
 
 V. Empresa: La persona física o moral, nacional o extrajera que desarrolla una actividad económica conforme a lo dispuesto en el Sistema de Clasificación Industrial de América del Norte, por sí sola o aliada en cualquier forma de asociación empresarial.
 
-VI. Empresa socialmente responsable: Aquella que asume el compromiso consiente y congruente de cumplir integralmente con la finalidad de la empresa, tanto en lo interno como en lo externo, considerando las expectativas económicas, sociales y ambientales de todos sus participantes, demostrando respeto por la gente, los valores éticos, la comunidad y el medio ambiente, contribuyendo así a la construcción del bien común y que cuenta con el dictamen emitido por la Secretaría.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VI. Empresa socialmente responsable: Aquella que asume el compromiso consciente y congruente de cumplir integralmente con la finalidad de la empresa, tanto en lo interno como en lo externo, considerando las expectativas económicas, sociales y ambientales de todos sus participantes, demostrando respeto por el ser humano, los valores éticos, la comunidad y el medio ambiente, contribuyendo así a la construcción del bien común y que cuenta con el certificado que la acredita como tal, emitido por la autoridad competente;
 
 VII. Incentivos: Las exenciones de impuestos y derechos, estímulos fiscales, subsidios o servicios de apoyo y gestoría institucional, otorgados o prestados por el Estado o los ayuntamientos para fomentar las actividades económicas en los términos que dispongan esta Ley y demás ordenamientos aplicables.
 
@@ -187,7 +195,9 @@ XIX. Establecer, en coordinación con el órgano encargado de la evaluación de 
 
 XX. Colaborar con el Sistema Nacional de Capacitación y Asistencia Técnica Especializada a que se refiere la Ley de la Economía Social y Solidaria, mediante la firma de convenios, para promover la consolidación empresarial y el desarrollo organizacional de las diversas formas asociativas que integran el Sector Social de la Economía.
 
-XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en la capacitación y asesoría a los Organismos del Sector Social de la Economía, en actividades agrícolas, ganaderas, silvícola, pecuarias, pesqueras y las demás de explotación y aprovechamiento de recursos naturales, así como para la transformación y comercialización de productos.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en la capacitación y asesoría a los Organismos del Sector Social de la Economía, en actividades para la transformación y comercialización de productos;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -601,7 +611,7 @@ II. Promover la infraestructura para el desarrollo de empresas mezcaleras;
 
 II (SIC). Participar en la promoción de los mezcales duranguenses en el mercado local y nacional;
 
-V (SIC) . Fomentar la organización y asociación de los productores de Mezcal del Estado;
+V (SIC). Fomentar la organización y asociación de los productores de Mezcal del Estado;
 
 V (SIC). Impulsar la elaboración y ejecución de programas de capacitación entre los productores y asociaciones mezcaleras, con el apoyo de las instituciones de investigación y educación superior, en materia de investigación y transferencia tecnológica, sanidad y calidad;
 
@@ -673,7 +683,9 @@ Las instituciones de educación media superior y superior oficiales e incorporad
 
 La Secretaría creará el Sistema Estatal de Incubadoras de Empresas.
 
-Para formar parte del Sistema Estatal de Incubadoras de Empresas, las incubadoras deberán registrarse ante la Secretaría, la cual entregará la certificación a aquellas instituciones que cumplan con los requisitos establecidos en el reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Para formar parte del Sistema Estatal de Incubadoras de Empresas, las mismas deberán inscribirse en el registro que para tal efecto opere la Secretaría, la cual entregará la constancia respectiva, de conformidad con lo establecido en el Reglamento de esta Ley.
 
 La Secretaría apoyará y orientará a las instituciones educativas para la creación de sus incubadoras de empresas o para su vinculación a incubadoras ya establecidas.
 
@@ -717,7 +729,9 @@ II. Otorgamiento de precios preferenciales para la adquisición de bienes inmueb
 
 III. Otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sirva de instrumento legal a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los Municipios con vocación industrial o acorde al giro del proyecto, condicionado al aprovechamiento en la ejecución del proyecto de inversión, así como al monto total de la inversión.
 
-IV. Aportaciones económicas directas para la adquisición de bienes inmuebles propiedad del Estado o de particulares, necesarios para el desarrollo del proyecto de inversión, tomando en consideración las necesidades del proyecto, el monto total de la inversión que realizará el solicitante, los empleos que generará, así como el impacto que tendrá en la economía del Estado, mismas que en ningún caso podrán superar el 50% del valor del inmueble, previo avalúo realizado por instituciones o peritos. Dichas aportaciones se establecerán a través de un convenio de colaboración en donde se estipulen los compromisos de inversión y generación de empleos, aspectos que serán determinantes para resolver el porcentaje de la aportación estatal.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+IV. Aportaciones económicas directas para la adquisición de bienes inmuebles propiedad del Estado o de particulares, necesarios para el desarrollo del proyecto de inversión, tomando en consideración las necesidades del proyecto, el monto total de la inversión que realizará el solicitante, los empleos que generará y el impacto que tendrá en la economía del Estado. Dichas aportaciones se establecerán a través de un convenio de colaboración en el que se estipulen los compromisos de inversión y generación de empleos, aspectos que serán determinantes para resolver el porcentaje de la aportación estatal;
 
 V. Apoyos para establecer vínculos con proveedores potenciales de acuerdo al sector industrial del que se trate.
 
@@ -726,6 +740,10 @@ VI. Aportación para el desarrollo de infraestructura: Realización de obra púb
 VII. Servicios de apoyo y gestoría institucional.
 
 VIII. Apoyo en promoción y publicidad de productos o servicios que puedan tener un impacto nacional o internacional.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+Los incentivos no fiscales a que se refiere este artículo se otorgarán de conformidad con los términos y condiciones que se establezcan en el convenio de incentivos que se celebre entre la Secretaría y la empresa solicitante. Los empresarios deberán comprobar documentalmente a la Secretaría la ejecución del proyecto, así como el cumplimiento de las obligaciones contraídas en el convenio respectivo, dentro de los plazos de ejecución pactados. La generación de empleos se deberá comprobar mediante los registros ante el Instituto Mexicano del Seguro Social.
 
 ###### ARTÍCULO 57.
 
@@ -817,9 +835,11 @@ XI. Derechos por dictamen de protección civil.
 
 XII. Derechos por alineamiento y número oficial.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 62.
 
-Además de los incentivos fiscales establecidos en el presente Capítulo, las autoridades podrán otorgar a las Empresas Socialmente Responsables un 2.5% adicional a los incentivos otorgados conforme a la presente Ley, de acuerdo a la reglamentación correspondiente y previa obtención de dictamen emitido por la Secretaría.
+Además de los incentivos fiscales establecidos en el presente Capítulo, las autoridades podrán otorgar a las Empresas Socialmente Responsables un 2.5% adicional a los incentivos otorgados conforme a la presente Ley, de acuerdo a la reglamentación correspondiente y previa presentación del certificado que la acredite como tal, emitido por la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -943,7 +963,9 @@ VI. Inviertan en la formación y capacitación especializada de técnicos y prof
 
 VII. Operen bajo esquemas de mejora continua orientados a elevar su productividad y competitividad y alcancen su certificación ante organismos acreditados.
 
-VIII. Las empresas debidamente reconocidas por la Secretaría como socialmente responsables que estimulen y fomenten las inversiones en el Estado mediante el respeto a la dignidad de las personas, los valores éticos, la comunidad y el medio ambiente, en apego a la normatividad vigente.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VIII. Las empresas socialmente responsables, con certificado emitido por la autoridad competente, que estimulen y fomenten las inversiones en el Estado mediante el respeto a la dignidad de las personas, los valores éticos, la comunidad y el medio ambiente, en apego a la normatividad vigente;
 
 IX. Incrementen sus exportaciones.
 
@@ -1035,13 +1057,19 @@ Cuando se trate del otorgamiento de incentivos, relacionados con infraestructura
 
 I. El Gobernador del Estado quien la presidirá.
 
-II. El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Secretario Técnico solo con voz.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+II. El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Secretario Técnico;
 
 III. El Titular de la Secretaría de Finanzas y de Administración.
 
 IV. El Titular de la Secretaría de Trabajo y Previsión Social.
 
 V. El Titular de la Secretaría de la Secretaría de Comunicaciones y Obras Públicas.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+VI. El Titular de la Secretaría de Contraloría.
 
 La Comisión sesionará cuando sea necesario analizar y resolver las solicitudes relacionadas con los incentivos a que se refiere el presente, para sus resoluciones tomará en consideración las necesidades del proyecto, la viabilidad de las obras a ejecutar, así como la disponibilidad presupuestal con que se cuente.
 
@@ -1053,11 +1081,13 @@ DE LA EXTINCIÓN, CANCELACIÓN Y RECUPERACIÓN DE LOS APOYOS,
 
 INCENTIVOS Y ESTÍMULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ### CAPÍTULO IV. DEL FONDO DE FOMENTO ECONÓMICO
 
 ###### ARTÍCULO 79.
 
-El Consejo determinará las especificaciones, requisitos y procedimientos para la extinción, cancelación y recuperación de los apoyos, incentivos y estímulos cuando los beneficiarios de éstos:
+La Secretaría determinará las especificaciones, requisitos y procedimientos para la extinción, cancelación y recuperación de los apoyos, incentivos y estímulos cuando los beneficiarios de éstos:
 
 I. Proporcionen información falsa para acceder a éstos.
 
@@ -1085,9 +1115,11 @@ XII. Que se encuentren sujetos a algún procedimiento penal.
 
 Los incentivos, apoyos o estímulos otorgados por esta Ley serán intransferibles, además no serán aplicables a aquellas empresas, que ya establecidas, mediante un acto de simulación, aparezcan como una nueva empresa para gozar de dichos beneficios.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 80.
 
-El Consejo, analizando las solicitudes de incentivos en particular, podrá establecer como condición de acceso a los mismos, la obligación de los inversionistas solicitantes para garantizar, al menos, el cumplimiento de sus obligaciones fiscales y laborales, para el supuesto de que decidan abandonar repentinamente el Estado o el País.
+La Secretaría, analizando las solicitudes de incentivos en particular, podrá establecer como condición de acceso a los mismos, la obligación de los inversionistas solicitantes para garantizar, al menos, el cumplimiento de sus obligaciones fiscales y laborales, para el supuesto de que decidan abandonar repentinamente el Estado o el País.
 
 ### CAPÍTULO V. DEL CERTIFICADO DE EMPRESA DURANGUENSE
 
@@ -1209,13 +1241,11 @@ La persona o empresa que resulte premiada, además de la entrega de su reconocim
 
 ###### ARTÍCULO 90.
 
-Para dar continuidad a la Mejora Regulatoria, la Secretaría integrará y operará con carácter prioritario un Programa de Mejora Regulatoria para el Desarrollo Económico, de conformidad a lo que establece la presente Ley y lo dispuesto en la Ley de Mejora Regulatoria del Estado de Durango, dicho programa, tendrá como objeto simplificar y modernizar las Leyes y reglamentos estatales y en su caso, la normatividad municipal con el fin de lograr un entorno económico altamente competitivo que estimule la inversión y el crecimiento económico en el Estado.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
-El Programa fortalecerá e impulsará en forma permanente acciones para disminuir los tiempos y costos relativos a los trámites para el establecimiento y operación de las empresas.
+### CAPÍTULO PRIMERO. DE LOS AGRUPAMIENTOS EMPRESARIALES
 
-La Secretaría deberá llevar a cabo las acciones necesarias para fomentar y fortalecer la coordinación con las instancias del Gobierno Federal en materia de mejora regulatoria, con la finalidad de impulsar el desarrollo y aplicación de los programas y planes necesarios para alcanzar los fines de esta Ley.
-
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1225,19 +1255,7 @@ El sistema de apertura operará a través de módulos municipales que sean cread
 
 ###### ARTÍCULO 92.
 
-Los ayuntamientos podrán crear comisiones municipales de mejora regulatoria, con las siguientes funciones:
-
-I. Promover, operar y evaluar la desregulación y simplificación administrativa para el establecimiento e inicio de operaciones de las empresas.
-
-II. Proponer a los ayuntamientos, por conducto del Presidente Municipal, los proyectos de reglamentos o acuerdos de carácter general, según corresponda, en materia de mejora regulatoria y simplificación administrativa.
-
-III. Estudiar, formular y evaluar el catálogo de giros o clases de actividad económica consideradas de bajo riesgo público y susceptible de ser desarrolladas principalmente por micro, pequeñas y medianas empresas, susceptibles de ser beneficiarias del sistema de apertura rápida de empresas;
-
-IV. Formular y actualizar el registro de trámites y servicios.
-
-V. Establecer los trámites estatales o municipales mínimos que las empresas cuyo giro o clase de actividad económica, se considera de bajo riesgo, deben cumplir para autorizar su inicio de operaciones.
-
-VI. Establecer los plazos en que las empresas con actividad de bajo riesgo deben cumplir los requisitos complementarios para el inicio de las operaciones.
+(DEROGADO, P.O. 12 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 93.
 
@@ -1297,67 +1315,283 @@ Los módulos podrán establecer relaciones de coordinación con las dependencias
 
 Las dependencias estatales y municipales, deberán dar respuesta a las solicitudes que les turnen los módulos, en un plazo no mayor de 15 días hábiles, contados a partir de la fecha de la recepción de la solicitud en el módulo.
 
-## TÍTULO SEXTO. DE LAS INFRACCIONES, SANCIONES Y LOS MEDIOS DE DEFENSA
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 12 DE ABRIL DE 2018)</small>
+
+## TÍTULO SEXTO. DE LOS AGRUPAMIENTOS EMPRESARIALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 12 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS CONSEJOS CIUDADANOS ASESORES PARA EL DESARROLLO DE LOS AGRUPAMIENTOS EMPRESARIALES
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 96.
 
-La Secretaría sancionará, conforme a lo dispuesto por esta Ley, las siguientes infracciones:
+El Titular del Poder Ejecutivo promoverá a través de la Secretaría, la creación y fortalecimiento de agrupamientos empresariales, sobre todo en aquellos sectores considerados como estratégicos en los términos de esta Ley.
 
-I. Aportar información falsa para obtener el otorgamiento de incentivos y apoyos del Fondo de Fomento Económico.
-
-II. No cumplir en el tiempo establecido los compromisos a cargo del inversionista, empresario o emprendedor, señalados en la resolución emitida por la Secretaría, salvo causa debidamente fundada y motivada, cuya notificación se haga por escrito a la Secretaría.
-
-III. Aprovechar los incentivos señalados en esta Ley para fines distintos a los señalados por el inversionista, empresario o emprendedor en su solicitud.
-
-IV. Ceder los beneficios concedidos en la resolución emitida por la Secretaría.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 97.
 
-En todo caso, las resoluciones de sanción tomarán en cuenta:
+En igualdad de circunstancias, cualquier iniciativa de inversión en el Estado que provenga de un Agrupamiento Empresarial, empresa integradora, o que tenga como objetivo el fortalecimiento de un agrupamiento empresarial existente, tendrá prioridad para efectos de recibir los incentivos correspondientes en los términos de esta Ley.
 
-I. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
-
-II. La gravedad de la infracción.
-
-III. Los daños que se hubieran producido a la hacienda pública estatal.
-
-IV. La reincidencia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 98.
 
+El Titular del Poder Ejecutivo, mediante acuerdo, podrá nombrar Consejos Ciudadanos Asesores para el desarrollo de Agrupamientos Empresariales que funcionarán como órganos auxiliares de participación ciudadana, consultivos, asesores, promotores, y representativos de los sectores empresariales, sindicales, educativos y gubernamentales, para el impulso y desarrollo de industrias y sectores económicos estratégicos para el crecimiento económico en el Estado.
+
+Los Consejos Ciudadanos Asesores podrán adoptar la forma de Asociaciones Civiles o cualquier otra forma de acuerdo a las leyes para la consecución de los objetivos que para ellos establece esta Ley y sus propios fines económicos; en cuyo caso, previo acuerdo del Titular del Poder Ejecutivo, serán igualmente reconocidos en los términos de esta Ley, sujetándose a lo que dispongan sus estatutos internos, y supletoriamente esta Ley y su Reglamento.
+
+En el caso previsto en el párrafo anterior, quedará a salvo la posibilidad de que el Titular del Poder Ejecutivo nombre un nuevo Consejo Ciudadano Asesor para el desarrollo del sector.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 99.
+
+Son objetivos de los Agrupamientos Empresariales que se operarán a través de los Consejos Ciudadanos Asesores a los que se refiere el artículo anterior, los siguientes:
+
+I. Fungir como plataforma de diálogo entre el sector público y el privado para diseñar e implementar estrategias que favorezcan el desarrollo de la industria o sector;
+
+II. Establecer Comités Especiales, cuya finalidad sea analizar la situación concreta de la industria o sector que corresponda para proponer programas y proyectos que impulsen su crecimiento económico;
+
+III. Proponer políticas, estrategias, acciones y programas para fomentar la investigación, innovación y el desarrollo tecnológico en su industria o sector;
+
+IV. Realizar estudios sobre planeación estratégica y de necesidades de recursos humanos dentro de su industria o sector;
+
+V. Promover la formación de capital humano especializado para el fortalecimiento de la industria o sector;
+
+VI. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores de bienes y servicios, especialmente apoyando la integración de las MIPYMES con las grandes empresas;
+
+VII. Difundir los casos de éxito de la industria o sector para aprovecharlos en la competencia con otras regiones económicas; y
+
+VIII. Promover, en coordinación con la Secretaría a nivel nacional e internacional la difusión de sus proyectos, programas, iniciativas y resultados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 100.
+
+Todos los integrantes de los Consejos Ciudadanos Asesores de los Agrupamientos Empresariales formarán parte de los mismos de manera honorífica.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 96], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 101.
+
+Los Consejos Ciudadanos Asesores para el Desarrollo de los Agrupamientos Empresariales son organismos auxiliares, plurales, incluyentes, honoríficos, propositivos, promotores y representativos de los sectores empresariales, sindicales, educativos y gubernamentales que desempeñan las funciones consultivas, de seguimiento y de evaluación que determina la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 102.
+
+Los Consejos Ciudadanos Asesores se integrarán de la siguiente manera:
+
+I. Por el Titular del Poder Ejecutivo del Estado, quien fungirá como Presidente Honorario de cada uno de los Consejos Ciudadanos Asesores que se constituyan;
+
+II. Un Presidente Ejecutivo, que será el ciudadano que designe el Titular del Poder Ejecutivo a propuesta de los integrantes del Consejo Ciudadano Asesor;
+
+III. Por el Secretario de Desarrollo Económico, quien en todos los Consejos Ciudadanos Asesores que se constituyan fungirá como Secretario Técnico; y
+
+IV. Los vocales que en cada caso se estimen necesarios, atendiendo al sector específico y que en todos los casos serán los representantes de diversas empresas, sindicatos, instituciones académicas y organismos de la entidad relacionados con el sector.
+
+Los miembros del Consejo Ciudadano Asesor que corresponda podrán designar un suplente, mediante escrito dirigido a su Secretario Técnico.
+
+El Presidente Honorario podrá asistir a las sesiones del Consejo Ciudadano Asesor con voz y voto y presidirá las sesiones de las que sea parte.
+
+El Presidente Ejecutivo asistirá con voz y voto, y presidirá las sesiones a las que no asista el Presidente Honorario.
+
+Los demás miembros del Consejo, asistirán con voz y voto. El Secretario Técnico hará constar en el acta correspondiente los acuerdos que se tomen en la misma.
+
+Para la designación de los vocales a que se refiere la fracción IV de este artículo, el Presidente Honorario formulará las invitaciones correspondientes, considerando la idoneidad de las personas e instituciones.
+
+El Presidente Honorario, el Presidente Ejecutivo o el Secretario Técnico, podrán invitar a las sesiones del Consejo Ciudadano Asesor a representantes de las dependencias y entidades de la Administración Pública Estatal y Federal que sea conveniente para el desahogo de los temas señalados en el orden del día, así como a las demás personas que por razón de su profesión o interés sea importante escuchar para los mismos fines.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 103.
+
+El Presidente Honorario tendrá las siguientes facultades:
+
+I. Presidir las sesiones que celebre el Consejo Ciudadano Asesor;
+
+II. Proveer lo necesario para el debido funcionamiento y desarrollo de las actividades del Consejo Ciudadano Asesor;
+
+III. Establecer las vías de comunicación e información institucional adecuadas para el cumplimiento de las funciones del Consejo Ciudadano Asesor; y
+
+IV. Las demás que sean necesarias para el cumplimiento del objeto del Consejo Ciudadano Asesor y las que señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 104.
+
+El Presidente Ejecutivo de cada Consejo Ciudadano Asesor durará en su encargo dos años, pudiendo ser designado nuevamente por una sola vez más y tendrá las siguientes facultades:
+
+I. Presidir las sesiones del Consejo Ciudadano Asesor en ausencia del Presidente Honorario; declarar, en su caso, la existencia del quórum legal para sesionar y tomar acuerdos; iniciar y levantar la sesión, además de declarar recesos, cuando sea necesario;
+
+II. Acordar con el Secretario Técnico o en su caso, con el Presidente Honorario los temas del orden del día de las sesiones, a fin de que el Secretario Técnico formule la convocatoria correspondiente;
+
+III. Adoptar las medidas necesarias para el adecuado funcionamiento de las sesiones;
+
+IV. Acordar con el Secretario Técnico el establecimiento de mecanismos de seguimiento y evaluación de los acuerdos del Consejo Ciudadano Asesor;
+
+V. Informar al Presidente Honorario sobre el cumplimiento de los acuerdos del Consejo Ciudadano Asesor; y
+
+VI. Las adicionales a las anteriores que resulten indispensables para el cumplimiento de los objetivos del Consejo Ciudadano Asesor y las que señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 105.
+
+El Secretario Técnico del Consejo Ciudadano Asesor tendrá las siguientes facultades:
+
+I. Formular el orden del día y la convocatoria a las sesiones del Consejo Ciudadano Asesor, previo acuerdo con el Presidente Ejecutivo;
+
+II. Preparar las propuestas, estudios u opiniones que se someterán a consideración del Consejo Ciudadano Asesor;
+
+III. Elaborar los informes que le sean solicitados;
+
+IV. Recibir, clasificar y llevar las estadísticas de la información sobre las acciones emprendidas en ejecución de los acuerdos del Consejo Ciudadano Asesor;
+
+V. Ejecutar los acuerdos adoptados por el Consejo Ciudadano Asesor y proveer en la esfera operativa lo necesario para su cumplimiento;
+
+VI. Llevar el archivo del Consejo Ciudadano Asesor, que incluirá el registro de las actas, acuerdos, resoluciones aprobadas y demás documentos generados en ejercicio de la función;
+
+VII. Dar cuenta al Consejo Ciudadano Asesor cuando se den cambios de titulares o de alguno de sus representantes; y
+
+VIII. Las demás que le otorgue el Presidente Honorario, el Presidente Ejecutivo, el Consejo Ciudadano Asesor y las que señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 106.
+
+Todos los cargos de los Consejos Ciudadanos Asesores serán de carácter honorífico, siendo a título de colaboración ciudadana y se regirán por principios de buena fe e interés general. Únicamente el cargo de Director del Consejo Ciudadano Asesor podrá ser remunerado si así lo acuerda el mismo Consejo. Las funciones del Director del Consejo Ciudadano Asesor serán las siguientes:
+
+I. Planear, programar, ejecutar y controlar las acciones relativas a la operación y administración del Consejo Ciudadano Asesor, previo acuerdo del Presidente Ejecutivo;
+
+II. Convocar, coordinar, elaborar la minuta y dar seguimiento a los acuerdos de las reuniones del Consejo Ciudadano Asesor y sus comités de trabajo;
+
+III. Auxiliar al Presidente Ejecutivo y al Secretario Técnico del Consejo Ciudadano Asesor en el desarrollo de las sesiones;
+
+IV. Proponer y dar seguimiento a proyectos, programas y estrategias que fomenten la competitividad del sector;
+
+V. Gestionar recursos para el financiamiento de proyectos del Consejo Ciudadano Asesor;
+
+VI. Llevar el registro, estadística y documentación relativa a la operación y funcionamiento del Consejo Ciudadano Asesor y sus comités;
+
+VII. Facilitar, promover y vincular al Consejo Ciudadano Asesor con instancias públicas y privadas para el desarrollo del sector; y
+
+VIII. Las demás que le asigne el Presidente Ejecutivo y el Secretario Técnico del Consejo Ciudadano Asesor.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 107.
+
+Los vocales a que se refiere el artículo 102 de la presente Ley durarán al igual que el Presidente dos años en su cargo, pudiendo ser designados nuevamente al término del período correspondiente cuantas veces se considere necesario para el adecuado cumplimiento de los fines del Consejo Ciudadano Asesor.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 108.
+
+Los Consejos Ciudadanos Asesores sesionarán conforme el calendario que aprueben. Las sesiones ordinarias se realizarán al menos trimestralmente. Las sesiones extraordinarias se efectuarán en cualquier momento, previa convocatoria a solicitud al Presidente Honorario, del Presidente Ejecutivo o del Secretario Técnico de los Consejos Ciudadanos Asesores. Las convocatorias a las sesiones podrán realizarse por medios electrónicos.
+
+Las convocatorias deberán ser realizadas, cuando menos, con cinco días hábiles antes para las sesiones ordinarias, y para el caso de las extraordinarias, con la anticipación que sea necesaria. En las convocatorias deberá indicarse la fecha, hora, lugar y orden del día, y serán acompañadas de la información documental que se considere pertinente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 109.
+
+Las sesiones de los Consejos Ciudadanos Asesores en primera convocatoria, serán válidas con la asistencia del Presidente Ejecutivo, el Secretario Técnico y de al menos la mitad más uno de los vocales; y en segunda convocatoria con la asistencia del Presidente Ejecutivo, el Secretario Técnico y de los vocales que se encuentren presentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 110.
+
+Los acuerdos de los Consejos Ciudadanos Asesores se tomarán por mayoría simple de los presentes, y en caso de empate el Presidente Honorario tendrá el voto de calidad; en su ausencia, el Presidente Ejecutivo será quien cuente con el voto de calidad. De cada sesión el Secretario Técnico formulará el acta correspondiente, que firmarán todos los asistentes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 111.
+
+El Titular del Poder Ejecutivo del Estado, considerando la disponibilidad presupuestal, deberá destinar en el proyecto de Presupuesto de Egresos que envíe al H. Congreso una partida presupuestal de al menos 5,300 Unidades de Medida y Actualización para cada uno de los Consejos Ciudadanos Asesores e incluso para los que hayan adoptado la forma de Asociaciones Civiles o cualquier otra forma jurídica, que se encuentren formalmente establecidos y reconocidos en términos de la Ley, a fin de apoyarlos en su funcionamiento y logro de sus objetivos, mismos que en su caso serán entregados previa la firma del convenio de colaboración correspondiente.
+
+Independientemente de lo previsto en el párrafo anterior, el Gobierno del Estado podrá destinar recursos para el apoyo de proyectos estratégicos de los agrupamientos empresariales.
+
+Los Consejos Ciudadanos Asesores, los que hayan adoptado la forma de Asociaciones Civiles o cualquier otra forma jurídica deberán administrar el presupuesto que reciban con eficacia, economía, transparencia y honradez informando de su utilización en los términos que disponga el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REUBICADO ANTES TÍTULO SEXTO], P.O. 12 DE ABRIL DE 2018)</small>
+
+## TÍTULO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES Y LOS MEDIOS DE DEFENSA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REUBICADO], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 112.
+
+La Secretaría sancionará, conforme a lo dispuesto por esta Ley, las siguientes infracciones:
+
+I. Aportar información falsa para obtener el otorgamiento de incentivos y apoyos del Fondo de Fomento Económico;
+
+II. No cumplir en el tiempo establecido los compromisos a cargo del inversionista, empresario o emprendedor, señalados en la resolución emitida por la Secretaría, salvo causa debidamente fundada y motivada, cuya notificación se haga por escrito a la Secretaría;
+
+III. Aprovechar los incentivos señalados en esta Ley para fines distintos a los señalados por el inversionista, empresario o emprendedor en su solicitud, y
+
+IV. Ceder los beneficios concedidos en la resolución emitida por la Secretaría.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 97], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 113.
+
+En todo caso, las resoluciones de sanción tomarán en cuenta:
+
+I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+II. La gravedad de la infracción;
+
+III. Los daños que se hubieran producido a la hacienda pública estatal; y
+
+IV. La reincidencia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 98], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 114.
+
 Las sanciones consistirán en:
 
-I. Amonestación con apercibimiento por escrito.
+I. Amonestación con apercibimiento por escrito;
 
-II. Suspensión del incentivo otorgado.
+II. Suspensión del incentivo otorgado;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2017)</small>
-
-III. Multa hasta por mil veces del valor diario de la Unidad de Medida y Actualización, la que hará efectiva la Secretaría de Finanzas y de Administración, previa resolución emitida por la Secretaría.
+III. Multa hasta por mil veces del valor diario de la Unidad de Medida y Actualización, la que hará efectiva la Secretaría de Finanzas y de Administración, previa resolución emitida por la Secretaría; y
 
 IV. Reparación del daño causado a la hacienda pública estatal. En caso de que el infractor se niegue a resarcir el daño a la hacienda pública estatal, se procederá en forma coactiva, de conformidad con las disposiciones legales aplicables.
 
 Las sanciones establecidas en esta Ley se aplicarán sin perjuicio de las establecidas por otros ordenamientos legales.
 
-###### ARTÍCULO 99.
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 99], P.O. 12 DE ABRIL DE 2018)</small>
 
-Cuando se incurra en alguna de las infracciones previstas en el artículo 97 de esta Ley, la Secretaría notificará al presunto infractor el inicio del procedimiento, para que éste, en un término de 5 días hábiles aporte pruebas y exponga lo que a su derecho convenga.
+###### ARTÍCULO 115.
+
+Cuando se incurra en alguna de las infracciones previstas en el artículo 112 de esta Ley, la Secretaría notificará al presunto infractor el inicio del procedimiento, para que éste, en un término de 5 días hábiles aporte pruebas y exponga lo que a su derecho convenga.
 
 Las pruebas ofrecidas deberán ser desahogadas dentro del término de 10 días hábiles, contados a partir de su ofrecimiento y la Secretaría emitirá la resolución en un plazo que no exceda de 15 días hábiles.
 
 La resolución deberá notificarse al infractor y para ejecutarse se podrá hacer uso de las medidas legales necesarias.
 
-Serán aplicables supletoriamente al procedimiento contenido en el presente artículo, en todo lo que no se opongan, las disposiciones de la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Serán aplicables supletoriamente al procedimiento contenido en el presente artículo, en todo lo que no se opongan, las disposiciones de la Ley de Justicia Administrativa del Estado de Durango.
 
-###### ARTÍCULO 100.
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 100], P.O. 12 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 116.
 
 En contra de los actos y resoluciones derivados de la aplicación de las disposiciones de esta Ley, que pongan fin al procedimiento administrativo, a una instancia administrativa o resuelva un expediente, procederá el recurso de inconformidad, el cual deberá hacerse valer dentro de los 15 días hábiles siguientes a aquél en que hubiere surtido efectos la notificación de la resolución que se recurre.
 
 El recurso, deberá ser resuelto en un plazo no mayor de 20 días hábiles contados a partir de la fecha de su interposición.
 
-La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Durango.
+La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado de Durango.
 
-La tramitación y resolución del recurso de inconformidad se hará con apego a lo establecido en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+La tramitación y resolución del recurso de inconformidad se hará con apego a lo establecido en la Ley de Justicia Administrativa del Estado de Durango.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1472,3 +1706,13 @@ CUARTO.- En un plazo que no exceda de 60 días a partir de la entrada en vigor d
 QUINTO.- Una vez instalado el Consejo para el Desarrollo, deberá expedir su Reglamento Interior en un término que no exceda de 90 días, mismo que deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 360.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- La Secretaría de Desarrollo Económico, deberá elaborar las reformas al Reglamento de la Ley de Fomento Económico para el Estado de Durango que deriven del presente Decreto, en un plazo que no excederá de 03 meses contados a partir del inicio de su vigencia.
