@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2016-11-22"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -117,9 +117,13 @@ XIV. Los Juzgados Mercantiles y de Oralidad Mercantil;
 
 XV. Juzgados especializados en extinción de dominio, y
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-XVI. La Unidad de Igualdad de Género.
+XVI. La Unidad de Igualdad de Género, y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XVII. El Tribunal de Justicia Administrativa.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -207,11 +211,11 @@ Las actuaciones practicadas por los funcionarios del Poder Judicial tendrán val
 
 Los titulares de los distintos órganos del Poder Judicial y los encargados de las Dependencias Administrativas, tendrán bajo su cuidado el local donde se halle instalada la oficina a su cargo, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento de la Secretaría Ejecutiva del Consejo de la Judicatura cualquier deterioro que sufran.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 5.
 
-El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
+El Tribunal, las Salas, el Tribunal de Justicia Administrativa y los Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, las y los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -309,13 +313,11 @@ Los procedimientos relacionados con mecanismos alternativos de solución de cont
 
 En materia de Ejecución de Sanciones Penales, el Juez ejercerá su competencia en todo el territorio del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 9.
 
-En la materia constitucional, de ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
+En la materia constitucional, de Justicia Administrativa, de ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -2013,15 +2015,17 @@ El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer c
 
 Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Pleno del Tribunal, únicamente para verificar si fueron o no emitidas conforme a las normas que se establecen en esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 65 Bis.
 
-El Pleno del Consejo de la Judicatura podrá integrar comisiones para atender los asuntos que expresamente les encomienden, quienes funcionarán en los términos que señale el reglamento respectivo, debiendo existir en todo caso las que atiendan los asuntos relacionados con la disciplina, la carrera judicial, la administración del Poder Judicial, vigilancia y visitaduría.
+El Pleno del Consejo de la Judicatura podrá integrar comisiones para atender los asuntos que expresamente les encomienden, quienes funcionarán en los términos que señale el reglamento respectivo, debiendo existir en todo caso las que atiendan los asuntos relacionados con la disciplina, la carrera judicial, la administración del Poder Judicial, vigilancia, visitaduría y del Tribunal de Justicia Administrativa.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 A las sesiones de las comisiones podrá invitarse, con voz pero sin voto, a personas que por sus conocimientos enriquezcan las labores de las mismas. La invitación la realizará el Consejero que presida la Comisión.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 Las sesiones del Pleno y de las Comisiones del Consejo de la Judicatura serán públicas y privadas.
 
@@ -3049,9 +3053,17 @@ La Controlaría del Poder Judicial ejercerá las funciones de control y vigilanc
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
+### Capítulo Primero. De su Integración y Atribuciones
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 105.
 
 El Consejo de la Judicatura determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
+
+### Capítulo Segundo. Del Presidente
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 106.
 
@@ -3141,6 +3153,10 @@ VI. Sufragar los gastos de los servicios y estudios técnicos que se vinculen co
 
 ## TITULO SEPTIMO. PRECEDENTES OBLIGATORIOS Y MEDIOS DE COMUNICACION JUDICIAL
 
+### Capítulo Tercero. De los Funcionarios del Tribunal
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 108.
 
 Los precedentes obligatorios que establezcan el Pleno y las Salas colegiadas del Tribunal Superior de Justicia, serán fuentes de interpretación vinculatoria para el propio Pleno, las Salas, los Juzgados y para todas las autoridades del Estado, y se sujetarán a las siguientes reglas:
@@ -3160,6 +3176,10 @@ IV. El Pleno del Tribunal Superior de Justicia resolverá las contradicciones ex
 ###### Artículo 109.
 
 El Tribunal Superior de Justicia realizará la compilación, sistematización y publicación de las resoluciones y precedentes obligatorios que dicten el Pleno y las Salas que lo integran, a fin de garantizar su adecuada difusión.
+
+### Capítulo Cuarto. De la Competencia
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 110.
 
@@ -3240,6 +3260,10 @@ La revista estará a disposición de los interesados previo el pago correspondie
 El Consejo de la Judicatura mediante reglamento o acuerdos generales proveerá lo no establecido en la presente ley en todo lo concerniente a la Revista Judicial y establecerá todas aquellas disposiciones para la adecuada distribución y difusión de la misma.
 
 ## TITULO OCTAVO. SERVIDORES PUBLICOS DEL PODER JUDICIAL
+
+### Capítulo Quinto. Del Funcionamiento
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
 ###### Artículo 115.
 
@@ -3404,6 +3428,172 @@ II. Abstenerse de votar en los acuerdos del Pleno o de la Sala a que pertenezcan
 ###### Artículo 120.
 
 Las faltas a que se refiere el presente Capítulo y que se cometan por los servidores públicos del Poder Judicial, incluyendo al personal adscrito a la Presidencia, al Pleno y a las Salas del Tribunal Superior de Justicia, serán investigadas y sancionadas en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, por el Consejo de la Judicatura. Tratándose de los Magistrados, sus faltas serán sancionadas por el Congreso del Estado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+## TITULO NOVENO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 121.
+
+De conformidad con el artículo 84 Bis de la Constitución Política del Estado de Tlaxcala, el Tribunal de Justicia Administrativa es un organismo público del Poder Judicial del Estado, que forma parte del Sistema Anticorrupción del Estado de Tlaxcala, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 122.
+
+El Tribunal estará integrado por tres personas propuestas por la o el Gobernador del Estado y ratificadas por el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado, dentro del improrrogable plazo de treinta días. Si el Congreso del Estado no resolviere dentro de dicho plazo, se entenderán por ratificados los propuestos por la o el Gobernador.
+
+En caso de que el Congreso del Estado rechace alguna de la totalidad de las propuestas, la o el Gobernador del Estado someterá otras en los términos del párrafo anterior. Si estas segundas fueran rechazadas, ocuparán el cargo las personas que designe la o el Gobernador del Estado.
+
+En ningún caso el Tribunal se integrará con tres personas del mismo género.
+
+Durarán en su encargo seis años, podrán ser ratificadas para un periodo igual, y sólo podrán ser removidas de su cargo por las causas graves que señale la ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 123.
+
+La ausencia temporal de un magistrado será cubierta, preferentemente, por la o el secretario general o, en su caso, por un proyectista, según acuerden los otros magistrados.
+
+Si la ausencia de un magistrado es definitiva, la o el Presidente lo notificará de inmediato a la o el Gobernador del Estado para que inicie el procedimiento para elegir al faltante, quien será designado para concluir el periodo. En este caso, mientras se hace la elección respectiva, la ausencia será suplida en los términos del primer párrafo.
+
+La persona designada para ocupar el cargo de manera temporal deberá ser del mismo género que el sustituido, en todos los casos
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 124.
+
+En los términos de lo dispuesto por el artículo 84 Bis de la Constitución Política del Estado Libre y Soberano de Tlaxcala y las leyes respectivas, el Tribunal estará facultado para:
+
+I. Resolver las controversias que se susciten entre la administración pública estatal, municipal y los particulares;
+
+II. Substanciar los procedimientos de responsabilidad por causas graves, en los términos previstos en la Ley General de Responsabilidades Administrativas;
+
+III. Imponer en los términos que disponga la ley, las sanciones a las y los servidores públicos locales y municipales por responsabilidad administrativa grave, así como a las y los particulares que incurran en actos vinculados con faltas administrativas graves;
+
+IV. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales;
+
+V. Resolver el recurso de inconformidad, los recursos de reclamación y apelación, así como la revisión en los términos previstos en las leyes;
+
+VI. Velar por el cumplimiento efectivo de sus resoluciones;
+
+VII. Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento, y
+
+VIII. Las demás que le señalen las leyes de manera expresa y las implícitas que sean necesarias para el debido cumplimiento de sus fines.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 125.
+
+Las y los Magistrados elegirán de entre ellos a su Presidente, quien durará en su cargo dos años, y en su sustitución se procurará que asuma la presidencia un magistrado de género distinto.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 126.
+
+Las ausencias de la o el Presidente serán suplidas, si no exceden de un mes, por la o el magistrado de mayor edad. Si la ausencia excediere dicho plazo, pero fuere menor a seis meses, se designará a un Presidente interino, y si fuere mayor a ese término, se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del periodo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 127.
+
+La o el Presidente tendrá las siguientes atribuciones:
+
+I. Representar legalmente al Tribunal;
+
+II. Presidir y conducir las sesiones, dirigir la discusión de los asuntos sometidos al conocimiento del Tribunal, someterlos a votación cuando se declare cerrado el debate;
+
+III. Proponer al Consejo de la Judicatura el nombramiento y en su caso, remoción del personal adscrito al Tribunal;
+
+IV. Informar al Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, de las irregularidades en que incurra el personal adscrito al Tribunal;
+
+V. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades del Tribunal;
+
+VI. Autorizar, con su firma en unión de la o el Secretario General, los acuerdos de trámite;
+
+VII. Enviar a la o el Presidente del Tribunal Superior de Justicia los precedentes que se sustenten por el Tribunal, y
+
+VIII. Las demás que señalen las leyes y aquellas que resulten necesarias para el adecuado desahogo de los asuntos de la competencia del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 128.
+
+Para el ejercicio de sus funciones el Tribunal contará con un Secretario General de Acuerdos, quien tendrá las atribuciones siguientes:
+
+I. Apoyar a las y los magistrados en todo lo necesario para el buen funcionamiento del tribunal;
+
+II. Revisar los engroses de las resoluciones;
+
+III. Llevar el control del turno de los asuntos;
+
+IV. Autorizar con su firma las actuaciones del Tribunal;
+
+V. Expedir los certificados de constancias que se requieran, y
+
+VI. Las demás que les señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 129.
+
+El Tribunal contará con Diligenciarios y un Oficial de Partes, así como con los proyectistas y demás personal de apoyo que las necesidades del servicio justifiquen y permitan las posibilidades presupuestales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 130.
+
+Es competencia de cada uno de las y los magistrados conocer y resolver de manera unitaria de los asuntos siguientes:
+
+I. En materia contenciosa administrativa, distinta a la vinculada con responsabilidad de las y los servidores públicos, conocerán en única instancia de los asuntos que establece la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios;
+
+II. En materia de responsabilidad de las y los servidores públicos, de los siguientes medios de impugnación:
+
+a. Del Recurso de Inconformidad, en los términos establecidos en el Libro Segundo, Título Primero, Capítulo IV, de la Ley General de Responsabilidades Administrativas.
+
+b. Del Recurso de Reclamación, previsto en el Libro Segundo, Título Segundo, Capítulo III, Sección Segunda, de la Ley General de Responsabilidades Administrativas.
+
+c. De la Revisión prevista en el Libro Séptimo, Capítulo Primero, de la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios, en contra de las resoluciones definitivas recaídas a los recursos de revocación que dicten la Contraloría General o los Órganos Internos de Control con motivo de los procedimientos vinculados con faltas administrativas no graves.
+
+III. En materia de responsabilidad de las y los servidores públicos, del procedimiento de responsabilidad administrativa establecido en el artículo 209 de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 131.
+
+Es competencia del Tribunal resolver, de manera colegiada, del Recurso de Apelación, previsto en el Libro Segundo, Título Segundo, Capítulo III, Sección Tercera, de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 132.
+
+El recurso de apelación procederá, exclusivamente, en contra (sic) las resoluciones dictadas por las y los magistrados de manera unitaria, siguientes:
+
+I. La que determine imponer sanciones por la comisión de Faltas administrativas graves o Faltas de particulares, y
+
+II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean Servidores Públicos o particulares.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 133.
+
+El trámite de los asuntos de la competencia del Pleno del Tribunal se regirá por las disposiciones siguientes:
+
+I. Los acuerdos de admisión, desechamiento y resolución de los juicios, incidentes y recursos se dictarán por el Pleno;
+
+II. Las resoluciones se tomarán por unanimidad o mayoría de votos de las y los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación que previamente calificará el Tribunal. La o el Magistrado que disienta emitirá su voto particular razonado, el que se incluirá en la parte considerativa de la sentencia;
+
+III. Las resoluciones deberán ser firmadas por todos los Magistrados y por la o el Secretario General, y
+
+IV. Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
+###### Artículo 134.
+
+Para todo aquello que no esté expresamente previsto en este Título, serán aplicables las normas establecidas para las Salas del Tribunal Superior de Justicia.
 
 ## TRANSITORIOS
 
@@ -3766,3 +3956,63 @@ Tratándose de los asuntos que se encontraban en trámite al momento de entrar e
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 131.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO DEL ESTADO DE TLAXCALA Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones previstas en el artículo primero del presente Decreto, entrarán en vigor una vez que esté instalado y entre en funciones el Tribunal de Justicia Administrativa.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Administrativa deberá crearse en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la instalación y funcionamiento de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas se estará a lo dispuesto en el Reglamento de la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de las reformas y adiciones a la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye al Procurador General de Justicia del Estado a efecto de que instrumente las medidas necesarias para dar debido cumplimiento al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Procurador General de Justicia del Estado deberá nombrar a los titulares de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Investigación y Persecución de los Delitos en Materia de Trata de Personas, y de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas.
+
+###### ARTÍCULO OCTAVO.
+
+La Subprocuraduría, departamentos y unidades administrativas que tengan conocimiento de investigaciones en procesos relacionados con hechos que la ley considera como delitos en materia de corrupción las remitirá a la Fiscalía Especializada en Combate a la Corrupción para su conocimiento y atención.
+
+###### ARTÍCULO NOVENO.
+
+La instancia del Gobierno del Estado encargada de la aprobación del Presupuesto de Egresos del Poder Ejecutivo, realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en Combate a la Corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, la o el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
