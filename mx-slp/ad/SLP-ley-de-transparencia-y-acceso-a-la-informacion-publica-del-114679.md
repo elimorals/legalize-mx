@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2018-03-17"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -573,9 +573,15 @@ XLIII. Atender las opiniones correspondientes que el Consejo Consultivo emita de
 
 XLIV. Conceder, en su caso, las licencias de los comisionados, cuando no excedan de tres meses;
 
-XLV. Resolver de las excusas e impedimentos que se presenten en los términos establecidos en su reglamento interno, y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
 
-XLVI. Las demás que le confieran, la Ley General; esta Ley; y cualquier otra disposición legal aplicable.
+XLV. Resolver de las excusas e impedimentos que se presenten en los términos establecidos en su reglamento interno;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+
+XLVI. Gestionar y recibir fondos de agencias donantes particulares y públicas, nacionales y extranjeras, en los términos que establece la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, y
+
+XLVII. Las demás que le confieran, la Ley General; esta Ley; y cualquier otra disposición legal aplicable.
 
 #### Sección Segunda. De los Comisionados; y la Presidencia de la CEGAIP
 
@@ -3008,6 +3014,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 17 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 909.- SE REFORMA EL ARTÍCULO 24 EN SU FRACCIÓN II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 929.- SE REFORMA Y ADICIONA EL ARTÍCULO 34 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 26, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
