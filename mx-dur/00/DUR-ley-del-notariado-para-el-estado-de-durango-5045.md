@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "2017-03-16"
+last_updated: "2018-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -493,9 +493,9 @@ XVII. Número de notaría, y
 
 XVIII. Distrito Judicial de adscripción del notario.
 
-El aviso a que se refiere el párrafo anterior deberá efectuarse por escrito vía electrónica dentro de los 10 días hábiles siguientes a aquel en que se otorgó la voluntad testamentaria. (sic)
+El aviso a que se refiere el párrafo anterior deberá efectuarse por escrito vía electrónica dentro de los 10 días hábiles siguientes a aquel en que se otorgó la voluntad testamentaria.
 
-Si el testamento fuere cerrado, indicarán además el lugar o persona en cuyo poder se deposite. La Dirección General de Notarías llevará un libro especialmente destinado asentar las inscripciones relativas, con los datos que se mencionan los jueces ante quienes se denuncie un intestado, recabarán de la Dirección General de Notarías, si existe o no anotación en el libro antes mencionado, la que solicitará también vía electrónica su búsqueda en el Registro Nacional de Avisos Testamentarios, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate. Los testamentos cerrados que el testador haya dejado en guarda con el notario, deberá ser entregados a la Dirección General de Notarías al mismo tiempo que se entregue el libro de protocolo en el cual quedó asentada la razón de cierre del testamento. (sic)
+Si el testamento fuere cerrado, indicarán además el lugar o persona en cuyo poder se deposite. La Dirección General de Notarías llevará un libro especialmente destinado asentar las inscripciones relativas, con los datos que se mencionan los jueces ante quienes se denuncie un intestado, recabarán de la Dirección General de Notarías, si existe o no anotación en el libro antes mencionado, la que solicitará también vía electrónica su búsqueda en el Registro Nacional de Avisos Testamentarios, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate. Los testamentos cerrados que el testador haya dejado en guarda con el notario, deberá ser entregados a la Dirección General de Notarías al mismo tiempo que se entregue el libro de protocolo en el cual quedó asentada la razón de cierre del testamento.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -1279,7 +1279,7 @@ IX.- Las demás atribuciones que sean propias y naturales del servicio ó que é
 
 ###### ARTICULO 136.
 
-El Director General de Notarías, además del sueldo que le asigne el presupuesto de egresos, los honorarios que en sus respectivos casos señale el Arancel de Notarios. (sic)
+El Director General de Notarías, además del sueldo que le asigne el presupuesto de egresos, los honorarios que en sus respectivos casos señale el Arancel de Notarios (sic).
 
 ###### ARTICULO 137.
 
@@ -1448,3 +1448,17 @@ P.O. 16 DE MARZO DE 2017.
 PRIMERO.- El presente decreto entra en vigor a los 60 días de su publicación en el Periódico Oficial del Gobierno del Estado, lapso durante el cual, deberá llevarse a cabo la capacitación de notarios y personal que designaren al efecto, para operar los sistemas informáticos y formatos que se llegaren a determinar. Lo mismo se hará en lo que concierne a la Dirección General de Notarias y su personal.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 364.- QUE CONTIENE (SIC) LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley del Notariado del Estado de Durango aprobada mediante Decreto número 334, de fecha 18 de junio de 1974, publicado en el Periódico Oficial del Gobierno del Estado número 49, de fecha 20 del citado mes y año, así como sus reformas, adiciones y todas las demás disposiciones legales, decretos, reglamentos o circulares derivados de la misma.
+
+TERCERO: El Ejecutivo dispondrá de un plazo no mayor de seis meses para elaborar y publicar el Reglamento de esta Ley y demás ordenamientos legales y administrativos.
+
+CUARTO: La Secretaria de Finanzas y de Administración otorgará los recursos humanos, materiales y financieros para el funcionamiento de la Dirección, y el cumplimiento de las atribuciones conferidas en el presente Decreto, a fin de asegurar y preservar el acervo documental del Archivo General de Notarías, así como para el cumplimiento de los lineamientos técnicos en materia del protocolo electrónico.
+
+QUINTO: El Colegio tendrá un plazo de noventa días naturales contados a partir de la entrada en vigor de esta Ley para adecuar sus estatutos a las disposiciones contenidas en este decreto.
