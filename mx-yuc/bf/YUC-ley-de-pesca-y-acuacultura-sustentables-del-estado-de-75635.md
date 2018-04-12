@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-75635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2016-12-28"
+last_updated: "2018-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ABRIL DE 2018.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -313,13 +313,21 @@ XXXV.- Proponer a las autoridades competentes criterios y mecanismos que contrib
 
 XXXVI.- Proporcionar a las autoridades competentes que lo soliciten, información para el desarrollo de proyectos pesqueros y acuícolas de corto, mediano y largo plazos, en beneficio de los habitantes de la zona costera de Yucatán;
 
+> <small>(REFORMADA, D.O. 12 DE ABRIL DE 2018)</small>
+
+XXXVII.- Impulsar el desarrollo de acciones para el manejo de la zona costera que contemplen el uso, distribución y control adecuado de los recursos;
+
+> <small>(ADICIONADA, D.O. 12 DE ABRIL DE 2018)</small>
+
+XXXVIII.- Promover e impulsar ante las instancias competentes la aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura;
+
+> <small>(ADICIONADA, D.O. 12 DE ABRIL DE 2018)</small>
+
+XXXIX.- Establecer políticas publicas tendientes al desarrollo social y económico de los pescadores durante las épocas de veda y de baja producción pesquera y velar por su puntual y correcta implementación, y
+
 > <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-XXXVII.- Impulsar el desarrollo de acciones para el manejo de la zona costera que contemplen el uso, distribución y control adecuado de los recursos, y
-
-> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
-
-XXXVIII.- Las demás que establezcan otras disposiciones legales y normativas aplicables.
+XL.- Las demás que establezcan otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 9.
 
@@ -361,9 +369,17 @@ IX.- Fomentar entre los productores el uso de instrumentos y equipos de pesca se
 
 X.- Coadyuvar con el Ejecutivo del Estado, en la organización y desarrollo de exposiciones, ferias, y eventos de interés para el sector pesquero y acuícola;
 
-XI.- Fomentar mediante instrumentos y medios de difusión el consumo de los productos pesqueros y acuícolas en el Municipio, y
+> <small>(REFORMADA, D.O. 12 DE ABRIL DE 2018)</small>
 
-XII.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+XI.- Fomentar, mediante instrumentos y medios de difusión, el consumo de los productos pesqueros y acuícolas en el Municipio;
+
+> <small>(ADICIONADA, D.O. 12 DE ABRIL DE 2018)</small>
+
+XII.- Contribuir con las autoridades competentes para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas, dentro del ámbito de su competencia, y
+
+(REUBICADA [N. DE E. REFORMADA], D.O. 12 DE ABRIL DE 2018)
+
+XIII.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos en la materia.
 
 ###### Artículo 12.
 
@@ -455,9 +471,15 @@ XII.- Participar en el mantenimiento de la infraestructura pesquera en el litora
 
 XIII.- Elaborar propuestas y, en su caso, participar en la implementación de acciones orientadas a la solución de los principales problemas que afectan a las comunidades que forman parte del litoral yucateco;
 
-XIV.- Promover, mediante políticas públicas a cargo de la Secretaría, el desarrollo sustentable y acciones articuladas para el uso y aprovechamiento de los recursos costeros, y
+> <small>(REFORMADA, D.O. 12 DE ABRIL DE 2018)</small>
 
-XV.- Las demás que le asigne el Secretario y las que le confieran otras disposiciones legales y normativas aplicables.
+XIV.- Promover, mediante políticas públicas a cargo de la Secretaría, el desarrollo sustentable y acciones articuladas para el uso y aprovechamiento de los recursos costeros;
+
+> <small>(ADICIONADA, D.O. 12 DE ABRIL DE 2018)</small>
+
+XV.- Impulsar, dentro del ámbito de su competencia, la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional, y
+
+XVI.- Las demás que le asigne el Secretario y las que le confieran otras disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -1046,3 +1068,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 12 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 610/2018 POR EL QUE SE MODIFICA LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tacita
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en este decreto.
