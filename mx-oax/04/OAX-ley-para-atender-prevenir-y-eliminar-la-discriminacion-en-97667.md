@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2013-12-09"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -57,15 +57,19 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 El objeto de la presente Ley es promover la igualdad real de oportunidades, atender, prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona, para lo cual los Poderes Públicos Estatales y sus instancias, deberán respetar y garantizar, el ejercicio de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en las normas de derechos humanos contenidas en los tratados y convenios internacionales firmados y ratificados por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Oaxaca, en la presente Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### Artículo 3.
 
-Corresponde a los Poderes Públicos Estatales promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas, para lo cual deberán eliminar aquellos obstáculos que limiten en los hechos y en el derecho el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, social y cultural del Estado de Oaxaca. Asimismo, impulsarán y fortalecerán la participación de las entidades públicas y de los particulares en la eliminación de esos obstáculos.
+Corresponde a los Poderes Públicos Estatales promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas, para lo cual deberán eliminar aquellos obstáculos que limiten en los hechos y en el derecho el ejercicio del derecho humano de igualdad en todos los ámbitos de la vida y a la no discriminación e impidan el pleno desarrollo de las personas, así como su efectiva participación en el ámbito político, económico, social y cultural del Estado de Oaxaca. Asimismo, impulsarán y fortalecerán la participación de las entidades públicas y de los particulares en la eliminación de esos obstáculos.
 
 ###### Artículo 4.
 
 La presente Ley tiene los siguientes objetivos:
 
-I. Establecer los principios y criterios que orienten las políticas públicas para reconocer, promover, respetar, proteger y garantizar el derecho a la igualdad y a la no discriminación, así como establecer la coordinación interinstitucional para atender, prevenir, sancionar y eliminar la discriminación;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+I. Establecer los principios y criterios que orienten las políticas públicas para reconocer, promover, respetar, proteger y garantizar el derecho a la igualdad en todos los ámbitos de la vida y a la no discriminación, así como establecer la coordinación interinstitucional para atender, prevenir, sancionar y eliminar la discriminación;
 
 II. Prevenir y eliminar las circunstancias sociales, educativas, económicas, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir alguno o algunos de los derechos humanos de las personas, grupos, pueblos o comunidades, por cualquier motivo;
 
@@ -85,13 +89,19 @@ III. Comisión: Comisión para Atender, Prevenir y Eliminar la Discriminación d
 
 IV. Comunidad LGBTTTI: Personas o grupos de Lesbianas, Gays, Bisexuales, Travestis, Transexuales, Transgénero e Intersexuales;
 
-V. Equidad de género: Concepto que se refiere al principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida civil, política, económica, social, cultural y familiar;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+V. Igualdad de género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 VI. Estatuto: El Estatuto Orgánico de la Comisión para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca;
 
-VII. Igualdad: Principio que postula el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VIII. Igualdad real de oportunidades: Principio sustantivo para acceder al igual disfrute de derechos, por la vía de las normas y los hechos;
+VII. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII. Igualdad real de oportunidades: Es el acceso que tienen las personas o grupos de personas al igual disfrute de derechos, por la vía de las normas y los hechos, para el disfrute de sus derechos.
 
 IX. Ley: La Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca;
 
@@ -113,7 +123,9 @@ Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o an
 
 Se entenderá por discriminación: toda distinción, exclusión, restricción o preferencia, por acción u omisión, con intención o sin ella, que no sea objetiva, racional ni proporcional y que, basada en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, preferencia sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud o jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
 
-También se entenderá como discriminación la homofobia, misoginia, lesbofobia, transfobia, cualquier manifestación de xenofobia, antisemitismo, así como de discriminación racial y de otras formas conexas de intolerancia.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+También se entenderá como discriminación la homofobia, misoginia, lesbofobia, transfobia, cualquier manifestación de xenofobia, antisemitismo, así como de discriminación racial y de otras formas conexas de intolerancia, incluyendo el impedimento del acceso a la participación en el ámbito político.
 
 ###### Artículo 7.
 
@@ -215,9 +227,11 @@ V. Respeto a la dignidad;
 
 VI. Integración a todos los ámbitos de la vida;
 
-VII. Accesibilidad; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VIII. Equidad.
+VII. Accesibilidad.
+
+VIII. (DEROGADA, P.O. 13 DE ABRIL DE 2018)
 
 ###### Artículo 11.
 
@@ -285,7 +299,9 @@ XIV. Promover y garantizar la igualdad de trato y acceso a oportunidades en los 
 
 XV. Asegurar el acceso a todos los servicios públicos a cargo del Gobierno del Estado de Oaxaca;
 
-XVI. Sensibilización y capacitación en materia de no discriminación, equidad de género, igualdad de oportunidades y respeto a la diversidad, dirigida a los particulares;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XVI. Sensibilización y capacitación en materia de no discriminación, igualdad de género, igualdad de oportunidades y respeto a la diversidad, dirigida a los particulares;
 
 XVII. Informar sobre los mecanismos legales de exigencia y efectividad del derecho humano a la igualdad y no discriminación de la presente Ley en lenguaje accesible incluyendo lenguas indígenas, lengua de Señas Mexicana, Sistema de Escritura Braille y otras formas de comunicación no verbal;
 
@@ -619,9 +635,11 @@ La o el Secretario Técnico de la Junta de Gobierno, elaborará el acta de cada 
 
 De la Dirección General.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### Artículo 35.
 
-El titular de la Dirección General de la Comisión, será designado y removido, en su caso, por el titular del Poder Ejecutivo Estatal, bajo los principios constitucionales y legales de idoneidad, experiencia, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
+El Titular de la Dirección General de la Comisión, será designado y removido, en su caso, por el Titular del Poder Ejecutivo Estatal, bajo los principios constitucionales y legales de idoneidad, experiencia, honorabilidad, igualdad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
 
 ###### Artículo 36.
 
@@ -1126,3 +1144,11 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 Al C...
 
 NOTA: Las presentes firmas corresponden al Decreto Núm. 2086, aprobado por la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba se expide la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1371.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
