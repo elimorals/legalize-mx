@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2011-01-24"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
 
-LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
+LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -89,7 +89,7 @@ IX.- Principio de Subsidiaridad y Complementariedad.- Tiene por objeto garantiza
 
 X.- Pueblos Indígenas.- Colectividades humanas, descendientes de poblaciones que al inicio de la colonización, habitaban en el territorio de la Entidad, las que han dado continuidad histórica a las instituciones políticas, económicas, sociales y culturales que poseían sus ancestros antes de la conformación del Estado de Puebla, que afirman libre y voluntariamente su pertenencia a cualquiera de los Pueblos señalados en el artículo 2 de esta Ley;
 
-XI.- Sistemas Normativos Internos.- Es el conjunto de usos y costumbres que los Pueblos y Comunidades Indígenas reconocen como validos para regular sus actos públicos y privados; los que sus autoridades comunitarias aplican para la resolución de sus conflictos y para la regulación de su convivencia;
+XI.- Sistemas Normativos Internos.- Es el conjunto de usos y costumbres que los Pueblos y Comunidades Indígenas reconocen como válidos para regular sus actos públicos y privados; los que sus autoridades comunitarias aplican para la resolución de sus conflictos y para la regulación de su convivencia;
 
 XII.- Territorio Indígena.- Es la porción del territorio estatal que define el ámbito espacial natural, social y cultural en donde se asientan y desenvuelven los Pueblos y Comunidades Indígenas; en ella, expresan su forma específica de relación con el mundo sin detrimento alguno de la Soberanía del Estado de Puebla, ni de la autonomía de sus municipios; y
 
@@ -129,7 +129,7 @@ a) Reconocer, proteger y respetar los sistemas normativos internos, los valores 
 
 b) Adoptar, con la participación y cooperación de los Pueblos interesados, medidas encaminadas a allanar las dificultades que experimenten dichos Pueblos al afrontar nuevas condiciones de vida y trabajo; y
 
-c) Reconocer los sistemas normativos internos en el marco jurídico general en correspondencia con los principios generales del derecho, el respeto a las garantías individuales y a los derechos sociales;
+c) Reconocer los sistemas normativos internos en el marco jurídico general en correspondencia con los principios generales del derecho, el respeto a las garantías individuales y a los derechos sociales,
 
 II.- Los Poderes Ejecutivo y Legislativo del Estado de Puebla y los Ayuntamientos deberán:
 
@@ -173,7 +173,7 @@ Se reconocen las formas de organización internas de los Pueblos y Comunidades I
 
 Queda prohibida cualquier expulsión de indígenas de sus Comunidades, sea cual fuere la causa con que pretenda justificarse, especialmente por motivos religiosos, políticos o ideológicos.
 
-El Poder Ejecutivo del Estado, encauzará y fomentará el dialogo en las Comunidades donde se presenten este tipo de conflictos y promoverá la celebración de convenios que aseguren la conciliación y el retorno pacífico, así como la integración comunitaria de quienes hayan sufrido las expulsiones.
+El Poder Ejecutivo del Estado, encauzará y fomentará el diálogo en las Comunidades donde se presenten este tipo de conflictos y promoverá la celebración de convenios que aseguren la conciliación y el retorno pacífico, así como la integración comunitaria de quienes hayan sufrido las expulsiones.
 
 ###### ARTÍCULO 16.
 
@@ -192,6 +192,10 @@ El Estado proporcionará la información, la capacitación, la difusión y el di
 ###### ARTÍCULO 19.
 
 Las mujeres deberán contar con las mismas oportunidades que los hombres para el desempeño de las funciones de representación comunitaria. El Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia y a través de las dependencias que correspondan, establecerán programas de capacitación y acciones de política pública para las mujeres indígenas, a fin de que estén en condiciones de ejercer sus derechos.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+De igual forma se establecerán las condiciones necesarias para que las mujeres indígenas accedan a las políticas públicas de prevención del delito por razones de género, a efecto de que ejerciten sus derechos ante el sistema de justicia estatal, sin discriminación alguna por su origen étnico.
 
 ###### ARTÍCULO 20.
 
@@ -445,7 +449,7 @@ En regiones con mayor población indígena, se podrá determinar la creación de
 
 ###### ARTÍCULO 68.
 
-Los miembros de los Pueblos y Comunidades indígenas en el Estado de Puebla tienen derecho a la salud, el Estado garantizará el acceso efectivo a los servicios de salud y asistencia social sin discriminación alguna.
+Los miembros de los Pueblos y Comunidades Indígenas en el Estado de Puebla tienen derecho a la salud, el Estado garantizará el acceso efectivo a los servicios de salud y asistencia social sin discriminación alguna.
 
 ###### ARTÍCULO 69.
 
@@ -522,3 +526,15 @@ Dentro del plazo de un año, a partir de que entre en vigor esta Ley, las Comuni
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELIA TAPIA VARGAS.- Rúbrica.- Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 135 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
