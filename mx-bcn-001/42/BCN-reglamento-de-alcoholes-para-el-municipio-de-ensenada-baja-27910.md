@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2018-02-16"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -769,63 +769,73 @@ Para el caso de la expedición de permisos eventuales que soliciten las Juntas d
 
 Para determinar el otorgamiento de permisos permanentes, el Ayuntamiento deberá tomar en cuenta además del expediente integrado por el Departamento de Comercio, Alcoholes y Espectáculos Públicos, el número de establecimientos con el mismo giro en el área, las condiciones sociales y económicas de sus habitantes, el impacto social y el desarrollo proyectado de la zona.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 36.
 
 Para la expedición de los permisos permanentes el solicitante deberá de reunir los siguientes requisitos:
 
-I.- Solicitud dirigida al Presidente Municipal que contengan los siguiente (sic) datos:
+I. Solicitud dirigida al Presidente Municipal que contengan los siguientes datos:
 
-a).- Nombre del solicitante, domicilio y teléfono.
+a) Nombre del solicitante, domicilio y teléfono.
 
-b).- Domicilio del establecimiento y sus entrecalles.
+b) Domicilio del establecimiento y sus entrecalles.
 
-c).- Giro solicitado.
+c) Giro solicitado.
 
-d).- Área de servicio expresada en metros cuadrados, en donde se atenderá al cliente para venta o consumo de bebidas alcohólicas.
+d) Área de servicio expresada en metros cuadrados, en donde se atenderá al cliente para venta o consumo de bebidas alcohólicas.
 
-e).- Monto de la inversión.
+e) Monto de la inversión.
 
-f).- Numero de empleados.
+f) Número de empleados.
 
-II.- Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos.
+II. Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos.
 
-III.- En caso de que el solicitante sea persona física presentar identificación oficial y si es representada por Apoderado Legal, deberá acreditar la personalidad con la que comparece conforme a los lineamientos establecidos por el derecho común para la representación.
+III. En caso de que el solicitante sea persona física presentar identificación oficial y si es representada por Apoderado Legal, deberá acreditar la personalidad con la que comparece conforme a los lineamientos establecidos por el derecho común para la representación.
 
-IV.- Cuando se trate de persona moral, presentar acta constitutiva, además de acompañar poder notarial si el tramite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad.
+IV. Cuando se trate de persona moral, presentar acta constitutiva, además de acompañar poder notarial si el trámite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad.
 
-V.- Presentar la cédula del Registro Federal de Contribuyentes y la Clave Única de Registro de Población (CURP).
+V. Presentar la cédula del Registro Federal de Contribuyentes y la Clave Única de Registro de Población (CURP).
 
-VI.- Constancia de la Autoridad Estatal de Salud o dependencia que corresponda.
+VI. Constancia de la Autoridad Estatal de Salud o dependencia que corresponda.
 
-VII.- Licencia de uso de suelo.
+VII. Licencia de uso de suelo.
 
-VIII.- Anexar croquis o plano en el cual se establezca la ubicación del establecimiento, señalándose la distancia existente a la entrada principal de Centros Educativos, Templos, Hospitales, Centros de Salud, Clínicas e Instituciones de beneficencia o negocios con giros cuya modalidad sea igual o semejante.
+VIII. Anexar croquis o plano en el cual se establezca la ubicación del establecimiento, señalándose la distancia existente a la entrada principal de Centros Educativos, Templos, Hospitales, Centros de Salud, Clínicas e Instituciones de beneficencia o negocios con giros cuya modalidad sea igual o semejante.
 
-IX.- Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias.
+IX. Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2017)</small>
+X. En el caso de terrenos baldíos, o predios que reúnan los requisitos de este reglamento para un establecimiento para la venta o almacenaje de bebidas con graduación alcohólica, con excepción del local, pero que se pretenda construir el local para tal efecto, se deberá presentar el proyecto de obra los planos, programas y tiempo de construcción, mismo que no deberá de ser mayor a ciento veinte días. El tiempo límite de ciento veinte días se podrá prorrogar por otros noventa días, por causa justificada, a juicio del Departamento de Comercio, Alcoholes y Espectáculos Públicos. El Jefe de Departamento de Comercio, Alcoholes y Espectáculos Públicos podrá de (sic) emitir una resolución de pre-factibilidad, si se cumple con todos los requisitos que se establecen en el presente artículo, antes de iniciar la construcción del local.
 
-X.- En el caso de terrenos baldíos, o predios que reúnan los requisitos de este reglamento para un establecimiento para la venta o almacenaje de bebidas con graduación alcohólica, con excepción del local, pero que se pretenda construir el local para tal efecto, se deberá presentar el proyecto de obra los planos, programas y tiempo de construcción, mismo que no deberá de ser mayor a ciento veinte días. El tiempo límite de ciento veinte días se podrá prorrogar por otros noventa días, por causa justificada, a juicio del Departamento de Comercio, Alcoholes y Espectáculos Públicos. El Jefe de Departamento de Comercio, Alcoholes y Espectáculos Públicos podrá de (sic) emitir una resolución de pre-factibilidad, si se cumple con todos los requisitos que se establecen en el presente artículo, antes de iniciar la construcción del local.
+XI. Certificado de Medidas de Seguridad, emitido por la Dirección de Bomberos y Protección Civil.
 
-XI.- Certificado de Medidas de Seguridad, emitido por la Dirección de Bomberos y Protección Civil.
+XII. Título de propiedad, promesa de venta, promesa de arrendamiento o contrato de arrendamiento. En este último caso deberá contar con el consentimiento del propietario del inmueble.
 
-XII.- Titulo de propiedad, promesa de venta, promesa de arrendamiento o contrato de arrendamiento. En este último caso deberá contar con el consentimiento del propietario del inmueble.
+XIII. Certificado de no adeudo o libertad de gravámenes municipales vigente expedido por la Tesorería Municipal, a nombre del propietario del inmueble donde se vaya (sic) establecer el giro.
 
-XIII.- Certificado de no adeudo o libertad de gravámenes municipales vigente expedido por la Tesorería Municipal, a nombre del propietario del inmueble donde se vaya establecer el giro.
+XIV. Tratándose de, personas físicas, carta de no antecedentes penales y carta de residencia de por lo menos cinco años.
 
-XIV.- Tratándose de, personas físicas, carta de no antecedentes penales y carta de residencia de por lo menos cinco años.
+XV. El pago de los derechos correspondientes de acuerdo a la Ley de Ingresos vigente para el municipio de Ensenada.
 
-XIV (SIC).- El pago de los derechos correspondientes de acuerdo a la Ley de Ingresos vigente para el municipio de Ensenada.
+XVI. Contar con un seguro de responsabilidad civil para cubrir a los usuarios tanto en su persona como en sus bienes, en los casos en que así lo establezca la Ley de Protección Civil y sus disposiciones reglamentarias. En todo caso será responsable por negligencia o incumplimiento en la prestación del servicio, salvo causa de fuerza mayor o caso fortuito.
 
-XV.- Contar con un seguro de responsabilidad civil para cubrir a los usuarios tanto en su persona como en sus bienes, en los casos en que así lo establezca la Ley de Protección Civil y sus disposiciones reglamentarias. En todo caso será responsable por negligencia o incumplimiento en la prestación del servicio, salvo causa de fuerza mayor o caso fortuito.
+XVII. A solicitud del Presidente Municipal, escrito firmado por los vecinos del área donde se pretenda establecer el establecimiento mercantil, en el que se establezca que no se oponen (sic) la operación del giro comercial; y,
 
-XVI.- A solicitud del Presidente Municipal, escrito firmado por los vecinos del área donde se pretenda establecer el establecimiento mercantil, en el que se establezca que no se oponen la operación del giro comercial; y,
+XVIII.- Dictamen de Seguridad Pública que deberá contener los siguientes rubros:
 
-> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2018)</small>
+I.- Antecedentes de la solicitud de permiso nuevo
 
-XVII.- Si en el establecimiento comercial que se pretenda ubicar existe eminente afectación en un radio de 100 metros, el solicitante deberá presentar la aprobación de los vecinos por escrito que deberá contener las identificaciones que acrediten residencia cercana al establecimiento.
+II.- Técnica utilizada para determinar el grado de afectación de la paz y tranquilidad pública
 
-XVIII.- Los demás requisitos establecidos en este Reglamento, la Ley y demás ordenamientos municipales.
+III.- Observaciones realizadas por porte del inspector adscrito de la Dirección de Seguridad Pública
+
+IV.- Consideraciones o sugerencias de la Dirección de Seguridad Pública
+
+V.- Índice de la actividad delictiva de la zona en donde esté ubicado el establecimiento y;
+
+VI.- Conclusión del grado de afectación de la paz y tranquilidad pública, de la Dirección de Seguridad Pública.
+
+XIX. Los demás requisitos establecido (sic) en este Reglamento, la Ley y demás ordenamientos municipales
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -1696,3 +1706,9 @@ P.O. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DEL REGLAMENTO PARA ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- LA REFORMA DEL ARTÍCULO 36 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
