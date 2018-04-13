@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2018-04-06"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "REG_SENADO"
 ---
 # REGLAMENTO DEL SENADO DE LA REPUBLICA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -2216,27 +2218,33 @@ Artículo 211
 
 ### CAPITULO SEXTO. DE LOS PLAZOS PARA EMITIR DICTAMEN
 
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+
 Artículo 212
 
 1. Las iniciativas y proyectos turnados a comisiones son dictaminados dentro de un plazo no mayor a treinta días hábiles contados a partir del siguiente al de la recepción del turno, con las salvedades que establece este Reglamento.
 
-2. Cuando la trascendencia o la complejidad de una iniciativa o proyecto lo hagan conveniente, la Mesa puede disponer un plazo mayor al señalado en el párrafo anterior.
+2. Cuando la trascendencia o la complejidad de una iniciativa o proyecto lo hagan conveniente, la Mesa podrá otorgar un plazo mayor al señalado en el párrafo anterior.
 
-3. De igual forma, dentro de los diez días hábiles posteriores a la recepción del turno, las comisiones dictaminadoras pueden pedir al Presidente, mediante escrito fundado y motivado, la ampliación de los plazos señalados en este artículo hasta por la mitad del tiempo que les haya correspondido. La Mesa resuelve lo conducente e informa al Pleno en la siguiente sesión.
+3. Dentro del mismo plazo mencionado en el numeral 1 de este artículo, las comisiones dictaminadoras pueden pedir al Presidente, mediante escrito fundado y motivado, la ampliación de los plazos señalados en este artículo hasta por sesenta días hábiles, siendo posible sólo una prórroga otorgada. La Mesa deberá resolver lo conducente en plazo no mayor a cinco días hábiles a partir de la recepción del escrito e informar al Pleno en la siguiente sesión.
 
-4. Para efectos del cómputo de los plazos para dictaminar, los días hábiles incluyen los recesos legislativos, en los términos de este Reglamento.
+4. Para efectos del cómputo de los plazos mencionados, los días hábiles incluyen los recesos legislativos, en los términos de este Reglamento.
+
+5. El plazo máximo para dictaminar tratándose de lo previsto por el párrafo 2 del presente artículo, no podrá exceder de trescientos sesenta y cinco días naturales, a partir de la fecha en que fue turnada a la comisión coordinadora respectiva.
 
 Artículo 213
 
 1. Cuando la Constitución, las leyes o los decretos establecen plazos, términos o mecanismos específicos para la expedición de determinados ordenamientos, las comisiones dictaminadoras deben tomarlos en consideración para efectos de la planeación de sus trabajos, en lo que corresponde al Senado.
 
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+
 Artículo 214
 
-1. Transcurridos veinte días hábiles del plazo para dictaminar, el Presidente emite directamente excitativa a las comisiones que corresponda, en los términos del artículo 67, párrafo 1, inciso g), de la Ley. De haberse establecido un plazo mayor, la excitativa se hará cuando transcurran las dos terceras partes del mismo.
+1. Si transcurre el plazo para dictaminar mencionado en los numerales 1, 2 y 3 del artículo 212, sin que se emita dictamen, el Presidente de la Mesa Directiva, dentro de los siguientes diez días hábiles, deberá emitir excitativa a la comisión que corresponda, para que presente su dictamen en un último plazo de veinte días hábiles.
 
-2. Si transcurre el plazo y, en su caso, la prórroga, sin que se emita dictamen, los senadores pueden solicitar al Presidente se excite nuevamente a las comisiones a hacerlo; el Presidente establece un nuevo plazo de diez días hábiles para dar cumplimiento a la excitativa.
+2. Lo anterior, sin menoscabo de que cualquier senador podrá solicitar al Presidente de la Mesa Directiva que emita la excitativa correspondiente, conforme a los plazos mencionados.
 
-3. En los casos de iniciativas presentadas por otros sujetos con derecho a ello o de los proyectos enviados por la Cámara de Diputados, las excitativas pueden ser solicitadas por el senador que así lo estima pertinente.
+3. En los casos de iniciativas presentadas por otros sujetos con derecho a ello o de los proyectos enviados por la Cámara de Diputados, las excitativas pueden ser solicitadas por el senador que así lo estime pertinente.
 
 Artículo 215
 
@@ -2260,13 +2268,23 @@ IV. Comisión o comisiones a las que se turnó la iniciativa, proyecto o proposi
 
 3. El Presidente de la comisión que coordina los trabajos de dictamen informa al Presidente el estado que guarda el asunto respectivo.
 
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+
 Artículo 217
 
-1. Vencidos los plazos y prórrogas sin que se presente dictamen ni exista causa justificada para ello, a solicitud del o los proponentes, el Presidente por única vez reasigna el turno dirigiéndolo a la comisión o comisiones dictaminadoras que resulten pertinentes. El plazo para dictaminar no es mayor a treinta días hábiles, sin posibilidad de prórroga.
+1. Vencidos los plazos y prórrogas sin que se presente dictamen ni exista causa justificada para ello se tendrá por precluida la facultad de la comisión para hacerlo.
 
-2. En los casos de las iniciativas, proyectos o proposiciones presentados por los otros sujetos legitimados para ello, distintos a los senadores, el Presidente procede en los términos señalados en el párrafo anterior.
+2. Una vez precluido el derecho de la comisión coordinadora para presentar su dictamen, el Presidente de la Mesa Directiva comunicará por escrito a la comisión que resulte pertinente para que proceda a la elaboración del dictamen en el plazo improrrogable de veinte días hábiles.
 
-3. Cuando las comisiones a las que se reasignó el turno no presentan dictamen en el plazo establecido, el Presidente les retira inmediatamente el asunto y en sus términos lo somete directamente al Pleno, a más tardar en alguna de las dos sesiones ordinarias siguientes. En la tramitación de estos asuntos ante el Pleno se observan las reglas aplicables a los dictámenes, previstas en la Ley y este Reglamento.
+3. Si transcurrido dicho plazo no se emitiera dictamen el Presidente de la Mesa Directiva instruirá la publicación de la iniciativa o proyecto en la Gaceta Parlamentaria con el señalamiento de que dicha iniciativa o proyecto no han sido dictaminados.
+
+4. En los casos de las iniciativas o proyectos presentados por los otros sujetos legitimados para ello, distintos a los senadores, el Presidente procederá en los términos señalados en el párrafo anterior.
+
+5. En el caso de las iniciativas a que se refiere la fracción IV del artículo 71 de la Constitución la Mesa Directiva resolverá lo conducente.
+
+6. A partir de la publicación en la Gaceta Parlamentaria de la iniciativa o proyecto no dictaminados, la Mesa Directiva dentro de las tres sesiones ordinarias siguientes, deberá incluir dicha iniciativa o proyecto en el Orden del día, en los términos que fueron presentados y someterlos a discusión y votación del Pleno en la sesión que corresponda a la inclusión del Orden del día de dichos asuntos
+
+7. En la tramitación de estos asuntos ante el Pleno se observarán las reglas aplicables a los dictámenes, previstas en la Constitución, en la Ley y este Reglamento.
 
 Artículo 218
 
@@ -3341,3 +3359,11 @@ D.O.F. 6 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 73 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 212, 214 Y 217 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
