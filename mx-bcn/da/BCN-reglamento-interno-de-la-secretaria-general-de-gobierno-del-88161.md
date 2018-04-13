@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-general-de-gobierno-del-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-01"
-last_updated: "2018-01-19"
+last_updated: "2018-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -91,17 +91,27 @@ H) Unidad Estatal de Asuntos Agrarios y Tenencia de la Tierra.
 
 III. Subsecretaría Jurídica.
 
-A) Dirección Jurídica de Asesoría al Ejecutivo.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO P.O. DE 13 DE ABRIL DE 2018, SE ADVIERTE QUE EL CONTENIDO DE LOS ANTERIORES INCISOS A) Y B) SE FUSIONARON EN EL ACTUAL A).]</small>
 
-B) Dirección Jurídica de Normatividad Administrativa.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
-C) Dirección del Archivo General de Notarías.
+A) Dirección Jurídica de Consulta y Normatividad
 
-D) Dirección del Registro Civil.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
-E) Dirección Jurídica Contenciosa.
+B) Dirección del Archivo General de Notarias.
 
-F) Dirección Jurídica Contenciosa Tijuana.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+C) Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+D) Dirección Jurídica Contenciosa.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+E) Dirección Jurídica Contenciosa Tijuana.
 
 IV. Subsecretaría de Gobierno para Asuntos legislativos.
 
@@ -132,6 +142,14 @@ A) Delegación San Quintín.
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2017)</small>
 
 VIII. Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ABRIL DE 2018)</small>
+
+IX. Órgano interno de control.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ABRIL DE 2018)</small>
+
+X. Comisión Local de Búsqueda.
 
 ###### ARTÍCULO 3.
 
@@ -911,73 +929,57 @@ XXII. Delegar en sus funcionarios subalternos, de conformidad con lo previsto en
 
 XXIII. Las demás que les sean encomendadas por el Secretario, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 33.
 
-Se adscriben a la Subsecretaría Jurídica las Direcciones Jurídica de Asesoría al Ejecutivo, Jurídica de Normatividad Administrativa, del Archivo General de Notarías, del Registro Civil, Jurídica Contenciosa Mexicali y Jurídica Contenciosa Tijuana.
+Se adscriben a la Subsecretaría Jurídica las Direcciones del Archivo General de Notarías, del Registro Civil, Jurídica de Consulta y Normatividad, Jurídica Contenciosa y Jurídica Contenciosa Tijuana.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección Jurídica de Asesoría al Ejecutivo, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Dictaminar si los asuntos que le corresponde atender y que competen al Ejecutivo del Estado, se apegan a los principios de constitucionalidad y legalidad;
-
-II. Emitir opinión respecto de las consultas jurídicas que le sean planteadas por las Dependencias y Entidades de la Administración Pública Estatal, en las materias que no se encuentren encomendadas a otras Dependencias o unidades administrativas;
-
-III. Formular opinión sobre la legalidad de los proyectos de contratos, convenios, acuerdos, iniciativas y decretos que le encomiende el Subsecretario Jurídico o que les sean solicitadas por las Dependencias y Entidades de la Administración Pública Estatal;
-
-IV. Elaborar, atender y dar seguimiento a los proyectos relacionados con los asuntos jurídicos que le sean encomendados por el Subsecretario Jurídico;
-
-V. Coordinarse con las Dependencias, Entidades y unidades administrativas que corresponda, para la atención y seguimiento de los asuntos que requieran de su intervención:
-
-VI. Validar, cuando corresponda, y participar en la elaboración de los proyectos de contratos, convenios acuerdos iniciativas y decretos que sean sometidos a su opinión y que se requieran para la buena marcha de la Administración Pública Estatal;
-
-VII. Revisar que los instrumentos que así lo requieran, cuenten con el dictamen, opinión validación favorable de las Dependencias, Entidades o unidades administrativas que correspondan; y,
-
-XVII (SIC). Las demás que le sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
-
-La Dirección Jurídica de Asesoría al Ejecutivo contará con los servidores públicos que se consideren necesarios para el desempeño de sus funciones y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que se les instruya el superior inmediato.
-
-###### ARTÍCULO 35.
-
-Corresponde a la Dirección Jurídica de Normatividad Administrativa, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección Jurídica de Consulta y Normatividad, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
 I. Vigilar que en los asuntos de orden jurídico-administrativo que competen al Ejecutivo del Estado, se observen los principios de constitucionalidad y legalidad;
 
-II. Emitir opinión jurídica respecto de las consultas que en materia de reglamentos internos, decretos le sean planteadas por el Subsecretario Jurídico y en su caso, por las Dependencias y Entidades de las Administración Pública Estatal;
+II. Prestar apoyo técnico jurídico, emitir opinión y resolver las consultas que en materia de reglamentos internos, proyectos de contratos, convenios, cartas de intención, memorándums de entendimiento, acuerdos, iniciativas y decretos, le sean planteadas por el Subsecretario Jurídico y en su caso, por las Dependencias y Entidades de las (sic) Administración Pública Estatal;
 
-III. Formular y dar seguimiento a los proyectos de reglamentos internos, decretos y acuerdos de la Administración Pública Estatal que le encomiende el Subsecretario Jurídico, así como validar los mismos en su caso;
+III. Formular, dar seguimiento y en su caso validar los proyectos de reglamentos internos, contratos, convenios, cartas de intención, memorándums de entendimiento, acuerdos, iniciativas y decretos de la Administración Pública Estatal que le encomiende el Subsecretario Jurídico;
 
-IV. Validar y participar en la elaboración de los proyectos de reglamentos internos, decretos y acuerdos que sean necesarios para la buena marcha de la Administración Pública Estatal;
+IV. Coordinarse con las Dependencias, Entidades y unidades administrativas que correspondan, para la atención y seguimiento de los asuntos que requieran de su intervención;
 
-V. Realizar la revisión jurídica de los proyectos sometidos a su consideración y formular las observaciones y dictámenes conducentes, ya sea por escrito o en reuniones de trabajo con la Dependencia, Entidad u organismo promovente, previa validación u opinión del Área Jurídica del promovente;
+V. Convocar a las Dependencias, Entidades u órganos involucrados en un proyecto jurídico, a las reuniones de trabajo que se estimen necesarias, a efecto de facilitar su comprensión y análisis, intercambiar puntos de vista y alcanzar los acuerdos y determinaciones requeridos respecto del criterio jurídico aplicable;
 
-VI. En su caso, convocar a las Dependencias, Entidades u órganos involucrados en un proyecto jurídico, a las reuniones de trabajo que se estimen necesarias, a efecto de facilitar su comprensión y análisis, intercambiar puntos de vista y alcanzar los acuerdos y determinaciones requeridos respecto del criterio jurídico aplicable;
+VI. Definir métodos, prioridades proyectos y lineamientos que garanticen el eficiente ejercicio de las acciones de la Dirección;
 
-VII. Definir métodos, prioridades proyectos y lineamientos que garanticen el eficiente ejercicio de las acciones de la Dirección; así como impulsar la cooperación y la integración progresiva y armónica de las distintas unidades administrativas adscritas a la Subsecretaría Jurídica;
+VII. Definir y unificar políticas para propiciar la sistematización y coordinación en materia jurídica, dentro de la Subsecretaría Jurídica y de la Administración Pública Estatal cuando así se requiera;
 
-VIII. Definir y unificar políticas para propiciar la sistematización y coordinación en materia jurídica, dentro de la Subsecretaría Jurídica y de la Administración Pública Estatal cuando así se requiera;
+VIII. Coordinar los programas de normatividad jurídica, procurando la congruencia de los criterios jurídicos de las Dependencias y Entidades de la Administración Pública Estatal, interviniendo en la modernización, innovación, actualización y simplificación de la normatividad administrativa;
 
-IX. Coordinar los programas de normatividad jurídica, procurando la congruencia de los criterios jurídicos de las Dependencias y Entidades de la Administración Pública Estatal, interviniendo en la actualización y simplificación del marco normativo;
+IX. Participar y coordinar cuando así se requiera, en los programas de normatividad jurídica que apruebe el Ejecutivo del Estado, propiciando y coadyuvando en la elaboración e implementación de manuales y políticas de trabajo;
 
-X. Participar y coordinar cuando así se requiera, los programas de normatividad jurídica que apruebe el Ejecutivo del Estado, propiciando y coadyuvando en la elaboración e implementación de manuales y políticas de trabajo;
+X. Proponer al Secretario, por conducto del Subsecretario Jurídico, los estudios que permitan actualizar, mejorar y simplificar el marco jurídico y operacional de la Administración Pública Estatal;
 
-XI. Proponer al Secretario, por conducto del Subsecretario Jurídico, los estudios que permitan actualizar, mejorar y simplificar el marco jurídico y operacional de la Administración Pública Estatal;
+XI. Revisar previo a la validación del Subsecretario Jurídico y firma del Secretario, que los instrumentos jurídicos que así lo requieran, cuenten con el dictamen, opinión o validación favorable de las Dependencias o unidades administrativas según corresponda;
 
-XII. Coordinarse con las Dependencias, Entidades y unidades administrativas que corresponda, para la atención y seguimiento de los asuntos que requieran de su intervención;
+XII. Fijar, unificar y proponer al Subsecretario Jurídico los criterios de interpretación y de aplicación de los instrumentos jurídico-administrativo que norme el funcionamiento de la Secretaría;
 
-XIII. Conocer de los asuntos que le corresponda atender a las demás unidades administrativas adscritas a la Subsecretaría Jurídica, cuando así sea requerido por el Subsecretario Jurídico;
+XIII. Realizar los estudios y proyectos jurídicos tendientes al mejoramiento, adecuación y fortalecimiento de los principios de constitucionalidad, legalidad, seguridad y certeza jurídica de las diversas funciones a cargo de la Administración Pública Estatal, que le solicite el Subsecretario Jurídico;
 
-XIV. Revisar previo a la validación del Subsecretario Jurídico y firma del Secretario, que los instrumentos jurídicos-administrativo q (sic) si lo requieran, cuenten con el dictamen, opinión o validación favorable de las Dependencias o unidades administrativas según corresponda;
+XIV. Expedir, cuando proceda, copias certificadas de los documentos que obren en los archivos de la Dirección;
 
-XV. Fijar, unificar y proponer al Subsecretario Jurídico los criterios de interpretación y de aplicación de los instrumentos jurídico-administrativo que norme el funcionamiento de la Secretaría;
+XV. Recibir, compilar, analizar e integrar la información y documentación jurídica que se requiera para elaborar los proyectos de nombramientos de los servidores públicos de la administración pública estatal;
 
-XVI. Apoyar en el desarrollo del Sistema Integral de Normatividad Estatal, verificando su constante actualización;
+XVI. Dictaminar la procedencia de emitir Acuerdos Delegatorios de facultades u Oficios de instrucción para la representación del Ejecutivo Estatal en contratos, convenios, cartas de intención o memorándums de entendimiento, y demás instrumentos jurídicos en que participe el Ejecutivo Estatal;
 
-XVII. Realizar las investigaciones jurídicas, así como los estudios y proyectos jurídicos tendientes al mejoramiento, adecuación y fortalecimiento de los principios de constitucionalidad, legalidad, seguridad y certeza jurídica de las diversas funciones a cargo de la Administración Pública Estatal, que le solicite el Subsecretario Jurídico; y,
+XVII. Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
 
-XVIII. Las demás que les sean encomendadas por el superior inmediato, y aquellas que les confieran las leyes, reglamentos y demás disposiciones aplicables.
+La Dirección Jurídica de Consulta y Normatividad contará con el personal que se considere necesario para el desempeño de sus funciones y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que se (sic) les instruya el superior inmediato.
 
-La Dirección Jurídica de Normatividad Administrativa contará con los servidores públicos que se consideren necesarios para el desempeño de sus funciones y que se autoricen en el presupuesto de egresos vigente, los cuales tendrán a su cargo la atención y despacho de los asuntos que se les instruya el superior inmediato.
+###### ARTÍCULO 35.
+
+(DEROGADO, P.O. 13 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 36.
 
@@ -1419,6 +1421,120 @@ XIV.- Las demás que les sean encomendadas por el superior inmediato, y aquellas
 
 La Coordinación Operativa del Sistema de Protección de Niñas, Niños y Adolescentes de Baja California, contará con los recursos humanos y materiales que se consideren necesarios para la atención de los asuntos encomendados y que se autoricen en el presupuesto de egresos vigente.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 TER.- El Órgano Interno de Control de la Secretaría, para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Secretaría y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Secretaría;
+
+III. Revisar que las operaciones presupuestales que realice la Secretaría se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Secretaría que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la Secretaría sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Requerir a terceros que hubieran contratado bienes o servicios con la Secretaría la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+VIII. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+IX. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Secretaría cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+X. Requerir a los servidores públicos de la Secretaría información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XI. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XII. Coadyuvar en el programa de actualización del marco de actuación de la Secretaría en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XIII. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 QUATER.- El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 QUINQUIES.- La Comisión Local de Búsqueda, es el órgano desconcentrado de la Secretaría General de Gobierno, que tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas desaparecidas y no localizadas, en el Estado, de conformidad con lo dispuesto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 SEXIES.- El Titular de la Comisión Local de Búsqueda, será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario General de Gobierno, previa realización de una consulta pública, a los colectivos de víctimas, persona (sic) expertas y organismos de la sociedad civil especializadas en la materia o académicos, en los términos del presente Reglamento.
+
+En el nombramiento del Titular de la Comisión Local de Búsqueda, debe garantizarse el respeto a los principio (sic) de promoción, respeto, protección y garantía de los derechos humanos establecidos por la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 SEPTIES.- Para ser titular de la Comisión Local de Búsqueda, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+
+III. Contar con título profesional;
+
+IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
+
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de desaparición forzada de personas y desaparición cometida por particulares, por lo menos en los dos años previos a su nombramiento, y
+
+VI. Contar con una buena reputación, conocimientos y experiencia, de por lo menos 10 años, en políticas públicas, derechos humanos y búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal.
+
+La persona titular de la Comisión Local de Búsqueda no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 OCTIES.- Para la consulta pública a la que se hace referencia en el artículo 55 SEXIES, la Secretaría General de Gobierno deberá observar, como mínimo, las siguientes bases:
+
+I. Publicar convocatoria en un diario de mayor circulación en el Estado y en el Periódico Oficial del Estado, para que en el término de 10 días hábiles, colectivos de víctimas, personas expertas, organismos de la sociedad civil especializadas en la materia o académicos, presenten por escrito, ya sea de manera conjunta o individual, su propuesta de candidato;
+
+II. La convocatoria señalada en la fracción anterior, deberá establecer como mínimo lo siguiente:
+
+a) Requisitos con los que debe cumplir el candidato, incluyendo la solicitud de la documentación siguiente:
+
+i. Curriculum Vitae del candidato, así como toda aquella con la que se acredite que cuenta con los conocimientos y experiencia suficiente en materia de derechos humanos, búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal;
+
+ii. Exposición de motivos por los cuales quien propone considera al candidato como idóneo para el cargo.
+
+b) Lugar y fecha límite para la presentación de las propuestas de candidato;
+
+c) Las demás que en su caso se consideren necesarias.
+
+III. Una vez recibidas las propuestas, deberá realizarse el registro de la totalidad de los candidatos, para que en un término no mayor de 5 días hábiles, se realice la evaluación de los mismos, en conjunto un representante del Congreso del Estado de Baja California, con la participación de la Comisión Estatal de Derechos Humanos, en calidad de observador; a fin de seleccionar una terna de entre los candidato (sic).
+
+IV. Transcurridos los 5 días señalados en la fracción anterior el Secretario General de Gobierno someterá a elección del Gobernador del Estado, la terna de los candidatos, a fin de que emita el nombramiento correspondiente.
+
+V. Hacer público el nombramiento sobre el Titular de la Comisión Local de Búsqueda, acompañado de una exposición fundada y motivada sobre la idoneidad del candidato elegido.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 NONIES.- La Comisión Local de Búsqueda tiene, además de las atribuciones previstas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, las siguientes:
+
+I. Generar mecanismos de colaboración con la Procuraduría General de Justicia del Estado, para la participación en las investigaciones de personas desaparecidas o no localizadas, así como para en su caso, involucrar a las víctimas indirectas cuando se valoré necesario;
+
+II. Solicitar la intervención de la policía estatal, cuando se considere necesario, a fin (sic) garantizar la seguridad de las acciones que realice en campo, así como la valoración por parte de la Procuraduría General de Justicia del Estado, para la implementación de medidas de protección y providencias precautorias para las víctimas indirectas;
+
+III. Solicitar el apoyo de las autoridades municipales, con la finalidad de activar búsquedas focalizadas y recabar información de la zona;
+
+IV. Promover la celebración de convenios de colaboración con organizaciones académicas y de la sociedad civil expertos en materia de personas desaparecidas o no localizadas, con la finalidad de establecer acciones de capacitación o elaboración de protocolos de actuación, así como apoyo técnico;
+
+V. Solicitar asesoría a la Comisión Nacional de Búsqueda para el mejor cumplimiento de sus facultades;
+
+VI. Tomar las acciones necesarias a efecto de garantizar la búsqueda de personas en todo el territorio del Estado;
+
+VII. Promover, en términos de lo dispuesto en la Ley de Amparo y otras disposiciones legales aplicables, las medidas necesarias para lograr la protección de aquellas personas desaparecidas cuya vida, integridad o libertad se encuentre en peligro, y
+
+VIII. Las demás que prevea las Leyes y Reglamentos aplicables.
+
+La información que la Comisión Local de Búsqueda genere con motivo del ejercicio de sus facultades estará sujeta a las reglas de acceso a la información previstas en la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 55 DECIES.- La Comisión Local de Búsqueda, para realizar sus actividades, contará con un grupo especializado de búsqueda, con personal que realice las funciones en materia de análisis de contexto, y de gestión y procesamiento de información, así como con el demás personal administrativo que le permita atender las funciones previstas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los servidores públicos integrantes de la Comisión Local de Búsqueda deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional de Búsqueda de Personas.
+
 ### CAPÍTULO IX (SIC). DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### ARTÍCULO 56.
@@ -1436,6 +1552,12 @@ Las ausencias de los Directores serán suplidas para el despacho de los asuntos 
 ###### ARTÍCULO 59.
 
 Las ausencias de los Delegados, serán suplidas por los funcionarios que el propio titular designe.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 60.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1474,3 +1596,47 @@ P.O. 9 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas y adiciones al Reglamento Interno de la Secretaría General de Gobierno entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 33, 34, Y 35, Y SE ADICIONA LOS ARTÍCULOS 55-TER, 55-QUATER Y 60 DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos, procedimientos, expedientes en trámite de las Direcciones Jurídica de Asesoría al Ejecutivo y Jurídica de Normatividad Administrativa serán atendidos por la Dirección Jurídica de Consulta y Normatividad.
+
+###### ARTÍCULO TERCERO.
+
+Los servidores públicos adscritos a las Direcciones Jurídica de Asesoría al Ejecutivo y Jurídica de Normatividad Administrativa serán asignados a la Dirección Jurídica de Consulta y Normatividad.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+###### ARTÍCULO QUINTO.
+
+La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 Y SE ADICIONAN LOS ARTÍCULOS 55 QUINQUES, 55 SEXIES, 55 SEPTIES, 55 OCTIES, 55 NOVIES Y 55 DECIES, DEL REGLAMENTO INTERNO DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el nombramiento del Titular de la Comisión Local de Búsqueda la Secretaría General de Gobierno deberá iniciar el procedimiento de consulta pública a que se refiere los artículos 55 SEXIES y 55 OCTIES, a más tardar 30 días de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión Local de Búsqueda iniciará sus funciones a partir del nombramiento de su titular, auxiliándose del personal de la Secretaría General de Gobierno que para tales efectos le sea asignado, hasta en tanto se realicen las modificaciones presupuestales requeridas para la operación de las áreas referidas el (sic) artículo 55 DECIES.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno, realizará las gestiones necesarias a fin de que en los recursos asignados a la referida Secretaría en el Presupuesto de Egresos para el Ejercicio Fiscal 2019, se incorporen los destinados a la Comisión Local de Búsqueda, previéndose los compromisos programáticos y presupuestales requeridos para su operación.
