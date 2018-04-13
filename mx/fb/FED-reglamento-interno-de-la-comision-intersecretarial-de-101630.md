@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-intersecretarial-de-101630"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-07-02"
-last_updated: "2014-07-02"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101630&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-06-23"
 
 REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL DE VIVIENDA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de julio de 2014.
 
@@ -45,7 +45,9 @@ I. Invitados: Los servidores públicos de las dependencias y entidades paraestat
 
 II. Invitados permanentes: el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; el Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo;
 
-III. Presidente: el Titular del Ejecutivo Federal, o en su caso, su suplente el Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, en términos del artículo 33 de la Ley de Vivienda y para los efectos de lo previsto en el artículo Octavo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 2 de enero de 2013, por el cual se promulgó la reforma a la Ley Orgánica de la Administración Pública Federal.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+III. Presidente: el Titular del Ejecutivo Federal, a través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe, en términos del artículo 33 de la Ley de Vivienda (reforma publicada en el Diario Oficial de la Federación el 23 de junio de 2017).
 
 IV. Reglamento: El Reglamento Interno de la Comisión Intersecretarial de Vivienda, y
 
@@ -117,13 +119,21 @@ II. Verificar el quórum para la celebración de las sesiones.
 
 III. Presentar para su aprobación, el Orden del Día de las sesiones.
 
-V (SIC). Proponer la celebración de sesiones extraordinarias.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
 
-VI. Ejercer, en caso de empate, voto de calidad para la aprobación de Acuerdos.
+IV. Proponer la celebración de sesiones extraordinarias.
 
-VIII. Promover y vigilar el cumplimiento de los Acuerdos aprobados en las sesiones.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
 
-IX. Las demás funciones que le encomiende la Comisión Intersecretarial.
+V. Ejercer, en caso de empate, voto de calidad para la aprobación de Acuerdos.
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+VI. Promover y vigilar el cumplimiento de los Acuerdos aprobados en las sesiones.
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+VII. Las demás funciones que le encomiende la Comisión Intersecretarial.
 
 ###### ARTÍCULO 10.
 
@@ -207,7 +217,13 @@ IX. Plazo para ejecutar las propuestas de solución o, en su caso, acuerdos de l
 
 X. Propuesta de acuerdo conclusiva, fundada y motivada.
 
-Los asuntos señalados podrán acompañarse de documentación adicional, que sirva de referencia o apoyo al asunto objeto de acuerdo, para análisis previo. Para facilitar el envío de la información a los miembros, se podrán utilizar medios electrónicos. Invariablemente, la documentación a que refieren los párrafos anteriores, deberá estar clasificada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+Los asuntos señalados podrán acompañarse de documentación adicional, que sirva de referencia o apoyo al asunto objeto de acuerdo, para análisis previo. Para facilitar el envío de la información a los miembros, se podrán utilizar medios electrónicos. De ser el caso la documentación a que refieren los párrafos anteriores pudiera ser clasificada como reservada por el Secretario Ejecutivo, siempre y cuando se ubique en alguno de los supuestos señalados en las Leyes Federal de Transparencia y Acceso a la Información Pública y/o General de Transparencia y Acceso a la Información Pública y atendiendo el proceso que, para realizar la reserva correspondiente, se indica en los citados ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+Los miembros e invitados que asistan a las sesiones de la Comisión están obligados a guardar absoluta confidencialidad respecto de la información que en la misma sea tratada.
 
 ###### ARTÍCULO 16.
 
@@ -259,31 +275,43 @@ Para que se lleven a cabo las reuniones de las subcomisiones o grupos de trabajo
 
 El Secretario Ejecutivo o quien éste designe para la conducción elaborará y firmará las minutas de las reuniones de la subcomisión o del grupo de trabajo y dará seguimiento al grado de avance en el cumplimiento de los acuerdos adoptados por éstos, lo cual hará del conocimiento de la Comisión Intersecretarial en cada sesión ordinaria.
 
-### CAPÍTULO VI. DEL GRUPO DE TRABAJO PERMANENTE PARA LA PROMOCIÓN DE DESARROLLOS CERTIFICADOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO VI. DEL GRUPO DE TRABAJO PERMANENTE PARA LA PROMOCIÓN DE POLÍGONOS URBANOS ESTRATÉGICOS
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
-La Comisión contará con un grupo de trabajo permanente que tendrá por objeto integrar las estrategias del Gobierno Federal en políticas para la generación de Desarrollos Certificados (antes DUIS) considerando criterios en materia Social, Económica, Ambiental, Territorial y Urbana.
+La Comisión contará con un grupo de trabajo permanente que tendrá por objeto promover, evaluar, autorizar, dar seguimiento y revocar en su caso las autorizaciones emitidas por él mismo, de las estrategias del Gobierno Federal en políticas para la generación de Polígonos Urbanos Estratégicos (antes Desarrollos Certificados- DUIS) considerando criterios en materia Social, Económica, Ambiental, Territorial y Urbana.
 
-El grupo de trabajo permanente se denominará Grupo de Evaluación, Autorización, Promoción y Seguimiento de Desarrollos Certificados, y estará integrado por un representante de cada uno de los Miembros de la Comisión Intersecretarial, los Invitados permanentes y, en su caso, demás Invitados que determine la Comisión Intersecretarial. Los integrantes del Grupo deberán ser designados por los miembros del citado Órgano Colegiado.
+El grupo de trabajo permanente se denominará Grupo de Evaluación, Autorización, Promoción y Seguimiento de Polígonos Urbanos Estratégicos, y estará integrado por un representante de la Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU), Secretaría de Hacienda y Crédito Público (SHCP), Comisión Nacional de Vivienda (CONAVI), Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo (SHF), el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT) y el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE), y en su caso, los Invitados que por la naturaleza de los asuntos a tratar determine el citado Órgano Colegiado.
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 25.
 
-La Comisión Intersecretarial dictará los lineamientos de operación del Grupo de Evaluación, Autorización, Promoción y Seguimiento de Desarrollos Certificados.
+La Comisión Intersecretarial dictará los Lineamientos de Operación del Grupo de Evaluación, Autorización, Promoción y Seguimiento de Polígonos Urbanos Estratégicos.
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 26.
 
-Los integrantes del grupo de trabajo permanente, en el ámbito de sus respectivas competencias, serán responsables de la promoción, evaluación, autorización, y seguimiento de los Desarrollos Certificados (antes DUIS), conforme a las estrategias y metodologías que para tal efecto, acuerde la Comisión Intersecretarial.
+Los integrantes del grupo de trabajo permanente, en el ámbito de sus respectivas competencias, serán responsables de la promoción, evaluación, autorización, seguimiento y revocación en su caso, de las autorizaciones de los Polígonos Urbanos Estratégicos (antes Desarrollos Certificados- DUIS), conforme a las estrategias y metodologías que, para tal efecto, acuerde la Comisión Intersecretarial.
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 27.
 
-El Grupo de Evaluación, Autorización, Promoción y Seguimiento de Desarrollos Certificados será coordinado y conducido por la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca (sic) Desarrollo, en su carácter de auxiliar del Secretario Ejecutivo y le aplicará lo dispuesto en el Capítulo IV del presente Reglamento.
+El Grupo de Evaluación, Autorización, Promoción y Seguimiento de Polígonos Urbanos Estratégicos será coordinado y conducido por la Comisión Nacional de Vivienda, quien tendrá el carácter de Coordinador del Grupo por conducto de su Titular o del suplente que él mismo nombre y que cuente con nivel jerárquico mínimo de Subdirector General o Coordinador General, quien deberá observar lo dispuesto en el Capítulo IV del presente Reglamento.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 13 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO VII. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 28.
 
-El Secretario Ejecutivo deberá clasificar la información o documentos de la Comisión, con base en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2018)
 
 ## TRANSITORIO
 
@@ -292,3 +320,19 @@ PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su pub
 SEGUNDO. La Comisión Intersecretarial de Vivienda dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, deberá expedir los Lineamientos a que se refieren los artículos 21 y 25 del presente Reglamento.
 
 Se emite el presente reglamento en la Ciudad de México, Distrito Federal, el veintitrés de junio de dos mil catorce.- Firma en su carácter de Secretario Ejecutivo de la Comisión Intersecretarial de Vivienda, conforme al artículo 33 de la Ley de Vivienda, la Directora General de la Comisión Nacional de Vivienda, María Paloma Silva de Anzorena.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL DE VIVIENDA”.]
+
+ÚNICO. Las modificaciones al presente Reglamento entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL DE VIVIENDA”.]
+
+ÚNICO. Las modificaciones al presente Reglamento entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
