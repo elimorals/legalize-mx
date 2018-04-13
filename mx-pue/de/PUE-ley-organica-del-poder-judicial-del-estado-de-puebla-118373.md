@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-118373"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-01-09"
-last_updated: "2017-01-09"
+last_updated: "2018-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Sección al número 6 del Periódico Oficial del Estado de Puebla, el lunes 9 de enero de 2017.
 
@@ -1571,7 +1571,9 @@ Los servidores públicos del Poder Judicial están obligados a residir en el lug
 
 Son obligaciones de los servidores públicos del Poder Judicial:
 
-I. Cumplir con diligencia y probidad el servicio que les sea encomendado;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+I. Cumplir con diligencia y probidad el servicio que les sea encomendado; de igual forma deberán guiar su actuación con perspectiva de género, garantizar las condiciones de acceso efectivo a la justicia y aplicar políticas, medidas, facilidades y apoyos en favor de las personas en condición de vulnerabilidad, sin discriminación alguna.
 
 II. Desempeñar las comisiones oficiales que les confieran las autoridades competentes;
 
@@ -2466,3 +2468,15 @@ DÉCIMO PRIMERO.- La estructura orgánica que derive de la presente Ley quedará
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de enero de dos mil diecisiete. Diputada Presidenta. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Vicepresidente. CARLOS DANIEL HERNÁNDEZ OLIVARES. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica. Diputada Secretaria. LIZETH SÁNCHEZ GARCÍA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de enero de dos mil diecisiete. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 135 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
