@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2017-12-22"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -898,7 +898,9 @@ Corresponde a la Secretaría promover la competitividad de la actividad turísti
 
 I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
 
-II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2018)</small>
+
+II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad, orientados a las características de las líneas de producto y la demanda, la certificación en competencias laborales y fortalecimiento de la especialización del capital humano;
 
 III. La modernización de las empresas turísticas;
 
@@ -1093,3 +1095,9 @@ D.O.F. 22 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE TURISMO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 63 DE LA LEY GENERAL DE TURISMO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
