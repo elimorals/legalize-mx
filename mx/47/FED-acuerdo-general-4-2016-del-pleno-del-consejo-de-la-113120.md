@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2016-del-pleno-del-consejo-de-la-113120"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2018-02-23"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 4/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -113,9 +113,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 6/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL, D.O.F. 13 DE ABRIL DE 2018)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Caballo Bayo número 146, colonia Benito Juárez (La Aurora), C.P. 57000, en Nezahualcóyotl, Estado de México.
+El domicilio del Centro será el ubicado en Avenida Bordo de Xochiaca, Lote 2, Polígono IV, en Ciudad Jardín, Nezahualcóyotl, Estado de México.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -382,3 +384,19 @@ XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia 
 XXVI. a XXXVIII. …”
 
 TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de abril de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 4/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
+
+“Artículo 7. El domicilio del Centro será el ubicado en Avenida Bordo de Xochiaca, Lote 2, Polígono IV, en Ciudad Jardín, Nezahualcóyotl, Estado de México.
+
+…”
