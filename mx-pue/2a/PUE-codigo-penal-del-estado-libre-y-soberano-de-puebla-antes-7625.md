@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2018-03-15"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1930,6 +1930,14 @@ III.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y las de
 IV.- Las ganzúas, llaves falsas y demás similares;
 
 V.- Las que otras leyes o reglamentos señalen como tales.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+No se consideran armas e instrumentos prohibidos los rociadores, espolvoreadores, gasificadores y dosificadores de sustancias químicas que produzcan efectos pasajeros en el organismo humano, sin llegar a provocar la pérdida del conocimiento, siempre que no sean de capacidad superior a los ciento cincuenta gramos.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+Tampoco se consideran armas e instrumentos prohibidos las armas electrónicas que sólo produzcan efectos pasajeros en el organismo humano, siempre que su uso no provoque la pérdida del conocimiento ni ponga en riesgo la vida.
 
 ###### Artículo 180.
 
@@ -6644,6 +6652,14 @@ Por lo que hace los delitos de Tortura y otros tratos o penas crueles, inhumanos
 P.O. 15 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 85 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 179 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
