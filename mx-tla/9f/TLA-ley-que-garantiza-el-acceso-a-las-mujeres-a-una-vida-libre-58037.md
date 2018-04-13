@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2016-03-04"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -39,9 +39,11 @@ LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley, tienen por objeto prevenir, sancionar y erradicar la violencia contra las mujeres, así como, garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación en el Estado de Tlaxcala.
+Las disposiciones de esta ley, tienen por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como, garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación en el Estado de Tlaxcala.
 
 ###### Artículo 2.
 
@@ -119,13 +121,17 @@ f) Discriminen a la autoridad electa designada o en el ejercicio de su función 
 
 g) Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas, o en el ejercicio de funciones político-públicas, con el objeto de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan.
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VII. Violencia contra los Derechos Reproductivos. Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia; y
+VII. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia cibernética: Toda acción que lesiona, denigra o ponga en riesgo la dignidad, seguridad, libertad e integridad de las mujeres y niñas, mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correos electrónicos, blogs, mensajes de texto, videos, o cualquier otro medio similar, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -133,9 +139,33 @@ El hostigamiento y acoso sexual son parte de la violencia sexual, independientem
 
 I. Reivindicar la dignidad y el respeto de las mujeres en todos los ámbitos de su vida;
 
-II. Establecer un mecanismo que favorezca su erradicación en diversos centros tanto educativos, sociales y laborales, ya sean de orden público o privado, suscribiendo los acuerdos necesarios para tal fin, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-III. Crear procedimientos administrativos claros y precisos en estos lugares para sancionar estos ilícitos y destituir a quiénes resulten responsables, así como inhibir su comisión.
+II. Establecer un mecanismo que favorezca su erradicación en diversos centros tanto educativos, sociales y laborales, ya sean de orden público o privado, suscribiendo los acuerdos necesarios para tal fin;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+III. Crear procedimientos administrativos claros y precisos en estos lugares que tengan por objeto sancionar el hostigamiento y acoso sexual e inhibir su comisión, así como destituir a quienes resulten responsables de los mismos. Los elementos que se recaben en dichos procedimientos, servirán para la presentación de la denuncia ante las autoridades correspondientes, a quienes se les deberá notificar de manera inmediata;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IV. Proporcionar a quien sea víctima de hostigamiento o acoso sexual asesoría jurídica, atención médica y psicológica especializada y gratuita con el objeto de reparar el daño causado;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+V. Garantizar la aplicación de sanciones penales y o administrativas para las personas superiores jerárquicas de la persona hostigadora o acosadora en el ámbito laboral o escolar, cuando sean omisas en recibir y/o dar curso a una queja;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VI. Tratándose de víctimas mujeres menores de dieciocho años de edad, deberán implementar, por personal especializado, mecanismos para detectar, investigar y sancionar la violencia en el ámbito escolar, los cuales serán acordes con los principios de interés superior de la niñez y libre desarrollo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VII. Tratándose de victimas mujeres embarazadas o con alguna discapacidad, se les deberá brindar atención médica y psicológica especializada, con el objeto de garantizar su salud e integridad física, psicológica y emocional, favoreciendo su empoderamiento y la reparación del daño causado, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII. En caso de que la mujer víctima sea migrante o indígena se le deberá proporcionar orientación legal de acuerdo a su situación jurídica, así como en su caso, el apoyo de una persona traductora o intérprete.
 
 ###### Artículo 8.
 
@@ -183,9 +213,13 @@ II. El derecho de recibir asesoría jurídica, psicoterapéutica, médica y soci
 
 III. El derecho a denunciar las situaciones de violencia que vivan, a través de un sistema a seguir y confidencial, que garantice su protección contra cualquier posible acto de represión;
 
-IV. El derecho a recibir un trato digno, de privacidad y respeto por parte de todos lo (sic) servidores públicos del Estado, a quienes corresponda su atención;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-V. El derecho a la reparación de los daños sufridos; y a la garantía de no repetición y prevención, y
+IV. El derecho a recibir un trato digno, de privacidad y respeto por parte de todos los servidores públicos del Estado, a quienes corresponda su atención;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+V. El derecho a la reparación de los daños sufridos; y a la garantía de no repetición y prevención;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -195,13 +229,17 @@ VI. Contar con protección inmediata y efectiva por parte de las autoridades;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas o hijos podrán acudir a los refugios con estos; y
+VIII. En los casos de violencia familiar, las mujeres que tengan hijas o hijos podrán acudir a los refugios con estos;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-IX. Los demás que prevea la normatividad aplicable.
+IX. El Derecho a no ser sometida a procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el Agresor y la Víctima, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+X. Los demás que prevea la normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -233,9 +271,25 @@ III. La igualdad sustantiva entre mujeres y hombres;
 
 IV. El respeto a la dignidad de las mujeres:
 
-V. El pluralismo social y la multiculturalidad de las mujeres, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-VI. La perspectiva de género que permite incorporar a la mujer con su entorno social.
+V. El pluralismo social y la multiculturalidad de las mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VI. La perspectiva de género que permite incorporar a la mujer con su entorno social;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VII. La no revictimización;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII. La reparación integral del daño, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IX. El principio pro persona.
 
 ###### Artículo 12.
 
@@ -347,7 +401,13 @@ III. Mecanismos públicos para evitar la violencia contra las mujeres en las ins
 
 IV. Programas de capacitación para el personal adscrito a las dependencias de procuración y administración de la justicia;
 
-V. Celebración de bases de coordinación entre los poderes del Estado y de los municipios para los cambios conductuales y de percepción e interpretación de la ley, de quienes colaboran para dichos poderes.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+V. Celebración de bases de coordinación entre los poderes del Estado y de los municipios para los cambios conductuales y de percepción e interpretación de la ley, de quienes colaboran para dichos poderes, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VI. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas y patrones que generaran su violencia.
 
 #### SECCIÓN QUINTA. VIOLENCIA FEMINICIDA
 
@@ -359,11 +419,11 @@ Se considera violencia feminicida, la forma extrema de violencia contra las muje
 
 #### SECCIÓN SEXTA. VIOLENCIA EN EL NOVIAZGO
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### Artículo 25 Bis.
 
-La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la mujer, dentro de una relación afectiva, en los cuales se inflijan ataques intencionales de tipo sexual, físico o psicológico, de manera forzada en la relación de romance, enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación.
+Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante el noviazgo, o en el transcurso de alguna relación afectiva o de hecho.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -387,11 +447,11 @@ El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el 
 
 #### SECCIÓN SÉPTIMA. VIOLENCIA OBSTÉTRICA
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### Artículo 25 Sexies.
 
-La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
+Violencia obstétrica: Es toda acción u omisión por parte del personal del Sistema de Salud, de tipo médico o administrativo, que dañe, lastime o denigre a las mujeres de cualquier edad durante el embarazo, parto o puerperio, así como la negligencia en su atención médica; se expresa en la falta de acceso a los servicios de salud reproductiva, trato inhumano o degradante, abuso de medicación y patologización de los procesos naturales, menoscabando la capacidad de decidir de manera libre e informada sobre sus cuerpos y los procesos reproductivos.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -413,7 +473,13 @@ VI. Intervenir quirúrgicamente sin consentimiento o autorización de la pacient
 
 VII. Realizar la esterilización sin el consentimiento voluntario, expreso e informado de la mujer, así como las consecuencias físicas y psicológicas de dicha intervención; y
 
-VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de otra mujer, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IX. Obligar a la mujer a parir en condiciones ajenas a su voluntad o contra sus prácticas culturales, cuando existan los medios necesarios para la realización del parto humanizado.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -663,6 +729,8 @@ III. La armonización normativa y judicial en su completitud y la interpretació
 
 #### SECCIÓN SEGUNDA. ORDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### Artículo 44.
 
 Por alerta de género se entiende la declaratoria que emite la autoridad federal competente, en un Municipio o zona determinada, en donde las condiciones de violencia contra las mujeres, pongan en riesgo a las mujeres del lugar.
@@ -689,13 +757,105 @@ El agravio comparado, implica un trato desigual a las mujeres dentro del marco j
 
 ###### Artículo 47.
 
-Las órdenes de protección son personalísimas e intransferibles, de naturaleza administrativa, de urgente aplicación para proteger a las mujeres de la violencia familiar o sexual, consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine la legislación aplicable y el reglamento o acuerdo temático respectivo.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, estas se constituyen fundamentalmente en precautorias y cautelares, podrán otorgarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tenga conocimiento del hecho de violencia presuntamente constitutivo de un delito o de violencia en contra de la mujer en cualquiera de sus modalidades, tienen por objeto evitar en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima y/o víctimas indirectas.
+
+Las órdenes de protección tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días, para garantizar la vida, integridad y seguridad de las víctimas y, en su caso, de las víctimas indirectas; mismas que se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de protección: considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un sólo acto y de forma automática, y
+
+VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudiera impactar en los derechos de las hijas o hijos menores de dieciocho años de edad.
+
+VIII. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+###### Artículo 47 Bis.
+
+El Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+
+I. Los principios establecidos en el artículo 47 de esta Ley;
+
+II. Que sea adecuada y proporcional;
+
+III. Que los usos y costumbres no violen los derechos humanos de las mujeres reconocidos en la Constitución, así como en los tratados internacionales ratificados por el Estado Mexicano, y
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### Artículo 48.
 
-Las órdenes de protección consagradas por la ley general como emergentes y preventivas serán aplicadas e instrumentadas por la representación social, que recae en el Agente del Ministerio Público, con el auxilio de la policía estatal, de conformidad con el procedimiento y observancia que determine el reglamento o acuerdo conducente.
+Las órdenes de protección consagradas por la ley como emergentes y preventivas serán aplicadas e instrumentadas por el Agente del Ministerio Público o la autoridad jurisdiccional y, en caso de notoria urgencia, su aplicación podrá corresponder a los jueces municipales, pudiendo elegir la mujer que sufre de algún tipo de violencia ante cuál de dichas autoridades solicitarlas. Si se recurre ante el juez municipal, éste deberá dar vista en un lapso de tres días al Ministerio Público o al Juez de lo Familiar del conocimiento, a efecto de que inicie el procedimiento que corresponda y ratifique o modifique la orden de protección.
 
-En virtud de la notoria urgencia en los municipios la aplicación de las órdenes de protección corresponde a los jueces municipales, pudiendo elegir la mujer que vive la violencia familiar o sexual ante cual de las autoridades solicitarlas, salvo para las ordenes de naturaleza civil o familiar, que se otorgan por el juez de la materia con el auxilio de la policía municipal respectiva, de conformidad con el procedimiento y observancia que determine el reglamento o acuerdo conducente.
+Para efectos de (sic) párrafo anterior, se entenderá por notoria urgencia cuando los hechos de violencia hacia la mujer se puedan verificar al momento de solicitar la orden de protección, o esta se pida inmediatamente después de acontecer aquellos y sea necesaria para proteger la seguridad e integridad física o psicológica de la mujer víctima de algún tipo de violencia.
+
+Las órdenes de protección a que se refiere este artículo, además de las previstas en otros ordenamientos, consistirán en:
+
+I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario a efecto de desahogar las diferentes diligencias, con el fin de garantizar su seguridad y protección;
+
+II. Proporcionar a las mujeres, o las niñas, en situación de violencia y, en su caso, a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros, tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta Ley;
+
+III. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual, a las instituciones que integran el sistema de salud para que provean gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+
+b) Anticoncepción de emergencia, e
+
+c) Interrupción legal del embarazo en el caso de violación.
+
+IV. Autorizar y facilitar a la mujer, o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
+
+V. Prohibición inmediata a la persona agresora de acercarse al domicilio de la víctima y al de sus familiares y amistades, a su lugar de trabajo o de estudios, así como a cualquier otro que frecuenten tanto la víctima directa como las víctimas indirectas;
+
+VI. La suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, mediante la solicitud de la víctima a la autoridad judicial competente, misma que deberá resolverse en un lapso máximo de cuarenta y ocho horas;
+
+VII. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer, o niña en situación de violencia y, en su caso, los de sus hijas e hijos;
+
+VIII. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
+
+IX. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y, en su caso, a sus hijas e hijos u a otras víctimas indirectas o testigos de los hechos, así como a cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
+
+X. Solicitar a la autoridad jurisdiccional competente, garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y, en su caso, el embargo precautorio de los mismos, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, y
+
+XI. Además de las anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+
+Las medidas señaladas en este artículo, podrán ser ampliadas o modificadas, siempre procurando la mayor protección de la víctima.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+###### Artículo 48 Bis.
+
+Las órdenes de protección judicial, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
+
+II. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+
+III. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, o de las hijas o hijos en su caso, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquiera (sic) lugar que frecuente;
+
+IV. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+
+V. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+VI. Obligación alimentaria provisional e inmediata, y
+
+VII. Las demás que se requieran para brindar protección a la víctima.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+###### Artículo 48 Ter.
+
+Previo a la suspensión de las órdenes de protección decretadas por el Ministerio Público, los jueces municipales o la autoridad judicial, deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado.
 
 ### CAPÍTULO VII. SISTEMA ESTATAL
 
@@ -767,9 +927,21 @@ VII. Promover la celebración de convenios o acuerdos, dentro del marco del Plan
 
 VIII. Fomentar la realización de campañas encaminadas a sensibilizar a la población en general, sobre las formas de expresión de la violencia contra las mujeres, sus efectos en las víctimas, así como las formas de prevenirla, combatirla y erradicarla;
 
-IX. Fomentar la aplicación y cumplimiento del Programa Estatal, así como de la aplicación de esta ley, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-X. Proponer estrategias para la obtención de recursos que se destinen al cumplimiento de los fines de esta ley.
+IX. Fomentar la aplicación y cumplimiento del Programa Estatal, así como de la aplicación de esta ley;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+X. Proponer estrategias para la obtención de recursos que se destinen al cumplimiento de los fines de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XI. Implementar acciones dirigidas a mujeres jóvenes que permitan prevenir, atender y sancionar el hostigamiento y el acoso sexual, así como su discriminación por embarazo en escuelas y centros laborales, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XII. Diseñar programas en favor de las mujeres jóvenes que permitan la prevención, atención y erradicación de la violencia contra ellas, con respecto a la trata de personas y el feminicidio.
 
 ### CAPÍTULO VIII. PROGRAMA ESTATAL
 
@@ -1286,3 +1458,19 @@ Las reformas y adiciones a la Ley que Garantiza el Acceso a las Mujeres a una Vi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan esta Ley.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 134.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LA MUJER A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, las autoridades estatales tendrán 180 días hábiles, para expedir, reformar o derogar, las disposiciones reglamentarias para dar pleno cumplimiento al mandato de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala.
