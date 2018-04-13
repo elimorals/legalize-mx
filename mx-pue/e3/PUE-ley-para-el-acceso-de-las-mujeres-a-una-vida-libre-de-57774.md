@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2016-09-20"
+last_updated: "2018-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -71,7 +71,9 @@ I.- La igualdad jurídica entre la mujer y el hombre;
 
 II.- El respeto a la dignidad humana de las mujeres;
 
-III.- La no discriminación;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+III.- La no discriminación, sea directa o indirecta, especialmente aquella que pueda derivar de la condición de maternidad, estado civil o asunción de obligaciones familiares.
 
 IV.- La equidad; y
 
@@ -83,11 +85,19 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Consejo: El Consejo Estatal para la Atención de la Violencia Familiar;
 
-II.- Derechos Fundamentales de las Mujeres: Los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belém Do Pará) y demás instrumentos internacionales en la materia;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- Derechos Fundamentales de las Mujeres: Aquellos derechos subjetivos que corresponden universalmente y de manera integrante, inalienable e indivisible a toda persona de sexo femenino contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer y demás instrumentos nacionales e internacionales en la materia de los cuales el Estado Mexicano sea parte;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II Bis.- Discriminación: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
 III.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-IV.- Instituciones Públicas o Privadas: Las Instituciones públicas o privadas encargadas de la atención a las mujeres ofendidas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de difusión orientadas a la prevención, atención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IV.- Instituciones Públicas o Privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres ofendidas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
 
 V.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
 
@@ -99,9 +109,15 @@ VIII.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de o
 
 IX.- Ofendida: La mujer de cualquier edad a quien se le causa algún tipo de violencia;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IX Bis.- Persona en condición de vulnerabilidad: aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos fundamentales;
+
 X.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XI.- Presunto o presunta generador de violencia: El hombre o mujer que causa cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XI.- Presunto o presunta generador de violencia: El hombre o mujer que puede causar cualquier tipo de violencia contra las mujeres;
 
 XII.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -109,11 +125,13 @@ XIII.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y
 
 XIV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-XV.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+XV.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
 
-XVI.- Violencia contra las Mujeres: Cualquier acción u omisión que con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XVI.- Violencia contra las Mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
 
 ###### ARTÍCULO 7.
 
@@ -121,19 +139,27 @@ La aplicación de la presente Ley le corresponde a los Poderes Públicos del Est
 
 ### CAPÍTULO II. DEL PODER PÚBLICO
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-El Estado adoptará las medidas y acciones necesarias para ejecutar e instrumentar las políticas públicas correspondientes, para efecto de prevenir, atender, sancionar y erradicar cualquier tipo y modalidad de violencia.
+El Estado adoptará las medidas y acciones necesarias para ejecutar e instrumentar las políticas públicas tendentes a prevenir, investigar, atender, sancionar y erradicar cualquier tipo y modalidad de violencia contra las mujeres.
+
+El Estado proporcionará a las mujeres indígenas el acceso y disfrute, en igualdad de condiciones y contenido, de los servicios, programas y políticas públicas señaladas en el párrafo que antecede elaborados en su propia lengua indígena, facilitándoles, si fuere necesario, intérpretes u otros medios análogos eficaces.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 9.
 
-Las medidas específicas y los programas relativos se adoptarán en forma progresiva para contribuir a:
+Las medidas específicas y los programas relativos se adoptarán para contribuir a:
 
 I.- Fomentar el conocimiento y la observancia del derecho de las mujeres a una vida libre de violencia, así como el respeto y protección a sus derechos fundamentales;
 
 II.- Modificar los patrones socioculturales de conducta de mujeres y hombres, incluyendo el diseño de programas de educación formales y no formales apropiados a todo nivel del proceso educativo, para contrarrestar prejuicios, costumbres y cualquier tipo de prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros, o en roles con estereotipos para la mujer y el hombre que originan o exacerban la violencia contra las mujeres;
 
-III.- Fomentar la educación y capacitación del personal a cuyo cargo esté la aplicación de las políticas y normas de atención, prevención, sanción y eliminación de la violencia contra las mujeres, en los diversos ámbitos de competencia de los Poderes;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+III.- Educar, capacitar y evaluar de manera continua y al personal a cuyo cargo esté la aplicación de las políticas y normas de atención, prevención, sanción y eliminación de la violencia contra las mujeres, en los diversos ámbitos de competencia de los Poderes;
 
 IV.- Vigilar y fortalecer el correcto funcionamiento de los servicios especializados para la atención de las mujeres que hayan vivido situaciones de violencia;
 
@@ -155,17 +181,21 @@ Los tipos de violencia contra las mujeres son:
 
 I.- Violencia física.- Es todo acto que causa daño no accidental, por medio del empleo de la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones internas, externas, o ambas;
 
-II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la mujer, puede consistir en negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, las cuales conllevan a la mujer a la depresión, aislamiento, desvalorización o anulación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la mujer, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, las cuales conllevan a la mujer a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
 
 III.- Violencia económica.- Es toda acción u omisión de cualquier persona que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
 IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la sustracción, retención, destrucción o transformación de bienes, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la ofendida destinados a satisfacer sus necesidades;
 
-V.- Violencia sexual.- Es cualquier acto que dañe o lesiona el cuerpo y/o la sexualidad de la mujer, por tanto atenta contra su integridad física, libertad o dignidad; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+V.- Violencia sexual.- Es cualquier acto que dañe o lesione el cuerpo y/o la sexualidad de la mujer, por tanto atenta contra su integridad física, libertad o dignidad;
 
-VI.- Violencia Obstétrica.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VI.- Violencia obstétrica.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer, y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -173,19 +203,25 @@ VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 11.
 
-La violencia contra las mujeres en el ámbito familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual y obstétrica a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tengan o hayan (sic) tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho.
+La violencia contra las mujeres en el ámbito familiar, es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica, o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, cualquier otra relación de afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 12.
 
-Los modelos de prevención, atención, sanción y erradicación de la violencia que se establezcan en el Estado y los Municipios, son las medidas y acciones que deben garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para este fin se tomará en consideración:
+Los modelos de prevención, investigación, atención, sanción y erradicación de la violencia que se establezcan en el Estado y los Municipios, son las medidas y acciones que deben garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales y deberá tomarse en consideración:
 
-I.- Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las mujeres a quienes se les ha causado violencia, favoreciendo su empoderamiento, así como promover la reparación del daño causado;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-II.- Brindar servicios integrales, especializados y gratuitos al presunta o presunto generador de violencia para erradicar las conductas violentas a través de una atención que elimine los estereotipos de supremacía masculina, y los patrones de conducta que generan la violencia;
+I.- Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las mujeres a quienes se les ha causado violencia, favoreciendo su empoderamiento, así como garantizar la reparación del daño causado;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- Brindar servicios integrales, especializados y gratuitos a la presunta o presunto generador de violencia para erradicar las conductas violentas a través de una atención que elimine los estereotipos de supremacía masculina, y los patrones de conducta que generan la violencia;
 
 III.- La atención que reciban la ofendida y la presunta o presunto generador de violencia será proporcionada por persona distinta y en lugar diferente. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
@@ -203,25 +239,29 @@ VI.- Evitar procedimientos de mediación o conciliación, por ser inviables en u
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO LABORAL O DOCENTE
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-Violencia contra las mujeres en el ámbito laboral o docente consiste en el acto u omisión de exceso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la ofendida e impide su desarrollo; se ejerce por personas que tienen un vínculo laboral, docente o análogo con la ofendida, independientemente de la relación jerárquica.
+La violencia contra las mujeres en el ámbito laboral o docente, consiste en el aprovechamiento indebido de una situación de superioridad jerárquica, ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo.
 
-Podrá consistir en un solo evento que cause daño o en una serie de eventos concatenados que lo produzca. Asimismo incluye el acoso o el hostigamiento sexual en términos de lo dispuesto en la ley de la materia.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral consiste en la negativa ilegal a contratar a la agraviada o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la mujer, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; menoscabo de sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de llevar a cabo el periodo de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 15.
 
-La violencia contra las mujeres en el ámbito docente se hace consistir en aquellas conductas que dañan la autoestima de las alumnas por motivos de discriminación en razón de su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les causen las catedráticas y/o catedráticos.
+La violencia contra las mujeres en el ámbito docente, consiste en aquellas conductas lesivas, motivadas por razones de género, que pueden dañar la autoestima de las mujeres por motivos de discriminación en razón de su sexo, edad, condición social, académica, limitaciones y/o características físicas, así como la obstaculización en el ejercicio de los derechos que le corresponden como madre de familia, en términos de la Ley General de Educación, causadas por el personal con funciones de dirección, supervisión y docente, en todos los niveles educativos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado en ejercicio de sus funciones y de acuerdo al ámbito de competencia tomará en consideración:
+El Estado en ejercicio de sus funciones y de acuerdo al ámbito de competencia deberá:
 
 I.- Establecer políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
 
@@ -231,11 +271,19 @@ III.- Diseñar programas que brinden servicios integrales especializados para of
 
 IV.- Difundir y dar seguimiento a la observancia del Código de Ética de los Servidores Públicos.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 16 BIS.- Los Centros de Trabajo que integran las Dependencias y Entidades del sector público del Estado y los Municipios, deberán certificarse de acuerdo a la norma mexicana vigente en materia de igualdad laboral y no discriminación, a efecto de integrar, implementar y ejecutar dentro de sus procesos de gestión y de recursos humanos, prácticas que favorezcan el desarrollo integral de las y los trabajadores.
+
+El Ejecutivo del Estado deberá promover la certificación señalada en el párrafo anterior en todos los Centros de Trabajo del ámbito privado.
+
 #### SECCIÓN TERCERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN LA COMUNIDAD
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 17.
 
-Violencia contra las mujeres en la comunidad consiste en los actos individuales o colectivos tendientes a transgredir sus derechos fundamentales, que tienen como fin denigrar, discriminar, marginar o excluirlas de cualquier ámbito en el que se desarrollen.
+Violencia contra las mujeres en la comunidad, consiste en los actos individuales o colectivos, motivados por razones de género, tendentes a transgredir sus derechos fundamentales, así como denigrar, discriminar, marginar o excluirlas de cualquier ámbito en el que se desarrollen.
 
 ###### ARTÍCULO 18.
 
@@ -249,9 +297,11 @@ III.- El diseño de un centro de datos respecto a las órdenes de protección y 
 
 #### SECCIÓN CUARTA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO INSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-Violencia contra las mujeres en al ámbito institucional son los actos u omisiones de las y/o los servidores públicos del Estado o de los Municipios que discriminen o tiendan a impedir el goce y ejercicio pleno de los derechos fundamentales de las mujeres, así como su acceso a políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Violencia contra las mujeres en al ámbito institucional, son los actos u omisiones de las y/o los servidores públicos del Estado o de los Municipios que tengan por objeto o por resultado discriminación, impedir el reconocimiento, goce o ejercicio pleno de los derechos fundamentales de las mujeres, así como su acceso a políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 ###### ARTÍCULO 20.
 
@@ -373,7 +423,9 @@ Es materia de coordinación entre el Estado y los Municipios:
 
 I.- La prevención de la violencia contra las mujeres y la atención integral de las ofendidas;
 
-II.- La capacitación del personal encargado de su prevención y atención;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- La capacitación y certificación continúa en igualdad laboral y no discriminación del personal encargado de su prevención y atención;
 
 III.- Los servicios integrales especializados para las personas que ejercen violencia;
 
@@ -389,17 +441,23 @@ El Sistema Estatal se integrará y funcionará por las y los titulares de:
 
 I.- El Poder Ejecutivo del Estado, quien fungirá como Presidente Honorario;
 
-II.- La Secretaría de Gobernación, quien fungirá como Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- La Secretaría General de Gobierno cuyo titular fungirá como Presidente Ejecutivo:
 
 III.- La Secretaria de Desarrollo Social;
 
-IV.- La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IV.- La Fiscalía General del Estado;
 
 V.- La Secretaría de Seguridad Pública;
 
 VI.- La Secretaría de Educación Pública;
 
-VII.- La Procuraduría del Ciudadano;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VII.- La Dirección General de Defensoría Pública:
 
 VIII.- Los Servicios de Salud del Estado;
 
@@ -411,9 +469,17 @@ XI.- La Comisión de Derechos Humanos del Estado;
 
 XII.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisión respectiva;
 
-XIII.- El Poder Judicial, a través del Presidente del Tribunal Superior de Justicia o el representante que se designe; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-XIV.- El Consejo Estatal para la Atención de la Violencia Familiar.
+XIII.- El Poder Judicial, a través del Presidente del Tribunal Superior de Justicia o el representante que se designe;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XIV.- El Consejo Estatal para la Atención de la Violencia Familiar, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+XV.- Los titulares de los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
 
 La titular del Instituto Poblano de las Mujeres realizará las funciones de Secretaria Ejecutiva del Sistema Estatal.
 
@@ -563,11 +629,15 @@ VII.- Suscribir convenios de coordinación, colaboración y concertación en la 
 
 VIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 41.
 
-Corresponde a la Procuraduría General de Justicia las funciones siguientes:
+Corresponde a la Fiscalía General del Estado las funciones siguientes:
 
-I.- Promover la formación y especialización de todo el personal encargado de la procuración de justicia en materia de derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+I.- Promover la formación y especialización continua y de calidad de todo su personal en materia de derechos fundamentales de las mujeres, para prevenir y erradicar cualquier tipo de violencia o discriminación en su agravio;
 
 II.- Proporcionar a las ofendidas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos legales aplicables;
 
@@ -603,7 +673,9 @@ VI.- Ejecutar y dar seguimiento a las acciones del Programa Estatal que le corre
 
 VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos fundamentales de las mujeres;
 
-VIII.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII.- Diseñar en coordinación con la Secretaría General de Gobierno y demás dependencias que integran la Administración Pública Estatal y Municipal, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, investigación, sanción y erradicación de la violencia y discriminación contra las mujeres;
 
 IX.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
 
@@ -621,7 +693,11 @@ II.- Desarrollar programas educativos, en todos los niveles de escolaridad, que 
 
 III.- Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
 
-IV.- Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras ayudas;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+IV.- Garantizar el derecho de las niñas, adolescentes y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras ayudas.
+
+Deberá, a su vez, proporcionar escolarización inmediata de las niñas, adolescentes y mujeres, cuando por la implementación de una orden de protección o medida cautelar, tuvieren que cambiar de residencia dentro del territorio del Estado y consecuentemente de plantel educativo;
 
 V.- Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
 
@@ -665,7 +741,9 @@ I.- En el marco de la política de salud integral de las mujeres, diseñar con p
 
 II.- Brindar por medio de las Instituciones del Sector Salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las ofendidas;
 
-III.- Aplicar la Norma Oficial Mexicana 190-SSA 1-1999: Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar; así como crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y garantizar la atención a las ofendidas;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+III.- Aplicar los criterios para la prevención y atención de violencia familiar, sexual y contra las mujeres establecidos en la norma oficial mexicana vigente;
 
 IV.- Brindar servicios integrales especializados a las ofendidas y a los presuntos o presuntas generadores de violencia, a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
 
@@ -695,7 +773,15 @@ Corresponde al Instituto Poblano de las Mujeres las funciones siguientes:
 
 I.- Desempeñar las funciones de Secretaria Ejecutiva del Sistema, a través de su representante legal;
 
-II.- Integrar los estudios e investigaciones promovidas por las Dependencias y Entidades de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, que generen las asociaciones o agrupaciones. Los resultados de los estudios e investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes tendientes a la erradicación de la violencia;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+II.- Integrar los estudios e investigaciones promovidas por las Dependencias y Entidades de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de:
+
+a) Los servidores públicos encargados de la atención, investigación, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+b) Las medidas de prevención, atención y erradicación, que generen las Dependencias y Entidades del Estado, municipales, asociaciones o agrupaciones civiles.
+
+Los resultados de los estudios e investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes tendentes a la erradicación de la violencia;
 
 III.- Proponer a las autoridades encargadas de la aplicación de esta Ley, los programas, medidas y acciones que consideren pertinentes, así como elaborar los proyectos respectivos, con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -707,7 +793,9 @@ VI.- Canalizar a las ofendidas a programas de servicios especializados integrale
 
 VII.- Promover y vigilar que la atención ofrecida en las diversas Instituciones públicas o privadas encargadas de la atención de mujeres ofendidas, sea proporcionada por especialistas en la materia, sin discriminación ni prejuicio alguno;
 
-VIII.- Difundir la cultura de respeto a los derechos fundamentales de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+
+VIII.- Difundir la cultura de respeto a los derechos fundamentales de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de las víctimas y de quienes denuncian;
 
 IX.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
 
@@ -801,9 +889,11 @@ VII.- Ser valoradas libres de estereotipos de comportamiento y prácticas social
 
 En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a las Instituciones públicas o privadas encargadas de la atención para las ofendidas por violencia.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-En caso de que se resuelva por mandato de autoridad competente, el presunto o presunta generador de violencia deberá participar en los programas de servicios integrales especializados.
+Cuando exista sentencia condenatoria por delitos en los que se hayan realizado acciones u omisiones tendentes a ejercer violencia en agravio de la mujer, la autoridad judicial, impondrá al responsable cumplir con medidas de rehabilitación en las que se fomente su participación en programas integrales especializados para prevenir y erradicar las mismas.
 
 ### CAPÍTULO V. DE LAS INSTITUCIONES PÚBLICAS O PRIVADAS ENCARGADAS DE LA ATENCIÓN A LAS MUJERES OFENDIDAS POR VIOLENCIA
 
@@ -924,3 +1014,13 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 135 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
