@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-127195"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2018-03-31"
+last_updated: "2018-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2018.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 14 DE ABRIL DE 2018.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 14 de marzo de 2018.
 
@@ -657,7 +657,9 @@ La Junta Directiva contará con un Secretario(a), que será el titular de la Dir
 
 En caso de ausencia, los titulares podrán nombrar a un suplente con nivel no inferior a nivel de Subsecretario (a) o equivalente, que cuente con capacidad de decisión institucional.
 
-El Reglamento Interior del Instituto establecerá el mecanismo de definición de los integrantes de la Junta Directiva que comprende la fracción VI inmediata anterior, la formalidad y periodicidad de las sesiones de la Junta Directiva, que no podrá ser menor a seis veces al año, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación de la misma.
+> <small>(F. DE E., P.O. 14 DE ABRIL DE 2018)</small>
+
+El Reglamento Interior del Instituto establecerá el mecanismo de definición de los integrantes de la Junta Directiva, la formalidad y periodicidad de las sesiones de la Junta Directiva, que no podrá ser menor a seis veces al año, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación de la misma.
 
 El Director (a) de (sic) Instituto podrá invitar a representantes, personas físicas o morales, que considere promuevan el desarrollo científico y tecnológico a través del conocimiento y la innovación, con voz pero sin voto.
 
