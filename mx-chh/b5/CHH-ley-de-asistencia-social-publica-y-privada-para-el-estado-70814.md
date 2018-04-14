@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2017-02-22"
+last_updated: "2018-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -1067,11 +1067,11 @@ Las instituciones de asistencia social privada aplicarán los recursos que recib
 
 ### CAPÍTULO II. DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2018)</small>
 
 ###### Artículo 64.
 
-La Junta de Asistencia Social Privada del Estado de Chihuahua es el Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en la Ciudad de Chihuahua, que tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
+La Junta de Asistencia Social Privada del Estado de Chihuahua es el Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en Ciudad Juárez, Chihuahua, que tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
 
 ###### Artículo 65.
 
@@ -1742,3 +1742,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 14 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0741/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 64 DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
