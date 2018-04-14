@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-06-17"
+last_updated: "2018-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1433,7 +1433,9 @@ VIII. Establecer políticas de fortalecimiento familiar para evitar la separaci�
 
 IX. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior.
 
-X. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
+
+X. Implementar, en coordinación con las autoridades federales, en el ámbito de sus respectivas competencias, los programas, mecanismos y protocolos de seguridad, como el denominado Alerta AMBER, entre otros que tengan por objeto la localización inmediata de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
 
 XI. Implementar medidas de inclusión plena y realizar las Acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados.
 
@@ -2352,3 +2354,11 @@ P.O. 17 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0734/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
