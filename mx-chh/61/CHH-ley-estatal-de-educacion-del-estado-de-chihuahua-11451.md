@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2017-11-22"
+last_updated: "2018-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -119,9 +119,9 @@ XIV. Sistema de Competencias Educativas: Conjunto de procesos o elementos para l
 
 En el Estado de Chihuahua, toda persona tiene derecho a recibir educación sin discriminación alguna, por motivos de raza, género, lengua, ideología, necesidades educativas especiales asociadas o no a discapacidad, estado de gravidez o cualquiera otra condición personal, social o económica, por lo tanto las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones que de esta Ley se deriven.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2018)</small>
 
-Los jóvenes tendrán derecho a recibir una orientación vocacional gratuita y profesional, que será impartida en las instituciones educativas que operan dentro del territorio del Estado.
+Los jóvenes recibirán obligatoriamente una orientación vocacional gratuita y profesional, que será impartida en las instituciones educativas que operan dentro del territorio del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -323,6 +323,14 @@ I. Proporcionar el servicio público de educación en la Entidad, conforme a la 
 
 II. Prestar los servicios de educación inicial, preescolar, primaria, secundaria, incluyendo la indígena, la especial, media superior y superior; además promoverá la creación de una (sic) programa orientado a educar a los alumnos, padres y madres de familia, que de manera sistemática y permanente propicie la superación personal, la convivencia familiar y la participación social. El programa atenderá a su formalización mediante la constancia correspondiente;
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2018)</small>
+
+Así mismo se brindará a la niñez los servicios médicos, psicológicos, de trabajo social, pedagógicos, de nutrición y generales con una perspectiva interdisciplinaria.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2018)</small>
+
+En lo que respecta a educación inicial, podrá indistintamente celebrar convenios a través de Servicios Educativos del Estado de Chihuahua, con el Consejo Nacional de Fomento Educativo y/o con las instancias que resulten pertinentes para que se capacite progresivamente al personal encargado del cuidado infantil.
+
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 III. Promover el establecimiento, la organización y el sostenimiento, según las necesidades de la demanda en toda la Entidad Federativa de:
@@ -491,9 +499,9 @@ XXVIII. Otorgar, negar o revocar reconocimientos de validez oficial a los partic
 
 XXIX. Expedir constancias, certificados de estudio y otorgar diplomas, títulos o grados académicos de acuerdo a las disposiciones legales establecidas para tales efectos;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
 
-XXX. Integrar un órgano de consulta, seguimiento y evaluación de los programas y proyectos educativos que se implementen en la Entidad;
+XXX. Integrar un órgano de consulta, seguimiento y evaluación de los programas y proyectos educativos que se implementen en la Entidad, los cuales deberán ser vigilados para que se apliquen en términos de igualdad y equidad en las instituciones educativas.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1015,9 +1023,17 @@ II. En las secundarias funcionarán además las academias por asignaturas;
 
 III. El consejo escolar de participación social;
 
-IV. La asociación de padres y madres de familia; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
 
-V. La asociación de alumnas y alumnos en los niveles de primaria y secundaria.
+IV. La asociación de padres y madres de familia;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
+
+V. La asociación de alumnas y alumnos en los niveles de primaria y secundaria;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2018)</small>
+
+VI. Las brigadas de Seguridad Escolar.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
@@ -1045,17 +1061,21 @@ Las escuelas de nueva creación llevarán el nombre que designe o elija la Autor
 
 #### SECCIÓN I. DE LA EDUCACIÓN INICIAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 33.
 
-La educación inicial está dirigida a la población infantil desde los cuarenta y cinco días de su nacimiento hasta menos de tres años; se imparte en centros de desarrollo infantil, estancias infantiles, albergues escolares e instituciones similares, incluye orientación a padres y madres de familia y tutores para la educación de sus hijos o pupilos. Además:
+La educación inicial está dirigida a la población infantil desde los cuarenta y cinco días de su nacimiento hasta menos de tres años cumplidos al 31 de diciembre correspondiente al ciclo escolar; se imparte en centros de desarrollo infantil, estancias infantiles, albergues escolares e instituciones similares, incluye orientación a padres y madres de familia y tutores para la educación de sus hijos o pupilos. Además:
 
-I. Las instalaciones deben cumplir con los requerimientos técnicos, pedagógicos, de higiene y de seguridad que la Autoridad Educativa Estatal determine.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
+
+I. Las instalaciones deben cumplir con los requerimientos técnicos, pedagógicos, de higiene y de seguridad que la autoridad educativa Estatal determine, siendo acreditado su cumplimiento con la presentación de la documentación que las autoridades competentes emitan.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. El personal adscrito a este servicio deberá acreditar el perfil correspondiente de acuerdo con la función, cumpliendo con los ordenamientos legales en la materia.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
@@ -1157,15 +1177,15 @@ Las zonas con población distante, dispersa y en condiciones de marginación, de
 
 La educación secundaria se impartirá a quienes hayan acreditado la educación primaria.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2018)</small>
 
-En los centros educativos matutinos y vespertinos se registrará a las y los alumnos que acrediten tener menos de quince años al momento de la inscripción, lo anterior será con independencia del grado de secundaria al que los alumnos soliciten registrarse; para los de quince años o más, la educación secundaria se impartirá preferentemente el turno nocturno.
+En los centros educativos matutinos y vespertinos se registrará a las y los alumnos que acrediten tener menos de quince años al momento de la inscripción, lo anterior será con independencia del grado de secundaria al que los alumnos soliciten registrarse. Para los de quince años o más, la educación secundaria se impartirá preferentemente en el turno nocturno.
 
 La secundaria abierta se sujetará a lo dispuesto por la reglamentación correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2018)</small>
 
-Para el mejor desarrollo y continua evolución del educando con necesidades educativas especiales asociadas o no a una discapacidad, se deberá proporcionar el apoyo en coordinación con la modalidad de educación especial.
+Para el mejor desarrollo y continua evolución del educando con necesidades educativas especiales asociadas o no a una discapacidad, la autoridad educativa deberá proporcionar el apoyo en coordinación con la instancia responsable de la modalidad de educación especial, siendo obligatorio que se brinde la debida capacitación para este efecto al docente de educación regular.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1301,11 +1321,9 @@ IV. La autoridad educativa estatal impartirá cursos de capacitación a los doce
 
 V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETOLXV/RFLEY/0003/2016 I P.O., SE ADVIERTE QUE SOLO SE ACTUALIZA EL NOMBRE DE LA SECRETARÍA]</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-V (SIC). La Secretaría de Educación y Deporte, en coordinación con la Comisión Estatal de los Derechos Humanos, implementará programas de capacitación y certificación a los docentes de la educación inicial, básica y media superior en materia de derechos humanos de niñas, niños y adolescentes con discapacidad, que deberán evaluarse con una periodicidad anual para fortalecer las competencias entre los trabajadores de la educación.
+VI. La Secretaría de Educación y Deporte, en coordinación con la Comisión Estatal de los Derechos Humanos, implementará programas de capacitación y certificación a los docentes de la educación inicial, básica y media superior en materia de derechos humanos de niñas, niños y adolescentes con discapacidad, que deberán evaluarse con una periodicidad anual para fortalecer las competencias entre los trabajadores de la educación.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -4298,3 +4316,11 @@ P.O. 22 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0396/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0648/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
