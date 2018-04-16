@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2018-01-29"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -111,9 +111,9 @@ La educación es un derecho de todas las personas que atiende a las necesidades 
 
 Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria, secundaria y media superior de conformidad con los principios de universalidad, gratuidad y laicidad.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-El Estado deberá además promover y atender la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
+El Estado deberá además, promover y atender la educación superior y otras modalidades educativas; como la formación y capacitación para el trabajo, la educación de adultos, la educación especial y la educación inicial.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -148,6 +148,14 @@ El Estado y los Municipios garantizarán el derecho de acceso libre a internet, 
 ###### Artículo 7o.
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El Estado promoverá las condiciones para el desarrollo rural integral sostenible, con el propósito de generar empleo y garantizar a la población rural el bienestar y su participación e incorporación en el desarrollo estatal, y fomente la actividad agropecuaria y forestal para el óptimo uso de la tierra, mediante la implementación de planes, programas, acciones, órganos, sistemas, servicios y fondos que promuevan obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El Estado debe proveer los elementos necesarios para el desarrollo rural integral y sostenible mediante el mejoramiento de las condiciones de vida de la población rural y urbana, garantizando el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -1037,13 +1045,17 @@ XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia; y
+XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2018)</small>
 
-XXI.- Las demás que esta Constitución y la Constitución Política de los Estados Unidos Mexicanos le confieren.
+XXI.- Promover el desarrollo rural integral sostenible del Estado, en los términos que le asignen las Leyes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2018)</small>
+
+XXII.- Las demás que esta Constitución y la Constitución Política de los Estados Unidos Mexicanos le confieren.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -3134,6 +3146,22 @@ Cumplidos los extremos legales que establece el Artículo 94 de la Constitución
 P.O. 29 DE ENERO DE 2018.
 
 > <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMA EL DECRETO NÚMERO 212".]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 233.- CERTIFICACIÓN DE PLAZO; DECLARATORIA CONSTITUCIONAL; SE REFORMA EL ARTÍCULO 46; SE ADICIONAN LOS ARTÍCULOS 7º Y 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NÚMERO 234.- CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL; SE REFORMA EL ARTÍCULO 6° DE LA CONSTITUCIÓN POLÍTICA DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
