@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-125052"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2018-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
@@ -94,6 +94,8 @@ Por los servicios que prestan las oficinas de la Dirección General del Registro
 Por los servicios prestados por las Autoridades de la Secretaría de Finanzas, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 9 A LA 10.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 11.]</small>
 
 ### CAPÍTULO V. De las Autoridades de la Secretaría de Administración
 
@@ -283,33 +285,47 @@ III. Copia simple a color en papel tamaño carta u oficio, cada una 27
 
 IV. Disco compacto, cada uno 43
 
-V. Copia xerográfica en papel bond, por metro cuadrado,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-expedido por el Instituto de Educación de Aguascalientes 70
+V. Copia xerográfica en papel bond, por metro cuadrado 70
 
-VI. Plano en papel bond, por metro cuadrado, expedido por 190
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-el Instituto de Educación de Aguascalientes
+VI. Plano en papel bond, por metro cuadrado 190
 
-VII. Plano simple, expedido por la Secretaría de Obras Públicas 35
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-VIII. Plano certificado, expedido por la Secretaría de Obras Públicas 55
+VII. Plano simple 35
 
-IX. Copia en blanco y negro de carta temática, planos o mapas
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-de bancos de material, por metro cuadrado, expedido por
+VIII. Plano Certificado 55
 
-la Secretaría de Sustentabilidad, Medio Ambiente y Agua
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-del Estado de Aguascalientes 85
+IX. Copia en blanco y negro de carta temática, planos o mapas 85
 
-X. Copia certificada en blanco y negro de carta temática,
+de bancos de material, por metro cuadrado
 
-planos o mapas de bancos de material, por metro cuadrado,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-expedido por la Secretaría de Sustentabilidad, Medio
+X. Copia certificada en blanco y negro de carta temática, 130
 
-Ambiente y Agua del Estado de Aguascalientes 130
+planos o mapas de bancos de material, por metro cuadrado
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XI. Versiones públicas de los documentos que estén en posesión 3
+
+del sujeto obligado
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XII. Videos en DVD 90
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIII. Memoria USB 104
 
 ### CAPÍTULO XIV. De las Autoridades de la Contraloría del Estado
 
@@ -355,6 +371,8 @@ Por el uso o goce de bienes y por la prestación de los servicios de los Organis
 
 > <small>[N. DE E. VÉASE TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 27 A LA 116.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 11.]</small>
+
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO ÚNICO. De los Productos de los Organismos Descentralizados, Órganos Desconcentrados, Autónomos Y Fideicomisos
@@ -365,6 +383,8 @@ Por los productos provenientes de los Organismos Descentralizados, Órganos Desc
 
 > <small>[N. DE E. VÉASE TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 116 A LA 120.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 12.]</small>
+
 Durante el ejercicio Fiscal 2018, se llevará a cabo la transición del Instituto del Agua del Estado de Aguascalientes, por lo que parte de sus funciones, se integrarán a la Secretaría de Obras Públicas y el resto de sus actividades operativas, se incorporara a la Secretaría de Sustentabilidad, Medio Ambiente y Agua; para lo anterior, se designará en su momento al Comité Técnico quien será el encargado de vigilar que este proceso de transición se lleve a cabo de manera integral, por lo que los conceptos, cuotas y tarifas plasmados en la fracción IV del presente Artículo, correspondiente al Instituto del Agua, serán el sustento jurídico para el cobro de los conceptos referidos durante el ejercicio fiscal 2018.
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 120 A LA 129.]</small>
@@ -372,6 +392,8 @@ Durante el ejercicio Fiscal 2018, se llevará a cabo la transición del Institut
 El Patronato de la Feria Nacional de San Marcos, emitirá el Decreto durante el mes de enero del año 2018, donde se establezcan las Reglas de Carácter General para la aplicación de descuentos.
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 129 A LA 133.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINAS 12 Y 13.]</small>
 
 El Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, podrá celebrar con empresas privadas y gobierno (Federal, Estatal y Municipal) Convenios para el otorgamiento de un descuento del 10 hasta un 30%, sobre los conceptos de cobro de la fracción IX de este artículo; para ser beneficiario de los descuentos convenidos se considerarán los requisitos establecidos en cada caso.
 
@@ -456,6 +478,8 @@ Por los Ingresos por Ventas de Bienes y Servicios provenientes de los Organismos
 Los servicios prestados por el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, mencionados en esta fracción, podrán ser sujetos de descuentos de hasta un 100%, de conformidad al resultado que arroje el estudio socio económico que elabore dicho Organismo. En los servicios señalados en todos los incisos del numeral 2) CRIS los descuentos se aplicarán, previo estudio socio económico, en base a la siguiente clasificación: A-55% B-65% C-80% D-85% E-100%. Por los servicios señalados en el inciso A), del numeral 3, se aplicará un descuento como sigue: A- Tercer hermano descuento del 50%; B- A partir del cuarto hermano, descuento del 100%
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 152 A LA 160.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 13.]</small>
 
 El Director General del Fideicomiso podrá otorgar tarifa especial conforme a las facultades establecidas en los reglamentos normativos aplicables del Fideicomiso Complejo Tres Centurias.
 
@@ -668,3 +692,17 @@ DIPUTADO SEGUNDO SECRETARIO.
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 21 de diciembre de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXOS EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 170 A LA 172.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263.- SE REFORMAN LOS ARTÍCULOS 16, 19, 20, 26. SE ADICIONAN LOS ARTÍCULOS 6°, 16 Y 20 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, con excepción de la Adición del Apartado 11, a la Fracción I del Articulo 6°, relativo al documento denominado Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, la cual entrará en vigor a partir de los sesenta días naturales siguientes al de su referida publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se faculta a la Secretaría de Finanzas de (sic) Gobierno del Estado, para que dentro de los sesenta días naturales a la publicación del presente Decreto, elabore y publique el documento denominado Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales.
