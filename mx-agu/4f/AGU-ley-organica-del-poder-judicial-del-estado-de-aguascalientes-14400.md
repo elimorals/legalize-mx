@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2017-07-03"
+last_updated: "2018-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -45,15 +45,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 1o.
 
 El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -207,21 +203,15 @@ XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los M
 
 XXVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 10.
 
 Para nombrar a los Magistrados del Supremo Tribunal de Justicia y a los Magistrados de la Sala Administrativa, el Consejo de la Judicatura Estatal emitirá la convocatoria correspondiente para que los aspirantes que cumplan con los requisitos establecidos en el artículo 53 de la Constitución Política del Estado, sean sometidos a exámenes de carácter psicométrico y aptitud, así como de conocimientos; ponderándose su experiencia laboral y formación académica. Elementos todos que agregados a los resultados que se obtengan de las evaluaciones respectivas, permitirán se formen las quintetas por cada magistratura vacante para realizar el trámite que establece el artículo 54 de la Constitución Política del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 10 A.- Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y los Magistrados de la Sala Administrativa durarán en su encargo quince años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -377,8 +367,6 @@ Las Salas sesionarán en pleno, los días y en horario que establezca el Reglame
 
 Las Salas calificarán las excusas e impedimentos de los Magistrados que las integran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 20.
@@ -391,37 +379,25 @@ II.- Distribuir por riguroso turno los negocios entre él y los demás miembros 
 
 III.- Presidir el Pleno de la Sala;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
 IV.- Convocar a sesiones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
 V.- Vigilar que se preserve el orden durante las sesiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 VI.- Dirigir la discusión de los asuntos sometidos a consideración de la Sala, previa exposición del proyecto a cargo del Magistrado ponente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 VII.- Poner a votación los asuntos al concluir el debate;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 VIII.- Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe del Secretario de Acuerdos, a excepción de la jurisdicción en materia penal donde los magistrados estarán investidos de fe pública para constancia y certificación de sus actos; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -450,8 +426,6 @@ V.- Tener tres años de práctica forense bien reconocida.
 ###### ARTICULO 23.
 
 Son obligaciones del Secretario de Acuerdos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -581,19 +555,13 @@ III.- La Dirección de Notificadores Civiles y Mensajería;
 
 IV.- La Dirección de Notificadores Penales y Mensajería;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 V.- La Dirección de Ejecutores; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 VI.- La Dirección del Archivo Judicial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VII.- (DEROGADA, P.O. 25 DE MARZO DE 2013)
 
@@ -619,8 +587,6 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 ## TITULO PRIMERO BIS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
 ### CAPÍTULO I. De la Sala Administrativa
@@ -643,13 +609,9 @@ Además, la Sala Administrativa ejercerá las facultades que en materia de comba
 
 Contará con la organización y atribuciones que esta Ley establece, y estará dotada de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. De la Integración de la Sala Administrativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -659,19 +621,13 @@ ARTÍCULO 33 B.- La Sala Administrativa estará conformada por tres Magistrados,
 
 Contará con un Secretario General de Acuerdos y secretarios de estudio, proyectistas, actuarios, auxiliares y servidores administrativos que sean necesarios para el buen despacho de los asuntos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 33 C.- Para el procedimiento de elección y la duración en el cargo de los Magistrados de la Sala Administrativa se estará a lo dispuesto en los artículos 54 y 56 de la Constitución Política del Estado y en el artículo 10 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 33 D.- Para ser Magistrado de la Sala Administrativa se deberán reunir los requisitos que establece el Artículo 5° de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -681,15 +637,11 @@ I.- Ser mexicano, domiciliado legalmente en el Estado cuando menos dos años ant
 
 II.- Tener título y cédula de Licenciado en Derecho debidamente registrados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 III.-Acreditar por lo menos tres años de práctica en materia administrativa; y
 
 IV.- Estar en pleno goce de sus derechos civiles y políticos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -745,11 +697,7 @@ Para los efectos de las dos primeras fracciones de este artículo, las resolucio
 
 La Sala Administrativa conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva y de los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTÍCULO 33 G.- (DEROGADO, P.O. 8 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -762,8 +710,6 @@ II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito 
 III.- Convocar y presidir las sesiones y dirigir los debates; y
 
 IV.- Vigilar que se cumpla con las determinaciones de la Sala;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -781,13 +727,9 @@ V.- Expedir su Reglamento Interior; y
 
 VI.- Las demás atribuciones que les señalen las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
 #### SECCIÓN CUARTA. De los Secretarios y Actuarios de la Sala Administrativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -813,8 +755,6 @@ IV.- Llevar los libros de gobierno de registro de documentos y de personas que p
 
 V.- Las demás que señalen las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 33 K.- Corresponde a los Secretarios de Estudio de la Sala Administrativa:
@@ -838,8 +778,6 @@ IV.- Expedir certificados de las constancias que obren en los expedientes, y
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 V.- Las demás que señalen las disposiciones legales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -921,8 +859,6 @@ ARTICULO 33 Ñ.- (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTICULO 33 O.- En materia de Justicia para Adolescentes, habrá los siguientes Jueces: de Preparación y Especializados para Adolescentes; y un Magistrado para Adolescentes.
@@ -936,8 +872,6 @@ ARTICULO 33 P.- Los Juzgados de Preparación para Adolescentes, conocerán de to
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ARTICULO 33 Q.- Los Juzgados Especializados para Adolescentes, conocerán de:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
 
@@ -956,8 +890,6 @@ VI. Garantizar que los adolescentes y los adultos jóvenes internados permanezca
 VII. Vigilar que la estructura física, equipamiento y funcionamiento del Centro Estatal para el Desarrollo del Adolescente sean adecuados para cumplir con lo establecido por la Ley del Sistema de Justicia para Adolescentes; y
 
 VIII. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1095,53 +1027,35 @@ XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código C
 
 La jurisdicción de primera instancia en materia penal estará a cargo de los juzgados de Control, de Juicio Oral y de Ejecución, y su competencia será conforme a lo establecido en el Código Nacional de Procedimientos Penales, las Leyes Federales que les atribuyan competencia, esta Legislación y demás normas relacionadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los juzgados de Control y de Ejecución estarán integrados cada uno por un Juez.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los juzgados de Juicio Oral estarán conformados por uno o más jueces cuando así lo determine el Consejo de la Judicatura Estatal. En caso de ser colegiados, se integrarán por tres jueces, y sus decisiones se tomarán por unanimidad o mayoría de votos, pudiendo redactarse el voto particular que se agregarán a la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces deberán estar presentes en todas las audiencias y trámites que les competan en el procedimiento penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 El Consejo de la Judicatura determinará el número de jueces de Control, de Juicio Oral y de Ejecución que sean indispensables para la adecuada aplicación de la jurisdicción de primera instancia en materia penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces de Control contarán con facultades de preparación de juicio oral, pero nunca podrán conocer de asuntos que hayan conocido en las etapas de investigación inicial y formalizada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces de Control, de Juicio Oral y de Ejecución estarán investidos de fe pública para constancia y certificación de sus actos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 41 BIS. (DEROGADO, P.O. 25 DE MARZO DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1165,8 +1079,6 @@ VII.- Conocer de la solución del conflicto a través de medios alternos, confor
 
 VIII.- Las demás que establezcan las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTICULO 41 B.- En materia de preparación de juicio, los jueces de control tendrán las siguientes atribuciones:
@@ -1183,8 +1095,6 @@ V.- Conocer de la solución del conflicto a través de medios alternos, conforme
 
 VI.- Las demás que establezcan las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTICULO 41 C.- Los jueces de Juicio Oral tendrán las siguientes atribuciones:
@@ -1196,8 +1106,6 @@ II.- Resolver todas las cuestiones que se presenten durante el Juicio Oral;
 III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de Juicio; y
 
 IV.- Las demás que establezcan las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1237,8 +1145,6 @@ El Primer Secretario será el jefe inmediato de la oficina en el orden administr
 
 La adscripción de los Notificadores y Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia del Estado. Para la debida ejecución de las diligencias que les sean encomendadas, los Notificadores y Ejecutores ejercerán sus atribuciones en todo el territorio del Estado, independientemente de la Dirección o Juzgado al que hayan sido adscritos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 43.
@@ -1250,8 +1156,6 @@ Además, los jueces de Control, de Juicio Oral y de Ejecución contarán con el 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ARTICULO 43 BIS.- En los Juzgados de Ejecución habrá un Juez, un Secretario de Acuerdos, un Notificador cuando menos y demás personal que acuerde el Consejo de la Judicatura. El Juez de Ejecución de Sanciones Penales deberá estar presente en todas las audiencias y trámites que le competan en el procedimiento de ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1268,6 +1172,10 @@ El Pleno del Supremo Tribunal de Justicia dictará los reglamentos o los acuerdo
 ###### ARTICULO 44.
 
 Son atribuciones de los Jueces de Primera Instancia, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+ARTICULO 44 A.- Los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estarán a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, están obligados a informar de manera expedita a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, en caso de que dichas situaciones no estén en su ámbito de competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 1995)</small>
 
@@ -1325,8 +1233,6 @@ ARTICULO 46 BIS.- Son obligaciones de los Secretarios de Estudio y Proyectos:
 
 Auxiliar al Juez en la elaboración de proyectos de sentencias interlocutorias y definitivas y desempeñar las demás funciones que le encomiende el Juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 47.
@@ -1370,8 +1276,6 @@ IV.- No haber sido condenado por delito intencional con pena privativa de libert
 Los Jueces Menores Mixtos serán competentes:
 
 I.- Para conocer en materia civil de los negocios cuya cuantía no exceda de dos meses de salario mínimo general;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
 
@@ -1469,8 +1373,6 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 Las faltas absolutas de los jueces civiles, mercantiles, familiares, mixtos, de Control, de Juicio Oral, de Ejecución, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Las faltas temporales que no excedan de quince días en materias distintas a la penal, se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar.
@@ -1509,8 +1411,6 @@ Las faltas de los demás servidores públicos de la administración de justicia,
 
 La Dirección del Archivo Judicial tendrá a su cargo la guarda y custodia de los expedientes, documentos y medios magnéticos o digitales provenientes de los archivos de trámite, una vez cumplido el plazo previsto para su conservación en los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala Administrativa, así como los Secretarios de los Juzgados de Primera Instancia y Mixtos Menores, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
@@ -1527,15 +1427,11 @@ I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civil
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante la Sala Administrativa;
 
 IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces deben remitir; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1564,8 +1460,6 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 ###### ARTICULO 79.
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1613,8 +1507,6 @@ a).- El otorgamiento de estímulos y recompensas económicas a la planta de serv
 
 b).- La participación de Magistrados y Jueces en congresos de Derecho;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en la Sala Administrativa y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
@@ -1636,8 +1528,6 @@ La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tri
 La Dirección de Informática del Poder Judicial dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
 
 I.- La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1715,8 +1605,6 @@ El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo 
 
 Corresponde al Consejo de la Judicatura Estatal:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 I.- Nombrar a los Jueces y servidores públicos de carrera judicial, con excepción de los del Supremo Tribunal de Justicia y los de la Sala Administrativa;
@@ -1735,25 +1623,17 @@ VII.- Otorgar a los servidores públicos del Poder Judicial el reconocimiento qu
 
 VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicatura Estatal, respecto de la mala actuación de algunos abogados postulantes, los cuales se harán acreedores a una amonestación y dicho organismo dará vista al Ministerio Público para que, en su caso, ejercite la acción penal correspondiente. Si no se ejercitare la acción penal, serán exonerados públicamente por el mismo Consejo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 IX.- Nombrar y determinar la adscripción del administrador judicial o administradores judiciales de juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para adolescentes, y supervisar su funcionamiento; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
 
 X.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2013)</small>
 
 ### CAPITULO VII. Del Administrador Judicial de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1821,15 +1701,11 @@ XXX.- Vigilar que el rol de turnos de jueces y demás personal del juzgado o tri
 
 XXXI.- Las demás que determine la ley o el Consejo de la Judicatura Estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTICULO 95 B.- En los juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, deberá nombrarse un Administrador Judicial o los administradores judiciales que se requieran, que serán considerados trabajadores de confianza, y los titulares de unidades administrativas, auxiliares y demás servidores públicos que sean necesarios para el buen funcionamiento de los juzgados y tribunales, con base a la disponibilidad presupuestal.
 
 El Consejo de la Judicatura determinará la adscripción del administrador judicial o administradores judiciales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1843,8 +1719,6 @@ III.- Tener· un mínimo de cinco años de experiencia profesional a nivel de di
 
 IV.- Gozar de buena reputación, reconocida honorabilidad y no haber sido condenado por delito doloso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTICULO 95 D.- El Administrador Judicial, según lo determine el Consejo de la Judicatura Estatal con base al presupuesto, podrá contar con las siguientes unidades administrativas para el cumplimiento eficaz y eficiente de sus funciones:
@@ -1856,8 +1730,6 @@ II.- Atención de público, destinada a otorgar una adecuada atención, orientac
 III.- Servicios, que reunirá las labores de soporte técnico de la red computacional del juzgado o tribunal, de contabilidad y de apoyo a la actividad administrativa del juzgado o tribunal, y la coordinación y abastecimiento de todas las necesidades físicas y materiales para la realización de las audiencias; y
 
 IV.- Administración de causas, que consistirá en desarrollar toda la labor relativa al manejo de causas y registros del proceso penal en el juzgado o tribunales, incluidas las relativas al manejo de las fechas y salas para las audiencias; al archivo judicial básico, al ingreso y al número de rol de las nueva causas; a la primera audiencia judicial de los detenidos; a la actualización diaria de la base de datos que contenga las causas del juzgado o tribunal, y a las estadísticas básicas del juzgado o tribunal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1883,13 +1755,9 @@ El Juez Coordinador podrá convocar a los Jueces con el objeto de analizar entre
 
 Si existieran tribunales en los que se desempeñe un solo juez, éste tendrá las atribuciones del Juez Coordinador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO VIII. La Policía Procesal
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1898,8 +1766,6 @@ ARTICULO 95 F.- La Seguridad en los Tribunales estará a cargo de la Policía Pr
 La Secretaría de Seguridad Pública del Estado designará a los elementos que formen parte de la policía procesal, y estarán asignados única y exclusivamente para ejercer las funciones de vigilancia y seguridad de los jueces, los tribunales, la Administración Judicial, sus unidades administrativas y su personal, así como para realizar funciones de cumplimiento de mandatos judiciales, seguridad de las audiencias, resguardo de detenidos en los tribunales, seguridad y control del público y los sujetos intervinientes en las audiencias, y las demás que les indiquen los Jueces, el Administrador Judicial y las leyes.
 
 Los elementos de policía procesal estarán coordinados por el Administrador Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1948,8 +1814,6 @@ I.- La actualización profesional de los miembros del Poder Judicial del Estado,
 II.- La capacitación de los aspirantes a ingresar al Poder Judicial del Estado; y
 
 III.- Las demás que le confieran las Leyes y Reglamentos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -2564,3 +2428,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
