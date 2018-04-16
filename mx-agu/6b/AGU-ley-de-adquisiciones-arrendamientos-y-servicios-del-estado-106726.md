@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2017-05-22"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -69,13 +71,17 @@ Los Sujetos de la Ley, se abstendrán de crear fideicomisos, otorgar mandatos o 
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Autoridades fiscalizadoras: son aquellas facultadas para revisar y evaluar el gasto público y aplicar las sanciones a que se refiere esta Ley; en el ámbito de sus competencias, esto es, respecto del Gobierno del Estado, la Secretaría de Fiscalización y Rendición de Cuentas; y, en cuanto a los Municipios, las Contralorías Municipales;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Autoridades fiscalizadoras: son aquellas facultadas para revisar y evaluar el gasto público y aplicar las sanciones a que se refiere esta Ley; en el ámbito de sus competencias, esto es, respecto del Gobierno del Estado, la Contraloría del Estado; y, en cuanto a los Municipios, las Contralorías Municipales;
 
 II. Comité: el Comité de Adquisiciones, Arrendamientos y Servicios del Gobierno del Estado, o los Comités Municipales o de las Entidades del Ejecutivo o del Municipio, según corresponda.
 
 III. Dependencias del Ejecutivo: las definidas como tales en la Ley Orgánica de la Administración Pública del Estado, incluyendo sus órganos desconcentrados;
 
-IV. Entes requirentes: las Dependencias del Ejecutivo o de los Municipios que respectivamente soliciten a la Oficialía Mayor o a su similar en los Municipios, la contratación de adquisiciones, arrendamientos o servicios; así como las unidades administrativas que requieran de las Entidades del Ejecutivo o de los Municipios dichas contrataciones;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV. Entes requirentes: las Dependencias del Ejecutivo o de los Municipios que respectivamente soliciten a la Secretaría de Administración o a su similar en los Municipios, la contratación de adquisiciones, arrendamientos o servicios; así como las unidades administrativas que requieran de las Entidades del Ejecutivo o de los Municipios dichas contrataciones;
 
 V. Entidades del Ejecutivo: los organismos públicos descentralizados, incluyendo universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos a los que la Ley Orgánica de la Administración Pública del Estado de Aguascalientes u otras disposiciones legales aplicables den ese carácter;
 
@@ -89,7 +95,7 @@ IX. Municipios: los municipios del Estado de Aguascalientes;
 
 X. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas, en la que los Licitantes, al presentar sus proposiciones, tienen la posibilidad de que, con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
-XI. Oficialía Mayor: la Oficialía Mayor del Estado de Aguascalientes. Cuando se refiera a su similar en los Municipios o en las entidades, se entenderán las Secretarías de Administración, Direcciones administrativas o sus equivalentes;
+XI. (DEROGADA, P.O. 16 DE ABRIL DE 2018)
 
 XII. Padrón: el Padrón Único de Proveedores de la Administración Pública Estatal o Municipal, según sea el caso.
 
@@ -99,15 +105,25 @@ XIV. Proveedor: la persona que participe en cualquier procedimiento de contratac
 
 XV. Secretaría: la Secretaría de Finanzas del Estado de Aguascalientes;
 
-XVI. Sistema Electrónico: El sistema electrónico de información pública sobre adquisiciones, arrendamientos y servicios del sector público, que implemente el Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XVII. Sujetos de la Ley: los señalados en las fracciones I, II y III del artículo 1° de la presente Ley;
+XVI. Secretaría de Administración: la Secretaría de Administración del Estado de Aguascalientes. Cuando se refiera a su similar en los Municipios o en las entidades, se entenderán las Secretarías de Administración, Direcciones administrativas o sus equivalentes;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XVIII. Sujetos de la Ley Contratantes: los que celebran los contratos de adquisiciones y arrendamientos de bienes y prestación de servicios, o que en los procedimientos de contratación tienen el carácter de convocante: la Oficialía Mayor para la Administración Pública Estatal Centralizada; las Entidades del Ejecutivo; los Municipios del Estado y sus Entidades;
+XVII. Sistema Electrónico: El sistema electrónico de información pública sobre adquisiciones, arrendamientos y servicios del sector público, que implemente el Poder Ejecutivo;
 
-XIX. Tesorerías: Tesorerías Municipales o sus equivalentes en las entidades.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XVIII. Sujetos de la Ley: los señalados en las Fracciones I, II y III del Artículo 1° de la presente Ley;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIX. Sujetos de la Ley Contratantes: los que celebran los contratos de adquisiciones y arrendamientos de bienes y prestación de servicios, o que en los procedimientos de contratación tienen el carácter de convocante: la Secretaría de Administración para la Administración Pública Estatal Centralizada; las Entidades del Ejecutivo; los Municipios del Estado y sus Entidades; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XX. Tesorerías: Tesorerías Municipales o sus equivalentes en las entidades.
 
 ###### Artículo 3°.
 
@@ -131,21 +147,31 @@ VIII. Las contrataciones de consultorías, asesorías, estudios e investigacione
 
 IX. En general, las contrataciones de los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los Sujetos de la Ley, salvo que las contrataciones se encuentren reguladas en forma específica por otras disposiciones legales.
 
-En caso de duda, corresponderá a la Secretaría de Fiscalización y Rendición de Cuentas y a su similar en los Municipios, a solicitud de los Sujetos de la Ley de que se trate, determinar si un servicio se ubica en la hipótesis de esta fracción.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+En caso de duda, corresponderá a la Contraloría del Estado y a su similar en los Municipios, a solicitud de los Sujetos de la Ley de que se trate, determinar si un servicio se ubica en la hipótesis de esta Fracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 4°.
 
-El titular del Poder Ejecutivo del Estado desarrollará los procedimientos previstos en esta Ley por conducto de la Oficialía Mayor, respecto a las adquisiciones, arrendamientos de bienes y contratación de servicios de la Administración Pública Estatal Centralizada y llevará a cabo la contratación correspondiente. Lo anterior sin perjuicio de la intervención que corresponda a otras autoridades, de conformidad con las disposiciones legales y normativas aplicables.
+El titular del Poder Ejecutivo del Estado desarrollará los procedimientos previstos en esta Ley por conducto de la Secretaría de Administración, respecto a las adquisiciones, arrendamientos de bienes y contratación de servicios de la Administración Pública Estatal Centralizada y llevará a cabo la contratación correspondiente. Lo anterior sin perjuicio de la intervención que corresponda a otras autoridades, de conformidad con las disposiciones legales y normativas aplicables.
 
-Será responsabilidad de las Direcciones Administrativas de cada Dependencia o de las unidades que ejerzan dichas funciones en las mismas, el inicio de los procesos correspondientes, su seguimiento, la recepción de los bienes y servicios solicitados, así como el trámite de pago; es decir la ejecución, validación y comprobación de su gasto, así como el apego de sus operaciones a todos los lineamientos y normatividad aplicables. La Oficialía Mayor no será responsable ante las Autoridades fiscalizadoras por los actos señalados en este párrafo. Su responsabilidad se agota con la realización del procedimiento de contratación y la firma del contrato correspondiente.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+Será responsabilidad de las Direcciones Administrativas de cada Dependencia o de las unidades que ejerzan dichas funciones en las mismas, el inicio de los procesos correspondientes, su seguimiento, la recepción de los bienes y servicios solicitados, así como el trámite de pago; es decir la ejecución, validación y comprobación de su gasto, así como el apego de sus operaciones a todos los lineamientos y normatividad aplicables. La Secretaría de Administración no será responsable ante las Autoridades fiscalizadoras por los actos señalados en este párrafo. Su responsabilidad se agota con la realización del procedimiento de contratación y la firma del contrato correspondiente.
 
 Los Municipios y sus Entidades, así como las Entidades del Ejecutivo aplicarán las disposiciones previstas en esta Ley por conducto de sus Secretarías, Direcciones Administrativas o la Unidad Administrativa correspondiente, respecto a sus adquisiciones, arrendamientos de bienes y contratación de servicios, quienes tendrán las mismas responsabilidades a que se refiere el párrafo anterior.
 
-La Oficialía Mayor o sus similares en los Municipios dentro del ámbito de su competencia, podrán brindar la asesoría técnica que les sea solicitada por las Entidades del Ejecutivo o del Municipio, según corresponda.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+La Secretaría de Administración o sus similares en los Municipios dentro del ámbito de su competencia, podrán brindar la asesoría técnica que les sea solicitada por las Entidades del Ejecutivo o del Municipio, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 5°.
 
-La Oficialía Mayor y su similar en los Municipios, así como las Autoridades fiscalizadoras, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta Ley, previa opinión favorable de los Comités respectivos, cuando por el monto de la contratación corresponda su intervención; así como para emitir los lineamientos correspondientes.
+La Secretaría de Administración y su similar en los Municipios, así como las Autoridades fiscalizadoras, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta Ley, previa opinión favorable de los Comités respectivos, cuando por el monto de la contratación corresponda su intervención; así como para emitir los lineamientos correspondientes.
 
 Los Sujetos de la Ley Contratantes dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley. Las disposiciones de carácter general se publicarán en el Periódico Oficial del Estado de Aguascalientes.
 
@@ -173,23 +199,31 @@ Los Entes requirentes podrán, dentro de su presupuesto autorizado, bajo su resp
 
 Los actos, contratos y convenios que realicen o celebren los Sujetos de la Ley en contravención a lo dispuesto por esta Ley, serán nulos previa determinación de la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 11.
 
-La Oficialía Mayor o su similar en los Municipios, mediante disposiciones de carácter general, determinarán, en su caso, los bienes, arrendamientos o servicios de uso generalizado que en forma consolidada, podrán requerir los Sujetos de la Ley con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, así como para fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio. Para tales efectos, la Oficialía Mayor o su similar en los Municipios, se limitarán a efectuar los procedimientos de contratación de las adquisiciones, arrendamientos y prestaciones de servicios solicitadas, siendo responsabilidad de los Sujetos de la Ley Contratantes que no formen parte de la administración pública centralizada del Estado o del Municipio, la preparación de los procesos, la suscripción, ejecución y cumplimiento del contrato de que se trate, la aplicación de penas convencionales y de las garantías correspondientes, así como la ejecución de las medidas conducentes en caso de incumplimiento. No obstante lo anterior, la Oficialía Mayor o su similar en los Municipios, podrán determinar cuándo uno o varios Sujetos de la Ley tendrán a su cargo las responsabilidades establecidas en el presente párrafo.
+La Secretaría de Administración o su similar en los Municipios, mediante disposiciones de carácter general, determinarán, en su caso, los bienes, arrendamientos o servicios de uso generalizado que en forma consolidada, podrán requerir los Sujetos de la Ley con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, así como para fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio. Para tales efectos, la Secretaría de Administración o su similar en los Municipios, se limitarán a efectuar los procedimientos de contratación de las adquisiciones, arrendamientos y prestaciones de servicios solicitadas, siendo responsabilidad de los Sujetos de la Ley Contratantes que no formen parte de la administración pública centralizada del Estado o del Municipio, la preparación de los procesos, la suscripción, ejecución y cumplimiento del contrato de que se trate, la aplicación de penas convencionales y de las garantías correspondientes, así como la ejecución de las medidas conducentes en caso de incumplimiento. No obstante lo anterior, la Secretaría de Administración o su similar en los Municipios, podrán determinar cuándo uno o varios Sujetos de la Ley tendrán a su cargo las responsabilidades establecidas en el presente párrafo.
 
 Lo previsto en los párrafos anteriores, es sin perjuicio de que los Sujetos de la Ley Contratantes puedan agruparse para adquirir en forma consolidada sus bienes, arrendamientos o servicios.
 
-En materia de seguros que se contraten a favor de las Dependencias del Ejecutivo o del Municipio, incluido el seguro de vida de los pensionados, la Oficialía Mayor o su similar en los Municipios, en su caso, implementarán procedimientos de contratación consolidada y celebrarán los contratos correspondientes. Las Entidades del Ejecutivo o del Municipio podrán solicitar su incorporación a las contrataciones que se realicen para las Dependencias, siempre y cuando no impliquen dualidad de beneficios para los servidores públicos.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-## TÍTULO SEGUNDO. DE LA OFICIALÍA MAYOR Y EL COMITÉ
+En materia de seguros que se contraten a favor de las Dependencias del Ejecutivo o del Municipio, incluido el seguro de vida de los pensionados, la Secretaría de Administración o su similar en los Municipios, en su caso, implementarán procedimientos de contratación consolidada y celebrarán los contratos correspondientes. Las Entidades del Ejecutivo o del Municipio podrán solicitar su incorporación a las contrataciones que se realicen para las Dependencias, siempre y cuando no impliquen dualidad de beneficios para los servidores públicos.
 
-### CAPÍTULO PRIMERO. De las Atribuciones de la Oficialía Mayor
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2018)</small>
+
+## TÍTULO SEGUNDO. DE LA SECRETARÍA DE ADMINISTRACIÓN Y EL COMITÉ
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO PRIMERO. De las Atribuciones de la Secretaría de Administración
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 12.
 
-La Oficialía Mayor tendrá las atribuciones siguientes:
+La Secretaría de Administración tendrá las atribuciones siguientes:
 
 I. Solicitar a las Dependencias de Ejecutivo, la presentación de sus proyectos de planes de adquisiciones, arrendamientos y de la contratación de servicios;
 
@@ -225,9 +259,11 @@ XVI. Coadyuvar con la Secretaría para determinar y ejecutar las sanciones a que
 
 XVII. Las demás que le otorguen esta Ley u otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 13.
 
-Las facultades conferidas en el artículo que antecede, con excepción de la prevista en la fracción VIII, en lo conducente, se entienden conferidas a los similares de la Oficialía Mayor en los Municipios, y en las Entidades del Ejecutivo o del Municipio en el ámbito de sus competencias.
+Las facultades conferidas en el artículo que antecede, con excepción de la prevista en la fracción VIII, en lo conducente, se entienden conferidas a los similares de la Secretaría de Administración en los Municipios, y en las Entidades del Ejecutivo o del Municipio en el ámbito de sus competencias.
 
 ### CAPÍTULO SEGUNDO. De la Integración, Sesiones, y Atribuciones del Comité
 
@@ -239,7 +275,9 @@ Los Sujetos de la Ley Contratantes deberán constituir sus comités respectivos 
 
 El Comité de los Sujetos de la Ley estará integrado por:
 
-I. Un Presidente, que será el titular de la Oficialía Mayor, su similar en los Municipios o el Director General en las Entidades del Ejecutivo o del Municipio, con voz y voto;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Un Presidente, que será el titular de la Secretaría de Administración, su similar en los Municipios o el Director General en las Entidades del Ejecutivo o del Municipio, con voz y voto;
 
 II. Un Secretario Ejecutivo con voz y voto, que será designado por el Sujeto de la Ley Contratante;
 
@@ -249,7 +287,9 @@ Un representante de la Secretaría o Tesorerías; un representante de la Coordin
 
 IV. Un vocal con voz pero sin voto que será:
 
-Un representante de la Secretaría de Fiscalización y Rendición de Cuentas o del órgano interno de control de la Entidad o Municipio, según corresponda; y
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+Un representante de la Contraloría del Estado o del órgano interno de control de la Entidad o Municipio, según corresponda; y
 
 V. Un representante del Ente requirente con voz pero sin voto.
 
@@ -277,13 +317,17 @@ Las decisiones se tomarán por el cincuenta por ciento más uno de votos; en cas
 
 El Comité tendrá las siguientes atribuciones:
 
-I. Proponer modificaciones de mejora a los sistemas, procedimientos y manuales de operación que establezca la Oficialía Mayor, su similar en los Municipios, en las Entidades del Ejecutivo o del Municipio y, promover que la información se procese de preferencia en sistemas computarizados;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Proponer modificaciones de mejora a los sistemas, procedimientos y manuales de operación que establezca la Secretaría de Administración, su similar en los Municipios, en las Entidades del Ejecutivo o del Municipio y, promover que la información se procese de preferencia en sistemas computarizados;
 
 II. Resolver sobre los casos de excepción a licitar públicamente la contratación de adquisición o arrendamiento de bienes muebles y servicios previstos en los artículos 61 y 63;
 
 III. Fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio;
 
-IV. Dictaminar, en el ámbito de su competencia, los proyectos de lineamientos en materia de adquisiciones, arrendamientos y servicios que le presenten, así como someterlos a consideración del Oficial Mayor o su similar en los Municipios, o al Director General de las Entidades del Ejecutivo o de los Municipios y, en su caso, autorizar los supuestos no previstos en los mismos.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV. Dictaminar, en el ámbito de su competencia, los proyectos de lineamientos en materia de adquisiciones, arrendamientos y servicios que le presenten, así como someterlos a consideración de la Secretaría de Administración o su similar en los Municipios, o al Director General de las Entidades del Ejecutivo o de los Municipios y, en su caso, autorizar los supuestos no previstos en los mismos;
 
 V. Autorizar, cuando se justifique, la creación de subcomités de adquisiciones, arrendamientos y servicios, así como aprobar la integración y funcionamiento de los mismos;
 
@@ -347,17 +391,21 @@ IV. Las demás que le confiera el Comité o la normatividad aplicable.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 22.
 
-La Oficialía Mayor o su similar en los Municipios, tendrán a su cargo el Padrón Único de Proveedores de la Administración Pública Estatal o Municipal, según sea el caso, con el objeto de llevar el registro de las personas físicas o morales que deseen proveer, arrendar bienes, o prestar servicios a los Sujetos de la Ley.
+La Secretaría de Administración o su similar en los Municipios, tendrán a su cargo el Padrón Único de Proveedores de la Administración Pública Estatal o Municipal, según sea el caso, con el objeto de llevar el registro de las personas físicas o morales que deseen proveer, arrendar bienes, o prestar servicios a los Sujetos de la Ley.
 
-El Padrón proporcionará a los Sujetos de la Ley información sobre las personas que cuenten con capacidad de proveer, arrendar bienes, o prestar servicios en las condiciones y calidad requeridas.
+El Padrón proporcionará a los Sujetos de la Ley información sobre las personas que cuenten con capacidad de proveer, arrendar bienes, o prestar servicios en las condiciones y calidad requeridas, así como sobre su situación fiscal en el cumplimiento de obligaciones.
 
 ###### Artículo 23.
 
 Para su inscripción en el Padrón, los interesados deberán cumplir con los siguientes requisitos:
 
-I. Presentar su solicitud en el formato aprobado por la Oficialía Mayor;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Presentar su solicitud en el formato aprobado por la Secretaría de Administración;
 
 II. Las personas morales deberán presentar copia certificada de su acta constitutiva y sus modificaciones debidamente inscritas en el Registro Público de la Propiedad y de Comercio, así como acreditar con el instrumento público respectivo la personalidad de su representante legal;
 
@@ -365,19 +413,29 @@ III. Las personas físicas deberán presentar documentos oficiales que acrediten
 
 IV. Demostrar su solvencia económica y capacidad para proveer o arrendar bienes o prestar servicios.
 
-V. Presentar constancia de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, así como presentar la constancia de cumplimiento de las obligaciones fiscales que se obtiene a través de la página de Internet del Servicio de Administración Tributaria.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-VI. Proporcionar la información complementaria que solicite la Oficialía Mayor o su similar en los Municipios, en términos de la normatividad aplicable.
+V. Presentar constancia de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, así como presentar la Opinión del Cumplimiento de Obligaciones Fiscales, que se obtiene a través de la página de Internet del Servicio de Administración Tributaria y la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales emitida por la Secretaría, las cuales deberán constar en sentido positivo y estar vigentes al día de la inscripción o refrendo en el Padrón, según sea el caso; y
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VI. Proporcionar la información complementaria que solicite la Secretaría de Administración o su similar en los Municipios, en términos de la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 24.
 
-La Oficialía Mayor o su similar en los Municipios, dentro de un término que no excederá de diez días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o modificación en el Padrón.
+La Secretaría de Administración o su similar en los Municipios, dentro de un término que no excederá de diez días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o modificación en el Padrón.
 
-Si transcurrido el término que se señala en el párrafo primero de este artículo, la Oficialía Mayor o su similar en los Municipios no resuelve sobre la aceptación o negativa del registro o su refrendo, sin más trámite deberá otorgarse.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+Si transcurrido el término que se señala en el párrafo primero de este Artículo, la Secretaría de Administración o su similar en los Municipios no resuelve sobre la aceptación o negativa del registro o su refrendo, sin más trámite deberá otorgarse.
 
 En caso de negativa, ésta se comunicará por escrito fundando y motivando las razones de la misma.
 
-Si la solicitud fuese confusa o incompleta, la Oficialía Mayor o su similar en los Municipios, requerirá al solicitante para que en un término de cinco días hábiles posteriores a su recepción, la aclare o complete, en caso contrario se le tendrá por no presentada.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+Si la solicitud fuese confusa o incompleta, la Secretaría de Administración o su similar en los Municipios, requerirá al solicitante para que en un término de cinco días hábiles posteriores a su recepción, la aclare o complete, en caso contrario se le tendrá por no presentada.
 
 ###### Artículo 25.
 
@@ -385,19 +443,27 @@ El registro en el Padrón tendrá vigencia desde su fecha de expedición hasta q
 
 La falta de presentación de solicitud para obtener el refrendo o la negativa de éste, traerá como consecuencia la cancelación del registro a su vencimiento, sin necesidad de resolución expresa en tal sentido y sin perjuicio del derecho del interesado de formular nueva solicitud para obtenerlo.
 
-El registro y el refrendo por actualización, se solicitarán en los formatos que expida la Oficialía Mayor o su similar en los Municipios.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El registro y el refrendo por actualización, se solicitarán en los formatos que expida la Secretaría de Administración o su similar en los Municipios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### Artículo 26.
 
-La Oficialía Mayor o su similar en los Municipios podrán suspender el registro en el Padrón hasta por el término de veinticuatro meses, cuando el Proveedor:
+La Secretaría de Administración o su similar en los Municipios podrán suspender el registro en el Padrón hasta por el término de veinticuatro meses, cuando el Proveedor:
 
-I. Se niegue a dar las facilidades necesarias para que la Oficialía Mayor o sus similares en los Municipios y las entidades o las Autoridades fiscalizadoras ejerzan sus facultades de comprobación, inspección y vigilancia; o,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Se niegue a dar las facilidades necesarias para que la Secretaría de Administración o sus similares en los Municipios y las entidades o las Autoridades fiscalizadoras ejerzan sus facultades de comprobación, inspección y vigilancia; o
 
 II. No sostenga su propuesta económica en determinada partida de un procedimiento de contratación, a menos que indemnice al Estado o Municipio por los daños y/o perjuicios ocasionados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 27.
 
-La Oficialía Mayor podrá cancelar el registro de un Proveedor o negar el refrendo del mismo cuando:
+La Secretaría de Administración podrá cancelar el registro de un Proveedor o negar el refrendo del mismo cuando:
 
 I. Se compruebe que hubiere actuado con dolo o mala fe y la información proporcionada sea falsa o inconsistente;
 
@@ -413,7 +479,9 @@ III. Reincida en la comisión de los actos a que se refiere el artículo anterio
 
 En la planeación de las adquisiciones, arrendamientos y servicios que pretendan realizar los Entes requirentes, deberán ajustarse a:
 
-I. Los objetivos y prioridades del Plan Sexenal del Gobierno del Estado o del Plan de Desarrollo Municipal, según sea el caso, a los programas institucionales, y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I. Los objetivos y prioridades del Plan Estatal de Desarrollo del Estado o del Plan de Desarrollo Municipal, según sea el caso, a los programas institucionales, y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales; y
 
 II. Los objetivos, metas y previsiones de recursos establecidos en el Presupuesto de Egresos del Estado o del Municipio, según sea el caso.
 
@@ -471,9 +539,11 @@ La programación de las adquisiciones de bienes muebles, arrendamientos de biene
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 35.
 
-Los Sujetos de la Ley que requieran el uso de edificios o locales adicionales para el desarrollo de sus actividades, procurarán utilizar los espacios propiedad de Gobierno Estatal o Municipal según corresponda, que se encuentren disponibles; de lo contrario solicitarán a la Oficialía o su similar en los Municipios o Entidades la formalización de un contrato de arrendamiento con los titulares legítimos de los inmuebles correspondientes, cuando el costo de dichos arrendamientos resulte financieramente más conveniente comparativamente con el costo de adquirir el inmueble, o que se requiera por tiempo definido y para un fin específico.
+Los Sujetos de la Ley que requieran el uso de edificios o locales adicionales para el desarrollo de sus actividades, procurarán utilizar los espacios propiedad de Gobierno Estatal o Municipal según corresponda, que se encuentren disponibles; de lo contrario solicitarán a la Secretaría de Administración o su similar en los Municipios o Entidades la formalización de un contrato de arrendamiento con los titulares legítimos de los inmuebles correspondientes, cuando el costo de dichos arrendamientos resulte financieramente más conveniente comparativamente con el costo de adquirir el inmueble, o que se requiera por tiempo definido y para un fin específico.
 
 En caso de que el inmueble a arrendar, esté sujeto al régimen de propiedad en condominio y deban pagarse cuotas de mantenimiento de las áreas de uso común, el pago de las mismas podrá pactarse en el contrato de arrendamiento respectivo.
 
@@ -487,9 +557,11 @@ II. Revisar el inventario y catálogo de la propiedad patrimonial estatal o muni
 
 III. Asignar en su caso a las dependencias y entidades interesadas, los inmuebles disponibles.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 37.
 
-La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto del Instituto Catastral. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
+La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
 
 ###### Artículo 38.
 
@@ -523,9 +595,11 @@ Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestaci
 
 Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestación de servicios no podrán fraccionarse para simular y evadir los topes establecidos en esta Ley. Para el cálculo de dichos topes se tomará el precio de los bienes o servicios sin considerar el Impuesto al Valor Agregado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 40.
 
-Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones.
+Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Sustentabilidad, Medio Ambiente y Agua, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones.
 
 En las adquisiciones de papel para uso de oficina, éste deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado, o de fibras naturales no derivadas de la madera, o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificadas conforme a lo dispuesto en el párrafo anterior, o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
 
@@ -591,7 +665,9 @@ II. Nacional, en la cual únicamente podrán participar personas de nacionalidad
 
 Los casos de excepción correspondientes a dicho contenido, así como el procedimiento para determinar el porcentaje del mismo será el establecido por autoridades federales mediante reglas de carácter general.
 
-En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos para la adquisición de bienes muebles o servicios cuya descripción y características técnicas puedan ser objetivamente definidas y la evaluación legal y técnica de las proposiciones de los Licitantes se pueda realizar en forma inmediata, al concluir la celebración del acto de presentación y apertura de proposiciones, conforme a los lineamientos que expida la Oficialía o su similar en los Municipios o en las Entidades, siempre que los Entes requirentes justifiquen debidamente el uso de dicha modalidad y que constaten que existe competitividad suficiente de conformidad con la investigación de mercado correspondiente.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos para la adquisición de bienes muebles o servicios cuya descripción y características técnicas puedan ser objetivamente definidas y la evaluación legal y técnica de las proposiciones de los Licitantes se pueda realizar en forma inmediata, al concluir la celebración del acto de presentación y apertura de proposiciones, conforme a los lineamientos que expida la Secretaría de Administración o su similar en los Municipios o en las Entidades, siempre que los Entes requirentes justifiquen debidamente el uso de dicha modalidad y que constaten que existe competitividad suficiente de conformidad con la investigación de mercado correspondiente.
 
 Tratándose de licitaciones públicas en las que participen de manera individual micro, pequeñas y medianas empresas nacionales, no se aplicará la modalidad de ofertas subsecuentes de descuento.
 
@@ -881,11 +957,13 @@ Las contrataciones con monto hasta por un límite de tres mil veces el valor dia
 
 Las contrataciones por invitación a cuando menos tres personas por monto, quedarán comprendidas entre los tres mil y quince mil veces el valor diario de la Unidad de Medida y Actualización, en los cuales se deberán invitar con la debida oportunidad un mínimo de tres distintos Proveedores inscritos en el Padrón de Proveedores. El procedimiento deberá sujetarse a lo dispuesto en el artículo 62 de esta Ley, con excepción de lo dispuesto en su fracción V. La adjudicación se podrá decidir con un mínimo de dos propuestas, siempre y cuando la mejor oferta económica sea igual o menor al precio contenido en el estudio de mercado elaborado por el Ente requirente.
 
-Los procedimientos de contratación por invitación a cuando menos tres personas por monto o la adjudicación directa por tabla comparativa deberán ser normados por la Oficialía Mayor a través del Manual Único de Adquisiciones, Arrendamientos y Servicios.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+Los procedimientos de contratación por invitación a cuando menos tres personas por monto o la adjudicación directa por tabla comparativa deberán ser normados por la Secretaría de Administración a través del Manual Único de Adquisiciones, Arrendamientos y Servicios.
 
-La facultad de dictaminar y acordar la procedencia para contratar a través de adjudicación directa derivada de la actualización de alguno de los supuestos de excepción previstos en el artículo 63 de esta Ley, por lo que hace a los procedimientos de invitación a cuando menos tres personas por monto o de adjudicación directa por tabla comparativa, corresponderá a la Oficialía Mayor o su similar en los Municipios o en las Entidades, a solicitud del titular del Ente Requirente, la que deberá cumplir con los requisitos de fundamentación y motivación establecidos en el segundo párrafo del artículo 60 de esta Ley.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+La facultad de dictaminar y acordar la procedencia para contratar a través de adjudicación directa derivada de la actualización de alguno de los supuestos de excepción previstos en el Artículo 63 de esta Ley, por lo que hace a los procedimientos de invitación a cuando menos tres personas por monto o de adjudicación directa por tabla comparativa, corresponderá a la Secretaría de Administración o su similar en los Municipios o en las Entidades, a solicitud del titular del Ente Requirente, la que deberá cumplir con los requisitos de fundamentación y motivación establecidos en el segundo párrafo del Artículo 60 de esta Ley.
 
 En caso de que dos invitaciones a cuando menos tres por monto sean declarados desiertas consecutivamente, la contratación se adjudicará conforme a los lineamientos del procedimiento para adjudicación directa por tabla comparativa.
 
@@ -1015,9 +1093,17 @@ VI. Las que contraten servicios de asesoría, consultoría y apoyo de cualquier 
 
 VII. Las que, en virtud de la información con la que cuente la Autoridad fiscalizadora, hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
 
-VIII. Aquéllas a las que se declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores; y,
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-IX. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
+VIII. Aquéllas a las que se declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2018)</small>
+
+IX. Las personas que no estén al corriente en el cumplimiento de sus obligaciones fiscales en los términos de las Leyes respectivas, para lo cual deberán exhibir documento vigente expedido por el Servicio de Administración Tributaria y por la Secretaría, en el que se emita la opinión positiva del cumplimiento de obligaciones fiscales federales y estatales respectivamente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2018)</small>
+
+X. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
 
 ###### Artículo 72.
 
@@ -1449,9 +1535,11 @@ En la conciliación las partes deberán procurar la realización de acciones que
 
 ### CAPÍTULO TERCERO. Del Recurso de Revisión y de la Competencia Judicial
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 109.
 
-En contra de las resoluciones definitivas que dicten la Oficialía Mayor o su equivalente en los Municipios, las Autoridades fiscalizadoras y los Comités, se podrá interponer recurso de revisión en los términos y con los requisitos que establece la Ley de Procedimiento Administrativo del Estado de Aguascalientes, mismo que se tramitará y resolverá por la propia autoridad de la que se reclame el acto, conforme a lo dispuesto en la citada Ley.
+En contra de las resoluciones definitivas que dicten la Secretaría de Administración o su equivalente en los Municipios, las Autoridades fiscalizadoras y los Comités, se podrá interponer recurso de revisión en los términos y con los requisitos que establece la Ley de Procedimiento Administrativo del Estado de Aguascalientes, mismo que se tramitará y resolverá por la propia autoridad de la que se reclame el acto, conforme a lo dispuesto en la citada Ley.
 
 Respecto de los actos señalados en el artículo 93 de esta Ley, deberá agotarse la instancia de la inconformidad para la interposición del recurso de revisión.
 
@@ -1536,3 +1624,11 @@ P.O. 22 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 262.- SE REFORMAN LOS ARTÍCULOS 2°, 3°, 4°, 5°, 11, 12, 13, 15, 18, 22, 23, 24, 25, 26, 27, 28, 35, 37, 40, 47, 64, 71, 109. SE ADICIONAN LOS ARTÍCULOS 2° Y 71 Y SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 2°, DE LA LEY DE ADQUISICIONES; ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
