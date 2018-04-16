@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2016-05-23"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -989,7 +989,11 @@ I. Brindar un continuo apoyo a la comunidad a través de mecanismos de comunicac
 
 II. Atender las emergencias de la ciudadanía en materia de Seguridad Pública, Protección Civil y atención pre hospitalaria mediante el servicio telefónico de emergencia 066;
 
-III. Atender las llamadas de denuncias anónimas mediante el Servicio Telefónico de Emergencia 089;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III. Atender las llamadas de emergencia de toda la población, incluso las denuncias anónimas mediante el Servicio Telefónico de Emergencia 911.
+
+Las que se refieran a situaciones en donde estén en peligro o riesgo inminente la vida, integridad personal o libertad de niñas, niños y adolescentes, serán reportadas de forma inmediata a la Procuraduría de Protección de los Derechos de las Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
 IV. Realizar los procedimientos de monitoreo de la Red Estatal de Telecomunicaciones para corroborar su buen funcionamiento y uso adecuado;
 
@@ -1201,9 +1205,17 @@ Las Instituciones Policiales en el Estado, para el mejor cumplimiento de sus obj
 
 I. Investigación de hechos que puedan ser constitutivos de delitos, a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información;
 
-II. Prevención de delitos e infracciones administrativas en los respectivos ámbitos de competencia, mediante acciones de inspección, vigilancia y vialidad en su circunscripción; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-III. Reacción, a fin de garantizar, mantener y restablecer el orden y la paz públicos.
+II. Prevención de delitos e infracciones administrativas en los respectivos ámbitos de competencia, mediante acciones de inspección, vigilancia y vialidad en su circunscripción;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III. Reacción, a fin de garantizar, mantener y restablecer el orden y la paz públicos; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV. Actuarán en colaboración con las autoridades que conforman el Sistema Local de Protección de los Derechos de las Niñas, Niños y Adolescentes, de tal manera que levantarán informes acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes y los reportarán de inmediato a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, para que se realicen los procedimientos legales correspondientes.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2232,3 +2244,15 @@ Se deberán hacer las modificaciones a las partidas presupuestales correspondien
 ###### ARTÍCULO QUINTO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, la referencia a dicha Fiscalía contenida en el presente Decreto, se entenderá hecha a la Procuraduría General de la República.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTICULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
