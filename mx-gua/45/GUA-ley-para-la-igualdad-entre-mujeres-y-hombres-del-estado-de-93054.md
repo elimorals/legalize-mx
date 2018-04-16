@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-9305
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2013-03-12"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de marzo de 2013.
 
@@ -203,7 +203,9 @@ VI. Instaurar la transversalidad en la ejecución de las políticas públicas en
 
 VII. Adoptar las medidas necesarias para buscar la erradicación de la violencia de género, la violencia familiar y el acoso y hostigamiento sexual;
 
-VIII. Fomentar el uso de un lenguaje que genere un ambiente de respeto en el ámbito administrativo y en la totalidad de las relaciones;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VIII. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
 
 IX. Atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de funcionarios y servidores públicos que les correspondan, no obstaculizando el acceso de las mujeres a puestos de decisión, así como en la integración del gabinete, de los consejos, comités, patronatos y sistemas estatales;
 
@@ -211,7 +213,11 @@ X. Impulsar el empoderamiento de las mujeres con acciones, planes, programas o e
 
 XI. Fomentar la vinculación interinstitucional a fin de fortalecer las acciones en materia de igualdad; y
 
-XII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XII. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas; y
+
+XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ### Capítulo II. Poder Ejecutivo
 
@@ -309,7 +315,11 @@ IV. Promover el pleno ejercicio de los derechos como finalidad del desarrollo hu
 
 V. Promover el desarrollo de la familia, con una participación distributiva de los hombres en las responsabilidades familiares y de planificación familiar;
 
-VI. Diseñar, formular y aplicar campañas de concientización en materia de igualdad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VI. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley les confiere.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
 VII. Fomentar la participación social y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
 
@@ -563,7 +573,9 @@ VIII. Difundir la prohibición de la legislación laboral de solicitar prueba de
 
 IX. Respetar y garantizar la igualdad de derechos y oportunidades entre mujeres y hombres;
 
-X. Contribuir y propiciar el reparto equilibrado de las responsabilidades familiares;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+X. Contribuir y propiciar el reparto equilibrado de las responsabilidades familiares reconociendo a las madres y a los padres biológicos y por adopción el derecho a un permiso y a una prestación por maternidad y paternidad, en términos de la Ley Federal del Trabajo y la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
 
 XI. Garantizar la igualdad entre mujeres y hombres en el acceso al trabajo, en el ascenso en el mismo y en la remuneración justa; y
 
@@ -588,6 +600,10 @@ I. Igualdad en los ámbitos personal, familiar y laboral, fortaleciendo la parti
 II. Adopción de medidas que fomenten la transmisión del principio de igualdad entre mujeres y hombres; y
 
 III. Colaboración en el fomento de la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV. Que los medios de comunicación difundan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 ## Título Tercero. Instrumentos estatales para la igualdad entre mujeres y hombres
 
@@ -782,3 +798,13 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 295, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
