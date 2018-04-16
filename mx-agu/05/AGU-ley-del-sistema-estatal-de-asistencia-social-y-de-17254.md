@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2017-07-03"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -237,9 +237,17 @@ XV.- La colaboración y auxilio a las autoridades laborales competentes, en la v
 
 XVI.- El fomento de acciones hacia la paternidad responsable, la formación cultural en la igualdad y los derechos humanos, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
 
-XVII.- El establecimiento y manejo de un departamento dedicado a la atención de personas víctimas de violencia intrafamiliar e institucional, o víctimas de delitos sexuales; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XVIII.- La promoción y fomento educativo hacia el respeto, reconocimiento y aceptación social en la igualdad de derechos y obligaciones del hombre y la mujer.
+XVII.- El establecimiento y manejo de un departamento dedicado a la atención de personas víctimas de violencia intrafamiliar e institucional, o víctimas de delitos sexuales;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XVIII.- La promoción y fomento educativo hacia el respeto, reconocimiento y aceptación social en la igualdad de derechos y obligaciones del hombre y la mujer; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIX.- La implementación de programas de asistencia social dirigidos a los padres solteros, tanto mujeres como hombres, que requieran apoyo económico o en especie para satisfacer los requerimientos básicos de subsistencia y desarrollo para ellos, sus hijas e hijos siempre y cuando éstos últimos sean menores de edad.
 
 ###### ARTICULO 14.
 
@@ -309,7 +317,9 @@ El Organismo, para el logro de sus objetivos, realizará las siguientes funcione
 
 I.- Promover y prestar servicios de asistencia social;
 
-II.- Apoyar y promover el desarrollo integral de la familia y de la comunidad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+II.- Apoyar y promover el desarrollo integral de la familia y de la comunidad, entre otras acciones mediante actividades que permitan una sana convivencia para coadyuvar a la estabilidad familiar, basándose en valores como lo son enunciativamente: el respeto, pertenencia, tolerancia, perdón, comunicación y responsabilidad;
 
 III.- Realizar acciones de apoyo educativo en la equidad y los derechos humanos para la integración familiar, social y de capacitación para el trabajo a los beneficiarios de esta ley;
 
@@ -1582,6 +1592,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 3 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 265.- SE REFORMAN LOS ARTÍCULOS 13 Y 18. SE ADICIONA EL ARTÍCULO 13 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
 
 ###### ARTÍCULO ÚNICO.
 
