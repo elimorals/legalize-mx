@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-87466"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2017-12-18"
+last_updated: "2018-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección de Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -51,9 +53,11 @@ LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Aguascalientes y su objeto es regular, proteger y garantizar la igualdad entre mujeres y hombres, eliminando toda forma de discriminación.
+###### ARTÍCULO 1°.
+
+La presente Ley es de orden público, interés social y observancia general en el Estado de Aguascalientes y su objeto es regular, proteger y garantizar la igualdad entre mujeres y hombres, eliminando toda forma de discriminación basada en el sexo de las personas.
 
 ###### ARTÍCULO 2º.
 
@@ -63,27 +67,47 @@ Los principios rectores de la presente Ley son: la igualdad, la Equidad de Géne
 
 Son sujetos de derechos las mujeres y los hombres que se encuentren en el Estado de Aguascalientes y que sufran algún tipo o situación de desventaja ante la violación del Principio de Igualdad que esta Ley tutela.
 
-La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y, en su caso, por las leyes aplicables federales y estatales, que regulen esta materia.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo con lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, por las leyes aplicables federales y estatales, que regulen esta materia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 3° A.- En lo no previsto en esta Ley, se aplicarán en forma supletoria las disposiciones de la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes y la Ley General para la Igualdad entre Mujeres y Hombres.
 
 ###### ARTÍCULO 4º.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones Afirmativas: Son las medidas especiales instrumentadas para acelerar la Igualdad Sustantiva entre mujeres y hombres, de carácter temporal, correctivas, compensatorias y de promoción aplicables en tanto subsista desigualdad de oportunidades o de trato de las mujeres respecto a los hombres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-II. Equidad de Género: Es el principio a través del cual, mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política cultural y familiar;
+I. Acciones Afirmativas: Son las medidas especiales instrumentadas para acelerar la Igualdad Sustantiva entre mujeres y hombres, de carácter temporal, correctivas, compensatorias y de promoción, aplicables en tanto subsista desigualdad de oportunidades o de trato entre mujeres y hombres;
 
-III. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-IV. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la Equidad de Género;
+II. Discriminación: Toda distinción, exclusión, menoscabo, negación o restricción, que basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, características genéticas, condiciones de salud, embarazo, lengua, religión, opiniones, orientación sexual, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otra causa, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas;
 
-V. Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+III. Equidad de Género: Es el principio a través del cual, mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política cultural y familiar;
 
-VI. Transversalidad: Es un proceso metodológico que busca garantizar la inclusión de la Perspectiva de Género en las políticas públicas y las prácticas de carácter legislativo, ejecutivo, administrativo y reglamentario, tendientes a la homogeneización de principios, conceptos y acciones en el logro del Principio de Igualdad;
+IV. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-VII. Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-VIII. Programa Estatal: Programa Estatal de igualdad de oportunidades y no discriminación hacia las Mujeres.
+V. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VI. Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias de género;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VII. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VIII. Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+
+IX. Programa Estatal: Programa Estatal de igualdad de oportunidades y no discriminación hacia las Mujeres.
 
 ###### ARTÍCULO 5º.
 
@@ -123,15 +147,19 @@ VI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO III. De los Municipios
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 9º.
 
-De conformidad con lo dispuesto en la presente Ley y las Leyes locales de la materia, los municipios del Estado tendrán las siguientes facultades:
+De conformidad con lo dispuesto en la presente Ley y las Leyes locales de la materia, los Ayuntamientos del Estado tendrán las siguientes facultades:
 
 I. Implementar políticas públicas en materia de igualdad entre mujeres y hombres, en concordancia con las aplicadas en el Estado;
 
 II. Coadyuvar con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre hombres y mujeres;
 
-III. Establecer en su Presupuesto de Egresos los recursos que estimen pertinentes para la ejecución de los programas de igualdad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III. Establecer en su Presupuesto de Egresos los recursos que estimen pertinentes para la ejecución de la política municipal en materia de igualdad;
 
 IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo regional, en las materias que esta Ley le confiere;
 
@@ -167,9 +195,15 @@ II. El Programa Estatal; y
 
 III. La vigilancia en materia de Igualdad Sustantiva entre mujeres y hombres en el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-La coordinación y ejecución del Sistema Estatal y la aplicación del Programa Estatal, estarán a cargo del Instituto Aguascalentense de las Mujeres.
+En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 12 A.- La coordinación y ejecución del Sistema Estatal y la aplicación del Programa Estatal, estarán a cargo del Instituto Aguascalentense de las Mujeres.
 
 ###### ARTÍCULO 13.
 
@@ -193,11 +227,17 @@ IV. La Comisión de Equidad de Género del Congreso del Estado;
 
 V. El Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-VI. La Fiscalía General del Estado; y
+VI. La Fiscalía General del Estado;
 
-VII. Tres representantes de la sociedad civil e instituciones académicas designados por el Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VII. La Comisión de los Derechos Humanos del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VIII. Tres representantes de la sociedad civil e instituciones e instituciones (sic) académicas designados por el Poder Ejecutivo.
 
 Para que las sesiones del Sistema Estatal sean válidas se necesita la presencia de por lo menos la mitad más uno de sus integrantes.
 
@@ -215,7 +255,9 @@ El Sistema Estatal deberá:
 
 I. Instrumentar Acciones Afirmativas para la Igualdad Sustantiva entre mujeres y hombres, con la finalidad de erradicar la violencia y la discriminación;
 
-II. Opinar sobre las propuestas legislativas en materia de Igualdad Sustantiva entre mujeres y hombres, a fin de armonizar la legislación local con los estándares internacionales en la materia;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+II. Opinar sobre las propuestas legislativas en materia de Igualdad Sustantiva entre mujeres y hombres, a fin de armonizar la legislación local con los estándares nacionales e internacionales en la materia;
 
 III. Evaluar las políticas públicas, los programas y servicios en materia de Igualdad Sustantiva, así como el Programa Estatal de Igualdad de Oportunidades y no Discriminación hacia las mujeres; determinando la periodicidad y características de la información que deberán proporcionar las dependencias del gobierno, a efecto de generar las condiciones necesarias para evaluar la progresividad en el cumplimiento de la Ley;
 
@@ -231,9 +273,11 @@ VIII. Las demás que se requieran para el cumplimiento de los objetivos del Sist
 
 ### CAPÍTULO III. Del Programa Estatal de Igualdad de Oportunidades y No Discriminación Hacia las Mujeres
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-El Programa Estatal de Igualdad de Oportunidades y no Discriminación hacia las mujeres, será elaborado por el Instituto Aguascalentense de las Mujeres, considerando las necesidades del Estado, así como las particularidades de la desigualdad en cada Municipio y deberá revisar y evaluar el Programa anualmente con el objetivo de lograr la Transversalidad.
+El Programa Estatal de Igualdad de Oportunidades y no Discriminación hacia las mujeres, será elaborado por el Instituto Aguascalentense de las Mujeres, considerando las necesidades del Estado, así como las particularidades de la desigualdad en cada Municipio y deberá ser realizado de acuerdo al Plan Sexenal de Gobierno del Estado correspondiente.
 
 ## TÍTULO CUARTO. DE LAS POLÍTICAS PÚBLICAS EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -251,7 +295,9 @@ II. La convivencia armónica en la vida personal, laboral y familiar;
 
 III. La erradicación de estereotipos que fomenten la desigualdad;
 
-IV. El ejercicio de la igualdad en los ámbitos de la vida personal, laboral y familiar;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV. El ejercicio de la igualdad en los ámbitos de la vida personal, laboral, social y familiar;
 
 V. Que los medios de comunicación públicos y privados generen información y difundan mensajes que contribuyan a la construcción de un estado de igualdad; y
 
@@ -447,15 +493,13 @@ De acuerdo con lo establecido en la Ley de la Comisión Estatal de los Derechos 
 
 ### CAPÍTULO ÚNICO. De las Responsabilidades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
-La violación a los principios y programas previstos en esta ley, por parte de las autoridades del Estado, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y, en su caso, por las Leyes aplicables que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en el Código Penal para el Estado de Aguascalientes.
+La violación a los principios y programas previstos en esta ley, por parte de las autoridades del Estado, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, por las Leyes aplicables que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en el Código Penal para el Estado de Aguascalientes.
 
-La violación a los principios y programas que esta Ley prevé, por parte de personas físicas o morales, será sancionada de acuerdo a los (sic) dispuesto por las Leyes aplicables del Estado que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en el Código Penal para el Estado de Aguascalientes.
+La violación a los principios y programas que esta Ley prevé, por parte de personas físicas o morales, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables del Estado que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto en el Código Penal para el Estado de Aguascalientes.
 
 T R A N S I T O R I O S :
 
@@ -588,3 +632,11 @@ P.O. 18 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 268.- SE REFORMAN LOS ARTÍCULOS 1°, 3°, 4°, 9°, 12, 14, 16, 17, 18, 36. SE ADICIONAN UN ARTÍCULO 3° A, ARTÍCULO 4°, UN ARTÍCULO 12 A Y ARTÍCULO 14, A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
