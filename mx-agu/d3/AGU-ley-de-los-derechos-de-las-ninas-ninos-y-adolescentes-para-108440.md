@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-02-26"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1673,9 +1673,27 @@ XIV. Supervisar la ejecución de las medidas especiales de protección de niñas
 
 XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
-XVI. Recibir solicitud de activación de Alerta Amber por motivo de desaparición de niñas, niños o adolescentes, y en su caso proceder inmediatamente de conformidad con el protocolo nacional o la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XVII. Las demás que les confieran otras disposiciones aplicables.
+XVI. Recibir solicitud de activación de Alerta Amber por motivo de desaparición de niñas, niños o adolescentes, y en su caso proceder inmediatamente de conformidad con el protocolo nacional o la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XVII. Recibir del C4, de las Instituciones Policiales a que se refiere la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, o del Poder Judicial, los informes de situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XVIII. Recibir por escrito, medios digitales o telefónicos, debidamente autorizados, de forma personal o anónima todas las solicitudes de intervención relacionadas con posibles violaciones a los derechos de niñas, niños y adolescentes en el territorio del Estado de Aguascalientes.
+
+Dentro de las 24 horas siguientes a la recepción de las solicitudes de intervención, la Procuraduría deberá emitir el acuerdo respectivo señalando el tratamiento que se dará a éstas;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIX. Realizar de manera permanente y continua, campañas de información y divulgación acerca de los derechos de las niñas, niños y adolescentes, así como de los mecanismos y procedimientos para presentar denuncias o solicitudes de intervención; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XX. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 120.
 
@@ -1972,3 +1990,15 @@ A la entrada en vigor del presente Decreto se deberán realizar las adecuaciones
 ###### ARTÍCULO TERCERO.
 
 A partir del día siguiente de la entrada en vigor del presente Decreto, el Ejecutivo deberá establecer en el Reglamento Interior de la Secretaría General de Gobierno, las adecuaciones necesarias para el cumplimiento del presente Decreto, así como de otras disposiciones normativas para tal fin.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
