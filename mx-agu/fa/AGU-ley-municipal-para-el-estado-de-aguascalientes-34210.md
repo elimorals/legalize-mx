@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2017-07-10"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -537,11 +537,13 @@ d) Promover créditos financieros, estímulos fiscales y capacitación para los 
 
 e) Implementar acciones para que la juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2016)</small>
+LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos que le establece la Ley General de Educación, así como en el caso de las de las (sic) micro y pequeñas empresas, instrumentar acciones y políticas públicas encaminadas a su crecimiento y consolidación, a la par de fomentar el autoempleo; y
 
-LXI. Las demás que le confieran la presente ley y otras disposiciones legales.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2018)</small>
+
+LXII. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
 ###### Artículo 37.
 
@@ -2390,3 +2392,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamentarias con la presente reforma dentro de los 180 días contados a partir de la entrada en vigencia de la misma, a fin de implementar mecanismos para sancionar el acoso callejero.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 267.- SE REFORMA Y ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
