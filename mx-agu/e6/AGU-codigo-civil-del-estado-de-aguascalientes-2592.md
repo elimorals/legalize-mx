@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2017-10-23"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2173,9 +2173,11 @@ El Oficial del Registro Civil, previa identificación de los consortes, levantar
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### Artículo 298.
 
-(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+En todos los casos de divorcio en los que existan hijos menores de edad, así como en otras causas judiciales, en los que el Juzgador tenga conocimiento de situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes, dará puntual informe de manera expedita a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, con la finalidad de que esta autoridad lleve a cabo los procedimientos de atención y seguimiento en cumplimiento del interés superior de los menores.
 
 ###### Artículo 299.
 
@@ -17194,3 +17196,15 @@ P.O. 23 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
