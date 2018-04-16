@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-prevenir-y-atender-la-violencia-intrafamiliar-del-2285
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2017-06-07"
+last_updated: "2018-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY PARA PREVENIR Y ATENDER LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 7 de diciembre de 2001.
 
@@ -776,3 +778,19 @@ P.O. 7 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Todas las referencias que en los reglamentos, normatividad y demás disposiciones que se hagan de violencia intrafamiliar, se entenderá por violencia familiar.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SINALOA.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley para Prevenir y Atender la Violencia Familiar del Estado de Sinaloa.
+
+TERCERO. Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+CUARTO. El Consejo Estatal para la Prevención y Atención de la Violencia Familiar a que se refiere el artículo 12 de esta Ley, continuara funcionando en los mismos términos en que se encuentra.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO. Dentro del término de ciento veinte días naturales posteriores al inicio del presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de actuación para la implementación de medidas de protección de las víctimas de violencia familiar.
