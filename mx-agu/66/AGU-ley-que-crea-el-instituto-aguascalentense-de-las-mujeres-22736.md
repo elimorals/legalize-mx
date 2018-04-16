@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2015-07-27"
+last_updated: "2018-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -41,21 +41,27 @@ LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
 ### CAPITULO PRIMERO. Del Instituto Aguascalentense de las Mujeres
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 1º.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en todo el Estado de Aguascalientes, en materia de igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del Artículo 4º, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta Ley son de orden público y de observancia general en todo el Estado de Aguascalientes, en materia de equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del Artículo 4°, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 2º.
 
 Se crea el Instituto Aguascalentense de las Mujeres, como un organismo público descentralizado del Gobierno del Estado de Aguascalientes, con personalidad jurídica y patrimonio propios, y autonomía técnica y de gestión, para el cumplimiento de sus atribuciones, objetivos y fines, con domicilio en la Ciudad de Aguascalientes, Aguascalientes y que en lo sucesivo se le denominará el Instituto.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 3º.
 
-Para el logro de los objetivos de esta Ley, se deberá utilizar la metodología y los mecanismos que permitan identificar y comprender las diferencias sociales en las vidas de las mujeres y de los hombres con el fin de entender, cuestionar y valorar las causas que han provocado la discriminación, desigualdad y exclusión de las mujeres de la vida política, cultural, económica y social del Estado y la exclusión de los hombres de la vida familiar, a efecto de emprender acciones que creen las condiciones de cambio que permitan que hombres y mujeres tengan un acceso equitativo a los recursos de la sociedad y a sus beneficios, oportunidades y recompensas en todos los aspectos de su vida, incluyendo el ámbito familiar, en el cual se promoverá la complementariedad de ambos y la equidad entre los integrantes de la familia.
+Para el logro de los objetivos de esta Ley, se deberá utilizar la metodología y los mecanismos que permitan identificar y comprender las diferencias sociales en las vidas de las mujeres y de los hombres con el fin de entender, cuestionar y valorar las causas que han provocado la discriminación, desigualdad y exclusión de las mujeres de la vida política, cultural, económica y social del Estado y la exclusión de los hombres de la vida familiar, a efecto de emprender acciones que creen las condiciones de cambio que permitan que hombres y mujeres tengan un acceso igualitario a los recursos de la sociedad y a sus beneficios, oportunidades y recompensas en todos los aspectos de su vida, incluyendo el ámbito familiar, en el cual se promoverá la complementariedad de ambos y la igualdad sustantiva entre los integrantes de la familia.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres; así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana, y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Estado, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas con base en la metodología y los mecanismos señalados en el Artículo 3º de esta Ley, por cada una de las dependencias y entidades estatales y municipales.
+###### ARTICULO 4°.
+
+El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres; así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana, y la participación igualitaria de las mujeres en la vida política, cultural, económica y social del Estado, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas con base en la metodología y los mecanismos señalados en el Artículo 3° de esta Ley, por cada una de las dependencias y entidades estatales y municipales.
 
 ###### ARTICULO 5º.
 
@@ -63,21 +69,33 @@ El Instituto tendrá como objetivos específicos los siguientes:
 
 I.- Proteger, promover y difundir el respeto a los derechos de las mujeres consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por el Gobierno Mexicano;
 
-II.- Promover la equidad de derechos y oportunidades entre mujeres y hombres, con el objeto de avanzar hacia un modelo de sociedad más democrática y equitativa, logrando la participación plena de la mujer en la vida económica, política, cultural y social del Estado, así como apoyar la participación de los hombres en la vida familiar; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-III.- Coordinar, a través del trabajo con cada una de las dependencias de las Administraciones Públicas Estatal y Municipales, la implementación y ejecución de políticas públicas tendientes a promover la no discriminación y la equidad entre hombres y mujeres, basadas en el conocimiento previo de las causas que han provocado esta exclusión de las mujeres de la vida política, económica, cultural y social del Estado y de los hombres de la vida familiar.
+II.- Promover la cultura de la no violencia, la no discriminación contra las mujeres y de la igualdad de derechos y oportunidades entre mujeres y hombres, con el objeto de avanzar hacia un modelo de sociedad más democrática, igualitaria y equitativa, logrando la participación plena de la mujer en la vida económica, política, cultural y social del Estado, así como apoyar la participación de los hombres en la vida familiar; y
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III.- Coordinar, a través del trabajo con cada una de las dependencias de las Administraciones Públicas Estatal y Municipales, la implementación y ejecución de políticas públicas tendientes a promover la no discriminación y la igualdad sustantiva entre hombres y mujeres, basadas en el conocimiento previo de las causas que han provocado esta exclusión de las mujeres de la vida política, económica, cultural y social del Estado y de los hombres de la vida familiar.
 
 ###### ARTICULO 6º.
 
 Para el debido cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I.- Promover la formulación de políticas públicas y gubernamentales e impulsar las propuestas de la sociedad que a juicio del Instituto sean viables, para alcanzar la equidad entre los hombres y las mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-II.- Impulsar que en la planeación estatal del desarrollo, programación y presupuesto de egresos del Estado, se incorporen políticas públicas tendientes a lograr la equidad y eliminar la discriminación, con base en datos desagregados;
+I.- Promover la formulación de políticas públicas y gubernamentales e impulsar las propuestas de la sociedad que a juicio del Instituto sean viables, para alcanzar la igualdad sustantiva entre los hombres y las mujeres;
 
-III.- Estimular que en las políticas públicas y en la elaboración de programas sectoriales o institucionales específicos, así como en las acciones y programas anuales de cada una de las dependencias y entidades de la administración pública estatal centralizada y descentralizada, se incluyan aspectos que diferencien las situaciones específicas de las mujeres y hombres, adolescentes y jóvenes, niños y niñas, con el fin de que con base en los datos desagregados por sexo se asignen recursos y esfuerzos de una manera más equitativa;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-IV.- Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las dependencias y entidades de la (sic) Administraciones Públicas Estatal y Municipales, en el ámbito de sus respectivas competencias;
+II.- Impulsar que en la planeación estatal del desarrollo, programación y presupuesto de egresos del Estado, se incorporen políticas públicas tendientes a lograr la igualdad sustantiva y eliminar la discriminación, con base en datos desagregados;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III.- Estimular que en las políticas públicas y en la elaboración de programa sectoriales o institucionales específicos, así como en las acciones y programas anuales de cada una de las dependencias y entidades de la administración pública estatal centralizada y descentralizada, se incluyan aspectos que diferencien las situaciones específicas de las mujeres y hombres, adolescentes y jóvenes, niños y niñas, con el fin de que con base en los datos desagregados por sexo se asignen recursos y esfuerzos de una manera igualitaria;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV.- Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la igualdad sustantiva entre hombres y mujeres, mediante la coordinación con las dependencias y entidades de la (sic) Administraciones Públicas Estatal y Municipales, en el ámbito de sus respectivas competencias;
 
 V.- Asegurar la adecuada y eficiente implementación de las acciones a favor de las mujeres, estableciéndose áreas de generación, difusión y análisis de información; desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
 
@@ -87,13 +105,17 @@ VII.- Fungir como enlace y representante permanente ante el Instituto Nacional d
 
 VIII.- Diseñar y efectuar campañas para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
 
-IX.- Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-X.- Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Estado en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+IX.- Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de igualdad sustantiva;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-XI.- Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o nacional, la edad , la discapacidad, la condición social , las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como promover el debido cumplimiento de las normas vigentes;
+X.- Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Estado en condiciones de igualdad sustantiva; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XI.- Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones igualitarias, en todos los ámbitos, sin importar el origen étnico o nacional, la edad, la discapacidad; la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como promover el debido cumplimiento de las normas vigentes;
 
 XII.- Proponer e impulsar reformas legislativas que promuevan la participación de los hombres en la vida familiar, así como que apoyen a las mujeres madres trabajadoras para la atención y el cuidado de sus hijos;
 
@@ -109,7 +131,9 @@ XVII.- Promover entre los tres Poderes del Estado y la sociedad, acciones dirigi
 
 XVIII.- Suscribir acuerdos y convenios de coordinación o concertación, con las dependencias de las administraciones públicas federal, estatal y municipales y organismos nacionales e internacionales que no sean facultad exclusiva del Gobernador del Estado, con el fin de cumplir su objeto; asimismo, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
 
-XIX.- Impulsar, a través de los medios de comunicación y en el sistema educativo, una cultura de equidad y respeto a la dignidad humana, mediante imágenes o mensajes publicitarios no discriminatorios, que favorezcan la eliminación de imágenes nocivas y estereotipadas sobre las mujeres y los hombres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIX.- Impulsar, a través de los medios de comunicación y en el sistema educativo, una cultura de igualdad sustantiva y respeto a la dignidad humana, mediante imágenes o mensajes publicitarios no discriminatorios, que favorezcan la eliminación de imágenes nocivas y estereotipadas sobre las mujeres y los hombres;
 
 XX.- Formar audiencias críticas en la población, a través de la educación formal e informal, para el análisis de las transmisiones que realizan los medios de comunicación;
 
@@ -117,7 +141,9 @@ XXI.- Promover, difundir y publicar obras relacionadas con las materias objeto d
 
 XXII.- Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas; organizaciones privadas y sociales; organismos internacionales y regionales y particulares interesados en apoyar el logro de los objetivos y atribuciones del Instituto, la aceptación de recursos internacionales deberá contar con la aprobación unánime de la Junta de Gobierno;
 
-XXIII.- Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XXIII.- Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres;
 
 XXIV.- Elaborar el Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del titular del Poder Ejecutivo, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
 
@@ -128,6 +154,12 @@ XXVI.- Servir de organismo de enlace, coordinador y asesor con organizaciones es
 XXVII.- Emitir los lineamientos normativos que orienten su quehacer; y
 
 XXVIII.- Las demás que le señale éste y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+###### ARTICULO 7°.
+
+El Instituto constituirá un sistema de planeación y debida ejecución acorde con el Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres, con las dependencias públicas federales, estatales y municipales, así como con instituciones del sector privado y con los diferentes grupos sociales del Estado de Aguascalientes.
 
 ###### ARTICULO 7º.
 
@@ -167,15 +199,21 @@ c).- Secretaría de Finanzas;
 
 d).- Secretaría de Desarrollo Económico;
 
-e).- Instituto de Salud del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-f).- Instituto de Educación del Estado de Aguascalientes;
+e).- Secretaría de Salud;
 
-g).- Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+f).- Instituto de Educación de Aguascalientes;
 
-h).- Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+g).- Secretaría para el Desarrollo Rural y Agroempresarial;
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+h).- Coordinación General de Planeación y Proyectos;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -185,9 +223,9 @@ III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
 IV.- Cuatro mujeres ciudadanas mexicanas en pleno ejercicio de sus derechos, que provengan de organizaciones sindicales, campesinas, no gubernamentales, empresariales, asociaciones o sociedades civiles o mercantiles, o bien, profesoras e investigadoras, representativas en la docencia, investigación, de instituciones públicas, profesionistas, empleadas y en general, mujeres representativas de los diferentes sectores de la sociedad que hayan realizado trabajos a favor de las mujeres y que garanticen la pluralidad de ideas.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-V.- Un integrante de la Comisión de Equidad Social y Humana del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno.
+V.- Un integrante de la Comisión de Equidad de Género del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno.
 
 Salvo el titular del Poder Ejecutivo, los demás integrantes actuarán como vocales.
 
@@ -199,9 +237,9 @@ Los integrantes de la Junta de Gobierno no gozarán de alguna compensación econ
 
 La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, podrá invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como organizaciones privadas y sociales, no comprendidas en este artículo, con el fin de tratar temas específicos que requieren de conocimientos más precisos. Estos invitados podrán participar con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
-Las mujeres vocales propietarias señaladas en la fracción IV de este artículo se elegirán por mayoría calificada de los miembros del H. Congreso del Estado, previa convocatoria publicada por parte de la Comisión de Equidad entre Hombres y Mujeres del Congreso del Estado, con aquellas propuestas presentadas por sus integrantes y por organismos sociales, científicos, culturales, empresariales y académicos. Por cada propietaria se nombrará su respectiva suplente. Durarán en su encargo tres años, y en su caso, podrán ser reelectas para un período más.
+Las mujeres vocales propietarias señaladas en la fracción IV de este artículo se elegirán por mayoría calificada de los miembros del H. Congreso del Estado, previa convocatoria publicada por parte de la Comisión de Equidad de Género del Congreso del Estado, con aquellas propuestas presentadas por sus integrantes y por organismos sociales, científicos, culturales, empresariales y académicos. Por cada propietaria se nombrará su respectiva suplente. Durarán en su encargo tres años, y en su caso, podrán ser reelectas para un período más.
 
 ###### ARTICULO 10.
 
@@ -301,13 +339,17 @@ XIV.- Elaborar los proyectos y demás ordenamientos del Instituto;
 
 XV.- Convocar al Consejo Consultivo;
 
-XVI.- Establecer los enlaces necesarios con las entidades públicas y de los sectores social y privado para promover programas a favor de la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XVI.- Establecer los enlaces necesarios con las entidades públicas y de los sectores social y privado para promover programas a favor de la equidad e igualdad sustantiva entre hombres y mujeres;
 
 XVII.- Establecer enlaces nacionales e internacionales de acuerdo con los intereses del Instituto;
 
 XVIII.- Promover y suscribir convenios de coordinación y colaboración con las dependencias de las Administraciones Públicas Federal, Estatal y Municipales, instituciones de educación superior públicas y privadas, así como con otras organizaciones nacionales e internacionales que no sean facultad exclusiva del Gobernador del Estado, para los fines del Instituto;
 
-XIX.- Mantener un enlace continuo con la Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XIX.- Mantener un enlace continuo con la Comisión de Equidad de Género del H. Congreso del Estado;
 
 XX.- Proporcionar la información solicitada por los órganos de la Contraloría del Estado;
 
@@ -329,7 +371,9 @@ II.- Haber recibido título de nivel de licenciatura debidamente acreditado por 
 
 III.- Haber desempeñado cargos de nivel técnico y decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
 
-IV.- Contar con experiencia en materia de la equidad entre hombres y mujeres o de las causas de las mujeres, en el ámbito estatal, nacional o internacional, así como en actividades relacionadas con las materias objeto de esta Ley.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IV.- Contar con experiencia en materia de igualdad sustantiva entre hombres y mujeres o de las causas de las mujeres, en el ámbito estatal, nacional o internacional, así como en actividades relacionadas con las materias objeto de esta Ley.
 
 ###### ARTICULO 16.
 
@@ -363,7 +407,9 @@ I.- Realizar programas que garanticen el respeto y protección de los derechos d
 
 II.- Formular proyectos de normas para el mejoramiento de las condiciones laborales de las mujeres y su capacitación para el trabajo, así como para la ampliación de sus alternativas ocupacionales;
 
-III.- Con base en las investigaciones y estudios que realice, presentar propuestas que permitan la actualización permanente de la legislación estatal, en donde se garantice la igualdad de derechos, impidiendo la discriminación de la mujer así como promover reformas legislativas en las materias laboral y seguridad social que permitan a padres y madres incorporarse a la vida familiar de manera más equitativa y adecuada para el óptimo desarrollo de la familia y la crianza de los hijos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III.- Con base en las investigaciones y estudios que realice, presentar propuestas que permitan la actualización permanente de la legislación estatal, en donde se garantice la igualdad de derechos, impidiendo la discriminación de la mujer así como promover reformas legislativas en las materias laboral y seguridad social que permitan a padres y madres incorporarse a la vida familiar de manera más igualitaria y adecuada para el óptimo desarrollo de la familia y la crianza de los hijos;
 
 IV.- Proporcionar a las mujeres, asesoría jurídica y canalizar a las instancias competentes y organismos sociales, para que reciban la asistencia psicológica, médica y jurídica correspondiente, cuando se violenten sus derechos o sean víctimas de:
 
@@ -405,7 +451,9 @@ La Dirección de Relaciones Interinstitucionales tendrá las siguientes atribuci
 
 I.- Servir de enlace con las instituciones públicas y privadas para promover la instauración de programas institucionales de apoyo y capacitación para las mujeres que laboran en las Administraciones Públicas Estatal y Municipales, así como en el sector privado, tanto en el ámbito profesional como en el personal;
 
-II.- Formular propuestas de políticas públicas tendientes a mejorar la situación de las mujeres para alcanzar la equidad entre ellas y los hombres, así como la inclusión de ellos en la vida familiar, a través de políticas públicas que permitan mejorar su situación laboral;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+II.- Formular propuestas de políticas públicas tendientes a mejorar la situación de las mujeres para alcanzar la igualdad sustantiva entre ellas y los hombres, así como la inclusión de ellos en la vida familiar, a través de políticas públicas que permitan mejorar su situación laboral;
 
 III.- Realizar el inventario de las organizaciones que desarrollan programas de apoyo a las mujeres en los ámbitos internacional, nacional y estatal;
 
@@ -417,7 +465,9 @@ VI.- Proponer mecanismos que garanticen el acceso de las mujeres a servicios int
 
 VII.- Realizar las campañas de información y difusión, a través de los medios masivos de comunicación, de los programas que el Instituto desarrolle en beneficio de las mujeres;
 
-VIII.- Suscribir convenios de concertación con los medios masivos de comunicación, con el fin de promover una cultura a favor de la equidad entre hombres y mujeres, en donde no se estereotipen a ninguno de ellos, ni se denigre la imagen de las mujeres; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+VIII.- Suscribir convenios de concertación con los medios masivos de comunicación, con el fin de promover una cultura a favor de la igualdad sustantiva entre hombres y mujeres, en donde no se estereotipen a ninguno de ellos, ni se denigre la imagen de las mujeres; y
 
 IX.- Las demás que le señale esta Ley, su Reglamento Interior, la Junta de Gobierno y la Directora General.
 
@@ -425,7 +475,9 @@ IX.- Las demás que le señale esta Ley, su Reglamento Interior, la Junta de Gob
 
 La Dirección de Educación y Fomento Productivo tendrá las siguientes atribuciones:
 
-I.- Promover la sensibilización, información, capacitación y actualización de los servidores públicos responsables de emitir políticas públicas en el Estado, sobre la metodología prevista en el Artículo 3° de esta Ley, con el fin de lograr los mecanismos para incorporar la equidad entre hombres y mujeres y la igualdad de oportunidades;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+I.- Promover la sensibilización, información, capacitación y actualización de los servidores públicos responsables de emitir políticas públicas en el Estado, sobre la metodología prevista en el Artículo 3° de esta Ley, con el fin de lograr los mecanismos para incorporar la igualdad sustantiva entre hombres y mujeres y la igualdad de oportunidades;
 
 II.- Promover medidas que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo;
 
@@ -433,7 +485,9 @@ III.- Elaborar programas que potencien las capacidades y habilidades de las muje
 
 IV.- Elaborar programas tendientes a fortalecer la autonomía, autoestima y capacidad de decisión de las mujeres, así como su afán de lograr una superación personal;
 
-V.- Promover, en coordinación con el Instituto de Educación de Aguascalientes, programas tendientes a formar docentes con una visión de respeto a la dignidad humana, en contra de la discriminación y a favor de la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+V.- Promover, en coordinación con el Instituto de Educación de Aguascalientes, programas tendientes a formar docentes con una visión de respeto a la dignidad humana, en contra de la discriminación y a favor de la igualdad sustantiva entre hombres y mujeres;
 
 VI.- Promover, en coordinación con los Institutos de Educación y de Salud del Estado de Aguascalientes y con instituciones de educación, programas preventivos de educación sexual y de orientación para la salud integral de las mujeres;
 
@@ -441,7 +495,9 @@ VII.- Promover acciones de combate a la pobreza, marginación y exclusión de la
 
 VIII.- Asesorar y proponer programas que apoyen a las mujeres de las micro y pequeñas empresas, a las que trabajan por cuenta propia y a las no remuneradas, incluidas las que laboran en actividades agropecuarias, mediante el acceso a capacitación, tecnología, información, comercialización y asistencia técnica, así como a esquemas de crédito apropiados, accesibles y ágiles;
 
-IX.- Promover, a través de la elaboración de cursos, talleres, seminarios, campañas y otros medios, una cultura que provoque la distribución más equitativa entre hombres y mujeres de los recursos del hogar y de las responsabilidades domésticas y extradomésticas, teniendo en cuenta las diferencias socioeconómicas y culturales de las familias, la diversidad de sus arreglos y formas de constitución, así como los cambios que experimentan a lo largo de su ciclo vital;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+IX.- Promover, a través de la elaboración de cursos, talleres, seminarios, campañas y otros medios, una cultura que provoque la distribución más igualitaria entre hombres y mujeres de los recursos del hogar y de las responsabilidades domésticas y extradomésticas, teniendo en cuenta las diferencias socioeconómicas y culturales de las familias, la diversidad de sus arreglos y formas de constitución, así como los cambios que experimentan a lo largo de su ciclo vital;
 
 X.- Elaborar, en coordinación con el Instituto de Salud del Estado, programas de apoyo para las mujeres en materia de:
 
@@ -461,7 +517,9 @@ g).- Prevención y atención de adicciones;
 
 XI.- Elaborar programas educativos que prevengan la violencia contra las mujeres en todas sus formas de expresión, impulsando medidas que contribuyan a hacer visible este problema social y otorgar prioridad a su prevención y a su atención legal, psicológica y medica;
 
-XII.- Promover, en coordinación con las autoridades competentes, programas que impulsen la creatividad y la participación artística y deportiva de las mujeres, así como apoyar la representación de manifestaciones culturales y deportivas que favorezcan la no discriminación hacia las mujeres, la equidad entre hombres y mujeres y evitar estereotipos que afecten la dignidad humana; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+XII.- Promover, en coordinación con las autoridades competentes, programas que impulsen la creatividad y la participación artística y deportiva de las mujeres, así como apoyar la representación de manifestaciones culturales y deportivas que favorezcan la no discriminación hacia las mujeres, la igualdad sustantiva entre hombres y mujeres y evitar estereotipos que afecten la dignidad humana; y
 
 XIII.- Las demás que señale esta Ley, su Reglamento Interior y la Junta de Gobierno y la Directora General.
 
@@ -501,7 +559,9 @@ Para el mejor cumplimiento del objeto del Instituto y con el fin de lograr la pa
 
 El Consejo estará integrado por una Presidenta que será la Directora General del Instituto, un Secretario Técnico que será el responsable de la Dirección de Relaciones Interinstitucionales y un Secretario de Actas que será electo por los integrantes del Consejo, así como vocales que serán representantes de las siguientes instancias:
 
-a) La Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+a) La Comisión de Equidad de Género del H. Congreso del Estado.
 
 b) La Dirección de Desarrollo Familiar del Sistema del Desarrollo Integral de la Familia del Estado de Aguascalientes.
 
@@ -527,7 +587,9 @@ l) La Delegación de la Secretaría de Desarrollo Social en el Estado.
 
 m) La Delegación de la Secretaría del Trabajo y Previsión Social.
 
-n) El Instituto Nacional de Geografía, Informática y Estadística.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+n) El Instituto Nacional de Estadística y Geografía.
 
 o) Los partidos políticos que cuenten con registro en el Estado.
 
@@ -547,11 +609,19 @@ El Consejo tendrá las siguientes facultades:
 
 I.- Impulsar la participación de los sectores involucrados en las acciones relacionadas con el objeto de esta Ley;
 
-II.- Coadyuvar en la elaboración y promoción de los trabajos e iniciativas del Instituto y de los órganos públicos y privados, así como en el diseño de políticas públicas estatales que favorezcan la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-IV (SIC).- Proponer a la Directora General planes y proyectos para el cumplimiento de los fines del Instituto;
+II.- Coadyuvar en la elaboración y promoción de los trabajos e iniciativas del Instituto y de los órganos públicos y privados, así como en el diseño de políticas públicas estatales que favorezcan la igualdad sustantiva entre hombres y mujeres;
 
-V.- Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de las mujeres y de la familia, así como de la equidad entre hombres y mujeres;
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III.- Proponer a la Directora General planes y proyectos para el cumplimiento de los fines del Instituto;
+
+IV.- (DEROGADA, P.O. 16 DE ABRIL DE 2018)
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+V.- Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de las mujeres y de la familia, así como de la igualdad sustantiva entre hombres y mujeres;
 
 VI.- Coadyuvar en la elaboración de los sistemas de información de la mujer y promover la evaluación de los servicios que inciden en la atención de la mujer; y
 
@@ -561,13 +631,17 @@ VII.- Las demás que le señalen esta Ley y demás disposiciones aplicables.
 
 El Consejo Consultivo funcionará en los términos del reglamento que para tal efecto él mismo expida y sus decisiones serán tomadas por la mayoría de sus integrantes.
 
-### CAPITULO CUARTO. Del Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2018)</small>
+
+### CAPITULO CUARTO. Del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 26.
 
-El Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres es el conjunto de políticas y acciones tendientes a conocer la situación de las mujeres en relación con los hombres, a través de información y estadísticas desagregadas, que permitan establecer soluciones para que las mujeres participen en todos los ámbitos de la vida pública, social, cultural y política sin discriminación y en igualdad de oportunidades, así como para apoyar para que los hombres puedan participar más equitativamente en la vida familiar; las cuales deberán ser incorporadas y ejecutadas por las dependencias y entidades de las Administraciones Públicas Estatal y Municipales, los órganos de impartición de justicia, así como el H. Congreso del Estado, en el ejercicio de sus atribuciones y funciones.
+El Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres es el conjunto de políticas y acciones tendientes a conocer la situación de las mujeres en relación con los hombres, a través de información y estadísticas desagregadas, que permitan establecer soluciones para que las mujeres participen en todos los ámbitos de la vida pública, social, cultural y política sin discriminación y en igualdad de oportunidades, así como para apoyar para que los hombres puedan participar más igualitariamente en la vida familiar; las cuales deberán ser incorporada y ejecutadas por las dependencias y entidades de las Administraciones Públicas Estatal y Municipales, los órganos de impartición de justicia, así como el H. Congreso del Estado, en el ejercicio de sus atribuciones y funciones.
 
-Como resultado de la evaluación del Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
+Como resultado de la evaluación del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
 
 ###### ARTICULO 27.
 
@@ -579,23 +653,33 @@ II.- La participación que corresponderá a las dependencias y entidades del Est
 
 El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Junta de Gobierno.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 28.
 
-Para la elaboración del Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres se observará lo siguiente:
+Para la elaboración del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres se observará lo siguiente:
 
 I.- La Directora General convocará con toda oportunidad a todas las dependencias y entidades del Estado, para que hagan llegar al Instituto informes sobre los objetivos, estrategias, líneas de acción y acciones particulares que cada institución ejecutará de acuerdo con su programación y presupuestación anual en relación con las materias objeto del Instituto;
 
-II.- La Junta de Gobierno pedirá la opinión del Consejo Consultivo, sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para avanzar en la equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
-III.- La Junta de Gobierno, con la información recabada, aprobará el Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres y lo remitirá para su aprobación al titular del Ejecutivo Estatal;
+II.- La Junta de Gobierno pedirá la opinión del Consejo Consultivo, sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para avanzar en la igualdad sustantiva entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+III.- La Junta de Gobierno, con la información recabada, aprobará el Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres y lo remitirá para su aprobación al titular del Ejecutivo Estatal;
 
 IV.- La Junta de Gobierno podrá realizar foros, consultas o cualquier otro instrumento democrático para garantizar la participación ciudadana en la elaboración del Programa; y
 
-V.- El Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y reformado por la Junta de Gobierno. El texto del mismo, así como sus reformas, deberán ser publicados en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+
+V.- El Programa Estatal para la No Discriminación y la igualdad Sustantiva entre Hombres y Mujeres una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y reformado por la Junta de Gobierno. El texto del mismo, así como sus reformas, deberán ser publicados en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 29.
 
-El Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres propiciará la colaboración y participación activa de las autoridades federales, estatales y municipales y de la sociedad en su conjunto.
+El Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres propiciará la colaboración y participación activa de las autoridades federales, estatales y municipales y de la sociedad en su conjunto.
 
 ### CAPITULO QUINTO. De la Ejecución de las Decisiones del Instituto
 
@@ -603,11 +687,15 @@ El Programa Estatal para la No Discriminación y la Equidad entre Hombres y Muje
 
 Los acuerdos tomados por el Instituto, en los términos previstos en la presente Ley y sus respectivos Reglamentos, tendrán el carácter de obligatorios en los términos de los convenios de coordinación suscritos con las dependencias y entidades de los gobiernos local y municipales, y deberán ser respetados y ejecutados en todos sus términos.
 
-### CAPITULO SEXTO. De los Comités Municipales de la Equidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2018)</small>
+
+### CAPITULO SEXTO. De los Comités Municipales de la Igualdad Sustantiva
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 31.
 
-Los Municipios del Estado, de acuerdo con la normatividad que emita su órgano de gobierno, procurarán contar con Comités Municipales especializados en materia de equidad, de conformidad con lo establecido por la Ley Orgánica Municipal y se encargarán de la aplicación de la presente Ley en el ámbito de sus competencias.
+Los Municipios del Estado, de acuerdo con la normatividad que emita su órgano de gobierno, procurarán contar con Comités Municipales especializados en materia de igualdad sustantiva, de conformidad con lo establecido por la Ley Municipal para el Estado de Aguascalientes y se encargarán de la aplicación de la presente Ley en el ámbito de sus competencias.
 
 ### CAPITULO SEPTIMO. Del Patrimonio
 
@@ -794,3 +882,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 16 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 269.- SE REFORMAN LOS ARTÍCULOS 1°, 3°, 4°, 5°, 6°, 7°, 9°, 14, 15, 18, 19, 20, 23, 24, 26, 28, 29, 31. SE ADICIONA UNA FRACCIÓN Y SE DEROGA UNA FRACCIÓN AL ARTÍCULO 24 DE LA LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
