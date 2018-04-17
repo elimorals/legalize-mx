@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-02-20"
+last_updated: "2018-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3939,6 +3939,10 @@ I. Por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cua
 
 II. Por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2018)</small>
+
+Los delitos previstos en el presente Título se perseguirán de oficio.
+
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ARTÍCULO 318 BIS. Para efectos del artículo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 319 de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
@@ -4986,3 +4990,11 @@ P.O. 20 DE FEBRERO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente a este Decreto.
+
+P.O. 17 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 932.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 318, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
