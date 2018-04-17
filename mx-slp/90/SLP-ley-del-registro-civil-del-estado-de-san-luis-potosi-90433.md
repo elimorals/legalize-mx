@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2018-03-17"
+last_updated: "2018-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -853,7 +853,7 @@ A la solicitud a que se refiere el artículo anterior, se acompañará:
 
 I. Copia certificada del acta de nacimiento, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
 
-II. La constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 19 y 20 del Código Familiar para el Estado;
+II. (DEROGADA, P.O. 17 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -905,15 +905,13 @@ El acta de matrimonio contendrá:
 
 I. Los nombres, apellidos, edad, ocupación, nacionalidad, domicilio y lugar de nacimiento de los contrayentes;
 
-II. Si son mayores o menores de edad;
+II. (DEROGADA, P.O. 17 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
 III. Los nombres, apellidos, ocupación, nacionalidad y domicilio de los progenitores;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
-
-IV. El consentimiento de éstos, de las abuelas y abuelos o tutores, o el de la autoridad judicial que deban suplirlo;
+IV. (DEROGADA, P.O. 17 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -1536,6 +1534,14 @@ TERCERO. Los procedimientos de divorcio voluntario en la vía administrativa ini
 P.O. 17 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 919.- SE REFORMA EL ARTÍCULO 116 Y ADICIONA EL ARTÍCULO 130 BIS, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 934.- SE DEROGA EN LOS ARTÍCULOS, 94 SU FRACCIÓN II, Y 98 SUS FRACCIONES, II, Y IV, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
