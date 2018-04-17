@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2018-03-10"
+last_updated: "2018-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -278,6 +278,10 @@ En el caso de asentamientos humanos ya establecidos en zonas de alto riesgo, la 
 ###### ARTÍCULO 15.
 
 En los inmuebles o instalaciones fijas y móviles de los sectores, público, privado, y social, en que por su naturaleza o por el uso al que se han destinado, se reciba una afluencia constante o masiva de personas, se deberá contar con un Programa Interno de Protección Civil, acorde con los lineamientos que establezca el Programa Estatal, y el Sistema Nacional de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2018)</small>
+
+En la elaboración y difusión del Programa Interno de Protección Civil, las instituciones públicas y privadas deberán buscar la incorporación de las innovaciones tecnológicas, digitales o virtuales, así como la vinculación con los Atlas de Riesgos.
 
 ###### ARTÍCULO 16.
 
@@ -976,5 +980,13 @@ P.O. 10 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 900.- SE REFORMAN LOS ARTÍCULOS 6°, 10 Y 52 DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periodo (sic) Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 931.- SE ADICIONA EL ARTÍCULO 15 EL PÁRRAFO SEGUNDO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
