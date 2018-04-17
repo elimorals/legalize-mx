@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2014-10-28"
+last_updated: "2018-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -531,6 +531,10 @@ Los servicios de tránsito y seguridad consisten en el uso de grúas y otros veh
 
 El servicio de registro civil consiste en el registro de nacimientos, matrimonios, divorcios, defunciones, tutela y emancipación, o cualquier otro acto que modifique el estado civil de las personas e inscripción de sentencias firmes provenientes de autoridades judiciales; así como la expedición de copias, certificaciones y constancias relativas.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2018)</small>
+
+El registro de los nacimientos será totalmente gratuito y no podrá imponerse tarifa alguna por concepto de temporalidad.
+
 ###### ARTICULO 64.
 
 El servicio de salubridad es el que en términos de la legislación respectiva, proporcionen los municipios en materia de prevención y tratamiento de enfermedades y la difusión de medidas de higiene y sanidad.
@@ -845,6 +849,8 @@ PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
+P.O. 17 DE ABRIL DE 2018.
+
 ###### ARTICULO 82.
 
 El costo de una obra de planificación comprenderá todas las erogaciones que deban hacerse para su realización.
@@ -990,3 +996,9 @@ II. La cuota correspondiente a predios no explotados se fijará estimativamente 
 La cuota a cargo de los propietarios o poseedores de los predios no cultivados se cubrirá en la forma que establezca el cabildo municipal respectivo.
 
 ## TITULO QUINTO
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 933.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 63, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
