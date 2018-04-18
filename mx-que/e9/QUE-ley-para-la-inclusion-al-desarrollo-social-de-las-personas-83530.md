@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2017-08-16"
+last_updated: "2018-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -45,9 +45,11 @@ LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL
 
 ### Capítulo Primero. Del objeto
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social. Tiene por objeto establecer las bases que permitan la plena inclusión de las personas con discapacidad a la vida familiar y social, a efecto de contribuir al desarrollo de sus capacidades, mejorar su nivel de vida y facilitar, en igualdad de oportunidades, el disfrute de bienes y servicios a que tienen derecho, bajo los siguientes objetivos:
+La presente Ley es de orden público e interés social. Tiene por objeto establecer las bases que permitan la plena inclusión de las personas con discapacidad a la vida familiar y social, proteger y asegurar el goce pleno o ejercicio, en condiciones de igualdad de todos sus Derechos Humanos y libertades fundamentales y promover el respeto de su dignidad inherente, a efecto de contribuir al desarrollo de sus capacidades, mejorar su nivel de vida y facilitar el disfrute de bienes y servicios a que tienen derecho, bajo los siguientes objetivos:
 
 I. Impulsar actitudes solidarias para la preservación, conservación y restauración de la salud, así como la prolongación y el mejoramiento de la calidad de vida de las personas con discapacidad;
 
@@ -89,19 +91,11 @@ X. Transversalidad.
 
 ### Capítulo Segundo. De los sujetos
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### Artículo 3.
 
-Serán sujetos de esta Ley las personas con discapacidad, entendiéndose por tales a aquellas que vivan con alguna deficiencia anatómica, fisiológica o sensorial, de carácter permanente o temporal, que puede ser agravada por el entorno económico y social, que limita su capacidad para ejercer una o más actividades esenciales de la vida cotidiana.
-
-Son causantes de discapacidad:
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2017)</small>
-
-I. La deficiencia anatómica; afectación física, corporal o trastorno de talla o peso;
-
-II. La deficiencia fisiológica; afectación de una función; y
-
-III. La deficiencia sensorial; afectación relacionada con los órganos de los sentidos.
+Serán sujetos de esta Ley las personas con discapacidad, entendiéndose por tales a aquellas que vivan con alguna deficiencia física, mental, intelectual o sensorial, de carácter temporal o permanente, que al interactuar con diversas barreras, puedan limitar o impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
 
 ###### Artículo 4.
 
@@ -109,71 +103,89 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Accesibilidad, las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, entre otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como en rurales;
 
-II. Asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de las personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2018)</small>
 
-III. Ayudas técnicas, los dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades;
+II. Ajustes razonables, se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos sus derechos humanos y libertades fundamentales;
 
-IV. Barreras administrativas, todo obstáculo en las áreas de atención o servicio del sector público o privado, que dificulte, entorpezca o impida el libre acceso a los servicios o a la realización de trámites;
+III. Asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de las personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
-V. Barreras arquitectónicas, todo elemento de construcción del sector público o privado que dificulte, entorpezca o impida el libre desplazamiento en espacios interiores y exteriores, a personas con discapacidad o que les dificulte, entorpezca o impida el uso de los servicios e instalaciones;
+IV. Ayudas técnicas, los dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades;
 
-VI. Barreras de comunicación, todo obstáculo producido como consecuencia de la falta o deficiencia en el establecimiento de sistemas de señalización, lenguaje visual y auditivo en áreas o actividades del sector público o privado a las que pueda tener acceso el público en general;
+V. Barreras administrativas, todo obstáculo en las áreas de atención o servicio del sector público o privado, que dificulte, entorpezca o impida el libre acceso a los servicios o a la realización de trámites;
 
-VII. Catálogo, el catálogo de recomendaciones de accesibilidad expedido por el titular del Poder Ejecutivo del Estado de Querétaro, como serie de medidas arquitectónicas para lograr la plena accesibilidad de las personas con discapacidad;
+VI. Barreras arquitectónicas, todo elemento de construcción del sector público o privado que dificulte, entorpezca o impida el libre desplazamiento en espacios interiores y exteriores, a personas con discapacidad o que les dificulte, entorpezca o impida el uso de los servicios e instalaciones;
 
-VIII. Centros de capacitación y adiestramiento, las áreas encargadas de ofrecer capacitación, adiestramiento y rehabilitación a las personas con discapacidad, ya sea del sector público, social, privado o de trabajo coordinado entre dichos sectores;
+VII. Barreras de comunicación, todo obstáculo producido como consecuencia de la falta o deficiencia en el establecimiento de sistemas de señalización, lenguaje visual y auditivo en áreas o actividades del sector público o privado a las que pueda tener acceso el público en general;
 
-IX. Comunicación, el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, el Sistema de Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+VIII. Catálogo, el catálogo de recomendaciones de accesibilidad expedido por el titular del Poder Ejecutivo del Estado de Querétaro, como serie de medidas arquitectónicas para lograr la plena accesibilidad de las personas con discapacidad;
 
-X. Consejo, el Consejo Estatal para las Personas con Discapacidad;
+IX. Centros de capacitación y adiestramiento, las áreas encargadas de ofrecer capacitación, adiestramiento y rehabilitación a las personas con discapacidad, ya sea del sector público, social, privado o de trabajo coordinado entre dichos sectores;
 
-XI. Discapacidad, la ausencia, restricción o pérdida, ya sea de naturaleza temporal o permanente, de la habilidad para desarrollar una actividad, en la forma o dentro del margen considerado como normal para un ser humano;
+X. Comunicación, el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, el Sistema de Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-XII. Discapacidad auditiva, la restricción de la función de perfección de los sonidos externos, alteración de los mecanismos de transmisión, transducción, conducción e integración, del estímulo sonoro, que a su vez puede limitar la capacidad de comunicación. La deficiencia abarca el oído y también las estructuras y funciones asociadas a él;
+XI. Consejo, el Consejo Estatal para las Personas con Discapacidad;
 
-XIII. Discapacidad motora, aquella que se origina por una deficiencia física; es decir, la pérdida o anormalidad en la estructura anatómica de los sistemas osteo-articular, nervioso o muscular, por razones genéticas, congénitas o adquiridas, que obstaculiza o impide realizar diferentes acciones o actividades habituales;
+XII. Discapacidad, la ausencia, restricción o pérdida, ya sea de naturaleza temporal o permanente, de la habilidad para desarrollar una actividad, en la forma o dentro del margen considerado como normal para un ser humano;
 
-XIV. Discapacidad visual, la deficiencia del órgano de la visión, las estructuras y funciones asociadas a él. Es una alteración de la agudeza visual, campo visual, modificación ocular, visión de los colores y profundidad, que determinan una deficiencia de la agudeza visual y que, una vez corregida, en el mejor de los ojos es igual o menor de 20/200 o cuyo campo visual es menor de 20 grados;
+XIII. Discapacidad auditiva, la restricción de la función de perfección de los sonidos externos, alteración de los mecanismos de transmisión, transducción, conducción e integración, del estímulo sonoro, que a su vez puede limitar la capacidad de comunicación. La deficiencia abarca el oído y también las estructuras y funciones asociadas a él;
 
-XV. Educación especial, la destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atiende a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
+XIV. Discapacidad motora, aquella que se origina por una deficiencia física; es decir, la pérdida o anormalidad en la estructura anatómica de los sistemas osteo-articular, nervioso o muscular, por razones genéticas, congénitas o adquiridas, que obstaculiza o impide realizar diferentes acciones o actividades habituales;
 
-XVI. Estimulación temprana, la atención brindada a niños y niñas de entre 0 y 6 años, para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XV. Discapacidad visual, la deficiencia del órgano de la visión, las estructuras y funciones asociadas a él. Es una alteración de la agudeza visual, campo visual, modificación ocular, visión de los colores y profundidad, que determinan una deficiencia de la agudeza visual y que, una vez corregida, en el mejor de los ojos es igual o menor de 20/200 o cuyo campo visual es menor de 20 grados;
 
-XVII. Habilitar, proporcionar la adquisición de patrones de desarrollo adecuados, de acuerdo con la edad cronológica, facilitando la maduración y adaptación al medio;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2018)</small>
 
-XVIII. Igualdad de oportunidades, el proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas, necesarias en el entorno jurídico, social cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
+XVI. Discriminación por motivos de discapacidad, se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de cualquier otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
-XIX. Intervención temprana, la atención brindada al niño, con datos de daño neurológico, para minimizar las secuelas y desarrollar al máximo sus posibilidades físicas, mentales, sensoriales y afectivas;
+XVII. Educación especial, la destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atiende a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
 
-XX. Lenguaje de señas, la forma de comunicación de una comunidad de sordos, mudos o sordomudos, que consiste en una serie de signos gestuales articulados con las manos, acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función comunicativa y que forma parte del patrimonio lingüístico de dicha comunidad;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2018)</small>
 
-XXI. Ley, la Ley para la Integración al Desarrollo Social de las Personas con Discapacidad del Estado de Querétaro;
+XVIII. Educación inclusiva, es la educación que propicia la integración de personas con algún tipo de discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
 
-XXII. Organizaciones no gubernamentales, todas las figuras asociativas constituidas legalmente, dedicadas a la atención de los requerimientos de las personas con discapacidad, que buscan facilitar su desarrollo e integración social;
+XIX. Estimulación temprana, la atención brindada a niños y niñas de entre 0 y 6 años, para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-XXIII. Perros guía, los que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+XX. Habilitar, proporcionar la adquisición de patrones de desarrollo adecuados, de acuerdo con la edad cronológica, facilitando la maduración y adaptación al medio;
 
-XXIV. Personas con discapacidad, toda persona que, por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, de carácter permanente y que al interactuar con las barreras que le impone el entorno social, puede ver afectada su inclusión plena y efectiva a la vida en comunidad, en igualdad de condiciones con los demás;
+XXI. Igualdad de oportunidades, el proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas, necesarias en el entorno jurídico, social cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
 
-XXV. Prevención, la adopción de medidas encaminadas a impedir que se produzcan limitaciones neuromotoras, intelectuales o sensoriales, así como evitar que las discapacidades, cuando se han producido, originen otras;
+XXII. Intervención temprana, la atención brindada al niño, con datos de daño neurológico, para minimizar las secuelas y desarrollar al máximo sus posibilidades físicas, mentales, sensoriales y afectivas;
 
-XXVI. Programa, el Programa Estatal de Prevención de las Discapacidades;
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2018)</small>
 
-XXVII. Rehabilitación, el proceso de duración limitada y con un objeto definido, de orden médico, social y educativo, entre otros, encaminado a facilitar que una persona con discapacidad alcance su nivel físico, mental y sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXIII. Lenguaje, se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
 
-XXVIII. Rehabilitación integral, el conjunto de acciones médicas, psicológicas y sociales, que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación funcional, para procurar su calidad de vida y su integración familiar y social;
+XXIV. Lenguaje de señas, la forma de comunicación de una comunidad de sordos, mudos o sordomudos, que consiste en una serie de signos gestuales articulados con las manos, acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función comunicativa y que forma parte del patrimonio lingüístico de dicha comunidad;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2018)</small>
+
+XXV. Ley, Ley, (sic) la Ley para la Inclusión al Desarrollo Social de las Personas con Discapacidad del Estado de Querétaro;
+
+XXVI. Organizaciones no gubernamentales, todas las figuras asociativas constituidas legalmente, dedicadas a la atención de los requerimientos de las personas con discapacidad, que buscan facilitar su desarrollo e integración social;
+
+XXVII. Perros guía, los que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+
+XXVIII. Personas con discapacidad, toda persona que, por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, de carácter permanente y que al interactuar con las barreras que le impone el entorno social, puede ver afectada su inclusión plena y efectiva a la vida en comunidad, en igualdad de condiciones con los demás;
+
+XXIX. Prevención, la adopción de medidas encaminadas a impedir que se produzcan limitaciones neuromotoras, intelectuales o sensoriales, así como evitar que las discapacidades, cuando se han producido, originen otras;
+
+XXX. Programa, el Programa Estatal de Prevención de las Discapacidades;
+
+XXXI. Rehabilitación, el proceso de duración limitada y con un objeto definido, de orden médico, social y educativo, entre otros, encaminado a facilitar que una persona con discapacidad alcance su nivel físico, mental y sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+
+XXXII. Rehabilitación integral, el conjunto de acciones médicas, psicológicas y sociales, que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación funcional, para procurar su calidad de vida y su integración familiar y social;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-XXIX. Sistema de escritura Braille, el sistema para la comunicación presentado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+XXXIII. Sistema de escritura Braille, el sistema para la comunicación presentado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-XXX. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
+XXXIV. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2015)</small>
 
-XXXI. Coordinación, la Coordinación de Inclusión Social para las Personas con Discapacidad dependiente del despacho del Gobernador del Estado de Querétaro.
+XXXV. Coordinación, la Coordinación de Inclusión Social para las Personas con Discapacidad dependiente del despacho del Gobernador del Estado de Querétaro.
 
 ### Capítulo Tercero. De los derechos de las personas con discapacidad
 
@@ -241,9 +253,11 @@ XXIII. A que se implementen medidas de nivelación, inclusión y acciones afirma
 
 La prevención de las discapacidades constituye un derecho y un deber de cada persona y de la sociedad, en su conjunto; formará parte de las obligaciones prioritarias del Estado, en el campo de la salud pública y de los servicios sociales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### Artículo 8.
 
-La persona con discapacidad tiene derecho a gozar de asistencia jurídica competente. Si fuese sometido a procedimiento penal, civil, familiar o de cualquier otra índole, deberán tomarse en consideración sus condiciones físicas, mentales y sensoriales, brindándole los apoyos personales y materiales de acuerdo a su discapacidad, así como intérpretes, en caso de que sea necesario.
+Las personas con discapacidad tienen derecho a gozar de amplia asistencia jurídica, debiendo tomarse en consideración sus condiciones físicas, mentales, intelectuales o sensoriales y brindándole los apoyos personales y materiales de acuerdo a su discapacidad.
 
 Las personas con discapacidad, al igual que cualquier otro individuo, tienen la obligación de conducirse conforme a la normatividad jurídica vigente y ser respetuosos de las disposiciones constitucionales y de las leyes que rigen la conducta de la sociedad.
 
@@ -1218,3 +1232,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Las acciones a que se refiere la presente Ley, se realizarán conforme a la disponibilidad presupuestal con que cuenten las dependencias y entidades facultadas para su aplicación.
+
+P.O. 18 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
