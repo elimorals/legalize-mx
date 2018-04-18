@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-electoral-del-estado-de-48866"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-03"
-last_updated: "2014-10-10"
+last_updated: "2018-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de febrero de 2006.
 
@@ -570,43 +570,17 @@ i) Portar armas de cualquier clase en el interior del Tribunal, salvo que por la
 
 DE LA PÁGINA DE CONSULTA VIRTUAL DEL TRIBUNAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2014)</small>
-
 ###### ARTÍCULO 31.
 
-Se entenderá por Página de Consulta Virtual del Tribunal el sistema de procesamiento de información electrónico, que permite la consulta de asuntos tramitados ante el Tribunal Electoral, conforme a los lineamientos de operación establecidos en este reglamento.
-
-Para los efectos de este ordenamiento reglamentario, se entenderá por:
-
-Usuario: es una clave elegida por el interesado en el proceso de su registro para acceder al sistema de la Página de Consulta Virtual del Tribunal, que será la identificación del interesado en el mismo.
-
-Contraseña: es una clave elegida por el interesado en el proceso de su registro con la que en combinación con el usuario dará acceso a la información contenida en la Página de Consulta Virtual del Tribunal.
-
-Página Electrónica: contiene a las pantallas de acceso de los sistemas computacionales que mediante Internet publica el Tribunal.
-
-Expediente Electrónico: es el conjunto de documentos digitalizados, actuaciones y resoluciones comprendidas en los sistemas computacionales del Tribunal, almacenados en sus bases de datos, y que corresponden a una copia fiel del expediente físico de que se trate.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2014)</small>
+(DEROGADO, P.O. 18 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 32.
 
-Las partes podrán solicitar en los términos del artículo 33 del presente Reglamento, el acceso al expediente electrónico a través de la Página de Consulta Virtual del Tribunal.
-
-Cualquier ciudadano podrá registrar una clave de usuario en la Página de Consulta Virtual del Tribunal, a fin de acceder aquellos expedientes que se encuentren definitivamente concluidos.
+(DEROGADO, P.O. 18 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 33.
 
-La promoción mediante la cual se solicite el acceso a la consulta de expedientes en trámite a través de la Página de Consulta Virtual del Tribunal, deberá cumplir con los siguientes requisitos:
-
-I. Presentarse por escrito ante el Tribunal, en el que se señale la clave del usuario y nombre completo con el cual se registró en la Página de Consulta Virtual del Tribunal, debidamente firmada por cualquiera de las partes o por sus legítimos representantes;
-
-II. Manifestar claramente su solicitud de consultar las actuaciones correspondientes en vía electrónica;
-
-III. Solicitarlo mediante comparecencia escrita en los autos del propio expediente cuya consulta electrónica se impetre.
-
-IV. Tratándose de varios interesados se deberá señalar sus respectivos nombres de usuario, siempre y cuando estén autorizados para oír y recibir notificaciones en el expediente; y
-
-V No podrá la promoción referirse a expediente diverso de aquél en que se comparezca.
+(DEROGADO, P.O. 18 DE ABRIL DE 2018)
 
 ## TRANSITORIOS
 
@@ -649,3 +623,15 @@ Las presentes reformas y adiciones entrarán en vigor a partir del día de su ap
 ###### ARTÍCULO SEGUNDO.
 
 Se ordena la publicación de los artículos que se reforman y adicionan, en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE DEROGAN LOS ARTÍCULOS 31, 32, Y 33 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NUEVO LEÓN”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se ordena la publicación de la presente acta en el Periódico Oficial del Estado.
