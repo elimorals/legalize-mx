@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2018-01-04"
+last_updated: "2018-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2018.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -49,19 +47,21 @@ LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo y le serán complementarias las disposiciones del Código Fiscal del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. AGENCIA DE VIAJE. La persona física o moral por la que directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y/o tiempos compartidos y/o multipropiedad, subagencia o de cualquier tipo, con motivo de los actos o negocios jurídicos que celebre, se preste el servicio de hospedaje.
+I. CÓDIGO. El Código Fiscal del Estado de Quintana Roo.
 
-II. CÓDIGO. El Código Fiscal del Estado de Quintana Roo.
+II. ESTADO. El Estado Libre y Soberano de Quintana Roo.
 
-III. ESTADO. El Estado Libre y Soberano de Quintana Roo.
+III. IMPUESTO. El Impuesto al Hospedaje.
 
-IV. IMPUESTO. El Impuesto al Hospedaje.
+IV. LEY. La Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
 
-V. LEY. La Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
+V. PRESTADOR DE SERVICIO DE HOSPEDAJE. La persona física o moral que directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas de servicios turísticos y/o tiempos compartidos, subagencia o de cualquier tipo, con motivo de los actos o negocios jurídicos que celebre, preste el servicio de hospedaje.
 
 VI. SECRETARÍA. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Quintana Roo.
 
@@ -71,7 +71,9 @@ La recaudación y administración del impuesto es de la competencia de la Secret
 
 ## TÍTULO II. DEL OBJETO
 
-###### ARTÍCULO 4.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2018)</small>
+
+###### ARTICULO 4.
 
 Es objeto de este impuesto el pago por servicios de hospedaje que otorguen:
 
@@ -79,7 +81,9 @@ I. Hoteles, moteles, mesones, posadas, hosterías;
 
 II. Campamentos, paraderos de casas rodantes;
 
-III. Tiempo compartido y/o multipropiedad;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2018)</small>
+
+III. Tiempo compartido;
 
 IV. Marinas turísticas, y
 
@@ -107,19 +111,15 @@ Son sujetos del impuesto, las personas físicas, morales o unidades económicas 
 
 El impuesto se calculará aplicando la tasa del 3% sobre el valor de facturación y/o contratación de los servicios a que se refieren los artículos 4 y 9 de esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
-Tratándose de servicios prestados bajo el régimen de tiempo compartido y/o multipropiedad, se tomará como base del impuesto:
+Tratándose de servicios prestados bajo el régimen de tiempo compartido se tomará como base del impuesto los ingresos percibidos a través del pago de cuotas ordinarias de servicio o mantenimiento.
 
-Los ingresos percibidos a través del pago:
+Lo dispuesto anteriormente será aplicable independientemente de la denominación que se les asigne a las cuotas en el contrato correspondiente.
 
-a) Por el uso del inmueble.
-
-b) De cuotas ordinarias de servicio y mantenimiento.
-
-Lo dispuesto en los incisos anteriores de esta fracción será aplicable independientemente de la denominación que se le asigne.
-
-II. Los pagos percibidos por los sujetos a que se refiere del (sic) segundo párrafo del artículo 11 de esta Ley, respecto a las personas que por intercambio se hospeden en el Estado.
+En caso de que quien pague los servicios de hospedaje prestados bajo el régimen de tiempo compartido no tenga obligación contractual de pagar cuotas ordinarias de servicio o mantenimiento, se tomará como base del impuesto la cantidad que el prestador perciba por el uso del inmueble relativo al servicio de hospedaje.
 
 ###### ARTÍCULO 10.
 
@@ -129,17 +129,11 @@ Los retenedores que presten servicios de hospedaje por el cual el pago de la con
 
 Cuando se omita efectuar el desglose a que se refiere el párrafo anterior, la base gravable del impuesto será como mínimo el 60% del importe total señalado en el comprobante fiscal respectivo, salvo que previamente a la fecha del pago mensual correspondiente, se compruebe lo contrario.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-Los prestadores de servicios cobrarán el impuesto, en forma expresa y por separado, a las personas que paguen los servicios objeto de esta contribución.
-
-Cuando el pago de los servicios objeto de este impuesto se efectúe por conducto de un tercero a través de, agencia de viaje, intermediario, promotor, facilitador o cualquier denominación que se le asigne y el medio por la (sic) que se efectúe el pago sea cualquiera de los establecidos en el artículo 18 del Código, éstos se sujetarán a lo siguiente:
-
-I. Tendrán la obligación de determinar el impuesto en términos de esta ley y retenerlo, y
-
-II. Se sujetarán a lo dispuesto en el artículo 18 de esta Ley.
-
-El impuesto retenido por conducto de un tercero se enterará en términos de lo dispuesto en el artículo 18 fracción III de esta Ley.
+Los prestadores de servicios tendrán la obligación de determinar, retener y enterar el impuesto, en forma expresa y por separado, a las personas que paguen los servicios objeto de esta contribución, ya sea que dichos pagos se efectúen por los beneficiarios directos del servicio o a través de terceros por conducto de agencias de viaje, intermediario, promotor, facilitador, o cualquier denominación que se le asigne.
 
 ###### ARTÍCULO 12.
 
@@ -193,29 +187,7 @@ Los retenedores que presten servicios de hospedaje, deberán de proporcionar men
 
 ###### ARTÍCULO 18.
 
-Quien preste el servicio de hospedaje con motivo de los actos o negocios jurídicos que realice por conducto de un tercero, tendrá las obligaciones siguientes:
-
-I. Contar con un ejemplar original o debidamente certificado del contrato o convenio celebrado por escrito, o impresión digital del contrato o convenio celebrado por medios electrónicos y/o mensajes de datos entre el prestador de servicios de hospedaje y el tercero.
-
-II. Obtener del tercero la forma oficial autorizada por la Secretaría, misma que deberá de contener:
-
-a) Nombre, denominación o razón social y domicilio del tercero;
-
-b) Nombre del usuario final de los servicios de hospedaje;
-
-c) El desglose y monto de los servicios pagados por el usuario final de los servicios de hospedaje;
-
-d) La fecha y medios de pago efectuada (sic) por el usuario final de los servicios de hospedaje;
-
-e) Las causales de rescisión de los contratos que celebren con el usuario final de los servicios de hospedaje y las consecuencias jurídicas que resulten para ambas, y
-
-f) Firma de la persona que funja como tercero o de su representante legal.
-
-III. Determinar y retener del tercero el impuesto correspondiente, considerando el contenido del contrato y la forma autorizada a que se refieren las fracciones I y II de este artículo, así como enterar dicho impuesto en términos de lo dispuesto en el artículo 11, y
-
-IV. Presentar declaración informativa trimestral, cada día 17, respecto de las tarifas oficiales que aplica para la prestación del servicio de hospedaje en sus diferentes modalidades.
-
-Cuando el obligado omita el cumplimiento a lo previsto en la fracción III de este artículo, será responsable solidario del pago del impuesto. En este caso, se deberá tener como base del impuesto un cien por ciento de la tarifa oficial correspondiente reportada ante la Secretaría, salvo que pruebe lo contrario antes de la fecha de pago de la declaración mensual definitiva inmediata.
+(DEROGADO, P.O. 18 DE ABRIL DE 2018)
 
 ## TRANSITORIOS
 
@@ -246,3 +218,13 @@ C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2018.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO: 170 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO Al HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
