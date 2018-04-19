@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-monte-de-piedad-del-estado-de-oaxaca-15433"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "2017-04-21"
+last_updated: "2018-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 19 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -410,3 +412,23 @@ NOVENO. Se faculta al Titular de la Secretaría de Finanzas para que, en términ
 DÉCIMO. El Consejo de Administración del Monte de Piedad deberá quedar instalado dentro de los siguientes 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a 60 días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+P.O. 19 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1460.- MEDIANTE EL CUAL EXPIDE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley del Monte de Piedad del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo previsto en la presente Ley.
+
+CUARTO. El Reglamento Interno deberá expedirse a más tardar dentro de los sesenta días hábiles posteriores a la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+QUINTO. En tanto se autoriza la estructura actualizada y el reglamento interno, el Monte de Piedad del Estado de Oaxaca continuará operando con la estructura y reglamento con que se cuenta a la fecha de la publicación de la presente.
+
+SEXTO. En todos los casos que por la aplicación de esta Ley, se modifique la estructura orgánica de las áreas administrativas de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+SÉPTIMO. El Consejo de Administración se instalará a más tardar dentro de los treinta días hábiles posteriores a la publicación de la presente Ley, y posterior a ello cada cambio de Gobierno del Titular del Poder Ejecutivo del Estado. Para el caso de que hubiere cambio de alguno de sus miembros, se convocará a los integrantes para informarles lo acontecido.
+
+OCTAVO. El Comité de Adquisiciones del Monte de Piedad del Estado de Oaxaca se instalará dentro de los treinta días naturales siguientes a la autorización de los Lineamientos que emita el Consejo de Administración.
