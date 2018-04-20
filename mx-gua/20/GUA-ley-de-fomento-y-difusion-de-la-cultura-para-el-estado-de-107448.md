@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-y-difusion-de-la-cultura-para-el-estado-de-10744
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-21"
-last_updated: "2015-12-29"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE FOMENTO Y DIFUSIÓN DE LA CULTURA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de abril de 2015.
 
@@ -756,3 +756,15 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. DE 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 296, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. La presente Ley entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley de Fomento y Difusión de la Cultura para el Estado de Guanajuato y sus Municipios.
+
+Artículo Tercero. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente decreto.
+
+Artículo Cuarto. Los convenios firmados previamente a la entrada en vigor de la presente Ley seguirán vigentes hasta el término de la vigencia que en los mismos se señale.
