@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2018-02-23"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -484,6 +484,10 @@ XI.- Editar libros y materiales didácticos distintos a los textos gratuitos oto
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
 
 XII.- PARA EL INGRESO, PROMOCIÓN, RECONOCIMIENTO Y PERMANENCIA DEL PERSONAL DOCENTE O CON FUNCIONES DE DIRECCIÓN O SUPERVISIÓN EN LA EDUCACIÓN BÁSICA Y MEDIA SUPERIOR QUE IMPARTAN, DEBERÁN OBSERVAR LO DISPUESTO POR LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XIII.- Implementar protocolos de atención, sistemas de capacitación obligatoria y programas de prevención para prevenir y atender la violencia y abuso sexual contra niños, niñas y adolescentes.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -2192,3 +2196,9 @@ P.O. 23 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 6, 14, 15, 34, 71, 76, 79 BIS Y 87, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 34 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 217 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PROYECTO DE DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 16 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma a la Ley Estatal de Educación del Estado de Baja California, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
