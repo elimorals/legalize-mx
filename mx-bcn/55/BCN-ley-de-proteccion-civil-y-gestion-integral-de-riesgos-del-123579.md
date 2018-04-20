@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-del-12357
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-08"
-last_updated: "2017-09-08"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 8 de septiembre de 2017.
 
@@ -905,9 +905,15 @@ No se podrá condicionar ningún permiso de operación municipal con la obligaci
 
 La capacitación en temas de protección civil que realice la Coordinación Estatal sólo se podrá otorgar a los organismos de la sociedad civil registrados en el Estado, a las dependencias de gobierno federal establecidas en el Estado y a las propias dependencias del gobierno estatal, cuando tengan aprobado el programa interno de protección civil de acuerdo a la presente Ley, o solo se podrá otorgar capacitación en los temas propios para poder cumplir con el desarrollo del programa interno de protección civil.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 73.
 
-Ninguna entidad, dependencia u organismo de gobierno deberá proveer estímulos económicos o de especie a organizaciones de la sociedad civil si no cumple con el programa interno de protección civil debidamente aprobado de acuerdo a la presente Ley y su reglamento.
+Toda organización de la sociedad civil deberá cumplir con el programa interno de protección civil previsto por esta Ley; las autoridades brindarán subsidiariamente el apoyo necesario para el cumplimiento de esta obligación.
+
+Las entidades, dependencias u organismos de gobierno incentivarán a las organizaciones de la sociedad civil que cumplan con el programa interno de protección civil.
+
+Para efectos de los beneficios e incentivos a que hacen referencia los párrafos que anteceden, los organismos de la sociedad civil que no cuenten con su programa interno de protección civil aprobado, deberán acreditar estar en vías de cumplimiento de los trámites correspondientes ante las autoridades municipales o estatales según sea el caso. Lo anterior sin menoscabo de las responsabilidades que del incumplimiento del programa interno deriven.
 
 ###### Artículo 74.
 
@@ -1536,3 +1542,13 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 234 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La autoridad estatal y municipales previstas por esta Ley, impulsarán a las organizaciones de la sociedad civil para que cumplan con el programa interno de protección civil, brindándoles la asesoría necesaria. Cuando conforme a los estudios socioeconómicos que la autoridad les practique requieran del apoyo para solventar su programa interno de protección civil, la autoridad competente, subsidiariamente les apoyará con los dictámenes que formen parte del Programa.
