@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2015-04-06"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -1579,7 +1581,9 @@ El orden del día de las sesiones que se someterá a la aprobación de la Asambl
 
 En el orden del día se incluirán obligatoriamente los asuntos básicos y los complementarios que procedan, así como los extraordinarios, si hubiere.
 
-Los trámites relativos a la lectura del acta, comunicaciones, iniciativas recibidas y desahogo de dictámenes, se considerarán enunciativamente como básicos.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Los trámites relativos a la lectura del acta, comunicaciones, iniciativas o proposiciones de acuerdo recibidas y desahogo de dictámenes, se consideran enunciativamente como básicos.
 
 Tendrán el carácter de puntos complementarios del orden del día, los asuntos generales que versen enunciativamente sobre lo siguiente:
 
@@ -1587,15 +1591,17 @@ I. Declaraciones;
 
 II. Efemérides;
 
-III. Denuncias;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-IV. Informes;
+III. Denuncias, y
 
-V. Proposición o presentación de iniciativas, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VI. Posiciones u opiniones políticas.
+IV. Informes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+V. (DEROGADA, P.O. 20 DE ABRIL DE 2018)
+
+VI. (DEROGADA, P.O. 20 DE ABRIL DE 2018)
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -1613,9 +1619,11 @@ Los puntos extraordinarios de naturaleza superveniente, se incluirán en el orde
 
 Las disposiciones contenidas en la presente sección aplicarán en lo conducente a las reuniones de la Diputación Permanente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 81.
 
-En las sesiones se dará cuenta de los asuntos en el orden siguiente:
+El orden del día de las sesiones se integrará de manera enunciativa más no limitativa, por los apartados siguientes:
 
 I. Lectura y aprobación, en su caso, del acta de la sesión anterior;
 
@@ -1625,15 +1633,23 @@ III. Iniciativas;
 
 IV. Dictámenes a lectura;
 
-V. Discusión de proyectos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VI. Declaraciones de los grupos parlamentarios sobre asuntos de interés general o específico, si los hubiere;
+V. Discusión de proyectos, y
 
-VII. Propuesta de orden del día de la sesión siguiente, con asuntos en cartera, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VIII. Asuntos generales complementarios o extraordinarios, si los hubiere.
+VI. Posicionamientos
+
+VII. (DEROGADA, P.O. 20 DE ABRIL DE 2018)
+
+VIII. (DEROGADA, P.O. 20 DE ABRIL DE 2018)
 
 Tratándose de la celebración de sesiones solemnes donde se declare la apertura de los periodos ordinarios, se dispensará la lectura del acta para su desahogo en sesión posterior, y deberá incluirse como punto del orden del día honores a la bandera.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+En relación a lo establecido en la fracción VI, se entiende por posicionamientos, las intervenciones de los diputados, representaciones parlamentarias o de los grupos parlamentarios sobre asuntos generales o complementarios.
 
 #### Sección Tercera. Acta de las Sesiones
 
@@ -1745,9 +1761,11 @@ VII. Envío al Poder Ejecutivo para los efectos constitucionales conducentes.
 
 Tratándose del trámite de las observaciones del Gobernador a las resoluciones aprobadas por el Congreso, se estará a lo dispuesto por la Constitución local y la Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 92.
 
-Las iniciativas presentadas se darán a conocer ante la Asamblea por conducto de la Secretaría de la Mesa Directiva y, de considerarlo pertinente por su importancia, el presidente del Congreso dispondrá su lectura. Enseguida ordenará su turno a la o las comisiones legislativas competentes, para su estudio y dictamen.
+Las iniciativas presentadas se darán a conocer ante la Asamblea por conducto de la Secretaría de la Mesa Directiva y, de considerarlo pertinente por su importancia, el presidente del Congreso dispondrá su lectura. Enseguida ordenará su tumo a la o las comisiones legislativas competentes, para su estudio y dictamen, con excepción de las iniciativas presentadas por las comisiones legislativas en asuntos de su competencia, mismas que tendrán el carácter de dictámenes y pasarán a discusión del Pleno o de la Diputación Permanente, habiéndose desahogado previamente las lecturas correspondientes.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4604,3 +4622,9 @@ P.O. 24 DE DICIEMBRE DE 2014.
 P.O. 6 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. DE 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGAR (SIC) DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
