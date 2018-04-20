@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2018-01-19"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1735,11 +1735,17 @@ La misma pena se impondrá a quien no estando en condiciones de prestar el auxil
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla se le impondrá prisión de seis meses a dos años y se le privará del derecho de ejercer la patria potestad o tutela si el agente fuera ascendiente o tutor del ofendido.
 
-Cuando el abandono se cometa respecto a un adulto mayor de sesenta años o más de edad, que se encuentre en una situación de enfermedad, o de incapacidad física que le impida cuidarse o alimentarse, se le impondrá al descendiente o a quien tenga el deber legal, una pena de prisión de uno a tres años y la privación del derecho a la herencia del ofendido.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-Si del abandono se pone en situación de peligro la integridad física y moral del abandonado la pena se aumentará de uno a cuatro años de prisión, y si resultare algún otro delito, se aplicarán las reglas de la acumulación.
+Cuando se someta a condición de abandono o desamparo a una persona adulto mayor, de sesenta años o más de edad, hallándose éste imposibilitado para satisfacer por sí mismo sus necesidades de hospedaje, higiene, vestido, alimentación, salud o cualquier otra que precise para su adecuada subsistencia o manutención, se impondrá a quien le asista el deber legal de su cuidado, o se halle obligado a ello por haberle sido confiada su guarda y protección, pena de uno a cuatro años de prisión. Si con motivo de dicho abandono, resultare la comisión de algún otro delito, se aplicarán las reglas de la acumulación.
 
-Las Instituciones Públicas o privadas que colaboren con el Sistema para el Desarrollo Integral de la Familia, cuando tengan conocimiento de un hecho previsto en este artículo, presentaran la denuncia ante el Ministerio Público.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Las mismas penas previstas en el segundo párrafo de este artículo se impondrán, a quien teniendo el deber legal de su cuidado, confíe a un tercero la guarda y protección de una persona adulto mayor, de sesenta años o más de edad, en situación de dependencia, en asilo, casa hogar, estancia o cualquier institución pública o privada que proporcione cuidados geriátricos, y con posterioridad a ello, lo someta a condición de abandono, al no proporcionar a ese tercero los elementos necesarios para brindar asistencia y proveer a la adecuada manutención del adulto mayor.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Cualquier persona, cuando tenga conocimiento de un hecho previsto en este artículo, podrá presentar la denuncia correspondiente ante el Ministerio Público, por lo que su persecución será de manera oficiosa.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2303,7 +2309,7 @@ Artículo 195 BIS.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO V. EXTORSION
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### Artículo 198.
 
@@ -2693,7 +2699,7 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 ###### Artículo 224.
 
-Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de seis a diez años y hasta cuatrocientos días multa.
+Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de siete a doce años y hasta cuatrocientos días (sic).
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2795,7 +2801,13 @@ I.- Instituciones educativas y culturales tanto públicas como privadas;
 
 II.- Parques y Jardines públicos; y
 
-III.- Bienes del patrimonio cultural.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+III.- Bienes del patrimonio cultural
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+IV.- Edificios públicos.
 
 ###### Artículo 229.
 
@@ -3225,11 +3237,15 @@ I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas e
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2018)</small>
+
+III.- A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### Artículo 246.
 
-Punibilidad.- Se aplicará de un mes a tres años de prisión y hasta cien días multa;
+Punibilidad.- Se aplicará de seis meses a tres años de prisión y de doscientos a trescientos días multa;
 
 I.- Al que porte un arma de las señaladas en el artículo anterior.
 
@@ -3927,6 +3943,8 @@ Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equival
 
 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente al momento de cometerse el delito.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 296.
 
 Tipo.- Comete el delito de cohecho: el servidor público, que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquier otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones.
@@ -3943,7 +3961,47 @@ Al servidor público responsable de cohecho se le destituirá e inhabilitará pa
 
 En ningún caso se devolverá al responsable del delito de cohecho, el dinero o dádiva entregadas, las que se aplicarán en beneficio del Estado.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPÍTULO XV. USO ILÍCITO DE ATRIUCIONES Y FACULTADES DEL SERVICIO PÚBLICO
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 307 QUINQUIES.- Comete el delito de uso indebido de atribuciones y facultades:
+
+I.- El servidor público que ilícitamente:
+
+A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado;
+
+B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
+
+C) Otorgue franquicias, exenciones deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o presentados en la Administración Pública Estatal.
+
+D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos;
+
+E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
+
+II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+
+A) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
+
+B) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
+
+III.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
+
+IV.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 307 SEXTIES.- Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I.- Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
+
+II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
 
 ###### Artículo 298.
 
@@ -3963,7 +4021,7 @@ III.- Cuando el monto de lo distraído exceda de dos mil veces el salario, se le
 
 Al servidor público responsable de peculado, se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se haya aplicado.
 
-### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### Artículo 307
 
@@ -3995,7 +4053,7 @@ Tipo.- Comete el delito de concusión el servidor público que con el carácter 
 
 Punibilidad.- Al servidor público que cometa el delito de concusión se le aplicará de seis meses a dos años de prisión.
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
 
 ###### Artículo 302.
 
@@ -4009,7 +4067,7 @@ Sub-tipo.- Al servidor público que indebidamente dé a conocer documento o noti
 
 Utilización indebida de descubrimiento científico, etc.- Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que deba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 305.
 
@@ -4019,9 +4077,7 @@ I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por inte
 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 306.
 
@@ -4039,7 +4095,7 @@ III.- El servidor público que por sí o por interpósita persona, utilizando la
 
 Al que cometa el delito de intimidación se le impondrán de dos a seis años de prisión y de cincuenta a trescientos días multa.
 
-### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -4065,6 +4121,10 @@ IV.- Al particular que, sin estar autorizado legalmente para intervenir en un ne
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
+### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
@@ -4073,15 +4133,11 @@ IV.- Al particular que, sin estar autorizado legalmente para intervenir en un ne
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
+## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
-
-### CAPITULO II. FRAUDE PROCESAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 308.
 
@@ -4095,9 +4151,9 @@ Cohecho cometido por particulares.- Al particular que de manera espontánea ofre
 
 Peculado impropio.- Al particular que estando obligado legalmente a la custodia, administración o aplicación de recursos públicos locales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a tres años de prisión y de cincuenta a cien días multa.
 
-### CAPITULO III. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 311.
 
@@ -4125,9 +4181,9 @@ Coacción a la autoridad.- Al que por medio de la violencia física o moral exij
 
 Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO III. EVASION DE PRESOS
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 316.
 
@@ -4135,9 +4191,9 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 317.
 
@@ -4157,21 +4213,21 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
-### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 318.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a trescientos días multa, al que sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 319.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y cien a trescientos días multa, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura que correspondan aquellos.
 
-### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### Artículo 320.
 
@@ -4185,9 +4241,9 @@ Presentación de testigos falsos y otros.- Al que presente testigos falsos conoc
 
 Además de las penas a que se refiere el párrafo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
 
-### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ###### Artículo 322.
 
@@ -4197,13 +4253,13 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 
 II.- Al que, para eludir la práctica de una diligencia judicial o una notificación de cualquier clase o citación de una autoridad, oculte su domicilio o designe otro distinto o niegue de cualquier modo el verdadero.
 
-### CAPITULO UNICO
+### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
 
 ## TITULO CUARTO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 323.
 
@@ -4260,6 +4316,10 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 ###### Artículo 324.
 
 Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 325.
 
@@ -5583,6 +5643,46 @@ P.O. 19 DE ENERO DE 2018.
 
 P.O. 19 DE ENERO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 167 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 257 DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 167 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 257 DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 207 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ADICIONAR LOS ARTÍCULOS 307-QUINQUIES Y ARTICULO 307 SEXTIES A UN CAPÍTULO XV, DENOMINADO USO ILÍCITO DE ATRIBUCIONES Y FACULTADES DEL SERVICIO PÚBLICO, AL TÍTULO SEGUNDO, DENOMINADO DELITOS COMETIDOS POR SERVIDORES PÚBLICOS, DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Aprobada que sea (sic) las presentes reformas, túrnese a (sic) Poder Ejecutivo para su publicación en el Periódico Oficial del Estado, para los efectos legales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 208 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN IV AL ARTÍCULO 228 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 211 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 245 Y 246 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 206 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 224, TÍTULO SEXTO DE DELITOS CONTRA EL PATRIMONIO, EN SU CAPÍTULO V DE EXTORCIÓN (SIC) DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 210 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 158 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
