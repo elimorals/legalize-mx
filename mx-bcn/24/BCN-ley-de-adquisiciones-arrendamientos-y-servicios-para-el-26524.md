@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2017-11-10"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -102,6 +102,10 @@ XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determ
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 XV.- Comisión.- La Comisión Interinstitucional prevista en la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2018)</small>
+
+XVI.- Sustentabilidad Ambiental: La administración eficiente y racional de los recursos naturales, de manera tal que sea posible mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras.
 
 ###### ARTÍCULO 4.
 
@@ -261,9 +265,9 @@ III.- Dictaminar previamente a la iniciación del procedimiento, sobre la improc
 
 IV.- Proponer y aplicar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-El Comité procurará incorporar en dichas políticas, bases y lineamientos, aspectos de sustentabilidad ambiental que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
+El Comité establecerá en dichas políticas, bases y lineamientos, los aspectos de sustentabilidad ambiental, incluyendo la evaluación de las tecnologías que permitan la reducción de la emisión de gases de efecto invernadero y la eficiencia energética, que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales. En la definición de los aspectos de sustentabilidad ambiental el Comité solicitará la opinión de la Secretaría de Protección al Ambiente del Estado u órgano equivalente en el ámbito municipal.
 
 V.- Analizar exclusivamente para su opinión, cuando se le solicite, los dictámenes y fallos emitidos por los servidores públicos responsables de ello;
 
@@ -1212,3 +1216,11 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 21, 27 Y 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 205 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 18 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
