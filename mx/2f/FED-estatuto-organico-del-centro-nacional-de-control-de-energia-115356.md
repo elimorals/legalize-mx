@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-de-energia-115
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-29"
-last_updated: "2017-06-19"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115356&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-06-21"
 ---
 # ESTATUTO ORGANICO DEL CENTRO NACIONAL DE CONTROL DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 20 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2018 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el día miércoles 29 de junio de 2016.
 
@@ -1546,3 +1548,15 @@ D.O.F. 19 DE JUNIO DE 2017.
 PRIMERO.- La presente modificación al Estatuto Orgánico del Centro Nacional de Control de Energía entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Esta modificación deberá inscribirse en el Registro Público de Organismos Descentralizados, en los términos del penúltimo párrafo del artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA".]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control de Energía publicado en el Diario Oficial de la Federación el 29 de junio de 2016, y su modificación del 19 de junio de 2017.
+
+TERCERO. En virtud de la reasignación de competencias, los asuntos que se encuentran en trámite a la fecha de publicación de este Estatuto serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia en el mismo.
+
+Las referencias que se hacen y las facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
