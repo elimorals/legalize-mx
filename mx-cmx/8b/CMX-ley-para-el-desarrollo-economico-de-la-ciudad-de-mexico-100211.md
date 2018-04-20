@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2017-12-07"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -82,7 +82,7 @@ X. Alentar la competitividad y los servicios sociales e impulsar programas socia
 
 XI. Apoyar la asociación tecnológica y la colaboración entre agentes económicos, centros universitarios y de innovación tecnológica, particularmente en áreas estratégicas del desarrollo económico de la Ciudad de México;
 
-XII. Diseñar e instrumentar las políticas públicas para incrementar e impulsar la infraestructura industrial, inmobiliaria, turística, ambiental, comercial y de servicios en el Distrito Federal; y (sic)
+XII. Diseñar e instrumentar las políticas públicas para incrementar e impulsar la infraestructura industrial, inmobiliaria, turística, ambiental, comercial y de servicios en el Distrito Federal; y
 
 XIII. Promover en coordinación, con las dependencias de la Administración Pública del Distrito Federal, en el ámbito de su competencia, los programas en materia de aprovechamiento territorial que aumenten el valor del patrimonio inmobiliario del Distrito Federal, para fomentar el desarrollo económico.
 
@@ -126,33 +126,41 @@ VI. Áreas de Gestión Estratégica: Las señaladas en la fracción III del art�
 
 VII. Asamblea: La Asamblea Legislativa del Distrito Federal;
 
-VIII Cadenas de valor: Eslabones que intervienen en un proceso productivo que inicia en el sector primario y llega hasta la distribución del producto final incrementando su valor en cada una de sus etapas.
+VIII. Cadenas de valor: Eslabones que intervienen en un proceso productivo que inicia en el sector primario y llega hasta la distribución del producto final incrementando su valor en cada una de sus etapas.
 
-IX. Comisión: La Comisión Interdependencial para el Fomento y Promoción del Desarrollo Económico en la Ciudad de México;
+> <small>(ADICIONADA, G.O. 20 DE ABRIL DE 2018)</small>
 
-X. Delegaciones: Los Órganos Político Administrativos del Distrito Federal;
+IX. Comercio Justo. Se trata del derecho de toda persona residente en la Ciudad de México en su carácter de primer productor de bienes o servicios, a participar de una economía social y solidaria que tenga como finalidad reducir la pobreza, generar empleo digno, promover la inclusión, la equidad y la justicia social.
 
-XI. Desarrollo Económico: La construcción de las condiciones para que la Ciudad de México pueda promover y sostener un tipo de crecimiento que realice el potencial y mejore la calidad de vida de todos sus habitantes;
+Mediante la obtención de un ingreso digno y estable, por ser primer productor o prestador de servicios en la cadena de comercio.
 
-XII. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
+Mismo que le permita impulsar sus propios procesos de desarrollo económico, social y cultural de forma sustentable en la ciudad.
 
-XIII. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias con el objetivo de propiciar el desarrollo económico de la Ciudad de México
+X. Comisión: La Comisión Interdependencial para el Fomento y Promoción del Desarrollo Económico en la Ciudad de México;
 
-XIV. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía, y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas.
+XI. Delegaciones: Los Órganos Político Administrativos del Distrito Federal;
 
-XV. infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
+XII. Desarrollo Económico: La construcción de las condiciones para que la Ciudad de México pueda promover y sostener un tipo de crecimiento que realice el potencial y mejore la calidad de vida de todos sus habitantes;
 
-XVI. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+XIII. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
-XVII. Ley: La Ley para el Desarrollo Económico del Distrito Federal;
+XIV. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias con el objetivo de propiciar el desarrollo económico de la Ciudad de México
 
-XVIII. Ley Orgánica: La Ley Orgánica de la Administración Pública del Distrito Federal;
+XV. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía, y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas.
 
-XIX. Programa General de Desarrollo: El Programa General de Desarrollo del Distrito Federal;
+XVI. infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
 
-XX. Programa: El Programa de Desarrollo Económico del Distrito Federal; y
+XVII. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
 
-XXI. Secretaría: La Secretaría de Desarrollo Económico del Distrito Federal.
+XVIII. Ley: La Ley para el Desarrollo Económico del Distrito Federal;
+
+XIX. Ley Orgánica: La Ley Orgánica de la Administración Pública del Distrito Federal;
+
+XX. Programa General de Desarrollo: El Programa General de Desarrollo del Distrito Federal;
+
+XXI. Programa: El Programa de Desarrollo Económico del Distrito Federal; y
+
+XXII. Secretaría: La Secretaría de Desarrollo Económico del Distrito Federal.
 
 ## TÍTULO SEGUNDO
 
@@ -202,7 +210,7 @@ La Asamblea tendrá 30 días hábiles para emitir su opinión al respecto, enten
 
 ###### Artículo 7.
 
-Son atribuciones de la Secretaría las siguientes:
+Son atribuciones de la Secretaria las siguientes:
 
 I. Programar, conducir, coordinar, orientar y promover el fomento de las actividades productivas en la Ciudad de México;
 
@@ -224,7 +232,7 @@ IX. Promover la mejora regulatoria para el fomento y promoción del desarrollo e
 
 X. Promover la cultura emprendedora con potencial en la Ciudad de México;
 
-XI Coordinarse con las Dependencias y Entidades competentes en la materia para, promover el uso de tecnologías de información y de comunicación para incrementar las oportunidades de negocio de las micro, pequeñas y medianas empresas;
+XI. Coordinarse con las Dependencias y Entidades competentes en la materia para, promover el uso de tecnologías de información y de comunicación para incrementar las oportunidades de negocio de las micro, pequeñas y medianas empresas;
 
 XII. Realizar por si o a través de terceros estudios de viabilidad técnica, económica y financiera, en congruencia con las disposiciones en la materia ambiental; para los proyectos de fomento y desarrollo económico de la Ciudad de México;
 
@@ -238,7 +246,11 @@ XVI. Generar estudios para la elaboración de diagnósticos, análisis de prospe
 
 XVII. Crear programas institucionales de promoción, financiamiento, formación de redes de colaboración, promoción de espacios de investigación, implementación de herramientas y mejora regulatoria para el desarrollo de las industrias creativas en la Ciudad de México; y
 
-XVIII. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
+> <small>(ADICIONADA, G.O. 20 DE ABRIL DE 2018)</small>
+
+XVIII. Impulsar políticas públicas mediante un registro que permita el desarrollo económico de los productores y prestadores de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de Comercio Justo.
+
+XIX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
 ###### Artículo 8.
 
@@ -257,6 +269,18 @@ V. Participar con las autoridades del Distrito Federal competentes en el diseño
 VI. Generar en coordinación con la Secretaria de Desarrollo Económico información que fortalezca la toma de decisiones en materia económica para la demarcación;
 
 VII. Participar en la generación de propuestas para la creación de las Áreas de Desarrollo Económico (ADE) en coordinación con la Secretaria de Desarrollo Económico del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 20 DE ABRIL DE 2018)</small>
+
+VIII. Impulsar ferias, exposiciones, congresos y eventos similares que promuevan el comercio justo de los productores y prestadores de servicios de su delegación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, G.O. 20 DE ABRIL DE 2018]</small>
+
+Para lo cual se publicarán mediante un calendario específico las convocatorias para tal efecto, y se desarrollará un plan integral por delegación que establezca los eventos anuales que se programarán y presupuestarán.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, G.O. 20 DE ABRIL DE 2018]</small>
+
+Para estar en posibilidad de organizar a los productores y prestadores de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de Comercio Justo.
 
 ### CAPÍTULO III. De la Comisión Interdependencial para el Fomento y Promoción del Desarrollo Económico en la Ciudad de México
 
@@ -427,6 +451,10 @@ II. Que procure una mejor redistribución de la riqueza, especialmente para el c
 III. Que las decisiones económicas y la política económica deberán instrumentarse en un marco de transparencia a partir de la producción, disponibilidad y publicidad de información cierta y actualizada y accesible al público.
 
 IV. Que la política económica observará, atenderá y respetará de manera invariable las libertades fundamentales y los derechos de los ciudadanos; tales como el derecho a la propiedad, el derecho al trabajo, el derecho al empleo y el bienestar de las personas.
+
+> <small>(ADICIONADA, G.O. 20 DE ABRIL DE 2018)</small>
+
+V. Que la política económica promueva una red de comercio justo de los productores y prestadores de servicios que así lo requieran.
 
 ### CAPÍTULO II. De la Mejora Regulatoria para el Fomento y Promoción del Desarrollo Económico
 
@@ -801,3 +829,11 @@ G.O. 7 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
+
+G.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL".]
+
+PRIMERO. El Presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
