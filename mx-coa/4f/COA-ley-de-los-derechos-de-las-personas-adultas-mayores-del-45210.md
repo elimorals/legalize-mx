@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2018-01-23"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -118,6 +118,10 @@ XIII. Personas adultas mayores. Toda persona que cuente con sesenta años o más
 XIV. Perspectiva de Género. Las políticas, programas y acciones cuyo propósito es la promoción y generación de condiciones de igualdad y equidad de oportunidades entre las personas.
 
 XV. Tanatología. Los estudios encaminados a procurar una muerte digna con cuidados, paliativos biológicos, sicológicos y sociales.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XVI. Abandono. La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral.
 
 ###### Artículo 6.
 
@@ -541,7 +545,9 @@ La familia como célula fundamental de la sociedad e integrada conforme a la leg
 
 La familia de las personas adultas mayores, cualquiera que sea el parentesco que los una con ellas, deberá cumplir su función social; por tanto, de manera activa, constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de proporcionar, en la medida de las posibilidades, los satisfactores necesarios para su atención y desarrollo integral con el objeto de proteger, cumplir y gestionar los derechos establecidos a favor de dicho grupo social.
 
-Por tanto, la familia de las personas adultas mayores tendrá las siguientes obligaciones para con ellos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
+Por tanto, la familia de las personas adultas mayores tendrá las siguientes obligaciones para con ellas:
 
 I. Otorgar alimentos, de conformidad con lo establecido en el Código Civil del Estado.
 
@@ -549,7 +555,9 @@ II. Fomentar la convivencia familiar cotidiana, donde las personas adultas mayor
 
 III. Conocer los derechos de las personas adultas mayores, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la presente Ley y demás ordenamientos para su debida observancia, así como transmitirlos a las personas adultas mayores.
 
-IV. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono de la persona adulta mayor y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos.
 
 ###### Artículo 29.
 
@@ -1480,6 +1488,14 @@ DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere
 P.O. 23 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1167.- SE ADICIONAN TRES INCISOS, AL NUMERAL 1, DE LA FRACCIÓN IV DEL ARTÍCULO 10, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 18.- SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 5 Y SE REFORMA EL PÁRRAFO SEGUNDO Y LA FRACCIÓN IV DEL ARTÍCULO 28, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
