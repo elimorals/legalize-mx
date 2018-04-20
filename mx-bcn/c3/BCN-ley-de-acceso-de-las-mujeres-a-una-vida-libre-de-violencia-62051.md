@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2016-07-29"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -347,7 +347,7 @@ Violencia Feminicida: Se entiende por violencia feminicida, la forma extrema de 
 
 Ante conductas de violencia feminicida, el Gobierno del Estado y los Municipios, o en su caso, cada uno de ellos, procurarán la protección del entorno común, disponiendo de las medidas preventivas para garantizar la seguridad de las mujeres; y en su caso, el cese de la violencia en su contra y la eliminación de las situaciones de desigualdad en que se encuentren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO] , P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
 
 En caso que se emita una declaración de alerta de violencia de género; a que se refiere la Ley General, se deberán implementar las siguientes estrategias:
 
@@ -561,19 +561,23 @@ g) La Secretaría del Trabajo y Previsión Social, y
 
 h) El Instituto de Cultura de Baja California.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+i) La Comisión Estatal de los Derechos Humanos de Baja California.
+
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión para la Igualdad entre Mujeres y Hombres.
+V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión encargada de la materia de Igualdad entre mujeres y hombres.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
 
 VI. Un Magistrado del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VII. Dos representantes de la sociedad civil, que participarán con derecho a voz y serán electos de acuerdo a la Reglamentación que para tal efecto emita el Ejecutivo Estatal.
+VII. Un representante de la sociedad civil por cada Municipio, quienes participaran con derecho a voz y serán electos de acuerdo a la Reglamentación que para tal efecto emita el Ejecutivo Estatal.
 
 ###### Artículo 33.
 
@@ -1012,3 +1016,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 522 MEDIANTE EL CUAL SE APRUEBAN REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL INCISO I) DE LA FRACCIÓN III Y REFORMA LA FRACCIÓN V Y VII DEL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
