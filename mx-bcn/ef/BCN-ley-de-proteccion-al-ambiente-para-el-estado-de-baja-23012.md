@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2017-11-10"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1773,9 +1773,11 @@ XIV. Requerir la instalación de equipos o sistemas de control de emisiones a qu
 
 XV. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en las materias y supuestos de su competencia; y
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
-XVI. Ordenar la clausura temporal, parcial o total, de los puntos de ventas de cohetes, petardos y otros artificios pirotécnicos, cuando conforme a los sistemas de monitoreo de la calidad del aire determinen que la contaminación ambiental representa un riesgo para las personas, en base a la aplicación de una o más normas oficiales mexicanas en materia de calidad del aire.
+XVI. Ordenar la clausura temporal, parcial o total, de los puntos de ventas de cohetes, petardos y otros artificios pirotécnicos, cuando conforme a los sistemas de monitoreo de la calidad del aire los niveles de AQI sean superiores a 101 puntos, o su caso equivalente conforme al sistema de medición que en su caso se utilice.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
 Los establecimientos mercantiles que corresponda, de forma inmediata deberán atender las medidas preventivas que se le requieran; y
 
@@ -3174,3 +3176,9 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
 
 Segundo.- El Consejo a que se refiere el presente decreto, deberá aprobar el calendario de las sesiones ordinarias que correspondan al año en que entre en vigor esta reforma.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 112 FRACCIÓN XVI DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
