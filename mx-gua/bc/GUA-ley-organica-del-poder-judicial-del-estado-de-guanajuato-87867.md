@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2017-05-16"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -151,11 +151,13 @@ Cuando una autoridad requiera de datos o declaraciones que pueda proporcionar o 
 
 Pérdida del cargo de magistrado y remoción de jueces
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 10.
 
-Los magistrados perderán el cargo en los supuestos del artículo 87 de la Constitución Política para el Estado de Guanajuato.
+Los magistrados perderán el cargo en los supuestos del artículo 86 de la Constitución Política para el Estado de Guanajuato.
 
-Los jueces podrán ser removidos de su cargo en los supuestos a que se refiere el artículo 94 de la Constitución Política para el Estado de Guanajuato.
+Los jueces podrán ser removidos de su cargo en los supuestos a que se refiere el artículo 93 de la Constitución Política para el Estado de Guanajuato.
 
 Prohibición para integrar órganos o dependencias
 
@@ -213,9 +215,11 @@ Los magistrados supernumerarios formarán parte del Pleno del Supremo Tribunal d
 
 Atribuciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 17.
 
-Son atribuciones del Pleno del Supremo Tribunal de Justicia, además de las señaladas en el artículo 89 de la Constitución Política para el Estado de Guanajuato, las siguientes:
+Son atribuciones del Pleno del Supremo Tribunal de Justicia, además de las señaladas en el artículo 88 de la Constitución Política para el Estado de Guanajuato, las siguientes:
 
 I. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
@@ -249,7 +253,9 @@ XV. Emitir reglamentos y ordenar su publicación, en las materias de su competen
 
 XVI. Conocer y resolver en definitiva los conflictos de competencia que se susciten entre jueces de diferente materia;
 
-XVII. Nombrar de entre sus miembros, por insaculación, a dos magistrados que integren la Comisión de Evaluación a que se refiere el artículo 83 de la Constitución Política para el Estado de Guanajuato, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XVII. Nombrar de entre sus miembros, por insaculación, a dos magistrados que integren la Comisión de Evaluación a que se refiere el artículo 82 de la Constitución Política para el Estado de Guanajuato, en los términos de esta Ley;
 
 (NOTA: EL 1 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2025 Y SUS ACUMULADAS 101/2025 Y 103/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XVIII, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -262,8 +268,6 @@ XVIII. FORMAR Y PRESENTAR TERNAS AL CONGRESO DEL ESTADO PARA LA DESIGNACIÓN DE 
 XIX. DESIGNAR AL MAGISTRADO SUPERNUMERARIO QUE SUPLA LAS FALTAS TEMPORALES DE UN MAGISTRADO;
 
 XX. Proponer al Congreso del Estado la separación de consejeros del Poder Judicial, en los términos previstos en el artículo 63 de la Constitución Política para el Estado de Guanajuato;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -371,9 +375,11 @@ II. Por renuncia aceptada por el Pleno del Supremo Tribunal de Justicia.
 
 Integración y organización
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 27.
 
-El Consejo del Poder Judicial se integrará por cinco consejeros en los términos del artículo 83 de la Constitución Política para el Estado de Guanajuato y funcionará en Pleno para tomar sus decisiones.
+El Consejo del Poder Judicial se integrará por cinco consejeros en los términos del artículo 82 de la Constitución Política para el Estado de Guanajuato y funcionará en Pleno para tomar sus decisiones.
 
 Con excepción del presidente del Consejo del Poder Judicial, cada consejero integrará una ponencia, en la que contará con un secretario que tendrá fe pública.
 
@@ -381,9 +387,11 @@ Por acuerdo del Consejo del Poder Judicial se podrán establecer las comisiones 
 
 Atribuciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 28.
 
-Son atribuciones del Consejo del Poder Judicial, además de las señaladas en el artículo 90 de la Constitución Política para el Estado de Guanajuato, las siguientes:
+Son atribuciones del Consejo del Poder Judicial, además de las señaladas en el artículo 89 de la Constitución Política para el Estado de Guanajuato, las siguientes:
 
 I. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
@@ -415,7 +423,9 @@ XIII. Designar, de entre sus miembros, un representante para que integre el jura
 
 XIV. Determinar el número de orden, circunscripción territorial, especialización por materia y distribución de los asuntos de los órganos jurisdiccionales;
 
-XV. Ordenar la práctica de auditorías de desempeño, calidad, administrativas y financieras en los juzgados del Poder Judicial, así como en los órganos administrativos de dicho Poder. Las salas serán evaluadas por la Comisión de Evaluación prevista en el artículo 83 de la Constitución Política para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XV. Ordenar la práctica de auditorías de desempeño, calidad, administrativas y financieras en los juzgados del Poder Judicial, así como en los órganos administrativos de dicho Poder. Las salas serán evaluadas por la Comisión de Evaluación prevista en el artículo 82 de la Constitución Política para el Estado de Guanajuato;
 
 XVI. Aplicar y vigilar que se cumplan con las disposiciones de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, y de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
 
@@ -459,13 +469,19 @@ XXXV. Designar a los miembros del Comité Auxiliar Técnico a que se refiere la 
 
 XXXVI. Proponer al Congreso del Estado la separación del cargo de magistrados del Supremo Tribunal de Justicia, en los términos y con los requisitos previstos en el artículo 63 de la Constitución Política para el Estado de Guanajuato cuando dejen de actuar con apego a los principios que rigen la función judicial de acuerdo al dictamen de evaluación que se haya emitido;
 
-XXXVII. Designar al juez de partido que deba integrar el Consejo del Poder Judicial, en los términos del artículo 83 de la Constitución Política para el Estado de Guanajuato y de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-XXXVIII. Nombrar a los consejeros que integren la Comisión de Evaluación a que se refiere el artículo 83 de la Constitución Política para el Estado de Guanajuato, en los términos de esta Ley;
+XXXVII. Designar al juez de partido que deba integrar el Consejo del Poder Judicial, en los términos del artículo 82 de la Constitución Política para el Estado de Guanajuato y de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XXXVIII. Nombrar a los consejeros que integren la Comisión de Evaluación a que se refiere el artículo 82 de la Constitución Política para el Estado de Guanajuato, en los términos de esta Ley;
 
 XXXIX. Establecer, de acuerdo con esta Ley, los criterios, lineamientos y procedimientos para el desempeño y evaluación de los servidores públicos del Poder Judicial;
 
-XL. Realizar el seguimiento constante y permanente de la actuación de los servidores públicos del Poder Judicial, así como expedir el dictamen de evaluación correspondiente en términos de esta Ley, excepto respecto de los magistrados y consejeros, cuya evaluación estará a cargo de la Comisión de Evaluación prevista por el artículo 83 de la Constitución Política para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XL. Realizar el seguimiento constante y permanente de la actuación de los servidores públicos del Poder Judicial, así como expedir el dictamen de evaluación correspondiente en términos de esta Ley, excepto respecto de los magistrados y consejeros, cuya evaluación estará a cargo de la Comisión de Evaluación prevista por el artículo 82 de la Constitución Política para el Estado de Guanajuato;
 
 XLI. Resolver sobre la procedencia de la propuesta de reelección o no reelección de un magistrado, cuando le corresponda, atendiendo al origen de la propuesta de designación del mismo, fundándose en el dictamen que emita la Comisión de Evaluación;
 
@@ -485,19 +501,13 @@ XLVIII. Emitir los acuerdos que en materia de administración requiera el Poder 
 
 XLIX. Disponer de mecanismos para recibir inconformidades de la ciudadanía en relación al actuar de los servidores públicos del Poder Judicial y, en su caso, iniciar de oficio procedimiento disciplinario; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 L. Expedir los manuales de procedimientos que esta Ley y otras leyes le faculten, y remitirlos al Periódico Oficial del Gobierno del Estado para su publicación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 LI. Conocer y resolver la queja a que se refiere el artículo 135 del Código Nacional de Procedimientos Penales, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -563,7 +573,9 @@ Procedimiento de designación del juez de partido para integrar el Consejo
 
 El juez de partido que integrará el Consejo del Poder Judicial, será aquél que cuente con la mejor calificación de acuerdo al dictamen de evaluación que, para el efecto, se emita por el Pleno del Consejo, el cual quedará sujeto al siguiente procedimiento:
 
-I. El Pleno del Consejo del Poder Judicial hará una selección de entre los jueces de partido con nombramiento definitivo, que reúnan además de los requisitos exigidos por el artículo 86 de la Constitución Política para el Estado de Guanajuato, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
+I. El Pleno del Consejo del Poder Judicial hará una selección de entre los jueces de partido con nombramiento definitivo, que reúnan además de los requisitos exigidos por el artículo 85 de la Constitución Política para el Estado de Guanajuato, los siguientes:
 
 a) No haber sido sujeto de suspensión en los últimos tres años; y
 
@@ -957,7 +969,9 @@ Integración de terna para designación de magistrados supernumerarios
 
 EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA INTEGRARÁ LA TERNA QUE PROPONDRÁ AL CONGRESO DEL ESTADO, PARA LA DESIGNACIÓN DE MAGISTRADOS SUPERNUMERARIOS, QUIENES DURARÁN EN EL CARGO SIETE AÑOS.
 
-La integración de la terna se realizará de entre los jueces de partido, que cumplan con los requisitos a que se refiere el artículo 86 de la Constitución Política para el Estado de Guanajuato, además de los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
+La integración de la terna se realizará de entre los jueces de partido, que cumplan con los requisitos a que se refiere el artículo 85 de la Constitución Política para el Estado de Guanajuato, además de los siguientes:
 
 I. No haber sido sujeto de suspensión en los últimos tres años;
 
@@ -1033,7 +1047,9 @@ IV. En el caso de magistrados que por causas justificadas, renuncien a su cargo,
 
 V. En caso de fallecimiento del magistrado en funciones, se entregará una prestación económica equivalente a seis meses de su última remuneración integrada en una sola exhibición, así como un mes por cada año de ejercicio como magistrado, a los beneficiarios designados y, a falta de ellos, a quien acredite el carácter de legítimo heredero;
 
-VI. El haber de retiro no se otorgará en los casos en que el magistrado sea removido de su cargo, en aplicación del artículo 87, fracciones I y III de la Constitución Política para el Estado de Guanajuato y de esta Ley, según sea el caso; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+VI. El haber de retiro no se otorgará en los casos en que el magistrado sea removido de su cargo, en aplicación del artículo 86, fracciones I y III de la Constitución Política para el Estado de Guanajuato y de esta Ley, según sea el caso; y
 
 VII. No podrán otorgarse préstamos, créditos o anticipos con cargo al haber de retiro. Se entenderá por remuneración integrada la percepción total que reciben los magistrados de manera ordinaria por la prestación de sus servicios, con independencia de la denominación que se de a los rubros que la integran.
 
@@ -1335,9 +1351,11 @@ En contra de la resolución que decida la remoción del juez procederá el recur
 
 Manifestación de ser reelecto
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 90.
 
-Los magistrados que tengan la intención de ser reelectos, deberán manifestar bajo protesta de decir verdad, un año antes del término del cargo y mediante escrito, que es su voluntad ser reelecto conforme a lo dispuesto por el artículo 87 de la Constitución Política para el Estado de Guanajuato y la presente Ley. La omisión será considerada como la no aceptación para ser reelecto.
+Los magistrados que tengan la intención de ser reelectos, deberán manifestar bajo protesta de decir verdad, un año antes del término del cargo y mediante escrito, que es su voluntad ser reelecto conforme a lo dispuesto por el artículo 86 de la Constitución Política para el Estado de Guanajuato y la presente Ley. La omisión será considerada como la no aceptación para ser reelecto.
 
 Potestad para proponer la reelección
 
@@ -1417,7 +1435,9 @@ Determinación de circunscripciones territoriales
 
 Para los efectos de esta Ley, el territorio del Estado de Guanajuato se dividirá en el número de distritos, partidos judiciales y regiones, que determine el Consejo del Poder Judicial, atendiendo a las necesidades del servicio.
 
-Los juzgados de distrito, los juzgados regionales y los juzgados de partido tendrán el mismo rango o jerarquía y se identificarán genéricamente como juzgados de partido, en los términos de los artículos 83, 86 y 87 de la Constitución Política para el Estado de Guanajuato, con independencia de la materia en la que sea ejercida su función jurisdiccional.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Los juzgados de distrito, los juzgados regionales y los juzgados de partido tendrán el mismo rango o jerarquía y se identificarán genéricamente como juzgados de partido, en los términos de los artículos 82, 85 y 86 de la Constitución Política para el Estado de Guanajuato, con independencia de la materia en la que sea ejercida su función jurisdiccional.
 
 En cada uno de los partidos judiciales, el Consejo del Poder Judicial establecerá el número de juzgados de partido.
 
@@ -2173,9 +2193,11 @@ El ingreso a la carrera judicial será en la categoría de actuario y se produci
 
 Categoría para concursar para el cargo de magistrado
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 146.
 
-En los concursos de oposición para la plaza de magistrado, únicamente podrán participar los jueces de partido que reúnan los requisitos exigidos por el artículo 86 de la Constitución Política para el Estado de Guanajuato.
+En los concursos de oposición para la plaza de magistrado, únicamente podrán participar los jueces de partido que reúnan los requisitos exigidos por el artículo 85 de la Constitución Política para el Estado de Guanajuato.
 
 Declaración de lesividad por designación y adscripción
 
@@ -2339,7 +2361,7 @@ Licencias de magistrados
 
 ###### Artículo 159.
 
-A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.
+A los magistrados podrán concederse licencias DE MÁS DE SEIS MESES por causa de enfermedad. El titular del Poder Ejecutivo o el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación, someterá la licencia a la aprobación del Congreso del Estado.r
 
 Consecuencia por inasistencia a laborar al término de la licencia
 
@@ -3139,9 +3161,11 @@ Para efectos de sanción, se considerará como una sola falta la conducta cometi
 
 Supuestos de separación de magistrados y consejeros
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 218.
 
-La separación de magistrados y consejeros sólo procederá en los términos y en la forma a que se refieren los artículos 63, 83, 87, 124 y 126 de la Constitución Política para el Estado de Guanajuato.
+La separación de magistrados y consejeros sólo procederá en los términos y en la forma a que se refieren los artículos 63, 82, 86, 124 y 126 de la Constitución Política para el Estado de Guanajuato.
 
 Reglas para cancelación de antecedentes disciplinarios
 
@@ -3901,7 +3925,7 @@ Artículo Segundo. En los casos en que esta Ley se refiera al Tribunal de enjuic
 
 Referencia a los Secretarios de sala
 
-Artículo Tercero. Toda referencia que se haga en ésta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
+Artículo Tercero. Toda referencia que se haga en esta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
 
 Término para expedición de reglamentos y manuales
 
@@ -3966,3 +3990,9 @@ P.O. 16 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 186, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 298, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
