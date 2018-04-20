@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2017-12-20"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1905,8 +1905,6 @@ Cuando el activo ejerza sobre el ofendido la guarda, custodia, tutela o patria p
 
 ### CAPÍTULO ÚNICO. DIFAMACIÓN Y CALUMNIA
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
 ###### Artículo 185.
 
 A quien tenga cópula con persona menor de dieciséis años, obteniendo su consentimiento por medio de la seducción, se le impondrá de seis meses a tres años de prisión y de cinco a treinta días multa.
@@ -2003,35 +2001,15 @@ d.- Si el responsable del delito de hostigamiento sexual es servidor público, s
 
 ###### Artículo 188.
 
-A quien comunique dolosamente a otro la imputación que hace a una persona física o moral de un hecho cierto o falso que le cause o pueda causarle deshonra, descrédito o perjuicio, se le aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
-
-Este delito se perseguirá por querella.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 20 DE ABRIL DE 2018)
 
 ###### Artículo 189.
 
-A quien comunique dolosamente a otro la imputación que hace a una persona física o moral de un hecho que la ley califique como delito, si éste es falso o es inocente la persona a quien se imputa, se le aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
-
-Este delito se perseguirá por querella.
-
-En caso de que el delito imputado haya sido denunciado por persona diversa al calumniador y esté pendiente el proceso que se instruya por ese delito, se suspenderá el ejercicio de la acción de calumnia hasta que se dicte resolución irrevocable que ponga fin al mismo.
+(DEROGADO, P.O. 20 DE ABRIL DE 2018)
 
 ###### Artículo 190.
 
-La persona acusada de difamación o calumnia quedará exenta de sanción si probare la verdad de sus imputaciones, en los siguientes casos:
-
-I.- Si la imputación tiene por objeto defender o garantizar un interés público.
-
-II.- Si la persona inculpada actuó con carácter público y la imputación fuere relativa al ejercicio de sus funciones.
-
-III.- Si el hecho imputado ha sido declarado cierto por sentencia firme y la persona acusada actúa por un interés legítimo.
-
-IV.- Si se manifiesta un parecer científico, técnico o artístico.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
-Cuando se cometan con posterioridad al fallecimiento de la persona ofendida, sólo se procederá por querella de quien tenga interés legítimo.
+(DEROGADO, P.O. 20 DE ABRIL DE 2018)
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA EL PATRIMONIO
 
@@ -3659,7 +3637,7 @@ Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se r
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 12 DE JUNIO DE 2007.
 
@@ -3834,3 +3812,9 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 274, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN Y SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 299, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
