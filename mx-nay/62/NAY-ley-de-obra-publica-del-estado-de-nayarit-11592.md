@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2017-05-31"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -55,7 +55,9 @@ DISPOSICIONES GENERALES.
 
 La presente ley es de orden público y tiene por objeto regular las acciones de planeación, programación, presupuestación, contratación, ejecución, conservación, mantenimiento, demolición y control de la obra pública que realicen los entes públicos en el Estado de Nayarit.
 
-Para efectos de esta ley, quedan comprendidos como entes públicos los poderes del estado, los municipios, los tribunales administrativos, así como las entidades de carácter estatal o municipal. Esta ley será aplicable a los órganos del estado constitucionalmente autónomos, así como a los poderes legislativo y judicial, siempre y cuando no se contrapongan a las leyes que los rigen.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Para los efectos de esta ley, quedan comprendidos como entes públicos los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, órganos constitucionales autónomos por ley y las entidades paraestatales y municipales.
 
 Los entes públicos se abstendrán de crear fideicomisos, otorgar mandatos o celebrar cualquier tipo de contrato que evada lo previsto en este ordenamiento.
 
@@ -225,67 +227,73 @@ Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra p�
 
 I.- Por licitación pública;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-II.- Por invitación restringida a cuando menos tres contratistas, y
+II.- Por invitación a cuando menos tres contratistas, y
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
 III.- Adjudicación directa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 21.
 
-Es responsabilidad de las dependencias y entidades llevar un registro de contratistas. El registro contendrá cuando menos:
+La Secretaría de Obras Públicas, expedirá un Registro Único de Contratistas del Estado de Nayarit por especialidad o especialidades, el cual será válido para todas las dependencias y entidades. Será responsabilidad de las dependencias y entidades llevar un padrón de control de contratistas por especialidad u obras o servicios relacionados afines y capacidad de contratación, para efectos de aplicación de las fracciones I y II del artículo anterior.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-I. Nombre o razón social, nacionalidad y domicilio del contratista;
+###### ARTICULO 21 Bis.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+El Registro Único de Contratistas del Estado de Nayarit se integrará con la información que proporcionen los contratistas, así como con aquélla que incorporen los sujetos a que se refieren en el artículo 1 derivado de los procedimientos de contratación que lleven a cabo conforme a la presente Ley.
 
-II. Información relativa al número de escritura constitutiva, sus reformas y datos de su inscripción en el Registro Público correspondiente;
+Los contratistas solicitarán su inscripción en el Registro Único de Contratistas del Estado de Nayarit a las dependencias y entidades, las cuales, previa validación de la información presentada por el contratista a través de la documentación respectiva que proporcione, llevarán a cabo la inscripción correspondiente. Las dependencias y entidades podrán inscribir en dicho Registro a los contratistas cuando adviertan que éstos no se encuentran inscritos; la Secretaría de Obras Públicas podrá incluir en el citado Registro la información con la que cuente y que sea materia del mismo.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-III. Relación de socios;
+###### ARTICULO 21 Ter.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+La información contenida en el Registro Único de Contratistas del Estado de Nayarit tiene como propósito, entre otros, facilitar los procedimientos de contratación de las dependencias y entidades, sin perjuicio de la presentación de los documentos que se requieran en cualquier procedimiento de contratación, en términos de la presente Ley.
 
-IV. Nombre de los representantes legales del contratista, así como la información relativa a los documentos públicos que los acrediten como tales y sus datos de inscripción en el Registro Público de la Propiedad;
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+###### ARTICULO 21 Quater.
 
-V. Especialidad del contratista y la información relativa a los contratos de obra pública que la acreditan;
+El Registro Único de Contratistas del Estado de Nayarit clasificará la información de los contratistas de acuerdo con su actividad, datos generales, nacionalidad, experiencia, especialidad, capacidad técnica, económica y financiera, e historial respecto de contratos celebrados con los sujetos a que se refiere (sic) primer párrafo del artículo 21 Bis y de su cumplimiento en tiempo y en monto. El citado Registro será diseñado y administrado por la Secretaría de Obras Públicas y contendrá cuando menos:
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+I. Datos generales del solicitante;
 
-VI. Experiencia del contratista y la información de los contratos de obra pública que la acreditan;
+II. Testimonio del acta constitutiva tratándose de personas morales y en el caso de personas físicas su registro ante la Secretaría de Hacienda y Crédito Público y en ambos casos las modificaciones de que hayan sido objeto;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+III. Cédula del Registro Federal de Contribuyentes y registro patronal ante el Instituto Mexicano del Seguro Social;
 
-VII. Información referente a la capacidad técnica, económica y financiera del contratista, y
+IV. Relación de maquinaria y equipo de construcción de su propiedad, junto con la factura original y copia para cotejo, o bien, la disposición legal de la misma;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+V. Copia de la última declaración anual del Impuesto Sobre la Renta, última declaración mensual según el caso y estados financieros, originales que incluyan balance, estado de resultados y cuentas analíticas de balance, con antigüedad máxima de tres meses a la fecha de la solicitud, elaborados y firmados por contador público titulado;
 
-VIII. Historial del contratista en materia de contrataciones y su cumplimiento, el cual contendrá la información de los contratos de obra pública, formalizados con las dependencias y entidades, así como la relativa a rescisiones, aplicación de penas convencionales o descuentos, ejecución de garantías y sanciones impuestas por la Contraloría. Asimismo, se incluirá el grado de cumplimiento de cada contratista conforme a su historial.
+VI. Experiencia y especialidad actualizada del solicitante, anexando relación de contratos y actas de entrega recepción y/o constancias de construcción de obras realizadas;
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+VII. En su caso, las constancias de cursos de capacitación, certificaciones y reconocimientos, así como de certificación de sistemas de calidad acreditadas o en proceso, otorgados a la empresa contratista, y
 
-Toda dependencia, ente o entidad deberá contar con una lista de contratistas en su página de internet, misma que contendrá como mínimo el nombre de la persona física o la denominación de la persona moral, monto de lo contratado, nombre de los socios de la empresa, nombre del representante legal, descripción del servicio o producto contratado, fecha de inicio y terminación del contrato, así como los efectos y compromisos adquiridos.
+VIII. Experiencia y especialidad actualizada del responsable técnico relacionado con el sector de la construcción, anexando relación de contratos y actas de entrega recepción y/o constancias de construcción de obras realizadas; además, en su caso, constancias de cursos de capacitación, certificaciones y reconocimientos, así como copia de la cédula profesional.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+En caso de contar con ello, copia de certificación de sistemas de calidad, o de estar en proceso de certificación en sistemas de calidad, que se encuentren acreditados, así como aquella documentación que acredite prácticas de responsabilidad social empresarial.
 
-A todo solicitante de inscripción en el registro de contratistas, se le deberá entregar un compilado autorizado por el órgano interno de control, de las obligaciones y sanciones a las que están sujetos.
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+###### ARTICULO 21 Quinquies.
 
-Al momento de solicitar la inscripción al registro como contratista, el servidor público que reciba los documentos deberá tomar protesta al solicitante, por medio de la cual manifestará conducirse con verdad y rectitud en los procedimientos de contratación de los que sea parte, sabedor de las penas en que incurren los particulares que realicen actos de corrupción. Para lo cual, el particular deberá expresar en voz alta lo siguiente:
+La Secretaría de Obras Públicas, como responsable de la administración del Registro Único de Contratistas del Estado de Nayarit, tendrá las siguientes funciones:
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
+a) Proporcionar a las dependencias y entidades las claves y contraseñas de acceso para capturar y validar la información en el Registro;
 
-“Protesto conducirme con verdad y rectitud, evitar cualquier acto u omisión de corrupción y denunciar aquellos sobre los que tenga conocimiento, asimismo manifiesto conocer las penas en que incurren los particulares que participan en actos de corrupción”.
+b) Administrar la información contenida en el Registro;
+
+c) Atender las solicitudes y consultas relacionadas con el Registro, y
+
+d) Definir estándares y procedimientos de calidad y seguridad de la información contenida en el Registro, que garanticen su inalterabilidad y conservación.
+
+Las dependencias y entidades, deberán reportar máximo al día diez de cada mes siguiente a la Secretaría de Obras Públicas y a la Contraloría General, los importes contratados y las contratistas adjudicadas, con el objeto de que no se exceda la capacidad de contratación de las anteriores y así salvaguardar el principio de equidad y apertura para todas las empresas.
 
 ###### ARTICULO 22.
 
@@ -375,63 +383,105 @@ VIII.- Los criterios conforme a los cuales se adjudicará el contrato. Las depen
 
 IX.- La indicación de que no se permitirá la inscripción a la licitación de aquellas empresas que tengan, al momento de la inscripción, un atraso mayor al veinticinco por ciento (25%) en tiempo, por causas imputables a ellas mismas, en cualquier contrato celebrado con la convocante. El área de supervisión correspondiente, deberá informar al área convocante de la situación que guarde cada obra o servicio relacionado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 25.
 
 Las bases que emitan las dependencias y entidades para las licitaciones públicas se pondrán a disposición del interesado a partir de la fecha de su publicación de la convocatoria y hasta siete días naturales previos al acto de presentación y apertura de proposiciones, y contendrán como mínimo lo siguiente:
 
-I.- Nombre, denominación o razón social de la dependencia o entidad convocante;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-II.- Los poderes que deben acreditarse;
+I.- Nombre, denominación o razón social y domicilio de la dependencia o entidad convocante;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+II.- Forma en que deberá acreditar la existencia y personalidad jurídica el licitante;
 
 III.- Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación, siendo optativa la asistencia de los interesados;
 
-IV.- Fecha, hora y lugar para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+IV.- Fecha, hora y lugar para la presentación y apertura de las proposiciones, comunicación del fallo y firma del contrato;
 
 V.- Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en la base de licitación;
 
 VI.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación o en las proposiciones presentadas podrán ser negociadas;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VII.- Criterios claros y detallados para la adjudicación de los contratos, señalando el objeto y alcance del servicio solicitado;
+VII.- El idioma o idiomas en que podrán presentarse las proposiciones, mismas que deberán acompañarse con su respectiva traducción en castellano;
 
-VIII.- Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones de construcción aplicables; catálogo de conceptos, cantidades y unidades de trabajo; y relación de conceptos de trabajo, de los cuales deberán presentar análisis y relación de costos básicos de materiales, mano de obra y maquinaria de construcción que intervienen en los análisis anteriores;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-IX.- Relación de materiales y equipo de instalación permanente que en su caso, proporcione la convocante;
+VIII.- Criterios para la adjudicación de los contratos, según lo establecido en el artículo 35 de esta Ley;
 
-X.- Origen de los fondos para realizar los trabajos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+IX.- Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición, normas de calidad de los materiales y especificaciones de construcción aplicables, catálogo de conceptos, cantidades y unidades de trabajo, y relación de conceptos de trabajo, de los cuales deberán presentar análisis y relación de costos básicos de materiales, mano de obra y maquinaria de construcción que intervienen en los análisis anteriores.
 
-XI.- Acreditar la existencia física y legal, experiencia, capacidad técnica y financiera y demás requisitos que deberán cumplir los interesados;
+Tratándose de servicios relacionados con la obra pública, los términos de referencia que deberán precisar el objeto y alcance del servicio, las especificaciones generales y particulares, el resultado esperado y la forma de presentación;
 
-XII.- Forma y término de pago de los trabajos, objeto del contrato;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-XIII.- Datos sobre la garantía de seriedad en la proposición; porcentajes, forma y términos del o los anticipos que se concedan; y, procedimiento de ajustes de costos;
+X.- Relación de materiales y equipo de instalación permanente que en su caso, proporcione la convocante;
 
-> <small>(REFORMADA, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-XIV.- Lugar, fecha y hora para la visita al sitio de realización de los trabajos, la cual deberá llevarse a cabo en el periodo comprendido de siete días naturales posteriores a la fecha de publicación de la convocatoria y siete días naturales anteriores a la fecha de apertura;
+XI.- Origen de los fondos para realizar los trabajos;
 
-XV.- Información especifica sobre las partes de la obra que podrán subcontratarse, siempre y cuando así se autorice en la convocatoria;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+XII.- Experiencia, capacidad técnica y financiera y demás requisitos que deberán cumplir los interesados;
 
-XVI.- Cuando proceda, registro actualizado en la Cámara que le corresponda;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+XIII.- Forma y términos de pago de los trabajos, objeto del contrato;
 
-XVII.- Modelo de contrato, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-XVIII.- Condiciones de precio.
+XIV.- Porcentajes, forma y términos del o los anticipos que se concedan y, procedimiento de ajuste de costos;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XV.- Lugar, fecha y hora para la visita al sitio de realización de los trabajos, la cual deberá llevarse a cabo en el periodo comprendido entre el cuarto día natural posterior a la fecha de publicación de la convocatoria y el sexto día natural previo a la fecha de apertura de las proposiciones;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XVI.- Información específica sobre las partes de la obra o servicio relacionado que podrán subcontratarse, siempre y cuando así se autorice en la convocatoria;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XVII.- Cuando proceda, registro actualizado en la Cámara que corresponda;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XVIII.- Modelo de contrato;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XIX.- Condiciones de precio;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XX.- Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XXI.- Tratándose de contratos a precio alzado o mixto en su parte correspondiente, las condiciones de pago;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XXII.- Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, que deberá ser firmado por el responsable del proyecto y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+XXIII.- La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo, será sancionado en los términos del artículo 67 de esta Ley.
 
 Todos los requisitos y condiciones que contengan las bases de la licitación, deberán ser los mismos para todos los participantes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-En el ejercicio de sus atribuciones, la Secretaría de la Contraloría General del Estado podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley, si la Contraloría General del Estado determina la cancelación del proceso de adjudicación, la dependencia o entidad convocante reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+En el ejercicio de sus atribuciones, la Contraloría General podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley, si la Contraloría General determina la cancelación del proceso de licitación, la dependencia o entidad convocante reembolsará a los participantes que no hayan propiciado las faltas o cometido las irregularidades que causaron la cancelación, los gastos no recuperables en que hayan incurrido, siempre que estos sean razonables, estén debidamente comprobados, se relacionen directamente con la operación correspondiente y la cancelación del proceso de licitación no haya sido por alguna causa de las que refiere el artículo 36 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -843,11 +893,11 @@ En las dependencias o entidades la ejecución de obras vía convenios con partic
 
 DE LAS EXCEPCIONES A LA LICITACIÓN PUBLICA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 56.
 
-En los supuestos y con sujeción a las formalidades que prevé el artículo 57, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación restringida o adjudicación directa.
+En los supuestos y con sujeción a las formalidades que prevé el artículo 57, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación a cuando menos tres contratistas o adjudicación directa.
 
 La opción que las dependencias y entidades ejerzan, deberán fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el artículo 35, deberá acreditar que la obra de que se trata se encuentra en alguno de los supuestos previstos en el artículo 57 expresando, de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción.
 
@@ -855,21 +905,23 @@ La opción que las dependencias y entidades ejerzan, deberán fundarse, según l
 
 En estos casos, la dependencia o entidad, a más tardar el último día hábil de cada mes, enviará a las Secretarías de Obras Públicas y Contraloría General del Estado, un informe que se referirá a las operaciones autorizadas en el mes, acompañando copia del dictamen aludido en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 57.
 
-Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra pública, mediante invitación restringida a por lo menos tres contratistas o adjudicación directa, cuando:
+Las dependencias y entidades, bajo su responsabilidad, podrán contratar obra pública o servicios relacionados, a través de su procedimiento de invitación a cuando menos tres contratistas o por adjudicación directa, cuando:
 
-I.- Se trate de obras de arte y derechos exclusivos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+I.- I.- (SIC).- Se trate de obras de arte, derechos exclusivos o patentes;
 
 II.- Peligre o altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes;
 
 III.- Se hubiere rescindido el contrato respectivo por causas imputables al contratista;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-IV.- Se hubieren realizado por los (sic) menos dos licitaciones públicas de un mismo concurso, sin que en ambas se hubiesen recibido proposiciones solventes;
+IV.- Se hubieren realizado dos licitaciones públicas de un mismo concurso, sin que en ambas se hubiesen recibido proposiciones solventes;
 
 V.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición de los inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
@@ -877,51 +929,79 @@ V.- Se trate de trabajos de conservación, mantenimiento, restauración, reparac
 
 VI.- Se trate de trabajos que requieran fundamentalmente la mano de obra campesina o urbana marginada y, que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes beneficiarios;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VII.- Se trate de obra, que de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad del Estado, y
+VII.- Se trate de obra o servicio relacionado, que de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad del Estado;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VIII.- Se trate de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, relacionados con obras públicas, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán a las instituciones de educación superior y centros de investigación.
+VIII.- Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que éstos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico, y
 
-> <small>(REFORMADO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+IX.- Se trate de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, relacionados con obras públicas, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán a las instituciones de educación superior y centros de investigación. Si la materia de los trabajos se refiere a información reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado, podrá autorizarse la contratación mediante adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Las dependencias y entidades, preferentemente invitarán a cuando menos tres contratistas, salvo que ello a su juicio, no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa. En cualquier supuesto se convocará a la o las personas que estén registradas en el Registro Único de Contratistas y que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 58.
 
-Las dependencias y entidades, bajo su responsabilidad, podrán llevar a cabo obra pública a través del procedimiento de invitación a cuando menos tres contratistas o por adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos que al efecto se establecen a continuación:
+Sin perjuicio de lo señalado en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán llevar a cabo obra pública o servicios relacionados a través del procedimiento de invitación a cuando menos tres contratistas o por adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos que al efecto se establecen a continuación:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-I. Adjudicación Directa.- Hasta cuatro mil cuatrocientos cuarenta y cinco veces la UMA;
+I.- Adjudicación directa.- Hasta un monto máximo que será igual al producto del 0.005% (0.005 por ciento) multiplicado por el importe total del Presupuesto de Egresos del Estado, para el ejercicio de que se trate, sin incluir el impuesto al valor agregado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-II. Invitación Restringida.- Mayor a cuatro mil cuatrocientos cuarenta y cinco y hasta treinta y siete mil seiscientos cuarenta y cinco veces la UMA, y
+II.- Invitación a cuando menos tres contratistas.- Desde el monto determinado en la fracción I del presente artículo, hasta un monto máximo que resulte del producto del 0.04% (0.04 por ciento) multiplicado por el importe total del Presupuesto de Egresos del Estado, para el ejercicio de que se trate, sin incluir el impuesto al valor agregado.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+En el caso de que dos procedimientos de invitación a cuando menos tres contratistas hayan sido declarados desiertos, el titular del área responsable de la contratación de los trabajos en la dependencia o entidad podrá adjudicar directamente el contrato. En cualquier supuesto se invitará a la o las personas que estén en el Registro Único de Contratistas y que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y
 
-III. Licitación Pública.- Cualquier monto que rebase treinta y siete mil seiscientos cuarenta y cinco veces la UMA.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+III.- Licitación Pública.- Cualquier monto que rebase lo estipulado en la fracción II.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Para el caso de las fracciones I y II del presente artículo, se deberá observar que no se exceda la capacidad de contratación y así salvaguardar el principio de equidad y apertura para todas las empresas.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 Para efectos de esta Ley se entiende por UMA el valor diario de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 59.
 
-El procedimiento de invitación restringida se sujetará a lo siguiente:
+El procedimiento de invitación a cuando menos tres contratistas se sujetará a lo siguiente:
 
-I.- La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante del órgano de control de la dependencia o Entidad;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+I.- El acto de presentación y apertura del sobre que contiene las proposiciones se llevará a cabo en una etapa y podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante del órgano interno de control de la dependencia o entidad;
 
 II.- Para llevar a cabo la evaluación, se deberá contar con un mínimo de tres propuestas;
 
-III.- En las bases e invitación se indicarán, como mínimo, los aspectos a que se refiere el artículo 25;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+III.- En las bases e invitación se indicarán, como mínimo, los aspectos a que se refiere el artículo 25 de esta Ley;
 
 IV.- Los interesados que acepten participar, lo manifestarán por escrito y quedarán obligados a presentar su proposición;
 
-V.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
-VI.- Las demás disposiciones de la licitación pública que en lo conducente resulten aplicables.
+V.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+VI.- En el supuesto de que dos procedimientos de invitación a cuando menos tres contratistas hayan sido declarados desiertos, o bien uno sólo cuando éste derive de una licitación pública declarada desierta, el titular de la dependencia podrá adjudicar directamente el contrato, siempre que se mantengan los requisitos establecidos como causas de desechamiento en el procedimiento anterior, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+VII.- Las demás disposiciones de la licitación pública que resulten aplicables.
 
 ### CAPITULO VI
 
@@ -1132,3 +1212,15 @@ P.O. 31 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRATACIONES PÚBLICAS”.]
 
 Único. El presente Decreto entrará en vigor el 18 de julio del 2017, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El Registro Único de Contratistas del Estado de Nayarit deberá instaurarse dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+Tercero.- La Secretaría de Administración y Finanzas en el marco de sus atribuciones deberá hacer las previsiones presupuestales necesarias para la operación del Registro Único de Contratistas del Estado de Nayarit.
+
+Cuarto.- El Titular del Poder Ejecutivo deberá expedir el Reglamento correspondiente de la Ley de Obra Pública del Estado de Nayarit a los 180 días siguientes, a la entrada en vigor del presente Decreto.
