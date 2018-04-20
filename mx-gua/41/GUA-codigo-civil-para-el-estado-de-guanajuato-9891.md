@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2017-05-26"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -34,8 +34,6 @@ Que la H. Legislatura del Estado se ha servido dirigirme el siguiente:
 DECRETO NUMERO 94
 
 El H. XLVI Congreso Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
-
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2013, PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES, LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL A QUE ALUDE EL PRESENTE DECRETO, SE ENTENDERÁ REFERIDA A LA SECRETARÍA DE DESARROLLO AGROPECUARIO, Y LA SECRETARÍA DE TURISMO SE ENTENDERÁ REFERIDA A LA SECRETARÍA DE DESARROLLO TURÍSTICO.</small>
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
@@ -8429,9 +8427,93 @@ Los créditos por indemnización cuando la víctima fuere un asalariado son intr
 
 Las anteriores disposiciones se observarán en el caso del artículo 2166 de este Código.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Art. 1406.
 
-Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual.
+
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, propia imagen o bien en la consideración que de sí misma tienen los demás.
+
+Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica o por muerte de las personas.
+
+La acción de reparación por daño moral no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-A.
+
+El monto de la indemnización por daño moral lo determinará el juez tomando en cuenta los derechos lesionados, la naturaleza del hecho dañoso, el grado de responsabilidad, la situación económica del responsable y la de la víctima, las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, así como las demás circunstancias del caso.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-B.
+
+Cuando el hecho ilícito cause la incapacidad total permanente, parcial permanente, total temporal o parcial temporal de la víctima, la reparación por daño moral en su favor o de su familia si aquélla muere, no podrá ser menor de una tercera parte de lo que importe la responsabilidad civil.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, a petición de ésta y con cargo al responsable, el juez ordenará la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
+
+En los casos en que el daño moral derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-C.
+
+La reparación del daño moral procederá en todo hecho ilícito y se considerará, entre otros, los supuestos siguientes:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o jurídica, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien; y
+
+II. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido.
+
+La reparación del daño moral con relación a las fracciones anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original; sin detrimento de lo establecido en el segundo párrafo del artículo 1406-B.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-D.
+
+La emisión de juicios que menoscaben el afecto de una persona por otras personas, su estimación por determinados bienes, el derecho al secreto de su vida privada, así como el honor, el decoro, el prestigio, la buena reputación, la imagen y aspecto físico de la persona misma; y las expresiones que tiendan a ser insultantes por sí mismas, insinuaciones insidiosas o las vejaciones, constituyen un daño a la dignidad humana.
+
+La reparación del daño moral derivado del abuso del derecho de la información y de la libertad de expresión, se otorgará cuando la conducta del ofensor sea ilícita y el daño derive directamente de ésta.
+
+En este caso, se fijará la indemnización tomando en cuenta, además de lo previsto por el artículo 1406-A, la mayor o menor divulgación que el acto ilícito tuviere, las condiciones personales de la víctima y las demás circunstancias del caso.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-E.
+
+No se considerará que se excede el límite del derecho a la libertad de expresión, ni estarán obligados a la reparación del daño moral, aquellas personas que, en razón de su actividad o profesión, emitan todo tipo de críticas, opiniones, ideas o juicios de valor, en los términos y con las limitaciones que señale la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales que el Estado Mexicano haya celebrado y ratificados por el Senado, la demás normatividad aplicable y las que se establezcan en el presente código.
+
+En ningún caso deberá considerarse que existe daño moral o intromisión en su derecho al honor por:
+
+I. Las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional;
+
+II. Las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo;
+
+III. Las imputaciones de hecho o actos que se expresen con apego a la veracidad y sean de interés público; y
+
+IV. Las opiniones desfavorables o imputaciones, siempre y cuando haya existido consentimiento expreso de la exteriorización de los datos por parte del afectado.
+
+Tratándose de funcionarios públicos los límites de crítica y opiniones desfavorables serán más amplios, por dedicarse a actividades públicas, los cuales están expuestos a un control más riguroso de sus actividades y manifestaciones, la sujeción a dicha crítica es inseparable de todo cargo de relevancia pública.
+
+Lo anterior no significa que la función pública de las personas las prive de su derecho al honor, sino simplemente que el nivel de intromisión admisible será mayor, aunque dichas intromisiones deben estar relacionadas con aquellos asuntos que sean de relevancia pública.
+
+La reproducción fiel de información no da lugar al daño moral, aún en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-F.
+
+A los servidores públicos afectados en su patrimonio moral por opiniones o informaciones, difundidas a través de los medios de comunicación e información, se les concederá la reparación por daño moral, cuando la información fue difundida a sabiendas de su falsedad o sin verificar sobre si era falsa o no, o bien, si se hizo con el único propósito de dañar. Lo anterior siempre que se actualice un dolo eventual, lo que presupone la existencia de elementos objetivos que permitan acreditar que el autor era consciente de esa falsedad y a pesar de contar con los medios idóneos para corroborar la información, decide exteriorizar los datos.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### Art. 1406-G.
+
+Para efectos de este capítulo, se reputará como información de interés público:
+
+I. Los datos y hechos sobre el desempeño, en el sentido más amplio, de los servidores públicos; y
+
+II. Los datos sobre acontecimientos naturales, sociales, políticos, económicos y culturales que pueden afectar, en sentido positivo o negativo a la sociedad en su conjunto.
 
 ###### Art. 1407.
 
@@ -17314,3 +17396,9 @@ P.O. 26 DE MAYO DE 2017.
 Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado contará con un plazo de noventa días para reformar el Reglamento del Registro Público de la Propiedad para el Estado de Guanajuato, y de ciento ochenta días para asegurar el funcionamiento del Registro Público en términos del presente Decreto, respectivamente; contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 299, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
