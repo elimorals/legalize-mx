@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2018-02-16"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -515,25 +515,21 @@ El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desar
 
 El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 9.
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos y en la presente.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+Tratándose de la obligación de contribución al gasto público, el Estado y Municipios deberán promover los derechos humanos de los contribuyentes en las disposiciones fiscales en el ámbito estatal y municipal. En dichas normas y en el actuar de las autoridades fiscales deberá respetarse siempre el derecho al mínimo vital.
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos, las que señala la presente Constitución y las que establezca la Ley.
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
-
-IV.- Sin son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
-
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+IV.- Sin (sic) son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos brindando las condiciones necesarias para garantizar el acceso pleno a sus derechos humanos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
 
 V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.
 
@@ -789,8 +785,6 @@ VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, 
 
 VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 19.
@@ -810,8 +804,6 @@ El otorgamiento de las constancias de mayoría y la asignación de Diputados de 
 ###### ARTICULO 21.
 
 (DEROGADO, P.O. 17 DE OCTUBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -836,8 +828,6 @@ Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe
 Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal, incluido el Secretario General de Gobierno y el Procurador General de Justicia del Estado, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
 
 El Gobernador del Estado tendrá voz en el Congreso del Estado por sí o a través del Secretario General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1402,8 +1392,6 @@ Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presiden
 ###### ARTICULO 43.
 
 Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -2067,15 +2055,11 @@ Los Titulares de las Fiscalías, estarán sujetos al sistema de responsabilidade
 
 Los Titulares de las Fiscalías, deberán enviar un informe Semestral al Congreso, sobre la cantidad y naturaleza de las denuncias recibidas, el estado del número único de casos iniciados, los archivados, en los que no se ejercitó acción penal y los enviados a reserva, así como las consignaciones efectuadas, de los procesos y de los amparos, en su caso, así como de las funciones que en materia de prevención del delito le corresponden.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 71.
 
 El Procurador General de Justicia dirigirá al Ministerio Público, y será nombrado y removido de conformidad a esta Constitución y a la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2083,23 +2067,17 @@ El Procurador General de Justicia dirigirá al Ministerio Público, y será nomb
 
 Los Subprocuradores serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 73.
 
 La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 74.
 
 La Defensoría Pública proporcionará una defensa técnica de calidad en materia penal, a los imputados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2167,13 +2145,9 @@ El Ayuntamiento es el órgano colegiado de representación popular, depositario 
 
 Los ayuntamientos se compondrán de munícipes electos por el sufragio universal, libre, secreto, directo, personal e intransferible y mediante los principios de mayoría relativa y de representación proporcional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de octubre que siga a su elección. Al efecto, el día inmediato anterior, se reunirán los munícipes electos, en sesión solemne con la finalidad de rendir protesta ante la comunidad e instalar los ayuntamientos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -4535,9 +4509,9 @@ DÉCIMO PRIMERO.- Los trabajadores de base que se encuentren prestando sus servi
 
 P.O. 7 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 582 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 582 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA".]
 
-ÚNICO.- Las presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
@@ -4728,3 +4702,13 @@ PRIMERO.- Aprobada que sea la presente reforma, túrnense a los Ayuntamientos de
 SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional y la publicación en el Periódico Oficial del Estado.
 
 TERCERO.- La reforma al último párrafo del apartado C del artículo 55, de la Constitución Política del Estado Libre y Soberano de Baja California, correspondiente al Decreto número 97, publicado en el Periódico Oficial del Estado en fecha 28 de julio del 2017, entrará en vigor el mismo día en (sic) entre en vigor la reforma prevista en el Decreto número 97 en mención y, de conformidad con lo que establece su artículo QUINTO transitorio.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 232 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
