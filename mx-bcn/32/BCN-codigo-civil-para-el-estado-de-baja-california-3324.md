@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2018-01-19"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2138,6 +2138,14 @@ Los cónyuges deben darse alimentos. La Ley determinará cuando queda subsistent
 ###### ARTICULO 300.
 
 Los padres están obligados a dar alimentos a sus hijos desde el momento en que son concebidos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+El Juez ante el conocimiento de la vulneración de los derechos de las niñas, niños y adolescentes a recibir alimentos, ejercerá las acciones de debida diligencia necesaria para la prevención, protección y restitución de este derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Cuando el Juez se percate de cualquier riesgo o peligro en la integridad y desarrollo de las niñas, niños y adolescentes quienes tienen derecho a recibir alimentos, por parte de quien está obligado a brindarlos, deberá tomar de manera oficiosa todas aquellas acciones que estén a su alcance para salvaguardar la seguridad, continuidad y restitución del derecho. Esta obligación será aplicable aun cuando aquellas situaciones de riesgo o peligro no formen parte directa de la litis que es de su conocimiento.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
@@ -16618,5 +16626,11 @@ P.O. 19 DE ENERO DE 2018.
 P.O. 19 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 164 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 212 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 300 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
