@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2018-01-12"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -101,13 +101,17 @@ El Secretario General de Acuerdos, Secretarios de Estudio y Cuenta de Sala Super
 
 Todos los servidores públicos del Tribunal están obligados a respetar el Código de Ética de los Servidores Públicos de la Administración Pública Estatal.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 9 bis. Los servidores públicos del Tribunal, percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
+
 ### CAPÍTULO II. DE LA ORGANIZACIÓN E INTEGRACIÓN DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### Artículo 10.
 
-El Tribunal se conformará por las Salas Ordinarias en los términos previstos en la Ley, y una Sala Superior que funcionará colegiadamente y se integrará por tres Magistrados; las demás salas serán ordinarias y unitarias, pudiendo cualesquiera de ellas conocer de los juicios orales, por acuerdo de la Sala Superior.
+El Tribunal se conformará por las Salas Ordinarias en los términos previstos en la Ley, y una Sala Superior que funcionará colegiadamente y se integrará por tres Magistrados; las demás salas serán ordinarias y unitarias, una de las cuales será una Sala Especializada en materia de Responsabilidades Administrativas, pudiendo cualesquiera de ellas conocer de los juicios orales, por acuerdo de la Sala Superior.
 
 ###### Artículo 11.
 
@@ -173,6 +177,10 @@ VIII. Fijar y cambiar la adscripción de los Magistrados de las Salas Ordinarias
 
 IX. Fijar y cambiar la adscripción de todo el personal del Tribunal, atendiendo a las necesidades y cargas de trabajo que se presenten.
 
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+X. Analizar y aprobar todas las acciones relacionadas con el presupuesto del (sic) todo el Tribunal.
+
 ###### Artículo 13.
 
 En el caso de renuncia, licencia o ausencia absoluta del Presidente del Tribunal, los dos Magistrados restantes de la Sala Superior en sesión extraordinaria, acordarán quien deberá concluir el período en cuestión, mismo que desempeñará el cargo hasta la toma de posesión del nuevo Presidente. En caso de que no exista acuerdo, ocupara dicha función el Magistrado que tenga mayor antigüedad.
@@ -237,7 +245,9 @@ VI. Resolver los conflictos administrativos que surjan entre las diversas Salas 
 
 VII. Convocar a los Magistrados de la Sala Superior y de las Salas Ordinarias cuando lo considere necesario, para tratar asuntos de interés general para el Tribunal y, en su caso, comunicar los criterios sustentados por la Sala Superior, así como las determinaciones que sean tomadas por la misma;
 
-VIII. Dictar las órdenes relacionadas con el ejercicio del presupuesto del Tribunal; conforme a los acuerdos que establezca en relación a su atribución dispuesta en el artículo 20 inciso A) fracción II de la Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+VIII. Dictar y, en su caso, ejecutar las cuestiones relacionadas con el presupuesto de todo el Tribunal; conforme a los acuerdos que establezca en relación a su atribución dispuesta en el artículo 20 inciso A) fracción II de la Ley;
 
 IX. Realizar los actos administrativos y jurídicos que no requieran la intervención de la Sala Superior, así como los que la misma le encomienden;
 
@@ -377,7 +387,7 @@ VIII. Supervisar para su adecuado funcionamiento el archivo de la ponencia a la 
 
 IX. Autorizar y dar fe de los acuerdos, autos y demás actuaciones del Magistrado de la ponencia de su adscripción, así como expedir las copias certificadas que autorice el titular; y
 
-X. Desempeñar las demás funciones que el Magistrado de la ponencia de su adscripción les indiquen; (sic)
+X. Desempeñar las demás funciones que el Magistrado de la ponencia de su adscripción les indiquen;
 
 ### CAPÍTULO IX. DE LOS MAGISTRADOS DE LAS SALAS ORDINARIAS
 
@@ -401,7 +411,9 @@ VII. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina
 
 VIII. Realizar los actos jurídicos o administrativos de la Sala;
 
-IX. Gestionar el apoyo administrativo necesario para el debido funcionamiento de la Sala;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+IX. Gestionar, ante la Sala Superior, el apoyo administrativo necesario para el debido funcionamiento de la Sala;
 
 X. Rendir al Presidente del Tribunal, dentro de los primeros cinco días hábiles de cada mes, un informe por escrito de las labores de la Sala correspondientes al mes inmediato anterior y, dentro de los primeros diez días hábiles del mes de enero, el informe de labores del año inmediato anterior;
 
@@ -418,6 +430,18 @@ XV. Conservar en el secreto de la Sala, para su resguardo, todos los valores exh
 XVI. Acatar las resoluciones que dicte la Sala Superior, en materia de contradicción de criterios; y
 
 XVII. Las demás que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 28 bis. El Tribunal de Justicia Administrativa, a través de la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano competente, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como faltas administrativas graves, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades derivadas de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 28 bis 1. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, además de las facultades y atribuciones establecidas en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, tendrá las referidas en el artículo 28 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 28 bis 2. La Sala Especializada en materia de Responsabilidades Administrativas estará conformada por los (sic) menos con el personal que señala el artículo 197, fracción XIV, de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
 ### CAPÍTULO X. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA DE LAS SALAS ORDINARIAS
 
@@ -480,6 +504,10 @@ VIII Atender a las instrucciones que les den los Secretarios de las diversas Sal
 IX Aplicar en el desempeño de todas sus actividades diarias el Manual de Procedimientos del Área de Actuaría, aprobado por la Sala Superior del Tribunal; y
 
 X Los Actuarios deberán conducirse siempre con estricto apego a la verdad, respecto a las diligencias que practiquen, bajo la pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Artículo 30 bis. La actuaria del Tribunal de Justicia Administrativa del Estado de Nuevo León, estará coordinada por uno de los actuarios, designado por la Sala Superior, quien organizará, distribuirá y realizara las gestiones necesarias para que se realicen las notificaciones de todo el Tribunal en los términos de la ley.
 
 ### CAPÍTULO XII. DE LA DIRECCIÓN DE ORIENTACIÓN Y CONSULTA CIUDADANA
 
@@ -755,7 +783,9 @@ X.- Rendir al Presidente del Tribunal, un Informe sobre los juicios en trámite 
 
 XI.- Todas las demás atribuciones que le encomiende la Sala Superior por conducto de su Presidente.
 
-### CAPÍTULO IX. DE LA COMISIÓN INTERNA DE REVISIÓN Y EVALUACIÓN DE PROCEDIMIENTOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO XIV. DE LA COMISIÓN INTERNA DE REVISIÓN Y EVALUACIÓN DE PROCEDIMIENTOS
 
 ###### Artículo 45.
 
@@ -777,9 +807,9 @@ La Comisión, en cada caso concreto, deberá rendir su opinión al Presidente de
 
 Vista la opinión de la Comisión a que se refiere el artículo anterior, el Presidente del Tribunal propondrá a la Sala Superior la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, con audiencia del denunciado y sujetándose al procedimiento previsto en la Ley invocada.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO X. DE LOS MEDIOS ELECTRÓNICOS EN EL TRIBUNAL
+### CAPÍTULO XV. DE LOS MEDIOS ELECTRÓNICOS EN EL TRIBUNAL
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
@@ -852,3 +882,13 @@ P.O. 12 DE ENERO DE 2018.
 Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Publíquese a la brevedad posible el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN POR ADICIÓN Y MODIFICACIÓN DE DIVERSOS ARTÍUCLOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. El funcionamiento integral para la operación (sic) la Sala Especializada en materia de Responsabilidad Administrativa del Tribunal de Justicia Administrativa del Estado, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, y equipamiento en los términos del artículo cuarto transitorio del DECRETO NÚMERO 347, PUBLICADO EN EL PERIÓDICO OFICIAL EN FECHA 19 DE ENERO DE 2018.
+
+Tercero. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
