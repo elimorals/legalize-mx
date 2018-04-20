@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-division-territorial-del-estado-de-nayarit-9577"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "2011-12-17"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DIVISIÓN TERRITORIAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de febrero de 1984.
 
@@ -155,11 +155,11 @@ El Municipio de Bahía de Banderas colinda con el municipio de Compostela y con 
 
 El Municipio de Compostela colinda con los municipios de San Blas, Xalisco, San Pedro Lagunillas y con el Estado de Jalisco; se integra con las siguientes localidades: Compostela, Agua Azul, Agua Aceda, Agua Caliente, Agua Escondida, Agua Zarca, Altavista, Bella Unión, Boca del Naranjo, Buenavista, Campo de Abajo, Calexico, Cuatro Albillas, Carrillo Puerto, Cándido Salazar, Cerro de los Carboneros, Colimilla, Cuastecomatillo, Chacala, Charco Verde, Chula Vista, Divisadero, Estiladero, Abrevadero, El Ahijadero, El Cajón, El Almacén, El Arrendatario, El Balastre, El Camalote, El Carrizal, El Carrizo, El Capomal, El Capomo, El Cora, El Embarcadero, El Guayabal, El Guerrereño, El Naranjo, El Negro, El Ocote, El Ocotillo, El Ojo de Agua, El Pantano, El Paranal, El Progreso, El Puente, El Realito, El Refilión, El Sauza, El Soñador, El Tonino, Ixtapa de la Concepción, Galtepec, Juan Sánchez, La Bajada, La Cascada, La cebadilla, La Ceiba, La Cuata, La Cucaracha, La Fortuna, La Higuerita, La Inzula, La Jalizal, La Laguna, La Lima, La Peñita de Jaltemba, La Quemada La Sidra, La Tovara, Las Astas, Las Burras, Las Calabazas, Las Cañadas, Las Coloradas, Las Conchas, Las Jícaras, Las Juntas, Las Lagunitas, Las Hembrillas, Las Piedras, Las Piñas, Las Varas, Las Víboras, Las Vigas, Loma Alta, Lomas de Monterrey, Los Ayala, Los Bueyes, Los Cafeces, Los Chicos, Los Limones, Los Mangos, Los Salates, Lima de Abajo, Mamey Grande de Arriba, Mazatán, Mesa del Rodeo, Miravalles, Monte Abajo, Otates, Cantarranas, Palos Marías, Palo Herrado, Paso de Mesillas, Paso de las Palmas, Paso de Buey, Páscuaro, Piedra Gorda, Piedras Largas, Piedra China, Piedra Larga, Platanitos, Puerta de la Laguna, Puerta de Casillas, Punta Rosa, Rancho Verde, Rincón de Guayabitos, Rojas, San Antonio, Santiaguito, Santa María de Jaltemba, San Miguel, Santa Rosa, Tepiqueños, Ursulo Galván, Valle Juan Escutia, Valle Morelos, Vista al Mar, Vizcarra, Zacualpan y Zapotán y las demás que en lo sucesivo sean creadas.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 16.
 
-El Municipio Del Nayar colinda con los municipios de La Yesca, Santa María del Oro, Tepic, Santiago Ixcuintla, Ruiz, Rosamorada, Acaponeta y con los Estados de Durango, Jalisco y Zacatecas; se integra con las siguientes localidades: Jesús María, Agua Caliente, Agua Milpa, Alta de Ventanas, Arroyo de Santiago, Arroyo de Camarones, Arroyo del Frayle, Arroyo del Carnaval, Arroyo de Perico, Atonalisco, Cofrandía (sic), Cofradía de Pericos, Comal de Peñitas, Coyultita de Jazmines, Coyultita de Mala Noche, Cuahutemoc, Dolores, El Arrayán, El Capomo, El Carrizal, El Colomo, El Colorín, El Coyunque. El Jazmín, El Limón, El Maguey, El Manquita, El Pinito, El Plátano, El Roble, El Sabino, El Sanite, El Salitre, El Sauza, Guinea de Guadalupe, Guapinole, Guásima del Metate, Guásima del Caimán, Higuera Gorda, Guamiloya, Ixtalpa, Jazmines del Coquito, Jazmines de Coyultita, La Concepción, La Guerra, La Guilota, La Mesa, La Palmita, Las Estrellas, Las Higueras, Las Huertitas, Las Mesitas, Las Mojarras, Las Ranas, Los Sabinos, Linda Vista, Los Gavilanes, Los Limones, Los Mangos, Los Naranjitos de Copal, Peña Blanca, Paso de Alica, Playa de Golondrina, Rancho viejo, Rancho Viejo Peyotán, San Francisco, San Juan Peyotán, San Rafael, San Pablo, San Vicente, Santa Cruz del Guayabal, Santa Bárbara, Santa Rosa, Santa Teresa, Zoquipilla, Zoquipan y las demás que en lo sucesivo sean creadas.
+El Municipio Del Nayar colinda con los municipios de la Yesca, Santa María del Oro, Tepic, Santiago Ixcuintla, Ruiz, Rosamorada, Acaponeta y con los Estados de Durango, Jalisco y Zacatecas; se integra con las siguientes localidades: Jesús María, Agua Caliente, Agua Milpa, Alta de Ventanas, Arroyo de Santiago, Arroyo de Camarones, Arroyo del Frayle, Arroyo del Carnaval, Arroyo de Perico, Atonalisco, Cofrandía, Cofradía de Pericos, Comal de Peñitas, Coyultita de Jazmines, Coyultita de Mala Noche, Cuahutemoc, Dolores, El Arrayán, El Capomo, El Carrizal, El Chalate, El Colomo, El Colorín, El Coyunque, El Espejo, El Jazmín, El Limón, El Maguey, El Manquita, El Pinito, El Plátano, El Rincón, El Roble, El Sabino, El Sanite, El Salitre, El Sauza, Guinea de Guadalupe, Guamuchilillo, Guapinole, Guásima del Metate, Guásima del Caimán, Higuera Gorda, Guamiloya, Ixtalpa, Jazmines del Coquito, Jazmines de Coyultita, La Concepción, La Guerra, La Guilota, La Mesa, La Palmita, Las Estrellas, Las Higueras, Las Huertitas, Las Mesitas, Las Mojarras, Las Ranas, Las Tapias (Santa Gertrudis), Los Sabinos, Linda Vista, Los Gavilanes, Los Limones, Los Mangos, Los Naranjitos de Copal, Los Nogales, Los Pinos, Peña Blanca, Palma Chica, Paso de Alica, Playa de Golondrina, Rancho Nuevo (Juventino), Rancho viejo, Rancho Viejo Peyotán, San Francisco, San Juan Peyotán, San Rafael, San Pablo, San Vicente, Santa Cruz del Guayabal, Santa Bárbara, Santa Gertrudis, Santa Rosa, Santa Teresa, Tierras Blancas de los Lobos, Tutuyecuamama, Zoquipilla, Zoquipan y las demás que en lo sucesivo sean creadas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -410,3 +410,9 @@ P.O. 17 DE DICIEMBRE DE 2011.
 ###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 16 DE LA LEY DE DIVISIÓN TERRITORIAL DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
