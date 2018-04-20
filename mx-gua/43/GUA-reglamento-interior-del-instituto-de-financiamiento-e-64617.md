@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-financiamiento-e-64617"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-28"
-last_updated: "2008-11-28"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE FINANCIAMIENTO E INFORMACION PARA LA EDUCACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE FINANCIAMIENTO E INFORMACIÓN PARA LA EDUCACIÓN, PUBLICADO EN EL P.O. DE 20 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE FINANCIAMIENTO E INFORMACION PARA LA EDUCACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de noviembre del 2008.
 
@@ -504,3 +506,41 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 224, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y REESTRUCTURAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 36 MEDIANTE EL CUAL SE REESTRUCTURA LA ORGANIZACIÓN INTERNA DEL INSTITUTO DE FINANCIAMIENTO E INFORMACIÓN PARA LA EDUCACIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 50, OCTAVA PARTE, DE FECHA 25 DE JUNIO DEL 2001, ASIMISMO SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE FINANCIAMIENTO E INFORMACIÓN PARA LA EDUCACIÓN”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de Financiamiento e Información para la Educación, expedido a través del Decreto Gubernativo número 89, publicado en el Periódico Oficial del Gobierno del Estado número 191, Segundo Parte, de fecha 28 de noviembre del 2008.
+
+Referencia a las nuevas denominaciones de las unidades administrativas del Educafin
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que, en decretos, reglamentos, acuerdos, contratos, convenios u otros instrumentos jurídicos, se realice a las siguientes unidades administrativas, se entenderá hecha a su nueva denominación de conformidad con lo siguiente:
+
+Unidades administrativas Nuevas denominaciones de
+
+previstas en el Reglamento las unidades administrativas
+
+Interior que cambian su
+
+Denominación
+
+Dirección de Programas Dirección de Política Educativa y
+
+Liderazgo Social
+
+Dirección de Vinculación Dirección de Comunicación
+
+Dirección Administrativa Dirección de Finanzas y Administración
+
+Asuntos en trámite
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite por el Órgano de Vigilancia ahora Órgano Interno de Control del Instituto de Financiamiento e Información para la Educación, instaurados antes de la entrada en vigor del presente decreto, se tramitarán hasta su conclusión conforme a las disposiciones vigentes a su inicio.
