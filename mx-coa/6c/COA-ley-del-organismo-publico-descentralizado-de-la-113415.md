@@ -4,7 +4,7 @@ identifier: "COA-ley-del-organismo-publico-descentralizado-de-la-113415"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-19"
-last_updated: "2016-04-12"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COA"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO “DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA.
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de febrero de 2016.
 
@@ -695,6 +693,10 @@ La Dirección de Pensiones tiene la facultad de retener de la devolución de cuo
 
 Por préstamo quirografario se entiende el crédito concedido por la Dirección de Pensiones a favor de un trabajador en activo o pensionado suscribiendo un documento a favor de esta Dirección, en la que se ampare la cantidad recibida, más los intereses correspondientes.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+El trabajador o pensionado podrá solicitar un préstamo adicional cuando se hayan abonado por lo menos seis meses del préstamo anterior, quedando su aprobación sujeta a la disponibilidad de recursos de la Dirección de Pensiones, procediéndose a la reestructuración de la deuda conforme a lo que disponga el Reglamento Interior, a fin de que las deducciones a los préstamos cumplan con lo establecido en el Artículo 77.
+
 ###### ARTÍCULO 74.
 
 Todo trabajador activo con 1 año de antigüedad o pensionado tendrá derecho a que se le otorgue un crédito quirografario de conformidad con las posibilidades económicas de la Dirección, de acuerdo con lo establecido en el reglamento interior.
@@ -707,9 +709,11 @@ Los préstamos a que se refiere este capítulo causarán un interés anual, sobr
 
 Para tener derecho a gozar del beneficio previsto en este capítulo el trabajador en activo, deberá tener una antigüedad efectiva de 1 año de haber ingresado al trabajo al servicio del Municipio; con un aval sindicalizado o confianza con cinco años de antigüedad mínimo.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 77.
 
-El plazo máximo para su pago será de 2 años programando los pagos respectivos para que sean deducidos de su nómina. El monto de las deducciones por este concepto no podrá ser superior al 30% de la percepción mensual del trabajador en activo o pensionado.
+El plazo máximo para su pago será de tres años programando los pagos respectivos para que sean deducidos de su nómina. El monto de las deducciones por este concepto no podrá ser superior al 30% de la percepción mensual del trabajador en activo o pensionado.
 
 ###### ARTICULO 78.
 
@@ -1040,3 +1044,13 @@ DIPUTADA SECRETARIA
 LUISA IVONE GALLEGOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 19.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 73, Y SE MODIFICA EL CONTENIDO DEL ARTÍCULO 77, AMBOS DE (SIC) LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los préstamos quirográficos otorgados antes de la entrada en vigor del presente decreto y los que se encuentren en proceso de ser aprobados, se sujetarán al plazo de dos años establecido en el artículo 77.
