@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2017-11-01"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -545,7 +545,7 @@ VIII. Conceder licencia a los diputados para que falten justificadamente hasta p
 
 IX. Tomar la protesta a los diputados cuando sean llamados a suplir al propietario, así como a los servidores públicos que por disposición de la ley corresponda protestar ante el Congreso;
 
-X. Firmar en unión de los demás integrantes de la Mesa Directiva el acta de cada sesión inmediatamente después de que haya sido aprobada, sin lo (sic) cual carecerá de validez;
+X. Firmar en unión de los demás integrantes de la Mesa Directiva el acta de cada sesión inmediatamente después de que haya sido aprobada, sin lo cual carecerá de validez;
 
 XI. Firmar en unión de los secretarios las leyes y decretos que se envíen al Ejecutivo para su promulgación y publicación, así como las iniciativas que se envíen al Congreso de la Unión;
 
@@ -689,9 +689,11 @@ Los grupos parlamentarios están obligados a destinar los recursos que se les ot
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
+
 ###### Artículo 66.
 
-Las comisiones legislativas son órganos colegiados internos del Congreso, que conformados por diputados, tienen por objeto el conocimiento, estudio, análisis y dictamen de las iniciativas y comunicaciones presentadas a la Asamblea, dentro del procedimiento legislativo que establece la ley.
+Las comisiones legislativas son órganos colegiados internos del Congreso, que conformados por diputados, tienen por objeto el conocimiento, estudio, análisis y dictamen de las iniciativas, así como presentar iniciativas con carácter de dictamen y comunicaciones presentadas a la Asamblea, dentro del procedimiento legislativo que establece la ley.
 
 Las comisiones ordinarias y especiales se constituirán dentro de los primeros treinta días naturales de iniciado el ejercicio constitucional de la Legislatura, y sus miembros durarán en su cargo todo el período constitucional, con las salvedades que disponga el Reglamento.
 
@@ -702,6 +704,14 @@ Durante los recesos del Congreso las Comisiones Legislativas continuarán funcio
 Las Comisiones presentarán al pleno los dictámenes de conformidad a los plazos previstos en el Reglamento.
 
 Los asuntos turnados al conocimiento de las Comisiones, y que no deriven en dictamen que deba someter a la deliberación y aprobación en su caso de la Asamblea, los resolverá dictando el acuerdo de trámite que corresponda.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Las Comisiones Legislativas tienen la facultad de presentar iniciativas con carácter de dictamen en asuntos de su competencia, las cuales deberán ser aprobadas por las dos terceras partes de los presentes.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Previo al análisis, discusión y aprobación de las iniciativas con carácter de dictamen en reunión de comisiones. La Comisión que haga uso de esta atribución, deberá dar a conocer el contenido de la misma a la Mesa Directiva y a los integrantes de la legislatura con una anticipación de 72 horas, para que los diputados puedan hacer las observaciones al respecto.
 
 #### SECCIÓN SEGUNDA. COMISIONES ORDINARIAS
 
@@ -1099,7 +1109,7 @@ La Contraloría Interna para el cumplimiento de sus funciones contará con la es
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-I.- Dirección de Auditoria Financiera, y
+I.- Dirección de Auditoría Financiera, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1171,8 +1181,6 @@ El procedimiento legislativo lo constituye la suma de actos concatenados de util
 
 Son medios de difusión oficial de las actividades del Congreso, la Gaceta Parlamentaria y la página de internet. El reglamento establecerá los criterios para su regulación específica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 86.
@@ -1180,6 +1188,10 @@ Son medios de difusión oficial de las actividades del Congreso, la Gaceta Parla
 La iniciativa y formación de leyes, o decretos a que se refiere la Constitución local, así como los acuerdos que son de la competencia exclusiva de los diputados, deberán presentarse invariablemente por conducto de la Secretaría General, quien tendrá bajo su resguardo y custodia el documento original y el documento electrónico.
 
 Toda iniciativa por acuerdo del presidente de la Mesa Directiva se turnará por conducto de la Secretaría General a las comisiones competentes en documento impreso o vía actuación electrónica.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Las iniciativas con carácter de dictamen se presentarán al Pleno del Congreso o a la Diputación Permanente, a través de las Comisiones Legislativas correspondientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1272,6 +1284,10 @@ V. Discusión y votación del proyecto presentado, así como su elaboración, fi
 La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
 
 VI.- La iniciativa de Acuerdo, que contenga declaraciones legislativas, administrativas o parlamentarias, deberá presentarse por escrito para su turno a comisiones, misma que se desahogará posteriormente ante el pleno, previa lectura y análisis del dictamen correspondiente, salvo que al momento de su presentación la asamblea acuerde que es de urgente y obvia resolución, en cuyo caso se discutirá y aprobará en el mismo acto. La Secretaría General hará los trámites que correspondan, para la debida integración del expediente.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+Las iniciativas con carácter de dictamen provenientes de las Comisiones Legislativas en asuntos de su competencia, pasarán a discusión del Pleno o de la Diputación Permanente, atendiendo lo dispuesto por el presente artículo.
 
 ###### Artículo 95.
 
@@ -1521,7 +1537,7 @@ V. A efecto de optimizar el proceso de elaboración, aplicación y evaluación d
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
-VI. El Pleno del Congreso, a propuesta de la Comisión de Gobierno, podrá actualizar anualmente el contenido del Plan, dentro de los veinte días hábiles posteriores al inicio del primer periodo ordinario de sesiones del segundo y tercer años de ejercicio constitucionales (sic), respectivamente.
+VI. El Pleno del Congreso, a propuesta de la Comisión de Gobierno, podrá actualizar anualmente el contenido del Plan, dentro de los veinte días hábiles posteriores al inicio del primer periodo ordinario de sesiones del segundo y tercer años de ejercicio constitucionales, respectivamente.
 
 TRANSITORIOS:
 
@@ -1607,6 +1623,12 @@ TERCERO. El Reglamento para el Gobierno Interior del Congreso que se encuentre v
 
 P.O. 1 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE ABRIL DE 2018.
+
+[N. DE E TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
