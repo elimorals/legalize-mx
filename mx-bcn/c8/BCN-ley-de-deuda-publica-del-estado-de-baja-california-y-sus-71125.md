@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-y-sus-71125"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-01"
-last_updated: "2015-10-02"
+last_updated: "2018-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 20 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 1 de diciembre de 2009.
 
@@ -554,3 +556,35 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las operaciones de financiamiento contratadas antes de la fecha de entrada en vigor de la presente reforma, serán reguladas por las disposiciones vigentes al momento de su contratación.
 
 TERCERO.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 221 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública del Estado de Baja California y sus Municipios, publicada en el Periódico Oficial del Estado de Baja California No. 54, de fecha 01 de diciembre de 2009, Tomo CXVI, Número Especial.
+
+Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Deuda Pública del Estado de Baja California y sus Municipios, se entenderán referidas a la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios s (sic).
+
+###### ARTÍCULO CUARTO.
+
+Los Financiamientos y Obligaciones autorizadas antes de la fecha de entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se regirán por las disposiciones vigentes en el momento de su autorización por el Congreso del Estado o contratación en el caso de las Asociaciones Público Privadas.
+
+###### ARTÍCULO QUINTO.
+
+Los Financiamientos y Obligaciones que se encuentren en proceso de autorización en las instancias del Congreso del Estado en la fecha de entrada en vigor de la presente Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios, deberán sujetarse y cumplir con los requisitos establecidos en la misma, así como en las Disposiciones de Disciplina Financiera.
+
+###### ARTÍCULO SEXTO.
+
+Los Comités a que hacen referencia los Artículos 30 y 33 de la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios, deberán conformarse por el Ejecutivo del Estado y los Presidentes Municipales, en sus respectivos ámbitos de competencia, a más tardar dentro de los 180 días siguientes a la entrada en vigor de la Ley. En el mismo plazo deberán emitirse las reglas de operación del Comité, así como los lineamientos a que hacen mención las fracciones II de los artículos precitados.
+
+Hasta en tanto queden conformados los Comités, no se requerirá de sus evaluaciones y opiniones para los trámites correspondientes.
