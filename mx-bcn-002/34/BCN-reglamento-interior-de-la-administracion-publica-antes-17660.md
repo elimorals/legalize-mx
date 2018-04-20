@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-02-02"
+last_updated: "2018-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1514,6 +1514,10 @@ II.- Llevar a cabo los procedimientos de contratación de obras públicas y serv
 III.- Realizar obras públicas por administración directa, en los supuestos de la fracción I de este Artículo, de conformidad con lo dispuesto por el marco jurídico aplicable; y
 
 IV.- Coadyuvar con la Dirección de Administración Urbana, en la supervisión de la construcción de vialidades por otras instancias de gobierno y particulares.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+
+V.- Coordinarse con las dependencias y entidades de la Administración Pública Estatal o Federal, previo a la ejecución de obras públicas en materia de urbanización, vialidades y aquellas que correspondan a sus atribuciones, a fin de evitar la duplicidad o sobre posición de acciones que representen un gasto o ineficiente ejercicio presupuestal.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
 
@@ -3714,3 +3718,9 @@ UNO.- Las presentes reformas entrarán en vigor al día siguiente al de su publi
 DOS.- La Tesorería Municipal deberá realizar las adecuaciones pertinentes, para transferir los recursos presupuestales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano operativo desconcentrado de la Oficina de la Presidencia, denominado Unidad Coordinadora de Transparencia.
 
 TRES.- La Oficialía Mayor deberá llevar a cabo las acciones necesarias para adscribir al personal y recursos materiales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano operativo desconcentrado de la Oficina de la Presidencia, denominado Unidad Coordinadora de Transparencia.
+
+P.O. 20 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UNA FRACCIÓN V DEL ARTÍCULO 66 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
