@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2017-09-19"
+last_updated: "2018-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -8042,19 +8042,9 @@ En las entrevistas el Juez se hará asistir de un médico que certificará que l
 
 ARTICULO 970 TER.- Hecho lo anterior, dentro de un término que en ningún caso excederá de quince días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapaz si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+###### ARTICULO 971.
 
-###### Artículo 971.
-
-En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
-
-I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
-
-II. El estado de demencia puede comprobarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
-
-III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa Aporte de ciento ochenta días, a favor del erario estatal; y
-
-IV. Luego que cause ejecutoria la sentencia de interdicción el juez llamara al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello este legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+(DEROGADO, P.O. 21 DE ABRIL DE 2018)
 
 ###### ARTICULO 971
 
@@ -9557,5 +9547,11 @@ P.O. 11 DE MARZO DE 2017.
 P.O. 19 DE SEPTIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26426/LXI/17 QUE REFORMA LOS ARTÍCULOS 244, 528 Y 560 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26752/LXI/18 QUE DEROGA EL ARTÍCULO 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
