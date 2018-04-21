@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-comision-de-defensa-de-los-64836"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-22"
-last_updated: "2008-11-22"
+last_updated: "2018-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 22 de noviembre de 2008.
 
@@ -1120,3 +1122,19 @@ Segundo. Se abroga el Reglamento Interior de la Comisión de Defensa de los Dere
 El presente Reglamento fue aprobado en la ciudad de Tepic, capital del estado de Nayarit, por el Consejo Consultivo de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, a los 18 dieciocho días del mes de noviembre del año 2008 dos mil ocho.
 
 Lic. Oscar Humberto Herrera López, Presidente de la Comisión de Derechos Humanos para el Estado de Nayarit y de su Consejo Consultivo.- Rúbrica.-CONSEJEROS, Lic. Marina Zoraida Berumen Martínez.- Rúbrica.- Lic. Manuel Salinas Solís.- Rúbrica.- Lic. Mario Alberto Clemente Martínez.- Rúbrica.- Lic. Hortensia Pérez Orta.- Rúbrica.- Lic. Genoveva Ortega Villarreal.- Rúbrica.- Lic. José Antonio Serrano Guzmán.- Rúbrica.- C.P. Martín Hernández Guerrero.- Rúbrica.- Dr. Julio Alejandro Plascencia Flores.- Rúbrica.- Prof. Víctor Javier Cuevas Reynaldo.- Rúbrica.- Prof. Martiniano Díaz Evangelista.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión de Defensa de los Derechos Humanos del Estado de Nayarit aprobado por el Consejo Consultivo del mismo Organismo el 18 dieciocho de noviembre de 2008 dos mil ocho y publicado el 22 veintidós del mismo mes y año en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas de la Comisión que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- Los trámites y procedimientos que a la entrada en vigor del presente Reglamento estén desarrollándose o substanciándose, continuarán hasta su conclusión con la normatividad reglamentaria vigente al momento de su inicio, y en lo que fuere procedente, y resulte en beneficio de los interesados, serán aplicables los preceptos contenidos en este Reglamento.
+
+QUINTO.- La estructura orgánica y administrativa de la Comisión a que se refiere el presente Reglamento, se irá constituyendo formalmente conforme lo permita la disponibilidad presupuestal. En tanto, seguirá operando la estructura vigente.
