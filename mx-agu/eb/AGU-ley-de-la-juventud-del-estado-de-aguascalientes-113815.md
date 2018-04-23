@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2017-07-03"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -55,7 +55,9 @@ II. Ejecutivo: Poder Ejecutivo del Estado;
 
 III. Ayuntamientos: Ayuntamientos que conforman el Estado;
 
-IV. Secretaría: Secretaría de la Juventud del Estado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+IV. Instituto: Instituto Aguascalentense de la Juventud;
 
 V. Dependencias: Las que forman parte de la Administración Pública Estatal centralizada y paraestatal, en términos de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
@@ -81,11 +83,11 @@ X. Dependencia Municipal: Las áreas municipales encargadas de la atención a la
 
 Es responsabilidad del Ejecutivo y de los Ayuntamientos integrar en su Plan Sexenal de Gobierno del Estado o en sus Planes de Desarrollo Municipal según corresponda, proyectos y acciones en beneficio de la Juventud.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 5°.
 
-Serán autoridades competentes para elaborar políticas públicas para la Juventud y ejecutoras en materia de la presente Ley, el Ejecutivo, el Consejo, la Secretaría y los Ayuntamientos.
+Serán autoridades competentes para elaborar políticas públicas para la Juventud y ejecutoras en materia de la presente Ley, el Ejecutivo, el Consejo, el Instituto y los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -141,11 +143,17 @@ XI. Oportunidades de empleo en condiciones equitativas en los sectores público 
 
 XII. Acceder a espacios recreativos y culturales, garantizando la libertad de expresión, manifestación artística y respetando la diversidad de ideologías, así como a practicar cualquier deporte y actividad física;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XIII. Recibir información, asesoría y capacitación gratuita por parte de la Secretaría o de las instancias de gobierno competentes, así como en su caso, de las dependencias municipales para el desarrollo de proyectos productivos basados en una cultura de emprendimiento; y
+XIII. Recibir información, asesoría y capacitación gratuita por parte del Instituto o de las instancias de gobierno competentes, así como en su caso, de las dependencias municipales para el desarrollo de proyectos productivos basados en una cultura de emprendimiento;
 
-XIV. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2018)</small>
+
+XIV. Recibir talleres de educación y participación cívica, salvo en el período de las precampañas, campañas electorales y hasta la jornada electoral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2018)</small>
+
+XV. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
 
 ###### ARTÍCULO 9°.
 
@@ -205,21 +213,25 @@ VII. Facilitar los medios y los recursos necesarios para el cumplimiento de prog
 
 VIII. Las demás que señalen otras disposiciones legales o reglamentarias.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2018)</small>
+
 ### CAPÍTULO III. De las Políticas Públicas en Materia de Juventud
 
 ###### ARTÍCULO 11.
 
-La Secretaría es la dependencia responsable de la planeación, diseño, desarrollo, implementación y evaluación de políticas públicas en materia de Juventud.
+El Instituto es la dependencia responsable de la planeación, diseño, desarrollo, implementación y evaluación de políticas públicas en materia de Juventud.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría, además de las atribuciones que le otorga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, se encargará de proponer e impulsar políticas públicas que permitan incorporar plenamente a los Jóvenes al desarrollo del Estado; asimismo implementar, en coordinación con las dependencias de los tres órdenes de gobierno, campañas de difusión oportuna de los programas y fondos estatales que tengan por objeto el fomento y financiamiento de proyectos productivos, así como servir de vínculo entre los Jóvenes y aquellas Dependencias afines a estos programas y fondos.
+El Instituto, además de las atribuciones que le otorga la Ley del Instituto Aguascalentense de la Juventud, se encargará de proponer e impulsar políticas públicas que permitan incorporar plenamente a los Jóvenes al desarrollo del Estado; asimismo implementar, en coordinación con las dependencias de los tres órdenes de gobierno, campañas de difusión oportuna de los programas y fondos estatales que tengan por objeto el fomento y financiamiento de proyectos productivos, así como servir de vínculo entre los Jóvenes y aquellas Dependencias afines a estos programas y fondos.
 
-La Secretaría contará con un área especial para el control y seguimiento de la gestión y quejas que presenten los jóvenes, cuya integración y funcionamiento se regulará a fin de que las peticiones sean canalizadas ante la autoridad correspondiente o ante organismos sociales y privados, según sea el caso.
+El Instituto contará con un área especial para el control y seguimiento de la gestión y quejas que presenten los jóvenes, cuya integración y funcionamiento se regulará a fin de que las peticiones sean canalizadas ante la autoridad correspondiente o ante organismos sociales y privados, según sea el caso.
 
 ###### ARTÍCULO 13.
 
-Los Ayuntamientos además de formular políticas públicas y desarrollar acciones de atención a los Jóvenes en su ámbito territorial, se coordinarán con la Secretaría en la planeación, diseño, implementación y evaluación de las políticas públicas con el objeto de atender a las principales demandas de los Jóvenes dentro de su esfera competencial.
+Los Ayuntamientos además de formular políticas públicas y desarrollar acciones de atención a los Jóvenes en su ámbito territorial, se coordinarán con el Instituto en la planeación, diseño, implementación y evaluación de las políticas públicas con el objeto de atender a las principales demandas de los Jóvenes dentro de su esfera competencial.
 
 ###### ARTÍCULO 14.
 
@@ -277,13 +289,17 @@ P.O. 3 DE JULIO DE 2017.
 
 ARTÍCULO 9° A.- Para el cumplimiento de lo que establece el Artículo anterior, se crea el Consejo Estatal de la Juventud de Aguascalientes.
 
-El Consejo es el órgano de vinculación y consulta de la Secretaría y Dependencias Municipales de la Juventud con el propósito de asesorar, proponer, sugerir, plantear, opinar, colaborar y apoyar los planes y programas dirigidos al desarrollo integral de la juventud.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+El Consejo es el órgano de vinculación y consulta del Instituto y Dependencias Municipales de la Juventud con el propósito de asesorar, proponer, sugerir, plantear, opinar, colaborar y apoyar los planes y programas dirigidos al desarrollo integral de la juventud.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ARTÍCULO 9° B.- El Consejo, estará integrado por las siguientes autoridades:
 
-I.- Un Presidente, que será el Secretario de la Juventud del Estado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+I.- Un Presidente, que será el Director General del Instituto Aguascalentense de la Juventud;
 
 II.- Un Vicepresidente, que será el Presidente de la Comisión de la Juventud del Congreso del Estado de Aguascalientes;
 
@@ -297,39 +313,73 @@ Los cargos del Consejo descritos anteriormente son honoríficos, por lo que no g
 
 ARTÍCULO 9° C.- Para el cumplimiento de sus funciones y objeto el Consejo, tendrá las siguientes atribuciones:
 
-I.- Colaborar en el diseño y supervisar la implementación y ejecución de políticas públicas a favor de la juventud, que esta ley encomienda a la Secretaría y Dependencias Municipales de la Juventud en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-II.- Sugerir al titular del Poder Ejecutivo del Estado, al Secretario de la Juventud y a los Municipios, el diseño de planes, programas y proyectos en apoyo a la juventud del Estado de Aguascalientes;
+I.- Colaborar en el diseño y supervisar la implementación y ejecución de políticas públicas a favor de la juventud, que esta ley encomienda al Instituto y Dependencias Municipales de la Juventud en sus respectivos ámbitos de competencia;
 
-III.- Sugerir a la Secretaría y Dependencias Municipales de la Juventud, la celebración de convenios con los diferentes órdenes de gobierno y sector privado, para llevar a cabo las políticas públicas en materia de juventud;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-IV.- Proponer a la Secretaría y Dependencias Municipales de la Juventud programas en conjunto con la iniciativa privada, con la finalidad de obtener trato preferente para la adquisición de bienes y servicios a favor de la juventud;
+II.- Sugerir al titular del Poder Ejecutivo del Estado, al Director General del Instituto Aguascalentense de la Juventud y a los Municipios, el diseño de planes, programas y proyectos en apoyo a la juventud del Estado de Aguascalientes;
 
-V.- Plantear a la Secretaría y Dependencias Municipales de la Juventud la celebración de acuerdos con Instituciones de Educación Superior para que se impartan cursos a bajo costo, con el objeto de promover los principios de responsabilidad y superación personal en beneficio de la juventud;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-VI.- Proponer a la Secretaría y Dependencias Municipales de la Juventud el que se gestionen espacios en medios electrónicos y escritos, para la divulgación de sus expresiones e ideas y así garantizar que se respete el derecho a la libre expresión de los jóvenes fomentando al mismo tiempo el respeto hacia otras formas de pensar;
+III.- Sugerir al Instituto y Dependencias Municipales de la Juventud, la celebración de convenios con los diferentes órdenes de gobierno y sector privado, para llevar a cabo las políticas públicas en materia de juventud;
 
-VII.- Sugerir a la Secretaría y Dependencias Municipales de la juventud la celebración de convenios de colaboración y atención preferente con las dependencias encargadas de atender los casos previstos en el artículo 7° de la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-VIII.- Plantear a la Secretaría y Dependencias Municipales de la juventud que colaboren con las autoridades encargadas de la cultura y las artes en el estado, con el objeto de incorporar a los jóvenes a las actividades y programas que llevan a cabo mediante la suscripción de acuerdos;
+IV.- Proponer al Instituto y Dependencias Municipales de la Juventud programas en conjunto con la iniciativa privada, con la finalidad de obtener trato preferente para la adquisición de bienes y servicios a favor de la juventud;
 
-IX.- Proponer a la Secretaría y Dependencias municipales de la Juventud, la suscripción de convenios con el sector público y privado, encargados de colocar créditos a los emprendedores, con el objeto de hacer llegar oportunidades de auto empleo a los jóvenes;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-X.- Sugerir a la Secretaría y Dependencias Municipales de la Juventud la celebración de acuerdos con el Instituto del Deporte de Aguascalientes, Universidades e instituciones deportivas del gobierno federal, para el uso de sus instalaciones y materiales en favor de los jóvenes de Aguascalientes;
+V.- Plantear al Instituto y Dependencias Municipales de la Juventud la celebración de acuerdos con Instituciones de Educación Superior para que se impartan cursos a bajo costo, con el objeto de promover los principios de responsabilidad y superación personal en beneficio de la juventud;
 
-XI.- Proponer a la Secretaría y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Medio Ambiente del Estado, el diseño y ejecución de programas que tengan como finalidad de (sic) promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XII.- Plantear a la Secretaría y Dependencias Municipales de la Juventud en coordinación con la Secretaría de Saludo (sic) del Estado, el diseño y ejecución de programas intensivos de formación en materia de salud en general y en especial en salud reproductiva que tengan como finalidad orientar y prevenir enfermedades de todo tipo entre los jóvenes;
+VI.- Proponer al Instituto y Dependencias Municipales de la Juventud el que se gestionen espacios en medios electrónicos y escritos, para la divulgación de sus expresiones e ideas y así garantizar que se respete el derecho a la libre expresión de los jóvenes fomentando al mismo tiempo el respeto hacia otras formas de pensar;
 
-XIII.- Sugerir a la Secretaría y Dependencias Municipales de la Juventud para que se coordinen con el Instituto de Capacitación para el Trabajo en el Estado de Aguascalientes, con la finalidad de difundir de manera más amplia y en especial al sector de la juventud los programas que dicho instituto brinda para que los jóvenes encuentren oportunidades laborales;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XIV.- Fungir como órgano de consulta de la Secretaría y Dependencias Municipales de la Juventud;
+VII.- Sugerir al Instituto y Dependencias Municipales de la juventud la celebración de convenios de colaboración y atención preferente con las dependencias encargadas de atender los casos previstos en el Artículo 7° de la presente Ley;
 
-XV. Vigilar que los recursos asignados para el apoyo de los jóvenes, sean ejercidos con honradez, oportunidad, trasparencia (sic) y equidad;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XVI.- Elaborar sus (sic) reglamento para organización, funcionamiento y cumplimento de su atribuciones; y
+VIII.- Plantear al Instituto y Dependencias Municipales de la juventud que colaboren con las autoridades encargadas de la cultura y las artes en el Estado, con el objeto de incorporar a los jóvenes a las actividades y programas que llevan a cabo mediante la suscripción de acuerdos;
 
-XVI (SIC).- Las demás que señalen otras disposiciones legales o reglamentarias.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+IX.- Proponer al Instituto y Dependencias municipales de la Juventud, la suscripción de convenios con el sector público y privado, encargados de colocar créditos a los emprendedores, con el objeto de hacer llegar oportunidades de auto empleo a los jóvenes;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+X.- Sugerir al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Medio Ambiente del Estado, el diseño y ejecución de programas que tengan como finalidad de promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XI.- Proponer al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, el diseño y ejecución de programas que tengan como finalidad el promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XII.- Plantear al Instituto y Dependencias Municipales de la Juventud en coordinación con la Secretaría de Salud del Estado, el diseño y ejecución de programas intensivos de formación en materia de salud en general y en especial en salud reproductiva que tengan como finalidad orientar y prevenir enfermedades de todo tipo entre los jóvenes;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XIII.- Sugerir al Instituto y Dependencias Municipales de la Juventud para que se coordinen con el Instituto de Capacitación para el Trabajo en el Estado de Aguascalientes, con la finalidad de difundir de manera más amplia y en especial al sector de la juventud los programas que dicho instituto brinda para que los jóvenes encuentren oportunidades laborales;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XIV.- Fungir como órgano de consulta del Instituto y Dependencias Municipales de la Juventud;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE ABRIL DE 2018)</small>
+
+XV.- Vigilar que los recursos asignados para el apoyo de los jóvenes, sean ejercidos con honradez, oportunidad, trasparencia (sic) y equidad;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XVI.- Elaborar su reglamento para la organización, funcionamiento y cumplimento de sus atribuciones; y
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XVII.- Las demás que señalen otras disposiciones legales o reglamentarias.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -347,9 +397,13 @@ Para el cumplimiento de sus funciones, el Consejo podrá designar la instalació
 
 ### CAPÍTULO V. Del Poder Ejecutivo del Estado
 
-### CAPÍTULO VI. De la Secretaría de la Juventud
+### CAPÍTULO VI. Del Instituto Aguascalentense de la Juventud
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO VII. De los Ayuntamientos
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO VIII. De las Infracciones y Sanciones
 
@@ -365,6 +419,8 @@ El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no m
 
 Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
 
+P.O. 23 DE ABRIL DE 2018.
+
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley de la Juventud del Estado de Aguascalientes, para quedar en los siguientes términos:
@@ -372,3 +428,9 @@ Se aprueba la Ley de la Juventud del Estado de Aguascalientes, para quedar en lo
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 106.- SE REFORMA Y ADICIONA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273.- SE REFORMAN LOS ARTÍCULOS 3°, 5°, 8°, 9°A, 9°B, 9°C, LA DENOMINACIÓN DEL CAPÍTULO VI “DE LA SECRETARÍA DE LA JUVENTUD” PARA PASAR A SER “DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD” LOS ARTÍCULOS 11, 12 Y 13; SE ADICIONA EL ARTÍCULO 8° DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
