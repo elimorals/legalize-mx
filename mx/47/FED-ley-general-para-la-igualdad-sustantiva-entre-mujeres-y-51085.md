@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2016-03-24"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -135,7 +135,9 @@ III. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia nacional, y
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2018)</small>
+
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
 
 ###### Artículo 10.
 
@@ -255,13 +257,17 @@ IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su 
 
 X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
 
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2018)</small>
 
-XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2018)</small>
 
-XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Federal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Federal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2018)</small>
+
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -660,3 +666,9 @@ D.O.F. 24 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 40 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 9 Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
