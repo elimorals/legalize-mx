@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2017-12-18"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -85,11 +85,11 @@ XI. Implementar y promover instrumentos de acceso a la información, transparenc
 
 XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
 ###### Artículo 2°.
 
-La aplicación de la presente Ley Corresponde al Poder Ejecutivo del Estado por conducto de la Secretaría de Bienestar y Desarrollo Social, el Consejo Estatal de Evaluación de la Política de Desarrollo Social, la Comisión de Desarrollo Social, el Sistema Estatal de Desarrollo Social y a los Municipios en el ámbito de sus respectivas competencias de acuerdo con lo establecido por la Ley General de Desarrollo Social, así como las que les corresponden, de acuerdo a sus atribuciones, al Poder Legislativo.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social, el Consejo Estatal de Evaluación de la Política de Desarrollo Social, la Comisión de Desarrollo Social, al Sistema Estatal de Desarrollo Social y a los Municipios en el ámbito de sus respectivas competencias de acuerdo con lo establecido por la Ley General de Desarrollo Social, así como las que les corresponden, de acuerdo a sus atribuciones, al Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -135,9 +135,9 @@ IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el di
 
 Para efectos de la presente Ley, se consideran sujetos en la elaboración, ejecución, seguimiento y evaluación de la Política Estatal y Municipal de Desarrollo Social los siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-I. SECRETARÍA: La Secretaría de Bienestar y Desarrollo Social o su equivalente;
+I. SECRETARÍA: La Secretaría de Desarrollo Social, o su equivalente;
 
 II. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
@@ -593,9 +593,9 @@ Para el adecuado funcionamiento del Sistema Estatal, la Secretaría coordinará 
 
 Al Sistema Estatal además de la Secretaría se integrarán las siguientes dependencias del Poder Ejecutivo:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
-La Secretaría de Desarrollo Rural y Agroempresarial, la Secretaría de Finanzas, la Coordinación Estatal de Planeación y Proyectos, la Secretaría de Gestión Urbanística y Ordenamiento territorial, el Instituto de Servicios de Salud del Estado de Aguascalientes, el Instituto de Vivienda Social y Ordenamiento de la Propiedad, la Secretaría de Desarrollo Económico, la Secretaría de Infraestructura y Comunicaciones, el Instituto de Educación de Aguascalientes, la Secretaría del Medio Ambiente y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+La Secretaría de Desarrollo Rural y Agroempresarial, la Secretaría de Finanzas, la Coordinación General de Planeación y Proyectos, la Secretaría de Gestión Urbanística, Ordenamiento Territorial Registral y Catastral, el Instituto de Servicios de Salud del Estado de Aguascalientes, el Instituto de Vivienda Social y Ordenamiento de la Propiedad, la Secretaría de Desarrollo Económico, la Secretaría de Obras Públicas, el Instituto de Educación de Aguascalientes, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
 
 Al sistema podrán adherirse las dependencias, organismos o instituciones vinculadas al desarrollo social de la entidad.
 
@@ -649,7 +649,9 @@ c) El titular de la Secretaría de Finanzas;
 
 d) Los Alcaldes de cada municipio o en quien estos deleguen dicha función; y
 
-e) El titular de la Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+e) El titular de la Secretaría General de Gobierno;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -657,9 +659,13 @@ II. De forma temporal, cuando por un tema o asunto así lo requiera, se podrá i
 
 a) La Secretaría de Desarrollo Económico;
 
-b) La Secretaría de Gestión Urbanística y Ordenamiento Territorial;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
-c) La Coordinación Estatal de Planeación y Proyectos;
+b) La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+c) La Coordinación General de Planeación y Proyectos;
 
 d) La Secretaría de Desarrollo Rural y Agroempresarial;
 
@@ -675,13 +681,17 @@ i) El Instituto de Vivienda Social y Ordenamiento de la propiedad;
 
 j) El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
 
-k) La Secretaría de la Juventud de Aguascalientes;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
-l) El Instituto Aguascalentense de la Mujer;
+k) El Instituto Aguascalentense de la Juventud;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+l) El Instituto Aguascalentense de las Mujeres;
 
 m) Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; y
 
-n) El Instituto del Agua del Estado.
+n) (DEROGADO, P.O. 23 DE ABRIL DE 2018)
 
 III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
@@ -855,6 +865,10 @@ Será Presidente el que obtenga el mayor número de votos, Secretario el que obt
 
 Podrán ser removidos de su cargo por el voto de la mayoría de los integrantes restantes del Comité de Participación Ciudadana.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+Queda prohibido que los Comités de Participación Ciudadana estén conformados por ciudadanos que participen en la estructura o dirigencia de algún partido político, para tal efecto, es responsabilidad de la Secretaría, cerciorarse que los mismos no pertenecen a su estructura interior.
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 71-C.
@@ -965,13 +979,17 @@ I. Realizar actividades de autobeneficio o de beneficio mutuo con recursos públ
 
 II. No aplicar los recursos públicos que reciban a los fines para los que fueron autorizados;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-III. No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto; y
+III. No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-IV. Que un servidor público conozca plenamente de violaciones a la presente Ley y no presente la denuncia correspondiente.
+IV. Que un servidor público conozca plenamente de violaciones a la presente Ley y no presente la denuncia correspondiente; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+V. Integrar los Comités de Participación Ciudadana, con personas que participen en la estructura o dirigencia de cualquier partido político.
 
 T R A N S I T O R I O S
 
@@ -1086,3 +1104,15 @@ A partir de la designación del Secretario Técnico se contará con un plazo de 
 ###### ARTÍCULO SEXTO.
 
 El secretario Técnico del Consejo que se nombre por vez primera durará en su encargo hasta el 30 de diciembre del 2019.
+
+P.O. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 279.- SE REFORMAN LOS ARTÍCULOS 2°, 6°, 57, 61, 81; SE ADICIONAN LOS ARTÍCULOS 71 Y 81; SE DEROGA EL INCISO N) DE LA FRACCIÓN II DEL ARTÍCULO 61 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el Artículo Transitorio siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+La derogación del inciso "n)", Fracción II, del Artículo 61, iniciará su vigencia a partir del 1° de enero de 2019.
