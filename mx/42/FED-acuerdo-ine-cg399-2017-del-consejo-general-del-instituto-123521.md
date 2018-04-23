@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg399-2017-del-consejo-general-del-instituto-123521
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-09-28"
-last_updated: "2018-01-03"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123521&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-09-05"
 ---
 # ACUERDO INE/CG399/2017 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ESTRATEGIA DE CAPACITACION Y ASISTENCIA ELECTORAL PARA EL PROCESO ELECTORAL 2017-2018 Y SUS RESPECTIVOS ANEXOS
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 23 DE ABRIL DE 2018, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL PARA EL PROCESO ELECTORAL 2017-2018 Y SUS RESPECTIVOS ANEXOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 3 DE ENERO DE 2018, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Tercera Sección al Número 28 del Diario Oficial de la Federación, el jueves 28 de septiembre de 2017.
 
@@ -49,11 +49,7 @@ RINE: Reglamento Interior del Instituto Nacional Electoral
 
 ANTECEDENTES
 
-[...]
-
-CONSIDERANDO
-
-[...]
+[…]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 1°; 5, párrafo cuarto; 16; 35, fracción VIII; 41, párrafo segundo, Base V, Apartados A y B, inciso a), numerales 1 y 4, Transitorio Segundo, fracción II, inciso a), de la Constitución Política de los Estados Unidos Mexicanos; 1 párrafos 2 y 3; 4, párrafo 1; 9, párrafo 2; 30, párrafo 1, incisos a), d), e), f) y g); 32, párrafo 1, inciso a), fracciones I, IV y V; 33, párrafo 1; 35; 42, párrafo 3; 44, párrafo 1, incisos b), j) y jj); 48, párrafo 1, inciso f); 54, párrafo 1, incisos b) y f); 56, párrafo 1, incisos a) y c); 58, párrafo 1, incisos e), f) y g); 59, párrafo 1, incisos a) y b); 60, párrafo 1, incisos c) e i); 63, párrafo 1, incisos a) y b); 64, párrafo 1, inciso h); 73, párrafo 1, incisos a) al d); 74, párrafo 1, inciso g); 79, párrafo 1, incisos c), d) y l); 82, párrafos 1 y 2; 83; 147, párrafos 2 y 3; 215; 253, párrafo 1, 3, 4 y 5; 254; 255; 256; 257; 258; 284, párrafos 1 y 2; 289, párrafo 2; 290, párrafo 1; 292; 293; 294, párrafo 1; 299, párrafos 1 y 4; 303; y 396, párrafo 1, inciso c); Décimo, Décimo Primero y Décimo Quinto Transitorios de la Ley General de Instituciones y Procedimientos Electorales; 47, de la Ley Federal de Consulta Popular; 47, párrafo 1, incisos c), d), k) y n); 49, párrafo 1, incisos a) al f); 58, párrafo 2, incisos a) y b), del Reglamento Interior del Instituto Nacional Electoral; 1, numeral 5; 2 numeral 1; 110, numerales 2 y 3; 111, numeral 1; 112, numerales 1 y 3; 113, numeral 1; 114, numeral 1; 115, numeral 1; 116, numerales 1 y 3; 117, numeral 1; 118 numeral 1; 119, numerales 1, 2 y 3; 120, numeral 1; 326; 328; 329; 330; 332, numeral 1, inciso e); 441; 442 del Reglamento de Elecciones y en ejercicio de las atribuciones conferidas en la Ley General de Instituciones y Procedimientos Electorales, el Consejo General emite el siguiente:
 
@@ -187,9 +183,9 @@ g) No ser servidor público de confianza con mando superior, ni tener cargo de d
 
 h) Saber leer y escribir y no tener más de 70 años al día de la elección.
 
-El requisito de "No tener más de 70 años al día de la elección", establecido en el inciso h) del artículo 83 de la LGIPE, se exceptúa derivado de las disposiciones internacionales y nacionales, a favor del derecho a la no discriminación de cualquier índole. Así, las personas con 71 años cumplidos o más podrán participar como funcionarios de mesa directiva de casilla, siempre y cuando cumplan con el resto de los requisitos, por lo que dicha razón se exceptúa del listado de razones por las que un ciudadano no participa.
+El requisito de “No tener más de 70 años al día de la elección”, establecido en el inciso h) del artículo 83 de la LGIPE, se exceptúa derivado de las disposiciones internacionales y nacionales, a favor del derecho a la no discriminación de cualquier índole. Así, las personas con 71 años cumplidos o más podrán participar como funcionarios de mesa directiva de casilla, siempre y cuando cumplan con el resto de los requisitos, por lo que dicha razón se exceptúa del listado de razones por las que un ciudadano no participa.
 
-El requisito de "Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad", establecido en el inciso a) del artículo 83 de la LGIPE, se exceptúa derivado de la resolución de la Sala Superior del Tribunal Electoral SUP-JDC-894/2017 del 25 de octubre de 2017, en la cual consideró que es inconstitucional la porción normativa del artículo 83 apartado 1 inciso a), de la LEGIPE, relativa a que para la integración de MDC el ciudadano debe ser mexicano por nacimiento que no adquiera otra nacionalidad, por tanto, se determinó su inaplicación al caso.
+El requisito de “Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad”, establecido en el inciso a) del artículo 83 de la LGIPE, se exceptúa derivado de la resolución de la Sala Superior del Tribunal Electoral SUP-JDC-894/2017 del 25 de octubre de 2017, en la cual consideró que es inconstitucional la porción normativa del artículo 83 apartado 1 inciso a), de la LEGIPE, relativa a que para la integración de MDC el ciudadano debe ser mexicano por nacimiento que no adquiera otra nacionalidad, por tanto, se determinó su inaplicación al caso.
 
 [. . .]
 
@@ -204,3 +200,37 @@ Quinto.- Se instruye a la Unidad Técnica de Vinculación con los OPL para que i
 Sexto.- Notifíquese el presente Acuerdo a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas, para su conocimiento y debido cumplimiento y publíquese en el Diario Oficial de la Federación.
 
 Séptimo.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+D.O.F. 23 DE ABRIL DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA ADENDA AL MANUAL DE CONTRATACIÓN DE LAS Y LOS SUPERVISORES ELECTORALES Y CAPACITADORES-ASISTENTES ELECTORALES FEDERALES Y LOCALES, INCLUIDO EN LA ESTRATEGIA DE CAPACITACIÓN Y ASISTENCIA ELECTORAL 2017-2018 APROBADA EN EL ACUERDO INE/CG399/2017”.]</small>
+
+Primero.- Se aprueba la adenda al punto 7.2 del Manual de Contratación de las y los Supervisores Electorales y Capacitadores Asistentes Electorales Federales y Locales, agregando un apartado denominada “Uso de la Lista de Reserva de Supervisores y Capacitadores Asistentes Electorales Federales”.
+
+“Aquellas Juntas Distritales Ejecutivas que cuenten con Lista de Reserva para cubrir total o parcialmente las vacantes de Supervisores y Capacitadores Asistentes Electorales Locales, podrán hacer uso de ella, en los siguientes términos:
+
+Se ofertará a las y los aspirantes a SE y CAE en lista de reserva las correspondientes vacantes a SE y CAE local, indicando los montos de honorarios y gastos de campo establecidos por el OPL correspondiente, asimismo, que la contratación y todo tipo de relación administrativa será competencia del OPL, y se les proporcionará el díptico que se entrega a las y los aspirantes a SE y CAE local, a efecto de que conozcan las funciones y actividades a realizar específicas del cargo.
+
+En caso de aceptar participar como SE o CAE local, el o la aspirante en lista de reserva quedará exento del procedimiento de selección, toda vez que ya ha sido sujeto de evaluación integral.
+
+Asimismo, deberá manifestar por escrito su consentimiento de declinar su permanencia en la lista de reserva de SE y CAE.
+
+Las y los aspirantes a SE y CAE que se encuentren en lista de reserva y no acepten participar como SE y CAE locales, conservarán su prelación en la lista de reserva.
+
+Segundo.- Se aprueba la adenda al Punto 7.2 del Manual de Contratación de las y los Supervisores Electorales y Capacitadores Asistentes Electorales Federales y Locales, agregando un apartado denominado “Uso de convocatoria para Supervisor/a Electoral o Capacitador/a-Asistente Electoral o Supervisor/a Electoral Local o Capacitador/a-Asistente Electoral Local”.
+
+“A partir del 2 de abril todas las convocatorias que se emitan se realizarán con el modelo de convocatoria para Supervisor/a Electoral o Capacitador/a-Asistente Electoral o Supervisor/a Electoral Local o Capacitador/a-Asistente Electoral Local. La lista de reserva que se genere de las convocatorias genéricas servirá para cubrir vacantes federales y locales”.
+
+Tercero.- Se instruye a las Direcciones Ejecutivas de Capacitación Electoral y Educación Cívica y de Organización Electoral, que una vez concluido el procedimiento de reclutamiento y selección de las y los Supervisores Electorales y Capacitadores Asistentes Electorales Locales, presenten un informe sobre el reclutamiento y selección de dichas figuras a la Comisión de Capacitación y Organización Electoral.
+
+Cuarto.- Se instruye a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas, para que instrumenten lo conducente a fin de que, en su momento, las y los integrantes de los Consejos Locales y Distritales tengan pleno conocimiento de presente Acuerdo.
+
+Quinto.- Se instruye a la Unidad Técnica de Vinculación con los OPL para que instrumente lo conducente a fin de que notifique el presente Acuerdo para su conocimiento y debido cumplimiento a todas y todos los integrantes de los Consejos Generales de los OPL Electorales de las entidades que celebrarán elecciones locales para el Proceso Electoral 2017-2018.
+
+Sexto.- Notifíquese el presente Acuerdo a las y los Vocales Ejecutivos de las Juntas Locales y Distritales Ejecutivas, para su conocimiento y debido cumplimiento y publíquese en el Diario Oficial de la Federación.
+
+Séptimo.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+[…]
+
+Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-23-marzo-2018/
