@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2016-08-01"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -361,6 +361,10 @@ III. Prever las necesidades presupuestarias para la ejecución de los programas 
 
 IV. Vigilar las buenas prácticas de la Administración Pública Municipal de igualdad y no discriminación, en concordancia con los principios rectores de la ley;
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+IV Bis. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género.
+
 V. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
 
 El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas; y
@@ -656,3 +660,9 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 682 QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO"]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 427 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y LA LEY ORGÁNICA MUNICIPAL, AMBAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
