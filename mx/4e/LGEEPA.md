@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2018-01-19"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -131,6 +131,12 @@ XI. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadore
 XII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
 XIII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2018)</small>
+
+XIII Bis.- Ecosistemas costeros: Las playas, las dunas costeras, los acantilados, franjas intermareales; los humedales costeros tales como las lagunas interdunarias, las lagunas costeras, los esteros, las marismas, los pantanos, las ciénegas, los manglares, los petenes, los oasis, los cenotes, los pastizales, los palmares y las selvas inundables; los arrecifes de coral; los ecosistemas formados por comunidades de macroalgas y de pastos marinos, fondos marinos o bentos y las costas rocosas. Estos se caracterizan porque se localizan en la zona costera pudiendo comprender porciones marinas, acuáticas y/o terrestres; que abarcan en el mar a partir de una profundidad de menos de 200 metros, hasta 100 km tierra adentro o 50 m de elevación.
+
+La Secretaría, en colaboración con las entidades federativas y los municipios, determinará la zona costera nacional tomando en consideración las interacciones fisiográficas y biológicas particulares de la zona que se trate y la publicará en el Diario Oficial de la Federación mediante Acuerdo.
 
 XIV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
@@ -430,7 +436,9 @@ f) Cambios de uso de suelo de áreas forestales, así como en selvas y zonas ár
 
 g) Desarrollos inmobiliarios que afecten los ecosistemas costeros,
 
-h) Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales, e
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2018)</small>
+
+h) Obras y actividades en humedales, ecosistemas costeros, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales, e
 
 i) Obras en áreas naturales protegidas de competencia de la Federación y actividades que por su naturaleza puedan causar desequilibrios ecológicos graves; así como actividades que pongan en riesgo el ecosistema;
 
@@ -938,9 +946,9 @@ VIII. Parques industriales donde se prevea la realización de actividades altame
 
 IX. Desarrollos inmobiliarios que afecten los ecosistemas costeros;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2018)</small>
 
-X. Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales;
+X.- Obras y actividades en humedales, ecosistemas costeros, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales. En el caso de actividades pesqueras, acuícolas o agropecuarias se estará a lo dispuesto por la fracción XII de este artículo;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -3987,3 +3995,9 @@ D.O.F. 19 DE ENERO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las alcaldías y sus concejos se entenderán conferidas a la delegación política de la demarcación territorial.
+
+D.O.F. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
